@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 import re
 import sys
+from typing import Optional
 
 from bs4 import BeautifulSoup
 from markdownify import MarkdownConverter
@@ -46,26 +47,35 @@ class MagicWizardsConverterSingle:
         else:
             self.image_prefix = None
 
-    def image_exists(self, img_src: str) -> bool:
-        r = requests.head(img_src, allow_redirects=True)
-        return r.status_code == 200
+    def image_url(self, img_src: str) -> Optional[str]:
+        try:
+            r = requests.head(img_src, allow_redirects=True, timeout=20)
+            if r.status_code == 200:
+                return r.url
+        except:
+            log.debug("Failed to find URL")
 
+        return None
 
     def verified_image(self, img_src: str) -> str:
         # Best effort to get a working image.
-
         log.debug("Checking image: %s", img_src)
-        if self.image_exists(img_src):
-            return img_src
+        checked_img_src = self.image_url(img_src)
+        if checked_img_src:
+            log.debug("Using image %s", checked_img_src)
+            return checked_img_src
 
         # Image doesn't exist. Try checking the Wayback image.
+        wayback_url = f"{self.image_prefix}/{img_src}"
+        log.debug("Not found; checking wayback image: %s", wayback_url)
         if self.image_prefix:
-            wayback_img = f"{self.image_prefix}/{img_src}"
-            if self.image_exists(wayback_img):
+            wayback_img = self.image_url(wayback_url)
+            if wayback_img:
                 log.debug("Using wayback image %s", wayback_img)
                 return wayback_img
 
         # If in doubt, just return the original source.
+        log.debug("Not found; using original %s", img_src)
         return img_src
 
     # Converts HTML content into Markdown content
