@@ -18,7 +18,7 @@ Hanweir Chronicle Recap
 
 
 
-![](http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/authorpic_alisonluhrs.jpg?itok=seqZbY8o)
+![](https://web.archive.org/web/20160602165244im_/http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/authorpic_alisonluhrs.jpg?itok=seqZbY8o)
 By Alison Luhrs
 
 
