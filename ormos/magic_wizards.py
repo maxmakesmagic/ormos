@@ -38,6 +38,14 @@ def process_html(path: Path) -> str:
         for ds in main_content.find_all("div", class_=div_class):
             ds.decompose()
 
+    # Convert iframes to hyperlinks
+    for iframe in main_content.find_all("iframe"):
+        new_a = soup.new_tag("a")
+        new_a.attrs["href"] = iframe.attrs["src"]
+        new_a.string = iframe.attrs["src"]
+
+        iframe.replace_with(new_a)
+
     # Convert the remainder into Markdown
     mc = MarkdownConverter().convert_soup(main_content)
 

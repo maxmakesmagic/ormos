@@ -143,6 +143,8 @@ March 8:
 ========
 
 
+<https://www.youtube.com/embed/J2rlb917s9o>
+
 
 A lone vampire was spotted outside the wall last evening. She called to be let inside, but guards warned her to turn around lest she face impalement. The vampire was disheveled and travel-worn—not rabid as others have been, but clearly losing grip on maintaining her composure. She stood still in the cold rain awaiting entrance for quite some time. When she offered to trade her jewelry over the wall out of desperate thirst, it became clear she was not accustomed to the life of more nomadic vampires.
 
@@ -352,6 +354,8 @@ Magnifying glass (singular)
 April 1:
 ========
 
+
+<https://www.youtube.com/embed/qInq33gqhfk>
 
 
 Rem Karolus,
