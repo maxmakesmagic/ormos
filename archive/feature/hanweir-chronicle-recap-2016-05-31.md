@@ -18,7 +18,7 @@ Hanweir Chronicle Recap
 
 
 
-![](https://web.archive.org/web/20160602165244im_/http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/authorpic_alisonluhrs.jpg?itok=seqZbY8o)
+![](https://web.archive.org/web/20160427160253im_/http://magic.wizards.com/sites/mtg/files/styles/auth_small/public/images/person/authorpic_alisonluhrs.jpg?itok=seqZbY8o)
 By Alison Luhrs
 
 
@@ -75,13 +75,13 @@ March 2:
 ========
 
 
-![](http://media.wizards.com/2016/images/daily/FEAT20160531_box.jpg)
+![](https://media.wizards.com/2016/images/daily/FEAT20160531_box.jpg)
 
 
-![](http://media.wizards.com/2016/images/daily/FEAT20160531_vase.jpg) ![](http://media.wizards.com/2016/images/daily/FEAT20160531_platter.jpg)
+![](https://media.wizards.com/2016/images/daily/FEAT20160531_vase.jpg) ![](https://media.wizards.com/2016/images/daily/FEAT20160531_platter.jpg)
 
 
-![](http://media.wizards.com/2016/images/daily/FEAT20160531_watch.jpg) ![](http://media.wizards.com/2016/images/daily/FEAT20160531_candlestick.jpg)
+![](https://media.wizards.com/2016/images/daily/FEAT20160531_watch.jpg) ![](https://media.wizards.com/2016/images/daily/FEAT20160531_candlestick.jpg)
 
 
 [Note attached](http://hanweirchronicle.com/post/140334857281/deben-ser-fundidos-el-armero-necesita-plata-para) reads "For the smith —Oliver Hayfield"
@@ -95,7 +95,7 @@ March 3:
 
 
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_ulAcZQ03KY.jpg)Clue Token | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&output=spoiler&method=visual&artist=+%5B%22Noah%20Bradley%22)
+![](https://media.wizards.com/2016/images/daily/c4rd4r7_ulAcZQ03KY.jpg)Clue Token | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&output=spoiler&method=visual&artist=+%5B%22Noah%20Bradley%22)
 [Irregular Activity Continues Outside the Walls of Hanweir](http://hanweirchronicle.com/post/140401338661)
 
 
@@ -250,7 +250,7 @@ March 24:
 =========
 
 
-![](http://media.wizards.com/2016/images/daily/FEAT20160531_pears.jpg)
+![](https://media.wizards.com/2016/images/daily/FEAT20160531_pears.jpg)
 
 
 I write [this entry](https://chandra-nalaar.tumblr.com/post/141608948661) from atop the Hanweir wall. I find it amusing and self-congratulatory that not only did my village secede from Videns Parish and Gavony, but we felt arrogant enough to name our (one-town) province Hanweir. I reside now in Hanweir, within the province of Hanweir. If we used a currency, would it be called the Hanweir? Are our individual streets to be renamed Hanweir? Am **I** Hanweir??
