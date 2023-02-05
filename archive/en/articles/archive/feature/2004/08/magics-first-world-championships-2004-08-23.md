@@ -1,0 +1,79 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20150529201944/http://magic.wizards.com/en/articles/archive/feature/magics-first-world-championships-2004-08-23)
+
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magics-first-world-championships-2004-08-23"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150529201944id_/http://magic.wizards.com/en/articles/archive/feature/magics-first-world-championships-2004-08-23"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-29 20:19:44+00:00"
+[_metadata_:publish_date]:- "2004-08-23"
+[_metadata_:description]:- "Ten years ago, the first Magic: the Gathering World Championship was held at GenCon '94. It was the biggest Magic tournament yet: 512 people filled a hall and played Single-Elimination for three days until a single player stood above them all: Zak Dolan became the first World Champion of Magic."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+---
+
+
+Magic's First World Championships
+=================================
+
+
+
+ Posted in **Feature**
+ on August 23, 2004 
+
+
+
+
+
+
+![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+By Monty Ashley
+
+
+
+
+
+
+
+
+
+
+
+Ten years ago, the first *Magic: the Gathering* World Championship was held at GenCon '94. It was the biggest *Magic* tournament yet: 512 people filled a hall and played Single-Elimination for three days until a single player stood above them all: Zak Dolan became the first World Champion of *Magic*.
+
+
+In honor of the tenth anniversary of this historic tournament, we've put together a collection of articles from the time: from *Duelist #3* we've got an article by Mark Rosewater from before he was a Wizards of the Coast employee, when he was a wide-eyed *Magic*player, roaming the halls of his first Gen Con. Mark describes what it was like back when *The Dark* was new and it seemed like every company at the convention was launching a new Trading Card Game to compete with *Magic*. He also covers his own experience playing in the main event (Yes! Mark Rosewater played in the first Worlds!) and watching the finals play out.
+
+
+![](https://media.wizards.com/legacy/global/images/mtgcom_feature_226_pic1_en.jpg)
+We've also got pure tournament coverage from both *Duelist #3* and the *Duelist Companion* (which was the Official Newsletter of the Duelists' Convocation, later the Duelists' Convocation International, later just the DCI). And that's not all! At the end of the *Duelist Companion* coverage, which is already an extremely detailed recap of the final match, it says "If you would like a complete transcript of the World Championship (what each player had in his hand each turn, what cards they drew, etc.), please send a written request to the Duelists' Convocation." You'll be glad to know that we've saved you the trouble: by scouring a number of archives (including people's personal stashes), we've found one of the only remaining copies of the card-by-card recap of the finals, and we're presenting it here for you.
+
+
+Not satisfied yet? Perhaps you'd like to read Zak Dolan's own article from *Duelist #3* where he describes how he developed his playing style and where his Worlds deck came from. It's a valuable look at how *Magic* strategy has grown since the game was only a year old.
+
+
+And we've also got pictures! So many pictures. In fact, these are pictures that have mostly gone completely unpublished in the last ten years; they've been floating around the Wizards of the Coast offices from person to person, and we're finally revealing them to you now. Interestingly, it turns out that these pictures were taken by Didier Monin, although he didn't know until years later that copies of them were at the office. He only found out years later when he became the Data Systems Manager for Organized Play here at Wizards of the Coast!
+
+
+So here we go on our trip into the past. Pay close attention to the way Zak Dolan loses Game 1 to Bertrand Lestreé; it's probably the best example ever of choosing the wrong spell to counter.
+
+
+* [Photos from the first Worlds](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/226captions)
+  
+* [An M:TGer at GenCon by Mark Rosewater](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/226gencon)
+  
+* [Convocation News: World Championships](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/226contenders)
+  
+* [On the Road to the World Title by Zak Dolan](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/226zakarticle)
+  
+* [Duelists' Companion Recap](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/226companionrecap)
+  
+* [Card-by-card Recap](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/226complete)
+  
+* [Zak Dolan's Worlds Diary](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/226zakdiary)
+  
+  
+
+
+
+
+
+

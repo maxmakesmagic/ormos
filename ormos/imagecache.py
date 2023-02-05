@@ -125,14 +125,24 @@ class ImageCache:
     def wayback_failure(self, failure_url: str, identifier: str = "") -> Optional[str]:
         urls_to_try = [failure_url]
 
-        if "archive.wizards.com/" in failure_url:
-            # Replace archive.wizards.com with plain wizards.com
-            urls_to_try.append(failure_url.replace("archive.wizards.com", "wizards.com"))
+        # Try replacing subdomains with sensible guesses
+        for search, replacement in {
+           "archive.wizards.com": "wizards.com",
+           "staging.wizards.com": "wizards.com",
+           "edit.magic.wizards.com": "magic.wizards.com",
+           "www.wizards.comhttp//www.wizards.com": "www.wizards.com"
+        }.items():
+            if f"{search}/" in failure_url:
+                urls_to_try.append(failure_url.replace(search, replacement))
 
         # Some URLs have URL-encoded characters at the end by mistake. Try fixing that.
         urldecoded = unquote(failure_url).strip()
         if urldecoded not in urls_to_try:
             urls_to_try.append(urldecoded)
+
+        # Some URLs have a file extension that's a little wrong.
+        if failure_url.endswith(".pngg"):
+            urls_to_try.append(failure_url.replace(".pngg", ".png"))
 
         for url in urls_to_try:
             # find the URL in wayback
