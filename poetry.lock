@@ -158,6 +158,34 @@ beautifulsoup4 = ">=4.9,<5"
 six = ">=1.15,<2"
 
 [[package]]
+name = "pony"
+version = "0.7.16"
+description = "Pony Object-Relational Mapper"
+category = "main"
+optional = false
+python-versions = "*"
+files = [
+    {file = "pony-0.7.16-py3-none-any.whl", hash = "sha256:608a1c1d662983bad2590e650f2bbc1cd6ed48558894ad8f50da4739ff98f614"},
+    {file = "pony-0.7.16.tar.gz", hash = "sha256:5f45fc67587f4520c560a57148cc573b097d42f82f5cb200d72c957b5708198d"},
+]
+
+[[package]]
+name = "pymysql"
+version = "1.0.2"
+description = "Pure Python MySQL Driver"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "PyMySQL-1.0.2-py3-none-any.whl", hash = "sha256:41fc3a0c5013d5f039639442321185532e3e2c8924687abe6537de157d403641"},
+    {file = "PyMySQL-1.0.2.tar.gz", hash = "sha256:816927a350f38d56072aeca5dfb10221fe1dc653745853d30a216637f5d7ad36"},
+]
+
+[package.extras]
+ed25519 = ["PyNaCl (>=1.4.0)"]
+rsa = ["cryptography"]
+
+[[package]]
 name = "requests"
 version = "2.28.2"
 description = "Python HTTP for Humans."
@@ -220,7 +248,23 @@ brotli = ["brotli (>=1.0.9)", "brotlicffi (>=0.8.0)", "brotlipy (>=0.6.0)"]
 secure = ["certifi", "cryptography (>=1.3.4)", "idna (>=2.0.0)", "ipaddress", "pyOpenSSL (>=0.14)", "urllib3-secure-extra"]
 socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 
+[[package]]
+name = "wayback"
+version = "0.4.0"
+description = "Python API to Internet Archive Wayback Machine"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "wayback-0.4.0-py3-none-any.whl", hash = "sha256:c0adc9e0edf0220fe123d6e347e1a404844886f4d36624015bd3c9e2f5ba8941"},
+    {file = "wayback-0.4.0.tar.gz", hash = "sha256:9a73da7c7dc6050a2cae42c6935c91d3552804fbecc64e6183ba79921de05891"},
+]
+
+[package.dependencies]
+requests = "*"
+urllib3 = "*"
+
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "ad226fc7f511c20cbbab55647ab1e1d269b5ba6b05765cb2e574860e7ba2d67d"
+content-hash = "6738f54b1111d7e77390c0e7dcba6dd6b2c908cf9205f3d40e0218aaf6edb700"

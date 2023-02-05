@@ -7,18 +7,26 @@ import os
 from pathlib import Path
 import re
 import sys
-from typing import Optional
+from typing import List, Optional
+from urllib.parse import urlparse, unquote
 
 from bs4 import BeautifulSoup
 from markdownify import MarkdownConverter
+from pony import orm
 import requests
+from requests.adapters import HTTPAdapter, Retry
+
+from ormos.imagecache import db, ImageUrl, ImageCache
 
 log = logging.getLogger(__name__)
 
 
 class MagicWizardsConverterSingle:
-    def __init__(self, path: Path):
+    def __init__(self, path: Path, identifier: str, image_cache: Optional[ImageCache] = None):
         self.path = path
+        self.identifier = identifier
+        self.cache = {}
+        self.image_cache = image_cache if image_cache else ImageCache()
 
         # Within this path there should be two files:
         # - an HTML file containing the content
@@ -38,54 +46,55 @@ class MagicWizardsConverterSingle:
             wayback_data = json.load(f)
         self.url = wayback_data["record"]["url"]
         self.raw_url = wayback_data["record"]["raw_url"]
+        self.view_url = wayback_data["record"]["view_url"]
+
+        # Start a metadata dictionary, which can be added to.
+        self.metadata = {
+            "wayback_url": self.url,
+            "wayback_raw_url": self.raw_url,
+            "wayback_capture_timestamp": wayback_data["record"]["time"]
+        }
 
         # Calculate the wayback prefix for images
         m = re.match(r'^(https://web.archive.org/web/[^/]+)', wayback_data["record"]["view_url"])
         if m:
             self.image_prefix = f"{m.group(1)}im_"
-            log.debug("Wayback prefix is %s", self.image_prefix)
+            log.debug("[%s] Wayback prefix is %s", self.identifier, self.image_prefix)
         else:
             self.image_prefix = None
 
-    def image_url(self, img_src: str) -> Optional[str]:
-        try:
-            r = requests.head(img_src, allow_redirects=True, timeout=20)
-            if r.status_code == 200:
-                return r.url
-        except:
-            log.debug("Failed to find URL")
+        # Calculate the archive path
+        self.archive_path = self.generate_path(self.url)
 
-        return None
-
-    def verified_image(self, img_src: str) -> str:
-        # Best effort to get a working image.
-        log.debug("Checking image: %s", img_src)
-        checked_img_src = self.image_url(img_src)
-        if checked_img_src:
-            log.debug("Using image %s", checked_img_src)
-            return checked_img_src
-
-        # Image doesn't exist. Try checking the Wayback image.
-        wayback_url = f"{self.image_prefix}/{img_src}"
-        log.debug("Not found; checking wayback image: %s", wayback_url)
-        if self.image_prefix:
-            wayback_img = self.image_url(wayback_url)
-            if wayback_img:
-                log.debug("Using wayback image %s", wayback_img)
-                return wayback_img
-
-        # If in doubt, just return the original source.
-        log.debug("Not found; using original %s", img_src)
-        return img_src
 
     # Converts HTML content into Markdown content
-    def process_html(self, path: Path) -> str:
-        log.info("Processing HTML path: %s", path)
+    def process_html(self, path: Path) -> Optional[str]:
+        log.info("[%s] Processing HTML path: %s", self.identifier, path)
         with open(path, "rb") as f:
             soup = BeautifulSoup(f, "html.parser")
 
-        # The article content starts in <div id="main-content">
-        main_content = soup.find(id="main-content")
+        # Store off some metadata if it exists.
+        for tag in soup.find_all("meta"):
+            name = tag.get("name", None)
+            if name in ["generator", "description"]:
+                self.metadata[name] = tag.get("content", "")
+
+        # Content can be in one of several places.
+        #
+        # <div id="main-content">
+        # <div id="main">
+        main_content = soup.find("div", id="main-content")
+        if not main_content:
+            main_content = soup.find("div", id="main")
+
+        # Check the main content again. If it's not present this is probably not an article.
+        if not main_content:
+            if soup.find("article"):
+                raise Exception("Found an <article> not inside content")
+
+            # Assume not an article. Check later.
+            log.error("[%s] Not an article", self.identifier)
+            return None
 
         # Remove content that isn't necessary
         #
@@ -97,25 +106,38 @@ class MagicWizardsConverterSingle:
         for p_class in ["links"]:
             for p in main_content.find_all("p", class_=p_class):
                 p.decompose()
+        for s_class in ["links"]:
+            for s in main_content.find_all("span", class_=s_class):
+                s.decompose()
+
+        # Remove in-body styles and scripts
+        for tagtype in ["style", "script"]:
+            for tag in main_content.find_all(tagtype):
+                tag.decompose()
 
         # Remove sharing links and the article footer
-        for div_class in ["sharing", "article-footer"]:
+        # Also remove sample hands
+        for div_class in ["sharing", "article-footer", "data-sample-hand-cards", "toggle-samplehand"]:
             for ds in main_content.find_all("div", class_=div_class):
                 ds.decompose()
 
         # Convert iframes to hyperlinks
         for iframe in main_content.find_all("iframe"):
-            new_a = soup.new_tag("a")
-            new_a.attrs["href"] = iframe.attrs["src"]
-            new_a.string = iframe.attrs["src"]
-
-            iframe.replace_with(new_a)
+            if "src" in iframe.attrs:
+                new_a = soup.new_tag("a")
+                new_a.attrs["href"] = iframe.attrs["src"]
+                new_a.string = iframe.attrs["src"]
+                iframe.replace_with(new_a)
 
         # Verify that any images exist; and if they don't, then
         # try and replace them with a Wayback URL.
         for img in main_content.find_all("img"):
-            new_src = self.verified_image(img.attrs["src"])
-            img.attrs["src"] = new_src
+            if "src" in img.attrs:
+                new_src = self.image_cache.verified_image(img.attrs["src"], self.identifier, self.image_prefix)
+                img.attrs["src"] = new_src
+            else:
+                # Image is weird. One example seen: <img style="magic">
+                img.decompose()
 
         # Convert the remainder into Markdown
         mc = MarkdownConverter().convert_soup(main_content)
@@ -126,48 +148,110 @@ class MagicWizardsConverterSingle:
 
     # Generates a path for this content in the archive
     def generate_path(self, url: str) -> Path:
-        m = re.match(r'^http[s]?://magic.wizards.com/en/articles/archive/(.*)$', url)
-        if m:
-            url_path = f"{m.group(1)}.md"
-            path = Path("archive", url_path)
-            log.debug("Generated path: %s", path)
-            parent = path.parent
-            os.makedirs(parent, exist_ok=True)
-            return path
+        parts = urlparse(url)
+        log.debug("[%s] URL parts: %s", self.identifier, parts)
 
-        raise Exception(f"Cannot generate path from URL {url}")
+        # URL-unquote the path, and remove any slashes from the
+        # front or end.
+        noleading = unquote(parts.path.strip("/"))
+        path = Path("archive", f"{noleading}.md")
+        log.debug("[%s] Generated path: %s", self.identifier, path)
+        parent = path.parent
+        os.makedirs(parent, exist_ok=True)
+        return path
 
     def process(self):
+        # Check to see if the path already exists
+        if self.archive_path.exists():
+            log.warning("[%s] Path already exists: %s", self.identifier, self.archive_path)
+
         # Process the HTML into Markdown
         markdown = self.process_html(self.html_path)
+        if markdown:
+            # Write out the Markdown.
+            with open(self.archive_path, "w", encoding="utf-8") as f:
+                f.write("\n---\n")
+                # Write the link to the Wayback page
+                f.write(f"[Link to Wayback Machine]({self.view_url})\n\n")
 
-        # Add the wayback data as Markdown metadata at the start of the file
-        metadata = f'''
----
-[_metadata_:wayback_url]:- "{self.url}"
-[_metadata_:wayback_raw_url]:- "{self.raw_url}"
----
-'''
+                # Add the metadata as Markdown metadata at the start of the file
+                for key, value in self.metadata.items():
+                    escvalue = value.replace('"','`')
+                    f.write(f"[_metadata_:{key}]:- \"{escvalue}\"\n")
+                f.write("---\n")
+                f.write(markdown)
 
-        # Calculate the archive path
-        path = self.generate_path(self.url)
 
-        # Write out the Markdown.
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(metadata)
-            f.write(markdown)
+class MagicWizardsConverterMany:
+    SEARCH_TERM_BASE = "magic_wizards_com"
 
+    def __init__(self, path: Path, search_term: Optional[str] = None):
+        self.search_term = search_term if search_term else self.SEARCH_TERM_BASE
+        self.path = path
+        self.cache_path = Path(f"{self.search_term}.json")
+        self.image_cache = ImageCache()
+
+    def get_dirs(self) -> List[Path]:
+        if not self.cache_path.exists():
+            directories = []  # type: List[Path]
+            for (index, listing) in enumerate(self.path.iterdir()):
+                if self.search_term in listing.name:
+                    to_process = self.path / listing
+                    log.debug("[%d] Adding listing %s", index, to_process)
+                    directories.append(to_process)
+            with open(self.cache_path, "w", encoding="utf-8") as f:
+                json.dump([d.as_posix() for d in directories], f)
+        else:
+            with open(self.cache_path, "rb") as f:
+                directory_paths = json.load(f)
+                directories = [Path(d) for d in directory_paths]
+
+        return directories
+
+    def process(self):
+        log.info("Starting search")
+        directories_to_process = self.get_dirs()
+        total = len(directories_to_process)
+        log.info("Processing %d entries", total)
+
+        for (index, directory) in enumerate(directories_to_process):
+            log.debug("[%d/%d] Processing %s", index+1, total, directory)
+            # Just pick a directory out of the subfolder for now
+            for content_dir in directory.iterdir():
+                content_full = directory / content_dir
+                if content_full.is_dir():
+                    # At least one content directory! Process it.
+                    log.info("[%d/%d] Processing %s", index+1, total, content_full)
+                    single = MagicWizardsConverterSingle(content_full, f"{index+1}/{total}", image_cache=self.image_cache)
+                    single.process()
+                    break
 
 if __name__ == "__main__":
-    logging.basicConfig(
-        stream=sys.stdout, format="%(asctime)s %(message)s", level=logging.DEBUG
-    )
+    streamhandler = logging.StreamHandler(stream=sys.stdout)
+    streamhandler.setLevel(logging.INFO)
+    streamhandler.setFormatter(logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s"))
+    filehandler = logging.FileHandler(filename="magic_wizards.log", mode="w")
+    filehandler.setLevel(logging.DEBUG)
+    filehandler.setFormatter(logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s"))
+
+    root_logger = logging.getLogger()
+    root_logger.addHandler(streamhandler)
+    root_logger.addHandler(filehandler)
+    root_logger.setLevel(logging.DEBUG)
+
     logging.getLogger("requests").setLevel(logging.WARNING)
     logging.getLogger("urllib3").setLevel(logging.WARNING)
+
+    # Bind to the database
+    with open("database.json", "rb") as f:
+        creds = json.load(f)
+    db.bind(**creds)
+    db.generate_mapping(create_tables=True)
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--content", type=lambda p: Path(p).absolute(), help="Directory with all previously scraped content")
     parser.add_argument("--single", type=lambda p: Path(p).absolute(), help="Path to directory containing HTML+JSON files")
+    parser.add_argument("--searchterm", help="override default search term")
 
     args = parser.parse_args()
 
@@ -177,7 +261,9 @@ if __name__ == "__main__":
     if args.single and not args.single.exists():
         raise Exception("Single content folder does not exist!")
 
-
-    if args.single:
-        converter = MagicWizardsConverterSingle(args.single)
+    if args.content:
+        converter = MagicWizardsConverterMany(args.content, search_term=args.searchterm)
+        converter.process()
+    elif args.single:
+        converter = MagicWizardsConverterSingle(args.single, "1/1")
         converter.process()
