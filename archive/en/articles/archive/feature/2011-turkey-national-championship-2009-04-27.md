@@ -1,0 +1,99 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220518101215/https://magic.wizards.com/en/articles/archive/feature/2011-turkey-national-championship-2009-04-27)
+
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-turkey-national-championship-2009-04-27"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518101215id_/https://magic.wizards.com/en/articles/archive/feature/2011-turkey-national-championship-2009-04-27"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 10:12:15+00:00"
+[_metadata_:description]:- "Date: 18 September 2011Location: Pegasus Oyuncak, Ihlamurdere Caddesi Mısırlıbahce Sokak No:3/A BesiktasCity: IstanbulCountry: TurkeyThe Magic: the Gathering Turkey Championship is open to all citizens or permanent residents of Turkey.Contact informationEmail: Mavercik_2004@yahoo.comTelephone: (212) 327 2464Website: www.pegasusoyuncak.comFormatStandard and Booster Draft 3"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+---
+
+
+2011 Turkey National Championship
+=================================
+
+
+
+ Posted in **Feature**
+ on April 27, 2009 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+**Date**: 18 September 2011  
+**Location**: Pegasus Oyuncak, Ihlamurdere Caddesi Mısırlıbahce Sokak No:3/A Besiktas  
+**City**: Istanbul  
+**Country**: Turkey
+
+The **Magic: the Gathering** Turkey Championship is open to all citizens or permanent residents of Turkey.
+
+### Contact information
+
+**Email**: Mavercik\_2004@yahoo.com  
+**Telephone**: (212) 327 2464  
+**Website**: [www.pegasusoyuncak.com](http://www.pegasusoyuncak.com)
+
+### Format
+
+* Standard and Booster Draft
+* 3 ***Magic** 2012* booster packs will be used for drafting
+* Deck lists are required
+* Check the Magic Tournament Rules for Standard and Booster Draft format rules. The Magic Tournament Rules can be found  [here](http://www.wizards.com/wpn/Events/Rules.aspx?category=magic:thegathering)
+
+### Tournament Length
+
+* The number and format order of Swiss rounds will be based on attendance:
++ 64 players or less: 3 rounds Standard followed by 3 rounds Booster Draft
++ 65-128 players: 4 rounds Standard followed by 3 rounds Booster Draft
++ 129 or more players: 5 rounds Standard followed by 3 rounds Booster Draft
+
+* Top 8 single-elimination finals have no time limit; however, players are expected to play at a reasonable pace and finish their matches within 90 minutes.
+
+### Advancement
+
+* All players may participate in all Swiss rounds
+* After the final Swiss round, the top 8 players advance to the top 8 single-elimination finals
+
+### Top 8
+
+* Standard format
+* Top 8 matches will be best 2 of 3
+
+### Invitations
+
+* The winner will receive an invitation to the 2011 World Championships.
+
+### Notes
+
+* [Planeswalker Points](http://www.wizards.com/Magic/PlaneswalkerPoints/Information) multiplier 8x, 40K, REL Competitive
+* Players are required to use the same Standard deck for the Swiss rounds and the Top 8.
+* The **Magic: The Gathering** Tournament Rules and the **Magic: The Gathering** Infraction Procedure Guide are in effect for this event unless specifically overruled by information in this Format Document.
+
+**Entry fee:** 50 TL  
+**Start time:** 12.00
+
+**Prizes:**  
+ Booster Prizes to Top Finishers. Foil Promo Cards to all players. 
+
+
+
+
+
+
+

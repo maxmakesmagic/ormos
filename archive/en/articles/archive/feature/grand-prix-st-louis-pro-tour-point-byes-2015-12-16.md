@@ -1,0 +1,7765 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20171030091017/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-pro-tour-point-byes-2015-12-16)
+
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-pro-tour-point-byes-2015-12-16"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030091017id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-pro-tour-point-byes-2015-12-16"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 09:10:17+00:00"
+[_metadata_:description]:- "First Name    Last Name    Pro Points   Kazufumi    Abe    3   Urena    Abraham    1   Takatsugu    Adachi    1   Richard    Adelfin    2"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+---
+
+
+Grand Prix St. Louis Pro Tour Point Byes
+========================================
+
+
+
+ Posted in **Feature**
+ on December 16, 2015 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |  |
+| --- | --- | --- |
+| 
+ First Name 
+  | 
+ Last Name 
+  | 
+ Pro Points 
+  |
+| 
+ Kazufumi 
+  | 
+ Abe 
+  | 
+ 3 
+  |
+| 
+ Urena 
+  | 
+ Abraham 
+  | 
+ 1 
+  |
+| 
+ Takatsugu 
+  | 
+ Adachi 
+  | 
+ 1 
+  |
+| 
+ Richard 
+  | 
+ Adelfin 
+  | 
+ 2 
+  |
+| 
+ Jomar 
+  | 
+ Alcantara 
+  | 
+ 2 
+  |
+| 
+ Dave 
+  | 
+ Alexander 
+  | 
+ 3 
+  |
+| 
+ Nikki 
+  | 
+ Alfar 
+  | 
+ 1 
+  |
+| 
+ Maxwell 
+  | 
+ Alicea 
+  | 
+ 1 
+  |
+| 
+ Crispin 
+  | 
+ Allen 
+  | 
+ 2 
+  |
+| 
+ Dustin 
+  | 
+ Allen 
+  | 
+ 2 
+  |
+| 
+ Jerry 
+  | 
+ Allison 
+  | 
+ 3 
+  |
+| 
+ Laurent 
+  | 
+ Alquier 
+  | 
+ 1 
+  |
+| 
+ Rafael 
+  | 
+ Alvarenga 
+  | 
+ 9 
+  |
+| 
+ Omar 
+  | 
+ Alvarez Leoni 
+  | 
+ 2 
+  |
+| 
+ Vagos 
+  | 
+ Anagnostopoulos 
+  | 
+ 2 
+  |
+| 
+ Fabio Sousa 
+  | 
+ Ancelmo 
+  | 
+ 2 
+  |
+| 
+ Adam 
+  | 
+ Anderson 
+  | 
+ 2 
+  |
+| 
+ Alex 
+  | 
+ Anderson 
+  | 
+ 2 
+  |
+| 
+ Thomas 
+  | 
+ Andersson 
+  | 
+ 6 
+  |
+| 
+ Hideki 
+  | 
+ Ando 
+  | 
+ 1 
+  |
+| 
+ Mal 
+  | 
+ Andrews 
+  | 
+ 1 
+  |
+| 
+ Jun Yang 
+  | 
+ Ang 
+  | 
+ 2 
+  |
+| 
+ David 
+  | 
+ Antonini 
+  | 
+ 1 
+  |
+| 
+ Pablo 
+  | 
+ Anzorena 
+  | 
+ 5 
+  |
+| 
+ Marc 
+  | 
+ Aquino 
+  | 
+ 12 
+  |
+| 
+ Ivan 
+  | 
+ Aranzana 
+  | 
+ 2 
+  |
+| 
+ Francisco 
+  | 
+ Arevalos 
+  | 
+ 2 
+  |
+| 
+ Ryuichi 
+  | 
+ Arita 
+  | 
+ 1 
+  |
+| 
+ Saul 
+  | 
+ Arreola-Alcantara 
+  | 
+ 3 
+  |
+| 
+ Jason 
+  | 
+ Ascalon 
+  | 
+ 1 
+  |
+| 
+ Ken 
+  | 
+ Asp 
+  | 
+ 3 
+  |
+| 
+ Raul Abreu 
+  | 
+ Assis 
+  | 
+ 2 
+  |
+| 
+ Hon Ming 
+  | 
+ Au Yeung 
+  | 
+ 5 
+  |
+| 
+ Hon Ming 
+  | 
+ Au Yeung 
+  | 
+ 2 
+  |
+| 
+ Jeff 
+  | 
+ Auer 
+  | 
+ 2 
+  |
+| 
+ Yuen 
+  | 
+ Aw 
+  | 
+ 2 
+  |
+| 
+ Naruhiko 
+  | 
+ Aya 
+  | 
+ 1 
+  |
+| 
+ Julio Cesar 
+  | 
+ Ayala Vasquez 
+  | 
+ 2 
+  |
+| 
+ Pedro 
+  | 
+ Azevedo 
+  | 
+ 2 
+  |
+| 
+ Dirk 
+  | 
+ Baberowski 
+  | 
+ 33 
+  |
+| 
+ David 
+  | 
+ Bachmann 
+  | 
+ 11 
+  |
+| 
+ Kevin 
+  | 
+ Baehr 
+  | 
+ 4 
+  |
+| 
+ Rene 
+  | 
+ Baillargeon 
+  | 
+ 2 
+  |
+| 
+ Brandon 
+  | 
+ Baker 
+  | 
+ 1 
+  |
+| 
+ Justin 
+  | 
+ Baker 
+  | 
+ 3 
+  |
+| 
+ Fernando 
+  | 
+ Bandeira 
+  | 
+ 3 
+  |
+| 
+ Matthew 
+  | 
+ Baranowski 
+  | 
+ 6 
+  |
+| 
+ Andre 
+  | 
+ Barbosa 
+  | 
+ 2 
+  |
+| 
+ Sammy 
+  | 
+ Barkho 
+  | 
+ 3 
+  |
+| 
+ Carlos 
+  | 
+ Barrado 
+  | 
+ 12 
+  |
+| 
+ Guillermo 
+  | 
+ Barro 
+  | 
+ 1 
+  |
+| 
+ Aliocia 
+  | 
+ Barsiola 
+  | 
+ 2 
+  |
+| 
+ Christian 
+  | 
+ Basarowich 
+  | 
+ 2 
+  |
+| 
+ Frederico 
+  | 
+ Bastos 
+  | 
+ 5 
+  |
+| 
+ Sammy 
+  | 
+ Batarseh 
+  | 
+ 2 
+  |
+| 
+ Ondrej 
+  | 
+ Baudys 
+  | 
+ 2 
+  |
+| 
+ Ken 
+  | 
+ Bearl 
+  | 
+ 5 
+  |
+| 
+ Robert 
+  | 
+ Bede 
+  | 
+ 5 
+  |
+| 
+ William 
+  | 
+ Bedoucha 
+  | 
+ 4 
+  |
+| 
+ Andrew 
+  | 
+ Behlen 
+  | 
+ 2 
+  |
+| 
+ Markus 
+  | 
+ Bell 
+  | 
+ 2 
+  |
+| 
+ Chris 
+  | 
+ Benafel 
+  | 
+ 24 
+  |
+| 
+ Brian 
+  | 
+ Benedict 
+  | 
+ 3 
+  |
+| 
+ Kevin 
+  | 
+ Benefield 
+  | 
+ 3 
+  |
+| 
+ Lionel 
+  | 
+ Benezech 
+  | 
+ 5 
+  |
+| 
+ Dennis 
+  | 
+ Bentley 
+  | 
+ 9 
+  |
+| 
+ Jesus 
+  | 
+ Bernabeu 
+  | 
+ 8 
+  |
+| 
+ Michael 
+  | 
+ Bernat 
+  | 
+ 4 
+  |
+| 
+ Peter 
+  | 
+ Bero 
+  | 
+ 2 
+  |
+| 
+ Francesco 
+  | 
+ Berti 
+  | 
+ 2 
+  |
+| 
+ Daniel 
+  | 
+ Bethencourt 
+  | 
+ 2 
+  |
+| 
+ Alessandro 
+  | 
+ Betti 
+  | 
+ 2 
+  |
+| 
+ Manuel 
+  | 
+ Bevand 
+  | 
+ 6 
+  |
+| 
+ Jeremy 
+  | 
+ Bezroukoff 
+  | 
+ 3 
+  |
+| 
+ Matteo 
+  | 
+ Bianchi 
+  | 
+ 2 
+  |
+| 
+ Sturla 
+  | 
+ Bingen 
+  | 
+ 15 
+  |
+| 
+ Trevor 
+  | 
+ Blackwell 
+  | 
+ 35 
+  |
+| 
+ Marco 
+  | 
+ Blume 
+  | 
+ 3 
+  |
+| 
+ Alexander 
+  | 
+ Blumke 
+  | 
+ 3 
+  |
+| 
+ Daniel 
+  | 
+ Bock 
+  | 
+ 2 
+  |
+| 
+ Noah 
+  | 
+ Boeken 
+  | 
+ 5 
+  |
+| 
+ Cannon 
+  | 
+ Boling 
+  | 
+ 2 
+  |
+| 
+ Neil 
+  | 
+ Bond 
+  | 
+ 2 
+  |
+| 
+ Mauro 
+  | 
+ Bongiovanni 
+  | 
+ 2 
+  |
+| 
+ Nick 
+  | 
+ Bonham 
+  | 
+ 1 
+  |
+| 
+ Lennart 
+  | 
+ Borg 
+  | 
+ 4 
+  |
+| 
+ Messa 
+  | 
+ Bouchaib 
+  | 
+ 2 
+  |
+| 
+ Vincent 
+  | 
+ Boulanger 
+  | 
+ 2 
+  |
+| 
+ Yannick 
+  | 
+ Bouloc 
+  | 
+ 3 
+  |
+| 
+ Michael 
+  | 
+ Bower 
+  | 
+ 5 
+  |
+| 
+ Richard 
+  | 
+ Boyes 
+  | 
+ 6 
+  |
+| 
+ Jordan 
+  | 
+ Boyle 
+  | 
+ 2 
+  |
+| 
+ James 
+  | 
+ Bradley 
+  | 
+ 1 
+  |
+| 
+ Cory 
+  | 
+ Bradshaw 
+  | 
+ 3 
+  |
+| 
+ Mike 
+  | 
+ Bregoli 
+  | 
+ 20 
+  |
+| 
+ Aaron 
+  | 
+ Breider 
+  | 
+ 9 
+  |
+| 
+ Timothy 
+  | 
+ Brenner 
+  | 
+ 5 
+  |
+| 
+ Joey 
+  | 
+ Brewer 
+  | 
+ 2 
+  |
+| 
+ Josh 
+  | 
+ Brewer 
+  | 
+ 1 
+  |
+| 
+ Ernest 
+  | 
+ Brice 
+  | 
+ 1 
+  |
+| 
+ Jeremy 
+  | 
+ Brosius 
+  | 
+ 2 
+  |
+| 
+ Eoin 
+  | 
+ Brosnan 
+  | 
+ 2 
+  |
+| 
+ Jon 
+  | 
+ Brostoff 
+  | 
+ 2 
+  |
+| 
+ Jeremy 
+  | 
+ Brower 
+  | 
+ 8 
+  |
+| 
+ Jonathan 
+  | 
+ Brown 
+  | 
+ 2 
+  |
+| 
+ Damian 
+  | 
+ Brown-Santirso 
+  | 
+ 2 
+  |
+| 
+ Julian 
+  | 
+ Brown-Santirso 
+  | 
+ 2 
+  |
+| 
+ David 
+  | 
+ Brucker 
+  | 
+ 3 
+  |
+| 
+ David 
+  | 
+ Bryant 
+  | 
+ 2 
+  |
+| 
+ Doug 
+  | 
+ Bryant 
+  | 
+ 1 
+  |
+| 
+ Andrew 
+  | 
+ Buchanan 
+  | 
+ 5 
+  |
+| 
+ Kai 
+  | 
+ Budde 
+  | 
+ 63 
+  |
+| 
+ Randy 
+  | 
+ Buehler 
+  | 
+ 16 
+  |
+| 
+ Oystein 
+  | 
+ Buene 
+  | 
+ 3 
+  |
+| 
+ William 
+  | 
+ Buescher 
+  | 
+ 1 
+  |
+| 
+ Truc 
+  | 
+ Bui 
+  | 
+ 1 
+  |
+| 
+ Lucien 
+  | 
+ Bui-ngoc-hien 
+  | 
+ 2 
+  |
+| 
+ David 
+  | 
+ Bullock 
+  | 
+ 2 
+  |
+| 
+ Sean 
+  | 
+ Bulthaud 
+  | 
+ 6 
+  |
+| 
+ Kurt 
+  | 
+ Burgner 
+  | 
+ 37 
+  |
+| 
+ Seth 
+  | 
+ Burn 
+  | 
+ 3 
+  |
+| 
+ Michelle 
+  | 
+ Bush 
+  | 
+ 3 
+  |
+| 
+ Chris 
+  | 
+ Cade 
+  | 
+ 4 
+  |
+| 
+ Joseph 
+  | 
+ Cain 
+  | 
+ 4 
+  |
+| 
+ Gerald 
+  | 
+ Camangon 
+  | 
+ 3 
+  |
+| 
+ Stephen 
+  | 
+ Campbell 
+  | 
+ 2 
+  |
+| 
+ Eric 
+  | 
+ Campusano 
+  | 
+ 2 
+  |
+| 
+ Franck 
+  | 
+ Canu 
+  | 
+ 16 
+  |
+| 
+ Sandro 
+  | 
+ Cardoso 
+  | 
+ 1 
+  |
+| 
+ Joseph 
+  | 
+ Carey 
+  | 
+ 2 
+  |
+| 
+ Ryan 
+  | 
+ Carpenter 
+  | 
+ 7 
+  |
+| 
+ John 
+  | 
+ Carter 
+  | 
+ 2 
+  |
+| 
+ Diego 
+  | 
+ Carvalho Porto 
+  | 
+ 1 
+  |
+| 
+ Randall 
+  | 
+ Carvin 
+  | 
+ 2 
+  |
+| 
+ Matt 
+  | 
+ Cass 
+  | 
+ 14 
+  |
+| 
+ William 
+  | 
+ Cavaglieri 
+  | 
+ 10 
+  |
+| 
+ Riccardo 
+  | 
+ Cayallaro 
+  | 
+ 2 
+  |
+| 
+ Martin 
+  | 
+ Cedercrantz 
+  | 
+ 2 
+  |
+| 
+ Andrea 
+  | 
+ Cerasari 
+  | 
+ 1 
+  |
+| 
+ Erwin 
+  | 
+ Cetl 
+  | 
+ 3 
+  |
+| 
+ Philipp 
+  | 
+ Cetl 
+  | 
+ 2 
+  |
+| 
+ Piotr 
+  | 
+ Chabalowski 
+  | 
+ 2 
+  |
+| 
+ Royce 
+  | 
+ Chai 
+  | 
+ 8 
+  |
+| 
+ Thompson 
+  | 
+ Chan Hsien Lin 
+  | 
+ 1 
+  |
+| 
+ Ozzy 
+  | 
+ Chaney 
+  | 
+ 2 
+  |
+| 
+ Nicolas 
+  | 
+ Chanu 
+  | 
+ 1 
+  |
+| 
+ Gustavo 
+  | 
+ Chapela 
+  | 
+ 5 
+  |
+| 
+ Patrick 
+  | 
+ Chapin 
+  | 
+ 19 
+  |
+| 
+ Eric 
+  | 
+ Chapman 
+  | 
+ 2 
+  |
+| 
+ Phuong 
+  | 
+ Chau 
+  | 
+ 1 
+  |
+| 
+ Nick 
+  | 
+ Chen 
+  | 
+ 1 
+  |
+| 
+ Kevin 
+  | 
+ Cheng 
+  | 
+ 3 
+  |
+| 
+ Wai-Hong 
+  | 
+ Cheng 
+  | 
+ 3 
+  |
+| 
+ Luca 
+  | 
+ Chiera 
+  | 
+ 2 
+  |
+| 
+ Rick 
+  | 
+ Chong 
+  | 
+ 5 
+  |
+| 
+ Yu 
+  | 
+ Chuma 
+  | 
+ 1 
+  |
+| 
+ Marko 
+  | 
+ Cikos 
+  | 
+ 1 
+  |
+| 
+ Nate 
+  | 
+ Clarke 
+  | 
+ 5 
+  |
+| 
+ Mats 
+  | 
+ Clays 
+  | 
+ 2 
+  |
+| 
+ Daniel 
+  | 
+ Clegg 
+  | 
+ 20 
+  |
+| 
+ Gert 
+  | 
+ Coeckelbergh 
+  | 
+ 3 
+  |
+| 
+ Helder 
+  | 
+ Coelho 
+  | 
+ 6 
+  |
+| 
+ Dominique 
+  | 
+ Coene 
+  | 
+ 2 
+  |
+| 
+ Robb 
+  | 
+ Cole 
+  | 
+ 3 
+  |
+| 
+ Ryan 
+  | 
+ Cole 
+  | 
+ 2 
+  |
+| 
+ Lenny 
+  | 
+ Collins 
+  | 
+ 2 
+  |
+| 
+ Rebecca 
+  | 
+ Colosimo 
+  | 
+ 2 
+  |
+| 
+ Dane 
+  | 
+ Coltman 
+  | 
+ 10 
+  |
+| 
+ Alan 
+  | 
+ Comer 
+  | 
+ 37 
+  |
+| 
+ Joe 
+  | 
+ Connelly 
+  | 
+ 2 
+  |
+| 
+ Rodrigo 
+  | 
+ Constanza 
+  | 
+ 3 
+  |
+| 
+ Rodrigo Jose 
+  | 
+ Constanza 
+  | 
+ 3 
+  |
+| 
+ Cy 
+  | 
+ Cook 
+  | 
+ 5 
+  |
+| 
+ Pierre 
+  | 
+ Cools 
+  | 
+ 3 
+  |
+| 
+ Geddes 
+  | 
+ Cooper 
+  | 
+ 2 
+  |
+| 
+ Jesse 
+  | 
+ Cornelissen 
+  | 
+ 2 
+  |
+| 
+ Stijn 
+  | 
+ Cornelissen 
+  | 
+ 2 
+  |
+| 
+ Mauro 
+  | 
+ Corti 
+  | 
+ 2 
+  |
+| 
+ Daniel 
+  | 
+ Costa 
+  | 
+ 1 
+  |
+| 
+ Frederic 
+  | 
+ Courtois 
+  | 
+ 2 
+  |
+| 
+ Bruce 
+  | 
+ Cowley 
+  | 
+ 18 
+  |
+| 
+ Steven 
+  | 
+ Cowley 
+  | 
+ 10 
+  |
+| 
+ Dominic 
+  | 
+ Crapuchettes 
+  | 
+ 1 
+  |
+| 
+ Stuart 
+  | 
+ Cresswell 
+  | 
+ 3 
+  |
+| 
+ Luca 
+  | 
+ Cristino 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Croft 
+  | 
+ 1 
+  |
+| 
+ Joseph 
+  | 
+ Crosby 
+  | 
+ 4 
+  |
+| 
+ Massimo 
+  | 
+ Crotta 
+  | 
+ 2 
+  |
+| 
+ Paolo 
+  | 
+ Cruz 
+  | 
+ 5 
+  |
+| 
+ Reuel 
+  | 
+ Cuello 
+  | 
+ 1 
+  |
+| 
+ Nathan 
+  | 
+ Cullen 
+  | 
+ 2 
+  |
+| 
+ Raphael 
+  | 
+ Cunniff 
+  | 
+ 3 
+  |
+| 
+ Jeff 
+  | 
+ Cunningham 
+  | 
+ 9 
+  |
+| 
+ Ivan 
+  | 
+ Curina 
+  | 
+ 3 
+  |
+| 
+ Bryce 
+  | 
+ Currence 
+  | 
+ 4 
+  |
+| 
+ Xavier 
+  | 
+ Curto 
+  | 
+ 5 
+  |
+| 
+ Massimo 
+  | 
+ Cuter 
+  | 
+ 2 
+  |
+| 
+ Thomas 
+  | 
+ Dall Jensen 
+  | 
+ 5 
+  |
+| 
+ Marc 
+  | 
+ Dambrine 
+  | 
+ 2 
+  |
+| 
+ Stephane 
+  | 
+ Damizet 
+  | 
+ 2 
+  |
+| 
+ Peter 
+  | 
+ Danforth 
+  | 
+ 2 
+  |
+| 
+ Tim 
+  | 
+ Danziger 
+  | 
+ 2 
+  |
+| 
+ Federico 
+  | 
+ Dato 
+  | 
+ 7 
+  |
+| 
+ Brian 
+  | 
+ Davis 
+  | 
+ 27 
+  |
+| 
+ Christopher 
+  | 
+ Davis 
+  | 
+ 2 
+  |
+| 
+ Rui 
+  | 
+ de Aguiar 
+  | 
+ 2 
+  |
+| 
+ Jerome 
+  | 
+ De Cock 
+  | 
+ 1 
+  |
+| 
+ Massimo 
+  | 
+ De Matteo 
+  | 
+ 3 
+  |
+| 
+ Walter 
+  | 
+ de Oude 
+  | 
+ 2 
+  |
+| 
+ Chris 
+  | 
+ De Roche 
+  | 
+ 2 
+  |
+| 
+ Antonio 
+  | 
+ De Rosa 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Debard 
+  | 
+ 3 
+  |
+| 
+ Cedric 
+  | 
+ Defay 
+  | 
+ 2 
+  |
+| 
+ Loic 
+  | 
+ Degrou 
+  | 
+ 2 
+  |
+| 
+ Gustavo 
+  | 
+ Del Gerbo Actis 
+  | 
+ 3 
+  |
+| 
+ Derek 
+  | 
+ Del Rosario 
+  | 
+ 3 
+  |
+| 
+ Daniel 
+  | 
+ DeLorey 
+  | 
+ 2 
+  |
+| 
+ Mario 
+  | 
+ Delucis 
+  | 
+ 7 
+  |
+| 
+ Aldrin 
+  | 
+ Demavivas 
+  | 
+ 2 
+  |
+| 
+ Arthur 
+  | 
+ Demavivas 
+  | 
+ 1 
+  |
+| 
+ Christoph 
+  | 
+ Derdak 
+  | 
+ 5 
+  |
+| 
+ Pascal 
+  | 
+ Desjardins 
+  | 
+ 3 
+  |
+| 
+ Jose Roberto 
+  | 
+ Destefenni 
+  | 
+ 2 
+  |
+| 
+ Dave 
+  | 
+ Devenport 
+  | 
+ 10 
+  |
+| 
+ Luke 
+  | 
+ Devlin 
+  | 
+ 1 
+  |
+| 
+ Jean-Louis 
+  | 
+ D'Hondt 
+  | 
+ 19 
+  |
+| 
+ Daniel 
+  | 
+ Diamant 
+  | 
+ 3 
+  |
+| 
+ Alexander 
+  | 
+ Dick 
+  | 
+ 2 
+  |
+| 
+ Sven 
+  | 
+ Dijt 
+  | 
+ 3 
+  |
+| 
+ Loic 
+  | 
+ Dobrign 
+  | 
+ 3 
+  |
+| 
+ Tony 
+  | 
+ Dobson 
+  | 
+ 25 
+  |
+| 
+ Scott 
+  | 
+ Dodson 
+  | 
+ 4 
+  |
+| 
+ Michael 
+  | 
+ Doecke 
+  | 
+ 3 
+  |
+| 
+ Menno 
+  | 
+ Dolstra 
+  | 
+ 2 
+  |
+| 
+ Vincent 
+  | 
+ Domalaon 
+  | 
+ 1 
+  |
+| 
+ Alejandro 
+  | 
+ Dominguez 
+  | 
+ 14 
+  |
+| 
+ Chris 
+  | 
+ Donovan 
+  | 
+ 2 
+  |
+| 
+ Patrick 
+  | 
+ Donovan 
+  | 
+ 2 
+  |
+| 
+ Robert 
+  | 
+ Dougherty 
+  | 
+ 36 
+  |
+| 
+ Jim 
+  | 
+ Dowell 
+  | 
+ 2 
+  |
+| 
+ Tsuyoshi 
+  | 
+ Doyama 
+  | 
+ 12 
+  |
+| 
+ Michael 
+  | 
+ Dresel 
+  | 
+ 2 
+  |
+| 
+ Sebastian 
+  | 
+ Druzbicki 
+  | 
+ 2 
+  |
+| 
+ Sceadeau 
+  | 
+ D'Tela 
+  | 
+ 6 
+  |
+| 
+ Christiaan 
+  | 
+ du Plessis 
+  | 
+ 3 
+  |
+| 
+ Glenn 
+  | 
+ Dudley 
+  | 
+ 2 
+  |
+| 
+ Alexis 
+  | 
+ Dumay 
+  | 
+ 3 
+  |
+| 
+ Matthew 
+  | 
+ Duncan 
+  | 
+ 2 
+  |
+| 
+ Kory 
+  | 
+ Dunham 
+  | 
+ 4 
+  |
+| 
+ Jody 
+  | 
+ Dunville 
+  | 
+ 2 
+  |
+| 
+ Miguel 
+  | 
+ Durco 
+  | 
+ 1 
+  |
+| 
+ Craig 
+  | 
+ DuShane 
+  | 
+ 2 
+  |
+| 
+ Florian 
+  | 
+ Dworak 
+  | 
+ 2 
+  |
+| 
+ Richard 
+  | 
+ Edbury 
+  | 
+ 6 
+  |
+| 
+ Wolfgang 
+  | 
+ Eder 
+  | 
+ 4 
+  |
+| 
+ Rudy 
+  | 
+ Edwards 
+  | 
+ 6 
+  |
+| 
+ Yopi 
+  | 
+ Effendi 
+  | 
+ 2 
+  |
+| 
+ Kim 
+  | 
+ Eikefet 
+  | 
+ 1 
+  |
+| 
+ Nick 
+  | 
+ Eisel 
+  | 
+ 2 
+  |
+| 
+ Erno 
+  | 
+ Ekebom 
+  | 
+ 12 
+  |
+| 
+ Jay 
+  | 
+ Elarar 
+  | 
+ 7 
+  |
+| 
+ Jeremy 
+  | 
+ Elgar 
+  | 
+ 2 
+  |
+| 
+ Toby 
+  | 
+ Elliott 
+  | 
+ 2 
+  |
+| 
+ Chad 
+  | 
+ Ellis 
+  | 
+ 3 
+  |
+| 
+ Mike 
+  | 
+ Emmert 
+  | 
+ 3 
+  |
+| 
+ Takahiro 
+  | 
+ Endo 
+  | 
+ 2 
+  |
+| 
+ Mill 
+  | 
+ Enriquez 
+  | 
+ 1 
+  |
+| 
+ Allan Stefanin 
+  | 
+ Epifanio 
+  | 
+ 1 
+  |
+| 
+ William 
+  | 
+ Ericson 
+  | 
+ 2 
+  |
+| 
+ Emre 
+  | 
+ Ertam 
+  | 
+ 2 
+  |
+| 
+ Juan Eduardo 
+  | 
+ Escobar 
+  | 
+ 2 
+  |
+| 
+ Sigurd 
+  | 
+ Eskeland 
+  | 
+ 10 
+  |
+| 
+ Rune 
+  | 
+ Espenheim 
+  | 
+ 2 
+  |
+| 
+ Derek 
+  | 
+ Etayo 
+  | 
+ 2 
+  |
+| 
+ Marko 
+  | 
+ Etelapera 
+  | 
+ 2 
+  |
+| 
+ Forrest 
+  | 
+ Evans 
+  | 
+ 2 
+  |
+| 
+ Eric 
+  | 
+ Ewald 
+  | 
+ 2 
+  |
+| 
+ Itibere 
+  | 
+ Ewerling 
+  | 
+ 1 
+  |
+| 
+ Chris 
+  | 
+ Faesi 
+  | 
+ 4 
+  |
+| 
+ Bjšrn 
+  | 
+ Falenski 
+  | 
+ 2 
+  |
+| 
+ Jose Julio Dantas 
+  | 
+ Faria 
+  | 
+ 3 
+  |
+| 
+ Ben 
+  | 
+ Farkas 
+  | 
+ 14 
+  |
+| 
+ Edward 
+  | 
+ Fear 
+  | 
+ 7 
+  |
+| 
+ Adam 
+  | 
+ Fears 
+  | 
+ 2 
+  |
+| 
+ Thomas 
+  | 
+ Felsberg 
+  | 
+ 2 
+  |
+| 
+ Duarte 
+  | 
+ Fernandes 
+  | 
+ 2 
+  |
+| 
+ Marc 
+  | 
+ Fievet 
+  | 
+ 2 
+  |
+| 
+ Fernando 
+  | 
+ Figueiredo 
+  | 
+ 2 
+  |
+| 
+ Tore 
+  | 
+ Fiil 
+  | 
+ 3 
+  |
+| 
+ Carlos 
+  | 
+ Filho 
+  | 
+ 1 
+  |
+| 
+ Joao 
+  | 
+ Filho 
+  | 
+ 2 
+  |
+| 
+ Renato 
+  | 
+ Fillinich 
+  | 
+ 1 
+  |
+| 
+ Erik 
+  | 
+ Fink 
+  | 
+ 2 
+  |
+| 
+ Jon 
+  | 
+ Finkel 
+  | 
+ 30 
+  |
+| 
+ Jon 
+  | 
+ Finley 
+  | 
+ 3 
+  |
+| 
+ Stefano 
+  | 
+ Fiore 
+  | 
+ 4 
+  |
+| 
+ Konstantin 
+  | 
+ Firsov 
+  | 
+ 2 
+  |
+| 
+ Justin 
+  | 
+ Fisher 
+  | 
+ 2 
+  |
+| 
+ Matt 
+  | 
+ Fisher 
+  | 
+ 3 
+  |
+| 
+ Sean 
+  | 
+ Fleischman 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Flores 
+  | 
+ 5 
+  |
+| 
+ Kurt 
+  | 
+ Foket 
+  | 
+ 2 
+  |
+| 
+ Marcos 
+  | 
+ Fontanez 
+  | 
+ 2 
+  |
+| 
+ Yuen Weng 
+  | 
+ Foong 
+  | 
+ 2 
+  |
+| 
+ David 
+  | 
+ Fornalski 
+  | 
+ 2 
+  |
+| 
+ Aaron 
+  | 
+ Forsythe 
+  | 
+ 6 
+  |
+| 
+ Brian 
+  | 
+ Fox 
+  | 
+ 1 
+  |
+| 
+ Corbin 
+  | 
+ Fox 
+  | 
+ 2 
+  |
+| 
+ Flavio Krok 
+  | 
+ Franco 
+  | 
+ 1 
+  |
+| 
+ Rich 
+  | 
+ Frangiosa 
+  | 
+ 21 
+  |
+| 
+ Joel 
+  | 
+ Frank 
+  | 
+ 4 
+  |
+| 
+ Johan 
+  | 
+ Franzen 
+  | 
+ 7 
+  |
+| 
+ Igor 
+  | 
+ Frayman 
+  | 
+ 26 
+  |
+| 
+ Tiago 
+  | 
+ Freitas 
+  | 
+ 1 
+  |
+| 
+ Philip 
+  | 
+ Freneau 
+  | 
+ 8 
+  |
+| 
+ Andre 
+  | 
+ Friedrich 
+  | 
+ 1 
+  |
+| 
+ Ziga 
+  | 
+ Fritz 
+  | 
+ 11 
+  |
+| 
+ Eric 
+  | 
+ Froehlich 
+  | 
+ 6 
+  |
+| 
+ Hector 
+  | 
+ Fuentes 
+  | 
+ 18 
+  |
+| 
+ Kimihiro 
+  | 
+ Fujino 
+  | 
+ 4 
+  |
+| 
+ Kenichi 
+  | 
+ Fujita 
+  | 
+ 8 
+  |
+| 
+ Osamu 
+  | 
+ Fujita 
+  | 
+ 9 
+  |
+| 
+ Tsuyoshi 
+  | 
+ Fujita 
+  | 
+ 19 
+  |
+| 
+ Kenji 
+  | 
+ Fukuya 
+  | 
+ 2 
+  |
+| 
+ Ryan 
+  | 
+ Fuller 
+  | 
+ 23 
+  |
+| 
+ Masaharu 
+  | 
+ Fuma 
+  | 
+ 2 
+  |
+| 
+ Jeff 
+  | 
+ Fung 
+  | 
+ 10 
+  |
+| 
+ Ruben 
+  | 
+ Gaetano 
+  | 
+ 1 
+  |
+| 
+ Francisco 
+  | 
+ Gaete 
+  | 
+ 2 
+  |
+| 
+ Jude Roland 
+  | 
+ Gagan 
+  | 
+ 1 
+  |
+| 
+ Victor 
+  | 
+ Galimbertti 
+  | 
+ 1 
+  |
+| 
+ Donald 
+  | 
+ Gallitz 
+  | 
+ 21 
+  |
+| 
+ Gerard 
+  | 
+ Garcia 
+  | 
+ 1 
+  |
+| 
+ Ivan 
+  | 
+ Garcia 
+  | 
+ 4 
+  |
+| 
+ Chris 
+  | 
+ Gartman 
+  | 
+ 9 
+  |
+| 
+ Justin 
+  | 
+ Gary 
+  | 
+ 33 
+  |
+| 
+ Svend 
+  | 
+ Geertsen 
+  | 
+ 19 
+  |
+| 
+ Tobias 
+  | 
+ Gemuend 
+  | 
+ 4 
+  |
+| 
+ Raffaele 
+  | 
+ Gennari 
+  | 
+ 2 
+  |
+| 
+ Raphael 
+  | 
+ Gennari 
+  | 
+ 5 
+  |
+| 
+ Stephane 
+  | 
+ Gentric 
+  | 
+ 6 
+  |
+| 
+ Steve 
+  | 
+ Gerson 
+  | 
+ 2 
+  |
+| 
+ Vincent 
+  | 
+ Gieling 
+  | 
+ 9 
+  |
+| 
+ Antunio 
+  | 
+ Girao 
+  | 
+ 3 
+  |
+| 
+ Pierre 
+  | 
+ Girodroux 
+  | 
+ 7 
+  |
+| 
+ Camille 
+  | 
+ Gleizes 
+  | 
+ 5 
+  |
+| 
+ Gerardo 
+  | 
+ Godinez 
+  | 
+ 6 
+  |
+| 
+ Eduardo 
+  | 
+ Goes 
+  | 
+ 1 
+  |
+| 
+ Troy 
+  | 
+ Goettel 
+  | 
+ 2 
+  |
+| 
+ Bill 
+  | 
+ Goldman 
+  | 
+ 2 
+  |
+| 
+ Carlos 
+  | 
+ Gomez 
+  | 
+ 1 
+  |
+| 
+ Felix 
+  | 
+ Gonzales 
+  | 
+ 3 
+  |
+| 
+ Xavi 
+  | 
+ Gonzales 
+  | 
+ 5 
+  |
+| 
+ Francisco 
+  | 
+ Gonzalez 
+  | 
+ 2 
+  |
+| 
+ Mark 
+  | 
+ Gordon 
+  | 
+ 2 
+  |
+| 
+ Andrew 
+  | 
+ Gray 
+  | 
+ 2 
+  |
+| 
+ David 
+  | 
+ Gray 
+  | 
+ 2 
+  |
+| 
+ Geoffrey 
+  | 
+ Gray 
+  | 
+ 2 
+  |
+| 
+ Tyler 
+  | 
+ Grodzinski 
+  | 
+ 2 
+  |
+| 
+ Vasco 
+  | 
+ Grosseman 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Gruber 
+  | 
+ 1 
+  |
+| 
+ Peter 
+  | 
+ Guevin 
+  | 
+ 9 
+  |
+| 
+ Thomas 
+  | 
+ Guevin 
+  | 
+ 7 
+  |
+| 
+ Yann 
+  | 
+ Guigueno 
+  | 
+ 1 
+  |
+| 
+ Bertrand 
+  | 
+ Guillaumin 
+  | 
+ 1 
+  |
+| 
+ Matthew 
+  | 
+ Guinn 
+  | 
+ 2 
+  |
+| 
+ Thomas 
+  | 
+ Gundersen 
+  | 
+ 6 
+  |
+| 
+ Brian 
+  | 
+ Hacker 
+  | 
+ 18 
+  |
+| 
+ Welly 
+  | 
+ Hadiwidjaja 
+  | 
+ 3 
+  |
+| 
+ Lucas 
+  | 
+ Hager 
+  | 
+ 8 
+  |
+| 
+ Richard 
+  | 
+ Hagon 
+  | 
+ 2 
+  |
+| 
+ Jurgen 
+  | 
+ Hahn 
+  | 
+ 3 
+  |
+| 
+ Jorn 
+  | 
+ Hajek 
+  | 
+ 3 
+  |
+| 
+ John 
+  | 
+ Hall 
+  | 
+ 2 
+  |
+| 
+ Tommy 
+  | 
+ Hammer 
+  | 
+ 2 
+  |
+| 
+ Yann 
+  | 
+ Hamon 
+  | 
+ 13 
+  |
+| 
+ Hiroshi 
+  | 
+ Harada 
+  | 
+ 5 
+  |
+| 
+ Boyd 
+  | 
+ Hardie 
+  | 
+ 3 
+  |
+| 
+ Philip 
+  | 
+ Harding 
+  | 
+ 8 
+  |
+| 
+ Gregoire 
+  | 
+ Hardy 
+  | 
+ 2 
+  |
+| 
+ Paul 
+  | 
+ Hardy 
+  | 
+ 2 
+  |
+| 
+ Takuichi 
+  | 
+ Harino 
+  | 
+ 3 
+  |
+| 
+ Jarno 
+  | 
+ Harkonen 
+  | 
+ 5 
+
+  |
+| 
+ Tom 
+  | 
+ Harle 
+  | 
+ 2 
+  |
+| 
+ Jake 
+  | 
+ Hart 
+  | 
+ 2 
+  |
+| 
+ Jinpei 
+  | 
+ Hassaku 
+  | 
+ 1 
+  |
+| 
+ Tomoya 
+  | 
+ Hatakeyama 
+  | 
+ 2 
+  |
+| 
+ Kenichi 
+  | 
+ Hatanaka 
+  | 
+ 2 
+  |
+| 
+ Paul 
+  | 
+ Hawkins 
+  | 
+ 3 
+  |
+| 
+ Clef 
+  | 
+ Haworth 
+  | 
+ 2 
+  |
+| 
+ Mike 
+  | 
+ Heffern 
+  | 
+ 7 
+  |
+| 
+ Kenneth 
+  | 
+ Heilfron 
+  | 
+ 3 
+  |
+| 
+ Dirk 
+  | 
+ Hein 
+  | 
+ 2 
+  |
+| 
+ Nathan 
+  | 
+ Heiss 
+  | 
+ 2 
+  |
+| 
+ Kristian 
+  | 
+ Hellman 
+  | 
+ 13 
+  |
+| 
+ Jason 
+  | 
+ Henry 
+  | 
+ 3 
+  |
+| 
+ Matt 
+  | 
+ Henstra 
+  | 
+ 3 
+  |
+| 
+ Chip 
+  | 
+ Herin 
+  | 
+ 5 
+  |
+| 
+ Roc 
+  | 
+ Herms 
+  | 
+ 18 
+  |
+| 
+ Marc 
+  | 
+ Hernandez 
+  | 
+ 26 
+  |
+| 
+ Jim 
+  | 
+ Herold 
+  | 
+ 2 
+  |
+| 
+ Nicolai 
+  | 
+ Herzog 
+  | 
+ 24 
+  |
+| 
+ Jun-Wei 
+  | 
+ Hew 
+  | 
+ 1 
+  |
+| 
+ Ayumi 
+  | 
+ Hidaka 
+  | 
+ 13 
+  |
+| 
+ Takao 
+  | 
+ Higaki 
+  | 
+ 3 
+  |
+| 
+ Masayuki 
+  | 
+ Higashino 
+  | 
+ 28 
+  |
+| 
+ Naoki 
+  | 
+ Higono 
+  | 
+ 2 
+  |
+| 
+ Jeffrey 
+  | 
+ Hill 
+  | 
+ 2 
+  |
+| 
+ Thomas 
+  | 
+ Hiller 
+  | 
+ 1 
+  |
+| 
+ Arto 
+  | 
+ Hiltunen 
+  | 
+ 4 
+  |
+| 
+ Jack 
+  | 
+ Ho 
+  | 
+ 3 
+  |
+| 
+ Lan 
+  | 
+ Ho 
+  | 
+ 15 
+  |
+| 
+ Kim 
+  | 
+ Hofmans 
+  | 
+ 2 
+  |
+| 
+ David 
+  | 
+ Hofmeyr 
+  | 
+ 2 
+  |
+| 
+ Tore 
+  | 
+ Hofstad 
+  | 
+ 3 
+  |
+| 
+ Andres 
+  | 
+ Hojmaun 
+  | 
+ 3 
+  |
+| 
+ Sergio Toshiaki 
+  | 
+ Hojo 
+  | 
+ 1 
+  |
+| 
+ Jason 
+  | 
+ Holanda 
+  | 
+ 2 
+  |
+| 
+ Jan 
+  | 
+ Holland 
+  | 
+ 2 
+  |
+| 
+ Jens 
+  | 
+ Holtz 
+  | 
+ 2 
+  |
+| 
+ Stephen 
+  | 
+ Hope 
+  | 
+ 3 
+  |
+| 
+ Tommi 
+  | 
+ Hovi 
+  | 
+ 15 
+  |
+| 
+ Robbie 
+  | 
+ Howell 
+  | 
+ 2 
+  |
+| 
+ Mike 
+  | 
+ Hron 
+  | 
+ 8 
+  |
+| 
+ Alec 
+  | 
+ Hsu 
+  | 
+ 10 
+  |
+| 
+ Aric 
+  | 
+ Hsu 
+  | 
+ 2 
+  |
+| 
+ Bryan 
+  | 
+ Hubble 
+  | 
+ 17 
+  |
+| 
+ Niklaus 
+  | 
+ Hugi 
+  | 
+ 4 
+  |
+| 
+ David 
+  | 
+ Humpherys 
+  | 
+ 35 
+  |
+| 
+ John 
+  | 
+ Hunka 
+  | 
+ 6 
+  |
+| 
+ David 
+  | 
+ Hunting 
+  | 
+ 2 
+  |
+| 
+ Carsten 
+  | 
+ Hussels 
+  | 
+ 1 
+  |
+| 
+ Jim 
+  | 
+ Hustad 
+  | 
+ 2 
+  |
+| 
+ Masami 
+  | 
+ Ibamoto 
+  | 
+ 7 
+  |
+| 
+ Rafael 
+  | 
+ Ibanez 
+  | 
+ 1 
+  |
+| 
+ Hisakazu 
+  | 
+ Igarashi 
+  | 
+ 1 
+  |
+| 
+ Kei 
+  | 
+ Ikeda 
+  | 
+ 4 
+  |
+| 
+ Tsuyoshi 
+  | 
+ Ikeda 
+  | 
+ 5 
+  |
+| 
+ Seth 
+  | 
+ Inselman 
+  | 
+ 4 
+  |
+| 
+ Itaru 
+  | 
+ Ishida 
+  | 
+ 13 
+  |
+| 
+ Yoshikazu 
+  | 
+ Ishii 
+  | 
+ 3 
+  |
+| 
+ Kazuto 
+  | 
+ Ishikawa 
+  | 
+ 2 
+  |
+| 
+ Joao 
+  | 
+ Isidro 
+  | 
+ 3 
+  |
+| 
+ Eisaku 
+  | 
+ Itadani 
+  | 
+ 7 
+  |
+| 
+ John 
+  | 
+ Ittner 
+  | 
+ 2 
+  |
+| 
+ Chris 
+  | 
+ Jackson 
+  | 
+ 2 
+  |
+| 
+ Ben 
+  | 
+ Jacobson 
+  | 
+ 8 
+  |
+| 
+ David 
+  | 
+ Jafari 
+  | 
+ 5 
+  |
+| 
+ Carl 
+  | 
+ James 
+  | 
+ 1 
+  |
+| 
+ Eric 
+  | 
+ James 
+  | 
+ 6 
+  |
+| 
+ Jacob 
+  | 
+ Janoska 
+  | 
+ 3 
+  |
+| 
+ Patrick 
+  | 
+ Jansen 
+  | 
+ 2 
+  |
+| 
+ David 
+  | 
+ Jardiolin 
+  | 
+ 2 
+  |
+| 
+ Matt 
+  | 
+ Jendro 
+  | 
+ 2 
+  |
+| 
+ Cory 
+  | 
+ Jensen 
+  | 
+ 5 
+  |
+| 
+ Dustin 
+  | 
+ Jensen 
+  | 
+ 1 
+  |
+| 
+ Niels 
+  | 
+ Jensen 
+  | 
+ 3 
+  |
+| 
+ William 
+  | 
+ Jensen 
+  | 
+ 33 
+  |
+| 
+ Florent 
+  | 
+ Jeudon 
+  | 
+ 7 
+  |
+| 
+ David 
+  | 
+ Jiang 
+  | 
+ 2 
+  |
+| 
+ Chi 
+  | 
+ Jin Guo 
+  | 
+ 1 
+  |
+| 
+ Bj�rn 
+  | 
+ Jocumsen 
+  | 
+ 6 
+  |
+| 
+ Stein 
+  | 
+ Johannesen 
+  | 
+ 2 
+  |
+| 
+ Jeppe 
+  | 
+ Johansen 
+  | 
+ 2 
+  |
+| 
+ Marius 
+  | 
+ Johnsen 
+  | 
+ 4 
+  |
+| 
+ Andrew 
+  | 
+ Johnson 
+  | 
+ 7 
+  |
+| 
+ Jake 
+  | 
+ Johnson 
+  | 
+ 2 
+  |
+| 
+ Pat 
+  | 
+ Johnson 
+  | 
+ 3 
+  |
+| 
+ Tom 
+  | 
+ Johnson 
+  | 
+ 3 
+  |
+| 
+ Vincent 
+  | 
+ Johnson 
+  | 
+ 4 
+  |
+| 
+ Craig 
+  | 
+ Jones 
+  | 
+ 5 
+  |
+| 
+ Richard 
+  | 
+ Jones 
+  | 
+ 12 
+  |
+| 
+ Andreas 
+  | 
+ Jonsson 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Jordan 
+  | 
+ 2 
+  |
+| 
+ Mattias 
+  | 
+ Jorstedt 
+  | 
+ 5 
+  |
+| 
+ Eufemio 
+  | 
+ Juan Rincon 
+  | 
+ 1 
+  |
+| 
+ Bruno 
+  | 
+ Juliani 
+  | 
+ 2 
+  |
+| 
+ Javier 
+  | 
+ Julve 
+  | 
+ 1 
+  |
+| 
+ Heung-Jin 
+  | 
+ Jung 
+  | 
+ 3 
+  |
+| 
+ Rodrigo 
+  | 
+ Jurado 
+  | 
+ 2 
+  |
+| 
+ Anthony 
+  | 
+ Justice 
+  | 
+ 3 
+  |
+| 
+ Mark 
+  | 
+ Justice 
+  | 
+ 3 
+  |
+| 
+ Gen 
+  | 
+ Kagami 
+  | 
+ 4 
+  |
+| 
+ Taro 
+  | 
+ Kageyama 
+  | 
+ 3 
+  |
+| 
+ Joseph 
+  | 
+ Kambourakis 
+  | 
+ 2 
+  |
+| 
+ Kazuhiro 
+  | 
+ Kamiya 
+  | 
+ 2 
+  |
+| 
+ Ji-Sang 
+  | 
+ Kang 
+  | 
+ 2 
+  |
+| 
+ Pawel 
+  | 
+ Karaszewski 
+  | 
+ 2 
+  |
+| 
+ Tim 
+  | 
+ Kariel 
+  | 
+ 6 
+  |
+| 
+ Zach 
+  | 
+ Karthauser 
+  | 
+ 3 
+  |
+| 
+ Eli 
+  | 
+ Kassis 
+  | 
+ 2 
+  |
+| 
+ Darwin 
+  | 
+ Kastle 
+  | 
+ 58 
+  |
+| 
+ Adam 
+  | 
+ Katz 
+  | 
+ 5 
+  |
+| 
+ Michael 
+  | 
+ Katz 
+  | 
+ 11 
+  |
+| 
+ Sean 
+  | 
+ Keady 
+  | 
+ 4 
+  |
+| 
+ David 
+  | 
+ Kearney 
+  | 
+ 2 
+  |
+| 
+ Shawn 
+  | 
+ Keller 
+  | 
+ 14 
+  |
+| 
+ Thomas 
+  | 
+ Keller 
+  | 
+ 16 
+  |
+| 
+ Adam 
+  | 
+ Kemp 
+  | 
+ 2 
+  |
+| 
+ Eric 
+  | 
+ Kesselman 
+  | 
+ 5 
+  |
+| 
+ Seng Giap Kevin 
+  | 
+ Khoo 
+  | 
+ 3 
+  |
+| 
+ Brian 
+  | 
+ Kibler 
+  | 
+ 4 
+  |
+| 
+ Gregory 
+  | 
+ Kielar 
+  | 
+ 2 
+  |
+| 
+ Jason 
+  | 
+ Kiernan 
+  | 
+ 2 
+  |
+| 
+ Alex 
+  | 
+ Kim 
+  | 
+ 2 
+  |
+| 
+ Samuel 
+  | 
+ King 
+  | 
+ 2 
+  |
+| 
+ Kunihiko 
+  | 
+ Kishishita 
+  | 
+ 4 
+  |
+| 
+ Jeff 
+  | 
+ Kitchen 
+  | 
+ 3 
+  |
+| 
+ Benedikt 
+  | 
+ Klauser 
+  | 
+ 8 
+  |
+| 
+ Claus 
+  | 
+ Kleinow 
+  | 
+ 1 
+  |
+| 
+ Kenneth 
+  | 
+ Klingenberg 
+  | 
+ 3 
+  |
+| 
+ Rudiger 
+  | 
+ Klings 
+  | 
+ 4 
+  |
+| 
+ Kyle 
+  | 
+ Kloeckner 
+  | 
+ 4 
+  |
+| 
+ Douglas 
+  | 
+ Knights 
+  | 
+ 2 
+  |
+| 
+ Ralf 
+  | 
+ Kohler 
+  | 
+ 2 
+  |
+| 
+ Jarno 
+  | 
+ Kokko 
+  | 
+ 3 
+  |
+| 
+ Vladimir 
+  | 
+ Komanicky 
+  | 
+ 5 
+  |
+| 
+ Tadayoshi 
+  | 
+ Komiya 
+  | 
+ 13 
+  |
+| 
+ Andre 
+  | 
+ Konstanczer 
+  | 
+ 24 
+  |
+| 
+ Joo-Hyun 
+  | 
+ Koo 
+  | 
+ 2 
+  |
+| 
+ Charles 
+  | 
+ Kornblith 
+  | 
+ 15 
+  |
+| 
+ Vipul 
+  | 
+ Kothori 
+  | 
+ 3 
+  |
+| 
+ Brian 
+  | 
+ Kowal 
+  | 
+ 5 
+  |
+| 
+ Vince 
+  | 
+ Kozlowski 
+  | 
+ 2 
+  |
+| 
+ Adam 
+  | 
+ Kozul 
+  | 
+ 2 
+  |
+| 
+ Gary 
+  | 
+ Krakower 
+  | 
+ 25 
+  |
+| 
+ Nickolas 
+  | 
+ Krestoff 
+  | 
+ 6 
+  |
+| 
+ Michael Dietz 
+  | 
+ Kriegsbaum 
+  | 
+ 2 
+  |
+| 
+ Hans-Ole 
+  | 
+ Kronstrand 
+  | 
+ 2 
+  |
+| 
+ Peer 
+  | 
+ Kršeger 
+  | 
+ 2 
+  |
+| 
+ Christian 
+  | 
+ Krugler 
+  | 
+ 5 
+  |
+| 
+ Shannon 
+  | 
+ Krumick 
+  | 
+ 12 
+  |
+| 
+ Mike 
+  | 
+ Krzywicki 
+  | 
+ 11 
+  |
+| 
+ Larry 
+  | 
+ Kuczynski 
+  | 
+ 2 
+  |
+| 
+ Matthias 
+  | 
+ Kuenzler 
+  | 
+ 3 
+  |
+| 
+ Janosch 
+  | 
+ Kuhn 
+  | 
+ 11 
+  |
+| 
+ Masashiro 
+  | 
+ Kuroda 
+  | 
+ 12 
+  |
+| 
+ Yasumasa 
+  | 
+ Kushida 
+  | 
+ 2 
+  |
+| 
+ Ivan 
+  | 
+ La Ragione 
+  | 
+ 1 
+  |
+| 
+ Nicolas 
+  | 
+ Labarre 
+  | 
+ 20 
+  |
+| 
+ Nicolas 
+  | 
+ Lacorne 
+  | 
+ 2 
+  |
+| 
+ Franck 
+  | 
+ Lameirao 
+  | 
+ 2 
+  |
+| 
+ Erik 
+  | 
+ Landriz 
+  | 
+ 5 
+  |
+| 
+ Jason 
+  | 
+ Lanzillotta 
+  | 
+ 4 
+  |
+| 
+ Leonardo Grillo 
+  | 
+ Laranja 
+  | 
+ 1 
+  |
+| 
+ John 
+  | 
+ Larkin 
+  | 
+ 10 
+  |
+| 
+ Thomas 
+  | 
+ Latham 
+  | 
+ 2 
+  |
+| 
+ Kwan 
+  | 
+ Lau 
+  | 
+ 1 
+  |
+| 
+ Sam Lie Kang 
+  | 
+ Lau 
+  | 
+ 3 
+  |
+| 
+ Terry 
+  | 
+ Lau 
+  | 
+ 3 
+  |
+| 
+ Erik 
+  | 
+ Lauer 
+  | 
+ 12 
+  |
+| 
+ Sebastien 
+  | 
+ Laurent 
+  | 
+ 2 
+  |
+| 
+ Sylvain 
+  | 
+ Lauriol 
+  | 
+ 5 
+  |
+| 
+ Joshua 
+  | 
+ Lavery 
+  | 
+ 4 
+  |
+| 
+ Regis 
+  | 
+ Lavoisier 
+  | 
+ 2 
+  |
+| 
+ Albertus 
+  | 
+ Law 
+  | 
+ 2 
+  |
+| 
+ Rob 
+  | 
+ Lawing 
+  | 
+ 2 
+  |
+| 
+ Ciaran 
+  | 
+ Lawlor 
+  | 
+ 2 
+  |
+| 
+ Dave 
+  | 
+ Lawson 
+  | 
+ 3 
+  |
+| 
+ Mark 
+  | 
+ Le Pine 
+  | 
+ 37 
+  |
+| 
+ Rafael 
+  | 
+ Le Saux 
+  | 
+ 3 
+  |
+| 
+ Jee Hang 
+  | 
+ Lee 
+  | 
+ 2 
+  |
+| 
+ Jonathan 
+  | 
+ Lee 
+  | 
+ 3 
+  |
+| 
+ Nai Jai 
+  | 
+ Lee 
+  | 
+ 1 
+  |
+| 
+ Florent 
+  | 
+ Lefranc 
+  | 
+ 8 
+  |
+| 
+ Peter 
+  | 
+ Leiher 
+  | 
+ 15 
+  |
+| 
+ Chris 
+  | 
+ Lennon 
+  | 
+ 2 
+  |
+| 
+ Khai Wen 
+  | 
+ Leong 
+  | 
+ 2 
+  |
+| 
+ Dennis 
+  | 
+ Leventhal 
+  | 
+ 5 
+  |
+| 
+ Raphael 
+  | 
+ Levy 
+  | 
+ 34 
+  |
+| 
+ David 
+  | 
+ Lewis 
+  | 
+ 1 
+  |
+| 
+ Mike 
+  | 
+ Lewis 
+  | 
+ 3 
+  |
+| 
+ Sam 
+  | 
+ Lewis 
+  | 
+ 2 
+  |
+| 
+ Yuh-Kong 
+  | 
+ Liao 
+  | 
+ 3 
+  |
+| 
+ Marcus 
+  | 
+ Lichniak 
+  | 
+ 2 
+  |
+| 
+ Mark 
+  | 
+ Ligtvoet 
+  | 
+ 5 
+  |
+| 
+ Matt 
+  | 
+ Linde 
+  | 
+ 35 
+  |
+| 
+ Russell 
+  | 
+ Linnemann 
+  | 
+ 6 
+  |
+| 
+ Mikko 
+  | 
+ Lintamo 
+  | 
+ 9 
+  |
+| 
+ Scott 
+  | 
+ Lipp 
+  | 
+ 2 
+  |
+| 
+ Christoph 
+  | 
+ Lippert 
+  | 
+ 1 
+  |
+| 
+ Rafael 
+  | 
+ Lirag 
+  | 
+ 2 
+  |
+| 
+ Raymond 
+  | 
+ Lirag 
+  | 
+ 1 
+  |
+| 
+ Moritz 
+  | 
+ Lischka 
+  | 
+ 2 
+  |
+| 
+ Beth 
+  | 
+ Liston 
+  | 
+ 2 
+  |
+| 
+ Denver 
+  | 
+ Liston 
+  | 
+ 2 
+  |
+| 
+ Chuck 
+  | 
+ Littlefield 
+  | 
+ 1 
+  |
+| 
+ Christer 
+  | 
+ Ljones 
+  | 
+ 12 
+  |
+| 
+ Paco/Franci 
+  | 
+ Llopis Martinez 
+  | 
+ 12 
+  |
+| 
+ Raffaele 
+  | 
+ Lo Moro 
+  | 
+ 32 
+  |
+| 
+ Timothy 
+  | 
+ Logue 
+  | 
+ 2 
+  |
+| 
+ Kris 
+  | 
+ Lohman 
+  | 
+ 1 
+  |
+| 
+ Hogan 
+  | 
+ Long 
+  | 
+ 1 
+  |
+| 
+ Mike 
+  | 
+ Long 
+  | 
+ 22 
+  |
+| 
+ Sergio 
+  | 
+ Longo Junior 
+  | 
+ 1 
+  |
+| 
+ Cesar 
+  | 
+ Lopes 
+  | 
+ 2 
+  |
+| 
+ Andrew 
+  | 
+ Lovasz 
+  | 
+ 6 
+  |
+| 
+ Chris 
+  | 
+ Lovelace 
+  | 
+ 3 
+  |
+| 
+ Devin 
+  | 
+ Low 
+  | 
+ 2 
+  |
+| 
+ Christian 
+  | 
+ Luhrs 
+  | 
+ 24 
+  |
+| 
+ Derek 
+  | 
+ Lundy 
+  | 
+ 1 
+  |
+| 
+ Brian 
+  | 
+ Lynch 
+  | 
+ 3 
+  |
+| 
+ Dave 
+  | 
+ Lyon 
+  | 
+ 2 
+  |
+| 
+ Josh 
+  | 
+ Lytle 
+  | 
+ 3 
+  |
+| 
+ Andrew 
+  | 
+ MacDonald 
+  | 
+ 4 
+  |
+| 
+ Bill 
+  | 
+ Macey 
+  | 
+ 6 
+  |
+| 
+ Hugo 
+  | 
+ Machado 
+  | 
+ 3 
+  |
+| 
+ Michael 
+  | 
+ Mackinnon 
+  | 
+ 2 
+  |
+| 
+ Yasayuki 
+  | 
+ Maeda 
+  | 
+ 3 
+  |
+| 
+ Alen 
+  | 
+ Magdic 
+  | 
+ 2 
+  |
+| 
+ Jeffrey 
+  | 
+ Magid 
+  | 
+ 2 
+  |
+| 
+ Mikael 
+  | 
+ Magnusson 
+  | 
+ 2 
+  |
+| 
+ Bob 
+  | 
+ Maher, Jr. 
+  | 
+ 47 
+  |
+| 
+ Gero 
+  | 
+ Maier 
+  | 
+ 6 
+  |
+| 
+ Jens 
+  | 
+ Maiere 
+  | 
+ 1 
+  |
+| 
+ Rosario 
+  | 
+ Maij 
+  | 
+ 8 
+  |
+| 
+ Douglas 
+  | 
+ Maioli 
+  | 
+ 7 
+  |
+| 
+ Koichiro 
+  | 
+ Maki 
+  | 
+ 4 
+  |
+| 
+ Marco 
+  | 
+ Makuz 
+  | 
+ 4 
+  |
+| 
+ Pierre 
+  | 
+ Malherbaud 
+  | 
+ 3 
+  |
+| 
+ Derek 
+  | 
+ Mallory 
+  | 
+ 2 
+  |
+| 
+ Leandro 
+  | 
+ Mamczyk 
+  | 
+ 2 
+  |
+| 
+ Bayani 
+  | 
+ Manansala 
+  | 
+ 2 
+  |
+| 
+ James 
+  | 
+ Manansala 
+  | 
+ 2 
+  |
+| 
+ Butch 
+  | 
+ Maniego 
+  | 
+ 2 
+  |
+| 
+ Christopher 
+  | 
+ Manners 
+  | 
+ 6 
+  |
+| 
+ Ilkka 
+  | 
+ Manninen 
+  | 
+ 1 
+  |
+| 
+ Christopher 
+  | 
+ Manning 
+  | 
+ 4 
+  |
+| 
+ Joseph 
+  | 
+ Manseau 
+  | 
+ 2 
+  |
+| 
+ Daniel 
+  | 
+ Mansson 
+  | 
+ 2 
+  |
+| 
+ Carlos 
+  | 
+ Mao 
+  | 
+ 6 
+  |
+| 
+ Pedro 
+  | 
+ Marcos 
+  | 
+ 5 
+  |
+| 
+ Rui 
+  | 
+ Mariani 
+  | 
+ 6 
+  |
+| 
+ Rui Manuel 
+  | 
+ Mariani Teixiera Rodregues 
+  | 
+ 3 
+  |
+| 
+ John 
+  | 
+ Marks 
+  | 
+ 12 
+  |
+| 
+ Miguel 
+  | 
+ Marques Correia 
+  | 
+ 1 
+  |
+| 
+ Bruce 
+  | 
+ Marsan 
+  | 
+ 2 
+  |
+| 
+ Warren 
+  | 
+ Marsh 
+  | 
+ 17 
+  |
+| 
+ Theron 
+  | 
+ Martin 
+  | 
+ 4 
+  |
+| 
+ Adolfo 
+  | 
+ Martinez 
+  | 
+ 2 
+  |
+| 
+ Eduardo 
+  | 
+ Martins 
+  | 
+ 3 
+  |
+| 
+ Takaaki 
+  | 
+ Maruyama 
+  | 
+ 2 
+  |
+| 
+ Masakazu 
+  | 
+ Masuda 
+  | 
+ 2 
+  |
+| 
+ Goro 
+  | 
+ Matsuo 
+  | 
+ 2 
+  |
+| 
+ Frank 
+  | 
+ Mayo 
+  | 
+ 2 
+  |
+| 
+ Stephen 
+  | 
+ McArthur 
+  | 
+ 3 
+  |
+| 
+ Casey 
+  | 
+ McCarrel 
+  | 
+ 8 
+  |
+| 
+ Alex 
+  | 
+ McConnell 
+  | 
+ 4 
+  |
+| 
+ Scott 
+  | 
+ McCord 
+  | 
+ 6 
+  |
+| 
+ Brendan 
+  | 
+ McKay 
+  | 
+ 2 
+  |
+| 
+ Tim 
+  | 
+ McKenna 
+  | 
+ 8 
+  |
+| 
+ Robert 
+  | 
+ McKeon 
+  | 
+ 2 
+  |
+| 
+ Lee 
+  | 
+ McLain 
+  | 
+ 2 
+  |
+| 
+ Drew 
+  | 
+ McLean 
+  | 
+ 12 
+  |
+| 
+ Dan 
+  | 
+ McNeill 
+  | 
+ 8 
+  |
+| 
+ Jason 
+  | 
+ Means 
+  | 
+ 6 
+  |
+| 
+ Gavin 
+  | 
+ Meek 
+  | 
+ 2 
+  |
+| 
+ Holger 
+  | 
+ Meinecke 
+  | 
+ 11 
+  |
+| 
+ Jonathan Lobo 
+  | 
+ Melamed 
+  | 
+ 2 
+  |
+| 
+ Nicolas 
+  | 
+ Meliot 
+  | 
+ 2 
+  |
+| 
+ Patrick 
+  | 
+ Mello 
+  | 
+ 10 
+  |
+| 
+ Alex 
+  | 
+ Menal 
+  | 
+ 4 
+  |
+| 
+ Antoine 
+  | 
+ Menard 
+  | 
+ 18 
+  |
+| 
+ Pablo 
+  | 
+ Mendez 
+  | 
+ 2 
+  |
+| 
+ Manuel 
+  | 
+ Meyer 
+  | 
+ 2 
+  |
+| 
+ Cameron 
+  | 
+ Miller 
+  | 
+ 5 
+  |
+| 
+ Lin 
+  | 
+ Milton 
+  | 
+ 2 
+  |
+| 
+ Takashi 
+  | 
+ Mitsuhashi 
+  | 
+ 2 
+  |
+| 
+ Nobuaki 
+  | 
+ Miyagawa 
+  | 
+ 2 
+  |
+| 
+ Takeshi 
+  | 
+ Miyasaka 
+  | 
+ 1 
+  |
+| 
+ Josh 
+  | 
+ Moats 
+  | 
+ 2 
+  |
+| 
+ Jeff 
+  | 
+ Moeller 
+  | 
+ 2 
+  |
+| 
+ Kazuyuki 
+  | 
+ Momose 
+  | 
+ 10 
+  |
+| 
+ Haakon 
+  | 
+ Monsen 
+  | 
+ 3 
+  |
+| 
+ Luke 
+  | 
+ Moore 
+  | 
+ 1 
+  |
+| 
+ Robert 
+  | 
+ Moore 
+  | 
+ 2 
+  |
+| 
+ Jose 
+  | 
+ Moran 
+  | 
+ 1 
+  |
+| 
+ Lucio 
+  | 
+ Moratinos 
+  | 
+ 1 
+  |
+| 
+ Jonathan 
+  | 
+ Morawski 
+  | 
+ 4 
+  |
+| 
+ Ryan 
+  | 
+ Morgan 
+  | 
+ 2 
+  |
+| 
+ Keita 
+  | 
+ Mori 
+  | 
+ 1 
+  |
+| 
+ Masaya 
+  | 
+ Mori 
+  | 
+ 15 
+  |
+| 
+ Allan 
+  | 
+ Mortensen 
+  | 
+ 5 
+  |
+| 
+ Doug 
+  | 
+ Moses 
+  | 
+ 3 
+  |
+| 
+ Aaron 
+  | 
+ Moshiashwili 
+  | 
+ 2 
+  |
+| 
+ Jason 
+  | 
+ Moungey 
+  | 
+ 5 
+  |
+| 
+ Riad 
+  | 
+ Mourssali 
+  | 
+ 11 
+  |
+| 
+ Zvi 
+  | 
+ Mowshowitz 
+  | 
+ 25 
+  |
+| 
+ Daniel 
+  | 
+ Mukka 
+  | 
+ 5 
+  |
+| 
+ Jorge 
+  | 
+ Mullor 
+  | 
+ 2 
+  |
+| 
+ Aaron 
+  | 
+ Muranaka 
+  | 
+ 2 
+  |
+| 
+ Paul 
+  | 
+ Murphy 
+  | 
+ 2 
+  |
+| 
+ Jason 
+  | 
+ Murray 
+  | 
+ 1 
+  |
+| 
+ Peter 
+  | 
+ Myrvig 
+  | 
+ 4 
+  |
+| 
+ Takayuki 
+  | 
+ Nagaoka 
+  | 
+ 2 
+  |
+| 
+ Chikara 
+  | 
+ Nakajima 
+  | 
+ 2 
+  |
+| 
+ Satoshi 
+  | 
+ Nakamura 
+  | 
+ 15 
+  |
+| 
+ Masaki 
+  | 
+ Narumiya 
+  | 
+ 1 
+  |
+| 
+ Tommaso 
+  | 
+ Natale 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Nduati 
+  | 
+ 2 
+  |
+| 
+ Haruyuki 
+  | 
+ Neki 
+  | 
+ 2 
+  |
+| 
+ Bohumir 
+  | 
+ Nepozitek 
+  | 
+ 2 
+  |
+| 
+ Cary 
+  | 
+ Newburger 
+  | 
+ 3 
+  |
+| 
+ Soon Lye 
+  | 
+ Ng 
+  | 
+ 4 
+  |
+| 
+ Teddy 
+  | 
+ Ng 
+  | 
+ 5 
+  |
+| 
+ Wei San 
+  | 
+ Ng 
+  | 
+ 2 
+  |
+| 
+ Fritz 
+  | 
+ Nichols 
+  | 
+ 1 
+  |
+| 
+ Ken 
+  | 
+ Nichols 
+  | 
+ 1 
+  |
+| 
+ Kiyoaki 
+  | 
+ Niimi 
+  | 
+ 2 
+  |
+| 
+ Victor 
+  | 
+ Nikolajeff 
+  | 
+ 2 
+  |
+| 
+ Andrew 
+  | 
+ Nishioka 
+  | 
+ 12 
+  |
+| 
+ Masahiro 
+  | 
+ Nishiwaki 
+  | 
+ 4 
+  |
+| 
+ Eivind 
+  | 
+ Nitter 
+  | 
+ 8 
+  |
+| 
+ Jun 
+  | 
+ Nobushita 
+  | 
+ 3 
+  |
+| 
+ Marc 
+  | 
+ Nolan 
+  | 
+ 2 
+  |
+| 
+ Gerard 
+  | 
+ Norton 
+  | 
+ 2 
+  |
+| 
+ Matthew 
+  | 
+ Norton 
+  | 
+ 6 
+  |
+| 
+ Koji 
+  | 
+ Nose 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Nurse 
+  | 
+ 2 
+  |
+| 
+ Timme 
+  | 
+ Nyegaard 
+  | 
+ 3 
+  |
+| 
+ Ramon Allan 
+  | 
+ Oca, Jr. 
+  | 
+ 3 
+  |
+| 
+ Oyvind 
+  | 
+ Odegaard 
+  | 
+ 10 
+  |
+| 
+ Kenji 
+  | 
+ Ogami 
+  | 
+ 3 
+  |
+| 
+ Giovanni 
+  | 
+ Ognibene 
+  | 
+ 2 
+  |
+| 
+ Ryo 
+  | 
+ Ogura 
+  | 
+ 1 
+  |
+| 
+ Ryohei 
+  | 
+ Ohashi 
+  | 
+ 2 
+  |
+| 
+ Koby 
+  | 
+ Okada 
+  | 
+ 6 
+  |
+| 
+ Jin 
+  | 
+ Okamoto 
+  | 
+ 3 
+  |
+| 
+ Nicolas 
+  | 
+ Olivieri 
+  | 
+ 6 
+  |
+| 
+ Mika 
+  | 
+ Ollila 
+  | 
+ 9 
+  |
+| 
+ Daniel 
+  | 
+ O'Mahoney-Schwartz 
+  | 
+ 17 
+  |
+| 
+ Steven 
+  | 
+ O'Mahoney-Schwartz 
+  | 
+ 31 
+  |
+| 
+ Jimmy 
+  | 
+ Oman 
+  | 
+ 10 
+  |
+| 
+ Froggy 
+  | 
+ Ong 
+  | 
+ 1 
+  |
+| 
+ Frederick 
+  | 
+ Ongena 
+  | 
+ 2 
+  |
+| 
+ Jason 
+  | 
+ Opalka 
+  | 
+ 7 
+  |
+| 
+ John 
+  | 
+ Ormerod 
+  | 
+ 16 
+  |
+| 
+ James 
+  | 
+ Osborne 
+  | 
+ 5 
+  |
+| 
+ Joao 
+  | 
+ Osorio 
+  | 
+ 1 
+  |
+| 
+ Rickard 
+  | 
+ Osterberg 
+  | 
+ 3 
+  |
+| 
+ Marc 
+  | 
+ Pacheco 
+  | 
+ 2 
+  |
+| 
+ Guido 
+  | 
+ Pacifici 
+  | 
+ 9 
+  |
+| 
+ Mario 
+  | 
+ Padua 
+  | 
+ 1 
+  |
+| 
+ Nick 
+  | 
+ Page 
+  | 
+ 3 
+  |
+| 
+ Anthony 
+  | 
+ Pagliocco 
+  | 
+ 2 
+  |
+| 
+ Chris 
+  | 
+ Pait 
+  | 
+ 2 
+  |
+| 
+ Dario 
+  | 
+ Parazzoli 
+  | 
+ 2 
+  |
+| 
+ Jung-Bok 
+  | 
+ Park 
+  | 
+ 2 
+  |
+| 
+ Jamie 
+  | 
+ Parke 
+  | 
+ 24 
+  |
+| 
+ Brock 
+  | 
+ Parker 
+  | 
+ 16 
+  |
+| 
+ Christopher 
+  | 
+ Parrenas 
+  | 
+ 6 
+  |
+| 
+ Daniel 
+  | 
+ Paskins 
+  | 
+ 2 
+  |
+| 
+ Jaroslav 
+  | 
+ Paszkiewicz 
+  | 
+ 2 
+  |
+| 
+ Fletcher 
+  | 
+ Peatross 
+  | 
+ 5 
+  |
+| 
+ Mason 
+  | 
+ Peatross 
+  | 
+ 2 
+  |
+| 
+ Jonathan 
+  | 
+ Pechon 
+  | 
+ 1 
+  |
+| 
+ Uri 
+  | 
+ Peleg 
+  | 
+ 3 
+  |
+| 
+ John 
+  | 
+ Pennock 
+  | 
+ 2 
+  |
+| 
+ Christiano 
+  | 
+ Pereira 
+  | 
+ 5 
+  |
+| 
+ Adam 
+  | 
+ Perry 
+  | 
+ 2 
+  |
+| 
+ Christian 
+  | 
+ Peschta 
+  | 
+ 2 
+  |
+| 
+ Henrique Oliviera 
+  | 
+ Pessini 
+  | 
+ 1 
+  |
+| 
+ Bryan 
+  | 
+ Petersen 
+  | 
+ 4 
+  |
+| 
+ Xavier 
+  | 
+ Petit 
+  | 
+ 5 
+  |
+| 
+ Binh 
+  | 
+ Pham 
+  | 
+ 1 
+  |
+| 
+ Hung 
+  | 
+ Pham 
+  | 
+ 1 
+  |
+| 
+ Jean 
+  | 
+ Philippe 
+  | 
+ 3 
+  |
+| 
+ Eric 
+  | 
+ Phillips 
+  | 
+ 8 
+  |
+| 
+ Girodroux 
+  | 
+ Pierre 
+  | 
+ 1 
+  |
+| 
+ Chris 
+  | 
+ Pikula 
+  | 
+ 10 
+  |
+| 
+ Steve 
+  | 
+ Pilgrim 
+  | 
+ 1 
+  |
+| 
+ Russell 
+  | 
+ Pippin 
+  | 
+ 1 
+  |
+| 
+ Fernando dos Reis 
+  | 
+ Piraja 
+  | 
+ 1 
+  |
+| 
+ Andreas 
+  | 
+ Pischner 
+  | 
+ 5 
+  |
+| 
+ Lance 
+  | 
+ Pittman 
+  | 
+ 1 
+  |
+| 
+ Jesse 
+  | 
+ Pitz 
+  | 
+ 3 
+  |
+| 
+ Riccardo 
+  | 
+ Pizzirani 
+  | 
+ 2 
+  |
+| 
+ Sven 
+  | 
+ Pohl 
+  | 
+ 1 
+  |
+| 
+ Justin 
+  | 
+ Polin 
+  | 
+ 3 
+  |
+| 
+ Craig 
+  | 
+ Pollack 
+  | 
+ 1 
+  |
+| 
+ Ben 
+  | 
+ Possemiers 
+  | 
+ 2 
+  |
+| 
+ Bas 
+  | 
+ Postema 
+  | 
+ 11 
+  |
+| 
+ Palle 
+  | 
+ Poulsen 
+  | 
+ 4 
+  |
+| 
+ Jesse 
+  | 
+ Powell 
+  | 
+ 2 
+  |
+| 
+ Nathaniel 
+  | 
+ Prawdzik 
+  | 
+ 2 
+  |
+| 
+ Thomas 
+  | 
+ Preyer 
+  | 
+ 27 
+  |
+| 
+ David 
+  | 
+ Price 
+  | 
+ 19 
+  |
+| 
+ Frederic 
+  | 
+ Prigge 
+  | 
+ 2 
+  |
+| 
+ Francis 
+  | 
+ Profeta 
+  | 
+ 6 
+  |
+| 
+ Adam 
+  | 
+ Prokopin 
+  | 
+ 2 
+  |
+| 
+ Philippe 
+  | 
+ Prosper 
+  | 
+ 2 
+  |
+| 
+ Matt 
+  | 
+ Provenzano 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Pustilnik 
+  | 
+ 20 
+  |
+| 
+ Blake 
+  | 
+ Quelle 
+  | 
+ 7 
+  |
+| 
+ Steve 
+  | 
+ Queroub 
+  | 
+ 5 
+  |
+| 
+ Daniel 
+  | 
+ Quinn 
+  | 
+ 2 
+  |
+| 
+ Gaurakisora 
+  | 
+ Rader 
+  | 
+ 2 
+  |
+| 
+ Peter 
+  | 
+ Radonjic 
+  | 
+ 9 
+  |
+| 
+ Miguel 
+  | 
+ Raguli 
+  | 
+ 5 
+  |
+| 
+ Guillem 
+  | 
+ Ragull 
+  | 
+ 2 
+  |
+| 
+ Marc 
+  | 
+ Rajotte 
+  | 
+ 3 
+  |
+| 
+ Anssi 
+  | 
+ Ramela 
+  | 
+ 1 
+  |
+| 
+ Derek 
+  | 
+ Rank 
+  | 
+ 4 
+  |
+| 
+ Andrew 
+  | 
+ Ranks 
+  | 
+ 1 
+  |
+| 
+ Matthew 
+  | 
+ Ranks 
+  | 
+ 3 
+  |
+| 
+ Siddhartha 
+  | 
+ Rao 
+  | 
+ 2 
+  |
+| 
+ Tim 
+  | 
+ Rasmussen 
+  | 
+ 6 
+  |
+| 
+ Matthew 
+  | 
+ Rauseo 
+  | 
+ 5 
+  |
+| 
+ Andrea 
+  | 
+ Redi 
+  | 
+ 11 
+  |
+| 
+ Neil 
+  | 
+ Reeves 
+  | 
+ 5 
+  |
+| 
+ Gunnar 
+  | 
+ Refsdal 
+  | 
+ 17 
+  |
+| 
+ Thomas 
+  | 
+ Refsdal 
+  | 
+ 3 
+  |
+| 
+ Shawn 
+  | 
+ Regnier 
+  | 
+ 7 
+  |
+| 
+ Jeroen 
+  | 
+ Remi 
+  | 
+ 4 
+  |
+| 
+ Andrej 
+  | 
+ Renko 
+  | 
+ 2 
+  |
+| 
+ Eli 
+  | 
+ Rentmeesters 
+  | 
+ 2 
+  |
+| 
+ Alex 
+  | 
+ Renzin 
+  | 
+ 4 
+  |
+| 
+ Joshua 
+  | 
+ Reynolds 
+  | 
+ 2 
+  |
+| 
+ Ryan 
+  | 
+ Reynolds 
+  | 
+ 1 
+  |
+| 
+ Scott 
+  | 
+ Richards 
+  | 
+ 2 
+  |
+| 
+ Justin 
+  | 
+ Rider 
+  | 
+ 2 
+  |
+| 
+ Svante 
+  | 
+ Rikberg 
+  | 
+ 2 
+  |
+| 
+ Henning 
+  | 
+ Rimkus 
+  | 
+ 2 
+  |
+| 
+ Toni 
+  | 
+ Rissanen 
+  | 
+ 6 
+  |
+| 
+ Ralph 
+  | 
+ Ristedt 
+  | 
+ 3 
+  |
+| 
+ Josua 
+  | 
+ Rivera 
+  | 
+ 1 
+  |
+| 
+ Mark 
+  | 
+ Rivera 
+  | 
+ 2 
+  |
+| 
+ Tim 
+  | 
+ Rivera 
+  | 
+ 5 
+  |
+| 
+ Dave 
+  | 
+ Roderer 
+  | 
+ 3 
+  |
+| 
+ Brett 
+  | 
+ Rogers 
+  | 
+ 2 
+  |
+| 
+ Karl Heinz 
+  | 
+ Rohde 
+  | 
+ 1 
+  |
+| 
+ Carlos Eduardo 
+  | 
+ Romao 
+  | 
+ 6 
+  |
+| 
+ Ellis 
+  | 
+ Romero 
+  | 
+ 5 
+  |
+| 
+ Ben 
+  | 
+ Ronaldson 
+  | 
+ 5 
+  |
+| 
+ Karl 
+  | 
+ Ronnqvist 
+  | 
+ 2 
+  |
+| 
+ Kyle 
+  | 
+ Rose 
+  | 
+ 46 
+  |
+| 
+ Rafal 
+  | 
+ Rosochacki 
+  | 
+ 2 
+  |
+| 
+ Dan 
+  | 
+ Ross 
+  | 
+ 2 
+  |
+| 
+ Edward 
+  | 
+ Ross 
+  | 
+ 2 
+  |
+| 
+ Ilja 
+  | 
+ Rotelli 
+  | 
+ 4 
+  |
+| 
+ Viktor 
+  | 
+ Rovo 
+  | 
+ 2 
+  |
+| 
+ Brian 
+  | 
+ Rowe 
+  | 
+ 1 
+  |
+| 
+ Ben 
+  | 
+ Rubin 
+  | 
+ 27 
+  |
+| 
+ Enric 
+  | 
+ Rudamilans 
+  | 
+ 2 
+  |
+| 
+ Antoine 
+  | 
+ Ruel 
+  | 
+ 6 
+  |
+| 
+ Olivier 
+  | 
+ Ruel 
+  | 
+ 12 
+  |
+| 
+ Micheal 
+  | 
+ Rumsey 
+  | 
+ 7 
+  |
+| 
+ Ken 
+  | 
+ Russell 
+  | 
+ 3 
+  |
+| 
+ Nathan 
+  | 
+ Russell 
+  | 
+ 2 
+  |
+| 
+ Enrico 
+  | 
+ Russo 
+  | 
+ 1 
+  |
+| 
+ Brandon 
+  | 
+ Rutter 
+  | 
+ 3 
+  |
+| 
+ David 
+  | 
+ Ruzic 
+  | 
+ 2 
+  |
+| 
+ Andrey 
+  | 
+ Rybalchenko 
+  | 
+ 3 
+  |
+| 
+ Michele 
+  | 
+ Saad 
+  | 
+ 7 
+  |
+| 
+ Omar 
+  | 
+ Sagol 
+  | 
+ 3 
+  |
+| 
+ Satoshi 
+  | 
+ Sakakibara 
+  | 
+ 2 
+  |
+| 
+ Frederick 
+  | 
+ Salazar 
+  | 
+ 7 
+  |
+| 
+ Ricardo Henrique 
+  | 
+ Salgado 
+  | 
+ 2 
+  |
+| 
+ Jussi 
+  | 
+ Salovaara 
+  | 
+ 2 
+  |
+| 
+ JC 
+  | 
+ Salvador 
+  | 
+ 1 
+  |
+| 
+ Rodrigo 
+  | 
+ Sanchez 
+  | 
+ 2 
+  |
+| 
+ Fumihiko 
+  | 
+ Sano 
+  | 
+ 10 
+  |
+| 
+ Dionisio 
+  | 
+ Santidrian 
+  | 
+ 1 
+  |
+| 
+ Kawi 
+  | 
+ Santos 
+  | 
+ 2 
+  |
+| 
+ Kiyoshi 
+  | 
+ Sasanuma 
+  | 
+ 4 
+  |
+| 
+ Adrian 
+  | 
+ Sayers 
+  | 
+ 6 
+  |
+| 
+ Jeremy 
+  | 
+ Schaumkell 
+  | 
+ 2 
+  |
+| 
+ Mark 
+  | 
+ Schick 
+  | 
+ 3 
+  |
+| 
+ Matthias 
+  | 
+ Schindler 
+  | 
+ 2 
+  |
+| 
+ Andrew 
+  | 
+ Schmidt 
+  | 
+ 1 
+  |
+| 
+ Karl 
+  | 
+ Schmidt 
+  | 
+ 7 
+  |
+| 
+ Daniel 
+  | 
+ Schmitz 
+  | 
+ 2 
+  |
+| 
+ Brian 
+  | 
+ Schneider 
+  | 
+ 6 
+  |
+| 
+ Felix 
+  | 
+ Schneider 
+  | 
+ 8 
+  |
+| 
+ Oliver 
+  | 
+ Schneider 
+  | 
+ 7 
+  |
+| 
+ Jens 
+  | 
+ Schou 
+  | 
+ 1 
+  |
+| 
+ Marvin 
+  | 
+ Schrage 
+  | 
+ 3 
+  |
+| 
+ Jos 
+  | 
+ Schreurs 
+  | 
+ 4 
+  |
+| 
+ David 
+  | 
+ Schriener 
+  | 
+ 3 
+  |
+| 
+ Alexander 
+  | 
+ Schrijvers 
+  | 
+ 2 
+  |
+| 
+ Ron 
+  | 
+ Schubert 
+  | 
+ 2 
+  |
+| 
+ Micha 
+  | 
+ Schulte-Middelich 
+  | 
+ 5 
+  |
+| 
+ Wade 
+  | 
+ Schwendemann 
+  | 
+ 2 
+  |
+| 
+ Yutaka 
+  | 
+ Seki 
+  | 
+ 2 
+  |
+| 
+ Brian 
+  | 
+ Selden 
+  | 
+ 27 
+  |
+| 
+ Chris 
+  | 
+ Senhouse 
+  | 
+ 4 
+  |
+| 
+ Aras 
+  | 
+ Senyuz 
+  | 
+ 2 
+  |
+| 
+ Scott 
+  | 
+ Seville 
+  | 
+ 5 
+  |
+| 
+ Murat 
+  | 
+ Sezi 
+  | 
+ 1 
+  |
+| 
+ Thomas 
+  | 
+ Shaw 
+  | 
+ 4 
+  |
+| 
+ Hajime 
+  | 
+ Shimizu 
+  | 
+ 1 
+  |
+| 
+ Min 
+  | 
+ Shin 
+  | 
+ 7 
+  |
+| 
+ Ngan 
+  | 
+ Shing Hong 
+  | 
+ 5 
+  |
+| 
+ Stewart 
+  | 
+ Shinkins 
+  | 
+ 6 
+  |
+| 
+ Ryoma 
+  | 
+ Shiozu 
+  | 
+ 2 
+  |
+| 
+ Tsuyoshi 
+  | 
+ Shiwaku 
+  | 
+ 2 
+  |
+| 
+ Bradley 
+  | 
+ Shugg 
+  | 
+ 6 
+  |
+| 
+ John 
+  | 
+ Shuler 
+  | 
+ 5 
+  |
+| 
+ Alex 
+  | 
+ Shvartsman 
+  | 
+ 36 
+  |
+| 
+ David 
+  | 
+ Sierra Mu-oz 
+  | 
+ 1 
+  |
+| 
+ Tommaso 
+  | 
+ Signorini 
+  | 
+ 1 
+  |
+| 
+ Roberto 
+  | 
+ Silva 
+  | 
+ 2 
+  |
+| 
+ Jason 
+  | 
+ Simard 
+  | 
+ 3 
+  |
+| 
+ Stefano 
+  | 
+ Simoncini 
+  | 
+ 2 
+  |
+| 
+ Mark 
+  | 
+ Simpson 
+  | 
+ 3 
+  |
+| 
+ Jaroslav 
+  | 
+ Sita 
+  | 
+ 3 
+  |
+| 
+ Delmar Santos 
+  | 
+ Sittoni 
+  | 
+ 2 
+  |
+| 
+ Hynek 
+  | 
+ Skoda 
+  | 
+ 2 
+  |
+| 
+ Bjorn 
+  | 
+ Skogseth 
+  | 
+ 2 
+  |
+| 
+ Ziga 
+  | 
+ Skrbec 
+  | 
+ 2 
+  |
+| 
+ Mark 
+  | 
+ Slapak 
+  | 
+ 2 
+  |
+| 
+ Jakub 
+  | 
+ Slemr 
+  | 
+ 24 
+  |
+| 
+ Jeff 
+  | 
+ Sluzinski 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Smetana 
+  | 
+ 2 
+  |
+| 
+ Jake 
+  | 
+ Smith 
+  | 
+ 2 
+  |
+| 
+ Jurgen 
+  | 
+ Smutek 
+  | 
+ 4 
+  |
+| 
+ Abraham 
+  | 
+ Snepvangers 
+  | 
+ 20 
+  |
+| 
+ Mikko 
+  | 
+ Snygg 
+  | 
+ 4 
+  |
+| 
+ Michael 
+  | 
+ Sochon 
+  | 
+ 9 
+  |
+| 
+ Rickard 
+  | 
+ Soderberg 
+  | 
+ 5 
+  |
+| 
+ Siong Huat 
+  | 
+ Soh 
+  | 
+ 2 
+  |
+| 
+ Ivan 
+  | 
+ Solaja 
+  | 
+ 5 
+  |
+| 
+ Remy 
+  | 
+ Solna 
+  | 
+ 1 
+  |
+| 
+ GrŽgoire 
+  | 
+ SoubriŽ 
+  | 
+ 2 
+  |
+| 
+ Ian 
+  | 
+ Spaulding 
+  | 
+ 1 
+  |
+| 
+ William Azrael 
+  | 
+ Spear 
+  | 
+ 4 
+  |
+| 
+ Joe 
+  | 
+ Spica 
+  | 
+ 2 
+  |
+| 
+ Troy 
+  | 
+ Spillman 
+  | 
+ 2 
+  |
+| 
+ Will 
+  | 
+ Stammerjohan 
+  | 
+ 3 
+  |
+| 
+ Jack 
+  | 
+ Stanton 
+  | 
+ 5 
+  |
+| 
+ Ben 
+  | 
+ Stark 
+  | 
+ 6 
+  |
+| 
+ Jakob 
+  | 
+ Steina 
+  | 
+ 7 
+  |
+| 
+ Daniel 
+  | 
+ Steinsdorfer 
+  | 
+ 6 
+  |
+| 
+ David 
+  | 
+ Stevens 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Stewart 
+  | 
+ 2 
+  |
+| 
+ Ales 
+  | 
+ Stibinger 
+  | 
+ 2 
+  |
+| 
+ Jacob 
+  | 
+ Stirler Jr. 
+  | 
+ 1 
+  |
+| 
+ Thomas 
+  | 
+ Stoddart 
+  | 
+ 2 
+  |
+| 
+ Alexander 
+  | 
+ Strakhov 
+  | 
+ 1 
+  |
+| 
+ Adam 
+  | 
+ Strong 
+  | 
+ 4 
+  |
+| 
+ James 
+  | 
+ Stroud 
+  | 
+ 7 
+  |
+| 
+ Satoshi 
+  | 
+ Sugimoto 
+  | 
+ 2 
+  |
+| 
+ Jonsen 
+  | 
+ Sulaeman 
+  | 
+ 2 
+  |
+| 
+ Adrian 
+  | 
+ Sullivan 
+  | 
+ 9 
+  |
+| 
+ Kazuhiko 
+  | 
+ Sumi 
+  | 
+ 4 
+  |
+| 
+ Helmut 
+  | 
+ Summersberger 
+  | 
+ 2 
+  |
+| 
+ Ron 
+  | 
+ Sutton 
+  | 
+ 1 
+  |
+| 
+ Andras 
+  | 
+ Suvegas 
+  | 
+ 2 
+  |
+| 
+ Kenta 
+  | 
+ Suzuki 
+  | 
+ 2 
+  |
+| 
+ Guilherme 
+  | 
+ Svaldi 
+  | 
+ 4 
+  |
+| 
+ Brad 
+  | 
+ Swan 
+  | 
+ 8 
+  |
+| 
+ Tom 
+  | 
+ Swan 
+  | 
+ 5 
+  |
+| 
+ Robert 
+  | 
+ Swarowski 
+  | 
+ 3 
+  |
+| 
+ Lawrence 
+  | 
+ Sy 
+  | 
+ 6 
+  |
+| 
+ Dominic 
+  | 
+ Symens 
+  | 
+ 2 
+  |
+| 
+ Peter 
+  | 
+ Szigeti 
+  | 
+ 1 
+  |
+| 
+ Miguel 
+  | 
+ Tafula 
+  | 
+ 1 
+  |
+| 
+ Yuichi 
+  | 
+ Taguchi 
+  | 
+ 5 
+  |
+| 
+ Ray 
+  | 
+ Tai 
+  | 
+ 2 
+  |
+| 
+ Christopher 
+  | 
+ Takacs 
+  | 
+ 2 
+  |
+| 
+ Hideo 
+  | 
+ Takeda 
+  | 
+ 1 
+  |
+| 
+ Iwao 
+  | 
+ Takemasa 
+  | 
+ 2 
+  |
+| 
+ Tobey 
+  | 
+ Tamber 
+  | 
+ 2 
+  |
+| 
+ Kevin 
+  | 
+ Tamlyn 
+  | 
+ 1 
+  |
+| 
+ Chuen Hwa 
+  | 
+ Tan 
+  | 
+ 2 
+  |
+| 
+ Iwan 
+  | 
+ Tan 
+  | 
+ 1 
+  |
+| 
+ Joseph 
+  | 
+ Tan 
+  | 
+ 3 
+  |
+| 
+ Poy Kok 
+  | 
+ Tan 
+  | 
+ 3 
+  |
+| 
+ Hisaya 
+  | 
+ Tanaka 
+  | 
+ 1 
+  |
+| 
+ Pietro 
+  | 
+ Tanasini 
+  | 
+ 3 
+  |
+| 
+ Ray 
+  | 
+ Tautic 
+  | 
+ 2 
+  |
+| 
+ Eric 
+  | 
+ Taylor 
+  | 
+ 8 
+  |
+| 
+ Francisco 
+  | 
+ Tebar 
+  | 
+ 2 
+  |
+| 
+ Andrew 
+  | 
+ Tee 
+  | 
+ 2 
+  |
+| 
+ Eduardo 
+  | 
+ Teixeira 
+  | 
+ 5 
+  |
+| 
+ Han 
+  | 
+ Tesselaar 
+  | 
+ 1 
+  |
+| 
+ Jason 
+  | 
+ The 
+  | 
+ 2 
+  |
+| 
+ Carl 
+  | 
+ Thille 
+  | 
+ 4 
+  |
+| 
+ Mike 
+  | 
+ Thompson 
+  | 
+ 9 
+  |
+| 
+ Michael 
+  | 
+ Thornton 
+  | 
+ 2 
+  |
+| 
+ Seppo 
+  | 
+ Toikka 
+  | 
+ 5 
+  |
+| 
+ Jan 
+  | 
+ Tomcani 
+  | 
+ 1 
+  |
+| 
+ Christophe 
+  | 
+ Torng 
+  | 
+ 1 
+  |
+| 
+ Robert 
+  | 
+ Tou, Jr. 
+  | 
+ 2 
+  |
+| 
+ Dustin 
+  | 
+ Towry 
+  | 
+ 2 
+  |
+| 
+ Tony 
+  | 
+ Tsai 
+  | 
+ 6 
+  |
+| 
+ Gabriel 
+  | 
+ Tsang 
+  | 
+ 10 
+  |
+| 
+ Terry 
+  | 
+ Tsang 
+  | 
+ 17 
+  |
+| 
+ Johnathan 
+  | 
+ Tsao 
+  | 
+ 2 
+  |
+| 
+ Marc 
+  | 
+ Tschirch 
+  | 
+ 2 
+  |
+| 
+ Mau 
+  | 
+ Tsoi 
+  | 
+ 2 
+  |
+| 
+ Toshiki 
+  | 
+ Tsukamoto 
+  | 
+ 16 
+  |
+| 
+ Ricard 
+  | 
+ Tuduri 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Turian 
+  | 
+ 23 
+  |
+| 
+ Travis 
+  | 
+ Turning 
+  | 
+ 3 
+  |
+| 
+ Darryl 
+  | 
+ Tweedale 
+  | 
+ 2 
+  |
+| 
+ Torben 
+  | 
+ Twiefel 
+  | 
+ 2 
+  |
+| 
+ Shawn 
+  | 
+ Underhill 
+  | 
+ 2 
+  |
+| 
+ Joel 
+  | 
+ Unger 
+  | 
+ 2 
+  |
+| 
+ Matt 
+  | 
+ Urban 
+  | 
+ 17 
+  |
+| 
+ Federico 
+  | 
+ Vaggi 
+  | 
+ 2 
+  |
+| 
+ Stephan 
+  | 
+ Valkyser 
+  | 
+ 18 
+  |
+| 
+ Scott 
+  | 
+ Valleroy 
+  | 
+ 4 
+  |
+| 
+ Ilari 
+  | 
+ Vallivaara 
+  | 
+ 2 
+  |
+| 
+ Pepijn 
+  | 
+ Van Abbe 
+  | 
+ 3 
+  |
+| 
+ Clint 
+  | 
+ Van Alten 
+  | 
+ 2 
+  |
+| 
+ Hicham 
+  | 
+ Van Bonn 
+  | 
+ 2 
+  |
+| 
+ Trey 
+  | 
+ Van Cleave 
+  | 
+ 17 
+  |
+| 
+ Tom 
+  | 
+ Van de Logt 
+  | 
+ 5 
+  |
+| 
+ Yoram 
+  | 
+ Van Dongen 
+  | 
+ 2 
+  |
+| 
+ Evan 
+  | 
+ Van Lissum 
+  | 
+ 3 
+  |
+| 
+ Ron 
+  | 
+ Van Ostenbridge 
+  | 
+ 2 
+  |
+| 
+ Michael 
+  | 
+ Van Zander 
+  | 
+ 2 
+  |
+| 
+ Yusuf Kemal 
+  | 
+ Vefa 
+  | 
+ 2 
+  |
+| 
+ Eray 
+  | 
+ Veral 
+  | 
+ 2 
+  |
+| 
+ Kurt 
+  | 
+ Verbinnen 
+  | 
+ 3 
+  |
+| 
+ Guy 
+  | 
+ Verbruggen 
+  | 
+ 2 
+  |
+| 
+ Maurizio 
+  | 
+ Vergendo 
+  | 
+ 3 
+  |
+| 
+ Linus 
+  | 
+ Vernyns 
+  | 
+ 7 
+  |
+| 
+ Tom 
+  | 
+ Vicente 
+  | 
+ 2 
+  |
+| 
+ Tom 
+  | 
+ Vicente 
+  | 
+ 2 
+  |
+| 
+ Danny 
+  | 
+ Victor 
+  | 
+ 3 
+  |
+| 
+ Bertrand 
+  | 
+ Viel 
+  | 
+ 1 
+  |
+| 
+ Matthew 
+  | 
+ Vienneau 
+  | 
+ 16 
+  |
+| 
+ Ferran 
+  | 
+ Vila 
+  | 
+ 1 
+  |
+| 
+ Gus 
+  | 
+ Villena 
+  | 
+ 2 
+  |
+| 
+ Darcy 
+  | 
+ Villere 
+  | 
+ 2 
+  |
+| 
+ Antonio 
+  | 
+ Vinagre 
+  | 
+ 2 
+  |
+| 
+ Eric 
+  | 
+ Vinh 
+  | 
+ 8 
+  |
+| 
+ Marcus 
+  | 
+ Vinicius 
+  | 
+ 1 
+  |
+| 
+ Pasi 
+  | 
+ Virtanen 
+  | 
+ 2 
+  |
+| 
+ Andrea 
+  | 
+ Vitali 
+  | 
+ 1 
+  |
+| 
+ Michal 
+  | 
+ Vitkovsky 
+  | 
+ 6 
+  |
+| 
+ Jan 
+  | 
+ Vrijhof 
+  | 
+ 4 
+  |
+| 
+ Shinya 
+  | 
+ Wachi 
+  | 
+ 1 
+  |
+| 
+ Toby 
+  | 
+ Wachter 
+  | 
+ 2 
+  |
+| 
+ Naoya 
+  | 
+ Wada 
+  | 
+ 2 
+  |
+| 
+ Jamie 
+  | 
+ Wakefield 
+  | 
+ 2 
+  |
+| 
+ Tomi 
+  | 
+ Walamies 
+  | 
+ 3 
+  |
+| 
+ Greg 
+  | 
+ Waldeck 
+  | 
+ 2 
+  |
+| 
+ Stewart 
+  | 
+ Walker 
+  | 
+ 5 
+  |
+| 
+ Ken 
+  | 
+ Wallach 
+  | 
+ 8 
+  |
+| 
+ Sam 
+  | 
+ Waller 
+  | 
+ 11 
+  |
+| 
+ Justin 
+  | 
+ Walsh 
+  | 
+ 2 
+  |
+| 
+ Ming Chee 
+  | 
+ Wang 
+  | 
+ 2 
+  |
+| 
+ Rick 
+  | 
+ Watts 
+  | 
+ 5 
+  |
+| 
+ Cassius 
+  | 
+ Weathersby 
+  | 
+ 3 
+  |
+| 
+ Joe 
+  | 
+ Weber 
+  | 
+ 17 
+  |
+| 
+ Paul 
+  | 
+ Weber 
+  | 
+ 2 
+  |
+| 
+ Alan 
+  | 
+ Webster 
+  | 
+ 1 
+  |
+| 
+ Jason 
+  | 
+ Webster 
+  | 
+ 2 
+  |
+| 
+ Noah 
+  | 
+ Weil 
+  | 
+ 9 
+  |
+| 
+ Greg 
+  | 
+ Weiss 
+  | 
+ 8 
+  |
+| 
+ David 
+  | 
+ Weitz 
+  | 
+ 6 
+  |
+| 
+ Craig 
+  | 
+ Wescoe 
+  | 
+ 5 
+  |
+| 
+ Emma 
+  | 
+ West 
+  | 
+ 1 
+  |
+| 
+ Justin 
+  | 
+ West 
+  | 
+ 1 
+  |
+| 
+ Brendan 
+  | 
+ White 
+  | 
+ 2 
+  |
+| 
+ Jeff 
+  | 
+ White 
+  | 
+ 2 
+  |
+| 
+ Mark 
+  | 
+ White 
+  | 
+ 9 
+  |
+| 
+ Morgan 
+  | 
+ Whitmont 
+  | 
+ 2 
+  |
+| 
+ Jeremy 
+  | 
+ Widder 
+  | 
+ 2 
+  |
+| 
+ Jelger 
+  | 
+ Wiegersma 
+  | 
+ 11 
+  |
+| 
+ Brady 
+  | 
+ Williams 
+  | 
+ 2 
+  |
+| 
+ David 
+  | 
+ Williams 
+  | 
+ 18 
+  |
+| 
+ Zach 
+  | 
+ Willmon 
+  | 
+ 2 
+  |
+| 
+ Gabriel 
+  | 
+ Wilson 
+  | 
+ 3 
+  |
+| 
+ Gary 
+  | 
+ Wise 
+  | 
+ 28 
+  |
+| 
+ Wouter 
+  | 
+ Witkam 
+  | 
+ 3 
+  |
+| 
+ Alexander 
+  | 
+ Witt 
+  | 
+ 10 
+  |
+| 
+ Andrew 
+  | 
+ Wolf 
+  | 
+ 2 
+  |
+| 
+ Steven 
+  | 
+ Wolfman 
+  | 
+ 4 
+  |
+| 
+ Gregor 
+  | 
+ Wollny 
+  | 
+ 3 
+  |
+| 
+ Worth 
+  | 
+ Wollpert 
+  | 
+ 18 
+  |
+| 
+ Nicholas Jonathan 
+  | 
+ Wong 
+  | 
+ 4 
+  |
+| 
+ Paul 
+  | 
+ Woo 
+  | 
+ 1 
+  |
+| 
+ Norman 
+  | 
+ Woods 
+  | 
+ 4 
+  |
+| 
+ Mark 
+  | 
+ Wraith 
+  | 
+ 8 
+  |
+| 
+ Randy 
+  | 
+ Wright 
+  | 
+ 5 
+  |
+| 
+ Timothy 
+  | 
+ Wu 
+  | 
+ 3 
+  |
+| 
+ Andrew 
+  | 
+ Wynne 
+  | 
+ 2 
+  |
+| 
+ Makoto 
+  | 
+ Yamada 
+  | 
+ 2 
+  |
+| 
+ Tsutomu 
+  | 
+ Yamada 
+  | 
+ 4 
+  |
+| 
+ Tatsuo 
+  | 
+ Yamaguchi 
+  | 
+ 4 
+  |
+| 
+ Tyron 
+  | 
+ Yamaguchi 
+  | 
+ 1 
+  |
+| 
+ Yoichiro 
+  | 
+ Yamakawa 
+  | 
+ 1 
+  |
+| 
+ Kazune 
+  | 
+ Yamazaki 
+  | 
+ 1 
+  |
+| 
+ Makoto 
+  | 
+ Yamazoe 
+  | 
+ 2 
+  |
+| 
+ Clifford 
+  | 
+ Yap 
+  | 
+ 1 
+  |
+| 
+ Kok Hou 
+  | 
+ Yap 
+  | 
+ 2 
+  |
+| 
+ Gottlieb 
+  | 
+ Yeh 
+  | 
+ 3 
+  |
+| 
+ John 
+  | 
+ Yoo 
+  | 
+ 9 
+  |
+| 
+ Kenny 
+  | 
+ York 
+  | 
+ 1 
+  |
+| 
+ Lin 
+  | 
+ Yous 
+  | 
+ 2 
+  |
+| 
+ Dino Eric 
+  | 
+ Yu 
+  | 
+ 6 
+  |
+| 
+ Alejo 
+  | 
+ Zagalsky 
+  | 
+ 3 
+  |
+| 
+ Way Leong 
+  | 
+ Zee 
+  | 
+ 1 
+  |
+| 
+ Benjamin 
+  | 
+ Zhu 
+  | 
+ 2 
+  |
+| 
+ Eric 
+  | 
+ Ziegler 
+  | 
+ 2 
+  |
+| 
+ Sasha 
+  | 
+ Zorc 
+  | 
+ 3 
+  |
+| 
+ Martin 
+  | 
+ Zurcher 
+  | 
+ 4 
+  |
+
+
+
+
+
+
+
