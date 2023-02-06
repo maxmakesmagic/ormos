@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/common-ground-2004-11-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208093159id_/https://magic.wizards.com/en/articles/archive/feature/common-ground-2004-11-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 09:31:59+00:00"
-[_metadata_:publish_date]:- "2004-11-24"
 [_metadata_:description]:- "What do these decks have in common?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-11-24"
 ---
 
 

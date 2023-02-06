@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fond-farewell-2002-09-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127073055id_/https://magic.wizards.com/en/articles/archive/feature/fond-farewell-2002-09-04"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 07:30:55+00:00"
-[_metadata_:publish_date]:- "2002-09-04"
 [_metadata_:description]:- "In last week’s article, I claimed that Invasion was my favorite block for constructed play in the entire history of Magic. There are a plethora of themes, ideas and innovations packed into its six hundred and sixteen cards (subtracting the twenty basic lands). However, Onslaught lurks just around the corner and will soon replace the Invasion block (Invasion, Planeshift, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-09-04"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurplayer-list-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519054819id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurplayer-list-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 05:48:19+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Abdul Jalal, Abdul Halim Bin (114) Abdul Wahab, Mohammad Nazim (143) Ahmad Kamal, Ahmad Omar ( 55) Ahmad, Ahmad (282) Ahmad, Wan Hafiz Wan (142) Amzar, Hazwan (263) Ang, Jun Yang (120) Ang, Kok Boon ( 99) Ang, Kok Keong (212) Au Yong, Wai Kin ( 56) Aw-Yeong, Weng Kong (134) Bedoucha, William Francois (105) Bhanot, Sachin Ajay (245) Bhaskaran, Ryan (293) Bux, Asyraf (274)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

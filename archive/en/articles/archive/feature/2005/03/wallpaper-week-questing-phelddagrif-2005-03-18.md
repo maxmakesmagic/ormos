@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-questing-phelddagrif-2005-03-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026032615id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-questing-phelddagrif-2005-03-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 03:26:15+00:00"
-[_metadata_:publish_date]:- "2005-03-18"
 [_metadata_:description]:- "As a follow-up to last month's Phelddagrif wallpaper, this week's desktop wallpaper is Matt Cavotta's Questing Phelddagrif from Planeshift. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-03-18"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quest-karn-2011-04-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429185908id_/https://magic.wizards.com/en/articles/archive/feature/quest-karn-2011-04-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 18:59:08+00:00"
-[_metadata_:publish_date]:- "2011-04-20"
 [_metadata_:description]:- "Coming April 26, 2011At the edge of Mirrodin's metallic fields lies the toxic morass of the Mephidross, a vast swamp whose power feeds the world's blackest souls. Rumors of strange and deadly creatures emerging from the dark fen are spreading faster than its corroded borders. Few who have seen these abominations believe them to be a new order of the undead Nim. Fewer still"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-04-20"
 ---
 
 

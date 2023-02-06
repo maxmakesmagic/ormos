@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-not-kind-green-card-2006-01-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503075253id_/https://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-not-kind-green-card-2006-01-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:52:53+00:00"
-[_metadata_:publish_date]:- "2006-01-12"
 [_metadata_:description]:- "Quick Quiz: What is the best Green card in Standard today?If you said anything other than `Sakura-Tribe Elder` from Champions of Kamigawa, you haven't been paying attention to Constructed Magic for the last year and a half. The unassuming Rampant Growth with legs… err… scales hit the scene running, absorbed Arcbound Ravager collisions in its rookie season while setting up its"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-01-12"
 ---
 
 

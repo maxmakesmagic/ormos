@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-south-africa-national-championship-2009-06-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025231535id_/https://magic.wizards.com/en/articles/archive/feature/2009-south-africa-national-championship-2009-06-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 23:15:35+00:00"
-[_metadata_:publish_date]:- "2009-06-24"
 [_metadata_:description]:- "NameQualified TotalQualified CompositeQualified Event Adam, KatzTotal RatingComposite RatingChampion Dale, FienbergTotal RatingComposite RatingTeam Seraj, HarounTotal RatingComposite RatingTeam Marvin, Hsiao Composite RatingTeam Seone, KhaketlaTotal RatingComposite RatingBloemfontein Sanjay, RoopnahTotal RatingComposite RatingDurban Stefan, VeselyTotal RatingComposite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-24"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/artists-magic-magali-villeneuve-2017-08-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112001646id_/https://magic.wizards.com/en/articles/archive/feature/artists-magic-magali-villeneuve-2017-08-29"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:16:46+00:00"
-[_metadata_:publish_date]:- "2017-08-29"
 [_metadata_:description]:- "Nicholas caught up with Magali Villeneuve to talk about how she brings each of her pieces from imagination through to reality."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-08-29"
 ---
 
 

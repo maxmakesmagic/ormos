@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-stirring-wildwood-2010-02-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201160532id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-stirring-wildwood-2010-02-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-01 16:05:32+00:00"
-[_metadata_:publish_date]:- "2010-02-26"
 [_metadata_:description]:- "This week's desktop wallpaper features Eric Deschamps's Stirring Wildwood art from Worldwake. Enjoy. 1024x768 pixels 1280x960 pixels 1280x1024 pixels 2560x1600 pixels 320x480 pixels (iPhone) See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-02-26"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206094256id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 09:42:56+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Burgner, Kurt 24 64.2361 88.8889 57.8771 8/8/0/0 2 Tsang, Terry 21 61.9792 77.7778 58.8252 8/7/0/0 3 Ljones, Christer 21 61.2599 66.6667 60.0794 8/7/0/0 4 Blackwell, Trevor 21 61.0863 72.2222 60.1185 8/7/0/0 5 Frayman, Igor 21 54.6875 73.6842 53.1394 8/7/0/0 6 Herzog, Nicolai 20 57.6042 82.3529 55.6103"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

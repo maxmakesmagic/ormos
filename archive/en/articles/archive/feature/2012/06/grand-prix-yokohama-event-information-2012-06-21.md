@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-event-information-2012-06-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023122741id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-event-information-2012-06-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 12:27:41+00:00"
-[_metadata_:publish_date]:- "2012-06-21"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Official hashtag: #gpyok Date: June 23-24, 2012Format: ModernTournament Location Pacifico Yokohama Hall A 1-1-1 Minato Mirai, Nishi-ku Yokohama-shi, Kanagawa-ken Japan Registration: ¥3000 on Friday, ¥3500 on Saturday Friday, June 22: 16.00 – 20.00 Saturday,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-21"
 ---
 
 

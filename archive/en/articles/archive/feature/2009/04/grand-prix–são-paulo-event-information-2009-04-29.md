@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93s%C3%A3o-paulo-event-information-2009-04-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026131552id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93s%C3%A3o-paulo-event-information-2009-04-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:15:52+00:00"
-[_metadata_:publish_date]:- "2009-04-29"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: June 13-14, 2009 Format: Standard Tournament Location Esporte Clube Sírio Av. Indianópolis, 1192 São Paulo – SP 04061-011 Brazil +55 11 2189-8588 Registration: R$35,00 (around USD$16,00 or AR$60,00) Friday, June 12: 2 p.m. – 9 p.m. Saturday, June 13: 7:30 a.m. – 8:30 a.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-29"
 ---
 
 

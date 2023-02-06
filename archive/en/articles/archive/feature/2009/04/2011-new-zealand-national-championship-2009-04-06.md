@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-new-zealand-national-championship-2009-04-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121125434id_/https://magic.wizards.com/en/articles/archive/feature/2011-new-zealand-national-championship-2009-04-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 12:54:34+00:00"
-[_metadata_:publish_date]:- "2009-04-06"
 [_metadata_:description]:- "Please note – While it was out intention to bring Nationals to Christchurch this year, the considerable damage to the city infrastructure during the recent Earthquake has unfortunately meant we needed to move the location of this marquee event in 2011. It is our strong intention to return to Christchurch in 2012."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-06"
 ---
 
 

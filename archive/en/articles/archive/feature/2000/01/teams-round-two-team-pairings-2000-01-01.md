@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-two-team-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031033359id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-two-team-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-31 03:33:59+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TableTeamPointsTeamPoints1United States154vs.Spain1422Netherlands140vs.Czech Republic1383Germany138vs.Portugal1274Italy127vs.Sweden127"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-niigata-trials-2005-04-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023080937id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-niigata-trials-2005-04-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 08:09:37+00:00"
-[_metadata_:publish_date]:- "2005-04-26"
 [_metadata_:description]:- "CountryDateCityVenueContactSingapore19-Jun-05SingaporeSerene Centregou_uraki@hotmail.comMalaysia26-Jun-05Kuala LumpurPetaling Jayaccgorganizer@myjaring.netMalaysia3-Jul-05PenangOne Stop Midland Park mtg_penang@yahoo.comSouth Korea12-Jun-05SeoulDobong Public Hallzikuin@hanmail.netTaiwan18-Jun-05TaipeiCard masterjiaku_tw@sinamail.comTaiwan19-Jun-05TainanCartoon Magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-04-26"
 ---
 
 

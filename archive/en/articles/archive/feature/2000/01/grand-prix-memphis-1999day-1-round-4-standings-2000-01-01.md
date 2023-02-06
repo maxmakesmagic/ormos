@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-4-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202010558id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-4-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-02 01:05:58+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Jafari, David 12 75.00 2 Pustilnik, Michael 12 75.00 3 O'Mahoney-Schwartz, Steve 12 75.00 4 Parke, Jamie 12 75.00 5 Crosby, Joseph 12 75.00 6 Price, David 12 75.00 7 Van Cleave, Trey 12 75.00 8 Cain, Joseph 12 75.00 9 Bradley, James G."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-mercadian-masques-block-release-events-2011-11-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112002249id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-mercadian-masques-block-release-events-2011-11-29"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:22:49+00:00"
-[_metadata_:publish_date]:- "2011-11-29"
 [_metadata_:description]:- "Experience Mercadian Masques Block like never before!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-11-29"
 ---
 
 

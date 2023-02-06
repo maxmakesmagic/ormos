@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/membership-has-its-privileges-2006-01-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502164357id_/https://magic.wizards.com/en/articles/archive/feature/membership-has-its-privileges-2006-01-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:43:57+00:00"
-[_metadata_:publish_date]:- "2006-01-18"
 [_metadata_:description]:- "I only get one preview card this time around, so I made sure to make it count. At first glance, the Orzhov may not seem like the strongest guild. Chris Pikula has taken a deck with Orzhov flavor and proven it is a serious competitor in Legacy, but White/Black is not thought of as the same kind of staple as Red/Green beatdown or a Red/Blue deck full of spells. It also probably"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-01-18"
 ---
 
 

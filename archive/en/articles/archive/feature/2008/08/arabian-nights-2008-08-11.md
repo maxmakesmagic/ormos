@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/arabian-nights-2008-08-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120182051id_/https://magic.wizards.com/en/articles/archive/feature/arabian-nights-2008-08-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:20:51+00:00"
-[_metadata_:publish_date]:- "2008-08-11"
 [_metadata_:description]:- "Collector's Highlights There are 78 unique cards in Arabian Nights, broken down as follows: 26 commons, 51 uncommons, and one basic land (a Mountain). The commons and uncommons appear at different frequencies. In addition, 14 of the commons were printed in two subtle variations (called `a` and `b`), causing some collectors to view the set as actually containing 92 cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-11"
 ---
 
 

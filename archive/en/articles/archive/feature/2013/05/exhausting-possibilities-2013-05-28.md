@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/exhausting-possibilities-2013-05-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519133828id_/https://magic.wizards.com/en/articles/archive/feature/exhausting-possibilities-2013-05-28"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:38:28+00:00"
-[_metadata_:publish_date]:- "2013-05-28"
 [_metadata_:description]:- "I've been getting a lot of reader submissions and requests about building a Standard deck that combines Possibility Storm and Curse of Exhaustion to lock the opponent out of casting spells. Today, I'm going to look at a reader submission based around that combo."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-28"
 ---
 
 

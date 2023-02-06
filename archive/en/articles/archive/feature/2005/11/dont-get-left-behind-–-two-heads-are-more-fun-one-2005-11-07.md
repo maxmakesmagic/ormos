@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dont-get-left-behind-%E2%80%93-two-heads-are-more-fun-one-2005-11-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811074027id_/http://magic.wizards.com/en/articles/archive/feature/dont-get-left-behind-%E2%80%93-two-heads-are-more-fun-one-2005-11-07"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-11 07:40:27+00:00"
-[_metadata_:publish_date]:- "2005-11-07"
 [_metadata_:description]:- "Over my many years as a Pro Tour (and now a Pro Tour Qualifier) player, there have been numerous times where I would have gladly given one of my nuts (in the Nut Collector sense of course) to have a close friend watching over my play."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-07"
 ---
 
 

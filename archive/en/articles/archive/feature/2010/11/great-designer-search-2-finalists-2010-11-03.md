@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005255id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:55+00:00"
-[_metadata_:publish_date]:- "2010-11-03"
 [_metadata_:description]:- "NAME: Ethan FleischerMULTIPLE CHOICE SCORE: 46ESSAYS:1. Introduce yourself and explain why you are a good fit for this internship.I'm Ethan Fleischer. Currently I'm a bookseller (specializing in Philosophy, Archaeology, and Anthropology books), a web designer (specializing in Flash design and development), a comic writer/artist (specializing in comedic space operas with heavy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-11-03"
 ---
 
 

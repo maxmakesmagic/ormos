@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/roe-prerelease-reports-2010-04-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119070440id_/https://magic.wizards.com/en/articles/archive/feature/roe-prerelease-reports-2010-04-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 07:04:40+00:00"
-[_metadata_:publish_date]:- "2010-04-23"
 [_metadata_:description]:- "Last weekend was the worldwide Rise of the Eldrazi Prerelease, which makes this weekend the worldwide Rise of the Eldrazi Launch Party! All of which makes right now the perfect time to get the scoop on Rise of the Eldrazi Sealed Deck from the folks who got first-hand experience at the Prerelease. Chris Jobin at StarCityGames.com wrote: But what is it that makes Rise Limited so"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-04-23"
 ---
 
 

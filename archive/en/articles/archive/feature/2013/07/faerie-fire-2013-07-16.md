@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/faerie-fire-2013-07-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025171251id_/https://magic.wizards.com/en/articles/archive/feature/faerie-fire-2013-07-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 17:12:51+00:00"
-[_metadata_:publish_date]:- "2013-07-16"
 [_metadata_:description]:- "It's been quite some time since I've cast a Spellstutter Sprite, and to be honest, I miss it. When I saw this beauty of a deck in the Top 16 decklists from Grand Prix Kansas City, it immediately piqued my interest. Not only does it utilize the power of Spellstutter Sprite, it also has Delver of Secrets and Snapcaster Mage, more cards that are incredibly sweet. Besides Sprites,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-16"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-dynasty-vs-ken-ho-all-stars-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701103658id_/https://magic.wizards.com/en/articles/archive/feature/round-9-dynasty-vs-ken-ho-all-stars-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-01 10:36:58+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Dynasty vs. The Ken Ho All-StarsBrian Hacker and Gab Tsang picked their specialty format to attempt to make their return to the Pro Tour: team draft. These two elders of the team draft tribe have teamed up with kindred spirit Ben Rubin as team Dynasty and they need an invitation here or 10 PT points at Worlds to get their invite. With just two rounds left in the Swiss they"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

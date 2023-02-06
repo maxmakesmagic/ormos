@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pauper-fiend-2013-12-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160826164312id_/http://magic.wizards.com/en/articles/archive/feature/pauper-fiend-2013-12-18"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-26 16:43:12+00:00"
-[_metadata_:publish_date]:- "2013-12-18"
 [_metadata_:description]:- "Pauper is Magic Online's format that uses only commons, but that doesn't mean it isn't a format capable of quick wins. _Shaper_ finished 2nd in a Pauper Premier Event with a Pauper version of a deck that current Magic R&amp;D intern Gerry Thompson played at Pro Tour Return to Ravnica"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-12-18"
 ---
 
 

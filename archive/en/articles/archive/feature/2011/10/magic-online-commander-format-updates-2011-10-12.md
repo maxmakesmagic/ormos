@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-commander-format-updates-2011-10-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021033111id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-commander-format-updates-2011-10-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 03:31:11+00:00"
-[_metadata_:publish_date]:- "2011-10-12"
 [_metadata_:description]:- "We are happy to announce that as part of the Innistrad card set deployment we have made some updates to the Commander format. First, we have increased the maximum number of players who can play Commander from four to six allowing even more flexibility in multiplayer matches. Now the game creator can start a game with anywhere from 3 to 6 players, all he or she has to do is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-10-12"
 ---
 
 

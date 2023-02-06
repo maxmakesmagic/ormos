@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/frontier-magic-2010-05-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160724142204id_/http://magic.wizards.com/en/articles/archive/feature/frontier-magic-2010-05-24"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-24 14:22:04+00:00"
-[_metadata_:publish_date]:- "2010-05-24"
 [_metadata_:description]:- "As a `diversity gamer` Timmy, I'm a huge fan of variant formats, from Vanguard to Planar Magic to Archenemy. Whether they're good for one hour of play or one hundred, variant formats are—for some of us, anyway—always worth exploring. Thus, I was delighted to rediscover this little gem from The Duelist, the analog ancestor of the modern magicthegathering.com."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-24"
 ---
 
 

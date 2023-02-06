@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-10-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129185053id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-10-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-29 18:50:53+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Godzilla 27 67.98 2 UNLUCKY'S 27 63.00 3 NEW WAVE 25 64.98 4 Masato Club 25 63.61 5 Executioners 23 67.39 6 Ray Force 23 63.38 7 WACHI-DE? 22 73.57 8 Team Iwamoto 22 65.98 9 Team Masato 22 61.48 10 Trickster 22 56.52 11 NAGOYAN 21 67.69 12 Team Wild 21 63.43 13 Poor Shark 19 65.93 14 Long Thinking NEO Alpha 19 62.24 15 T.F.Z. 19 61.09 16 Team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

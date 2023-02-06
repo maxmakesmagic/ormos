@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-11-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201013540id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-11-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-01 01:35:40+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Tongo Nation Your Move Games Mike Long moves the pack so all the players at the table can see it. The French players are on the vanguard of Magic fashion. With ten minutes to go in the round, Jon Finkel needs one of his teammates to win a match to send his team to the top 4. To his relief, Steven O'Mahoney-Schwartz won with four minutes remaining. THL member Drew McLean,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

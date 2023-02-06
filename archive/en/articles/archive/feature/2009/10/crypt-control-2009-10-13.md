@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/crypt-control-2009-10-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028024557id_/https://magic.wizards.com/en/articles/archive/feature/crypt-control-2009-10-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 02:45:57+00:00"
-[_metadata_:publish_date]:- "2009-10-13"
 [_metadata_:description]:- "[decklist] Title: John Treviranus's Crypt Control Format: Standard 4 Crumbling Necropolis 4 Crypt of Agadeem 4 Dragonskull Summit 1 Drowned Catacomb 1 Island 8 Swamp 4 Architects of Will 4 Fleshbag Marauder 4 Gatekeeper of Malakir 1 Jhessian Zombies 4 Monstrous Carabid 2 Vampire Hexmage 4 Viscera Dragger 2 Banefire 4 Consume Spirit 1 Diabolic Tutor 1 Earthquake 4 Sign in Blood"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-13"
 ---
 
 

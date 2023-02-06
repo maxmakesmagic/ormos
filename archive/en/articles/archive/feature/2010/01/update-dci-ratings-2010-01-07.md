@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/update-dci-ratings-2010-01-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210822191737id_/https://magic.wizards.com/en/articles/archive/feature/update-dci-ratings-2010-01-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-08-22 19:17:37+00:00"
-[_metadata_:publish_date]:- "2010-01-07"
 [_metadata_:description]:- "As many of you have noticed, the DCI ratings have not been published since December 14. The ratings have been run each week, but the system that publishes the results is not currently functioning. We expect to have this problem solved early next week. An additional issue is that the January 6 ratings are to be used to invite players to Pro Tour–San Diego. When we publish the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-07"
 ---
 
 

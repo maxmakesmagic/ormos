@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-first-card-2003-09-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805230802id_/https://magic.wizards.com/en/articles/archive/feature/my-first-card-2003-09-24"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-05 23:08:02+00:00"
-[_metadata_:publish_date]:- "2003-09-24"
 [_metadata_:description]:- "People that work on Magic—well, designers specifically—like to tell the story of the first card they ever created. I get to tell that story now. It's not a particularly good story, but it is the only one I have. So here goes…"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-09-24"
 ---
 
 

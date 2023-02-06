@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-2012-03-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160908193252id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-2012-03-06"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-08 19:32:52+00:00"
-[_metadata_:publish_date]:- "2012-03-06"
 [_metadata_:description]:- "Summary The Dark Ascension set release broke Magic Online’s concurrent user and activity records. The new client project continues to progress in a closed beta. We have two concurrent infrastructure and feature bundles under development for release in 2012."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-06"
 ---
 
 

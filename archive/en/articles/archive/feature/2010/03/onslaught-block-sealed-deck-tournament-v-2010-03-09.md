@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/onslaught-block-sealed-deck-tournament-v-2010-03-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522053931id_/https://magic.wizards.com/en/articles/archive/feature/onslaught-block-sealed-deck-tournament-v-2010-03-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 05:39:31+00:00"
-[_metadata_:publish_date]:- "2010-03-09"
 [_metadata_:description]:- "T he Battle for the Mirari, a mysterious and powerful artifact, has ended. The mighty barbarian Kamahl has been embraced by the Krosan Forest and claims the Mirari in its name - but his trials aren't over yet. The Cabal still holds the continent of Otaria firmly in its merciless grip, and fearsome new threats have appeared along with a new enemy - Ixidor the master"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-09"
 ---
 
 

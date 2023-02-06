@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scarred-part-iii-2011-01-20-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923031427id_/https://magic.wizards.com/en/articles/archive/feature/scarred-part-iii-2011-01-20-0"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-23 03:14:27+00:00"
-[_metadata_:publish_date]:- "2011-01-20"
 [_metadata_:description]:- "The conclusion is at hand! Koth of the Hammer; Venser, the Sojourner; and Elspeth Tirel continue their journey in Scarred, Part III and they run into what can only be described as Phyrexian Trouble. Hurry! Read Scarred, Part III now!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-20"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-expansion-2-may-12-2010-2010-05-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028184429id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-expansion-2-may-12-2010-2010-05-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 18:44:29+00:00"
-[_metadata_:publish_date]:- "2010-05-10"
 [_metadata_:description]:- "On May 12, Magic: The Gathering and video game fans worldwide can play with new decks, experience never-before-seen challenges, and battle new adversaries on Xbox LIVE Arcade with the second expansion for Magic: The Gathering – Duels of the Planeswalkers."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-10"
 ---
 
 

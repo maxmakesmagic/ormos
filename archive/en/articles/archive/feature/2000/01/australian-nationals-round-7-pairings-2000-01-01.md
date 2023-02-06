@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525134613id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 13:46:13+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Table Opponent Adams, Joel ( 15) 35 Thorpe, Hamish ( 9) Ansell, Robert ( 31) 24 Evans, David ( 24) Bandas, Jim ( 80) 11 Fung, Kerry ( 59) Barlow, Russell ( 19) 20 Pham, Hieu ( 16) Bow, Frankle ( 83) 5 Brebach, Kim ( 32) Bray, Jonathan ( 70) 13 Nguyen, Early ( 67) Brebach, Kim ( 32) 5 Bow, Frankle ( 83) Brugman, John ( 41) 23 Stoddart, Thomas ( 1) Campbell, Stephen ( 69)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

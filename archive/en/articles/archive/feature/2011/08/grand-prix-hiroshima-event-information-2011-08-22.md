@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-hiroshima-event-information-2011-08-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030154552id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-hiroshima-event-information-2011-08-22"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 15:45:52+00:00"
-[_metadata_:publish_date]:- "2011-08-22"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Official hashtag: #gphiro"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-08-22"
 ---
 
 

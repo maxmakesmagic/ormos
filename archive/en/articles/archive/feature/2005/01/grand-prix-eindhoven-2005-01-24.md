@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-eindhoven-2005-01-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502180406id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-eindhoven-2005-01-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 18:04:06+00:00"
-[_metadata_:publish_date]:- "2005-01-24"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events. You can now pre-register online for this exciting event! Note that pre-registration closes 7 days before the event and is not necessary. For more information contactTel: +32 70/233.277e-mail:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-01-24"
 ---
 
 

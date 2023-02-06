@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/latest-online-standard-and-mtgo-iii-news-2006-09-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528140851id_/https://magic.wizards.com/en/articles/archive/feature/latest-online-standard-and-mtgo-iii-news-2006-09-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-28 14:08:51+00:00"
-[_metadata_:publish_date]:- "2006-09-13"
 [_metadata_:description]:- "Howdy and welcome back to Online Tech. I'll start right away with Standard, as usual, but after that I have a lot of Magic Online 3 news for you! In the following table I have listed the 20 most popular Standard decks as seen on the Magic Online Premier Events last week. You can click on a deck name to go to the corresponding post in my deck-o-pedia forum thread, where you can"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-09-13"
 ---
 
 

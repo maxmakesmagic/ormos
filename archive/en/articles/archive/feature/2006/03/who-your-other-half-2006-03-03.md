@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/who-your-other-half-2006-03-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021062629id_/https://magic.wizards.com/en/articles/archive/feature/who-your-other-half-2006-03-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 06:26:29+00:00"
-[_metadata_:publish_date]:- "2006-03-03"
 [_metadata_:description]:- "A long time ago, when I first started playing Magic, rarely were our games about who was the better player, and they almost never involved just two players. Each time my friends and I would get together, we would play some of our favorite multiplayer variants. Whether playing a chaos game where there were no teams, just loose alliances that changed quickly, or a team format"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-03-03"
 ---
 
 

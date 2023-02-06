@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dragonmaster-jund-2013-07-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526123055id_/https://magic.wizards.com/en/articles/archive/feature/dragonmaster-jund-2013-07-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:30:55+00:00"
-[_metadata_:publish_date]:- "2013-07-19"
 [_metadata_:description]:- "If you want an interesting Dragon-related Standard deck, there's no better source than Brian Kibler. He recently built an aggressive Jund deck, which he not only played at GP Miami, but also has been streaming. The deck eschews playing all the removal that normal Jund plays, instead rocking the full set of Thundermaw Hellkites, Falkenrath Aristocrats, Flinthoof Boars, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-19"
 ---
 
 

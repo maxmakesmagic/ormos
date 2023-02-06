@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-3-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205223101id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-3-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-12-05 22:31:01+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Points Team Points Team 6 3 Aces 6 Matrix 6 Antarctica 6 Whatever 3 Backstreetboys 3 Operation Wizzy Nine 3 BattleZone 3 Team Wildcat 3 Beat Squad 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

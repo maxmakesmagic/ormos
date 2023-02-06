@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nayallies-2010-03-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021074543id_/https://magic.wizards.com/en/articles/archive/feature/nayallies-2010-03-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 07:45:43+00:00"
-[_metadata_:publish_date]:- "2010-03-26"
 [_metadata_:description]:- "[decklist] Title: Shirai Taiga's Nayallies Format: Worldwake Game Day 4 Arid Mesa 1 Forest 4 Jungle Shrine 3 Mountain 3 Plains 4 Stirring Wildwood 4 Sunpetal Grove 4 Akoum Battlesinger 4 Bloodbraid Elf 2 Dauntless Escort 4 Hada Freeblade 4 Kabira Evangel 4 Kazandu Blademaster 4 Oran-Rief Survivalist 3 Talus Paladin 3 Naya Charm 1 Sarkhan Vol 4 Violent Outburst *1 Basilisk"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-26"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/morning-open-analysis-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525143836id_/https://magic.wizards.com/en/articles/archive/feature/morning-open-analysis-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 14:38:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Adrian Sullivan The first U.S. Open is often the largest, and this year was no exception. With 212 competitors hoping to make it into Nationals, the first Open had more than a few well-known names in the mix - competitors like former U.S. National Team Member Bryce Currence, New Wave columnist Seth Burn, Junior Super Series great Geddes Cooper, and Atlanta deckbuilder"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

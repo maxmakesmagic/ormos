@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dark-fires-2010-12-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170312005921id_/http://magic.wizards.com/en/articles/archive/feature/dark-fires-2010-12-09"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-12 00:59:21+00:00"
-[_metadata_:publish_date]:- "2010-12-09"
 [_metadata_:description]:- "[decklist] Title: Jan Tomcani's Dark Fires Format: Top 8 - 2001 World Championships 8 Forest 3 Mountain 2 City of Brass 2 Llanowar Wastes 2 Sulfurous Springs 3 Karplusan Forest 4 Rishadan Port 4 Llanowar Elves 4 Birds of Paradise 4 Blastoderm 4 Thornscape Battlemage 2 Spiritmonger 2 Flametongue Kavu 2 Kavu Chameleon 4 Fires of Yavimaya 4 Saproling Burst 4 Fire // Ice 2 Urza's Rage *2 Kavu Chameleon *2 Obliterate"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-12-09"
 ---
 
 

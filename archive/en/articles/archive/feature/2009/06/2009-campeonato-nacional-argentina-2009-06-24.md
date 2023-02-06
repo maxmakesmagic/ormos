@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-argentina-2009-06-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527033401id_/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-argentina-2009-06-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 03:34:01+00:00"
-[_metadata_:publish_date]:- "2009-06-24"
 [_metadata_:description]:- "First Last Invitation Source Regional Date Regional City Regional Country Adrian Saredo 2008 National Champion n/a n/a n/a Joaquin Alvarez Rivera 2008 National Team n/a n/a n/a Gonzalo Ferrari Spampinato 2008 National Team n/a n/a n/a Adrian Saredo 2008 National Team n/a n/a n/a Pedro de Diego 2008 Alternate n/a n/a n/a Joaquin Alvarez Rivera Pro Club 2+ n/a n/a n/a Damian"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-24"
 ---
 
 

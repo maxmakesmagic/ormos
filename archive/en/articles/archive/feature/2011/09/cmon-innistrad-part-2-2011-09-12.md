@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cmon-innistrad-part-2-2011-09-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200929142833id_/https://magic.wizards.com/en/articles/archive/feature/cmon-innistrad-part-2-2011-09-12"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-29 14:28:33+00:00"
-[_metadata_:publish_date]:- "2011-09-12"
 [_metadata_:description]:- "Welcome to Week 3 of Innistrad previews. Today I will continue the story of Innistrad design and show off a preview card that is as top down as they come. If you haven't read the previous two articles (Every Two Sides Has a Story and Part 1 of this article ), I urge you read them first, as I'm writing this article assuming you have."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-12"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prismatic-fifth-dawn-era-2004-07-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921130929id_/https://magic.wizards.com/en/articles/archive/feature/prismatic-fifth-dawn-era-2004-07-26"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-21 13:09:29+00:00"
-[_metadata_:publish_date]:- "2004-07-26"
 [_metadata_:description]:- "I play Prismatic because it's wacky. Prismatic's deck construction requirements (see my earlier articles if you need background on what Prismatic's about) enforce a state of wackiness. The most powerful cards in Magic Online share the stack with spells you may not have ever heard of."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-07-26"
 ---
 
 

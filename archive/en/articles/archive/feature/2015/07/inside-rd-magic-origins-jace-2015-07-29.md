@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/inside-rd-magic-origins-jace-2015-07-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150731002303id_/http://magic.wizards.com/en/articles/archive/feature/inside-rd-magic-origins-jace-2015-07-29"
 [_metadata_:wayback_capture_timestamp]:- "2015-07-31 00:23:03+00:00"
-[_metadata_:publish_date]:- "2015-07-29"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Learn more about Magic Origin's five Planeswalkers and their stories in the latest episodes of Inside R&D."
+[_metadata_:publish_date]:- "2015-07-29"
 ---
 
 

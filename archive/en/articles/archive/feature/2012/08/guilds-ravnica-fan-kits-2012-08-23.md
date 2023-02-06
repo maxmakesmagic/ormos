@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/guilds-ravnica-fan-kits-2012-08-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170508215706id_/http://magic.wizards.com/en/articles/archive/feature/guilds-ravnica-fan-kits-2012-08-23"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-08 21:57:06+00:00"
-[_metadata_:publish_date]:- "2012-08-23"
 [_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-23"
 ---
 
 

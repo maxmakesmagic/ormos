@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/turbo-ogre-control-2009-04-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124035449id_/https://magic.wizards.com/en/articles/archive/feature/turbo-ogre-control-2009-04-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-24 03:54:49+00:00"
-[_metadata_:publish_date]:- "2009-04-01"
 [_metadata_:description]:- "[decklist] Title: Fabian Rockwell Format: Top 31, 1991 Mid-Pacific Regional Championships 1 Secluded Steppe 1 Smoldering Crater 2 Vault of Whispers 4 Mountain 4 Orzhov Basilica 2 Abandoned Outpost 2 Boros Garrison 4 Headless Horseman 4 Goblin Hero 4 Gray Ogre 4 Raging Bull 2 Proteus Machine 4 Scathe Zombies 4 Pearled Unicorn [/decklist]In the earliest days of Magic, when the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-01"
 ---
 
 

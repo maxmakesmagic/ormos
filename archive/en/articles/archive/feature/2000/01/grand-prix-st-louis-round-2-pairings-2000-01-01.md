@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-2-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205224253id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-2-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-12-05 22:42:53+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Points Team Points Team   3 Aces   *** AWARDED BYE ***   Antarctica   *** AWARDED BYE *** 3 Backstreetboys 1 Team Rhit 0 Beat Squad 0 Team Suzaku 0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

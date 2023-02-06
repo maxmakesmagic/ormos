@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-blue-kithkin-2011-03-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119090537id_/https://magic.wizards.com/en/articles/archive/feature/white-blue-kithkin-2011-03-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 09:05:37+00:00"
-[_metadata_:publish_date]:- "2011-03-18"
 [_metadata_:description]:- "[decklist] Title: Daniel Vigil's White-Blue Kithkin Format: Extended – Pro Tour Qualifier for PT Nagoya in Denver, CO 1 Glacial Fortress 3 Mystic Gate 13 Plains 4 Seachrome Coast 4 Windbrisk Heights 2 Burrenton Forge-Tender 3 Cloudgoat Ranger 4 Figure of Destiny 4 Goldmeadow Stalwart 4 Knight of Meadowgrain 3 Mirran Crusader 1 Ranger of Eos 4 Wizened Cenn 2 Ajani Goldmane 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-03-18"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-dortmund-2005-12-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160303190234id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-dortmund-2005-12-22"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-03 19:02:34+00:00"
-[_metadata_:publish_date]:- "2005-12-22"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Win a trip to the next Grand Prix ...and many other Magic prizes! At Grand Prix Dortmund fill out the voucher* that you'll find at the registration desk and deposit it in the designated box Saturday, February 18 before 5 pm. A draw will be held on Saturday, February 18 - at 6pm."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-12-22"
 ---
 
 

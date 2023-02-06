@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/first-time-everything-2015-12-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151230213844id_/http://magic.wizards.com/en/articles/archive/feature/first-time-everything-2015-12-28"
 [_metadata_:wayback_capture_timestamp]:- "2015-12-30 21:38:44+00:00"
-[_metadata_:publish_date]:- "2015-12-28"
 [_metadata_:description]:- "Go behind the scenes of Oath of the Gatewatch with Ethan as he recounts the design of the newest set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-12-28"
 ---
 
 

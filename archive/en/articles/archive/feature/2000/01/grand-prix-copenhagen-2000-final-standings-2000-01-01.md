@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-final-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517104056id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-final-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 10:40:56+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Game Op-Game Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Niels Jensen   2 Daniel O'Mahoney Schwartz   3 Franck Canu   4 Noah Boeken   5 Yeh Gottlieb   6 Gunnar Refsdal   7 Tom Van de Logt   8 Peter Gysemans   9 Osterberg, Richard 30 71,7521 69,6970 66,3948 10/7/0/3 10 Jorstedt, Mattias 29 69,7525 73,3333 66,7342 11/7/2/2 11 Cedercrantz, Johan 29 65,8741"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

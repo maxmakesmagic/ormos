@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-2004-09-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031005742id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-2004-09-08"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-31 00:57:42+00:00"
-[_metadata_:publish_date]:- "2004-09-08"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events. PRE-REGISTRATION You can now pre-register online for this exciting event!Note that pre-registration closes 7 days before the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-09-08"
 ---
 
 

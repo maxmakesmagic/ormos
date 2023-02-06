@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgeventprotourjourneyintonyx14-2014-02-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017071917id_/https://magic.wizards.com/en/articles/archive/feature/mtgeventprotourjourneyintonyx14-2014-02-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-17 07:19:17+00:00"
-[_metadata_:publish_date]:- "2014-02-03"
 [_metadata_:description]:- "Cobb Galleria Centre Atlanta, Georgia, USA May 16-18, 2014 Quick LinksViewer Information Player Information Live Coverage of Pro Tour Journey into Nyx The Pro Tour returns to Atlanta for the first time since 2005. Pro Tour Journey into Nyx features the completion of the Theros block and the debut of the new Journey into Nyx set on the premier-play stage. The top players from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-03"
 ---
 
 

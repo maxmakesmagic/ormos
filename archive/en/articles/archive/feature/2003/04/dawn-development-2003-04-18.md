@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dawn-development-2003-04-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921124954id_/https://magic.wizards.com/en/articles/archive/feature/dawn-development-2003-04-18"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-21 12:49:54+00:00"
-[_metadata_:publish_date]:- "2003-04-18"
 [_metadata_:description]:- "Mirage was the second Magic set that came out after I started playing, so I'm not exactly full of development stories. Luckily, we still keep some of the old guard hidden around the office. I went over to Mike Elliott's cage and bugged him until he agreed to pinch-hit for me and write an article for Mirage week. Besides, this way there's one more article of old anecdotes for me to read, too. – Randy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-04-18"
 ---
 
 

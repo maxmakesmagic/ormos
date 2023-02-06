@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/die-and-be-reborn-2002-09-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119080544id_/https://magic.wizards.com/en/articles/archive/feature/die-and-be-reborn-2002-09-25"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 08:05:44+00:00"
-[_metadata_:publish_date]:- "2002-09-25"
 [_metadata_:description]:- "Rotlung Reanimator is a strange little creature. On the surface it appears to be nothing more than Headless Horseman or Scathe Zombies. Maybe it reiterates Penumbra Bobcat a tad. And just a minute, didn't Sarcomancy also put a 2/2 zombie token into play? Who am I kidding, folks? This guy doesn't resemble any particular creature ever seen before in Magic history. The nexus"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-09-25"
 ---
 
 

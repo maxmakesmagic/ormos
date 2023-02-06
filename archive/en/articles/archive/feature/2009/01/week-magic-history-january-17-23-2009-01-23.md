@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-january-17-23-2009-01-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120091226id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-january-17-23-2009-01-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 09:12:26+00:00"
-[_metadata_:publish_date]:- "2009-01-23"
 [_metadata_:description]:- "January 19, 2003: Kai Budde wins his sixth Pro Tour The format for 2003 Pro Tour–Chicago was Onslaught Rochester draft, and the Top 8 was stacked. Kai had to personally defeat William Jensen, Jon Finkel and Nicolai Herzog for the win, while standouts Eugene Harvey and Bram Snepvangers were taken care of on the other side of the bracket. Going in to the event, Kai felt that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-23"
 ---
 
 

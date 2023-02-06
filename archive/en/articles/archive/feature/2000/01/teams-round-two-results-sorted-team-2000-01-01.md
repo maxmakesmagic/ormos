@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-two-results-sorted-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031044901id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-two-results-sorted-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-31 04:49:01+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team Opponent Result Argentina Korea (South) Won 3-1 Australia Slovenia Won 3-1 Austria France Drew 2-2 Belgium Norway Won 2-1-1 Brazil Iceland Lost 1-3 Canada"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-doug-beyer-2017-02-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170208164903id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-doug-beyer-2017-02-08"
 [_metadata_:wayback_capture_timestamp]:- "2017-02-08 16:49:03+00:00"
-[_metadata_:publish_date]:- "2017-02-08"
 [_metadata_:description]:- "Blake sat down with Doug Beyer to learn all about Magic's creative process."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-02-08"
 ---
 
 

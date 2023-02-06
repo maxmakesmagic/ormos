@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zombie-extortion-ring-2013-02-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516160911id_/https://magic.wizards.com/en/articles/archive/feature/zombie-extortion-ring-2013-02-15"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 16:09:11+00:00"
-[_metadata_:publish_date]:- "2013-02-15"
 [_metadata_:description]:- "This is an aggro/combo deck built to abuse Thrull Parasite and Gravecrawler. If you have a way to sacrifice Gravecrawler—and Thrull Parasite in play—you can continually recast it to trigger extort. If you don't have Thrull Parasite, Blood Artist can extort for free. (It can do this even if you do, actually, which is even better.) This deck can also use Thrull Parasite's second"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-02-15"
 ---
 
 

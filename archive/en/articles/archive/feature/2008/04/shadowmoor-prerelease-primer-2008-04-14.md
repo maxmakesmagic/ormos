@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadowmoor-prerelease-primer-2008-04-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160625024053id_/http://magic.wizards.com/en/articles/archive/feature/shadowmoor-prerelease-primer-2008-04-14"
 [_metadata_:wayback_capture_timestamp]:- "2016-06-25 02:40:53+00:00"
-[_metadata_:publish_date]:- "2008-04-14"
 [_metadata_:description]:- "You're in a house. The lights are off. You flick the switch ineffectually a few times. At least you're locked in. You're safe. The big scary outside world is out there, and you are inside, locked away from the world, in a big... dark... house. You're safe, unless the killer... is... in... the... house..."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-04-14"
 ---
 
 

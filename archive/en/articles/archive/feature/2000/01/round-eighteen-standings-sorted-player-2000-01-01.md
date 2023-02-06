@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-eighteen-standings-sorted-player-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203094336id_/https://magic.wizards.com/en/articles/archive/feature/round-eighteen-standings-sorted-player-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-03 09:43:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name Points Op-Match 261 Afanasenko Dmitry (RUS) 14 43.52% 250 Alejos Franz (VEN) 16 42.18% 228 Alves Jhonathan (VEN) 19 44.65% 100 Ang Jun Yang (SNG) 29 51.23% 232 Areliusarson Arelius (ISL) 18 56.25% 193 Au Yeung Hon Ming (HKG) 22 51.34% 192 Baberowski Dirk (ger) 22 53.33% 170 Barbero Jose (ARG) 24 48.66% 36 Barrado Carlos (ESP) 33 55.45% 80 Bastos Frederico (POR) 30"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

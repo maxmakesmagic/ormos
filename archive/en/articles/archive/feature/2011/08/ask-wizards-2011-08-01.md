@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2011-08-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221002075310id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2011-08-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-10-02 07:53:10+00:00"
-[_metadata_:publish_date]:- "2011-08-01"
 [_metadata_:description]:- "Do you have questions about Magic? We here at Wizards want to answer them! Send us your questions about design, development, art, the website, and anything else about Magic, and if we get enough interesting ones, we'll post our answers in an upcoming feature article.You can submit your questions here, using the `Respond via Email` link below, or on our Twitter feed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-08-01"
 ---
 
 

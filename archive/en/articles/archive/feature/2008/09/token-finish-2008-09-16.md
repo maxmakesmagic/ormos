@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/token-finish-2008-09-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813214710id_/https://magic.wizards.com/en/articles/archive/feature/token-finish-2008-09-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 21:47:10+00:00"
-[_metadata_:publish_date]:- "2008-09-16"
 [_metadata_:description]:- "[decklist] Title: Brandon Lau's Black/Red Tokens Format: 2008 Australian Nationals, Standard 2 Auntie's Hovel 6 Mountain 6 Swamp 4 Sulfurous Springs 3 Graven Cairns 1 Kher Keep 1 Pendelhaven 4 Mogg War Marshal 4 Greater Gargadon 4 Magus of the Moon 4 Mogg Fanatic 4 Shadow Guildmage 3 Furystoke Giant 3 Marsh Flitter 3 Nantuko Husk 4 Bitterblossom 4 Thoughtseize *3 Sudden Death"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-16"
 ---
 
 

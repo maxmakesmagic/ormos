@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/daily-deck-original-white-weenie-2008-08-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121115632id_/https://magic.wizards.com/en/articles/archive/feature/daily-deck-original-white-weenie-2008-08-28"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 11:56:32+00:00"
-[_metadata_:publish_date]:- "2008-08-28"
 [_metadata_:description]:- "[decklist] Title: Tom Chanpheng's The Original White Weenie Format: 1 Kjeldoran Outpost 4 Mishra's Factory 15 Plains 4 Strip Mine 4 Order of Leitbur 4 Order of the White Shield 2 Phyrexian War Beast 4 Savannah Lions 2 Serra Angel 4 White Knight 1 Armageddon 1 Balance 4 Disenchant 1 Land Tax 1 Lodestone Bauble 1 Reinforcements 1 Reprisal 1 Sleight of Mind 4 Swords to Plowshares"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-28"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchantress-2010-01-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818174401id_/https://magic.wizards.com/en/articles/archive/feature/enchantress-2010-01-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:44:01+00:00"
-[_metadata_:publish_date]:- "2010-01-12"
 [_metadata_:description]:- "[decklist] Title: Lou Christopher's Enchantress Format: Legacy, StarCityGames Open 6 Forest 4 Plains 2 Horizon Canopy 2 Savannah 4 Windswept Heath 2 Serra's Sanctum 4 Argothian Enchantress 3 Chrome Mox 2 City of Solitude 4 Elephant Grass 4 Enchantress's Presence 1 Moat 1 Oblivion Ring 2 Runed Halo 2 Sigil of the Empty Throne 2 Solitary Confinement 4 Sterling Grove 4 Utopia"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-12"
 ---
 
 

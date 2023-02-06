@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/days-are-just-pact-2006-01-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529031913id_/https://magic.wizards.com/en/articles/archive/feature/days-are-just-pact-2006-01-21"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-29 03:19:13+00:00"
-[_metadata_:publish_date]:- "2006-01-21"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.In case you've been in a medically induced coma lately, the Guildpact prerelease is this weekend. If you're reading this early, you still have time"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-01-21"
 ---
 
 

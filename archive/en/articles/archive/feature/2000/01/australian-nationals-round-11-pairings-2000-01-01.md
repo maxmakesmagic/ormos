@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-11-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523190851id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-11-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 19:08:51+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Table Opponent Adams, Joel ( 15) 21 Stoddart, Thomas ( 1) Ansell, Robert ( 31) 20 Kinkade, Jay ( 38) Bandas, Jim ( 80) 18 Muir, Justin ( 4) Bow, Frankie ( 83) 7 Steele, Wayne ( 75) Bray, Jonathan ( 70) 6 McGann, Cael ( 37) Brebach, Kim ( 32) 2 Corney, Andrew ( 29) Brugman, John ( 41) 9 Henry, Simon ( 81) Campbell, Stephen ( 69) 1 Seck, T."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

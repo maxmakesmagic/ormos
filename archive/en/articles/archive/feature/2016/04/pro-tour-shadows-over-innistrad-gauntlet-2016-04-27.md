@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-shadows-over-innistrad-gauntlet-2016-04-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160430032610id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-shadows-over-innistrad-gauntlet-2016-04-27"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-30 03:26:10+00:00"
-[_metadata_:publish_date]:- "2016-04-27"
 [_metadata_:description]:- "A new Pro Tour means a new Gauntlet, and Kenji took it for a spin to try his hand with some of the best decks from the tournament."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-04-27"
 ---
 
 

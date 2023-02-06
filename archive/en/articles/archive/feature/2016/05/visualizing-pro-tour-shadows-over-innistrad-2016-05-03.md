@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/visualizing-pro-tour-shadows-over-innistrad-2016-05-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160506080915id_/http://magic.wizards.com/en/articles/archive/feature/visualizing-pro-tour-shadows-over-innistrad-2016-05-03"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-06 08:09:15+00:00"
-[_metadata_:publish_date]:- "2016-05-03"
 [_metadata_:description]:- "Diego brings you the numbers that matter from Pro Tour Shadows over Innistrad."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-05-03"
 ---
 
 

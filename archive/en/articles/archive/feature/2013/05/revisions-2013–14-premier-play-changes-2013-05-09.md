@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/revisions-2013%E2%80%9314-premier-play-changes-2013-05-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160430155453id_/http://magic.wizards.com/en/articles/archive/feature/revisions-2013%E2%80%9314-premier-play-changes-2013-05-09"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-30 15:54:53+00:00"
-[_metadata_:publish_date]:- "2013-05-09"
 [_metadata_:description]:- "After absorbing and analyzing feedback on the wide-ranging changes to Premier Play announced on April 25, we are adjusting two important pieces."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-09"
 ---
 
 

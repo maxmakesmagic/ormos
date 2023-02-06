@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2003-01-24-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160503152823id_/http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2003-01-24-0"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-03 15:28:23+00:00"
-[_metadata_:publish_date]:- "2003-01-24"
 [_metadata_:description]:- "For the past three weeks, this site has featured a series of previews for the upcoming Legions expansion. Rather than discussing when the product goes on sale in retail outlets the authors invariably referred to the upcoming prerelease tournaments being held worldwide this coming weekend. Clearly we all assumed that each and every one of you has this weekend blocked out in your day planner for a weekend of prerelease fun."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-01-24"
 ---
 
 

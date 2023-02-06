@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-1-player-list-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524071641id_/https://magic.wizards.com/en/articles/archive/feature/us-open-1-player-list-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:16:41+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Accardi, Anthony ( 30) Allen, Chris ( 13) Allen, Dustin ( 19) Ally, Arit (149) Anderson, Brett (160) Anderson, Rhonda ( 91) Antene, J. Kip ( 6) Atwood, Aaron ( 95) Au, Scott ( 46) Au, Winston ( 58) Augustine, Brian ( 98) Austin, Ty ( 8) Banks, David P."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

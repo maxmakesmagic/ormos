@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2016-mechanics-2016-10-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170413152434id_/http://magic.wizards.com/en/articles/archive/feature/commander-2016-mechanics-2016-10-24"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-13 15:24:34+00:00"
-[_metadata_:publish_date]:- "2016-10-24"
 [_metadata_:description]:- "Matt returns to explain the rules and mechanics behind the latest installment of the Commander series."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-10-24"
 ---
 
 

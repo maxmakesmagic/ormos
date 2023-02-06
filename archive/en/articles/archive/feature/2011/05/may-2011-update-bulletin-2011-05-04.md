@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/may-2011-update-bulletin-2011-05-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200818195209id_/https://magic.wizards.com/en/articles/archive/feature/may-2011-update-bulletin-2011-05-04"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-18 19:52:09+00:00"
-[_metadata_:publish_date]:- "2011-05-04"
 [_metadata_:description]:- "The New Phyrexia rules update is upon us, and one theme kept popping up as I worked through the last few months: history. Our game has tremendous history, stretching from the early days of wondering why Moxes were any good to the proliferation (ha!) of the new Magic media. The history of the position of rules manager is also long. Fewer than a dozen men and women have held the position (even taking into account those who held it before the term `rules manager` was in use)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-05-04"
 ---
 
 

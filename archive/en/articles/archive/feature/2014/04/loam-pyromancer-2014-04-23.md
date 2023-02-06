@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/loam-pyromancer-2014-04-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119053815id_/https://magic.wizards.com/en/articles/archive/feature/loam-pyromancer-2014-04-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 05:38:15+00:00"
-[_metadata_:publish_date]:- "2014-04-23"
 [_metadata_:description]:- "Ever since Bronson Magnan won Grand Prix Lincoln with Life from the Loam/Seismic Assault, it has remained a fringe deck in Modern. With Deathrite Shaman gone, graveyard strategies are a little safer, so it wouldn't surprise me if a Loam-based strategy got more popular. Whether or not to play creatures (and if yes, which ones) was always a hotly debated topic. In this case, you"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-23"
 ---
 
 

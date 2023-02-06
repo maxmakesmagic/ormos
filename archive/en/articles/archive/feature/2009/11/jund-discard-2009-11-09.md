@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jund-discard-2009-11-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016231826id_/https://magic.wizards.com/en/articles/archive/feature/jund-discard-2009-11-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 23:18:26+00:00"
-[_metadata_:publish_date]:- "2009-11-09"
 [_metadata_:description]:- "[decklist] Title: Paul Gelautz's Jund Discard Format: Standard 2 Akoum Refuge 4 Ancient Ziggurat 2 Crumbling Necropolis 2 Forest 2 Island 3 Mountain 4 Savage Lands 3 Swamp 2 Terramorphic Expanse 4 Bloodbraid Elf 2 Hypnotic Specter 3 Madrush Cyclops 4 Putrid Leech 4 Sedraxis Specter 4 Sprouting Thrinax 4 Blightning 3 Burst Lightning 4 Lightning Bolt 4 Terminate *4 Anathemancer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-11-09"
 ---
 
 

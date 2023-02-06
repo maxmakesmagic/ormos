@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112032530id_/https://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09-0"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:25:30+00:00"
-[_metadata_:publish_date]:- "2012-04-09"
 [_metadata_:description]:- "The fate of humanity on Innistrad will soon be decided. The battlefield has been chosen, the stakes are set, and the combatants are on a collision course. And when all is said and done, more than an angel will be released back into the world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-04-09"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-team-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625101626id_/https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-team-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-25 10:16:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPoints OpponentPoints AlphaBetaUnlimited.com9vsThe Feebles9 Altrove *6vsMwonvuli Gang6 Amsterdam12vsAngstschreeuw12 Babar Team *9vslibrary of alexandria 29 Bologna Demolition Team9vsPezzati *9 Cosmopolitan9vsI 3 ciccioni9 F3BoP7vsTroppo il migliore *7 Fumetteria Gabriele *6vsUranus6 Furetto team *3vsTenebra *1 Gothic avengers *6vsLes Kerlutinhoëcs6 gotta catch Kai12vsTwo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124032555id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:25:55+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Match Team Points Team   WACHI-DE?   *** AWARDED BYE ***   T.F.Z.   *** AWARDED BYE ***   Team Wild   *** AWARDED BYE ***   Godzilla  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

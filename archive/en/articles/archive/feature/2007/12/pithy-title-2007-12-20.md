@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pithy-title-2007-12-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119173446id_/https://magic.wizards.com/en/articles/archive/feature/pithy-title-2007-12-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 17:34:46+00:00"
-[_metadata_:publish_date]:- "2007-12-20"
 [_metadata_:description]:- "Welcome to Treefolk Week! With Snow Week and Hoser Week already in the books, I guess dedicating a whole week to trees is the only way we've got left to pander to the Canadians. And pander I shall!I'm going to start with a little combo I came up with two seconds ago: Tamanoa + The Rack. It's like The Rack has lifelink! The resulting deck will of course be named Tamarack, after"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-12-20"
 ---
 
 

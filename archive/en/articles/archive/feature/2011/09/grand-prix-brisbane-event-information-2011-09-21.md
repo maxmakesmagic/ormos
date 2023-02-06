@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-event-information-2011-09-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016153220id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-event-information-2011-09-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 15:32:20+00:00"
-[_metadata_:publish_date]:- "2011-09-21"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Date: October 15-16, 2011Format: Standard Tournament Location Brisbane Convention and Exhibition Centre Corner of Merivale and Glenelg Streets South Bank, Brisbane Queensland +61 7 3308 3000 Doors: Free Registration: $30 on Friday, October 14 $40 on Saturday,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-21"
 ---
 
 

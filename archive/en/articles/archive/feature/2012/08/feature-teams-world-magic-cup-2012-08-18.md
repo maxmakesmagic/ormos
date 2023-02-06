@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-teams-world-magic-cup-2012-08-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151025002516id_/http://magic.wizards.com/en/articles/archive/feature/feature-teams-world-magic-cup-2012-08-18"
 [_metadata_:wayback_capture_timestamp]:- "2015-10-25 00:25:16+00:00"
-[_metadata_:publish_date]:- "2012-08-18"
 [_metadata_:description]:- "Day Two of the World Magic Cup is just starting up, and so we wanted to take the time to introduce all the teams who came to Gen Con to compete. Here, then, are photos of all the teams, posted in the order they finished after Day One. Coincidentally, the players' names are listed by the number of points they earned for their team (i.e., not by the order shown in the picture)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-18"
 ---
 
 

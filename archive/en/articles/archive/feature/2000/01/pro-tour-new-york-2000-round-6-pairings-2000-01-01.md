@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-6-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519013009id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-6-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 01:30:09+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Alvarez Omar ( 42) 9 40 Marler Hsiung (134) 9 Amendolia Aaron (254) 9 55 Shvartsman Alex (266) 9 Angeli Alessio (210) 7 79 Cargilo Shane (164) 7 Assen Johan (238) 5 110 Peretti Jean Paul (145) 5 Au Yong Wai Kin ( 25) 6 87 Copeman Will ( 28) 6 Baberowski Dirk ( 9) 9 46 Tsang Terry (267) 9 Bachmann David (231) 9 43 Meinecke Holger (177) 9 Baker"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

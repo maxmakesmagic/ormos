@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-archetype-breakdown-pro-tour-avacyn-restored-2012-05-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150911001325id_/http://magic.wizards.com/en/articles/archive/feature/feature-archetype-breakdown-pro-tour-avacyn-restored-2012-05-13"
 [_metadata_:wayback_capture_timestamp]:- "2015-09-11 00:13:25+00:00"
-[_metadata_:publish_date]:- "2012-05-13"
 [_metadata_:description]:- "Block Constructed formats have historically been easier to figure out and harder to secretly break before a Pro Tour. The smaller card pool, compared the other Constructed formats like Standard or Modern, means it is easier to iterate and test deck ideas. That does not mean everyone tries every deck, but the fact remains that the possibility of someone dominating with a deck that the rest of the field had not considered is significantly smaller than for formats with more extensive card pools."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-13"
 ---
 
 

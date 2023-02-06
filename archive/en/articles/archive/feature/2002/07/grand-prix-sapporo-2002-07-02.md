@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sapporo-2002-07-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813000219id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sapporo-2002-07-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 00:02:19+00:00"
-[_metadata_:publish_date]:- "2002-07-02"
 [_metadata_:description]:- "Magic: The Gathering Pro Tour - Houston Qualifier August 24-25, 2002Trial ScheduleThe Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.TOURNAMENT FORMAT AND SCHEDULEThe format for Grand Prix - Sapporo is Odyssey Block Constructed. All DCI rules"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-07-02"
 ---
 
 

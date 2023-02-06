@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-3-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524122440id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-3-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 12:24:40+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Abdul Jalal, Abdul Halim Bin (114) 0 136 Lim, You Hang (246) 0 Abdul Wahab, Mohammad Nazim (143) 3 107 Tung, Ming Tat (117) 3 Ahmad Kamal, Ahmad Omar ( 55) 6 32 Ikeda, Tsuyoshi (283) 6 Ahmad, Wan Hafiz Wan (142) 3 75 Parr Zahairi, Danial (229) 3 Amzar, Hazwan (263) 3 92 Hooi, Alex (186) 3 Ang, Jun Yang (120) 6 10 Choong, Tuck Choong Andrew (176) 6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

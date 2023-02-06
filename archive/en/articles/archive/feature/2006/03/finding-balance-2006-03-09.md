@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finding-balance-2006-03-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204044048id_/https://magic.wizards.com/en/articles/archive/feature/finding-balance-2006-03-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 04:40:48+00:00"
-[_metadata_:publish_date]:- "2006-03-09"
 [_metadata_:description]:- "Some years ago, Constructed Magic tournaments were dominated by combination decks. The Urza's Block untap mechanic made Tolarian Academy decks about twice as good as every other available option, with most games going fewer than three turns and first turn kills commonplace."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-03-09"
 ---
 
 

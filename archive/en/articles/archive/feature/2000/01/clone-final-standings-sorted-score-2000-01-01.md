@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/clone-final-standings-sorted-score-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128015020id_/https://magic.wizards.com/en/articles/archive/feature/clone-final-standings-sorted-score-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 01:50:20+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name Winnings 1 Finkel Jon (USA) $34,000 2 Maher, Jr."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

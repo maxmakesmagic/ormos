@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wizards-announces-price-change-2006-08-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191017234619id_/https://magic.wizards.com/en/articles/archive/feature/wizards-announces-price-change-2006-08-22"
 [_metadata_:wayback_capture_timestamp]:- "2019-10-17 23:46:19+00:00"
-[_metadata_:publish_date]:- "2006-08-22"
 [_metadata_:description]:- "Due to global economic pressures and certain cost increases, Wizards of the Coast will increase the Manufacturer’s Suggested Retail Price (MSRP) of its front list and backlist Magic: The Gathering Trading Card Game and Star Wars and Dungeons & Dragons Miniatures products effective September 22, 2006. Accordingly, Wizards will increase the price of its Magic: The Gathering Online products effective October 6, 2006."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-08-22"
 ---
 
 

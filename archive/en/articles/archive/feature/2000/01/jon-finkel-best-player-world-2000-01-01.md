@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jon-finkel-best-player-world-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205184630id_/https://magic.wizards.com/en/articles/archive/feature/jon-finkel-best-player-world-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-05 18:46:30+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Jon Finkel has won a Pro Tour. He has been the Pro Tour Player of the Year. He has been the World Team Champion. He is the current U.S. National Champion. And at the 2000 World Championship in Brussels, Belgium, he reached the ultimate top by becoming the World Champion. Few people dispute that Finkel is the best player in the world. Is there anything more that he can possibly"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

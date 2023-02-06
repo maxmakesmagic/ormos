@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/worthy-legend-2015-11-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151112173212id_/http://magic.wizards.com/en/articles/archive/feature/worthy-legend-2015-11-10"
 [_metadata_:wayback_capture_timestamp]:- "2015-11-12 17:32:12+00:00"
-[_metadata_:publish_date]:- "2015-11-10"
 [_metadata_:description]:- "With the Legendary Cube right around the corner, Alli explains some of the obstacles the team overcame to perfect the experience."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-11-10"
 ---
 
 

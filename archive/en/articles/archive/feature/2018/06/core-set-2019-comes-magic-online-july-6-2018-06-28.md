@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-set-2019-comes-magic-online-july-6-2018-06-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180629203006id_/https://magic.wizards.com/en/articles/archive/feature/core-set-2019-comes-magic-online-july-6-2018-06-28"
 [_metadata_:wayback_capture_timestamp]:- "2018-06-29 20:30:06+00:00"
-[_metadata_:publish_date]:- "2018-06-28"
 [_metadata_:description]:- "You'll soon be able to play Core Set 2019 on Magic Online, and Alli details all the changes arriving with the newest set in the coming weeks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-06-28"
 ---
 
 

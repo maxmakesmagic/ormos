@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duelist-cover-art-2012-12-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160331055441id_/http://magic.wizards.com/en/articles/archive/feature/duelist-cover-art-2012-12-26"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-31 05:54:41+00:00"
-[_metadata_:publish_date]:- "2012-12-26"
 [_metadata_:description]:- "This Arcana originally appeared on October 18, 2012. Two weeks ago, we showed you the winners of the PAX Prime Coloring Contest. But we didn't show you the whole coloring book!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-12-26"
 ---
 
 

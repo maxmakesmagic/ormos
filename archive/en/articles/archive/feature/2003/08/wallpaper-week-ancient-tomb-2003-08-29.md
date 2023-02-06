@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-ancient-tomb-2003-08-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021062338id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-ancient-tomb-2003-08-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 06:23:38+00:00"
-[_metadata_:publish_date]:- "2003-08-29"
 [_metadata_:description]:- "This week's desktop wallpaper is the Tempest nonbasic land Ancient Tomb by Colin MacNeil. 1024x768 800x600 See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-08-29"
 ---
 
 

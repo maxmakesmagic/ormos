@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saito-naya-2009-03-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027050625id_/https://magic.wizards.com/en/articles/archive/feature/saito-naya-2009-03-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 05:06:25+00:00"
-[_metadata_:publish_date]:- "2009-03-30"
 [_metadata_:description]:- "[decklist] Title: Tomoharu Saito's Naya Burn Format: Grand Prix-Singapore 4 Bloodstained Mire 1 Forest 1 Mountain 1 Plains 2 Sacred Foundry 3 Stomping Ground 1 Temple Garden 4 Windswept Heath 4 Wooded Foothills 3 Gaddock Teeg 1 Isamaru, Hound of Konda 4 Kird Ape 4 Mogg Fanatic 4 Tarmogoyf 4 Wild Nacatl 4 Woolly Thoctar 2 Incinerate 4 Lightning Helix 4 Path to Exile 3 Seal of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-03-30"
 ---
 
 

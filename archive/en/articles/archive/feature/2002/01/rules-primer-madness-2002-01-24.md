@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rules-primer-madness-2002-01-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160331041602id_/http://magic.wizards.com/en/articles/archive/feature/rules-primer-madness-2002-01-24"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-31 04:16:02+00:00"
-[_metadata_:publish_date]:- "2002-01-24"
 [_metadata_:description]:- "Madness is one of the most complex abilities that the Magic R&D team has ever designed. Our task was to create an ability that would let you play a card whenever you discard it, allowed the spell to be countered, and didn’t let your opponent `mess` with the card you were going to play. To do this, we combined different types of effects into a single keyword ability."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-01-24"
 ---
 
 

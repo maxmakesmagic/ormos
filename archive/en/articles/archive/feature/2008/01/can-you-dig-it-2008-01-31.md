@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/can-you-dig-it-2008-01-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127123806id_/https://magic.wizards.com/en/articles/archive/feature/can-you-dig-it-2008-01-31"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 12:38:06+00:00"
-[_metadata_:publish_date]:- "2008-01-31"
 [_metadata_:description]:- "Can you count, suckers? I don't mess around much with the past (sorry, Sosuke, Son of Seshiro), but I mess around plenty with the future. And the future is the Warriors, if you can count. First, we start with a miracle. We've got the Ceaseless Searblades sitting next to the Lys Alana Huntmasters. We've got the Facevaulters right by the Cloudgoat Rangers. We've got 218"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-01-31"
 ---
 
 

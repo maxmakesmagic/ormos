@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-cyprus-national-championship-2011-05-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518013804id_/https://magic.wizards.com/en/articles/archive/feature/2011-cyprus-national-championship-2011-05-31"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 01:38:04+00:00"
-[_metadata_:publish_date]:- "2011-05-31"
 [_metadata_:description]:- "Date: 25 June 2011Location: MTG Cyprus, 181 Stoa Georgiou Papadopoulou 1011City: NicosiaCountry: CyprusThe Magic: the Gathering Cyprus National National Championship is open to all citizens or permanent residents of Cyprus.Contact informationEmail: mtgcyprus@gmail.com, michalis@mpviolins.comTelephone: 00357-99352605, 00357-99122775Website:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-05-31"
 ---
 
 

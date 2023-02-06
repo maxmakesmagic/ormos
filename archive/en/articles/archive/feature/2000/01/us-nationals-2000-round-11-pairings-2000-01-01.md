@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129051510id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-29 05:15:10+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Aubertin, Justin ( 3) 12 31 Flores, Micheal ( 42) 12 Beckmon, Jon ( 15) 16 20 Morales, Manuel (105) 16 Benafel, Chris ( 50) 25 2 Mowshowitz, Zvi ( 28) 24 Bhattacharyya, Sayan ( 39) 19 12 Ho, Ken ( 27) 19 Bragg, Tillman ( 4) 11 33 Winkelstien, Jerry ( 1) 10 Bunsongsikul, Ped ( 82) 13 28 Burghy, Jeff ( 23) 12 Burghy, Jeff ( 23) 12 28 Bunsongsikul,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

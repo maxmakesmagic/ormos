@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/man-named-chainer-2002-01-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201020200637id_/https://magic.wizards.com/en/articles/archive/feature/man-named-chainer-2002-01-07"
 [_metadata_:wayback_capture_timestamp]:- "2020-10-20 20:06:37+00:00"
-[_metadata_:publish_date]:- "2002-01-07"
 [_metadata_:description]:- "Have you ever woken in the middle of the night screaming, but you couldn't quite remember why? Welcome to the world of the Cabal.The Cabal makes your half-forgotten terrors real, solid, and eager to destroy you. These horrors are created by the Cabal's legion of dementia summoners – the backbone of the Cabal's martial and pit-fighting forces, and perhaps the most powerful mages on Otaria."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-01-07"
 ---
 
 

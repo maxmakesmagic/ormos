@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/selecting-ninth-edition-week-12-2004-08-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503043355id_/https://magic.wizards.com/en/articles/archive/feature/selecting-ninth-edition-week-12-2004-08-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:33:55+00:00"
-[_metadata_:publish_date]:- "2004-08-30"
 [_metadata_:description]:- "As we work our way through the nearly ten thousand Flavor Text submissions, we're getting down to just the last couple votes at this point, so let’s get right to it! Last week’s card vote was Weird Harvest against Animal Magnetism. Weird Harvest wins it! Weird Harvest65.1%Animal Magnetism34.9%Totals100%Last week’s sketches vote was Threaten, by Daren Bader and Pete Venters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-08-30"
 ---
 
 

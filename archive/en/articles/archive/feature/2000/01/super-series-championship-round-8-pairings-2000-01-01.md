@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-8-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517230633id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-8-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 23:06:33+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Adam, Felix (210) 15 20 Culpepper, Andy (203) 15 Ames, David (157) 9 47 Wilhelm, Aaron (72) 9 Ash, Kevin (101) 12 39 Simmons, Charles (150) 12 Aune, Eirik (167) 15 13 Stearns, Nick (198) 15 Barbeau, Alex (20) 12 30 Carlisle, Lance (179) 12 Benjamin, Matt (177) 6 50 Carroll, Brendan (69) 7 Blatnick, Bramdpm (41) 18 3 Russo, Spencer (197) 18"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

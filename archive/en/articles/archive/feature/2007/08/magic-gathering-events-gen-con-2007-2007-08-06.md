@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-events-gen-con-2007-2007-08-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024202208id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-events-gen-con-2007-2007-08-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 20:22:08+00:00"
-[_metadata_:publish_date]:- "2007-08-06"
 [_metadata_:description]:- "Going to Gen Con with a Magic itch to scratch? Take a look through the full slate of Magic events -- and prizes -- and find something that suits your interests. From the Vintage and Legacy Championships to Pro Tour Qualifiers to the Grand Melee to leagues and drafts, there's something for everyone. All Weekend Magic: The Gathering Gen Con League – Each participant receives a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-08-06"
 ---
 
 

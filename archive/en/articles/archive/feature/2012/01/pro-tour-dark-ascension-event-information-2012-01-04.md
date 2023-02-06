@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-dark-ascension-event-information-2012-01-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025104616id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-dark-ascension-event-information-2012-01-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 10:46:16+00:00"
-[_metadata_:publish_date]:- "2012-01-04"
 [_metadata_:description]:- "Hawaii Convention Center February 10-12, 2012 Live Coverage of Pro Tour Dark Ascension The first Pro Tour of 2012 comes to Honolulu and features the debut of the new Dark Ascension set on the premier-play stage. The top players from around the world will be in Hawaii to battle for fame, glory, and cash prizes in the Standard Constructed and Innistrad/Dark Ascension Booster"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-04"
 ---
 
 

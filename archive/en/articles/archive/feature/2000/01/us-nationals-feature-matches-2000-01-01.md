@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-feature-matches-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520100431id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-feature-matches-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 10:04:31+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Day Two (Standard) Round 7 - Mike Long vs. Bob Maher Round 7 - Darwin Kastle vs. Casey McCarrell Round 8 - Jon Finkel vs. Zvi Mowshowitz Round 9 - Mike Long vs. Mike Turian Round 9 - Donnie Gallitz vs. Mike Flores Round 11 - Bob Maher, Jr. vs. Tom Guevin Round 11 - Zvi Mowshowitz vs. Chris Benafel Round 12 - Rich Frangiosa vs. Justin Gary Day One (Booster Draft) Round 1 -"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

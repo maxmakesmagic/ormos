@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93yamagata-2006-09-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814212434id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93yamagata-2006-09-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-14 21:24:34+00:00"
-[_metadata_:publish_date]:- "2006-09-20"
 [_metadata_:description]:- "CountryDateCityAddressLine1AddressLine2ContactSouth Korea15-Oct-06SeoulDobong Public HallChang-Dong Dobong-GuEmailSouth Korea29-Oct-06SeoulDobong Public HallChang-Dong Dobong-GuEmailThailand15-Oct-06Bangkok4F Food court Amarin Plaza Ratchaprasong SquareEmailThailand22-Oct-06Bangkok4F Food court Amarin Plaza Ratchaprasong SquareEmailThailand5-Nov-06Bangkok4F Food court Amarin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-09-20"
 ---
 
 

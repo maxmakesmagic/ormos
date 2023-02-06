@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/angelic-quiz-time-2013-08-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703063453id_/https://magic.wizards.com/en/articles/archive/feature/angelic-quiz-time-2013-08-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-03 06:34:53+00:00"
-[_metadata_:publish_date]:- "2013-08-16"
 [_metadata_:description]:- "Angels have been part of the Magic Multiverse since the earliest of days with the well-known Serra Angel. While she might be the most famous Angel in Magic, she’s far from the only one. Today’s quiz is all about Angels. The Mistform Ultimus Disclaimer – Every time I do one of these quizzes I inevitably get emails and tweets saying how I forget about the changelings and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-16"
 ---
 
 

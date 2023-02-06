@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/down-river-2008-06-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121021932id_/https://magic.wizards.com/en/articles/archive/feature/down-river-2008-06-05"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 02:19:32+00:00"
-[_metadata_:publish_date]:- "2008-06-05"
 [_metadata_:description]:- "Hey, gang, it's good to be back. The aches in my Johnny muscle have largely subsided and the pipes that drain into my bottomless well of puns have been unclogged. My instinct for tortured metaphor is keener than ever, and I'm ready to go. I trust nothing too dramatic happened during my absence. Either way, a hearty round of applause for Noel deCordova who quite ably filled my"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-06-05"
 ---
 
 

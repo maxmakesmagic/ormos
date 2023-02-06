@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/i-don%E2%80%99t-believe-no-win-situation-part-ll-2006-03-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819234104id_/https://magic.wizards.com/en/articles/archive/feature/i-don%E2%80%99t-believe-no-win-situation-part-ll-2006-03-28"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 23:41:04+00:00"
-[_metadata_:publish_date]:- "2006-03-28"
 [_metadata_:description]:- "For my last article, I got a little off topic from Magic®, looking at some other games and some aspects of those games that affect what happens when you lose. I plan on doing exactly that same thing over the coming paragraphs. So, to get started, I turn back to the cinema classic, Star Trek II: The Wrath of Khan. In The Wrath of Khan, we learn about a Star Fleet training"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-03-28"
 ---
 
 

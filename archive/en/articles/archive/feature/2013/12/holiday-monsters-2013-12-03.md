@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/holiday-monsters-2013-12-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021184617id_/https://magic.wizards.com/en/articles/archive/feature/holiday-monsters-2013-12-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 18:46:17+00:00"
-[_metadata_:publish_date]:- "2013-12-03"
 [_metadata_:description]:- "It's an (almost) Christmas miracle! I couldn't help but laugh when seeing this very red and green deck, especially once I saw the name of the pilot. Seriously, I'm not making this up! I'm not one to turn down a gift, and the deck did look pretty sweet. It's got a ton of one-ofs, some helper Elves, and more beasts (literal and figurative) than you can shake a stick at. Even"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-12-03"
 ---
 
 

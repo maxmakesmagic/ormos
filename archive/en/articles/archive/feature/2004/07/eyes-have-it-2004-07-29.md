@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eyes-have-it-2004-07-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206141310id_/https://magic.wizards.com/en/articles/archive/feature/eyes-have-it-2004-07-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 14:13:10+00:00"
-[_metadata_:publish_date]:- "2004-07-29"
 [_metadata_:description]:- "Welcome to Ur-Golem's Eye Week! I've been pushing for this for a couple of months now, and Scott Johns finally agreed with me that it was an idea whose time was long overdue. The timing is a little unusual—last week was also a theme week, and next week will be one too; we never do three in a row unless we're previewing a new set. But that's just how important Ur-Golem's Eye"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-07-29"
 ---
 
 

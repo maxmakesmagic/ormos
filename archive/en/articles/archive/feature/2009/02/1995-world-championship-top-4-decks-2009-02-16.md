@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/1995-world-championship-top-4-decks-2009-02-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112003038id_/https://magic.wizards.com/en/articles/archive/feature/1995-world-championship-top-4-decks-2009-02-16"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:30:38+00:00"
-[_metadata_:publish_date]:- "2009-02-16"
 [_metadata_:description]:- "Note: we don't have complete records of the decklists from 1995. Here's what we were able to piece together from various sources, including a post on Usenet from Henry Stern"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-16"
 ---
 
 

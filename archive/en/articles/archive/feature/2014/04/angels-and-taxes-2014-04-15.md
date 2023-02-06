@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/angels-and-taxes-2014-04-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023210729id_/https://magic.wizards.com/en/articles/archive/feature/angels-and-taxes-2014-04-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 21:07:29+00:00"
-[_metadata_:publish_date]:- "2014-04-15"
 [_metadata_:description]:- "Typically, porting decks from other formats doesn't work out well. Oftentimes, a deck is successful in a format because it fights on a particular axis that might not work in another format. Fighting on that axis might work in one format but fail in another. We've seen Death and Taxes ports in Modern before and none have been particularly successful. There are a lot of key"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-15"
 ---
 
 

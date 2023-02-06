@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/something-twisted-way-comes-2016-05-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160530155739id_/http://magic.wizards.com/en/articles/archive/feature/something-twisted-way-comes-2016-05-30"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-30 15:57:39+00:00"
-[_metadata_:publish_date]:- "2016-05-30"
 [_metadata_:description]:- "Chas dives deep into the artwork of Shadows over Innistrad to find clues about the source of the plane's growing madness."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-05-30"
 ---
 
 

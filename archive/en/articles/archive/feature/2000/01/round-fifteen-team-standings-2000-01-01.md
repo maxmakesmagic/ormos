@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-fifteen-team-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203012315id_/https://magic.wizards.com/en/articles/archive/feature/round-fifteen-team-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-03 01:23:15+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name Points Op-Match 1 United States 126 58.04% 2 Netherlands 106 57.14% 3 Norway 106 54.28% 4 Austria 105 51.41% 5 France 103 53.91% 6 Japan 97 52.34% 7 Spain 97 49.80% 8 Germany 96 53.82% 9 Czech Republic 96 47.46% 10 Canada 95 51.96% 11 Sweden 93 48.02% 12 Scotland 92 50.40% 13 Hong Kong 92 49.63% 14 Switzerland 90 51.51% 15 Portugal 90 50.68% 16 Singapore 89 50.20% 17"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

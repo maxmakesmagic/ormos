@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/star-spangled-slaughter-2010-02-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414011913id_/http://magic.wizards.com/en/articles/archive/feature/star-spangled-slaughter-2010-02-08"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:19:13+00:00"
-[_metadata_:publish_date]:- "2010-02-08"
 [_metadata_:description]:- "Peter Jesuale's Star-Spangled Slaughter"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-02-08"
 ---
 
 

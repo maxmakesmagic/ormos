@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-cup-draft-2010-06-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018152900id_/https://magic.wizards.com/en/articles/archive/feature/community-cup-draft-2010-06-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 15:29:00+00:00"
-[_metadata_:publish_date]:- "2010-06-11"
 [_metadata_:description]:- "[decklist] Title: Peter Jahn Format: Zendikar Draft - 2009 Community Cup 11 Swamp 6 Plains 1 Kabira Crossroads 1 Bala Ged Thief 1 Blood Seeker 3 Gatekeeper of Malakir 1 Guul Draz Vampire 1 Hagra Crocodile 1 Hagra Diabolist 1 Kor Skyfisher 1 Makindi Shieldmate 2 Nimana Sell-Sword 1 Ondu Cleric 1 Stonework Puma 1 Vampire Hexmage 1 Arrow Volley Trap 1 Day of Judgment 1 Disfigure"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-06-11"
 ---
 
 

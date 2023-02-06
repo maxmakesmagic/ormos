@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-netherlands-national-championship-2009-04-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517022805id_/https://magic.wizards.com/en/articles/archive/feature/2011-netherlands-national-championship-2009-04-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 02:28:05+00:00"
-[_metadata_:publish_date]:- "2009-04-27"
 [_metadata_:description]:- "Date: 20-21 August 2011Event Location: NDC Den HommelAddress: Kennedylaan 9, 3533 KH Utrecht, Netherlands Eligibility The Magic: the Gathering Netherlands National Championship is an invitation-only event, open to citizens or permanent residents of Netherlands who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-27"
 ---
 
 

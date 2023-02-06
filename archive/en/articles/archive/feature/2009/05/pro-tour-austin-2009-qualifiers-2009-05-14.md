@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-austin-2009-qualifiers-2009-05-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627003733id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-austin-2009-qualifiers-2009-05-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:37:33+00:00"
-[_metadata_:publish_date]:- "2009-05-14"
 [_metadata_:description]:- "Latin AmericaMay-August 2009 CountryCityEvent DateInvitationLocationAddressURL ArgentinaCordova5/31/091Game LandColon 785N/A ArgentinaBuenos Aires7/4/091Salón BasualdaBelgrano 1144N/A ChileSantiago8/2/091Burger King MonedaAlameda esquina TeatinosWebsite ChileViña del Mar8/29/091PortalMagicAvenida Libertad N0 39. Local 24Website BrasilSao Paulo6/28/091Devir LivrariaR. Teodureto"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-14"
 ---
 
 

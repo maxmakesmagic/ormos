@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/true-name-delver-2013-11-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026223319id_/https://magic.wizards.com/en/articles/archive/feature/true-name-delver-2013-11-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 22:33:19+00:00"
-[_metadata_:publish_date]:- "2013-11-13"
 [_metadata_:description]:- "Fair decks in Legacy have a new nemesis, one that is essentially a 3/1 Progenitus for only three mana. True-Name Nemesis made its debut with a very strong 2nd-place finish at the Eternal Weekend Legacy Championship in the capable hands of Osyp Lebedowicz. Delver of Secrets decks are all over the place in Legacy, but it was interesting seeing Osyp put down the Tarmogoyfs and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-11-13"
 ---
 
 

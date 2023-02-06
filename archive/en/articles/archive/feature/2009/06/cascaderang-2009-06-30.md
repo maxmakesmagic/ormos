@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cascaderang-2009-06-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017222103id_/https://magic.wizards.com/en/articles/archive/feature/cascaderang-2009-06-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-17 22:21:03+00:00"
-[_metadata_:publish_date]:- "2009-06-30"
 [_metadata_:description]:- "[decklist] Title: Derrick Steele's Cascade Control Format: Pro Tour Qualifier-Austin 2 Cascade Bluffs 2 Exotic Orchard 1 Flooded Grove 2 Island 4 Reflecting Pool 4 Sunken Ruins 2 Vivid Crag 4 Vivid Creek 2 Vivid Grove 2 Vivid Marsh 4 Bloodbraid Elf 1 Broodmate Dragon 3 Enlisted Wurm 4 Fulminator Mage 1 Lord of Extinction 4 Mulldrifter 2 Shriekmaw 4 Boomerang 2 Cruel Ultimatum"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-30"
 ---
 
 

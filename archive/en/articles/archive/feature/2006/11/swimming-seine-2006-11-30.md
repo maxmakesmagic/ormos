@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/swimming-seine-2006-11-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503070306id_/https://magic.wizards.com/en/articles/archive/feature/swimming-seine-2006-11-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:03:06+00:00"
-[_metadata_:publish_date]:- "2006-11-30"
 [_metadata_:description]:- "Welcome to my second go-round for The Past Returns Week. I have written more columns for this site than anyone else, so it only fair that I get to go twice. This week I am returning, as close to live and direct as this column ever gets, from Paris, France at the conclusion of Day One of the 2006 Magic: The Gathering World Championships to break down the results from the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-11-30"
 ---
 
 

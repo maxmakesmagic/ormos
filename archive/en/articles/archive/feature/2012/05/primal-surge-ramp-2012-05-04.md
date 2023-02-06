@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/primal-surge-ramp-2012-05-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161225203221id_/http://magic.wizards.com/en/articles/archive/feature/primal-surge-ramp-2012-05-04"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-25 20:32:21+00:00"
-[_metadata_:publish_date]:- "2012-05-04"
 [_metadata_:description]:- "You might have seen plenty of Primeval Titan-based ramp decks before, but never like this! R&amp;D member Steve Warner loves playing with wacky cards, and one of the craziest cards in all of Avacyn Restored is Primal Surge. Steve brought this deck to Seattle-area Magic store Game On! for spellslinging at last weekend's Prerelease. Several opponents found themselves in a rough place as Primal Surge threatened to flip half—or more—of his deck onto the table."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-04"
 ---
 
 

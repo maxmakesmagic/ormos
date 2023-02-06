@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/taming-beast-2011-12-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210126065129id_/https://magic.wizards.com/en/articles/archive/feature/taming-beast-2011-12-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-26 06:51:29+00:00"
-[_metadata_:publish_date]:- "2011-12-05"
 [_metadata_:description]:- "This article originally appeared in Duelist #21 in January 1998."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-12-05"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-austin-2009-qualifiers-2009-05-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627002906id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-austin-2009-qualifiers-2009-05-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:29:06+00:00"
-[_metadata_:publish_date]:- "2009-05-20"
 [_metadata_:description]:- "EuropeMay-August 2009 Event NameDateVenueAddressPostal CodeCityCountry EU PTQ Austin 2009 - 1 slot8/29/2009Hostel Generator BerlinStorkower Str. 16010407BerlinGermany EU PTQ Austin 2009 - 1 slot8/8/2009TGS TurnhalleAlexanderstraße 52 - 5460485Frankfurt am MainGermany EU PTQ Austin 2009 - 1 slot6/28/2009Rheo-JuvaviaPetersbrunnstrae 145020SalzburgAustria EU PTQ Austin 2009 - 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-20"
 ---
 
 

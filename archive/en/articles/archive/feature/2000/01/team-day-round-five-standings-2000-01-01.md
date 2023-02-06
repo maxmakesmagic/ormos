@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-day-round-five-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031013901id_/https://magic.wizards.com/en/articles/archive/feature/team-day-round-five-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-31 01:39:01+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name Points Op-Match 1 United States 216 62.67% 2 Canada 197 52.00% 3 Germany 190 46.67% 4 Netherlands 184 69.33% 5 Czech Republic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

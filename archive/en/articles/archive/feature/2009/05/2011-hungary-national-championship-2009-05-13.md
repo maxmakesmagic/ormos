@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-hungary-national-championship-2009-05-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523200319id_/https://magic.wizards.com/en/articles/archive/feature/2011-hungary-national-championship-2009-05-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 20:03:19+00:00"
-[_metadata_:publish_date]:- "2009-05-13"
 [_metadata_:description]:- "Date: 18-19 June 2011 Event Location: 10 Minutes Address: Futó u. 47-53. Budapest 1082, Magyarország EligibilityThe Magic: the Gathering Hungary National Championship is an invitation-only event, open to citizens or permanent residents of Hungary who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers.Invitation List"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-13"
 ---
 
 

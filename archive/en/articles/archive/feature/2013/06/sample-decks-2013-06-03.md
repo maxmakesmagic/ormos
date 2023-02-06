@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sample-decks-2013-06-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160421200106id_/http://magic.wizards.com/en/articles/archive/feature/sample-decks-2013-06-03"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-21 20:01:06+00:00"
-[_metadata_:publish_date]:- "2013-06-03"
 [_metadata_:description]:- "Did you know that for the past several years Wizards of the Coast has provided thirty-card sample decks to stores and organizations as an easy way for players to learn Magic? We provide five decks, one for each color of the color pie, updating them each year with cards from the latest core set. Stores have begun to get these decks featuring cards from Magic 2014 Core Set. Let's take a look at their decklists!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-03"
 ---
 
 

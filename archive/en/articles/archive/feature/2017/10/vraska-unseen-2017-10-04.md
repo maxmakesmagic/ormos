@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vraska-unseen-2017-10-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112021026id_/https://magic.wizards.com/en/articles/archive/feature/vraska-unseen-2017-10-04"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:10:26+00:00"
-[_metadata_:publish_date]:- "2017-10-04"
 [_metadata_:description]:- "Take a closer look at who Vraska is and how she came into the service of one of the Multiverse's greatest villains."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-10-04"
 ---
 
 

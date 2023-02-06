@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/weekend-champions-2008-08-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022072954id_/https://magic.wizards.com/en/articles/archive/feature/weekend-champions-2008-08-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 07:29:54+00:00"
-[_metadata_:publish_date]:- "2008-08-02"
 [_metadata_:description]:- "The event coverage spotlight shines on four locations this weekend. The coverage staff has scattered across the globe to bring you the latest infomation, deck tech, strategies, and much more from the national championships in the United States, France, and Italy, as well as the Summer Series Grand Prix in Kobe and the Vintage Championship at Magic Weekend."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-02"
 ---
 
 

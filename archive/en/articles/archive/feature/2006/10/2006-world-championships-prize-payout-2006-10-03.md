@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-world-championships-prize-payout-2006-10-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026135108id_/https://magic.wizards.com/en/articles/archive/feature/2006-world-championships-prize-payout-2006-10-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:51:08+00:00"
-[_metadata_:publish_date]:- "2006-10-03"
 [_metadata_:description]:- "All Prizes USD Individual"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-10-03"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-fang-skulkin-2008-09-05-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208165144id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-fang-skulkin-2008-09-05-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 16:51:44+00:00"
-[_metadata_:publish_date]:- "2008-09-05"
 [_metadata_:description]:- "This week's desktop wallpaper is Ron Brown's Fang Skulkin from the Eventide set. Enjoy. 1280x1024 pixels 1024x768 pixels 800x600 pixels"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-05"
 ---
 
 

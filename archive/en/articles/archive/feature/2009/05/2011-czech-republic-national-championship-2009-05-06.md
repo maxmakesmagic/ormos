@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-czech-republic-national-championship-2009-05-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018052457id_/https://magic.wizards.com/en/articles/archive/feature/2011-czech-republic-national-championship-2009-05-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:24:57+00:00"
-[_metadata_:publish_date]:- "2009-05-06"
 [_metadata_:description]:- "Date: July 23-24, 2011 Event Location: Hotel Kozák (http://www.hotelkozak.cz/) Address: Horova 1622/30, Brno, Czech Republic EligibilityThe Magic: the Gathering Czech Republic National Championship is an invitation-only event, open to citizens or permanent residents of Czech Republic who have won an invitation to Nationals through DCI ratings or from qualifying events such as"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-06"
 ---
 
 

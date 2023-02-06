@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/forgotten-ancient-2004-03-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112013306id_/https://magic.wizards.com/en/articles/archive/feature/forgotten-ancient-2004-03-31"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:33:06+00:00"
-[_metadata_:publish_date]:- "2004-03-31"
 [_metadata_:description]:- "I ended last week's article asking people to let me know what cards they would like to see covered. One of the nice things about asking for feedback from your readers is that sometimes they surprise you. Since this column began, the biggest surprise I've received so far was about the Sundering Titan Challenge. After reading the forums and my e-mails, I had expected that most people were unexcited by the Challenge. That's what it seemed from what I was reading."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-03-31"
 ---
 
 

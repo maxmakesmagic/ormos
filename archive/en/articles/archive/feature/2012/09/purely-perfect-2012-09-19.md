@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/purely-perfect-2012-09-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630185225id_/https://magic.wizards.com/en/articles/archive/feature/purely-perfect-2012-09-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-30 18:52:25+00:00"
-[_metadata_:publish_date]:- "2012-09-19"
 [_metadata_:description]:- "Magic is a game of many layers. What one player sees, another might see in a completely different light. Every deck, idea, or piece of technology can have a different meaning, or be approached in a different way, than the last. Like life, no two snowflakes are identical in Magic. Because of this, we can often take a clear build-around-me card, such as Grand Architect or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-09-19"
 ---
 
 

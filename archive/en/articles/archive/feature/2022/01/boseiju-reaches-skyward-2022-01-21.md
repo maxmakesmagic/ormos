@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/boseiju-reaches-skyward-2022-01-21?utm_campaign=Kamigawa%3A-Neon-Dynasty&utm_source=TWITTER&utm_medium=social&utm_content=6233347200"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125230429id_/https://magic.wizards.com/en/articles/archive/feature/boseiju-reaches-skyward-2022-01-21?utm_campaign=Kamigawa%3A-Neon-Dynasty&utm_source=TWITTER&utm_medium=social&utm_content=6233347200"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-25 23:04:29+00:00"
-[_metadata_:publish_date]:- "2022-01-21"
 [_metadata_:description]:- "In the heart of Towashi is Boseiju, the oldest living tree on Kamigawa and the only remnant of Jukai Forest left within city limits."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-01-21"
 ---
 
 

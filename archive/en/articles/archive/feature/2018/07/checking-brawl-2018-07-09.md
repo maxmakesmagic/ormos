@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/checking-brawl-2018-07-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210707085102id_/https://magic.wizards.com/en/articles/archive/feature/checking-brawl-2018-07-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-07-07 08:51:02+00:00"
-[_metadata_:publish_date]:- "2018-07-09"
 [_metadata_:description]:- "Gavin shares tidbits from behind the curtain to show how R&D is thinking about Brawl."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-07-09"
 ---
 
 

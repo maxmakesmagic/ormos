@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ivory-giants-art-2013-06-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703061133id_/https://magic.wizards.com/en/articles/archive/feature/ivory-giants-art-2013-06-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-03 06:11:33+00:00"
-[_metadata_:publish_date]:- "2013-06-17"
 [_metadata_:description]:- "One of my favorite pieces of art in Modern Masters is the art for the new Ivory Giant. Let's take a look at the art and the art description which got us here. Color: White creature Location: A snow-covered valley at night under a cloudless, starry sky. Action: Show a pale-skinned giant on a rocky outcropping above a snow-covered valley. The giant is lean, muscular, and at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-17"
 ---
 
 

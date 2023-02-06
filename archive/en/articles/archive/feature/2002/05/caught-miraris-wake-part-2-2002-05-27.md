@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-2-2002-05-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815042151id_/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-2-2002-05-27"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-15 04:21:51+00:00"
-[_metadata_:publish_date]:- "2002-05-27"
 [_metadata_:description]:- "Part Two: A New World OrderWelcome back to our behind-the-scenes look at the Odyssey Cycle author summit. In part one, I discussed the break from the old Weatherlight storyline and the brainstorming session that created Laquatus, Kamahl, and the Mirari plotline."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-05-27"
 ---
 
 

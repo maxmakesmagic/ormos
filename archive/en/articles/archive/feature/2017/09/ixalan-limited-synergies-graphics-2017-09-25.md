@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ixalan-limited-synergies-graphics-2017-09-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171001173920id_/https://magic.wizards.com/en/articles/archive/feature/ixalan-limited-synergies-graphics-2017-09-25"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-01 17:39:20+00:00"
-[_metadata_:publish_date]:- "2017-09-25"
 [_metadata_:description]:- "Diego illustrates the synergies that will carry each tribe to victory in Ixalan Limited."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-09-25"
 ---
 
 

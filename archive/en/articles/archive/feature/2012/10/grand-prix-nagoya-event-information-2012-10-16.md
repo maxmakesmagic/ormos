@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-event-information-2012-10-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161008044639id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-event-information-2012-10-16"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-08 04:46:39+00:00"
-[_metadata_:publish_date]:- "2012-10-16"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-10-16"
 ---
 
 

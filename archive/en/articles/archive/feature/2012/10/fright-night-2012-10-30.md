@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fright-night-2012-10-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627092045id_/https://magic.wizards.com/en/articles/archive/feature/fright-night-2012-10-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 09:20:45+00:00"
-[_metadata_:publish_date]:- "2012-10-30"
 [_metadata_:description]:- "Last week, we took a look at Gerry Thompson's take on BG Zombies. One of the defining cards in that particular list was Lotleth Troll. As a cheap threat that grows as the game goes on, he is already pretty scary, but once you also factor in that he can regenerate through a Supreme Verdict or Bonfire of the Damned, his stock rises even higher. But Lotleth Troll can do a lot"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-10-30"
 ---
 
 

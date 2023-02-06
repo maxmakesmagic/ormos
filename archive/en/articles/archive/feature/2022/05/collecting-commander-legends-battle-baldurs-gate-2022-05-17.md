@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-battle-baldurs-gate-2022-05-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528011527id_/https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-battle-baldurs-gate-2022-05-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-28 01:15:27+00:00"
-[_metadata_:publish_date]:- "2022-05-17"
 [_metadata_:description]:- "A fan-favorite foil-etched look returns with Commander Legends: Battle for Baldur's Gate!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-05-17"
 ---
 
 

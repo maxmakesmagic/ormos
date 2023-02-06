@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-2"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523061314id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-2"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 06:13:14+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Junior Super Series Championship Round 2 Standings - 15-17 Division  Op-Match Rank Name Points Win% 1 Quelle, Blake 6 50.00 2 McArthur, Stephen 6 50.00 3 Turner, Justin 6 50.00 4 Moses, Doug 6 50.00 5 White, Cory 6 50.00 6 Laurent, Sebastien 6 50.00 7 Del Rosario, Derek 6 50.00 8 Logue, Tim 6 50.00 9 Sluzinski, Jeff 6 50.00 10 White Jeff 6 50.00 11 Fornalski, David 6 50.00 12"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

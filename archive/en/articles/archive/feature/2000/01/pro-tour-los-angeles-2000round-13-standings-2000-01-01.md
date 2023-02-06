@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-13-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118134857id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-13-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:48:57+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Burgner, Kurt 32 67.0940 76.6667 59.9423 13/10/2/0 2 Ekebom, Erno 32 64.0180 65.6250 60.7327 13/10/2/0 3 Blackwell, Trevor 31 62.4683 67.8571 60.6931 13/10/1/0 4 Nishioka, Andrew 31 62.1724 70.9677 57.6289 13/10/1/0 5 Kastle, Darwin 31 57.6134 70.0000 54.8418 13/10/1/0 6 Cowley, Bruce 30 56.3088 67.7419"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

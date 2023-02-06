@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sliver-me-timbers-2008-10-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812141315id_/https://magic.wizards.com/en/articles/archive/feature/sliver-me-timbers-2008-10-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 14:13:15+00:00"
-[_metadata_:publish_date]:- "2008-10-03"
 [_metadata_:description]:- "[decklist] Title: Blake Patrow's Counter Slivers Format: 2008 Legacy Championships, Legacy 3 Tundra 2 Tropical Island 2 Underground Sea 4 Flooded Strand 1 Windswept Heath 1 Polluted Delta 1 Island 1 Plains 3 Mutavault 4 Muscle Sliver 4 Sinew Sliver 4 Winged Sliver 4 Crystalline Sliver 3 Hibernation Sliver 4 Force of Will 4 Daze 4 Aether Vial 4 Swords to Plowshares 4 Brainstorm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-03"
 ---
 
 

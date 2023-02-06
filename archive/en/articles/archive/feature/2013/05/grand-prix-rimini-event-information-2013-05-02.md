@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-rimini-event-information-2013-05-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526113723id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-rimini-event-information-2013-05-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:37:23+00:00"
-[_metadata_:publish_date]:- "2013-05-02"
 [_metadata_:description]:- "Information Grand Prix Rimini is brought to you by Dazzle Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-02"
 ---
 
 

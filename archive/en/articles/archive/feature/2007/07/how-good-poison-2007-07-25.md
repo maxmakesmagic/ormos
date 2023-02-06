@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/how-good-poison-2007-07-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812085922id_/https://magic.wizards.com/en/articles/archive/feature/how-good-poison-2007-07-25"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 08:59:22+00:00"
-[_metadata_:publish_date]:- "2007-07-25"
 [_metadata_:description]:- "Hey everyone, and welcome back to Online Tech! This week, I gave the Poison Sliver deck a spin in online Time Spiral Block Constructed tournaments. I got a good feel for the deck for the deck and I'll tell you what I think about it shortly. But first, let's take a look at the metagame breakdown of the Premier Event Top 8s of the last two weeks. Deck namePopularity week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-07-25"
 ---
 
 

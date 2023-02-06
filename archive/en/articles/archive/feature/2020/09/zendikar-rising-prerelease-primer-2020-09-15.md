@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-prerelease-primer-2020-09-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921095051id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-prerelease-primer-2020-09-15"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-21 09:50:51+00:00"
-[_metadata_:publish_date]:- "2020-09-15"
 [_metadata_:description]:- "Get the most out of your Zendikar Rising Prerelease experience with need-to-know info from Gavin Verhey."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-09-15"
 ---
 
 

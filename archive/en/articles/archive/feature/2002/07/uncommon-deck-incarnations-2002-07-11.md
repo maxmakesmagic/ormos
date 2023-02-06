@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/uncommon-deck-incarnations-2002-07-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170513062221id_/http://magic.wizards.com/en/articles/archive/feature/uncommon-deck-incarnations-2002-07-11"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-13 06:22:21+00:00"
-[_metadata_:publish_date]:- "2002-07-11"
 [_metadata_:description]:- "I love card cycles. Card cycles, such as the Judgment Wishes, are like mini-themes embedded in a set. Each card in the cycle tries to capture a single functional mechanic while staying in flavor for its color(s). To me, it's fun to take those cycles and see what kind of decks they make. Like the cards themselves, deck `cycles` have both functional similarities and flavorful differences."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-07-11"
 ---
 
 

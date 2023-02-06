@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-10-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120182733id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-10-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:27:33+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Table Opponent Baker Justin (282) 12 Fiore Stefano (219) Blackwell Trevor (166) 8 Devenport David (105) Bregoli Mike (214) 16 Linde Matt ( 52) Brower Jeremy (224) 38 Tsang Gabe (173) Budde Kai (179) 13 Hirabayashi Kazuya (100) Bui Lucien (154) 17 Postema Bas (234) Chapin Patrick (252) 40 Finkel Jon (240) Comer Alan ( 17) 6 Jensen William (211) Coppage Thomas (116) 28"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

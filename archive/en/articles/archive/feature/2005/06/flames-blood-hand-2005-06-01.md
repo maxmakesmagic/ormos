@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flames-blood-hand-2005-06-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016002348id_/https://magic.wizards.com/en/articles/archive/feature/flames-blood-hand-2005-06-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 00:23:48+00:00"
-[_metadata_:publish_date]:- "2005-06-01"
 [_metadata_:description]:- "Fire Week. By the time you read this, it will be half over, but as I'm writing this article now, I have to say, I have absolutely no idea what kind of exciting stuff the other columnists will be putting out this week. I almost wish I had a little time machine so I could gorge on all of it! (I'm aware I could do a lot more noteworthy stuff if I had a time machine – I could buy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-06-01"
 ---
 
 

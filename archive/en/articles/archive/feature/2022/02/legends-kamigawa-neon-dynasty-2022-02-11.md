@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legends-kamigawa-neon-dynasty-2022-02-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220211162649id_/https://magic.wizards.com/en/articles/archive/feature/legends-kamigawa-neon-dynasty-2022-02-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-02-11 16:26:49+00:00"
-[_metadata_:publish_date]:- "2022-02-11"
 [_metadata_:description]:- "From the modern era to its distant past, these are the new and returning legends you'll meet in Kamigawa: Neon Dynasty."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-02-11"
 ---
 
 

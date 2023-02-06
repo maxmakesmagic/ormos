@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/phyrexian-powers-international-mana-mystery-2011-04-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161024074643id_/http://magic.wizards.com/en/articles/archive/feature/phyrexian-powers-international-mana-mystery-2011-04-25"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-24 07:46:43+00:00"
-[_metadata_:publish_date]:- "2011-04-25"
 [_metadata_:description]:- "&#13; Welcome to the first New Phyrexia Preview Week! I have some fun stories to share and cool cards to show you, so let's not waste time on my thesis paragraph. Phyrexia, ho!&#13; Team Players&#13; &#13; As always, I want to start by introducing you to the New Phyrexia Design Team:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-04-25"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/januarys-fnm-promo-2013-10-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161107153835id_/http://magic.wizards.com/en/articles/archive/feature/januarys-fnm-promo-2013-10-25"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-07 15:38:35+00:00"
-[_metadata_:publish_date]:- "2013-10-25"
 [_metadata_:description]:- "&#13; &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-10-25"
 ---
 
 

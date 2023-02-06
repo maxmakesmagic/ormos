@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/your-last-chance-play-usa-2005-08-10-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170512091944id_/http://magic.wizards.com/en/articles/archive/feature/your-last-chance-play-usa-2005-08-10-0"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-12 09:19:44+00:00"
-[_metadata_:publish_date]:- "2005-08-10"
 [_metadata_:description]:- "“Washington D.C., the home of democracy, the White House, the Capitol Building, Abe Lincoln’s statue sitting, contemplating the future at one end of the National Mall, the Washington Monument piercing the sky at the other end; what better place for the U.S. National Championship?” “Dude!” “What? I’m trying to do an intro for U.S. Nationals and tell everyone about the meat grinders the day before, why are you interrupting me.” “What does a meat grinder have to do with Nationals?”"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-08-10"
 ---
 
 

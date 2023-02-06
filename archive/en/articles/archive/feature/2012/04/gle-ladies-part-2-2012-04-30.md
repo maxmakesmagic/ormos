@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gle-ladies-part-2-2012-04-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502052707id_/https://magic.wizards.com/en/articles/archive/feature/gle-ladies-part-2-2012-04-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:27:07+00:00"
-[_metadata_:publish_date]:- "2012-04-30"
 [_metadata_:description]:- "Last week, I started telling stories about individual Avacyn Restored cards and cycles. I only got to F, which means I have more stories to tell. Gee. No, G. Get to it. This card was originally designed in Dark Ascension. We were looking for horror tropes and someone suggested gallows. As this was gallows as a horror trope, obviously an angry mob had to lynch you; so if you"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-04-30"
 ---
 
 

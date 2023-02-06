@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-focus-locus-2011-09-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151017135133id_/http://magic.wizards.com/en/articles/archive/feature/feature-focus-locus-2011-09-03"
 [_metadata_:wayback_capture_timestamp]:- "2015-10-17 13:51:33+00:00"
-[_metadata_:publish_date]:- "2011-09-03"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-02"
 ---
 
 

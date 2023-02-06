@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-ratings-byes-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205214958id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-ratings-byes-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-12-05 21:49:58+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Byes   Rating   Team Name   Team Members   2   1888   Your Move Games   Darwin Kastle   2   1888   Your Move Games   Robert Dougherty   2   1888"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

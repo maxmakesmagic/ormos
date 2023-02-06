@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/arcanis-omnipotent-2004-09-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614070326id_/http://magic.wizards.com/en/articles/archive/feature/arcanis-omnipotent-2004-09-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-14 07:03:26+00:00"
-[_metadata_:publish_date]:- "2004-09-01"
 [_metadata_:description]:- "There are a lot of Legends out there. Soon, thanks to Champions of Kamigawa there will be even more. They weren't fooling around when they named Arcanis “the Omnipotent” – some Legends cast spells like Overrun, some cast Break Open. Arcanis actually casts Ancestral Recall."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-09-01"
 ---
 
 

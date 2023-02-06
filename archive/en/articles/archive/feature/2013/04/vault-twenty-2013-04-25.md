@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-twenty-2013-04-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129185328id_/https://magic.wizards.com/en/articles/archive/feature/vault-twenty-2013-04-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-29 18:53:28+00:00"
-[_metadata_:publish_date]:- "2013-04-25"
 [_metadata_:description]:- "Twenty Proven Champions! For the twentieth birthday of Magic: The Gathering, we've got a special twenty-card From the Vault! Draw on the power of twenty influential Magic cards to give your decks an edge. Each was a key part of a premier tournament-winning deck from each of the past twenty years. Now you can learn their secrets, harness their strengths, and use them to defeat"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-04-25"
 ---
 
 

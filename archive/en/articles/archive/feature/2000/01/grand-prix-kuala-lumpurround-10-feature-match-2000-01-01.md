@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-10-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520020448id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-10-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 02:04:48+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Monty Ashley Alic Ling vs. Ryan Soh Alec Ling's elf-heavy Stompy dec faced off against Soh's Necro'Donate deck in round ten. Ling started off fast, attacking aggressively with Wild Dogs and Lanowar Elves on turn two, and tried to get an Elvish Lyrist out. Soh, realizing that he had no creature-kill in his main deck, had to use Demonic Consultation to get an emergency Force"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/player-profile-meet-dutch-powerhouse-2006-04-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023154218id_/https://magic.wizards.com/en/articles/archive/feature/player-profile-meet-dutch-powerhouse-2006-04-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:42:18+00:00"
-[_metadata_:publish_date]:- "2006-04-11"
 [_metadata_:description]:- "For my player’s profiles section, I definitely wanted a Dutch, the only problem was to find the one. Not that there are not enough of them, I wish... but there are just numerous Pros posting solid results in the Windmill country. Which one should I go for? The almost ’05 World Champion Frank Karsten, the ’04 Rookie of the Year and World Champion Julien Nuijten? The very"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-04-11"
 ---
 
 

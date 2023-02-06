@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/no-one-bids-walls-2013-01-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160429231238id_/http://magic.wizards.com/en/articles/archive/feature/no-one-bids-walls-2013-01-08"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-29 23:12:38+00:00"
-[_metadata_:publish_date]:- "2013-01-08"
 [_metadata_:description]:- "In 2001, the Auction of the People format was added to the Magic: The Gathering Invitational. The Invitational was an annual tournament that ran 1997–2007, in which sixteen players were invited and the winner got to make a card. The tournaments featured a variety of unique formats rather than the standard competitive formats players are used to."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-08"
 ---
 
 

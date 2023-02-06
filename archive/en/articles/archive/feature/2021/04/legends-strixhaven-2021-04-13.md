@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legends-strixhaven-2021-04-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210413155205id_/https://magic.wizards.com/en/articles/archive/feature/legends-strixhaven-2021-04-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-13 15:52:05+00:00"
-[_metadata_:publish_date]:- "2021-04-13"
 [_metadata_:description]:- "Strixhaven has as many legends as there are books in the Biblioplex. Get to know them all right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-04-13"
 ---
 
 

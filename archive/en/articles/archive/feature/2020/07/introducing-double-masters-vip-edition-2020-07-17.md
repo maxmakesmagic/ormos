@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introducing-double-masters-vip-edition-2020-07-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200722073809id_/https://magic.wizards.com/en/articles/archive/feature/introducing-double-masters-vip-edition-2020-07-17"
 [_metadata_:wayback_capture_timestamp]:- "2020-07-22 07:38:09+00:00"
-[_metadata_:publish_date]:- "2020-07-17"
 [_metadata_:description]:- "Mike Turian introduces the new Double Masters VIP Edition and talks about all the goodies you'll be able to find inside."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-07-17"
 ---
 
 

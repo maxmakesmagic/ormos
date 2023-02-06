@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-4-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124041726id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-4-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:17:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Altermara, Chase Dunn, Jared Lost, 0-2 Altermara, Chase Dunn, Jared Won, 2-0 Ames, David Kramer, Daniel Lost, 0-2 Ames, David Kramer, Daniel Won, 2-0 Ames, Steve Huang, Toby Lost,0-2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

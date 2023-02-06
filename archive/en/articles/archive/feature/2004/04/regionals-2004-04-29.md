@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/regionals-2004-04-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527002827id_/https://magic.wizards.com/en/articles/archive/feature/regionals-2004-04-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 00:28:27+00:00"
-[_metadata_:publish_date]:- "2004-04-29"
 [_metadata_:description]:- "Regionals PrimerThis was a slow week for Magic events. While nothing much happened around the world on the previous weekend, there will be no shortage of news next week as American players are gearing up for the Regional championships this coming Saturday.Sixteen tournaments will be held across the continental United States, awarding eight invitations to Nationals each. Two"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-04-29"
 ---
 
 

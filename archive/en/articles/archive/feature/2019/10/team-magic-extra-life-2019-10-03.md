@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-magic-extra-life-2019-10-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191209205309id_/https://magic.wizards.com/en/articles/archive/feature/team-magic-extra-life-2019-10-03"
 [_metadata_:wayback_capture_timestamp]:- "2019-12-09 20:53:09+00:00"
-[_metadata_:publish_date]:- "2019-10-03"
 [_metadata_:description]:- "Join Magic Extra Life as we fundraise for Seattle Children's Hospital and earn an MTG Arena premium card style for your community!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-10-03"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/single-card-strategies-takes-bow-2005-08-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527175203id_/https://magic.wizards.com/en/articles/archive/feature/single-card-strategies-takes-bow-2005-08-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 17:52:03+00:00"
-[_metadata_:publish_date]:- "2005-08-17"
 [_metadata_:description]:- "And so we come to the final Single Card Strategies article. What I want to leave you with is something that is most suited to my own strengths as a writer. I think it comes as no surprise to many of you that there is a strong casual element to this column's readership. Many casual players take a great amount of interest in finding a card to bend to their will and surprise,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-08-17"
 ---
 
 

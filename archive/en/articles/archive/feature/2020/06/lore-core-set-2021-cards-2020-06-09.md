@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lore-core-set-2021-cards-2020-06-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200609180503id_/https://magic.wizards.com/en/articles/archive/feature/lore-core-set-2021-cards-2020-06-09"
 [_metadata_:wayback_capture_timestamp]:- "2020-06-09 18:05:03+00:00"
-[_metadata_:publish_date]:- "2020-06-09"
 [_metadata_:description]:- "Core Sets don't have a story, per se. But that doesn't mean they're not full of lore, so check back often to learn all about the new cards!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-06-09"
 ---
 
 

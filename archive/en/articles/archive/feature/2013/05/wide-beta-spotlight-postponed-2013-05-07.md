@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wide-beta-spotlight-postponed-2013-05-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502073610id_/https://magic.wizards.com/en/articles/archive/feature/wide-beta-spotlight-postponed-2013-05-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 07:36:10+00:00"
-[_metadata_:publish_date]:- "2013-05-07"
 [_metadata_:description]:- "Hi Magic Online Players,A couple weeks ago I announced our plans for a Wide Beta Spotlight in which we would disable the current version of Magic Online and require players to use the Wide Beta. Encouraged by the Wide Beta so far, we wanted more players to check out where we were in the development and to get as many new eyes on the client as possible. As an incentive, we"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-07"
 ---
 
 

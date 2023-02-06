@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-42-2003-09-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120001300id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-42-2003-09-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:13:00+00:00"
-[_metadata_:publish_date]:- "2003-09-06"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at ask@wizards.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Judge QuestionsQ: Since you are a level 4 judge, I figured that this would be an appropriate question to ask you. I am looking to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-09-06"
 ---
 
 

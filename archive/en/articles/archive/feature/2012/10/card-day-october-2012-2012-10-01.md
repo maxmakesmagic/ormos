@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-october-2012-2012-10-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017012841id_/https://magic.wizards.com/en/articles/archive/feature/card-day-october-2012-2012-10-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-17 01:28:41+00:00"
-[_metadata_:publish_date]:- "2012-10-01"
 [_metadata_:description]:- "Palliation Accord – Dissension uncommon. `Palliation` is a real English word, derived from `palliate,` to make a crime appear less serious. Even the Azorius are willing to cut a criminal a deal sometimes. Righteous Authority – Return to Ravnica rare. The symbols that surround the creature in the art for Righteous Authority also appear in the Azorius guild symbol. They're"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-10-01"
 ---
 
 

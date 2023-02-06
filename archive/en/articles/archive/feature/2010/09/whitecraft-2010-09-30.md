@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whitecraft-2010-09-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127081221id_/https://magic.wizards.com/en/articles/archive/feature/whitecraft-2010-09-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 08:12:21+00:00"
-[_metadata_:publish_date]:- "2010-09-30"
 [_metadata_:description]:- "Daily Deck List [decklist] Title: Mike Turian's Whitecraft Format: Scars of Mirrodin Prerelease 19 Plains 4 Memnite 4 Glint Hawk 4 Myrsmith 2 Leonin Arbiter 2 Sunspear Shikari 4 Gold Myr 3 Kemba, Kha Regent 4 Mox Opal 4 Origin Spellbomb 2 Sylvok Lifestaff 4 Darksteel Axe 4 Glint Hawk Idol 1 Strata Scythe 1 Elspeth Tirel [/decklist] Pro Tour Hall of Fame member Mike Turian was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-09-30"
 ---
 
 

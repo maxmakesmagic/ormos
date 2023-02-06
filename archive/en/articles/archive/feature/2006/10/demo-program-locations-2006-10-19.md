@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/demo-program-locations-2006-10-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021222429id_/https://magic.wizards.com/en/articles/archive/feature/demo-program-locations-2006-10-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 22:24:29+00:00"
-[_metadata_:publish_date]:- "2006-10-19"
 [_metadata_:description]:- "Updated 2006-10-19CountryCityStore NameAddressEmailPhoneENGAltrinchamThe Gaming Crypt44 Greenwood StreetEmail01619 299 919ENGBangorReplay97 High StreetEmail02891 452 210ENGBristolTravelling Man8 Park StreetEmail01179 258 833ENGCamberleyMorningstar Hobby Supplies6 Bietigheim WayEmail01276 685 160ENGCoventryBishop Games8 City ArcadeEmail02476 334 999ENGEalingAnd So it Begins73"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-10-19"
 ---
 
 

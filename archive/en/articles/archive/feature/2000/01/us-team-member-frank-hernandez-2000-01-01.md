@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-team-member-frank-hernandez-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124034514id_/https://magic.wizards.com/en/articles/archive/feature/us-team-member-frank-hernandez-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:45:14+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Adrian Sullivan Sideboard: Florida Pro Geddes Cooper told me that you have an unbelievably good record with green decks. How true is that? Hernandez: I haven't lost much at all with my current Stompy. I went undefeated at Regionals, and the only loss there was when I left the tournament early. I went 6-0-2 there, and then 4-1-1 in Standard yesterday. I only lost one Top 8 match, so I'm 12-2-3 with the deck since Regionals."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

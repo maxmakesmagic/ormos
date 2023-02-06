@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-metagame-breakdown-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031043009id_/https://magic.wizards.com/en/articles/archive/feature/standard-metagame-breakdown-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-31 04:30:09+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Tournament Info Tournament Update  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

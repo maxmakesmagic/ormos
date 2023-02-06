@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/converging-zendikar-2015-09-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150909214149id_/http://magic.wizards.com/en/articles/archive/feature/converging-zendikar-2015-09-07"
 [_metadata_:wayback_capture_timestamp]:- "2015-09-09 21:41:49+00:00"
-[_metadata_:publish_date]:- "2015-09-07"
 [_metadata_:description]:- "With Battle for Zendikar quickly approaching, Ian can't wait to see what cards you'll converge toward in your many-colored decks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-09-07"
 ---
 
 

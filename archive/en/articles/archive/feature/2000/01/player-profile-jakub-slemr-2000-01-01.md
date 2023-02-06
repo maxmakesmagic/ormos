@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/player-profile-jakub-slemr-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029160527id_/https://magic.wizards.com/en/articles/archive/feature/player-profile-jakub-slemr-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-29 16:05:27+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Birthdate: June 28, 1977Birthplace: Prague, Czech RepublicResidence: Prague, Czech RepublicLanguages: Czech (fluent), English (fluent), German (a little), Russian (a little)Occupation: Computer AnalystTeam Affiliation: Team Mogg Squad Notable Results"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

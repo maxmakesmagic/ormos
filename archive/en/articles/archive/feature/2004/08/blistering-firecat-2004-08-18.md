@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blistering-firecat-2004-08-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018022408id_/https://magic.wizards.com/en/articles/archive/feature/blistering-firecat-2004-08-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 02:24:08+00:00"
-[_metadata_:publish_date]:- "2004-08-18"
 [_metadata_:description]:- "It's not going to be much longer now until Champions of Kamigawa is released. While this is Unglued week, I'm not on theme this week so I'm taking this time to talk about something else. Unglued is a very unconventional set, and I think that you'll find that articles this week are of a slightly different mold. I'm taking a cue from that to write an article that is a bit"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-08-18"
 ---
 
 

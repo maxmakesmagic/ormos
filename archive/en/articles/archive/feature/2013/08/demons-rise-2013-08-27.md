@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/demons-rise-2013-08-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116100119id_/https://magic.wizards.com/en/articles/archive/feature/demons-rise-2013-08-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-16 10:01:19+00:00"
-[_metadata_:publish_date]:- "2013-08-27"
 [_metadata_:description]:- "I haven't seen a Homicidal Seclusion in play since Avacyn Restored Draft, so imagine my surprise when I found a deck with multiple copies of it in Standard. The sweetness doesn't end there, as this deck also sports a couple other cards that have recently seen their popularity rise: Haunted Plate Mail and Demonic Rising. This deck has plenty of the mono-black aspects you would"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-27"
 ---
 
 

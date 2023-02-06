@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/battle-horde-your-friends-2014-02-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170101235338id_/http://magic.wizards.com/en/articles/archive/feature/battle-horde-your-friends-2014-02-28"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-01 23:53:38+00:00"
-[_metadata_:publish_date]:- "2014-02-28"
 [_metadata_:description]:- "&#13; This weekend players around the world will take part in the Born of the Gods Game Day. Not only will they be able to compete in the Standard tournament at the heart of the Game Day events, but also they'll have the chance to complete the sixth step on the Hero's Path."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-28"
 ---
 
 

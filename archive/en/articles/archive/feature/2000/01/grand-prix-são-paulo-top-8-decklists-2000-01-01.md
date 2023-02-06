@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-top-8-decklists-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124110139id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-top-8-decklists-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:01:39+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "[decklist] Title: Rafael Alvarenga (1st) Format: Commander: 10 Plains 6 Swamps 1 Cho-Manno's Blessing 1 Cho-Manno, Revolutionary 1 Disenchant 2 Steadfast Guard 1 Muzzle 2 Nightwing Glider 2 Thermal Glider 1 Ramosian Rally 2 Ramosian Sergeant 2 Ramosian Lieutenant 1 Wishmonger 1 Distorting Barrier 1 Deepwood Ghoul 1 Maggot Therapy 2 Highway Robbers 1 Primeval Shambler"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

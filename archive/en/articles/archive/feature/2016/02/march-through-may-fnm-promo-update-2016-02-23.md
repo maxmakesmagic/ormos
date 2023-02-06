@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/march-through-may-fnm-promo-update-2016-02-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160223164532id_/http://magic.wizards.com/en/articles/archive/feature/march-through-may-fnm-promo-update-2016-02-23"
 [_metadata_:wayback_capture_timestamp]:- "2016-02-23 16:45:32+00:00"
-[_metadata_:publish_date]:- "2016-02-23"
 [_metadata_:description]:- "Blake takes a look ahead to see what FNM promos are waiting in the near future."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-02-23"
 ---
 
 

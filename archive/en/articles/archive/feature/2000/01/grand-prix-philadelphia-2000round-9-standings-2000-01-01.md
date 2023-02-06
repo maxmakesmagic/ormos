@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-9-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527021354id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-9-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 02:13:54+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 McCord Scott 27 71.26 2 Van Cleave, Trey (Q) 25 67.18 3 Joyce Brian 25 65.67 4 Leiher, Peter (Q) 24 74.80 5 McLean, Drew (1700) 24 72.82 6 Bernat Michael 24 68.85 7 Jensen III, William (Q) 24 68.78 8 Means, Jason (Q) (1700) 24 67.71 9 Fitch, Britt (1700) 24 65.80 10 Qian, Patrick (1700) 24 64.30 11 Carpenter, Ryan (1700) 24 64.06 12 Gallitz,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

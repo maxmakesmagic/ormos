@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/security-and-stability-2002-02-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160113072059id_/http://magic.wizards.com/en/articles/archive/feature/security-and-stability-2002-02-25"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-13 07:20:59+00:00"
-[_metadata_:publish_date]:- "2002-02-25"
 [_metadata_:description]:- "One of the more common comments I see on the Magic Online forums is, “How can Wizards keep the cards safe on their servers?” The perceived threats listed in the posts range from power outages to hackers to disastrous hardware failure. We here at Wizards and the fine folks at Leaping Lizard have been working on mechanisms to keep the data on the servers safe and secure for many months now."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-02-25"
 ---
 
 

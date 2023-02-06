@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intotheaether-loves-his-legends-2004-11-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205054938id_/https://magic.wizards.com/en/articles/archive/feature/intotheaether-loves-his-legends-2004-11-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-05 05:49:38+00:00"
-[_metadata_:publish_date]:- "2004-11-30"
 [_metadata_:description]:- "Welcome back! Last week's article had a nice response, so let's keep at it. How did those recent changes I made to the Way of the Warrior preconstructed deck pan out?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-11-30"
 ---
 
 

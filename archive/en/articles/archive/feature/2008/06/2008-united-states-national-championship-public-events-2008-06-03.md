@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-united-states-national-championship-public-events-2008-06-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024020556id_/https://magic.wizards.com/en/articles/archive/feature/2008-united-states-national-championship-public-events-2008-06-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 02:05:56+00:00"
-[_metadata_:publish_date]:- "2008-06-03"
 [_metadata_:description]:- "General InformationDaily Drawings – Sponsored by:Pastimes Cards, Comics & Games 8351 W Golf Rd, Niles, IL 60714 (847) 470-9636www.pastimes.netDrop your tickets in the box at the Public Events Stage, and enter to win exciting prizes! Drawings will be held at approximately 1pm and 6pm on Friday, Saturday and Sunday. Prizes may include current and classic booster packs, rare"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-06-03"
 ---
 
 

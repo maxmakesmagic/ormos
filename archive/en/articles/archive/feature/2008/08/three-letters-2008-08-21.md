@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/three-letters-2008-08-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127043936id_/https://magic.wizards.com/en/articles/archive/feature/three-letters-2008-08-21"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 04:39:36+00:00"
-[_metadata_:publish_date]:- "2008-08-21"
 [_metadata_:description]:- "Hi, all. Welcome to Elf Week! Can you think of a better time to dip into the old mailbag? I can, but that would mean I'd have to rewrite the previous sentence. Never look back! Dear Chris, My name is Rophellos. As you have probably guessed, I'm an Elf with a lot of can-do spirit. You might remember me from such decks as Elves!, Elf-Ball, and Rophellos 'N' Toast (which, by the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-21"
 ---
 
 

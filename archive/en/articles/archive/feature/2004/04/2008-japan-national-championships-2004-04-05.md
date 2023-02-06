@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-japan-national-championships-2004-04-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030014545id_/https://magic.wizards.com/en/articles/archive/feature/2008-japan-national-championships-2004-04-05"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 01:45:45+00:00"
-[_metadata_:publish_date]:- "2004-04-05"
 [_metadata_:description]:- "September 19-21, 2008 Location Osanbashi Hall 1-1-4 Kaigan-doori, Naka-ku Yokohama-shi, Kanagawa-kenwww.osanbashi.com/hall/index.html Access  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-04-05"
 ---
 
 

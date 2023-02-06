@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scar-striped-2013-05-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160922014603id_/http://magic.wizards.com/en/articles/archive/feature/scar-striped-2013-05-08"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-22 01:46:03+00:00"
-[_metadata_:publish_date]:- "2013-05-08"
 [_metadata_:description]:- "&#13; When I cracked my Prerelease pack a few weeks ago I was excited to see Varolz, the Scar-Striped amongst my rares. He ended up being an utter beast during my matches. Between sacrificing my creatures to regenerate him, and then scavenging them to make him stronger, I spent a lot of time looking at him and his art."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-08"
 ---
 
 

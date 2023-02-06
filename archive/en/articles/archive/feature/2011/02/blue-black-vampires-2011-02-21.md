@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-black-vampires-2011-02-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170525161710id_/http://magic.wizards.com/en/articles/archive/feature/blue-black-vampires-2011-02-21"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-25 16:17:10+00:00"
-[_metadata_:publish_date]:- "2011-02-21"
 [_metadata_:description]:- "[decklist] Title: Christian Calcano's Blue-Black Vampires Format: Standard - Pro Tour Paris 2011 4 Drowned Catacomb 4 Darkslick Shores 4 Creeping Tar Pit 2 Verdant Catacombs 2 Marsh Flats 7 Swamp 4 Vampire Lacerator 4 Pulse Tracker 4 Bloodghast 4 Nantuko Shade 4 Gatekeeper of Malakir 3 Phyrexian Revoker 4 Inquisition of Kozilek 4 Unified Will 3 Duress 3 Go for the Throat *2 Dark Tutelage *2 Flashfreeze *2 Marsh Casualties *2 Wurmcoil Engine"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-02-21"
 ---
 
 

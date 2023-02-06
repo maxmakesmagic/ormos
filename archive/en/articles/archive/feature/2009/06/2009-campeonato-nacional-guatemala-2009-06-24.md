@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-guatemala-2009-06-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021022722id_/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-guatemala-2009-06-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 02:27:22+00:00"
-[_metadata_:publish_date]:- "2009-06-24"
 [_metadata_:description]:- "FirstLastInvitation SourceRegional DateRegional CityRegional Country Christopher AndresVirula Martinez2008 National Championn/an/an/a Victor ManuelMiron YelaTop 20 Composite Ratingn/an/an/a Christopher AndresVirula MartinezTop 20 Composite Ratingn/an/an/a RigobertoCastellánTop 20 Composite Ratingn/an/an/a JavierCastellanTop 20 Composite Ratingn/an/an/a Luis ErnestoSon"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-24"
 ---
 
 

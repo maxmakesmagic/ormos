@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-south-africa-national-championship-2009-06-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524163542id_/https://magic.wizards.com/en/articles/archive/feature/2011-south-africa-national-championship-2009-06-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:35:42+00:00"
-[_metadata_:publish_date]:- "2009-06-22"
 [_metadata_:description]:- "Date: 27-28 August 2011Event Location: Bernie’s GrillAddress: Bonaero Park Shopping Centre – Corner of Atlas and Geldenhuys Roads, Kempton Park, Johannesburg, South Africa Eligibility The Magic: the Gathering South Africa National Championship is an invitation-only event, open to citizens or permanent residents of South Africa who have won an invitation to Nationals through"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-22"
 ---
 
 

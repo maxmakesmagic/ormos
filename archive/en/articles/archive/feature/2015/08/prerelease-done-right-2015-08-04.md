@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/prerelease-done-right-2015-08-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150806182401id_/http://magic.wizards.com/en/articles/archive/feature/prerelease-done-right-2015-08-04"
 [_metadata_:wayback_capture_timestamp]:- "2015-08-06 18:24:01+00:00"
-[_metadata_:publish_date]:- "2015-08-04"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Jordan offers an inside look at a truly spectacular Prerelease hosted by WPN store Vortex Game Center"
+[_metadata_:publish_date]:- "2015-08-04"
 ---
 
 

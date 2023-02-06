@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tempest-storyboard-2002-12-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111195211id_/https://magic.wizards.com/en/articles/archive/feature/tempest-storyboard-2002-12-20"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-11 19:52:11+00:00"
-[_metadata_:publish_date]:- "2002-12-20"
 [_metadata_:description]:- "This feature originally appeared in Duelist #20. It is presented here in its entirety.Tempest is the first set to illustrate its entire story from start to finish in its artwork. But why explain when we can just show you…"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-12-20"
 ---
 
 

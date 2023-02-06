@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/urzas-saga-release-events-2010-03-16-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519113310id_/https://magic.wizards.com/en/articles/archive/feature/urzas-saga-release-events-2010-03-16-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 11:33:10+00:00"
-[_metadata_:publish_date]:- "2010-03-16"
 [_metadata_:description]:- "Play with some of the most powerful Magic: The Gathering cards ever printed; Morphling, Tolarian Academy, Yawgmoth's Will, and more will add a new level of power to your game. Originally released in 1998, Urza's Saga is full of famous - and some would say infamous - cards and abilities. Urza's Saga will be available in the Magic Online Store on Monday, March 29 at 9:00 AM PST"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-16"
 ---
 
 

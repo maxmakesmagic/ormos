@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-deck-wins-2010-01-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819144626id_/https://magic.wizards.com/en/articles/archive/feature/red-deck-wins-2010-01-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 14:46:26+00:00"
-[_metadata_:publish_date]:- "2010-01-08"
 [_metadata_:description]:- "[decklist] Title: Gene Richtsmeier's Red Deck Wins Format: Legacy – StarCityGames.com Open 14 Mountain 2 Bloodstained Mire 2 Scalding Tarn 2 Wooded Foothills 4 Countryside Crusher 4 Grim Lavamancer 4 Keldon Marauders 4 Fireblast 4 Flame Javelin 4 Lightning Bolt 4 Magma Jet 4 Price of Progress 4 Chain Lightning 4 Rift Bolt *4 Tormod's Crypt *4 Vexing Shusher *4 Pyroblast *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-08"
 ---
 
 

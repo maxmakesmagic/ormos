@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/innistrad-sortable-card-reference-2011-09-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170704231751id_/http://magic.wizards.com/en/articles/archive/feature/innistrad-sortable-card-reference-2011-09-16"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-04 23:17:51+00:00"
-[_metadata_:publish_date]:- "2011-09-16"
 [_metadata_:description]:- "#NameCostTypeP/TRules TextFlavor TextRarityArtist1Abbey Griffin3WCreature — Griffin2/2Flying, vigilance“The darkness"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-16"
 ---
 
 

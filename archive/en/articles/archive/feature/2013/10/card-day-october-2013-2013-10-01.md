@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-october-2013-2013-10-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018203741id_/https://magic.wizards.com/en/articles/archive/feature/card-day-october-2013-2013-10-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 20:37:41+00:00"
-[_metadata_:publish_date]:- "2013-10-01"
 [_metadata_:description]:- "Tempt with Vengeance – Commander (2013 Edition). From the Commander (2013 Edition) Release Notes: Your opponents decide in turn order whether or not they accept the offer, starting with the opponent on your left…. After each opponent has decided, the effect happens simultaneously for each one who accepted the offer. Toxic Deluge – Commander (2013 Edition). From the Commander"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-10-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-cruel-ultimatum-2013-08-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119200357id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-cruel-ultimatum-2013-08-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 20:03:57+00:00"
-[_metadata_:publish_date]:- "2013-08-06"
 [_metadata_:description]:- "Welcome to Wallpaper of the Week! This week's wallpaper features Ralph Horsley's Cruel Ultimatum. Enjoy.     2560x1600  1920x1080  1280x960  Mobile  Tablet  Facebook  See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-06"
 ---
 
 

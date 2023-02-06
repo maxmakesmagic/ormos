@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-moscow-winning-decklist-2014-06-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813123842id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-moscow-winning-decklist-2014-06-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 12:38:42+00:00"
-[_metadata_:publish_date]:- "2014-06-16"
 [_metadata_:description]:- "Congratulations to Igor Gorbunov, winner of Grand Prix Moscow 2014!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-06-16"
 ---
 
 

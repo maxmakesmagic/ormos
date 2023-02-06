@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lorwyn-prerelease-weekend-here-2007-09-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027131732id_/https://magic.wizards.com/en/articles/archive/feature/lorwyn-prerelease-weekend-here-2007-09-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 13:17:32+00:00"
-[_metadata_:publish_date]:- "2007-09-28"
 [_metadata_:description]:- "In case you somehow missed the news, the Lorwyn Worldwide Prerelease Weekend is here! The new set won’t be sold in stores until October 12, but this special event is your chance to get your hands on Lorwyn early, experience Magic‘s new big set in all its glory, and play your new cards with other fans of the game in an environment that’s welcoming to players of all experience"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-09-28"
 ---
 
 

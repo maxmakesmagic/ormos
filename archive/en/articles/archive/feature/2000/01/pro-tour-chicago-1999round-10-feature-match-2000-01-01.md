@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-10-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815115947id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-10-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:59:47+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Alan Comer vs. Tony Dobson"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

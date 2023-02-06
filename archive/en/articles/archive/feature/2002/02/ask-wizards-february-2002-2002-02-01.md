@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-february-2002-2002-02-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207182828id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-february-2002-2002-02-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-02-07 18:28:28+00:00"
-[_metadata_:publish_date]:- "2002-02-01"
 [_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your full name and location, to ask@wizards.com. We'll post a new question and answer each day.February 28, 2002"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-02-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-celebrates-its-11th-anniversary-2013-06-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025051518id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-celebrates-its-11th-anniversary-2013-06-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 05:15:18+00:00"
-[_metadata_:publish_date]:- "2013-06-11"
 [_metadata_:description]:- "My name is Mike Turian (on Twitter @mturian). I am the newest member of the Magic Online Business team in the role of Digital Product Manager. Before joining Magic Online, I worked as a Producer for Wizard's technology department, a Product Manager for Organized Play, and as a R&D lead developer on sets such as Future Sight, Worldwake, and Scars of Mirrodin. I have played"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-11"
 ---
 
 

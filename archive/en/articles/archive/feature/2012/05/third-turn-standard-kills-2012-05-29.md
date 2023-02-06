@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/third-turn-standard-kills-2012-05-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015213409id_/https://magic.wizards.com/en/articles/archive/feature/third-turn-standard-kills-2012-05-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:34:09+00:00"
-[_metadata_:publish_date]:- "2012-05-29"
 [_metadata_:description]:- "Last time I looked at a Standard deck, I worked on something that was practically as slow as you could possibly get. This time, we're going out to exactly the opposite end of the spectrum.How does a third-turn kill in Standard sound to you?Inkmoth Nexus | Art by Jung ParkInfect has had some time out of the spotlight recently as Innistrad block's cards have (rightfully) had a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-29"
 ---
 
 

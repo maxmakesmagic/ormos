@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/community-spotlight-rise-eldrazi-pooled-previews-2010-03-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170316210514id_/http://magic.wizards.com/en/articles/archive/feature/community-spotlight-rise-eldrazi-pooled-previews-2010-03-19"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-16 21:05:14+00:00"
-[_metadata_:publish_date]:- "2010-03-19"
 [_metadata_:description]:- "Last Monday, six cards from Rise of the Eldrazi made their appearance. If you haven't seen them, that's because they didn't make their appearance here, but out there. On the Internet. On a variety of sites, each of which put their own spin on the preview. And now, if you'd like to check them out, here they are!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-19"
 ---
 
 

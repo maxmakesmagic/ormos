@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwide-release-tournament-2004-11-15-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018114239id_/https://magic.wizards.com/en/articles/archive/feature/worldwide-release-tournament-2004-11-15-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 11:42:39+00:00"
-[_metadata_:publish_date]:- "2004-11-15"
 [_metadata_:description]:- "StoreCountryVenueTelephoneEmail Nanning Mtg StoreCNGuangxi Sheng Nanningshi Jiaoyuting Caijichu13978680801quanbin66@sohu.comZhengzhou JingheCNHenan Zhengzhou Wei Er Lu 23 Hao Fu 4 Hao 0371-5970896zyd769@sina.comXiamen Forest Card StoreCNFujian Xiamen Gulangyu0592-2068452xmwzp@sina.comShenyang Card StoreCNShengyang Changdejie024-23216174syxingyuan@sina.comHaerbin Xuefu"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-11-15"
 ---
 
 

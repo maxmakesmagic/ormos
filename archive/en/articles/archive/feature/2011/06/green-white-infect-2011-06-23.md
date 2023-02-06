@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/green-white-infect-2011-06-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318152922id_/http://magic.wizards.com/en/articles/archive/feature/green-white-infect-2011-06-23"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-18 15:29:22+00:00"
-[_metadata_:publish_date]:- "2011-06-23"
 [_metadata_:description]:- "[decklist] Title: Graham Stark's Green-White Infect Format: Unified Standard – Magic Online Community Cup 2011 10 Forest 6 Plains 4 Razorverge Thicket 4 Blight Mamba 4 Glistener Elf 4 Ichorclaw Myr 4 Lost Leonin 4 Necropede 1 Apostle's Blessing 4 Emerge Unscathed 3 Giant Growth 4 Groundswell 4 Mutagenic Growth 4 Vines of Vastwood *4 Canopy Cover *2 Corpse Cur *3 Putrefax *2 Tezzeret's Gambit *4 Unnatural Predation [/decklist]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-23"
 ---
 
 

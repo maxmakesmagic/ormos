@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorsblue-2008-07-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206180847id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorsblue-2008-07-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 18:08:47+00:00"
-[_metadata_:publish_date]:- "2008-07-15"
 [_metadata_:description]:- "Islands provide blue mana—the magic of the deep sea and the endless sky. Blue magic is about deceit, logic, and illusion. To a blue mage, information and knowledge are paramount. Blue mages want to know everything, and they'll go to any lengths to do so. When a blue mage fights, tidal waves crash against rocky cliffs, the wind whips out of stormy skies, and an enemy's spells"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-15"
 ---
 
 

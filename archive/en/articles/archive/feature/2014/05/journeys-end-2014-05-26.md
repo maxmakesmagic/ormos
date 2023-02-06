@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/journeys-end-2014-05-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150428030939id_/http://magic.wizards.com/en/articles/archive/feature/journeys-end-2014-05-26"
 [_metadata_:wayback_capture_timestamp]:- "2015-04-28 03:09:39+00:00"
-[_metadata_:publish_date]:- "2014-05-26"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "We've reached the final chapter in our hero's journey. Elspeth has fought her way into Nyx, and she's got deicide on her mind. The Godsend novel contains the whole story, from Elspeth's arrival on Theros to the culmination of her battle with the gods in Nyx. If you want to read the novel and get all the details in narrative form, that's great. Here are the links:"
+[_metadata_:publish_date]:- "2014-05-26"
 ---
 
 

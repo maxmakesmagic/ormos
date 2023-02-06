@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wheres-beats-2007-04-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128130536id_/https://magic.wizards.com/en/articles/archive/feature/wheres-beats-2007-04-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 13:05:36+00:00"
-[_metadata_:publish_date]:- "2007-04-26"
 [_metadata_:description]:- "Last week in Online Tech, fanatic Frank `sick as hell` Karsten told the story of a Magic Online Premiere Event that featured eight copies of White Weenie in the Top 8! For many players, this was a clear signal: as far as Time Spiral Block Constructed and the (then-) upcoming Pro Tour goes (went?), White Weenie was not just a, but the Deck to Beat. For those players and pundits"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-04-26"
 ---
 
 

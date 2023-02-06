@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/nicol-bolas-planeswalker-2009-01-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170611071149id_/http://magic.wizards.com/en/articles/archive/feature/nicol-bolas-planeswalker-2009-01-19"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-11 07:11:49+00:00"
-[_metadata_:publish_date]:- "2009-01-19"
 [_metadata_:description]:- "Bolas folded his wings and dived down toward the waves. He banked sharply and slipped between the spires of the Talon Gates. The air between them responded, shifting once more from black to red to blue.  Then the oldest and most powerful planeswalker in Dominaria's history departed, perhaps never to return."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-19"
 ---
 
 

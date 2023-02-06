@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/reader-submission-cruel-teachings-2013-07-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160110191614id_/http://magic.wizards.com/en/articles/archive/feature/reader-submission-cruel-teachings-2013-07-23"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-10 19:16:14+00:00"
-[_metadata_:publish_date]:- "2013-07-23"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-23"
 ---
 
 

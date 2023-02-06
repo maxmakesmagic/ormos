@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-m21-and-jumpstart-previews-2020-06-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200603030809id_/https://magic.wizards.com/en/articles/archive/feature/where-find-m21-and-jumpstart-previews-2020-06-02"
 [_metadata_:wayback_capture_timestamp]:- "2020-06-03 03:08:09+00:00"
-[_metadata_:publish_date]:- "2020-06-02"
 [_metadata_:description]:- "Core Set 2021 and Jumpstart previews are almost upon us, and you can get all the dates and preview outlets right here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-06-02"
 ---
 
 

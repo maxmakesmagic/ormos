@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-professional-points-structure-2004-10-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017170610id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-professional-points-structure-2004-10-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-17 17:06:10+00:00"
-[_metadata_:publish_date]:- "2004-10-19"
 [_metadata_:description]:- "Professional Points are awarded to players based on their finishes at Pro Tour, Grand Prix, World Magic Cup, and Magic World Championship events. Professional Points are officially awarded on the final day of appropriate tournaments after the final standings have been determined. Only players who actually compete in the appropriate tournaments will receive Professional Points"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-10-19"
 ---
 
 

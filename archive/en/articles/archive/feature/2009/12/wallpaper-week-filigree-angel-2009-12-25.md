@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-filigree-angel-2009-12-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207101135id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-filigree-angel-2009-12-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-07 10:11:35+00:00"
-[_metadata_:publish_date]:- "2009-12-25"
 [_metadata_:description]:- "This article originally ran on May 22, 2009. This week's desktop wallpaper is Richard Whitters's Filigree Angel from Alara Reborn. Enjoy. Regular (1280x960 pixels) Widescreen (2560x1600 pixels) iPhone (320x480 pixels)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-12-25"
 ---
 
 

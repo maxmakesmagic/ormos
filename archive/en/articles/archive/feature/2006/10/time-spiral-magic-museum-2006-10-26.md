@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/time-spiral-magic-museum-2006-10-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170321023718id_/http://magic.wizards.com/en/articles/archive/feature/time-spiral-magic-museum-2006-10-26"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-21 02:37:18+00:00"
-[_metadata_:publish_date]:- "2006-10-26"
 [_metadata_:description]:- "If you read my Jaya Ballard, Task Magepreview article, then you know that Time Spiral cards can hold a big dusty chest of nostalgic nods to Magic history."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-10-26"
 ---
 
 

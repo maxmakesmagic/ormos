@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/werewolves-2012-03-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170402230205id_/http://magic.wizards.com/en/articles/archive/feature/werewolves-2012-03-23"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-02 23:02:05+00:00"
-[_metadata_:publish_date]:- "2012-03-23"
 [_metadata_:description]:- "Several of the tribes powered by Innistrad block have shown up at the top levels of tournaments, and it looks like it's finally time for Werewolves to get their day in the sun moon! In a recent Magic Online Daily Event, Paulito_Mang went 4–0 with his take on the double-sided creatures."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-23"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-pro-tour-point-byes-2015-12-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030091017id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-pro-tour-point-byes-2015-12-16"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 09:10:17+00:00"
-[_metadata_:publish_date]:- "2015-12-16"
 [_metadata_:description]:- "First Name    Last Name    Pro Points   Kazufumi    Abe    3   Urena    Abraham    1   Takatsugu    Adachi    1   Richard    Adelfin    2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-12-16"
 ---
 
 

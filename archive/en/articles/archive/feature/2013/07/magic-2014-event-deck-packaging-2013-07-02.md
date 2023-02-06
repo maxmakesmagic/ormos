@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2014-event-deck-packaging-2013-07-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112004140id_/https://magic.wizards.com/en/articles/archive/feature/magic-2014-event-deck-packaging-2013-07-02"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:41:40+00:00"
-[_metadata_:publish_date]:- "2013-07-02"
 [_metadata_:description]:- "Surprising no one, there is indeed an Event Deck for Magic 2014—Core Set. Now if that didn't surprise, you, maybe this will. The packaging? It has Chandra on it. Still unsurprised? Good for you. Because, there's... nothing surprising about this!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-02"
 ---
 
 

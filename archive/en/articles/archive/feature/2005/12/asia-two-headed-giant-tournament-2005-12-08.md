@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/asia-two-headed-giant-tournament-2005-12-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016191446id_/https://magic.wizards.com/en/articles/archive/feature/asia-two-headed-giant-tournament-2005-12-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:14:46+00:00"
-[_metadata_:publish_date]:- "2005-12-08"
 [_metadata_:description]:- "DateName of the shopAddressContactemailTelephone11-Dec-05Bluemtg PlayZone Mojin-dong 213 Gwangjin-gu Tic-Toc Board Game Club Seoul 143-140 Youn Kwangsubsky746@hanmail.net02-452-1860 10-Dec-05Magic maniaPripana mansion 99/1 suteph Road muang Chiang mai 50200Sirisak Boonvorasatechamp_peekapoo@hotmail.com01-88516159-Dec-05DICENoryangjin 2 Dong 250-6 1F-B DongjakGu SeoulCynic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-12-08"
 ---
 
 

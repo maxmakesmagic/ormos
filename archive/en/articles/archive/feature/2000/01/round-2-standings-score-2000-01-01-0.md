@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-standings-score-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703025208id_/https://magic.wizards.com/en/articles/archive/feature/round-2-standings-score-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-03 02:52:08+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 trash AAA 6 50.00% 2 Team 25:17 6 50.00% 3 Angstschreeuw 6 50.00% 4 Accellerated Vares8 Volante 6 50.00% 5 The Feebles 6 50.00% 6 killers of the Coast 6 50.00% 7 Calvo's Legacy 6 50.00% 8 Sing Along party * 6 50.00% 9 Uranus 6 50.00% 10 Token king team 6 50.00% 11 Burning Bern 6 50.00% 12 I 3 ciccioni 6 50.00% 13 Vintara 6 50.00% 14 library of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

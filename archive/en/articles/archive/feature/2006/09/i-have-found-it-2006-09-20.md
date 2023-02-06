@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/i-have-found-it-2006-09-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121033726id_/https://magic.wizards.com/en/articles/archive/feature/i-have-found-it-2006-09-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 03:37:26+00:00"
-[_metadata_:publish_date]:- "2006-09-20"
 [_metadata_:description]:- "Eureka! I have found it! With “it,” of course, being my preview card. Just don't look into its deadlights: Finally, a Green card! For a minute there, I was worried that Time Spiral would be completely bereft (bereft!) of Green cards, just like Champions of Kamigawa. Hypergenesis is just what the doctor (or would it be shaman?) ordered and nips that completely made-up theory in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-09-20"
 ---
 
 

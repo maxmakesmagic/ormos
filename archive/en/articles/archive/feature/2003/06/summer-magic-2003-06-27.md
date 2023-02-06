@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517024227id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 02:42:27+00:00"
-[_metadata_:publish_date]:- "2003-06-27"
 [_metadata_:description]:- "NameLocationCityPhoneDevir LivrariaAv. Infante D. Henrique Lt 332 Parque Traseiro Edificio 3Lisboa218310045Devir LivrariaAv. Infante D."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-06-27"
 ---
 
 

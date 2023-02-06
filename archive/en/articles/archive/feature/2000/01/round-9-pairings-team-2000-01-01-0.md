@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-pairings-team-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704234122id_/https://magic.wizards.com/en/articles/archive/feature/round-9-pairings-team-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-04 23:41:22+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPoints OpponentPoints Absolute Samuels18vswww.revised4th5th.com18 AlphaBetaUnlimited.com21vsAngstschreeuw24 Amsterdam0 * BYE *  Angstschreeuw24vsAlphaBetaUnlimited.com21 Black-Ops19vsone day fly21 Bologna Demolition Team18vsTeam 25:1716 Ci Ciapem I Dané *14vstrash AAA15 Cosmopolitan15vsF3BoP16 F3BoP16vsCosmopolitan15 gotta catch Kai19vsTeam Clegg18 killers of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/beginning-2009-06-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112025344id_/https://magic.wizards.com/en/articles/archive/feature/beginning-2009-06-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:53:44+00:00"
-[_metadata_:publish_date]:- "2009-06-01"
 [_metadata_:description]:- "Although Wizards of the Coast is best known for Magic: The Gathering, that wasn't the first game we published. When we started the company I didn't know Richard Garfield, and trading card games hadn't even been invented - our goal was to produce roleplaying games. Magic wasn't planned; it happened because of some wonderful twists of fate."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tales-beyond-veil-2005-06-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040821id_/https://magic.wizards.com/en/articles/archive/feature/tales-beyond-veil-2005-06-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:08:21+00:00"
-[_metadata_:publish_date]:- "2005-06-13"
 [_metadata_:description]:- "Behind the flavor text of Saviors You can thank me for Arcane Week. Scott Johns is letting each of the `non-employee` columnists like AA, Mike Flores, Scott Wills, etc. choose some of the theme week topics in the coming months. I'm first, and my task was to pick a theme that would tie to this Feature Article on Saviors of Kamigawa flavor text. So... what to choose? Flavor Text"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-06-13"
 ---
 
 

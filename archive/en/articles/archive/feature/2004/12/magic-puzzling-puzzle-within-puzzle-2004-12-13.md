@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-puzzling-puzzle-within-puzzle-2004-12-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160716132325id_/http://magic.wizards.com/en/articles/archive/feature/magic-puzzling-puzzle-within-puzzle-2004-12-13"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-16 13:23:25+00:00"
-[_metadata_:publish_date]:- "2004-12-13"
 [_metadata_:description]:- "At its most fundamental level the game of Magic is ultimately just one large puzzle made up of several smaller puzzles. Which are the correct pieces to use for deck construction? In what way do I need to use my cards to turn these pieces into a winning game? And because of that nature, Magic (like chess and other great games) lends itself well to puzzle creation."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-12-13"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-41-2003-08-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122044308id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-41-2003-08-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-22 04:43:08+00:00"
-[_metadata_:publish_date]:- "2003-08-30"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at ask@wizards.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Beginner QuestionsQ: I am trying to get back into Magic after a few years of being out of it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-08-30"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/preconstructing-planar-chaos-2007-04-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122231726id_/https://magic.wizards.com/en/articles/archive/feature/preconstructing-planar-chaos-2007-04-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-22 23:17:26+00:00"
-[_metadata_:publish_date]:- "2007-04-02"
 [_metadata_:description]:- "I love preconstructed decks. I have a collection of every precon back through Invasion, with a smattering of earlier ones as well. When my wife and I play Magic at our dining room table or out at a restaurant, it's precon versus precon, always and every time. Just look at my Building on a Budget archives – I revamped that entire column to focus on evolving preconstructed decks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-04-02"
 ---
 
 

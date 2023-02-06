@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prerelease-survey-follow-2008-11-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210715165941id_/https://magic.wizards.com/en/articles/archive/feature/prerelease-survey-follow-2008-11-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-07-15 16:59:41+00:00"
-[_metadata_:publish_date]:- "2008-11-21"
 [_metadata_:description]:- "In late October, we solicited your feedback regarding the recent Shards of Alara Prereleases and Launch Parties. Important goals for us were to make the event broadly accessible while offering a similar experience to players around the world.The attendance for the Shards of Alara Prerelease reached a never-before attained level for a single weekend; more players than ever"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-21"
 ---
 
 

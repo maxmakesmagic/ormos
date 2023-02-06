@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2002-2002-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170418220256id_/http://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2002-2002-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-18 22:02:56+00:00"
-[_metadata_:publish_date]:- "2002-01-01"
 [_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your full name and location, to ask@wizards.com. We'll post a new question and answer each day.January 31, 2002  `When will we see more elves?`-- Brian Hughes, Vancouver, BC"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-01-01"
 ---
 
 

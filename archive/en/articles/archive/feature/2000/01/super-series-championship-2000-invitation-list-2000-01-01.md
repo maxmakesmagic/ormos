@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-2000-invitation-list-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207054223id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-2000-invitation-list-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-07 05:42:23+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Call Sean Anderson at 425-204-8025 with questions."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-07122012-2012-07-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127062702id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-07122012-2012-07-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 06:27:02+00:00"
-[_metadata_:publish_date]:- "2012-07-12"
 [_metadata_:description]:- "Welcome back to the Magic: The Gathering Sealed Deck Builder! This week, we have a 6 pack Avacyn Restored pool. Tips on Using the Sealed Deck Builder When you start the application, you'll see all your cards in a Card Pool tray. If you can't see all the cards in your pool, you can expand the size of your tray by dragging black tool bar upward. Drag cards from this tray to the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-07-12"
 ---
 
 

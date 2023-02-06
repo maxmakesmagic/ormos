@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-strasbourg-event-information-2013-01-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927071923id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-strasbourg-event-information-2013-01-21"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-27 07:19:23+00:00"
-[_metadata_:publish_date]:- "2013-01-21"
 [_metadata_:description]:- "Information    Grand Prix Strasbourg is brought to you by Dazzle Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-21"
 ---
 
 

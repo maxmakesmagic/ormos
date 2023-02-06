@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dragonmaster-2008-09-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818235537id_/https://magic.wizards.com/en/articles/archive/feature/dragonmaster-2008-09-10"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 23:55:37+00:00"
-[_metadata_:publish_date]:- "2008-09-10"
 [_metadata_:description]:- "[decklist] Title: Brian Kibler's Red-Green-White Rith Format: Pro Tour–Chicago 2000 8 Forest 4 City of Brass 4 Brushland 4 Karplusan Forest 4 Rishadan Port 4 Birds of Paradise 4 Llanowar Elves 4 River Boa 4 Blastoderm 4 Ancient Hydra 3 Jade Leech 2 Rith, the Awakener 3 Wax // Wane 4 Chimeric Idol 4 Armageddon *4 Armadillo Cloak *3 Tsabo's Decree *3 Kavu Chameleon *2 Flashfires"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-standings-score-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702083113id_/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-score-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-02 08:31:13+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 www.alphabetaunlimited.com 12 75.00% 2 Yanitetsu 12 75.00% 3 DERAPIN 12 64.58% 4 P-Kies 12 58.33% 5 Death Crimson 12 58.33% 6 Team 25:17 12 58.33% 7 Team Shinjo 12 56.25% 8 Potato Peach 12 54.16% 9 OO Parts 12 54.16% 10 NISIKI 12 54.16% 11 Objects 12 54.16% 12 Tokyo Butties 12 50.00% 13 Scrambled Steak 12 47.91% 14 Susiyan 12 47.91% 15 Team PPB 12"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

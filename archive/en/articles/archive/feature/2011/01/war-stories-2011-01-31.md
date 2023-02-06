@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/war-stories-2011-01-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053844id_/https://magic.wizards.com/en/articles/archive/feature/war-stories-2011-01-31"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:38:44+00:00"
-[_metadata_:publish_date]:- "2011-01-31"
 [_metadata_:description]:- "The set just came out so it's time for my card-by-card story column. I know I just finished up my Scars of Mirrodin version of this column(Parts 1, 2, and 3.) a few weeks back, but I don't want to get as behind with Mirrodin Besieged as I did with Scars of Mirrodin. As I wasn't the lead designer of this set (I was merely on the design team) and it's a smaller set, I have only"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-31"
 ---
 
 

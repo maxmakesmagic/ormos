@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rise-eldrazi-product-section-2010-04-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523211258id_/https://magic.wizards.com/en/articles/archive/feature/rise-eldrazi-product-section-2010-04-07"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:12:58+00:00"
-[_metadata_:publish_date]:- "2010-04-07"
 [_metadata_:description]:- "It's time for another update to the Rise of the Eldrazi Product Section! There's a new article about the storyline, a new puzzle, a new wallpaper, and new cards on the Visual Spoiler, the archive of all preview cards that have been officially released.So what are you waiting for? Hit the Rise of the Eldrazi Product Section now!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-04-07"
 ---
 
 

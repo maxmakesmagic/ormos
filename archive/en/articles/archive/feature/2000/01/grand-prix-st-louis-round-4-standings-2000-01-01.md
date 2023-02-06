@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-4-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124032417id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-4-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:24:17+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "      Op-Match Rank Name Points Win% 1 Antarctica 12 75.00 2 Team Panakia 12 75.00 3 Tight Club 12 75.00 4 Pudge 12 66.67"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

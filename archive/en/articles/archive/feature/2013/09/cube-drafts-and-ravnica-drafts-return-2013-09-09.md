@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cube-drafts-and-ravnica-drafts-return-2013-09-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526105755id_/https://magic.wizards.com/en/articles/archive/feature/cube-drafts-and-ravnica-drafts-return-2013-09-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 10:57:55+00:00"
-[_metadata_:publish_date]:- "2013-09-09"
 [_metadata_:description]:- "Download Magic OnlineThe Magic Online Cube returns Wednesday, September 25, following the downtime.This Cube changes things up a bit. Besides introducing new cards as we usually do-- this time we've swapped in eight new cards--we've also boosted the prizes for both Cube formats and changed the entry options. Read on for the full details!If you're unfamiliar with a Magic Online"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-09"
 ---
 
 

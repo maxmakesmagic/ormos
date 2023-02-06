@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-1-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128233431id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-1-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 23:34:31+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Slemr Jakub 3 33.3333 2 Eskeland Sigurd 3 33.3333 3 Blume Marco 3 33.3333 4 Davis Kevin 3 33.3333 5 Parker Brock 3 33.3333 6 Dougherty Robert 3 33.3333 7 Ziegler Eric 3 33.3333 8 Roderer Dave 3 33.3333 9 McCord Scott 3 33.3333 10 Hernandez Marc 3 33.3333 11 Franzen Johan 3 33.3333 12 Yamave Romao CarlosEduardo 3 33.3333 13 Ikeda Tsuyoshi 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

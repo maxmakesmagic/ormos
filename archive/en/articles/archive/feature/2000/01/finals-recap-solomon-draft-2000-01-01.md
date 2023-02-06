@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/finals-recap-solomon-draft-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170312010701id_/http://magic.wizards.com/en/articles/archive/feature/finals-recap-solomon-draft-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-12 01:07:01+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "&#13; Pikula was just one win away from winning the Invitational, but most of the crowd expected the match to go to five. Chris's career record in Invitational Solomon draft is an abysmal 0-6 while Finkel went 3-0 in Solomon draft, including a win over Chris."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

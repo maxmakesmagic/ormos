@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-april-18-24-2009-04-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128051109id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-april-18-24-2009-04-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-28 05:11:09+00:00"
-[_metadata_:publish_date]:- "2009-04-24"
 [_metadata_:description]:- "April 18-24: Third Set Prereleases!As you might be aware, the Alara Reborn prereleases are this weekend. And we'll be honest with you: we kind of like finding ways to bring that up. And that fits perfectly with the events of April 20, 2008; April 21, 2007; and April 23, 2006."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-24"
 ---
 
 

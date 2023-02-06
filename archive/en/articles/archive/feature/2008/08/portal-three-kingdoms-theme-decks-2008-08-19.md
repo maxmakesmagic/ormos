@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/portal-three-kingdoms-theme-decks-2008-08-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211007175852id_/https://magic.wizards.com/en/articles/archive/feature/portal-three-kingdoms-theme-decks-2008-08-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-07 17:58:52+00:00"
-[_metadata_:publish_date]:- "2008-08-19"
 [_metadata_:description]:- "Shu Kingdom Wu Kingdom Wei Kingdom (Back to Product Page) Shu Kingdom Shu Kingdom is a well-balanced deck that features many of the famous heroes from the Three Kingdoms story. it has a good mix of creatues and sorceries, and the creatures are of varying costs. Shu Kingdom has many creatures with horsemanship as well as sorceries to get rid of your opponent's creatures or pump"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-19"
 ---
 
 

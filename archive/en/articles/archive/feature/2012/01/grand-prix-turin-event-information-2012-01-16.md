@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-turin-event-information-2012-01-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170706133146id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-turin-event-information-2012-01-16"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-06 13:31:46+00:00"
-[_metadata_:publish_date]:- "2012-01-16"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-16"
 ---
 
 

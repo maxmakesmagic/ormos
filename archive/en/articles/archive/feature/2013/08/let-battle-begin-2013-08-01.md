@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/let-battle-begin-2013-08-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521194744id_/https://magic.wizards.com/en/articles/archive/feature/let-battle-begin-2013-08-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 19:47:44+00:00"
-[_metadata_:publish_date]:- "2013-08-01"
 [_metadata_:description]:- "I've always been a fan of Battle of Wits, and the fact that William `Huey` Jensen Top 8ed Grand Prix Milwaukee with Battle has always impressed me. There is something so awesome about playing so many cards, both for the incredibly varied game experiences and because you get to feel like you literally outwitted your opponent when you win with Battle. When Magic 2013 came out, I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-01"
 ---
 
 

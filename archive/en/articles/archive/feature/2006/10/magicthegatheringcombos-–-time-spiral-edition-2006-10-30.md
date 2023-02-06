@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos-%E2%80%93-time-spiral-edition-2006-10-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429041154id_/https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos-%E2%80%93-time-spiral-edition-2006-10-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:11:54+00:00"
-[_metadata_:publish_date]:- "2006-10-30"
 [_metadata_:description]:- "Welcome to MaGo Week! Unfortunately, due to some sort of interpreter snafu, “MaGo Week” has been translated as “Wizard Week” in English. Those of you who speak Portuguese or Italian, though, know where it's at! “MaGo” is more accurately translated as “mage,” which is how it's used in Spanish card titles (but not Spanish creature types)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-10-30"
 ---
 
 

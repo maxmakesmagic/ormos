@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bloxathid-2009-05-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814145316id_/https://magic.wizards.com/en/articles/archive/feature/bloxathid-2009-05-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-14 14:53:16+00:00"
-[_metadata_:publish_date]:- "2009-05-06"
 [_metadata_:description]:- "[decklist] Title: Yliajo's Bloxathid Format: Shards of Alara Block 1 Crumbling Necropolis 9 Mountain 4 Savage Lands 9 Swamp 4 Goblin Outlander 4 Hell's Thunder 3 Hellspark Elemental 4 Nyxathid 4 Rotting Rats 4 Shambling Remains 2 Banefire 4 Blightning 4 Bone Splinters 3 Executioner's Capsule 1 Ignite Disorder *1 Executioner's Capsule *4 Goblin Assault *3 Ignite Disorder *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-06"
 ---
 
 

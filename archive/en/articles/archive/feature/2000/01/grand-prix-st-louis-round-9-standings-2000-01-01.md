@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-9-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205224917id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-9-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-12-05 22:49:17+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "      Op-Match Rank Name Points Win% 1 Dogma 23 60.08 2 Your Move Games 22 65.24 3 Antarctica 21 71.43 4 Hubbo 21 64.35"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

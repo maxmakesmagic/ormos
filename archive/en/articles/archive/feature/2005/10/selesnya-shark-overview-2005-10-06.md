@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/selesnya-shark-overview-2005-10-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170620212507id_/http://magic.wizards.com/en/articles/archive/feature/selesnya-shark-overview-2005-10-06"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-20 21:25:07+00:00"
-[_metadata_:publish_date]:- "2005-10-06"
 [_metadata_:description]:- "Mark Rosewater says that Magic players fall into three broad categories, indicated by the nicknames Timmy, Johnny, and Spike. According to the quiz at the beginning of that original article, I am a Spike, which is appropriate, as Swimming With Sharks is `the constructed tournament players'` column on this site. Now tournament Spikes also fall into different categories."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-06"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hate-enough-2002-02-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210421101334id_/https://magic.wizards.com/en/articles/archive/feature/hate-enough-2002-02-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-21 10:13:34+00:00"
-[_metadata_:publish_date]:- "2002-02-19"
 [_metadata_:description]:- "Why can’t everyone just get along?…The answer rests in the color wheel. Ah, the color wheel. Many people appreciate the genius of Richard Garfield’s basic Magic mechanics, but another innovation of Richard’s that gets less attention but is equally important is the color wheel. The color wheel is the source not just of the game’s flavor but also of its mechanics."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-02-19"
 ---
 
 

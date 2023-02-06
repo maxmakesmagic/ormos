@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-results-table-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124025155id_/https://magic.wizards.com/en/articles/archive/feature/round-8-results-table-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 02:51:55+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult Opponentwww.alphabetaunlimited.com210vs.Scrambled SteakTeam Apprentice030vs.SusiyanNISIKI120vs.AbsoluteCircle Money Draft120vs.Loafing GiantsP-Kies003vs.Dekiru-Kana?Voice of Soul003vs.Poor SharkPotato Pe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

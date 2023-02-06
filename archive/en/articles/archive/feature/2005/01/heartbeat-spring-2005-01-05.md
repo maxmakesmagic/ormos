@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/heartbeat-spring-2005-01-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516165756id_/https://magic.wizards.com/en/articles/archive/feature/heartbeat-spring-2005-01-05"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 16:57:56+00:00"
-[_metadata_:publish_date]:- "2005-01-05"
 [_metadata_:description]:- "Welcome to a brand new year of Single Card Strategies. New Year's isn't just the time to stay up incredibly late with a good collection of friends and have a swell time. It can also be a time of self-reflection and growth. Right now we're living in a kind of almost-Golden Age when it comes to the Magic cards we see when they get out of Research and Development's high security"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-01-05"
 ---
 
 

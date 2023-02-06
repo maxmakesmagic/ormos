@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/coding-shadowmoor-2008-06-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161221045906id_/http://magic.wizards.com/en/articles/archive/feature/coding-shadowmoor-2008-06-16"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-21 04:59:06+00:00"
-[_metadata_:publish_date]:- "2008-06-16"
 [_metadata_:description]:- "Hello everyone! My name is Ryan Dhuse (pronounced just like when you're tied in tennis. Don't worry, the silent `H` gets everyone). I'm the lead for the Client and Rules Engine Team for Magic Online. You're probably familiar with the position, even if you're not familiar with me. It's the position that Michael `elf` Feuell had before his promotion."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-06-16"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duel-decks-sorin-vs-tibalt-2012-10-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160808041737id_/http://magic.wizards.com/en/articles/archive/feature/duel-decks-sorin-vs-tibalt-2012-10-16"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-08 04:17:37+00:00"
-[_metadata_:publish_date]:- "2012-10-16"
 [_metadata_:description]:- "Collector's Highlights  Each of the cards in the two 60-card decks will be black-bordered and tournament legal. This means that these cards are legal for use in any tournaments where the original printings are still legal."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-10-16"
 ---
 
 

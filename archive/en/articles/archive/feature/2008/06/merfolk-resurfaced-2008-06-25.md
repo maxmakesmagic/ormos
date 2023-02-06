@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/merfolk-resurfaced-2008-06-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160910031003id_/http://magic.wizards.com/en/articles/archive/feature/merfolk-resurfaced-2008-06-25"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-10 03:10:03+00:00"
-[_metadata_:publish_date]:- "2008-06-25"
 [_metadata_:description]:- "What? Hey. Huh? I thought merfolk were a creative no-no. Didn’t we say we’d never—? Wait. Yeah. No. I read this somewhere. I thought the scaly ol’ fishtails were a problem for the whole “imagine two rival mages fighting each other across a battlefield” thing, so Wizards kinda phased them out."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-06-25"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-standings-score-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630233533id_/https://magic.wizards.com/en/articles/archive/feature/final-standings-score-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-30 23:35:33+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamWinningsPro Points1Your Move Games450042The Ken Ho All-Stars300033Dynasty210024The Ancient Kavus200025Huey Brock and Linde150016A Little Too Sick150017Family Games Center120018Team $20 Dolla Billz120019Rug Doctors900110AlphaBetaUnlimited.com/900111Frog Eaters600112Just Concede600113Team Needs/Hotel Room *Amate14The Hubbsucker Proxy15Thanks Craig and Seth16Team Bald"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

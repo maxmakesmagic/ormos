@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/changes-2012-tournament-and-event-structure-part-3-2011-11-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209150619id_/https://magic.wizards.com/en/articles/archive/feature/changes-2012-tournament-and-event-structure-part-3-2011-11-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 15:06:19+00:00"
-[_metadata_:publish_date]:- "2011-11-02"
 [_metadata_:description]:- "Throughout the year, Wizards of the Coast has been introducing players to changes in Magic's global organized play structure."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-11-02"
 ---
 
 

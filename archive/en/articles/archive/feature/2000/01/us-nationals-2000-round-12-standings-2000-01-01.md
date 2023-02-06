@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-12-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522013826id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-12-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 01:38:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Finkel, Jon 29 65.4335 70.0000 59.9867 12/9/2/0 2 Benafel, Chris 29 58.6237 71.4286 55.4433 12/9/2/0 3 Turian, Michael 28 63.4909 70.0000 59.9700 12/9/1/0 4 Long, Mike 28 59.9868 72.4138 56.9525 12/9/1/0 5 Hernandez, Frank 28 59.9804 64.5161 56.6959 12/9/1/0 6 Fung, Elliot 27 61.5927 73.0769 58.0395"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

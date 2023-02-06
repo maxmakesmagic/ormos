@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadowmoor-sortable-spoiler-and-visual-spoiler-2008-04-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160118133612id_/http://magic.wizards.com/en/articles/archive/feature/shadowmoor-sortable-spoiler-and-visual-spoiler-2008-04-21"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-18 13:36:12+00:00"
-[_metadata_:publish_date]:- "2008-04-21"
 [_metadata_:description]:- "As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for the latest set right here on the front page of magicthegathering.com. Here is the sortable spoiler list for Shadowmoor. And we've got a new feature: a complete visual spoiler for the entire set, in each of the nine languages it was printed in! Enjoy!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-04-21"
 ---
 
 

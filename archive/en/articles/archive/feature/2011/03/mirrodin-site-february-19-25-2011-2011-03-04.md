@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-february-19-25-2011-2011-03-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111191918id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-february-19-25-2011-2011-03-04"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-11 19:19:18+00:00"
-[_metadata_:publish_date]:- "2011-03-04"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site. Here are the new wallpapers from this week. Mirran Faction Island Argent MutationForest"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-03-04"
 ---
 
 

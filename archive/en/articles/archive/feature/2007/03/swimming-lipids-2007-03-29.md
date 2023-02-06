@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/swimming-lipids-2007-03-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203050937id_/https://magic.wizards.com/en/articles/archive/feature/swimming-lipids-2007-03-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-03 05:09:37+00:00"
-[_metadata_:publish_date]:- "2007-03-29"
 [_metadata_:description]:- "I know that I don't participate in every theme week, but I really enjoy them when I think that I can do a good job. Sometimes theme weeks give writers the opportunity to do some cool stuff with form; we don't have to generate the ideas, so we can concentrate on execution. This time around, I decided to figure out what the best fat creature is at every power/toughness"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-03-29"
 ---
 
 

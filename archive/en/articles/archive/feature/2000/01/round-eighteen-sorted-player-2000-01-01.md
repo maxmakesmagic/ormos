@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-eighteen-sorted-player-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030222729id_/https://magic.wizards.com/en/articles/archive/feature/round-eighteen-sorted-player-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 22:27:29+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Alejos Franz (VEN) Hernandez Mark (PHI) Lost 1-2 Alves Jhonathan (VEN) Sun Dell (TIA) Lost 1-2 Ang Jun Yang (SNG) Britto Romario Tavora (BRA) Won 2-0 Au Yeung Hon Ming (HKG) Rodrigues Marcio (POR) Lost 1-2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

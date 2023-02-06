@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/and-carnage-shall-follow-2010-03-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210618114128id_/https://magic.wizards.com/en/articles/archive/feature/and-carnage-shall-follow-2010-03-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-18 11:41:28+00:00"
-[_metadata_:publish_date]:- "2010-03-01"
 [_metadata_:description]:- "The Forgotten Foe Art by Chippy The Eldrazi were colossal predators that roamed the Æther, devouring the mana and life energy of any plane they encountered, leaving lifeless husks in their wake. Recognizing the danger to countless planes, a trio of planeswalkers of old lured the Eldrazi to the mana-rich world of Zendikar, trapping them in material form and confining them on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-01"
 ---
 
 

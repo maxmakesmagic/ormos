@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-artist-jeff-miracola-2004-10-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028213922id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-artist-jeff-miracola-2004-10-22"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 21:39:22+00:00"
-[_metadata_:publish_date]:- "2004-10-22"
 [_metadata_:description]:- "Jeff MiracolaCard NameCard Set Necra DiscipleApocalypseSymbiosisBattle Royale Box SetRaging GoblinBeatdown Box SetSegmented WurmBeatdown Box SetUnderground RiverClassic Sixth EditionMarble DiamondClassic Sixth EditionSulfurous SpringsClassic Sixth EditionAgeless EntityDarksteelWell of Lost DreamsDarksteelNauseaExodusEquilibriumExodusWhiptongue FrogExodusFurnace BroodExodusFade"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-10-22"
 ---
 
 

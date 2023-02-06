@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2007-pro-tour%E2%80%93yokohama-2006-12-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161221193844id_/http://magic.wizards.com/en/articles/archive/feature/2007-pro-tour%E2%80%93yokohama-2006-12-22"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-21 19:38:44+00:00"
-[_metadata_:publish_date]:- "2006-12-22"
 [_metadata_:description]:- "Updated April 16, 2007Invitations to Pro Tour-Yokohama are awarded in the following manner:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-12-22"
 ---
 
 

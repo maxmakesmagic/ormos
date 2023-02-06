@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/five-color-paruns-2009-04-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810072846id_/https://magic.wizards.com/en/articles/archive/feature/five-color-paruns-2009-04-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-10 07:28:46+00:00"
-[_metadata_:publish_date]:- "2009-04-20"
 [_metadata_:description]:- "[decklist] Title: Joshua Wittenmore's Paruns Aggro Format: Extended 3 City of Brass 1 Forest 4 Gemstone Mine 3 Horizon Canopy 1 Island 4 Pillar of the Paruns 4 Reflecting Pool 4 Birds of Paradise 4 Doran, the Siege Tower 4 Lightning Angel 4 Noble Hierarch 4 Rhox War Monk 4 Tidehollow Sculler 4 Bant Charm 4 Countersquall 4 Electrolyze 4 Lightning Helix *3 Fracturing Gust *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-20"
 ---
 
 

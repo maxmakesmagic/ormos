@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-3-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126185322id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-3-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:53:22+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Liao, Yuhkong 9 66.6667 83.3333 59.7222 3/3/0/0 2 Jocumsen, Bjorn 9 66.6667 75.0000 63.6905 3/3/0/0 3 Dodson, Scott 9 66.6667 75.0000 63.6905 3/3/0/0 4 Rose, Kyle 9 59.2593 100.0000 55.5556 3/3/0/0 5 Budde, Kai 9 59.2593 66.6667 56.0185 3/3/0/0 6 Maij, Rosario 9 55.5556 100.0000 53.1746 3/3/0/0 7 Tsang,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

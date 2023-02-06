@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-match-team-clegg-vs-angstschreeuw-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627162245id_/https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-match-team-clegg-vs-angstschreeuw-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 16:22:45+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team CleggThe Semifinal of GP Turin featured the US Team Clegg (Dan Clegg, Brock Parker, and Peter Szigeti) against the Dutch Angstschreeuw (Bram Snepvangers, Jos Schreurs, and Menno Dolstra). Parker (U/B) vs. Schreurs (U/B/W) The first game started out slowly with Parker mulliganing. Both players played different 1/1s and it got very interesting when Schreurs played flier"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

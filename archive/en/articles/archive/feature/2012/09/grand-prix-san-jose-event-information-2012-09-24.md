@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-san-jose-event-information-2012-09-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170114035338id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-san-jose-event-information-2012-09-24"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-14 03:53:38+00:00"
-[_metadata_:publish_date]:- "2012-09-24"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-09-24"
 ---
 
 

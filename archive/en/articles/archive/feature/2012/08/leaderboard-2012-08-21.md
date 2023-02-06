@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/leaderboard-2012-08-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202074824id_/https://magic.wizards.com/en/articles/archive/feature/leaderboard-2012-08-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-02 07:48:24+00:00"
-[_metadata_:publish_date]:- "2012-08-21"
 [_metadata_:description]:- "Find out which guild you are | Join a guild on PlaneswalkerPoints.com Learn more about all the guilds"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-21"
 ---
 
 

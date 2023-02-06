@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ultimate-masters-release-notes-2018-11-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181202165734id_/https://magic.wizards.com/en/articles/archive/feature/ultimate-masters-release-notes-2018-11-29"
 [_metadata_:wayback_capture_timestamp]:- "2018-12-02 16:57:34+00:00"
-[_metadata_:publish_date]:- "2018-11-29"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-11-29"
 ---
 
 

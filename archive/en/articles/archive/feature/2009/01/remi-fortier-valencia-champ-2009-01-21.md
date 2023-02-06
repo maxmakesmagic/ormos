@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/remi-fortier-valencia-champ-2009-01-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022022554id_/https://magic.wizards.com/en/articles/archive/feature/remi-fortier-valencia-champ-2009-01-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 02:25:54+00:00"
-[_metadata_:publish_date]:- "2009-01-21"
 [_metadata_:description]:- "[decklist] Title: Remi Fortier's CounterTop Format: Pro Tour-Valencia 1 Seat of the Synod 1 Forest 1 Watery Grave 1 Hallowed Fountain 1 Breeding Pool 1 Steam Vents 4 Polluted Delta 4 Flooded Strand 4 Island 1 Swamp 1 Plains 1 Academy Ruins 4 Dark Confidant 2 Venser, Shaper Savant 3 Trinket Mage 4 Tarmogoyf 2 Umezawa's Jitte 1 Tormod's Crypt 4 Chrome Mox 3 Sensei's Divining Top"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-21"
 ---
 
 

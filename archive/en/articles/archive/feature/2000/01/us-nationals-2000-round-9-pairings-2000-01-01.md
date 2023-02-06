@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-9-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524034848id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-9-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 03:48:48+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Akbar, David ( 60) 15 19 Soo, Waiken (112) 15 Allen, Dustin ( 36) 10 39 Swoyer, Mark ( 63) 11 Aubertin, Justin ( 3) 9 46 Mitchell Jr., Bruce ( 79) 9 Beckmon, Jon ( 15) 13 27 Duvall, Jeffrey ( 92) 13 Benafel, Chris ( 50) 22 1 Comer, Alan ( 93) 21 Bhattacharyya, Sayan ( 39) 16 11 Mitchell, Alex ( 68) 16 Blackwell, Trevor (130) 15 21 Maher Jr., Bob ("
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

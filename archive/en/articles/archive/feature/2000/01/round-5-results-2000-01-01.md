@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030063231id_/https://magic.wizards.com/en/articles/archive/feature/round-5-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:32:31+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Table Player Result   Opponent 1 Svaldi, Guilherme Dei Won 2-0 vs. Poplawski, Eduardo K 2 Bandeira, Fernando M Drew 1-1 vs. Feitosa, Bruno 3 Souza Araujo, Tiago Fernando Won 2-0 vs. Araujo, Marcio"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

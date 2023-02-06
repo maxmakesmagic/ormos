@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/attacking-block-2007-05-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819044632id_/https://magic.wizards.com/en/articles/archive/feature/attacking-block-2007-05-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 04:46:32+00:00"
-[_metadata_:publish_date]:- "2007-05-16"
 [_metadata_:description]:- "Hello and welcome back to Online Tech! This week we'll take a further look at Time Spiral Block Constructed. While everyone seems to be caught up in breaking the Protean Hulk plus Flash combo for the upcoming Legacy Grand Prix, it might be easy to overlook that there is another Grand Prix next weekend as well. It is held in a Strasbourg—a central location in Europe, so I would"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-05-16"
 ---
 
 

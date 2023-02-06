@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-card-image-gallery-2011-05-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170609141016id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-card-image-gallery-2011-05-25"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-09 14:10:16+00:00"
-[_metadata_:publish_date]:- "2011-05-25"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-05-25"
 ---
 
 

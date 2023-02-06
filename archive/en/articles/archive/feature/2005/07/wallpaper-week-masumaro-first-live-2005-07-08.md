@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-masumaro-first-live-2005-07-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026225656id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-masumaro-first-live-2005-07-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 22:56:56+00:00"
-[_metadata_:publish_date]:- "2005-07-08"
 [_metadata_:description]:- "This week's desktop wallpaper is Adam Rex's Masumaro, First to Live from the Saviors of Kamigawa set. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-07-08"
 ---
 
 

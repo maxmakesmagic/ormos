@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/character-study-2002-05-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025160511id_/https://magic.wizards.com/en/articles/archive/feature/character-study-2002-05-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 16:05:11+00:00"
-[_metadata_:publish_date]:- "2002-05-15"
 [_metadata_:description]:- "Warning: This article contains rather large spoilers for the Judgment novel. If you’re intending to read it (and you should), don’t read this article until you finish!Now that that’s out of the way, we can take a look at the card type that really help to drive the Magic backstory home: the legends. From the earliest days of legends (that being, of course, Legends), players"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-05-15"
 ---
 
 

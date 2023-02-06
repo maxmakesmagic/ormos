@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/artifacts-matter-2016-09-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200813010047id_/https://magic.wizards.com/en/articles/archive/feature/artifacts-matter-2016-09-14"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-13 01:00:47+00:00"
-[_metadata_:publish_date]:- "2016-09-14"
 [_metadata_:description]:- "Maria brings you a new card that shows why artifacts matter—especially in Kaladesh."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-09-14"
 ---
 
 

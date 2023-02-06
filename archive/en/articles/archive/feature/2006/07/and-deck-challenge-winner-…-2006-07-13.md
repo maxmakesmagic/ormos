@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/and-deck-challenge-winner-%E2%80%A6-2006-07-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615182110id_/http://magic.wizards.com/en/articles/archive/feature/and-deck-challenge-winner-%E2%80%A6-2006-07-13"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-15 18:21:10+00:00"
-[_metadata_:publish_date]:- "2006-07-13"
 [_metadata_:description]:- "Real quick, before I get started, are you or do you know players who use the MTGO screen names jomesy or Mozzam? Drop me an email from the link at the bottom of this column; I'd like to get in touch with them!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-07-13"
 ---
 
 

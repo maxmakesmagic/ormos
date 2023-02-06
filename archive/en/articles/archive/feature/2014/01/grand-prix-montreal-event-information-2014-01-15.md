@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-montreal-event-information-2014-01-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161002023141id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-montreal-event-information-2014-01-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-02 02:31:41+00:00"
-[_metadata_:publish_date]:- "2014-01-15"
 [_metadata_:description]:- "Information    Grand Prix Montréal is brought to you by Gamekeeperonline.com."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-01-15"
 ---
 
 

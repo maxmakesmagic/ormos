@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mystery-booster-playtest-card-artists-2019-11-11?utm_source=MTGNexus&utm_medium=CommunityHub"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191222140944id_/https://magic.wizards.com/en/articles/archive/feature/mystery-booster-playtest-card-artists-2019-11-11?utm_source=MTGNexus&utm_medium=CommunityHub"
 [_metadata_:wayback_capture_timestamp]:- "2019-12-22 14:09:44+00:00"
-[_metadata_:publish_date]:- "2019-11-11"
 [_metadata_:description]:- "Mystery Booster Convention Edition has a little something special in it featuring art by some special people: our employees and contractors!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-11-11"
 ---
 
 

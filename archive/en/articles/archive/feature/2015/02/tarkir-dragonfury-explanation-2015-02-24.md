@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tarkir-dragonfury-explanation-2015-02-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150226172250id_/http://magic.wizards.com/en/articles/archive/feature/tarkir-dragonfury-explanation-2015-02-24"
 [_metadata_:wayback_capture_timestamp]:- "2015-02-26 17:22:50+00:00"
-[_metadata_:publish_date]:- "2015-02-24"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Something a little special for the Dragons of Tarkir Prerelease."
+[_metadata_:publish_date]:- "2015-02-24"
 ---
 
 

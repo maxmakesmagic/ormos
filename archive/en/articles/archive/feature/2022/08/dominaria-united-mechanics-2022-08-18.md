@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominaria-united-mechanics-2022-08-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818171904id_/https://magic.wizards.com/en/articles/archive/feature/dominaria-united-mechanics-2022-08-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:19:04+00:00"
-[_metadata_:publish_date]:- "2022-08-18"
 [_metadata_:description]:- "See what thrilling card mechanics, both new and returning, await players in Dominaria United."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-08-18"
 ---
 
 

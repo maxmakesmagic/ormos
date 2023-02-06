@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-march-12-18-2011-2011-03-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018003708id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-march-12-18-2011-2011-03-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 00:37:08+00:00"
-[_metadata_:publish_date]:- "2011-03-18"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site. Here are the new wallpapers from this week. Mirran Faction Forest Alloy MyrDarksteel RelicPhyrexian Faction Field Reports Roxith, Thane of Rot Forest Brutalizer Exarch"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-03-18"
 ---
 
 

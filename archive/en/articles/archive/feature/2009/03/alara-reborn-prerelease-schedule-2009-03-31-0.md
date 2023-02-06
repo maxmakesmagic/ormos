@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202153156id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-02 15:31:56+00:00"
-[_metadata_:publish_date]:- "2009-03-31"
 [_metadata_:description]:- "Latin AmericaWorldwide Fact Sheet DateCountryCityVenueAddressPostal CodeContactPhone 4/25/2009ArgentinaBuenos AiresDima GameAvellaneda 9071405Email 4/25/2009ArgentinaPunta AltaDragon ComicsBernardo de Irigoyen 683 4/25/2009ArgentinaBuenos AiresDGL Games & ComicsAv."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-03-31"
 ---
 
 

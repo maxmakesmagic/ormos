@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixokayama04trials-2003-11-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021211758id_/https://magic.wizards.com/en/articles/archive/feature/grandprixokayama04trials-2003-11-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 21:17:58+00:00"
-[_metadata_:publish_date]:- "2003-11-24"
 [_metadata_:description]:- "JapanDateCityVenueAddressPlayer Contact11/30/2003Kyoto 1Kyoto Shoukou KaigijouKarasuma-doori Ebisugawa Agaru, Nakagyou-ku, Kyoto-shi, Kyoto-furon.foster@wizards.com12/07/2003Kawasaki 1Kawasaki Cultural Education Center2-1-3 Fujimi, Kawasaki-ku, Kawasaki-shi, Kanagawa-kenron.foster@wizards.com12/14/2003HiroshimaHiroshima Green Arena4-1 Motomachi, Naka-ku, Hiroshima-shi,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-11-24"
 ---
 
 

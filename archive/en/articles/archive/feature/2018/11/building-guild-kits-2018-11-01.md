@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-guild-kits-2018-11-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210618045328id_/https://magic.wizards.com/en/articles/archive/feature/building-guild-kits-2018-11-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-18 04:53:28+00:00"
-[_metadata_:publish_date]:- "2018-11-01"
 [_metadata_:description]:- "A huge amount of work went into creating the Ravnica Guild Kits, as Gavin explains in this look behind the scenes at Product Architecture."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-11-01"
 ---
 
 

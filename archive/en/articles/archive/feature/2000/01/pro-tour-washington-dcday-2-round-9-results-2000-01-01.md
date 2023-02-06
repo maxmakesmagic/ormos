@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-9-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522055020id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-9-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 05:50:20+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Antarctica CCC Draw, 1-1-1 ATM The Alliance Draw, 1-1-1 Brown Bomber Shop Adept Draw, 1-1-1 CCC Antarctica Draw, 1-1-1 CMU Operation Mise Won, 2-0 ECA Utrecht Lost, 0-2 Fifth Again Lost in Spain Won, 2-0-1 Fu-Ku-Ra-Mi The Tank Won, 2-1 Game Empire Tongo Nation Won, 2-1 Goblin Gate Sugar Bus Lost, 1-2 Lost in Spain Fifth Again Lost, 0-2-1 Marc's Brothers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/christian-calcanos-grand-prix-minneapolis-winning-deck-2012-05-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028210411id_/https://magic.wizards.com/en/articles/archive/feature/christian-calcanos-grand-prix-minneapolis-winning-deck-2012-05-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 21:04:11+00:00"
-[_metadata_:publish_date]:- "2012-05-28"
 [_metadata_:description]:- "Congratulations to Christian Calcano, your Grand Prix Minneapolis 2012 winner. You can read more about this Standard Grand Prix in the official event coverage."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-28"
 ---
 
 

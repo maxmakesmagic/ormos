@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-2014-trials-2014-01-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118172713id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-2014-trials-2014-01-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:27:13+00:00"
-[_metadata_:publish_date]:- "2014-01-16"
 [_metadata_:description]:- "Grand Prix Taipei Trials will be run at APAC and Japan WPN locations from May 3, 2014 to July 13, 2014. Each awards the winner a two-round bye to Grand Prix Taipei. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event. Possible"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-01-16"
 ---
 
 

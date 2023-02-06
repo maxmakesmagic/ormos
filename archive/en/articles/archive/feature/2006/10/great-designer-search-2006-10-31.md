@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-2006-10-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160720000345id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-2006-10-31"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-20 00:03:45+00:00"
-[_metadata_:publish_date]:- "2006-10-31"
 [_metadata_:description]:- "Welcome to the Great Designer Search, Wizards of the Coast's historic search for R&amp;D's first ever Magic design intern! On Friday, August 25th, the Great Designer Search began. All applicants began by answering ten challenging essays."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-10-31"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626225239id_/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-26 22:52:39+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Jason Zila vs. Ben Rubin Warren Marsh vs. Sigurd Eskeland Trey Van Cleave vs. Dirk Baberowski Bob Maher, Jr. vs. William Jensen"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

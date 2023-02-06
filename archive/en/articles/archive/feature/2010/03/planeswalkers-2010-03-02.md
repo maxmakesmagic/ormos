@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-2010-03-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170320231026id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-2010-03-02"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-20 23:10:26+00:00"
-[_metadata_:publish_date]:- "2010-03-02"
 [_metadata_:description]:- "Gideon Jura"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-02"
 ---
 
 

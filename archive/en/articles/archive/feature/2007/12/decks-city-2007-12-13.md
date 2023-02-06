@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/decks-city-2007-12-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124130039id_/https://magic.wizards.com/en/articles/archive/feature/decks-city-2007-12-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-24 13:00:39+00:00"
-[_metadata_:publish_date]:- "2007-12-13"
 [_metadata_:description]:- "With Worlds 2007 set to take place in New York City, I knew I would have to attend. A common misconception is that because I have a column on this site, people think that I work at the Wizards of the Coast offices in Renton. I do not. I am merely a contract writer who lives far, far away. I had nothing to do with making Tarmogoyf, I can't ban Goblin Ringleader, and I don't get"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-12-13"
 ---
 
 

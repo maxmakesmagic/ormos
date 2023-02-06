@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-challenge-5-2018-05-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180603004337id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-challenge-5-2018-05-31"
 [_metadata_:wayback_capture_timestamp]:- "2018-06-03 00:43:37+00:00"
-[_metadata_:publish_date]:- "2018-05-31"
 [_metadata_:description]:- "This is it—the last elimination before the Top 3! Who will make the cut to the final showdown at Wizards HQ?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-05-31"
 ---
 
 

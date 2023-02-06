@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/form-vanguard-2008-11-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160227002507id_/http://magic.wizards.com/en/articles/archive/feature/form-vanguard-2008-11-10"
 [_metadata_:wayback_capture_timestamp]:- "2016-02-27 00:25:07+00:00"
-[_metadata_:publish_date]:- "2008-11-10"
 [_metadata_:description]:- "Normally, we don't accept outside submissions, especially for Magic Arcana. After all, who knows more about the inner workings of Wizards of the Coast than us? However, we got this email from Matthew Tang about a Halloween-themed tournament called `Form of the Vanguard`, and frankly, there's nothing we can do to improve upon his description and pictures. So, take it away, Matt!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-10"
 ---
 
 

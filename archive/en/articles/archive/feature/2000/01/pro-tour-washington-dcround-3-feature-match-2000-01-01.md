@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcround-3-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522090503id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcround-3-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 09:05:03+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "On turn six of game one, Brian Hacker has no non-land permanents in play. Things don't look good for him, especially since Itaru Ishida has a Heat Ray lying in wait. In game one, Toshiki Tsukamoto decides which of two enormous green creatures to play this turn. He chose the Ancient Silverback, followed by the Yavimaya Wurm the next turn. Unsurprisingly, he won.  Mark"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

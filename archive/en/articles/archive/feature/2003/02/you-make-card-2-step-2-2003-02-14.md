@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-card-2-step-2-2003-02-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503044020id_/https://magic.wizards.com/en/articles/archive/feature/you-make-card-2-step-2-2003-02-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:40:20+00:00"
-[_metadata_:publish_date]:- "2003-02-14"
 [_metadata_:description]:- "The people have spoken and in a close race, artifact edged out white and black.ColorVotes% Artifact295626.20% Black243121.54% White239421.22% Blue186016.48% Red164314.56% Total11284100.00% The public has been clamoring for more artifacts, so here’s your chance to add one to the “Bacon” block. I think this will be an interesting lesson as designing artifacts is very tricky. You"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-02-14"
 ---
 
 

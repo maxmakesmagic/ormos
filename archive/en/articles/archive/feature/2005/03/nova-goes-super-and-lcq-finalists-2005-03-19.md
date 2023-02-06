@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nova-goes-super-and-lcq-finalists-2005-03-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810083621id_/https://magic.wizards.com/en/articles/archive/feature/nova-goes-super-and-lcq-finalists-2005-03-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-10 08:36:21+00:00"
-[_metadata_:publish_date]:- "2005-03-19"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Pro Tour Atlanta was a blast. The whole shebang was won by Nova, and the finalists were a team that qualified the night before the tournament at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-03-19"
 ---
 
 

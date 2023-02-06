@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/change-grand-prix-las-vegas-registration-times-2013-06-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518080252id_/https://magic.wizards.com/en/articles/archive/feature/change-grand-prix-las-vegas-registration-times-2013-06-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 08:02:52+00:00"
-[_metadata_:publish_date]:- "2013-06-18"
 [_metadata_:description]:- "Due to the high number of attendees anticipated at this weekend's event and in order to ensure a quality experience for all players, on-site registration for Grand Prix Las Vegas will close on Friday night at 8 p.m. There will be no registration for Grand Prix Las Vegas on the morning of Saturday, June 22, as previously announced. Online preregistration for Grand Prix Las"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-18"
 ---
 
 

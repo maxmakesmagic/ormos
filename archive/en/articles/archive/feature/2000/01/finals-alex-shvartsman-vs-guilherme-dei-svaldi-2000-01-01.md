@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-alex-shvartsman-vs-guilherme-dei-svaldi-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190504191257id_/https://magic.wizards.com/en/articles/archive/feature/finals-alex-shvartsman-vs-guilherme-dei-svaldi-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2019-05-04 19:12:57+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Justin Polin Guilherme Dei Svaldi"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

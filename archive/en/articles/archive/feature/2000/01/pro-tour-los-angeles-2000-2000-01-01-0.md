@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130102722id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-30 10:27:22+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler Shawn `Hammer` Regnier returned to the Queen Mary four years after triumphing here in the second-ever Pro Tour. In round two he sat down across from one of the least loved players on tour -- Trey van Cleave. Hammer's blue/white control deck contrasted starkly with Trey's green/black beatdown deck and the games reflected these differences in style. Trey won the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

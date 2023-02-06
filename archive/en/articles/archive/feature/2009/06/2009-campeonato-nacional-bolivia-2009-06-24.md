@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-bolivia-2009-06-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124045908id_/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-bolivia-2009-06-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-24 04:59:08+00:00"
-[_metadata_:publish_date]:- "2009-06-24"
 [_metadata_:description]:- "FirstLastInvitation SourceRegional DateRegional CityRegional Country RolandoFlores2008 National Championn/an/an/a AlfredoMendizabal2008 National Teamn/an/an/a DiegoTejerina2008 National Teamn/an/an/a AlejandroVan Mourik2008 National Teamn/an/an/a RolandoFloresPro Club 2+n/an/an/a DavidSologurenTop 20 Composite Ratingn/an/an/a DiegoRoca SuarezTop 20 Composite Ratingn/an/an/a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-24"
 ---
 
 

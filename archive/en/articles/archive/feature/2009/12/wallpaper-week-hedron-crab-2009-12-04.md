@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-hedron-crab-2009-12-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161113092827id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-hedron-crab-2009-12-04"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-13 09:28:27+00:00"
-[_metadata_:publish_date]:- "2009-12-04"
 [_metadata_:description]:- "&#13; This week's desktop wallpaper features Jesper Ejsing's Hedron Crab art from Zendikar. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-12-04"
 ---
 
 

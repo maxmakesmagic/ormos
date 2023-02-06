@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-blue-control-2010-10-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025075513id_/https://magic.wizards.com/en/articles/archive/feature/white-blue-control-2010-10-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 07:55:13+00:00"
-[_metadata_:publish_date]:- "2010-10-08"
 [_metadata_:description]:- "[decklist] Title: Gerard Fabiano's White-Blue Control Format: Standard 7 Island 5 Plains 1 Arid Mesa 4 Celestial Colonnade 4 Glacial Fortress 2 Scalding Tarn 1 Seachrome Coast 2 Tectonic Edge 2 Linvala, Keeper of Silence 3 Baneslayer Angel 1 Sunblast Angel 2 Volition Reins 2 Everflowing Chalice 2 Condemn 4 Mana Leak 2 Negate 4 Oust 4 Preordain 2 Gideon Jura 2 Jace Beleren 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-10-08"
 ---
 
 

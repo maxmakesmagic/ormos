@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/alara-unbroken-2009-06-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161229014713id_/http://magic.wizards.com/en/articles/archive/feature/alara-unbroken-2009-06-03"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-29 01:47:13+00:00"
-[_metadata_:publish_date]:- "2009-06-03"
 [_metadata_:description]:- "&#13; Review by David Craddock, Fantasy Book Critic&#13; &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-03"
 ---
 
 

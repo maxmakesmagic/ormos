@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-table-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705202812id_/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-table-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-05 20:28:12+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TableTeamPointsOpponentPoints1Derf6vsHorse You Rode In On62Team Egghead6vsTeam $20 Dolla Billz63Your Move Games6vsA Few Good Men64Crystal Pepsi6vsEgghead Games Inc.65Ride or Die6vsBig Dogs66Conan the Barbarian6vsA Little Too Sick67The Tails6vsThe O-men68Huey Brock and Linde6vsJovial Evil69Sped6vsJust Concede610Hot Fungusaur Invasion 2K16vs5280611Who's the Other Dude6vsThe Ken"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

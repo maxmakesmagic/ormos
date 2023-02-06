@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-trial-winners-2004-09-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021090016id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-trial-winners-2004-09-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 09:00:16+00:00"
-[_metadata_:publish_date]:- "2004-09-08"
 [_metadata_:description]:- "StatusOrganizerCityDateFirst NameLast NamePROTimothy ShieldsSeattle7/11/2004BrianLynchPROAnthony EdwardsDuluth8/14/2004AndrewWolfPROBarratt MoySt."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-09-08"
 ---
 
 

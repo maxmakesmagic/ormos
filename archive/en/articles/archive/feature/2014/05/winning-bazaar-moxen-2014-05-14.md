@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/winning-bazaar-moxen-2014-05-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809044836id_/https://magic.wizards.com/en/articles/archive/feature/winning-bazaar-moxen-2014-05-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-09 04:48:36+00:00"
-[_metadata_:publish_date]:- "2014-05-14"
 [_metadata_:description]:- "Recently, Eternal players in all of Europe flocked to Annecy, France, for a weekend full of Modern, Legacy, and Vintage tournaments called the Bazaar of Moxen. The prizes for these tournaments are some of the most sought-after cards in the game. Coming out on top of a field of 214 players at the latest edition of the Bazaar of Moxen, Gwen De Schamphlaere took home one of each"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-14"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-ireland-national-championship-2009-06-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526230220id_/https://magic.wizards.com/en/articles/archive/feature/2011-ireland-national-championship-2009-06-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 23:02:20+00:00"
-[_metadata_:publish_date]:- "2009-06-22"
 [_metadata_:description]:- "Date: July 23-24, 2011 Event Location: Marine Court Hotel Address: Marine Court Hotel, 18-20 Quay Street, Bangor, BT20 5ED EligibilityThe Magic: the Gathering Ireland National Championship is an invitation-only event, open to citizens or permanent residents of Ireland and Northern Ireland who have won an invitation to Nationals through DCI ratings or from qualifying events"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-22"
 ---
 
 

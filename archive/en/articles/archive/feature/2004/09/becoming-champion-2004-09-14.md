@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/becoming-champion-2004-09-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160316190022id_/http://magic.wizards.com/en/articles/archive/feature/becoming-champion-2004-09-14"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-16 19:00:22+00:00"
-[_metadata_:publish_date]:- "2004-09-14"
 [_metadata_:description]:- "This weekend is the kickoff for a whole new year of Magic. When players at worldwide Prerelease tournaments crack their Champions of Kamigawa packs this weekend, it will also open the door to a host of new formats. Of course every constructed format is altered whenever a new set is released, but none more so than Standard with the start of each new block."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-09-14"
 ---
 
 

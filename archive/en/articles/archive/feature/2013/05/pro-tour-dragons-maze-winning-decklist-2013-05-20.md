@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-dragons-maze-winning-decklist-2013-05-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019014233id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-dragons-maze-winning-decklist-2013-05-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 01:42:33+00:00"
-[_metadata_:publish_date]:- "2013-05-20"
 [_metadata_:description]:- "Congratulations to Craig Wescoe, champion of Pro Tour Dragon's Maze. Check out the complete event coverage right here. [decklist] Title: Craig Wescoe Format: Pro Tour 2013 9 Forest 9 Plains 1 Selesnya Guildgate 4 Temple Garden 4 Judge's Familiar 4 Experiment One 4 Dryad Militant 4 Voice of Resurgence 4 Loxodon Smiter 4 Call of the Conclave 4 Selesnya Charm 4 Advent of the Wurm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-20"
 ---
 
 

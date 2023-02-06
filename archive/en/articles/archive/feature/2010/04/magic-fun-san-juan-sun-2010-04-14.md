@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-fun-san-juan-sun-2010-04-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526010652id_/https://magic.wizards.com/en/articles/archive/feature/magic-fun-san-juan-sun-2010-04-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 01:06:52+00:00"
-[_metadata_:publish_date]:- "2010-04-14"
 [_metadata_:description]:- "Got your summer vacation planned yet? Let us suggest a weekend in tropical San Juan, Puerto Rico to take in all the sun, sand, and Magic you can handle! From May 27-30, Magic: The Gathering takes over the Puerto Rico Convention Center for Pro Tour–San Juan. Along with the main event, there are four days full of Magic events and activities open to the public."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-04-14"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/memnite-white-2010-10-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024183021id_/https://magic.wizards.com/en/articles/archive/feature/memnite-white-2010-10-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 18:30:21+00:00"
-[_metadata_:publish_date]:- "2010-10-05"
 [_metadata_:description]:- "[decklist] Title: Axel Jensen's Memnite White Format: Standard – 2010 TCGPlayer.com Wizard World series 4 Arid Mesa 4 Marsh Flats 12 Plains 4 Glint Hawk 4 Kor Duelist 4 Kor Outfitter 4 Kor Skyfisher 4 Memnite 4 Ornithopter 4 Stoneforge Mystic 3 Adventuring Gear 2 Argentum Armor 1 Darksteel Axe 1 Mox Opal 4 Quest for the Holy Relic 1 Sword of Body and Mind *2 Jinxed Idol *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-10-05"
 ---
 
 

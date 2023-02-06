@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/death-cloud-2010-01-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170321022745id_/http://magic.wizards.com/en/articles/archive/feature/death-cloud-2010-01-28"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-21 02:27:45+00:00"
-[_metadata_:publish_date]:- "2010-01-28"
 [_metadata_:description]:- "[decklist] Title: Coomaster's Death Cloud Format: Magic Online Qualifier for Pro Tour–San Juan 4 Forest 1 Ghost Quarter 1 Golgari Rot Farm 2 Oran-Rief, the Vastwood 3 Overgrown Tomb 5 Swamp 3 Treetop Village 2 Twilight Mire 4 Verdant Catacombs 2 Eternal Witness 4 Kitchen Finks 4 Sakura-Tribe Elder 2 Shriekmaw 2 Cranial Extraction 3 Damnation 3 Death Cloud 4 Duress 3 Garruk Wildspeaker 3 Primal Command 4 Putrefy 1 Thoughtseize"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-28"
 ---
 
 

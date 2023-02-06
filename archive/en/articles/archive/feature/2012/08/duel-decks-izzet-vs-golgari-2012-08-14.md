@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duel-decks-izzet-vs-golgari-2012-08-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209080151id_/https://magic.wizards.com/en/articles/archive/feature/duel-decks-izzet-vs-golgari-2012-08-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 08:01:51+00:00"
-[_metadata_:publish_date]:- "2012-08-14"
 [_metadata_:description]:- "Collector's Highlights Each of the cards in the two 60-card decks will be black-bordered and tournament legal. This means that these cards are legal for use in any tournaments where the original printings are still legal. Two Guilds Clash beneath the Streets of Ravnica The Izzet League, under the ingenious mind of its guildmaster, the dragon Niv-Mizzet, has dabbled, delved,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-14"
 ---
 
 

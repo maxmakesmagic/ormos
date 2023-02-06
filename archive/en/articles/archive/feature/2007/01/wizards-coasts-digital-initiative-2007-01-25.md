@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wizards-coasts-digital-initiative-2007-01-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503064731id_/https://magic.wizards.com/en/articles/archive/feature/wizards-coasts-digital-initiative-2007-01-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 06:47:31+00:00"
-[_metadata_:publish_date]:- "2007-01-25"
 [_metadata_:description]:- "Wizards of the Coast has always believed in hiring gamers to work at the company. Magic fans have watched a steady stream of Pro Tour players take over the Magic development process and the recent Great Designer Search culminated in all three finalists being offered internships. (GDS fans may also be interested to know that both Noah Weil and Mark Globus have also signed up to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-01-25"
 ---
 
 

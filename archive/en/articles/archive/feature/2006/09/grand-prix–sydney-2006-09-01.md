@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sydney-2006-09-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022025144id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sydney-2006-09-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 02:51:44+00:00"
-[_metadata_:publish_date]:- "2006-09-01"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events. SPECIAL PROMOTIONPlay in a Sneak Peek Event at Stores in Australia or New Zealand the weekend of 30th Sept and get $20 off the cost of entry to Grand Prix Sydney. Vouchers will be available"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-09-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/praetor-bloody-praetor-2006-08-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126135715id_/https://magic.wizards.com/en/articles/archive/feature/praetor-bloody-praetor-2006-08-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 13:57:15+00:00"
-[_metadata_:publish_date]:- "2006-08-09"
 [_metadata_:description]:- "Welcome Johnnies and lovers of all things inefficient! One thing you may not know about me is that I like Magic cards and, on occasion, I like to build Magic decks with Magic cards. Naturally, not all cards are created equal. Some cards just jump out at you, like the boogeyman of creativity, and scream to be used in decks. Judging by the mail I get, Thrumming Stone is a big"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-08-09"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/look-inside-vault-annihilation-2014-08-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141222163953id_/http://magic.wizards.com/en/articles/archive/feature/look-inside-vault-annihilation-2014-08-11"
 [_metadata_:wayback_capture_timestamp]:- "2014-12-22 16:39:53+00:00"
-[_metadata_:publish_date]:- "2014-08-11"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "The cards of From the Vault: Annihilation and stories of their inclusion."
+[_metadata_:publish_date]:- "2014-08-11"
 ---
 
 

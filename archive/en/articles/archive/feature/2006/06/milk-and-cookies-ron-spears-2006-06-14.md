@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/milk-and-cookies-ron-spears-2006-06-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429191628id_/https://magic.wizards.com/en/articles/archive/feature/milk-and-cookies-ron-spears-2006-06-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 19:16:28+00:00"
-[_metadata_:publish_date]:- "2006-06-14"
 [_metadata_:description]:- "So there we were, huffing up the side of a cliff, Ron Spears, Ixidor, and me. We were climbing up to the Muffin On the Mountain, a fine little breakfast place in northern Otaria. It was to be the place where I interview Mr. Spears, but it is also to be the place where Spears and Ixidor Indian Leg Wrestle to settle a little score of their own.See, when I heard that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-06-14"
 ---
 
 

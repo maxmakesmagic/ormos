@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/origin-scavenge-and-overload-2012-09-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160531060248id_/http://magic.wizards.com/en/articles/archive/feature/origin-scavenge-and-overload-2012-09-03"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-31 06:02:48+00:00"
-[_metadata_:publish_date]:- "2012-09-03"
 [_metadata_:description]:- "Return to Ravnica is nearly upon us! The hustle and bustle of the city, the scheming of a dracogenius, and the first-pick mana-fixers are nostalgic reminders for those of us who experienced Ravnica the first time. Return to Ravnica marks my third set as a lead designer, after Worldwake and New Phyrexia (so it definitely includes a fatty or two)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-09-03"
 ---
 
 

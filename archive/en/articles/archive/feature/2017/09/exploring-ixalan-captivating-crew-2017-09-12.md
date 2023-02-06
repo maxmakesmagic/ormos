@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-captivating-crew-2017-09-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023928id_/https://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-captivating-crew-2017-09-12"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:39:28+00:00"
-[_metadata_:publish_date]:- "2017-09-12"
 [_metadata_:description]:- "Take a closer look at the process behind today's preview card—Captivating Crew!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-09-12"
 ---
 
 

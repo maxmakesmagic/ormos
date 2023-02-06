@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intotheaether-flips-zuberas-2005-10-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128205554id_/https://magic.wizards.com/en/articles/archive/feature/intotheaether-flips-zuberas-2005-10-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-28 20:55:54+00:00"
-[_metadata_:publish_date]:- "2005-10-13"
 [_metadata_:description]:- "Natural Selection: Civil War! For Week Five of Natural Selection, Ith turned each kingdom on itself, matching us against players within our own kingdom. I had to play eMRaistlin, who it turns out lives in France, and we had a bit of a time catching up to one another. I was certainly curious to see how the Zubera deck he built would play; Zuberas have always intrigued me, but I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-13"
 ---
 
 

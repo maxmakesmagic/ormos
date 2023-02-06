@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-1st-draft-table-1-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521200438id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-1st-draft-table-1-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:04:38+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Results 1st draft table 1 (but read this report first!) Position Sigurd Eskeland Tom Van de Logt Niels Sanders Jensen Franck Canu Haakon Monsen Marcus Angelin Mattias Jorstedt Thomas Dall Jensen The first boosters:  Booster 1:  Sigurd Stinging Barrier  Tom R.Sergeant  Niels Shock Troops  Franck R.Airship  Haakon Horned Troll  Marcus L."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scary-stories-part-2-2011-09-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111193948id_/https://magic.wizards.com/en/articles/archive/feature/scary-stories-part-2-2011-09-26"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-11 19:39:48+00:00"
-[_metadata_:publish_date]:- "2011-09-26"
 [_metadata_:description]:- "Last week I shared some design stories about cards we had already previewed. Today are design stories about the rest of the cards. Enjoy!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-26"
 ---
 
 

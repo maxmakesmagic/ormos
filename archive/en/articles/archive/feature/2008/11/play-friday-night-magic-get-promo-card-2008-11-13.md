@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/play-friday-night-magic-get-promo-card-2008-11-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125193845id_/https://magic.wizards.com/en/articles/archive/feature/play-friday-night-magic-get-promo-card-2008-11-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-25 19:38:45+00:00"
-[_metadata_:publish_date]:- "2008-11-13"
 [_metadata_:description]:- "Forge your destiny! Play Shards of Alara in at least two FNM (Friday Night Magic) tournaments between November 14th and December 12th, 2008 and receive one Hypnotic Specter* promo card in your next MPR mailing! Magic Player Rewards is a free program that rewards DCI members for their participation in sanctioned Magic: The Gathering tournaments with never-before-seen textless spells."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-13"
 ---
 
 

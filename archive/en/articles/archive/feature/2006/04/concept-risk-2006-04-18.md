@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/concept-risk-2006-04-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170622055912id_/http://magic.wizards.com/en/articles/archive/feature/concept-risk-2006-04-18"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-22 05:59:12+00:00"
-[_metadata_:publish_date]:- "2006-04-18"
 [_metadata_:description]:- "Astute readers of this column have no doubt noticed patterns in the way I've broken down different game situations and the advice I've given. Magic is a game with limitless possibilities and strategic depth, but the same basic principles can guide you through those situations. Your goal is victory, and with that goal in mind each decision comes down to evaluating how each possibility changes the course of the game and your probability of winning in each possible future."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-04-18"
 ---
 
 

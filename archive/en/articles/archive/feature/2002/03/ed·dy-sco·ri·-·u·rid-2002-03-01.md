@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ed%C2%B7dy-sco%C2%B7ri%C2%B7-%C2%B7u%C2%B7rid-2002-03-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016041200id_/https://magic.wizards.com/en/articles/archive/feature/ed%C2%B7dy-sco%C2%B7ri%C2%B7-%C2%B7u%C2%B7rid-2002-03-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 04:12:00+00:00"
-[_metadata_:publish_date]:- "2002-03-01"
 [_metadata_:description]:- "ed·dy From Merriam-Webster Online: Function: noun Inflected Form(s): plural eddies Etymology: Middle English (Scots dialect) ydy, probably from Old Norse itha Date: 15th century 1 a : a current of water or air running contrary to the main current; especially : a circular current : whirlpool b : something moving similarly 2 : a contrary or circular current (as of thought or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-03-01"
 ---
 
 

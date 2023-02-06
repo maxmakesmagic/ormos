@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/bridging-gap-2008-04-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160806041125id_/http://magic.wizards.com/en/articles/archive/feature/bridging-gap-2008-04-17"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-06 04:11:25+00:00"
-[_metadata_:publish_date]:- "2008-04-17"
 [_metadata_:description]:- "Hi, all. We're in a bit of a no-man's-land, you and I. I'm sad to say that I don't have a preview card to show you this fine Thursday. And with Lorwyn block shrinking in the rearview mirror and our arrival in Shadowmoor still days away, I'm not sure whether I should take a spin around the new block or satisfy the completist in me and finish exploring some of the still-underappreciated cards from the old one."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-04-17"
 ---
 
 

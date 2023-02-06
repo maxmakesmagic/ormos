@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sketches-vedalken-entrancer-2012-07-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160822144403id_/http://magic.wizards.com/en/articles/archive/feature/sketches-vedalken-entrancer-2012-07-04"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-22 14:44:03+00:00"
-[_metadata_:publish_date]:- "2012-07-04"
 [_metadata_:description]:- "&#13; One of the fun things about a core set, from the point of view of the person who does the Arcanas (that's me!) is that reprints provide an excuse to look back at interesting things we didn't have time or space to talk about when they actually happened.&#13; &#13; Such is the case with Vedalken Entrancer, which is making a triumphant return in Magic 2013 after not having been seen since its original appearance in Ravnica: City of Guilds."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-07-04"
 ---
 
 

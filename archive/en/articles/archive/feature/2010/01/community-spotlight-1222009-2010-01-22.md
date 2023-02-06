@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-1222009-2010-01-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127031526id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-1222009-2010-01-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 03:15:26+00:00"
-[_metadata_:publish_date]:- "2010-01-22"
 [_metadata_:description]:- "Magic: The Puzzling Winter ContestIn the Magic: The Gathering group in with Wizards Community, there's an opportunity for you to win a copy of Season's Beatings, the 2009 Magic: The Gathering holiday card. Players have enjoyed solving puzzles based on a pre-setup table of Magic cards for years. Most recently we have even included them in Duels of the Planeswalkers in it's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-22"
 ---
 
 

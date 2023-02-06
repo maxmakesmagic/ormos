@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-comes-gp-circuit-2004-06-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526142017id_/https://magic.wizards.com/en/articles/archive/feature/standard-comes-gp-circuit-2004-06-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 14:20:17+00:00"
-[_metadata_:publish_date]:- "2004-06-03"
 [_metadata_:description]:- "Clamp No MoreI owe Zvi Mowshowitz a dollar. About a month ago we were discussing whether or not Wizards would do something about Skullclamp for the June Banned and Restricted announcement. Zvi felt that based on the results of US Regionals they were going to ban it at the next opportunity, while I thought it would survive June 1st in order for DCI to see whether Fifth Dawn"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-06-03"
 ---
 
 

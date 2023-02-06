@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flavor-tribals-2007-10-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921131309id_/https://magic.wizards.com/en/articles/archive/feature/flavor-tribals-2007-10-10"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-21 13:13:09+00:00"
-[_metadata_:publish_date]:- "2007-10-10"
 [_metadata_:description]:- "Let's get right down to it. What's the flavor of the tribal type? This:Nothin'.Not a thing. It's empty of flavor content, as empty as a period at the end of a sentence."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-10-10"
 ---
 
 

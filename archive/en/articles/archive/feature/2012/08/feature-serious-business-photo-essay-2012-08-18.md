@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-serious-business-photo-essay-2012-08-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151004175717id_/http://magic.wizards.com/en/articles/archive/feature/feature-serious-business-photo-essay-2012-08-18"
 [_metadata_:wayback_capture_timestamp]:- "2015-10-04 17:57:17+00:00"
-[_metadata_:publish_date]:- "2012-08-18"
 [_metadata_:description]:- "For those of you sitting by yourself reading the coverage, we bring you the World Magic Cup in photos!  There's a lot of dressing up going on. Most of the judges came as Batman, one came as Robin. Either way, their breakfast is some combination of bacon and justice."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-18"
 ---
 
 

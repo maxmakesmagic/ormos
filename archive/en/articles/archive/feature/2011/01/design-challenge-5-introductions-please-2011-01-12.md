@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/design-challenge-5-introductions-please-2011-01-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190910040253id_/https://magic.wizards.com/en/articles/archive/feature/design-challenge-5-introductions-please-2011-01-12"
 [_metadata_:wayback_capture_timestamp]:- "2019-09-10 04:02:53+00:00"
-[_metadata_:publish_date]:- "2011-01-12"
 [_metadata_:description]:- "There are many ways for players to experience your set for the first time. One way is by opening a booster pack. Design Challenge #4 let you create the best experience for that entry. Today, we're going to be allowing you to tailor a different introduction. The goal for Design Challenge #5 will be to make an intro deck for your set.Here's what's going to be asked of you:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-12"
 ---
 
 

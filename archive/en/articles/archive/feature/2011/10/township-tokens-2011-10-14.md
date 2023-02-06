@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/township-tokens-2011-10-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025053246id_/https://magic.wizards.com/en/articles/archive/feature/township-tokens-2011-10-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 05:32:46+00:00"
-[_metadata_:publish_date]:- "2011-10-14"
 [_metadata_:description]:- "Gavony Township, Intangible Virtue, and Honor of the Pure team up with a great big pile of tokens in Robert Smith's FNM-ready Top 16 deck from a recent StarCityGames.com Standard Open.[decklist] Title: Robert Smith's Green-White Township Tokens Format: Standard – 12th place, StarCityGames.com Open in Nashville, Tennessee 9 Plains 4 Gavony Township 4 Inkmoth Nexus 4 Razorverge"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-10-14"
 ---
 
 

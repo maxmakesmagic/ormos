@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-2014-trials-2013-09-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118174201id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-2014-trials-2013-09-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:42:01+00:00"
-[_metadata_:publish_date]:- "2013-09-12"
 [_metadata_:description]:- "Grand Prix Prague Trials will be run at European WPN locations from October 19, 2013 to December 29, 2013. Each awards the winner a two-round bye to Grand Prix Prague. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event. Possible"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-12"
 ---
 
 

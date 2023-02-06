@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220502151103id_/https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-02 15:11:03+00:00"
-[_metadata_:publish_date]:- "2022-05-02"
 [_metadata_:description]:- "Wizards of the Coast teams up with The Trevor Project to celebrate Pride!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-05-02"
 ---
 
 

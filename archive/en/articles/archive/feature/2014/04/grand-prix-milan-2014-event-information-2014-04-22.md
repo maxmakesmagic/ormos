@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-milan-2014-event-information-2014-04-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118162532id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-milan-2014-event-information-2014-04-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:25:32+00:00"
-[_metadata_:publish_date]:- "2014-04-22"
 [_metadata_:description]:- "Information Grand Prix Milan is brought to you by TournamentCenter.eu.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpmilan Date: June 27-29, 2014 Format: Theros Block Sealed Deck/Draft Tournament Location Malpensa Fiere Hall 3 Via XI Settembre 16 Busto Arsizio"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-22"
 ---
 
 

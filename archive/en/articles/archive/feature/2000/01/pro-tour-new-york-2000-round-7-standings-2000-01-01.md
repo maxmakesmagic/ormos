@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-7-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209084104id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-7-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 08:41:04+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Cornelissen Kamiel 19 69.6599 2 Larkin John 19 66.6667 3 Hirabayashi Kazuya 19 61.2245 4 Ruel Olivier 19 57.9365 5 Davis Kevin 18 65.5782 6 Wise Gary 18 64.6259 7 Jensen William 18 63.9456 8 Walker Stewart 18 63.2653 9 Kettil Mattias 18 57.1429 10 Globus Mark 18 53.7415 11 Rubin Ben 18 53.3333 12 Devenport David 18 52.7211 13 Eskeland Sigurd 17"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

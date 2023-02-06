@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-alara-wallpaper-2-2008-09-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526070154id_/https://magic.wizards.com/en/articles/archive/feature/shards-alara-wallpaper-2-2008-09-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 07:01:54+00:00"
-[_metadata_:publish_date]:- "2008-09-09"
 [_metadata_:description]:- "Shards of Alara Wallpaper 2 800x600 1024x768 1280x1024"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-09"
 ---
 
 

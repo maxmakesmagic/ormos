@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sorin-markov-2012-01-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150221075353id_/http://magic.wizards.com/en/articles/archive/feature/sorin-markov-2012-01-09"
 [_metadata_:wayback_capture_timestamp]:- "2015-02-21 07:53:53+00:00"
-[_metadata_:publish_date]:- "2012-01-09"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Sorin Markov Sorin Markov, the ancient vampire Planeswalker, has returned to his home plane. But the heir to the House of Markov is not welcomed by his kin, nor does he expect to be. Those who know the secret of his past revile him. On Innistrad, Sorin Markov is a traitor."
+[_metadata_:publish_date]:- "2012-01-09"
 ---
 
 

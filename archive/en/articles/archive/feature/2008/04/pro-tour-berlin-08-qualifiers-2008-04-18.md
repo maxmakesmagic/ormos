@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-berlin-08-qualifiers-2008-04-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627003904id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-berlin-08-qualifiers-2008-04-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:39:04+00:00"
-[_metadata_:publish_date]:- "2008-04-18"
 [_metadata_:description]:- "CountryDateVenueAddressAddress2CityZipEmail AT2008-07-06SpielRaum WienOtto Bauer Gasse 17 Wien1060wien@spielraum.co.at AT2008-08-03Unknown VenueJugendgästehaus GrazIdlhofgasse 74Graz8010david_reitbauer@hotmail.com AT2008-08-15Neues Rathaus - FestsaalHauptstraße 1-5 Linz4041wizards@hasbro.de AT2008-08-31SpieleArenaLeonfeldnerstr 73 Linz4020boss@spielearena.at BE2008-06-08La"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-04-18"
 ---
 
 

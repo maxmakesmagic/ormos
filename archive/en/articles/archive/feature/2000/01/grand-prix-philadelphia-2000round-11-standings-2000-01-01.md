@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-11-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517232036id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-11-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 23:20:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 McCord Scott 33 69.50 2 Jensen III, William (Q) 30 73.05 3 Fitch, Britt (1700) 30 66.78 4 Dougherty, Robert (Q) 28 70.63 5 Joyce Brian 28 69.48 6 Van Cleave, Trey (Q) 28 69.42 7 Bush Michelle 28 67.72 8 Roderer, Dave (1700) 28 66.91 9 Leiher, Peter (Q) 27 76.14 10 Parke, Jamie (Q) 27 70.54 11 Marks John 27 70.33 12 Bernat Michael 27 69.49 13"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

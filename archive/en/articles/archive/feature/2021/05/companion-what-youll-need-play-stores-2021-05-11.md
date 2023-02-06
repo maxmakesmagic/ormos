@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/companion-what-youll-need-play-stores-2021-05-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210511151829id_/https://magic.wizards.com/en/articles/archive/feature/companion-what-youll-need-play-stores-2021-05-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-11 15:18:29+00:00"
-[_metadata_:publish_date]:- "2021-05-11"
 [_metadata_:description]:- "Looking forward to playing at your local game store again? Want to run a draft night for your friends? Companion is our free app for you!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-05-11"
 ---
 
 

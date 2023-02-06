@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/designing-guildpact-2006-02-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429032814id_/https://magic.wizards.com/en/articles/archive/feature/designing-guildpact-2006-02-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:28:14+00:00"
-[_metadata_:publish_date]:- "2006-02-06"
 [_metadata_:description]:- "Hello everyone! As one of the diabolical designers behind Guildpact, I’m excited to give you an inside look at how the Orzhov, the Gruul, and the Izzet came to be. But first, let me introduce myself. My name is Devin Low, and I started playing Magic back in 1993, paying $2.50 for packs of Alpha and opening up Mox Emerald (boring), Ancestral Recall (yawn), and Gaea’s Liege"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-02-06"
 ---
 
 

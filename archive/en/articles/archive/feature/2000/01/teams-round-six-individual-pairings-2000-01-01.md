@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-six-individual-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128111434id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-six-individual-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 11:14:34+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TableNameName 1Finkel, Jon (USA)vs.Baudys, Ondrej (CZE) 2Benafel, Chris (USA)vs.Laznovsky, Martin (CZE) 3Hernandez, Frank (USA)vs.Marek, Libor (CZE) 4Forsythe, Aaron (USA)vs.Tejnsky, Petr (CZE) 5Fuller, Ryan (CAN)vs.Konstanczer, Andre (GER) 6Evans, Murray (CAN)vs.Brinkmann, Jan (GER) 7Tsang, Gabriel (CAN)vs.Eder, Wolfgang (GER) 8Lau, Sam (CAN)vs.Budde, Kai (GER) 9Dols, Roel"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

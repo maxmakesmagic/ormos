@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-decklists-and-card-unlocks-2012-06-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160817022814id_/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-decklists-and-card-unlocks-2012-06-19"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-17 02:28:14+00:00"
-[_metadata_:publish_date]:- "2012-06-19"
 [_metadata_:description]:- "Deck Packs  Deck Pack 1: Act of War &amp; Sky and Scale  Core Game Decks  Ajani Goldmane – Celestial Light  Chandra Nalaar – Born of Flame"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-19"
 ---
 
 

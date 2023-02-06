@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-eighteen-team-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209102226id_/https://magic.wizards.com/en/articles/archive/feature/round-eighteen-team-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 10:22:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name Points Op-Match 1 United States 142 58.16% 2 Netherlands 128 55.99% 3 Germany 120 53.14% 4 Austria 120 52.09% 5 Spain 118 50.18% 6 Norway 116 53.64% 7 France 116 53.61% 8 Canada 115 51.89% 9 Czech Republic 114 47.62% 10 Singapore 112 49.97% 11 Scotland 110 49.91% 12 Sweden 109 48.33% 13 Italy 109 47.36% 14 Switzerland 108 51.10% 15 Portugal 107 49.21% 16 Japan 106"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

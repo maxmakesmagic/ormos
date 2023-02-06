@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prismatic-champions-era-2004-11-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016122313id_/https://magic.wizards.com/en/articles/archive/feature/prismatic-champions-era-2004-11-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 12:23:13+00:00"
-[_metadata_:publish_date]:- "2004-11-01"
 [_metadata_:description]:- "Hello and welcome to Prismatic Tonight. I'm your host, Doug Beyer. Katie Couric is away on vacation. Our top story tonight is a wave of bannings that hit Magic Online's Prismatic format in September, rendering the format radically changed but ultimately, in the opinion of one reporter, more fun. We turn now to Beffle549 with the report. TOP STORY: In Praise of BanningsI had a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-11-01"
 ---
 
 

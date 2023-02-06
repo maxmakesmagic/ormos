@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93valencia-2007-format-and-schedule-2007-07-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016114849id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93valencia-2007-format-and-schedule-2007-07-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 11:48:49+00:00"
-[_metadata_:publish_date]:- "2007-07-16"
 [_metadata_:description]:- "Tournament Format All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document FormatExtended-Constructed format. (Note: The Lorwyn™ expansion will not be used) Check www.thedci.com for Extended format rules."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-07-16"
 ---
 
 

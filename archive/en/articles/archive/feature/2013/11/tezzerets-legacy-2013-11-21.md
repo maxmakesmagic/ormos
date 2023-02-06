@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tezzerets-legacy-2013-11-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016193528id_/https://magic.wizards.com/en/articles/archive/feature/tezzerets-legacy-2013-11-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:35:28+00:00"
-[_metadata_:publish_date]:- "2013-11-21"
 [_metadata_:description]:- "Caleb Durward has been playing the Tezzeret deck in Legacy for a long time, and he has been continually updating it while doing so. His latest iteration looks as cool as all the previous ones and includes all sorts of interesting combos and sweet one-of value cards. The core of the deck involves Ancient Tomb, City of Traitors, and Dimir Signet or Talisman of Dominance (a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-11-21"
 ---
 
 

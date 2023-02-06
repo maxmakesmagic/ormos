@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/champions-intotheaether-2004-11-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205083811id_/https://magic.wizards.com/en/articles/archive/feature/champions-intotheaether-2004-11-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-05 08:38:11+00:00"
-[_metadata_:publish_date]:- "2004-11-09"
 [_metadata_:description]:- "I'm still suffering from Champions of Kamigawa fever. Last week I talked about the Champions Release Events, which was my awkward, bumbling attempt to learn the new cards through Sealed Deck and Draft (many people were quick to point out the awesomeness of the White in my first Sealed League that I somehow neglected). Very soon I'll jump into a four-week Champions Sealed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-11-09"
 ---
 
 

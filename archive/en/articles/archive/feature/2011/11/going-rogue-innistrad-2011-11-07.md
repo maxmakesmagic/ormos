@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/going-rogue-innistrad-2011-11-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210624201919id_/https://magic.wizards.com/en/articles/archive/feature/going-rogue-innistrad-2011-11-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-24 20:19:19+00:00"
-[_metadata_:publish_date]:- "2011-11-07"
 [_metadata_:description]:- "It probably wasn't surprising that Innistrad got my creative juices flowing. Dripping with flavour, it is a set that has lots of very cool cards that seemed to be asking to be played around with. With my local Friday Night Magic being busier than ever, there's a lot of competition in Standard right now, and the rewards for roguishness are bigger than ever. Playing off-the-wall"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-11-07"
 ---
 
 

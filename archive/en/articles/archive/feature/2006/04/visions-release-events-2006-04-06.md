@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/visions-release-events-2006-04-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210323013051id_/https://magic.wizards.com/en/articles/archive/feature/visions-release-events-2006-04-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-03-23 01:30:51+00:00"
-[_metadata_:publish_date]:- "2006-04-06"
 [_metadata_:description]:- "Visions is probably still my favorite set of all time. It had essentially unspectacular but effective cards offered at a reasonable cost, for example Impulse, Man-o'-War, and Vampiric Tutor. I think that these kinds of cards are the most conducive to individual deck design; comparable sets like Ravnica are in a sense similar (Watchwolf, Lightning Helix), but demand multiple"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-04-06"
 ---
 
 

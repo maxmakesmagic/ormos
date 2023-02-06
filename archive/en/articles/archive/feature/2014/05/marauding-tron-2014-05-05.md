@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/marauding-tron-2014-05-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028141548id_/https://magic.wizards.com/en/articles/archive/feature/marauding-tron-2014-05-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 14:15:48+00:00"
-[_metadata_:publish_date]:- "2014-05-05"
 [_metadata_:description]:- "Pauper decks generally need to solve puzzles with unique tools, given the limits of only commons despite a vast card pool. Sage's Row Denizen, Nylea's Presence, and Prismatic Strands are all staples of the Pauper format, despite those cards being off the radar in nearly every other Constructed format. Fangren Marauder is another one of these cards, and a successful Pauper deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-05"
 ---
 
 

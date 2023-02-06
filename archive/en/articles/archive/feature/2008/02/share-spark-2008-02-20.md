@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/share-spark-2008-02-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160925173435id_/http://magic.wizards.com/en/articles/archive/feature/share-spark-2008-02-20"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-25 17:34:35+00:00"
-[_metadata_:publish_date]:- "2008-02-20"
 [_metadata_:description]:- "In the Magic multiverse, a person generally only becomes a planeswalker through a traumatic experience. Some sort of incredible stress, like the loss of a loved one, a near-death experience, or an astonishing revelation, shocks their planeswalker spark to life, and kindles in them the potential to walk the myriad planes of the multiverse."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-02-20"
 ---
 
 

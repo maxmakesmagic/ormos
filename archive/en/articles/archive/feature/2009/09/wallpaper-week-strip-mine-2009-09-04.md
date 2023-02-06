@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-strip-mine-2009-09-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201026135901id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-strip-mine-2009-09-04"
 [_metadata_:wayback_capture_timestamp]:- "2020-10-26 13:59:01+00:00"
-[_metadata_:publish_date]:- "2009-09-04"
 [_metadata_:description]:- "This week's desktop wallpaper features John Avon's Strip Mine art from From the Vault: Exiled. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-04"
 ---
 
 

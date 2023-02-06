@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zen-block-control-2009-12-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812233715id_/https://magic.wizards.com/en/articles/archive/feature/zen-block-control-2009-12-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 23:37:15+00:00"
-[_metadata_:publish_date]:- "2009-12-08"
 [_metadata_:description]:- "[decklist] Title: Luolb000's ZEN Block Control Format: Zendikar Block Constructed 13 Island 4 Kabira Crossroads 7 Plains 4 Sejiri Refuge 4 Sphinx of Lost Truths 4 Cancel 4 Conqueror's Pledge 4 Day of Judgment 4 Into the Roil 4 Journey to Nowhere 4 Rite of Replication 4 Spreading Seas *3 Archive Trap *4 Devout Lightcaster *4 Kor Sanctifiers *2 Pitfall Trap *2 Sphinx of Jwar"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-12-08"
 ---
 
 

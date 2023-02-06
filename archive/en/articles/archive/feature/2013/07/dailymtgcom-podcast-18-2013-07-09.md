@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-18-2013-07-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118183002id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-18-2013-07-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 18:30:02+00:00"
-[_metadata_:publish_date]:- "2013-07-09"
 [_metadata_:description]:- "On this episode, Trick and Gavin talk with R&D's Dave Guskin, lead developer for Magic 2014. The audio is a little wonky as something happened to Dave's microphone, but the content more than makes up for it as Dave shares his journey to Wizards and what it is he does for the company! Episode 18 - Magic 2014 with Dave Guskin - (31:14) (14.3 MB) The Daily MTG Podcast is on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-09"
 ---
 
 

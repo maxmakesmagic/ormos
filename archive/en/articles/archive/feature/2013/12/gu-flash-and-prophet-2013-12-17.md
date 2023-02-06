@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gu-flash-and-prophet-2013-12-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024194048id_/https://magic.wizards.com/en/articles/archive/feature/gu-flash-and-prophet-2013-12-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 19:40:48+00:00"
-[_metadata_:publish_date]:- "2013-12-17"
 [_metadata_:description]:- "With Daily and Premier Events having returned to Magic Online, Teh Original Forker took on a metagame filled with devotion decks and went 4–0 with an unusual green-blue deck in a recent Standard Daily. This deck plays accelerants to quickly play large green creatures, perhaps even flashing them onto the battlefield with Prophet of Kruphix. Use Cyclonic Rift to help if you get"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-12-17"
 ---
 
 

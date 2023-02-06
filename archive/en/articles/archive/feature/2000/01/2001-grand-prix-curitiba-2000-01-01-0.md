@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-curitiba-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022247id_/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-curitiba-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:22:47+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Sunday's Pictures [view] Antoine Ruel is the only one not hiding behind his trophy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

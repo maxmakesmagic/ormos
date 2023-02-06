@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2013-prerelease-events-2012-07-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523191137id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2013-prerelease-events-2012-07-10"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 19:11:37+00:00"
-[_metadata_:publish_date]:- "2012-07-10"
 [_metadata_:description]:- "Infinite Worlds, Infinite Possibilities Lurking in the shadows of Magic 2013 is a nefarious force in the Multiverse, a Planeswalker unlike any other: Nicol Bolas. This mighty dragon has driven entire planes to ruin, and now he returns with a new supporting cast. You have taken the mantle of a Planeswalker, now it is time to face a greater challenge and challenge your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-07-10"
 ---
 
 

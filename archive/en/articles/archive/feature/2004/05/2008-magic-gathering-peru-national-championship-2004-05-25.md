@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-peru-national-championship-2004-05-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028144627id_/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-peru-national-championship-2004-05-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 14:46:27+00:00"
-[_metadata_:publish_date]:- "2004-05-25"
 [_metadata_:description]:- "FirstLastInvite SourceCity IvanAlcantaraNational QualifierLima ChristianArenasRatingLima JoseArrietaRatingLima JavierArteagaRatingLima RonieBarrios Da FienoRatingLima JuanBarzolaRatingLima JulioBejarano EspejoRatingLima LuisBonillaRatingLima LuisBonillaNational QualifierLima FelixBordaRatingLima Lopez ZanabriaBryan PabloRatingArequipa FrankCaceres RoblesRatingLima FrankCaceres"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-05-25"
 ---
 
 

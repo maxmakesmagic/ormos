@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/goblin-burn-2012-05-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170607054610id_/http://magic.wizards.com/en/articles/archive/feature/goblin-burn-2012-05-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-07 05:46:10+00:00"
-[_metadata_:publish_date]:- "2012-05-01"
 [_metadata_:description]:- "Wizards of the Coast R&D members were out in full force at stores around the United States to celebrate the Avacyn Restored Prerelease, and few people were more excited to have the chance to play with Avacyn Restored than the set's lead developer, Dave Humpherys! Dave took some time out of his busy schedule to stop by Seattle store Card Kingdom and play some games. One of the Standard decks he took with him?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-mechanics-2015-12-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151229164741id_/http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-mechanics-2015-12-28"
 [_metadata_:wayback_capture_timestamp]:- "2015-12-29 16:47:41+00:00"
-[_metadata_:publish_date]:- "2015-12-28"
 [_metadata_:description]:- "Matt explains the new symbols and mechanics coming out with Oath of the Gatewatch."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-12-28"
 ---
 
 

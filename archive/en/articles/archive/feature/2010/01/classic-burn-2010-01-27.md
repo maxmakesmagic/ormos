@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/classic-burn-2010-01-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024173942id_/https://magic.wizards.com/en/articles/archive/feature/classic-burn-2010-01-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 17:39:42+00:00"
-[_metadata_:publish_date]:- "2010-01-27"
 [_metadata_:description]:- "[decklist] Title: Eddie112's Classic Burn Format: Magic Online Classic 17 Mountain 1 Strip Mine 4 Wasteland 4 Keldon Marauders 4 Chain Lightning 4 Fireblast 4 Flames of the Blood Hand 4 Incinerate 4 Lava Spike 4 Lightning Bolt 2 Price of Progress 2 Relic of Progenitus 4 Rift Bolt 2 Volcanic Fallout *4 Pithing Needle *3 Pyroblast *3 Pyrostatic Pillar *2 Relic of Progenitus *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-27"
 ---
 
 

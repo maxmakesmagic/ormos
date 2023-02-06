@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-14-2003-02-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123154508id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-14-2003-02-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-23 15:45:08+00:00"
-[_metadata_:publish_date]:- "2003-02-08"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at ask@wizards.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Beginner Questions Q: How long do the lands from Llanowar Elves' ability stay in play? A: Llanowar Elves doesn't make land - it makes"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-02-08"
 ---
 
 

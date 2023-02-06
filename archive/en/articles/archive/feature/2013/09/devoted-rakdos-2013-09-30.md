@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/devoted-rakdos-2013-09-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019195646id_/https://magic.wizards.com/en/articles/archive/feature/devoted-rakdos-2013-09-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 19:56:46+00:00"
-[_metadata_:publish_date]:- "2013-09-30"
 [_metadata_:description]:- "One of the cards I was most interested in playing after doing my set review was Gray Merchant of Asphodel. It just so happens that Josh Silvestri wrote about a sweet list that utilized him. In his article Josh goes over a number of Standard decks, but the Black-Red Devotion deck is the one I'd like to focus on. The deck slants more toward control than anything else, but has"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-30"
 ---
 
 

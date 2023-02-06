@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/june-through-august-fnm-promo-update-2014-05-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160415042741id_/http://magic.wizards.com/en/articles/archive/feature/june-through-august-fnm-promo-update-2014-05-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-15 04:27:41+00:00"
-[_metadata_:publish_date]:- "2014-05-15"
 [_metadata_:description]:- "Here is a look at the FNM Promos you can pick up at your local Friday Night Magic over the next few months. And no, despite my known predilections, I did not pick these promos. But I do hope you enjoy them! :)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-15"
 ---
 
 

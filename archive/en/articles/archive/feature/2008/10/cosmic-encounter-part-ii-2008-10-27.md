@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cosmic-encounter-part-ii-2008-10-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170618011030id_/http://magic.wizards.com/en/articles/archive/feature/cosmic-encounter-part-ii-2008-10-27"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-18 01:10:30+00:00"
-[_metadata_:publish_date]:- "2008-10-27"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-27"
 ---
 
 

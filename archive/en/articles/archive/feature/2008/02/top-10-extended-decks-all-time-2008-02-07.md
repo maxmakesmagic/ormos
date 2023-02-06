@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/top-10-extended-decks-all-time-2008-02-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160529073118id_/http://magic.wizards.com/en/articles/archive/feature/top-10-extended-decks-all-time-2008-02-07"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-29 07:31:18+00:00"
-[_metadata_:publish_date]:- "2008-02-07"
 [_metadata_:description]:- "Due to the nationwide Morningtide release tournaments (stock up on those Countryside Crushers, everyone!), we have no new Extended PTQ Top 8 lists to discuss this week (sorry about that)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-02-07"
 ---
 
 

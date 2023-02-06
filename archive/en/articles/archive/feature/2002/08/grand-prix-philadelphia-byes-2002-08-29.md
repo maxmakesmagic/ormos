@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-byes-2002-08-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816161821id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-byes-2002-08-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 16:18:21+00:00"
-[_metadata_:publish_date]:- "2002-08-29"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3200028 2190014 118007 Rating used: Limited, August 21, 2002 Pro Point Standings Used: 2002 World ChampionshipsTo find the number of byes you have for Grand Prix-Philadelphia, go to the appropriate list below (sorted by last name): A-G H-N O-Z For questions about this page, please email John"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-08-29"
 ---
 
 

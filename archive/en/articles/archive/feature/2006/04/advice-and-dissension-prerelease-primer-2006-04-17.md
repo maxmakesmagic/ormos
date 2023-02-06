@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/advice-and-dissension-prerelease-primer-2006-04-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170413203502id_/http://magic.wizards.com/en/articles/archive/feature/advice-and-dissension-prerelease-primer-2006-04-17"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-13 20:35:02+00:00"
-[_metadata_:publish_date]:- "2006-04-17"
 [_metadata_:description]:- "It has been over twelve years since I was shaken by a frustrated and desperate man in search of Magic packs. That event led me down the path that eventually deposited me at your virtual doorstep selling this weekend’s Prerelease tournament. Do you know what the secret to being a successful salesperson is? You have to believe in your product."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-04-17"
 ---
 
 

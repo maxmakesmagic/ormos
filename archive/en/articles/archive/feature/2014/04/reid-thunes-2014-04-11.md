@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reid-thunes-2014-04-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813160126id_/https://magic.wizards.com/en/articles/archive/feature/reid-thunes-2014-04-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 16:01:26+00:00"
-[_metadata_:publish_date]:- "2014-04-11"
 [_metadata_:description]:- "At the latest StarCityGames Invitational, Pro Tour heartthrob Reid Duke rode a pair of Archangel of Thunes to 10th place. On the same weekend, Farand Lee was piloting a similar-looking Naya deck in the Magic Online Championship. Both players recognized the power of the Archangel, especially in a format where RW Burn is starting to make a name for itself. The Archangel of Thune"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-11"
 ---
 
 

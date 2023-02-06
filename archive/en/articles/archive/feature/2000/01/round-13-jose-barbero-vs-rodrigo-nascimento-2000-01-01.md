@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-13-jose-barbero-vs-rodrigo-nascimento-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030043747id_/https://magic.wizards.com/en/articles/archive/feature/round-13-jose-barbero-vs-rodrigo-nascimento-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 04:37:47+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rui Oliveira Jose Barbero The final chance. Whoever wins this round is in the Top 8. After two long days and twelve rounds of Magic this is the all or nothing of the Grand Prix for these two players."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rt3000-future-magic-art-2006-01-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170613123702id_/http://magic.wizards.com/en/articles/archive/feature/rt3000-future-magic-art-2006-01-18"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-13 12:37:02+00:00"
-[_metadata_:publish_date]:- "2006-01-18"
 [_metadata_:description]:- "This week's Taste The Magic is really just a super-sized answer to an Ask Wizards question. It's a question that needed the space and graphic capabilities of a full article to properly address.    With the advent of digital media in the cards' illustrations, does this mean the death of the oil and water color paintings in Don Hazeltine and Rebecca Guay that we so love and adore?  --Vincent, NY, USA"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-01-18"
 ---
 
 

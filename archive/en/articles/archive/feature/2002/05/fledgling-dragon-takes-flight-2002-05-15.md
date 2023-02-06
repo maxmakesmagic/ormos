@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fledgling-dragon-takes-flight-2002-05-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024193955id_/https://magic.wizards.com/en/articles/archive/feature/fledgling-dragon-takes-flight-2002-05-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 19:39:55+00:00"
-[_metadata_:publish_date]:- "2002-05-15"
 [_metadata_:description]:- "Dragons. Wyrms. Giant lizards. Whatever you’d like to call them, they are the centerpiece of almost all fantasy lore. Whether it’s the second “D” in D&D, the menace of Smaug, or the Chinese mythology of descent, nearly every culture on Earth has some variance on the mythos of the dragon. So it’s no surprise that when Magic was originally released, and each color got its"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-05-15"
 ---
 
 

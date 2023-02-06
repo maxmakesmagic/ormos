@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-%E2%80%93-ravnica-2005-11-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128221714id_/https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-%E2%80%93-ravnica-2005-11-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 22:17:14+00:00"
-[_metadata_:publish_date]:- "2005-11-21"
 [_metadata_:description]:- "After attending the Ravnica prerelease, you knew that this new multi-colored set was for you. And after opening Circu, Dimir Lobotomist, you also knew that the Dimir guild would be your new friend. With Ravnica finally legal to play in constructed tournaments, you went to your local card store and brought your fearsome deck filled to the brim with new cards. The tournament"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-21"
 ---
 
 

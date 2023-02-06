@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-mexicano-2009-06-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020205537id_/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-mexicano-2009-06-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 20:55:37+00:00"
-[_metadata_:publish_date]:- "2009-06-24"
 [_metadata_:description]:- "FirstLastInvitation SourceRegional DateRegional CityRegional Country AxelMartinez2008 National Championn/an/an/a DavidHernandez2008 National Teamn/an/an/a AxelMartinez2008 National Teamn/an/an/a CristiamPadilla Vargas2008 National Teamn/an/an/a Jorge ErnestoPadilla Chinas2008 Alternaten/an/an/a AxelMartinezPro Club 2+n/an/an/a CristiamPadilla VargasPro Club 2+n/an/an/a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-24"
 ---
 
 

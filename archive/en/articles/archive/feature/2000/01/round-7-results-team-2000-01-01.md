@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-results-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704130103id_/https://magic.wizards.com/en/articles/archive/feature/round-7-results-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-04 13:01:03+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult Opponent#I Magic *Amateur*Lost 1-2vsUne Leche De FBI *Amateur*$42 Ticket *Amateur*Lost 1-2vsEgghead Games Inc.100 Super Good Fun TimeWon 2-1vsTeam Disgruntled Hobos *Amat3 Stooges *Amateur*Won 2-1vsTeam Nose Guy *Amateur*5280Lost 0-3vsFrog EatersA Little Too SickWon 2-1vsRide or DieAlphaBetaUnlimited.com/Lost 0-3vsFamily Games CenterAntarcticaWon 2-1vsTeam John F."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldrazi-arisen-2010-03-29-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170510045829id_/http://magic.wizards.com/en/articles/archive/feature/eldrazi-arisen-2010-03-29-1"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-10 04:58:29+00:00"
-[_metadata_:publish_date]:- "2010-03-29"
 [_metadata_:description]:- "Believe it or not, the plane of Zendikar was once a tranquil world.  Mana-rich landscapes of rugged beauty. Vast, unspoiled tracts of magic-infused wilderness. An ecology of gentle creatures and primitive humanoid cultures.  Thousands of years ago, all that was nearly wiped out forever. Thousands of years ago, planeswalkers made a desperate choice to trap abominations from beyond the boundaries of the plane on Zendikar. Thousands of years ago, they saved the Multiverse by sealing Zendikar's fate."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-29"
 ---
 
 

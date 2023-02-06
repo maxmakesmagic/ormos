@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/second-inning-stretch-2007-01-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208233557id_/https://magic.wizards.com/en/articles/archive/feature/second-inning-stretch-2007-01-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 23:35:57+00:00"
-[_metadata_:publish_date]:- "2007-01-25"
 [_metadata_:description]:- "Swimming With Sharks joins you three weeks into the 2007 Extended PTQ season. As such, we've got several PTQ Top 8s to cover and quite a bit of catching up to do."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-01-25"
 ---
 
 

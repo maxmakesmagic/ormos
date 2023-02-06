@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reanimator-2009-09-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816022122id_/https://magic.wizards.com/en/articles/archive/feature/reanimator-2009-09-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 02:21:22+00:00"
-[_metadata_:publish_date]:- "2009-09-23"
 [_metadata_:description]:- "[decklist] Title: Darwin Kastle's Reanimator Format: Pro Tour–New Orleans 2001 21 Swamp 1 Avatar of Woe 1 Crosis, the Purger 2 Krovikan Horror 1 Multani, Maro-Sorcerer 1 Nether Spirit 1 Squee, Goblin Nabob 1 Verdant Force 1 Animate Dead 4 Buried Alive 1 Contamination 4 Duress 4 Entomb 4 Exhume 1 Massacre 4 Reanimate 4 Vampiric Tutor 4 Zombie Infestation *1 Ascendant Evincar *1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-23"
 ---
 
 

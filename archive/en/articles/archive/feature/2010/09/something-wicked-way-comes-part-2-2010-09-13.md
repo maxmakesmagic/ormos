@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/something-wicked-way-comes-part-2-2010-09-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170624030822id_/http://magic.wizards.com/en/articles/archive/feature/something-wicked-way-comes-part-2-2010-09-13"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-24 03:08:22+00:00"
-[_metadata_:publish_date]:- "2010-09-13"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-09-13"
 ---
 
 

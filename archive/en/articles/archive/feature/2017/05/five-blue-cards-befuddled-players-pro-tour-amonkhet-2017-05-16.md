@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/five-blue-cards-befuddled-players-pro-tour-amonkhet-2017-05-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170519014850id_/http://magic.wizards.com/en/articles/archive/feature/five-blue-cards-befuddled-players-pro-tour-amonkhet-2017-05-16"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-19 01:48:50+00:00"
-[_metadata_:publish_date]:- "2017-05-16"
 [_metadata_:description]:- "Blue mages played mind games all weekend during Pro Amonkhet with these five masterfully mischievous cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-05-16"
 ---
 
 

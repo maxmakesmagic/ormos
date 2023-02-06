@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/getting-your-philosophy-2005-12-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026152215id_/https://magic.wizards.com/en/articles/archive/feature/getting-your-philosophy-2005-12-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 15:22:15+00:00"
-[_metadata_:publish_date]:- "2005-12-26"
 [_metadata_:description]:- "For last week's feature, I picked my favorite article that wasn't based on inside information, something that could have appeared on another site as opposed to a `behind the scenes` piece. For this second week of `Best of '05` I knew I wanted to feature the other side of the coin, the inside information the likes of which you can only get on magicthegathering.com. In the end,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-12-26"
 ---
 
 

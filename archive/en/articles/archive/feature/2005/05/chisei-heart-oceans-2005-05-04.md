@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/chisei-heart-oceans-2005-05-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520042413id_/https://magic.wizards.com/en/articles/archive/feature/chisei-heart-oceans-2005-05-04"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 04:24:13+00:00"
-[_metadata_:publish_date]:- "2005-05-04"
 [_metadata_:description]:- "A long time ago, I remember my first real flying beating: it was on the back of a Serendib Efreet/Clone deck. In retrospect the deck was pretty bad, but it was leagues ahead of where I was in the game at that point. Arabian Nights had already been out for a little bit and before that I had thought that the drawbacks for the cheap blue fliers were too much to make them worth"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-05-04"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-3-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923131128id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-3-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-23 13:11:28+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Adam, Felix Hamilton, Iain Won, 2-0 Allen, Ross Kirsch, Geoffrey Lost, 1-2 Altermara, Chase Horner, Brian Lost, 0-2 Ames, David Nader, Johnathan Lost, 0-2 Ames, Steve Crouse, Sean Lost, 1-2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

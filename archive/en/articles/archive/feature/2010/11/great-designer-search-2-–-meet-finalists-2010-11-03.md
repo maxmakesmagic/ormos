@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-%E2%80%93-meet-finalists-2010-11-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170324165826id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-%E2%80%93-meet-finalists-2010-11-03"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-24 16:58:26+00:00"
-[_metadata_:publish_date]:- "2010-11-03"
 [_metadata_:description]:- "It all began with a ten-question essay test, which led to 1120 submissions. Then 790 applicants took a fifty question multiple-choice test, which resulted in 101 applicants advancing to the third round, where they were given a design test that required them to create and then preview a brand new world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-11-03"
 ---
 
 

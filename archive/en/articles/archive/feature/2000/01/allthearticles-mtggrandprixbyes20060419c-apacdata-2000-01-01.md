@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/allthearticles-mtggrandprixbyes20060419c-apacdata-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025151504id_/https://magic.wizards.com/en/articles/archive/feature/allthearticles-mtggrandprixbyes20060419c-apacdata-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 15:15:04+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "First NameLast NameRatingByesSimonO`Keeffe19252PrzemekOberbek19182KennyOberg18821VladimirObradovic18061PeterO'Brien18061HunterObrikat18591GuglielmoOcchini18701DavidOchoa18951DustyOchoa18381AlexO'Connell18431KevinO'Connor18621OyvindOdegaard18311MartinOehler18261AndreOentoro18221royoever18611MarkusOffergeld18601JerryOgburn18021TakahiroOgiso18961Giovanni"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

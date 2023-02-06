@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-pro-tour-sweepstakes-entry-form-2006-05-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121183320id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-pro-tour-sweepstakes-entry-form-2006-05-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 18:33:20+00:00"
-[_metadata_:publish_date]:- "2006-05-24"
 [_metadata_:description]:- "Step 2 of 2: Contact Information Please fill in all fields to enter. You must be a legal resident of either the United States or Canada (excluding Quebec) to win. Full Name Address CityStateZip CodeEmail addressBirthdateDaytime phoneEvening phone"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-05-24"
 ---
 
 

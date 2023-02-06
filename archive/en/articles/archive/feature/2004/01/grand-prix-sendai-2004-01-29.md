@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sendai-2004-01-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807162005id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sendai-2004-01-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-07 16:20:05+00:00"
-[_metadata_:publish_date]:- "2004-01-29"
 [_metadata_:description]:- "Magic: The Gathering Pro Tour – San Diego Qualifier March 20-21, 2004 日本語の案内ページ Trial Schedule The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events. TOURNAMENT FORMAT AND SCHEDULE The format for Grand Prix – Sendai is Mirrodin Block Limited"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-01-29"
 ---
 
 

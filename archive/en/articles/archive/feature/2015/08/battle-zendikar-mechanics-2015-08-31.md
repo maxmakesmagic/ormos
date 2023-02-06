@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160830232253id_/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-30 23:22:53+00:00"
-[_metadata_:publish_date]:- "2015-08-31"
 [_metadata_:description]:- "The new and returning mechanics of Battle for Zendikar."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-08-31"
 ---
 
 

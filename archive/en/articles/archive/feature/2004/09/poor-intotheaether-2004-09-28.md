@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/poor-intotheaether-2004-09-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203052823id_/https://magic.wizards.com/en/articles/archive/feature/poor-intotheaether-2004-09-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-03 05:28:23+00:00"
-[_metadata_:publish_date]:- "2004-09-28"
 [_metadata_:description]:- "Nate Heiss is a genius. I asked him to make this PDC combo deck that... wait, wait. I'm getting ahead of myself. Common KnowledgeIn the beginning of September, programmerman wrote me an e-mail to describe two weekly casual tournaments he thought might interest me. One was Thursday Online Magic Experience, or TOME, which I'll write about another day. The other was the Pauper"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-09-28"
 ---
 
 

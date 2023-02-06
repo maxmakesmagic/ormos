@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/team-clegg-decklists-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161229014720id_/http://magic.wizards.com/en/articles/archive/feature/team-clegg-decklists-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-29 01:47:20+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "[decklist] Title: Brock Parker 1 Ancient Spring 1 Crosis's Catacombs 6 Island 2 Plains 6 Swamps 2 Cavern Harpy 1 Dralnu's Pet 2 Faerie Squad 1 Metathran Zombie 1 Rainbow Crow 1 Samite Archer 2 Stormscape Familiar 2 Urborg Phantom 1 Volcano Imp 1Agonizing Demise 1 Cursed Flesh 1 Dream Thrush 1 Hypnotic Cloud 1 Ordered Migration 1 Reckless Spite 1 Recoil 1 Undermine 1 Void 1 Worldly Counsel [/decklist] [decklist]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

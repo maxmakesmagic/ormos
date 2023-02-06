@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pros-bloom-2009-01-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161217202247id_/http://magic.wizards.com/en/articles/archive/feature/pros-bloom-2009-01-08"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-17 20:22:47+00:00"
-[_metadata_:publish_date]:- "2009-01-08"
 [_metadata_:description]:- "[decklist] Title: Mike Long's Pros Bloom Format: Pro Tour-Paris 1997 4 Undiscovered Paradise 3 Bad River 7 Forest 6 Swamp 5 Island 4 Infernal Contract 4 Impulse 4 Vampiric Tutor 1 Three Wishes 2 Memory Lapse 1 Power Sink 1 Elven Cache 1 Emerald Charm 4 Cadaverous Bloom 4 Natural Balance 4 Squandered Resources 4 Prosperity 1 Drain Life *3 City of Solitude *4 Elephant Grass *1 Elven Cache *3 Emerald Charm *1 Memory Lapse"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-08"
 ---
 
 

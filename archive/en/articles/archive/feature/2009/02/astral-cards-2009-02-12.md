@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/astral-cards-2009-02-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190410230859id_/https://magic.wizards.com/en/articles/archive/feature/astral-cards-2009-02-12"
 [_metadata_:wayback_capture_timestamp]:- "2019-04-10 23:08:59+00:00"
-[_metadata_:publish_date]:- "2009-02-12"
 [_metadata_:description]:- "Many years ago, there was a MicroProse game for Magic: The Gathering. That game involved wandering around the plane of Shandalar and playing Magic against a variety of NPCs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-12"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kitakyushu-2013-trials-2013-01-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518073642id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kitakyushu-2013-trials-2013-01-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 07:36:42+00:00"
-[_metadata_:publish_date]:- "2013-01-17"
 [_metadata_:description]:- "Grand Prix Kitakyushu Trials will be run at Japan and APAC WPN locations from June 1, 2013 to August 11, 2013. Each awards the winner a two-round bye to Grand Prix Kitakyushu. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-17"
 ---
 
 

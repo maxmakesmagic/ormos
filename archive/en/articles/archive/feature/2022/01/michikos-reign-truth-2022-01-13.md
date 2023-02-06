@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/michikos-reign-truth-2022-01-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220113163424id_/https://magic.wizards.com/en/articles/archive/feature/michikos-reign-truth-2022-01-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-13 16:34:24+00:00"
-[_metadata_:publish_date]:- "2022-01-13"
 [_metadata_:description]:- "Take in more Kamigawan history with this beautiful depiction and story of Michiko, truth-bringer, healer, and unifier of the Plane."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-01-13"
 ---
 
 

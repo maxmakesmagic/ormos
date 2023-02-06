@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-release-notes-2016-03-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160330170344id_/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-release-notes-2016-03-30"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-30 17:03:44+00:00"
-[_metadata_:publish_date]:- "2016-03-30"
 [_metadata_:description]:- "The Release Notes include information concerning the release of a new Magic: The Gathering set, as well as a collection of clarifications and rulings involving that set’s cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-03-30"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cascade-swans-2009-05-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614082900id_/http://magic.wizards.com/en/articles/archive/feature/cascade-swans-2009-05-27"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-14 08:29:00+00:00"
-[_metadata_:publish_date]:- "2009-05-27"
 [_metadata_:description]:- "[decklist] Title: Parth Modi's Cascade Swans Format: Regionals 2009 4 Cascade Bluffs 4 Fire-Lit Thicket 4 Ghitu Encampment 4 Graven Cairns 1 Mountain 1 Mutavault 4 Reflecting Pool 4 Rugged Prairie 4 Spinerock Knoll 4 Treetop Village 4 Vivid Crag 4 Vivid Marsh 4 Bloodbraid Elf 4 Swans of Bryn Argoll 2 Ad Nauseam 4 Bituminous Blast 4 Seismic Assault *1 Ad Nauseam *2 Ajani Vengeant *2 Aura of Silence *1 Maelstrom Pulse"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-27"
 ---
 
 

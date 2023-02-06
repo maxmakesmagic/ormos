@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/peddler-roof-2012-12-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028000423id_/https://magic.wizards.com/en/articles/archive/feature/peddler-roof-2012-12-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 00:04:23+00:00"
-[_metadata_:publish_date]:- "2012-12-06"
 [_metadata_:description]:- "A month or so back, we mentioned a deck here at Daily Decks that took advantage of Nightshade Peddler. The seemingly harmless 1/1 from Avacyn Restored looked like it would make for some fun interactions and combos, but was not really poised to put up any real tournament finishes. Well, here it is just a few weeks later and Nightshade Peddler has become a real thing all of a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-12-06"
 ---
 
 

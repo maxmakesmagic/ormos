@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-masters-2012-11-15-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204204103id_/https://magic.wizards.com/en/articles/archive/feature/modern-masters-2012-11-15-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 20:41:03+00:00"
-[_metadata_:publish_date]:- "2012-11-15"
 [_metadata_:description]:- "229 Reprint Cards for the Modern Format, many with new art Cards are reprints from Eighth Edition through Alara Reborn  New never-before-printed tokens 15-card booster packs; one premium per pack Designed to be drafted 24 packs per box $6.99 MSRP English only, global distribution Conservative print run Twitter hashtag: #mtgmm  Card Image Gallery   Modern Masters Articles"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-11-15"
 ---
 
 

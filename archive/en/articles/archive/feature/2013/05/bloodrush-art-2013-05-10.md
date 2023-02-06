@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bloodrush-art-2013-05-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210729113640id_/https://magic.wizards.com/en/articles/archive/feature/bloodrush-art-2013-05-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-07-29 11:36:40+00:00"
-[_metadata_:publish_date]:- "2013-05-10"
 [_metadata_:description]:- "Were you to visit the plane of Ravnica you might continually be surprised by the utter size of many animals. For example, the Rubblebelt Maaka appears to be a simple predator cat, but in truth is actually thought to be a terrifyingly large fifteen feet nose to tail! See here in the art description for it. Show us a `Maaka` a type of giant, Ravnican cat. It is roughly 15' in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-worlds-podcasts-2011-11-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519174744id_/https://magic.wizards.com/en/articles/archive/feature/2011-worlds-podcasts-2011-11-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 17:47:44+00:00"
-[_metadata_:publish_date]:- "2011-11-17"
 [_metadata_:description]:- "Let Pro Tour Statisician Richard Hagon be your guide through the 2011 World Championships, the final Pro Tour of the 2011 season. If you're not a regular reader of event coverage, this is a great starting place to learn the top players and storylines that have shaped this season. With exclusive player interviews, analysis of deckbuilding strategies, explanations of formats and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-11-17"
 ---
 
 

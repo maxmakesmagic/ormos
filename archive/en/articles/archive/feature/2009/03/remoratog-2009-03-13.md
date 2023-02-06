@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/remoratog-2009-03-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124120428id_/https://magic.wizards.com/en/articles/archive/feature/remoratog-2009-03-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-24 12:04:28+00:00"
-[_metadata_:publish_date]:- "2009-03-13"
 [_metadata_:description]:- "[decklist] Title: Gerry Thompson's Psychatog Control Format: Vintage 2 Flooded Strand 6 Island 4 Polluted Delta 1 Swamp 3 Underground Sea 1 Inkwell Leviathan 2 Psychatog 2 Sower of Temptation 1 Ancestral Recall 1 Black Lotus 1 Brainstorm 3 Commandeer 1 Demonic Tutor 1 Echoing Truth 1 Fact or Fiction 4 Force of Will 4 Mana Drain 4 Meditate 1 Merchant Scroll 1 Mox Emerald 1 Mox"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-03-13"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-7-%E2%80%9Cand-winner-%E2%80%A6%E2%80%9D-2006-12-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170707061741id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-7-%E2%80%9Cand-winner-%E2%80%A6%E2%80%9D-2006-12-22"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-07 06:17:41+00:00"
-[_metadata_:publish_date]:- "2006-12-22"
 [_metadata_:description]:- "And then there were three. On Monday, December 18, the Final Three (Graeme Hopkins, Alexis Janson and Kenneth Nagle) were all flown out to Renton Washington for their interviews.  Here’s the itinerary I sent them before the trip:   The Great Designer SearchFinal Day Itinerary  8:30 – 9:30 – Tour Wizards of the Coast  Your tour guide will be Randy Buehler.  9:30 – 12:30 – The Gauntlet"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-12-22"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207103655id_/https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-02-07 10:36:55+00:00"
-[_metadata_:publish_date]:- "2018-07-27"
 [_metadata_:description]:- "Want to know which Commander (2018 Edition) deck contains the cards you're most excited about? Blake has the sweet knowledge you crave."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-07-27"
 ---
 
 

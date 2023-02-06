@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-5"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005253id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-5"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:53+00:00"
-[_metadata_:publish_date]:- "2010-11-03"
 [_metadata_:description]:- "NAME: Daniel WilliamsMULTIPLE CHOICE SCORE: 44ESSAYS:1. Introduce yourself and explain why you are a good fit for this internship.My name is Daniel Williams and designing cards for Magic is my dream job. I've been playing the game since Judgment and have been creating custom cards for nearly that long. Often as I roamed the cotton fields of South Georgia (USA) as part of my"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-11-03"
 ---
 
 

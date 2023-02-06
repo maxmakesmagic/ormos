@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kitakyushu-event-information-2009-09-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121155347id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kitakyushu-event-information-2009-09-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 15:53:47+00:00"
-[_metadata_:publish_date]:- "2009-09-14"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: October 31-November 1, 2009 Format: Zendikar Sealed Deck / Booster Draft Tournament Location West Japan Industry and Trade Convention Center 3-8-1 Asano, Kokurakita-ku Kitakyushu-shi, Fukuoka-ken Web Site Registration: Friday, October 30: 16:00-20:00, ¥3000 Saturday,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-14"
 ---
 
 

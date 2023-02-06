@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-grand-prix-schedule-announced-2010-10-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210417182016id_/https://magic.wizards.com/en/articles/archive/feature/2011-grand-prix-schedule-announced-2010-10-22"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-17 18:20:16+00:00"
-[_metadata_:publish_date]:- "2010-10-22"
 [_metadata_:description]:- "Wizards of the Coast is excited to announce the 2011 Grand Prix schedule, featuring 20 events across 13 different countries.The first combined Grand Prix and Pro Tour at Magic Weekend Paris highlights the season, along with a return to China and Latin America and events in always-popular Kobe, Singapore, Amsterdam, Montreal, and San Diego. Formats will include six Standard,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-10-22"
 ---
 
 

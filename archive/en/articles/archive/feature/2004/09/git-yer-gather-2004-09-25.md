@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/git-yer-gather-2004-09-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526114218id_/https://magic.wizards.com/en/articles/archive/feature/git-yer-gather-2004-09-25"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:42:18+00:00"
-[_metadata_:publish_date]:- "2004-09-25"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Here we are again, hot off the heels of the Champions of Kamigawa prereleases. We're going to take a trip down to Portland, Oregon for questions off the prerelease floor. After"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-09-25"
 ---
 
 

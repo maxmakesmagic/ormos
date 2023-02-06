@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ascension-begins-2005-05-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516053136id_/https://magic.wizards.com/en/articles/archive/feature/ascension-begins-2005-05-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 05:31:36+00:00"
-[_metadata_:publish_date]:- "2005-05-14"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.The Kamigawa block constructed Pro Tour is one week behind us, and next weekend is the Saviors of Kamigawa prerelease. If PT Philadelphia was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-05-14"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-2014-trials-2013-09-14-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201075536id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-2014-trials-2013-09-14-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-01 07:55:36+00:00"
-[_metadata_:publish_date]:- "2013-09-14"
 [_metadata_:description]:- "Grand Prix Kuala Lumpur Trials will be run at Asia Pacific and Japan WPN locations from November 2, 2013 to January 12, 2014. Each awards the winner a two-round bye to Grand Prix Kuala Lumpur. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-14"
 ---
 
 

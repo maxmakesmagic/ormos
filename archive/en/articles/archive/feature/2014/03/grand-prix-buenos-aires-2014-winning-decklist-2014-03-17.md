@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-buenos-aires-2014-winning-decklist-2014-03-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810083349id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-buenos-aires-2014-winning-decklist-2014-03-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-10 08:33:49+00:00"
-[_metadata_:publish_date]:- "2014-03-17"
 [_metadata_:description]:- "Congratulations to Philippe Monlevade, winner of Grand Prix Buenos Aires 2014!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-03-17"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-6-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524041217id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-6-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 04:12:17+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler Marc Hernandez and Adrian Sullivan showed off two of the funkiest decks in the field during the 6th round of feature matches. Hernandez ran a blue/white Cowardice deck with Jolting Merfolk and Defender en-Vec as easy ways to target his opponent's creatures and thus unsummon them. Once any of his faders started to run out of fading counters he would just have"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-trials-2003-12-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812220815id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-trials-2003-12-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 22:08:15+00:00"
-[_metadata_:publish_date]:- "2003-12-22"
 [_metadata_:description]:- "Entry Fee: Varies by location. Contact organizer for detailsTournament Structure: Modified SwissTournament Format: Mirrodin Block Limited, with Top 8 Booster DraftPrizes: At least 1 third-round bye at each tournament, plus product prizes determined by organizer.State/ProvinceCityDate3-round byesLocationAddressContact PhoneWebsiteAlbertaCalgary1/18/20041Phoenix Comics1010-16th"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-12-22"
 ---
 
 

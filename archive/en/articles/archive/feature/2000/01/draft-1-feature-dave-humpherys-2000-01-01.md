@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-1-feature-dave-humpherys-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516153153id_/https://magic.wizards.com/en/articles/archive/feature/draft-1-feature-dave-humpherys-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 15:31:53+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by J. Gary Wise Considered by many prognosticators to be an odds on favorite to make the US National team, Dave Humpherys of Your Move Games, who made top 8 at last year's championships, looks to be on his way to another strong showing her in Orlando. Sitting at a table without another established star, Humpherys sat down with what appeared to be a let-the-best-card-decide-it"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

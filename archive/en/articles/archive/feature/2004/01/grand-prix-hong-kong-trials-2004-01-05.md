@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-hong-kong-trials-2004-01-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027203235id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-hong-kong-trials-2004-01-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:32:35+00:00"
-[_metadata_:publish_date]:- "2004-01-05"
 [_metadata_:description]:- "CountryDateCityByes=3VenueContactChina10-Jan-04Beijing 1Beijing Saibo Diannao Guangchanglegendtony@elong.comChina10-Jan-04Guangzhou1Guangzhou Chuangmenjie Shopgeorgeli@163.netChina10-Jan-04Shanghai1Shanghai Huangpu Children's Palacesagitta@21cn.comChina31-Jan-04Shenzhen1Shenzhen Pinzang Coffee Barbraveskf@21cn.comChina31-Jan-04Tianjin1Tianjin Saobo Shuoma"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-01-05"
 ---
 
 

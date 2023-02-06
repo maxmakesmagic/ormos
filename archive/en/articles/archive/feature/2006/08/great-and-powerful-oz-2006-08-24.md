@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-and-powerful-oz-2006-08-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201522id_/https://magic.wizards.com/en/articles/archive/feature/great-and-powerful-oz-2006-08-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:15:22+00:00"
-[_metadata_:publish_date]:- "2006-08-24"
 [_metadata_:description]:- "A couple weeks ago I took at trip down a bright golden road. No, not the Yellow Brick Road, but the wondrous walk known as Imagination Lane. I sauntered down the lane, taking in the scenery and an ice cream cone, thinking about the Protean Hulk. The article, The Incredible Hulk, was an exploration into the nitty-gritty surrounding the flavor of the egg-toting beast. (If you"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-08-24"
 ---
 
 

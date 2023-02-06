@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-and-oath-live-2016-12-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161216191644id_/http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-and-oath-live-2016-12-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-16 19:16:44+00:00"
-[_metadata_:publish_date]:- "2016-12-15"
 [_metadata_:description]:- "Blake has decklists (and more!) to help you end the Standard Showdown on a high note."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-12-15"
 ---
 
 

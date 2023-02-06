@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guildpact-2008-08-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128085445id_/https://magic.wizards.com/en/articles/archive/feature/guildpact-2008-08-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 08:54:45+00:00"
-[_metadata_:publish_date]:- "2008-08-07"
 [_metadata_:description]:- "Collector's Highlights Guildpact features 165 cards, with randomly-inserted premium cards. It will be available in booster packs, theme decks, and Fat Packs (which include six booster packs, the novel, a player's guide, and much more). Novel Guildpact: The Ravnica Cycle, Book II by Cory J. Herndon One guild ravages the streets. Teysa leads another to `cleanse` them. And Agrus"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-07"
 ---
 
 

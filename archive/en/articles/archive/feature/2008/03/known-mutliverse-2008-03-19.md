@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/known-mutliverse-2008-03-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160503090805id_/http://magic.wizards.com/en/articles/archive/feature/known-mutliverse-2008-03-19"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-03 09:08:05+00:00"
-[_metadata_:publish_date]:- "2008-03-19"
 [_metadata_:description]:- "There are some words that I mistype no matter how many times I type them. After working on Magic for over a decade, you'd think that I could type `creature` without a hitch, but it comes out `creatuer` about half the time. And when I try to type `Multiverse,` I end up with `Mutliverse` way too often."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-03-19"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-results-table-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701212626id_/https://magic.wizards.com/en/articles/archive/feature/round-5-results-table-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-01 21:26:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult OpponentP-Kies030vs.Potato PeachNISIKI210vs.OO PartsObjects120vs.SusiyanDeath Crimson030vs.Scrambled SteakTokyo Butties030vs.Team 25:17www.alphabetaunlimited.com300vs.Team ShinjoDERAPIN111vs.Team PPBYanitetsu300vs.CrimsonTeam Imabiki030vs.RegnevaDEFENCER Minor210vs.Team Emon StaffTeam Magicschool030vs.Team ApprenticeATOK201vs.SAWAYAKADekiru-Kana?210vs.SutPoor"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/going-rogue-%E2%80%93-shards-alara-edition-2008-12-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221004124049id_/https://magic.wizards.com/en/articles/archive/feature/going-rogue-%E2%80%93-shards-alara-edition-2008-12-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-10-04 12:40:49+00:00"
-[_metadata_:publish_date]:- "2008-12-01"
 [_metadata_:description]:- "Welcome back to the latest installment of Going Rogue, the column that doesn't just play to win—it likes to win in surprising new ways, turning some of the cards sat at the back of your binder straight from zero to hero at a local tournament near you. Between the release of Shards of Alara and some fun times at Pro Tour–Berlin last month, there have been a lot of ideas buzzing"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-01"
 ---
 
 

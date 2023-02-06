@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-series-preview-what-deck-2019-05-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190504191311id_/https://magic.wizards.com/en/articles/archive/feature/new-series-preview-what-deck-2019-05-03"
 [_metadata_:wayback_capture_timestamp]:- "2019-05-04 19:13:11+00:00"
-[_metadata_:publish_date]:- "2019-05-03"
 [_metadata_:description]:- "Join Sean `Day[9]` Plott for a brand-new series of no-stakes competition on Twitch using zany user-submitted decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-05-03"
 ---
 
 

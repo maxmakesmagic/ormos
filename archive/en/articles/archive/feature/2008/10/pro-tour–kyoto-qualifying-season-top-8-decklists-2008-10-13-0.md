@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-10-13-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119150827id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-10-13-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 15:08:27+00:00"
-[_metadata_:publish_date]:- "2008-10-13"
 [_metadata_:description]:- "Thanks to tournament organizer Brennan Moody for the decklists."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-13"
 ---
 
 

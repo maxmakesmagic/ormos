@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-las-vegas-participation-capped-2013-06-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522072259id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-las-vegas-participation-capped-2013-06-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 07:22:59+00:00"
-[_metadata_:publish_date]:- "2013-06-20"
 [_metadata_:description]:- "With roughly 4,000 players already preregistered for Grand Prix Las Vegas, this event is going to be the largest Magic: The Gathering event ever, blowing all expectations out of the water. While Cascade Games is excited to be running the largest Magic tournament ever, they are also aware that they must still provide an excellent experience for all who attend the event. With"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-20"
 ---
 
 

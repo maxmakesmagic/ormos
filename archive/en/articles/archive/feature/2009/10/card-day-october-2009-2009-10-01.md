@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-october-2009-2009-10-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526000819id_/https://magic.wizards.com/en/articles/archive/feature/card-day-october-2009-2009-10-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 00:08:19+00:00"
-[_metadata_:publish_date]:- "2009-10-01"
 [_metadata_:description]:- "All Hallow's Eve – Legends rare. All Hallow's Eve was originally printed as a sorcery, errata-ed to an enchantment, and then turned back into a sorcery that used the technology from the suspend mechanic. However, instead of suspend's time counters, All Hallow's Eve goes for flavor with scream counters. Incremental Growth – Lorwyn uncommon. Incremental Growth is part of a loose"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-01"
 ---
 
 

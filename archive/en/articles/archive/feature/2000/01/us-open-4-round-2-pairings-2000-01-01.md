@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-4-round-2-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523143022id_/https://magic.wizards.com/en/articles/archive/feature/us-open-4-round-2-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 14:30:22+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Accardi, Anthony ( 30) 0 29 Bunkley, Randy ( 37) 0 Au, Scott ( 47) 1 49 Luchette, Jack ( 79) 0 Baumgartner, David ( 36) 0 50 Robinson, Trey ( 9) 0 Brown, Jason ( 46) 0 45 Henry, Jason ( 75) 1 Buck, Alex ( 21) 0 *** BYE *** Buddensick, Dan ( 32) 0 25 Lawing, Rob ( 58) 0 Bunkley, Randy ( 37) 0 29 Accardi, Anthony ( 30) 0 Burn, Seth ( 65) 0 37"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

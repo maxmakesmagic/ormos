@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-may-2-8-2009-05-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122062730id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-may-2-8-2009-05-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-22 06:27:30+00:00"
-[_metadata_:publish_date]:- "2009-05-08"
 [_metadata_:description]:- "May 6-8, 2005: Gadiel Szleifer Takes Back Sunday!Traditionally a Magic powerhouse, the United States hadn't won a single Pro Tour in 2005 when the Pro Tour came to Philadelphia in 2005."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-08"
 ---
 
 

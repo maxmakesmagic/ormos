@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-53-2003-11-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119220124id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-53-2003-11-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 22:01:24+00:00"
-[_metadata_:publish_date]:- "2003-11-22"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at saturdayschool@horvik.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Mirrodin QuestionsQ: If I imprint a Muscle Burst on Isochron Scepter, will the second part of the effect work with the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-11-22"
 ---
 
 

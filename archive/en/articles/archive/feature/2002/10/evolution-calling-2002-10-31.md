@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/evolution-calling-2002-10-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170325175506id_/http://magic.wizards.com/en/articles/archive/feature/evolution-calling-2002-10-31"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-25 17:55:06+00:00"
-[_metadata_:publish_date]:- "2002-10-31"
 [_metadata_:description]:- "Some prerequisite reading is needed for today's article. First, check out Bennie Smith's Onslaught"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-10-31"
 ---
 
 

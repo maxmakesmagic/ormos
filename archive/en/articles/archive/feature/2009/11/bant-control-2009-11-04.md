@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bant-control-2009-11-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812004233id_/https://magic.wizards.com/en/articles/archive/feature/bant-control-2009-11-04"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 00:42:33+00:00"
-[_metadata_:publish_date]:- "2009-11-04"
 [_metadata_:description]:- "[decklist] Title: Matthew Cerino's Bant Control Format: 3rd Place - Pennsylvania - Doylestown - Cyborg One (Standard) 4 Glacial Fortress 4 Sunpetal Grove 4 Misty Rainforest 4 Forest 4 Island 4 Plains 4 Rhox War Monk 4 Baneslayer Angel 4 Noble Hierarch 2 Sphinx of Jwar Isle 3 Rafiq of the Many 3 Wall of Reverence 3 Bant Charm 4 Path to Exile 3 Elspeth, Knight-Errant 4 Negate 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-11-04"
 ---
 
 

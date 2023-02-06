@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/talrands-haunting-2013-07-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525162452id_/https://magic.wizards.com/en/articles/archive/feature/talrands-haunting-2013-07-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 16:24:52+00:00"
-[_metadata_:publish_date]:- "2013-07-12"
 [_metadata_:description]:- "Apparently I'm on a tokens kick this week, but I really like the look of this list. It was played to 3–1 in a Daily Event by HelloHouseplant (hello!), and plays a lot of cards I like playing with. Despite playing the same base as many other blue decks (Snapcaster Mage and Augur of Bolas), this deck uses them to power out a variety of token-making cards, finishing the game with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-12"
 ---
 
 

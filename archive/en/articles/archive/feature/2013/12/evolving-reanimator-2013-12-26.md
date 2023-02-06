@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/evolving-reanimator-2013-12-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160715053504id_/http://magic.wizards.com/en/articles/archive/feature/evolving-reanimator-2013-12-26"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-15 05:35:04+00:00"
-[_metadata_:publish_date]:- "2013-12-26"
 [_metadata_:description]:- "As we celebrate the holidays, we're bringing you some of our favorite decks from throughout the year.  Enjoy these fun flashbacks into last year’s favorites.  Wizards of the Coast Staff"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-12-26"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-5"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527041024id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-5"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 04:10:24+00:00"
-[_metadata_:publish_date]:- "2003-06-26"
 [_metadata_:description]:- "NameLocationCityPhonePresident Hotel Athens Athens3606488Patriarchou Ioakeom 8 Thessaloniki31257397Koumoumdourou 22 Larisa41537337Kydonias 108 Hania Hania82188996Tsolaki 7 Kavala Kavala Ag. Aikaterinis 41 Herakleio Herakleio81285659Ag. Andrea 44 Patras Patra Leto Hotel Halkida Komninon & Palaiologou Alexandroupoli2551081353"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-06-26"
 ---
 
 

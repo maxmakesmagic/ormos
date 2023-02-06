@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tempest-blue-2010-01-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811020843id_/https://magic.wizards.com/en/articles/archive/feature/tempest-blue-2010-01-26"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-11 02:08:43+00:00"
-[_metadata_:publish_date]:- "2010-01-26"
 [_metadata_:description]:- "[decklist] Title: DoctorPenick's Tempest Blue Format: Tempest Block Constructed 18 Island 4 Stalking Stones 4 Wasteland 1 Ertai, Wizard Adept 4 Hammerhead Shark 4 Rootwater Hunter 4 Tradewind Rider 4 Capsize 4 Counterspell 1 Dismiss 4 Forbid 4 Legacy's Allure 4 Whispers of the Muse *2 Bottle Gnomes *4 Chill *2 Dismiss *1 Ertai, Wizard Adept *2 Propaganda *2 Thalakos Drifters"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-26"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-trash-aaa-vs-team-vintara-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527074301id_/https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-trash-aaa-vs-team-vintara-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 07:43:01+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Alessio Angeli of Team Vintara) vs. Team Trash AAA's Jakub SlemrTrash AAA: Jakub Slemr Tomas Kosicka Jaroslav SitaTeam Vintara: Alessio Angeli Gianluca Bevere David BeduzziTeam Vintara is an Italian team who has had a great day so far today and is hoping to carry that performance well into the second day. They are now facing a team that includes a former World Champion, Jakub"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

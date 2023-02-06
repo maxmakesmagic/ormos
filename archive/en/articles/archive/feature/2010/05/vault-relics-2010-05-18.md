@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-relics-2010-05-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203043529id_/https://magic.wizards.com/en/articles/archive/feature/vault-relics-2010-05-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-03 04:35:29+00:00"
-[_metadata_:publish_date]:- "2010-05-18"
 [_metadata_:description]:- "All powerful. All famous. All incredibly rare. These are some of the mightiest weapons of the Planeswalkers. From the Vault: Relics contains fifteen battle-tested artifacts, culled from throughout the history of Magic: The Gathering."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-18"
 ---
 
 

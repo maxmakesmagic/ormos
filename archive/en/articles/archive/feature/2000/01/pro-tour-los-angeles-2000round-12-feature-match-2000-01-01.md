@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-12-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126175028id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-12-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:50:28+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler David Bachmann and Mike Long had never met in the Pro Tour until today. A crowd gathered to watch including Chris Pikula, who commented `I'm rooting or the double DQ.` Always good for a laugh or a story, Chris also looked over at the next feature match table and wondered aloud `Pete Leiher and the Daddy [John Yoo]? Is that on the Senior's Tour?!` Before the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

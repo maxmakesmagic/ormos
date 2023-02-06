@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/old-favorite-2014-02-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811144311id_/https://magic.wizards.com/en/articles/archive/feature/old-favorite-2014-02-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-11 14:43:11+00:00"
-[_metadata_:publish_date]:- "2014-02-12"
 [_metadata_:description]:- "Ok, so maybe `favorite` isn't the right word. I'm once against featuring Patrick Chapin's decklist this week, since he did an amazing job cranking out decklists for Born of the Gods Standard. One of his lists was a Bant Hexproof redux, although this version looks much fairer than previous versions with Invisible Stalker and Geist of Saint Traft. Instead, this deck features"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-12"
 ---
 
 

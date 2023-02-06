@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nightmares-devotion-2014-04-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816231607id_/https://magic.wizards.com/en/articles/archive/feature/nightmares-devotion-2014-04-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 23:16:07+00:00"
-[_metadata_:publish_date]:- "2014-04-08"
 [_metadata_:description]:- "After falling off for a bit, `Mono-Black` Devotion is back! As it turns out, splashing red and splashing blue are both options that help Mono-Black reclaim its top spot in today's metagame. Last week, I covered Eric Froehlich's BR Devotion, and today I have Tamás Glied's UB Devotion. Under the screen name Mazuku94, Glied ran the tables with his version of devotion at the Magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-08"
 ---
 
 

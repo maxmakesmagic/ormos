@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-cards-2019-12-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200102190436id_/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-cards-2019-12-16"
 [_metadata_:wayback_capture_timestamp]:- "2020-01-02 19:04:36+00:00"
-[_metadata_:publish_date]:- "2019-12-16"
 [_metadata_:description]:- "Theros Beyond Death cards come with important story moments. We'll collect those here throughout the preview season, so check back often!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-12-16"
 ---
 
 

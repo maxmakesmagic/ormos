@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fate-reforged-release-notes-2015-01-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150118050054id_/http://magic.wizards.com/en/articles/archive/feature/fate-reforged-release-notes-2015-01-14"
 [_metadata_:wayback_capture_timestamp]:- "2015-01-18 05:00:54+00:00"
-[_metadata_:publish_date]:- "2015-01-14"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "General and card-specific notes clarifying common rules questions."
+[_metadata_:publish_date]:- "2015-01-14"
 ---
 
 

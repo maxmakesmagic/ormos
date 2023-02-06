@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalker-points-achievements-and-badges-beta-launches-2012-08-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160329133552id_/http://magic.wizards.com/en/articles/archive/feature/planeswalker-points-achievements-and-badges-beta-launches-2012-08-02"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-29 13:35:52+00:00"
-[_metadata_:publish_date]:- "2012-08-02"
 [_metadata_:description]:- "Why do we play games? I think it's primarily because we want to have fun and long-lasting experiences. That sense of long-lasting fun comes from learning the games' rules, competing within them, and eventually succeeding. Winning is just one way to succeed when you play a game. Any time we experience moments of discovery or accomplishment, that's success—and those moments stick with us and give us stories to tell long after the gaming session ends."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-02"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/covering-basics-2005-04-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814212653id_/https://magic.wizards.com/en/articles/archive/feature/covering-basics-2005-04-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-14 21:26:53+00:00"
-[_metadata_:publish_date]:- "2005-04-16"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.GP Detroit and GP Lisbon are a week away. Pro Tour Philadelphia is just around the corner, and shortly after that is the prerelease for Saviors"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-04-16"
 ---
 
 

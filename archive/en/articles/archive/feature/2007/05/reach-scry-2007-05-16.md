@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reach-scry-2007-05-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126231654id_/https://magic.wizards.com/en/articles/archive/feature/reach-scry-2007-05-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 23:16:54+00:00"
-[_metadata_:publish_date]:- "2007-05-16"
 [_metadata_:description]:- "Howdy, Johnnies. It's Scry Week! I bet you didn't see that coming. Though I guess if you'd read any of the Monday or Tuesday columns, the theme isn't much of a revelation. Still, you might be wondering how the Johnny column is supposed to handle a mechanic like scry, which by all accounts is a certified Spike mechanic.Fortunately, as Mark wrote on Monday, scry has become more"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-05-16"
 ---
 
 

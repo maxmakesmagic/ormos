@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120170825id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:08:25+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Larkin John 31 64.7487 2 Rubin Ben 30 60.9722 3 Hunka John 30 57.9034 4 Eskeland Sigurd 29 67.6918 5 Cornelissen Kamiel 28 66.0979 6 Bregoli Mike 28 55.2513 7 Jensen William 27 61.4749 8 Marsh Warren 27 61.3757 9 Globus Mark 27 61.3095 10 Kettil Mattias 27 58.2341 11 Blackwell Trevor 26 60.6481 12 McCord Scott 26 59.3915 13 Turning Travis G 26"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

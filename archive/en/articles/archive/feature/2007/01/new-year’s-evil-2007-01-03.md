@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-year%E2%80%99s-evil-2007-01-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118070208id_/https://magic.wizards.com/en/articles/archive/feature/new-year%E2%80%99s-evil-2007-01-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 07:02:08+00:00"
-[_metadata_:publish_date]:- "2007-01-03"
 [_metadata_:description]:- "Welcome back to House of Cards! It's been a while, Johnnies. I haven't seen you since 2006 – a whole year! I hope everyone enjoyed the break, the holidays, and the weird things that have been happening on the site since Monday. I had a wonderful time with family and friends the past couple weeks. My only disappointment came from the fact that this year I found a lump of coal"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-01-03"
 ---
 
 

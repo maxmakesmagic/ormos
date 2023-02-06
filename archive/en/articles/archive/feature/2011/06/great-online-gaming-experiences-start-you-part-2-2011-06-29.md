@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-online-gaming-experiences-start-you-part-2-2011-06-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521124328id_/https://magic.wizards.com/en/articles/archive/feature/great-online-gaming-experiences-start-you-part-2-2011-06-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 12:43:28+00:00"
-[_metadata_:publish_date]:- "2011-06-29"
 [_metadata_:description]:- "Last week, we discussed how you can protect yourself and your personal information (See Part 1 of this series). This week, we’re focusing on scams and taking steps to ensure you don’t become a victim. Be Wary of Websites That Offer Magic Online `Cheats` There are several informational websites out there for Magic players and fans, including Wizards of the Coast’s official"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-29"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/baxters-prison-2009-04-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023225457id_/https://magic.wizards.com/en/articles/archive/feature/baxters-prison-2009-04-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 22:54:57+00:00"
-[_metadata_:publish_date]:- "2009-04-29"
 [_metadata_:description]:- "[decklist] Title: George Baxter's Prison Format: Early Standard 3 Adarkar Wastes 4 Brushland 1 City of Brass 1 Forest 3 Mishra's Factory 7 Plains 4 Strip Mine 1 Deadly Insect 3 Aeolipile 2 Armageddon 1 Balance 1 Black Vise 2 Disenchant 3 Divine Offering 4 Fellwar Stone 4 Icy Manipulator 1 Land Tax 4 Serrated Arrows 4 Swords to Plowshares 1 Sylvan Library 2 Titania's Song 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-29"
 ---
 
 

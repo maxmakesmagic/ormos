@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/house-rules-compendium-2010-08-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161109024343id_/http://magic.wizards.com/en/articles/archive/feature/house-rules-compendium-2010-08-09"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-09 02:43:43+00:00"
-[_metadata_:publish_date]:- "2010-08-09"
 [_metadata_:description]:- "There's never been `one true way` to play Magic. From the very beginning, there have been numerous house rules, homebrew formats, and unique play variants that filter through the community until no one is quite sure of their origin."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-08-09"
 ---
 
 

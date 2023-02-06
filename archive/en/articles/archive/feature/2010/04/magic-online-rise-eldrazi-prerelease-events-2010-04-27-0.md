@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-rise-eldrazi-prerelease-events-2010-04-27-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022232843id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-rise-eldrazi-prerelease-events-2010-04-27-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 23:28:43+00:00"
-[_metadata_:publish_date]:- "2010-04-27"
 [_metadata_:description]:- "In their quest to uncover ancient treasures, Planeswalkers have awakened the Eldrazi—parasitic titans of the Æther, imprisoned on Zendikar for thousands of years. Seemingly unstoppable, these world-eaters threaten the entire Multiverse, and their very presence has changed everything you know about Zendikar. To survive, you’ll have to be at the very top of your game. Play in a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-04-27"
 ---
 
 

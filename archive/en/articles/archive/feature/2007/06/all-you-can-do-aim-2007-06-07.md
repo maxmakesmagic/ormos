@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/all-you-can-do-aim-2007-06-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207152936id_/https://magic.wizards.com/en/articles/archive/feature/all-you-can-do-aim-2007-06-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-07 15:29:36+00:00"
-[_metadata_:publish_date]:- "2007-06-07"
 [_metadata_:description]:- "In two days, it will be time once again for U.S. Regionals. These tournaments are some of the most highly anticipated (largely) amateur tournaments every year, with the top four finishers in each of several tournaments receiving an invitation to the 2007 U.S. National Championship. The format, as ever, will be Standard. As with basically every Standard tournament since, say"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-06-07"
 ---
 
 

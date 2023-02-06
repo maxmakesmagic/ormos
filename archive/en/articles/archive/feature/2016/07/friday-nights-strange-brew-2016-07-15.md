@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-strange-brew-2016-07-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160718060256id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-strange-brew-2016-07-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-18 06:02:56+00:00"
-[_metadata_:publish_date]:- "2016-07-15"
 [_metadata_:description]:- "Alex solves the already-solved mystery, Kathleen tries to prep the team for the Prerelease, and Paul creates a, well, strange brew."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-07-15"
 ---
 
 

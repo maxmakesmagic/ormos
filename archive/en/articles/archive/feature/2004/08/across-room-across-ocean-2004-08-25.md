@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/across-room-across-ocean-2004-08-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204080311id_/https://magic.wizards.com/en/articles/archive/feature/across-room-across-ocean-2004-08-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 08:03:11+00:00"
-[_metadata_:publish_date]:- "2004-08-25"
 [_metadata_:description]:- "Before we get into this week's PTQ Top 8 coverage and analysis, let us pause a moment to go over an open question from last week's Is There Any Doubt?. Many readers of this column were wondering about why a card like Aether Vial is useful. To their eyes, Aether Vial doesn't necessarily make a lot of sense, especially for tapping out big beaters like Myr Enforcer, in some cases"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-08-25"
 ---
 
 

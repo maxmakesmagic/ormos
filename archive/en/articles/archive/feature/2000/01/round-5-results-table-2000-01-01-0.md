@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-results-table-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707180126id_/https://magic.wizards.com/en/articles/archive/feature/round-5-results-table-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-07 18:01:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team Result Opponent Metagames/LNT 300 vs. trash AAA gotta catch Kai 120 vs. Two men and a baby ! one day fly 210 vs. Team Clegg Amsterdam 021 vs. Angstschreeuw Stuchkaccolites * 210 vs. Birds of paradise Pannaburst 120 vs. Black-Ops AlphaBetaUnlimited.com 210 vs. The Feebles Triumviri 120 vs. Is on my mind * Babar Team * 210 vs. library of alexandria 2 Cosmopolitan 210 vs. I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

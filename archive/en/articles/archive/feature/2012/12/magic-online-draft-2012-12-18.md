@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-draft-2012-12-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020203634id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-draft-2012-12-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 20:36:34+00:00"
-[_metadata_:publish_date]:- "2012-12-18"
 [_metadata_:description]:- "All this week we're featuring recent successful decks from Magic Online. Today's Daily Deck was piloted by tomy_vercety, who won a PTQ. See more at the `Draft` article. If you'd like to compete in a Magic Online PTQ as well, download Magic Online today!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-12-18"
 ---
 
 

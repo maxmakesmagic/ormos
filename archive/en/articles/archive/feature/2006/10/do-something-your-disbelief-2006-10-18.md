@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/do-something-your-disbelief-2006-10-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121084134id_/https://magic.wizards.com/en/articles/archive/feature/do-something-your-disbelief-2006-10-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 08:41:34+00:00"
-[_metadata_:publish_date]:- "2006-10-18"
 [_metadata_:description]:- "Greetings, Johnnies and Johnnies-in-waiting! It's Suspend Week here at magicthegathering.com, and I have to say, you're in for a treat. To better serve your thematic needs, I decided that this week I would embody the theme. Instead of doing what I usually do when I write this column (doing all the work at once, right around the time it needs to be done), I figured I would try"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-10-18"
 ---
 
 

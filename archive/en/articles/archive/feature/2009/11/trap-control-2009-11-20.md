@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/trap-control-2009-11-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812113156id_/https://magic.wizards.com/en/articles/archive/feature/trap-control-2009-11-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 11:31:56+00:00"
-[_metadata_:publish_date]:- "2009-11-20"
 [_metadata_:description]:- "[decklist] Title: Rainin6's Trap Control Format: Zendikar Block Constructed 3 Arid Mesa 3 Forest 3 Graypelt Refuge 2 Island 4 Misty Rainforest 3 Plains 4 Sejiri Refuge 2 Verdant Catacombs 4 Grazing Gladehart 3 Iona, Shield of Emeria 3 Rampaging Baloths 2 Sphinx of Jwar Isle 3 Sphinx of Lost Truths 4 Day of Judgment 4 Harrow 4 Journey to Nowhere 4 Khalni Heart Expedition 2 Rite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-11-20"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/heartless-rites-2012-02-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160820232700id_/http://magic.wizards.com/en/articles/archive/feature/heartless-rites-2012-02-21"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-20 23:27:00+00:00"
-[_metadata_:publish_date]:- "2012-02-21"
 [_metadata_:description]:- "At the StarCityGames.com Open Series in Charlotte this past weekend, rogue deck builder Ali Aintrazi unveiled his latest concoction. Pushing together parts from both the Heartless Summoning deck and the French Reanimator deck, Ali added a little of his own deck-building seasoning and came up with a unique five-color Heartless Summoning reanimator deck!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-02-21"
 ---
 
 

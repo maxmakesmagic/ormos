@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/anticipating-varolz-modern-2013-12-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819103403id_/https://magic.wizards.com/en/articles/archive/feature/anticipating-varolz-modern-2013-12-31"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 10:34:03+00:00"
-[_metadata_:publish_date]:- "2013-12-31"
 [_metadata_:description]:- "As we celebrate the holidays, we're bringing you some of our favorite decks from throughout the year. Enjoy these fun flashbacks into last year’s favorites. Wizards of the Coast Staff Recently, osmanozguney finished 3–1 in a Modern Daily event with a black-green aggro deck with Death's Shadow that used Dark Confidant, Overgrown Tomb, fetch lands, Putrid Leech, Thoughtseize,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-12-31"
 ---
 
 

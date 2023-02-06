@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-avacyn-restored-event-information-2012-03-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021175911id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-avacyn-restored-event-information-2012-03-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 17:59:11+00:00"
-[_metadata_:publish_date]:- "2012-03-28"
 [_metadata_:description]:- "Fira de Barcelona - Montjuic May 11-13, 2012 The second Pro Tour of 2012 comes to Barcelona and features the debut of the new Avacyn Restored set on the premier-play stage. The top players from around the world will be in Barcelona to battle for fame, glory, and cash prizes in the Innistrad-Avacyn Restored Block Constructed and Avacyn Restored Booster Draft formats. Tune in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-28"
 ---
 
 

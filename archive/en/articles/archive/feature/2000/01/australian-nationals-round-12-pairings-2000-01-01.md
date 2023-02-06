@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-12-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520115226id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-12-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 11:52:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Table Opponent Adams, Joel ( 15) 20 Shanley, Glenn ( 13) Ansell, Robert ( 31) 21 Thorpe, Hamish ( 9) Bandas, Jim ( 80) 19 Nelson, Matthew ( 76) Bow, Frankie ( 83) 10 Bray, Jonathan ( 70) Bray, Jonathan ( 70) 10 Bow, Frankie ( 83) Brebach, Kim ( 32) 4 McGann, Cael ( 37) Brugman, John ( 41) 7 Chan, Jonathan ( 54) Campbell, Stephen ( 69) 1 West, Justin ( 8) Chan, Jonathan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

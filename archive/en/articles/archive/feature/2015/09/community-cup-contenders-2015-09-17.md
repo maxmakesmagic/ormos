@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/community-cup-contenders-2015-09-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150919231957id_/http://magic.wizards.com/en/articles/archive/feature/community-cup-contenders-2015-09-17"
 [_metadata_:wayback_capture_timestamp]:- "2015-09-19 23:19:57+00:00"
-[_metadata_:publish_date]:- "2015-09-17"
 [_metadata_:description]:- "Yichao recently spent some time infiltrating the Community team, and he's here to report all their deepest, darkest secrets."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-09-17"
 ---
 
 

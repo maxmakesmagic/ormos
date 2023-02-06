@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-malm%C3%B6-2006-06-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221007062550id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-malm%C3%B6-2006-06-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-10-07 06:25:50+00:00"
-[_metadata_:publish_date]:- "2006-06-01"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Win a trip to Grand Prix Athens ...and many other Magic prizes! At Grand Prix Malmö fill out the voucher* that you'll find at the registration desk and deposit it in the designated box Saturday,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-06-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-september-2009-2009-09-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023181347id_/https://magic.wizards.com/en/articles/archive/feature/card-day-september-2009-2009-09-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 18:13:47+00:00"
-[_metadata_:publish_date]:- "2009-09-01"
 [_metadata_:description]:- "Hedron Crab – Zendikar uncommon. The mysterious monoliths found floating above Zendikar (and occasionally being investigated by crabs) are called hedrons. They're the remnants of a lost civilization, but their original purpose is unknown. Into the Roil – Zendikar common. The Roil is the name residents of Zendikar have given to the terrain's tendency to shudder, writhe, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-01"
 ---
 
 

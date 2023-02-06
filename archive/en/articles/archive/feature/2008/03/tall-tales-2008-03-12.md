@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tall-tales-2008-03-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429061053id_/https://magic.wizards.com/en/articles/archive/feature/tall-tales-2008-03-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:10:53+00:00"
-[_metadata_:publish_date]:- "2008-03-12"
 [_metadata_:description]:- "The Celts had their Fomorians. Norse people had Jötuns. The Welsh called them the Wrnach. The Bible mentions Nephilim. Jonathan Swift called them Brobdingnagians. Ultimately, it was the Greeks who supplied us with our word for them, via their word gigantes: G I A N T S. Color Me ReddGiants in Magic tend to be strong, fierce, mountain-dwelling humanoids whose height ranges from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-03-12"
 ---
 
 

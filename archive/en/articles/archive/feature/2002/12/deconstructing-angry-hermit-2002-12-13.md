@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/deconstructing-angry-hermit-2002-12-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170808041233id_/http://magic.wizards.com/en/articles/archive/feature/deconstructing-angry-hermit-2002-12-13"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-08 04:12:33+00:00"
-[_metadata_:publish_date]:- "2002-12-13"
 [_metadata_:description]:- "One of the most exciting decks to come out of Pro Tour Houston was a reanimation deck called Angry Hermit: Part 2. This of course prompted the question: What was Part 1?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-12-13"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/engineering-kezzerdrix-2005-12-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122160647id_/https://magic.wizards.com/en/articles/archive/feature/engineering-kezzerdrix-2005-12-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-22 16:06:47+00:00"
-[_metadata_:publish_date]:- "2005-12-22"
 [_metadata_:description]:- "Magicthegathering.com is running `best of` content during the holidays, and will return with new content January 4, 2006. This Magic Arcana originally ran March 21, 2005. From the depths of the Magic: The Gathering marketing archives comes another classic Magic TV commercial! Last December we showed you Orgg vs. Bob from Accounting; today we revisit another one. You might have"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-12-22"
 ---
 
 

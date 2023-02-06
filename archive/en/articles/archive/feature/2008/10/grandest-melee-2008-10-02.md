@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandest-melee-2008-10-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025170421id_/https://magic.wizards.com/en/articles/archive/feature/grandest-melee-2008-10-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 17:04:21+00:00"
-[_metadata_:publish_date]:- "2008-10-02"
 [_metadata_:description]:- "[decklist] Title: Dylan Austin's Walk the Aeons Combo Format: Gen Con 2008 Grand Melee, Standard 4 Vivid Creek 1 Dreadship Reef 1 Saltcrusted Steppe 1 Fungal Reaches 2 Reflecting Pool 1 Vivid Meadow 3 Mistveil Plains 1 Sapseep Forest 1 Brushland 1 Flooded Grove 1 Plains 8 Island 1 Oona, Queen of the Fae 1 Teferi, Mage of Zhalfir 1 Time Stop 1 Glamerdye 1 Counterbalance 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-02"
 ---
 
 

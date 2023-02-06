@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-14-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204205150id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-14-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 20:51:50+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Larkin John 33 63.9456 2 Rubin Ben 33 59.8299 3 Bregoli Mike 32 57.449 4 Turning Travis G 32 55.9524 5 Eskeland Sigurd 31 64.6825 6 Marsh Warren 31 61.0544 7 Hunka John 31 59.1837 8 Kettil Mattias 31 58.3333 9 Hron Mike 31 52.9932 10 Parker Brock 31 50.2211 11 Cornelissen Kamiel 30 62.381 12 Mowshowitz Zvi 30 57.9932 13 Herzog Nicolai 30"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

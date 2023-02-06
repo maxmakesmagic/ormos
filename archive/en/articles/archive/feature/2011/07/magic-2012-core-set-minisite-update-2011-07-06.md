@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2012-core-set-minisite-update-2011-07-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221003080038id_/https://magic.wizards.com/en/articles/archive/feature/magic-2012-core-set-minisite-update-2011-07-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-10-03 08:00:38+00:00"
-[_metadata_:publish_date]:- "2011-07-06"
 [_metadata_:description]:- "Have you been enjoying the Magic 2012 Core Set preview season? The reason we ask is that today is one of the biggest days on the calendar. The Magic 2012 Minisite has another exclusive Wallpaper up today, and the Card Image Gallery has every card. Not just every card that's been officially previewed, you understand. Every single card in the Magic 2012 Core Set.What are you"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-07-06"
 ---
 
 

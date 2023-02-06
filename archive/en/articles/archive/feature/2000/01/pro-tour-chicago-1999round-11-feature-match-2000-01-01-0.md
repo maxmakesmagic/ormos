@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-11-feature-match-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527140939id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-11-feature-match-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 14:09:39+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Jon Finkel vs. Worth Wollpert A pair of teammates who last played each other in the semi-finals of last spring's Pro Tour Los Angeles sat down for round 11 knowing that the loser was eliminated from top 8 contention and the winner would need to go 3-0 (or maybe 2-0-1). Worth Wollpert was running Suicide Black - not a good matchup for Jon Finkel and his Forbidian deck, but the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/now-our-best-work-can-be-yours-2005-09-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807160231id_/https://magic.wizards.com/en/articles/archive/feature/now-our-best-work-can-be-yours-2005-09-21"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-07 16:02:31+00:00"
-[_metadata_:publish_date]:- "2005-09-21"
 [_metadata_:description]:- "The creative minds of the Magic: The Gathering developers have teamed up with some of the world's finest fantasy illustrators to present to you these lavish, high-quality collector's series art prints and canvases. Featuring the brilliance of Greg Staples, Scott Fisher and Donato Giancola, this first set of five pieces features 5 icon Magic creatures. These pieces are"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-09-21"
 ---
 
 

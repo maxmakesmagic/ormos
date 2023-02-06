@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-pairings-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701054433id_/https://magic.wizards.com/en/articles/archive/feature/round-8-pairings-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-01 05:44:33+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPointsOpponentPointsThe Ken Ho All-Stars21vsFamily Games Center19The Ancient Kavus18vsFrog Eaters18Dynasty18vsHuey Brock and Linde18Team Needs/Hotel Room *Amate18vsThanks Craig and Seth18The Hubbsucker Proxy18vsA Little Too Sick18Grape Apes17vsTeam Clasp16Your Move Games17vsTeam Flees16AlphaBetaUnlimited.com/16vsMadam Fishnut16Team $20 Dolla Billz16vsTeam Bald Dummy16Rug"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

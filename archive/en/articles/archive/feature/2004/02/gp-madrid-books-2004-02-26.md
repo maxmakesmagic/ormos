@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp-madrid-books-2004-02-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520010922id_/https://magic.wizards.com/en/articles/archive/feature/gp-madrid-books-2004-02-26"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 01:09:22+00:00"
-[_metadata_:publish_date]:- "2004-02-26"
 [_metadata_:description]:- "Grand Prix: MadridInlast week's column I predicted that Grand Prix: Madrid was going to have a healthy attendance, breaking the 700 mark. Boy, did it ever! Nearly twice that many competitors arrived in Madrid, totaling 1353! That makes GP Madrid the largest Grand Prix tournament ever. In August of 2001, Grand Prix: Kobe had a total of 1348 players. Now Madrid steals its"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-02-26"
 ---
 
 

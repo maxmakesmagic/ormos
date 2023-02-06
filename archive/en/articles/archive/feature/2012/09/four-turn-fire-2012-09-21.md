@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/four-turn-fire-2012-09-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170428093612id_/http://magic.wizards.com/en/articles/archive/feature/four-turn-fire-2012-09-21"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-28 09:36:12+00:00"
-[_metadata_:publish_date]:- "2012-09-21"
 [_metadata_:description]:- "Legacy is Magic's second-largest format by number of allowed cards, only being surpassed by Vintage, which contains a few dozen more cards due to bannings and power-level reasons. These small changes do have a large impact between formats, but Legacy is still gigantic. Generally, this allows some decks to pick from a pool of good removal,or countermagic, but the core strategies of decks tend to be the same."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-09-21"
 ---
 
 

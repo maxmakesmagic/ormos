@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-born-gods-2014-invitations-2013-10-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028120521id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-born-gods-2014-invitations-2013-10-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 12:05:21+00:00"
-[_metadata_:publish_date]:- "2013-10-24"
 [_metadata_:description]:- "Invitations to Pro Tour Born of the Gods are awarded in the following manner: The winner of each Pro Tour Born of the Gods Qualifier (including Magic Online Pro Tour Qualifiers). The winner of each Magic Online Championship Series (MOCS) tournament that awards invitations to Pro Tour Born of the Gods. The Top 4 finishing players from each individual-format Grand Prix with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-10-24"
 ---
 
 

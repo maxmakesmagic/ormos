@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-table-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628115425id_/https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-table-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-28 11:54:25+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team OpponentTeam M.S.OvsMahamoti in Hi-SoftTeam M.O.BvsSTSaprolingvsGunjackHigedicevsDaisisziTeam ImabikivsSK-2InorevsQueen and SlavesDuel Revolution 21vsHirarin TokanoQ.E.D.vsTokyo ButtiesTeam YamashivsGoblin Digging TeamShinikake CaptainvsZIO MATRIXIMABIKI AvsTeam 25:17HirumanvsNISIKIGoro Goro DermvsUsagisan TeamSakura GumivsTeam U.D.ATeam Emon StaffvsRio!Team MaruivsOchi"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

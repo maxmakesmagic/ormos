@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-porto-alegre-trial-byes-2004-11-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814044754id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-porto-alegre-trial-byes-2004-11-05"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-14 04:47:54+00:00"
-[_metadata_:publish_date]:- "2004-11-05"
 [_metadata_:description]:- "EventStatusCdEventBeginDtCoordinatorNameCityCountryCdFirstLastDLQ8/21/2004Inti AcevedoCaracasVEPRO9/2/2004Reid SchmadekaSan FranciscoUSPauloBelliboniDLQ9/5/2004Renan Fagundes WeisheimerNovo HamburgoBRDLQ9/12/2004Rafael Dei SvaldiPorto AlegreBRDLQ9/17/2004Rafael Dei SvaldiPorto AlegreBRPRO10/2/2004Pablo UbedaSantiagoCLmarcoantiviloDLQ10/9/2004Francisco"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-11-05"
 ---
 
 

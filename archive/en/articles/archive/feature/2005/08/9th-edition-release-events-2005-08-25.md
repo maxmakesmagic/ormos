@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/9th-edition-release-events-2005-08-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160703130325id_/http://magic.wizards.com/en/articles/archive/feature/9th-edition-release-events-2005-08-25"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-03 13:03:25+00:00"
-[_metadata_:publish_date]:- "2005-08-25"
 [_metadata_:description]:- "Next Monday 9th Edition becomes available on the Magic Online Store. Core sets always have great staple cards that any serious Magic player needs to round out their collection. This time, though... there just seems to be a little bit more to get excited about."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-08-25"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/team-finals-frank-hernandez-usa-vs-gab-tsang-canadian-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170522081259id_/http://magic.wizards.com/en/articles/archive/feature/team-finals-frank-hernandez-usa-vs-gab-tsang-canadian-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-22 08:12:59+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Match Coverage  Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

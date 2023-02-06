@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/funny-farm-2005-03-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170607024930id_/http://magic.wizards.com/en/articles/archive/feature/funny-farm-2005-03-10"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-07 02:49:30+00:00"
-[_metadata_:publish_date]:- "2005-03-10"
 [_metadata_:description]:- "I attended Grand Prix Seattle this past weekend. While I was there, I somehow magically came up with an idea for a cra-a-a-azy casual combo deck. Bear with me, because it's pretty far-fetched. It's got Dragon Tyrant as its primary win condition, for crying out loud! The deck features other rarely seen cards like Sandstone Needle and Desperate Ritual."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-03-10"
 ---
 
 

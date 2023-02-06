@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/directors-chair-2010-2010-01-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518172838id_/https://magic.wizards.com/en/articles/archive/feature/directors-chair-2010-2010-01-04"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:28:38+00:00"
-[_metadata_:publish_date]:- "2010-01-04"
 [_metadata_:description]:- "Each passing holiday season turns a page for all of us; we all get a year older and a year better, and we're afforded the opportunity to look back at all we've accomplished in the recent past while at the same time plan and dream for the near future. As I sat by the fire sipping eggnog and watching my children enjoy their new toys, I felt very content—not just for my home"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-04"
 ---
 
 

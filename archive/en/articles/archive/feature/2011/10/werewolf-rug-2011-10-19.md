@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/werewolf-rug-2011-10-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020171759id_/https://magic.wizards.com/en/articles/archive/feature/werewolf-rug-2011-10-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 17:17:59+00:00"
-[_metadata_:publish_date]:- "2011-10-19"
 [_metadata_:description]:- "Magic Online continues to welcome Innistrad to Standard with some innovative takes on what the new cards can do."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-10-19"
 ---
 
 

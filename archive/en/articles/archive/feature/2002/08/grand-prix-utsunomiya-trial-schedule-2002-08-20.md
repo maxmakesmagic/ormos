@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-utsunomiya-trial-schedule-2002-08-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811112252id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utsunomiya-trial-schedule-2002-08-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-11 11:22:52+00:00"
-[_metadata_:publish_date]:- "2002-08-20"
 [_metadata_:description]:- "DateCityVenueAddressPlayer Contact 2002/08/25SapporoSapporo Factory Ichijou-kan (GP Sapporo ancillary event)Kita-2 Higashi-4, Chuuou-ku, Sapporo-shi, Hokkaidoron.foster@wizards.com 2002/09/08TokyoMagic Tournament Center3-19-1 Shibuya, Shibuya-ku, Tokyo-toron.foster@wizards.com 202.09.15OsakaYodogawa-ku Municipal Center2-1-5 Nonaka-minami, Yodogawa-ku, Osaka-shi,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-08-20"
 ---
 
 

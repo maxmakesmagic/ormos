@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/some-thoughts-defensive-deck-speed-2007-07-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501045611id_/https://magic.wizards.com/en/articles/archive/feature/some-thoughts-defensive-deck-speed-2007-07-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-01 04:56:11+00:00"
-[_metadata_:publish_date]:- "2007-07-19"
 [_metadata_:description]:- "One thing that always gets my head wagging left / right / left again, my jaw dropping a little bit, my eyes rolling, whatever, is hearing comments or reading posts that say something like `that deck looks too slow` in reference to a new control deck (usually board control or library manipulation), presumably in regard to its immediate offense. Many times I see something very"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-07-19"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-09-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429044648id_/https://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-09-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:46:48+00:00"
-[_metadata_:publish_date]:- "2011-09-14"
 [_metadata_:description]:- "The Province of Nephalia Those Innistrad denizens interested in commerce are attracted to Nephalia. Caravans of merchants ply the busy trade routes between Nephalia's cities, and unscrupulous alchemists and necromancers traffic in nefarious items via Nephalia's underground corpse market. Many of Nephalia's port towns are subject to the ever-present Nebelgast, the salt-soaked"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-14"
 ---
 
 

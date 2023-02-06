@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-baltimore-event-information-2011-12-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027020535id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-baltimore-event-information-2011-12-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 02:05:35+00:00"
-[_metadata_:publish_date]:- "2011-12-07"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Facebook Event Official hashtag: #gpbalt Date: February 25-26, 2012 Format: Standard Tournament Location Baltimore Convention Center 1 W Pratt Street Baltimore, Maryland 21201 Registration: $40 Friday, February 24: Noon – 10 p.m. Saturday, January 14: 8 a.m. -"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-12-07"
 ---
 
 

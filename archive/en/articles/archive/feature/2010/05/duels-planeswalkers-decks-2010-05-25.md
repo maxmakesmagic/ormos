@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-decks-2010-05-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160616025225id_/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-decks-2010-05-25"
 [_metadata_:wayback_capture_timestamp]:- "2016-06-16 02:52:25+00:00"
-[_metadata_:publish_date]:- "2010-05-25"
 [_metadata_:description]:- "&#13; &#13; &#13; &#13; &#13; &#13; &#13; &#13; Further Information&#13; &#13; Release Date: June 4th, 2010MSRP: $14.99"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-25"
 ---
 
 

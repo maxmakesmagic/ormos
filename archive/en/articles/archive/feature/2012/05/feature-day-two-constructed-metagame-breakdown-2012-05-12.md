@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-day-two-constructed-metagame-breakdown-2012-05-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151004175626id_/http://magic.wizards.com/en/articles/archive/feature/feature-day-two-constructed-metagame-breakdown-2012-05-12"
 [_metadata_:wayback_capture_timestamp]:- "2015-10-04 17:56:26+00:00"
-[_metadata_:publish_date]:- "2012-05-12"
 [_metadata_:description]:- "Of the 379 players that began Pro Tour Avacyn Restored on Friday, only 242 mustered up the requisite 4-4 record required to advance to Day Two. After exhaustedly poring through the Day One decklists, it became clear that the deck of the tournament was GRW Angels and Wolves."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-12"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extending-masques-2002-08-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210513035317id_/https://magic.wizards.com/en/articles/archive/feature/extending-masques-2002-08-22"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-13 03:53:17+00:00"
-[_metadata_:publish_date]:- "2002-08-22"
 [_metadata_:description]:- "I thought that I would wait a week or two before continuing my quirky look at the sets that will be legal in Extended come November. But then `Alternate Play Cost Week` fell from the sky, and what's a guy to do? Mercadian Masques began a block full of alternative casting costs. Most of these cards fall into the fairly traditional deck world and border on the ordinary."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-08-22"
 ---
 
 

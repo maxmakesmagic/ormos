@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-new-zealand-national-championship-invitations-2009-04-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524225236id_/https://magic.wizards.com/en/articles/archive/feature/2011-new-zealand-national-championship-invitations-2009-04-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 22:52:36+00:00"
-[_metadata_:publish_date]:- "2009-04-06"
 [_metadata_:description]:- "The Magic: The Gathering New Zealand National Championship is an invitation-only event, open to citizens or foreign players resident in New Zealand from Jan 1st 2011. Invitations are awarded based on the following criteria:2010 New Zealand Worlds Team Scott Richards (New Zealand Champion) Ivan Schroder Xiang Xue Song The Alternate member of the 2010 New Zealand National Team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-06"
 ---
 
 

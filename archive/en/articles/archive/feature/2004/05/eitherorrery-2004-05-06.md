@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eitherorrery-2004-05-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202002033id_/https://magic.wizards.com/en/articles/archive/feature/eitherorrery-2004-05-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-02 00:20:33+00:00"
-[_metadata_:publish_date]:- "2004-05-06"
 [_metadata_:description]:- "For the first time ever, a magicthegathering.com preview card is a reprint. Today's Fifth Dawn card is… Vernal Equinox!Pretty neat, huh? As we all remember, this was both a casual and a tournament powerhouse when it came out in Mercadian Masques. Yet despite its metagame-warping power, the powers that be saw fit to bring it back for another go-round. I suppose the time was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-05-06"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-core-set-2020-previews-2019-06-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190614144057id_/https://magic.wizards.com/en/articles/archive/feature/where-find-core-set-2020-previews-2019-06-13"
 [_metadata_:wayback_capture_timestamp]:- "2019-06-14 14:40:57+00:00"
-[_metadata_:publish_date]:- "2019-06-13"
 [_metadata_:description]:- "Check back here to see where and when new previews are coming—and for direct links to cards that have already been previewed!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-06-13"
 ---
 
 

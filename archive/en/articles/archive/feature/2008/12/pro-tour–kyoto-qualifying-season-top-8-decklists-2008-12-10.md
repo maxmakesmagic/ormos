@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517070432id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 07:04:32+00:00"
-[_metadata_:publish_date]:- "2008-12-10"
 [_metadata_:description]:- "[decklist] Title: Max Gollop Format: 1st Place - Illinois - Chicago - 11/22 1 Crumbling Necropolis 2 Esper Panorama 1 Grixis Panorama 1 Naya Panorama 3 Island 3 Mountain 3 Plains 4 Swamp 1 Knight of the Skyward Eye 1 Sanctum Gargoyle 1 Cloudheath Drake 1 Vein Drinker 2 Viscera Dragger 1 Bloodpyre Elemental 1 Ridge Rannet 1 Vithian Stinger 1 Deft Duelist 2 Fire-Field Ogre 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-journey-nyx-winner-2014-05-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812231346id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-journey-nyx-winner-2014-05-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 23:13:46+00:00"
-[_metadata_:publish_date]:- "2014-05-19"
 [_metadata_:description]:- "Congratulations to Hall of Famer Patrick Chapin for winning Pro Tour Journey into Nyx. He piloted this Block deck to an 8-1-1 record during swiss, before winning it all in three rounds of the Top 8."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-19"
 ---
 
 

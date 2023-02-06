@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/player-profile-reid-duke-2012-12-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170313040913id_/http://magic.wizards.com/en/articles/archive/feature/player-profile-reid-duke-2012-12-17"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-13 04:09:13+00:00"
-[_metadata_:publish_date]:- "2012-12-17"
 [_metadata_:description]:- "&#13; Getting to Know You&#13; &#13; &#13; &#13; &#13; &#13; Name:&#13; Reid Duke&#13; &#13; Age:&#13; 23&#13; &#13; Occupation:&#13; StarCityGames.com Columnist"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-12-17"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-diego-ostrovich-vs-sergio-longo-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029203124id_/https://magic.wizards.com/en/articles/archive/feature/round-7-diego-ostrovich-vs-sergio-longo-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-29 20:31:24+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rui Oliveira"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

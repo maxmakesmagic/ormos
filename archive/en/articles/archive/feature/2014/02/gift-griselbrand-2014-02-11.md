@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gift-griselbrand-2014-02-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170814025954id_/http://magic.wizards.com/en/articles/archive/feature/gift-griselbrand-2014-02-11"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-14 02:59:54+00:00"
-[_metadata_:publish_date]:- "2014-02-11"
 [_metadata_:description]:- "When I saw this deck, I knew I had to feature it. Both Griselbrand and Gifts Ungiven are among my favorite cards and this deck is different than most of the things I've seen people doing in Modern."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-11"
 ---
 
 

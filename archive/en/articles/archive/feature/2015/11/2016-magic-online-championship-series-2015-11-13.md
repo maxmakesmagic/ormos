@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2016-magic-online-championship-series-2015-11-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160114235152id_/http://magic.wizards.com/en/articles/archive/feature/2016-magic-online-championship-series-2015-11-13"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-14 23:51:52+00:00"
-[_metadata_:publish_date]:- "2015-11-13"
 [_metadata_:description]:- "Lee has all the details surrounding the changes to the Magic Online Championship Series for 2016."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-11-13"
 ---
 
 

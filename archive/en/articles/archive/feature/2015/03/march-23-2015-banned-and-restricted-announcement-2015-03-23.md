@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/march-23-2015-banned-and-restricted-announcement-2015-03-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150326032046id_/http://magic.wizards.com/en/articles/archive/feature/march-23-2015-banned-and-restricted-announcement-2015-03-23"
 [_metadata_:wayback_capture_timestamp]:- "2015-03-26 03:20:46+00:00"
-[_metadata_:publish_date]:- "2015-03-23"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Changes to Pauper."
+[_metadata_:publish_date]:- "2015-03-23"
 ---
 
 

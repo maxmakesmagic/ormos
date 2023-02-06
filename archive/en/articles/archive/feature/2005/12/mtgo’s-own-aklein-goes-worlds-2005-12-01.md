@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mtgo%E2%80%99s-own-aklein-goes-worlds-2005-12-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160908091443id_/http://magic.wizards.com/en/articles/archive/feature/mtgo%E2%80%99s-own-aklein-goes-worlds-2005-12-01"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-08 09:14:43+00:00"
-[_metadata_:publish_date]:- "2005-12-01"
 [_metadata_:description]:- "Interview with Adam Klein, Worlds Competitor via MTGO Q!Today, December 1st marks Day 2 of the penultimate Magic tournament—the Magic World Championship!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-12-01"
 ---
 
 

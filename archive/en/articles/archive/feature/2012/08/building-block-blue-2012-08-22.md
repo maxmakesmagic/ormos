@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-block-blue-2012-08-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704152434id_/https://magic.wizards.com/en/articles/archive/feature/building-block-blue-2012-08-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-04 15:24:34+00:00"
-[_metadata_:publish_date]:- "2012-08-22"
 [_metadata_:description]:- "I know only a few of you came here for strategy tips, but I am going to go ahead and give everyone a bit of a pro tip anyway: Delver of Secrets is good. Now, I understand this information might have blindsided you, but it is a true—and very secret—fact, none the less. All right, you caught me, Delver being good is nothing new. What is new, though, is finding a deck that plays"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-22"
 ---
 
 

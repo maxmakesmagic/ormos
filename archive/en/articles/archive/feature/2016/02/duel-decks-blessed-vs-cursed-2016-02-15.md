@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duel-decks-blessed-vs-cursed-2016-02-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160218034246id_/http://magic.wizards.com/en/articles/archive/feature/duel-decks-blessed-vs-cursed-2016-02-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-02-18 03:42:46+00:00"
-[_metadata_:publish_date]:- "2016-02-15"
 [_metadata_:description]:- "Katie wades into the mysteries surrounding Innistrad to see what each side has to offer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-02-15"
 ---
 
 

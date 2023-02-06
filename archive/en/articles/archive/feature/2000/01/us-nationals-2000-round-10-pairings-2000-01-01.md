@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-10-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206052120id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-10-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 05:21:20+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Allen, Dustin ( 36) 10 39 Bunsongsikul, Ped ( 82) 10 Aubertin, Justin ( 3) 12 36 Lagges, John (153) 12 Beckmon, Jon ( 15) 16 19 Bhattacharyya, Sayan ( 39) 16 Benafel, Chris ( 50) 25 1 Finkel, Jon (100) 24 Bhattacharyya, Sayan ( 39) 16 19 Beckmon, Jon ( 15) 16 Bragg, Tillman ( 4) 8 43 Lovell, Brian ( 87) 9 Bryant, David (122) 18 13 Maher Jr., Bob ("
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

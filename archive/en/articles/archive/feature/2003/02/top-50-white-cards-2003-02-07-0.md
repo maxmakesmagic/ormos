@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/top-50-white-cards-2003-02-07-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160624230810id_/http://magic.wizards.com/en/articles/archive/feature/top-50-white-cards-2003-02-07-0"
 [_metadata_:wayback_capture_timestamp]:- "2016-06-24 23:08:10+00:00"
-[_metadata_:publish_date]:- "2003-02-07"
 [_metadata_:description]:- "Hello, everyone! Long time no read. I know many of you have missed me (and some have thrown parties at my absence), but here I am again, fresh for 2003. And what better topic to lead off the first Uncommon Knowledge column of the new year than the top fifty white cards of all time?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-02-07"
 ---
 
 

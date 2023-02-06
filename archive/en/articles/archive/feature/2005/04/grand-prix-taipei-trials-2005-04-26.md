@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-trials-2005-04-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820032603id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-trials-2005-04-26"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-20 03:26:03+00:00"
-[_metadata_:publish_date]:- "2005-04-26"
 [_metadata_:description]:- "CountryDateCityVenueContactSingapore17-Jul-05SingaporeComics Martgou_uraki@hotmail.comSingapore31-Jul-05SingaporeAsia Card Shopgou_uraki@hotmail.comSingapore28-May-05Singaporechar-kway-teow.combernardng@char-kway-teow.comSingapore29-May-05SingaporeAsia Card Shopzackchia@hotmail.comSingapore29-May-05SingaporeSerene Centrelinggam78@hotmail.comMalaysia17-Jul-05Kuala"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-04-26"
 ---
 
 

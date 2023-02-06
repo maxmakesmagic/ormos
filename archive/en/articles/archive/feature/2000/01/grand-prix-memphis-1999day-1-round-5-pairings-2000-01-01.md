@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-5-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204162242id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-5-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 16:22:42+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Opponent Points Adkins, Johnny (1) 9 Brice, Ernest (25) 9 Adkins, Joshua (2) 4 Tavern III, Frank (309) 6 Anderson, Rhonda (5) 3 Liston, Denver (165) 3 Angel, Greg (6) 6 Wasilewski, Steve (332) 6 Armstrong, Herman (8) 6 Lambert, Ken (156) 6 Armstrong, Michael (9) 6 George, Brent (84) 6 Arnold, David (10) 9 Woodall, Dane (346) 9 Baker, Jeffery (13) 6 Crenshaw,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

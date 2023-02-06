@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2010-season-6-2010-07-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170515014102id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2010-season-6-2010-07-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-15 01:41:02+00:00"
-[_metadata_:publish_date]:- "2010-07-01"
 [_metadata_:description]:- "Players earned QPs during 2010 Season 6 as follows:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-01"
 ---
 
 

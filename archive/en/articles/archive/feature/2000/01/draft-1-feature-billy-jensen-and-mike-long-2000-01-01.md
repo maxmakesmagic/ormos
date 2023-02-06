@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-1-feature-billy-jensen-and-mike-long-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522211431id_/https://magic.wizards.com/en/articles/archive/feature/draft-1-feature-billy-jensen-and-mike-long-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 21:14:31+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler At first you might think that Billy Jensen and Mike Long were unhappy when they were forced to sit down next to each other for the first draft of US Nationals. However, I talked to Bob Maher, Jr. as `the Bomber` went off to his own table and he commented that he was at a table with 7 guys he'd never heard of and he didn't know if that was good, or if he 'd be"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

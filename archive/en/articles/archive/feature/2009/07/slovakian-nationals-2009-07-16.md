@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/slovakian-nationals-2009-07-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813161614id_/https://magic.wizards.com/en/articles/archive/feature/slovakian-nationals-2009-07-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 16:16:14+00:00"
-[_metadata_:publish_date]:- "2009-07-16"
 [_metadata_:description]:- "[decklist] Title: Janos Csomos's Cascade Swans Format: Standard (pre-M10) – Slovakian Nationals 4 Battlefield Forge 4 Vivid Crag 1 Vivid Marsh 4 Vivid Grove 3 Karplusan Forest 2 Cascade Bluffs 4 Reflecting Pool 3 Fire-Lit Thicket 2 Graven Cairns 4 Treetop Village 1 Mountain 1 Vivid Creek 3 Spinerock Knoll 1 Shivan Reef 2 Ghitu Encampment 1 Sunken Ruins 4 Bloodbraid Elf 4 Swans"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-16"
 ---
 
 

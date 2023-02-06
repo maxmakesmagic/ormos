@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-5-recap-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518044031id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-5-recap-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 04:40:31+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Chris Pikula went into Round 5 as the last remaining undefeated player. Zvi Mowshowitz was close behind him at 3-1 and hoping to end day 1 in a tie for first. No one really knew exactly who was supposed to win the matchup between tradewind/Awakening and Squirrel prison. One of the most fun aspects of this format is the weird matchups that no one had really thought about"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

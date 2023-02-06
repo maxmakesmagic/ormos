@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2013-08-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527201240id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2013-08-26"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 20:12:40+00:00"
-[_metadata_:publish_date]:- "2013-08-26"
 [_metadata_:description]:- "Set Information Theros features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set. Theros is available in booster packs, intro packs, and fat packs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-26"
 ---
 
 

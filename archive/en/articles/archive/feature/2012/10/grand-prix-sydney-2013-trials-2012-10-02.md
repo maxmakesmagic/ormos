@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-2013-trials-2012-10-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527214356id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-2013-trials-2012-10-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 21:43:56+00:00"
-[_metadata_:publish_date]:- "2012-10-02"
 [_metadata_:description]:- "Grand Prix Sydney Trials will be run at APAC/Japan WPN locations from October 27, 2012 to January 6, 2013. Each awards the winner a three-round bye to Grand Prix Sydney.Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the individual store running the event. Possible"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-10-02"
 ---
 
 

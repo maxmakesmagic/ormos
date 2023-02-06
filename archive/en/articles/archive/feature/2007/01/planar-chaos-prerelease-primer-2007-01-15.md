@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planar-chaos-prerelease-primer-2007-01-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160424073440id_/http://magic.wizards.com/en/articles/archive/feature/planar-chaos-prerelease-primer-2007-01-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-24 07:34:40+00:00"
-[_metadata_:publish_date]:- "2007-01-15"
 [_metadata_:description]:- "Did you happen to visit this website on New Year’s Day? All the columnists from this site were sent a mysterious email from content manager Scott Johns telling us to tune in for a New Year’s surprise."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-01-15"
 ---
 
 

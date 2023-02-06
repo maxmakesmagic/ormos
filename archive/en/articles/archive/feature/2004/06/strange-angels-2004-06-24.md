@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/strange-angels-2004-06-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128191812id_/https://magic.wizards.com/en/articles/archive/feature/strange-angels-2004-06-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 19:18:12+00:00"
-[_metadata_:publish_date]:- "2004-06-24"
 [_metadata_:description]:- "Angel Week: A scintillating series celebrating celestial seraphim. Why are we having Angel Week? It might have something to do with the fact that Mark Rosewater, fan of all things Buffyverse, is still upset that the TV show Angel was canceled. (Want to know how big a fan? Take a peek at Repentant Vampire, even though it clearly bears no resemblance to any fictional character"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-06-24"
 ---
 
 

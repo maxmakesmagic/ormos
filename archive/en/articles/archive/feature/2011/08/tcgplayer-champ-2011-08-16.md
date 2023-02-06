@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tcgplayer-champ-2011-08-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017040307id_/https://magic.wizards.com/en/articles/archive/feature/tcgplayer-champ-2011-08-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-17 04:03:07+00:00"
-[_metadata_:publish_date]:- "2011-08-16"
 [_metadata_:description]:- "[decklist] Title: Todd Anderson's Caw-Blade Format: Standard – Winner, TCGPlayer.com Championship 1 Arid Mesa 4 Celestial Colonnade 3 Glacial Fortress 2 Inkmoth Nexus 4 Island 2 Misty Rainforest 3 Plains 4 Seachrome Coast 4 Tectonic Edge 1 Consecrated Sphinx 2 Emeria Angel 1 Phantasmal Image 4 Squadron Hawk 1 Sun Titan 3 Gideon Jura 1 Jace Beleren 2 Day of Judgment 2 Dismember"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-08-16"
 ---
 
 

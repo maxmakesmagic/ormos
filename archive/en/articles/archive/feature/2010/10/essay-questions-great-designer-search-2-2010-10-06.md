@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/essay-questions-great-designer-search-2-2010-10-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161020160524id_/http://magic.wizards.com/en/articles/archive/feature/essay-questions-great-designer-search-2-2010-10-06"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-20 16:05:24+00:00"
-[_metadata_:publish_date]:- "2010-10-06"
 [_metadata_:description]:- "Please read the following instructions carefully.Write an essay answering each of the ten questions below.Each essay should be between 250 and 350 words, and so your total submission should be between 2500 and 3500 words. Don't include any text other than your email answers. If your answers are under or over the required length, the entire test may be discarded."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-10-06"
 ---
 
 

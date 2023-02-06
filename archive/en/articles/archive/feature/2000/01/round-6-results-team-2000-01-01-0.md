@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-results-team-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703023226id_/https://magic.wizards.com/en/articles/archive/feature/round-6-results-team-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-03 02:32:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult OpponentAbsolute SamuelsLost 1-2vsBologna Demolition TeamAccellerated Vares8 VolanteWon 2-1vsCalvo's LegacyAlphaBetaUnlimited.comWon 2-1vsPannaburstAltrove *Lost 0-3vsAsani *AmsterdamLost 0-3vswww.revised4th5th.comAngstschreeuwWon 3-0vsMetagames/LNTAsani *Won 3-0vsAltrove *Babar TeamLost 1-2vsTeam CleggBirds of paradiseLost 0-3vskillers of the CoastBlack-OpsWon"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

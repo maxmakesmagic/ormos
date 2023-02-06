@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/first-class-2005-08-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160410143601id_/http://magic.wizards.com/en/articles/archive/feature/first-class-2005-08-01"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-10 14:36:01+00:00"
-[_metadata_:publish_date]:- "2005-08-01"
 [_metadata_:description]:- "It began with a little tease in Randy Buehler's announcement for the Players Club. Hidden among the appearance fees, player levels, and paid airfare and accommodations was a single line of text that created almost as much buzz as the announcement of the Players Club itself: `Pro Tour Hall of Fame members automatically receive Level 3 benefits.`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-08-01"
 ---
 
 

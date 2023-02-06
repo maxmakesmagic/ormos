@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/secret-force-2010-04-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210129093412id_/https://magic.wizards.com/en/articles/archive/feature/secret-force-2010-04-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-29 09:34:12+00:00"
-[_metadata_:publish_date]:- "2010-04-14"
 [_metadata_:description]:- "[decklist] Title: Jamie Wakefield's Secret Force Format: Daily Deck Classic 3 Gaea's Cradle 16 Forest 3 Wasteland 3 Elvish Lyrist 4 Fyndhorn Elves 4 Llanowar Elves 4 Spike Feeder 2 Spike Weaver 3 Uktabi Orangutan 3 Verdant Force 4 Wall of Roots 4 Creeping Mold 4 Natural Order 3 Overrun"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-04-14"
 ---
 
 

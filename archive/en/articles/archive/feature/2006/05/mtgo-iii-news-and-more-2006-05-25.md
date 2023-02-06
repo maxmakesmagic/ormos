@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mtgo-iii-news-and-more-2006-05-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160908093947id_/http://magic.wizards.com/en/articles/archive/feature/mtgo-iii-news-and-more-2006-05-25"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-08 09:39:47+00:00"
-[_metadata_:publish_date]:- "2006-05-25"
 [_metadata_:description]:- "Magic Online III News!Justin ZiranWe all know what you've been waiting for, so without any delay let's jump right into some MTGO III News from Magic Online's producer Brian Lindley and Magic Online Brand Manager Justin Ziran."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-05-25"
 ---
 
 

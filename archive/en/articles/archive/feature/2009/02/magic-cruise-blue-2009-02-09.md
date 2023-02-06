@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-cruise-blue-2009-02-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521215827id_/https://magic.wizards.com/en/articles/archive/feature/magic-cruise-blue-2009-02-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 21:58:27+00:00"
-[_metadata_:publish_date]:- "2009-02-09"
 [_metadata_:description]:- "[decklist] Title: Magic Cruise Blue Format: 60 Card Highlander 1 Seaside Citadel 1 Remote Isle 1 Volcanic Island 1 Underground Sea 1 Mikokoro, Center of the Sea 1 Seafloor Debris 1 Shivan Reef 1 Dreadship Reef 2 Swamp 2 Mountain 1 Lonely Sandbar 1 Coral Atoll 1 Tropical Island 10 Island 1 Ghost Ship 1 Living Airship 1 Merchant Ship 1 Pirate Ship 1 Skeleton Ship 1 Wu Warship 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-09"
 ---
 
 

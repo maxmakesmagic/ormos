@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/day-2-team-list-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210725070052id_/https://magic.wizards.com/en/articles/archive/feature/day-2-team-list-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-07-25 07:00:52+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "NumberTeam NamePoints after Day 1Nationality 2Angstschreeuw18NL 1one day fly18NL 9AlphaBetaUnlimited.com15US 8Black-Ops15FR 11Bologna Demolition Team15IT 10Cosmopolitan15NO 5gotta catch Kai15US 7Metagames/LNT15CH 4Team Clegg15US 6Two men and a baby !15US 3www.revised4th5th.com15US 12zyrberus15CH 17Ci Ciapem I Dane *13IT 16F3BoP13CZ 14killers of the Coast13NL 15Stuchkaccolites"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

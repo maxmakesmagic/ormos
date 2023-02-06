@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kids-next-door-2005-11-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816073704id_/https://magic.wizards.com/en/articles/archive/feature/kids-next-door-2005-11-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 07:37:04+00:00"
-[_metadata_:publish_date]:- "2005-11-11"
 [_metadata_:description]:- "The Junior Super Series Challenges 2006 Season will soon begin. What is it all about, you ask? Many things, but one in particular that comes to mind. 15 years old and younger! That is what this challenge is all about. Now, even if you are past this prime in your Magic: The Gathering® tournament career, pay attention and read on. After all, chances are you know someone who this"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-11"
 ---
 
 

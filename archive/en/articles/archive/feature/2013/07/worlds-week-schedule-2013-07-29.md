@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629071235id_/https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-29 07:12:35+00:00"
-[_metadata_:publish_date]:- "2013-07-29"
 [_metadata_:description]:- "At this very moment, well, no that's not necessarily true. When this article publishes, I will be flying at 40,000 ft (12,192 m) on my way to Amsterdam for both the World Championship and the World Magic Cup! I'm super excited to go and watch all five days of Magic by the best players in the world battle. Since we're holding two events that overlap I wanted to take today's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-29"
 ---
 
 

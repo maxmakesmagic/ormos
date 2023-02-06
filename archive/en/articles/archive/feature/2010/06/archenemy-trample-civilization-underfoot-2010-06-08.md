@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archenemy-trample-civilization-underfoot-2010-06-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526045852id_/https://magic.wizards.com/en/articles/archive/feature/archenemy-trample-civilization-underfoot-2010-06-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 04:58:52+00:00"
-[_metadata_:publish_date]:- "2010-06-08"
 [_metadata_:description]:- "You've seen the Archenemy deck `Assemble the Doomsday Machine.` You've seen `Bring About the Undead Apocalypse.` But are you ready for another deck? Are you prepared to Trample Civilization Underfoot? If you're not, you'd better get prepared, because ... well, you can probably guess where this is going."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-06-08"
 ---
 
 

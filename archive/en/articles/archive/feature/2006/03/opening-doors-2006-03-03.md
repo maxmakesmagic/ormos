@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/opening-doors-2006-03-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817200356id_/https://magic.wizards.com/en/articles/archive/feature/opening-doors-2006-03-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-17 20:03:56+00:00"
-[_metadata_:publish_date]:- "2006-03-03"
 [_metadata_:description]:- "Everyone walks away a winner. It is a phrase that parents and coaches use all the time. It is a phrase that sometimes gets tossed around far too much. Heck, it’s a phrase I’m about to throw around a bit. Watch out… here comes the first hurl of it! Every competitor walks away from a Junior Super Series Challenge event a winner! Every competitor entering a Junior Super Series"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-03-03"
 ---
 
 

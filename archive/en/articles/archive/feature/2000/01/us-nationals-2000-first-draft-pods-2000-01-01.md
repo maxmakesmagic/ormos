@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-first-draft-pods-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518112403id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-first-draft-pods-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 11:24:03+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Pod Seat Name 1 8 Vega, Javier 6 Gonzalez, Phillip 3 Steht, Lee 5 Showers, Chris 1 Tautic, Ray 7 Stampke, Ryan 4 Kuenal, Zack 2 Raether, Donald 2 3 Fog, Sam 2 Van Vleet, Matt 1 Carpenter, Ryan 4 OMS, Steven 5 Marchant, Clinton 8 Pohle, Tyler 7 Bigos, Kyle 6 Manning, Chris 3 5 Lytle, Josh 2 Dubois, Dan 1 Johnson, Jake 6 Freneau, Philip 7 Oliveri, Jason 4 Rivera, Tim 8 Swoyer,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

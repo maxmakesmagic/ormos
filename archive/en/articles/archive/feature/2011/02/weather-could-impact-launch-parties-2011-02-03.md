@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/weather-could-impact-launch-parties-2011-02-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112005538id_/https://magic.wizards.com/en/articles/archive/feature/weather-could-impact-launch-parties-2011-02-03"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:55:38+00:00"
-[_metadata_:publish_date]:- "2011-02-03"
 [_metadata_:description]:- "As you may already be aware, much of the United States is currently underneath tons of snow and ice. Unfortunately, this includes a part of the United States where our warehouse is located. The Mirrodin Besieged Launch Parties are scheduled for this weekend, so here's what you should do:  1) Check to see whether it's safe to leave your home. 2) Check to see if your local game store is going to be open. 3) Ask them if they've gotten their shipment of Mirrodin Besieged."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-02-03"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/getting-heart-things-2013-09-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817190222id_/https://magic.wizards.com/en/articles/archive/feature/getting-heart-things-2013-09-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-17 19:02:22+00:00"
-[_metadata_:publish_date]:- "2013-09-23"
 [_metadata_:description]:- "Theros is here in full force and it's time to take a look at some new decks. It's always interesting to explore in the time before the new season really gets going. The unknown metagame means that anything is possible, especially if you believe in the heart of the Chimera, as this deck does. This list (from Gerry Thompson's [Premium] article on StarCityGames.com) was actually"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-23"
 ---
 
 

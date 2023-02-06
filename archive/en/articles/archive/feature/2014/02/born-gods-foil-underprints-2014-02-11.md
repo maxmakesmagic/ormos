@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/born-gods-foil-underprints-2014-02-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210805114552id_/https://magic.wizards.com/en/articles/archive/feature/born-gods-foil-underprints-2014-02-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-08-05 11:45:52+00:00"
-[_metadata_:publish_date]:- "2014-02-11"
 [_metadata_:description]:- "With nearly all Magic sets these days, I like to stop and admire the beauty that is the premium versions of cards. Specifically, we do this by examining the white underprinting utilizing in creating the highlights on our premium foils that you get in booster packs. For this iteration of the `foil Arcana` I called upon two of my trusty advisors, Mike McArtor and Bonnie"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-11"
 ---
 
 

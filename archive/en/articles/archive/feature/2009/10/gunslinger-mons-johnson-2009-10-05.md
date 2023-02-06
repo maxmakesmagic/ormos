@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gunslinger-mons-johnson-2009-10-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170402185636id_/http://magic.wizards.com/en/articles/archive/feature/gunslinger-mons-johnson-2009-10-05"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-02 18:56:36+00:00"
-[_metadata_:publish_date]:- "2009-10-05"
 [_metadata_:description]:- "When a new set comes out, R&amp;D will often bring decks to events to show off the potential of the new cards. These aren't our best FFL decks per se, but instead a glimpse into what the set has to offer. Often these decks are intentionally un-streamlined, both to keep opponents guessing and to make the deck more fun to play for 10 straight hours!Mons Johnson played in the Champion Challenge at the Calgary, Alberta prerelease:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-05"
 ---
 
 

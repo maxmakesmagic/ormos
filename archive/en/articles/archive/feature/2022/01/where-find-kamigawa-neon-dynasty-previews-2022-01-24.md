@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-kamigawa-neon-dynasty-previews-2022-01-24?utm_campaign=Kamigawa%3A-Neon-Dynasty&utm_source=TWITTER&utm_medium=social&utm_content=6251022064"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126140923id_/https://magic.wizards.com/en/articles/archive/feature/where-find-kamigawa-neon-dynasty-previews-2022-01-24?utm_campaign=Kamigawa%3A-Neon-Dynasty&utm_source=TWITTER&utm_medium=social&utm_content=6251022064"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 14:09:23+00:00"
-[_metadata_:publish_date]:- "2022-01-24"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Kamigawa: Neon Dynasty, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-01-24"
 ---
 
 

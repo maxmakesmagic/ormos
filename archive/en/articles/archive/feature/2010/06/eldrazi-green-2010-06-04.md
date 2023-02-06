@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eldrazi-green-2010-06-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022003759id_/https://magic.wizards.com/en/articles/archive/feature/eldrazi-green-2010-06-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 00:37:59+00:00"
-[_metadata_:publish_date]:- "2010-06-04"
 [_metadata_:description]:- "[decklist] Title: Kotaro Otsuka's Eldrazi Green Format: Zendikar Block Constructed - Pro Tour–San Juan 4 Eldrazi Temple 2 Eye of Ugin 7 Forest 4 Graypelt Refuge 3 Plains 4 Stirring Wildwood 2 Tectonic Edge 4 Kozilek, Butcher of Truth 4 Oracle of Mul Daya 4 Overgrown Battlement 1 Ulamog, the Infinite Gyre 4 Wall of Omens 3 All Is Dust 3 Ancient Stirrings 4 Everflowing Chalice 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-06-04"
 ---
 
 

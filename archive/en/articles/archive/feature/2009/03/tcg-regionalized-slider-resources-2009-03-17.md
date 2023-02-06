@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tcg-regionalized-slider-resources-2009-03-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026211901id_/https://magic.wizards.com/en/articles/archive/feature/tcg-regionalized-slider-resources-2009-03-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 21:19:01+00:00"
-[_metadata_:publish_date]:- "2009-03-17"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-03-17"
 ---
 
 

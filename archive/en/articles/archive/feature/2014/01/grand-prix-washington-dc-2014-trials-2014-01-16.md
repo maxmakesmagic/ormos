@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-2014-trials-2014-01-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118153928id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-2014-trials-2014-01-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:39:28+00:00"
-[_metadata_:publish_date]:- "2014-01-16"
 [_metadata_:description]:- "Grand Prix Washington DC Trials will be run at North and Latin America WPN locations from April 5, 2014 to June 15, 2014. Each awards the winner a two-round bye to Grand Prix Washington DC. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-01-16"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nayamorphic-2009-10-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121231517id_/https://magic.wizards.com/en/articles/archive/feature/nayamorphic-2009-10-15"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 23:15:17+00:00"
-[_metadata_:publish_date]:- "2009-10-15"
 [_metadata_:description]:- "[decklist] Title: Alexander Shearer's Nayamorphic Format: Standard 4 Arid Mesa 4 Terramorphic Expanse 4 Plains 4 Mountain 4 Forest 2 Rootbound Crag 2 Sunpetal Grove 4 Steppe Lynx 4 Wild Nacatl 4 Qasali Pridemage 4 Knight of the Reliquary 4 Bloodbraid Elf 4 Path to Exile 4 Burst Lightning 4 Lightning Bolt 2 Naya Charm 2 Elspeth, Knight-Errant [/decklist] Aggressive decks are"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-15"
 ---
 
 

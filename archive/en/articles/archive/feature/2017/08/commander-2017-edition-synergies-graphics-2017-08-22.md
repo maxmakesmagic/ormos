@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-synergies-graphics-2017-08-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112003150id_/https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-synergies-graphics-2017-08-22"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:31:50+00:00"
-[_metadata_:publish_date]:- "2017-08-22"
 [_metadata_:description]:- "Diego illustrates several of the synergies you can use to carry your tribe to victory in Commander (2017 Edition)!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-08-22"
 ---
 
 

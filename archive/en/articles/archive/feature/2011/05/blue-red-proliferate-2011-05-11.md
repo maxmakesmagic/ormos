@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-red-proliferate-2011-05-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021184121id_/https://magic.wizards.com/en/articles/archive/feature/blue-red-proliferate-2011-05-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 18:41:21+00:00"
-[_metadata_:publish_date]:- "2011-05-11"
 [_metadata_:description]:- "[decklist] Title: Ken Nagle's Blue-Red Proliferate Format: Standard (with New Phyrexia) 4 Inkmoth Nexus 4 Scalding Tarn 8 Mountain 1 Halimar Depths 7 Island 4 Everflowing Chalice 4 Sphere of the Suns 4 Contagion Clasp 4 Volt Charge 4 Tezzeret's Gambit 4 Tumble Magnet 4 Shrine of Burning Rage 3 Jace, the Mind Sculptor 3 Koth of the Hammer 1 Lux Cannon 1 Contagion Engine"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-05-11"
 ---
 
 

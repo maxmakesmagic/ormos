@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering%C2%AE-spindown%E2%84%A2-promotion-%E2%80%93-official-terms-2009-01-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521122608id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering%C2%AE-spindown%E2%84%A2-promotion-%E2%80%93-official-terms-2009-01-26"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 12:26:08+00:00"
-[_metadata_:publish_date]:- "2009-01-26"
 [_metadata_:description]:- "The Magic: The Gathering Spindown Promotion Campaign (`Campaign`) is a Campaign offered by Wizards of the Coast, Inc. (`Wizards` or `Sponsor`). The Campaign starts on February 13, 2009 and ends February 28, 2009. Who Will We Reward? It's easy for you to receive a Gift. First, you must be eligible."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-26"
 ---
 
 

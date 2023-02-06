@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legends-youll-find-streets-new-capenna-2022-04-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220422151825id_/https://magic.wizards.com/en/articles/archive/feature/legends-youll-find-streets-new-capenna-2022-04-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-04-22 15:18:25+00:00"
-[_metadata_:publish_date]:- "2022-04-22"
 [_metadata_:description]:- "Get to know the legends who shape the mighty city of New Capenna."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-04-22"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/making-memories-2010-08-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170510045008id_/http://magic.wizards.com/en/articles/archive/feature/making-memories-2010-08-09"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-10 04:50:08+00:00"
-[_metadata_:publish_date]:- "2010-08-09"
 [_metadata_:description]:- "Two weeks ago I did a mailbag column where I answered questions all beginning with the word `how.` Today is the second part of the article. Less recap, more questions:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-08-09"
 ---
 
 

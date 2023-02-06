@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-%E2%80%93-little-something-everyone-2005-11-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020193208id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-%E2%80%93-little-something-everyone-2005-11-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 19:32:08+00:00"
-[_metadata_:publish_date]:- "2005-11-11"
 [_metadata_:description]:- "Greetings from sunny Seattle, Washington (ok, it is really raining, but sunny sounded so much better!). My name is Justin Ziran and I am the Brand Manager for Online Games at WotC. For those that play online, you know we’ve experienced an exciting year so far. We’ve released 4 sets and looking forward to the putting out the 5th set, Mirage, in December. In addition to the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-11"
 ---
 
 

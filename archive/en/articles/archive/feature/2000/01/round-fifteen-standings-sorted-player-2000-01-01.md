@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-fifteen-standings-sorted-player-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030231521id_/https://magic.wizards.com/en/articles/archive/feature/round-fifteen-standings-sorted-player-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 23:15:21+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name Points Op-Match 249 Afanasenko Dmitry (RUS) 14 43.52% 255 Alejos Franz (VEN) 13 42.67% 189 Alves Jhonathan (VEN) 19 44.15% 127 Ang Jun Yang (SNG) 22 53.48%"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

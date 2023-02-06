@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2008-11-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201221901id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2008-11-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-01 22:19:01+00:00"
-[_metadata_:publish_date]:- "2008-11-24"
 [_metadata_:description]:- "Conflux Videos Domain    A Planeswalkers Primer for Conflux: Domain  .    Basic Landcycling  .    Planeswalkers  .   Collector's Highlights  Conflux is the second set in the Shards of Alara block. It is a 145 card expansion with randomly inserted premium cards. It will be available in booster packs, intro packs, and fat packs.  Agents of Artifice  A Planeswalker Novel  by Ari"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-24"
 ---
 
 

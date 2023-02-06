@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/agents-artifice-2009-01-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209053637id_/https://magic.wizards.com/en/articles/archive/feature/agents-artifice-2009-01-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 05:36:37+00:00"
-[_metadata_:publish_date]:- "2009-01-16"
 [_metadata_:description]:- "PROLOGUEThrough a place that wasn't, where time held no meaning, the figure walked.Winds blew, and they were not winds. Without source, without direc-tion, they tossed the outsider's hair one way, clothes another. They were the hot gusts of an arid desert, the frigid breath of the whirling blizzard. They bore the perfume of growing things, the rancid tang of death, and scents"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-16"
 ---
 
 

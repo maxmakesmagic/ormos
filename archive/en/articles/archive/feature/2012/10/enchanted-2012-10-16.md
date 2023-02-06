@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchanted-2012-10-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016092432id_/https://magic.wizards.com/en/articles/archive/feature/enchanted-2012-10-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 09:24:32+00:00"
-[_metadata_:publish_date]:- "2012-10-16"
 [_metadata_:description]:- "Legacy has a very large card pool. Theoretically, there are endless amounts of new decks that could be created and played, but the barrier to entry is always whether those decks are actually good or not. There are storm decks, aggro decks, decks looking to cheat a giant monster into play, control decks, graveyard-based decks, and then various two-card combo decks. While that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-10-16"
 ---
 
 

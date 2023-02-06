@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-february-2011-2011-02-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704111505id_/https://magic.wizards.com/en/articles/archive/feature/card-day-february-2011-2011-02-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-04 11:15:05+00:00"
-[_metadata_:publish_date]:- "2011-02-01"
 [_metadata_:description]:- "Gate to Phyrexia – Antiquities uncommon. Gate to Phyrexia, along with Phyrexian Gremlins, first introduced the threat of Phyrexia to the Magic multiverse with the release of Antiquities way back in 1994. Since then, Phyrexia or its influence has cropped up in more blocks than not: Ice Age, Mirage, Tempest, Urza, Masques, Invasion, Mirrodin (indirectly), Time Spiral, and, of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-02-01"
 ---
 
 

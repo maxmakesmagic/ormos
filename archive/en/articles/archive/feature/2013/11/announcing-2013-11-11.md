@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-2013-11-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020304id_/https://magic.wizards.com/en/articles/archive/feature/announcing-2013-11-11"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:03:04+00:00"
-[_metadata_:publish_date]:- "2013-11-11"
 [_metadata_:description]:- " "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-11-11"
 ---
 
 

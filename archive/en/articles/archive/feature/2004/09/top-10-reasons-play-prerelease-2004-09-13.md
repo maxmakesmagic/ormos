@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/top-10-reasons-play-prerelease-2004-09-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429024419id_/https://magic.wizards.com/en/articles/archive/feature/top-10-reasons-play-prerelease-2004-09-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:44:19+00:00"
-[_metadata_:publish_date]:- "2004-09-13"
 [_metadata_:description]:- "It's that time of year again! A new set is looming and this coming weekend is your first chance to dig in and play with all your new toys! And it's not just the new set – it's the new block! As regular readers know I usually do a Prerelease Primer to excite people about attending Prerelease weekend."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-09-13"
 ---
 
 

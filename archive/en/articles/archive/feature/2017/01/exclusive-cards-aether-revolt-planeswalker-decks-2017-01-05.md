@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/exclusive-cards-aether-revolt-planeswalker-decks-2017-01-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170105161723id_/http://magic.wizards.com/en/articles/archive/feature/exclusive-cards-aether-revolt-planeswalker-decks-2017-01-05"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-05 16:17:23+00:00"
-[_metadata_:publish_date]:- "2017-01-05"
 [_metadata_:description]:- "Take a look at the exclusive cards you'll find in the new Aether Revolt Planeswalker Decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-01-05"
 ---
 
 

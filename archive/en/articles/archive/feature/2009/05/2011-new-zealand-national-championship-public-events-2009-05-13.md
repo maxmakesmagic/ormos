@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-new-zealand-national-championship-public-events-2009-05-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526105526id_/https://magic.wizards.com/en/articles/archive/feature/2011-new-zealand-national-championship-public-events-2009-05-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 10:55:26+00:00"
-[_metadata_:publish_date]:- "2009-05-13"
 [_metadata_:description]:- "Friday 29th July Nationals Last Chance Qualifiers If you haven't qualified for Nationals this is the last chance! All day Friday both Standard constructed (running all day) and Sealed deck events (start times below) will run with each winner receiving prizes and entry to New Zealand Nationals the following day. These events are open to anyone and you can play in multiple"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-13"
 ---
 
 

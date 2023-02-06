@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-12-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204134632id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-12-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 13:46:32+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Luhrs, Christian 33 62.6653 79.3103 57.7055 12/11/0/0 2 Maher Jr., Bob 31 55.6217 75.8621 54.2409 12/10/1/0 3 Dobson, Tony 30 67.2619 68.7500 60.6392 12/10/0/0 4 Levy, Raphael 30 62.9630 74.0741 59.4823 12/10/0/0 5 Comer, Alan 30 58.3664 71.4286 55.6335 12/10/0/0 6 Gary, Justin 28 59.9537 71.4286"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

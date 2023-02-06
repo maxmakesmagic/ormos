@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-series-top-8-predictions-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704224849id_/https://magic.wizards.com/en/articles/archive/feature/masters-series-top-8-predictions-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-04 22:48:49+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Sideboard Staff Jason Zila (U/W Control) vs. Ben Rubin (Survival/Tradewind) Background: This matchup features a semi-control deck (Rubin's) vs. a complete control deck (Zila's). Zila's deck harkens back to a deck that was popularized by Mike Donais in the spring of 1998, Five-Color Blue, a deck that used Wrath of God, Wall of Blossoms, and counterspells to get control of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

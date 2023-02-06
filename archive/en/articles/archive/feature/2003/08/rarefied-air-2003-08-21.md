@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rarefied-air-2003-08-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126173625id_/https://magic.wizards.com/en/articles/archive/feature/rarefied-air-2003-08-21"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:36:25+00:00"
-[_metadata_:publish_date]:- "2003-08-21"
 [_metadata_:description]:- "As is often the case, I've blindly stumbled into a theme this week. I have two themes, in fact: one intentional, one accidental. My intention this week was to highlight some of the very clever decks that I've encountered in the course of my own goofy deck crusading. The bizarre side effect is that each deck has 8 billion rares.I'll get complaints for that. I know it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-08-21"
 ---
 
 

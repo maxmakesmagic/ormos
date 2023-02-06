@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-warhammer-40000-commander-deck-previews-2022-09-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220908152224id_/https://magic.wizards.com/en/articles/archive/feature/where-find-warhammer-40000-commander-deck-previews-2022-09-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-09-08 15:22:24+00:00"
-[_metadata_:publish_date]:- "2022-09-08"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Warhammer 40,000 Commander decks, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-09-08"
 ---
 
 

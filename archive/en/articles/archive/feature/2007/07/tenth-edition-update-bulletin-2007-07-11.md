@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tenth-edition-update-bulletin-2007-07-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170116181505id_/http://magic.wizards.com/en/articles/archive/feature/tenth-edition-update-bulletin-2007-07-11"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-16 18:15:05+00:00"
-[_metadata_:publish_date]:- "2007-07-11"
 [_metadata_:description]:- "What is Oracle?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-07-11"
 ---
 
 

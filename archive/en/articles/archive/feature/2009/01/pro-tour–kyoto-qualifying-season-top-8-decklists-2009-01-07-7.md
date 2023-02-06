@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2009-01-07-7"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170804025147id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2009-01-07-7"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-04 02:51:47+00:00"
-[_metadata_:publish_date]:- "2009-01-07"
 [_metadata_:description]:- "Thanks to tournament organizer Glen Friedman for the decklists."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-07"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-13-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120184230id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-13-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:42:30+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Baker Justin (282) 23 18 Valkyser Stephan J (178) 23 Blackwell Trevor (166) 26 7 McCord Scott ( 58) 26 Bregoli Mike (214) 28 2 Rubin Ben (175) 30 Brower Jeremy (224) 21 30 Levy Raphael ( 86) 21 Budde Kai (179) 22 23 Linde Matt ( 52) 22 Bui Lucien (154) 26 6 Jorstedt Mattias ( 83) 26 Chapin Patrick (252) 18 42 Snepvangers Abraham ( 85) 17 Comer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

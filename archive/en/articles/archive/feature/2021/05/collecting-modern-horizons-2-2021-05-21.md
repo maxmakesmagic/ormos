@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-modern-horizons-2-2021-05-21?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210522095539id_/https://magic.wizards.com/en/articles/archive/feature/collecting-modern-horizons-2-2021-05-21?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-22 09:55:39+00:00"
-[_metadata_:publish_date]:- "2021-05-21"
 [_metadata_:description]:- "Amazing new card frames, shiny foil treatments, plus art cards, tokens, and more: here's what you need to know about collecting your favorites in Modern Horizons 2."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-05-21"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-6-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518192216id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-6-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 19:22:16+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Abdul Jalal, Abdul Halim Bin (114) 6 98 Tong, Alex (288) 6 Abdul Wahab, Mohammad Nazim (143) 3 121 Syed Faiz, Syed Ahmad Fazli (294) 3 Ahmad Kamal, Ahmad Omar (55) 6 81 Wong, Kok Ming (68) 6 Ahmad, Wan Hafiz Wan (142) 10 37 Liang, Woi Lun (148) 10 Amzar, Hazwan (263) 7 77 Pang, Guo Xiang Kelvin (149) 7 Ang, Jun Yang (120) 13 6 Phang, Ben"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

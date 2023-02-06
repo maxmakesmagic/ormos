@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-9-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529022739id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-9-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-29 02:27:39+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Benafel, Chris 25 58.6934 84.2105 57.3513 9/8/1/0 2 Finkel, Jon 24 67.4897 80.9524 62.0085 9/8/0/0 3 Rose, Kyle 22 58.2231 75.0000 56.2588 9/7/1/0 4 Long, Mike 22 56.7313 72.7273 55.9610 9/7/1/0 5 Fung, Elliot 21 63.7566 73.6842 59.8910 9/7/0/0 6 Frangiosa, Rich 21 63.5273 69.5652 60.4271 9/7/0/0 7"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

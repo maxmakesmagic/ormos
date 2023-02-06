@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93atlanta-2008-10-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017230216id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93atlanta-2008-10-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-17 23:02:16+00:00"
-[_metadata_:publish_date]:- "2008-10-14"
 [_metadata_:description]:- "Pro Tour–Kyoto Qualifier November 14th-16thThe Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring $30,000 in cash prizes, invitations to the Pro Tour™ for the top 16 finishers, and exclusive foil promo cards for participants. Atlanta ... the possibilities are endless. Experience a diverse and thriving"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-14"
 ---
 
 

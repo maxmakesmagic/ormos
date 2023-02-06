@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-vans-warped-tour-2013-2013-06-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531083318id_/https://magic.wizards.com/en/articles/archive/feature/magic-vans-warped-tour-2013-2013-06-06"
 [_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:33:18+00:00"
-[_metadata_:publish_date]:- "2013-06-06"
 [_metadata_:description]:- "Vans Warped Tour and Magic are teaming up again this year! We're proud to be a sponsor for the 2013 Tour! We're teaming up with the band Man Overboard this year. Also be sure to watch the Twitter hashtag #mtgwarped again!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-06"
 ---
 
 

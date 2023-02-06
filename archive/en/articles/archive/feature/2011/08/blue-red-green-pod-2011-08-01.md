@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-red-green-pod-2011-08-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027204149id_/https://magic.wizards.com/en/articles/archive/feature/blue-red-green-pod-2011-08-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:41:49+00:00"
-[_metadata_:publish_date]:- "2011-08-01"
 [_metadata_:description]:- "[decklist] Title: Andrew Jacobs's Blue-Red-Green Pod Format: Standard 4 Copperline Gorge 4 Forest 3 Island 4 Misty Rainforest 2 Mountain 3 Raging Ravine 4 Scalding Tarn 3 Acidic Slime 4 Birds of Paradise 4 Deceiver Exarch 1 Frost Titan 1 Inferno Titan 4 Lotus Cobra 3 Nest Invader 2 Obstinate Baloth 1 Phantasmal Image 1 Phyrexian Metamorph 1 Sea Gate Oracle 1 Vengevine 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-08-01"
 ---
 
 

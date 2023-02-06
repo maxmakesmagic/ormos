@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/thank-you-sir-may-i-have-another-2010-08-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160619191422id_/http://magic.wizards.com/en/articles/archive/feature/thank-you-sir-may-i-have-another-2010-08-30"
 [_metadata_:wayback_capture_timestamp]:- "2016-06-19 19:14:22+00:00"
-[_metadata_:publish_date]:- "2010-08-30"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-08-30"
 ---
 
 

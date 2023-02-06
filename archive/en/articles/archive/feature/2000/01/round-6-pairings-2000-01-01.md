@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030072646id_/https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:26:46+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Table Player Points   Opponent Points 1 Svaldi, Guilherme Dei 12 vs. Poplawski, Eduardo K 12 2 Bandeira, Fernando M 12 vs. Feitosa, Bruno 12 3 Souza Araujo, Tiago Fernando 12"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

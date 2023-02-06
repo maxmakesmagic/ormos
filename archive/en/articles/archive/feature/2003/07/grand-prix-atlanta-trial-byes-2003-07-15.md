@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-atlanta-trial-byes-2003-07-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160114184146id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-atlanta-trial-byes-2003-07-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-14 18:41:46+00:00"
-[_metadata_:publish_date]:- "2003-07-15"
 [_metadata_:description]:- "StatusEventDateOrganizerCityName  PROAtlanta Trials 03-04 #128186/20/2003Mauro BongiovanniMontrealIan Woodley"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-07-15"
 ---
 
 

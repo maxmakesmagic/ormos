@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-results-table-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702082634id_/https://magic.wizards.com/en/articles/archive/feature/round-7-results-table-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-02 08:26:34+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult Opponentwww.alphabetaunlimited.com210vs.Potato PeachTeam 25:17120vs.Scrambled SteakTeam Apprentice210vs.DERAPINMagic Square120vs.Loafing GiantsTeam Shinjo120vs.Circle Money DraftOhwarai no Genki120vs.P-KiesNagator's030vs.Dekiru-Kana?Team Thirties120vs.Poor SharkSusiyan210vs.Tokyo ButtiesBenefactor030vs.Voice of SoulYanitetsu030vs.OO PartsNISIKI300vs.FB Shinjo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

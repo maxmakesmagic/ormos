@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-4"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522174756id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-4"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:47:56+00:00"
-[_metadata_:publish_date]:- "2003-06-27"
 [_metadata_:description]:- "NameLocationCityPhonePARADISE GAMES (Cantabria)Jesus Cancio s/nTorrelavega (Cantabria)34942086164Perra ComicsAlcolea 47Barcelona34933300041Strange ComicsPlaça Purissima Sang CC local 21Reus34977127079ThuleLarga 74 Ed. Puerto Centro local 2Puerto de Sta. Maria34956876778TOTEM COMICSCentro Uxio NovoneyraLugo34982224164Walkyria ComicsFerial nº 6Guadalajara34949214629A Gata"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-06-27"
 ---
 
 

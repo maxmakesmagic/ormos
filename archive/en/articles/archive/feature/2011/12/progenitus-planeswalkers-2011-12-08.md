@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/progenitus-planeswalkers-2011-12-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160111083105id_/http://magic.wizards.com/en/articles/archive/feature/progenitus-planeswalkers-2011-12-08"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-11 08:31:05+00:00"
-[_metadata_:publish_date]:- "2011-12-08"
 [_metadata_:description]:- "It's no secret that R&D member Ken Nagle loves Commander. He has a deck for almost everything—even planeswalkers!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-12-08"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/paradigm-shift-2002-09-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503070516id_/https://magic.wizards.com/en/articles/archive/feature/paradigm-shift-2002-09-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:05:16+00:00"
-[_metadata_:publish_date]:- "2002-09-11"
 [_metadata_:description]:- "In the proud blue tradition of card drawing creatures such as Ophidian, Thieving Magpie, Shadowmage Infiltrator, I present to you…Hystrodon?!?!?Aaron sent out the five Morph Week preview cards to the writers a few weeks ago. Each writer got a different color creature, and they all seemed fairly interesting. All except for the one I was assigned, which in fact was utterly"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-09-11"
 ---
 
 

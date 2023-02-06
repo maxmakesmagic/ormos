@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgcomprotourgeneva07-artists-2006-12-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627034134id_/https://magic.wizards.com/en/articles/archive/feature/mtgcomprotourgeneva07-artists-2006-12-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 03:41:34+00:00"
-[_metadata_:publish_date]:- "2006-12-22"
 [_metadata_:description]:- "Jeff Miracola Jeff Miracola began his career as a professional illustrator in 1993, at the age of 22, after showing his portfolio during a trip to the GenCon gaming convention. One of the first companies to give Jeff work was Wizards of the Coast, Inc. for the role-playing game Everway. Jeff has since worked with FASA Corporation, Steve Jackson Games, Crave Entertainment,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-12-22"
 ---
 
 

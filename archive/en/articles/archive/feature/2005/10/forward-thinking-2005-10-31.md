@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/forward-thinking-2005-10-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022203107id_/https://magic.wizards.com/en/articles/archive/feature/forward-thinking-2005-10-31"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 20:31:07+00:00"
-[_metadata_:publish_date]:- "2005-10-31"
 [_metadata_:description]:- "I. INTRODUCTION Sun Tzu, a military strategist, once stated `Tactics without strategy is the noise before defeat.` This statement, written more than 2,000 years ago, tells us that action without planning can be fatal. Magic is a strategy game. But too often Magic players play the `game` while ignoring the importance of strategy. Attend to the strategy and your game will"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-31"
 ---
 
 

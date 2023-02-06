@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rarely-good-now-2006-05-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117172354id_/https://magic.wizards.com/en/articles/archive/feature/rarely-good-now-2006-05-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-17 17:23:54+00:00"
-[_metadata_:publish_date]:- "2006-05-24"
 [_metadata_:description]:- "Before I get going, I'd like to say that I'm a Canadian. It may not be obvious to those of you outside of my increasingly exclusive inner-circle, but I am. Ted knows, because my articles are etched into fresh sheets of birch veneer and bound in hockey-tape. I'm sure they're hell to edit, but it's the way I've been taught to write, so tough-noogies. So even though I can't tell"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-05-24"
 ---
 
 

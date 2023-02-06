@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/boros-landfall-2010-08-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160917040128id_/http://magic.wizards.com/en/articles/archive/feature/boros-landfall-2010-08-20"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-17 04:01:28+00:00"
-[_metadata_:publish_date]:- "2010-08-20"
 [_metadata_:description]:- "[decklist] Title: Lu Chao's Boros Landfall Format: Standard - 1st Place - 2010 China National Championships 4 Arid Mesa 4 Marsh Flats 5 Mountain 6 Plains 4 Scalding Tarn 1 Terramorphic Expanse 1 Goblin Bushwhacker 4 Goblin Guide 2 Kor Skyfisher 4 Plated Geopede 2 Ranger of Eos 4 Steppe Lynx 2 Stoneforge Mystic 1 Adventuring Gear 2 Ajani Vengeant 1 Basilisk Collar 2 Burst Lightning 3 Elspeth, Knight-Errant 4 Lightning Bolt 4 Path to Exile"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-08-20"
 ---
 
 

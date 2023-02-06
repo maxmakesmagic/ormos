@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-proceed-scheduled-2014-01-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521232851id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-proceed-scheduled-2014-01-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 23:28:51+00:00"
-[_metadata_:publish_date]:- "2014-01-06"
 [_metadata_:description]:- "Several players and judges have recently expressed concern about the potential impact to travel and availability of accommodations due to the proximity of Grand Prix São Paulo (May 30–June 1) to the 2014 FIFA World Cup, which begins on June 12.At the time of scheduling the Grand Prix last year, the World Cup had been taken into consideration and the dates had been specifically"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-01-06"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/forgotten-lore-10-mental-locks-magic-2004-10-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502072919id_/https://magic.wizards.com/en/articles/archive/feature/forgotten-lore-10-mental-locks-magic-2004-10-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 07:29:19+00:00"
-[_metadata_:publish_date]:- "2004-10-11"
 [_metadata_:description]:- "Introduction from the EditorBefore Magic celebrity Mark Rosewater got a full-time job at Wizards of the Coast he was actually a writer for The Duelist, Magic’s first magazine. When I began the Forgotten Lore series earlier this year as a chance to highlight the best articles from The Duelist I asked if there were any articles from those days that he was particularly proud of."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-10-11"
 ---
 
 

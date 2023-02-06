@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-qualifiers-top-8-standard-decklists-2013-05-02-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516222522id_/https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-qualifiers-top-8-standard-decklists-2013-05-02-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 22:25:22+00:00"
-[_metadata_:publish_date]:- "2013-05-02"
 [_metadata_:description]:- "World Magic Cup Qualifier Top 8 Decklists Thanks to tournament organizer Bram Snepvangers for the deck lists."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-02"
 ---
 
 

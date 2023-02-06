@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/phyrexian-kens-demands-2011-05-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707074938id_/http://magic.wizards.com/en/articles/archive/feature/phyrexian-kens-demands-2011-05-16"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-07 07:49:38+00:00"
-[_metadata_:publish_date]:- "2011-05-16"
 [_metadata_:description]:- "In the time since I last led a development team soup to nuts—Shadowmoor—not only have I learned a metric ton more about the craft, but I've also led a couple design teams (Magic 2010 and Magic 2011), so I've become more sympathetic to the `plight` of the lead designer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-05-16"
 ---
 
 

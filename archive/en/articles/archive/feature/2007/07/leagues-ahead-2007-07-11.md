@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/leagues-ahead-2007-07-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816044026id_/https://magic.wizards.com/en/articles/archive/feature/leagues-ahead-2007-07-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 04:40:26+00:00"
-[_metadata_:publish_date]:- "2007-07-11"
 [_metadata_:description]:- "Hello and welcome back to Online Tech! Today I will go over the online Time Spiral Block Constructed metagame. Also—in line with the current Sealed Deck week—I will talk about online league play. But first, I will feature the special 3x prize events that have been held in recent weekends. Scott Larabee wanted to try out something with these Classic, Prismatic, and Singleton"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-07-11"
 ---
 
 

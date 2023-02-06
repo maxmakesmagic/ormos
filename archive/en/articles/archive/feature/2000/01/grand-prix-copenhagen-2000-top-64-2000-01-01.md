@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-top-64-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517151808id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-top-64-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 15:18:08+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Sanders Jensen, Niels 21 79,7619 100,0000 72,9911 4/4/0/3 2 Canu, Franck 21 76,1905 92,8571 71,2754 4/4/0/3 3 Eskeland, Sigurd 21 72,6190 87,5000 67,7431 4/4/0/3 4 Van de Logt, Tom 21 69,6825 82,3529 60,7016 5/5/0/2 5 Monsen, Haakon R 19 70,6349 85,7143 68,3102 6/5/1/1 6 Angelin, Marcus 19 64,7619"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

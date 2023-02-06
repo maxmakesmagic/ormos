@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-1-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526113610id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-1-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:36:10+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Table Opponent Akbar, David ( 60) 31 Devenport, David (108) Allen, Dustin ( 36) 44 Cavey, Michael ( 10) Armstrong, Herman ( 88) 67 Lovin, Mark (140) Aubertin, Justin ( 3) 11 Howell, Damon (119) Beckmon, John ( 15) 54 Lewis, Aaron ( 84) Benafel, Chris ( 50) 22 Bunsongsikul, Ped ( 82) Bhattacharyya, Sayan ( 39) 21 Hale, Yancy (121) Bigos, Kyle ( 21) 46 Carpenter, Ryan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

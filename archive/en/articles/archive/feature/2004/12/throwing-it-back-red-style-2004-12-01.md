@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/throwing-it-back-red-style-2004-12-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210421163503id_/https://magic.wizards.com/en/articles/archive/feature/throwing-it-back-red-style-2004-12-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-21 16:35:03+00:00"
-[_metadata_:publish_date]:- "2004-12-01"
 [_metadata_:description]:- "Shuhei Nakamura, PT Columbus '04Today we take for granted decks like the one Shuhei Nakamura used to make Top 8 at PT Columbus; mono-red beatdown decks with a ton of one-drops, a little utility, and a healthy amount of burn. But once upon a time, the principles that his deck were built upon were not only brand new, but actually scoffed at by most of Magic's Internet theorists."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-12-01"
 ---
 
 

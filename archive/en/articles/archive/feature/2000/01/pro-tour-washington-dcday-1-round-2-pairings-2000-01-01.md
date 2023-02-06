@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517055207id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 05:52:07+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points 770 (26) 0 28 Kakao (46) 0 Amsterdam (52) 1 21 The Alliance (71) 1 Antarctica (42) 3 18 Name Denied (29) 3 ATM (64) 3 6 Tongo Nation (31) 3 Babes of the Dingo (70) 3 11 Special Bus (68) 3 Big Dogs (27) 3 7 Luscious (51) 3 Billy Goats Gruff (61) 0 26 Champions (38) 0 Brown Bomber (69) 1 19 Rocket (55) 1 CCC (60) 3 16 Deadguy (72) 3 Champions"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

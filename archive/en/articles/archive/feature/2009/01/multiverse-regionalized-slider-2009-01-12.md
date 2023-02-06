@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/multiverse-regionalized-slider-2009-01-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020211608id_/https://magic.wizards.com/en/articles/archive/feature/multiverse-regionalized-slider-2009-01-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 21:16:08+00:00"
-[_metadata_:publish_date]:- "2009-01-12"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-12"
 ---
 
 

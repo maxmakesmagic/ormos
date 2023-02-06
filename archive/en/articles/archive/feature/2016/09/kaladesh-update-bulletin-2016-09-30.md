@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/kaladesh-update-bulletin-2016-09-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160930161734id_/http://magic.wizards.com/en/articles/archive/feature/kaladesh-update-bulletin-2016-09-30"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-30 16:17:34+00:00"
-[_metadata_:publish_date]:- "2016-09-30"
 [_metadata_:description]:- "A review of all the Oracle and Comprehensive Rules changes that come with a new set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-09-30"
 ---
 
 

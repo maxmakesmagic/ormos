@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/feeling-stangg-2013-08-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809180445id_/https://magic.wizards.com/en/articles/archive/feature/feeling-stangg-2013-08-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-09 18:04:45+00:00"
-[_metadata_:publish_date]:- "2013-08-29"
 [_metadata_:description]:- "While reading the prose of one Eric Levine last week, I was intrigued by his Stangg Commander deck. As he describes it, the deck is heavily themed, and based around the wild combination of Apes and Centaurs. I know Marshall Sutcliffe is building the deck already, and I thought it was an awesome enough idea to monkey with it for the column today. This deck is both more and less"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-29"
 ---
 
 

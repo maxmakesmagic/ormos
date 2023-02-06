@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/strixhaven-school-mages-mechanics-2021-03-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210325165132id_/https://magic.wizards.com/en/articles/archive/feature/strixhaven-school-mages-mechanics-2021-03-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-03-25 16:51:32+00:00"
-[_metadata_:publish_date]:- "2021-03-25"
 [_metadata_:description]:- "Lessons on the upcoming release Strixhaven: School of Mages begins with a look at each mechanic in the set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-03-25"
 ---
 
 

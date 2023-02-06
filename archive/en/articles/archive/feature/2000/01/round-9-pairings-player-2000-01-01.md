@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-pairings-player-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629165552id_/https://magic.wizards.com/en/articles/archive/feature/round-9-pairings-player-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-29 16:55:52+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPointsOpponentPointsAbsolute21vswww.alphabetaunlimited.com24Circle Money Draft18vsFire Beat18Dekiru-Kana?19vsDERAPIN19DERAPIN19vsDekiru-Kana?19Fire Beat18vsCircle Money Draft18Loafing Giants21vsPotato Peach21Magic Square18vsNISIKI18NISIKI18vsMagic Square18P-Kies19vsTeam Apprentice19Poor Shark19vsYaburon19Potato Peach21vsLoafing Giants21Scrambled"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

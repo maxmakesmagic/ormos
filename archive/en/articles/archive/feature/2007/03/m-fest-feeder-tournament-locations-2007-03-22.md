@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/m-fest-feeder-tournament-locations-2007-03-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019233822id_/https://magic.wizards.com/en/articles/archive/feature/m-fest-feeder-tournament-locations-2007-03-22"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 23:38:22+00:00"
-[_metadata_:publish_date]:- "2007-03-22"
 [_metadata_:description]:- "Updated 2007-05-31 M-fest Fact SheetM-fest Feeder TournamentsCountryLocationDateOrganiserWebsiteEmailPhoneMapENGAltrincham21-MarThe Gaming Crypt--0161 929 9919LinkENGAltrincham18-AprThe Gaming Crypt--0161 929 9919LinkENGAltrincham23-MayThe Gaming Crypt--0161 929 9919LinkENGAltrincham20-JunThe Gaming Crypt--0161 929 9919LinkENGAltrincham18-JulThe Gaming Crypt--0161 929"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-03-22"
 ---
 
 

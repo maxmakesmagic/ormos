@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-update-bulletin-2013-09-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123215222id_/https://magic.wizards.com/en/articles/archive/feature/theros-update-bulletin-2013-09-24"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-23 21:52:22+00:00"
-[_metadata_:publish_date]:- "2013-09-24"
 [_metadata_:description]:- "Welcome, dear readers, to a small look behind the curtain, under the hood, and betwixt the metaphors. With every new expansion, the Oracle team and I spend some time working on perfecting the wordings of older cards and tweaking the Comprehensive Rules. After the more substantial update that took place with the  Magic 2014 core set, I knew the Theros update would be a little lighter."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-24"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-player-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702091936id_/https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-player-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:19:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPointsOpponentPointsA.S.K.7vsKou II Ziko7AAA12vsBenefactor12ABCC10vsPrince Hirotaka10Absolute12vsCrash12Aibon9vsAsterisk10Ain't afraid to die9vsTeam Marui9Air Orange9vsSuberikomi9Akko ni Omakase7vsWiz type KOF7All time 6000yen9vsUnluckey's9Apocalypse6vsLucifer6Army of Serra7vsFC Nasu7Ascalon Plus3vsInitial T3Asian Papillon9vsFruits Basket9Asterisk10vsAibon9ATOK13vsVoice of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

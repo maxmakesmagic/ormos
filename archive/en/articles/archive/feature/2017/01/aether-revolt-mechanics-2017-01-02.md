@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030707id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:07:07+00:00"
-[_metadata_:publish_date]:- "2017-01-02"
 [_metadata_:description]:- "Matt explains the new and returning mechanics distinct to Aether Revolt."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-01-02"
 ---
 
 

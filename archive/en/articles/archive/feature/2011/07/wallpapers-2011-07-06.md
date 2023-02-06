@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpapers-2011-07-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207191708id_/https://magic.wizards.com/en/articles/archive/feature/wallpapers-2011-07-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-07 19:17:08+00:00"
-[_metadata_:publish_date]:- "2011-07-06"
 [_metadata_:description]:- "Magic 2012 Wallpaper 3 1024x768 pixels1280x960 pixels1280x1024 pixels2560x1600 pixels640x960 pixels (iPhone)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-07-06"
 ---
 
 

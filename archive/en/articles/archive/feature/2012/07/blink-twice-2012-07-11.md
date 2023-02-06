@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blink-twice-2012-07-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025174257id_/https://magic.wizards.com/en/articles/archive/feature/blink-twice-2012-07-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 17:42:57+00:00"
-[_metadata_:publish_date]:- "2012-07-11"
 [_metadata_:description]:- "While the flicker mechanic goes back a long way, it really didn't take its place in the Constructed circle until Momentary Blink was printed and the mechanic came with card advantage attached. Momentary Blink was probably the most powerful flicker ever, but there have been plenty to see print since. In Avacyn Restored, both Cloudshift and Ghostly Flicker do a pretty good job"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-07-11"
 ---
 
 

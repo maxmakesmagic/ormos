@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extending-rath-2002-06-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204173418id_/https://magic.wizards.com/en/articles/archive/feature/extending-rath-2002-06-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 17:34:18+00:00"
-[_metadata_:publish_date]:- "2002-06-20"
 [_metadata_:description]:- "The recent announcement of the Extended set rotations started me thinking a lot about older cards and new decks. Don't get me wrong: I won't play in any Extended tournaments, nor is this column meant to prepare you for tournament Magic. However, a new format means a blank canvas for deckbuilding. As such, I can't help but wonder what kind of funky ideas might work in an"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-06-20"
 ---
 
 

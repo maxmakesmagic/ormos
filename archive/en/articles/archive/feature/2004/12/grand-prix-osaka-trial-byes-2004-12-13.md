@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-trial-byes-2004-12-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807154333id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-trial-byes-2004-12-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-07 15:43:33+00:00"
-[_metadata_:publish_date]:- "2004-12-13"
 [_metadata_:description]:- "TeamFirst NameLast NameOrganizerCityCountyDateMirror ForceGenKagamiTakashi AidaYokohamaJapan2004/11/21Mirror ForceHideoMurogaTakashi AidaYokohamaJapan2004/11/21Mirror ForceKanakoKanaguchiTakashi AidaYokohamaJapan2004/11/21WyzLiangXuChao LiBeijingChina2004/11/27WyzZhongDongChao LiBeijingChina2004/11/27WyzMei Yi SiTu, Sr.Chao LiBeijingChina2004/11/27Mike's Team / Southern"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-12-13"
 ---
 
 

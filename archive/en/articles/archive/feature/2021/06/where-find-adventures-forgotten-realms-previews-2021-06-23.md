@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com//en/articles/archive/feature/where-find-adventures-forgotten-realms-previews-2021-06-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210624093609id_/https://magic.wizards.com//en/articles/archive/feature/where-find-adventures-forgotten-realms-previews-2021-06-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-24 09:36:09+00:00"
-[_metadata_:publish_date]:- "2021-06-23"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Adventures in the Forgotten Realms, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-06-23"
 ---
 
 

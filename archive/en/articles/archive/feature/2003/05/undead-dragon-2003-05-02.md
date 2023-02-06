@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/undead-dragon-2003-05-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150718212818id_/http://magic.wizards.com/en/articles/archive/feature/undead-dragon-2003-05-02"
 [_metadata_:wayback_capture_timestamp]:- "2015-07-18 21:28:18+00:00"
-[_metadata_:publish_date]:- "2003-05-02"
 [_metadata_:description]:- "When the Scourge design team handed the set off to development there was no Dragon theme and the card I am previewing this week did not yet exist. Scourge did have a “size matters” theme and it was very much the `Big Stuff Set,` so when the development team suggested making it also a `Dragon Set,` lead designer Brian Tinsman very quickly embraced the idea. There were already several cool dragon cards so there was no huge overhaul."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-05-02"
 ---
 
 

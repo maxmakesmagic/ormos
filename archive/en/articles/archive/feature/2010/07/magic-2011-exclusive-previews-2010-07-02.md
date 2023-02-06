@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2011-exclusive-previews-2010-07-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180610011914id_/https://magic.wizards.com/en/articles/archive/feature/magic-2011-exclusive-previews-2010-07-02"
 [_metadata_:wayback_capture_timestamp]:- "2018-06-10 01:19:14+00:00"
-[_metadata_:publish_date]:- "2010-07-02"
 [_metadata_:description]:- "Previews for the Magic 2011 core set are still happening. As you no doubt know, you can already find lots of cards, both new and reprinted, in the Visual Spoiler on the M11 mini-site. But what about the cards yet to be previewed? What about the cards that are appearing right now on other websites than this one?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-02"
 ---
 
 

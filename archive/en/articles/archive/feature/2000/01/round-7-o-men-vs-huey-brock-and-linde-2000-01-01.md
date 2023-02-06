@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-o-men-vs-huey-brock-and-linde-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627074631id_/https://magic.wizards.com/en/articles/archive/feature/round-7-o-men-vs-huey-brock-and-linde-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 07:46:31+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "O-men vs. Huey, Brock, and LindeFor years now, the center of Pittsburgh Magic has been the Original Hot Dog Shop located in the Carnegie Mellon University student center. Known affectionately as `The O,` it has been visited by Magic players from around the world and everyone of them has been wowed by the size of the french fries (one order feeds a large family, or one maybe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

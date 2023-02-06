@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gp-prague-champ-2009-09-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414011856id_/http://magic.wizards.com/en/articles/archive/feature/gp-prague-champ-2009-09-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:18:56+00:00"
-[_metadata_:publish_date]:- "2009-09-15"
 [_metadata_:description]:- "Jan Schmidt's Blue-White Aggro"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-15"
 ---
 
 

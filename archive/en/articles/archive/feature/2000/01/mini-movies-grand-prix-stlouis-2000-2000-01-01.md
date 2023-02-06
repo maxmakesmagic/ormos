@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mini-movies-grand-prix-stlouis-2000-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124034027id_/https://magic.wizards.com/en/articles/archive/feature/mini-movies-grand-prix-stlouis-2000-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:40:27+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-alara-sortable-spoiler-2008-09-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019142545id_/https://magic.wizards.com/en/articles/archive/feature/shards-alara-sortable-spoiler-2008-09-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 14:25:45+00:00"
-[_metadata_:publish_date]:- "2008-09-29"
 [_metadata_:description]:- "Event.observe(window, 'load', loadHouseTower); //"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-29"
 ---
 
 

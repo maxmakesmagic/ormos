@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vintage-championship-decklists-2008-08-28-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119164832id_/https://magic.wizards.com/en/articles/archive/feature/vintage-championship-decklists-2008-08-28-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 16:48:32+00:00"
-[_metadata_:publish_date]:- "2008-08-28"
 [_metadata_:description]:- "[decklist] Title: Jerry Yang, Vintage Format: 2008 Vintage Championship 4 Polluted Delta 3 Underground Sea 2 Island 2 Swamp 1 Bloodstained Mire 1 Darksteel Colossus 4 Force of Will 1 Black Lotus 1 Lotus Petal 1 Mana Crypt 1 Mana Vault 1 Mox Emerald 1 Mox Jet 1 Mox Pearl 1 Mox Ruby 1 Mox Sapphire 1 Sol Ring 4 Dark Ritual 2 Cabal Ritual 4 Duress 2 Grim Tutor 1 Ancestral Recall 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-28"
 ---
 
 

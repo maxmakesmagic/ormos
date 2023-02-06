@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-10-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627004733id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-10-26"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:47:33+00:00"
-[_metadata_:publish_date]:- "2009-10-26"
 [_metadata_:description]:- "Latin America October-December 2009 CountryCityEvent DateInvitationsLocationAddressURL ArgentinaBuenos Aires11/7/20091Salon BasalkuaBelgrano 1144Website ArgentinaBuenos Aires12/5/20091Salon BasalkuaBelgrano 1144Website BoliviaLa Paz10/31/20091TM Games - ObrajesAv. H. Ormachea 5236Email BrasilSao Paulo12/6/20091Devir LivrariaCambuci Rua Teodureto SoutoWebsite BrasilRio de"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-26"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-6-feature-match-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124045301id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-6-feature-match-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:53:01+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler Coming into this tournament, one of the most popular picks to win it all was Billy Jensen. `Baby Huey` followed up his Top 8 at the last limited Pro Tour by winning grand Prix San Diego and some consider him the best limited player in the world. He started out 3-0 this weekend, but had lost 2 in a row when he sat down to play Michael Sochon in round 6. The winner of this match could draw into day 2 and the loser was eliminated."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

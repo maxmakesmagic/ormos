@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/peeking-black-box-2004-04-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200920145947id_/https://magic.wizards.com/en/articles/archive/feature/peeking-black-box-2004-04-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-20 14:59:47+00:00"
-[_metadata_:publish_date]:- "2004-04-01"
 [_metadata_:description]:- "In a lair buried deep beneath R&D lies Gleema—whoops, that's the other Mark. In a lair 50 yards from my desk, on the first floor, lined with windows looking out into the parking lot, lies a different lair: the R&D library. Its shelves are lined with dusty copies of RPGs and board games. There are stacks of trade magazines. And there are cabinets containing boxes upon boxes of Magic singles, Duel Masters singles, Star Wars singles… you get the idea."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-04-01"
 ---
 
 

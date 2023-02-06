@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/inaugural-magic-gathering-game-dev-rumble-2013-02-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170923125834id_/https://magic.wizards.com/en/articles/archive/feature/inaugural-magic-gathering-game-dev-rumble-2013-02-06"
 [_metadata_:wayback_capture_timestamp]:- "2017-09-23 12:58:34+00:00"
-[_metadata_:publish_date]:- "2013-02-06"
 [_metadata_:description]:- "Did you hear about the Inaugural Magic: The Gathering Game Dev Rumble? It was great! Teams from a variety of Seattle-area game dev houses came to Wizards of the Coast and played Magic! First, the competitors:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-02-06"
 ---
 
 

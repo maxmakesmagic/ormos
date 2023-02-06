@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sliver-chance-2013-08-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906152349id_/http://magic.wizards.com/en/articles/archive/feature/sliver-chance-2013-08-16"
 [_metadata_:wayback_capture_timestamp]:- "2017-09-06 15:23:49+00:00"
-[_metadata_:publish_date]:- "2013-08-16"
 [_metadata_:description]:- "While the original name for the Counter-Sliver deck in Legacy was Meathooks (due to what the old Slivers tended to look like), I figured that might be a bit obtuse to the average reader. Regardless, the idea behind the deck is the same, albeit with some powerful new additions. I found a cool list in an article by Caleb Durward, which updates the classic Counter-Sliver strategies with the printing of  Magic 2014 ."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-16"
 ---
 
 

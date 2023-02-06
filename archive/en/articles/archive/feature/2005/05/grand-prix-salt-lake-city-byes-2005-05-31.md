@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-byes-2005-05-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815075159id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-byes-2005-05-31"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-15 07:51:59+00:00"
-[_metadata_:publish_date]:- "2005-05-31"
 [_metadata_:description]:- "Rating used: Constructed, May 11th, 2005Pro Point Standings Used: Magic the Gathering Pro Players Club."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-05-31"
 ---
 
 

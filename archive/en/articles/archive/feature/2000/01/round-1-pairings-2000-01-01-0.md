@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030012404id_/https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 01:24:04+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Table Player   Opponent 1 Mesabri, Conrado Kamienski vs. Apter, Alan 2 Marques, Raphael Suss vs. Katerenhuk, Pedro 3 Taveira, Luis Felipe vs. Camargo, Marco Antonio 4 Presas, Joaquim F vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

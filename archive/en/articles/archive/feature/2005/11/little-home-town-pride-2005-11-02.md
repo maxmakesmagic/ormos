@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/little-home-town-pride-2005-11-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122222419id_/https://magic.wizards.com/en/articles/archive/feature/little-home-town-pride-2005-11-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-22 22:24:19+00:00"
-[_metadata_:publish_date]:- "2005-11-02"
 [_metadata_:description]:- "We have been spending a lot of our time and energy lately on the guilds and their bichromatic coolness. They're new, they're interesting, and they're chock-full of things to talk about. But, I received an email recently that made me think about them a different way. It was from Blazing Archon, and here's what he had to say:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-02"
 ---
 
 

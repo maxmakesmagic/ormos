@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/future-magicthegatheringcom-2003-10-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429030720id_/https://magic.wizards.com/en/articles/archive/feature/future-magicthegatheringcom-2003-10-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:07:20+00:00"
-[_metadata_:publish_date]:- "2003-10-08"
 [_metadata_:description]:- "`I may steal Aaron from you someday. What do you think about that?` When Bill Rose (V.P. of R&D) first said those words, we were at a barbeque at Jeff Donais' house on some random sunny Seattle weekend and I just kept thinking to myself... man... I knew this would happen!.The truth is, I had thought about it quite a bit. Before we hired Aaron Forsythe to be the producer of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-10-08"
 ---
 
 

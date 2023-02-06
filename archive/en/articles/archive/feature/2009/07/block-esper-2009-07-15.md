@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/block-esper-2009-07-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815102408id_/https://magic.wizards.com/en/articles/archive/feature/block-esper-2009-07-15"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-15 10:24:08+00:00"
-[_metadata_:publish_date]:- "2009-07-15"
 [_metadata_:description]:- "[decklist] Title: BadBeatBret's Esper Beatdown Format: Magic Online Shards of Alara Block Constructed 4 Arcane Sanctum 3 Island 6 Plains 4 Swamp 4 Court Homunculus 4 Esper Stormblade 3 Esperzoa 4 Ethersworn Canonist 2 Ethersworn Shieldmage 4 Glaze Fiend 4 Master of Etherium 4 Vedalken Outlander 4 Fieldmist Borderpost 4 Mistvein Borderpost 2 Oblivion Ring 4 Thopter Foundry *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-15"
 ---
 
 

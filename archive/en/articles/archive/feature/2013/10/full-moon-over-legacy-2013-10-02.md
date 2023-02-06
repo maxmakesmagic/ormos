@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/full-moon-over-legacy-2013-10-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160801143652id_/http://magic.wizards.com/en/articles/archive/feature/full-moon-over-legacy-2013-10-02"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-01 14:36:52+00:00"
-[_metadata_:publish_date]:- "2013-10-02"
 [_metadata_:description]:- "I've seen some crazy things happen in Legacy, but a deck with eight Werewolves might just take the cake (and devour it messily). Optimis344 played this deck in a Magic Online event and, I assume, flipped some Werewolves on the way to a 3–1 finish."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-10-02"
 ---
 
 

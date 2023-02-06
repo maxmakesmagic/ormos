@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/one-week-regionals-2005-06-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527122237id_/https://magic.wizards.com/en/articles/archive/feature/one-week-regionals-2005-06-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 12:22:37+00:00"
-[_metadata_:publish_date]:- "2005-06-18"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Regionals is almost upon us! Rather than cut into your deck tech testing time, let's hit the questions right away.Q: If I sacrifice my Kami of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-06-18"
 ---
 
 

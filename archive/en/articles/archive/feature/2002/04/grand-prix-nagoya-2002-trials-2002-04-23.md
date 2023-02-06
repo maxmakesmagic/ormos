@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2002-trials-2002-04-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020122759id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2002-trials-2002-04-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 12:27:59+00:00"
-[_metadata_:publish_date]:- "2002-04-23"
 [_metadata_:description]:- "Japan CountryDateCityVenueAddressPlayer Contact Japan2002/02/10OsakaYodogawa Municipal Center2-1-5 Nonaka-minami, Yodogawa-ku, Osaka-shi, Osaka-furon.foster@wizards.com Japan2002/02/17FukuokaHakata Star Lanes (GP Fukuoka ancillary event)1-18-33 Hakata-eki Higashi, Hakata-ku, Fukuoka-shi, Fukuoka-kenron.foster@wizards.com Japan2002/03/09TokyoDCI Tournament Center3-19-1 Shibuya,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-04-23"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unchecked-zubera-2005-12-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127090649id_/https://magic.wizards.com/en/articles/archive/feature/unchecked-zubera-2005-12-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 09:06:49+00:00"
-[_metadata_:publish_date]:- "2005-12-20"
 [_metadata_:description]:- "Magicthegathering.com is running `best of` content during the holidays, and will return with new content January 4, 2006. This Magic Arcana originally ran February 15, 2005. The color green is home to many creature-pumping effects. The flavor of these pump effects is often the literal growth of the creature in question -- the creature becomes giant-sized and is thereby better"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-12-20"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rite-replication-2009-11-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160820232707id_/http://magic.wizards.com/en/articles/archive/feature/rite-replication-2009-11-18"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-20 23:27:07+00:00"
-[_metadata_:publish_date]:- "2009-11-18"
 [_metadata_:description]:- "[decklist] Title: Takagi Yui's Rite of Replication Format: Standard 10 Forest 5 Island 4 Misty Rainforest 4 Oran-Rief, the Vastwood 4 Birds of Paradise 4 Great Sable Stag 4 Master of the Wild Hunt 3 Nissa's Chosen 4 Noble Hierarch 3 Sphinx of Lost Truths 3 Garruk Wildspeaker 3 Jace Beleren 3 Negate 2 Nissa Revane 4 Rite of Replication *3 Acidic Slime *1 Negate *3 Sleep *4 Wall of Frost *4 Windstorm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-11-18"
 ---
 
 

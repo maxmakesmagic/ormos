@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-black-control-2010-10-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121082530id_/https://magic.wizards.com/en/articles/archive/feature/blue-black-control-2010-10-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 08:25:30+00:00"
-[_metadata_:publish_date]:- "2010-10-22"
 [_metadata_:description]:- "[decklist] Title: Nick Spagnolo Blue-Black Control Format: Standard 4 Creeping Tar Pit 2 Darkslick Shores 4 Drowned Catacomb 6 Island 2 Misty Rainforest 3 Swamp 3 Tectonic Edge 1 Verdant Catacombs 3 Frost Titan 3 Trinket Mage 2 Jace Beleren 4 Jace, the Mind Sculptor 1 Brittle Effigy 1 Consume the Meek 1 Consuming Vapors 4 Doom Blade 1 Elixir of Immortality 2 Everflowing"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-10-22"
 ---
 
 

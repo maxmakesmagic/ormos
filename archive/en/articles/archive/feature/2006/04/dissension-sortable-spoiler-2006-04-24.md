@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dissension-sortable-spoiler-2006-04-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191019093445id_/https://magic.wizards.com/en/articles/archive/feature/dissension-sortable-spoiler-2006-04-24"
 [_metadata_:wayback_capture_timestamp]:- "2019-10-19 09:34:45+00:00"
-[_metadata_:publish_date]:- "2006-04-24"
 [_metadata_:description]:- "As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of magicthegathering.com. Here is the sortable spoiler list for Dissension. Enjoy!  Launch the Dissension card list"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-04-24"
 ---
 
 

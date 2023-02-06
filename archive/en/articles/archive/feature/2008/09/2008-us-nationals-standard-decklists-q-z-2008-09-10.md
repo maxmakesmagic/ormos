@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-us-nationals-standard-decklists-q-z-2008-09-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120090932id_/https://magic.wizards.com/en/articles/archive/feature/2008-us-nationals-standard-decklists-q-z-2008-09-10"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 09:09:32+00:00"
-[_metadata_:publish_date]:- "2008-09-10"
 [_metadata_:description]:- "[decklist] Title: Aadil Qadir Format: 197 - U.S. National Championships 2008 4 Adarkar Wastes 4 Mutavault 11 Snow-Covered Island 4 Wanderwine Hub 3 Stonybrook Banneret 4 Cursecatcher 2 Tideshaper Mystic 4 Lord of Atlantis 4 Silvergill Adept 2 Sygg, River Guide 4 Merrow Reejerey 3 Sower of Temptation 2 Venser, Shaper Savant 2 Ancestral Vision 3 Sage's Dousing 4 Cryptic Command"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/green-blue-black-control-2011-01-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170316004241id_/http://magic.wizards.com/en/articles/archive/feature/green-blue-black-control-2011-01-07"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-16 00:42:41+00:00"
-[_metadata_:publish_date]:- "2011-01-07"
 [_metadata_:description]:- "[decklist] Title: Lennyo's Green-Blue-Black Control Format: Standard 4 Creeping Tar Pit 2 Drowned Catacomb 1 Evolving Wilds 5 Forest 2 Halimar Depths 2 Island 4 Misty Rainforest 2 Swamp 4 Verdant Catacombs 4 Acidic Slime 2 Frost Titan 3 Grave Titan 4 Lotus Cobra 3 Oracle of Mul Daya 3 Jace, the Mind Sculptor 2 Doom Blade 3 Explore 2 Jace's Ingenuity 4 Preordain 4 Spreading Seas *2 Consume the Meek *2 Doom Blade *1 Frost Titan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-07"
 ---
 
 

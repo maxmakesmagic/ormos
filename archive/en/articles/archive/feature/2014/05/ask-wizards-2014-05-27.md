@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-05-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129002839id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-05-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-29 00:28:39+00:00"
-[_metadata_:publish_date]:- "2014-05-27"
 [_metadata_:description]:- "Ask Wizards is a weekly feature that allows you to ask us questions! If you'd like to submit your question please email it to AskWizards@wizards.com. We aren't able to answer every question we receive but if your question is good then it might show up in the coming weeks!  Q: With Modern Masters the set sold out ridiculously fast at my LGS, so I got none. Will this be the same"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-27"
 ---
 
 

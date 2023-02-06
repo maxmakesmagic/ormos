@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-results-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704100642id_/https://magic.wizards.com/en/articles/archive/feature/round-3-results-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-04 10:06:42+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult Opponent#I MagicLost 0-3vsTeam Acme Smackdown#realgangstasWon 2-1vsUnexpected Treasure$30 Cab FareLost 0-3vsNever Was$42 TicketWon 3-0vsI Don't Care100 Super Good Fun TimeLost 1-2vsShaolin Sword3 for FlinchingLost 0-3vsTeam Time Capsule3 StoogesWon 2-1vsThe Flagbearers3 White Boys from the StixLost 0-3vsTwo Geeks and a Lumberjack3 X ThreatLost 0-3vsUne Leche De FBI5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

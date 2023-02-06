@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/booster-fun-modern-horizons-2-2021-05-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210521192812id_/https://magic.wizards.com/en/articles/archive/feature/booster-fun-modern-horizons-2-2021-05-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-21 19:28:12+00:00"
-[_metadata_:publish_date]:- "2021-05-21"
 [_metadata_:description]:- "There's a lot that goes into card treatments, and the Modern Horizons 2 team takes us behind-the-scenes for a look at the process!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-05-21"
 ---
 
 

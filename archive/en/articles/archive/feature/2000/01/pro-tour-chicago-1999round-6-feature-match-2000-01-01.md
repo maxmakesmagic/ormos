@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-6-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522111228id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-6-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 11:12:28+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Jakub Slemr vs. Kyle Rose Kyle Rose and Jakub Slemr were both 3-2 when this match began. As veterans and former Pro Tour champions, they knew that it would take a 5-2 record to make day 2 and thus the loser of this match was done for the weekend. Kyle, to the surprise of absolutely no one, was running lots of forests and lots of small green creatures in his deck. Slemr, one of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

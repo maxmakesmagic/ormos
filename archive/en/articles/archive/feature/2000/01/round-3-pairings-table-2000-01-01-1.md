@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-table-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702082222id_/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-table-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-02 08:22:22+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPoints OpponentPointsBenefactor6vsLemegeton6DEFENCER Minor6vsWis Type Ing6Magic Square6vsAin't afraid to die6Team Rune Factory6vsTeam Shinjo6NISIKI6vsTeam Food Chain6Ancestral Memories6vsInore6Iori6vsGo Renger6Team Emon Staff6vsRegneva6Chiban Dragon6vsTriple Mulligan6Sut6vsTiimumei Mikettei6Fire Beat6vsMeruhen World6Reckless Triskelion6vsTeam ToDo6ST6vsTeam"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

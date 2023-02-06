@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixyokohama03facts-2003-07-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124040415id_/https://magic.wizards.com/en/articles/archive/feature/grandprixyokohama03facts-2003-07-30"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:04:15+00:00"
-[_metadata_:publish_date]:- "2003-07-30"
 [_metadata_:description]:- "Magic: The Gathering Pro Tour - New Orleans Qualifier March 29-30, 2003Trial Schedule"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-07-30"
 ---
 
 

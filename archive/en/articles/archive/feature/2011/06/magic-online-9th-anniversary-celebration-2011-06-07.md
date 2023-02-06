@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-9th-anniversary-celebration-2011-06-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524063339id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-9th-anniversary-celebration-2011-06-07"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 06:33:39+00:00"
-[_metadata_:publish_date]:- "2011-06-07"
 [_metadata_:description]:- "Magic Online turns nine years old on June 20 and we can't think of a better way to kick off an Anniversary Celebration than with the 2011 Community Cup. Starting June 15 we will offer several ways for you to celebrate nine great years of MTGO."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-07"
 ---
 
 

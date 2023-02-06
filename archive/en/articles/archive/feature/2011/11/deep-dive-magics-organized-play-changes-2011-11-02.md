@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deep-dive-magics-organized-play-changes-2011-11-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200818195453id_/https://magic.wizards.com/en/articles/archive/feature/deep-dive-magics-organized-play-changes-2011-11-02"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-18 19:54:53+00:00"
-[_metadata_:publish_date]:- "2011-11-02"
 [_metadata_:description]:- "Over the past few months, Wizards of the Coast's Organized Play team has introduced Planeswalker Points and a reimagining of the structure of Premier Play. Because the timing of the two changes overlapped, as did many of the events they affected, the two programs have become intertwined and inseparable in players' minds—I suppose rightly so. Combined, these Organized Play changes have been met with a great deal of excitement, but there are also a number of valid concerns raised on social media, on our message boards, and on external websites."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-11-02"
 ---
 
 

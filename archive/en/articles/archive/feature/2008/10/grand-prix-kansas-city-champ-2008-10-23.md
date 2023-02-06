@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-champ-2008-10-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170323225640id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-champ-2008-10-23"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-23 22:56:40+00:00"
-[_metadata_:publish_date]:- "2008-10-23"
 [_metadata_:description]:- "[decklist] Title: Tim Landale Format: Grand Prix-Kansas City 2008 Shards of Alara Draft 1 Bant Panorama 1 Esper Panorama 2 Forest 1 Grixis Panorama 1 Island 7 Mountain 4 Swamp 1 Blister Beetle 2 Blood Cultist 1 Bloodpyre Elemental 1 Broodmate Dragon 1 Carrion Thrash 1 Dregscape Zombie 1 Goblin Deathraiders 1 Goblin Mountaineer 3 Hissing Iguanar 1 Rockslide Elemental 1 Sedraxis Specter 1 Skeletal Kathari 1 Thunder-Thrash Elder"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-23"
 ---
 
 

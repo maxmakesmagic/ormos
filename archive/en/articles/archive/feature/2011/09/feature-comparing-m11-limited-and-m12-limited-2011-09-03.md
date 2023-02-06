@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-comparing-m11-limited-and-m12-limited-2011-09-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151021140022id_/http://magic.wizards.com/en/articles/archive/feature/feature-comparing-m11-limited-and-m12-limited-2011-09-03"
 [_metadata_:wayback_capture_timestamp]:- "2015-10-21 14:00:22+00:00"
-[_metadata_:publish_date]:- "2011-09-03"
 [_metadata_:description]:- "Over the past several years, core set Limited formats have been getting a lot of play. Players will draft core set Limited with friends, at the local store, on Magic Online, at Pro Tour Qualifiers, at Grand Prix, at Nationals, and even at the Pro Tour."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-02"
 ---
 
 

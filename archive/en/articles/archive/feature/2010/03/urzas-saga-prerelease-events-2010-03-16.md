@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/urzas-saga-prerelease-events-2010-03-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522200124id_/https://magic.wizards.com/en/articles/archive/feature/urzas-saga-prerelease-events-2010-03-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:01:24+00:00"
-[_metadata_:publish_date]:- "2010-03-16"
 [_metadata_:description]:- "From the perilous domains of Phyrexia and Shiv to the splendor of Serra's Realm, Argoth, and Tolaria, Urza travels the planes seeking weapons to destroy the dark forces that stalk him.Play in an Urza's Saga Prerelease Event and experience this classic set before it goes on sale! NOTE: Urza’s Saga becomes legal in ALL Legacy and Classic-based Constructed formats following the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-16"
 ---
 
 

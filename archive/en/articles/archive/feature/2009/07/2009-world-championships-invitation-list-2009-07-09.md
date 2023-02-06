@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-world-championships-invitation-list-2009-07-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429124904id_/https://magic.wizards.com/en/articles/archive/feature/2009-world-championships-invitation-list-2009-07-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:49:04+00:00"
-[_metadata_:publish_date]:- "2009-07-09"
 [_metadata_:description]:- "Invitations to the 2009 World Championships are awarded in the following manner: The current World Champion. The Top 8 finishers from the previous World Championship. The current Pro Tour Player of the Year. For countries that hold an invitation-only National Championship, the members of each national team, including that team’s designated alternate, if any. For countries that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-09"
 ---
 
 

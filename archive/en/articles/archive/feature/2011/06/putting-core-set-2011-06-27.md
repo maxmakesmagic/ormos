@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/putting-core-set-2011-06-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111220704id_/https://magic.wizards.com/en/articles/archive/feature/putting-core-set-2011-06-27"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-11 22:07:04+00:00"
-[_metadata_:publish_date]:- "2011-06-27"
 [_metadata_:description]:- "Welcome to Magic 2012 Core Set previews! This week I'll be talking about the design of the latest core set. I'll introduce you to the design team. I'll explain how a core set gets designed I'll even show off a brand-new card. So sit right back and let's get this column started."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-27"
 ---
 
 

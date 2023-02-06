@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/continuing-story-prime-speaker-zegana-2013-03-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121113403id_/https://magic.wizards.com/en/articles/archive/feature/continuing-story-prime-speaker-zegana-2013-03-15"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 11:34:03+00:00"
-[_metadata_:publish_date]:- "2013-03-15"
 [_metadata_:description]:- "Sometimes, I get hung up on trying to make a card or interaction work. At the moment, it's Gyre Sage with Prime Speaker Zegana. Zegana and Gyre Sage both require that you play a lot of creatures, but Standard requires that you have answers to creatures (most importantly Olivia Voldaren) if you're going to play a lot of creatures. This can cause issues both in terms of space"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-03-15"
 ---
 
 

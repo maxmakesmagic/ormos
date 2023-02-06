@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcoms-orb-insight-2004-05-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519031546id_/https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcoms-orb-insight-2004-05-05"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 03:15:46+00:00"
-[_metadata_:publish_date]:- "2004-05-05"
 [_metadata_:description]:- "Instructions Type in a single term - with no spaces - in the input field and click Search to have the Orb of Insight reveal the number of instances of that term in the Fifth Dawn expansion spoiler (excluding Flavor Text). Colored casting costs may be searched using U for blue, B for Black, R for Red, G for Green, and W for White. Case doesn't matter.For example, try... Auriok"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-05-05"
 ---
 
 

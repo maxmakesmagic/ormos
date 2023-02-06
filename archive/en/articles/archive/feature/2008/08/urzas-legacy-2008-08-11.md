@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/urzas-legacy-2008-08-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160120075414id_/http://magic.wizards.com/en/articles/archive/feature/urzas-legacy-2008-08-11"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-20 07:54:14+00:00"
-[_metadata_:publish_date]:- "2008-08-11"
 [_metadata_:description]:- "Collector's Highlights  Look for foil-finished premium cards randomly inserted in select Urza's Legacy boosters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-11"
 ---
 
 

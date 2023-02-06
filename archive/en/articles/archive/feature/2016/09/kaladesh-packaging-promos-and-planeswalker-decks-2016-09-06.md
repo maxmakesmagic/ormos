@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/kaladesh-packaging-promos-and-planeswalker-decks-2016-09-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160909185717id_/http://magic.wizards.com/en/articles/archive/feature/kaladesh-packaging-promos-and-planeswalker-decks-2016-09-06"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-09 18:57:17+00:00"
-[_metadata_:publish_date]:- "2016-09-06"
 [_metadata_:description]:- "Blake unveils the packaging you'll soon see arriving at a game store near you!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-09-06"
 ---
 
 

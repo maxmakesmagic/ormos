@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-two-results-sorted-table-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031042847id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-two-results-sorted-table-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-31 04:28:47+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Match Team Opponent Result 1 United States Spain Won 3-1 2 Netherlands Czech Republic Won 2-1-1 3 Germany Portugal Won 2-1-1 4 Italy Sweden Lost 0-4 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

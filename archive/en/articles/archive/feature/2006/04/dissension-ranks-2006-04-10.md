@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dissension-ranks-2006-04-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170702072716id_/http://magic.wizards.com/en/articles/archive/feature/dissension-ranks-2006-04-10"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-02 07:27:16+00:00"
-[_metadata_:publish_date]:- "2006-04-10"
 [_metadata_:description]:- "Too many cooks spoil the broth, so it's natural that too many guilds spoil the world. With ten powerful forces trying to take control of Ravnica, something has to give. The Dissension set may be our last look into this plane for a while, but it's anyone's guess what condition the world will be left in by the end."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-04-10"
 ---
 
 

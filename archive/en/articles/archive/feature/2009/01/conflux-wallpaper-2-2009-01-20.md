@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/conflux-wallpaper-2-2009-01-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204161640id_/https://magic.wizards.com/en/articles/archive/feature/conflux-wallpaper-2-2009-01-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 16:16:40+00:00"
-[_metadata_:publish_date]:- "2009-01-20"
 [_metadata_:description]:- "Conflux Wallpaper 2 1024x768 1280x1024 1600x1200 Widescreen: 2560x1600 iPhone (320x480)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-20"
 ---
 
 

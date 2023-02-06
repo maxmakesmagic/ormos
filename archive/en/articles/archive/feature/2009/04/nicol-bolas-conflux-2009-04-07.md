@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nicol-bolas-conflux-2009-04-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429113640id_/https://magic.wizards.com/en/articles/archive/feature/nicol-bolas-conflux-2009-04-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 11:36:40+00:00"
-[_metadata_:publish_date]:- "2009-04-07"
 [_metadata_:description]:- "Have you noticed Nicol Bolas in Conflux? Wait. That's a little confusing. Obviously you've noticed that Nicol Bolas, Planeswalker is in the set Conflux. But how about Nicol Bolas, the character, in Conflux, the card? Yep, that's Bolas's claw, all right. Here's the art description that went out to Karl Kopinski: This is an abstract piece. The dragon Nicol Bolas has dreamed of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-07"
 ---
 
 

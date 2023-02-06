@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/september-2011-update-bulletin-2011-09-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111221047id_/https://magic.wizards.com/en/articles/archive/feature/september-2011-update-bulletin-2011-09-22"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-11 22:10:47+00:00"
-[_metadata_:publish_date]:- "2011-09-22"
 [_metadata_:description]:- "Greetings, friends, and welcome to another edition of the Update Bulletin. As you may imagine, I've been busy the last few months crafting some rules for Innistrad's exciting new mechanics, including the groundbreaking double-faced cards. It was a significant undertaking, but the cards are more than cool enough to justify it. And for those of you who are in love with the card back, don't worry—it shows up in Innistrad in every color and at every rarity."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-22"
 ---
 
 

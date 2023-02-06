@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tempt-vengeance-2013-11-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160109095913id_/http://magic.wizards.com/en/articles/archive/feature/tempt-vengeance-2013-11-01"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-09 09:59:13+00:00"
-[_metadata_:publish_date]:- "2013-11-01"
 [_metadata_:description]:- "Commander (2013 Edition) releases today! Be sure to go down and pick up your decks and get your game on with some friends! With all the cool new cards in Commander (2013 Edition), we held a poll last week letting people select which wallpaper we offer next week. Here are the results:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-11-01"
 ---
 
 

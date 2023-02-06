@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-standings-score-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702093813id_/https://magic.wizards.com/en/articles/archive/feature/round-6-standings-score-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:38:13+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 www.alphabetaunlimited.com 18 75.00% 2 Team 25:17 18 69.44% 3 Potato Peach 18 64.81% 4 Scrambled Steak 18 59.25% 5 DERAPIN 16 61.11% 6 Team Apprentice 16 59.62% 7 NISIKI 15 69.44% 8 Yanitetsu 15 68.88% 9 Dekiru-Kana?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

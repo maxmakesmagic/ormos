@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-spotlight-marc-facchini-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205154055id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-spotlight-marc-facchini-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-05 15:40:55+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Head Judge Thomas Bisballe (L4, Denmark) approached me during a lull in round five. `Have you spoken to our youngest competitor?` he wanted to know. He pointed across the room to an eleven-year-old boy who was sitting on the stadium bleachers next to possibly the most beautiful blonde to grace a Magic tournament. I think she was his mother. Since I don't speak Danish, I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

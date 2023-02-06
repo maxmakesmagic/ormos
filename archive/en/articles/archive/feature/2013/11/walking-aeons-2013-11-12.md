@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/walking-aeons-2013-11-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161214223747id_/http://magic.wizards.com/en/articles/archive/feature/walking-aeons-2013-11-12"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-14 22:37:47+00:00"
-[_metadata_:publish_date]:- "2013-11-12"
 [_metadata_:description]:- "It looks like Modern took a walk on the wild side recently, as this awesome deck went 4–0 in a Daily Event. I haven't seen a successful Howling Mine deck in a long time, and never one with quite this many copies of Time Walk."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-11-12"
 ---
 
 

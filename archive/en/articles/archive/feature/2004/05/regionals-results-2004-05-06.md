@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/regionals-results-2004-05-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524163927id_/https://magic.wizards.com/en/articles/archive/feature/regionals-results-2004-05-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:39:27+00:00"
-[_metadata_:publish_date]:- "2004-05-06"
 [_metadata_:description]:- "The results are in, and Affinity is a clear winner at this year's U.S. Regionals. As of my writing this Ravager Affinity decks earned more than 50% of all U.S. Nationals invites that were up for grabs this Saturday – an unprecedented number! Goblin decks were the only other heavily represented archetype in the top 8s across the country, most versions showing up with some"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-05-06"
 ---
 
 

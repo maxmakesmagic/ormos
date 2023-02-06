@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-2007-2007-02-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170610163303id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-2007-2007-02-05"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-10 16:33:03+00:00"
-[_metadata_:publish_date]:- "2007-02-05"
 [_metadata_:description]:- "Updated June 11, 2007Invitations to Pro Tour-San Diego are awarded in the following manner:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-02-05"
 ---
 
 

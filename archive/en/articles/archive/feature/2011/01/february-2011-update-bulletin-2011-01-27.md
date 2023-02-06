@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/february-2011-update-bulletin-2011-01-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210126025951id_/https://magic.wizards.com/en/articles/archive/feature/february-2011-update-bulletin-2011-01-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-26 02:59:51+00:00"
-[_metadata_:publish_date]:- "2011-01-27"
 [_metadata_:description]:- "Come one, come all, to the glorious spectacle that is the Update Bulletin! As we approach springtime in my part of the Multiverse, I am reminded that Magic is, at its heart, a game of change. Formats change. Cards change. Rules change. But through all this, one thing is constant. That constant is, of course, change. So let's get to it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-27"
 ---
 
 

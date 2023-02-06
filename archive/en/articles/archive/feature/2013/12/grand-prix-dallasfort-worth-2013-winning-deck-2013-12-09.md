@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-dallasfort-worth-2013-winning-deck-2013-12-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531081914id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-dallasfort-worth-2013-winning-deck-2013-12-09"
 [_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:19:14+00:00"
-[_metadata_:publish_date]:- "2013-12-09"
 [_metadata_:description]:- "Congratulations to Marlon Gutierrez on winning Grand Prix Dallas/Fort Worth!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-12-09"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999quarterfinals-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127164111id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999quarterfinals-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 16:41:11+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Christian Lührs vs. Hector Fuentes Top-seeded Christian Lührs of Germany met Hector Fuentes of Spain in the first round of top eight competition. Lührs had ridden his counter-sliver deck with considerable white support to only 1 loss in the swiss rounds, while Fuentes came through with his mono-blue Forbidian deck. Lührs mulliganed game 1, then began played out lands, all"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

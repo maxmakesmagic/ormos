@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/chandra-nalaar-2009-01-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117154855id_/https://magic.wizards.com/en/articles/archive/feature/chandra-nalaar-2009-01-26"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-17 15:48:55+00:00"
-[_metadata_:publish_date]:- "2009-01-26"
 [_metadata_:description]:- "Congratulations, you've found Chandra Nalaar. As part of a special Conflux promotion, find all five hidden symbols on the Magic web site, each corresponding to a specific planeswalker.Print one of these forms, write down the names of all five hidden planeswalkers in the lines provided, and bring it to a participating store by February 28th, 2009 to receive a free planeswalker"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-26"
 ---
 
 

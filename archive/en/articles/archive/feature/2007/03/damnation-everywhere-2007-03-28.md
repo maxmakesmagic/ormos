@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/damnation-everywhere-2007-03-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812191749id_/https://magic.wizards.com/en/articles/archive/feature/damnation-everywhere-2007-03-28"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 19:17:49+00:00"
-[_metadata_:publish_date]:- "2007-03-28"
 [_metadata_:description]:- "TheMagic Online Standard players have now had a week to incorporate the Grand Prix Kyoto results, and combined with well-attended IPA Qualifier tournaments we have quite a few interesting metagame changes and new decks to digest. After I cover Standard I will also shortly talk about Time Spiral Block Constructed.In the following table I have listed the 20 most popular Standard"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-03-28"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-5-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516150307id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-5-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 15:03:07+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Result Opponent Adam, Felix Haxton, Isaac Won, 2-0 Altermara, Chase Carlisle, Lance Lost, 0-2 Ames, David Simmons, Charles Won, 2-1 Ames, Steve Folczynski, Jordon Won, 2-0 Anderson, Eddie White, Evan Won, 2-0 Anderson, Will Mcatee, Brian Won, 2-1 Ash, Kevin Lewis, Jonathan Lost, 1-2 Aune, Eirik Wagener, Joshua Lost, 0-2 Barbeau, Alex Stine, Alex Won, 2-0 Benjamin, Matt"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

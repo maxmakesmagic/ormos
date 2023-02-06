@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-9-flavor-text-selection-2005-12-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170331154250id_/http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-9-flavor-text-selection-2005-12-14"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-31 15:42:50+00:00"
-[_metadata_:publish_date]:- "2005-12-14"
 [_metadata_:description]:- "As we wrap up 2005, I guess it's only right to wrap up You Make the Card #3. The final step is choosing the flavor text for the card. As a reminder, here is the card as it stands now:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-12-14"
 ---
 
 

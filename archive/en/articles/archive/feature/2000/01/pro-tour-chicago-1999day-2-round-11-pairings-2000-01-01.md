@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-11-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815113908id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-11-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:39:08+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Baberowski, Dirk (120) 24 5 Leventhal, Dennis (332) 24 Baker, Justin (284) 14 46 Roderer, Dave (259) 15 Benedict, Brian (176) 13 47 Schneiders, Felix (152) 14"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

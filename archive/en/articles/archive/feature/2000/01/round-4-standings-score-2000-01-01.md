@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-standings-score-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702112624id_/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-score-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-02 11:26:24+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win%1Frog Eaters1275.00%2Team Bald Dummy1275.00%3Family Games Center1275.00%4The Ken Ho All-Stars1275.00%5Potato Nation1275.00%6The Tails1268.75%7The Ancient Kavus1262.50%8Just Concede1262.50%9AlphaBetaUnlimited.com/1262.50%10The Hubbsucker Proxy1258.33%11Team Clasp1258.33%12Wretch1258.33%13Team Needs a Hotel Room1258.33%14Bags1252.08%15Ride or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-pax-2011-08-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120002831id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-pax-2011-08-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:28:31+00:00"
-[_metadata_:publish_date]:- "2011-08-29"
 [_metadata_:description]:- "Hundreds of excited Magic players got their first taste of Innistrad at the Ascend into Darkness party at this weekend's Penny Arcade Expo in Seattle, universally known as PAX. If you weren't among them, no worries! We'll walk through it and give you an idea what it was like. (If you were there, go ahead and scroll through this article looking for photos of yourself. Go on."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-08-29"
 ---
 
 

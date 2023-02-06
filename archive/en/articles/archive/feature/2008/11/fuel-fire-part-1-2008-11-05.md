@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fuel-fire-part-1-2008-11-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221001122558id_/https://magic.wizards.com/en/articles/archive/feature/fuel-fire-part-1-2008-11-05"
 [_metadata_:wayback_capture_timestamp]:- "2022-10-01 12:25:58+00:00"
-[_metadata_:publish_date]:- "2008-11-05"
 [_metadata_:description]:- "Web Comic Wednesday returns yet again, for the part one of a new comic. In it, we revisit a friendly flame... but there's more going on here than meets the eye. We hope you enjoy part one of... Fuel for the Fire!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-05"
 ---
 
 

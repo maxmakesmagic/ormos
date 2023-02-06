@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-11-feature-match-zvi-mowshowitz-vs-chris-benafel-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524124032id_/https://magic.wizards.com/en/articles/archive/feature/round-11-feature-match-zvi-mowshowitz-vs-chris-benafel-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 12:40:32+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler Chris Benafel sat down for round 11 still reeling from the beating he received at the hands of Jon Finkel in the previous round. Finkel's first turn in game 2 was the following: Dark Ritual, Dark Ritual, Persecute you (naming red since Benafel is playing a mono-red land destruction deck), Dark Ritual, Skittering Horror. Benafel lost that game (and match)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-great-britain-national-championship-2011-07-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016025519id_/https://magic.wizards.com/en/articles/archive/feature/2011-great-britain-national-championship-2011-07-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 02:55:19+00:00"
-[_metadata_:publish_date]:- "2011-07-06"
 [_metadata_:description]:- "Player First Name Player Last Name Invitation Reason Qualifier City Qualifier Date Joseph Jackson 2010 National Champion N/A N/A Jonathan Randle 2010 Alternate N/A N/A Richard Bland 2010 National Team N/A N/A Daniel Gardner 2010 National Team N/A N/A Jon Alexander Qualifier Fraddon 3/19/2011 James Allingham Qualifier Southampton 3/19/2011 Rob Appleyard Qualifier Worcester"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-07-06"
 ---
 
 

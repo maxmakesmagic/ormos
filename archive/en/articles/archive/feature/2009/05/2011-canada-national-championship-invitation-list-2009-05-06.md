@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2011-canada-national-championship-invitation-list-2009-05-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160524161013id_/http://magic.wizards.com/en/articles/archive/feature/2011-canada-national-championship-invitation-list-2009-05-06"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-24 16:10:13+00:00"
-[_metadata_:publish_date]:- "2009-05-06"
 [_metadata_:description]:- "The Canada Nationals Invitation list comprises the following:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-06"
 ---
 
 

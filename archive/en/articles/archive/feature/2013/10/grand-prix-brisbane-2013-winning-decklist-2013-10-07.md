@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-2013-winning-decklist-2013-10-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818175154id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-2013-winning-decklist-2013-10-07"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:51:54+00:00"
-[_metadata_:publish_date]:- "2013-10-07"
 [_metadata_:description]:- "Congratulations to Justin Robb, the winner of Grand Prix Brisbane 2013. Check out the complete event coverage right here.[decklist] Title: Justin Robb Format: Grand Prix Brisbane 2013 Top 8 Decklists 3 Glimmervoid 4 Inkmoth Nexus 4 Darksteel Citadel 1 Island 4 Blinkmoth Nexus 4 Arcbound Ravager 2 Memnite 4 Signal Pest 3 Etched Champion 4 Ornithopter 3 Steel Overseer 4 Vault"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-10-07"
 ---
 
 

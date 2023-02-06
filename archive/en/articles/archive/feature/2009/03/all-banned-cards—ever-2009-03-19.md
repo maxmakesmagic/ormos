@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/all-banned-cards%E2%80%94ever-2009-03-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170123190015id_/http://magic.wizards.com/en/articles/archive/feature/all-banned-cards%E2%80%94ever-2009-03-19"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-23 19:00:15+00:00"
-[_metadata_:publish_date]:- "2009-03-19"
 [_metadata_:description]:- "&#13; Remember yesterday, when we announced From the Vault: Exiled? Well, it occurred to us that you might not know all 126 cards that have ever been banned right off the top of your head. And we're very ashamed of you."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-03-19"
 ---
 
 

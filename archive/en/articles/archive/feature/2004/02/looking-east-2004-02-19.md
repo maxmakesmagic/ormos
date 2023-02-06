@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/looking-east-2004-02-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021092643id_/https://magic.wizards.com/en/articles/archive/feature/looking-east-2004-02-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 09:26:43+00:00"
-[_metadata_:publish_date]:- "2004-02-19"
 [_metadata_:description]:- "It has been a slow week in Magic – no major announcements and no major events. We are however gearing up for Pro Tour: Kobe coming up in just two weeks, so I thought it would be a good time to look back on the history of competitive Magic tournaments in Japan. Despite its size, Japan is Wizards of the Coasts’ second largest market after the United States. There are tons of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-02-19"
 ---
 
 

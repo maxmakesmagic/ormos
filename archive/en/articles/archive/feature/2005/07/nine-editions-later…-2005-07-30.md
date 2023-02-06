@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nine-editions-later%E2%80%A6-2005-07-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522101449id_/https://magic.wizards.com/en/articles/archive/feature/nine-editions-later%E2%80%A6-2005-07-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 10:14:49+00:00"
-[_metadata_:publish_date]:- "2005-07-30"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. This weekend players all over the world will be attending release events. Release events are a way to premiere a new set at your favorite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-07-30"
 ---
 
 

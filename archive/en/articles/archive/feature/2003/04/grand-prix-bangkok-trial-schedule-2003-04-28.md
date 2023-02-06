@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-bangkok-trial-schedule-2003-04-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016142717id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-bangkok-trial-schedule-2003-04-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 14:27:17+00:00"
-[_metadata_:publish_date]:- "2003-04-28"
 [_metadata_:description]:- "CountryDateCityByes=3VenueContact Australia03-May-03Brisbane1Brisbane Indoor Gaming conventiontbd@coorparoshs.qld.edu.au China20-Apr-03Beijing 12002 Chinese Nationalscheng.lixue@wizards.com China3-May-03Fuzhou1Fuzhou Kejiguanlongfei@to-game.com China3-May-03Guangzhou1Dongchuan Lu Chuangmengjiegeorgeli@163.net China3-May-03Beijing 1Xiao Nanzhuang Yixiu Yuanlegendtony@263.net"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-04-28"
 ---
 
 

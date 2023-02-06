@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-worlds-metagame-analysis-2008-12-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808073536id_/https://magic.wizards.com/en/articles/archive/feature/2008-worlds-metagame-analysis-2008-12-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-08 07:35:36+00:00"
-[_metadata_:publish_date]:- "2008-12-19"
 [_metadata_:description]:- "Worlds 2008 featured more Constructed formats than we’re likely to see in a single event any time soon. With one-third of the Swiss dedicated to Extended and Standard each and the addition of the three formats featured in the team portion (Standard, Extended, and Legacy) all thrown together with more rounds of single elimination in both teams and Standard on Sunday, there were"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-19"
 ---
 
 

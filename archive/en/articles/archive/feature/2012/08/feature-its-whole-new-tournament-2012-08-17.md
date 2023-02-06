@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-its-whole-new-tournament-2012-08-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151025003326id_/http://magic.wizards.com/en/articles/archive/feature/feature-its-whole-new-tournament-2012-08-17"
 [_metadata_:wayback_capture_timestamp]:- "2015-10-25 00:33:26+00:00"
-[_metadata_:publish_date]:- "2012-08-17"
 [_metadata_:description]:- "Picture this. Your team cruised through Day 1 of the World Magic Cup (Congratulations!). Your read on the Standard metagame was spot on and your sideboard was perfectly tuned for all of the Delver, Naya Pod, RUG Ramp, and Zombie decks out there. Everyone on your team torched the competition at 3–1 or better, and you're sitting high in the standings."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-17"
 ---
 
 

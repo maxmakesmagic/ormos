@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/whats-story-magic-origins-2015-02-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150301155612id_/http://magic.wizards.com/en/articles/archive/feature/whats-story-magic-origins-2015-02-27"
 [_metadata_:wayback_capture_timestamp]:- "2015-03-01 15:56:12+00:00"
-[_metadata_:publish_date]:- "2015-02-27"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Answering some of the questions we've heard since we announced Magic Origins."
+[_metadata_:publish_date]:- "2015-02-27"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/what-magic-league-2017-05-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170515075731id_/http://magic.wizards.com/en/articles/archive/feature/what-magic-league-2017-05-12"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-15 07:57:31+00:00"
-[_metadata_:publish_date]:- "2017-05-12"
 [_metadata_:description]:- "Curious about Magic League? Nathan and Shawn give you a glimpse of what this fun format has to offer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-05-12"
 ---
 
 

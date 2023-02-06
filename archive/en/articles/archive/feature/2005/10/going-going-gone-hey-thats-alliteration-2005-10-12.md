@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/going-going-gone-hey-thats-alliteration-2005-10-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201508id_/https://magic.wizards.com/en/articles/archive/feature/going-going-gone-hey-thats-alliteration-2005-10-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:15:08+00:00"
-[_metadata_:publish_date]:- "2005-10-12"
 [_metadata_:description]:- "Last night I saw an 18 inning baseball game in which one team was down by 5 runs until they hit a grand slam to make it a game, and a homer in the bottom of the ninth to send it to extra innings, and another one in the 18th to win it. Then it occurred to me, October means baseball, and Home Runs are a hoot. So, I've decided to follow the spirit of October with some Ravnica"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-12"
 ---
 
 

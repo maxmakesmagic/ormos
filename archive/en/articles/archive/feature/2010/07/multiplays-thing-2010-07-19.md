@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/multiplays-thing-2010-07-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053604id_/https://magic.wizards.com/en/articles/archive/feature/multiplays-thing-2010-07-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:36:04+00:00"
-[_metadata_:publish_date]:- "2010-07-19"
 [_metadata_:description]:- "Welcome to Multiplayer Week. This week we'll be exploring the wonderful world of Magic outside the safe confines of two-player play. It turns out there's a lot of ways to play Magic and some of them involve—gasp—lots of other people. In the last few years, R&D has been creating products specifically to cater to the multiplayer crowd with such products as Planechase, Archenemy,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-19"
 ---
 
 

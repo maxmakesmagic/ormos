@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/valentines-special-2010-02-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170117193106id_/http://magic.wizards.com/en/articles/archive/feature/valentines-special-2010-02-15"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-17 19:31:06+00:00"
-[_metadata_:publish_date]:- "2010-02-15"
 [_metadata_:description]:- "[decklist] Title: Valentine's Special Format: Just for Fun 1 Heart of Yavimaya 7 Forest 7 Mountain 1 Heart Sliver 1 Heart Warden 1 Heart Wolf 1 Heartmender 1 Coldsteel Heart 1 Defense of the Heart 1 Heart of Bogardan 1 Heart of Ramos 1 Heartbeat of Spring 1 Heartseeker 1 Heartstone 1 Khalni Heart Expedition 1 Serene Heart 1 Blood Lust 1 Carpet of Flowers 1 Gaea's Embrace 1 Flowstone Embrace 1 Shiv's Embrace 1 Verdant Embrace"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-02-15"
 ---
 
 

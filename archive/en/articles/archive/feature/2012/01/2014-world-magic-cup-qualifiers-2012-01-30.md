@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2014-world-magic-cup-qualifiers-2012-01-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019035330id_/https://magic.wizards.com/en/articles/archive/feature/2014-world-magic-cup-qualifiers-2012-01-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 03:53:30+00:00"
-[_metadata_:publish_date]:- "2012-01-30"
 [_metadata_:description]:- "If you dream of playing in the international World Magic Cup, you'll want to start here. Each selected country will run three World Magic Cup Qualifiers, with the winner of each earning an invitation to the World Magic Cup. 2014 World Magic Cup Qualifiers are invitation-only tournaments. These Premier Events will be held in countries that have been selected to have national"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-30"
 ---
 
 

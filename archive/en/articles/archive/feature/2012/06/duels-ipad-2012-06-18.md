@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-ipad-2012-06-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181030215205id_/https://magic.wizards.com/en/articles/archive/feature/duels-ipad-2012-06-18"
 [_metadata_:wayback_capture_timestamp]:- "2018-10-30 21:52:05+00:00"
-[_metadata_:publish_date]:- "2012-06-18"
 [_metadata_:description]:- "Hello! I'm Max McCall, digital designer in Magic R&D. Last week, I wrote about how Duels of the Planeswalkers 2013 was my first project at Wizards, and how excited I am that it's hitting shelves this week. Today, I want to focus specifically on the development of Duels for the iPad. We ran into a unique series of challenges in bringing Duels onto the tablet."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-18"
 ---
 
 

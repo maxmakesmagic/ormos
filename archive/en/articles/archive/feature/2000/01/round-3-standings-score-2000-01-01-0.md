@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-standings-score-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627105818id_/https://magic.wizards.com/en/articles/archive/feature/round-3-standings-score-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 10:58:18+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 Bologna Demolition Team 9 66.66% 2 gotta catch Kai 9 66.66% 3 www.revised4th5th.com 9 66.66% 4 Metagames/LNT 9 66.66% 5 Two men and a baby !"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

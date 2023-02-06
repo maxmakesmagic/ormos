@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-architecture-how-product-made-2017-12-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171207162657id_/https://magic.wizards.com/en/articles/archive/feature/product-architecture-how-product-made-2017-12-06"
 [_metadata_:wayback_capture_timestamp]:- "2017-12-07 16:26:57+00:00"
-[_metadata_:publish_date]:- "2017-12-06"
 [_metadata_:description]:- "Ever wondered how a Magic product is made, from start to finish? Product Architecture is your monthly look at our product architecture process."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-12-06"
 ---
 
 

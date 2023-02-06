@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-bob-maher-vs-andrew-nishioka-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520072636id_/https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-bob-maher-vs-andrew-nishioka-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 07:26:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler Bob Maher sat down to play best friend Andrew Nishioka with what Maher described as the worst deck in the entire tournament. He had already won two $5 side bets with various others over whose deck was worse. `I think I'm 2-4 right now,` explained Maher, `I just want to somehow squeeze one match win out somehow so I can play tomorrow with a straight face.`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/behind-scenes-booster-fun-adventures-forgotten-realms-2021-06-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210629155124id_/https://magic.wizards.com/en/articles/archive/feature/behind-scenes-booster-fun-adventures-forgotten-realms-2021-06-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-29 15:51:24+00:00"
-[_metadata_:publish_date]:- "2021-06-29"
 [_metadata_:description]:- "Magic: The Gathering pays homage to Dungeons & Dragons with Booster Fun variants from Adventures in the Forgotten Realms."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-06-29"
 ---
 
 

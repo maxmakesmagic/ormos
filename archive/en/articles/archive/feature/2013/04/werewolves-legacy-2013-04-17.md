@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/werewolves-legacy-2013-04-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170204202122id_/http://magic.wizards.com/en/articles/archive/feature/werewolves-legacy-2013-04-17"
 [_metadata_:wayback_capture_timestamp]:- "2017-02-04 20:21:22+00:00"
-[_metadata_:publish_date]:- "2013-04-17"
 [_metadata_:description]:- "I was skeptical when I heard that Jon Johnson had won a Legacy tournament with Hanweir Watchkeep. If I'd been told a Werewolf won a Legacy tournament, that's not the Werewolf I would have guessed."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-04-17"
 ---
 
 

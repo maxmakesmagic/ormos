@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-results-table-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701035148id_/https://magic.wizards.com/en/articles/archive/feature/round-9-results-table-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-01 03:51:48+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult Opponentwww.alphabetaunlimited.com210vs.Absolute *Susiyan300vs.Scrambled SteakPotato Peach111vs.Loafing GiantsTeam Emon Staff *210vs.Tanshoku club with 25 *DERAPIN120vs.Dekiru-Kana?P-Kies021vs.Team Apprentice *Poor Shark210vs.YaburonVoice of Soul210vs.Team 25:17Fire Beat210vs.Circle Money DraftMagic Square300vs.NISIKI *"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

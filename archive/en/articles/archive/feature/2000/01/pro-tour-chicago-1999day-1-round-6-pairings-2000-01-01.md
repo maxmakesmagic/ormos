@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-6-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124035359id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-6-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:53:59+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Aguiar, Rui (343) 7 88 Lischka, Moritz (157) 7 Allen, Dustin (144) 6 103 Sluzinski, Jeff (167) 6 Allison, Jerry (124) 6 101 Kuczynski, Larry (222) 6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

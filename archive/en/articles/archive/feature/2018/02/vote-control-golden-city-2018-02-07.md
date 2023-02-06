@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vote-control-golden-city-2018-02-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180210195227id_/https://magic.wizards.com/en/articles/archive/feature/vote-control-golden-city-2018-02-07"
 [_metadata_:wayback_capture_timestamp]:- "2018-02-10 19:52:27+00:00"
-[_metadata_:publish_date]:- "2018-02-07"
 [_metadata_:description]:- "Vote for your favorite faction to decide who will control the golden city of Orazca!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-02-07"
 ---
 
 

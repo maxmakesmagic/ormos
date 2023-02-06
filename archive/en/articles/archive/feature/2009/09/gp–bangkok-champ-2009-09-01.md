@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp%E2%80%93bangkok-champ-2009-09-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812003908id_/https://magic.wizards.com/en/articles/archive/feature/gp%E2%80%93bangkok-champ-2009-09-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 00:39:08+00:00"
-[_metadata_:publish_date]:- "2009-09-01"
 [_metadata_:description]:- "[decklist] Title: Shingou Kurihara Format: Magic 2010 Draft 6 Island 10 Plains 1 Alluring Siren 1 Blinding Mage 1 Elite Vanguard 1 Griffin Sentinel 1 Horned Turtle 1 Razorfoot Griffin 1 Serra Angel 1 Siege Mastodon 1 Snapping Drake 1 Stormfront Pegasus 1 Veteran Armorsmith 1 Veteran Swordsmith 1 White Knight 1 Wind Drake 1 Divine Verdict 1 Essence Scatter 2 Excommunicate 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-01"
 ---
 
 

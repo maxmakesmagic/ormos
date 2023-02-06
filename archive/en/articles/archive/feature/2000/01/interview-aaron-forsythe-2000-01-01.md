@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/interview-aaron-forsythe-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204004153id_/https://magic.wizards.com/en/articles/archive/feature/interview-aaron-forsythe-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 00:41:53+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Adrian Sullivan Aaron Forsythe is one of the three New CMU teammates from Pittsburgh to make it to the finals of this year's U.S. National Championships. The three players all wore ESPN shirts for today's competiton, but joked that they actually weren't changing Team CMU to Team ESPN. `Mike [Turian] wanted a souvenir and needed a decent shirt. It seemed like a fun idea.`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

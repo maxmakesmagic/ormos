@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-weenie-2011-01-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019023228id_/https://magic.wizards.com/en/articles/archive/feature/white-weenie-2011-01-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 02:32:28+00:00"
-[_metadata_:publish_date]:- "2011-01-14"
 [_metadata_:description]:- "[decklist] Title: Avantasian's White Weenie Format: Extended - Top 8 - Magic Online PTQ–Nagoya 4 Arid Mesa 4 Marsh Flats 15 Plains 4 Ethersworn Canonist 3 Figure of Destiny 4 Knight of the White Orchid 2 Ranger of Eos 4 Steppe Lynx 4 Student of Warfare 4 Brave the Elements 4 Honor of the Pure 4 Path to Exile 4 Spectral Procession *3 Celestial Purge *3 Kor Firewalker *1 Lapse"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-14"
 ---
 
 

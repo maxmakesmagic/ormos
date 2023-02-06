@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics-2016-06-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160627154835id_/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics-2016-06-27"
 [_metadata_:wayback_capture_timestamp]:- "2016-06-27 15:48:35+00:00"
-[_metadata_:publish_date]:- "2016-06-27"
 [_metadata_:description]:- "Matt explains the new (and returning) mechanics coming with Eldritch Moon."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-06-27"
 ---
 
 

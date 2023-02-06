@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/choose-your-guild-2012-08-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614193415id_/http://magic.wizards.com/en/articles/archive/feature/choose-your-guild-2012-08-31"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-14 19:34:15+00:00"
-[_metadata_:publish_date]:- "2012-08-31"
 [_metadata_:description]:- "PlaneswalkerPoints.com now lets you officially join any one of Ravnica's ten guilds!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-31"
 ---
 
 

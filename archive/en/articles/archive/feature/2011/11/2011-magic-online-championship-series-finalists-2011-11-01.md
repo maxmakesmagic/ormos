@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-magic-online-championship-series-finalists-2011-11-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022181859id_/https://magic.wizards.com/en/articles/archive/feature/2011-magic-online-championship-series-finalists-2011-11-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 18:18:59+00:00"
-[_metadata_:publish_date]:- "2011-11-01"
 [_metadata_:description]:- "2011 Magic Online Championship is Set!Twelve of the best Magic Online players will meet in San Francisco, California at the 2011 Magic: The Gathering World Championships and battle for their share of $100,000 dollars! After an exciting 10 seasons, here are your Magic Online Championship Series finalists!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-11-01"
 ---
 
 

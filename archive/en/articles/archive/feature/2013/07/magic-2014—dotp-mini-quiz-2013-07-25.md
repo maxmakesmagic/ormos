@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2014%E2%80%94dotp-mini-quiz-2013-07-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112042352id_/https://magic.wizards.com/en/articles/archive/feature/magic-2014%E2%80%94dotp-mini-quiz-2013-07-25"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 04:23:52+00:00"
-[_metadata_:publish_date]:- "2013-07-25"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-25"
 ---
 
 

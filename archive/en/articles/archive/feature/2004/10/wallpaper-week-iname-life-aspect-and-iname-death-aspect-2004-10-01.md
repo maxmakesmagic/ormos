@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-iname-life-aspect-and-iname-death-aspect-2004-10-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028132228id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-iname-life-aspect-and-iname-death-aspect-2004-10-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 13:22:28+00:00"
-[_metadata_:publish_date]:- "2004-10-01"
 [_metadata_:description]:- "This week you get two for the price of one! Today's desktop wallpapers are Justin Sweet's Iname, Life Aspect and Iname, Death Aspect from the Champions of Kamigawa set. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-10-01"
 ---
 
 

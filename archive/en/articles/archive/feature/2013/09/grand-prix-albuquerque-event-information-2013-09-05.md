@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-albuquerque-event-information-2013-09-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210622022913id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-albuquerque-event-information-2013-09-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-22 02:29:13+00:00"
-[_metadata_:publish_date]:- "2013-09-05"
 [_metadata_:description]:- "Information Grand Prix Albuquerque is brought to you by Sunmesa Events.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpabq Date: November 22-24, 2013 Format: Standard Tournament Location Albuquerque Convention Center 401 2nd Street NW Albuquerque, NM 87102"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-05"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-phoenix-event-information-2014-01-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160804012725id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-phoenix-event-information-2014-01-16"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-04 01:27:25+00:00"
-[_metadata_:publish_date]:- "2014-01-16"
 [_metadata_:description]:- "Information    Grand Prix Phoenix is brought to you by ChannelFireball and Cascade Games."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-01-16"
 ---
 
 

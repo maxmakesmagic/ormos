@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-block-sealed-deck-tournament-v-2010-08-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016093828id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-block-sealed-deck-tournament-v-2010-08-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 09:38:28+00:00"
-[_metadata_:publish_date]:- "2010-08-17"
 [_metadata_:description]:- "Long before Mirrodin existed, on the other side of the Multiverse, there was Kamigawa—a plane in the midst of a terrible war. Spirits are launching attacks against humans as, in the shadows, a terror lurks just beyond sight..Play with a favorite classic block, compete for great prizes, and rejoin the Kami War!KAMIGAWA BLOCK SEALED DECK TOURNAMENT VSTART TIME: Sunday, August"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-08-17"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-one-decklists-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029154137id_/https://magic.wizards.com/en/articles/archive/feature/draft-one-decklists-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-29 15:41:37+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "[decklist] Title: John Ormerod Subtitle: 2000 European Championships, Draft One Format: 9 Island 8 Swamp 1 Brainstorm 2 Drake Hatchling 2 False Demise 1 Indentured Djinn 1 Rishadan Airship 1 Saprazzan Legate 1 Sever Soul 2 Snuff Out 1 Belbe's Percher 1 Seal of Doom 2 Spineless Thug 1 Wandering Eye 1 Despoil 2 Greel's Caress 1 Soul Strings 1 Rethink 2 Spiketail Hatchling 1 Stormwatch Eagle"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

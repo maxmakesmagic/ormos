@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-serra-angel-2005-07-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028055201id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-serra-angel-2005-07-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 05:52:01+00:00"
-[_metadata_:publish_date]:- "2005-07-29"
 [_metadata_:description]:- "This week's desktop wallpaper is Greg Staples's Serra Angel from the Ninth Edition set. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-07-29"
 ---
 
 

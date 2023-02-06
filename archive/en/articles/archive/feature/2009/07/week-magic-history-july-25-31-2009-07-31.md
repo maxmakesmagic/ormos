@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-july-25-31-2009-07-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117193400id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-july-25-31-2009-07-31"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-17 19:34:00+00:00"
-[_metadata_:publish_date]:- "2009-07-31"
 [_metadata_:description]:- "July 24-25, 2004: Osyp overwhelms Grand Prix–OrlandoTheystarted with 502, cut to 64 for Day 2, but in the end, there was only one Osyp Lebedowicz."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-31"
 ---
 
 

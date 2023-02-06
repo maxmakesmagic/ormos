@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/drover-enthusiastic-2003-05-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807155320id_/https://magic.wizards.com/en/articles/archive/feature/drover-enthusiastic-2003-05-15"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-07 15:53:20+00:00"
-[_metadata_:publish_date]:- "2003-05-15"
 [_metadata_:description]:- "Here's a brainteaser for you: If an expensive creature becomes cheaper to play, is it still an expensive creature? The past couple of weeks, I've been previewing cards that facilitate playing high-cost creatures. Two weeks ago, I showed how Dragon Breath would reward your mana-intensive creatures. Last week, I gave you a peek at Upwelling, a card that lets you save your mana"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-05-15"
 ---
 
 

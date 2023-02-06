@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-jersey-byes-2004-05-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812180009id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-jersey-byes-2004-05-25"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 18:00:09+00:00"
-[_metadata_:publish_date]:- "2004-05-25"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3200028 2190014 118007 Rating used: Constructed, May 19, 2004 Pro Point Standings Used: 2004 Pro Tour San Diego StandingTo find the number of byes you have for Grand Prix-New Jersey, go to the appropriate list below (sorted by last name): A-G H-N O-Z For questions about this page, please email"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-05-25"
 ---
 
 

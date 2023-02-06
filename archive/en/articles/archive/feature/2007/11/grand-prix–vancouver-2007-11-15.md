@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93vancouver-2007-11-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220217043310id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93vancouver-2007-11-15"
 [_metadata_:wayback_capture_timestamp]:- "2022-02-17 04:33:10+00:00"
-[_metadata_:publish_date]:- "2007-11-15"
 [_metadata_:description]:- "Vancouver, Canada is one of the only places in the world where it is possible to ski and snowboard, hike, and golf all on the same day."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-11-15"
 ---
 
 

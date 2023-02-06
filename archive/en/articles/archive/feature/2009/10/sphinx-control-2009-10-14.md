@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sphinx-control-2009-10-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814031517id_/https://magic.wizards.com/en/articles/archive/feature/sphinx-control-2009-10-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-14 03:15:17+00:00"
-[_metadata_:publish_date]:- "2009-10-14"
 [_metadata_:description]:- "[decklist] Title: Gavin Verhey's Sphinx Control Format: Standard 4 Island 5 Mountain 4 Swamp 4 Crumbling Necropolis 1 Dragonskull Summit 4 Drowned Catacomb 1 Magosi, the Waterveil 4 Scalding Tarn 3 Sphinx of Lost Truths 4 Courier's Capsule 4 Lightning Bolt 3 Negate 2 Terminate 3 Chandra Nalaar 4 Jace Beleren 3 Cruel Ultimatum 4 Pyroclasm 4 Wretched Banquet *4 Countersquall *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-14"
 ---
 
 

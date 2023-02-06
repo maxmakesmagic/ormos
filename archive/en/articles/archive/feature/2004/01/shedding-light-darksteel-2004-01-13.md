@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shedding-light-darksteel-2004-01-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429045321id_/https://magic.wizards.com/en/articles/archive/feature/shedding-light-darksteel-2004-01-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:53:21+00:00"
-[_metadata_:publish_date]:- "2004-01-13"
 [_metadata_:description]:- "It’s hard to find the truth when the entire world is set up by someone who wants to hide it. Our elvish hero, Glissa, is finding that out the hard way. Allies have died for her, and she just barely escaped from perils ranging from rampaging Nim to shaking Vedalken politics to its very core. Unlike Glissa, who’ll have to face death a few more times to find the truth, you, the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-01-13"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cunning-naya-2011-01-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022205024id_/https://magic.wizards.com/en/articles/archive/feature/cunning-naya-2011-01-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 20:50:24+00:00"
-[_metadata_:publish_date]:- "2011-01-24"
 [_metadata_:description]:- "[decklist] Title: Misha Gurevich's Cunning Naya Format: Extended - Top 8 - 2010 Indianapolis PTQ for Nagoya 4 Arid Mesa 4 Copperline Gorge 4 Mountain 3 Plains 4 Raging Ravine 4 Razorverge Thicket 1 Wooded Bastion 4 Bloodbraid Elf 4 Cunning Sparkmage 4 Figure of Destiny 4 Noble Hierarch 4 Ranger of Eos 4 Wild Nacatl 4 Woolly Thoctar 4 Lightning Bolt 4 Path to Exile *3 Burrenton"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-24"
 ---
 
 

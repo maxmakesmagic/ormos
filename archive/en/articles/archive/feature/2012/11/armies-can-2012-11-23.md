@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/armies-can-2012-11-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629043948id_/https://magic.wizards.com/en/articles/archive/feature/armies-can-2012-11-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-29 04:39:48+00:00"
-[_metadata_:publish_date]:- "2012-11-23"
 [_metadata_:description]:- "Back during the times of Five-Color Control and Faeries in Standard, White-Black Tokens was one of the top tier decks of the format. One of the reasons is that the deck has amazing topdecks. You might think of it as any other deck, with spells and lands available each draw step, which is true, but unlike other decks, Tokens has the ability to try multiple creatures with every"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-11-23"
 ---
 
 

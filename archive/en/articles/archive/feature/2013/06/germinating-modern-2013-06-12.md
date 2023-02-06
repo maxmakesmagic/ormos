@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/germinating-modern-2013-06-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527123224id_/https://magic.wizards.com/en/articles/archive/feature/germinating-modern-2013-06-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 12:32:24+00:00"
-[_metadata_:publish_date]:- "2013-06-12"
 [_metadata_:description]:- "I played Melira Pod in Grand Prix Portland, and I was extremely impressed with Voice of Resurgence and Kitchen Finks, but not so thrilled with the card Birthing Pod. I've been wondering about other things a deck like that could do, and I've begun to wonder about Golgari Germination. Golgari Germination is excellent with creatures with persist or undying because it has the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-12"
 ---
 
 

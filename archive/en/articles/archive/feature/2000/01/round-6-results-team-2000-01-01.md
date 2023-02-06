@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-results-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124034356id_/https://magic.wizards.com/en/articles/archive/feature/round-6-results-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:43:56+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult Opponent#I Magic *Amateur*Won 3-0vsAzz Izz *Amateur*$42 Ticket *Amateur*Won 3-0vsIt Doesn't Matter *Amateur*100 Super Good Fun TimeWon 3-0vsThe Grunties3 Stooges *Amateur*Drew 1-1vsTeam Salmon *Amateur*5280Won 3-0vsShinku HobokenA Few Good Men"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

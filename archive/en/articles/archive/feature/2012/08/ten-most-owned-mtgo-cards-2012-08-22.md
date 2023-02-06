@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ten-most-owned-mtgo-cards-2012-08-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531085903id_/https://magic.wizards.com/en/articles/archive/feature/ten-most-owned-mtgo-cards-2012-08-22"
 [_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:59:03+00:00"
-[_metadata_:publish_date]:- "2012-08-22"
 [_metadata_:description]:- "Last week, Worth Wollpert, Director for Magic Digital Gaming, tweeted the ten most owned cards on Magic Online. That means, ignoring basic lands, they're the cards which people have the most copies of. He drew the cards out over a week, but now that he's all done with his first round of the #mtgotop10 list, we can share it with you all in a nice succinct list!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-22"
 ---
 
 

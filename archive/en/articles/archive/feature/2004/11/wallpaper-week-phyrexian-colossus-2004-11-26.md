@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-phyrexian-colossus-2004-11-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018050431id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-phyrexian-colossus-2004-11-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:04:31+00:00"
-[_metadata_:publish_date]:- "2004-11-26"
 [_metadata_:description]:- "This week's desktop wallpaper is Mark Tedin's Phyrexian Colossus from Urza's Saga. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-11-26"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524002805id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 00:28:05+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Adam, Felix (210) Miller, Josh (65) 2-1 Allen, Ross (55) Devirgilio, Daniel (173) 0-2 Altermara, Chase (212) Gonzalez, Phillip (84) 2-0 Ames, David (157) Tidd, David (110) 0-2 Ames, Steve (61) Percopo, Joe (90) 2-0 Anderson, Eddie (15) Carlisle, Lance (179) 2-0 Anderson, Will (184) Roof, Huston (162) 1-2 Ash, Kevin (101) Orellana, Manuel (159) 1-2 Aune,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

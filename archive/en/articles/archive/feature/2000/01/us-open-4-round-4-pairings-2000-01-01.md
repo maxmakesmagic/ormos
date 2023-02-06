@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-4-round-4-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529034532id_/https://magic.wizards.com/en/articles/archive/feature/us-open-4-round-4-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-29 03:45:32+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Table Opponent Au, Scott ( 47) 25 Lovin, Mark ( 39) Baumgartner, David ( 36) 27 Wells, Sean ( 23) Buck, Alex ( 21) 24 Pacifico, Andrew ( 63) Gonzalez, Phillip ( 43) 26 Moore, Devon ( 14) Hebert, Carl ( 61) 28 Henry, Jason ( 75) Henry, Jason ( 75) 28 Hebert, Carl ( 61) Krouner, Ken ( 68) 22 Roberts, Rob ( 40) Landis, Scott ( 50) 29 Stark, Ben ( 80) Lovin, Mark ( 39) 25"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

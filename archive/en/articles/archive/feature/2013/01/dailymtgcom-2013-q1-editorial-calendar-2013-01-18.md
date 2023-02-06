@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-2013-q1-editorial-calendar-2013-01-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207073722id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-2013-q1-editorial-calendar-2013-01-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-02-07 07:37:22+00:00"
-[_metadata_:publish_date]:- "2013-01-18"
 [_metadata_:description]:- "Last year, we ran an experiment where I shared DailyMTG's upcoming theme weeks. Whereas, previously, theme weeks had been kept secret until they arrived, we decided to see how the community would react and make use of this information."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-18"
 ---
 
 

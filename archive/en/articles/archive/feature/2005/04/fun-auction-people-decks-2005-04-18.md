@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fun-auction-people-decks-2005-04-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029133939id_/https://magic.wizards.com/en/articles/archive/feature/fun-auction-people-decks-2005-04-18"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-29 13:39:39+00:00"
-[_metadata_:publish_date]:- "2005-04-18"
 [_metadata_:description]:- "Here's a list of all the words we received for the 2005 Invitational's Auction of the People deck submissions. Our email box was flooded with nearly 1,200 decks, and more than 340 words were submitted. Of those, 170 were keywords in more than one deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-04-18"
 ---
 
 

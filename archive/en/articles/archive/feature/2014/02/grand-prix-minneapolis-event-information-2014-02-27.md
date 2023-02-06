@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-event-information-2014-02-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021184337id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-event-information-2014-02-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 18:43:37+00:00"
-[_metadata_:publish_date]:- "2014-02-27"
 [_metadata_:description]:- "Information Grand Prix Minneapolis is brought to you by Legion Events.  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpminn Date: May 9-11, 2014 Format: Modern Tournament Location Minneapolis Convention Center Exhibit Hall A 1301 2nd Ave S Minneapolis, Minnesota 55403Grand Prix Minneapolis"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-27"
 ---
 
 

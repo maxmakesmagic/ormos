@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-1-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523063600id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-1-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 06:36:00+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Abueg John (331) Leidner Ronald (198) Al-Doory Aziz (206) Lim Joel (57) Allen Chris (436) Laurent Sebastien (353) Allen Crispin (571) Simon Shawn (410) Allen Dustin (449) Sierra Pablo (444) Allen Tim (442) Posell Steve (489) Alsip Bill (341) Foure Nate (28) Amendolia Aaron (320) Casey Kyle (347) Anders Dorian (295) *** Awarded Bye *** Anderson Alex (420) Bayer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

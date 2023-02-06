@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/driving-mages-insane-2002-12-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210805212146id_/https://magic.wizards.com/en/articles/archive/feature/driving-mages-insane-2002-12-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-08-05 21:21:46+00:00"
-[_metadata_:publish_date]:- "2002-12-04"
 [_metadata_:description]:- "Back in the summer of 1843, when I first arrived in the new world from yon foreign country, many a strange sight awaited me in this You Ess of Aye. Men cavorted down the street in their pantaloons, and women wore their hair with curls and twirls. The local pubs and eateries assaulted my senses with the promise of fresh meats, fine drinks, and perhaps even the rare chance to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-12-04"
 ---
 
 

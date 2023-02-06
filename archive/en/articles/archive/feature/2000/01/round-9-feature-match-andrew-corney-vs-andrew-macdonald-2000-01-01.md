@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-feature-match-andrew-corney-vs-andrew-macdonald-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525144045id_/https://magic.wizards.com/en/articles/archive/feature/round-9-feature-match-andrew-corney-vs-andrew-macdonald-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 14:40:45+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Luke Hancock The pair of Andrews paired up in the 9th round to decide who would make it into the top 4 of the tournament. Andrew Corney had a hard matchup with his Black Control deck, facing off Andrew MacDonald's Red LD deck. Game 1 Corney won the toss and decided to play. His opening draw gave him the first turn Duress, with which he removed a Shock."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-toolbox-terms-service-2012-01-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129184111id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-toolbox-terms-service-2012-01-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-29 18:41:11+00:00"
-[_metadata_:publish_date]:- "2012-01-23"
 [_metadata_:description]:- "Magic: The Gathering Toolbox (the `Toolbox`) Terms of Service (`License`) DRIVER SAFETY. WHILE THE TOOLBOX BRINGS MAGIC: THE GATHERING TO YOUR MOBILE DEVICE, YOU SHOULD NEVER USE IT WHILE OPERATING A MOTOR VEHICLE. YOU ARE SOLELY RESPONSIBLE FOR YOUR CONDUCT. PLEASE DRIVE RESPONSIBLY. By downloading and using Wizards of the Coast's (`Wizards`) Toolbox, you agree as follows:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-23"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-expands-pc-ps3-2010-2009-11-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170112083941id_/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-expands-pc-ps3-2010-2009-11-09"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-12 08:39:41+00:00"
-[_metadata_:publish_date]:- "2009-11-09"
 [_metadata_:description]:- "Are you ready to take your Magic: The Gathering – Duels of the Planeswalkers experience to a higher level? You'll be able to do just that in 2010 as Wizards of the Coast will launch two more expansion packs plus extend the game to PC and PlayStation 3."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-11-09"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dwarven-bloodboiler-2005-11-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128062014id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dwarven-bloodboiler-2005-11-25"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-28 06:20:14+00:00"
-[_metadata_:publish_date]:- "2005-11-25"
 [_metadata_:description]:- "This week's desktop wallpaper is Judgment's Dwarven Bloodboiler by Arnie Swekel. Enjoy. 1280x1024 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-25"
 ---
 
 

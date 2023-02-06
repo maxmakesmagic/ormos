@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-world-championships-travel-information-2006-10-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023104816id_/https://magic.wizards.com/en/articles/archive/feature/2006-world-championships-travel-information-2006-10-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 10:48:16+00:00"
-[_metadata_:publish_date]:- "2006-10-03"
 [_metadata_:description]:- "Travel to and inside Paris By plane Charles de Gaulle international airport is 27km (17mi) north of Paris. It's a major transport hub, so you shouldn't have any trouble finding a flight, regardless of where you're flying from. There are lots of ways from Charles de Gaulle to the city, from shuttle trains to an assortment of public buses, private shuttles and taxis.The city's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-10-03"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/factoids-grand-prix-nagoya-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518204736id_/https://magic.wizards.com/en/articles/archive/feature/factoids-grand-prix-nagoya-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 20:47:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "(As a feature for Sideboard Online readers, the Sideboard staff has compiled interesting observations from this event. These will be updated throughout the tournament). All of the Japanese players brought their own pens to use for deck registration; this is a good habit to have. Players ranged in ages from 10 to 40. There is even a team called `Team 30s` - all of the members"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

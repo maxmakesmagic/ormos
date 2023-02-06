@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/infecting-legacy-2014-03-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819002208id_/https://magic.wizards.com/en/articles/archive/feature/infecting-legacy-2014-03-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 00:22:08+00:00"
-[_metadata_:publish_date]:- "2014-03-14"
 [_metadata_:description]:- "Tom Ross is known for making unconventional choices during deck building and winning anyway. Last weekend was no exception, as he finished in the Top 4 of the StarCityGames Legacy Open in Atlanta with GU Infect. While Infect is a relatively known quantity in Legacy, it doesn't see a lot of play. There are just too many sweet decks to choose from, and Infect is often left"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-03-14"
 ---
 
 

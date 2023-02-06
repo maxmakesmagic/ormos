@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-results-table-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701194405id_/https://magic.wizards.com/en/articles/archive/feature/round-4-results-table-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-01 19:44:05+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult OpponentSusiyan210vs.AAADEFENCER Minor111vs.Team MagicschoolDERAPIN210vs.Yokohama KaidashikkikoObjects210vs.Magic Squarewww.alphabetaunlimited.com201vs.Fire BeatDekiru-Kana?021vs.NISIKIOO Parts300vs.Go RengerBenefactor030vs.Team 25:17Potato Peach201vs.InoreTeam Yamashi120vs.Team ShinjoDeath Crimson210vs.ExcutionersP-Kies300vs.Tiimumei MiketteiTeam PPB210vs.Team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

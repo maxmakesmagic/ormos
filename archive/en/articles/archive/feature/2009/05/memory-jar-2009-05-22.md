@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/memory-jar-2009-05-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170331175934id_/http://magic.wizards.com/en/articles/archive/feature/memory-jar-2009-05-22"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-31 17:59:34+00:00"
-[_metadata_:publish_date]:- "2009-05-22"
 [_metadata_:description]:- "[decklist] Title: Randy Buehler and Erik Lauer's Memory Jar Format: Extended 3 Ancient Tomb 4 City of Brass 2 Gemstone Mine 3 Underground River 4 Underground Sea 4 Brainstorm 4 Dark Ritual 4 Defense Grid 4 Lion's Eye Diamond 4 Lotus Petal 4 Mana Vault 1 Megrim 4 Memory Jar 4 Mox Diamond 1 Mystical Tutor 4 Tinker 4 Vampiric Tutor 2 Yawgmoth's Will [/decklist]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-22"
 ---
 
 

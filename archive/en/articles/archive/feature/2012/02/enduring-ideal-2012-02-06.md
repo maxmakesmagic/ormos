@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/enduring-ideal-2012-02-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170418034822id_/http://magic.wizards.com/en/articles/archive/feature/enduring-ideal-2012-02-06"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-18 03:48:22+00:00"
-[_metadata_:publish_date]:- "2012-02-06"
 [_metadata_:description]:- "No format meshes together the old and the new as seamlessly as Modern. Every popular archetype from Mirrodin forward has showed up in one form or another, often sporting a handful of exciting cards the deck couldn't play the first time around. Today's deck is no exception."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-02-06"
 ---
 
 

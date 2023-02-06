@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp%E2%80%93sendai-champ-2010-06-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026124138id_/https://magic.wizards.com/en/articles/archive/feature/gp%E2%80%93sendai-champ-2010-06-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 12:41:38+00:00"
-[_metadata_:publish_date]:- "2010-06-16"
 [_metadata_:description]:- "[decklist] Title: Brian Kibler's Next Level Bant Format: Standard – Grand Prix–Sendai 4 Celestial Colonnade 5 Forest 2 Island 4 Misty Rainforest 1 Plains 4 Seaside Citadel 1 Stirring Wildwood 3 Sunpetal Grove 2 Birds of Paradise 1 Borderland Ranger 4 Noble Hierarch 2 Ranger of Eos 1 Scute Mob 4 Sea Gate Oracle 2 Sphinx of Lost Truths 4 Vengevine 4 Wall of Omens 1 Bant Charm 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-06-16"
 ---
 
 

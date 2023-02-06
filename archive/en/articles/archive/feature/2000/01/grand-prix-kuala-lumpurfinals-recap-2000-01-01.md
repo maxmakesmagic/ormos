@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurfinals-recap-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518030827id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurfinals-recap-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 03:08:27+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "It's all about Necropotence. At least, Extended is before the bannings take effect. The finals were a battle between the two ways to use the mighty skull. Ryan Soh played Necro-Donate, and Tham Tishen had control Necropotence. His deck was tuned and designed to defeat Necro-Donate, with Phyrexian Negators backing up Wasteland, Unmask, Duress and life gaining off Drain Life. As"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

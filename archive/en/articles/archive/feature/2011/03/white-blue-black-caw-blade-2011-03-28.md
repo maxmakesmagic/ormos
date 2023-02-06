@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/white-blue-black-caw-blade-2011-03-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170409040831id_/http://magic.wizards.com/en/articles/archive/feature/white-blue-black-caw-blade-2011-03-28"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-09 04:08:31+00:00"
-[_metadata_:publish_date]:- "2011-03-28"
 [_metadata_:description]:- "[decklist] Title: Gerry Thompson's White-Blue-Black Caw-Blade Format: Standard – StarCityGames.com Open in Dallas/Ft. Worth, TX 2 Island 5 Plains 2 Swamp 4 Creeping Tar Pit 3 Darkslick Shores 3 Glacial Fortress 4 Marsh Flats 4 Seachrome Coast 4 Squadron Hawk 4 Stoneforge Mystic 2 Sword of Feast and Famine 2 Tumble Magnet 1 Condemn 1 Doom Blade 1 Go for the Throat 3 Mana Leak 3 Gideon Jura 1 Jace Beleren 4 Jace, the Mind Sculptor"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-03-28"
 ---
 
 

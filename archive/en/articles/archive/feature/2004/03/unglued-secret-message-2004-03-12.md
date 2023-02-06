@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/unglued-secret-message-2004-03-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160624032932id_/http://magic.wizards.com/en/articles/archive/feature/unglued-secret-message-2004-03-12"
 [_metadata_:wayback_capture_timestamp]:- "2016-06-24 03:29:32+00:00"
-[_metadata_:publish_date]:- "2004-03-12"
 [_metadata_:description]:- "The Unglued Secret Message The secret message appears on the far right of the legal text line on every card in Unglued (94 in all). When put in order of collector number, the message reads:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-03-12"
 ---
 
 

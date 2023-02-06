@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gds2-episode-2-design-challenge-second-times-charm-2010-11-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005228id_/https://magic.wizards.com/en/articles/archive/feature/gds2-episode-2-design-challenge-second-times-charm-2010-11-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:28+00:00"
-[_metadata_:publish_date]:- "2010-11-24"
 [_metadata_:description]:- "So you've created some commons. The second Design Challenge is going to follow exactly what Magic design does when we finish designing commons—we design more commons! As Aaron likes to say, `You don't get to paint the ceiling of the Sistine Chapel until you've finished putting in the floor.`The twist is that last time we let you choose what color to design. This week we're"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-11-24"
 ---
 
 

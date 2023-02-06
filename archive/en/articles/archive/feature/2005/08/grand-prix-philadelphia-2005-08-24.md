@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2005-08-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817224312id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2005-08-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-17 22:43:12+00:00"
-[_metadata_:publish_date]:- "2005-08-24"
 [_metadata_:description]:- "Entry Fees: Varies by Location. Contact organizer for detailsTournament format: Legacy Prizes: At least 1 3rd round bye at each tournament, plus product prizes determined by the organizerStateCityEvent date3rd round byeLocationAddressContact phoneWebsiteIllinoisNiles10/1/20051Pastimes Sports Cards, Comics & Games8478 Golf"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-08-24"
 ---
 
 

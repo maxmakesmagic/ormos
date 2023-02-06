@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/there-and-back-again-2004-05-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190901062850id_/https://magic.wizards.com/en/articles/archive/feature/there-and-back-again-2004-05-24"
 [_metadata_:wayback_capture_timestamp]:- "2019-09-01 06:28:50+00:00"
-[_metadata_:publish_date]:- "2004-05-24"
 [_metadata_:description]:- "Last year one magic player got to live the dream and design cards for his favorite game. I am that player, and this is my story."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-05-24"
 ---
 
 

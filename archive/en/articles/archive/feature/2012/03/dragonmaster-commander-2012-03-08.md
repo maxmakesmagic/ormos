@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragonmaster-commander-2012-03-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170311160002id_/http://magic.wizards.com/en/articles/archive/feature/dragonmaster-commander-2012-03-08"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-11 16:00:02+00:00"
-[_metadata_:publish_date]:- "2012-03-08"
 [_metadata_:description]:- "Judge Emeritus Sheldon Menery is one of the original progenitors of the Commander format, and despite being around the format forever he still finds new Commander decks to build using the wide card pool. His weekly column often sees him unveiling new and unique decks, and this time around he has a special theme: professional player Brian Kibler."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-08"
 ---
 
 

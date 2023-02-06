@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-event-information-2013-04-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161002021651id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-event-information-2013-04-12"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-02 02:16:51+00:00"
-[_metadata_:publish_date]:- "2013-04-12"
 [_metadata_:description]:- "Information    Grand Prix Kansas City is brought to you by Legion Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-04-12"
 ---
 
 

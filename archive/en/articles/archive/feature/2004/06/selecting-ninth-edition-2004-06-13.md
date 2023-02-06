@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/selecting-ninth-edition-2004-06-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429030518id_/https://magic.wizards.com/en/articles/archive/feature/selecting-ninth-edition-2004-06-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:05:18+00:00"
-[_metadata_:publish_date]:- "2004-06-13"
 [_metadata_:description]:- "Related Articles Read Randy Buehler's introduction and ground rules of Selecting Ninth Edition. See the power you wielded last time in Aaron Forsythe's wrapup of Selecting Eighth Edition. See the final results of this promotion in the Selecting Ninth Edition Wrapup.  Welcome to Selecting Ninth Edition, where you get to play the role of R&D developer, art director, and flavor"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-06-13"
 ---
 
 

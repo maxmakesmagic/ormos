@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cocoa-pebbles-2009-01-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170210213402id_/http://magic.wizards.com/en/articles/archive/feature/cocoa-pebbles-2009-01-09"
 [_metadata_:wayback_capture_timestamp]:- "2017-02-10 21:34:02+00:00"
-[_metadata_:publish_date]:- "2009-01-09"
 [_metadata_:description]:- "[decklist] Title: Tony Dobson's Cocoa Pebbles Format: Pro Tour-Chicago 1999 4 Badlands 4 City of Brass 4 Gemstone Mine 3 Peat Bog 3 Phyrexian Tower 4 Scrubland 2 Phyrexian Walker 4 Shield Sphere 4 Academy Rector 1 Mana Vault 3 Mox Diamond 4 Dark Ritual 4 Demonic Consultation 4 Duress 4 Necropotence 4 Goblin Bombardment 1 Aura of Silence 3 Enduring Renewal"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-09"
 ---
 
 

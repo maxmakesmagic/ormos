@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000top-8-pictures-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126171314id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000top-8-pictures-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:13:14+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Kurt Burgner Bruce Cowley Erno Ekebom Trevor Blackwell Andrew Nishioka Mike Long Chris Benafel Brian Selden"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

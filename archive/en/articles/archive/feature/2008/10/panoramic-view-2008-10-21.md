@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/panoramic-view-2008-10-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429023641id_/https://magic.wizards.com/en/articles/archive/feature/panoramic-view-2008-10-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:36:41+00:00"
-[_metadata_:publish_date]:- "2008-10-21"
 [_metadata_:description]:- "The idea behind Shards of Alara's `Panorama` lands is that they represent a bird's-eye-view of each plane. Or aven's-eye. Maybe dragon's-eye. You get the idea. For example, here's the art description for Grixis Panorama: Color: Land associated with black, blue, and red mana Location: Grixis Action: Magic has done a zillion landscapes. This one is a little different. It"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-21"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guilds-ravnica-mechanics-2018-09-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180906230911id_/https://magic.wizards.com/en/articles/archive/feature/guilds-ravnica-mechanics-2018-09-04"
 [_metadata_:wayback_capture_timestamp]:- "2018-09-06 23:09:11+00:00"
-[_metadata_:publish_date]:- "2018-09-04"
 [_metadata_:description]:- "Matt explains the new and returning mechanics in Guilds of Ravnica!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-09-04"
 ---
 
 

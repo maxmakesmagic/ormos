@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-2014-02-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112014424id_/https://magic.wizards.com/en/articles/archive/feature/announcing-2014-02-14"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:44:24+00:00"
-[_metadata_:publish_date]:- "2014-02-14"
 [_metadata_:description]:- "Pick. Plot. Play!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-14"
 ---
 
 

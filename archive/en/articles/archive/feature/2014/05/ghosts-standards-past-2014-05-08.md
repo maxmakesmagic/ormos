@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ghosts-standards-past-2014-05-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022013648id_/https://magic.wizards.com/en/articles/archive/feature/ghosts-standards-past-2014-05-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 01:36:48+00:00"
-[_metadata_:publish_date]:- "2014-05-08"
 [_metadata_:description]:- "Last year, one of the strongest decks involved Cartel Aristocrat and sacrificing creatures, such as Doomed Traveler, to gain value with Blood Artist. Doomed Traveler and Blood Artist aren't Standard legal anymore, but there are still some quality creatures that require some sacrifices to be made. Cartel Aristocrat and Varolz, the Scar-Striped are powerful cards if you have a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-08"
 ---
 
 

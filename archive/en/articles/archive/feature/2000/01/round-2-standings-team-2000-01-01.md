@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-standings-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626210827id_/https://magic.wizards.com/en/articles/archive/feature/round-2-standings-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-26 21:08:27+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win%130#I Magic 3 41.66%115#realgangstas 3 66.66% 98$30 Cab Fare 3 66.66% 54$42 Ticket 6 0.00% 65100 Super Good Fun Time 6 0.00%1213 for Flinching 3 66.66% 943 Stooges 3 66.66% 183 White Boys from the Stix 6 50.00%1563 X Threat 0 50.00% 435 Ways Worse than Portent 6 0.00% 315280 6 41.66% 9A Few Good Men 6 50.00% 63A Little Too Sick 6 0.00% 73Airtight 3100.00%"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

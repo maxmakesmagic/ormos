@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/did-man-evolve-apes-i-know-i-haven%E2%80%99t-2005-09-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811120124id_/https://magic.wizards.com/en/articles/archive/feature/did-man-evolve-apes-i-know-i-haven%E2%80%99t-2005-09-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-11 12:01:24+00:00"
-[_metadata_:publish_date]:- "2005-09-09"
 [_metadata_:description]:- "A long, long time ago, I used to have a Magic: The Gathering® deck I carried around with me in my back pocket. I took it everywhere with me. I would go to class and in my back pocket was my Magic deck. Hanging out at the mall, I had my Magic deck. “Time for work, don’t forget to take your deck.” I took it everywhere. As you can imagine, this deck got pretty beat up. Some of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-09-09"
 ---
 
 

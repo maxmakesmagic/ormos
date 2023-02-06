@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-urzas-destiny-prerelease-news-2011-03-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527062409id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-urzas-destiny-prerelease-news-2011-03-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 06:24:09+00:00"
-[_metadata_:publish_date]:- "2011-03-29"
 [_metadata_:description]:- "With the announcement of New Phyrexia, now is a great time to go back and revisit the first war against the Phyrexians and see how it all began. In Urza's Destiny, the ancient planeswalker seeks to complete his epic struggle across Dominaria and silence the Phyrexian campaign of terror. The Urza's Destiny prerelease will feature three separate parts: Scheduled Swiss Sealed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-03-29"
 ---
 
 

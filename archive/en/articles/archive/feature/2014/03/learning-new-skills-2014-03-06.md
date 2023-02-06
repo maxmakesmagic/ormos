@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/learning-new-skills-2014-03-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816035343id_/https://magic.wizards.com/en/articles/archive/feature/learning-new-skills-2014-03-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 03:53:43+00:00"
-[_metadata_:publish_date]:- "2014-03-06"
 [_metadata_:description]:- "I'm still waiting for Hexproof to put up a premier, high-level finish. In the meantime, I'll keep posting these tuned-looking lists that continue to 4–0 Magic Online Daily Events. Fleecemane Lion and Fiendslayer Paladin aren't perfect to suit up, but they seem to be getting the job done. One of the great things about the deck is that Skylasher out of the sideboard is exactly"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-03-06"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/directors-chair-2009-2009-01-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221002003800id_/https://magic.wizards.com/en/articles/archive/feature/directors-chair-2009-2009-01-05"
 [_metadata_:wayback_capture_timestamp]:- "2022-10-02 00:38:00+00:00"
-[_metadata_:publish_date]:- "2009-01-05"
 [_metadata_:description]:- "Welcome to 2009! It has been a long arduous road to get here but, man, am I glad to be here! When I left the office on December 10th for the Magic World Championships, I was desperately in need of a break. While the day-to-day part of my job that involves overseeing the creation of Magic sets is as fun as ever, the `business side` of the job has been getting progressively more"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-05"
 ---
 
 

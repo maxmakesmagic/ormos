@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-recap-standard-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029135736id_/https://magic.wizards.com/en/articles/archive/feature/finals-recap-standard-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-29 13:57:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "As soon as Chris Pikula sat down for his championship match with Jon Finkel, he announced `Do not let me start Type I without getting my Vampiric Tutor out of Jon's Type 2 deck.` Just another indication of the informal, friendly nature of this event. Nonetheless, both players really wanted to win. Chris kept talking about the `impossible dream` and Finkel was speculated about what his card could be called. `Hand of lekniF` was the leading suggestion."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

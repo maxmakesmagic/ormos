@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-3-2002-06-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210925125321id_/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-3-2002-06-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-09-25 12:53:21+00:00"
-[_metadata_:publish_date]:- "2002-06-03"
 [_metadata_:description]:- "Part Three: Character Building ExerciseIn part one and part two of this series, I discussed how the participants of the author summit brainstormed the Mirari plotline and both created and populated the continent of Otaria. In this installment, I'll delve more deeply into the characters who would walk the world we built as the plot unfolded around them.Cast of Authors J. Robert"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-06-03"
 ---
 
 

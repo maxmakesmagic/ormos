@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-results-table-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702094315id_/https://magic.wizards.com/en/articles/archive/feature/round-10-results-table-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:43:15+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult Opponentwww.alphabetaunlimited.com120vs.SusiyanVoice of Soul210vs.Loafing GiantsTeam Apprentice *120vs.Poor SharkTeam Emon Staff *120vs.Dekiru-Kana?Potato Peach120vs.Scrambled SteakAbsolute *030vs.Fire BeatMagic Square120vs.Tanshoku club with 25 *P-Kies120vs.DERAPINYaburon111vs.NISIKI *Team 25:17210vs.Circle Money Draft"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

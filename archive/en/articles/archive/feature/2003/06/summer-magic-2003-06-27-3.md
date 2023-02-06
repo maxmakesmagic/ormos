@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-3"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516131709id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-3"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 13:17:09+00:00"
-[_metadata_:publish_date]:- "2003-06-27"
 [_metadata_:description]:- "NameLocationCityPhoneCyberworld UsterZürichstrasse 21Uster41796384436SpielereiRötelstr. 85Zürich41787190092ASLECrue de la Monderèche 1 41796284207FrauenzentrumKronengasse 5Aarau41628220302FrauenzentrumKronengasse 5Aarau41628220302Club Echec Vieussieux58 cité du VillarsGenève-Vieussieux41787700930HaberHuusSchlosshofKöniz41313112657SpielereiRötelstr."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-06-27"
 ---
 
 

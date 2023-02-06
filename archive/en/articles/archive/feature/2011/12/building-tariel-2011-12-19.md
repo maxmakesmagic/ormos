@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160507135234id_/http://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-07 13:52:34+00:00"
-[_metadata_:publish_date]:- "2011-12-19"
 [_metadata_:description]:- "Here at Daily MTG, we use the last two weeks of each year to bring back our favorite articles from the year and give our writers (and staff!) a break for the holidays."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-12-19"
 ---
 
 

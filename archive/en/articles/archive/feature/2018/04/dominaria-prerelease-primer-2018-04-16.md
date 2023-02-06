@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominaria-prerelease-primer-2018-04-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180417191013id_/https://magic.wizards.com/en/articles/archive/feature/dominaria-prerelease-primer-2018-04-16"
 [_metadata_:wayback_capture_timestamp]:- "2018-04-17 19:10:13+00:00"
-[_metadata_:publish_date]:- "2018-04-16"
 [_metadata_:description]:- "The Dominaria Prerelease is this weekend, and Gavin has all the info you need to prepare for our trip back to Magic's first plane!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-04-16"
 ---
 
 

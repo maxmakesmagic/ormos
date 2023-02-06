@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-8-2013-01-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118024359id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-8-2013-01-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 02:43:59+00:00"
-[_metadata_:publish_date]:- "2013-01-22"
 [_metadata_:description]:- "This is the biweekly audio podcast for DailyMTG.com. Intro music by Bern Menth. The Daily MTG Podcast is now on iTunes! You can visit its page right here. Or, if you use a different podcast aggregator, you can point it directly at the RSS feed: http://www.wizards.com/dailymtgpodcast.xml. Episode 8 - `Gott-crashed!`: (51:11) In Episode 8, Trick, Mike, and Tifa catch up on the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-22"
 ---
 
 

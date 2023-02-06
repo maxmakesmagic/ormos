@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/borborygmoss-orders-2006-01-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201012444id_/https://magic.wizards.com/en/articles/archive/feature/borborygmoss-orders-2006-01-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-01 01:24:44+00:00"
-[_metadata_:publish_date]:- "2006-01-23"
 [_metadata_:description]:- "Borborygmos (sound it out -- it's quite pronounceable, and actually rather fun to say), a cyclops the size of some of Ravnica's tallest towers, is the Gruul guild leader. He holds court over Gruul's motley clans and smashes foes with a maul made from a slab of masonry tangled in the roots of its tree-trunk handle. Borborygmos art by Todd Lockwood Check out his improvised metal"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-01-23"
 ---
 
 

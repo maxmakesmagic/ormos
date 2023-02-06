@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/deconstructing-suicide-black-2002-03-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160705132226id_/http://magic.wizards.com/en/articles/archive/feature/deconstructing-suicide-black-2002-03-12"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-05 13:22:26+00:00"
-[_metadata_:publish_date]:- "2002-03-12"
 [_metadata_:description]:- "`Suicide Black` is the name given to a wide range of mono-black fast creature decks that try to win as quickly as possible. The term `suicide` refers to the deck's single-minded purpose of killing the opponent in the minimum number of turns without any back-up plan or concern for card advantage in the late game."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-03-12"
 ---
 
 

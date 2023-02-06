@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2004-12-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517144741id_/https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2004-12-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 14:47:41+00:00"
-[_metadata_:publish_date]:- "2004-12-22"
 [_metadata_:description]:- "It's always fun to celebrate. The Kiki-Jiki article was a really fun article to write for that very reason. Building a deck that is both potent and enjoyable is a real challenge. My article celebrated the deck and was unique in this column in that I got to write it `backwards`, beginning with a deck and ending up with discussion of the card itself. I got a lot of email about"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-12-22"
 ---
 
 

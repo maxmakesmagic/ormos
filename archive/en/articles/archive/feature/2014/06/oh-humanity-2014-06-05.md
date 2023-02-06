@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/oh-humanity-2014-06-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026004518id_/https://magic.wizards.com/en/articles/archive/feature/oh-humanity-2014-06-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:45:18+00:00"
-[_metadata_:publish_date]:- "2014-06-05"
 [_metadata_:description]:- "Modern is home to many cheap, efficient instants and sorceries. Lightning Bolt, Serum Visions, and Remand provide effective ways to take control of the early stages of the game without losing their effectiveness as the game wears on. Magic Online user MR_Thompson takes advantage of these with creatures that want a number of spells to be played. Each creature in the deck gets"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-06-05"
 ---
 
 

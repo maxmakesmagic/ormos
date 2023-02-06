@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-community-cup-updates-2010-06-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016045108id_/https://magic.wizards.com/en/articles/archive/feature/2010-community-cup-updates-2010-06-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 04:51:08+00:00"
-[_metadata_:publish_date]:- "2010-06-07"
 [_metadata_:description]:- "The 2010 Community Cup is going on this week! Follow the Community Cup results and root your team on! Don't forget to follow additional coverage on Robot Viking, TheStarkingtonPost.com, and the Magic Online Group page. Want to meet your 2010 Magic Online Community Cup Team members in person? Want to preview the new Archenemy decks before they are on sale? Want to get a few"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-06-07"
 ---
 
 

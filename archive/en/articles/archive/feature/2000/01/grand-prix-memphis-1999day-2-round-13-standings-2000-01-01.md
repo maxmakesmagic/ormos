@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-13-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202070643id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-13-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-02 07:06:43+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Sullivan, Adrian 32 71.13 2 Pustilnik, Michael 32 68.58 3 Kloeckner, Kyle 32 65.69 4 Heffern, Mike 31 71.63 5 Jafari, David 31 69.37 6 Rauseo, Matt 31 68.82 7 Watts, Ric 31 64.02 8 Norton, Matthew 31 62.14 9 Heiss, Nathan 30 68.58 10 Turning, Travis - 1700 30 68.30 11 Mowshowitz, Zvi 30 66.57 12 Edwards, Rudy 30 65.28 13 Chapella, Gustavo 30"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

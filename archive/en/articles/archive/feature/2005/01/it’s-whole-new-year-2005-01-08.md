@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-whole-new-year-2005-01-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819013342id_/https://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-whole-new-year-2005-01-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 01:33:42+00:00"
-[_metadata_:publish_date]:- "2005-01-08"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.The collective insanity known as the holidays is finally behind us, and we're off into 2005. The snow is quietly falling here in… well, I'm in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-01-08"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/o-kagachi-vengeful-kami-2017-08-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170810160531id_/http://magic.wizards.com/en/articles/archive/feature/o-kagachi-vengeful-kami-2017-08-08"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-10 16:05:31+00:00"
-[_metadata_:publish_date]:- "2017-08-08"
 [_metadata_:description]:- "Adam's Commander (2017 Edition) preview card finally shows the true power of the greatest kami of them all."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-08-08"
 ---
 
 

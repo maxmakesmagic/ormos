@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-2-2012-09-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161023171153id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-2-2012-09-05"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-23 17:11:53+00:00"
-[_metadata_:publish_date]:- "2012-09-05"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-09-05"
 ---
 
 

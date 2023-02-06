@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerajani-2008-07-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206124540id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerajani-2008-07-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 12:45:40+00:00"
-[_metadata_:publish_date]:- "2008-07-15"
 [_metadata_:description]:- "Ajani Goldmane is a planeswalker who wields white magic. His specialty is magic of the purification of body and soul: spells that heal and strengthen his allies, and spells that evoke the inner, spiritual essence of others. Ajani Goldmane is torn between his leonin ferocity and his sense of justice. He was born as an outcast within his own family, an albino leonin never"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-15"
 ---
 
 

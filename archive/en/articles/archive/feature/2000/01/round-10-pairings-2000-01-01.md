@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030050020id_/https://magic.wizards.com/en/articles/archive/feature/round-10-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 05:00:20+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Table Player Points   Opponent Points 1 Svaldi, Guilherme Dei 25 vs. Cabrera, Adham Amc 25 2 Martins - ama, Leopoldo M. 24 vs. Mangueira - ama, José Franci 24 3 Saux, Rafaël A Le"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

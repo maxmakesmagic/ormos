@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dragons-maze-foiling-2013-05-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201022204532id_/https://magic.wizards.com/en/articles/archive/feature/dragons-maze-foiling-2013-05-14"
 [_metadata_:wayback_capture_timestamp]:- "2020-10-22 20:45:32+00:00"
-[_metadata_:publish_date]:- "2013-05-14"
 [_metadata_:description]:- "Magic is a complicated game to produce. From creating the cards, to localizing into eleven languages, to print runs and packaging - there's a lot of moving parts that come together before you bust open your booster pack. Premium foils are just another piece of complexity that it is easy to overlook. On first glance, a foil card looks the same, just shiny. But if you look close you can see that the shinyness is not universally applied to the card - instead it's tiers of shinyness."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-14"
 ---
 
 

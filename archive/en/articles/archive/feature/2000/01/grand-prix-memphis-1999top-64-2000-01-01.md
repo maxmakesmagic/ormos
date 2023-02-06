@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999top-64-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518162819id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999top-64-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 16:28:19+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Pacheco, Marc 21 71.75 2 Rauseo, Matt 21 70.24 3 Price, David 21 70.00 4 Turning, Travis 21 68.65 5 Heffern, Mike 19 74.40 6 Jafari, David 19 73.81 7 Cain, Joseph 18 83.33 8 O'Mahoney-Schwartz, Steve 18 79.76 9 Heiss, Nathan 18 76.57 10 Wescoe, Craig 18 74.86 11 Sullivan, Adrian 18 74.29 12 Senhouse, Christopher 18 70.24 13 Pustilnik, Michael"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

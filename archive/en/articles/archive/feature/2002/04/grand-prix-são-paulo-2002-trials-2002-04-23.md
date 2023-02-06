@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-2002-trials-2002-04-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818233400id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-2002-trials-2002-04-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 23:34:00+00:00"
-[_metadata_:publish_date]:- "2002-04-23"
 [_metadata_:description]:- "All GP-São Paulo Trials are Standard format and offer one 3-round bye to the winner (unless otherwise noted).CountryCityEvent DateOrganizerContact ArgentinaBuenos Aires6/1/2002Juan del Comparemtgarg@netizen.com.ar ArgentinaBuenos Aires6/8/2002Juan del Comparemtgarg@netizen.com.ar ArgentinaCordoba6/2/2002Sergio Sessaregojnazareno@game-land.com.ar ArgentinaMar del"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-04-23"
 ---
 
 

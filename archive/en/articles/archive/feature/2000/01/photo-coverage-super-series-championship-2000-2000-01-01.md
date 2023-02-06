@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/photo-coverage-super-series-championship-2000-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525141257id_/https://magic.wizards.com/en/articles/archive/feature/photo-coverage-super-series-championship-2000-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 14:12:57+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "[view] Champion Sean Tracy with the big check and trophy [view] Finalist Jonathan Cassidy receives his trophy and shakes hands with Richard Garfield [view] Semifinalist Justin Bryant receives his plaque [view] Sean Tracy stands after defeateding Jonathan Cassidy in the Finals [view] Super Series Trophies [view] Sean Tracy in the Finals [view] Sean Tracy in the Finals [view]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

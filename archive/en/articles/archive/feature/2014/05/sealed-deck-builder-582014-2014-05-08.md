@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-582014-2014-05-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116102743id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-582014-2014-05-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-16 10:27:43+00:00"
-[_metadata_:publish_date]:- "2014-05-08"
 [_metadata_:description]:- "elcome back to the Magic: The Gathering Sealed Deck Builder! This week, we feature a sealed pool with 2 Theros, 2 Born of the Gods, and 2 Journey into Nyx booster packs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-08"
 ---
 
 

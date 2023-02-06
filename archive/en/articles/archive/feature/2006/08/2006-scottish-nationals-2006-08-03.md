@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-scottish-nationals-2006-08-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019211321id_/https://magic.wizards.com/en/articles/archive/feature/2006-scottish-nationals-2006-08-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 21:13:21+00:00"
-[_metadata_:publish_date]:- "2006-08-03"
 [_metadata_:description]:- "Tournament Date The 2006 scottish National Championship will be held on Saturday, 9th September & Sunday, 10th September, with additional side events, including Last Chance Qualifiers on Friday, 8th September. Tournament LocationBest Western Queens Hotel 105 Leonard Street Perth PH1 3JTThe following are required to compete in the scottish National Championship: An acceptable"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-08-03"
 ---
 
 

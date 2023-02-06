@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/just-right-angel-2009-07-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209140906id_/https://magic.wizards.com/en/articles/archive/feature/just-right-angel-2009-07-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 14:09:06+00:00"
-[_metadata_:publish_date]:- "2009-07-09"
 [_metadata_:description]:- "So you've no doubt seen Baneslayer Angel by now. If you haven't, feast your eyes on this: Nice art by Greg Staples, eh? Here's what it looked like as a sketch. When he finished it, it looked like this. Now, here's the rest of the story. Let's go back in time all the way to 2005 and the Player's Guide for Ninth Edition. On pages 12-14, there's an interview with Greg Staples,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-09"
 ---
 
 

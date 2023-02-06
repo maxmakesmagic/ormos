@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/why-we-write-2006-02-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819045216id_/https://magic.wizards.com/en/articles/archive/feature/why-we-write-2006-02-21"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 04:52:16+00:00"
-[_metadata_:publish_date]:- "2006-02-21"
 [_metadata_:description]:- "Last week's column caused something of an uproar. E-mail after e-mail popped into my inbox, claiming that I had attacked the good name of a card that deserved no such dishonor. They accused me of misunderstanding what the card was for and not knowing about all the cool things that it can do. It seems I touched a nerve. In retrospect, this doesn't seem so surprising given that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-02-21"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/toolbox-pod-2012-09-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026095846id_/https://magic.wizards.com/en/articles/archive/feature/toolbox-pod-2012-09-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 09:58:46+00:00"
-[_metadata_:publish_date]:- "2012-09-25"
 [_metadata_:description]:- "Birthing Pod is an interesting card the likes of which we have never really seen before. Over the past two years we have seen Birthing Pod do just about everything. In Modern, it acted as a consistency tool to help out various combo decks. In Standard, we have seen it as an engine for Zombie decks, triggering undying, and finding Clones every turn."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-09-25"
 ---
 
 

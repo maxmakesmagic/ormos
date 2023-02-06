@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-tokens-2012-01-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018210528id_/https://magic.wizards.com/en/articles/archive/feature/modern-tokens-2012-01-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 21:05:28+00:00"
-[_metadata_:publish_date]:- "2012-01-04"
 [_metadata_:description]:- "In preparation for the Modern Pro Tour Qualifier season, Modern Daily Events on Magic Online have been firing and showing off some exciting new decks. Magic Online player Bjcollins brought his take on the format to the table, going 3–1 in a recent event with a unique tokens deck. Bjcollins's deck features everything from old token making standbys like Raise the Alarm to new"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-04"
 ---
 
 

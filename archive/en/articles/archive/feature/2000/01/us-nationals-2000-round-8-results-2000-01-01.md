@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-8-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205031230id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-8-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-05 03:12:30+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Akbar, David Ferguson, Cory Lost, 1-2 Allen, Dustin Winkelstien, Jerry Won, 2-0 Aubertin, Justin Mourssali, Riad Lost, 0-2 Beckmon, Jon Ho, Ken Lost, 1-2 Benafel, Chris Lieberman, Alex Won, 2-0 Bhattacharyya, Sayan Turian, Michael Lost, 1-2 Blackwell, Trevor Pustilnik, Michael Lost, 0-2 Bragg, Tillman Sangiamvongse, Prasong Lost, 0-2 Bregoli, Mike Linde,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

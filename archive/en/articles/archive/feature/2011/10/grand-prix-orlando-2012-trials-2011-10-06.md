@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-2012-trials-2011-10-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525230843id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-2012-trials-2011-10-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 23:08:43+00:00"
-[_metadata_:publish_date]:- "2011-10-06"
 [_metadata_:description]:- "Grand Prix Orlando Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers the winner a three-round bye to Grand Prix Orlando. WPN Locations in the Orlando Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-10-06"
 ---
 
 

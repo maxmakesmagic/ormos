@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-4-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521232937id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-4-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 23:29:37+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Akbar, David Moungey, Jason Lost, 1-2 Allen, Dustin Mitchell, Alex Lost, 1-2 Armstrong, Herman Leiher, Peter Lost, 1-2 Aubertin, Justin Carson, Adam Won, 2-1 Beckmon, Jon Raether, Donald Won, 2-0 Benafel, Chris Ho, Ken Won, 2-0 Bhattacharyya, Sayan Lytle, Josh Won, 2-0 Bigos, Kyle Turian, Michael Lost, 0-2 Blackwell, Trevor Oxford, Joe Won, 1-0 Boneau,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

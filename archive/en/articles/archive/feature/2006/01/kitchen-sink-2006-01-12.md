@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kitchen-sink-2006-01-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125132757id_/https://magic.wizards.com/en/articles/archive/feature/kitchen-sink-2006-01-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-25 13:27:57+00:00"
-[_metadata_:publish_date]:- "2006-01-12"
 [_metadata_:description]:- "I know many of you clicked here hoping that maybe, just maybe, we might finally be giving up some more information about Magic Online 3.0, and I hate to disappoint you—again! Scott asked me to leave some space at the end of this week's article for him, as he felt he had a possible way to speed up the preview schedule and start getting stuff to us now. I can't wait. Actually, I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-01-12"
 ---
 
 

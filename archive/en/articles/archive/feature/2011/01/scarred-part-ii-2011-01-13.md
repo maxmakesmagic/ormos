@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scarred-part-ii-2011-01-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210204151504id_/https://magic.wizards.com/en/articles/archive/feature/scarred-part-ii-2011-01-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-02-04 15:15:04+00:00"
-[_metadata_:publish_date]:- "2011-01-13"
 [_metadata_:description]:- "    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-13"
 ---
 
 

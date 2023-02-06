@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-sep-26-oct-2-2009-10-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120235721id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-sep-26-oct-2-2009-10-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 23:57:21+00:00"
-[_metadata_:publish_date]:- "2009-10-02"
 [_metadata_:description]:- "September 27-29: Phoenix Foundation takes Pro Tour–Boston Deep down inside, no one was surprised. After an undefeated Day 2, Phoenix Foundation (Kai Budde, Dirk Baberowski, and Marco Blume) reaffirmed their dominance of the Team Rochester Format. The previous year, they'd took the tournament by storm, and after claiming the Team Masters they were just accepted as the best in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-02"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-9-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516214618id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-9-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:46:18+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Auer, Jeff (1700) (512) Thomsen Skye (87) Bernat Michael (70) Swan, Brad (1700) (66) Boyer, Chris (1700) (27) Vanzander, Michael (1700) (262) Bryant Jr Doug (15) Finkel, Jon (Q) (82) Bush Michelle (11) Duewel-Zahniser, Eric (1700) (343) Carpenter, Ryan (1700) (389) O'Mahoney-Schwartz, Daniel ( (584) Crosby, Joseph (Q) (1700) (393) Fusco, John (1700) (163)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

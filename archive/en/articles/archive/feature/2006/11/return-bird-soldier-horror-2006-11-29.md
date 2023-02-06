@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/return-bird-soldier-horror-2006-11-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503070314id_/https://magic.wizards.com/en/articles/archive/feature/return-bird-soldier-horror-2006-11-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:03:14+00:00"
-[_metadata_:publish_date]:- "2006-11-29"
 [_metadata_:description]:- "I know, I know... Where's Gottlieb?!? An increasingly little known fact is that before Building On A Budget, before Into The Aether, before Feature Articles on flavor text writing, I actually cut my teeth writing House of Cards as one of the first magicthegathering.com columnists. Based on my jumping from column to column, you can easily call me the most flighty writer for"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-11-29"
 ---
 
 

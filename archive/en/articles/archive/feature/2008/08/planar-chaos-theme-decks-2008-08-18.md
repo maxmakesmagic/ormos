@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planar-chaos-theme-decks-2008-08-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160922014710id_/http://magic.wizards.com/en/articles/archive/feature/planar-chaos-theme-decks-2008-08-18"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-22 01:47:10+00:00"
-[_metadata_:publish_date]:- "2008-08-18"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-18"
 ---
 
 

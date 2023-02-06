@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/soul-searching-2012-11-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503130103id_/https://magic.wizards.com/en/articles/archive/feature/soul-searching-2012-11-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 13:01:03+00:00"
-[_metadata_:publish_date]:- "2012-11-13"
 [_metadata_:description]:- "So, one thing we all like to do, at one level or another, is `go deep.` This bit of terminology, which can technically mean just about anything, is generally characterized by someone doing something out of the ordinary—and sometimes even convolutedly. Instead of winning with Grapeshot in Storm, maybe you try to win with Dingus Egg plus Volcanic Awakening. You, my friend, have"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-11-13"
 ---
 
 

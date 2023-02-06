@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lord-things-2012-03-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170516043228id_/http://magic.wizards.com/en/articles/archive/feature/lord-things-2012-03-19"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-16 04:32:28+00:00"
-[_metadata_:publish_date]:- "2012-03-19"
 [_metadata_:description]:- "Welcome to Lord Week. This week, we'll be exploring the long-standing tradition of creatures that support and boost members of a specific tribe. Since this is a design column, I thought I'd stroll through Magic history and look at how lords have been designed over the last nineteen years (okay, almost—Magic turns nineteen in July)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-19"
 ---
 
 

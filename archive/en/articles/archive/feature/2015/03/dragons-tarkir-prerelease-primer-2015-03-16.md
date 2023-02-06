@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-prerelease-primer-2015-03-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150319085024id_/http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-prerelease-primer-2015-03-16"
 [_metadata_:wayback_capture_timestamp]:- "2015-03-19 08:50:24+00:00"
-[_metadata_:publish_date]:- "2015-03-16"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Be ready for the Dragons of Tarkir Prerelease."
+[_metadata_:publish_date]:- "2015-03-16"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-mike-long-vs-jason-opalka-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208202513id_/https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-mike-long-vs-jason-opalka-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 20:25:13+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "It has often been said that US Nationals is Mike Long's tournament. If his match with Jason Opalka is any indication, 'they' are probably right. Coming into the second draft with a 2-1 record, Long drafted a three color deck as Opalka passed to him, but it didn't matter in this match as, despite the mediocrity of Long's deck, it couldn't have been worse than Jason's. Long's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

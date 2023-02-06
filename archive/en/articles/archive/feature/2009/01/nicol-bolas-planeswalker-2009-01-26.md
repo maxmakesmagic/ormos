@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/nicol-bolas-planeswalker-2009-01-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160603150016id_/http://magic.wizards.com/en/articles/archive/feature/nicol-bolas-planeswalker-2009-01-26"
 [_metadata_:wayback_capture_timestamp]:- "2016-06-03 15:00:16+00:00"
-[_metadata_:publish_date]:- "2009-01-26"
 [_metadata_:description]:- "Congratulations, you've found Nicol Bolas, Planeswalker."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-26"
 ---
 
 

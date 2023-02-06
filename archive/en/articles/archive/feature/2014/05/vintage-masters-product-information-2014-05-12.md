@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vintage-masters-product-information-2014-05-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527232001id_/https://magic.wizards.com/en/articles/archive/feature/vintage-masters-product-information-2014-05-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 23:20:01+00:00"
-[_metadata_:publish_date]:- "2014-05-12"
 [_metadata_:description]:- "Events Information  Prerelease Events: June 13-16, 2014 Release Date: June 16, 2014 Release Events: June 16-July 2, 2014   Set Information  Vintage Masters features 325 cards in a Magic Online-only card set. Vintage Masters will give Magic Online players a chance to draft, own and enjoy many of the amazing cards in Magic, including the storied Power Nine. With Vintage Masters,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-12"
 ---
 
 

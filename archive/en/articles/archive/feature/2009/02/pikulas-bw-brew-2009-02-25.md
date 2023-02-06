@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pikulas-bw-brew-2009-02-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020132855id_/https://magic.wizards.com/en/articles/archive/feature/pikulas-bw-brew-2009-02-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 13:28:55+00:00"
-[_metadata_:publish_date]:- "2009-02-25"
 [_metadata_:description]:- "[decklist] Title: Chris Pikula's Black-White Deadguy Format: Grand Prix–Philadelphia 10 Swamp 4 Bloodstained Mire 4 Wasteland 1 Tainted Field 4 Scrubland 4 Dark Confidant 4 Hypnotic Specter 3 Nantuko Shade 4 Dark Ritual 4 Duress 4 Hymn to Tourach 2 Gerrard's Verdict 4 Sinkhole 4 Vindicate 2 Cursed Scroll 2 Engineered Plague *2 Swords to Plowshares *2 Darkblast *4 Withered"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-25"
 ---
 
 

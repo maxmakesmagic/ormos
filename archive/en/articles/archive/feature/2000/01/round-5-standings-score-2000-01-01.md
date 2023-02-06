@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-standings-score-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123162414id_/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-score-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-23 16:24:14+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win%1The Ken Ho All-Stars1573.33%2Team Clasp1562.66%3The Hubbsucker Proxy1557.50%4Ride or Die1557.33%5Team Needs a Hotel Room1556.66%6The Tails1373.33%7AlphaBetaUnlimited.com/13"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

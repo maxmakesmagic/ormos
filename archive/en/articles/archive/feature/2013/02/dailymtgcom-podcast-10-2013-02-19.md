@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-10-2013-02-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123072539id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-10-2013-02-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-23 07:25:39+00:00"
-[_metadata_:publish_date]:- "2013-02-19"
 [_metadata_:description]:- "This is the biweekly audio podcast for DailyMTG.com. Intro music by Bern Menth. The Daily MTG Podcast is now on iTunes! You can visit its page right here. Or, if you use a different podcast aggregator, you can point it directly at the RSS feed: http://www.wizards.com/dailymtgpodcast.xml. Send us your feedback, questions or ideas! Email DailyMTGCast@wizards.com Episode 10 -"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-02-19"
 ---
 
 

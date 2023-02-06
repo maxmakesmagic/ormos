@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/faq-two-headed-giant-pro-tour-qualifiers-ptq-2007-2007-03-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026192756id_/https://magic.wizards.com/en/articles/archive/feature/faq-two-headed-giant-pro-tour-qualifiers-ptq-2007-2007-03-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 19:27:56+00:00"
-[_metadata_:publish_date]:- "2007-03-27"
 [_metadata_:description]:- "First, some general 2HG stuff: 1) Team combined life totals in DCI sanctioned events is now 30 life (instead of 40 that is listed in the Comprehensive Rules.) 2) For 2HG, teams must determine seating before determining which team is playing first. Seating is set for each match but is not set for the entire event. Whoever is seated to the right (at that match) is the primary"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-03-27"
 ---
 
 

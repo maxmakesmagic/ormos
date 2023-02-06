@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-sarkhan-mad-and-gideon-jura-2010-04-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200920213011id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-sarkhan-mad-and-gideon-jura-2010-04-16"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-20 21:30:11+00:00"
-[_metadata_:publish_date]:- "2010-04-16"
 [_metadata_:description]:- "This week's two desktop wallpapers feature Chippy's Sarkhan the Mad and Aleksi Briclot's Gideon Jura planeswalker artwork from Rise of the Eldrazi. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-04-16"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/art-appreciation-jeremy-jarvis-2008-07-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160703234055id_/http://magic.wizards.com/en/articles/archive/feature/art-appreciation-jeremy-jarvis-2008-07-23"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-03 23:40:55+00:00"
-[_metadata_:publish_date]:- "2008-07-23"
 [_metadata_:description]:- "Welcome to Mimic Week! All this week on magicthegathering.com, the regular columns will appear as usual… but with a twist. Your eight regular writers, plus at least two guest authors who've written for the site before, are hiding in the ten regular column slots—maybe even their own—under a clever pseudonym: The Mimic! Can you figure out who actually wrote each article? Tune in Monday, July 28 for the answers!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-23"
 ---
 
 

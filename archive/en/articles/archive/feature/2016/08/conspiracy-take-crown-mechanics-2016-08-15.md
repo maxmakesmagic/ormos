@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/conspiracy-take-crown-mechanics-2016-08-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160816125629id_/http://magic.wizards.com/en/articles/archive/feature/conspiracy-take-crown-mechanics-2016-08-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-16 12:56:29+00:00"
-[_metadata_:publish_date]:- "2016-08-15"
 [_metadata_:description]:- "Matt gives a rundown of the new mechanics appearing in Conspiracy: Take the Crown, along with a refresher on some returning ones."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-08-15"
 ---
 
 

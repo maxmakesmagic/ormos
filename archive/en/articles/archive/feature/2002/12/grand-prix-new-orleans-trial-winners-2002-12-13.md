@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-orleans-trial-winners-2002-12-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028063610id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-orleans-trial-winners-2002-12-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 06:36:10+00:00"
-[_metadata_:publish_date]:- "2002-12-13"
 [_metadata_:description]:- "CityStatusOrganizerEvent DateFirst NameLast Name HoustonRCDScott Larabee11/08/02ZevGurwitz AtlantaRCDAnthony Edwards11/16/02DewayneReel DenverRCDEric Smith11/23/02SamLieberman High PointRCDJim Bailey11/23/02JamesMcCoy LouisvilleRCDBrennan Moody11/23/02AaronClark New OrleansRCDTimothy Weissman11/23/02TimothyComeaux ColumbusRCDMichael Guptil11/30/02JamesWheeler"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-12-13"
 ---
 
 

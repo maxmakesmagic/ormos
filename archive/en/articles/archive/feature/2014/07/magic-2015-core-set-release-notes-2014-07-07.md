@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-2015-core-set-release-notes-2014-07-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150424000029id_/http://magic.wizards.com/en/articles/archive/feature/magic-2015-core-set-release-notes-2014-07-07"
 [_metadata_:wayback_capture_timestamp]:- "2015-04-24 00:00:29+00:00"
-[_metadata_:publish_date]:- "2014-07-07"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "The Release Notes include information concerning the release of a new Magic: The Gathering set, as well as a collection of clarifications and rulings involving that set's cards."
+[_metadata_:publish_date]:- "2014-07-07"
 ---
 
 

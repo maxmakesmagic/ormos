@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/happy-holidays-2010-12-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160226015823id_/http://magic.wizards.com/en/articles/archive/feature/happy-holidays-2010-12-20"
 [_metadata_:wayback_capture_timestamp]:- "2016-02-26 01:58:23+00:00"
-[_metadata_:publish_date]:- "2010-12-20"
 [_metadata_:description]:- "Happy holidays from all of us here at magicthegathering.com!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-12-20"
 ---
 
 

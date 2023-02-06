@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-8-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205230337id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-8-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:03:37+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "      Op-Match Rank Name Points Win% 1 Your Move Games 21 61.53 2 Coolers 20 72.22 3 Antarctica 20 70.14 4 Pudge 20 66.07"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

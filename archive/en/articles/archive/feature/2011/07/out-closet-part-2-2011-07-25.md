@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/out-closet-part-2-2011-07-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170618224658id_/http://magic.wizards.com/en/articles/archive/feature/out-closet-part-2-2011-07-25"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-18 22:46:58+00:00"
-[_metadata_:publish_date]:- "2011-07-25"
 [_metadata_:description]:- "Two weeks ago I wrote a column about T-shirts. It wasn't really about T-shirts. It was about Magic history using a personal filter as a connecting device. I expected it to be well received, enough so that I made it a two-parter, but then something interesting happened. It became one of my most divisive columns ever. By divisive, I mean that some people really liked it and others hated it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-07-25"
 ---
 
 

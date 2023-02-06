@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-14-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126171350id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-14-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:13:50+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler Two pro tour winners playing in the final round of the Swiss with Top 8 on the line. Who could ask for more than that? Mike Long sat down with a G/W deck that splashed a little black and included 6, count them, 6 Howling Wolves. Darwin had a fairly standard blue/white deck with a decent rebel engine and a healthy dose of control. Long's face when he sat down"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

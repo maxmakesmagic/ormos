@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-loam-2013-04-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525223049id_/https://magic.wizards.com/en/articles/archive/feature/legacy-loam-2013-04-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 22:30:49+00:00"
-[_metadata_:publish_date]:- "2013-04-24"
 [_metadata_:description]:- "Jeff Hoogland had a pretty good run in Milwaukee the weekend before last, finishing in the Top 4 in Standard and making the finals in Legacy. His Legacy deck is an interesting take on `Aggro Loam`—a Life from the Loam–powered shell that has existed across multiple formats where the card is legal. Jeff's take eschews Seismic Assault, favoring Punishing Fire as its recurring"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-04-24"
 ---
 
 

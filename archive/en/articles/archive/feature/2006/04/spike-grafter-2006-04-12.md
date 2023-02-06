@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/spike-grafter-2006-04-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201020030047id_/https://magic.wizards.com/en/articles/archive/feature/spike-grafter-2006-04-12"
 [_metadata_:wayback_capture_timestamp]:- "2020-10-20 03:00:47+00:00"
-[_metadata_:publish_date]:- "2006-04-12"
 [_metadata_:description]:- "Welcome Johnnies, Johnny-Timmies, and lapsed Spikes! Before I get started, I'd like to make an apology. As you may or may not know, last week I built some decks that were a little too powerful. Actually, they were a lot too powerful."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-04-12"
 ---
 
 

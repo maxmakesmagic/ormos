@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/meet-digital-event-coordinators-2014-06-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516232241id_/https://magic.wizards.com/en/articles/archive/feature/meet-digital-event-coordinators-2014-06-04"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 23:22:41+00:00"
-[_metadata_:publish_date]:- "2014-06-04"
 [_metadata_:description]:- "Download  Magic Online   June  MOCS June Promo  Gaea's Cradle   MOPR June Event Promo  Squelching Leeches    T he upcoming series of MOCS Appreciation events mark the debut of Digital Event Coordinators (DEC) – a new layer of event managers to keep an eye on top-tier Magic Online tournaments. With extensive experience running events at all levels of Organized Play, from Friday"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-06-04"
 ---
 
 

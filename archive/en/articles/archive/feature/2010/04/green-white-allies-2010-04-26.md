@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/green-white-allies-2010-04-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170328232025id_/http://magic.wizards.com/en/articles/archive/feature/green-white-allies-2010-04-26"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-28 23:20:25+00:00"
-[_metadata_:publish_date]:- "2010-04-26"
 [_metadata_:description]:- "[decklist] Title: jbozek's Green-White Allies Format: Block Constructed 7 Forest 2 Graypelt Refuge 8 Plains 4 Stirring Wildwood 3 Tectonic Edge 3 Graypelt Hunter 4 Hada Freeblade 4 Harabaz Druid 3 Kabira Evangel 4 Kazandu Blademaster 4 Oran-Rief Survivalist 4 Tajuru Archer 4 Talus Paladin 3 Turntimber Ranger 2 Grappling Hook 2 Join the Ranks *3 Journey to Nowhere *4 Ondu Cleric *3 Quicksand *4 Refraction Trap *1 Turntimber Ranger"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-04-26"
 ---
 
 

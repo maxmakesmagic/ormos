@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-5-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523090847id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-5-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:08:47+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Spindel, Daniel 15 64.0000 90.9091 60.1632 5/5/0/0 2 Bryant, Jusdtin 15 62.6667 71.4286 57.9294 5/5/0/0 3 Wiegand, Jon 15 60.0000 83.3333 53.5964 5/5/0/0 4 Cassidy, Jonathan 15 60.0000 76.9231 55.4878 5/5/0/0 5 Chapman, Eric 15 54.6667 76.9231 51.9281 5/5/0/0 6 Strom, Eric 13 62.6667 69.2308 57.4359"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

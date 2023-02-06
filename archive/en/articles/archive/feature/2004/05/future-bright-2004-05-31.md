@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/future-bright-2004-05-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170628044433id_/http://magic.wizards.com/en/articles/archive/feature/future-bright-2004-05-31"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-28 04:44:33+00:00"
-[_metadata_:publish_date]:- "2004-05-31"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-05-31"
 ---
 
 

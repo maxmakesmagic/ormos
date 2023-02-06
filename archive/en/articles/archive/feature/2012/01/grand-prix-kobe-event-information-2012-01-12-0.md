@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kobe-event-information-2012-01-12-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030030456id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kobe-event-information-2012-01-12-0"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:04:56+00:00"
-[_metadata_:publish_date]:- "2012-01-12"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Featured Retailers  Travel Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-12"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-tom-guevin-vs-trevor-blackwell-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130005238id_/https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-tom-guevin-vs-trevor-blackwell-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-30 00:52:38+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "In one of the most frustrating matches to observe in recent nationals history, Tom Guevin and Trevor Blackwell locked horns in what would become one of the true marathon matches of the tourney. Playing in the 5th round at 3-1 a piece, the two competitors, who had never met before, started off amicably enough, with Trevor's third turn Bouncer being joined by a fourth turn"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

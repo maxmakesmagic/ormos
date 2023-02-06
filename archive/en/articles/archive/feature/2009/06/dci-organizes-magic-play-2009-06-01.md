@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dci-organizes-magic-play-2009-06-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429081313id_/https://magic.wizards.com/en/articles/archive/feature/dci-organizes-magic-play-2009-06-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:13:13+00:00"
-[_metadata_:publish_date]:- "2009-06-01"
 [_metadata_:description]:- "The story of organized play for Magic: The Gathering is also the story of the DCI, the official regulating authority for sanctioned Magic tournaments. The one begat the other, as organized competition preceded the organization by several months. Organized play has been a part of Magic nearly since its origin, as fans invented ways to play the game in groups shortly after its"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-01"
 ---
 
 

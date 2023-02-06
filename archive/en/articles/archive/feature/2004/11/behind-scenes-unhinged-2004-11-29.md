@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/behind-scenes-unhinged-2004-11-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170728211516id_/http://magic.wizards.com/en/articles/archive/feature/behind-scenes-unhinged-2004-11-29"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-28 21:15:16+00:00"
-[_metadata_:publish_date]:- "2004-11-29"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-11-29"
 ---
 
 

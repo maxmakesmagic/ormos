@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/online-standard-and-extended-metagames-2006-12-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809145201id_/https://magic.wizards.com/en/articles/archive/feature/online-standard-and-extended-metagames-2006-12-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-09 14:52:01+00:00"
-[_metadata_:publish_date]:- "2006-12-13"
 [_metadata_:description]:- "The online players have now had over a week to digest the results of the Magic World Championships and try out the new decks that were introduced in that tournament. What decks have come out on top since? Let's find out! Boros Deck Wins and Wins and Wins in Standard I added up all the Magic Online Standard events that have been held since the World Championships (for the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-12-13"
 ---
 
 

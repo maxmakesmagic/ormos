@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-alara-art-quiz-2008-10-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128111238id_/https://magic.wizards.com/en/articles/archive/feature/shards-alara-art-quiz-2008-10-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 11:12:38+00:00"
-[_metadata_:publish_date]:- "2008-10-09"
 [_metadata_:description]:- "How well do you know the denizens of Shards of Alara? Sure, anyone can identify a card by looking at the giant creature in the foreground. But what about the little critters of nature in the background? Using just the small visual cues below, can you name the Shards of Alara cards each of these creatures appears on?   After you guess, click the images above to see the full art"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-09"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pod-superion-2011-05-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018181609id_/https://magic.wizards.com/en/articles/archive/feature/pod-superion-2011-05-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:16:09+00:00"
-[_metadata_:publish_date]:- "2011-05-10"
 [_metadata_:description]:- "[decklist] Title: Mons Johnson's Pod Superion Format: Standard (with New Phyrexia) 1 Oran-Rief, the Vastwood 4 Misty Rainforest 4 Scalding Tarn 3 Raging Ravine 1 Evolving Wilds 1 Halimar Depths 1 Tectonic Edge 6 Forest 2 Island 1 Mountain 4 Joraga Treespeaker 1 Hex Parasite 4 Lotus Cobra 4 Myr Superion 1 Fauna Shaman 1 Viridian Emissary 3 Priest of Urabrask 1 Tuktuk the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-05-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-event-information-2009-01-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190906202827id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-event-information-2009-01-06"
 [_metadata_:wayback_capture_timestamp]:- "2019-09-06 20:28:27+00:00"
-[_metadata_:publish_date]:- "2009-01-06"
 [_metadata_:description]:- "Pulse Plaza Get a full rundown of all the happenings at Pro Tour–Kyoto by downloading The Gazetteer! This full-color handout contains public event details, nearby Wizards Play Network locations, site activities, and much more."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-06"
 ---
 
 

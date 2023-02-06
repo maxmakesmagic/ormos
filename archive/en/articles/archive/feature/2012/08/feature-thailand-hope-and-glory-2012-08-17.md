@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-thailand-hope-and-glory-2012-08-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151027213048id_/http://magic.wizards.com/en/articles/archive/feature/feature-thailand-hope-and-glory-2012-08-17"
 [_metadata_:wayback_capture_timestamp]:- "2015-10-27 21:30:48+00:00"
-[_metadata_:publish_date]:- "2012-08-17"
 [_metadata_:description]:- "Of the Thai World Magic Cup team, three have never played on the Pro Tour before, two have never been to America before, and one is Matt Marr. The American, working as an English teacher in Thailand, is confident that in spite of this, Thailand is set to break out here at the World Magic Cup."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-17"
 ---
 
 

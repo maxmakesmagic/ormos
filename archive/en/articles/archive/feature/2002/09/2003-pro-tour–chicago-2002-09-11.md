@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93chicago-2002-09-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221005081342id_/https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93chicago-2002-09-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-10-05 08:13:42+00:00"
-[_metadata_:publish_date]:- "2002-09-11"
 [_metadata_:description]:- "Come join Wizards of the Coast for our next Pro Tour stop in Chicago This information will help you to prepare now to attend in January."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-09-11"
 ---
 
 

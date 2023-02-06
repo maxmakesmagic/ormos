@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-9-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521212852id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-9-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 21:28:52+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Antarctica (42) 18 3 CCC (60) 18 ATM (64) 13 12 The Alliance (71) 13 Brown Bomber (69) 16 7 Shop Adept (6) 16 CCC (60) 18 3 Antarctica (42) 18 CMU (56) 18 2 Operation Mise (19) 19 ECA (57) 12 15 Utrecht (49) 12 Fifth Again (28) 12 14 Lost in Spain (50) 12 Fu-Ku-Ra-Mi (7) 15 10 The Tank (47) 15 Game Empire (77) 24 1 Tongo Nation (31) 19"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

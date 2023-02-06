@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-country-list-2012-06-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207100334id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-country-list-2012-06-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-07 10:03:34+00:00"
-[_metadata_:publish_date]:- "2012-06-19"
 [_metadata_:description]:- "In which countries can I purchase Duels of the Planeswalkers 2013?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-19"
 ---
 
 

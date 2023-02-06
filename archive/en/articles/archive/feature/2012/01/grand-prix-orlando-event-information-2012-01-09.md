@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-event-information-2012-01-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161002165707id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-event-information-2012-01-09"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-02 16:57:07+00:00"
-[_metadata_:publish_date]:- "2012-01-09"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-09"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-3-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516132224id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-3-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 13:22:24+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 TLC 9 59.26 2 Operation Mise 9 55.56 3 Your Move Games 9 55.56 4 Game Empire 9 55.56 5 Big Dogs 9 48.15 6 Babes of the Dingo 9 48.15 7 Fifth Again 9 44.44 8 CMU 9 44.44 9 Shop Adept 7 51.85 10 Teriyaki Toshiki 7 51.85 11 Tongo Nation 7 44.44 12 Marc's Brothers 7 40.74 13 Three Blind Mice 6 77.78 14 Comrades 6 70.37 15 Phenomene J 6 66.67 16"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

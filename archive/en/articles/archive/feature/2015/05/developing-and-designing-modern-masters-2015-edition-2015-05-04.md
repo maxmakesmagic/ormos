@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/developing-and-designing-modern-masters-2015-edition-2015-05-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150504154909id_/http://magic.wizards.com/en/articles/archive/feature/developing-and-designing-modern-masters-2015-edition-2015-05-04"
 [_metadata_:wayback_capture_timestamp]:- "2015-05-04 15:49:09+00:00"
-[_metadata_:publish_date]:- "2015-05-04"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Ben gives you a glimpse into the development of Modern Masters 2015 Edition."
+[_metadata_:publish_date]:- "2015-05-04"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-pax-east-2013-03-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160906081818id_/http://magic.wizards.com/en/articles/archive/feature/magic-pax-east-2013-03-14"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-06 08:18:18+00:00"
-[_metadata_:publish_date]:- "2013-03-14"
 [_metadata_:description]:- "&#13; s Wizards of the Coast going to have a Magic: The Gathering presence at PAX East this year? Of course it is! We'll be using the Twitter hashtag #MTGPAX at the event too!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-03-14"
 ---
 
 

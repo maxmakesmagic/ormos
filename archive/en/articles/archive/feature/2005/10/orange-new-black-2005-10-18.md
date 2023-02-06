@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/orange-new-black-2005-10-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813022327id_/https://magic.wizards.com/en/articles/archive/feature/orange-new-black-2005-10-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 02:23:27+00:00"
-[_metadata_:publish_date]:- "2005-10-18"
 [_metadata_:description]:- "or Pig On a Stick, I’m In, But No Poi! Once upon a time, a Magic® deck only had to have 40 cards in it. Not just for Sealed Deck tournaments, but for Constructed play. Once upon a time, there were no banned or restricted cards. Once upon a time, you could show up at a tournament with a deck that had 15 Black Lotus and 25 Ancestral Recalls and draw your opponent’s deck on the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-18"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-league-deck-evolution-starts-now-2005-05-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121120619id_/https://magic.wizards.com/en/articles/archive/feature/my-league-deck-evolution-starts-now-2005-05-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 12:06:19+00:00"
-[_metadata_:publish_date]:- "2005-05-19"
 [_metadata_:description]:- "League Play: Bang for Your BuckOne of the most satisfying parts of writing for magicthegathering.com is getting email from people who are just starting to tiptoe around the notion of “diving in” to the Magic waters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-05-19"
 ---
 
 

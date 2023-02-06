@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/runeflare-combo-2010-08-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170704004040id_/http://magic.wizards.com/en/articles/archive/feature/runeflare-combo-2010-08-03"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-04 00:40:40+00:00"
-[_metadata_:publish_date]:- "2010-08-03"
 [_metadata_:description]:- "[decklist] Title: Ryan Reynolds's Runeflare Combo Format: Standard - 1st Place - PTQ for PT–Amsterdam in Santa Clara, CA 12 Island 7 Mountain 4 Scalding Tarn 4 Font of Mythos 4 Howling Mine 1 Jace Beleren 4 Lightning Bolt 4 Mana Leak 4 Runeflare Trap 4 Temple Bell 4 Time Warp 4 Twincast 4 Unsummon *3 Burst Lightning *4 Dragon's Claw *4 Into the Roil *4 Spell Pierce"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-08-03"
 ---
 
 

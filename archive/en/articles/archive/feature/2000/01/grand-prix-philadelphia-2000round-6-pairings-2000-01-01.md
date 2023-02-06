@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-6-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521194146id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-6-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 19:41:46+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Allen Chris (436) Wolfman Steven (20) Allen Crispin (571) Lanzillotta Jason (14) Allen Tim (442) Walter William (544) Amendolia Aaron (320) Kolins Brian (534) Anders Dorian (295) Avitollo Anthony (457) Anderson Alex (420) Lowery Brett (132) Anderson Eric (552) LoPinto Ben (576) Andrews Mal (21) Baum Noah (427) Anthon J.R."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

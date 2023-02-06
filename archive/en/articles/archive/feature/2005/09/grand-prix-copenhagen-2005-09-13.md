@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2005-09-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030201715id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2005-09-13"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 20:17:15+00:00"
-[_metadata_:publish_date]:- "2005-09-13"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Win a trip to Grand Prix Bilbao ...and many other Magic prizes! At Grand Prix Copenhagen fill out the voucher* that you'll find at the registration desk and deposit it in the designated box Saturday, November 5 before 5 pm. A draw will be held on Saturday, November 5 - at 6pm."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-09-13"
 ---
 
 

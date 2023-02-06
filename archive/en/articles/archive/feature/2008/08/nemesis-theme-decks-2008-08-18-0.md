@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nemesis-theme-decks-2008-08-18-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203201503id_/https://magic.wizards.com/en/articles/archive/feature/nemesis-theme-decks-2008-08-18-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-03 20:15:03+00:00"
-[_metadata_:publish_date]:- "2008-08-18"
 [_metadata_:description]:- "Replicator Mercenaries Eruption Breakdown   (Back to Product Page)  Replicator Your opponents will have double the trouble defending against the duplicating creatures of Replicator. What little more it costs to play these harbingers of doom is well worth the suffering they inflict.         (Back to Top) | (Back to Product Page) * = from a previous set Mercenaries With"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-18"
 ---
 
 

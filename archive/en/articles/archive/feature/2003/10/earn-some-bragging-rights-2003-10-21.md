@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/earn-some-bragging-rights-2003-10-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018171312id_/https://magic.wizards.com/en/articles/archive/feature/earn-some-bragging-rights-2003-10-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 17:13:12+00:00"
-[_metadata_:publish_date]:- "2003-10-21"
 [_metadata_:description]:- "The State/Province/Island/Territory Championships (Champs for short) is coming up this Saturday, October 25th. After reading some initial reader feedback about the event, I've decided to clear up some of the confusion about how Champs works. One reader in particular asked some very good questions that I would like to address.Hi! My name is Liz and I read your article and now"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-10-21"
 ---
 
 

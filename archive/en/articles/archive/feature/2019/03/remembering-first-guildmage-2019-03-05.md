@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/remembering-first-guildmage-2019-03-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190305160304id_/https://magic.wizards.com/en/articles/archive/feature/remembering-first-guildmage-2019-03-05"
 [_metadata_:wayback_capture_timestamp]:- "2019-03-05 16:03:04+00:00"
-[_metadata_:publish_date]:- "2019-03-05"
 [_metadata_:description]:- "Jeff Zandi touched the lives of thousands of Magic players over more than two decades. He built for them a community; he built them a home."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-03-05"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/doran-doran-2008-11-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016100344id_/https://magic.wizards.com/en/articles/archive/feature/doran-doran-2008-11-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 10:03:44+00:00"
-[_metadata_:publish_date]:- "2008-11-20"
 [_metadata_:description]:- "[decklist] Title: John Wickham's Doran Format: States 2008, 6th Place - Maine 6 Forest 4 Murmuring Bosk 7 Plains 2 Battlegrace Angel 4 Birds of Paradise 1 Chameleon Colossus 4 Doran, the Siege Tower 1 Oversoul of Dusk 4 Qasali Ambusher 4 Steward of Valeron 1 Treefolk Harbinger 4 Wilt-Leaf Cavaliers 4 Wilt-Leaf Liege 1 Condemn 1 Elspeth, Knight-Errant 3 Garruk Wildspeaker 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-20"
 ---
 
 

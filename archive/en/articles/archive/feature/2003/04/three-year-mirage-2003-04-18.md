@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/three-year-mirage-2003-04-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170508080351id_/http://magic.wizards.com/en/articles/archive/feature/three-year-mirage-2003-04-18"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-08 08:03:51+00:00"
-[_metadata_:publish_date]:- "2003-04-18"
 [_metadata_:description]:- "To talk about the Mirage set we need to go back to Magic’s beginning. In 1991, Richard Garfield had a large group of gamers at the University of Pennsylvania playtesting his new game concept – Magic: The Gathering. Richard would print cards every couple months and give each playtester about 60 cards. We traded, played some cross between Constructed and Sealed Deck, suggested changes to Richard, and designed our own Magic cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-04-18"
 ---
 
 

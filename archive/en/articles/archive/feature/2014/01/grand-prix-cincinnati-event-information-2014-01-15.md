@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-cincinnati-event-information-2014-01-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111204925id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-cincinnati-event-information-2014-01-15"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-11 20:49:25+00:00"
-[_metadata_:publish_date]:- "2014-01-15"
 [_metadata_:description]:- "Information    Grand Prix Cincinnati is brought to you by Professional Event Services."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-01-15"
 ---
 
 

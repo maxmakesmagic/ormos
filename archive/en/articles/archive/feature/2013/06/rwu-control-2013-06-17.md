@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rwu-control-2013-06-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318215450id_/http://magic.wizards.com/en/articles/archive/feature/rwu-control-2013-06-17"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-18 21:54:50+00:00"
-[_metadata_:publish_date]:- "2013-06-17"
 [_metadata_:description]:- "While Standard is currently an extremely diverse format, it has fallen into a similar position as Modern—with so many decks to choose from, players have little incentive to build anything new. While the format is far from `solved` in that there are many decks that do well, it is very well `explored` in that we can presume based on how rarely new decks emerge that the best decks are fairly well known."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-17"
 ---
 
 

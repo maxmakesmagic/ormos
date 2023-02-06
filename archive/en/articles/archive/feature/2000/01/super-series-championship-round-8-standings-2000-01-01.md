@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-8-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525204057id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-8-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 20:40:57+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Tracy, Sean 21 61.1012 75.0000 56.5894 8/7/0/0 2 Wagener, Joshua 21 56.1012 65.1515 51.8874 8/7/0/0 3 Russo, Spencer 21 54.1667 75.0000 53.9729 8/7/0/0 4 Schonk, Jeff 21 53.6458 78.9474 52.6821 8/7/0/0 5 Bryant, Justin 20 66.5179 60.8696 58.5685 8/6/2/0 6 Cassidy, Jonathan 20 64.5833 66.6667 56.5012"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

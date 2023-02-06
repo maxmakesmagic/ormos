@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/april-28-2014-dci-banned-restricted-list-announcement-2014-04-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807155416id_/https://magic.wizards.com/en/articles/archive/feature/april-28-2014-dci-banned-restricted-list-announcement-2014-04-28"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-07 15:54:16+00:00"
-[_metadata_:publish_date]:- "2014-04-28"
 [_metadata_:description]:- "Announcement Date: April 28, 2014 Standard, Modern, Extended, Legacy, Vintage: No changes For the complete list of all banned and restricted cards by format, click here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-28"
 ---
 
 

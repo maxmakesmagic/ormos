@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/edric-timewalker-trest-2013-01-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128205249id_/https://magic.wizards.com/en/articles/archive/feature/edric-timewalker-trest-2013-01-15"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-28 20:52:49+00:00"
-[_metadata_:publish_date]:- "2013-01-15"
 [_metadata_:description]:- "A few month ago, I played a game of Commander against David Williams, and I was amazed as he crushed me with a deck featuring such Commander staples as Shanodin Dryads and Grayscaled Gharial. I don't understand sharing casual Commander decklists. To some extent, I can understand building a deck that's just a collection of your favorite cards, or the best cards you own, and I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-15"
 ---
 
 

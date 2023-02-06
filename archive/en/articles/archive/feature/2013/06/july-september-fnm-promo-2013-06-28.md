@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/july-september-fnm-promo-2013-06-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160415043752id_/http://magic.wizards.com/en/articles/archive/feature/july-september-fnm-promo-2013-06-28"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-15 04:37:52+00:00"
-[_metadata_:publish_date]:- "2013-06-28"
 [_metadata_:description]:- "Here we are on the cusp of a new month, so it's time for me to share with you a new FNM promo! You should already be aware of the July FNM promo, it is Rakdos Cackler."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-28"
 ---
 
 

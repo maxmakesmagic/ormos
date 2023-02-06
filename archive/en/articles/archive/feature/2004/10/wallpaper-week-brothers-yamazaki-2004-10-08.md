@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-brothers-yamazaki-2004-10-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702111856id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-brothers-yamazaki-2004-10-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-02 11:18:56+00:00"
-[_metadata_:publish_date]:- "2004-10-08"
 [_metadata_:description]:- "This week's desktop wallpaper is Ron Spears's Brothers Yamazaki Brothers Yamazaki2 from the Champions of Kamigawa set. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-10-08"
 ---
 
 

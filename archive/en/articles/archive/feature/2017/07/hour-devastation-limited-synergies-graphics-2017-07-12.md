@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/hour-devastation-limited-synergies-graphics-2017-07-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170714154840id_/http://magic.wizards.com/en/articles/archive/feature/hour-devastation-limited-synergies-graphics-2017-07-12"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-14 15:48:40+00:00"
-[_metadata_:publish_date]:- "2017-07-12"
 [_metadata_:description]:- "Diego illustrates several of the synergies you can play with in Hour of Devastation."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-07-12"
 ---
 
 

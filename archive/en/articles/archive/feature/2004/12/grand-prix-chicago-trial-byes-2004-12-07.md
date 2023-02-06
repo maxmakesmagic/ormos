@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-trial-byes-2004-12-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017200507id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-trial-byes-2004-12-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-17 20:05:07+00:00"
-[_metadata_:publish_date]:- "2004-12-07"
 [_metadata_:description]:- "TeamFirstLastOrganizerCityDateTeam ShortbusJimmySpearsAlan HochmanIndianapolis8/19/2004Team ShortbusChesterLewAlan HochmanIndianapolis8/19/2004Team ShortbusJoshuaBarrettAlan HochmanIndianapolis8/19/2004no clueChrisFabianoDorian RedburnPhiladelphia10/10/2004no clueDavidBodimerDorian RedburnPhiladelphia10/10/2004no clueHenryCipparoneDorian RedburnPhiladelphia10/10/2004Barn Barn"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-12-07"
 ---
 
 

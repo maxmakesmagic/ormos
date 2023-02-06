@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-set-2020-prerelease-primer-2019-07-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190713153619id_/https://magic.wizards.com/en/articles/archive/feature/core-set-2020-prerelease-primer-2019-07-02"
 [_metadata_:wayback_capture_timestamp]:- "2019-07-13 15:36:19+00:00"
-[_metadata_:publish_date]:- "2019-07-02"
 [_metadata_:description]:- "Old favorites. New pals. Lots of Chandra in your face everywhere. That can only mean one thing: it's time for Core Set 2020!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-07-02"
 ---
 
 

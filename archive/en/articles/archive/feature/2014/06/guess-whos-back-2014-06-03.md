@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guess-whos-back-2014-06-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819182030id_/https://magic.wizards.com/en/articles/archive/feature/guess-whos-back-2014-06-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 18:20:30+00:00"
-[_metadata_:publish_date]:- "2014-06-03"
 [_metadata_:description]:- "During its reign in Standard, Squadron Hawk was an integral part of one of the most feared Standard decks in the history of Magic, Caw-Blade. The reason for the deck name is simply the combination of equipping a Squadron Hawk with a Sword of some variety. Magic Online user Schutz2kill has brought this basic strategy to Modern, even if Jace, the Mind Sculptor and Stoneforge"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-06-03"
 ---
 
 

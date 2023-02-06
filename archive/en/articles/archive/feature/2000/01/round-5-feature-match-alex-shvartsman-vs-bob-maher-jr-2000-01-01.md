@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-alex-shvartsman-vs-bob-maher-jr-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128031605id_/https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-alex-shvartsman-vs-bob-maher-jr-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 03:16:05+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Adrian Sullivan Two of the top players in the Player of the Year Race face off here with quite different decks. Maher is playing a Green/White creature and combat trick deck with a large amount of sub-par cards, while Shvartsman's Black/White deck has a more traditionally successful combination of elim and creatures. Game 1 Bob starts with a Pygmy Razorback and starts"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-ps3-official-terms-2010-11-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022233416id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-ps3-official-terms-2010-11-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 23:34:16+00:00"
-[_metadata_:publish_date]:- "2010-11-01"
 [_metadata_:description]:- "Please click your region: US | APAC | EU The Magic: The Gathering - Duels of the Planeswalkers PS3 Campaign (`Campaign`) is a Campaign offered by Wizards of the Coast LLC (`Wizards` or `Sponsor`). The Campaign starts on November 23, 2010 and ends April 30, 2011. Who Will We Reward? It's easy for you to receive a Gift. First, you must be eligible."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-11-01"
 ---
 
 

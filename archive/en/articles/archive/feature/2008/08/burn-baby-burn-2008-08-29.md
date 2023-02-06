@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/burn-baby-burn-2008-08-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818142511id_/https://magic.wizards.com/en/articles/archive/feature/burn-baby-burn-2008-08-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 14:25:11+00:00"
-[_metadata_:publish_date]:- "2008-08-29"
 [_metadata_:description]:- "[decklist] Title: Matteo Orsini-Jones's Burn Baby Burn! Format: 4 Fungal Reaches 4 Molten Slagheap 8 Mountain 4 Spinerock Knoll 4 Empty the Warrens 4 Grapeshot 4 Lotus Bloom 4 Manamorphose 4 Pyromancer's Swath 4 Rift Bolt 4 Rite of Flame 4 Shard Volley 4 Shock 4 Tarfire *4 Guttural Response *4 Ignite Memories *3 Magus of the Moon *4 Martyr of Ashes [/decklist]Serious about"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-29"
 ---
 
 

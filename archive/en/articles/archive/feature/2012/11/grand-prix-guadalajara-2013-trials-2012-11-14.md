@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-guadalajara-2013-trials-2012-11-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016061826id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-guadalajara-2013-trials-2012-11-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 06:18:26+00:00"
-[_metadata_:publish_date]:- "2012-11-14"
 [_metadata_:description]:- "Grand Prix Guadalajara Trials will be run at Latin America WPN locations from March 2, 2013 to May 12, 2013. Each awards the winner a three-round bye to Grand Prix Guadalajara. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-11-14"
 ---
 
 

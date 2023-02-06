@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/drop-and-give-me-2010-2009-07-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161130194428id_/http://magic.wizards.com/en/articles/archive/feature/drop-and-give-me-2010-2009-07-06"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-30 19:44:28+00:00"
-[_metadata_:publish_date]:- "2009-07-06"
 [_metadata_:description]:- "&#13; Welcome to Magic 2010 Previews, Week Two. Today I'm going to explain how the design process for Magic 2010 differed from every other design I've ever worked on (after almost fourteen years, that's a lot of sets). I'll tell a few stories. And, as always, I have another shiny new preview card to show you. In fact, let's get that out of the way right now.&#13; &#13; This card really doesn't need any set-up other than I think it does an excellent job of demonstrating the shift we've made in our approach to the core set (and beyond)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-06"
 ---
 
 

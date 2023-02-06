@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-day-august-2011-2011-08-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161107120758id_/http://magic.wizards.com/en/articles/archive/feature/card-day-august-2011-2011-08-01"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-07 12:07:58+00:00"
-[_metadata_:publish_date]:- "2011-08-01"
 [_metadata_:description]:- "*/ Moan of the Unhallowed – Innistrad uncommon."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-08-01"
 ---
 
 

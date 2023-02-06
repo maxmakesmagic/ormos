@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unraveling-mystery-booster-2019-11-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191117101121id_/https://magic.wizards.com/en/articles/archive/feature/unraveling-mystery-booster-2019-11-14"
 [_metadata_:wayback_capture_timestamp]:- "2019-11-17 10:11:21+00:00"
-[_metadata_:publish_date]:- "2019-11-14"
 [_metadata_:description]:- "The mystery's out! Gavin unravels Mystery Booster with a peek inside the set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-11-14"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-features-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525192526id_/https://magic.wizards.com/en/articles/archive/feature/us-open-features-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 19:25:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Casey McCarrel's Turn-One Kill Sealed Deck US Open Morning Open Analysis The Standard U.S. Open US Open Wrap Up Casey McCarrel, Part 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

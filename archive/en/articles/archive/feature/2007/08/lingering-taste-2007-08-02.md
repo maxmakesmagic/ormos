@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lingering-taste-2007-08-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201435id_/https://magic.wizards.com/en/articles/archive/feature/lingering-taste-2007-08-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:14:35+00:00"
-[_metadata_:publish_date]:- "2007-08-02"
 [_metadata_:description]:- "Pepto-Bismol. Sharp cheddar. Garlic. They all leave that lingering taste in the mouth. Though they all have their proper uses, they are all worse off for their persistence in hanging around on the tongue. Magic flavor, however, can have a lingering taste that is a good thing. In fact, Taste the Magic has some flavor that still hangs around even now, after two whole years of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-08-02"
 ---
 
 

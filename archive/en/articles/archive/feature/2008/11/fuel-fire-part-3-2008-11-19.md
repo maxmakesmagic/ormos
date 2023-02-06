@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fuel-fire-part-3-2008-11-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127100253id_/https://magic.wizards.com/en/articles/archive/feature/fuel-fire-part-3-2008-11-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 10:02:53+00:00"
-[_metadata_:publish_date]:- "2008-11-19"
 [_metadata_:description]:- "Welcome back to Web Comic Wednesday. It's time for Part 3 of Fuel for the Fire, in which—well, why don't you just read it for yourself?Enjoying our Planeswalker web comics? Want to read more? Go here to see them all, collected in one convenient place!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-19"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/format-duelist-invitational-2004-05-07-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170823232828id_/http://magic.wizards.com/en/articles/archive/feature/format-duelist-invitational-2004-05-07-0"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-23 23:28:28+00:00"
-[_metadata_:publish_date]:- "2004-05-07"
 [_metadata_:description]:- "The preliminary rounds of the Duelist Invitational will be fifteen matches (best two out of three) with each player facing off against every other player once. The two players with the best record at the end of the fifteen rounds will meet in a three out of five duel final match. The fifteen rounds will consist of five different formats: three constructed and two limited. Each format will be used for three matches. Constructed Formats You will need to construct the following three decks for the Invitational:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-05-07"
 ---
 
 

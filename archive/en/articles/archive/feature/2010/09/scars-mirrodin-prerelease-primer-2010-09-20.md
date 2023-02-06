@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scars-mirrodin-prerelease-primer-2010-09-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805135305id_/https://magic.wizards.com/en/articles/archive/feature/scars-mirrodin-prerelease-primer-2010-09-20"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-05 13:53:05+00:00"
-[_metadata_:publish_date]:- "2010-09-20"
 [_metadata_:description]:- "Welcome back to Mirrodin, a plane in trouble. The Phyrexians are invading from the up-side down, the inside-out, and every which way they can. This weekend, we get the very first chance to play with Scars of Mirrodin, and I, for one, cannot wait."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-09-20"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadowmoors-impact-standard-2008-06-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170809175925id_/http://magic.wizards.com/en/articles/archive/feature/shadowmoors-impact-standard-2008-06-06"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-09 17:59:25+00:00"
-[_metadata_:publish_date]:- "2008-06-06"
 [_metadata_:description]:- "*/ (For more details about the recent changes to the Vintage restricted list, please see the end of this article, featuring guest star developer Mike Turian.)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-06-06"
 ---
 
 

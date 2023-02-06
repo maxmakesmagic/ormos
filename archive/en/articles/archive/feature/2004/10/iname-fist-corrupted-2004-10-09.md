@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/iname-fist-corrupted-2004-10-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522091541id_/https://magic.wizards.com/en/articles/archive/feature/iname-fist-corrupted-2004-10-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 09:15:41+00:00"
-[_metadata_:publish_date]:- "2004-10-09"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Q: Although they have different 'subnames', Iname, Life Aspect and Iname, Death Aspect technically have the same name and would axe each other due to the new Legendary rule. Is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-10-09"
 ---
 
 

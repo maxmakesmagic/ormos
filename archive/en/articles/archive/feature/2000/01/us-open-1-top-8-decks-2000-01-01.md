@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-1-top-8-decks-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527134650id_/https://magic.wizards.com/en/articles/archive/feature/us-open-1-top-8-decks-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 13:46:50+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "JASON MOUNGEY (Replenish) Spells (36) 4 Attunement 4 Enlightened Tutor 3 Frantic Search 3 Lilting Refrain 1 Marble Diamond 4 Opalescence 4 Parallax Tide 4 Parallax Wave 4 Replenish 3 Seal of Cleansing 2 Sky Diamond LAND (24) 4 Adarkar Wastes 10 Island 10 Plains SIDEBOARD 1 Back to Basics 3 Chill 1 Circle of Protection: Black 1 Circle of Protection: Red 3 Erase 2 Hibernation 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

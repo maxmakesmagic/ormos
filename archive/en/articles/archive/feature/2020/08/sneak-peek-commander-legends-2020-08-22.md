@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sneak-peek-commander-legends-2020-08-22?fbclid=IwAR2-hKFMkpR5vGK6YZCuu3WxZTOyV8opAZpDdk6atOZu5SpZRedGuKhKPoM"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921134350id_/https://magic.wizards.com/en/articles/archive/feature/sneak-peek-commander-legends-2020-08-22?fbclid=IwAR2-hKFMkpR5vGK6YZCuu3WxZTOyV8opAZpDdk6atOZu5SpZRedGuKhKPoM"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-21 13:43:50+00:00"
-[_metadata_:publish_date]:- "2020-08-22"
 [_metadata_:description]:- "Gavin shows off some cards from the upcoming Commander Legends and shares info on how to get in on all the Commander excitement."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-08-22"
 ---
 
 

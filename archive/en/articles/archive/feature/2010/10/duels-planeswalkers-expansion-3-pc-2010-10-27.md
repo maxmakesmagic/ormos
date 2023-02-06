@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-expansion-3-pc-2010-10-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125000206id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-expansion-3-pc-2010-10-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-25 00:02:06+00:00"
-[_metadata_:publish_date]:- "2010-10-27"
 [_metadata_:description]:- "On November 3, Magic: The Gathering and video game fans worldwide can play with new decks, experience never-before-seen challenges, and battle new adversaries on Steam with the third expansion for Magic: The Gathering – Duels of the Planeswalkers. Duel Magic's troubled Planeswalker Sarkhan the Mad with this brand-new downloadable content featuring:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-10-27"
 ---
 
 

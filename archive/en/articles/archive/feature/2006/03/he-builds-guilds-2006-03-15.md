@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/he-builds-guilds-2006-03-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201513id_/https://magic.wizards.com/en/articles/archive/feature/he-builds-guilds-2006-03-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:15:13+00:00"
-[_metadata_:publish_date]:- "2006-03-15"
 [_metadata_:description]:- "Crazy times here at MTG.com! Somewhere, someone decided to cut Vorthos loose in the House of Cards. What will he do? Decklists and combos are not his cup of tea. Even Vorthos knows that there is no point in crying sour grapes. When life hands you lemons, you make lemon meringue pie! And everybody knows, anytime is a great time for pie.One thing that Vorthos does not set aside"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-03-15"
 ---
 
 

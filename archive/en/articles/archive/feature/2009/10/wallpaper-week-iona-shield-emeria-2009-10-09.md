@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-iona-shield-emeria-2009-10-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204204149id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-iona-shield-emeria-2009-10-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 20:41:49+00:00"
-[_metadata_:publish_date]:- "2009-10-09"
 [_metadata_:description]:- "This week's desktop wallpaper features Jason Chan's Iona, Shield of Emeria art from Zendikar. Enjoy. 1024x768 pixels 1280x960 pixels 1280x1024 pixels 2560x1600 pixels 320x480 pixels (iPhone) See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-09"
 ---
 
 

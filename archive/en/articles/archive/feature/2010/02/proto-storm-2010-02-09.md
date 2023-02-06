@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/proto-storm-2010-02-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020130815id_/https://magic.wizards.com/en/articles/archive/feature/proto-storm-2010-02-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 13:08:15+00:00"
-[_metadata_:publish_date]:- "2010-02-09"
 [_metadata_:description]:- "[decklist] Title: Charles Trottier's Proto-Storm Format: Extended 1 Arid Mesa 4 Island 2 Misty Rainforest 4 Mountain 4 Scalding Tarn 4 Steam Vents 4 Electrolyze 3 Grapeshot 4 Lightning Bolt 4 Magma Jet 4 Manamorphose 2 Muddle the Mixture 4 Ponder 4 Pyromancer Ascension 4 Remand 4 Rite of Flame 4 Serum Visions *4 Blood Moon *3 Cryptic Command *3 Echoing Truth *3 Firespout *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-02-09"
 ---
 
 

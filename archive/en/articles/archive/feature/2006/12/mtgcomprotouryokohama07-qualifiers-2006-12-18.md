@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mtgcomprotouryokohama07-qualifiers-2006-12-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161221193854id_/http://magic.wizards.com/en/articles/archive/feature/mtgcomprotouryokohama07-qualifiers-2006-12-18"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-21 19:38:54+00:00"
-[_metadata_:publish_date]:- "2006-12-18"
 [_metadata_:description]:- "Play the Game, See the WorldWondering about life on the Pro Tour? Watch as some of the game's best players from past and present talk about the role the Pro Tour has played in their lives. Download now! (26.1 MB zip WMP) North America"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-12-18"
 ---
 
 

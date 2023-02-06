@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-1292009-2010-01-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127125520id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-1292009-2010-01-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 12:55:20+00:00"
-[_metadata_:publish_date]:- "2010-01-29"
 [_metadata_:description]:- "Magic HumorBack in the day,` as they say, there was MiseTings.com, a purveyor of Magic-related humor. Not many people know this, but the Unhinged card Mise was nearly previewed on that site, which would have caused great confusion.MiseTings has sadly fallen into disrepair, but there are two active `Fake Magic News` sites providing the community with big laffs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-29"
 ---
 
 

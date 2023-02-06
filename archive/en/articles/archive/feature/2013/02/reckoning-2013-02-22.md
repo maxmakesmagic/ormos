@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reckoning-2013-02-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524064621id_/https://magic.wizards.com/en/articles/archive/feature/reckoning-2013-02-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 06:46:21+00:00"
-[_metadata_:publish_date]:- "2013-02-22"
 [_metadata_:description]:- "I write all the decks for each week during the previous week. Right now, I'm on a plane on my way to Pro Tour Gatecrash in Montreal. One card, Boros Reckoner, has been on everyone's mind in the week leading up to the Pro Tour, and this is the other deck I considered playing that used it. Some versions are much more focused on setting up a variety of combos with it, but this is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-02-22"
 ---
 
 

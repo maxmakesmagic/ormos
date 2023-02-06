@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2010-03-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520045226id_/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2010-03-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 04:52:26+00:00"
-[_metadata_:publish_date]:- "2010-03-22"
 [_metadata_:description]:- "Colorless | White | Blue | Black | Red | Green | Multicolor, Artifacts, and Lands                                                                                                                   Feature  Making Magic Blackborder.com Cantrip Cantrip"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-22"
 ---
 
 

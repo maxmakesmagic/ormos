@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-mirage-theme-deck-part-5-2005-10-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819011420id_/https://magic.wizards.com/en/articles/archive/feature/you-make-mirage-theme-deck-part-5-2005-10-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 01:14:20+00:00"
-[_metadata_:publish_date]:- "2005-10-27"
 [_metadata_:description]:- "As a reminder, the color pair is red-blue and our theme is `Two Elements: Fire and Air`. Our rare cards are Subterranean Spirit and Mist Dragon. Thank you all for your creature votes!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-27"
 ---
 
 

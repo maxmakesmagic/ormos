@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnicacity-guilds-preview-card-promotion-store-list-2005-09-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027051421id_/https://magic.wizards.com/en/articles/archive/feature/ravnicacity-guilds-preview-card-promotion-store-list-2005-09-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 05:14:21+00:00"
-[_metadata_:publish_date]:- "2005-09-08"
 [_metadata_:description]:- "Purchase two Saviors of Kamigawa boosters from the stores listed below prior to 7th October and receive a Ravnica: City of Guilds preview card absolutely FREE. Promotional offer valid whilst stocks last. STOREADDRESS 1 TOWN J.C."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-09-08"
 ---
 
 

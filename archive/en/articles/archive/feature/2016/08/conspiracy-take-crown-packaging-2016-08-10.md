@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/conspiracy-take-crown-packaging-2016-08-10?tags=Daily%20MTG&lang=en"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160815022210id_/http://magic.wizards.com/en/articles/archive/feature/conspiracy-take-crown-packaging-2016-08-10?tags=Daily%20MTG&lang=en"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-15 02:22:10+00:00"
-[_metadata_:publish_date]:- "2016-08-10"
 [_metadata_:description]:- "Blake shows off the packaging for Conspiracy: Take the Crown."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-08-10"
 ---
 
 

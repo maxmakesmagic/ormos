@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/two-weeks-until-ravnica-2005-09-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519003428id_/https://magic.wizards.com/en/articles/archive/feature/two-weeks-until-ravnica-2005-09-10"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 00:34:28+00:00"
-[_metadata_:publish_date]:- "2005-09-10"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. We're well into September now, and that can only mean one thing: new set previews! To make sure you've got the latest scoop on the newest cards,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-09-10"
 ---
 
 

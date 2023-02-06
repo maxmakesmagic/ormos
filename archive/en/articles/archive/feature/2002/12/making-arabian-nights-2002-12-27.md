@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/making-arabian-nights-2002-12-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028102849id_/https://magic.wizards.com/en/articles/archive/feature/making-arabian-nights-2002-12-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 10:28:49+00:00"
-[_metadata_:publish_date]:- "2002-12-27"
 [_metadata_:description]:- "Our last feature for `Best Of` Week is by the man himself. Anything Richard Garfield, Magic's creator, has to say is bound to be interesting, and his recollections of the days of Arabian Nights is no different. —Aaron This article first appeared on August 5, 2002. Dear listener, let me tell you a tale of trials, endurance, and Magic. It took place a long time ago, when the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-12-27"
 ---
 
 

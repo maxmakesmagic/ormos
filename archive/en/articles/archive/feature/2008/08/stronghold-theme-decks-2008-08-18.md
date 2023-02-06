@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/stronghold-theme-decks-2008-08-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519091021id_/https://magic.wizards.com/en/articles/archive/feature/stronghold-theme-decks-2008-08-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 09:10:21+00:00"
-[_metadata_:publish_date]:- "2008-08-18"
 [_metadata_:description]:- "Call of the Kor The Spikes Migraine The Sparkler   (Back to Product Page)  Call of the Kor The `Call of the Kor` deck introduces the Kor race and exploits its damage-redirection abilities. This unique white and black deck allows players to keep white Kor creatures in play by redirecting damage to other creatures.          (Back to Top) | (Back to Product Page) * = from a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-18"
 ---
 
 

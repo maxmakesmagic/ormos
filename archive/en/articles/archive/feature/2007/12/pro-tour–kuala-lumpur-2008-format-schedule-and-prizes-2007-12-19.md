@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kuala-lumpur-2008-format-schedule-and-prizes-2007-12-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170905230146id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kuala-lumpur-2008-format-schedule-and-prizes-2007-12-19"
 [_metadata_:wayback_capture_timestamp]:- "2017-09-05 23:01:46+00:00"
-[_metadata_:publish_date]:- "2007-12-19"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document FormatBooster Draft  2 Lorwyn ™ and 1 Morningtide™ booster packs will be used for drafting.  Competition will consist of 5 Booster Drafts, each followed by 3 rounds of competition.  Check www.thedci.com for Booster Draft rules.  Round Length"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-12-19"
 ---
 
 

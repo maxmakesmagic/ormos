@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-archive-2003-11-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170316004246id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-archive-2003-11-10"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-16 00:42:46+00:00"
-[_metadata_:publish_date]:- "2003-11-10"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-11-10"
 ---
 
 

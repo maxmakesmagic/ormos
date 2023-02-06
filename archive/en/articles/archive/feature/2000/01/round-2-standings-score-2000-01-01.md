@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-standings-score-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705210511id_/https://magic.wizards.com/en/articles/archive/feature/round-2-standings-score-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-05 21:05:11+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win%1Thanks Craig and Seth650.00%2Conan the Barbarian650.00%3Who's the Other Dude650.00%4The Hubbsucker Proxy650.00%5Deadguy650.00%6Sped650.00%7Egghead Games Inc.650.00%8Hot Fungusaur Invasion 2K1650.00%9A Few Good Men650.00%10The O-men650.00%11Scorned for Sega650.00%12Jovial Evil650.00%13Crystal Pepsi650.00%14Madam Fishnut650.00%15Team Clasp650.00%16Team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-white-aggro-2010-03-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808152939id_/https://magic.wizards.com/en/articles/archive/feature/green-white-aggro-2010-03-04"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-08 15:29:39+00:00"
-[_metadata_:publish_date]:- "2010-03-04"
 [_metadata_:description]:- "[decklist] Title: Kyle Eck's Green-White Aggro Format: Extended – PTQ for San Juan 2 Arid Mesa 3 Forest 3 Ghost Quarter 4 Misty Rainforest 2 Plains 1 Sejiri Steppe 2 Stirring Wildwood 4 Temple Garden 2 Wooded Bastion 4 Aven Mindcensor 3 Gaddock Teeg 4 Kitchen Finks 3 Knight of the Reliquary 2 Loxodon Hierarch 4 Noble Hierarch 4 Qasali Pridemage 3 Samurai of the Pale Curtain 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-04"
 ---
 
 

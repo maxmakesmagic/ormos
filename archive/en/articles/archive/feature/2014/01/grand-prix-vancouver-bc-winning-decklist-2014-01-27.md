@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-bc-winning-decklist-2014-01-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813030628id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-bc-winning-decklist-2014-01-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 03:06:28+00:00"
-[_metadata_:publish_date]:- "2014-01-27"
 [_metadata_:description]:- "Congratulations to Alexander Hayne on becoming champion of Grand Prix Vancouver B.C.! [decklist] Title: (18) Alexander Hayne – Azorius Control Format: GP Vancouver Champion 5 Island 5 Plains 4 Azorius Guildgate 3 Mutavault 2 Temple of Silence 4 Temple of Deceit 4 Hallowed Fountain 1 Ætherling 4 Last Breath 4 Detention Sphere 2 Azorius Charm 4 Sphinx's Revelation 4 Dissolve 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-01-27"
 ---
 
 

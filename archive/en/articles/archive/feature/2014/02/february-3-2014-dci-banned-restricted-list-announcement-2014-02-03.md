@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/february-3-2014-dci-banned-restricted-list-announcement-2014-02-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160629203349id_/http://magic.wizards.com/en/articles/archive/feature/february-3-2014-dci-banned-restricted-list-announcement-2014-02-03"
 [_metadata_:wayback_capture_timestamp]:- "2016-06-29 20:33:49+00:00"
-[_metadata_:publish_date]:- "2014-02-03"
 [_metadata_:description]:- "Announcement Date: February 3, 2014Effective Date: February 7, 2014Magic Online Effective Date: February 12, 2014&#13; &#13; Modern&#13; [autocard]Deathrite Shaman[/autocard] is banned. [autocard]Bitterblossom[/autocard] and [autocard]Wild Nacatl[/autocard] are unbanned.&#13; &#13; Standard, Legacy, Vintage&#13; No changes&#13; &#13; Changes to Magic Online-only formats are now announced monthly in the Magic Online Community Group blog ."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-03"
 ---
 
 

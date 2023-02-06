@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814204354id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-14 20:43:54+00:00"
-[_metadata_:publish_date]:- "2002-08-07"
 [_metadata_:description]:- "Entry Fee: Varies by location. Contact organizer for detailsTournament Structure: Modified SwissTournament Format: Limited with Top 8 Rochester DraftPrizes: At least 1 third-round bye at each tournament, plus product prizes determined by organizer.State/ProvinceCityDateByesLocationAddressPhoneWebsite ArkansasLittle Rock10/6/20021Family Games Center9807 W."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-08-07"
 ---
 
 

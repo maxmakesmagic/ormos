@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-world-champion-wolf-run-ramp-2011-11-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180813005658id_/https://magic.wizards.com/en/articles/archive/feature/2011-world-champion-wolf-run-ramp-2011-11-21"
 [_metadata_:wayback_capture_timestamp]:- "2018-08-13 00:56:58+00:00"
-[_metadata_:publish_date]:- "2011-11-21"
 [_metadata_:description]:- "Jun'ya Iyanaga is the 2011 Magic World Champion! Iyanaga's Standard deck, Wolf Run Ramp, is a well-established archetype that served him well in the Top 8, dispatching Josh Utter-Leyton, Conley Woods, and Richard Bland on his way to the title. Check out the full coverage to see how!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-11-21"
 ---
 
 

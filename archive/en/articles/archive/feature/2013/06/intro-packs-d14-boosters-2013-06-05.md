@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/intro-packs-d14-boosters-2013-06-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160525113936id_/http://magic.wizards.com/en/articles/archive/feature/intro-packs-d14-boosters-2013-06-05"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-25 11:39:36+00:00"
-[_metadata_:publish_date]:- "2013-06-05"
 [_metadata_:description]:- "Another day, another set of awesome stuff to show you all. Yesterday you saw a lot of the Magic 2014 Core Set packaging from boosters to fat packs to Deck Builder's Toolkit. Today let's take a look at the special boosters you can get by playing Magic 2014—Duels of the Planeswalkers."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-05"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tribal-fire-2007-06-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122171956id_/https://magic.wizards.com/en/articles/archive/feature/tribal-fire-2007-06-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-22 17:19:56+00:00"
-[_metadata_:publish_date]:- "2007-06-20"
 [_metadata_:description]:- "Hello, fellow humans, and welcome to House of Cards! (You'll have to trust me that the exclamation mark was warranted.) I'm very excited, you see. I haven't done what I'm about to do since way back in 2006. No, I'm not going to send my article in on time (though, by gum, I'm gonna try). I'm going to build a whole column's worth of decks for Standard Tribal Wars![CROWD GOES"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-06-20"
 ---
 
 

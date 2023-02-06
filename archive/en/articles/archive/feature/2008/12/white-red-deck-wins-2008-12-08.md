@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-red-deck-wins-2008-12-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021203513id_/https://magic.wizards.com/en/articles/archive/feature/white-red-deck-wins-2008-12-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 20:35:13+00:00"
-[_metadata_:publish_date]:- "2008-12-08"
 [_metadata_:description]:- "[decklist] Title: MrCriticalError's White-Red Aggro Format: Standard 4 Battlefield Forge 3 Mountain 5 Plains 3 Reflecting Pool 4 Rugged Prairie 4 Windbrisk Heights 1 Burrenton Forge-Tender 4 Figure of Destiny 1 Flamekin Harbinger 4 Knight of the White Orchid 4 Mogg Fanatic 2 Murderous Redcap 3 Ranger of Eos 3 Reveillark 3 Siege-Gang Commander 3 Stillmoon Cavalier 3 Ajani"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-08"
 ---
 
 

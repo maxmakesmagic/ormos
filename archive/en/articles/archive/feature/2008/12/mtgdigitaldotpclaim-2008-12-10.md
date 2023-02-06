@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgdigitaldotpclaim-2008-12-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023215040id_/https://magic.wizards.com/en/articles/archive/feature/mtgdigitaldotpclaim-2008-12-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 21:50:40+00:00"
-[_metadata_:publish_date]:- "2008-12-10"
 [_metadata_:description]:- "/Magic/Digital/DuelsOfThePlaneswalkers.aspx?x=mtg/digital/dotp/whatis"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629220122id_/https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-29 22:01:22+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 www.alphabetaunlimited.com 21 74.28% 2 Scrambled Steak 21 62.58% 3 Team Apprentice 19 60.52% 4 Dekiru-Kana?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

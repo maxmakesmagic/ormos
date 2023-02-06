@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/artist-card-checklist-grand-prix-new-jersey-2004-08-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160120013200id_/http://magic.wizards.com/en/articles/archive/feature/artist-card-checklist-grand-prix-new-jersey-2004-08-11"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-20 01:32:00+00:00"
-[_metadata_:publish_date]:- "2004-08-11"
 [_metadata_:description]:- "Dan Frazier - 252 cards rk post - 66 cards CardSet/RarityCardSet/RarityDingus EggAlpha/Beta/Unlimited Edition-RTwisted ExperimentUrza’s Destiny-CDisrupting ScepterAlpha/Beta/Unlimited Edition-REncroachUrza’s Destiny-UForcefieldAlpha/Be"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-08-11"
 ---
 
 

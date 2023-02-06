@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-product-overview-2022-04-07?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220408094738id_/https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-product-overview-2022-04-07?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_capture_timestamp]:- "2022-04-08 09:47:38+00:00"
-[_metadata_:publish_date]:- "2022-04-07"
 [_metadata_:description]:- "What's in a booster? We've got all the answers for Streets of New Capenna."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-04-07"
 ---
 
 
