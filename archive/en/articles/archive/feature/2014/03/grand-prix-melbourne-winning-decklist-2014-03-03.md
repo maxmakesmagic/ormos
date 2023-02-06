@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-melbourne-winning-decklist-2014-03-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811022933id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-melbourne-winning-decklist-2014-03-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-11 02:29:33+00:00"
-[_metadata_:publish_date]:- "2014-03-03"
 [_metadata_:description]:- "Congratulations to Nam Sung-Wook, your Grand Prix Melbourne 2014 Champion! [decklist] Title: Nam Sung-Wook Format: Grand Prix Melbourne 2014 – Top 8 (Standard) 4 Mutavault 4 Temple of Deceit 2 Watery Grave 16 Swamp 4 Pack Rat 4 Nightveil Specter 4 Desecration Demon 4 Gray Merchant of Asphodel 4 Underworld Connections 4 Hero's Downfall 2 Bile Blight 4 Devour Flesh 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-03-03"
 ---
 
 

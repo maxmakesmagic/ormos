@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-one-results-sorted-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031011722id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-one-results-sorted-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-31 01:17:22+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team Opponent Result Argentina Mexico Lost 1-3 Australia Korea (South) Won 2-1-1 Austria Germany Lost 1-3 Belgium Poland Won 3-1 Brazil Turkey Lost 0-4 Canada"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

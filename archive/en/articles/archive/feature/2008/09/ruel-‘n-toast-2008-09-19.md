@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ruel-%E2%80%98n-toast-2008-09-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121092812id_/https://magic.wizards.com/en/articles/archive/feature/ruel-%E2%80%98n-toast-2008-09-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 09:28:12+00:00"
-[_metadata_:publish_date]:- "2008-09-19"
 [_metadata_:description]:- "[decklist] Title: Olivier Ruel's Quick ‘N Toast Format: 2008 France Nationals, Standard 4 Vivid Grove 2 Calciform Pools 4 Vivid Creek 1 Tolaria West 4 Reflecting Pool 3 Yavimaya Coast 2 Flooded Grove 1 Mystic Gate 1 Grove of the Burnwillows 1 Urza's Factory 2 Fungal Reaches 4 Wall of Roots 3 Kitchen Finks 2 Mulldrifter 3 Cloudthresher 1 Platinum Angel 4 Careful Consideration 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-19"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkertezzeret-2008-07-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128212657id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkertezzeret-2008-07-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 21:26:57+00:00"
-[_metadata_:publish_date]:- "2008-07-15"
 [_metadata_:description]:- "The Troubled Hero Jace is smart, maybe too smart for his own good. His magic is all about the mind—clairvoyance, telepathy, illusion. He is naturally reserved, confident in his own abilities but not cocky. Jace’s ability to read others has led him to make some bad choices, but Jace has always managed to escape the consequences. His greatest strength and his greatest flaw are"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-15"
 ---
 
 

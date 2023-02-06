@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2010-season-7-2010-07-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522060507id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2010-season-7-2010-07-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 06:05:07+00:00"
-[_metadata_:publish_date]:- "2010-07-29"
 [_metadata_:description]:- "Players earned QPs during 2010 Season 7 as follows:Tournament TypeFinishQPsPremier Event1st Place6Premier Event2nd Place5Premier Event3rd-4th Place4Premier Event5th-8th Place3Daily Event4-0 Record3Daily Event3-1 Record1Offsale Sealed Event6-0 Record3Offsale Sealed Event5-1 Record2Offsale Sealed Event4-2 Record1Weekend Challenge1st-8th Place316+ Player Queue4-0 Record316+"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-29"
 ---
 
 

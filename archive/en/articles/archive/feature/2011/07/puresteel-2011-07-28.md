@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/puresteel-2011-07-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210421234009id_/https://magic.wizards.com/en/articles/archive/feature/puresteel-2011-07-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-21 23:40:09+00:00"
-[_metadata_:publish_date]:- "2011-07-28"
 [_metadata_:description]:- "[decklist] Title: Chris Schafer's Puresteel Format: Standard 1 Island 8 Plains 2 Celestial Colonnade 4 Glacial Fortress 4 Inkmoth Nexus 4 Seachrome Coast 4 Puresteel Paladin 4 Squadron Hawk 3 Trinket Mage 1 Kemba, Kha Regent 1 Accorder's Shield 1 Basilisk Collar 3 Flayer Husk 4 Mortarpod 1 Sword of Body and Mind 2 Sword of Feast and Famine 2 Sword of War and Peace 1 Sylvok"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-07-28"
 ---
 
 

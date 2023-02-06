@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tezzeret-control-2012-04-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019040929id_/https://magic.wizards.com/en/articles/archive/feature/tezzeret-control-2012-04-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 04:09:29+00:00"
-[_metadata_:publish_date]:- "2012-04-20"
 [_metadata_:description]:- "Magic Online PTQs for Pro Tour Return to Ravnica are here! If you've been looking to qualify to come to Seattle and play some Modern, you won't want to miss these digital chances at a plane ticket. This past weekend kicked off the online qualifier season with a pair of PTQs full of exciting decklists. One such deck? Tezzeret, Agent of Bolas control! The blue-black Planeswalker"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-04-20"
 ---
 
 

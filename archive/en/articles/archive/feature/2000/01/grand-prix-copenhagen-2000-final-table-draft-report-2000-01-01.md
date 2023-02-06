@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-final-table-draft-report-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522204941id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-final-table-draft-report-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:49:41+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Position Gunnar Refsdal Tom Van der Logt Peter Gysemans Gottlieb Yeh Noah Boeken Franck Canu Niels Sanders Jensen Daniel O'Mahoney Schwartz During this draft I followed Dan and Niels. The first boosters: Booster 1: Gunnar Stinging Barrier Tom Snorting Ghar Peter Ramosian Captain Gottlieb Tidal Kraken Noah Cho-Mano's Blessing Franck Lightning Hounds Niels Horned Troll Dan Pious"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

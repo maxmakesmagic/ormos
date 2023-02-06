@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-grand-prix-prize-payout-expanded-2013-09-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024231411id_/https://magic.wizards.com/en/articles/archive/feature/team-grand-prix-prize-payout-expanded-2013-09-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 23:14:11+00:00"
-[_metadata_:publish_date]:- "2013-09-25"
 [_metadata_:description]:- "Following up the recent announcement about the increases to Grand Prix prize money starting in December 2013, we are excited to announce that team Grand Prix will have a similar expansion to the prize pool. Place Prize Money Pro Points 1 $8,100 6 2 $5,400 5 3–4 $3,000 4 5–8 $2,025 3 9–12 $1,275 2 13–16 $1,125 1 17–20 $1,050 0 21–24 $900 0 25–36 $750* 0 37–51 $600* 0 *Based on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-25"
 ---
 
 

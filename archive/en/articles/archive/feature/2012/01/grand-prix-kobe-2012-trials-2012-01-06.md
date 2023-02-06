@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kobe-2012-trials-2012-01-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526201547id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kobe-2012-trials-2012-01-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 20:15:47+00:00"
-[_metadata_:publish_date]:- "2012-01-06"
 [_metadata_:description]:- "Grand Prix Kobe Trials will be run at WPN locations throughout Japan in the weeks leading up to the Grand Prix. Each offers the winner a three-round bye to Grand Prix Kobe. WPN Locations in the Kobe Area Entry Fee Entry fee varies from location to location. Check with the local organizer for specific information. Format The format for each Grand Prix Trial is chosen by the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-06"
 ---
 
 

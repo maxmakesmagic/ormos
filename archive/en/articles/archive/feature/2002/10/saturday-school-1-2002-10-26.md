@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-1-2002-10-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210420070630id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-1-2002-10-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-20 07:06:30+00:00"
-[_metadata_:publish_date]:- "2002-10-26"
 [_metadata_:description]:- "Welcome to the first installment of our new weekly feature here on MagicTheGathering.com, `Saturday School.``Saturday School` is all about the rules of the game, specifically, rules questions that our readers have. To answer them, we've recruited Rune Horvik of Oslo, Norway. Besides being a certified level 4 judge, Rune is also the NetRep for the DCI Judge Mailing List and the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-10-26"
 ---
 
 

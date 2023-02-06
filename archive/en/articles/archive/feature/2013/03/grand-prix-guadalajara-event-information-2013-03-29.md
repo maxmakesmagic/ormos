@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-guadalajara-event-information-2013-03-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521175108id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-guadalajara-event-information-2013-03-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 17:51:08+00:00"
-[_metadata_:publish_date]:- "2013-03-29"
 [_metadata_:description]:- "Information Grand Prix Guadalajara is brought to you by Grupo Necrotower.  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpguad Date: May 24-26, 2013 Format: Standard Tournament Location Hotel Misión Carlton Guadalajara Av. Niños Heroes #125 Colonia Centro C.P.44100 Guadalajara, Jalisco,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-03-29"
 ---
 
 

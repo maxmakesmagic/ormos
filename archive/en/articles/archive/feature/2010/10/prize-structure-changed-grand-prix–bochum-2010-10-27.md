@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prize-structure-changed-grand-prix%E2%80%93bochum-2010-10-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525020434id_/https://magic.wizards.com/en/articles/archive/feature/prize-structure-changed-grand-prix%E2%80%93bochum-2010-10-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 02:04:34+00:00"
-[_metadata_:publish_date]:- "2010-10-27"
 [_metadata_:description]:- "Local authorities in Bochum requested that Wizards of the Coast cease paying cash prizes at Grand Prix–Bochum to be held October 30-31, and we are complying with this request. The top 64 competitors will instead receive prizes in goods from Wizards of the Coast and/or our partners as indicated below. In addition, we are reducing the entry fee to €15. The Grand Prix–Bochum"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-10-27"
 ---
 
 

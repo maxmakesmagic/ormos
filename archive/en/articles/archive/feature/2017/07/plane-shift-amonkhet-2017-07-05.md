@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/plane-shift-amonkhet-2017-07-05?itok=X8JXGaBS"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180123014419id_/https://magic.wizards.com/en/articles/archive/feature/plane-shift-amonkhet-2017-07-05?itok=X8JXGaBS"
 [_metadata_:wayback_capture_timestamp]:- "2018-01-23 01:44:19+00:00"
-[_metadata_:publish_date]:- "2017-07-05"
 [_metadata_:description]:- "Five deadly Trials await every initiate on the plane of Amonkhet. Can you prove yourself worthy of a place in the God-Pharaoh's afterlife?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-07-05"
 ---
 
 

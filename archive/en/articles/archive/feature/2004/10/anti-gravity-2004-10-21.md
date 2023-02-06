@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/anti-gravity-2004-10-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812062535id_/https://magic.wizards.com/en/articles/archive/feature/anti-gravity-2004-10-21"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 06:25:35+00:00"
-[_metadata_:publish_date]:- "2004-10-21"
 [_metadata_:description]:- "The nice thing about a public forum like this is that it's a public forum. I control the wordspace in my virtual neck of the woods, and I can use it how I see fit. As long as it's about Magic, that is. So today I'm going to take the time to take advantage of my freedom of the press and make some long overdue apologies. That are very Magic-related.To Freddy: My bad, dude. It's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-10-21"
 ---
 
 

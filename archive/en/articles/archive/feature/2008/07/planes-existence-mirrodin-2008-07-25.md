@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planes-existence-mirrodin-2008-07-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923025536id_/https://magic.wizards.com/en/articles/archive/feature/planes-existence-mirrodin-2008-07-25"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-23 02:55:36+00:00"
-[_metadata_:publish_date]:- "2008-07-25"
 [_metadata_:description]:- "Mirrodin: a plane made entirely of metal. Here, thorny copper trees create artificial forests, great structures of iron and rust form mountains, and the blades of grass on the plains are literally blades. Five shining suns cast their light on the shining world below them, one for each color of mana. Humans, elves, and goblins dwell here, along with vedalken, leonin, and the zombies known as the nim."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-25"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/some-thoughts-defensive-deck-speed-2007-12-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204110352id_/https://magic.wizards.com/en/articles/archive/feature/some-thoughts-defensive-deck-speed-2007-12-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 11:03:52+00:00"
-[_metadata_:publish_date]:- "2007-12-27"
 [_metadata_:description]:- "I think this is the best Swimming with Sharks I did in 2007. It describes an important piece of Magic theory that really good deck developers address instinctively but that no one (to the best of my knowledge) had written about specifically before."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-12-27"
 ---
 
 

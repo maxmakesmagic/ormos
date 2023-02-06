@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rising-ashes-ninth-edition-2005-08-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818095737id_/https://magic.wizards.com/en/articles/archive/feature/rising-ashes-ninth-edition-2005-08-26"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 09:57:37+00:00"
-[_metadata_:publish_date]:- "2005-08-26"
 [_metadata_:description]:- "On August 20th, Eighth Edition left the Standard Constructed environment to make way for the recently released Ninth Edition of the Magic: The Gathering card game. Some staples of the game will be going away for a while, like Birds of Paradise and Fallen Angel, as well as powerful cards that have helped to shape the environment like Bribery and Plow Under. However, it would"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-08-26"
 ---
 
 

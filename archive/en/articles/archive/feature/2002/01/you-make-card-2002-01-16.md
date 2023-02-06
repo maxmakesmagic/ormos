@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-card-2002-01-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502165356id_/https://magic.wizards.com/en/articles/archive/feature/you-make-card-2002-01-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:53:56+00:00"
-[_metadata_:publish_date]:- "2002-01-16"
 [_metadata_:description]:- "In my intro to this site two weeks ago, I promised you all that MagictheGathering.com would give you a chance to take an active role in the game of Magic. This feature is the first step in giving all of you a little hands-on experience in influencing the game you love."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-01-16"
 ---
 
 

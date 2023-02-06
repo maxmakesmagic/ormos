@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-table-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628085343id_/https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-table-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-28 08:53:43+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPoints OpponentPointsP-Kies12vsPotato Peach12NISIKI12vsOO Parts12Objects12vsSusiyan12Death Crimson12vsScrambled Steak12Tokyo Butties12vsTeam 25:1712www.alphabetaunlimited.com12vsTeam Shinjo12DERAPIN12vsTeam PPB12Yanitetsu12vsCrimson10Team Imabiki10vsRegneva10DEFENCER Minor10vsTeam Emon Staff10Team Magicschool10vsTeam Apprentice10ATOK10vsSAWAYAKA10Dekiru-Kana?9vsSut9Poor"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

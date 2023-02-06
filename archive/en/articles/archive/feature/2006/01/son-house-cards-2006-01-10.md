@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/son-house-cards-2006-01-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121182415id_/https://magic.wizards.com/en/articles/archive/feature/son-house-cards-2006-01-10"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 18:24:15+00:00"
-[_metadata_:publish_date]:- "2006-01-10"
 [_metadata_:description]:- "Hello and good luck! Two months ago, magicthegathering.com content manager Scott Johns bargained for my release from a Northern Ontario labour camp where I had spent the previous six years ice-mining for the Canadian government. Despite my wild-eyed stare and frost-caked beard (or, perhaps, because of them), he asked me if I would like to be the peg-legged and patch-eyed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-01-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgdigitaldotpfaq-2009-01-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209150655id_/https://magic.wizards.com/en/articles/archive/feature/mtgdigitaldotpfaq-2009-01-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 15:06:55+00:00"
-[_metadata_:publish_date]:- "2009-01-29"
 [_metadata_:description]:- "/Magic/Digital/DuelsOfThePlaneswalkers.aspx?x=mtg/digital/d13/faq"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-29"
 ---
 
 

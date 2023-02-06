@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-4-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525141529id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-4-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 14:15:29+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 WACHI-DE? 12 75.00 2 Team Fenrir 12 68.75 3 Today 12 64.58 4 Godzilla 12 62.50 5 T.F.Z."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

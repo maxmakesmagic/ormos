@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-results-table-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630063711id_/https://magic.wizards.com/en/articles/archive/feature/round-4-results-table-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-30 06:37:11+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team Result Opponent Absolute Samuels 030 vs. Two men and a baby ! trash AAA 102 vs. Vintara Team Clegg 210 vs. Team 25:17 one day fly 300 vs. www.revised4th5th.com Bologna Demolition Team 030 vs. Amsterdam Burning Bern 030 vs. gotta catch Kai Angstschreeuw 210 vs. I 3 ciccioni Metagames/LNT 201 vs. Token king team killers of the Coast 120 vs. Stuchkaccolites * Pannaburst 210"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

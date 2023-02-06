@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-green-overrun-2010-07-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170905062738id_/http://magic.wizards.com/en/articles/archive/feature/mono-green-overrun-2010-07-02"
 [_metadata_:wayback_capture_timestamp]:- "2017-09-05 06:27:38+00:00"
-[_metadata_:publish_date]:- "2010-07-02"
 [_metadata_:description]:- "[decklist] Title: Yoel42 Format: Magic Online Pro Tour Qualifier for Pro Tour–Amsterdam 12 Forest 4 Khalni Garden 4 Misty Rainforest 4 Verdant Catacombs 4 Arbor Elf 3 Elvish Visionary 4 Kozilek's Predator 4 Llanowar Elves 4 Lotus Cobra 4 Nest Invader 2 Noble Hierarch 3 Wolfbriar Elemental 2 Beastmaster Ascension 4 Eldrazi Monument 2 Overrun *3 Fog *4 Great Sable Stag *2 Nature's Claim *2 River Boa *4 Vengevine"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-02"
 ---
 
 

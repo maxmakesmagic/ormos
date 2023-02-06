@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/what-card-leak-2002-05-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151216174509id_/http://magic.wizards.com/en/articles/archive/feature/what-card-leak-2002-05-01"
 [_metadata_:wayback_capture_timestamp]:- "2015-12-16 17:45:09+00:00"
-[_metadata_:publish_date]:- "2002-05-01"
 [_metadata_:description]:- "Dear Magic players,My name is Kyle Murray, and I am the Marketing Director for Magic: The Gathering. The guys here at MagicTheGathering.com have recently received several emails asking about Wizards’ policy regarding the unintentional distribution of card set information (let’s call them “leaks”). So this seemed like a good time to restate our policy and explain why we have it in the first place.The policy itself is pretty simple. We don’t comment on leaks. Ever."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-05-01"
 ---
 
 

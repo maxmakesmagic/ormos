@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oupherkill-2008-07-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170803142737id_/http://magic.wizards.com/en/articles/archive/feature/oupherkill-2008-07-03"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-03 14:27:37+00:00"
-[_metadata_:publish_date]:- "2008-07-03"
 [_metadata_:description]:- "Howdy, all! It's that time of year again. We're nearing the halfway point of the Eventide preview season and I have to say it's about time we previewed an Ouphe. The bar has been set pretty high after Shadowmoor brought us a pair of nice utility Ouphes, the card-drawing Dusk Urchins and the life-gaining and pun-loving Kitchen Finks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-03"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vexing-proposition-2008-09-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807153014id_/https://magic.wizards.com/en/articles/archive/feature/vexing-proposition-2008-09-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-07 15:30:14+00:00"
-[_metadata_:publish_date]:- "2008-09-24"
 [_metadata_:description]:- "[decklist] Title: Blake Rasmussen's Suspend Control Format: Ravnica/Time Spiral Standard 2 Blood Crypt 5 Island 4 Steam Vents 5 Swamp 4 Underground River 4 Watery Grave 2 Akroma, Angel of Wrath 4 Angel of Despair 4 Faceless Butcher 2 Izzet Chronarch 4 Vexing Sphinx 4 Compulsive Research 4 Living End 4 Remand 4 Spell Snare 4 Wheel of Fate [/decklist]The shard of Esper returns"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-24"
 ---
 
 

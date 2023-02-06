@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/token-artist-2012-07-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160318205450id_/http://magic.wizards.com/en/articles/archive/feature/token-artist-2012-07-13"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-18 20:54:50+00:00"
-[_metadata_:publish_date]:- "2012-07-13"
 [_metadata_:description]:- "Last week, we took the time to look at a white-black tokens list that was a little different than the norm. That list happened to be a hundred cards and not share the same one twice, as it was Commander, but today we get to look at a white-black tokens list that is different for an entirely different reason."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-07-13"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-2-pictures-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206014358id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-2-pictures-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 01:43:58+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "High-level judges discuss important issues relating to Pro Tour Los Angeles. They eventually decided on pizza."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

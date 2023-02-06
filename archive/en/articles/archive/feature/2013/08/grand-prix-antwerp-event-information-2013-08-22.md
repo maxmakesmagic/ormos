@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-antwerp-event-information-2013-08-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519064602id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-antwerp-event-information-2013-08-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:46:02+00:00"
-[_metadata_:publish_date]:- "2013-08-22"
 [_metadata_:description]:- "Information Grand Prix Antwerp is brought to you by Dazzle Events.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpantwerp Date: October 25-27, 2013 Format: Modern Tournament Location Waagnatie Rijnkaai 150 2000 Antwerpen Belgium Click here for map."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-22"
 ---
 
 

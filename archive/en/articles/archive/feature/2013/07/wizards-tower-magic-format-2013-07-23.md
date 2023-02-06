@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wizards-tower-magic-format-2013-07-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201191639id_/https://magic.wizards.com/en/articles/archive/feature/wizards-tower-magic-format-2013-07-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-01 19:16:39+00:00"
-[_metadata_:publish_date]:- "2013-07-23"
 [_metadata_:description]:- "One day, while working in the Pit (our affectionate name for the R&D area) I overheard someone say, `Have you played Tom LaPille's Cube? It's awesome!` Cube is a Magic Draft format in which a player constructs a pool of cards and then makes boosters to accommodate an eight-person draft. I was immediately intrigued by the idea of making a Magic game experience that my friends"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-23"
 ---
 
 

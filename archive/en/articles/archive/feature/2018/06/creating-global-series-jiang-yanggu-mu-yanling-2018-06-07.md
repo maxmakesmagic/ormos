@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/creating-global-series-jiang-yanggu-mu-yanling-2018-06-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180608152103id_/https://magic.wizards.com/en/articles/archive/feature/creating-global-series-jiang-yanggu-mu-yanling-2018-06-07"
 [_metadata_:wayback_capture_timestamp]:- "2018-06-08 15:21:03+00:00"
-[_metadata_:publish_date]:- "2018-06-07"
 [_metadata_:description]:- "Gavin pulls back the curtain to explain how and why R&D created a brand-new introductory experience aimed at Chinese players."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-06-07"
 ---
 
 

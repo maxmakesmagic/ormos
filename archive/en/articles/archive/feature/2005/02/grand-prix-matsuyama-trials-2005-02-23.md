@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-matsuyama-trials-2005-02-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021081626id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-matsuyama-trials-2005-02-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 08:16:26+00:00"
-[_metadata_:publish_date]:- "2005-02-23"
 [_metadata_:description]:- "CountryDateCityVenueContactHong Kong27-Mar-05Hong KongGame Center, 14/F, Pico Tower 64-66 Gloucester Road, Wanchaiianhelio@hotmail.comHong Kong24-Apr-05Hong KongGame Center, 14/F, Pico Tower 64-66 Gloucester Road, Wanchaiianhelio@hotmail.comSouth Korea10-Apr-05SeoulDobong Public Hall Chang-Dong Dobong-Guzikuin@hanmail.netSouth Korea24-Apr-05SeoulDobong Public Hall Chang-Dong"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-02-23"
 ---
 
 

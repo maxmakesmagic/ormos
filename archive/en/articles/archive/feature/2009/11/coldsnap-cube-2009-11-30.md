@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coldsnap-cube-2009-11-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210916095903id_/https://magic.wizards.com/en/articles/archive/feature/coldsnap-cube-2009-11-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-09-16 09:59:03+00:00"
-[_metadata_:publish_date]:- "2009-11-30"
 [_metadata_:description]:- "You're probably familiar with the usual swag that comes with new sets. For example, there's the ubiquitous lifecounter, shown here in its Coldsnap incarnation. But here's something you might not have seen! At first glance, it's an innocuous plastic ice cube, distinguished only by the Coldsnap and Magic logos. Click to change! Click to change! But when you click the `Click to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-11-30"
 ---
 
 

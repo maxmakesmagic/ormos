@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/big-bigger-biggest-2006-11-29-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614080641id_/http://magic.wizards.com/en/articles/archive/feature/big-bigger-biggest-2006-11-29-0"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-14 08:06:41+00:00"
-[_metadata_:publish_date]:- "2006-11-29"
 [_metadata_:description]:- "Hello, and welcome back to Uncommon Knowledge! This week's article was inspired by a whirl through the “timeshifted” cards of Time Spiral. You see, I was looking through the subset, and noticed that there were a lot of large creatures. You know the ones – Krosan Cloudscraper, Akroma, Leviathan – the big ol' fatties from Magic's past. And it got me to thinking – which color has had the biggest, largest creatures in Magic's history?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-11-29"
 ---
 
 

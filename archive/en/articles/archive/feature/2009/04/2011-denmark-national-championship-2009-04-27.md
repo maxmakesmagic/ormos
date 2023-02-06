@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-denmark-national-championship-2009-04-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519194639id_/https://magic.wizards.com/en/articles/archive/feature/2011-denmark-national-championship-2009-04-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:46:39+00:00"
-[_metadata_:publish_date]:- "2009-04-27"
 [_metadata_:description]:- "Date: August 6-7, 2011Event Location: GodsetAddress: Jens Holms Vej 5, 6000 Kolding, Denmark Eligibility The Magic: the Gathering Denmark National Championship is an invitation-only event, open to citizens or permanent residents of Denmark who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers. Invitation List National"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-27"
 ---
 
 

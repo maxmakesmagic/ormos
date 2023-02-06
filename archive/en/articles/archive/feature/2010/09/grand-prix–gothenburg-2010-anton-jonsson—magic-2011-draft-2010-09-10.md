@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-2010-anton-jonsson%E2%80%94magic-2011-draft-2010-09-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024130931id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-2010-anton-jonsson%E2%80%94magic-2011-draft-2010-09-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 13:09:31+00:00"
-[_metadata_:publish_date]:- "2010-09-10"
 [_metadata_:description]:- "[decklist] Title: Magic 2011 Draft Format: Grand Prix–Gothenburg - Anton Jonsson 8 Island 8 Plains 1 Terramorphic Expanse 2 Aether Adept 2 Augury Owl 1 Cloud Crusader 1 Cloud Elemental 1 Elite Vanguard 2 Infantry Veteran 1 Phantom Beast 1 Scroll Thief 1 Stormfront Pegasus 1 Water Servant 1 White Knight 1 Ajani Goldmane 1 Condemn 1 Diminish 2 Excommunicate 1 Foresee 1 Negate 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-09-10"
 ---
 
 

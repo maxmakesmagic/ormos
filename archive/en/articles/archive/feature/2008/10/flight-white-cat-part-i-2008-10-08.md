@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/flight-white-cat-part-i-2008-10-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161106152937id_/http://magic.wizards.com/en/articles/archive/feature/flight-white-cat-part-i-2008-10-08"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-06 15:29:37+00:00"
-[_metadata_:publish_date]:- "2008-10-08"
 [_metadata_:description]:- "&#13; &#13; &#13;  &#13; &#13;  &#13;  &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-08"
 ---
 
 

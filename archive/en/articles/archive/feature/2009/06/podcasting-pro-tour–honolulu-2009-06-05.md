@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/podcasting-pro-tour%E2%80%93honolulu-2009-06-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019161441id_/https://magic.wizards.com/en/articles/archive/feature/podcasting-pro-tour%E2%80%93honolulu-2009-06-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 16:14:41+00:00"
-[_metadata_:publish_date]:- "2009-06-05"
 [_metadata_:description]:- "Let Richard Hagon be your guide through Pro Tour–Honolulu, the second Pro Tour of the 2009 season. If you're not a regular reader of event coverage, this is a great starting place to learn the top players and storylines that have shaped this season. With exclusive player interviews, analysis of deckbuilding strategies, explanations of formats and the PT season, and much more,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-05"
 ---
 
 

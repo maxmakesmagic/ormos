@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-6-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208211202id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-6-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 21:12:02+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Match Team Result Team Team Puge *** BYE *** 1 Godzilla 3-0 Team Imabiki 2 Team Iwamoto 1-1 WACHI-DE? 3 I''s 0-3 Poor Shark 4 T.F.Z. 3-0 Yanitetsu 5 Team Fenrir 0-3 NAGOYAN 6 Masato Club 3-0 Team Usagi 7 Team Thirties 3-0 Today 8 MAHODO 0-3 HAYATE 9 Team T.T.Y."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

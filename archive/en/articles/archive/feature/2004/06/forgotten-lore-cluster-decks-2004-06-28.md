@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/forgotten-lore-cluster-decks-2004-06-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210301100344id_/https://magic.wizards.com/en/articles/archive/feature/forgotten-lore-cluster-decks-2004-06-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-03-01 10:03:44+00:00"
-[_metadata_:publish_date]:- "2004-06-28"
 [_metadata_:description]:- "Introduction from the EditorOne of the most recognized names during Magic's early days, Beth Moursund was once described as “an official keeper of Magic rules” and was sometimes nicknamed the “Mother of Rules”. In addition to her role as Magic rules guru, “Bethmo” was also one of the game's most important early writers, having written several books and many popular articles."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-06-28"
 ---
 
 

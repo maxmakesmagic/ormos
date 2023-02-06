@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-2012-world-magic-cup-captains-set-2012-05-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151021140011id_/http://magic.wizards.com/en/articles/archive/feature/feature-2012-world-magic-cup-captains-set-2012-05-13"
 [_metadata_:wayback_capture_timestamp]:- "2015-10-21 14:00:11+00:00"
-[_metadata_:publish_date]:- "2012-05-13"
 [_metadata_:description]:- "With the culmination of the 2012 season here at Pro Tour Avacyn Restored, the final Pro Point tallies have been collected, giving us our list for the captains for the World Magic Cup!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-13"
 ---
 
 

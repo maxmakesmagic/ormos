@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lauerpotence-2008-10-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190819021133id_/https://magic.wizards.com/en/articles/archive/feature/lauerpotence-2008-10-09"
 [_metadata_:wayback_capture_timestamp]:- "2019-08-19 02:11:33+00:00"
-[_metadata_:publish_date]:- "2008-10-09"
 [_metadata_:description]:- "[decklist] Title: Randy Buehler's Lauerpotence Format: Pro Tour-Chicago 1997 - Extended 3 Gemstone Mine 3 Lake of the Dead 2 Bad River 4 Badlands 4 Scrubland 8 Swamp 4 Order of the Ebon Hand 4 Knight of Stromgald 1 Ishan's Shade 4 Demonic Consultation 4 Drain Life 3 Disenchant 4 Hymn to Tourach 2 Firestorm 2 Incinerate 4 Lightning Bolt 4 Necropotence *2 Circle of Protection: Black *1 Disenchant *1 Firestorm *3 Honorable Passage"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-09"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kaleidoscade-2009-07-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026125809id_/https://magic.wizards.com/en/articles/archive/feature/kaleidoscade-2009-07-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 12:58:09+00:00"
-[_metadata_:publish_date]:- "2009-07-01"
 [_metadata_:description]:- "[decklist] Title: TheUsualSuspect's Kaleidoscade Format: Magic Online Kaleidoscope 2 Blood Crypt 3 Bloodstained Mire 1 Exotic Orchard 1 Overgrown Tomb 4 Pillar of the Paruns 2 Sacred Foundry 2 Snow-Covered Forest 1 Snow-Covered Mountain 1 Snow-Covered Plains 2 Stomping Ground 1 Temple Garden 3 Wooded Foothills 4 Anathemancer 4 Bloodbraid Elf 3 Enlisted Wurm 3 Kitchen Finks 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-01"
 ---
 
 

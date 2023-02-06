@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-darwin-kastle-vs-casey-mccarrell-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521210040id_/https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-darwin-kastle-vs-casey-mccarrell-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 21:00:40+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Adrian Sullivan Casey McCarrel's return to the professional tournament scene was marked by an exciting win in the Meatgrinders, followed by a 4-2 performance in the draft. McCarrel played Flores Black, a Vampiric Tutor based control deck with main deck `hate` cards for all of the dominant decks. Packing cards like Stromgald Cabal, Perish, Rapid Decay, and Massacre, the deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

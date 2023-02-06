@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022235id_/https://magic.wizards.com/en/articles/archive/feature/round-10-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:22:35+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Player Points Op.Win% 1 Svaldi, Guilherme Dei 28 74.22% 2 Hino, Celso M 27 73.33% 3 Martins - ama, Leopoldo M. 27 70.65% 4 Shvartsman, Alex 27 70.20% 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

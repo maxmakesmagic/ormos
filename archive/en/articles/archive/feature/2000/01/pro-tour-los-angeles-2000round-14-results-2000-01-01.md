@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-14-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124032437id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-14-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:24:37+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Bachmann, David (229) Devenport, David (270) 2-0 Benefel, Chris (163) Parker, Brock (286) 2-0 Benefield, Kevin (234) Jocumsen, Bjorn (101) 0-2 Bernabeu, Jesus (143) Mukka, Daniel (184) 2-1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

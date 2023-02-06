@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/myth-theme-and-wonder-2009-03-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923171207id_/https://magic.wizards.com/en/articles/archive/feature/myth-theme-and-wonder-2009-03-16"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-23 17:12:07+00:00"
-[_metadata_:publish_date]:- "2009-03-16"
 [_metadata_:description]:- "Jerdol crouched, poised on the rocky crag overlooking the vast precipice. The great plain of Merdicor stretched out behind him, whispering to him in its subtle voice. The rain covered the stones in a sickly gloss and somewhere in the distance, he heard a crow caw twice. Across his fingers, an ant struggled feebly. Focusing, he pushed those distractions and the sound of his shivering men out of his mind. Only the rocks mattered now. The rocks, and what might lie beyond."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-03-16"
 ---
 
 

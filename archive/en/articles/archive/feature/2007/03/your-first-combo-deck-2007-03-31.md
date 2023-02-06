@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/your-first-combo-deck-2007-03-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170804162711id_/http://magic.wizards.com/en/articles/archive/feature/your-first-combo-deck-2007-03-31"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-04 16:27:11+00:00"
-[_metadata_:publish_date]:- "2007-03-31"
 [_metadata_:description]:- "Guest author Shuhei Nakamura dissects combo decks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-01"
 ---
 
 

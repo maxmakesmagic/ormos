@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sixth-edition-2008-08-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160120075409id_/http://magic.wizards.com/en/articles/archive/feature/sixth-edition-2008-08-12"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-20 07:54:09+00:00"
-[_metadata_:publish_date]:- "2008-08-12"
 [_metadata_:description]:- "Collector's Highlights  Each Classic card is now numbered for collectors and carries an expansion symbol (VI) indicating its rarity.     Game Features  Classic ushered in new rules changes for Magic. Here are links that pertain to these new rules:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-12"
 ---
 
 

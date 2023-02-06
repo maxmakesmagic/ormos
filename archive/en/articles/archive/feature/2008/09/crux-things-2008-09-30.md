@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/crux-things-2008-09-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126044423id_/https://magic.wizards.com/en/articles/archive/feature/crux-things-2008-09-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 04:44:23+00:00"
-[_metadata_:publish_date]:- "2008-09-30"
 [_metadata_:description]:- "[decklist] Title: Erik Landriz's Mono-green Goodness Format: Pro Tour Qualifier-Berlin, Lorwyn/Shadowmoor Block 22 Forest 2 Bloom Tender 4 Chameleon Colossus 4 Cloudthresher 2 Creakwood Liege 2 Deity of Scars 4 Devoted Druid 4 Kitchen Finks 4 Oversoul of Dusk 2 Primalcrux 2 Wilt-Leaf Cavaliers 4 Fertile Ground 3 Garruk Wildspeaker 1 Spitting Image *2 Eyes of the Wisent *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-30"
 ---
 
 

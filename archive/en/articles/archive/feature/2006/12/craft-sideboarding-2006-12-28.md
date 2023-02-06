@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/craft-sideboarding-2006-12-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203172600id_/https://magic.wizards.com/en/articles/archive/feature/craft-sideboarding-2006-12-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-03 17:26:00+00:00"
-[_metadata_:publish_date]:- "2006-12-28"
 [_metadata_:description]:- "I promised a `Wish` sideboards article in this one and I should probably get to that with Extended PTQs right around the corner; choosing `The Craft of Sideboarding` is to remind me as much as anyone else.I'm guessing that this was probably my most popular article of the year -- theory article anyway, rather than deck lists -- and I wanted to get the most important big chunk"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-12-28"
 ---
 
 

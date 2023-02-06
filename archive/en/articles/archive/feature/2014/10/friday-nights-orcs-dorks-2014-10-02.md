@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-orcs-dorks-2014-10-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141004083052id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-orcs-dorks-2014-10-02"
 [_metadata_:wayback_capture_timestamp]:- "2014-10-04 08:30:52+00:00"
-[_metadata_:publish_date]:- "2014-10-02"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Dreams come true for James while Alex debates his next commander."
+[_metadata_:publish_date]:- "2014-10-02"
 ---
 
 

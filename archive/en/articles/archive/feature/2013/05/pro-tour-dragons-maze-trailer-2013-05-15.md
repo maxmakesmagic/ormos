@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-dragons-maze-trailer-2013-05-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016193337id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-dragons-maze-trailer-2013-05-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:33:37+00:00"
-[_metadata_:publish_date]:- "2013-05-15"
 [_metadata_:description]:- "Pro Tour Dragon's Maze is this weekend in San Diego, California. Hundreds of the world's greatest Magic players will come together to battle for prizes and to hoist the champion trophy on Sunday. Nate Holt and Shawn Kornhauser of Walking the Planes put together this short trailer to get you excited for what's coming up. And if you missed it, read Monday's preview to this"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-15"
 ---
 
 

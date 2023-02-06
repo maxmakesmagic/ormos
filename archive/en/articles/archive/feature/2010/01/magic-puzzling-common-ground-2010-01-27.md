@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-puzzling-common-ground-2010-01-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160703232228id_/http://magic.wizards.com/en/articles/archive/feature/magic-puzzling-common-ground-2010-01-27"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-03 23:22:28+00:00"
-[_metadata_:publish_date]:- "2010-01-27"
 [_metadata_:description]:- "&#13; Let's do something a little different today. We're going to go back to the bygone days of 1996, when Duelist #14 published a puzzle that is just as relevant today as it was back then!&#13; &#13; ...well, that's not entirely true. In fact, one of the answers isn't really right by today's definitions, and another requires intimate knowledge of 1996-era Magic paraphernalia. But we're doing it anyway. Enjoy!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-27"
 ---
 
 

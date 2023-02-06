@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/geist-saint-doran-2013-10-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112025950id_/https://magic.wizards.com/en/articles/archive/feature/geist-saint-doran-2013-10-22"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:59:50+00:00"
-[_metadata_:publish_date]:- "2013-10-22"
 [_metadata_:description]:- "I can't recall ever seeing Doran, the Siege Tower and Geist of Saint Traft join forces, although it makes some amount of sense. Disregarding the casting costs, because that's what this deck does, the two cards do work toward the same plan. They both hit harder than a three-cost spell has any right to, and they both are very resistant to removal. Geist is worse against opposing creatures, and Doran is worse against opposing spells, with a slight advantage going to Geist because of the evasion."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-10-22"
 ---
 
 

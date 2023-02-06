@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-portugal-national-championship-2009-05-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126061417id_/https://magic.wizards.com/en/articles/archive/feature/2011-portugal-national-championship-2009-05-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 06:14:17+00:00"
-[_metadata_:publish_date]:- "2009-05-13"
 [_metadata_:description]:- "Date: July 23-24, 2011 Event Location: Inatel da CaparicaAddress: Av. Afonso Albuquerque, S."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-13"
 ---
 
 

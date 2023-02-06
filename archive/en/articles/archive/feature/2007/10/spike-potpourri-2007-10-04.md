@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/spike-potpourri-2007-10-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202110423id_/https://magic.wizards.com/en/articles/archive/feature/spike-potpourri-2007-10-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-02 11:04:23+00:00"
-[_metadata_:publish_date]:- "2007-10-04"
 [_metadata_:description]:- "After three weeks focusing on Lorwyn previews, I wanted to try something different for Swimming with Sharks. We're going to jump around a couple of different topics... a little Lorwyn review, a little Magic Online, a little Nazi-fighting super soldier frozen in a block of ice for a couple of decades (then blown up by The Week That Was), a little strat, a little more. I hope"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-10-04"
 ---
 
 

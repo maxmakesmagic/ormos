@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-upon-us-2006-06-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502100045id_/https://magic.wizards.com/en/articles/archive/feature/summer-upon-us-2006-06-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 10:00:45+00:00"
-[_metadata_:publish_date]:- "2006-06-03"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Dissension is now available online and rounds out the Ravnica block in cyberspace. The paper world of Magic saw no changes from the DCI this June,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-06-03"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/roseanne-any-other-name-part-3-2011-04-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053813id_/https://magic.wizards.com/en/articles/archive/feature/roseanne-any-other-name-part-3-2011-04-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:38:13+00:00"
-[_metadata_:publish_date]:- "2011-04-11"
 [_metadata_:description]:- "Welcome to the third and final article exploring my short stint on the writing staff of Roseanne. If you haven't had a chance yet to read Part 1 and Part 2, I urge you to give them a read as this article assumes you've already read them. I've spent some time talking about how I got my job and some of the perks on being on the writing staff of the number one show on television."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-04-11"
 ---
 
 

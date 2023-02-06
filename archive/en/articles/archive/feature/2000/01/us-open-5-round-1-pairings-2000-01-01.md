@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-1-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523081235id_/https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-1-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:12:35+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Allen, Chris (120) Carter, John (36) 0-1 Ally, Arif (92) Flores, John (121) 1-0 Anderson, Brett (38) *** BYE *** Andrews, Steve (80) *** BYE *** Antene, J. Kip (137) *** BYE *** Arvesu, Pedro (125) Kamphey, Andrew (32) 0-1 Atwood, Aaron (130) Au, Winston (117) 0-1 Au, Winston (117) Atwood, Aaron (130) 1-0 Austin, Ty (134) *** BYE *** Banks, David (90)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-hiroshima-winner-2011-10-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016021159id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-hiroshima-winner-2011-10-31"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 02:11:59+00:00"
-[_metadata_:publish_date]:- "2011-10-31"
 [_metadata_:description]:- "Here is the winning Standard decklist from Grand Prix Hiroshima held over the weekend.[decklist] Title: Martin Juza Format: Grand Prix Hiroshima 2011, Standard Constructed 8 Forest 4 Plains 4 Gavony Township 4 Razorverge Thicket 4 Sunpetal Grove 4 Birds of Paradise 4 Avacyn's Pilgrim 4 Mirran Crusader 4 Hero of Bladehold 2 Blade Splicer 2 Geist-Honored Monk 2 Mikaeus, the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-10-31"
 ---
 
 

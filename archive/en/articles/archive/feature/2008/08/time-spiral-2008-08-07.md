@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/time-spiral-2008-08-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519182449id_/https://magic.wizards.com/en/articles/archive/feature/time-spiral-2008-08-07"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 18:24:49+00:00"
-[_metadata_:publish_date]:- "2008-08-07"
 [_metadata_:description]:- "Collector's Highlights Time Spiral features 301 cards, plus 121 special `timeshifted` reprint cards from Magic’s past, with randomly-inserted premium cards. All cards, including the timeshifted cards, are tournament legal. The set includes 121 commons, 80 uncommons, and 80 rares, plus the 121 timeshifted cards with their own rarity. It will be available in booster packs, theme"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-07"
 ---
 
 

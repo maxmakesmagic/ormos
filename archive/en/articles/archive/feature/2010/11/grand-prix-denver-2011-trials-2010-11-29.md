@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-2011-trials-2010-11-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121111140id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-2011-trials-2010-11-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 11:11:40+00:00"
-[_metadata_:publish_date]:- "2010-11-29"
 [_metadata_:description]:- "Grand Prix–DenverTrials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers at least 1 three-round bye to Grand Prix–Denver.WPN Locations in the Denver Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information.Format Sealed Deck Limited with Booster Draft (or Sealed Deck) Top 8. If a Sealed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-11-29"
 ---
 
 

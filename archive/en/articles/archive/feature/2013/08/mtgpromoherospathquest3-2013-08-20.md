@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgpromoherospathquest3-2013-08-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023201702id_/https://magic.wizards.com/en/articles/archive/feature/mtgpromoherospathquest3-2013-08-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 20:17:02+00:00"
-[_metadata_:publish_date]:- "2013-08-20"
 [_metadata_:description]:- "Game Day | October 19–20"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-20"
 ---
 
 

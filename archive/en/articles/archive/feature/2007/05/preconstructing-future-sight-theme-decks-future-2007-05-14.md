@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/preconstructing-future-sight-theme-decks-future-2007-05-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502220441id_/http://magic.wizards.com/en/articles/archive/feature/preconstructing-future-sight-theme-decks-future-2007-05-14"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-02 22:04:41+00:00"
-[_metadata_:publish_date]:- "2007-05-14"
 [_metadata_:description]:- "Good news! My recent look at the preconstructed decks of Planar Chaos received positive reviews from readers, particularly new players. This has emboldened Scott Johns and me to do it again, this time closer to the set's release when all of that preconstructed feel-good energy is still glittering. Welcome to your primer on all things theme-y and pre-built from Future Sight."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-05-14"
 ---
 
 

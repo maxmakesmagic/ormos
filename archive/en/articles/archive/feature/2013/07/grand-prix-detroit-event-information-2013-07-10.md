@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-event-information-2013-07-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030103357id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-event-information-2013-07-10"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 10:33:57+00:00"
-[_metadata_:publish_date]:- "2013-07-10"
 [_metadata_:description]:- "Information    Grand Prix Detroit is brought to you by Professional Event Services."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-results-team-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630143326id_/https://magic.wizards.com/en/articles/archive/feature/round-5-results-team-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-30 14:33:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult Opponent3,141596 *Lost 1-2vsSaletta Team *Absolute SamuelsWon 3-0vsVintaraAccellerated Vares8 VolanteLost 1-2vswww.revised4th5th.comAlphaBetaUnlimited.comWon 2-1vsThe FeeblesAltrove *Lost 0-3vsMwonvuli GangAmsterdamLost 0-2-1vsAngstschreeuwAngstschreeuwWon 2-0-1vsAmsterdamAsani *Won 2-1vsThree K *Babar Team *Won 2-1vslibrary of alexandria 2Birds of paradiseLost"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/classic-red-green-aggro-2009-04-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170425203947id_/http://magic.wizards.com/en/articles/archive/feature/classic-red-green-aggro-2009-04-09"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-25 20:39:47+00:00"
-[_metadata_:publish_date]:- "2009-04-09"
 [_metadata_:description]:- "[decklist] Title: eddie112's Red-Green Aggro Format: Magic Online Classic 2 Forest 3 Mountain 1 Plains 2 Sacred Foundry 1 Savannah 3 Taiga 3 Wasteland 3 Windswept Heath 4 Wooded Foothills 3 Blood Knight 3 Burning-Tree Shaman 4 Kird Ape 3 Magus of the Moon 4 Tarmogoyf 4 Wild Nacatl 3 Fireblast 3 Incinerate 4 Lightning Bolt 4 Lightning Helix 3 Magma Jet *3 Ancient Grudge *4 Jötun Grunt *3 Pithing Needle"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-09"
 ---
 
 

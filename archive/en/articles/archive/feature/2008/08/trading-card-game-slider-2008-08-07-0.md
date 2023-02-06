@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/trading-card-game-slider-2008-08-07-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202013750id_/https://magic.wizards.com/en/articles/archive/feature/trading-card-game-slider-2008-08-07-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-02 01:37:50+00:00"
-[_metadata_:publish_date]:- "2008-08-07"
 [_metadata_:description]:- "mtg_tcg_main_slider_regionalized"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-07"
 ---
 
 

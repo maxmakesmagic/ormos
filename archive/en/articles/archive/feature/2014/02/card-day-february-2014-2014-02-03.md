@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-february-2014-2014-02-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706102744id_/https://magic.wizards.com/en/articles/archive/feature/card-day-february-2014-2014-02-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-06 10:27:44+00:00"
-[_metadata_:publish_date]:- "2014-02-03"
 [_metadata_:description]:- "Ajani, Caller of the Pride – Magic 2014 Core Set . Ajani is a powerful warrior, in addition to a Planeswalker, whose spark ignited when his beloved brother—and leader of their pride—was assassinated. He met Sarkhan Vol on Jund after his first planeswalk. Later, he befriended Elspeth Tirel, as we know from her `Lost Confession` to him.  Kemba, Kha Regent – Scars of Mirrodin ."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-03"
 ---
 
 

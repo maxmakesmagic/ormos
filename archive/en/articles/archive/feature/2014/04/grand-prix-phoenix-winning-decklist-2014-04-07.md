@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-phoenix-winning-decklist-2014-04-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809110023id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-phoenix-winning-decklist-2014-04-07"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-09 11:00:23+00:00"
-[_metadata_:publish_date]:- "2014-04-07"
 [_metadata_:description]:- "Congratulations to Robert Berni on winning the Grand Prix Phoenix![decklist] Title: Robert Berni’s Black Devotion Format: Standard - Grand Prix Phoenix 2014 17 Swamp 4 Mutavault 4 Temple of Silence 4 Pack Rat 4 Desecration Demon 4 Nightveil Specter 4 Gray Merchant of Asphodel 4 Hero's Downfall 4 Thoughtseize 3 Bile Blight 2 Devour Flesh 1 Doom Blade 4 Underworld Connections 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-07"
 ---
 
 

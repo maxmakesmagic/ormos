@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-team-trip-2006-04-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502100049id_/https://magic.wizards.com/en/articles/archive/feature/standard-team-trip-2006-04-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 10:00:49+00:00"
-[_metadata_:publish_date]:- "2006-04-08"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Last weekend Saturday School took a field trip to one of the many Team Constructed Pro Tour Charleston Qualifiers. We open today with several"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-04-08"
 ---
 
 

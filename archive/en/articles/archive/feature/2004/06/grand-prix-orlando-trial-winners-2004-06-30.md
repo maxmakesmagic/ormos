@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trial-winners-2004-06-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816222030id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trial-winners-2004-06-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 22:20:30+00:00"
-[_metadata_:publish_date]:- "2004-06-30"
 [_metadata_:description]:- "StatusDateCoordinatorCityFirstLast PRO5/1/2004Saul ArreolaMexico CityDanielHernandezPRO5/16/2004Ray PowersSan DiegoKevinQuirkPRO6/5/2004Anthony EdwardsAtlantaadamtatumPRO6/5/2004Barratt MoySt."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-06-30"
 ---
 
 

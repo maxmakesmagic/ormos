@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/somebody-save-me-2005-05-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812082509id_/https://magic.wizards.com/en/articles/archive/feature/somebody-save-me-2005-05-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 08:25:09+00:00"
-[_metadata_:publish_date]:- "2005-05-30"
 [_metadata_:description]:- "Release Tournament Every competitive Magic: the Gathering® player has their weaknesses... their “kryptonite,” so to speak. And just like the famous meteor rock, all players’ vulnerabilities come in various shapes, sizes, and colors.* It might be that some players are in great shape as a Constructed hero, smashing with the power of 20 normal players, but look more like a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-05-30"
 ---
 
 

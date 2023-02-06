@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flavorful-guide-guilds-ravnica-allegiance-2019-02-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190207155310id_/https://magic.wizards.com/en/articles/archive/feature/flavorful-guide-guilds-ravnica-allegiance-2019-02-07"
 [_metadata_:wayback_capture_timestamp]:- "2019-02-07 15:53:10+00:00"
-[_metadata_:publish_date]:- "2019-02-07"
 [_metadata_:description]:- "There's a lot going on inside the guilds of Ravnica Allegiance, and Chas runs through everything you need to know."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-02-07"
 ---
 
 

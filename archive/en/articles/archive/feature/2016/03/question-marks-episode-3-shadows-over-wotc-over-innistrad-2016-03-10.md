@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/question-marks-episode-3-shadows-over-wotc-over-innistrad-2016-03-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160313232625id_/http://magic.wizards.com/en/articles/archive/feature/question-marks-episode-3-shadows-over-wotc-over-innistrad-2016-03-10"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-13 23:26:25+00:00"
-[_metadata_:publish_date]:- "2016-03-10"
 [_metadata_:description]:- "Mark travels through time. Yichao tries to track down some answers. Squirrels are involved."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-03-10"
 ---
 
 

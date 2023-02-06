@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-charlotte-byes-2005-09-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026002928id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-charlotte-byes-2005-09-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:29:28+00:00"
-[_metadata_:publish_date]:- "2005-09-12"
 [_metadata_:description]:- "Rating used: Constructed, September 7th, 2005Pro Point Standings Used: Magic the Gathering Pro Players Club. These byes are not represented in the tables following, but are awarded as follows: Third-Round Byes Players with a Players Club level of 3 or higher DCI players with a Limited rating of 2025 or higher. Byes do not pass down under any circumstances. Byes are based on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-09-12"
 ---
 
 

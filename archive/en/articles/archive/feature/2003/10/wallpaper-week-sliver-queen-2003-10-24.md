@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-sliver-queen-2003-10-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160214135618id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-sliver-queen-2003-10-24"
 [_metadata_:wayback_capture_timestamp]:- "2016-02-14 13:56:18+00:00"
-[_metadata_:publish_date]:- "2003-10-24"
 [_metadata_:description]:- "This week's desktop wallpaper is Stronghold's lush Sliver Queen, by Ron Spencer. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-10-24"
 ---
 
 

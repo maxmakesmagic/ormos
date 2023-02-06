@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wizards-play-network-2008-04-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190711130220id_/https://magic.wizards.com/en/articles/archive/feature/wizards-play-network-2008-04-21"
 [_metadata_:wayback_capture_timestamp]:- "2019-07-11 13:02:20+00:00"
-[_metadata_:publish_date]:- "2008-04-21"
 [_metadata_:description]:- "Tuesday and Wednesday at the Gama Trade Show in Las Vegas, NV, Wizards Organized Play representatives will be discussing initial details of the Wizards Play Network – the new global organized play initiative devoted to enhancing grass roots play. Wizards of the Coast has created this initiative to support a wider variety of play formats and broader reaching local events that go beyond current Organized Play programs such as Friday Night Magic and the Pro Tour."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-04-21"
 ---
 
 

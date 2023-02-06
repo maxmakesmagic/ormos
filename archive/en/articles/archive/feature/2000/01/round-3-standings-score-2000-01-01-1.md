@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-standings-score-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625073757id_/https://magic.wizards.com/en/articles/archive/feature/round-3-standings-score-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-25 07:37:57+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 Magic Square 9 66.66% 2 www.alphabetaunlimited.com 9 66.66% 3 Excutioners 9 66.66% 4 Team ToDo 9 66.66% 5 DEFENCER Minor 9 66.66% 6 Yanitetsu 9 66.66% 7 Fire Beat 9 66.66% 8 Benefactor 9 66.66% 9 Yokohama Kaidashikkiko 9 59.25% 10 Death Crimson 9 55.55% 11 Triple Mulligan 9 55.55% 12 P-Kies 9 55.55% 13 DERAPIN 9 55.55% 14 Tiimumei Mikettei 9 55.55% 15"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

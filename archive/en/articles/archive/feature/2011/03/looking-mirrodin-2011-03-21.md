@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/looking-mirrodin-2011-03-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429033018id_/https://magic.wizards.com/en/articles/archive/feature/looking-mirrodin-2011-03-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:30:18+00:00"
-[_metadata_:publish_date]:- "2011-03-21"
 [_metadata_:description]:- "Welcome to Mirrodin Week. Technically, I could have considered this Mirrodin Week but I've already spent quite a few articles talking about the design of Mirrodin (Someday My Imprints Will Come, Equip of the Iceberg, A Mind Is A Wonderful Thing To Waste, Bacon Bits, and Dear Diary, to name a few). So instead I wanted to use today's column to talk about the creation of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-03-21"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/interesting-decks-gateway-tournament-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160805032142id_/http://magic.wizards.com/en/articles/archive/feature/interesting-decks-gateway-tournament-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-05 03:21:42+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "&#13; by Sideboard Staff"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

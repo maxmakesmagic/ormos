@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurtop-8-decks-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130223757id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurtop-8-decks-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-30 22:37:57+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "1) JUN NOBUSHITA (Japan) SPELLS (39) 2 Brainstorm 1 Contagion 4 Dark Ritual 3 Demonic Consultation 3 Donate 4 Duress 4 Force of Will 1 Hoodwink 4 Illusions of Grandeur 2 Lim-Dul's Vault 4 Mana Vault 4 Necropotence 3 Vampiric Tutor LAND (21) 4 Gemstone Mine 2 Island 4 Peat Bog 3 Swamp 4 Underground River 4 Underground Sea SIDEBOARD 2 Annul 1 Hoodwink 2 Contagion 3 Hydroblast 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

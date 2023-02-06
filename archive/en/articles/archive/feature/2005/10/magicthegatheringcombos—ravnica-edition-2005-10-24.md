@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos%E2%80%94ravnica-edition-2005-10-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019194815id_/https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos%E2%80%94ravnica-edition-2005-10-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 19:48:15+00:00"
-[_metadata_:publish_date]:- "2005-10-24"
 [_metadata_:description]:- "Hi folks. I know why you've come here—you want me to be funny. I'm sorry, but I don't do that anymore. I'm the Magic Rules Manager now. It's a very serious position. I'm serious about it. My monkey is serious about it. My army of genetically engineered nuclear mutant robot ninjas is serious about it. I used to be all supervillain this and bombo that. But now I'm all 418.5b"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-24"
 ---
 
 

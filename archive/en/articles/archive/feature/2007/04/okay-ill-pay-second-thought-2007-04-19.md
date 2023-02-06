@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/okay-ill-pay-second-thought-2007-04-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210303143217id_/https://magic.wizards.com/en/articles/archive/feature/okay-ill-pay-second-thought-2007-04-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-03-03 14:32:17+00:00"
-[_metadata_:publish_date]:- "2007-04-19"
 [_metadata_:description]:- "I don't really know how to introduce this card but to say that it is a serious contender for strongest non-restricted, non-banned card ever printed:You're probably shaking your head. You probably understand that this card is no Dark Ritual, no Mana Vault, no Aether Vial, no... Actually, it kind of is. Dark Ritual and Mana Vault net you two mana in the short term, and Aether"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-04-19"
 ---
 
 

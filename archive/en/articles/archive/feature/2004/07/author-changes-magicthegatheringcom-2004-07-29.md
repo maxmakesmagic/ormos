@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/author-changes-magicthegatheringcom-2004-07-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015210408id_/https://magic.wizards.com/en/articles/archive/feature/author-changes-magicthegatheringcom-2004-07-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:04:08+00:00"
-[_metadata_:publish_date]:- "2004-07-29"
 [_metadata_:description]:- "Beginning next week, Brian David-Marshall will be taking over a new version of “Week in Review”. BDM, whom many of you have read recently in our new Pro Tour event coverage blog, has been with magicthegathering.com since almost the very beginning. BDM brings extensive knowledge of the Pro Tour to the new column along with first-hand experience from all Pro Tours and many Grand"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-07-29"
 ---
 
 

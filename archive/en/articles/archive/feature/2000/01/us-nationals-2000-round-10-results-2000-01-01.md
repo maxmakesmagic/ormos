@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-10-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519001203id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-10-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 00:12:03+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Allen, Dustin Bunsongsikul, Ped Lost, 0-2 Aubertin, Justin Lagges, John Lost, 0-2 Beckmon, Jon Bhattacharyya, Sayan Lost, 0-2 Benafel, Chris Finkel, Jon Lost, 1-2 Bhattacharyya, Sayan Beckmon, Jon Won, 2-0 Bragg, Tillman Lovell, Brian Won, 2-1 Bryant, David Maher Jr., Bob Lost, 1-2 Bunsongsikul, Ped Allen, Dustin Won, 2-0 Burghy, Jeff Detora, Melissa"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-card-board-2018-05-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180517162524id_/https://magic.wizards.com/en/articles/archive/feature/playing-card-board-2018-05-17"
 [_metadata_:wayback_capture_timestamp]:- "2018-05-17 16:25:24+00:00"
-[_metadata_:publish_date]:- "2018-05-17"
 [_metadata_:description]:- "Magic card aren't made from just any old paper, as Tom explains."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-05-17"
 ---
 
 

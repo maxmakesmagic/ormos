@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817235003id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-17 23:50:03+00:00"
-[_metadata_:publish_date]:- "2004-04-21"
 [_metadata_:description]:- "Entry Fees: Varies by Location. Contact organizer for detailsTournament Structure: Mirrodin block limitedTournament format: Block ConstructedPrizes: At least 1 3rd round bye at each tournament, plus product prizes determined by the organizerStateCityEvent Date3-round byeLocationAddressContact phoneURLIllinoisChicago6/12/20041Pastimes Sports Cards, Comics & Games8478 Golf Rd,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-04-21"
 ---
 
 

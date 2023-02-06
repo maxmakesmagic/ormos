@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-august-2013-2013-08-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190223174908id_/https://magic.wizards.com/en/articles/archive/feature/card-day-august-2013-2013-08-01"
 [_metadata_:wayback_capture_timestamp]:- "2019-02-23 17:49:08+00:00"
-[_metadata_:publish_date]:- "2013-08-01"
 [_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-01"
 ---
 
 

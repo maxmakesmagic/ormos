@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-bilbao-event-information-2012-11-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015211217id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-bilbao-event-information-2012-11-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:12:17+00:00"
-[_metadata_:publish_date]:- "2012-11-05"
 [_metadata_:description]:- "Information Grand Prix Bilbao is brought to you by Gordian Knot Games.  Tournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpbilbao Date: January 19-20, 2013 Format: Modern Tournament Location Euskalduna, Avenida de Abandoibarra 4, 48011 Bilbao, Spain Click here for map Registration: €25 Friday,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-11-05"
 ---
 
 

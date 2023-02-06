@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/and-mtg-arena-2019-01-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210802111038id_/https://magic.wizards.com/en/articles/archive/feature/and-mtg-arena-2019-01-31"
 [_metadata_:wayback_capture_timestamp]:- "2021-08-02 11:10:38+00:00"
-[_metadata_:publish_date]:- "2019-01-31"
 [_metadata_:description]:- "Aaron and Chris discuss how the concept of `and` defines the relationship between digital and tabletop Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-01-31"
 ---
 
 

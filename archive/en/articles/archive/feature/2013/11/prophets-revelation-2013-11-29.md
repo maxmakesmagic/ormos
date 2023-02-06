@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prophets-revelation-2013-11-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816072615id_/https://magic.wizards.com/en/articles/archive/feature/prophets-revelation-2013-11-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 07:26:15+00:00"
-[_metadata_:publish_date]:- "2013-11-29"
 [_metadata_:description]:- "If I were to name the most powerful Standard card that isn't seeing much play, Prophet of Kruphix might just be at the top of the list. The Prophet doubles your mana and lets you play almost every card at instant speed, so to see it languish on the sidelines is very strange to me. Luckily, Ben Seck has a sweet and profitable brew for us, and it's not just any Ben Seck either:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-11-29"
 ---
 
 

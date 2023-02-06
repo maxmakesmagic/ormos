@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-anthony-ferraro-vs-tyler-pohle-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202213853id_/https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-anthony-ferraro-vs-tyler-pohle-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-02 21:38:53+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Once again, Anthony Ferraro of Kamloops appears in our featured match, this time against 15 year old Tyler Pohle of PT hotbed Madison, Wisconsin. It quickly became apparent that this would be the most seen matchup of the last few weeks, that being Replenish vs. Trinity Green. Game one started off with a Tyler onslaught including a second turn Rofellos, third turn Skyshroud"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

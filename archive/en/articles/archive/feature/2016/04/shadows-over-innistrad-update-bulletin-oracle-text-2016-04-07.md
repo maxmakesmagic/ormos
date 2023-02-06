@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-update-bulletin-oracle-text-2016-04-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160407182305id_/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-update-bulletin-oracle-text-2016-04-07"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-07 18:23:05+00:00"
-[_metadata_:publish_date]:- "2016-04-07"
 [_metadata_:description]:- "A review of all of the Oracle and Comprehensive Rules changes that come with a new set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-04-07"
 ---
 
 

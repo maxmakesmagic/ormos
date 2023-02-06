@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tezzeret-trader-2012-08-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024161552id_/https://magic.wizards.com/en/articles/archive/feature/tezzeret-trader-2012-08-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 16:15:52+00:00"
-[_metadata_:publish_date]:- "2012-08-10"
 [_metadata_:description]:- "All week here on DailyMTG.com we have been looking at Standard lists, as it has been Standard Week. And as many readers of Daily Decks know, with the release of Return to Ravnica, Scars of Mirrodin will rotate out of Standard. So, in honor of that, I would like to dedicate the final deck of the week to Mirrodin, and in this case, one of the cool new Planeswalkers to come out"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-10"
 ---
 
 

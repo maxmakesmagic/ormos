@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-11-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524003605id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-11-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 00:36:05+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Antarctica (42) 22 1 Game Empire (77) 28 ATM (64) 14 14 Fifth Again (28) 15 Brown Bomber (69) 20 6 Neutral Ground SF (48) 20 CCC (60) 19 7 Matrix (12) 18 CMU (56) 22 3 THL (78) 21 Fifth Again (28) 15 14 ATM (64) 14 Fu-Ku-Ra-Mi (7) 18 9 Phenomene J (41) 18 Game Empire (77) 28 1 Antarctica (42) 22 Goblin Gate (21) 15 13 Lost in Spain (50) 15"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

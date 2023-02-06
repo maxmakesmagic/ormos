@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/chess-decks-2010-10-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020200413id_/https://magic.wizards.com/en/articles/archive/feature/chess-decks-2010-10-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 20:04:13+00:00"
-[_metadata_:publish_date]:- "2010-10-04"
 [_metadata_:description]:- "[decklist] Title: Chess-themed deck: Black Pieces Format: Just for fun 2 Castle Sengir 16 Swamp 8 Pawn of Ulamog 2 Black Knight 2 Priest of Gix 1 Coffin Queen 1 Lord of the Undead [/decklist][decklist] Title: Chess-themed deck: White Pieces Format: Just for fun 16 Plains 8 Eager Cadet 2 White Knight 2 Preacher 1 Jhovall Queen 1 King Suleiman 2 Castle [/decklist]It is one of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-10-04"
 ---
 
 

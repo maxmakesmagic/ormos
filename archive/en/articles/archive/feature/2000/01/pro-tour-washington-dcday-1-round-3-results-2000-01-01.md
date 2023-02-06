@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-3-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519020649id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-3-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 02:06:49+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result 770 Frayman 2; Electric Boogaloo Won, 2-0 Amsterdam Urban Housing Lost, 1-2 Antarctica Random Technology Won, 2-0 ATM Marc's Brothers Lost, 0-2 Babes of the Dingo Sugar Bus Won, 2-1 Big Dogs Neutral Ground Detroit Won, 2-0-1 Billy Goats Gruff Phenomene J Lost, 1-2 Brown Bomber Tongo Nation Lost, 0-1-2 CCC CMU Lost, 1-2 Champions Southpark Won, 2-0 CMU"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

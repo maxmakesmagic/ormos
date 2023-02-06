@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/release-notes-2013-09-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170607163102id_/http://magic.wizards.com/en/articles/archive/feature/release-notes-2013-09-16"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-07 16:31:02+00:00"
-[_metadata_:publish_date]:- "2013-09-16"
 [_metadata_:description]:- "Compiled by Matt Tabak, with contributions from Laurie Cheers, Carsten Haese, Eli Shiffrin, Zoe Stephenson, and Thijs van OmmenDocument last modified September 11, 2013"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-16"
 ---
 
 

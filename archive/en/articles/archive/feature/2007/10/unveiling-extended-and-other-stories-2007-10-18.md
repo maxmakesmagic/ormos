@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unveiling-extended-and-other-stories-2007-10-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205150429id_/https://magic.wizards.com/en/articles/archive/feature/unveiling-extended-and-other-stories-2007-10-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-05 15:04:29+00:00"
-[_metadata_:publish_date]:- "2007-10-18"
 [_metadata_:description]:- "The skies parted. The venue flooded. Graveyards got washed away. The Pro Tour went on. By now most of you know about the rainstorm that hit Pro Tour–Valencia. As a fan of the game, I was actually heartbroken (okay, `heartbroken` is maybe overstating it but you get the picture) waking up on Friday morning only to learn that I would have to wait another 24 hours before finding"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-10-18"
 ---
 
 

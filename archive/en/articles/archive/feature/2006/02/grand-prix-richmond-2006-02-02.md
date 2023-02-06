@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-2006-02-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810104811id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-2006-02-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-10 10:48:11+00:00"
-[_metadata_:publish_date]:- "2006-02-02"
 [_metadata_:description]:- "First NameLast NameEvent DateSanctioning"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-02-02"
 ---
 
 

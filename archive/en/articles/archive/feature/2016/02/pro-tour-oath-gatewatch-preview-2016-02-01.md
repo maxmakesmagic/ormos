@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-oath-gatewatch-preview-2016-02-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160201202726id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-oath-gatewatch-preview-2016-02-01"
 [_metadata_:wayback_capture_timestamp]:- "2016-02-01 20:27:26+00:00"
-[_metadata_:publish_date]:- "2016-02-01"
 [_metadata_:description]:- "Rich has all the info you need to prepare for the upcoming Pro Tour."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-02-01"
 ---
 
 

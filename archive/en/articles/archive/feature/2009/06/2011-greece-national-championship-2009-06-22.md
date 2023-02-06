@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-greece-national-championship-2009-06-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028001627id_/https://magic.wizards.com/en/articles/archive/feature/2011-greece-national-championship-2009-06-22"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 00:16:27+00:00"
-[_metadata_:publish_date]:- "2009-06-22"
 [_metadata_:description]:- "Date: 18-19 June 2011Event Location: Hotel Stratos VassilikosAddress: Mihalakopoulou 114, Athens, 11524, Greece Eligibility The Magic: the Gathering Greece National Championship is an invitation-only event, open to citizens or permanent residents of Greece who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-22"
 ---
 
 

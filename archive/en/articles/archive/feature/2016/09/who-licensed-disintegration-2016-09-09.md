@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/who-licensed-disintegration-2016-09-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160912062109id_/http://magic.wizards.com/en/articles/archive/feature/who-licensed-disintegration-2016-09-09"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-12 06:21:09+00:00"
-[_metadata_:publish_date]:- "2016-09-09"
 [_metadata_:description]:- "You won't need any special permits to take LSV's preview card for a spin."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-09-09"
 ---
 
 

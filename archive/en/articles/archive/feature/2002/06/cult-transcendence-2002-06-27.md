@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cult-transcendence-2002-06-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205155348id_/https://magic.wizards.com/en/articles/archive/feature/cult-transcendence-2002-06-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-05 15:53:48+00:00"
-[_metadata_:publish_date]:- "2002-06-27"
 [_metadata_:description]:- "After Deck Challenge II, several people wrote me to ask, `Hey buddy, you mind passing along the decklists from those two Transcendence decks sent in? I won't tell anyone you showed them to me. Honest`.*Those pleas struck me as odd; it just hadn't occurred to me that a Transcendence subculture (the Cult of Transcendence?) might exist beneath Magic's otherwise upstanding"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-06-27"
 ---
 
 

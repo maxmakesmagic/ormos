@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-standings-team-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630192156id_/https://magic.wizards.com/en/articles/archive/feature/round-7-standings-team-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-30 19:21:56+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 713,141596 * 6 49.33% 12Absolute Samuels 15 67.30% 20Accellerated Vares8 Volante 12 70.00% 66Agifalw 6 54.16% 6AlphaBetaUnlimited.com 18 63.96% 73Altrove * 6 48.14% 21Amsterdam 12 68.43% 1Angstschreeuw 21 64.02% 56Asani * 9 42.77% 23Babar Team 12 55.55% 36Birds of paradise 10 56.48% 8Black-Ops 16 70.15% 14Bologna Demolition Team 15 63.96% 83Budellos * 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

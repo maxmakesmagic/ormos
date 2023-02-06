@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520165204id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 16:52:04+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Round 9 Pairings per table Table Player 1 Player 2 1 Gagg, Norman Reinhardt, Fabio 2 Mello, Patrick Wshrle, Sven 3 Cieslikowski, Marcin Bastos, Frederico 4 Mahoney-Schwartz, Steven O' Dam, Lars 5 Gysemans, Peter Karlsson, Morgan 6 Minton, Patrick Boeken, Noah 7 Cedercrantz, Johan O'Mahoney-Schwartz, Daniel 8 Monsen, Haakon R Dall Jensen, Thomas 9 Dobson, Tony Winter, Joost 10"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

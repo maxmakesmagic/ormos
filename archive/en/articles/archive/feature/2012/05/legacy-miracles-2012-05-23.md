@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-miracles-2012-05-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018183607id_/https://magic.wizards.com/en/articles/archive/feature/legacy-miracles-2012-05-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:36:07+00:00"
-[_metadata_:publish_date]:- "2012-05-23"
 [_metadata_:description]:- "Nearly every card in Magic is available to play in Legacy, but that doesn't stop new cards from breaking into the format! At the StarCityGames.com Open Series in Orlando last weekend, Shawn French debuted a Legacy deck that puts the brand new miracle mechanic to good use. By using classic Blue-White Control elements mixed in with some miracle flavor, Shawn was able to catapult"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-23"
 ---
 
 

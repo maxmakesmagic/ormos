@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-chandra-preview-2018-12-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181214020708id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-chandra-preview-2018-12-05"
 [_metadata_:wayback_capture_timestamp]:- "2018-12-14 02:07:08+00:00"
-[_metadata_:publish_date]:- "2018-12-05"
 [_metadata_:description]:- "Check out the first six pages of Magic: The Gathering – Chandra #1 written by Vita Ayala with art by Harvey Tolibao!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-12-05"
 ---
 
 

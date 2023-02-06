@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-divine-2009-02-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203183508id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-divine-2009-02-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-03 18:35:08+00:00"
-[_metadata_:publish_date]:- "2009-02-27"
 [_metadata_:description]:- "This week's desktop wallpaper is two wallpapers! As a special preview of Duel Decks: Divine vs. Demonic (which is going to hit the stores on April 10, incidentally), we're going to show you two angels: Akroma, Angel of Wrath (by Chippy) and Luminous Angel (by Jason Chan)! Not demonic enough for you? Come back next week! Regular (1280x960 pixels) Widescreen (2560x1600 pixels)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-27"
 ---
 
 

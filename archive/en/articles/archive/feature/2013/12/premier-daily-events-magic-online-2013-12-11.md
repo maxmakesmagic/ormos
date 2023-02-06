@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/premier-daily-events-magic-online-2013-12-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023020330id_/https://magic.wizards.com/en/articles/archive/feature/premier-daily-events-magic-online-2013-12-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 02:03:30+00:00"
-[_metadata_:publish_date]:- "2013-12-11"
 [_metadata_:description]:- "Download Magic Online Last Monday, Mike Turian posted information for the return of Premier and Daily Events to Magic Online on MTGO.com. Today is that day. Following the regularly scheduled downtime we'll be coming back online with a selection of Daily and Premier Events. You can view the event schedule to see what scheduled events there are after the planned downtime. The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-12-11"
 ---
 
 

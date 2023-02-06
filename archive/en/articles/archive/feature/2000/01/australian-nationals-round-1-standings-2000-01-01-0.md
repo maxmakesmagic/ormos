@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-1-standings-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207041908id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-1-standings-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-07 04:19:08+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Muir, Justin 3 33.3333 100.0000 33.3333 1/1/0/0 2 Trevilyan, Bryce 3 33.3333 100.0000 33.3333 1/1/0/0 3 Shanley, Glenn 3 33.3333 100.0000 33.3333 1/1/0/0 4 Fong, Gerard 3 33.3333 100.0000 33.3333 1/1/0/0 5 Brebach, Kim 3 33.3333 100.0000 33.3333 1/1/0/0 6 Scott, Jason 3 33.3333 100.0000 33.3333 1/1/0/0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

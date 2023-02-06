@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-nov-14-20-2009-11-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124101157id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-nov-14-20-2009-11-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-24 10:11:57+00:00"
-[_metadata_:publish_date]:- "2009-11-20"
 [_metadata_:description]:- "November 19, 2004: Unhinged is ReleasedOn November 19, 2004, Unhinged was released onto an unsuspecting world. A few weeks later, at Gen Con SoCal, Mark Rosewater ran some tournaments while wearing a donkey suit. Let's have a look!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-11-20"
 ---
 
 

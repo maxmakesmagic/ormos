@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/stained-glass-2013-04-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170319205733id_/http://magic.wizards.com/en/articles/archive/feature/stained-glass-2013-04-03"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-19 20:57:33+00:00"
-[_metadata_:publish_date]:- "2013-04-03"
 [_metadata_:description]:- "&#13; The Orzhov love their stained glass; it can be seen on a number of cards from Gatecrash, such as the most obvious example:&#13; It also inspires the magic of the Orzhov, such as is visible on Gift of Orzhova."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-04-03"
 ---
 
 

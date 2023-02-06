@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/championship-sneak-and-show-2012-08-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209144107id_/https://magic.wizards.com/en/articles/archive/feature/championship-sneak-and-show-2012-08-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 14:41:07+00:00"
-[_metadata_:publish_date]:- "2012-08-24"
 [_metadata_:description]:- "Gen Con, for those who have not been before, is quite the ordeal. Thousands of people gather to celebrate the common thread among us all—gaming. The entire convention center can be quite daunting, but even just the Magic section is packed to the brim with eager and excited mages, slinging spells and cracking packs. Each year at Gen Con, both the Vintage World Championships and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-24"
 ---
 
 

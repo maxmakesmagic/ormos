@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-pauper-2009-02-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523060939id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-pauper-2009-02-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 06:09:39+00:00"
-[_metadata_:publish_date]:- "2009-02-11"
 [_metadata_:description]:- "[decklist] Title: SlashRus's Mono-Black Format: Pauper 24 Swamp 4 Chittering Rats 4 Crypt Rats 2 Okiba-Gang Shinobi 4 Phyrexian Rager 4 Twisted Abomination 4 Warren Pilferers 4 Corrupt 4 Diabolic Edict 3 Distress 3 Tendrils of Corruption *1 Death Denied *1 Distress *3 Dross Golem *4 Duress *4 Echoing Decay *1 Okiba-Gang Shinobi *1 Tendrils of Corruption [/decklist] Looking for"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-11"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200918212525id_/https://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-18 21:25:25+00:00"
-[_metadata_:publish_date]:- "2009-08-25"
 [_metadata_:description]:- "From the Vault: ExiledIt is said there were once ﬁfteen Magic: The Gathering cards so potent, they were banned or restricted from the known realms of competition. But in the years that have passed, the game has evolved and these elder cards are once again in play. Master these weapons from ages past and give your opponent a beating of historic proportions."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-08-25"
 ---
 
 

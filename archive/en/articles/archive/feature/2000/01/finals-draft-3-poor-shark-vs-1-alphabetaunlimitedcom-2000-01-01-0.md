@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-draft-3-poor-shark-vs-1-alphabetaunlimitedcom-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701201114id_/https://magic.wizards.com/en/articles/archive/feature/finals-draft-3-poor-shark-vs-1-alphabetaunlimitedcom-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-01 20:11:14+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Williams opened the first pack, which gave him a Recoil and Benafel a Zap. Kuroda got a Wax/Wane, Otsuka got a Strength of Unity, and Morita got a Benalish Lancer. The second pack emphasized Benafel's red start with a Shivan Emissary, with Kuroda going Green and Otsuka staying in the red-black zone she's inhabited for much of the day. Kuroda's pack provided him with a Charging"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

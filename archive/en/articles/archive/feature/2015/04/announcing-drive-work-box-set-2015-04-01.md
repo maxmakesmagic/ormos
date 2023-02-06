@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-drive-work-box-set-2015-04-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210618111919id_/https://magic.wizards.com/en/articles/archive/feature/announcing-drive-work-box-set-2015-04-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-18 11:19:19+00:00"
-[_metadata_:publish_date]:- "2015-04-01"
 [_metadata_:description]:- "Over 100 hours of Rosewater! Including a Special Bonus created exclusively for The Box Set!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-04-01"
 ---
 
 

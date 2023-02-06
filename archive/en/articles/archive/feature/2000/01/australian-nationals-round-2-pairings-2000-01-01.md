@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-2-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518204100id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-2-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 20:41:00+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Adams, Joel ( 15) 1 26 Pham, Hieu ( 16) 0 Ansell, Robert ( 31) 0 *** BYE *** Bandas, Jim ( 80) 0 3 Hamilton, Berren ( 62) 3 Barlow, Russell ( 19) 0 38 Edwards, Daniel ( 2) 0 Bow, Frankle ( 83) 3 1 Kwan, Chris ( 61) 3 Bray, Jonathan ( 70) 1 23 Copeman, Will ( 66) 0 Brebach, Kim ( 32) 3 22 Liao, Wei ( 3) 3 Brugman, John ( 41) 0 29 Linke, Johnny ("
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

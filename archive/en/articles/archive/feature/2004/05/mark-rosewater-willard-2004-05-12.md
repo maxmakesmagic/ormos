@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mark-rosewater-willard-2004-05-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201020034940id_/https://magic.wizards.com/en/articles/archive/feature/mark-rosewater-willard-2004-05-12"
 [_metadata_:wayback_capture_timestamp]:- "2020-10-20 03:49:40+00:00"
-[_metadata_:publish_date]:- "2004-05-12"
 [_metadata_:description]:- "There are plenty of Magic stories that we can all share. One of my favorite Magic stories is a Type 1 story from a few years back. Bob Maher, Jr. was at a Magic event talking with a bunch of old-school Type 1 players like Rudy Edwards, Brian Weissman, and other luminaries. For over an hour they had been talking about just one thing: Type 1. They went over everything they could think of, arguing back and forth the pros and cons of everyone's ideas about the format."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-05-12"
 ---
 
 

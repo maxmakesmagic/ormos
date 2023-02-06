@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-white-control-2012-01-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018013907id_/https://magic.wizards.com/en/articles/archive/feature/red-white-control-2012-01-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 01:39:07+00:00"
-[_metadata_:publish_date]:- "2012-01-06"
 [_metadata_:description]:- "Even a year after its release, people are still finding new ways to use Scars of Mirrodin cards in Standard. Magic Online player MarthaJones recently piloted this unique Red-White Control deck to a 3–1 finish in a Daily Event. The unlikely companionship of Glint Hawk Idol and Day of Judgment helps the control deck keep an attacker even after the board has been cleared, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-06"
 ---
 
 

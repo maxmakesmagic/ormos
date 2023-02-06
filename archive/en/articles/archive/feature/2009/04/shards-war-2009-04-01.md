@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-war-2009-04-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429063417id_/https://magic.wizards.com/en/articles/archive/feature/shards-war-2009-04-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:34:17+00:00"
-[_metadata_:publish_date]:- "2009-04-01"
 [_metadata_:description]:- "Alara's convergence is complete. All five shards overlap with the others, creating a chaotic blend of magics that feed the power of a mana-storm known as the Maelstrom. Each shard, formerly a world unto itself, is now a part of the massive world of Alara. As Alara's cultures merge, the global war between the former shards intensifies, thanks to the machinations of elder dragon"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-01"
 ---
 
 

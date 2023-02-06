@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/heroic-red-2013-11-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170202223729id_/http://magic.wizards.com/en/articles/archive/feature/heroic-red-2013-11-11"
 [_metadata_:wayback_capture_timestamp]:- "2017-02-02 22:37:29+00:00"
-[_metadata_:publish_date]:- "2013-11-11"
 [_metadata_:description]:- "I've lost to Dragon Mantle before, but not usually in Standard. When I played against Tom `The Boss` Ross on Magic Online, Dragon Mantle and Titan's Strength were cast, and I did in fact lose to them. That intrigued me enough to get his list, which he even ended up taking to 1st place at a StarCityGames Invitational Qualifier."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-11-11"
 ---
 
 

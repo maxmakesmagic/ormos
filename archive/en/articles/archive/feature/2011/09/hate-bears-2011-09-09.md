@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hate-bears-2011-09-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170622233955id_/https://magic.wizards.com/en/articles/archive/feature/hate-bears-2011-09-09"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-22 23:39:55+00:00"
-[_metadata_:publish_date]:- "2011-09-09"
 [_metadata_:description]:- "[decklist] Title: Sascha Thomsen's Hate Bears Format: Modern – Pro Tour Philadelphia 1 Dryad Arbor 3 Forest 4 Ghost Quarter 3 Horizon Canopy 1 Plains 4 Razorverge Thicket 1 Tectonic Edge 4 Temple Garden 3 Treetop Village 4 Aven Mindcensor 1 Eternal Witness 1 Gaddock Teeg 1 Kitchen Finks 1 Knight of the Reliquary 4 Leonin Arbiter 1 Loxodon Hierarch 4 Noble Hierarch 2 Qasali Pridemage 4 Tarmogoyf 3 Green Sun's Zenith 3 Mana Tithe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-09"
 ---
 
 

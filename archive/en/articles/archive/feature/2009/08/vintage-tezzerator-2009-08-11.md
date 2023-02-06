@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vintage-tezzerator-2009-08-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811235304id_/https://magic.wizards.com/en/articles/archive/feature/vintage-tezzerator-2009-08-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-11 23:53:04+00:00"
-[_metadata_:publish_date]:- "2009-08-11"
 [_metadata_:description]:- "[decklist] Title: David Ochoa's Tezzeret Control Format: Vintage 1 Tolarian Academy 3 Flooded Strand 3 Polluted Delta 1 Island 3 Snow-Covered Island 3 Underground Sea 2 Volcanic Island 1 Darksteel Colossus 1 Sower of Temptation 4 Force of Will 4 Mana Drain 3 Duress 1 Thoughtseize 1 Echoing Truth 1 Fire // Ice 1 Hurkyl's Recall 1 Ancestral Recall 1 Brainstorm 1 Fact or Fiction"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-08-11"
 ---
 
 

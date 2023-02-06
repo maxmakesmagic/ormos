@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/three-kamigawa%E2%80%99s-champions-2004-12-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429172515id_/https://magic.wizards.com/en/articles/archive/feature/three-kamigawa%E2%80%99s-champions-2004-12-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 17:25:15+00:00"
-[_metadata_:publish_date]:- "2004-12-10"
 [_metadata_:description]:- "This week, for a bit of lighter fare, I'll be looking at the development of a few of the more unique legendary creatures from the Champions of Kamigawa set. Making a set full of legends presented a few unique problems, most of which revolved around perceived power level of individual cards. We didn't want to make lame-feeling legends like Chandler and Daughter of Autumn from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-12-11"
 ---
 
 

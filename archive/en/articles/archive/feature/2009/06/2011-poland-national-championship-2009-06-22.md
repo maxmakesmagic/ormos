@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-poland-national-championship-2009-06-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023052012id_/https://magic.wizards.com/en/articles/archive/feature/2011-poland-national-championship-2009-06-22"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 05:20:12+00:00"
-[_metadata_:publish_date]:- "2009-06-22"
 [_metadata_:description]:- "Date: 2-3 July 2011 Event Location: Gromada Centrum Address: Plac Powstańców Warszawy 2 Eligibility The Magic: the Gathering Poland National Championship is an invitation-only event, open to citizens or permanent residents of Poland who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers. Invitation List National"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-22"
 ---
 
 

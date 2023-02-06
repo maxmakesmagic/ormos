@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/birds-and-trees-2007-06-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127111435id_/https://magic.wizards.com/en/articles/archive/feature/birds-and-trees-2007-06-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 11:14:35+00:00"
-[_metadata_:publish_date]:- "2007-06-13"
 [_metadata_:description]:- "Welcome to Kicker Week! It's the week where you get to put a little extra in and get a little extra out. What I'm trying to say is that I'm taking donations and/or bribes. For a few extra dollars, I'll build you some extra-special decks and try to crack some extra-painful jokes. Like I always say, the squeaky wheel gets the grease, and I sound like a rusty mouse over here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-06-13"
 ---
 
 

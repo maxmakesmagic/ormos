@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extremes-metagaming-regionals-2006-2006-05-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127031151id_/https://magic.wizards.com/en/articles/archive/feature/extremes-metagaming-regionals-2006-2006-05-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-27 03:11:51+00:00"
-[_metadata_:publish_date]:- "2006-05-18"
 [_metadata_:description]:- "Invocation: `I do have this little tidbit to offer those who wish to win tournaments: play the percentages. Don't worry about beating the best deck at the tournament you are going to. Chances are significantly less than 25% that any particular deck is making it to the finals, numbers outpower skill every time. If there is an army of land destruction decks there, and one of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-05-18"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-game-day-standard-2009-11-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200808150912id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-game-day-standard-2009-11-16"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-08 15:09:12+00:00"
-[_metadata_:publish_date]:- "2009-11-16"
 [_metadata_:description]:- "Six weeks have passed since the release of Zendikar. Two weeks ago, Zendikar Game Day took place in local shops worldwide. Many players took the opportunity to play Standard with the cards from Zendikar on a global scale. This constituted the first big influx of Standard decks after Zendikar came out and should give us a starting point for the post-Zendikar Standard format. In this article, I will be doing an in-depth analysis of the metagame and Top 8 deck lists from these tournaments."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-11-16"
 ---
 
 

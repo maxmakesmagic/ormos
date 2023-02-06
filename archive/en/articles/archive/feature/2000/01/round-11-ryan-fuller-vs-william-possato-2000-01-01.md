@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-11-ryan-fuller-vs-william-possato-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030052039id_/https://magic.wizards.com/en/articles/archive/feature/round-11-ryan-fuller-vs-william-possato-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 05:20:39+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rui Oliveira Ryan Fuller vs. William Possato Ryan started his show as soon as he sat down asking if he could say hello to all the beautiful women in Belgium. Sitting at 8-2 right now they both can't really afford to lose here since a loss would force them to win all the remaining rounds for a shot at the Top 8."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

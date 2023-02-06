@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93los-angeles-2008-11-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210624054443id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93los-angeles-2008-11-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-24 05:44:43+00:00"
-[_metadata_:publish_date]:- "2008-11-26"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: January 17-18, 2009Format: ExtendedTournament Location Radisson Hotel At Los Angeles Airport 6225 West Century Blvd. Los Angeles, CA 90045 800-333-3333Registration: $30 Friday, January 16: noon - 9 p.m. Saturday, January 17: 8 a.m. - 9:30 a.m. Get your free promo card by"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-26"
 ---
 
 

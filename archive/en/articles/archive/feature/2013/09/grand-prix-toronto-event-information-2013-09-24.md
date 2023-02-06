@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-toronto-event-information-2013-09-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160809074703id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-toronto-event-information-2013-09-24"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-09 07:47:03+00:00"
-[_metadata_:publish_date]:- "2013-09-24"
 [_metadata_:description]:- "Information    Grand Prix Toronto is brought to you by Alberta Premier Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-24"
 ---
 
 

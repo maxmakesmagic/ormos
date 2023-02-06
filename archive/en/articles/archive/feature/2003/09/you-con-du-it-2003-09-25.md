@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-con-du-it-2003-09-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016091654id_/https://magic.wizards.com/en/articles/archive/feature/you-con-du-it-2003-09-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 09:16:54+00:00"
-[_metadata_:publish_date]:- "2003-09-25"
 [_metadata_:description]:- "Whenever an Unglued card makes the transition to the big time, the result is always interesting. The card started out its career only meaning to be goofy; a joker in a poker deck. But parallelling the career of Tom Hanks, when a light comedy fixture reveals a serious side, top honors ensue. Well, the acclaim received by Atogatog isn't quite the same as an Academy Award, but"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-09-25"
 ---
 
 

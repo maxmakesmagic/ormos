@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planechase-anthology-celebration-magics-history-2016-11-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161117130324id_/http://magic.wizards.com/en/articles/archive/feature/planechase-anthology-celebration-magics-history-2016-11-14"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-17 13:03:24+00:00"
-[_metadata_:publish_date]:- "2016-11-14"
 [_metadata_:description]:- "Planechase Anthology takes players on a tour through the Multiverse, bringing Magic's lore and locations to the forefront of gameplay."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-11-14"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-results-team-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628070924id_/https://magic.wizards.com/en/articles/archive/feature/round-7-results-team-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-28 07:09:24+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult OpponentAbsolute SamuelsWon 3-0vstrash AAAAlphaBetaUnlimited.comWon 2-1vszyrberusAmsterdamLost 0-3vsTeam 25:17AngstschreeuwWon 2-1vsone day flyBlack-OpsDrew 0-0-3vsgotta catch KaiBologna Demolition TeamLost 1-2vsTeam CleggCi Ciapem I Dané *Drew 1-1vskillers of the CoastCosmopolitanLost 1-2vsMetagames/LNTF3BoPLost 1-2vsStuchkaccolites *gotta catch KaiDrew"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

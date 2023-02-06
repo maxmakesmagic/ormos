@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/m12-prerelease-primer-2011-07-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429035834id_/https://magic.wizards.com/en/articles/archive/feature/m12-prerelease-primer-2011-07-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:58:34+00:00"
-[_metadata_:publish_date]:- "2011-07-04"
 [_metadata_:description]:- "It's difficult for Christmas to sneak up on you. With shops full of tinsel and cheesy Christmas music, its approach is as inevitable and tantalizing as a swarm of zombies on the horizon bearing gifts. I have never quite managed to forget that my birthday is coming either, though I have been warned by those older than myself that someday I might want to.This summer though, I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-07-04"
 ---
 
 

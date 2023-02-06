@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-antonio-2014-trials-2014-05-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018075054id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-antonio-2014-trials-2014-05-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 07:50:54+00:00"
-[_metadata_:publish_date]:- "2014-05-27"
 [_metadata_:description]:- "Grand Prix San Antonio Trials will be run at North and Latin America WPN locations from September 6, 2014 to November 16, 2014. Each awards the winner a two-round bye to Grand Prix San Antonio. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-27"
 ---
 
 

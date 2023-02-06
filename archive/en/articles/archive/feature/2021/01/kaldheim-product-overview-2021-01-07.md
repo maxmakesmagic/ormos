@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com//en/articles/archive/feature/kaldheim-product-overview-2021-01-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210107193525id_/https://magic.wizards.com//en/articles/archive/feature/kaldheim-product-overview-2021-01-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-07 19:35:25+00:00"
-[_metadata_:publish_date]:- "2021-01-07"
 [_metadata_:description]:- "An info-packed guide through all the exciting products coming with the release of Kaldheim."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-01-07"
 ---
 
 

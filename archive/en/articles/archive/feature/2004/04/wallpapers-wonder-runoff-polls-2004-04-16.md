@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpapers-wonder-runoff-polls-2004-04-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705092353id_/https://magic.wizards.com/en/articles/archive/feature/wallpapers-wonder-runoff-polls-2004-04-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-05 09:23:53+00:00"
-[_metadata_:publish_date]:- "2004-04-16"
 [_metadata_:description]:- "The nominations for Wallpapers of Wonder are in and counted, and the runoff polls are ready to go! Thanks to everyone who nominated cards to become desktop wallpapers, and a rousing `Bravo` to the diligent WizOs who waded through the nomination threads to count them up. You now get to vote on which of the top ten most-nominated cards of each color will become desktop"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-04-16"
 ---
 
 

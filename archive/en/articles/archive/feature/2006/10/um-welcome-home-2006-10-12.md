@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/um-welcome-home-2006-10-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318215209id_/http://magic.wizards.com/en/articles/archive/feature/um-welcome-home-2006-10-12"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-18 21:52:09+00:00"
-[_metadata_:publish_date]:- "2006-10-12"
 [_metadata_:description]:- "It has been three long years since we last did sorcerous battle in Magic's home world, Dominaria. The Onslaught block was our last visit home. Now, with Time Spiral, we not only go home to visit Mother Dominaria, but we also have reunions planned with all sorts of friends from three to thirteen years ago."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-10-12"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-official-terms-2008-12-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521133852id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-official-terms-2008-12-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 13:38:52+00:00"
-[_metadata_:publish_date]:- "2008-12-16"
 [_metadata_:description]:- "Please click your region: US/Canada | EU | Asia Pacific | Mexico | Brazil | Russia | South Africa Duels of the Planeswalkers Official Terms The Magic: The Gathering - Duels of the Planeswalkers Campaign 2012 (“Campaign”) is a Campaign offered by Wizards of the Coast LLC (“Wizards” or “Sponsor”). The Campaign starts on June 15, 2011 and ends December 15, 2011. The Duels of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-16"
 ---
 
 

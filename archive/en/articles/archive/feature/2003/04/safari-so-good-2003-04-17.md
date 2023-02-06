@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/safari-so-good-2003-04-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210622204546id_/https://magic.wizards.com/en/articles/archive/feature/safari-so-good-2003-04-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-22 20:45:46+00:00"
-[_metadata_:publish_date]:- "2003-04-17"
 [_metadata_:description]:- "What should I write my column about this week?” Mark wondered bizarrely.I sit next to Mark Rosewater and was brainstorming Mirage deck ideas the day his Tom Swiftie post went up last week. He suggested Bazaar of Wonders twice, but I can't see building a deck around it. It's a nice blue graveyard hoser that will quiet your Odyssey-obsessed friends, but not much more. Emptying"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-04-17"
 ---
 
 

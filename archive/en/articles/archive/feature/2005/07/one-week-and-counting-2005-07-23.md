@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/one-week-and-counting-2005-07-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522204243id_/https://magic.wizards.com/en/articles/archive/feature/one-week-and-counting-2005-07-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:42:43+00:00"
-[_metadata_:publish_date]:- "2005-07-23"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. Ninth Edition hits stores on July 29th-- that's next Friday. Many stores all over are hosting special Release Events that Friday, Saturday, or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-07-23"
 ---
 
 

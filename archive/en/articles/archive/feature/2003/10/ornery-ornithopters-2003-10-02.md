@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ornery-ornithopters-2003-10-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318214923id_/http://magic.wizards.com/en/articles/archive/feature/ornery-ornithopters-2003-10-02"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-18 21:49:23+00:00"
-[_metadata_:publish_date]:- "2003-10-02"
 [_metadata_:description]:- "Finally, Artifact Creature Week! I had anticipated this a while back. I like to keep a column or two in my pocket (just in case, right?), and it was a given that Artifact Creature Week would pop up on the calendar. I had an awesome Onslaught block deck exploiting the obvious synergies between Tribal Golem and Proteus Machine, along with, um, hm. No matter."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-10-02"
 ---
 
 

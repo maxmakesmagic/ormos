@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-dallasfort-worth-2011-trials-2011-01-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026030230id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-dallasfort-worth-2011-trials-2011-01-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 03:02:30+00:00"
-[_metadata_:publish_date]:- "2011-01-17"
 [_metadata_:description]:- "Grand Prix Dallas/Fort Worth Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers at least 1 three-round bye to Grand Prix Dallas/Fort Worth. WPN Locations in the Dallas/Fort Worth Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-17"
 ---
 
 

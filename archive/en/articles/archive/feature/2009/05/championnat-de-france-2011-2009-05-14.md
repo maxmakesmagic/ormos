@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/championnat-de-france-2011-2009-05-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528205606id_/https://magic.wizards.com/en/articles/archive/feature/championnat-de-france-2011-2009-05-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-28 20:56:06+00:00"
-[_metadata_:publish_date]:- "2009-05-14"
 [_metadata_:description]:- "Date : du 21 au 24 juilletLieu : La RochelleAddresse : Centre des congrès Encan Quai Louis Prunier 17000 La Rochelle Comment se qualifier Le championnat de France Magic: The Gathering 2011 est un événement réservé aux joueurs français ou résident en France depuis le 1er janvier 2011, et qui ont gagné une invitation : Liste des joueurs qualifiés Inscription Les joueurs"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-14"
 ---
 
 

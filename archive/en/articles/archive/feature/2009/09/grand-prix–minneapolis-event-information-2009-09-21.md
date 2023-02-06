@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93minneapolis-event-information-2009-09-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019013805id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93minneapolis-event-information-2009-09-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 01:38:05+00:00"
-[_metadata_:publish_date]:- "2009-09-21"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Date: November 14-15, 2009 Format: Zendikar Sealed Deck / Booster Draft Day 2 Tournament Location Minneapolis Convention Center 1301 Second Ave South Minneapolis, MN 55403 Registration: $40 Friday, November 13: 2 p.m. – 9 p.m. Saturday, November 14: 8 a.m. –"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-21"
 ---
 
 

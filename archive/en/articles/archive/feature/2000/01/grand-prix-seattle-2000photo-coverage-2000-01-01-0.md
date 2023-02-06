@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128110838id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 11:08:38+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Randy Buehler (former GP-Atlanta winner, now R&D member) and Peter Radjonic (former Canadian National Champion) Mike Flores of the Dojo.  Jeff Fung (top 8 of PT Chicago 1998) The deck-check team (Stephane Brissaud, Cyril Grillon, Brady Dommermuth)  GP Toronto winner, Brian Kibler rk post signing cards for the fan  Jon Finkel warming up with Jay Elerar (former Junior Champion)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

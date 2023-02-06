@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-part-1-2010-04-08-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519175103id_/https://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-part-1-2010-04-08-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 17:51:03+00:00"
-[_metadata_:publish_date]:- "2010-04-08"
 [_metadata_:description]:- "So the Eye of Ugin has opened. What happens next? Part one of Enter the Eldrazi has the answer!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-04-08"
 ---
 
 

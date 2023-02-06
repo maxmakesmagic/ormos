@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-5-top-8-decks-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528172701id_/https://magic.wizards.com/en/articles/archive/feature/us-open-5-top-8-decks-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-28 17:27:01+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "COLIN LLOYD (Ponza) CREATURES (9) 4 Avalanche Riders 1 Lightning Dragon 4 Masticore SPELLS (24) 2 Cave In 1 Fault Line 2 Hammer of Bogardan 4 Pillage 4 Seal of Fire 3 Shock 4 Stone Rain 4 Tangle Wire LAND (27) 3 Dust Bowl 4 Ghitu Encampment 16 Mountain 4 Rishadan Port SIDEBOARD 4 Boil 3 Flashfire 4 Goblin Cadets 4 Thran Foundry JOHN LAGGES (Black Control) CREATURES (11) 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

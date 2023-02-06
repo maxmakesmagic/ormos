@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalker-points-grand-prix-byes-2012-05-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022222209id_/https://magic.wizards.com/en/articles/archive/feature/planeswalker-points-grand-prix-byes-2012-05-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 22:22:09+00:00"
-[_metadata_:publish_date]:- "2012-05-30"
 [_metadata_:description]:- "Updated June 9, 2014 Listed below are all players who have earned Grand Prix byes based on their Seasonal Award Planeswalker Points. These byes apply only to individual-format Grand Prix run through August 24, 2014. For complete information on Grand Prix byes, visit the Grand Prix Bye Information Page. This list will be updated weekly. Byes2014 Seasonal Award Season #1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-30"
 ---
 
 

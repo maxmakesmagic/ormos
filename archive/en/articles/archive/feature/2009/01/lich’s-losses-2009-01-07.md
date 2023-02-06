@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lich%E2%80%99s-losses-2009-01-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170209161109id_/http://magic.wizards.com/en/articles/archive/feature/lich%E2%80%99s-losses-2009-01-07"
 [_metadata_:wayback_capture_timestamp]:- "2017-02-09 16:11:09+00:00"
-[_metadata_:publish_date]:- "2009-01-07"
 [_metadata_:description]:- "[decklist] Title: Noel deCordova's Lich’s Losses Format: magicthegathering.com article 4 Crumbling Necropolis 7 Island 5 Mountain 4 Steam Vents 4 Watery Grave 4 Greater Gargadon 4 Howling Mine 3 Illusions of Grandeur 4 Lich's Mirror 4 Lotus Bloom 4 Obelisk of Grixis 3 Pact of Negation 3 Puca's Mischief 4 Rain of Gore 3 Slaughter Pact"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-07"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/march-20-2012-dci-banned-restricted-list-announcement-2012-03-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309152328id_/http://magic.wizards.com/en/articles/archive/feature/march-20-2012-dci-banned-restricted-list-announcement-2012-03-20"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-09 15:23:28+00:00"
-[_metadata_:publish_date]:- "2012-03-20"
 [_metadata_:description]:- "Announcement Date: March 20, 2012Effective Date: April 2, 2012Magic Online Effective Date: March 28, 2012Innistrad Block ConstructedIntangible Virtue is banned.Lingering Souls is banned.Standard, Extended, Modern, Legacy, Vintage No changes"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-20"
 ---
 
 

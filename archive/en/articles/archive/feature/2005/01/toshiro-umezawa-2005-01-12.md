@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/toshiro-umezawa-2005-01-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027113642id_/https://magic.wizards.com/en/articles/archive/feature/toshiro-umezawa-2005-01-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 11:36:42+00:00"
-[_metadata_:publish_date]:- "2005-01-12"
 [_metadata_:description]:- "I have an incredibly cool preview card. His name is Toshiro Umezawa, a Legendary Badass with an incredible power. For those that have already read Rei Nakazawa's feature article this week, you already know some of the reasons this particular character is special. Once you see what his card does, you'll have even more reason to give this guy respect! Of all of the preview cards"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-01-12"
 ---
 
 

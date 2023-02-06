@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93honolulu-artists-2009-04-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429212142id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93honolulu-artists-2009-04-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 21:21:42+00:00"
-[_metadata_:publish_date]:- "2009-04-03"
 [_metadata_:description]:- "The artists booth will be open Friday-Sunday from 10 a.m. - 5 p.m. Dave Kendall Dave is a UK illustrator who started off in comics in the mid 90's. He worked on Metallica's comic and Brian Lumley's Necroscope. In the last couple of years he has produced comics for the US, England and France and illustrations for books and trading cards. Clients include Wizards of the Coast,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-03"
 ---
 
 

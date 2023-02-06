@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-adventures-forgotten-realms-2021-06-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220419094856id_/https://magic.wizards.com/en/articles/archive/feature/collecting-adventures-forgotten-realms-2021-06-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-04-19 09:48:56+00:00"
-[_metadata_:publish_date]:- "2021-06-29"
 [_metadata_:description]:- "Amazing journeys need amazing gear. Here's how to find everything your party needs in Adventures in the Forgotten Realms."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-06-29"
 ---
 
 

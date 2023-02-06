@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-4-round-1-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520173136id_/https://magic.wizards.com/en/articles/archive/feature/us-open-4-round-1-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 17:31:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Table Opponent Accardi, Anthony ( 30) *** BYE *** Au, Scott ( 47) 30 Thompson, Keith ( 42) Baumgartner, David ( 36) *** BYE *** Bluett, Taer ( 67) 22 Landis, Scott ( 50) Brown, Jason ( 46) *** BYE *** Bucchioni, Anthony ( 73) 23 Roberts, Rob ( 40) Buck, Alex ( 21) *** BYE *** Buddensick, Dan ( 32) *** BYE *** Bunkley, Randy ( 37) *** BYE *** Burn, Seth ( 65) *** BYE ***"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

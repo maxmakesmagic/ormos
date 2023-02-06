@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/auction-pauple-2008-02-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116194133id_/https://magic.wizards.com/en/articles/archive/feature/auction-pauple-2008-02-07"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-16 19:41:33+00:00"
-[_metadata_:publish_date]:- "2008-02-07"
 [_metadata_:description]:- "Hello, everybody! I hope you're all enjoying the lovely month of February. It's one of the good ones, despite being the source of blahs of all kinds. Personally, the highlight of the month will either be last weekend's Morningtide release or Valentine's Day a week from today. The jury is still out on that one. Either way, I'm hoping for a swell of courage (and no Fire"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-02-07"
 ---
 
 

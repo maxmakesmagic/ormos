@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/campionato-nazionale-italiano-2011-2009-06-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127204034id_/https://magic.wizards.com/en/articles/archive/feature/campionato-nazionale-italiano-2011-2009-06-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 20:40:34+00:00"
-[_metadata_:publish_date]:- "2009-06-23"
 [_metadata_:description]:- "Campionato Nazionale Italiano 2011Data: 29-31 Luglio 2011Luogo: Convention Bureau della riviera di RiminiIndirizzo: Via della Fiera 52, RiminiCriteri di partecipazioneIl Campionato Nazionale di Magic: the Gathering è un evento ad invito, rivolto a cittadini di nazionalità Italiani o permanentemente residenti in Italia che hanno vinto un invito al Campionato Nazionale"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-23"
 ---
 
 

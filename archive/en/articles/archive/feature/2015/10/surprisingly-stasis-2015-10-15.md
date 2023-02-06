@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/surprisingly-stasis-2015-10-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140706id_/http://magic.wizards.com/en/articles/archive/feature/surprisingly-stasis-2015-10-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:07:06+00:00"
-[_metadata_:publish_date]:- "2015-10-15"
 [_metadata_:description]:- "by Kim Eikefet The night before the Masters Gateway, Tony Dobson got an unpleasant surprise. His teammates on the Euro Alliance wanted to keep their NecroDonate deck a secret, and thus he was told that he wouldn't be playing the deck in the Gateway. So as a last minute alternative, Tony picked up Gary Wise's Stasis deck, changed about ten cards, played the deck and won. `I was disappointed because I wanted to play a different deck, but now I'm very very happy I played this one,` the Englishman says."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-10-15"
 ---
 
 

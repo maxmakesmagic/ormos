@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-results-team-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123181459id_/https://magic.wizards.com/en/articles/archive/feature/round-9-results-team-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-23 18:14:59+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult OpponentAbsolute SamuelsLost 1-2vswww.revised4th5th.comAlphaBetaUnlimited.comDrew 0-0-3vsAngstschreeuwAmsterdam * BYE *AngstschreeuwDrew 0-0-3vsAlphaBetaUnlimited.comBlack-OpsLost 1-2vsone day flyBologna Demolition TeamWon 2-1vs"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

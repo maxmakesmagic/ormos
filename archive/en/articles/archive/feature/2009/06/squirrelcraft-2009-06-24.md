@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/squirrelcraft-2009-06-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819060612id_/https://magic.wizards.com/en/articles/archive/feature/squirrelcraft-2009-06-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 06:06:12+00:00"
-[_metadata_:publish_date]:- "2009-06-24"
 [_metadata_:description]:- "[decklist] Title: Sneakattackkid's SquirrelCraft Format: Magic Online Classic 14 Forest 2 Birchlore Rangers 2 Elvish Spirit Guide 4 Elvish Visionary 3 Essence Warden 1 Eternal Witness 4 Fyndhorn Elves 4 Heritage Druid 3 Llanowar Elves 4 Nettle Sentinel 2 Wirewood Hivemaster 3 Wirewood Symbiote 4 Earthcraft 4 Glimpse of Nature 4 Skullclamp 2 Squirrel Nest *1 Brain Freeze *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-24"
 ---
 
 

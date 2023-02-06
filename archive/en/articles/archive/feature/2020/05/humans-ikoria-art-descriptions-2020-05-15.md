@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/humans-ikoria-art-descriptions-2020-05-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200618105904id_/https://magic.wizards.com/en/articles/archive/feature/humans-ikoria-art-descriptions-2020-05-15"
 [_metadata_:wayback_capture_timestamp]:- "2020-06-18 10:59:04+00:00"
-[_metadata_:publish_date]:- "2020-05-15"
 [_metadata_:description]:- "A closer look at the inspiration behind the humans of Ikoria and the art depicting their struggle to survive a plane filled with monsters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-05-15"
 ---
 
 

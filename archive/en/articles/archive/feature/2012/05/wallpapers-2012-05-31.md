@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpapers-2012-05-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130071225id_/https://magic.wizards.com/en/articles/archive/feature/wallpapers-2012-05-31"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-30 07:12:25+00:00"
-[_metadata_:publish_date]:- "2012-05-31"
 [_metadata_:description]:- "Coming 6/27/2012 2560x1600 1920x1080 1280x960 640x960 (iPhone) 2048x2048 (iPad) 851x315 (Facebook Cover) Coming 7/4/2012 2560x1600 1920x1080 1280x960 640x960 (iPhone) 2048x2048 (iPad) 851x315 (Facebook Cover)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-31"
 ---
 
 

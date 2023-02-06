@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/encounters-2012-07-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429105834id_/https://magic.wizards.com/en/articles/archive/feature/encounters-2012-07-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 10:58:34+00:00"
-[_metadata_:publish_date]:- "2012-07-03"
 [_metadata_:description]:- "I'm Ken Troop, the digital design manager for Magic R&D and also lead designer for Duels of the Planeswalkers 2013. We wanted to do some Dev Diaries that explored deeper topics about Duels of the Planeswalkers 2013 (in addition to these useful primer articles from Max McCall here and here). Today I'm going to talk about a new form of content we introduced in Duels 2013:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-07-03"
 ---
 
 

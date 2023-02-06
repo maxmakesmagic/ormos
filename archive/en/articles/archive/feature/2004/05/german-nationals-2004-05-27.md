@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/german-nationals-2004-05-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181104221836id_/https://magic.wizards.com/en/articles/archive/feature/german-nationals-2004-05-27"
 [_metadata_:wayback_capture_timestamp]:- "2018-11-04 22:18:36+00:00"
-[_metadata_:publish_date]:- "2004-05-27"
 [_metadata_:description]:- "Fifth DawnThis weekend players were introduced to the joys of Sunburst as they got to compete in a series of Fifth Dawn pre-release tournaments around the globe."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-05-27"
 ---
 
 

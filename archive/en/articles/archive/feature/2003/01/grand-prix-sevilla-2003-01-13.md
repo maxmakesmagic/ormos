@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sevilla-2003-01-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818080315id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sevilla-2003-01-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 08:03:15+00:00"
-[_metadata_:publish_date]:- "2003-01-13"
 [_metadata_:description]:- "The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour™ events.PRE-REGISTRATIONS You can now pre-register online for this exciting event!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-01-13"
 ---
 
 

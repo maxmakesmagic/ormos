@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intro-packs-2013-07-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205031622id_/https://magic.wizards.com/en/articles/archive/feature/intro-packs-2013-07-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-05 03:16:22+00:00"
-[_metadata_:publish_date]:- "2013-07-01"
 [_metadata_:description]:- "Lightforce Psychic Labyrinth Death Reaper Fire Surge Bestial Strength (Back to Product Page) Lightforce Enhance your creatures with Auras to become powerhouses in combat. Any damage your opponent deals to you will quickly be undone with your life-gain spells. Powerful Auras like Trollhide and Indestructibility make any creature nearly unstoppable, but you can get the most out"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-01"
 ---
 
 

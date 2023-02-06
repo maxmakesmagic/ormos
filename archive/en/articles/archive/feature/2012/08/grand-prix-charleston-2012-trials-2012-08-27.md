@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-charleston-2012-trials-2012-08-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527072512id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-charleston-2012-trials-2012-08-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 07:25:12+00:00"
-[_metadata_:publish_date]:- "2012-08-27"
 [_metadata_:description]:- "Grand Prix Charleston Trials will be run at WPN locations from September 22 to November 4, 2012. Each awards the winner a three-round bye to Grand Prix Charleston.WPN Locations in the Charleston, South Carolina Area Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-27"
 ---
 
 

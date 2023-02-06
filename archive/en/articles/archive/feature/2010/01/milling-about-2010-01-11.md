@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/milling-about-2010-01-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170118194941id_/http://magic.wizards.com/en/articles/archive/feature/milling-about-2010-01-11"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-18 19:49:41+00:00"
-[_metadata_:publish_date]:- "2010-01-11"
 [_metadata_:description]:- "&#13; Welcome to Milling Week! This week I'll be telling you everything you every possibly wanted to know about the intersection of milling and Magic design. Don't know what milling is? Don't worry, when I say I'll tell you everything about milling, I mean I'll start from the beginning, including what milling is. (Hint: it's Magic slang for an ability you're probably familiar with.) Sound good? Then let's get the Millstone rolling."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-11"
 ---
 
 

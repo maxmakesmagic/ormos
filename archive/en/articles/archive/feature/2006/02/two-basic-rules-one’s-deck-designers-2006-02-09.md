@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/two-basic-rules-one%E2%80%99s-deck-designers-2006-02-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130144543id_/https://magic.wizards.com/en/articles/archive/feature/two-basic-rules-one%E2%80%99s-deck-designers-2006-02-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-30 14:45:43+00:00"
-[_metadata_:publish_date]:- "2006-02-09"
 [_metadata_:description]:- "Designing a deck is easy; everyone has got ideas. Designing a deck that can actually compete against the first tier of a Constructed metagame is one of the hardest things a player, a thinker, can attempt in the game of Magic: The Gathering. If you are interested in executing on the latter, this article will give you two small tips that can make big differences in how your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-02-09"
 ---
 
 

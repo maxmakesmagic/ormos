@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-malta-national-championship-2009-04-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526191059id_/https://magic.wizards.com/en/articles/archive/feature/2011-malta-national-championship-2009-04-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 19:10:59+00:00"
-[_metadata_:publish_date]:- "2009-04-27"
 [_metadata_:description]:- "Date: 21 August 2011Location: Bay Street Conference Hall, Bay Street ComplexCity: St. Julian`sCountry: Malta The Magic: the Gathering Malta Championship is open to all citizens or permanent residents of Malta. Contact information Email: icon@maltanet.netTelephone: 21227999Website: www.forbiddenpower.com Format Standard and Booster Draft 3 Magic 2012 booster packs will be used"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-27"
 ---
 
 

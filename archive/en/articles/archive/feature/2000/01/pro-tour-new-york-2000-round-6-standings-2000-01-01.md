@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-6-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120173110id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-6-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:31:10+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Cornelissen Kamiel 18 69.6296 2 Larkin John 18 68.5185 3 Davis Kevin 18 65 4 Hirabayashi Kazuya 16 56.4815 5 Ruel Olivier 16 56.4815 6 Levy Raphael 16 49.0741 7 Thompson Mike 15 70.3704 8 Gordon Mark 15 68.5185 9 Wise Gary 15 67.5926 10 Ziegler Eric 15 63.8889 11 Jensen William 15 63.8889 12 Guo Chi Jin 15 61.2963 13 Walker Stewart 15 61.1111"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

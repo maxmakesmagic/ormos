@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mungha-wurm-2004-03-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160715113627id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mungha-wurm-2004-03-05"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-15 11:36:27+00:00"
-[_metadata_:publish_date]:- "2004-03-05"
 [_metadata_:description]:- "&#13; This week's desktop wallpaper is Greg Staples's Mungha Wurm from Prophecy. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-03-05"
 ---
 
 

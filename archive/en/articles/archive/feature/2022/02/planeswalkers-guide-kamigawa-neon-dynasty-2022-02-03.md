@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kamigawa-neon-dynasty-2022-02-03?utm_campaign=Kamigawa%3A-Neon-Dynasty&utm_source=TWITTER&utm_medium=social&utm_content=6286192753"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220203190652id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kamigawa-neon-dynasty-2022-02-03?utm_campaign=Kamigawa%3A-Neon-Dynasty&utm_source=TWITTER&utm_medium=social&utm_content=6286192753"
 [_metadata_:wayback_capture_timestamp]:- "2022-02-03 19:06:52+00:00"
-[_metadata_:publish_date]:- "2022-02-03"
 [_metadata_:description]:- "Setting foot in Kamigawa is an exciting—and perilous—step."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-02-03"
 ---
 
 

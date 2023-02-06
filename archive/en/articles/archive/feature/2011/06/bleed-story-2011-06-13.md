@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bleed-story-2011-06-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210329031246id_/https://magic.wizards.com/en/articles/archive/feature/bleed-story-2011-06-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-03-29 03:12:46+00:00"
-[_metadata_:publish_date]:- "2011-06-13"
 [_metadata_:description]:- "Ever since we first previewed Phyrexian mana in New Phyrexia, I've been getting a lot of mail about why R&D chooses to bleed abilities into colors that don't have them. For a while now I've been promising that I was going to write a column to address this issue. Today is that day. By the time I send you off with my weekly `Until then` you will have a much better sense of how"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-13"
 ---
 
 

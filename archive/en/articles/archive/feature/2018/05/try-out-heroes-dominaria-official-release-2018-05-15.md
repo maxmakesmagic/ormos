@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/try-out-heroes-dominaria-official-release-2018-05-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180515155922id_/https://magic.wizards.com/en/articles/archive/feature/try-out-heroes-dominaria-official-release-2018-05-15"
 [_metadata_:wayback_capture_timestamp]:- "2018-05-15 15:59:22+00:00"
-[_metadata_:publish_date]:- "2018-05-15"
 [_metadata_:description]:- "Heroes of Dominaria is a tabletop strategy game coming in July, but you can get a sneak preview before the official release!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-05-15"
 ---
 
 

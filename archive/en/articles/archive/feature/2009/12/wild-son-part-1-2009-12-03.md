@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wild-son-part-1-2009-12-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200102232420id_/https://magic.wizards.com/en/articles/archive/feature/wild-son-part-1-2009-12-03"
 [_metadata_:wayback_capture_timestamp]:- "2020-01-02 23:24:20+00:00"
-[_metadata_:publish_date]:- "2009-12-03"
 [_metadata_:description]:- "    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-12-03"
 ---
 
 

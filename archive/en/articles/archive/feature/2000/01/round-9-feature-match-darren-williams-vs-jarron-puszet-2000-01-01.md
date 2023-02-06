@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-feature-match-darren-williams-vs-jarron-puszet-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523093150id_/https://magic.wizards.com/en/articles/archive/feature/round-9-feature-match-darren-williams-vs-jarron-puszet-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:31:50+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Liam Coltman When the two sat down the conversation began immediately, with the spirits high the two cut each other's deck and began the match. Game 1 In the matchup with Magpie vs Trinity its all about one card, the Masticore. Despite a quick start from Williams he was unable to capitalize when he drew no Plow Unders or Tangle Wires. When the Masticore hit on turn 4 it was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

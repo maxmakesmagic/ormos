@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-enchanted-2014-02-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807225856id_/https://magic.wizards.com/en/articles/archive/feature/modern-enchanted-2014-02-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-07 22:58:56+00:00"
-[_metadata_:publish_date]:- "2014-02-19"
 [_metadata_:description]:- "Even though it's only ever been a fringe card, Zur the Enchanter has always been on my radar. After all, being able to both search your deck for a specific card and put it into play for free has historically been one of the best things you can be doing in Magic.The common options to Zur for include Steel of the Godhead to gain some life, Detention Sphere to remove a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-19"
 ---
 
 

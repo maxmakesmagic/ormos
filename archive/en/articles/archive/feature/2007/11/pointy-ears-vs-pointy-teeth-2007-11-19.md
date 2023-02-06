@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pointy-ears-vs-pointy-teeth-2007-11-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020013250id_/https://magic.wizards.com/en/articles/archive/feature/pointy-ears-vs-pointy-teeth-2007-11-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 01:32:50+00:00"
-[_metadata_:publish_date]:- "2007-11-19"
 [_metadata_:description]:- "The latest Magic boxed set takes a new look at a rivalry that's as old as the game itself. Here's how it came to be."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-01"
 ---
 
 

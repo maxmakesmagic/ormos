@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-standings-player-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123203253id_/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-player-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-23 20:32:53+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win%182A.S.K. 6 37.50% 59AAA 9 54.16% 91ABCC 7 54.16% 50Absolute 9 58.33% 57Aibon 9 56.25%128Ain't afraid to die 6 58.33%137Air Orange 6 54.16%21"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

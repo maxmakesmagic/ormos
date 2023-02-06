@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93rotterdam-planeswalkers-challenges-2009-01-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220929084058id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93rotterdam-planeswalkers-challenges-2009-01-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-09-29 08:40:58+00:00"
-[_metadata_:publish_date]:- "2009-01-14"
 [_metadata_:description]:- "Join us for this fun activity! In order to participate, pick up your Planeswalkers card at registration or in the Public Events area. The card has 6 Planeswalkers challenges for you to try and accomplish during your weekend at Grand Prix Rotterdam 21st-22nd February 2009."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-14"
 ---
 
 

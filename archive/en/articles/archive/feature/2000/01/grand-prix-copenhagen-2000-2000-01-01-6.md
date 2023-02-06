@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-6"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124034844id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-6"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:48:44+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Round 8 Pairings per player Player 1 Points Table Player 2 Points Andersson, Thomas ( 87) 18 10 Cieslikowski, Marcin (108) 18 Angelin, Marcus (210) 19 3 Monsen, Haakon R (307) 19 Assen, Johan (212) 16 18"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

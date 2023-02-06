@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/twenty-knights-2008-11-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170428233911id_/http://magic.wizards.com/en/articles/archive/feature/twenty-knights-2008-11-26"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-28 23:39:11+00:00"
-[_metadata_:publish_date]:- "2008-11-26"
 [_metadata_:description]:- "[decklist] Title: John Thorson's Twenty Knights Format: States 2008 3 Plains 3 Battlefield Forge 1 Brushland 4 Jungle Shrine 1 Reflecting Pool 1 Rugged Prairie 4 Vivid Meadow 3 Wooded Bastion 1 Kinsbaile Cavalier 4 Knight of Meadowgrain 4 Knight of the White Orchid 4 Steward of Valeron 4 Wilt-Leaf Cavaliers 3 Wilt-Leaf Liege 4 Flame Javelin 4 Incinerate 3 Lash Out 2 Naya Charm 1 Ajani Vengeant 1 Elspeth, Knight-Errant 2 Sarkhan Vol"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-26"
 ---
 
 

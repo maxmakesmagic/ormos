@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-play-game-see-world-championship-tournament-official-rules-2009-07-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024121921id_/https://magic.wizards.com/en/articles/archive/feature/2009-play-game-see-world-championship-tournament-official-rules-2009-07-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 12:19:21+00:00"
-[_metadata_:publish_date]:- "2009-07-09"
 [_metadata_:description]:- "The winner of the PLAY THE GAME, SEE THE WORLD Championship tournament will win the prize described below. The championship tournament will take place Sunday, November 22, 2009 at the Magic: The Gathering World Championship Tournament at the Palazzo Dei Congressi in Rome, Italy. The format of the Championship tournament is Zendikar Sealed Deck. There will be no entry fee for"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-09"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030043636id_/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 04:36:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Table Player Points   Opponent Points 1 Vasconcelos Jr., Joao Robert 3 vs. Kunio, Alessandro K. 3 2 Francischi, Wilson E 3 vs. Papini, Fernando 3 3 Bickhol, Nicholas A. 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/invitation-list-pro-tour-philadelphia-2011-2011-04-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023195744id_/https://magic.wizards.com/en/articles/archive/feature/invitation-list-pro-tour-philadelphia-2011-2011-04-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 19:57:44+00:00"
-[_metadata_:publish_date]:- "2011-04-20"
 [_metadata_:description]:- "Invitations to Pro Tour Philadelphia 2011 are awarded in the following manner: The 2010 World Champion The 2010 Pro Tour Player of the Year The Top 50 players from Pro Tour Nagoya 2011 Players with 2011 Pro Tour Players Club level 6 or higher Players with 2011 Pro Tour Players Club level 4* & 5* (invitation for level 4 & 5 players are not awarded until September 2, 2011)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-04-20"
 ---
 
 

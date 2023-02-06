@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/jace-vs-chandra-2008-11-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160419103512id_/http://magic.wizards.com/en/articles/archive/feature/jace-vs-chandra-2008-11-03"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-19 10:35:12+00:00"
-[_metadata_:publish_date]:- "2008-11-03"
 [_metadata_:description]:- "Two humans stand opposed. Two eyes squint and glow. The other's eyes are covered.The air vibrates bluish around one. The other's hair flares and ignites. Suddenly, energies collide and catastrophes scar the landscape.Wait—they're no mere humans, are they?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-03"
 ---
 
 

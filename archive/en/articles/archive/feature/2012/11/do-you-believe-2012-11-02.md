@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/do-you-believe-2012-11-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627062907id_/https://magic.wizards.com/en/articles/archive/feature/do-you-believe-2012-11-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 06:29:07+00:00"
-[_metadata_:publish_date]:- "2012-11-02"
 [_metadata_:description]:- "All week here at DailyMTG.com, we have been paying homage to the white-blue guild formerly (and presently) known as Azorius. So far, Daily Decks has taken a look at white-blue in Standard as well as Modern, but that isn't the only place where white-blue is viable. Legacy has seen its fair share of white-blue decks including anything from Stoneforge Mystic brews to more"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-11-02"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-october-2010-2010-10-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022040824id_/https://magic.wizards.com/en/articles/archive/feature/card-day-october-2010-2010-10-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 04:08:24+00:00"
-[_metadata_:publish_date]:- "2010-10-01"
 [_metadata_:description]:- "Pentagram of the Ages – Ice Age rare. Many cards from Ice Age and Alliances feature Arcum Dagsson (the Soldevi Machinist) and Sorine Relicbane (the Soldevi Heretic) squabbling over whether artifacts are good or bad for society. In the case of Pentagram of the Ages, Dagsson is probably correct; it's hard to imagine it destroying their civilization. Su-Chi – Masters Edition"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-10-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-puerto-rico-2009-07-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526102256id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-puerto-rico-2009-07-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 10:22:56+00:00"
-[_metadata_:publish_date]:- "2009-07-29"
 [_metadata_:description]:- "Fecha: 17 de julio de 2011Ubicación:Game Wizard, 359 San Claudio Cupey Professional MallCiudad: San JuanPaís: Puerto Rico El Campeonato Nacional de Puerto Rico de Magic: The Gathering está abierto a todos los ciudadanos y residentes permanentes del Puerto Rico.Información de Contacto Email: gamewizardpr@aol.comTelefono: 787-449-8269 FormatoEstándar y Booster Draft Se usarán 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-29"
 ---
 
 

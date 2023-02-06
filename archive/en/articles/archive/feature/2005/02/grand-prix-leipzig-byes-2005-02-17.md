@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-leipzig-byes-2005-02-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021215646id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-leipzig-byes-2005-02-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 21:56:46+00:00"
-[_metadata_:publish_date]:- "2005-02-17"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3200028 2190014 118007 Rating used: Limited, February 9, 2005 Pro Point Standings Used: 2005 Pro Tour Nagoya StandingTo find the number of byes you have for Grand Prix-Leipzig, go to the appropriate list below (sorted by last name): A-G H-N O-Z For questions about this page, please email John"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-02-17"
 ---
 
 

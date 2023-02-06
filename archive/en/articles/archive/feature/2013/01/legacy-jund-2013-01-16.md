@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-jund-2013-01-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518233838id_/https://magic.wizards.com/en/articles/archive/feature/legacy-jund-2013-01-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 23:38:38+00:00"
-[_metadata_:publish_date]:- "2013-01-16"
 [_metadata_:description]:- "I've always considered the weeks immediately before a new set comes out to be an excellent time to catch up on older formats that don't get as much attention when a new set has recently shaken up Standard. It never feels great to try to build a new Standard deck when new cards will be changing everything in mere weeks anyway. But larger formats like Legacy and Modern will stay"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-16"
 ---
 
 

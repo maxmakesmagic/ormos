@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/why-red-simply-best-color-2004-12-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020144027id_/https://magic.wizards.com/en/articles/archive/feature/why-red-simply-best-color-2004-12-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:40:27+00:00"
-[_metadata_:publish_date]:- "2004-12-20"
 [_metadata_:description]:- "Red Week on magicthegathering.com was probably the most highly anticipated theme week ever, which made finding just the right feature article all that much more important. Fortunately there just happened to be a great writer who just happened to love extolling the virtues of the color of fire to any and all who would listen. Dan Paskins is unquestionably one of red's most"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-12-20"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126165443id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 16:54:43+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Jocumsen, Bjorn 12 58.3333 80.0000 56.9444 4/4/0/0 2 Boeken, Noah 12 58.3333 80.0000 53.6111 4/4/0/0 3 Seville, Scott 12 56.2500 88.8889 55.3030 4/4/0/0 4 McKenna, Tim 12 56.2500 72.7273 54.0909 4/4/0/0 5 Tsang, Terry 12 52.0833 100.0000 50.7639 4/4/0/0 6 Pustilnik, Michael 12 52.0833 100.0000 48.1944"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

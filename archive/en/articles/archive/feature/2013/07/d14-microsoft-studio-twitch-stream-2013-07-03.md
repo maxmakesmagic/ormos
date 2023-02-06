@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/d14-microsoft-studio-twitch-stream-2013-07-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629132354id_/https://magic.wizards.com/en/articles/archive/feature/d14-microsoft-studio-twitch-stream-2013-07-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-29 13:23:54+00:00"
-[_metadata_:publish_date]:- "2013-07-03"
 [_metadata_:description]:- "Today from 11 a.m. to 12 p.m. PT, there will be a streaming chat with Magic brand manager Adam Dixon and R&D Digital Designer Nik Davidson on the Microsoft Studios Twitch stream to talk about Magic 2014—Duels of the Planeswalkers. Adam and Nik will be talking about the game as well as highlighting the integration of story in this year's version of the Duels of the Planeswalker"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-03"
 ---
 
 

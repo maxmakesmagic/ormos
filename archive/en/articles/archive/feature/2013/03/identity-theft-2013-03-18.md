@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/identity-theft-2013-03-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161130005220id_/http://magic.wizards.com/en/articles/archive/feature/identity-theft-2013-03-18"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-30 00:52:20+00:00"
-[_metadata_:publish_date]:- "2013-03-18"
 [_metadata_:description]:- "&#13; Citizens of Ravnica aren't all that different from you and me. They deal with corruption in government, disease, rampaging hordes of marauders, and even identity theft! That's right, just as it is something we have to keep an eye out for, they do too!&#13; &#13; &#13; &#13; &#13; &#13; &#13; &#13; Granted, we're not worried about it in quite the same way."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-03-18"
 ---
 
 

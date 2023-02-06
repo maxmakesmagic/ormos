@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/trouble-red-2013-11-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816015615id_/https://magic.wizards.com/en/articles/archive/feature/trouble-red-2013-11-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 01:56:15+00:00"
-[_metadata_:publish_date]:- "2013-11-27"
 [_metadata_:description]:- "Once again, I find myself drawn to Owen's aggressive monocolor lists (although this one does have a splash of a splash). I find it very interesting just how many distinct-feeling mono-red decks can be build in this Standard environment, and I imagine that most people would be surprised at the amount of depth here. I wrote about Tom Ross's Akroan Crusader Heroic deck, and Team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-11-27"
 ---
 
 

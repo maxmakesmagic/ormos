@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-team-panzer-hunters-jo-vs-team-2517-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630080607id_/https://magic.wizards.com/en/articles/archive/feature/round-3-team-panzer-hunters-jo-vs-team-2517-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-30 08:06:07+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Alan Epley started strong with a Stormscape Apprentice and Galina's Knight, and then stepped up the pressure by putting Armadillo Cloak on the Knight, one of the classic `good starts` in Invasion Block Limited. A Samite Pilgrim added to his board control, but Reiji was able to get out a Stone Kavu to at least appear to be in the game. Unfortunately, Alan had a Benalish"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

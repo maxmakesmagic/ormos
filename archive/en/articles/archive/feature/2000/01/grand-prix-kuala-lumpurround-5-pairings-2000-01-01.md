@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-5-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523000302id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-5-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 00:03:02+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Abdul Jalal, Abdul Halim Bin (114) 6 65 Zee, Way Leong (32) 6 Abdul Wahab, Mohammad Nazim (143) 3 119 Voon, Eu Jin (228) 3 Ahmad Kamal, Ahmad Omar (55) 6 93 Marcus, Heronimo (58) 6 Ahmad, Wan Hafiz Wan (142) 9 48 Delon, Alexis (265) 9 Amzar, Hazwan (263) 7 56 Low, Donny (190) 7 Ang, Jun Yang (120) 10 12 Liang, Woi Lun (148) 10 Ang, Kok Boon"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

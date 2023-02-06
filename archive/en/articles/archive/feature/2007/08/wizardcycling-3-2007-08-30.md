@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wizardcycling-3-2007-08-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160729034216id_/http://magic.wizards.com/en/articles/archive/feature/wizardcycling-3-2007-08-30"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-29 03:42:16+00:00"
-[_metadata_:publish_date]:- "2007-08-30"
 [_metadata_:description]:- "I sat in front of my computer for a good 45 minutes before deciding to write for today what I had planned to write about next week. I think once you're done reading it you'll understand why I drew such a blank. Sometimes, when you have corn stuck in your teeth, you just can't concentrate on clipping your fingernails. I have had a bit of info stuck in my craw like corn from Satan's cob, and today I am busting out the floss.  Consider these questions:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-08-30"
 ---
 
 

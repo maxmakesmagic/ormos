@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pauper-delver-2011-12-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161217202242id_/http://magic.wizards.com/en/articles/archive/feature/pauper-delver-2011-12-07"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-17 20:22:42+00:00"
-[_metadata_:publish_date]:- "2011-12-07"
 [_metadata_:description]:- "Delver of Secrets has made a huge splash recently in Standard and Legacy, but those aren't the only formats the Innistrad common has been slowly taking over. It's also legal in Pauper, a format where only common cards are legal! In a recent Magic Online Premier Event, a deck featuring the Human Insect buzzed all the way to 2nd place. Take a look for yourself, and give this fun, unique Magic Online format a try!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-12-07"
 ---
 
 

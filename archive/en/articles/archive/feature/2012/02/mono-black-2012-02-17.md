@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-2012-02-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016131153id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-2012-02-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 13:11:53+00:00"
-[_metadata_:publish_date]:- "2012-02-17"
 [_metadata_:description]:- "A lot of players were glued to Pro Tour Dark Ascension coverage to see if a Zombie deck would show up in Standard. Pro Tour newcomer Jasper Johnson-Epstein finally unleashed the Zombie horde people had been waiting for, placing in the Top 50 using several cards from the shambling tribe.Jasper's deck can quickly push a lot of power onto the table with eleven one-drop creatures,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-02-17"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-preview-trailer-2005-12-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118022836id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-preview-trailer-2005-12-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 02:28:36+00:00"
-[_metadata_:publish_date]:- "2005-12-29"
 [_metadata_:description]:- "Magicthegathering.com is running `best of` content during the holidays, and will return with new content January 4, 2006. This Magic Arcana originally ran September 1, 2005. It's only four days until Ravnica: City of Guilds previews officially begin here on magicthegathering.com. For now, immerse yourself in the setting with the Flash Ravnica preview trailer. Or download the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-12-29"
 ---
 
 

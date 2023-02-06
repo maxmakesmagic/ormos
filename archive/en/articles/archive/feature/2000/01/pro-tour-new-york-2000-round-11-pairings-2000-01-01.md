@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519025604id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 02:56:04+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Baker Justin (282) 22 6 Lo Moro Raffaele (217) 23 Blackwell Trevor (166) 23 5 Kettil Mattias ( 89) 24 Bregoli Mike (214) 22 8 Ruel Olivier (151) 22 Brower Jeremy (224) 18 32 Davis Kevin ( 21) 18 Budde Kai (179) 19 20 Fiore Stefano (219) 19 Bui Lucien (154) 22 9 Parker Brock ( 29) 22 Chapin Patrick (252) 15 43 Ikeda Tsuyoshi ( 93) 15 Comer Alan ("
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

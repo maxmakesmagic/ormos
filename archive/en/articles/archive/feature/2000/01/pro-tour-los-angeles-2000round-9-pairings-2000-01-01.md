@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-9-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208200257id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-9-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 20:02:57+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Bachmann, David (229) 16 32 Pitz, Jesse (120) 16 Benefel, Chris (163) 17 36 Yoo, John (1) 18 Benefield, Kevin (234) 13 31 Coeckelberg, Gert (138) 13 Bernabeu, Jesus (143) 13 22 Krugler, Chris (193) 13 Blackwell, Trevor (298) 21 27 Ljones, Christer (277) 21 Boeken, Noah (129) 18 4 Labarre, Nicolas (19) 18 Bulthaud, Sean (314) 18 46 Phillips,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

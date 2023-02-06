@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introducing-new-store-locator-2012-06-06-0?gclid=Cj0KCQjw2efrBRD3ARIsAEnt0egd3txAj0iLzmG32YWLZivmwmPP6nNFHhaWtASQMT4gJMuDKL6kLBAaAq21EALw_wcB"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112035426id_/https://magic.wizards.com/en/articles/archive/feature/introducing-new-store-locator-2012-06-06-0?gclid=Cj0KCQjw2efrBRD3ARIsAEnt0egd3txAj0iLzmG32YWLZivmwmPP6nNFHhaWtASQMT4gJMuDKL6kLBAaAq21EALw_wcB"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:54:26+00:00"
-[_metadata_:publish_date]:- "2012-06-06"
 [_metadata_:description]:- "We've launched a new store locator. It's a completely free map tool to help players find both events and Wizards Play Network locations! The store locator is now translated into all eleven languages we support, but it's also now available for your mobile device.When you pull up the store locator you'll be greeted with a window like this:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-06"
 ---
 
 

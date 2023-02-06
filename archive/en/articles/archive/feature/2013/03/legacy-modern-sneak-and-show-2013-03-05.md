@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-modern-sneak-and-show-2013-03-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429093323id_/https://magic.wizards.com/en/articles/archive/feature/legacy-modern-sneak-and-show-2013-03-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 09:33:23+00:00"
-[_metadata_:publish_date]:- "2013-03-05"
 [_metadata_:description]:- "I've heard that the best thing you can do for a joke is to explain it, so here goes: Joel Larsson is often called `Swedish Kibler` because he's Swedish and looks like Brian Kibler—simple enough. After Joel's second-place finish at Pro Tour Gatecrash , people joked that maybe now they'd have to start calling Brian Kibler `American Joel Larsson.` Of course, Joel's nickname had"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-03-05"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cruel-and-unusual-2004-06-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160110191604id_/http://magic.wizards.com/en/articles/archive/feature/cruel-and-unusual-2004-06-03"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-10 19:16:04+00:00"
-[_metadata_:publish_date]:- "2004-06-03"
 [_metadata_:description]:- "Welcome to the Promised Land. Welcome to the Golden Age. Welcome to Fifth Dawn, possibly the greatest Johnny set of all time."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-06-03"
 ---
 
 

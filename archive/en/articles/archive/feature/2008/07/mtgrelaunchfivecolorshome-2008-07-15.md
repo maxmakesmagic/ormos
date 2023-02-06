@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorshome-2008-07-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208214812id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorshome-2008-07-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 21:48:12+00:00"
-[_metadata_:publish_date]:- "2008-07-15"
 [_metadata_:description]:- "Mages and planeswalkers of the Multiverse can cast a vast array of spells—they can drain the life of a foe, supplement their allies with arcane strength, even summon a dragon. But all magic requires mana. Mana is the magical energy that powers spells. Where do you get it? Mana comes from the land. Mages must know a place to gather mana from it. Mana is scarce, so mages don't"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-15"
 ---
 
 

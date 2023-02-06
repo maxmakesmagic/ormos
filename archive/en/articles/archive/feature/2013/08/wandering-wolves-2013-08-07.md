@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wandering-wolves-2013-08-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016064115id_/https://magic.wizards.com/en/articles/archive/feature/wandering-wolves-2013-08-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 06:41:15+00:00"
-[_metadata_:publish_date]:- "2013-08-07"
 [_metadata_:description]:- "Green-blue aggro is not the most popular archetype, at least not since the days of Green-Blue Madness (which was more on the side of aggro-control, anyways). This list from a Magic Online Daily Event is light on the finesse and heavy on the aggro, leaving no doubt as to what the game plan is: cast resilient threats and Giant Growth them. With twelve one-drops and twelve"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-07"
 ---
 
 

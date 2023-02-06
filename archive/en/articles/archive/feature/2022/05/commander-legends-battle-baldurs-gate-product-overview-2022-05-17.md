@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-product-overview-2022-05-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517170224id_/https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-product-overview-2022-05-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 17:02:24+00:00"
-[_metadata_:publish_date]:- "2022-05-17"
 [_metadata_:description]:- "From bigger Draft Boosters to the excitement of Collector Boosters, Commander Legends: Battle for Baldur's Gate has something for every player."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-05-17"
 ---
 
 

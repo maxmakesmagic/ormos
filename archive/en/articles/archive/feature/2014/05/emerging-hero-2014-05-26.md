@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/emerging-hero-2014-05-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020105757id_/https://magic.wizards.com/en/articles/archive/feature/emerging-hero-2014-05-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 10:57:57+00:00"
-[_metadata_:publish_date]:- "2014-05-26"
 [_metadata_:description]:- "Narrowly missing out on the Top 8 of a Pro Tour can be a mixed blessing. While you miss out on the Sunday Stage, which can be disappointing, a finish just outside the Top 8 still provides a Pro Tour invitation, a handful of Pro Points, and a nice prize payout as a consolation. Jared Boettcher has experienced this near miss two Pro Tours in a row. After a 9th-place finish at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-26"
 ---
 
 

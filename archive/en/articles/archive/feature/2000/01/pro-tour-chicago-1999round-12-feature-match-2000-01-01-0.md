@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-12-feature-match-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815115128id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-12-feature-match-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:51:28+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Tony Dobson (10-1) vs. Bob Maher, Jr. (9-1-1) Round 12 saw a matchup between American Bob Maher, Jr. and England's Tony Dobson. Maher was playing a Blue/White/Green Oath of Druids variant, while Dobson was playing the Necropotence-Fruity Pebbles deck, `Cocoa Pebbles.`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

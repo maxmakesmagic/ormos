@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-white-control-2010-05-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181020001821id_/https://magic.wizards.com/en/articles/archive/feature/mono-white-control-2010-05-25"
 [_metadata_:wayback_capture_timestamp]:- "2018-10-20 00:18:21+00:00"
-[_metadata_:publish_date]:- "2010-05-25"
 [_metadata_:description]:- "[decklist] Title: Joel Allen's Mono-White Control Format: Standard - Top 4, U.S. National Qualifier in Oregon 4 Emeria, the Sky Ruin 19 Plains 2 Iona, Shield of Emeria 3 Kor Cartographer 4 Kor Skyfisher 3 Lone Missionary 4 Pilgrim's Eye 4 Wall of Omens 4 Day of Judgment 3 Everflowing Chalice 2 Martial Coup 4 Oblivion Ring 4 Path to Exile *4 Devout Lightcaster *4 Kor Firewalker *4 Luminarch Ascension *3 Pithing Needle"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-25"
 ---
 
 

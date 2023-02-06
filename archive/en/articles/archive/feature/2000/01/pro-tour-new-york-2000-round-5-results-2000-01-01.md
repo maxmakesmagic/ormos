@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-5-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524113629id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-5-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 11:36:29+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Alvarez Omar Rivera Tim Won, 2-1 Amendolia Aaron Johanneson Johan Won, 2-0 Angeli Alessio Osaka Yusuke Won, 2-0 Assen Johan Sorino Roger Lost, 0-2 Au Yong Wai Kin Sagol Omar Lost, 0-2 Ayala Hermes Hustad James Lost, 0-2 Baberowski Dirk Watson DeQuan A Won, 2-0 Bachmann David Williams David Won, 2-0 Baker Justin Johns Scott Won, 2-1 Basarowich Christian"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/define-beast-2002-11-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516055800id_/https://magic.wizards.com/en/articles/archive/feature/define-beast-2002-11-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 05:58:00+00:00"
-[_metadata_:publish_date]:- "2002-11-20"
 [_metadata_:description]:- "Right around the time of Tempest (1997), the powers that be realized that there were too many creature types in Magic. No, scratch that. This story begins a few sets earlier in Homelands (1995), the most maligned of Magic expansions. Right around the time of Homelands, the players realized that there were too many creature types in Magic, and the powers that be concurred."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-11-20"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collective-soul-2012-11-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630021055id_/https://magic.wizards.com/en/articles/archive/feature/collective-soul-2012-11-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-30 02:10:55+00:00"
-[_metadata_:publish_date]:- "2012-11-14"
 [_metadata_:description]:- "All right, so I stole a band name for the title this week, but how can you pass that up for a deck that contains both Lingering Souls and Collective Blessing? Alas, I am getting ahead of myself. For the past few months, Standard has been in a constant state of growth, hammering out what it will look like for the foreseeable future. Recently, it seems like the metagame has"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-11-14"
 ---
 
 

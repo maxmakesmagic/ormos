@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-halloween-special-2003-10-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627153035id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-halloween-special-2003-10-31"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 15:30:35+00:00"
-[_metadata_:publish_date]:- "2003-10-31"
 [_metadata_:description]:- "To celebrate Halloween, this week we have three spooky desktop wallpapers. Alan Pollack's Urborg Skeleton from Invasion, Larry Elmore's Childhood Horror from Odyssey, and Puddnhead's Nightmare Lash from Mirrodin. Happy Halloween! 1024x768 pixels 800x600 pixels 1024x768 pixels 800x600 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-10-31"
 ---
 
 

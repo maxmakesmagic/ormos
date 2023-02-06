@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/episode-29-middle-man-2014-11-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141216081203id_/http://magic.wizards.com/en/articles/archive/feature/episode-29-middle-man-2014-11-14"
 [_metadata_:wayback_capture_timestamp]:- "2014-12-16 08:12:03+00:00"
-[_metadata_:publish_date]:- "2014-11-14"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "If you're `the man in the middle,` the pressure's on you to lead the charge!"
+[_metadata_:publish_date]:- "2014-11-14"
 ---
 
 

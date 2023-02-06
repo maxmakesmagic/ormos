@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-kazakhstan-national-championship-2010-06-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527202257id_/https://magic.wizards.com/en/articles/archive/feature/2010-kazakhstan-national-championship-2010-06-21"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 20:22:57+00:00"
-[_metadata_:publish_date]:- "2010-06-21"
 [_metadata_:description]:- "Date: 26 June 2010 Event Location: 1C Interes, 187 Tole bi str City: Almaty Country: Kazakhstan Contact information Email: anuar4ever@gmail.com Telephone: +7 701 788 15 11 FormatStandard and Booster Draft 3 Rise of the Eldrazi booster packs will be used for drafting Deck lists are required Check www.thedci.com for Standard and Booster Draft format rules Tournament LengthThe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-06-21"
 ---
 
 

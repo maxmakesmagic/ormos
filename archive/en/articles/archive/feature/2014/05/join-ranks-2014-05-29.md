@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/join-ranks-2014-05-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123184006id_/https://magic.wizards.com/en/articles/archive/feature/join-ranks-2014-05-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-23 18:40:06+00:00"
-[_metadata_:publish_date]:- "2014-05-29"
 [_metadata_:description]:- "Salutations, fellow cardboard dragon aficionados! My name is Timothy James Aten, and I work at Wizards of the Coast in glorious Renton, Washington. I started playing Magic during Fallen Empires, and I've been going strong for almost twenty years."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-28"
 ---
 
 

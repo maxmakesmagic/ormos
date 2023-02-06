@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-united-states-national-championship-invitation-list-2009-05-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017135331id_/https://magic.wizards.com/en/articles/archive/feature/2009-united-states-national-championship-invitation-list-2009-05-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-17 13:53:31+00:00"
-[_metadata_:publish_date]:- "2009-05-06"
 [_metadata_:description]:- "U.S. Nationals Invitation list comprises the following:The current U.S. National Champion and members of the current U.S. national team (including alternate). Players from the U.S. with Pro Tour Players Club level 2 or higher. Winners of invitations through Regional Championships. Winners of invitations through US Open tournaments (`grinders`). The Top 100 DCI Composite–ranked"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-06"
 ---
 
 

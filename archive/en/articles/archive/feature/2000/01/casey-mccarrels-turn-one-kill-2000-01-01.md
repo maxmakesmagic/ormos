@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/casey-mccarrels-turn-one-kill-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522090242id_/https://magic.wizards.com/en/articles/archive/feature/casey-mccarrels-turn-one-kill-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 09:02:42+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Gary Wise If the first round of limited play in US Open history is any indication, things just got a little more exciting. With the number of entrants barely exceeding 128, a few unlucky souls were matched up so the field could play in an evenly bracketed single-elimination tourney. Amongst those players selected (at random) was Casey McCarrel, former PT Champ."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

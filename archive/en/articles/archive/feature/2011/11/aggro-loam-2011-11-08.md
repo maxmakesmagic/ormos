@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-loam-2011-11-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210506190736id_/https://magic.wizards.com/en/articles/archive/feature/aggro-loam-2011-11-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-06 19:07:36+00:00"
-[_metadata_:publish_date]:- "2011-11-08"
 [_metadata_:description]:- "Last weekend's StarCityGames.com Open in Las Vegas saw some old favorites appear in the Top 8… like Aggro Loam! This powerful midrange deck has a deceptively strong land-based engine revolving around Life from the Loam. The Ravnica sorcery combines with cycling lands like Forgotten Cave to help Countryside Crusher get big quickly and let you kill out of nowhere with the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-11-08"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-indianapolis-event-information-2012-03-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161003080832id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-indianapolis-event-information-2012-03-06"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-03 08:08:32+00:00"
-[_metadata_:publish_date]:- "2012-03-06"
 [_metadata_:description]:- "For information about Grand Prix Indianapolis in December 2012, go here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-06"
 ---
 
 

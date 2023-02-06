@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reanimating-reckoners-2013-05-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527001956id_/https://magic.wizards.com/en/articles/archive/feature/reanimating-reckoners-2013-05-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 00:19:56+00:00"
-[_metadata_:publish_date]:- "2013-05-23"
 [_metadata_:description]:- "TToday's deck is a clever hybrid of Junk Rites and Act 2. Those aren't really decks I'd think to put together, because the mana involved in BG (for Grisly Salvage) into (R/W)(R/W)(R/W) (for Boros Reckoner) is a little tricky, but usokui3 found a clever way to make it work and managed to find a number of clever synergies between the two shells. Every land in this deck taps for"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-23"
 ---
 
 

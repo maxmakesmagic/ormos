@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-costa-rica-2012-trials-2012-07-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121124806id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-costa-rica-2012-trials-2012-07-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 12:48:06+00:00"
-[_metadata_:publish_date]:- "2012-07-03"
 [_metadata_:description]:- "Grand Prix Costa Rica Trials will be run at Latin America WPN locations from July 21 to September 2, 2012. Each awards the winner a three-round bye to Grand Prix Costa Rica.WPN Locations in the San Jose, Costa Rica Area Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-07-03"
 ---
 
 

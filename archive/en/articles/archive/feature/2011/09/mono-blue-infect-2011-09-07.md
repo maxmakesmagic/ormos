@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-blue-infect-2011-09-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502225958id_/http://magic.wizards.com/en/articles/archive/feature/mono-blue-infect-2011-09-07"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-02 22:59:58+00:00"
-[_metadata_:publish_date]:- "2011-09-07"
 [_metadata_:description]:- "[decklist] Title: John Stolzmann's Mono-Blue Infect Format: Modern – Pro Tour Philadelphia 4 Inkmoth Nexus 7 Island 1 Misty Rainforest 4 Scalding Tarn 2 Tolaria West 1 Watery Grave 4 Blighted Agent 1 Progenitus 4 Blazing Shoal 3 Disrupting Shoal 4 Dragonstorm 2 Gitaxian Probe 4 Muddle the Mixture 1 Pact of Negation 4 Peer Through Depths 4 Ponder 4 Preordain 1 Snapback 4 Spell Pierce 1 Summoner's Pact *2 Deprive *2 Dismember"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-07"
 ---
 
 

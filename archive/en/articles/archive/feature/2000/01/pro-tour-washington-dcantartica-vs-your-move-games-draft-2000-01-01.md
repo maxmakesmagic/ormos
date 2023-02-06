@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcantartica-vs-your-move-games-draft-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521221639id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcantartica-vs-your-move-games-draft-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 22:16:39+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "`I don't think many people would argue if you said that Jon Finkel was the best player in the world. He's beaten me a lot lately, but there have been times when I've had the upper hand. I can only hope that this is one of those times` It been a long time since Darwin Kastle has made the third day of a Pro Tour event. After two Top 8 appearances in the tour's first season,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

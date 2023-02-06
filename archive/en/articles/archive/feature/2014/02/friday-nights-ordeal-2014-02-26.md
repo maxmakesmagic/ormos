@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/friday-nights-ordeal-2014-02-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020144708id_/https://magic.wizards.com/en/articles/archive/feature/friday-nights-ordeal-2014-02-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:47:08+00:00"
-[_metadata_:publish_date]:- "2014-02-26"
 [_metadata_:description]:- "The LoadingReadyRun crew gets ready for Game Day and the Battle the Horde Challenge Deck. Alex and Cam work out the ultimate tribute card, then join Graham to battle the minotaur horde. Kathleen takes her mono-black deck to face the horde alone. Talk about this series on Twitter with the #FridayNightsMTG hashtag and be sure to follow @loadingreadyrun! Watch all the previous"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-26"
 ---
 
 

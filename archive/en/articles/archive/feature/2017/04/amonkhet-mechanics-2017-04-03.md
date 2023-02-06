@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/amonkhet-mechanics-2017-04-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210802132856id_/https://magic.wizards.com/en/articles/archive/feature/amonkhet-mechanics-2017-04-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-08-02 13:28:56+00:00"
-[_metadata_:publish_date]:- "2017-04-03"
 [_metadata_:description]:- "Matt explains the new and returning mechanics in Amonkhet."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-04-03"
 ---
 
 

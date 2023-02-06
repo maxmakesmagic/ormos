@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-ooze-2013-02-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528110745id_/https://magic.wizards.com/en/articles/archive/feature/modern-ooze-2013-02-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-28 11:07:45+00:00"
-[_metadata_:publish_date]:- "2013-02-27"
 [_metadata_:description]:- "With the banning of Bloodbraid Elf, a pressing question for Modern becomes figuring out exactly how Jund should look now. Some players on Magic Online have had success using a card I haven't seen outside of Block Constructed in their Jund decks: Bloodhall Ooze. jjflipped finished 8th in a PTQ with Bloodhall Ooze before the banning went into effect on Magic Online, and a few"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-02-27"
 ---
 
 

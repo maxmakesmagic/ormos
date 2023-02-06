@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reddy-aim-fire-2004-07-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204150935id_/https://magic.wizards.com/en/articles/archive/feature/reddy-aim-fire-2004-07-22"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 15:09:35+00:00"
-[_metadata_:publish_date]:- "2004-07-22"
 [_metadata_:description]:- "And finally it comes to red. I can't say I'm a big fan of the color since, if you were to classify me as a Magic color, I'd be blue. Well, blue-black. Black-blue. OK, I'd be black. You will all bow before me! Naw, I'm kidding. But in keeping with Mark R.'s classification of imaginary characters as one color or another, I figured I'd classify myself. Why not? I'm twice as"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-07-22"
 ---
 
 

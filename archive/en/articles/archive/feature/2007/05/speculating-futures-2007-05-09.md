@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/speculating-futures-2007-05-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126111619id_/https://magic.wizards.com/en/articles/archive/feature/speculating-futures-2007-05-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 11:16:19+00:00"
-[_metadata_:publish_date]:- "2007-05-09"
 [_metadata_:description]:- "Welcome Johnnies, Timmies, Spikes, Melvins, Vorthoses, Reginalds, Archibalds, and/or Jugheads! Phew! That’s a lot of you to keep track of. I’m glad I’m not in marketing. In my civilian life, I happen to like all fictitious Magic players equally. When I’m wearing my House of Cards hat, however, I’m obliged to like Johnnies more than others. Many apologies to all you slighted"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-05-09"
 ---
 
 

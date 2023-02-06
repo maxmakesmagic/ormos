@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planes-existence-alara-2008-07-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170605183040id_/http://magic.wizards.com/en/articles/archive/feature/planes-existence-alara-2008-07-25"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-05 18:30:40+00:00"
-[_metadata_:publish_date]:- "2008-07-25"
 [_metadata_:description]:- "Alara was whole once. But that was millennia ago. Where once there was a plane, now there are five: the Shards.  The plane of Alara was a world rich with mana, a world in balance...until the Sundering. In a cataclysm of unimaginable proportions, Alara was rent asunder into five separate worlds, each a refraction of the others."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-25"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-niigata-2005-06-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030193759id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-niigata-2005-06-27"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:37:59+00:00"
-[_metadata_:publish_date]:- "2005-06-27"
 [_metadata_:description]:- "日本語の案内ページTrial Schedule IMPORTANT ANNOUNCEMENT Due to unavoidable circumstances, Christopher Rush will be unable to attend Grand Prix—Niigata. In his place, rk post will be coming to Niigata. We apologize for any inconvenience this may cause."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-06-27"
 ---
 
 

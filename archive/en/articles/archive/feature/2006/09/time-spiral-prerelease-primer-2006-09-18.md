@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/time-spiral-prerelease-primer-2006-09-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309150844id_/http://magic.wizards.com/en/articles/archive/feature/time-spiral-prerelease-primer-2006-09-18"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-09 15:08:44+00:00"
-[_metadata_:publish_date]:- "2006-09-18"
 [_metadata_:description]:- "I have to admit I was stubborn at first. I love playing Ravnica block Limited and I was not prepared to stop for anything – not even the next set. Besides, what could those fiends inside of R&amp;D to possibly top the crazy 5-color goodness that is RGD Limited?How about the return of some beloved friends, favorite themes, tantalizing keywords, as well as the addition of plenty of new themes, ideas, and keywords? Welcome to the Time Spiral. Don't try and fight it… just let yourself be pulled into the vortex."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-09-18"
 ---
 
 

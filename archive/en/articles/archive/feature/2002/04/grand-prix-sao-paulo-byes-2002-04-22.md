@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sao-paulo-byes-2002-04-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016185809id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sao-paulo-byes-2002-04-22"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 18:58:09+00:00"
-[_metadata_:publish_date]:- "2002-04-22"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3195028 2185014 117507 Rating used: Constructed, March 20, 2002 Pro Point Standings Used: 2002 OsakaTo find the number of byes you have for Grand Prix-Sao Paulo, go to the appropriate list below (sorted by last name): A-B C-D E-G H-J K-L M-N O-R S T-V W-Z For questions about this page, please"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-04-22"
 ---
 
 

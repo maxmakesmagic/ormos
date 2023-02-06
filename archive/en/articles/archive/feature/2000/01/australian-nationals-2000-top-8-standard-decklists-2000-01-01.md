@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-2000-top-8-standard-decklists-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517103249id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-2000-top-8-standard-decklists-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 10:32:49+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Andrew Corney - Black Control 2 Phyrexian Negator 2 Skittering Horror 3 Skittering Skirge 1 Stromgald Cabal 1 Thrasing Wupmus 4 Vampiric Tutor 3 Yawgmoth's Will 2 Unmask 4 Duress 1 Stupor 1 Persecute 4 Vicious Hunger 1 Eradicate 1 Massacre 1 Perish 1 Powder Keg 4 Dark Ritual 1 Engineered Plague 17 Swamp 4 Rishadan Port 1 Dust Bowl 1 Phyrexian Tower Sideboard - 2 Engineered"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

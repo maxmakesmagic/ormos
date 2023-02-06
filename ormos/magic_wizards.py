@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse
+from datetime import datetime
 import json
 import logging
 import os
@@ -19,11 +20,14 @@ log = logging.getLogger(__name__)
 
 
 class MagicWizardsConverterSingle:
-    def __init__(self, path: Path, identifier: str, image_cache: Optional[ImageCache] = None):
+    def __init__(
+        self, path: Path, identifier: str, image_cache: Optional[ImageCache] = None
+    ):
         self.path = path
         self.identifier = identifier
         self.cache = {}
         self.image_cache = image_cache if image_cache else ImageCache()
+        self.date = None
 
         # Within this path there should be two files:
         # - an HTML file containing the content
@@ -49,20 +53,18 @@ class MagicWizardsConverterSingle:
         self.metadata = {
             "wayback_url": self.url,
             "wayback_raw_url": self.raw_url,
-            "wayback_capture_timestamp": wayback_data["record"]["time"]
+            "wayback_capture_timestamp": wayback_data["record"]["time"],
         }
 
         # Calculate the wayback prefix for images
-        m = re.match(r'^(https://web.archive.org/web/[^/]+)', wayback_data["record"]["view_url"])
+        m = re.match(
+            r"^(https://web.archive.org/web/[^/]+)", wayback_data["record"]["view_url"]
+        )
         if m:
             self.image_prefix = f"{m.group(1)}im_"
             log.debug("[%s] Wayback prefix is %s", self.identifier, self.image_prefix)
         else:
             self.image_prefix = None
-
-        # Calculate the archive path
-        self.archive_path = self.generate_path(self.url)
-
 
     # Converts HTML content into Markdown content
     def process_html(self, path: Path) -> Optional[str]:
@@ -93,6 +95,28 @@ class MagicWizardsConverterSingle:
             log.error("[%s] Not an article", self.identifier)
             return None
 
+        # Store off the publish date if it can be found
+        DATE_REX = re.compile(
+            r"((January|February|March|April|May|June|July|August|September|October|November|December) ([0-3]?[0-9]), (\d{4}))"
+        )
+
+        posted_in = main_content.find("p", class_="posted-in")
+        header_pub_date = main_content.find("span", class_="headerPubDate")
+
+        if posted_in:
+            posted_text = posted_in.getText()
+        elif header_pub_date:
+            posted_text = header_pub_date.getText()
+        else:
+            posted_text = ""
+
+        m = DATE_REX.search(posted_text)
+        if m:
+            full_date = m.group(1)
+            parsed_date = datetime.strptime(full_date, "%B %d, %Y")
+            self.date = parsed_date.strftime("%Y-%m-%d")
+            log.debug("[%s] Detected article date as %s", self.identifier, self.date)
+
         # Remove content that isn't necessary
         #
         # Remove breadcrumb links
@@ -114,7 +138,12 @@ class MagicWizardsConverterSingle:
 
         # Remove sharing links and the article footer
         # Also remove sample hands
-        for div_class in ["sharing", "article-footer", "data-sample-hand-cards", "toggle-samplehand"]:
+        for div_class in [
+            "sharing",
+            "article-footer",
+            "data-sample-hand-cards",
+            "toggle-samplehand",
+        ]:
             for ds in main_content.find_all("div", class_=div_class):
                 ds.decompose()
 
@@ -130,7 +159,9 @@ class MagicWizardsConverterSingle:
         # try and replace them with a Wayback URL.
         for img in main_content.find_all("img"):
             if "src" in img.attrs:
-                new_src = self.image_cache.verified_image(img.attrs["src"], self.identifier, self.image_prefix)
+                new_src = self.image_cache.verified_image(
+                    img.attrs["src"], self.identifier, self.image_prefix
+                )
                 img.attrs["src"] = new_src
             else:
                 # Image is weird. One example seen: <img style="magic">
@@ -142,7 +173,6 @@ class MagicWizardsConverterSingle:
         # log.debug("Markdown content: %s", mc)
         return mc
 
-
     # Generates a path for this content in the archive
     def generate_path(self, url: str) -> Path:
         parts = urlparse(url)
@@ -152,18 +182,43 @@ class MagicWizardsConverterSingle:
         # front or end.
         noleading = unquote(parts.path.strip("/"))
 
-        # At this point we can try and extract the path from the URL.
-        m = re.match(r'^(.*?)([^/]+-(\d{4})-(\d{2})-(\d{2})(:?-\d)?)$', noleading)
+        # Try and calculate the article path at this point
+        m = re.match(r"^(.*?)([^/]+-(\d{4})-(\d{2})-(\d{2})(:?-\d+)?)$", noleading)
         if m:
-            path = Path("archive",
-                        m.group(1),
-                        m.group(3),
-                        m.group(4),
-                        f"{m.group(2)}.md")
+            # "Normal" article URL!
+            path = Path(
+                "archive", m.group(1), m.group(3), m.group(4), f"{m.group(2)}.md"
+            )
+            date = f"{m.group(3)}-{m.group(4)}-{m.group(5)}"
+            if self.date is None:
+                self.date = date
+            elif self.date != date:
+                log.warning(
+                    "[%s] Article date and URL date differ: %s vs %s",
+                    self.identifier,
+                    self.date,
+                    date,
+                )
+        elif self.date is not None:
+            # Not a normal URL - there's no date in the URL, but there is one in the body
+            # Add the article date into the URL
+            m = re.match(r"^(.*?)([^/]+)$", noleading)
+            if not m:
+                raise Exception(f"URL wrong: {noleading}")
 
-            self.metadata["publish_date"] = f"{m.group(3)}-{m.group(4)}-{m.group(5)}"
+            n = re.match(r"(\d{4})-(\d{2})-(\d{2})", self.date)
+            if not n:
+                raise Exception(f"Date wrong: {self.date}")
+
+            path = Path(
+                "archive", m.group(1), n.group(1), n.group(2), f"{m.group(2)}.md"
+            )
         else:
+            # There's no date in the body nor in the URL!
             path = Path("archive", f"{noleading}.md")
+
+        if self.date is not None:
+            self.metadata["publish_date"] = self.date
 
         log.debug("[%s] Generated path: %s", self.identifier, path)
         parent = path.parent
@@ -171,23 +226,28 @@ class MagicWizardsConverterSingle:
         return path
 
     def process(self):
-        # Check to see if the path already exists
-        if self.archive_path.exists():
-            log.warning("[%s] Path already exists: %s", self.identifier, self.archive_path)
-
         # Process the HTML into Markdown
         markdown = self.process_html(self.html_path)
         if markdown:
+            # Calculate the archive path
+            archive_path = self.generate_path(self.url)
+
+            # Check to see if the path already exists
+            if archive_path.exists():
+                log.warning(
+                    "[%s] Path already exists: %s", self.identifier, archive_path
+                )
+
             # Write out the Markdown.
-            with open(self.archive_path, "w", encoding="utf-8") as f:
+            with open(archive_path, "w", encoding="utf-8") as f:
                 f.write("\n---\n")
                 # Write the link to the Wayback page
                 f.write(f"[Link to Wayback Machine]({self.view_url})\n\n")
 
                 # Add the metadata as Markdown metadata at the start of the file
                 for key, value in self.metadata.items():
-                    escvalue = value.replace('"','`')
-                    f.write(f"[_metadata_:{key}]:- \"{escvalue}\"\n")
+                    escvalue = value.replace('"', "`")
+                    f.write(f'[_metadata_:{key}]:- "{escvalue}"\n')
                 f.write("---\n")
                 f.write(markdown)
 
@@ -204,7 +264,7 @@ class MagicWizardsConverterMany:
     def get_dirs(self) -> List[Path]:
         if not self.cache_path.exists():
             directories = []  # type: List[Path]
-            for (index, listing) in enumerate(self.path.iterdir()):
+            for index, listing in enumerate(self.path.iterdir()):
                 if self.search_term in listing.name:
                     to_process = self.path / listing
                     log.debug("[%d] Adding listing %s", index, to_process)
@@ -224,25 +284,32 @@ class MagicWizardsConverterMany:
         total = len(directories_to_process)
         log.info("Processing %d entries", total)
 
-        for (index, directory) in enumerate(directories_to_process):
-            log.debug("[%d/%d] Processing %s", index+1, total, directory)
+        for index, directory in enumerate(directories_to_process):
+            log.debug("[%d/%d] Processing %s", index + 1, total, directory)
             # Just pick a directory out of the subfolder for now
             for content_dir in directory.iterdir():
                 content_full = directory / content_dir
                 if content_full.is_dir():
                     # At least one content directory! Process it.
-                    log.info("[%d/%d] Processing %s", index+1, total, content_full)
-                    single = MagicWizardsConverterSingle(content_full, f"{index+1}/{total}", image_cache=self.image_cache)
+                    log.info("[%d/%d] Processing %s", index + 1, total, content_full)
+                    single = MagicWizardsConverterSingle(
+                        content_full, f"{index+1}/{total}", image_cache=self.image_cache
+                    )
                     single.process()
                     break
+
 
 if __name__ == "__main__":
     streamhandler = logging.StreamHandler(stream=sys.stdout)
     streamhandler.setLevel(logging.INFO)
-    streamhandler.setFormatter(logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s"))
+    streamhandler.setFormatter(
+        logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s")
+    )
     filehandler = logging.FileHandler(filename="magic_wizards.log", mode="w")
     filehandler.setLevel(logging.DEBUG)
-    filehandler.setFormatter(logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s"))
+    filehandler.setFormatter(
+        logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s")
+    )
 
     root_logger = logging.getLogger()
     root_logger.addHandler(streamhandler)
@@ -259,8 +326,16 @@ if __name__ == "__main__":
     db.generate_mapping(create_tables=True)
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--content", type=lambda p: Path(p).absolute(), help="Directory with all previously scraped content")
-    parser.add_argument("--single", type=lambda p: Path(p).absolute(), help="Path to directory containing HTML+JSON files")
+    parser.add_argument(
+        "--content",
+        type=lambda p: Path(p).absolute(),
+        help="Directory with all previously scraped content",
+    )
+    parser.add_argument(
+        "--single",
+        type=lambda p: Path(p).absolute(),
+        help="Path to directory containing HTML+JSON files",
+    )
     parser.add_argument("--searchterm", help="override default search term")
 
     args = parser.parse_args()

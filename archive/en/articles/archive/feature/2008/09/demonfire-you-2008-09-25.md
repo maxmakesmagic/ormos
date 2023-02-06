@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/demonfire-you-2008-09-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813213213id_/https://magic.wizards.com/en/articles/archive/feature/demonfire-you-2008-09-25"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 21:32:13+00:00"
-[_metadata_:publish_date]:- "2008-09-25"
 [_metadata_:description]:- "[decklist] Title: Thor Nordwick's Black No Hand Format: Kamigawa Block Constructed 1 Shizo, Death's Storehouse 22 Swamp 2 Akuta, Born of Ash 4 Nezumi Graverobber 3 Kagemaro, First to Suffer 4 Nezumi Shortfang 4 Yukora, the Prisoner 4 Hideous Laughter 2 Horobi's Whisper 1 Soulless Revival 1 Genju of the Fens 4 Umezawa's Jitte 4 Manriki-Gusari 4 Sickening Shoal *2 Horobi's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-25"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/be-friday-night-magic-modern-master-2015-05-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160507170334id_/http://magic.wizards.com/en/articles/archive/feature/be-friday-night-magic-modern-master-2015-05-22"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-07 17:03:34+00:00"
-[_metadata_:publish_date]:- "2015-05-22"
 [_metadata_:description]:- "Begin (or continue) your mastery of Modern this Friday night, and help make Magic history!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-05-22"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-january-31-february-6-2009-02-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121013906id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-january-31-february-6-2009-02-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 01:39:06+00:00"
-[_metadata_:publish_date]:- "2009-02-06"
 [_metadata_:description]:- "January 29-February 1, 1998: 1998 Duelist InvitationalOn February 1, 1998, Darwin Kastle capped off four days of Invitational action by defeating Jakub Slemr 3-2 in the final match, thus setting the stage for Avalanche Riders to enter Magic. The formats that year were, as always, an odd mixture from the mind of Mark Rosewater:Duplicate Limited: All competitors received an"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-06"
 ---
 
 

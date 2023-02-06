@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/searching-within-2008-11-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160719210404id_/http://magic.wizards.com/en/articles/archive/feature/searching-within-2008-11-03"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-19 21:04:04+00:00"
-[_metadata_:publish_date]:- "2008-11-03"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-03"
 ---
 
 

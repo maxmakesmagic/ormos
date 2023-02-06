@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guess-designer-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204040211id_/https://magic.wizards.com/en/articles/archive/feature/guess-designer-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 04:02:11+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "The sixteen competitors have submitted the cards that they want R&D to make if they win. We'll post who submitted which card later, but first, try to guess! Click here for the answers 's Angel WW Creature - Angel 2/1 Flying Sacrifice 's Angel, Choose and discard a white card: Destroy target artifact or enchantment. 's Elf 1GG Creature - Elf 2/2 Sacrifice a creature: Destroy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

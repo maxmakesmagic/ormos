@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intotheaether-loves-counters-2004-10-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128120714id_/https://magic.wizards.com/en/articles/archive/feature/intotheaether-loves-counters-2004-10-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:07:14+00:00"
-[_metadata_:publish_date]:- "2004-10-19"
 [_metadata_:description]:- "Pardon me a moment whilst I channel Robert Jordan... The Wheel of Magic Online turns, the Formats come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Format that gave it birth comes again. In one Format, called Sealed Leagues by some, a Format yet to come, a Format long past, a wind rose above the Trading Post. The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-10-19"
 ---
 
 

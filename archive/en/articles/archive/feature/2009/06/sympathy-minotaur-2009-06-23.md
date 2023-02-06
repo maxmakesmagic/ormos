@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sympathy-minotaur-2009-06-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161011001647id_/http://magic.wizards.com/en/articles/archive/feature/sympathy-minotaur-2009-06-23"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-11 00:16:47+00:00"
-[_metadata_:publish_date]:- "2009-06-23"
 [_metadata_:description]:- "&#13; Once worthy of guarding Wizards of the Coast itself, the Minotaur seems to be having a bad decade.&#13; &#13; Here we see our Greek friend absorbing four:&#13; Lightning Blast | Illustration by Richard Thomas&#13;  &#13; &#13; Victim to tainted brew:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-23"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124044724id_/https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:47:24+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team Result   Opponent Derf 300 vs. Horse You Rode In On Team Egghead 030 vs. Team $20 Dolla Billz Your Move Games 110 vs. A Few Good Men Crystal Pepsi 120 vs. Egghead Games Inc."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-auckland-winner-2012-11-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022165601id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-auckland-winner-2012-11-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 16:56:01+00:00"
-[_metadata_:publish_date]:- "2012-11-05"
 [_metadata_:description]:- "Congratulations to Walker MacMurdo, your Grand Prix Auckland champion."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-11-05"
 ---
 
 

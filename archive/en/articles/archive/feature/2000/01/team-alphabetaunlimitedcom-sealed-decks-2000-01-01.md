@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-alphabetaunlimitedcom-sealed-decks-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701113236id_/https://magic.wizards.com/en/articles/archive/feature/team-alphabetaunlimitedcom-sealed-decks-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-01 11:32:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team AlphaBetaUnlimited.com hopes to come out on top of the 163 teams in Columbus.Team AlphaBetaUnlimited.com is broken. Their finishes in the last 5 big money team events are sick - 1st, 1st, 1st, 2nd, 1st! That's insane! They've won 2 Grand Prixs and a Gateway and a Masters Series, dividing up $72,000 in the process. (And that's just in team events.) The original Ryan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

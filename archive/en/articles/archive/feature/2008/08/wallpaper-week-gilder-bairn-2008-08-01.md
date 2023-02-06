@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-gilder-bairn-2008-08-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160623130731id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-gilder-bairn-2008-08-01"
 [_metadata_:wayback_capture_timestamp]:- "2016-06-23 13:07:31+00:00"
-[_metadata_:publish_date]:- "2008-08-01"
 [_metadata_:description]:- "&#13; This week's desktop wallpaper is Nils Hamm's Gilder Bairn from the Eventide set. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-01"
 ---
 
 

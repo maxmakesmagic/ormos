@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mtgdailyfeature181a-2012-02-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170813060720id_/http://magic.wizards.com/en/articles/archive/feature/mtgdailyfeature181a-2012-02-03"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-13 06:07:20+00:00"
-[_metadata_:publish_date]:- "2012-02-03"
 [_metadata_:description]:- "Hello!I am Helene Bergeot, the Director of Organized Play, and I hope that you all had a great time at the Magic Dark Ascension Prerelease and Launch Parties!As we're already starting to prepare the Avacyn Restored events with your local WPN stores, we wanted to give you a quick heads up on a few changes we're implementing with this set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-02-03"
 ---
 
 

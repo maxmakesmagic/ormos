@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-august-2010-2010-08-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704054017id_/https://magic.wizards.com/en/articles/archive/feature/card-day-august-2010-2010-08-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-04 05:40:17+00:00"
-[_metadata_:publish_date]:- "2010-08-01"
 [_metadata_:description]:- "Sachi, Daughter of Seshiro – Champions of Kamigawa uncommon. The introduction of Snakes as a playable tribe (as opposed to just an unrelated group of creatures) meant that for the first time, players could look forward to drafting an entire family. In 2005 GP Leipzig, Niki Jedlicka successfully drafted Seshiro the Anointed, along with two Sachi, Daughter of Seshiro and Sosuke,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-08-01"
 ---
 
 

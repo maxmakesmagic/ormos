@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalker-tournament-2019-04-10?utm_source=share&utm_medium=ios_app"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191113074643id_/https://magic.wizards.com/en/articles/archive/feature/planeswalker-tournament-2019-04-10?utm_source=share&utm_medium=ios_app"
 [_metadata_:wayback_capture_timestamp]:- "2019-11-13 07:46:43+00:00"
-[_metadata_:publish_date]:- "2019-04-10"
 [_metadata_:description]:- "Think you know how the Planeswalkers in War of the Spark will shake out in bracketed competition? Prove it, and take them all home in foil!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-04-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fat-old-and-firebreathing-2007-03-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160129100444id_/http://magic.wizards.com/en/articles/archive/feature/fat-old-and-firebreathing-2007-03-28"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-29 10:04:44+00:00"
-[_metadata_:publish_date]:- "2007-03-28"
 [_metadata_:description]:- "Welcome to Fatty Week! I was hoping we'd have two weeks to explore this humongous topic, but it likes we'll have to shoehorn all of our big-butted-beastie goodness into the one-piece spandex-suit that is the five-day work week. We don't have much time (or space), so we'd best start the shoehorning pronto."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-03-28"
 ---
 
 

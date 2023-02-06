@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/solar-flare-2010-01-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027042401id_/https://magic.wizards.com/en/articles/archive/feature/solar-flare-2010-01-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 04:24:01+00:00"
-[_metadata_:publish_date]:- "2010-01-18"
 [_metadata_:description]:- "[decklist] Title: SorryMsJackson's Solar Flare Format: Magic Online Standard 4 Arcane Sanctum 4 Drowned Catacomb 4 Glacial Fortress 3 Island 4 Marsh Flats 4 Plains 3 Swamp 3 Iona, Shield of Emeria 3 Sphinx of Lost Truths 2 Agony Warp 4 Courier's Capsule 3 Day of Judgment 4 Esper Charm 2 Essence Scatter 3 Flashfreeze 2 Into the Roil 2 Negate 3 Path to Exile 3 Rise from the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-18"
 ---
 
 

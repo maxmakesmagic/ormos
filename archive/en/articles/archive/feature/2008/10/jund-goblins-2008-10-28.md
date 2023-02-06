@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jund-goblins-2008-10-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128124431id_/https://magic.wizards.com/en/articles/archive/feature/jund-goblins-2008-10-28"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-28 12:44:31+00:00"
-[_metadata_:publish_date]:- "2008-10-28"
 [_metadata_:description]:- "[decklist] Title: HKDizzy's Jund Goblins Format: Standard 4 Karplusan Forest 4 Fire-Lit Thicket 2 Graven Cairns 2 Sulfurous Springs 4 Auntie's Hovel 7 Mountain 3 Boartusk Liege 4 Mogg Fanatic 4 Figure of Destiny 3 Vexing Shusher 3 Boggart Ram-Gang 2 Murderous Redcap 2 Chameleon Colossus 2 Siege-Gang Commander 4 Dragon Fodder 3 Goblin Assault 3 Boggart Shenanigans 4 Blightning"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-28"
 ---
 
 

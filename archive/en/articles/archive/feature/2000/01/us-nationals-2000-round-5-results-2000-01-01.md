@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528054140id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-28 05:41:40+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Akbar, David Lovin, Mark Won, 2-1 Allen, Dustin Hale, Yancy Lost, 0-2 Armstrong, Herman Bragg, Tillman Drew, 1-1 Aubertin, Justin Horner, Brian Won, 2-1 Beckmon, Jon Johnson, Jake Lost, 0-2 Benafel, Chris Regnier, Shawn Won, 2-1 Bhattacharyya, Sayan Swoyer, Mark Won, 2-0 Bigos, Kyle Fung, Elliot Lost, 0-2 Blackwell, Trevor Guevin, Tom Lost, 0-1 Boneau,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

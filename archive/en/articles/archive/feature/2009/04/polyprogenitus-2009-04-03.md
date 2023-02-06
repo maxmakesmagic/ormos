@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/polyprogenitus-2009-04-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815101741id_/https://magic.wizards.com/en/articles/archive/feature/polyprogenitus-2009-04-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-15 10:17:41+00:00"
-[_metadata_:publish_date]:- "2009-04-03"
 [_metadata_:description]:- "[decklist] Title: emale's Polymorph Control Format: Magic Online Classic 1 Diamond Valley 4 Flooded Strand 6 Island 4 Mishra's Factory 2 Mutavault 2 Polluted Delta 4 Tundra 1 Progenitus 4 Brainstorm 3 Counterbalance 3 Counterspell 1 Crucible of Worlds 2 Daze 1 Elspeth, Knight-Errant 4 Force of Will 1 Mystical Tutor 2 Polymorph 1 Proteus Staff 3 Sensei's Divining Top 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-03"
 ---
 
 

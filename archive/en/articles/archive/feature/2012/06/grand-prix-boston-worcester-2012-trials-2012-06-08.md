@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-boston-worcester-2012-trials-2012-06-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119151733id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-boston-worcester-2012-trials-2012-06-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 15:17:33+00:00"
-[_metadata_:publish_date]:- "2012-06-08"
 [_metadata_:description]:- "Grand Prix Boston-Worcester Trials will be run at WPN locations from June 30 to August 12, 2012. Each awards the winner a three-round bye to Grand Prix Boston-Worcester.WPN Locations in the Boston-Worcester, Massachusetts Area Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-08"
 ---
 
 

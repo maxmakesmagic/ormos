@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-potato-peach-vs-alphabetaunlimitedcom-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701203351id_/https://magic.wizards.com/en/articles/archive/feature/round-7-potato-peach-vs-alphabetaunlimitedcom-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-01 20:33:51+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Yusuke Osaka vs. Chris Benafel Chris Benafel started out with a Crimson Acolyte, but upon finding out that Yusukewasn't playing red, he traded up for a Sawtooth Loon, which was soon joined by a Razorfoot Griffin. Yusuke's ground army, led by a Charging Troll and a Mirrorwood Treefolk, was big enough to race the flyers, and when he added a kicked Canopy Surge, he would have"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

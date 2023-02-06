@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-decklists-2015-10-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707135750id_/http://magic.wizards.com/en/articles/archive/feature/masters-decklists-2015-10-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:57:50+00:00"
-[_metadata_:publish_date]:- "2015-10-15"
 [_metadata_:description]:- "&#13; &#13; [decklist]&#13; Title: Kurt Burgner (USA) — Sligh&#13; Format: &#13; 4 Wasteland&#13; 3 Rishadan Port&#13; 10 Mountain&#13; 3 Cursed Scroll&#13; 4 Pillage&#13; 3 Price of Progress&#13; 4 Jackal Pup&#13; 4 Mogg Fanatic&#13; 2 Ball Lightning&#13; 2 Viashino Sandstalker&#13; 4 Incinerate&#13; 4 Fireblast&#13; 2 Shock&#13; 2 Seal of Fire&#13; 2 Hammer of Bogardan&#13; 1 Ghitu Encampment&#13; *3 Bottle Gnomes&#13; *1 Dwarven Miner&#13; *2 Ruination&#13; *4 Pyroblast&#13; *3 Pyrokinesis&#13; *2 Anarchy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-10-15"
 ---
 
 

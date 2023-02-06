@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kitakyuushuu-2007-08-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026190812id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kitakyuushuu-2007-08-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 19:08:12+00:00"
-[_metadata_:publish_date]:- "2007-08-21"
 [_metadata_:description]:- "Entry Fee The entry fee for all Grand Prix—Kitakyuushuu Trial tournaments in Japan is ¥3,000. Format The format for all Grand Prix—Kitakyuushuu Trial tournaments is Limited (Sealed Deck + Booster Draft playoffs). For information on this format, please refer to the DCI™ Universal Tournament Rule and Magic Floor Rules documents on the DCI Document Center."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-08-21"
 ---
 
 

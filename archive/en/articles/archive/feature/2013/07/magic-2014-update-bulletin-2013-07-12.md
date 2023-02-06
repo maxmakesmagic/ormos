@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2014-update-bulletin-2013-07-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191128201315id_/https://magic.wizards.com/en/articles/archive/feature/magic-2014-update-bulletin-2013-07-12"
 [_metadata_:wayback_capture_timestamp]:- "2019-11-28 20:13:15+00:00"
-[_metadata_:publish_date]:- "2013-07-12"
 [_metadata_:description]:- "Four years ago, the  Magic 2010 rules changes hit, revolutionizing not only what a core set could be, but redefining the game as we know it. It helped pave the way to unprecedented growth and success for Magic since then. This year's core set update isn't quite that dramatic, but it does includea significant set of changes, and it's time to review them with all of you."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-12"
 ---
 
 

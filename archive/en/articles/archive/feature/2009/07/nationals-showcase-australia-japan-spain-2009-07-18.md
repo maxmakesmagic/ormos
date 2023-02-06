@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nationals-showcase-australia-japan-spain-2009-07-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526123105id_/https://magic.wizards.com/en/articles/archive/feature/nationals-showcase-australia-japan-spain-2009-07-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:31:05+00:00"
-[_metadata_:publish_date]:- "2009-07-18"
 [_metadata_:description]:- "The Road to Worlds begins in earnest for three major Magic-playing countries this weekend. Invitations to Rome and the opportunity to represent your country on the biggest Magic stage are up for grabs. How will Magic 2010 change Standard? With Pro Points on the line for top finishers, these are sure to showcase exicting play by some of the biggest names in Magic. Follow along"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-18"
 ---
 
 

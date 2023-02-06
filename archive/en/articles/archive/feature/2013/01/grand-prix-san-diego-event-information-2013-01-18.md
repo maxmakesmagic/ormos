@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-event-information-2013-01-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502211510id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-event-information-2013-01-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 21:15:10+00:00"
-[_metadata_:publish_date]:- "2013-01-18"
 [_metadata_:description]:- "Information Grand Prix San Diego is brought to you by Cascade Games, LLC.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpsd Date: March 15-17, 2013 Format: Modern Tournament Location San Diego Convention Center (Hall H) 111 West Harbor Drive San Diego,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-18"
 ---
 
 

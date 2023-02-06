@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-one-individual-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030190931id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-one-individual-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:09:31+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Table Name   Name 1 Finkel, Jon (USA) vs. Dols, Roel (HOL) 2 Benafel, Chris (USA) vs. Remie, Jeroen (HOL) 3 Hernandez, Frank (USA) vs. van de Logt, Tom (HOL) 4 Forsythe, Aaron (USA) vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

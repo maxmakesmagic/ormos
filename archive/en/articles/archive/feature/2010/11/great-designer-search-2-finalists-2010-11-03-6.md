@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-6"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005243id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-6"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:43+00:00"
-[_metadata_:publish_date]:- "2010-11-03"
 [_metadata_:description]:- "NAME: Jonathan WoodwardMULTIPLE CHOICE SCORE: 47ESSAYS:1. Introduce yourself and explain why you are a good fit for this internship.My name is Jonathan Woodward, and I have a lifelong interest in designing and improving games. In 8th grade, I invented stats for new races in my favorite role-playing game for my friends to play. I continued through high school, where I wrote"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-11-03"
 ---
 
 

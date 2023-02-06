@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchantress-2010-03-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807154302id_/https://magic.wizards.com/en/articles/archive/feature/enchantress-2010-03-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-07 15:43:02+00:00"
-[_metadata_:publish_date]:- "2010-03-03"
 [_metadata_:description]:- "[decklist] Title: Tomas Krejsa's Enchantress Format: Legacy at Pro Tour–San Diego 6 Forest 2 Horizon Canopy 4 Plains 2 Savannah 2 Serra's Sanctum 1 Taiga 3 Windswept Heath 4 Argothian Enchantress 3 Chrome Mox 2 City of Solitude 4 Elephant Grass 4 Enchantress's Presence 1 Enlightened Tutor 1 Mirri's Guile 1 Moat 1 Oblivion Ring 2 Replenish 2 Runed Halo 2 Sigil of the Empty"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-03"
 ---
 
 

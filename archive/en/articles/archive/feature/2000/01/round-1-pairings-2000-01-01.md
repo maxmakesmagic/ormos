@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706011909id_/https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-06 01:19:09+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Kai Budde vs. Jason Zila Mark Le Pine vs. Tony Dobson Ben Rubin vs. Gary Wise Trevor Blackwell vs. Jon Finkel Kyle Rose vs. Raffaele Lo Moro Warren Marsh vs. Justin Gary Alex Shvartsman vs. Zvi Mowshowitz Sigurd Eskeland vs. Steve O'Mahoney-Schwartz Darwin Kastle vs. Trey Van Cleave Raphael Levy vs. Kurt Burgner Alan Comer vs. Dirk Baberowski Dave Humpherys vs. Christian Luhrs"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

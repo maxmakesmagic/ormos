@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/legendary-cube-2015-11-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151115092632id_/http://magic.wizards.com/en/articles/archive/feature/legendary-cube-2015-11-09"
 [_metadata_:wayback_capture_timestamp]:- "2015-11-15 09:26:32+00:00"
-[_metadata_:publish_date]:- "2015-11-09"
 [_metadata_:description]:- "There's a new cube coming to Magic Online, and it's going to be legendary."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-11-09"
 ---
 
 

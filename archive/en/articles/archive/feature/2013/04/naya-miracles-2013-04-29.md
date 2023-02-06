@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/naya-miracles-2013-04-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016151233id_/https://magic.wizards.com/en/articles/archive/feature/naya-miracles-2013-04-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 15:12:33+00:00"
-[_metadata_:publish_date]:- "2013-04-29"
 [_metadata_:description]:- "We've seen dedicated Miracle decks before, most notably in Pro Tour Avacyn Restored , but also in Legacy. They've always been WU Control decks. Today's deck uses the X spell miracles, Entreat the Angels and Bonfire of the Damned, to go over other midrange decks, sporting a healthy three different Keyrunes (on top of the ubiquitous Farseek) to build up to large miracles in a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-04-29"
 ---
 
 

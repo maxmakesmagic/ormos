@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-onlinenew-phyrexia-prerelease-2011-05-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528231704id_/https://magic.wizards.com/en/articles/archive/feature/magic-onlinenew-phyrexia-prerelease-2011-05-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-28 23:17:04+00:00"
-[_metadata_:publish_date]:- "2011-05-17"
 [_metadata_:description]:- "It came not in the form of a noble struggle, a fair contest of warriors clashing will against will, but as a wave of unstoppable slaughter. Mirran partisans resisted bravely, using their wits and magic to fend off the onslaught that originated from inside their own world. But their efforts were for naught. Phyrexia is victorious. Mirrodin now goes by a different name: New"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-05-17"
 ---
 
 

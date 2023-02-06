@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/forging-armor-2013-05-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519112329id_/https://magic.wizards.com/en/articles/archive/feature/forging-armor-2013-05-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 11:23:29+00:00"
-[_metadata_:publish_date]:- "2013-05-16"
 [_metadata_:description]:- "The Bant Hexproof deck continues to improve, as Robert Rusch demonstrated in Charlotte last weekend. Unflinching Courage is an obvious fit, as it pairs with other enchantments to make it almost impossible for the opponent to race, but it's possible that the bigger upgrade is Voice of Resurgence. Voice of Resurgence serves an important dual purpose in this deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-16"
 ---
 
 

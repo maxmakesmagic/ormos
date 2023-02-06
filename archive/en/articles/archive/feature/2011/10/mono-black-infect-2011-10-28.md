@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-black-infect-2011-10-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170611120844id_/http://magic.wizards.com/en/articles/archive/feature/mono-black-infect-2011-10-28"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-11 12:08:44+00:00"
-[_metadata_:publish_date]:- "2011-10-28"
 [_metadata_:description]:- "With Zendikar block out of Standard, some under-the-radar archetypes from Scars of Mirrodin block have been given a new stage to shine on. Take, for example, Mono-Black Infect. After the archetype was championed by sage deck builder Gerry Thompson all week, former U.S. National Champion Joshua Wagener took it to the Top 8 of the StarCityGames.com Open Series in Baltimore. Try out this powerful budget-friendly option tonight at Friday Night Magic!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-10-28"
 ---
 
 

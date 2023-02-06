@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mulligans-new-beginning-2005-11-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160216045308id_/http://magic.wizards.com/en/articles/archive/feature/mulligans-new-beginning-2005-11-16"
 [_metadata_:wayback_capture_timestamp]:- "2016-02-16 04:53:08+00:00"
-[_metadata_:publish_date]:- "2005-11-16"
 [_metadata_:description]:- "Last week I mentioned that Scott Johns and I were going to be making some adjustments to how this column is put together. That's still true, but this week we're going to try something. Rather than tell you what's different, I'm going to just write the new article. Next week I'll go into more detail regarding what changes we're making and why. For now, I hope you'll read this article on its own merits and then take a moment in the message boards to let us know how you liked it. Ready?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-16"
 ---
 
 

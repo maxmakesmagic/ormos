@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jawbone-skulkin-2009-07-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812084428id_/https://magic.wizards.com/en/articles/archive/feature/jawbone-skulkin-2009-07-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 08:44:28+00:00"
-[_metadata_:publish_date]:- "2009-07-13"
 [_metadata_:description]:- "[decklist] Title: William's Vanguard Etherium Format: Magic Online Standard with Vanguard 2 Adarkar Wastes 4 Arcane Sanctum 2 Caves of Koilos 4 Island 3 Plains 3 Swamp 2 Underground River 4 Etherium Sculptor 4 Glaze Fiend 4 Heap Doll 4 Jawbone Skulkin 4 Master of Etherium 4 Meddling Mage 4 Salvage Titan 4 Tidehollow Sculler 4 Tidehollow Strix 4 Path to Exile *4 Ethersworn"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-13"
 ---
 
 

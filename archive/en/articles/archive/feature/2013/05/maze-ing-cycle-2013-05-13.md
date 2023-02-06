@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/maze-ing-cycle-2013-05-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170327011800id_/http://magic.wizards.com/en/articles/archive/feature/maze-ing-cycle-2013-05-13"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-27 01:18:00+00:00"
-[_metadata_:publish_date]:- "2013-05-13"
 [_metadata_:description]:- "&#13; Cycles aren't new to Magic, and Dragon's Maze as well as all of the Return to Ravnica block has plenty of them, but here's one that is not only a cycle which is tied mechanically but they also all have the work of the same artist.&#13; &#13; I am talking about this cycle drawn by Yeong-Hao Han:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-13"
 ---
 
 

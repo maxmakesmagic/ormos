@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/knowing-where-look-pro-tour-dark-ascension-preview-2012-06-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150911164343id_/http://magic.wizards.com/en/articles/archive/feature/knowing-where-look-pro-tour-dark-ascension-preview-2012-06-04"
 [_metadata_:wayback_capture_timestamp]:- "2015-09-11 16:43:43+00:00"
-[_metadata_:publish_date]:- "2012-06-04"
 [_metadata_:description]:- "A long time ago, when I was a kid, coverage of major sporting events was rubbish. Soccer? You'd get one live match each year—the FA Cup final. The US Masters golf? A half-hour highlights package. Maybe three weeks later. An entire season of American football (or, to the initiated, just plain `football`) was condensed into an hour, at the end of which ninety seconds sufficed to cover the Super Bowl."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-03"
 ---
 
 

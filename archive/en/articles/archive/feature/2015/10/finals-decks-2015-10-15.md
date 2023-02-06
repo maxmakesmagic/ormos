@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-decks-2015-10-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210725064318id_/https://magic.wizards.com/en/articles/archive/feature/finals-decks-2015-10-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-07-25 06:43:18+00:00"
-[_metadata_:publish_date]:- "2015-10-15"
 [_metadata_:description]:- "Your Move Games [decklist] Title: Darwin Kastle Format: Your Move Games 7 Swamp 7 Mountain 3 Island 1 Crosis's Catacombs 1 Shoreline Raider 1 Hate Weaver 1 Phyrexian Reaper 1 Urborg Emissary 1 Urborg Phantom 1 Kavu Scout 1 Viashino Grappler 1 Morgue Toad 2 Nightscape Familiar 2 Mire Kavu 1 Marsh Crocodile 1 Dodecapod 2 Emblazoned Golem 1 Dwarven Patrol 1 Kavu Glider 1 Raka"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "1969-12-31"
 ---
 
 

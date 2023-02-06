@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-nov-14-20-2009-12-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122160804id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-nov-14-20-2009-12-04"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-22 16:08:04+00:00"
-[_metadata_:publish_date]:- "2009-12-04"
 [_metadata_:description]:- "November 30-December 4, 2005: Japan's Crowning Achievement When the World Championships came to Yokohama, it felt right at home. Matching a feat only performed by the United States in the history of Magic, the host nation of these 2005 World Championships claimed the World Championship (Katsuhiro Mori), World Team Championship (Takuma Morofuji, Masashi Oiso and Ichirou Shimura"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-12-04"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/moneymohons-white-black-draft-2009-10-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025233823id_/https://magic.wizards.com/en/articles/archive/feature/moneymohons-white-black-draft-2009-10-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 23:38:23+00:00"
-[_metadata_:publish_date]:- "2009-10-20"
 [_metadata_:description]:- "[decklist] Title: Money_Mohon's White-Black Draft Format: Money_Mohon's White-Black 1 Mountain 11 Plains 5 Swamp 1 Terramorphic Expanse 1 Child of Night 2 Elite Vanguard 1 Griffin Sentinel 1 Rhox Pikemaster 1 Siege Mastodon 1 Silvercoat Lion 2 Stormfront Pegasus 2 Veteran Armorsmith 1 Armored Ascension 1 Assassinate 1 Divine Verdict 2 Doom Blade 1 Earthquake 1 Honor of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-20"
 ---
 
 

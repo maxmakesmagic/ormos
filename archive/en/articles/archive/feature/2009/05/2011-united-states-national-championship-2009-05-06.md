@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2011-united-states-national-championship-2009-05-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161005064258id_/http://magic.wizards.com/en/articles/archive/feature/2011-united-states-national-championship-2009-05-06"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-05 06:42:58+00:00"
-[_metadata_:publish_date]:- "2009-05-06"
 [_metadata_:description]:- "Date: August 5-7, 2011Event Location: GEN CON - Indianapolis Convention CenterAddress: South Capitol Ave, Indianapolis, IndianaEligibilityThe Magic: the Gathering United States National Championship is an invitation-only event, open to citizens or permanent residents of United States who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-06"
 ---
 
 

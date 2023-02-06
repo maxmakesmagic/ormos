@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/best-decks-worlds-2006-12-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615181743id_/http://magic.wizards.com/en/articles/archive/feature/best-decks-worlds-2006-12-07"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-15 18:17:43+00:00"
-[_metadata_:publish_date]:- "2006-12-07"
 [_metadata_:description]:- "After a tournament as big and important as the 2006 World Championships (especially one with two out of three formats being Constructed), there is one thing that the average Swimming With Sharks reader is interested in: decklists! The World Champion's Deck: Dragonstorm First thing's first, the 2006 World Champion:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-12-07"
 ---
 
 

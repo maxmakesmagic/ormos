@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gateway-top-8-chris-senhouse-vs-craig-wescoe-2015-10-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140315id_/http://magic.wizards.com/en/articles/archive/feature/gateway-top-8-chris-senhouse-vs-craig-wescoe-2015-10-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:03:15+00:00"
-[_metadata_:publish_date]:- "2015-10-15"
 [_metadata_:description]:- "by Sideboard Staff Chris Senhouse, editor-in-chief of The Dojo, faced off in the Top 8 of the first Masters Gateway tournament against Craig Wescoe, known for building Brian Davis' runner-up deck for Pro Tour Chicago."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-10-15"
 ---
 
 

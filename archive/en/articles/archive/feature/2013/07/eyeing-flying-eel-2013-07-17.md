@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eyeing-flying-eel-2013-07-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161231003418id_/http://magic.wizards.com/en/articles/archive/feature/eyeing-flying-eel-2013-07-17"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-31 00:34:18+00:00"
-[_metadata_:publish_date]:- "2013-07-17"
 [_metadata_:description]:- "&#13; Everybody reading this knows who Jace is. At least I hope they do. He's kind of a big deal in Magic. In Magic 2014 he looks like this:&#13; &#13; &#13; &#13; &#13;  &#13; &#13; And in Magic 2014 he got a new friend. A blue flying eel: Jace's Mindseeker!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-07-17"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-cat-old-school-2012-07-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026014031id_/https://magic.wizards.com/en/articles/archive/feature/new-cat-old-school-2012-07-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 01:40:31+00:00"
-[_metadata_:publish_date]:- "2012-07-24"
 [_metadata_:description]:- "If you have been following competitive Magic much over the past eight years or so, you know that at times, green has had it rough. It was almost not a color that mattered at certain points in our recent history, and that never felt good for the green mage. Over the past few years though, green has both caught up and surpassed many other colors in plenty of categories,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-07-24"
 ---
 
 

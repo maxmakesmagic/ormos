@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcteam-list-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523184621id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcteam-list-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 18:46:21+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team Name Invitation Origin Given Name Surname 770 QTToronto Mal Andrews 770 QTToronto Michael Croft 770 QTToronto Boyd Hardie Alliance Pro Teams Sturla Bingen Alliance Pro Teams Thomas Guevin Alliance Pro Teams Shawn Regnier Babes of the Dingo Pro Teams Donald Gallitz Babes of the Dingo Pro Teams Michael Katz Babes of the Dingo Pro Teams Kyle Rose Big Dogs Top 25 DCI, prv."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

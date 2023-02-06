@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/parlez-vous-vorthos-2006-08-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531222113id_/https://magic.wizards.com/en/articles/archive/feature/parlez-vous-vorthos-2006-08-31"
 [_metadata_:wayback_capture_timestamp]:- "2020-05-31 22:21:13+00:00"
-[_metadata_:publish_date]:- "2006-08-31"
 [_metadata_:description]:- "Welcome to “End of Turn Week!” I have been waiting for a theme week like this to really dig into some truly flavorful stuff. The impact that the end of turn has on art, flavor text, and Magic world-building in general is as far-reaching as any other facet of the game. Only slightly more powerful than that is the stench of the viscous sarcasm that drips off of the first three sentences of this article!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-08-31"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/izzet-aether-2006-03-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170113104901id_/http://magic.wizards.com/en/articles/archive/feature/izzet-aether-2006-03-02"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-13 10:49:01+00:00"
-[_metadata_:publish_date]:- "2006-03-02"
 [_metadata_:description]:- "Magicthegathering.com has a wide variety of weekly columns, and each theme week, many turn their focus on the theme at hand. Since Magic Online mirrors the paper Magic world, it's tough sometimes to distinguish an approach to the theme that's exclusively MTGO in flavor. That's why I turn so often to Vanguard, an (almost) uniquely Magic Online experience, so this week The Izzet guild gets the Vanguard treatment."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-03-02"
 ---
 
 

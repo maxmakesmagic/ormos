@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-february-5-11-2011-2011-02-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022232146id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-february-5-11-2011-2011-02-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 23:21:46+00:00"
-[_metadata_:publish_date]:- "2011-02-11"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site.The Mirrodin Site continues to have daily updates. And among those updates are the occasional Field Report. On the Mirran side, both Kessla of Temple Might and Ria of Bladehold have updated. And for the Phyrexians, Unctus of the Synod continues his story.There are"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-02-11"
 ---
 
 

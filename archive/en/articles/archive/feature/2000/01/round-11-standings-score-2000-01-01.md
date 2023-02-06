@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-11-standings-score-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702072549id_/https://magic.wizards.com/en/articles/archive/feature/round-11-standings-score-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-02 07:25:49+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 www.alphabetaunlimited.com 3070.4545% 2 Voice of Soul 2865.6775% 3 Poor Shark 2863.9448% 4 Fire Beat 2767.9816% 5 Susiyan 2765.2519% 6 Dekiru-Kana?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

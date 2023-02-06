@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-mexico-city-event-information-2011-12-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522173514id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-mexico-city-event-information-2011-12-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:35:14+00:00"
-[_metadata_:publish_date]:- "2011-12-23"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Facebook Event Official hashtag: #gpmex Date: March 24-25, 2012 Format: Innistrad/Dark Ascension Sealed Deck / Booster Draft Tournament Location Expo Reforma Morelos #67 Colonia Juarez, D.F. CP 06600 Registration: $40 USD or 500 pesos Friday, March 23: 3 p.m.–"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-12-23"
 ---
 
 

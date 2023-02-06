@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93massachussetts-2007-02-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018012726id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93massachussetts-2007-02-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 01:27:26+00:00"
-[_metadata_:publish_date]:- "2007-02-19"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format DocumentFormatSwiss Rounds: Two-Headed Giant Sealed Deck, Top 4 Teams: Two-Headed Giant Booster DraftSealed Deck Product:Events prior to February 2, 2007: 1 Time Spiral tournament pack and 4 Time Spiral boosters per team."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-02-19"
 ---
 
 

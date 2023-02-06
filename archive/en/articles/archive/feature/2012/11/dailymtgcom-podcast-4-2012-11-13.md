@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-4-2012-11-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124204718id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-4-2012-11-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-24 20:47:18+00:00"
-[_metadata_:publish_date]:- "2012-11-13"
 [_metadata_:description]:- "This is the biweekly audio podcast for DailyMTG.com. Intro music by Bern Menth. Episode 4 - `Unlimited Resources`: (51:34) This episode’s guest is Ryan Spain, who, along with Tifa, Mike, and Trick discuss Magic Online and Ryan’s role with it as well as the Wide Beta which is underway. Along with Magic Online the discussion turns to Return to Ravnica and to Ryan’s favorite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-11-13"
 ---
 
 

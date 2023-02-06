@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/various-victuals-2006-03-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521062921id_/https://magic.wizards.com/en/articles/archive/feature/various-victuals-2006-03-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 06:29:21+00:00"
-[_metadata_:publish_date]:- "2006-03-18"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. This week we have a wide array of topics. Though I try to avoid being too repetitive, some questions recur often enough that I've given them added"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-03-18"
 ---
 
 

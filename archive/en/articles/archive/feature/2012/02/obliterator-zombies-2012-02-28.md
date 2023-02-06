@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/obliterator-zombies-2012-02-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161029212203id_/http://magic.wizards.com/en/articles/archive/feature/obliterator-zombies-2012-02-28"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-29 21:22:03+00:00"
-[_metadata_:publish_date]:- "2012-02-28"
 [_metadata_:description]:- "Right after Dark Ascension's release, we took a look at Craig Wescoe's Blue-Black Zombie deck, which put the persistentundyingInnistrad tribe to good use. At Grand Prix Baltimore this past weekend, Matt Scott followed up on the archetype by putting up a Top 8 finish with the shambling monsters!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-02-28"
 ---
 
 

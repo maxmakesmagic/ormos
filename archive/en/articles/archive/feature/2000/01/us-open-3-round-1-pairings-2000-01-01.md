@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-1-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206090513id_/https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-1-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 09:05:13+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Table Opponent Allen, Chris ( 28) 148 Moore, Robert ( 94) Allen, Dustin ( 17) 151 Sandler, Noah ( 86) Andrews, Steve ( 31) 138 Thomsen, Skye ( 97) Angle, Keith ( 4) *** BYE *** Austin, Ty ( 68) 146 Daly, Kevin ( 19) Banks, David ( 42) 143 McAndrew, Michael ( 99) Bronson, Robert ( 18) 124 Fink, Jeffery (100) Buddensick, Dan ( 50) 102 Tommie, Roger (107) Bullard, Chip ("
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

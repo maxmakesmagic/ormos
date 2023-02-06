@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tezzerator-2008-11-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170804161754id_/http://magic.wizards.com/en/articles/archive/feature/tezzerator-2008-11-04"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-04 16:17:54+00:00"
-[_metadata_:publish_date]:- "2008-11-04"
 [_metadata_:description]:- "[decklist] Title: Kenny Öberg, The Tezzerator Format: Pro Tour-Berlin Top 8 1 Great Furnace 4 Flooded Strand 1 Riptide Laboratory 1 Breeding Pool 3 Polluted Delta 2 Academy Ruins 6 Island 3 Steam Vents 1 Miren, the Moaning Well 1 Venser, Shaper Savant 3 Vendilion Clique 4 Trinket Mage 1 Pyrite Spellbomb 2 Engineered Explosives 2 Cryptic Command 2 Chalice of the Void 4 Chrome Mox 2 Vedalken Shackles 4 Thirst for Knowledge 3 Spell Snare"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-04"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hypergenesis-2009-07-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813132527id_/https://magic.wizards.com/en/articles/archive/feature/hypergenesis-2009-07-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 13:25:27+00:00"
-[_metadata_:publish_date]:- "2009-07-14"
 [_metadata_:description]:- "[decklist] Title: KwaaartzZ's Hypergenesis Format: Magic Online Extended 4 City of Brass 4 Forbidden Orchard 3 Gemstone Caverns 4 Gemstone Mine 4 Tendo Ice Bridge 2 Akroma, Angel of Wrath 4 Bogardan Hellkite 4 Hellkite Overlord 1 Karrthus, Tyrant of Jund 1 Kiki-Jiki, Mirror Breaker 4 Magister Sphinx 1 Rorix Bladewing 4 Simian Spirit Guide 3 Street Wraith 4 Ardent Plea 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-14"
 ---
 
 

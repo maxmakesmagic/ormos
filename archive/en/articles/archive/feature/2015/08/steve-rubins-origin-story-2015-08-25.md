@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/steve-rubins-origin-story-2015-08-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150827042911id_/http://magic.wizards.com/en/articles/archive/feature/steve-rubins-origin-story-2015-08-25"
 [_metadata_:wayback_capture_timestamp]:- "2015-08-27 04:29:11+00:00"
-[_metadata_:publish_date]:- "2015-08-25"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Steve Rubin's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-08-25"
 ---
 
 

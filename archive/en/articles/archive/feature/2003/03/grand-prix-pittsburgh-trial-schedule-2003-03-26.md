@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-pittsburgh-trial-schedule-2003-03-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810091944id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-pittsburgh-trial-schedule-2003-03-26"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-10 09:19:44+00:00"
-[_metadata_:publish_date]:- "2003-03-26"
 [_metadata_:description]:- "Entry Fee: Varies by location. Contact organizer for detailsTournament Structure: Modified SwissTournament Format: Onslaught Block Team Limited, Top 4 Team Rochester DraftPrizes: At least 1 second-round bye at each tournament, plus product prizes determined by organizer.StateCityDate2-Round ByesLocationAddressContact PhoneWebsite ArkansasLittle Rock4/27/20031Family Games"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-03-26"
 ---
 
 

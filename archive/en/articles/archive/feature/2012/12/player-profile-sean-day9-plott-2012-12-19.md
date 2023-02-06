@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/player-profile-sean-day9-plott-2012-12-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170516042435id_/http://magic.wizards.com/en/articles/archive/feature/player-profile-sean-day9-plott-2012-12-19"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-16 04:24:35+00:00"
-[_metadata_:publish_date]:- "2012-12-19"
 [_metadata_:description]:- "Getting to Know You    Name: Sean `Day[9]` Plott Age: 26 Occupation: gamer, shoutcaster, vlogger"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-12-19"
 ---
 
 

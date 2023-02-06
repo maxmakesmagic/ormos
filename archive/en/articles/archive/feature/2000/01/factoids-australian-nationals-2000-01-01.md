@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/factoids-australian-nationals-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124042026id_/https://magic.wizards.com/en/articles/archive/feature/factoids-australian-nationals-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:20:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "(As a feature for Sideboard Online readers, the Sideboard staff has compiled interesting observations from this event.)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

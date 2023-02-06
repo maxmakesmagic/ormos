@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/token-opposition-2013-09-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019034750id_/https://magic.wizards.com/en/articles/archive/feature/token-opposition-2013-09-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 03:47:50+00:00"
-[_metadata_:publish_date]:- "2013-09-19"
 [_metadata_:description]:- "Now this is a brew. When looking at Legacy results, I first saw the creatures, and wasn't overly surprised. Four Deathrite Shaman and four Young Pyromancer is an interesting start, but not mind-blowing. I moved on over to the spells, and was instantly intrigued. Opposition? Intangible Virtue?? Battle Screech??? This is not your typical Legacy deck, and it has enough going on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-19"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/so-you-want-go-grand-prix-2013-03-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707014921id_/https://magic.wizards.com/en/articles/archive/feature/so-you-want-go-grand-prix-2013-03-07"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-07 01:49:21+00:00"
-[_metadata_:publish_date]:- "2013-03-07"
 [_metadata_:description]:- "More people than ever are going to Grand Prix events. And you could be one of them! Here's how: . And now that you know all about how to attend a Grand Prix, you might be interested in knowing that there are Grand Prix events in Verona, Italy, and Rio de Janeiro this weekend. In fact, let's just take a look at the whole schedule for the rest of the year. 2013 Season The Grand"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-03-07"
 ---
 
 

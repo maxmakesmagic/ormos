@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/some-number-questions-about-knights-vs-dragons-2011-03-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161209052949id_/http://magic.wizards.com/en/articles/archive/feature/some-number-questions-about-knights-vs-dragons-2011-03-28"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-09 05:29:49+00:00"
-[_metadata_:publish_date]:- "2011-03-28"
 [_metadata_:description]:- "*/  If you want a wise answer, ask a reasonable question.—Johann Wolfgang Von Goethe (1749-1832), German poet, novelist and dramatist"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-03-28"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cooking-gas-electricity-2008-05-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160812052700id_/http://magic.wizards.com/en/articles/archive/feature/cooking-gas-electricity-2008-05-01"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-12 05:27:00+00:00"
-[_metadata_:publish_date]:- "2008-05-01"
 [_metadata_:description]:- "Welcome to Hybrid Week! Boy, do you ever have a lot of options when `hybrid` is your theme. My first instinct was to write a `hybrid` column, half House of Cards, half post-game recap of the latest NBA playoff game between the Phoenix Suns and the San Antonio Spurs. Unfortunately for all the basketball fans out there, I scrapped the idea because it was much too depressing (my Suns lost) and because there really isn't much `colour pie` overlap between these two column types. Sad but true."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-05-01"
 ---
 
 

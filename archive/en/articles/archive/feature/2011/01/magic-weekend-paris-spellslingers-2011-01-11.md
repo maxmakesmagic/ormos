@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-weekend-paris-spellslingers-2011-01-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023030207id_/https://magic.wizards.com/en/articles/archive/feature/magic-weekend-paris-spellslingers-2011-01-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 03:02:07+00:00"
-[_metadata_:publish_date]:- "2011-01-11"
 [_metadata_:description]:- "The following Pro Tour Hall of Famers and members of Wizards of the Coast R&D will be at Magic Weekend Paris in the Spellslingers area. Bring a deck and face off against them across multiple formats to win cool prizes! Mark Gottlieb, Rules Manager and Card Designer, Magic R&D Mark is the longest-tenured Rules Manager in Magic history, meaning his brain may explode any minute"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-11"
 ---
 
 

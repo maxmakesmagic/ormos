@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-phyrexia-product-section-2011-04-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221006033011id_/https://magic.wizards.com/en/articles/archive/feature/new-phyrexia-product-section-2011-04-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-10-06 03:30:11+00:00"
-[_metadata_:publish_date]:- "2011-04-20"
 [_metadata_:description]:- "Did you read Monday's article about the mechanics in New Phyrexia? It was really good! It contained an overview of all the key mechanics in New Phyrexia and even provided a bunch of preview cards to illustrate its point. But if you missed it, what's to be done?Why, the New Phyrexia Product Section, of course! Not only does it have an informative Product Information page, it's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-04-20"
 ---
 
 

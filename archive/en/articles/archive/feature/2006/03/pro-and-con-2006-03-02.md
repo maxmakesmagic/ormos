@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-and-con-2006-03-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209050627id_/https://magic.wizards.com/en/articles/archive/feature/pro-and-con-2006-03-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 05:06:27+00:00"
-[_metadata_:publish_date]:- "2006-03-02"
 [_metadata_:description]:- "I employ several different styles of playtesting for Constructed tournament preparation. My favorite is the mock tournament, a practice tournament with decks and sideboards where several players show up with what they would bring to some conjectural event to see how the various ideas play out in even a loose format."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-03-02"
 ---
 
 

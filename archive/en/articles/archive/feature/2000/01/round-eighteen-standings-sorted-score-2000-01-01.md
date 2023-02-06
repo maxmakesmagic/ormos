@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-eighteen-standings-sorted-score-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201092348id_/https://magic.wizards.com/en/articles/archive/feature/round-eighteen-standings-sorted-score-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-01 09:23:48+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name Points Op-Match 1 Hothow Dominik (ger) 43 62.59% 2 Finkel Jon (USA) 43 61.83% 3 van de Logt Tom (HOL) 42 62.86% 4 Maher, Jr."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

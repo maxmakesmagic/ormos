@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-7-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522055603id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-7-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 05:56:03+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Result Opponent Akbar, David Gallitz, Donald Won, 2-1 Allen, Dustin Speelman, Brian Won, 2-0 Armstrong, Herman Dubois, Dan Lost, 0-2 Aubertin, Justin Hager, Lucas Lost, 1-2 Beckmon, Jon Hines, Frank Won, 2-0 Benafel, Chris Humpherys, David Won, 2-1 Bhattacharyya, Sayan Frayman, Igor Won, 1-0 Bigos, Kyle Gary, Justin Lost, 0-2 Blackwell, Trevor Lagges, John Won, 2-1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

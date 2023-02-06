@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extra-pulled-archives-2010-05-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210301110855id_/https://magic.wizards.com/en/articles/archive/feature/extra-pulled-archives-2010-05-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-03-01 11:08:55+00:00"
-[_metadata_:publish_date]:- "2010-05-10"
 [_metadata_:description]:- "Before there was Daily MTG, before there was magicthegathering.com, in the Time Before Time ... there was The Duelist, a monthly magazine that brought the latest Magic news, puzzles, previews, event coverage, and even card text to the masses.In addition to all that `important` stuff, there were various articles and regular features showing off the lighter side of Magic. One"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-10"
 ---
 
 

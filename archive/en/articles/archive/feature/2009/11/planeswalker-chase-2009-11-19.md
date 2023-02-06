@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalker-chase-2009-11-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161221044742id_/http://magic.wizards.com/en/articles/archive/feature/planeswalker-chase-2009-11-19"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-21 04:47:42+00:00"
-[_metadata_:publish_date]:- "2009-11-19"
 [_metadata_:description]:- "A Planeswalker has escaped from Worldwake and we need your help!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-11-19"
 ---
 
 

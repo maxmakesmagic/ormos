@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-02-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705060519id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-02-25"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-05 06:05:19+00:00"
-[_metadata_:publish_date]:- "2014-02-25"
 [_metadata_:description]:- "Ask Wizards is a weekly feature that allows you to ask us questions! If you'd like to submit your question please email it to AskWizards@wizards.com. We aren't able to answer every question we receive but if your question is good then it might show up in the coming weeks!   Q: Can you shine a light on the interaction between Aluren and bestow? Can we now pay nothing to use"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-25"
 ---
 
 

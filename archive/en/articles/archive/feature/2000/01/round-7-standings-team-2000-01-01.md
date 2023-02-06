@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-standings-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626142646id_/https://magic.wizards.com/en/articles/archive/feature/round-7-standings-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-26 14:26:46+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 90#I Magic *Amateur* 9 44.55%108#realgangstas *Amateur* 6 62.50%136$30 Cab Fare *Amateur* 3 58.33% 46$42 Ticket *Amateur* 12 63.80% 32100 Super Good Fun Time 15 53.71%1423 for Flinching *Amateur* 3 55.55% 643 Stooges *Amateur* 11 50.88%1073 White Boys from the Stix * 6 64.58%1513 X Threat *Amateur* 3 44.00% 675 Ways Worse/Portent *Amateu 9 82.22% 275280"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

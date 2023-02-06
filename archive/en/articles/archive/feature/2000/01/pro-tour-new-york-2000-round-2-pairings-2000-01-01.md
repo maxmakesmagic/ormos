@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120171335id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:13:35+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Alvarez Omar ( 42) 3 1 Long, Mike (294) 3 Amendolia Aaron (254) 0 138 Meewes Stefan (187) 0 Angeli Alessio (210) 1 74 Ruel Olivier (151) 1 Asquini Alessandro (220) 0 146 Bui Lucien (154) 0 Assen Johan (238) 1 77 Schickli Jason E."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

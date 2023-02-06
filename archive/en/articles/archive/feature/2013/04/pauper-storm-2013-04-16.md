@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pauper-storm-2013-04-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524061445id_/https://magic.wizards.com/en/articles/archive/feature/pauper-storm-2013-04-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 06:14:45+00:00"
-[_metadata_:publish_date]:- "2013-04-16"
 [_metadata_:description]:- "Remember when they banned all the storm cards from Pauper? Well, they missed one, and it's currently dominating the format. There are a variety of Temporal Fissure decks, all of which use Cloudpost and Glimmerpost and, surprisingly, Ghostly Flicker. Some of these decks use Crop Rotation to find Cloudposts and enable large Kaervek's Torches, and others include Snap and Cloud of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-04-16"
 ---
 
 

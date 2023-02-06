@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/viv%C2%B7i%C2%B7fy-scriv%C2%B7en%C2%B7er-%C2%B7mu%C2%B7ga%C2%B7ba-2002-01-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201202034345id_/https://magic.wizards.com/en/articles/archive/feature/viv%C2%B7i%C2%B7fy-scriv%C2%B7en%C2%B7er-%C2%B7mu%C2%B7ga%C2%B7ba-2002-01-04"
 [_metadata_:wayback_capture_timestamp]:- "2020-12-02 03:43:45+00:00"
-[_metadata_:publish_date]:- "2002-01-04"
 [_metadata_:description]:- "viv·i·fy scriv·en·er A·mu·ga·ba"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-01-04"
 ---
 
 

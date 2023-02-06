@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-mom-has-kids-again-vs-6-degrees-kevin-bacon-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124022038id_/https://magic.wizards.com/en/articles/archive/feature/round-1-mom-has-kids-again-vs-6-degrees-kevin-bacon-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 02:20:38+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Mom has the Kids . . . again vs. 6 Degrees of Kevin Bacon6 Degrees of Kevin Bacon Kyle Kloeckner - 3rd at GP Memphis Mike Heffern - 2nd at St Louis Nick Weber Mom has the Kids . . . again Bob Drosky Todd Petit Anthony Alongi"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

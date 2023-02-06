@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-mexicano-2009-06-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517211319id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-mexicano-2009-06-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 21:13:19+00:00"
-[_metadata_:publish_date]:- "2009-06-24"
 [_metadata_:description]:- "Fecha: 27 y 28 de agosto de 2011Ubicación Nombre: Centro de Convenciones Puebla – William O."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-24"
 ---
 
 

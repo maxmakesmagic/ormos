@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-1-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518203510id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-1-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 20:35:10+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Johansen, Jeppe 3 33.3333 100.0000 33.3333 1/1/0/0 2 Jensen, Niels 3 33.3333 100.0000 33.3333 1/1/0/0 3 Vienneau, Matthew 3 33.3333 100.0000 33.3333 1/1/0/0 4 Slama Saad, Michele 3 33.3333 100.0000 33.3333 1/1/0/0 5 Bede, Robert 3 33.3333 100.0000 33.3333 1/1/0/0 6 Snepvangers, Abraham 3 33.3333"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

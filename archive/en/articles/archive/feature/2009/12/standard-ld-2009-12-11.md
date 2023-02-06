@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-ld-2009-12-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021202017id_/https://magic.wizards.com/en/articles/archive/feature/standard-ld-2009-12-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 20:20:17+00:00"
-[_metadata_:publish_date]:- "2009-12-11"
 [_metadata_:description]:- "[decklist] Title: Bernhard Lehner's Standard LD Format: 2009 World Championships Standard 4 Arid Mesa 5 Forest 3 Mountain 3 Plains 4 Rootbound Crag 4 Sunpetal Grove 4 Acidic Slime 4 Goblin Ruinblaster 4 Ajani Vengeant 3 Chandra Nalaar 2 Day of Judgment 2 Earthquake 2 Elspeth, Knight-Errant 3 Garruk Wildspeaker 4 Lightning Bolt 2 Martial Coup 4 Rampant Growth 3 Trace of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-12-11"
 ---
 
 

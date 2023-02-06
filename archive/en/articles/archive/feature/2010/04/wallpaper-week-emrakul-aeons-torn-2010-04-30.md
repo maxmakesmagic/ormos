@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-emrakul-aeons-torn-2010-04-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160831215052id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-emrakul-aeons-torn-2010-04-30"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-31 21:50:52+00:00"
-[_metadata_:publish_date]:- "2010-04-30"
 [_metadata_:description]:- "&#13; This week's wallpaper feature Mark Tedin's Emrakul, the Aeons Torn artwork from Rise of the Eldrazi. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-04-30"
 ---
 
 

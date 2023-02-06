@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-white-loxodon-exchange-2015-01-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150124195518id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-white-loxodon-exchange-2015-01-23"
 [_metadata_:wayback_capture_timestamp]:- "2015-01-24 19:55:18+00:00"
-[_metadata_:publish_date]:- "2015-01-23"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "It’s Alex’s birthday, and for his party all he wants is a white Loxodon gift exchange. And maybe some nails. #value"
+[_metadata_:publish_date]:- "2015-01-23"
 ---
 
 

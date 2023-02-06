@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2005-welsh-nationals-fact-sheet-2004-03-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026131541id_/https://magic.wizards.com/en/articles/archive/feature/2005-welsh-nationals-fact-sheet-2004-03-31"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:15:41+00:00"
-[_metadata_:publish_date]:- "2004-03-31"
 [_metadata_:description]:- "2005 Welsh National Qualifiers2005 Welsh Nationals Invite List GRINDER Announced! Friday 9th September Cardiff Games 2 Slots Available Start Time: 5:30pm Tournament Date The 2005 Welsh National Championship will be held on Saturday 10th & Sunday 11th September 2005. Tournament Location The 2005 Welsh National Championship venue is: Hasbro Newport, Caswell Way, Reevesland Ind"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-03-31"
 ---
 
 

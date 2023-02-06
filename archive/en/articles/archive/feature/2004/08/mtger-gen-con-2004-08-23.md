@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtger-gen-con-2004-08-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429041201id_/https://magic.wizards.com/en/articles/archive/feature/mtger-gen-con-2004-08-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:12:01+00:00"
-[_metadata_:publish_date]:- "2004-08-23"
 [_metadata_:description]:- "I was quite young the first time I heard the GenCon legend. Gamers of all types would flock to this mythical gathering each August in a far off land called Milwaukee. Once there, they would huddle en masse, sharing stories, games, and the occasional meal or two. And for four days, the world would cease to exist. Now, I'm what's considered a Magic `old timer.` When I started"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-08-23"
 ---
 
 

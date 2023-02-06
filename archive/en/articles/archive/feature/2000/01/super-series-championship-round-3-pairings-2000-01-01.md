@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-3-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522091433id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-3-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 09:14:33+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Adam, Felix (210) Hamilton, Iain (1) 2-0 Allen, Ross (55) Kirsch, Geoffrey (138) 1-2 Altermara, Chase (212) Horner, Brian (23) 0-2 Ames, David (157) Nader, Johnathan (67) 0-2 Ames, Steve (61) Crouse, Sean (104) 1-2 Anderson, Eddie (15) Klingler, Jay (108) 2-1 Anderson, Will (184) Miller, Brandon (16) 2-0 Ash, Kevin (101) Patrick, Chris (156) 2-0 Aune,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

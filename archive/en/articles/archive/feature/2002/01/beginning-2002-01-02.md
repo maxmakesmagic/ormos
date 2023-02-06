@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/beginning-2002-01-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112043021id_/https://magic.wizards.com/en/articles/archive/feature/beginning-2002-01-02"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 04:30:21+00:00"
-[_metadata_:publish_date]:- "2002-01-02"
 [_metadata_:description]:- "What does Torment’s packaging look like? (see “Magic Arcana”) Who is the design team for 2002’s fall expansion? (see “Ask Wizards”) How did Sorrow’s Path indirectly create Donate? (see “Making Magic”) Can you play Emperor Magic with eight people? (see “Serious Fun”)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-01-02"
 ---
 
 

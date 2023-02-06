@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-january-10-16-2009-01-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125052916id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-january-10-16-2009-01-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-25 05:29:16+00:00"
-[_metadata_:publish_date]:- "2009-01-16"
 [_metadata_:description]:- "On January 11, 1997, the world got its first glimpse of Visions and Magic would never be the same."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-16"
 ---
 
 

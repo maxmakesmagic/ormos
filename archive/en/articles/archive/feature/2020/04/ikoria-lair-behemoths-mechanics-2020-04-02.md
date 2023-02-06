@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-mechanics-2020-04-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200402151038id_/https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-mechanics-2020-04-02"
 [_metadata_:wayback_capture_timestamp]:- "2020-04-02 15:10:38+00:00"
-[_metadata_:publish_date]:- "2020-04-02"
 [_metadata_:description]:- "See what new strategies await in the world of Ikoria with this mechanics overview of the upcoming Ikoria: Lair of Behemoths."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-04-02"
 ---
 
 

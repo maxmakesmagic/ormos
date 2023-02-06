@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ripping-world-apart-2008-09-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921125403id_/https://magic.wizards.com/en/articles/archive/feature/ripping-world-apart-2008-09-15"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-21 12:54:03+00:00"
-[_metadata_:publish_date]:- "2008-09-15"
 [_metadata_:description]:- "What insurmountably evil force could take a plane of existence, rip it apart into five separate pieces, and leave each sub-plane partially crippled by its lack of access to some of the core essences of mana?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-15"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-20-2013-09-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120101731id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-20-2013-09-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 10:17:31+00:00"
-[_metadata_:publish_date]:- "2013-09-24"
 [_metadata_:description]:- "Trick, Tifa, and Gavin are joined by Magic rules manager Matt Tabak to discuss Theros’s new mechanics and more. Episode 20 - Theros Mechanics with Matt Tabak - (28:34) (9.81 MB) The DailyMTG Podcast is on iTunes! You can visit its page right here. Or, if you use a different podcast aggregator, you can point it directly at the RSS feed:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-24"
 ---
 
 

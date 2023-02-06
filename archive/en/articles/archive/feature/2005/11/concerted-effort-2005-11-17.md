@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/concerted-effort-2005-11-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126203802id_/https://magic.wizards.com/en/articles/archive/feature/concerted-effort-2005-11-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 20:38:02+00:00"
-[_metadata_:publish_date]:- "2005-11-17"
 [_metadata_:description]:- "The Ravnica card Concerted Effort is all about sharing -- for the purpose of butt-kicking. As you can see in Michael Sutfin's art below, the card depicts a Boros soldier and angel. The soldier begins to launch from the ground on the strength of his ghostly new set of wings -- a `copy` of the angel's wings. The angel holds high her sharp new polearm -- a `copy` of the soldier's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-17"
 ---
 
 

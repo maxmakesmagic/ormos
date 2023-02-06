@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-launch-party-schedule-2009-04-14-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028021530id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-launch-party-schedule-2009-04-14-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 02:15:30+00:00"
-[_metadata_:publish_date]:- "2009-04-14"
 [_metadata_:description]:- "Europe - OtherWorldwide Fact Sheet DateCountryCityVenueAddressPostal CodeContact 5/2/2009AustriaSalzburgSpielRaum SalzburgUrsulinenplatz 85020 5/2/2009AustriaSt."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-14"
 ---
 
 

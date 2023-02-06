@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchmagazinepolls2-2008-07-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205230728id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchmagazinepolls2-2008-07-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-05 23:07:28+00:00"
-[_metadata_:publish_date]:- "2008-07-24"
 [_metadata_:description]:- "What Star Trek series is the best?TOSTNGVoyagerDS 9Enterprise"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-24"
 ---
 
 

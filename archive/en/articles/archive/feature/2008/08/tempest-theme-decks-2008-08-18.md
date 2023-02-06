@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tempest-theme-decks-2008-08-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028174309id_/https://magic.wizards.com/en/articles/archive/feature/tempest-theme-decks-2008-08-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 17:43:09+00:00"
-[_metadata_:publish_date]:- "2008-08-18"
 [_metadata_:description]:- "Deep Freeze The Flames of Rath The Slivers The Swarm (Back to Product Page) Deep Freeze # Rarity Cost Card Name  13  Island   11  Plains   2 C   Master Decoy   2 C   Soltari Lancer   1 U    Knight of Dawn   1 C   Clouchaser Eagle   1 R    Avenging Angel   2 C   Wind Drake   2 C   Horned Turtle   1 U    Sky Spirit   1 C   Anoint   1 C   Disenchant   3 C   Pacifism   1 U"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-18"
 ---
 
 

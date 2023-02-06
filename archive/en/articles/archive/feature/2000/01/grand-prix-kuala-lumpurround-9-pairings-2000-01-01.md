@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-9-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517184704id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-9-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 18:47:04+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Ang, Jun Yang (120) 16 17 Teoh, Jeremy Thean Poh ( 42) 16 Au Yong, Wai Kin ( 56) 19 8 Tham, Tishen ( 5) 19 Aw-Yeong, Weng Kwong (134) 18 13 Ling, Alec (165) 18 Chai, Royce Ming Huang (174) 15 24 Fujita, Tsuyoshi (292) 15 Chan, Sam Soon (106) 16 19 Tang, Mun Wye ( 61) 16 Chew, Wilson Choon Gee ( 21) 13 30 Lee, Andrew Yin Pook (199) 13 Chin, Yung"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

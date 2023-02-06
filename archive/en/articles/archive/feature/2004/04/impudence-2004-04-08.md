@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/impudence-2004-04-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204144655id_/https://magic.wizards.com/en/articles/archive/feature/impudence-2004-04-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 14:46:55+00:00"
-[_metadata_:publish_date]:- "2004-04-08"
 [_metadata_:description]:- "It's Mirrodin Block Hidden Gems Week! That means that this week, I'm supposed to pluck out some overlooked, underappreciated cards from Mirrodin or Darksteel—cards that have flown under the radar because they don't fit into cookie-cutter tournament decks like Ravager Affinity or Red Deck Wins—and build compelling yet twisted little decks around them.This is different from what"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-04-08"
 ---
 
 

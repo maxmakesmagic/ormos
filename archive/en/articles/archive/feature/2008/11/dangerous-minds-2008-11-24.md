@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dangerous-minds-2008-11-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210203222939id_/https://magic.wizards.com/en/articles/archive/feature/dangerous-minds-2008-11-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-02-03 22:29:39+00:00"
-[_metadata_:publish_date]:- "2008-11-24"
 [_metadata_:description]:- "The Making of TempestThe following members of Wizards of the Coast's Research and Development team worked hand-in-hand on the Tempest expansion. Here's a look at who they are and what makes them tick (in alphabetical order)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-24"
 ---
 
 

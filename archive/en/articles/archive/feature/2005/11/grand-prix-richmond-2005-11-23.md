@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-2005-11-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820055449id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-2005-11-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-20 05:54:49+00:00"
-[_metadata_:publish_date]:- "2005-11-23"
 [_metadata_:description]:- "Trial Winners StateCityEvent date3rd Round byeLocationAddressContact phoneWebsiteIndianaIndianapolis1/7/20061Courtyard Marriott, Downtown501 West Washington St.847-470-9636WebsiteGeorgiaAlpharetta1/8/20061Player One Games281 South Main St., Ste 103B770-729-9588WebsiteKentuckyLouisville12/10/20051Book and Music Exchange5400 Preston"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-23"
 ---
 
 

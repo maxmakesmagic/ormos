@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-11-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525194432id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-11-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 19:44:32+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Antarctica Game Empire Won, 2-1 ATM Fifth Again Won, 2-1 Brown Bomber Neutral Ground SF Lost, 0-2 CCC Matrix Won, 2-0 CMU THL Lost, 1-2 Fifth Again ATM Lost, 1-2 Fu-Ku-Ra-Mi Phenomene J Lost, 1-2 Game Empire Antarctica Lost, 1-2 Goblin Gate Lost in Spain Lost, 1-2 Lost in Spain Goblin Gate Won, 2-1 Marc's Brothers TLC Lost, 1-2 Matrix CCC Lost, 0-2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

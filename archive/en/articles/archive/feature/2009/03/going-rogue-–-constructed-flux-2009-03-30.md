@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/going-rogue-%E2%80%93-constructed-flux-2009-03-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528101311id_/https://magic.wizards.com/en/articles/archive/feature/going-rogue-%E2%80%93-constructed-flux-2009-03-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-28 10:13:11+00:00"
-[_metadata_:publish_date]:- "2009-03-30"
 [_metadata_:description]:- "Now is a pretty exciting time to be working on Constructed formats. We've just had a Pro Tour in Standard, a pair of Grand Prix (Hanover and Singapore) in Extended, a Legacy GP, and in the weeks and months to come there will be both qualifiers for Nationals (Standard) and work for Pro Tour–Honolulu, which is Block Constructed. That pretty much covers us for formats! When there"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-03-30"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-white-control-2011-06-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020145754id_/https://magic.wizards.com/en/articles/archive/feature/mono-white-control-2011-06-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:57:54+00:00"
-[_metadata_:publish_date]:- "2011-06-15"
 [_metadata_:description]:- "[decklist] Title: Jan Van Nieuwenhove's Mono-White Control Format: Scars of Mirrodin Block Constructed – Pro Tour Nagoya 4 Inkmoth Nexus 21 Plains 3 Blade Splicer 4 Hero of Bladehold 4 Leonin Relic-Warder 2 Sunblast Angel 2 White Sun's Zenith 1 Phyrexian Rebirth 4 Pristine Talisman 3 Sphere of the Suns 2 Karn Liberated 2 Dismember 4 Divine Offering 2 Elspeth Tirel 2 Exclusion"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-15"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-pals-2010-05-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210225140830id_/https://magic.wizards.com/en/articles/archive/feature/super-pals-2010-05-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-02-25 14:08:30+00:00"
-[_metadata_:publish_date]:- "2010-05-07"
 [_metadata_:description]:- "[decklist] Title: Lewis Laskin's Super Pals Format: StarCityGames.com Standard Open 4 Island 1 Mountain 5 Plains 3 Arid Mesa 4 Celestial Colonnade 4 Glacial Fortress 3 Scalding Tarn 2 Tectonic Edge 4 Wall of Omens 3 Oblivion Ring 4 Spreading Seas 4 Path to Exile 2 Day of Judgment 3 Divination 2 Martial Coup 3 Ajani Vengeant 3 Elspeth, Knight-Errant 3 Gideon Jura 3 Jace, the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-07"
 ---
 
 

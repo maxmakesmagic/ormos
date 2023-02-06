@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-kessla-temple-might-2011-06-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170712082314id_/http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-kessla-temple-might-2011-06-17"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-12 08:23:14+00:00"
-[_metadata_:publish_date]:- "2011-06-17"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off highlights from the Mirrodin Site. For months, Mirran and Phyrexian characters have been providing field reports about the progress of the war. This week, we're going to share the entire story from the final report: Kessla of Temple Might."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-17"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-costa-rica-event-information-2012-08-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160809140802id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-costa-rica-event-information-2012-08-08"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-09 14:08:02+00:00"
-[_metadata_:publish_date]:- "2012-08-08"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-08"
 ---
 
 

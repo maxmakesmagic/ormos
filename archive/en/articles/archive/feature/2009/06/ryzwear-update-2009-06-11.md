@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ryzwear-update-2009-06-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429112436id_/https://magic.wizards.com/en/articles/archive/feature/ryzwear-update-2009-06-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 11:24:36+00:00"
-[_metadata_:publish_date]:- "2009-06-11"
 [_metadata_:description]:- "We're halfway through design stage of the `Show Your Colors` design competition and the response has been massive. There have been 200 designs submitted so far, and the numbers continue to grow! If you have an obscure favorite card (as magicthegathering.com team member Monty Ashley does), you just might see it on a shoe. Wanna see a random sampling of submissions? Sure you do!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-11"
 ---
 
 

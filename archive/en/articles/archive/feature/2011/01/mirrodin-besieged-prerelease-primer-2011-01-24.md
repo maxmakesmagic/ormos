@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-prerelease-primer-2011-01-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111212405id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-prerelease-primer-2011-01-24"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-11 21:24:05+00:00"
-[_metadata_:publish_date]:- "2011-01-24"
 [_metadata_:description]:- "It is time to choose a side. While with Scars of Mirrodin the emerging Phyrexian threat was just that, a dark undercurrent threatening to topple a well-buffed metallic utopia, with Mirrodin Besieged there can be no doubt that the Phyrexians have arrived, and they mean business."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-24"
 ---
 
 

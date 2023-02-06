@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-player-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702092743id_/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-player-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:27:43+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPointsTeamPointsA.S.K.0vsOrewa Fukushima DA0AAA3vsTeam Bonkura3ABCC1vsTeam Shinadashi1Absolute3vsMarimo Maker3Aibon3vsTeam ToDo3Ain't afraid to die3vsAll time 6000yen3Air Orange3vsST3Akebono Oyakatanhoiza3vsTeam PPB3Akko ni Omakase3vsDokudenpa3All time 6000yen3vsAin't afraid to die3Ancestral Memories3vsCool Mints3Apocalypse0vsYumenomatayume0Army of Serra1vsIMABIKI"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

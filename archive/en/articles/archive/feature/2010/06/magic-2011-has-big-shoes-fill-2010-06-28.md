@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2011-has-big-shoes-fill-2010-06-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210118052539id_/https://magic.wizards.com/en/articles/archive/feature/magic-2011-has-big-shoes-fill-2010-06-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-18 05:25:39+00:00"
-[_metadata_:publish_date]:- "2010-06-28"
 [_metadata_:description]:- "Now comes the interesting part.Part of the plan—a big part, actually—of revamping Magic's core sets with Magic 2010 was that new ones would be a yearly event, a big change from the perpetual biannual model that the game has had until now. We wanted to adopt this model for two reasons."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-06-28"
 ---
 
 

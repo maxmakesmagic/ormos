@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fate-reforged-update-bulletin-2015-01-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150119234554id_/http://magic.wizards.com/en/articles/archive/feature/fate-reforged-update-bulletin-2015-01-15"
 [_metadata_:wayback_capture_timestamp]:- "2015-01-19 23:45:54+00:00"
-[_metadata_:publish_date]:- "2015-01-15"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "`I'm writing this intro while marathoning episodes of Top Chef. Think anyone will notice?` —Me, to my editor, about a week ago"
+[_metadata_:publish_date]:- "2015-01-15"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cat-breath-infinite-2012-07-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170319122138id_/http://magic.wizards.com/en/articles/archive/feature/cat-breath-infinite-2012-07-12"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-19 12:21:38+00:00"
-[_metadata_:publish_date]:- "2012-07-12"
 [_metadata_:description]:- "Over the past few months, casual Magic crowds have acquired quite the slew of talented writers and content producers focusing on the formats they know and love. From Cube to Commander, Pauper to Type 4, more literature and content is out there today for even the most obscure of formats than has ever been the case. While this new class of casual writers are doing great things for the game, Bennie Smith has been perfecting the craft since I can remember!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-07-12"
 ---
 
 

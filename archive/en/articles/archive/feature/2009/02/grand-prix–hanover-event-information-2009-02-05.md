@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93hanover-event-information-2009-02-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025155740id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93hanover-event-information-2009-02-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 15:57:40+00:00"
-[_metadata_:publish_date]:- "2009-02-05"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: March 14-15, 2009 Format: Extended Tournament Location Hanover Congress Centre Theodor-Heuss-Platz 1-3 30175 Hanover, Germany Registration: 15€ Friday, March 13: 5:30 p.m. - 8 p.m. Saturday, March 14: 8 a.m. - 9:00 a.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-05"
 ---
 
 

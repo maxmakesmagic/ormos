@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/helvault-and-prereleases-2012-04-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220924165937id_/https://magic.wizards.com/en/articles/archive/feature/helvault-and-prereleases-2012-04-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-09-24 16:59:37+00:00"
-[_metadata_:publish_date]:- "2012-04-02"
 [_metadata_:description]:- "This week was originally going to be Confusion Week—a nod to both the Dark Ascension card Increasing Confusion as well as to the fact that this year, April 1 falls on a Sunday, and as such is awkward for us to get up to our normal hijinx.The purpose of theme weeks are to give writers a unifying theme to draw inspiration from. A lot of the early feedback I got from the writers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-04-02"
 ---
 
 

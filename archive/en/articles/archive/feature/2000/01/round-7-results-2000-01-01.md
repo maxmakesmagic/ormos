@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030044015id_/https://magic.wizards.com/en/articles/archive/feature/round-7-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 04:40:15+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Table Player Result   Opponent 1 Quinta, Matheus Chaud Lost 1-2 vs. Possato, William C 2 Lucindo, Fabiano Lost 0-2 vs. Saux, Rafaël A Le 3 Ruel, Antoine Won 2-0 vs. Gunther, Raphael F."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deconstructing-griffin-canyon-2002-06-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210315140742id_/https://magic.wizards.com/en/articles/archive/feature/deconstructing-griffin-canyon-2002-06-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-03-15 14:07:42+00:00"
-[_metadata_:publish_date]:- "2002-06-19"
 [_metadata_:description]:- "I sat down to work on this article with my mind on the recent announcements about the Extended format. A new policy of set rotation means that come November 1st, when Onslaught enters sanctioned Constructed play, the Extended format will wave goodbye to Fifth Edition, Ice Age, Homelands, Alliances, Mirage, Visions and Weatherlight.I pored over old tournament reports via"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-06-19"
 ---
 
 

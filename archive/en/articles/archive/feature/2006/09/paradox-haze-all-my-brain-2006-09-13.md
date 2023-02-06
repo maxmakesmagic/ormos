@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/paradox-haze-all-my-brain-2006-09-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170222225224id_/http://magic.wizards.com/en/articles/archive/feature/paradox-haze-all-my-brain-2006-09-13"
 [_metadata_:wayback_capture_timestamp]:- "2017-02-22 22:52:24+00:00"
-[_metadata_:publish_date]:- "2006-09-13"
 [_metadata_:description]:- "It's that time of year again, folks. The leaves are changing colour, a man from Switzerland is winning the U.S. Open, and this here site here is doing card previews for the latest large expansion, in this case, Time Spiral. No doubt, many of you are also heading back to school, whether it's college or university, high school, or, judging by some of the mail I've received, reform school."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-09-13"
 ---
 
 

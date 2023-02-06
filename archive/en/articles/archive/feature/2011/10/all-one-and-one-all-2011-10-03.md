@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/all-one-and-one-all-2011-10-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210512142524id_/https://magic.wizards.com/en/articles/archive/feature/all-one-and-one-all-2011-10-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-12 14:25:24+00:00"
-[_metadata_:publish_date]:- "2011-10-03"
 [_metadata_:description]:- "You've probably heard the name Richard Garfield.He's most famous, of course, as the creator of Magic: The Gathering (and thus modern trading card games in general, as confirmed by the Guinness Book of World Records). And you may have heard his name more recently as a member of the Innistrad design team, credited with creating such cards as Trepanation Blade and Mirror-Mad"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-10-03"
 ---
 
 

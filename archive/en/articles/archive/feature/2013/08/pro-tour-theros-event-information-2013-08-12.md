@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-theros-event-information-2013-08-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524161902id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-theros-event-information-2013-08-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:19:02+00:00"
-[_metadata_:publish_date]:- "2013-08-12"
 [_metadata_:description]:- "Royal Dublin Society Dublin, Ireland October 11-13, 2013 Quick LinksViewer Information Player Information Live Coverage of Pro Tour Theros The Pro Tour visits Ireland for the first time in the long history of Magic: The Gathering. Pro Tour Theros is the first Pro Tour of the 2013-14 season, featuring the debut of the new Theros set on the premier-play stage. The top players"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-12"
 ---
 
 

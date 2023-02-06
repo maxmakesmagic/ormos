@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/statement-grand-prix-paris-2014-02-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126052424id_/https://magic.wizards.com/en/articles/archive/feature/statement-grand-prix-paris-2014-02-21"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 05:24:24+00:00"
-[_metadata_:publish_date]:- "2014-02-21"
 [_metadata_:description]:- "See original posting here. Two situations arose at Grand Prix Paris that have raised some questions on social media. While we don't discuss ongoing investigations, or the underlying causes leading to a Disqualification, here is some explanation of the policies behind these two situations. Head Judge Riccardo Tessitori conducted an investigation of Gerardo Jurado Gibert during"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-21"
 ---
 
 

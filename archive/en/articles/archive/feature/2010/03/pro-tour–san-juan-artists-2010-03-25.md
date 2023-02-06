@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-artists-2010-03-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503165545id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-artists-2010-03-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 16:55:45+00:00"
-[_metadata_:publish_date]:- "2010-03-25"
 [_metadata_:description]:- "The artists booth will be open Friday-Sunday from 10 a.m. - 5 p.m. John Avon will be available 9 a.m. - 11 a.m. and 12 p.m. - 2 p.m. each day, and Aleksi Briclot will be available 1 p.m. - 5 p.m. each day. Aleksi Briclot A concept artist and art director in the video game industry for nine years, Aleksi was lead artist on ColdFear, the horror-action game developed by DarkWorks"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-25"
 ---
 
 

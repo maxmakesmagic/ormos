@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-results-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630070040id_/https://magic.wizards.com/en/articles/archive/feature/round-2-results-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-30 07:00:40+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult Opponent#I MagicWon 2-1vsI am Jack's Team#realgangstasWon 2-1vsUne Leche De FBI$30 Cab FareLost 0-2vsTeam Clasp$42 Ticket * Awarded Bye *100 Super Good Fun Time * Awarded Bye *3 for FlinchingLost 0-3vsScorned for Sega3 StoogesLost 1-2vsTwo Geeks and a Lumberjack3 White Boys from the StixWon 2-1vsOne Turn Too Late3 X ThreatLost 1-2vsAzz Izz5 Ways Worse than Portent *"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

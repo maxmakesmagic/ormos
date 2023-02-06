@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legends-adventures-forgotten-realms-2021-07-16?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210717101533id_/https://magic.wizards.com/en/articles/archive/feature/legends-adventures-forgotten-realms-2021-07-16?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_capture_timestamp]:- "2021-07-17 10:15:33+00:00"
-[_metadata_:publish_date]:- "2021-07-16"
 [_metadata_:description]:- "Icewind Dale heroes. Underdark villains. Gods of great renown. Legendary characters of Faerûn come to life in Adventures in the Forgotten Realms."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-07-16"
 ---
 
 

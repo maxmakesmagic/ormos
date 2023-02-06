@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/booster-draft-simulator-2008-08-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170715204153id_/http://magic.wizards.com/en/articles/archive/feature/booster-draft-simulator-2008-08-08"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-15 20:41:53+00:00"
-[_metadata_:publish_date]:- "2008-08-08"
 [_metadata_:description]:- "Welcome to the Booster Draft Simulator! Practice your Magic 2013 Core Set drafting skills right here every week by participating in a Booster Draft against seven AI drafters, powered by the collective intelligence of Magic's R&D department."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-08"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kansas-city-2008-08-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170323230823id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kansas-city-2008-08-21"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-23 23:08:23+00:00"
-[_metadata_:publish_date]:- "2008-08-21"
 [_metadata_:description]:- "Magic: The Gathering Pro Tour–Kyoto 2008 QualifierOctober 17-19, 2008Friends, Fun, Foils, Cash, Invites, iPod, GPT Grinders, PTQ, Pros, Wii, Loving Midwest Barbeque, Drafting till you drop, Buying cards, Dan Scott, daarken, The Largest Ferret you've ever seen. Selling cards----- you name it GP-KC has it!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-21"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/black-cat-combo-2013-09-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812111920id_/https://magic.wizards.com/en/articles/archive/feature/black-cat-combo-2013-09-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 11:19:20+00:00"
-[_metadata_:publish_date]:- "2013-09-12"
 [_metadata_:description]:- "I'll admit, this deck isn't actually based around Black Cat, but it really does play one, and I assume it's a critical part of the plan. It's pretty funny that Black Cat would be a better Magic card if it cost one mana, but that would make it way worse for the purposes of this deck. As it turns out, a casting cost of two is exactly what this deck is looking for, and the reason"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-12"
 ---
 
 

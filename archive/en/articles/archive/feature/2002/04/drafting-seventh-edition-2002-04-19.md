@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/drafting-seventh-edition-2002-04-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200803214320id_/https://magic.wizards.com/en/articles/archive/feature/drafting-seventh-edition-2002-04-19"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-03 21:43:20+00:00"
-[_metadata_:publish_date]:- "2002-04-19"
 [_metadata_:description]:- "While Seventh Edition booster draft will never be a Pro Tour format, Magic Online has certainly popularized it as an interesting pastime. With a bit of patience, you can find a draft at almost any hour of the day or night."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-04-19"
 ---
 
 

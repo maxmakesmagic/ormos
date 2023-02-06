@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/going-memphis-2008-12-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502183234id_/https://magic.wizards.com/en/articles/archive/feature/going-memphis-2008-12-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 18:32:34+00:00"
-[_metadata_:publish_date]:- "2008-12-08"
 [_metadata_:description]:- "Now you're staring out to a brown horizon, peaks of waves frothy caps of white, gusts of wind like mammoth breaths. The Mighty Mississippi, your brochure reads, and `mighty` starts to seem less like hyperbole and more like a statement of fact. The sun pulses even in the gripping cold, its reflection mirrored off the Pyramid and blinding. Passing drivers squint and visor their"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-09"
 ---
 
 

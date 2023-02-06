@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2002-07-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019085856id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2002-07-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 08:58:56+00:00"
-[_metadata_:publish_date]:- "2002-07-09"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.TOURNAMENT FORMAT AND SCHEDULE The format for Grand Prix–Los Angeles is Onslaught Limited, with day 2 Onslaught Rochester Draft. All DCI Limited-format rules, Magic Floor Rules, and all"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-07-09"
 ---
 
 

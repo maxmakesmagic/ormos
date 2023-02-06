@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-results-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628034223id_/https://magic.wizards.com/en/articles/archive/feature/round-10-results-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-28 03:42:23+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult OpponentA Little Too SickWon 2-1vsThanks Craig and SethAlphaBetaUnlimited.com/Won 3-0vsTeam ClaspTeam FleesLost 1-2vsJust ConcedeDynastyWon 3-0vsTeam $20 Dolla BillzFamily Games CenterWon 2-1vsTeam Needs/Hotel Room *AmateFrog EatersWon 2-1vsGrape ApesGrape ApesLost 1-2vsFrog EatersHuey Brock and LindeWon 3-0vsThe Hubbsucker ProxyJust ConcedeWon 2-1vsTeam FleesMadam"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/other-ptny-2000-coverage-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526103032id_/https://magic.wizards.com/en/articles/archive/feature/other-ptny-2000-coverage-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 10:30:32+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "New Wave Coverage Star City CCG Coverage Neutral Ground Coverage"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

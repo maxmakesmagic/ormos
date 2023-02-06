@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-4"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521052750id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-4"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 05:27:50+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Junior Super Series Championship Round 3 Results - 15-17 Division Player Opponent Results Adams, Zach Mason, Eric Won, 2-1 Allen, Crispin Carey, Joey Lost, 1-2 Baker, Justin Rader, Gaura Lost, 1-2 Brubaker, Jake Myers, Marc Won, 2-1 Cahir, Dan Cooper, Geddes Lost, 0-2 Carey, Joey Allen, Crispin Won, 2-1 Carpenter, Ryan Quinn, Daniel Won, 2-0 Cooper, Geddes Cahir, Dan Won, 2-0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

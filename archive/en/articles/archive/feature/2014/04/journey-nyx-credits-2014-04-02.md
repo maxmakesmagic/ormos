@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/journey-nyx-credits-2014-04-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429034537id_/https://magic.wizards.com/en/articles/archive/feature/journey-nyx-credits-2014-04-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:45:37+00:00"
-[_metadata_:publish_date]:- "2014-04-02"
 [_metadata_:description]:- "Original Magic Game Design: Richard Garfield Initial Concept and Game Design: Ethan Fleischer (lead), Dan Emmons, Erik Lauer, Mark Rosewater, and Matt Tabak Final Game Design and Development: David Humpherys (lead), Ian Duke, Tom Jenkot, Erik Lauer, and Ken Nagle, with contributions from Matt Tabak Magic R&D Leads : Aaron Forsythe (senior director), Mark Rosewater(design),"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-02"
 ---
 
 

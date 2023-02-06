@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/singleton-control-2009-07-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807170736id_/https://magic.wizards.com/en/articles/archive/feature/singleton-control-2009-07-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-07 17:07:36+00:00"
-[_metadata_:publish_date]:- "2009-07-24"
 [_metadata_:description]:- "[decklist] Title: ChrisKool's Control Format: Magic Online 100 Card Singleton 1 Academy Ruins 1 Adarkar Wastes 1 Ancient Den 1 Azorius Chancery 1 Breeding Pool 1 Calciform Pools 1 Dreadship Reef 1 Flagstones of Trokair 1 Flooded Strand 1 Hallowed Fountain 7 Island 1 Lonely Sandbar 1 Mikokoro, Center of the Sea 1 Mystic Gate 4 Plains 1 Polluted Delta 1 Reflecting Pool 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-24"
 ---
 
 

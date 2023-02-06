@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/updating-list-kaldheim-2020-12-16?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201217101735id_/https://magic.wizards.com/en/articles/archive/feature/updating-list-kaldheim-2020-12-16?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_capture_timestamp]:- "2020-12-17 10:17:35+00:00"
-[_metadata_:publish_date]:- "2020-12-16"
 [_metadata_:description]:- "Check out our latest updates to The List, 300 interesting cards from Magic's past that can be found in Kaldheim Set Boosters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-12-16"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fourteen-grand-prix-first-wave-2013-schedule-2012-08-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526163946id_/https://magic.wizards.com/en/articles/archive/feature/fourteen-grand-prix-first-wave-2013-schedule-2012-08-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 16:39:46+00:00"
-[_metadata_:publish_date]:- "2012-08-19"
 [_metadata_:description]:- "The first season of Grand Prix play next year showcases fourteen events visiting ten countries over the first three months. The new season opens as 2012 closes out, with Indianapolis, Indiana, hosting the opening Grand Prix of the 2013 season just before Christmas.Once the calendar turns to January, Grand Prix will visit Denver, Colorado; Atlantic City, New Jersey; Singapore;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-19"
 ---
 
 

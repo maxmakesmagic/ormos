@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-4-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516185603id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-4-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 18:56:03+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Abdul Jalal, Abdul Halim Bin (114) 3 118 Muhammad, Zul Helmi (270) 3 Abdul Wahab, Mohammad Nazim (143) 3 100 Lin, Milton Jian Xiong (138) 3 Ahmad Kamal, Ahmad Omar (55) 6 43 Khoo, Kevin Seng Giap (20) 6 Ahmad, Wan Hafiz Wan (142) 6 69 Ng, Raymond (160) 6 Amzar, Hazwan (263) 6 51 Than, Yew Mun (214) 6 Ang, Jun Yang (120) 9 8 Leong, Akuma Ding"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

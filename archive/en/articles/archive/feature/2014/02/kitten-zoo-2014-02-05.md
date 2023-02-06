@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kitten-zoo-2014-02-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025042615id_/https://magic.wizards.com/en/articles/archive/feature/kitten-zoo-2014-02-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 04:26:15+00:00"
-[_metadata_:publish_date]:- "2014-02-05"
 [_metadata_:description]:- "Pauper never fails to deliver an adorable-looking decklist, typically featuring cards that weren't quite strong enough to see play during their tenure in Standard. In this case, some of those cards end up being more powerful once certain synergies are available. Nylea's Presence is becoming a staple of this column. Today, it combines with Wild Nacatl, Matca Rioters, and Tribal"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-05"
 ---
 
 

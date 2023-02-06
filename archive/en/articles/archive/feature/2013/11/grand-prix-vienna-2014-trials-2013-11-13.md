@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-2014-trials-2013-11-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021014107id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-2014-trials-2013-11-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 01:41:07+00:00"
-[_metadata_:publish_date]:- "2013-11-13"
 [_metadata_:description]:- "Grand Prix Vienna Trials will be run at European WPN locations from December 28, 2013 to March 9, 2014. Each awards the winner a two-round bye to Grand Prix Vienna. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event. Possible"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-11-13"
 ---
 
 

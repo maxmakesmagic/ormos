@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-mechanics-2019-09-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190904190010id_/https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-mechanics-2019-09-04"
 [_metadata_:wayback_capture_timestamp]:- "2019-09-04 19:00:10+00:00"
-[_metadata_:publish_date]:- "2019-09-04"
 [_metadata_:description]:- "Matt reveals the fantastic new mechanics awaiting inside Throne of Eldraine!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-09-04"
 ---
 
 

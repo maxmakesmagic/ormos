@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-6"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521083639id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-6"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 08:36:39+00:00"
-[_metadata_:publish_date]:- "2008-12-10"
 [_metadata_:description]:- "[decklist] Title: Gaudenis Vidugiris Format: 1st Place - Minnesota - Minneapolis - 11/29 6 Forest 5 Mountain 5 Plains 1 Naya Panorama 1 Bant Battlemage 1 Sanctum Gargoyle 1 Sighted-Caste Sorcerer 1 Welkin Guide 1 Bloodpyre Elemental 1 Caldera Hellion 1 Hissing Iguanar 1 Incurable Ogre 1 Ridge Rannet 1 Druid of the Anima 1 Elvish Visionary 1 Mosstodon 1 Rhox Charger 1 Topan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-10"
 ---
 
 

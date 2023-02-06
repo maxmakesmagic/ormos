@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archenemy-rules-revealed-2010-05-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418212555id_/https://magic.wizards.com/en/articles/archive/feature/archenemy-rules-revealed-2010-05-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-18 21:25:55+00:00"
-[_metadata_:publish_date]:- "2010-05-17"
 [_metadata_:description]:- "Way back in January, we announced Archenemy, a new multiplayer product coming in June. We told you about its unique `One vs. Many` game play, allowing you to face off against as many of your friends as your kitchen table can hold. We told you about the four different game packs, each with a 60-card Magic deck and a 20-card deck of oversized cards, and we even showed you the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-02-01"
 ---
 
 

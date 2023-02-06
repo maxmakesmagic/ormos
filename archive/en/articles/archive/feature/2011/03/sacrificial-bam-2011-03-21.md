@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sacrificial-bam-2011-03-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220310024049id_/https://magic.wizards.com/en/articles/archive/feature/sacrificial-bam-2011-03-21"
 [_metadata_:wayback_capture_timestamp]:- "2022-03-10 02:40:49+00:00"
-[_metadata_:publish_date]:- "2011-03-21"
 [_metadata_:description]:- "[decklist] Title: Sacrificial Bam Format: Mirrodin Theme Deck 8 Mountain 7 Swamp 4 Great Furnace 4 Vault of Whispers 3 Disciple of the Vault 2 Atog 2 Krark-Clan Grunt 1 Megatog 2 Iron Myr 2 Leaden Myr 2 Myr Retriever 2 Cathodion 3 Goblin Replica 3 Nim Replica 1 Dross Scorpion 2 Rust Elemental 1 Pentavus 2 Irradiate 1 Shrapnel Blast 2 Necrogen Spellbomb 2 Pyrite Spellbomb 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-03-21"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-white-merfolk-2009-04-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170414021811id_/http://magic.wizards.com/en/articles/archive/feature/blue-white-merfolk-2009-04-30"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-14 02:18:11+00:00"
-[_metadata_:publish_date]:- "2009-04-30"
 [_metadata_:description]:- "[decklist] Title: Hesturk's Blue-White Merfolk Format: Standard 2 Adarkar Wastes 2 Faerie Conclave 6 Island 4 Mutavault 4 Mystic Gate 1 Plains 4 Wanderwine Hub 4 Cursecatcher 4 Merrow Reejerey 4 Silvergill Adept 3 Sower of Temptation 4 Stonybrook Banneret 3 Sygg, River Guide 3 Thistledown Liege 4 Cryptic Command 4 Path to Exile 4 Sage's Dousing *3 Burrenton Forge-Tender *2 Celestial Purge *2 Flashfreeze *2 Oblivion Ring"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-30"
 ---
 
 

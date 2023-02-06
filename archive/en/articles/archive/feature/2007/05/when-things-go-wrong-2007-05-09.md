@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/when-things-go-wrong-2007-05-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809113124id_/https://magic.wizards.com/en/articles/archive/feature/when-things-go-wrong-2007-05-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-09 11:31:24+00:00"
-[_metadata_:publish_date]:- "2007-05-09"
 [_metadata_:description]:- "I own exactly one computer: my trustworthy laptop. It has been a good pal; it has accompanied me in many journeys, allowing me to write articles even when I'm away to participate in a Magic tournament somewhere in the far side of the world. But that all changed when I arrived in Stockholm last Friday. Happy with the free wireless Internet, I opened up my laptop and pressed the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-05-09"
 ---
 
 

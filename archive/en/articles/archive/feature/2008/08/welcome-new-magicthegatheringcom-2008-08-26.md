@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/welcome-new-magicthegatheringcom-2008-08-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123100507id_/https://magic.wizards.com/en/articles/archive/feature/welcome-new-magicthegatheringcom-2008-08-26"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-23 10:05:07+00:00"
-[_metadata_:publish_date]:- "2008-08-26"
 [_metadata_:description]:- "If you're reading this, that means the grand reveal has happened and you're enjoying the all-new magicthegathering.com. From a significant improvement in layout and design to additional daily content and enhanced localization across all nine languages, we hope there's something for every fan to enjoy.We burned the midnight oil to get it ready for public viewing on Tuesday, but"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-26"
 ---
 
 

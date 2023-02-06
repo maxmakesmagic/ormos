@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp-vienna-%E2%80%93-important-updates-2014-02-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020706id_/https://magic.wizards.com/en/articles/archive/feature/gp-vienna-%E2%80%93-important-updates-2014-02-20"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:07:06+00:00"
-[_metadata_:publish_date]:- "2014-02-20"
 [_metadata_:description]:- "As we near GP Vienna (March 21-23), we would like to inform players of some additional on-site requirements implemented by Vienna authorities. As is standard practice in this region for large public events:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-20"
 ---
 
 

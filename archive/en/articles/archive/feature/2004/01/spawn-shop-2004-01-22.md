@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/spawn-shop-2004-01-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191023204257id_/https://magic.wizards.com/en/articles/archive/feature/spawn-shop-2004-01-22"
 [_metadata_:wayback_capture_timestamp]:- "2019-10-23 20:42:57+00:00"
-[_metadata_:publish_date]:- "2004-01-22"
 [_metadata_:description]:- "Don't you hate it when your creatures die? There you are, minding your own business, innocently creating a horde of hideous monsters for the express purpose of tearing your opponent into bite-size chunks, and your opponent disrespects you enough to try and stop you! That is flat-out rude behavior."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-01-22"
 ---
 
 

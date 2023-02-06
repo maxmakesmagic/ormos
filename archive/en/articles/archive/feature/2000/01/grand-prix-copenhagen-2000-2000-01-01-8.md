@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-8"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522172707id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-8"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:27:07+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Round 8 Results Table Player 1 Result Player 2 1 Canu, Franck 0-0-1 Van de Logt, Tom 2 Eskeland, Sigurd 0-2-0 Sanders Jensen, Niels 3 Angelin, Marcus 2-0-0 Monsen, Haakon R 4 Jorstedt, Mattias 02/01/00 Dall Jensen, Thomas 5 Shvartsman, Alex 0-1-0 Yeh, Gottlieb 6 Minton, Patrick 0-2-0 Franzen, Johan 7 Boeken, Noah 01/02/00 Levy, Raphael 8 Refsdal, Gunnar 02/01/00 Sochon,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

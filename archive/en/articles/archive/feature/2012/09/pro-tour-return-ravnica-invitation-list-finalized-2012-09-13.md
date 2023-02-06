@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-return-ravnica-invitation-list-finalized-2012-09-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221004140215id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-return-ravnica-invitation-list-finalized-2012-09-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-10-04 14:02:15+00:00"
-[_metadata_:publish_date]:- "2012-09-13"
 [_metadata_:description]:- "With the World Magic Cup and Players Championship in the books, attention is turning toward the release of Return to Ravnica. The invitation list for Pro Tour Return to Ravnica has been finalized, with a total of 437 players invited to Seattle to battle in the Modern and Return to Ravnica Booster Draft formats on October 19-21."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-09-13"
 ---
 
 

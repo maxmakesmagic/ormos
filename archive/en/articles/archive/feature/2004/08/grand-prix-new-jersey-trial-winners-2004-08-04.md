@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-jersey-trial-winners-2004-08-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021213603id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-jersey-trial-winners-2004-08-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 21:36:03+00:00"
-[_metadata_:publish_date]:- "2004-08-04"
 [_metadata_:description]:- "StatusOrganizerCityDateFirst NameLast NamePRORay PowersSan Diego15-May-04jameskleinPROSteve FerrellKansas City20-Jun-04GimChuPROMichael GuptilColumbus25-Jun-04DonaldBelcastroPROJason HowlettBirmingham26-Jun-04AlanMaiPROJim BaileyHigh Point26-Jun-04EdwardBlanchettePROConan BlackwellSF Bay Area26-Jun-04TristanGregsonPROBrenden HillStandish26-Jun-04ChrisJarmakPROLynson"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-08-04"
 ---
 
 

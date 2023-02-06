@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/angels-outfield-2012-10-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122131401id_/https://magic.wizards.com/en/articles/archive/feature/angels-outfield-2012-10-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-22 13:14:01+00:00"
-[_metadata_:publish_date]:- "2012-10-02"
 [_metadata_:description]:- "So, with the release of Avacyn Restored, Magic gained access to miracles. The cards came across as unique and completely different, but also very powerful. Immediately following the release of Avacyn Restored, the set's Pro Tour was won by a White-Blue Miracle deck. From there, the mechanic took a turn to Legacy, where Brainstorm allows it to be manipulated more. We have not seen all that much from miracles in Standard, though."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-10-02"
 ---
 
 

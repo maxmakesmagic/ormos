@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2021-02-12?src=q05_cig"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210225150726id_/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2021-02-12?src=q05_cig"
 [_metadata_:wayback_capture_timestamp]:- "2021-02-25 15:07:26+00:00"
-[_metadata_:publish_date]:- "2021-02-12"
 [_metadata_:description]:- "Take a look at the decklists and strategies in the latest Challenger Deck release!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-02-12"
 ---
 
 

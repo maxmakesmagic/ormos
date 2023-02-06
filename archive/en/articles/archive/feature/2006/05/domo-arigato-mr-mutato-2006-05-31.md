@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/domo-arigato-mr-mutato-2006-05-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118111656id_/https://magic.wizards.com/en/articles/archive/feature/domo-arigato-mr-mutato-2006-05-31"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 11:16:56+00:00"
-[_metadata_:publish_date]:- "2006-05-31"
 [_metadata_:description]:- "Mutants. Freaks of nature. Unnatural lifeforms augmented through rampant experimentation. No, I'm not talking about the contestants on Canadian Idol. I'm talking about the creations of those creepy bio-mancers of the Simic Combine. Led by Magic's first Elf Chimp Wizard, Momir Vig, the Simic hold a lot of appeal for those of us who spent part of our youths pulling the wings off"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-05-31"
 ---
 
 

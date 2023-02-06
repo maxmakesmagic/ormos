@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/young-jund-2014-03-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809133312id_/https://magic.wizards.com/en/articles/archive/feature/young-jund-2014-03-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-09 13:33:12+00:00"
-[_metadata_:publish_date]:- "2014-03-27"
 [_metadata_:description]:- "Jund is noticeably lacking the Thragtusks and Huntmaster of the Fells it used to have. One option is to go the `Boss Jund` route with cards like Sylvan Caryatid and either Stormbreath Dragon or Desecration Demon. However, another option is to play more of a beatdown-oriented game centered on incremental damage. Strangledangles used the latter option with Burning-Tree Emissary,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-03-27"
 ---
 
 

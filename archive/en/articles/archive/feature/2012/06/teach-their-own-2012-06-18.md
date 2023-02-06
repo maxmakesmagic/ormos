@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/teach-their-own-2012-06-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170213022031id_/http://magic.wizards.com/en/articles/archive/feature/teach-their-own-2012-06-18"
 [_metadata_:wayback_capture_timestamp]:- "2017-02-13 02:20:31+00:00"
-[_metadata_:publish_date]:- "2012-06-18"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-18"
 ---
 
 

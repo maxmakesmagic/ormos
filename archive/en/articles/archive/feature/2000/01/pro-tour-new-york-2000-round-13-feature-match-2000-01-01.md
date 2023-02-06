@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-13-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120181047id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-13-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:10:47+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler It was yet another Rebel on Rebel mirror matchup in round 13, but neither player was complaining. Mattias Kettil was in his first Pro Tour while Mark Globus was in his 3rd. Despite their inexperience on Tour, both players had earned 27 points already and needed only a win and a draw to get to the Magic 31 point total, which is believed to be enough to make the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

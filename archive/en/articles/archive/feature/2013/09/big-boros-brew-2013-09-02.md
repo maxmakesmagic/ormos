@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/big-boros-brew-2013-09-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815114916id_/https://magic.wizards.com/en/articles/archive/feature/big-boros-brew-2013-09-02"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:49:16+00:00"
-[_metadata_:publish_date]:- "2013-09-02"
 [_metadata_:description]:- "The newest incarnation of Chandra, Pyromaster is apparently a force to be reckoned with, at least according to Chris VanMeter's article on Big Boros. As promised, the deck is a higher-curve take on an aggressive archetype, and lands squarely in midrange territory."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-02"
 ---
 
 

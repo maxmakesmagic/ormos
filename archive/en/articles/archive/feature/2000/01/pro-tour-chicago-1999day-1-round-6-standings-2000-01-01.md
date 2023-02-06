@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-6-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124022530id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-6-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:25:30+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Baberowski, Dirk 18 66.6667 66.6667 60.9232 6/6/0/0 2 Davis, Brian 18 60.1852 80.0000 55.7242 6/6/0/0 3 Luhrs, Christian 18 59.2593 85.7143 54.3384 6/6/0/0 4 Dobson, Tony 18 55.5556 75.0000 51.7361 6/6/0/0 5 Hron, Mike 16 62.9630 73.3333 57.6122 6/5/1/0 6 Marsh, Warren 16 54.8148 73.3333 55.3775 6/5/1/0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

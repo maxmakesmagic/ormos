@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/night-rarely-good-2008-02-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121224246id_/https://magic.wizards.com/en/articles/archive/feature/night-rarely-good-2008-02-21"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 22:42:46+00:00"
-[_metadata_:publish_date]:- "2008-02-21"
 [_metadata_:description]:- "Hidey-ho, fellow magicians! It's that time of year again: the third week of February! Is there a more thrilling segment of the calendar? Besides every other week of the year, I can't think of one. February's got a little bit of everything: ice, snow, a smidgeon of forced romance, and, let's not forget, slush. It's like a nonstop party, especially if you're a polar bear in a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-02-21"
 ---
 
 

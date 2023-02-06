@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030080209id_/https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 08:02:09+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Table Player   Opponent 3 Ruel, Antoine vs. Gunther, Raphael F. 4 Svaldi, Guilherme Dei vs. Hino, Celso M 7 Gabrenja, Matias vs. Leite da Silva, Guilherme Am 1 Quinta, Matheus Chaud vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524121657id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 12:16:57+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Kevin Dolbeare, level 2 judge from Idaho Falls, Idaho. Brady Dommermuth, R&D Technical Writer and level 2 judge.  Lan Ho (from Texas) vs. Geddes Cooper (of JSS fame) Geddes Cooper, top seed after day 1 at JSS Championships 1999  Bob Maher (PT-Chicago Champion) and Darwin Kastle (PT-Washington D.C. Champion) Daniel OMS, PT-Washington D.C. third place team finisher  Finkeltron"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

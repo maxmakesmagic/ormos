@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-owling-mine-2013-12-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170328230215id_/http://magic.wizards.com/en/articles/archive/feature/modern-owling-mine-2013-12-16"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-28 23:02:15+00:00"
-[_metadata_:publish_date]:- "2013-12-16"
 [_metadata_:description]:- "This is an old-school deck from Kamigawa times that has been rearing its head in Modern on Magic Online. What's interesting is just how similar it is to the old-school version from that timeframe. Magic Invitational winner and Snapcaster Mage himself, Tiago Chan, piloted a version of this deck to the Top 8 of Pro Tour Honolulu in 2006."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-12-16"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ten-land-green-2010-07-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025085553id_/https://magic.wizards.com/en/articles/archive/feature/ten-land-green-2010-07-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:55:53+00:00"
-[_metadata_:publish_date]:- "2010-07-30"
 [_metadata_:description]:- "[decklist] Title: Lars Hofmann's Ten-Land Green Format: Legacy 10 Forest 3 Ghazbán Ogre 4 Elvish Spirit Guide 4 Quirion Ranger 4 River Boa 4 Rogue Elephant 4 Skarrgan Pit-Skulk 4 Skyshroud Elite 4 Vine Dryad 2 Berserk 3 Bounty of the Hunt 3 Giant Growth 4 Land Grant 3 Briar Shield 4 Rancor *3 Naturalize *4 Oxidize *2 Compost *3 Tormod's Crypt [/decklist]When a players first"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-30"
 ---
 
 

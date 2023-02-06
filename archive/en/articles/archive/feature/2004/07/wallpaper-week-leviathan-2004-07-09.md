@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-leviathan-2004-07-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020223713id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-leviathan-2004-07-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 22:37:13+00:00"
-[_metadata_:publish_date]:- "2004-07-09"
 [_metadata_:description]:- "This week's desktop wallpaper is Mark Tedin's Leviathan from the The Dark set. Enjoy! 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-07-09"
 ---
 
 

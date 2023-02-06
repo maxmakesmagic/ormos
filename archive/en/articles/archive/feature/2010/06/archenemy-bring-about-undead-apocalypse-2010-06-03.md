@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/archenemy-bring-about-undead-apocalypse-2010-06-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614170952id_/http://magic.wizards.com/en/articles/archive/feature/archenemy-bring-about-undead-apocalypse-2010-06-03"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-14 17:09:52+00:00"
-[_metadata_:publish_date]:- "2010-06-03"
 [_metadata_:description]:- "You saw the Archenemy deck `Assemble the Doomsday Machine` last Turesday. So naturally you've been on pins and needles wondering when you'd get to see the next one. The answer is: right now!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-06-03"
 ---
 
 

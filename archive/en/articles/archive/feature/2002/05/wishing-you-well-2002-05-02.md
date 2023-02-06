@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wishing-you-well-2002-05-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201103024id_/https://magic.wizards.com/en/articles/archive/feature/wishing-you-well-2002-05-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-01 10:30:24+00:00"
-[_metadata_:publish_date]:- "2002-05-02"
 [_metadata_:description]:- "I am going to try and write this entire article without mentioning Ring of Ma'ruf. Wait, did I just say it? Dangit! Okay, starting now...The Wishes might be the single best reason that casual players have to start using sideboards. At the very least, Judgment signals a whole slew of House Rules about what “own from outside the game” means. Today, I'll assume that “own from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-05-02"
 ---
 
 

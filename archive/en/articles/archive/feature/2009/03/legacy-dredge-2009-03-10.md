@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-dredge-2009-03-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811114904id_/https://magic.wizards.com/en/articles/archive/feature/legacy-dredge-2009-03-10"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-11 11:49:04+00:00"
-[_metadata_:publish_date]:- "2009-03-10"
 [_metadata_:description]:- "[decklist] Title: Yuu Fukudome's Dredge Format: Legacy Open, Pro Tour-Kyoto 4 Cephalid Coliseum 3 City of Brass 3 Gemstone Mine 1 Underground Sea 2 Cephalid Sage 1 Flame-Kin Zealot 4 Golgari Grave-Troll 3 Golgari Thug 3 Ichorid 4 Narcomoeba 3 Putrid Imp 4 Stinkweed Imp 1 Woodfall Primus 4 Breakthrough 4 Bridge from Below 4 Cabal Therapy 3 Careful Study 2 Deep Analysis 3 Dread"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-03-10"
 ---
 
 

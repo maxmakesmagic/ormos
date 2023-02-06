@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurfinal-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518154339id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurfinal-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 15:43:39+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name 1 Soh, Ryan Siong Huat 2 Tham, Tishen 3 Au Yong, Wai Kin 4 Ikeda, Tsuyoshi 5 Nobushita, Jun 6 Yamada, Tsutomu 7 Law, Albertus Hui Chin 8 Khoo, Wei Ren 9 Hew, Jun-Wei 10 Thong, Scott 11 Len, Jim 12 Noda, Koji 13 Ng, Wesley 14 Yeong, Lance Chin Wei 15 Higashino, Masayuki 16 Hoh, Derik 17 Phang, Ben Neng 18 Ling, Alec 19 Wong, Nicholas Jonathan 20 Hoon, Kelvin Yew Teck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

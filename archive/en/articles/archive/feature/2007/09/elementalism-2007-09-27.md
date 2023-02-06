@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/elementalism-2007-09-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429025925id_/https://magic.wizards.com/en/articles/archive/feature/elementalism-2007-09-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:59:25+00:00"
-[_metadata_:publish_date]:- "2007-09-27"
 [_metadata_:description]:- "The year was 1997, and I was as casual a player as they come. My pride and joy was The Elemental Deck, a blue-red deck that featured—you guessed it—Elementals. And not just some Elementals, or my favorite Elementals. No. The Elemental Deck had The Elementals in it. All of them. In Magic. Good, bad, or indifferent. Elementally Challenged As far as I knew, anyway. Back then, it"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-09-27"
 ---
 
 

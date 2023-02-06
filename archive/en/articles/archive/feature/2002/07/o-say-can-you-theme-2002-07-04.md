@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/o-say-can-you-theme-2002-07-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202135441id_/https://magic.wizards.com/en/articles/archive/feature/o-say-can-you-theme-2002-07-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-02 13:54:41+00:00"
-[_metadata_:publish_date]:- "2002-07-04"
 [_metadata_:description]:- "I was recently talking to Mark Rosewater about ideas for theme deck formats. What if I gathered my friends together, I suggested, for our very own World Cup tournament? Each person could bring a theme deck that represented a country, and only one deck per country could enter. Imagine it: A green-white-red `Mexico` deck squaring off against the monogreen `Ireland` deck. A"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-07-04"
 ---
 
 

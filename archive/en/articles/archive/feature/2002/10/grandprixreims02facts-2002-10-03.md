@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixreims02facts-2002-10-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809043717id_/https://magic.wizards.com/en/articles/archive/feature/grandprixreims02facts-2002-10-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-09 04:37:17+00:00"
-[_metadata_:publish_date]:- "2002-10-03"
 [_metadata_:description]:- "Magic: The Gathering Pro Tour™-Venice QualifierNovember 30 – December 1, 2002 The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.PRE-REGISTRATIONYou can now pre-register online for this exciting event!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-10-03"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/worlds-magic-origins-2015-07-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150712181041id_/http://magic.wizards.com/en/articles/archive/feature/worlds-magic-origins-2015-07-09"
 [_metadata_:wayback_capture_timestamp]:- "2015-07-12 18:10:41+00:00"
-[_metadata_:publish_date]:- "2015-07-09"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Your guide to the ten planes showcased in Magic Origins."
+[_metadata_:publish_date]:- "2015-07-09"
 ---
 
 

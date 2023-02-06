@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shadowmoor-%E2%80%93-hole-story-2008-05-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201020022135id_/https://magic.wizards.com/en/articles/archive/feature/shadowmoor-%E2%80%93-hole-story-2008-05-12"
 [_metadata_:wayback_capture_timestamp]:- "2020-10-20 02:21:35+00:00"
-[_metadata_:publish_date]:- "2008-05-12"
 [_metadata_:description]:- "When I first joined the Shadowmoor development team (codenamed `Jelly` at the time), I wasn't sure what to expect. I had already put in some time on the `Doughnut` (now Eventide) design team, but this was my first development team. I was eager to try my hand at the development side of R&D, if for no other reason than to learn what exactly goes on during a set's development. I was somewhat surprised to learn that much of development is really just a different type of design, wherein many of the same skills get used."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-05-12"
 ---
 
 

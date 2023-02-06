@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/player-profile-cedric-phillips-2012-12-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330211105id_/http://magic.wizards.com/en/articles/archive/feature/player-profile-cedric-phillips-2012-12-21"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-30 21:11:05+00:00"
-[_metadata_:publish_date]:- "2012-12-21"
 [_metadata_:description]:- "&#13; Getting to Know You&#13; &#13; &#13; &#13; &#13; &#13; Name:&#13; Cedric Phillips&#13; &#13; Age:&#13; 26"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-12-21"
 ---
 
 

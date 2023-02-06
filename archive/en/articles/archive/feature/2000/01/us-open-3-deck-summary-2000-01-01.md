@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-3-deck-summary-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519013434id_/https://magic.wizards.com/en/articles/archive/feature/us-open-3-deck-summary-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 01:34:34+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Deck Round 1 % of field Round 2 Remain % Round 3 Remain % Round 4 Remain % Round 5 Remain % Final Remain % Replenish 14 11.97% 9 64% 5 36% 1 7% 1 7% 0 0% Trinity Green 11 9.40% 9 82% 5 45% 3 27% 2 18% 0 0% Black Control 11 9.40% 6 55% 4 36% 3 27% 1 9% 1 9% Ponza 11 9.40% 5 45% 2 18% 2 18% 1 9% 1 9% Suicide Black 9 7.69% 5 56% 2 22% 0 0% 0 0% 0 0% Rebel 9 7.69% 3 33% 2 22% 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

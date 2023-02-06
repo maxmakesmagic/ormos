@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/merfolk-opposition-2009-09-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170703104910id_/http://magic.wizards.com/en/articles/archive/feature/merfolk-opposition-2009-09-22"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-03 10:49:10+00:00"
-[_metadata_:publish_date]:- "2009-09-22"
 [_metadata_:description]:- "[decklist] Title: Alex Borteh's Monoblue Aggro-Control Format: World Championships 2001 20 Island 2 Darting Merfolk 4 Lord of Atlantis 4 Merfolk Looter 4 Merfolk of the Pearl Trident 4 Vodalian Merchant 2 Waterfront Bouncer 4 Counterspell 4 Gush 4 Opposition 4 Static Orb 4 Thwart *3 Hibernation *3 Mana Maze *2 Misdirection *2 Prodigal Sorcerer *1 Rushing River *2 Teferi's Response *2 Wash Out"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-22"
 ---
 
 

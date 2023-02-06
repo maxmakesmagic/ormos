@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/decklists-and-new-art-duel-decks-jace-vs-vraska-2014-02-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161124194739id_/http://magic.wizards.com/en/articles/archive/feature/decklists-and-new-art-duel-decks-jace-vs-vraska-2014-02-26"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-24 19:47:39+00:00"
-[_metadata_:publish_date]:- "2014-02-26"
 [_metadata_:description]:- "&#13; In just a couple weeks, on March 14, 2014, we will be releasing Duel Decks: Jace vs. Vraska!&#13; What are the two Planeswalkers bringing to the fight? Let's look at the decklists!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-26"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-8-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529032054id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-8-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-29 03:20:54+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Akbar, David ( 60) 15 14 Ferguson, Cory ( 61) 15 Allen, Dustin ( 36) 7 50 Winkelstien, Jerry ( 1) 7 Aubertin, Justin ( 3) 9 47 Mourssali, Riad (103) 9 Beckmon, Jon ( 15) 13 17 Ho, Ken ( 27) 13 Benafel, Chris ( 50) 19 1 Lieberman, Alex ( 59) 19 Bhattacharyya, Sayan ( 39) 16 5 Turian, Michael (152) 16 Blackwell, Trevor (130) 15 8 Pustilnik, Michael"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

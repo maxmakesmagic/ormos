@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/invitation-list-pro-tour-paris-2011-2010-10-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025070655id_/https://magic.wizards.com/en/articles/archive/feature/invitation-list-pro-tour-paris-2011-2010-10-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 07:06:55+00:00"
-[_metadata_:publish_date]:- "2010-10-04"
 [_metadata_:description]:- "Invitations to the Pro Tour Paris 2011 are awarded in the following manner: The 2010 World Champion. The 2010 Pro Tour Player of the Year. The Top 50 players from Pro Tour Amsterdam The Top 50 players from the 2010 World Championship. Players from the 4 top teams (including alternate) from the 2010 World Championship Team Event. Players with 2011 Pro Tour Players Club level 6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-10-04"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/june-2011-update-bulletin-2011-06-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111192929id_/https://magic.wizards.com/en/articles/archive/feature/june-2011-update-bulletin-2011-06-10"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-11 19:29:29+00:00"
-[_metadata_:publish_date]:- "2011-06-10"
 [_metadata_:description]:- "Surprise! The original plan was that you wouldn't be hearing from me until the Magic 2012 Oracle update, but Magic: The Gathering Commander brought some interesting changes, and I thought I'd take this opportunity to walk you through them. We limited the card updates this time around to the new cards in this product, cards receiving new templates involving hexproof, and two fixes for minor errors we discovered after the New Phyrexia update."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-2011-community-cup-begins-2011-06-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024131530id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-2011-community-cup-begins-2011-06-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 13:15:30+00:00"
-[_metadata_:publish_date]:- "2011-06-14"
 [_metadata_:description]:- "The teams have been chosen and players are prepping vigorously for the Community Cup that begins this Wednesday! While the Community Team is confident, basking in the glory of two consecutive Community Cup wins, the Wizards Team has gone old school: drafting while doing wind sprints on the beach, tweaking Unified Modern sideboards while pulling sleighs in the Russian steppes,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-14"
 ---
 
 

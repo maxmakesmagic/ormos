@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-6-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518111404id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-6-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 11:14:04+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 O'Mahoney-Schwartz, Steve 18 77.78 2 Sullivan, Adrian 18 75.00 3 Jafari, David 18 74.07 4 Heffern, Mike 18 72.22 5 Rauseo, Matt 18 70.00 6 Pacheco, Marc 18 69.11 7 Heiss, Nathan 18 68.33 8 Turning, Travis 18 67.78 9 Price, David 18 66.67 10 Schaub, Matt 18 66.67 11 Brackett, Derek 16 61.00 12 Cain, Joseph 15 88.89 13 Mowshowitz, Zvi 15 83.33 14"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

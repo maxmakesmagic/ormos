@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/state-province-territory-island-city-guilds-2005-10-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130154959id_/https://magic.wizards.com/en/articles/archive/feature/state-province-territory-island-city-guilds-2005-10-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-30 15:49:59+00:00"
-[_metadata_:publish_date]:- "2005-10-13"
 [_metadata_:description]:- "Every fall, Champs rolls around as a series of tournaments around the world. As the first tournaments to showcase the new main set each year, Champs defines Standard for the year to come. This year, the new set is the souped-up gold-bordered powerhouse Ravnica: City of Guilds. This set will contribute both additions to existing decks and brand new archetypes that will give"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-13"
 ---
 
 

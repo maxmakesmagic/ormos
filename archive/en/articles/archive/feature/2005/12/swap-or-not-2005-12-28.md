@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/swap-or-not-2005-12-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813151846id_/https://magic.wizards.com/en/articles/archive/feature/swap-or-not-2005-12-28"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 15:18:46+00:00"
-[_metadata_:publish_date]:- "2005-12-28"
 [_metadata_:description]:- "When I came over to talk with Scott and he gave me this topic I knew it was a hit right away. Scott had been saving it up for some time. By no means did I give it all the attention it deserves in this first article, but for a first step I think I did it justice.On turn two, each player plays a creature. On turn three, one attacks and the other blocks. Both creatures die. This"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-12-28"
 ---
 
 

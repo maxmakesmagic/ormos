@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221014143210id_/https://magic.wizards.com/en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-10-14 14:32:10+00:00"
-[_metadata_:publish_date]:- "2022-09-20"
 [_metadata_:description]:- "From Box Topper shock lands to a twist on The List and galaxy foils, a vast universe of cards awaits you in Unfinity!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-09-20"
 ---
 
 

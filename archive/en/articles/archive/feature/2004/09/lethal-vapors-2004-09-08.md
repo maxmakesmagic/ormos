@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lethal-vapors-2004-09-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170812051116id_/http://magic.wizards.com/en/articles/archive/feature/lethal-vapors-2004-09-08"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-12 05:11:16+00:00"
-[_metadata_:publish_date]:- "2004-09-08"
 [_metadata_:description]:- "Time Walk. When it comes to powerful cards, this is one of the best – no one will contest that. As an avid 5-color player (the paper-based real world inspiration for MTGO's Prismatic format), there are all kinds of old-school cards you'd love to have in your deck. I always tell people that simply having a single Time Walk in your deck increases your deck's power by twelve times. “Now your deck is twelve times as powerful. Do the math!”"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-09-08"
 ---
 
 

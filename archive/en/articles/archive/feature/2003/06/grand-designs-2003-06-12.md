@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-designs-2003-06-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418110936id_/https://magic.wizards.com/en/articles/archive/feature/grand-designs-2003-06-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-18 11:09:36+00:00"
-[_metadata_:publish_date]:- "2003-06-12"
 [_metadata_:description]:- "So, Top-Down Week, huh? I wasn’t sure what to make of this topic. Was there some sort of “Elves Gone Wild” flashing in the works? Would each of the columnists be receiving a new convertible for their efforts? Not yet (though they’re probably saving the free cars for the end of the week, right?) No, “top down” refers to the process of starting a design with a high concept and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-06-12"
 ---
 
 

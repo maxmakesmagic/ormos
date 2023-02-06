@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-december-13-19-2008-12-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026003647id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-december-13-19-2008-12-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:36:47+00:00"
-[_metadata_:publish_date]:- "2008-12-19"
 [_metadata_:description]:- "December 16-20, 2002: Tempest WeekIf you were wondering why the Tempest archive from last month didn't include everything from Duelist #20, the answer is that we'd already run those articles six years earlier, along with articles by Mark Rosewater, Randy Buehler, Jay Moldenhauer-Salazar, Anthony Alongi, and Ben Bleiweiss. Take a hop in the time machine back to 2002 and read"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-19"
 ---
 
 

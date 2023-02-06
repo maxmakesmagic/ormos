@@ -22,10 +22,16 @@ log = logging.getLogger(__name__)
 if __name__ == "__main__":
     streamhandler = logging.StreamHandler(stream=sys.stdout)
     streamhandler.setLevel(logging.DEBUG)
-    streamhandler.setFormatter(logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s"))
-    filehandler = logging.FileHandler(filename=f"{os.path.basename(__file__)}.log", mode="w")
+    streamhandler.setFormatter(
+        logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s")
+    )
+    filehandler = logging.FileHandler(
+        filename=f"{os.path.basename(__file__)}.log", mode="w"
+    )
     filehandler.setLevel(logging.DEBUG)
-    filehandler.setFormatter(logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s"))
+    filehandler.setFormatter(
+        logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s")
+    )
 
     root_logger = logging.getLogger()
     root_logger.addHandler(streamhandler)

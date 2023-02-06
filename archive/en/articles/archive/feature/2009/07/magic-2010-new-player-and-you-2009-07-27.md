@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2010-new-player-and-you-2009-07-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190721205159id_/https://magic.wizards.com/en/articles/archive/feature/magic-2010-new-player-and-you-2009-07-27"
 [_metadata_:wayback_capture_timestamp]:- "2019-07-21 20:51:59+00:00"
-[_metadata_:publish_date]:- "2009-07-27"
 [_metadata_:description]:- "Magic 2010 is out on the street and it sure feels good! It has been almost two years since former co-worker Jake Theis and I first discussed the idea of revamping the core set so that we could make it a yearly occurrence, and after many meetings, playtests, and pitches, I'm so happy for it to be a reality. Adding to my good feelings, all initial indicators are that you, the community, have embraced it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-27"
 ---
 
 

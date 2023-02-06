@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-championship-decks-2004-2008-08-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120183441id_/https://magic.wizards.com/en/articles/archive/feature/world-championship-decks-2004-2008-08-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:34:41+00:00"
-[_metadata_:publish_date]:- "2008-08-12"
 [_metadata_:description]:- "Collector's Highlights We gathered four of the best decks from the 2004 World Championships held in San Francisco, California. Each of these decks was constructed by a Pro Tour player for the Standard Constructed envrionment at the time, which included the Onslaught and Mirrodin blocks as well as the Eighth Edition Core Set. Each deck features a 60 card main deck, 15 card"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-12"
 ---
 
 

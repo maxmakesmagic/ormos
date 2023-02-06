@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/myrrer-myrrer-2004-06-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160626170936id_/http://magic.wizards.com/en/articles/archive/feature/myrrer-myrrer-2004-06-10"
 [_metadata_:wayback_capture_timestamp]:- "2016-06-26 17:09:36+00:00"
-[_metadata_:publish_date]:- "2004-06-10"
 [_metadata_:description]:- "Myr Week—it's no mere week! Instead, it's a week devoted to our plucky little metallic buddies. But before we get into decks, let's get lexicographal!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-06-10"
 ---
 
 

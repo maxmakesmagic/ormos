@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-2-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521234044id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-2-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 23:40:44+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Pat Chapin vs. Dirk Baberowski Dirk Baberowski Pat Chapin and Dirk Baberowski Reigning Pro Tour Chicago champion and Rookie of the year Dirk Baberowski sat down for this match with a green-blue Oath of Druids deck in his hand. The Germans decided to drop out all the white mana from the traditional Oath deck because they wanted to use Thawing Glaciers and you just can't run"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/combo-elves-2010-02-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808231425id_/https://magic.wizards.com/en/articles/archive/feature/combo-elves-2010-02-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-08 23:14:25+00:00"
-[_metadata_:publish_date]:- "2010-02-22"
 [_metadata_:description]:- "[decklist] Title: Matt Nass's Combo Elves Format: Extended - Grand Prix–Oakland 4 Forest 3 Horizon Canopy 4 Misty Rainforest 1 Pendelhaven 1 Temple Garden 4 Verdant Catacombs 2 Arbor Elf 4 Boreal Druid 4 Elvish Archdruid 4 Elvish Visionary 1 Essence Warden 1 Eternal Witness 4 Heritage Druid 4 Llanowar Elves 4 Nettle Sentinel 1 Ranger of Eos 1 Regal Force 4 Cloudstone Curio 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-02-22"
 ---
 
 

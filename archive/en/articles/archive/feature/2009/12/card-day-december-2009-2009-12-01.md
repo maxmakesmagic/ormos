@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-december-2009-2009-12-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630172407id_/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2009-2009-12-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-30 17:24:07+00:00"
-[_metadata_:publish_date]:- "2009-12-01"
 [_metadata_:description]:- "Infernal Spawn of Evil – Unglued rare. The staff of Daily MTG is taking two weeks off to recharge their batteries. While we rerun our favorite articles from 2009, we encourage you to wrap yourself in a scarf, have some hot chocolate, and tell yourself `It's coming ... back on January 4, 2010.` Goblin Bookie – Unglued common. Like many Un-cards, Goblin Bookie doesn't work"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-12-01"
 ---
 
 

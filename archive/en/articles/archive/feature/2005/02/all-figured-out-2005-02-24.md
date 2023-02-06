@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/all-figured-out-2005-02-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207063622id_/https://magic.wizards.com/en/articles/archive/feature/all-figured-out-2005-02-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-07 06:36:22+00:00"
-[_metadata_:publish_date]:- "2005-02-24"
 [_metadata_:description]:- "Today I think I'll reveal the mystery of life. Sure, a Magic column on the Internet isn't the most likely place to make such an earth-shaking philosophical revelation, but since over 2.3 billion people read this column each week, it's the best way to get word of mouth going. Who do you trust more: CNN, or me? First, a little background. The mystery revealed itself to me on day"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-02-24"
 ---
 
 

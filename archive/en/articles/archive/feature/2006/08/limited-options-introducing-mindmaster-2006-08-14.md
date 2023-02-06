@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/limited-options-introducing-mindmaster-2006-08-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112024820id_/https://magic.wizards.com/en/articles/archive/feature/limited-options-introducing-mindmaster-2006-08-14"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:48:20+00:00"
-[_metadata_:publish_date]:- "2006-08-14"
 [_metadata_:description]:- "We all do it sooner or later. Some of us think that it's normal. We may not even realize that there's an alternative. Others know what a strange and unnatural thing it is, and cringe even as we indulge our darker passions. We all give in eventually. You have, and I have, and the sooner we admit that it's a problem, the sooner we'll get through it.I am talking, of course, about opening packs.What's that you say? There's nothing wrong with opening packs? We need to talk."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-08-14"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwake-product-section-2010-01-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518211428id_/https://magic.wizards.com/en/articles/archive/feature/worldwake-product-section-2010-01-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 21:14:28+00:00"
-[_metadata_:publish_date]:- "2010-01-20"
 [_metadata_:description]:- "Ihe t's time for another update to the Worldwake Product Section! There's a new puzzle! A new setting preview! And there's the Visual Spoiler, an archive of all preview cards that have been officially released. Have you missed any cards? Here's one we showed on the @dailymtg Twitter feed yesterday:That card, along with other cards that have been previewed, shows up on the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-20"
 ---
 
 

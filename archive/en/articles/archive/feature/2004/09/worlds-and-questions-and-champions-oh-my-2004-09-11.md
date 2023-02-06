@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worlds-and-questions-and-champions-oh-my-2004-09-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519182528id_/https://magic.wizards.com/en/articles/archive/feature/worlds-and-questions-and-champions-oh-my-2004-09-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 18:25:28+00:00"
-[_metadata_:publish_date]:- "2004-09-11"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.2004 World Champion Julien NuitjenCongratulations to our new World Champion, the Netherlands's Julien Nuijten. Congratulations also go to our Player of the Year, France's Gabriel"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-09-11"
 ---
 
 

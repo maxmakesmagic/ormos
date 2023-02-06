@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/picking-pieces-2002-11-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116190239id_/https://magic.wizards.com/en/articles/archive/feature/picking-pieces-2002-11-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-16 19:02:39+00:00"
-[_metadata_:publish_date]:- "2002-11-28"
 [_metadata_:description]:- "The comparisons between Magic and chess are inescapable, and parallels between the two games could fill an entire article. I’m not going to make those parallels today, but hopefully you see them. In fact, my explanation of Magic to non-Magic players is usually, “Imagine chess with thousands of different possible pieces where each piece, when played, changes the rules of the game. Then throw in the luck and bluffing of poker. That’s Magic.”"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-11-28"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-mechanics-2020-09-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200907051010id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-mechanics-2020-09-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-07 05:10:10+00:00"
-[_metadata_:publish_date]:- "2020-09-01"
 [_metadata_:description]:- "Check out all the mechanics from the upcoming Zendikar Rising, some returning and some new."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-09-01"
 ---
 
 

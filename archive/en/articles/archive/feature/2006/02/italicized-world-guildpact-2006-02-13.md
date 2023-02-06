@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/italicized-world-guildpact-2006-02-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429032830id_/https://magic.wizards.com/en/articles/archive/feature/italicized-world-guildpact-2006-02-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:28:30+00:00"
-[_metadata_:publish_date]:- "2006-02-13"
 [_metadata_:description]:- "Writing flavor text for Magic cards is among the weirdest of ways to get paid for writing. It's still writing, of course—that grueling process of opening a vein and pouring your lifeblood into a nearby keyboard. You still get inside characters' heads and compose realistic scenes based on the setting; you still dread the deadlines and pull off marathon writing sessions the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-02-13"
 ---
 
 

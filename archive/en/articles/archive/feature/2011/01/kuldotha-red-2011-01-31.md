@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/kuldotha-red-2011-01-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170424122654id_/http://magic.wizards.com/en/articles/archive/feature/kuldotha-red-2011-01-31"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-24 12:26:54+00:00"
-[_metadata_:publish_date]:- "2011-01-31"
 [_metadata_:description]:- "[decklist] Title: Zac Hill's Kuldotha Red Format: Standard 4 Contested War Zone 13 Mountain 4 Goblin Guide 4 Goblin Bushwhacker 4 Memnite 4 Ornithopter 1 Goblin Wardriver 3 Flayer Husk 4 Signal Pest 1 Chimeric Mass 4 Kuldotha Rebirth 4 Lightning Bolt 4 Panic Spellbomb 2 Devastating Summons 4 Mox Opal"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-31"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-february-7-13-2009-02-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128222021id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-february-7-13-2009-02-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-28 22:20:21+00:00"
-[_metadata_:publish_date]:- "2009-02-13"
 [_metadata_:description]:- "February 9-11, 2007: Mike Hron Wins Pro Tour–Geneva 2007 It had been over six years since an American had won a Limited Pro Tour. But Wisconsin's Mike Hron turned that around with his virtuoso performance in Time Spiral Booster Draft. The final match against Takuya Osawa was one for the ages, culminating in a rare Osawa misplay when he appeared to misread Spectral Force. Also"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-13"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-17-5"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021130746id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-17-5"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 13:07:46+00:00"
-[_metadata_:publish_date]:- "2008-12-17"
 [_metadata_:description]:- "Thanks to tournament organizer Tim Shields for the decklists.[decklist] Title: Mark Good Format: 1st Place - Utah - Ogden - 12/6 6 Forest 5 Mountain 5 Plains 1 Bant Panorama 1 Akrasan Squire 1 Wild Nacatl 1 Knight of the Skyward Eye 1 Welkin Guide 1 Yoked Plowbeast 2 Bloodpyre Elemental 2 Cavern Thoctar 1 Court Archers 1 Cylian Elf 1 Elvish Visionary 1 Mosstodon 1 Rhox Charger"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-17"
 ---
 
 

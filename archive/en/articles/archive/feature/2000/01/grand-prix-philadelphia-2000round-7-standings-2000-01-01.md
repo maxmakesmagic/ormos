@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-7-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517042414id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-7-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 04:24:14+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Emmert Mike 21 78.10 2 Stokinger, Andrew (1700) 21 75.00 3 Leiher, Peter (Q) 21 72.86 4 McLean, Drew (1700) 21 70.00 5 McCord Scott 21 67.86 6 Means, Jason (Q) (1700) 21 65.08 7 Qian, Patrick (1700) 21 61.50 8 Joyce Brian 19 64.15 9 Van Cleave, Trey (Q) 19 60.00 10 Slaughter, John (1700) 19 59.52 11 Shvartsman, Alex (Q) 18 86.90 12 Shuldiner"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

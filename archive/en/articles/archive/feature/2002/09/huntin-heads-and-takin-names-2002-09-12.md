@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/huntin-heads-and-takin-names-2002-09-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127065505id_/https://magic.wizards.com/en/articles/archive/feature/huntin-heads-and-takin-names-2002-09-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-27 06:55:05+00:00"
-[_metadata_:publish_date]:- "2002-09-12"
 [_metadata_:description]:- "In discussing the cards for this first week of Onslaught previews, Aaron conceded that I had the “weakest” card. Maybe so, but my card has the coolest name. Thragg? Hystrodon? Puh-lease. Let’s talk about the Headhunter!I am immensely happy that a card finally has the name Headhunter. Witch Hunter arrived very early in Magic’s lifespan, with Bounty Hunter and Treasure Hunter"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-09-12"
 ---
 
 

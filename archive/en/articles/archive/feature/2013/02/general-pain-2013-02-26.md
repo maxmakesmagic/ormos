@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/general-pain-2013-02-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022204250id_/https://magic.wizards.com/en/articles/archive/feature/general-pain-2013-02-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 20:42:50+00:00"
-[_metadata_:publish_date]:- "2013-02-26"
 [_metadata_:description]:- "I'm featuring this deck as an apology. Last time I wrote about Commander, I was dismissive of the plan of acceleration and card draw, essentially as its own end, as being unoriginal in Commander. The fact of the matter is that doing things in Magic is fun, and the resources that let you do things are mana and cards. As you build your deck to have more of those things, you get"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-02-26"
 ---
 
 

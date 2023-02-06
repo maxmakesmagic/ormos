@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-9-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201164820id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-9-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-01 16:48:20+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Monty Ashley Jun Nobushita vs. Derik Hon Jun Nobushita, playg the consensus `best` deck in Extended, Necro-Donate, faced Derik Hon in the Round Nine feature match. Hon was playing the most popular deck, Sligh. It's not entirely clear why Necro-Donate wasn't played by more people, considering that everyone accepts it as the deck to beat. It's possible that the cards have"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

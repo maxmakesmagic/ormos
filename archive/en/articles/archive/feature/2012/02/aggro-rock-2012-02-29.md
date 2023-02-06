@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-rock-2012-02-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016184310id_/https://magic.wizards.com/en/articles/archive/feature/aggro-rock-2012-02-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 18:43:10+00:00"
-[_metadata_:publish_date]:- "2012-02-29"
 [_metadata_:description]:- "The Magic Online Modern PTQs are continuing to unveil exciting new archetypes each week, and in the wake of Grand Prix Lincoln, players have been hungry to see what the next big deck will be. In the most recent Magic Online PTQ, Jun.I brought an exciting mix of new and old cards to create an Aggro Rock deck that cruised all the way into the Top 8. The core of an Aggro Rock"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-02-29"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/almost-gone-2005-02-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818105231id_/https://magic.wizards.com/en/articles/archive/feature/almost-gone-2005-02-26"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 10:52:31+00:00"
-[_metadata_:publish_date]:- "2005-02-26"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.February's almost over, and that means one thing: March. And what does March mean? March 1st is one of four times a year the DCI reserves to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-02-26"
 ---
 
 

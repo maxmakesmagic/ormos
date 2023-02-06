@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/conley-woods-special-2010-03-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809165914id_/https://magic.wizards.com/en/articles/archive/feature/conley-woods-special-2010-03-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-09 16:59:14+00:00"
-[_metadata_:publish_date]:- "2010-03-02"
 [_metadata_:description]:- "[decklist] Title: Tim Landale's Conley Woods Special Format: Standard – Pro Tour–San Diego 4 Arid Mesa 3 Forest 2 Mountain 2 Plains 2 Raging Ravine 1 Rootbound Crag 1 Sejiri Steppe 2 Stirring Wildwood 1 Sunpetal Grove 1 Swamp 2 Tectonic Edge 4 Verdant Catacombs 4 Acidic Slime 4 Baneslayer Angel 4 Goblin Ruinblaster 1 Kazuul, Tyrant of the Cliffs 4 Knight of the Reliquary 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-02"
 ---
 
 

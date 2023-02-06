@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-10-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524053742id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-10-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 05:37:42+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Table Opponent Adams, Joel ( 15) 23 Bandas, Jim ( 80) Ansell, Robert ( 31) 20 Vuong, Kent ( 78) Bandas, Jim ( 80) 23 Adams, Joel ( 15) Bow, Frankie ( 83) 5 MacDonald, Andrew ( 12) Bray, Jonathan ( 70) 3 Campbell, Stephen ( 69) Brebach, Kim ( 32) 4 Steele, Wayne ( 75) Brugman, John ( 41) 14 Nelson, Matthew ( 76) Campbell, Stephen ( 69) 3 Bray, Jonathan ( 70) Chan,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering%E2%80%94conspiracy-credits-2014-05-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040206id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering%E2%80%94conspiracy-credits-2014-05-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:02:06+00:00"
-[_metadata_:publish_date]:- "2014-05-07"
 [_metadata_:description]:- "Original Magic™ Game Design: Richard Garfield Initial Concept and Game Design: Shawn Main (lead), Dan Helland, David Humpherys, Kenneth Nagle, and Matt Tabak Final Game Design and Development: David Humpherys (lead), Dan Emmons, K."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-07"
 ---
 
 

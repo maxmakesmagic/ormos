@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/truth-about-english-nationals-2005-2005-08-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160817123150id_/http://magic.wizards.com/en/articles/archive/feature/truth-about-english-nationals-2005-2005-08-25"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-17 12:31:50+00:00"
-[_metadata_:publish_date]:- "2005-08-25"
 [_metadata_:description]:- "Richard Moore, at GP Birmingham '04English Nationals actually took place the week before US Nationals -- the first weekend of the month -- but there has been precious little coverage of that event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-08-25"
 ---
 
 

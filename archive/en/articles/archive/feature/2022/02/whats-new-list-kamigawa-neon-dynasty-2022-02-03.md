@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whats-new-list-kamigawa-neon-dynasty-2022-02-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220203174012id_/https://magic.wizards.com/en/articles/archive/feature/whats-new-list-kamigawa-neon-dynasty-2022-02-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-02-03 17:40:12+00:00"
-[_metadata_:publish_date]:- "2022-02-03"
 [_metadata_:description]:- "Here are the latest changes to The List, 300 cards from Magic's past you can find in Kamigawa: Neon Dynasty Set Boosters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-02-03"
 ---
 
 

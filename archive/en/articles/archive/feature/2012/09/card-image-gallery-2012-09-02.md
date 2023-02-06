@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-09-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016062224id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-09-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 06:22:24+00:00"
-[_metadata_:publish_date]:- "2012-09-02"
 [_metadata_:description]:- "White | Blue | Black | Red | Green | Other | ALL CARDS Angel of Serenity Armory Guard Arrest Avenging Arrow Azorius Arrester Azorius Justiciar Bazaar Krovod Concordia Pegasus Ethereal Armor Eyes in the Skies Fencing Ace Keening Apparition Knightly Valor Martial Law Palisade Giant Phantom General Precinct Captain Rest in Peace Rootborn Defenses Security Blockade Selesnya Sentry"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-09-02"
 ---
 
 

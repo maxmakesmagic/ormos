@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-06-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112005747id_/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-06-06"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:57:47+00:00"
-[_metadata_:publish_date]:- "2011-06-06"
 [_metadata_:description]:- "The Commander format is amazing. It's done some things that few other formats have ever done—not only did it spring from the fan community, but it creates fan communities as well, all over the world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-06"
 ---
 
 

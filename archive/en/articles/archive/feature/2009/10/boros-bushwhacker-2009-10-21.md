@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/boros-bushwhacker-2009-10-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210901213007id_/https://magic.wizards.com/en/articles/archive/feature/boros-bushwhacker-2009-10-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-09-01 21:30:07+00:00"
-[_metadata_:publish_date]:- "2009-10-21"
 [_metadata_:description]:- "[decklist] Title: Christian Calcano's Boros Bushwhacker Format: Zendikar Standard 3 Mountain 4 Plains 4 Arid Mesa 4 Marsh Flats 4 Scalding Tarn 4 Teetering Peaks 4 Elite Vanguard 2 Goblin Bushwhacker 4 Goblin Guide 4 Kor Skyfisher 4 Plated Geopede 3 Ranger of Eos 4 Steppe Lynx 4 Burst Lightning 4 Lightning Bolt 4 Path to Exile *3 Baneslayer Angel *1 Ranger of Eos *4 Celestial"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-21"
 ---
 
 

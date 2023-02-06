@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/april-school%E2%80%99s-day-2005-04-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160229072313id_/http://magic.wizards.com/en/articles/archive/feature/april-school%E2%80%99s-day-2005-04-02"
 [_metadata_:wayback_capture_timestamp]:- "2016-02-29 07:23:13+00:00"
-[_metadata_:publish_date]:- "2005-04-02"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-04-02"
 ---
 
 

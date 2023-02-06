@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/veiled-unburial-2012-08-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705101634id_/https://magic.wizards.com/en/articles/archive/feature/veiled-unburial-2012-08-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-05 10:16:34+00:00"
-[_metadata_:publish_date]:- "2012-08-09"
 [_metadata_:description]:- "If you have been reading Daily Decks recently, you know that we have not shied away from dipping our toes into the pool that is white-black. This week, we have a more traditional approach to the story that black and white typically tell. While we have recently seen things like infect, black and white more traditionally tell a story of life and death."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-09"
 ---
 
 

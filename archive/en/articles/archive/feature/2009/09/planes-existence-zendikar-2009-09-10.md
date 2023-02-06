@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planes-existence-zendikar-2009-09-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019181045id_/https://magic.wizards.com/en/articles/archive/feature/planes-existence-zendikar-2009-09-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 18:10:45+00:00"
-[_metadata_:publish_date]:- "2009-09-10"
 [_metadata_:description]:- "If planeswalkers were moths, Zendikar would be a dazzling, fiery light. All of Zendikar is dangerous. The world seems almost as though it's trying to kill its own denizens, whether with monsters, natural hazards, or traps laid for the unsuspecting. Everything on the plane is precarious, unpredictable, or just plain lethal. The world seems dead-set on protecting its unique"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-10"
 ---
 
 

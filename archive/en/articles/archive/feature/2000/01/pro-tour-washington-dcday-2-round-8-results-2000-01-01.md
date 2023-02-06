@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-8-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523215412id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-8-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:54:12+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Antarctica THL Won, 2-1 ATM Neutral Ground SF Lost, 0-2 Brown Bomber Utrecht Won, 2-1 CCC Phenomene J Won, 2-0 CMU Matrix Won, 2-0 ECA Sugar Bus Lost, 0-2 Fifth Again Fu-Ku-Ra-Mi Lost, 1-2 Fu-Ku-Ra-Mi Fifth Again Won, 2-1 Game Empire Your Move Games Won, 2-1 Goblin Gate Neutral Ground Detroit Lost, 1-2 Lost in Spain The Tank Lost, 1-2 Marc's Brothers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

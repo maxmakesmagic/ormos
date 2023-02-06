@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquarterfinals-recap-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520214432id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquarterfinals-recap-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:44:32+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Tsuyoshi Ikeda vs. Jun Nobushita The Quarterfinals saw two Japanese players, Tsuyoshi Ikeda and Jun Nobushita, paired against each other. Grand Prix Kuala Lumpur had 9 Japanese participants, three of whom advanced to the Quarterfinals. The most popular deck fielded by the Japanese was `Trix` (Necro-Donate); played by 6 participants (the remainder played CounterSliver). Both"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rise-eldrazi-product-section-2010-04-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211006102252id_/https://magic.wizards.com/en/articles/archive/feature/rise-eldrazi-product-section-2010-04-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-06 10:22:52+00:00"
-[_metadata_:publish_date]:- "2010-04-14"
 [_metadata_:description]:- "We have something exciting for you this week in the Rise of the Eldrazi Product Section. But before we get to the big news, allow us to draw your attention to the new article about Gideon Jura and the Rise of the Eldrazi version of Sarkhan Vol. And the puzzle and wallpaper! Those are also cool. But there's no denying that the big draw this time out is the complete Visual"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-04-14"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-5-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520020646id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-5-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 02:06:46+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Abueg John (331) Carroll Mark (453) Al-Doory Aziz (206) Allen Chris (436) Allen Chris (436) Al-Doory Aziz (206) Allen Crispin (571) Weaver Chad (349) Allen Tim (442) Thomsen Skye (87) Amendolia Aaron (320) Turk Eugene (507) Anders Dorian (295) Anthon J.R. (228) Anderson Alex (420) Damone Chris (447) Anderson Dan (137) Fear Edward (244) Anderson Eric (552)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

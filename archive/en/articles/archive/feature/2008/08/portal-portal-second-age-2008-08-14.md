@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/portal-portal-second-age-2008-08-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160120081341id_/http://magic.wizards.com/en/articles/archive/feature/portal-portal-second-age-2008-08-14"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-20 08:13:41+00:00"
-[_metadata_:publish_date]:- "2008-08-14"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-14"
 ---
 
 

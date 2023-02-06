@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/good-stuff-2008-09-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809074604id_/https://magic.wizards.com/en/articles/archive/feature/good-stuff-2008-09-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-09 07:46:04+00:00"
-[_metadata_:publish_date]:- "2008-09-11"
 [_metadata_:description]:- "[decklist] Title: George Baxter's Black-Red-Green Goodstuff Format: Pro Tour–New York 1995 3 City of Brass 3 Karplusan Forest 1 Lava Tubes 2 Mishra's Factory 2 Sulfurous Springs 12 Swamp 4 Erhnam Djinn 4 Hypnotic Specter 1 Ihsan's Shade 4 Knight of Stromgald 4 Order of the Ebon Hand 2 Sengir Vampire 2 Barbed Sextant 1 Zuran Orb 4 Dark Ritual 4 Hymn to Tourach 3 Fireball 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-11"
 ---
 
 

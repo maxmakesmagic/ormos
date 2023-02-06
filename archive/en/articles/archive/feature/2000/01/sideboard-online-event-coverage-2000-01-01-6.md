@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-6"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518173526id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-6"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:35:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Junior Super Series Championship Round 5 Results - 15-17 Division Player Opponent Results Adams, Zach Quinn, Daniel Intentional Draw Allen, Crispin Moats, Josh Won, 2-1 Baker, Justin Keller Thomas Won, 2-0 Brubaker, Jake Schmitz, Daniel Won, 2-1 Cahir, Dan Kambourakis, Joseph Won, 2-1 Carey, Joey Leonhardt, Ryan Won, 2-0 Carpenter, Ryan Turner, Justin Won, 2-0 Cooper, Geddes"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

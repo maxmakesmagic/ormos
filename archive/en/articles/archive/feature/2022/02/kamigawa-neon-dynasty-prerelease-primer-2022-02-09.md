@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-prerelease-primer-2022-02-09?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220210110342id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-prerelease-primer-2022-02-09?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_capture_timestamp]:- "2022-02-10 11:03:42+00:00"
-[_metadata_:publish_date]:- "2022-02-09"
 [_metadata_:description]:- "Everything you need to get ready for Kamigawa: Neon Dynasty Prerelease fun."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-02-09"
 ---
 
 

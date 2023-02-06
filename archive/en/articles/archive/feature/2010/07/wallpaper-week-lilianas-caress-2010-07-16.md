@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-lilianas-caress-2010-07-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124161619id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-lilianas-caress-2010-07-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-24 16:16:19+00:00"
-[_metadata_:publish_date]:- "2010-07-16"
 [_metadata_:description]:- "This week's wallpaper features Steve Argyle's Liliana's Caress artwork from Magic 2011. Enjoy. 1024x768 pixels 1280x960 pixels 1280x1024 pixels 2560x1600 pixels 320x480 pixels (iPhone) See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-16"
 ---
 
 

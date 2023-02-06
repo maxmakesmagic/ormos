@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-maze-prerelease-2013-03-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160124044038id_/http://magic.wizards.com/en/articles/archive/feature/dragons-maze-prerelease-2013-03-26"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-24 04:40:38+00:00"
-[_metadata_:publish_date]:- "2013-03-26"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-03-26"
 ---
 
 

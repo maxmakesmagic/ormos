@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gold-silver-and-black-2007-05-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170825081333id_/http://magic.wizards.com/en/articles/archive/feature/gold-silver-and-black-2007-05-23"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-25 08:13:33+00:00"
-[_metadata_:publish_date]:- "2007-05-23"
 [_metadata_:description]:- "Welcome to my humble abode! It's made of cards, as you can see, so the `humble` part kind of goes without saying. Cards are not the most durable building material of all time.While you can't really build a house with cards, you can certainly build a deck, which is, coincidentally, what I'm going to do now. Right after I spritz myself with my experimental chunky-style perfume. (It really puts me in the deckbuilding mood.)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-05-23"
 ---
 
 

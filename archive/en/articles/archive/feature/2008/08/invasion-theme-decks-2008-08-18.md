@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/invasion-theme-decks-2008-08-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203015430id_/https://magic.wizards.com/en/articles/archive/feature/invasion-theme-decks-2008-08-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-03 01:54:30+00:00"
-[_metadata_:publish_date]:- "2008-08-18"
 [_metadata_:description]:- "Blowout Dismissal Heavy Duty Spectrum (Back to Product Page) Blowout The basic premise of Blowout is that if all your opponent's creatures are dead, it's hard for him or her to block. Then you can attack with creatures like Vicious Kavu that deal a lot of damage even though they aren't that good in creature-to-creature combat. This deck has a lot of dual-purpose cards, mostly"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-18"
 ---
 
 

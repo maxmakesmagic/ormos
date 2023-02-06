@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-july-11-17-2009-07-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122113012id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-july-11-17-2009-07-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-22 11:30:12+00:00"
-[_metadata_:publish_date]:- "2009-07-17"
 [_metadata_:description]:- "July 9-11, 2004: Von Dutch Takes Pro Tour–SeattleIt was a weekend when the dinosaurs came out to play, the Japanese dominated, and for the first time in 50 Pro Tours, no American made the final day. In the end, however, it was Von Dutch (Jeroen Remie, Jelger Wiegersma, Kamiel Cornelissen) that conquered all. The mega-team from the Netherlands arrived with seven Pro Tour top 8s"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-17"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwake-goblins-2010-02-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810113637id_/https://magic.wizards.com/en/articles/archive/feature/worldwake-goblins-2010-02-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-10 11:36:37+00:00"
-[_metadata_:publish_date]:- "2010-02-19"
 [_metadata_:description]:- "[decklist] Title: Michael Rose's Worldwake Goblins Format: Standard with Worldwake 4 Teetering Peaks 19 Mountain 4 Goblin Bushwhacker 4 Goblin Chieftain 4 Goblin Guide 4 Siege-Gang Commander 4 Warren Instigator 4 Lightning Bolt 4 Dragon Fodder 3 Burst Lightning 3 Searing Blaze 3 Quest for the Goblin Lord *4 Blazing Torch *3 Manabarbs *2 Goblin Ruinblaster *2 Pithing Needle *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-02-19"
 ---
 
 

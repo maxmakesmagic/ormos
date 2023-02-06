@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-sixteen-standings-sorted-score-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171101013039id_/https://magic.wizards.com/en/articles/archive/feature/round-sixteen-standings-sorted-score-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-01 01:30:39+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name Points Op-Match 1 Summersberger Helmut (AUT) 39 62.11% 2 Hothow Dominik (ger) 39 61.85% 3 Finkel Jon (USA) 39 61.07% 4 Klauser Benedikt (AUT) 39 58.46%"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

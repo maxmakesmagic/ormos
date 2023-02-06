@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-8-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523142017id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-8-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 14:20:17+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Antarctica (42) 15 7 THL (78) 15 ATM (64) 13 10 Neutral Ground SF (48) 13 Brown Bomber (69) 13 11 Utrecht (49) 12 CCC (60) 15 6 Phenomene J (41) 15 CMU (56) 15 4 Matrix (12) 15 ECA (57) 12 13 Sugar Bus (13) 12 Fifth Again (28) 12 12 Fu-Ku-Ra-Mi (7) 12 Fu-Ku-Ra-Mi (7) 12 12 Fifth Again (28) 12 Game Empire (77) 21 1 Your Move Games (73) 18"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

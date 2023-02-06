@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/creatureless-control-2010-03-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210806014301id_/https://magic.wizards.com/en/articles/archive/feature/creatureless-control-2010-03-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-08-06 01:43:01+00:00"
-[_metadata_:publish_date]:- "2010-03-24"
 [_metadata_:description]:- "[decklist] Title: Zack Shaffner's Creatureless Control Format: Extended 1 Blood Crypt 5 Island 1 Mountain 4 Scalding Tarn 1 Steam Vents 6 Swamp 1 Verdant Catacombs 1 Watery Grave 4 Blood Moon 4 Chrome Mox 3 Compulsive Research 4 Damnation 2 Dimir Signet 4 Jace, the Mind Sculptor 1 Nicol Bolas, Planeswalker 2 Night of Souls' Betrayal 2 Rakdos Signet 3 Repeal 4 Terminate 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-24"
 ---
 
 

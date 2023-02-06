@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-2003-08-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030165150id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-2003-08-12"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 16:51:50+00:00"
-[_metadata_:publish_date]:- "2003-08-12"
 [_metadata_:description]:- "The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour™ events.Grand Prix—Kansas City is presented by Feral EventsTOURNAMENT FORMAT AND SCHEDULE The format for Grand Prix–Kansas City is Mirrodin™ Block Limited, with day 2 Rochester Draft. All DCI™ Limited-format rules, Magic® Floor Rules, and all subsequent updates will be enforced."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-08-12"
 ---
 
 

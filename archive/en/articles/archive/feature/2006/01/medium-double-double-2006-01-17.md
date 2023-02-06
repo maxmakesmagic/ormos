@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/medium-double-double-2006-01-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125102448id_/https://magic.wizards.com/en/articles/archive/feature/medium-double-double-2006-01-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-25 10:24:48+00:00"
-[_metadata_:publish_date]:- "2006-01-17"
 [_metadata_:description]:- "Ahh, winter. It's “Third Week of January” Week here at magicthegathering.com, so I thought I'd take a moment to talk a little about my least favourite season. In Canada, where I live, winter is a time for men to get together with sticks and bare-knuckle box in a woolen leotard. Breaking necks and chipping teeth. On ice. The sport otherwise known as curling. Or is it hockey?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-01-17"
 ---
 
 

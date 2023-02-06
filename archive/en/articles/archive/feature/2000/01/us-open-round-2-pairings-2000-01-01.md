@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-round-2-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519015827id_/https://magic.wizards.com/en/articles/archive/feature/us-open-round-2-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 01:58:27+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Accardi, Anthony ( 30) 1 22 Savge, Sterling (143) 1 Allen, Chris ( 13) 1 5 Finley, Jon (200) 1 Ally, Arit (149) 1 39 Kamphey, Andrew (196) 1 Atwood, Aaron ( 95) 1 14 Smith, Jason (207) 1 Au, Winston ( 58) 1 26 Augustine, Brian ( 98) 1 Augustine, Brian ( 98) 1 26 Au, Winston ( 58) 1 Austin, Ty ( 8) 1 10 Ziegler, Eric (148) 1 Banks, David P."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

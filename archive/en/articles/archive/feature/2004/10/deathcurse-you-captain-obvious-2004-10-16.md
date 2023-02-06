@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deathcurse-you-captain-obvious-2004-10-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818134944id_/https://magic.wizards.com/en/articles/archive/feature/deathcurse-you-captain-obvious-2004-10-16"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 13:49:44+00:00"
-[_metadata_:publish_date]:- "2004-10-16"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Gatherer RulesWhether you're a “forces of good” or a “forces of evil” kind of person, Magic can still be baffling. Well, have no fear — Gatherer Rulings are here!Knew you were"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-10-16"
 ---
 
 

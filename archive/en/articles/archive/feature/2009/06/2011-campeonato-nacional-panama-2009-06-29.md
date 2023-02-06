@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-panama-2009-06-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527143440id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-panama-2009-06-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 14:34:40+00:00"
-[_metadata_:publish_date]:- "2009-06-29"
 [_metadata_:description]:- "Fecha: 21 de agosto de 2011Ubicación: Arkham Hobbies, Hato Pintado por la calle del IPA, Edificio PH GardeniasCiudad: PanamáPaís: Panamá El Campeonato Nacional de Panamá de Magic: The Gathering está abierto a todos los ciudadanos y residentes permanentes de Panamá.Información de Contacto Email: William_Sun@hotmail.comTeléfono: 6616-7450Website: www.MTGPanama.com"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-29"
 ---
 
 

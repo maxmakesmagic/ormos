@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flavorful-word-clouds-2009-09-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128092153id_/https://magic.wizards.com/en/articles/archive/feature/flavorful-word-clouds-2009-09-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 09:21:53+00:00"
-[_metadata_:publish_date]:- "2009-09-09"
 [_metadata_:description]:- "Let's play a game! You like games, right? Good! Here's how this works. We went to Wordle and whipped up some word clouds using the flavor text of some Magic sets. Your challenge is to identify which set each of these word clouds came out of. Ready? Go! It's Fallen Empires, of course! The various volumes of Sarpadian Empires contribute quite a lot of that set's flavor text. The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-09"
 ---
 
 

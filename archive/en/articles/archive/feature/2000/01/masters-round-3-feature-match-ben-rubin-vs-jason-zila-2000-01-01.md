@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-ben-rubin-vs-jason-zila-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629010212id_/https://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-ben-rubin-vs-jason-zila-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-29 01:02:12+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Elliot Fertik Ben Rubin is a consistent Pro Tour performer, with multiple top eight finishes at Pro Tour events, including PT-NY '00. Ben was playing TS, a blue/green `semi-control` deck that featured Survival of the Fittest, the standard green mana creatures (Birds of Paradise, Quiron Ranger, and Wall of Roots) and four Tradewind Riders to gain control of the board. It"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

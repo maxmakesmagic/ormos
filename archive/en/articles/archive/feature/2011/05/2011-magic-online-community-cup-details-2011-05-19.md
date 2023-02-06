@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-magic-online-community-cup-details-2011-05-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200920144256id_/https://magic.wizards.com/en/articles/archive/feature/2011-magic-online-community-cup-details-2011-05-19"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-20 14:42:56+00:00"
-[_metadata_:publish_date]:- "2011-05-19"
 [_metadata_:description]:- "Preparations for the 2011 Magic Online Community Cup are in full swing: invitations have gone out, plans have been made, formats have been created, and bold statements have been stated! Join us as the Wizards of the Coast team challenges the Community Team to a series of Magic Online events to determine who will victoriously hoist the Erik `Hamtastic` Friborg Memorial Trophy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-05-19"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/marc-lalagues-grand-prix-anaheim-2012-2012-05-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021094033id_/https://magic.wizards.com/en/articles/archive/feature/marc-lalagues-grand-prix-anaheim-2012-2012-05-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 09:40:33+00:00"
-[_metadata_:publish_date]:- "2012-05-29"
 [_metadata_:description]:- "Congratulations to Marc Lalague, your Grand Prix Anaheim 2012 winner. You can read more about this Innistrad block Grand Prix in the official event coverage."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-29"
 ---
 
 

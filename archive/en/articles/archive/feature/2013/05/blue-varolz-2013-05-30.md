@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-varolz-2013-05-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523033837id_/https://magic.wizards.com/en/articles/archive/feature/blue-varolz-2013-05-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 03:38:37+00:00"
-[_metadata_:publish_date]:- "2013-05-30"
 [_metadata_:description]:- "I've written about a deck like this in the past, but Gertjan Schreur sent in a decklist that accurately points out that the BUG Skirsdag High Priest shell got much better with the printing of Varolz, the Scar-Striped. The interaction between undying green creatures with Rapid Hybridization and Skirsdag High Priest was already good enough to win some tournaments, and Varolz,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-30"
 ---
 
 

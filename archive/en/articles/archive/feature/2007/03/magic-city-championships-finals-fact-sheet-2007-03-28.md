@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-city-championships-finals-fact-sheet-2007-03-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024134501id_/https://magic.wizards.com/en/articles/archive/feature/magic-city-championships-finals-fact-sheet-2007-03-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 13:45:01+00:00"
-[_metadata_:publish_date]:- "2007-03-28"
 [_metadata_:description]:- "The following locations will be hosting the 2007 City Championships Finals. Check back here often as more locations are added. For more information, contact your local organizer.StateCityEvent dateLocationAddressEvent CityContact PhoneURL AlbertaCalgary5/19/2007Phoenix Comics1010 16th Ave NWCalgary403-851-8893 Website AlbertaEdmonton5/19/2007Gamers Lair3528 137th"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-03-28"
 ---
 
 

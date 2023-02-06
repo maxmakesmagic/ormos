@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/drafting-999-wizards-coast-2005-10-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119091624id_/https://magic.wizards.com/en/articles/archive/feature/drafting-999-wizards-coast-2005-10-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 09:16:24+00:00"
-[_metadata_:publish_date]:- "2005-10-06"
 [_metadata_:description]:- "Getting 0wned By R&D Have you had a chance yet to jump into an unsanctioned draft with Wizards of the Coast employees? I was online the other night and I got a message from Scott Larabee: smlarabee: Hey, wanna draft? IntoTheAether: Sure! Heck yeah! Writing this column, I get to interface with the guys that make Magic a little more than the average cat, but at my core I'm a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-06"
 ---
 
 

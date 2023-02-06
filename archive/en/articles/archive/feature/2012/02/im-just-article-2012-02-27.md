@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/im-just-article-2012-02-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429030702id_/https://magic.wizards.com/en/articles/archive/feature/im-just-article-2012-02-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:07:02+00:00"
-[_metadata_:publish_date]:- "2012-02-27"
 [_metadata_:description]:- "There used to be an American TV show called Schoolhouse Rock. It was an educational show with different segments teaching kids about the world, science, math, and even the government. My favorite segment that lived on through the years is a song and animated cartoon called `I'm Just a Bill.` It was all about explaining the process of how a bill turns into a law through the US"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-02-27"
 ---
 
 

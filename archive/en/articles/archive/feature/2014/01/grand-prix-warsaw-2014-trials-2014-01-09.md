@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-warsaw-2014-trials-2014-01-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118155926id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-warsaw-2014-trials-2014-01-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:59:26+00:00"
-[_metadata_:publish_date]:- "2014-01-09"
 [_metadata_:description]:- "Grand Prix Warsaw Trials will be run at European locations from February 14, 2013 to April 27, 2014. Each awards the winner a two-round bye to Grand Prix Warsaw. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event. Possible formats"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-01-09"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-time-spiral-sneaky-preview-2006-09-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025211352id_/https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-time-spiral-sneaky-preview-2006-09-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 21:13:52+00:00"
-[_metadata_:publish_date]:- "2006-09-11"
 [_metadata_:description]:- "You have already had a week's worth of sneak previews for Time Spiral. Now it's time for something a little different: a sneaky preview. I'm not going to show you the preview card. I'm not even going to hide it in a link at the bottom of the page. You're gonna have to work to see this one!In this article, you'll find six completely different puzzles, each one of which will"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-09-11"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/name-beast-2003-01-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200926163042id_/https://magic.wizards.com/en/articles/archive/feature/name-beast-2003-01-28"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-26 16:30:42+00:00"
-[_metadata_:publish_date]:- "2003-01-28"
 [_metadata_:description]:- "We design Magic sets so far in advance these days that I have to dig through my notes from 2001 to come up with the story of what happened with Legions design, and even that is a challenge. First, I have to remember what the codename of the set was. After staring at a scrambled directory full of such odd names as Argon, Bacon, Beijing, and Bogavhati, I finally figured out that Legions was one of the “Pep Boys” block."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-01-28"
 ---
 
 

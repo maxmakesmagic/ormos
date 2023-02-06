@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-alluring-siren-2009-07-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111212719id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-alluring-siren-2009-07-10"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-11 21:27:19+00:00"
-[_metadata_:publish_date]:- "2009-07-10"
 [_metadata_:description]:- "The Magic 2010 Prerelease is just around the corner! Unless you're reading this on the weekend, in which case it's happening right now! This doesn't really have much to do with this cool wallpaper, but we just thought we'd mention it. Anyway, here's Alluring Siren by Chippy. Enjoy! And be sure to scroll down for the final installment of Core Set Survivor!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-10"
 ---
 
 

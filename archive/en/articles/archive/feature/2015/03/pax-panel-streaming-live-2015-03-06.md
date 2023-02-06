@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pax-panel-streaming-live-2015-03-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150308115919id_/http://magic.wizards.com/en/articles/archive/feature/pax-panel-streaming-live-2015-03-06"
 [_metadata_:wayback_capture_timestamp]:- "2015-03-08 11:59:19+00:00"
-[_metadata_:publish_date]:- "2015-03-06"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Even if you can't make it to Boston or PAX East, you can still sit in on the Magic panel as it streams live on Friday, 3–4 p.m. ET (Noon–1 p.m. PT/8 p.m.–9 p.m. GMT)!"
+[_metadata_:publish_date]:- "2015-03-06"
 ---
 
 

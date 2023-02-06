@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brian-kiblers-caw-go-2010-12-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220921111948id_/https://magic.wizards.com/en/articles/archive/feature/brian-kiblers-caw-go-2010-12-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-09-21 11:19:48+00:00"
-[_metadata_:publish_date]:- "2010-12-13"
 [_metadata_:description]:- "[decklist] Title: Brian Kibler's Caw-Go, 18 points Format: Standard – 2010 World Championships 1 Arid Mesa 4 Celestial Colonnade 4 Glacial Fortress 4 Island 4 Plains 2 Scalding Tarn 4 Seachrome Coast 3 Tectonic Edge 4 Squadron Hawk 2 Condemn 3 Day of Judgment 1 Deprive 3 Gideon Jura 1 Jace Beleren 4 Jace, the Mind Sculptor 3 Journey to Nowhere 2 Mana Leak 4 Preordain 4 Spell"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-12-13"
 ---
 
 

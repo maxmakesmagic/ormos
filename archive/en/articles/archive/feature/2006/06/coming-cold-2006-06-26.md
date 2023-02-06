@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coming-cold-2006-06-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201128033437id_/https://magic.wizards.com/en/articles/archive/feature/coming-cold-2006-06-26"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-28 03:34:37+00:00"
-[_metadata_:publish_date]:- "2006-06-26"
 [_metadata_:description]:- "You remember the kid in your class who reminded the teacher that homework was due, ruining things for everyone else? The continent of Terisire has someone like that, except he wants to bring back the Ice Age that everyone worked so hard to banish."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-06-26"
 ---
 
 

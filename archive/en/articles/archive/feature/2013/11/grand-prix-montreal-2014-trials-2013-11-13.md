@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-montreal-2014-trials-2013-11-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018184327id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-montreal-2014-trials-2013-11-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:43:27+00:00"
-[_metadata_:publish_date]:- "2013-11-13"
 [_metadata_:description]:- "Grand Prix Montreal Trials will be run at North America and Latin America WPN locations from December 21, 2013 to March 2, 2014. Each awards the winner a two-round bye to Grand Prix Montreal. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-11-13"
 ---
 
 

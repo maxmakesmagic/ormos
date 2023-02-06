@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cards-time-forgot-2003-12-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202001909id_/https://magic.wizards.com/en/articles/archive/feature/cards-time-forgot-2003-12-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-02 00:19:09+00:00"
-[_metadata_:publish_date]:- "2003-12-18"
 [_metadata_:description]:- "There’s a saying that comes up around New Year’s: Out with the old, in with the new. No way, man! Here on the Magic website, it’s in with the old as Type 1 Week marches on. (Or is that Classic Week? No, wait, Vintage Week? Original Recipe Week?) Since it includes every card ever printed (except ante cards and flippy cards), Type 1 is a deep, diverse topic for me to explore. So"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-12-18"
 ---
 
 

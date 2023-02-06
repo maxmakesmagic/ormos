@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-master-transmuter-2009-01-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018011026id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-master-transmuter-2009-01-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 01:10:26+00:00"
-[_metadata_:publish_date]:- "2009-01-30"
 [_metadata_:description]:- "This week's desktop wallpaper is Chippy's Master Transmuter from the upcoming Conflux set (as seen on the Conflux Product Section). Enjoy. Regular (1280x960 pixels) Widescreen (2560x1600 pixels) iPhone (320x480 pixels)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-30"
 ---
 
 

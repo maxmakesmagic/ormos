@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-blue-treasures-2013-04-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024043457id_/https://magic.wizards.com/en/articles/archive/feature/modern-blue-treasures-2013-04-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:34:57+00:00"
-[_metadata_:publish_date]:- "2013-04-23"
 [_metadata_:description]:- "I haven't looked at Modern much lately, but with Grand Prix Portland coming up, it's becoming a format for me to pay attention to. For the most part, the format is pretty stable, and recent Magic Online results feature a lot of the decks we've become accustomed to in Modern—Infect, Birthing Pod, Affinity, Jund, and the like. While using Expedition Map to assemble the Urza's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-04-23"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/angel-population-2012-11-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627121259id_/https://magic.wizards.com/en/articles/archive/feature/angel-population-2012-11-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 12:12:59+00:00"
-[_metadata_:publish_date]:- "2012-11-08"
 [_metadata_:description]:- "Yesterday, we took a look at a cool new Standard brew that takes advantage of Séance to generate tokens of the dead, giving them second life, if only for a turn. Well, that deck also contains Trostani, Selesnya's Voice, allowing you to populate tokens created by Séance. While Trostani might be showing up a little in Standard, there is definitely one format we know she is going"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-11-08"
 ---
 
 

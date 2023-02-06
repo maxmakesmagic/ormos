@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-modern-horizons-previews-2019-05-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190519022341id_/https://magic.wizards.com/en/articles/archive/feature/where-find-modern-horizons-previews-2019-05-16"
 [_metadata_:wayback_capture_timestamp]:- "2019-05-19 02:23:41+00:00"
-[_metadata_:publish_date]:- "2019-05-16"
 [_metadata_:description]:- "We're trying something new with Modern Horizon previews. This time, we're announcing where—and when—you can see every preview!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-05-16"
 ---
 
 

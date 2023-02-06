@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-trevas-attendant-2003-09-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628022331id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-trevas-attendant-2003-09-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-28 02:23:31+00:00"
-[_metadata_:publish_date]:- "2003-09-19"
 [_metadata_:description]:- "This week's desktop wallpaper is the Invasion artifact creature Treva's Attendant by Christopher Moeller. Enjoy. 1024x768 800x600 See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-09-19"
 ---
 
 

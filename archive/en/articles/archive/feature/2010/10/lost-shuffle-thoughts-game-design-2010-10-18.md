@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lost-shuffle-thoughts-game-design-2010-10-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170924094959id_/https://magic.wizards.com/en/articles/archive/feature/lost-shuffle-thoughts-game-design-2010-10-18"
 [_metadata_:wayback_capture_timestamp]:- "2017-09-24 09:49:59+00:00"
-[_metadata_:publish_date]:- "2010-10-18"
 [_metadata_:description]:- "As the second Great Designer Search narrows down from a thousand to a hundred to eight (and eventually to one), I've been thinking a lot about Magic design, and game design in general. Are there universal principles of game design that Magic design should follow, or are the `rules` that define Magic design particular to this game, its traditions, and its principles?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-10-18"
 ---
 
 

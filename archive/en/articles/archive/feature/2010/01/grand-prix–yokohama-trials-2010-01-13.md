@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93yokohama-trials-2010-01-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190704191235id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93yokohama-trials-2010-01-13"
 [_metadata_:wayback_capture_timestamp]:- "2019-07-04 19:12:35+00:00"
-[_metadata_:publish_date]:- "2010-01-13"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with the local organizer for specific information. Format The format for all Grand Prix—Yokohama 2010 Trial tournaments is Extended Constructed. Deck lists are required. Tournament Length"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-13"
 ---
 
 

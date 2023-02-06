@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/black-hole-sun-2004-07-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206114352id_/https://magic.wizards.com/en/articles/archive/feature/black-hole-sun-2004-07-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 11:43:52+00:00"
-[_metadata_:publish_date]:- "2004-07-01"
 [_metadata_:description]:- "Whew, I can stop refreshing my browser now. There I am.In Anthony's column this week, he advocated going… um, let me check… outside. That's kind of strange, because I'm not sure I've ever been there. I looked it up in my atlas; I searched for it on my globe—no dice. I tried to find it on the Internet, and when I came up empty (they sure hadn't heard of the place), I became"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-07-01"
 ---
 
 

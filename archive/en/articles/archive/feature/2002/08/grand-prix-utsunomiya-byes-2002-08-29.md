@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-utsunomiya-byes-2002-08-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815090228id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utsunomiya-byes-2002-08-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-15 09:02:28+00:00"
-[_metadata_:publish_date]:- "2002-08-29"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3195028 2185014 117507 Rating used: Limited, August 21, 2002 Pro Point Standings Used: 2002 World ChampionshipsTo find the number of byes you have for Grand Prix-Utsunomiya, go to the appropriate list below (sorted by last name): A-B C-D E-G H-J K-L M-N O-R S T-V W-Z For questions about this"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-08-29"
 ---
 
 

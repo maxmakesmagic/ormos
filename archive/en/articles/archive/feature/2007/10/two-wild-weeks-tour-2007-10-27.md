@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/two-wild-weeks-tour-2007-10-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018001539id_/https://magic.wizards.com/en/articles/archive/feature/two-wild-weeks-tour-2007-10-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 00:15:39+00:00"
-[_metadata_:publish_date]:- "2007-10-27"
 [_metadata_:description]:- "Did you miss out on the excitement of Pro Tour-Valencia and the Magic Invitational? Let Richard Hagon be your guide through two wild weeks of top-level Magic. If you're not a regular reader of event coverage, this is a great starting place to learn the top players and storylines we'll be following all season. With exclusive player interviews, analysis of deckbuilding"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-10-27"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mike-sigrists-origin-story-2015-08-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150809002552id_/http://magic.wizards.com/en/articles/archive/feature/mike-sigrists-origin-story-2015-08-07"
 [_metadata_:wayback_capture_timestamp]:- "2015-08-09 00:25:52+00:00"
-[_metadata_:publish_date]:- "2015-08-07"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Mike Sigrist's Magic and Pro Tour origins!"
+[_metadata_:publish_date]:- "2015-08-07"
 ---
 
 

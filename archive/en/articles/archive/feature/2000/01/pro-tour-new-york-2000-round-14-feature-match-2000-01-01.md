@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-14-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521162442id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-14-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 16:24:42+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler John Hunka and Ben Rubin debated long and hard about whether they should intentionally draw. Hunka sat on 31 points where a draw would clinch top 8, but he needed some help to get in if he played and lost. Rubin had 30 points so a draw would get him into a tie for the Top 8, but his tiebreakers were mediocre so he'd have to cross his fingers and hope. He"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

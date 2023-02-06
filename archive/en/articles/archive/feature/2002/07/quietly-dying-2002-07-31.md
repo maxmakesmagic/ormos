@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quietly-dying-2002-07-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112012316id_/https://magic.wizards.com/en/articles/archive/feature/quietly-dying-2002-07-31"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:23:16+00:00"
-[_metadata_:publish_date]:- "2002-07-31"
 [_metadata_:description]:- "What’s the worst way to die in Magic? Surely there’s no shame in being killed by a large creature, or a horde of smaller ones. Being decked by a Millstone is annoying, but hardly carries a stigma. Losing to Battle of Wits might mean you’re in the top eight of a Grand Prix these days. Even the best of players have stories of being poisoned to death. This week’s article deals with what I consider the worst way to die, the bestiary of zero-power creatures that kill."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-07-31"
 ---
 
 

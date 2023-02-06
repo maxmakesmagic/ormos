@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-3212013-2013-03-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112035242id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-3212013-2013-03-28"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:52:42+00:00"
-[_metadata_:publish_date]:- "2013-03-28"
 [_metadata_:description]:- "Daily Activity  Welcome back to the Magic: The Gathering Sealed Deck Builder! This week, we have a six-pack Gatecrash pool."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-03-28"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-toronto-event-information-2012-10-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025193632id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-toronto-event-information-2012-10-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 19:36:32+00:00"
-[_metadata_:publish_date]:- "2012-10-18"
 [_metadata_:description]:- "Information Tournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gptor Date: December 8-9, 2012Format: Modern Tournament Location Toronto Congress Center (South) 650 Dixon Road Toronto, ON M9W1J1 Registration: $40 CAN Friday, December 7: 3 p.m. - 9 p.m. Saturday, December 8: 8 a.m. - 9:45 a.m. Get"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-10-18"
 ---
 
 

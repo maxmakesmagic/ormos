@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nearly-creatureless-control-2009-09-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118005106id_/https://magic.wizards.com/en/articles/archive/feature/nearly-creatureless-control-2009-09-09"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 00:51:06+00:00"
-[_metadata_:publish_date]:- "2009-09-09"
 [_metadata_:description]:- "[decklist] Title: Jody Dunnville's Red-White Control Format: Standard 8 Mountain 3 Mutavault 8 Plains 2 Reflecting Pool 4 Rugged Prairie 1 Magma Phoenix 4 Ajani Vengeant 3 Earthquake 2 Elspeth, Knight-Errant 4 Goblin Assault 3 Hallowed Burial 4 Lightning Bolt 1 Martial Coup 1 Obelisk of Alara 4 Path to Exile 4 Scepter of Dominance 4 Volcanic Fallout *2 Countryside Crusher *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-09"
 ---
 
 

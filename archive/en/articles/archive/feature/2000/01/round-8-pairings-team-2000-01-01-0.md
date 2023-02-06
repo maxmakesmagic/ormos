@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-pairings-team-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703082012id_/https://magic.wizards.com/en/articles/archive/feature/round-8-pairings-team-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-03 08:20:12+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPoints OpponentPoints Absolute Samuels15vskillers of the Coast14 AlphaBetaUnlimited.com18vsTwo men and a baby !18 Amsterdam12vstrash AAA12 Angstschreeuw21vsMetagames/LNT18 Black-Ops16vsTeam 25:1716 Bologna Demolition Team15vszyrberus15 Ci Ciapem I Dané *14vsF3BoP13 Cosmopolitan15vswww.revised4th5th.com15 F3BoP13vsCi Ciapem I Dané *14 gotta catch Kai16vsStuchkaccolites *16"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

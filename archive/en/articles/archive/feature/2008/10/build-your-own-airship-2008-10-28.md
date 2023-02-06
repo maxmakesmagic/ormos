@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/build-your-own-airship-2008-10-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200813211931id_/https://magic.wizards.com/en/articles/archive/feature/build-your-own-airship-2008-10-28"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-13 21:19:31+00:00"
-[_metadata_:publish_date]:- "2008-10-28"
 [_metadata_:description]:- "If we had to pick one question that we're asked more than any other, it would be `How can I build my own version of Predator, Flagship or Skyship Weatherlight?`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-10-28"
 ---
 
 

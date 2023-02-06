@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-phyrexia-2011-03-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220624231535id_/https://magic.wizards.com/en/articles/archive/feature/new-phyrexia-2011-03-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-24 23:15:35+00:00"
-[_metadata_:publish_date]:- "2011-03-24"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-03-24"
 ---
 
 

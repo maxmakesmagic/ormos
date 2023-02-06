@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-junior-series-events-season-1-2007-04-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022230219id_/https://magic.wizards.com/en/articles/archive/feature/2007-junior-series-events-season-1-2007-04-05"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 23:02:19+00:00"
-[_metadata_:publish_date]:- "2007-04-05"
 [_metadata_:description]:- "CountryStartDateStoreAddressCityZipTelephoneBE2007-04-11t SpellenhuisFabriekstraat 10Neerpelt3910011 744979BE2007-04-14The Woodland MagesRijselstraat 110Torhout8820050/213321BE2007-04-18t SpellenhuisFabriekstraat 10Neerpelt3910011 744979BE2007-04-19The Woodland MagesRijselstraat 110Torhout8820050/213321BE2007-04-25t SpellenhuisFabriekstraat 10Neerpelt3910011"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-04-05"
 ---
 
 

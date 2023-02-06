@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tips-and-tricks-momir-basic-and-leagues-2006-12-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171005215243id_/https://magic.wizards.com/en/articles/archive/feature/tips-and-tricks-momir-basic-and-leagues-2006-12-20"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-05 21:52:43+00:00"
-[_metadata_:publish_date]:- "2006-12-20"
 [_metadata_:description]:- "My column usually highlights Magic Online trends and talks about specific decks as they rise and fall over the course of a format. While I think that I am doing a good job of keeping you updated on what is going on, my columns (by their very nature) are usually outdated quickly. Decks change, metagames change, and what I wrote about last month might not hold anymore today. So unlike the other columns on the site, it is a bit tougher for me to find articles for rerun weeks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-12-20"
 ---
 
 

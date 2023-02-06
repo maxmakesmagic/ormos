@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/journeys-end-2014-06-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501230758id_/https://magic.wizards.com/en/articles/archive/feature/journeys-end-2014-06-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-01 23:07:58+00:00"
-[_metadata_:publish_date]:- "2014-06-02"
 [_metadata_:description]:- "Last week was something of a week of mourning here on DailyMTG.com, as we took a look at the life and, sadly, death, of Elspeth on Theros. You can read a summary of the whole story in last week's `Journey's End` feature. Well, not the whole story... . If you want to read the novel and get all the details in narrative form, that's great. Here are the links:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-06-02"
 ---
 
 

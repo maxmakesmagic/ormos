@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-madrid-event-information-2011-12-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026083636id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-madrid-event-information-2011-12-07"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 08:36:36+00:00"
-[_metadata_:publish_date]:- "2011-12-07"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Facebook Event Official hashtag: #gpmadrid Date: February 25-26, 2012Format: Innistrad Block Sealed Deck / Booster Draft Tournament Location Recinto Ferial Casa de Campo Pabellon de la Pipa Avenida Principal N°6 28011 Madrid, Spain Registration: €40 Friday,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-12-07"
 ---
 
 

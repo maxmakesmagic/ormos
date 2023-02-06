@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deck-challenge-iii-vote-2006-06-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116194203id_/https://magic.wizards.com/en/articles/archive/feature/deck-challenge-iii-vote-2006-06-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-16 19:42:03+00:00"
-[_metadata_:publish_date]:- "2006-06-29"
 [_metadata_:description]:- "Wow, I have to say the response to my third Deck Challenge was surprising… and a little horrifying. But in a good way—over 270 deck submissions was a testament to your enthusiasm for the contest, but plowing through all of them over the course of a few days was also a daunting task! I want to thank those who took the time to develop decks and send them in; it was great hearing"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-06-29"
 ---
 
 

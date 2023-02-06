@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tokens-aether-revolt-2017-01-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170108091125id_/http://magic.wizards.com/en/articles/archive/feature/tokens-aether-revolt-2017-01-06"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-08 09:11:25+00:00"
-[_metadata_:publish_date]:- "2017-01-06"
 [_metadata_:description]:- "There are just three tokens and one emblem to be found in Aether Revolt packs, but man are they great."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-01-06"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archenemy-rules-revealed-2010-05-17-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022041531id_/https://magic.wizards.com/en/articles/archive/feature/archenemy-rules-revealed-2010-05-17-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 04:15:31+00:00"
-[_metadata_:publish_date]:- "2010-05-17"
 [_metadata_:description]:- "Way back in January, we announced Archenemy, a new multiplayer product coming in June. We told you about its unique `One vs. Many` game play, allowing you to face off against as many of your friends as your kitchen table can hold."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-17"
 ---
 
 

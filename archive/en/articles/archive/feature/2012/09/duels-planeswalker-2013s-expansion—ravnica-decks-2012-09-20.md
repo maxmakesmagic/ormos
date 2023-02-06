@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duels-planeswalker-2013s-expansion%E2%80%94ravnica-decks-2012-09-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170405190905id_/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalker-2013s-expansion%E2%80%94ravnica-decks-2012-09-20"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-05 19:09:05+00:00"
-[_metadata_:publish_date]:- "2012-09-20"
 [_metadata_:description]:- "It's time for this year's expansion for Duels of the Planeswalkers 2013—or as it is known on iPad, Magic 2013. Regardless of what platform you use to play the game, you're going to be getting the first expansion starting, well, now! Keep an eye out on your gaming platform for the new expansion to be available!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-09-20"
 ---
 
 

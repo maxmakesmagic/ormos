@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-macedonia-national-championship-2009-06-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019085735id_/https://magic.wizards.com/en/articles/archive/feature/2011-macedonia-national-championship-2009-06-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-19 08:57:35+00:00"
-[_metadata_:publish_date]:- "2009-06-29"
 [_metadata_:description]:- "Date: 26 June 2011Location: City Council SkopjeCity: SkopjeCountry: MacedoniaThe Magic: the Gathering Macedonia National Championship is open to all citizens or permanent residents of Macedonia.Contact informationEmail: contact@goblingames.com.mkTelephone: +38971331133Website: www.goblingames.com.mk FormatStandard and Booster Draft 1 New Phyrexia, 1 Mirrodin Besieged, and 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-29"
 ---
 
 

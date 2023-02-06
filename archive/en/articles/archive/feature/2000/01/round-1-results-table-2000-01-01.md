@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-results-table-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220624231802id_/https://magic.wizards.com/en/articles/archive/feature/round-1-results-table-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-24 23:18:02+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team Result Opponent Chi 120 vs. One Turn Too Late 5280 210 vs. Spastik Monkees Grape Apes 110 vs. Phantom Tollbooth Ka-Tet 030 vs. 3 Stooges Cherry 300 vs. Howling Wolf 3 for Flinching 210 vs. Righteous Babe Left Cheek Sneak 300 vs. 3 X Threat Team Flees 200 vs. Collector's Corner The Tails 210 vs. Team 0-3 Lunch Coup de Foudre 030 vs. Team Primate Team Needs a Hotel Room 210"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

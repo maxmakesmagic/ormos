@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ral-zareks-stasis-2013-06-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170424122823id_/http://magic.wizards.com/en/articles/archive/feature/ral-zareks-stasis-2013-06-28"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-24 12:28:23+00:00"
-[_metadata_:publish_date]:- "2013-06-28"
 [_metadata_:description]:- "For a long time now, I've been looking to build a Legacy deck with Winter Orb and The Tabernacle at Pendrell Vale. I feel that each of them are among the strongest cards in Legacy that don't see much play, and they're amazing together. I've also been looking to build a deck that just casts Meditate for value, rather than as part of a combo, with a lot of free counterspells."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-28"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/surely-you-joust-2005-08-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523183536id_/https://magic.wizards.com/en/articles/archive/feature/surely-you-joust-2005-08-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 18:35:36+00:00"
-[_metadata_:publish_date]:- "2005-08-13"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. The town that birthed Thurgood Marshall and finished off Edgar Allan Poe in the state whose official sport is jousting plays host to this year's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-08-13"
 ---
 
 

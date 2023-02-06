@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blazing-style-chandra-dressed-kill-2021-10-29?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211030102138id_/https://magic.wizards.com/en/articles/archive/feature/blazing-style-chandra-dressed-kill-2021-10-29?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-30 10:21:38+00:00"
-[_metadata_:publish_date]:- "2021-10-29"
 [_metadata_:description]:- "She's not on the guest list, but Chandra knows how to crash a wedding in style."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-10-29"
 ---
 
 

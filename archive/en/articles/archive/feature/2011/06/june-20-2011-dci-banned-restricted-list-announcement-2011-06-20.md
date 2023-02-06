@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/june-20-2011-dci-banned-restricted-list-announcement-2011-06-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160406230246id_/http://magic.wizards.com/en/articles/archive/feature/june-20-2011-dci-banned-restricted-list-announcement-2011-06-20"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-06 23:02:46+00:00"
-[_metadata_:publish_date]:- "2011-06-20"
 [_metadata_:description]:- "Announcement Date: June 20, 2011Effective Date: July 1, 2011Magic Online Effective Date: June 29, 2011"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-20"
 ---
 
 

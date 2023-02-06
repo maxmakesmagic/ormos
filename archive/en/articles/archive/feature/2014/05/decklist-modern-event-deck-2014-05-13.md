@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/decklist-modern-event-deck-2014-05-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150816001222id_/http://magic.wizards.com/en/articles/archive/feature/decklist-modern-event-deck-2014-05-13"
 [_metadata_:wayback_capture_timestamp]:- "2015-08-16 00:12:22+00:00"
-[_metadata_:publish_date]:- "2014-05-13"
 [_metadata_:description]:- "In January, we announced the Modern Event Deck, which releases at the end of the month (May 30, to be exact)! We have more information about it, including the decklist.  Here's information from the back of the box! Your power is here. Your time is now."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-05-13"
 ---
 
 

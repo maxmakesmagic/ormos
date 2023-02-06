@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-style-guide-2002-02-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030022id_/https://magic.wizards.com/en/articles/archive/feature/magic-style-guide-2002-02-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:00:22+00:00"
-[_metadata_:publish_date]:- "2002-02-01"
 [_metadata_:description]:- "When you open a pack of Magic cards, we’re hoping you not only see a cool game with all sorts of fun mechanics, but also an amazing world full of intriguing characters, places, and items."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-02-01"
 ---
 
 

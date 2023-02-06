@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/player-list-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123190027id_/https://magic.wizards.com/en/articles/archive/feature/player-list-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-23 19:00:27+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Alvarez Omar Amendolia Aaron Angeli Alessio Asquini Alessandro Assen Johan Au Yong Wai Kin Ayala Hermes Baberowski Dirk Bachmann David Baker Justin Bakke Geir Barrado Carlos Basarowich Christian Bastos Frederico Benafel Chris Benezech Lionel Bernabeu Jesus Bernat Michael Betti Alessandro Bildner Or Bingen Sturla Blackwell Trevor Blume Marco Boeken Noah Boling Cannon Bongiovanni Mauro Borteh Alex Bouchaib Messa Bower Mike Boyes Richard Bregoli Mike Breider Aaron Brower Jeremy Brumby Gene Budde Kai Bui Lucien"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

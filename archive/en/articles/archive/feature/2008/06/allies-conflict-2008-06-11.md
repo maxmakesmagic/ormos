@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/allies-conflict-2008-06-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418000350id_/https://magic.wizards.com/en/articles/archive/feature/allies-conflict-2008-06-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-18 00:03:50+00:00"
-[_metadata_:publish_date]:- "2008-06-11"
 [_metadata_:description]:- "Clowns to the left of me, jokers to the right–Stealers Wheel, `Stuck in the Middle with You`I love sinking my teeth into the color wheel. Far from being only a mechanical concern, it's the heart and soul of the flavor of Magic. Richard Garfield? The original Vorthos, baby. But the genius of Richard's creation goes far deeper than assigning elements of a fantasy world to a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-06-11"
 ---
 
 

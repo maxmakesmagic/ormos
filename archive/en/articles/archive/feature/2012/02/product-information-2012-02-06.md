@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2012-02-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207084311id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2012-02-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-07 08:43:11+00:00"
-[_metadata_:publish_date]:- "2012-02-06"
 [_metadata_:description]:- "Prereleases: April 28-29, 2012 Release Date: May 4, 2012 Game Day: May 26-27, 2012 Pro Tour Avacyn Restored: May 11-13, 2012 in Barcelona, Spain Ignite the Dawn Set Name: Avacyn Restored Block: Set 3 of 3 in the Innistrad block Number of Cards: 244 Twitter Hashtag: #MTGAVR Design Team: Brian Tinsman (lead), Mark L. Gottlieb, Dave Guskin, Kenneth Nagle, Bill Rose, Mark"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-02-06"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/black-green-discard-2009-03-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819111426id_/https://magic.wizards.com/en/articles/archive/feature/black-green-discard-2009-03-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 11:14:26+00:00"
-[_metadata_:publish_date]:- "2009-03-17"
 [_metadata_:description]:- "[decklist] Title: Christopher Schiber's Black-Green Discard Format: Pro Tour Qualifier-Honolulu 2 Bloodstained Mire 4 Mutavault 3 Overgrown Tomb 4 Polluted Delta 4 Swamp 4 Treetop Village 1 Urborg, Tomb of Yawgmoth 4 Augur of Skulls 4 Dark Confidant 3 Nyxathid 4 Tarmogoyf 2 Chrome Mox 3 Darkblast 3 Slaughter Pact 4 Smallpox 1 Smother 3 Stupor 4 Thoughtseize 3 Umezawa's Jitte"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-03-17"
 ---
 
 

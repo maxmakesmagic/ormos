@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-1-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128190228id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-1-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 19:02:28+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Table Opponent Alvarez Omar ( 42) 54 Derdak Christoph ( 82) Amendolia Aaron (254) 91 Globus Mark (163) Angeli Alessio (210) 132 Itadani Eisaku ( 59) Asquini Alessandro (220) 40 Favale Christian (223) Assen Johan (238) 98 Herzog, Nicolai (284) Au Yong Wai Kin ( 25) 106 Snepvangers Abraham ( 85) Ayala Hermes (115) 44 Juhnke Ingmar (188) Baberowski Dirk ( 9) 43 Matousek"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-two-heads-are-better-2016-01-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160117021918id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-two-heads-are-better-2016-01-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-17 02:19:18+00:00"
-[_metadata_:publish_date]:- "2016-01-15"
 [_metadata_:description]:- "Alex and Cam become Calex for the Oath of the Gatewatch Prerelease, and Graham struggles to find the perfect Two-Headed Giant partner."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-01-15"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-mechanics-2021-10-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028162754id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-mechanics-2021-10-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 16:27:54+00:00"
-[_metadata_:publish_date]:- "2021-10-28"
 [_metadata_:description]:- "Something old, something new, something borrowed, something drenched in blood. Check out all the new and returning mechanics of Innistrad: Crimson Vow."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-10-28"
 ---
 
 

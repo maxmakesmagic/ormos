@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fertile-control-2009-07-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814121941id_/https://magic.wizards.com/en/articles/archive/feature/fertile-control-2009-07-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-14 12:19:41+00:00"
-[_metadata_:publish_date]:- "2009-07-02"
 [_metadata_:description]:- "[decklist] Title: Erika Sudou's Fertile Control Format: Japan Regionals 2 Fire-Lit Thicket 2 Forest 2 Graven Cairns 1 Karplusan Forest 2 Llanowar Wastes 3 Mountain 1 Reflecting Pool 4 Savage Lands 1 Sulfurous Springs 1 Swamp 3 Treetop Village 2 Twilight Mire 3 Broodmate Dragon 2 Cloudthresher 4 Demigod of Revenge 4 Kitchen Finks 3 Fertile Ground 3 Firespout 4 Flame Javelin 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-02"
 ---
 
 

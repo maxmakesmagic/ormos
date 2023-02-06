@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-10-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120174254id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-10-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:42:54+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler The round 10 feature match between Britt Fitch and Dave Humpherys looked on the surface like yet another match between Rebels and Rising Waters, but it was actually even more interesting than that. Fitch is one of only two competitors on Day 2 who did not play with either Lin Sivvi or Rishadan Port. When I asked him about it he explained that in playtesting he"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

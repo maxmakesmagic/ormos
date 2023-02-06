@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/yesterday%E2%80%99s-magic-21st-century-2006-08-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816050955id_/https://magic.wizards.com/en/articles/archive/feature/yesterday%E2%80%99s-magic-21st-century-2006-08-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 05:09:55+00:00"
-[_metadata_:publish_date]:- "2006-08-17"
 [_metadata_:description]:- "A lot can happen in 10 years. In 10 years, we jumped from CDs to digital downloads. In 10 years, we ended one war in Iraq and started a second one. In 10 years, they still haven’t found a way to let small market baseball teams compete with big market teams. In 10 years, we went from living in reality to watching it on TV. In 10 years, I turned into a grown up, yuck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-08-17"
 ---
 
 

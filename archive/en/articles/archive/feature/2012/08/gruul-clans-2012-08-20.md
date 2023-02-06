@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gruul-clans-2012-08-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210805105112id_/https://magic.wizards.com/en/articles/archive/feature/gruul-clans-2012-08-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-08-05 10:51:12+00:00"
-[_metadata_:publish_date]:- "2012-08-20"
 [_metadata_:description]:- "Gruul Clans My Fury. My Freedom. My Guild. The Gruul are a loose affiliation of savage clans who squat in Ravnica’s alleyways, abandoned zones, and overgrown ruins. Many Gruul warriors and shamans have come to occupy the Rubblebelt, a broken thread of war-ruined land and settlements that begins near the outskirts of Ravnica’s Tenth District. Warfare among the Gruul is constant"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-20"
 ---
 
 

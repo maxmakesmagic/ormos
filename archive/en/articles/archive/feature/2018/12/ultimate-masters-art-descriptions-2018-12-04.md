@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ultimate-masters-art-descriptions-2018-12-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181204165321id_/https://magic.wizards.com/en/articles/archive/feature/ultimate-masters-art-descriptions-2018-12-04"
 [_metadata_:wayback_capture_timestamp]:- "2018-12-04 16:53:21+00:00"
-[_metadata_:publish_date]:- "2018-12-04"
 [_metadata_:description]:- "Loads of cards received amazing new art in Ultimate Masters. Let's take a closer look at a few of the wonderful pieces printed in that set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-12-04"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/explore-rise-eldrazi-2013-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151114181510id_/http://magic.wizards.com/en/articles/archive/feature/explore-rise-eldrazi-2013-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2015-11-14 18:15:10+00:00"
-[_metadata_:publish_date]:- "2013-01-01"
 [_metadata_:description]:- "Eaters of Worlds Each of the three colossal Eldrazi spawns its own `brood lineage.` The three brood lineages are composed of Eldrazi drones and other subordinate beings, each reflecting the image of its progenitor. Before they arose, the distant memory of each Eldrazi came to be worshipped as a triumvirate of gods by Zendikar's merfolk and kor races. Emrakul"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-01"
 ---
 
 

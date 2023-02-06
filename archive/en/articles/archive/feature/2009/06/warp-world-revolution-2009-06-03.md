@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/warp-world-revolution-2009-06-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815162621id_/https://magic.wizards.com/en/articles/archive/feature/warp-world-revolution-2009-06-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-15 16:26:21+00:00"
-[_metadata_:publish_date]:- "2009-06-03"
 [_metadata_:description]:- "[decklist] Title: Chris Boomer's Warp World Revolution Format: Pro Tour Qualifier-Austin 12 Forest 9 Mountain 4 Birds of Paradise 4 Mulldrifter 4 Siege-Gang Commander 4 Murderous Redcap 4 Elvish Visionary 3 Keeper of Progenitus 1 Broodmate Dragon 1 Hellkite Overlord 2 Nucklavee 4 Fertile Ground 4 Trace of Abundance 4 Warp World *3 Vithian Renegades *4 Thought Hemorrhage *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-03"
 ---
 
 

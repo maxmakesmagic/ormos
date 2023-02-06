@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93montreal-2007-03-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160806220143id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93montreal-2007-03-19"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-06 22:01:43+00:00"
-[_metadata_:publish_date]:- "2007-03-19"
 [_metadata_:description]:- "Updated May 29, 2007Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.Tournament StructureThe structure for Grand Prix–Montreal Trial tournaments will be modified Swiss-style, with the Top 8 players playing in a single-elimination for prizes and third-round byes.Tournament FormatThe format for Grand Prix–Montreal Trial tournaments is Time Spiral™ Block Constructed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-03-19"
 ---
 
 

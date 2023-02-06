@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwide-release-tournament-2004-11-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016041149id_/https://magic.wizards.com/en/articles/archive/feature/worldwide-release-tournament-2004-11-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 04:11:49+00:00"
-[_metadata_:publish_date]:- "2004-11-10"
 [_metadata_:description]:- "Attend one of the following events listed below and get an exclusive release foil promo card. Tournament StructureSealed Deck – All players will receive 5 Unhinged booster packs from the Organizer. The retailer is responsible for providing players land. Modified Swiss – some locations may cut to single elimination rounds to determine winner. DCI - Unhinged tournaments are not"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-11-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-malaysia-national-championship-2009-04-27-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025162816id_/https://magic.wizards.com/en/articles/archive/feature/2011-malaysia-national-championship-2009-04-27-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 16:28:16+00:00"
-[_metadata_:publish_date]:- "2009-04-27"
 [_metadata_:description]:- "Date: July 23-24, 2011Event Location: Cititel Mid Valley Hotel, Matahari III, IV & V – Level 5Address: Cititel Mid Valley, Mid Valley, Lingkaran Syed Putra. 59200 Kuala Lumpur, Malaysia Eligibility The Magic: the Gathering Malaysia National Championship is an invitation-only event, open to citizens or permanent residents of Malaysia who have won an invitation to Nationals"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-27"
 ---
 
 

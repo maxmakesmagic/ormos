@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-germany-national-championship-2009-04-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024151536id_/https://magic.wizards.com/en/articles/archive/feature/2011-germany-national-championship-2009-04-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 15:15:36+00:00"
-[_metadata_:publish_date]:- "2009-04-23"
 [_metadata_:description]:- "Datum: 12-14 August 2011Halle: Parkhalle IserlohnAdresse: Alexanderhöhe 1-4, 58644 Iserlohn Teilnehmer Die Deutsche Magic: The Gathering Meisterschaft 2011 ist ein Einladungs-Event. Teilnahmeberechtigt sind deutsche Staatsbürger oder Personen mit permanentem Wohnsitz seit dem 01.01.2011 in Deutschland, die sich über DCI-Ratings oder Qualifikationsturniere wie den National"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-23"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-11-05-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527042732id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-11-05-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 04:27:32+00:00"
-[_metadata_:publish_date]:- "2008-11-05"
 [_metadata_:description]:- "Thanks to tournament organizer Glenn Godard for the decklists.[decklist] Title: Kevan Emami Format: 1st Place - California - Los Angeles - 11/02 5 Island 4 Mountain 4 Swamp 1 Arcane Sanctum 1 Crumbling Necropolis 1 Grixis Panorama 1 Jund Panorama 2 Kathari Screecher 1 Scourge Devil 1 Fatestitcher 1 Kederekt Leviathan 1 Blister Beetle 1 Fleshbag Marauder 1 Skeletal Kathari 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-05"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93florence-champion-2010-12-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027000740id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93florence-champion-2010-12-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 00:07:40+00:00"
-[_metadata_:publish_date]:- "2010-12-01"
 [_metadata_:description]:- "[decklist] Title: Pierluigi Aceto's Winning Deck Format: Booster Draft - 1st Place - 2010 Grand Prix–Florence 6 Forest 11 Swamp 1 Blackcleave Goblin 1 Blight Mamba 1 Corpse Cur 2 Cystbearer 1 Fume Spitter 2 Ichorclaw Myr 1 Moriok Replica 1 Necropede 3 Plague Stinger 1 Sylvok Replica 1 Vector Asp 2 Grasp of Darkness 1 Heavy Arbalest 2 Instill Infection 1 Strider Harness 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-12-01"
 ---
 
 

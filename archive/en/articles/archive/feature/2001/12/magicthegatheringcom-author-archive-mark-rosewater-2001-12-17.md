@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magicthegatheringcom-author-archive-mark-rosewater-2001-12-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160418032606id_/http://magic.wizards.com/en/articles/archive/feature/magicthegatheringcom-author-archive-mark-rosewater-2001-12-17"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-18 03:26:06+00:00"
-[_metadata_:publish_date]:- "2001-12-17"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2001-12-17"
 ---
 
 

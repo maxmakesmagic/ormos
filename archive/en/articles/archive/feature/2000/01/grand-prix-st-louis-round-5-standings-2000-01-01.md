@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-5-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205232535id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-5-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:25:35+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "      Op-Match Rank Name Points Win% 1 Tight Club 15 68.89 2 Team Sourgirl 15 64.00 3 Coolers 13 75.56 4 Antarctica 13 75.56"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

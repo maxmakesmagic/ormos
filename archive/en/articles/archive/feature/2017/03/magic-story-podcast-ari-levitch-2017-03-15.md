@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-ari-levitch-2017-03-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170316062516id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-ari-levitch-2017-03-15"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-16 06:25:16+00:00"
-[_metadata_:publish_date]:- "2017-03-15"
 [_metadata_:description]:- "This week, Blake is joined by Ari Levitch to talk about building Kaladesh and shaking things up with Aether Revolt."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-03-15"
 ---
 
 

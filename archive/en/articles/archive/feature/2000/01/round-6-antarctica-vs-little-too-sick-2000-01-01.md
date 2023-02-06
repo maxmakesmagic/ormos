@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-antarctica-vs-little-too-sick-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704100029id_/https://magic.wizards.com/en/articles/archive/feature/round-6-antarctica-vs-little-too-sick-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-04 10:00:29+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Antarctica vs. A Little Too SickRound 6 saw `the new Finkel` (rising star Kamiel Cornelissen) take on the old one. Kamiel has teamed up with Virginia players Kyle Rose and Eric Froehlich and they're calling themselves `A Little Too Sick.` They took their 4-1 record into battle against Team Antarctica. Finkel slammed down a Finkel slammed down a brand new Sideboard.com deck box"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

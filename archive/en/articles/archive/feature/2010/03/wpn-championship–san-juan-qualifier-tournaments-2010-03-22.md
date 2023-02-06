@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wpn-championship%E2%80%93san-juan-qualifier-tournaments-2010-03-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025163554id_/https://magic.wizards.com/en/articles/archive/feature/wpn-championship%E2%80%93san-juan-qualifier-tournaments-2010-03-22"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 16:35:54+00:00"
-[_metadata_:publish_date]:- "2010-03-22"
 [_metadata_:description]:- "The WPN Championship–San Juan Qualifier Tournaments are a series of qualifiers run throughout North and Latin America. The winner at each qualifier earns an invitation to the WPN Championship–San Juan tournament, to be held at the Magic: The Gathering Pro Tour San Juan 2010 event in San Juan, Puerto Rico on May 30, 2010. (Note: the winner of each qualifier does not receive"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-22"
 ---
 
 

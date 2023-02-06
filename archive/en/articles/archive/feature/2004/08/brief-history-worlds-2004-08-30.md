@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brief-history-worlds-2004-08-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807224034id_/https://magic.wizards.com/en/articles/archive/feature/brief-history-worlds-2004-08-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-07 22:40:34+00:00"
-[_metadata_:publish_date]:- "2004-08-30"
 [_metadata_:description]:- "Although it may be hard to wrap your mind around it, Magic is eleven years old now! We have seen countless tournaments in those years, but it is the World Championships that have a special place in the heart of most tournament players, and it is the world champions that are remembered while you may or may not know who won the latest Pro Tour.The first World Championship was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-08-30"
 ---
 
 

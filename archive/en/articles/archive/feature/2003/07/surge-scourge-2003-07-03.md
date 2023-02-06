@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/surge-scourge-2003-07-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023124314id_/https://magic.wizards.com/en/articles/archive/feature/surge-scourge-2003-07-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 12:43:14+00:00"
-[_metadata_:publish_date]:- "2003-07-03"
 [_metadata_:description]:- "Poor, poor Scourge. It gets a few short weeks in the spotlight before it’s rudely shoved aside by the attention-hogging Eighth Core Base Edition Set™. Last week I made some decks around Scourge instants, so this week I’m taking a look at some of the other card types.First, my failures. I’m still trying to puzzle out possible uses for Grip of Chaos and Dimensional Breach (in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-07-03"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-11-results-player-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123194702id_/https://magic.wizards.com/en/articles/archive/feature/round-11-results-player-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-23 19:47:02+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamResult OpponentAbsolute *Lost 1-2vsTanshoku club with 25 *Circle Money DraftWon 2-1vsNISIKI *Dekiru-Kana?Lost 0-3vswww.alphabetaunlimited.comDERAPINWon 3-0vsPotato PeachFire BeatWon 2-1vsTeam Apprentice *Loafing GiantsLost 1-2vs"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/konda-commander-2011-12-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021215946id_/https://magic.wizards.com/en/articles/archive/feature/konda-commander-2011-12-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 21:59:46+00:00"
-[_metadata_:publish_date]:- "2011-12-01"
 [_metadata_:description]:- "StarCityGames.com columnist Sean McKeown writes a column in which he helps critique Commander decks that readers send him. Recently, he took a look at a Commander deck featuring the Champions of Kamigawa legendary creature Konda, Lord of Eiganjo. This oddball legend is one you don't see played often, but he works well with all kinds of battlefield-wiping effects like Planar"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-12-01"
 ---
 
 

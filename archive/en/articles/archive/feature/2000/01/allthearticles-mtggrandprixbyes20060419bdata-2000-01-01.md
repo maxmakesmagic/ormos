@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/allthearticles-mtggrandprixbyes20060419bdata-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022224801id_/https://magic.wizards.com/en/articles/archive/feature/allthearticles-mtggrandprixbyes20060419bdata-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 22:48:01+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "First NameLast NameRatingByesGokhan Habiboglu 1915 1Tom Haddy 1867 1Welly Hadiwidjaja 1850 1Bob Haefner 1942 2Marcel Haeussler 1988 2Lucas Hager 1932 2Luke Hagerling 1859 1John Haglund 1873 1James Hague 1923 1Christophe Haim 1975 2Filip Hajduk 1890 1Jesse Hajer 1930 2Mike Hall 1930 2Zack Hall 1933 2lucas hammerer 1926 2Yann Hamon 1908 1Toshifumi Hanaoka 1867 1Mike Handfield"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

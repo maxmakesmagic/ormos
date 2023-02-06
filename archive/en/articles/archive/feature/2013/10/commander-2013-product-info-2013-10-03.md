@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2013-product-info-2013-10-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206191220id_/https://magic.wizards.com/en/articles/archive/feature/commander-2013-product-info-2013-10-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 19:12:20+00:00"
-[_metadata_:publish_date]:- "2013-10-03"
 [_metadata_:description]:- "Magic: The Gathering Commander (2013 Edition) will consist of five different 100-card singleton decks, each with a suggested retail price of $29.99. To continue the tradition of oversized cards associated with our multiplayer releases, each deck will also include three premium oversized legendary commander cards that can be used in lieu of the normal versions of the cards"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-10-03"
 ---
 
 

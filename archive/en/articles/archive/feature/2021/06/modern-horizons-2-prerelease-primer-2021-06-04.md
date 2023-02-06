@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-prerelease-primer-2021-06-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210604153124id_/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-prerelease-primer-2021-06-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-04 15:31:24+00:00"
-[_metadata_:publish_date]:- "2021-06-04"
 [_metadata_:description]:- "If it's new to Modern, it's in Modern Horizons 2. If you're new to Sealed, Gavin has the scoop on building from your Prerelease Pack, playing through SpellTable, and more."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-06-04"
 ---
 
 

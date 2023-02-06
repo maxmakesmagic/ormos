@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/all-suns%E2%80%99-dawn-2005-04-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524205917id_/https://magic.wizards.com/en/articles/archive/feature/all-suns%E2%80%99-dawn-2005-04-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 20:59:17+00:00"
-[_metadata_:publish_date]:- "2005-04-13"
 [_metadata_:description]:- "Hopefully you're enjoying Discard Week to the fullest. I don't know what wonderful bit of genius my column-neighbor Anthony Alongi has brewed up for you this week, but I know it will be full of wise and wacky insights, as always. Depending on how you look at it, I've drawn either the short or the long straw – I get to sit this theme week out thanks to royal decree of our"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-04-13"
 ---
 
 

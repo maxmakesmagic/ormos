@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-standings-score-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627155033id_/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-score-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 15:50:33+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 one day fly 15 73.33% 2 Metagames/LNT 15 68.88% 3 Two men and a baby ! 15 68.88% 4 Angstschreeuw 15 61.66% 5 Stuchkaccolites * 13 53.33% 6 gotta catch Kai 12 80.00% 7 www.revised4th5th.com 12 80.00% 8 Black-Ops 12 75.55% 9 Team Clegg 12 75.55% 10 trash AAA 12 75.00% 11 Absolute Samuels 12 73.33% 12 Bologna Demolition Team 12 66.66% 13 Amsterdam 12"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/making-waves-2013-09-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016153918id_/https://magic.wizards.com/en/articles/archive/feature/making-waves-2013-09-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-16 15:39:18+00:00"
-[_metadata_:publish_date]:- "2013-09-20"
 [_metadata_:description]:- "The cards Master of Waves; Thassa, God of the Sea; and Bident of Thassa all look very appealing to me, both by themselves and in concert. After reading Caleb Durward's article on Thassa, I was inspired to brew up a similar list. I liked a lot of what Caleb had going on, and decided that taking advantage of Master of Waves (which may not have been previewed by the time Caleb"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-20"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/designing-warhammer-40000-commander-decks-2022-09-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220919152832id_/https://magic.wizards.com/en/articles/archive/feature/designing-warhammer-40000-commander-decks-2022-09-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-09-19 15:28:32+00:00"
-[_metadata_:publish_date]:- "2022-09-19"
 [_metadata_:description]:- "Dive inside how Magic decks were built for the grimdark battlefields of the Warhammer 40,000 Commander decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-09-19"
 ---
 
 

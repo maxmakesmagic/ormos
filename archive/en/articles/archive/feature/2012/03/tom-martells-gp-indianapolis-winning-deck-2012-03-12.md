@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tom-martells-gp-indianapolis-winning-deck-2012-03-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170409232523id_/http://magic.wizards.com/en/articles/archive/feature/tom-martells-gp-indianapolis-winning-deck-2012-03-12"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-09 23:25:23+00:00"
-[_metadata_:publish_date]:- "2012-03-12"
 [_metadata_:description]:- "Congratulations to Tom Martell, your Grand Prix Indianapolis champion. You can read more about this Legacy format Grand Prix in the official event coverage."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-12"
 ---
 
 

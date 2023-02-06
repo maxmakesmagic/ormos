@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/peasants-creatures-and-wacky-hats-2004-08-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127212544id_/https://magic.wizards.com/en/articles/archive/feature/peasants-creatures-and-wacky-hats-2004-08-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-27 21:25:44+00:00"
-[_metadata_:publish_date]:- "2004-08-26"
 [_metadata_:description]:- "Last Thursday through Sunday was Gen Con, the largest gaming convention in the United States. Probably. (Hey, I don't have a fact checker. I've gotta hedge my bets.) Over the course of those four days, a whopping seventy-nine thousand Magic tournaments were held. (Scott! Fact checker! Seriously!) Besides the Type 1 Championships, there were PTQs, Extended tourneys, Standard"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-08-26"
 ---
 
 

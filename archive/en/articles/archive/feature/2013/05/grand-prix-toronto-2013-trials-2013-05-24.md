@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-toronto-2013-trials-2013-05-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160310002511id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-toronto-2013-trials-2013-05-24"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-10 00:25:11+00:00"
-[_metadata_:publish_date]:- "2013-05-24"
 [_metadata_:description]:- "Grand Prix Toronto Trials will be run at North AmericaWPN locations from September 14, 2013 to November 17, 2013. Each awards the winner a two-round bye to Grand Prix Toronto.  Entry Fee Entry fee varies from location to location. Check with local organizer for specific information.  Format"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-24"
 ---
 
 

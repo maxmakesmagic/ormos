@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sharuumbc-2009-02-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815072148id_/https://magic.wizards.com/en/articles/archive/feature/sharuumbc-2009-02-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-15 07:21:48+00:00"
-[_metadata_:publish_date]:- "2009-02-20"
 [_metadata_:description]:- "[decklist] Title: jan franen's Sharuum Control Format: Magic Online Premier Shards of Alara Block Constructed Event 4 Arcane Sanctum 4 Crumbling Necropolis 4 Esper Panorama 2 Island 8 Plains 2 Swamp 3 Battlegrace Angel 3 Sanctum Gargoyle 2 Sharuum the Hegemon 4 Tidehollow Sculler 3 Tidehollow Strix 3 Tower Gargoyle 1 Agony Warp 1 Ajani Vengeant 3 Courier's Capsule 1 Elspeth,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-20"
 ---
 
 

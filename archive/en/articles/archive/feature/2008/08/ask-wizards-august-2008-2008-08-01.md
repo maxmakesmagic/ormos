@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ask-wizards-august-2008-2008-08-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160723133257id_/http://magic.wizards.com/en/articles/archive/feature/ask-wizards-august-2008-2008-08-01"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-23 13:32:57+00:00"
-[_metadata_:publish_date]:- "2008-08-01"
 [_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your name and location, to us via this email form. We'll post a new question and answer each day."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-01"
 ---
 
 

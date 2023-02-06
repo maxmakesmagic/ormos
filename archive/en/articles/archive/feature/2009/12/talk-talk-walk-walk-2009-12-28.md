@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/talk-talk-walk-walk-2009-12-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200809211214id_/https://magic.wizards.com/en/articles/archive/feature/talk-talk-walk-walk-2009-12-28"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-09 21:12:14+00:00"
-[_metadata_:publish_date]:- "2009-12-28"
 [_metadata_:description]:- "Welcome back to the best of 2009! As you read this, the Magic web team is busy sharing the holidays with family, friends, and probably more than a few games of Magic. But we couldn't just leave you hanging, so we've selected our favorite articles from 2009 to repeat for those who may have missed them, or those who want to read them again."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-12-28"
 ---
 
 

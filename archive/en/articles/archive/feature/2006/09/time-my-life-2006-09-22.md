@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/time-my-life-2006-09-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160219213312id_/http://magic.wizards.com/en/articles/archive/feature/time-my-life-2006-09-22"
 [_metadata_:wayback_capture_timestamp]:- "2016-02-19 21:33:12+00:00"
-[_metadata_:publish_date]:- "2006-09-22"
 [_metadata_:description]:- "Flashback: Two Weeks AgoI was more excited about the release of Time Spiral than I have been for any set since Alliances. Prereleases are always special for me. I have been to every one since Stronghold came out except for Champions of Kamigawa, which I missed due to a hurricane, and the Neopets card game (don’t worry, I won’t explain that right now). Some of the early ones I attended as a player; however, starting with Nemesis, I have attended as a judge."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-09-22"
 ---
 
 

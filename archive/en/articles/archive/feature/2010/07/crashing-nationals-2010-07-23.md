@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/crashing-nationals-2010-07-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127124535id_/https://magic.wizards.com/en/articles/archive/feature/crashing-nationals-2010-07-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 12:45:35+00:00"
-[_metadata_:publish_date]:- "2010-07-23"
 [_metadata_:description]:- "It's National Championship season, and those of you who qualified for your respective countries' Nationals events no doubt busy prepping your decks and strategies (if, like most of them, it's still to come), or maybe even, depending on when you read this, battling it out for your country's Nationals title right now (in which case you should really focus on the game). But what"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-23"
 ---
 
 

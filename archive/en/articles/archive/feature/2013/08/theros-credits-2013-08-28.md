@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-credits-2013-08-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523195344id_/https://magic.wizards.com/en/articles/archive/feature/theros-credits-2013-08-28"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 19:53:44+00:00"
-[_metadata_:publish_date]:- "2013-08-28"
 [_metadata_:description]:- "Original Magic Game Design: Richard Garfield Initial Concept and Game Design: Mark RoseWater (lead), Ethan Fleischer, Jenna Helland, Zac Hill, Billy Moreno, and Ken Nagle Final Game Design and Development: Erik Lauer (lead), Doug Beyer, Zac Hill, David Humpherys, Tom LaPille, and Shawn Main, with contributions from Matt Tabak Magic R&D Leads : Aaron Forsythe (director), Mark"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-28"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-byes-2005-12-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815080952id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-byes-2005-12-15"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-15 08:09:52+00:00"
-[_metadata_:publish_date]:- "2005-12-15"
 [_metadata_:description]:- "Rating used: DCI Limited ratings published November 23rd, 2005Pro Point Standings Used: Magic the Gathering Pro Players Club. These byes are not represented in the tables following, but are awarded as follows:Third-Round ByesPlayers with a Players Club level of 3 or higher DCI players with a Limited of 2025 or higher. Players receive the bye amount for the higher of the two"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-12-15"
 ---
 
 

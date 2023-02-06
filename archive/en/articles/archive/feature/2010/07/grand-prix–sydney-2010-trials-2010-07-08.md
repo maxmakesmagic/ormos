@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sydney-2010-trials-2010-07-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524050028id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sydney-2010-trials-2010-07-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 05:00:28+00:00"
-[_metadata_:publish_date]:- "2010-07-08"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format Sealed Deck Limited with Booster Draft Top 8 Deck lists are required Tournament Length Swiss rounds - 50 minutes per round Top 8 matches will have no time limit Number of Swiss rounds based on attendance according to the following chart: AttendanceSwiss rounds"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-08"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sowing-fear-reaping-war-2008-12-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429063420id_/https://magic.wizards.com/en/articles/archive/feature/sowing-fear-reaping-war-2008-12-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:34:20+00:00"
-[_metadata_:publish_date]:- "2008-12-10"
 [_metadata_:description]:- "Sowing Fear, Reaping War Long before the planes converged, secret groups sowed fear and paranoia in each shard. Although unaware of each other, these agents of discord worked toward the same goal: the outbreak of war in the reunited Alara. A calculating genius has taken an interest in the shards—an ancient evil with a vision that spans worlds. He orchestrates his agents with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-10"
 ---
 
 

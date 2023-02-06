@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archenemy-innistrad-highlight-duels-planeswalkers-2012-expansion-2011-08-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209142906id_/https://magic.wizards.com/en/articles/archive/feature/archenemy-innistrad-highlight-duels-planeswalkers-2012-expansion-2011-08-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 14:29:06+00:00"
-[_metadata_:publish_date]:- "2011-08-17"
 [_metadata_:description]:- "Coming this fall, Magic: The Gathering – Duels of the Planeswalkers 2012 fans can `Ascend Into Darkness` with new art and cards, new decks, new campaign levels, new challenges and more on their Xbox 360, PC, or PS3 in the Duels of the Planeswalkers 2012 Expansion.New features include sneak previews of six Innistrad cards and the ability for players to take on the role of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-08-17"
 ---
 
 

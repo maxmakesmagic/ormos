@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/swap-or-not-2005-10-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130143132id_/https://magic.wizards.com/en/articles/archive/feature/swap-or-not-2005-10-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-30 14:31:32+00:00"
-[_metadata_:publish_date]:- "2005-10-26"
 [_metadata_:description]:- "On turn two, each player plays a creature. On turn three, one attacks and the other blocks. Both creatures die. This is the fate of many creatures, trading off for those of your opponent. Most of the time neither player gives it much thought. Most of the time they're also both making the right decision, but there are many good reasons why one player might not want to make the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-26"
 ---
 
 

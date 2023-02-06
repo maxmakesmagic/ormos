@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bad-trance-2002-08-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203073100id_/https://magic.wizards.com/en/articles/archive/feature/bad-trance-2002-08-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-03 07:31:00+00:00"
-[_metadata_:publish_date]:- "2002-08-15"
 [_metadata_:description]:- "I may be finally ready to admit that my tendency to look for underused cards in any set is peculiar behavior. I can't help it; Cards that look like some R&D peyote vision intrigue me.“Why'd they make that card,” I think, scratching my chin. “There must be a reason. I mean, Development is a serious part of the set creation process now. And Wizards knows how important the rare"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-08-15"
 ---
 
 

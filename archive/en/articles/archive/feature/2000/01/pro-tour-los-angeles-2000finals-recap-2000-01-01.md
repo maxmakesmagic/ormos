@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000finals-recap-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126164407id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000finals-recap-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 16:44:07+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "In a matchup pitting two virtual unknowns against one another for $25000, Monterey, California's Trevor Blackwell defeated Seattle's Chris Benafel three games to one to become the Pro Tour Los Angeles 2000 Champion. Playing in his first Pro Tour in a year, Blackwell showed remarkable poise after a shaky start in his Quarterfinal match against Andy Nishioka."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

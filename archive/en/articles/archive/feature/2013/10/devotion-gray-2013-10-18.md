@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/devotion-gray-2013-10-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170409232842id_/http://magic.wizards.com/en/articles/archive/feature/devotion-gray-2013-10-18"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-09 23:28:42+00:00"
-[_metadata_:publish_date]:- "2013-10-18"
 [_metadata_:description]:- "Last weekend, Kentarou Yamamoto made the Top 8 of Pro Tour Theros, and I have to say that I enjoyed watching him make a pack of Rats while there. He ultimately lost in the first round, but I liked what was going on with his deck, even the non-Pack Rat part."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-10-18"
 ---
 
 

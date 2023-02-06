@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gateway-top-8-john-ormerod-vs-franck-canu-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703041226id_/https://magic.wizards.com/en/articles/archive/feature/gateway-top-8-john-ormerod-vs-franck-canu-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-03 04:12:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Mark Wraith The Gateway Tournament had reached the last eight and both of these players needed to win only two more matches to qualify for the Masters Series. John Ormerod is playing a blue-green Survival deck with heavy counterspells, and creatures such as Tradewind Riders, Spikes, and Quirion Rangers. The aim is to fetch a Squee, Goblin Nabob and gain massive card"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kill-it-fire-2013-01-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527001736id_/https://magic.wizards.com/en/articles/archive/feature/kill-it-fire-2013-01-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 00:17:36+00:00"
-[_metadata_:publish_date]:- "2013-01-24"
 [_metadata_:description]:- "As we approach the end of a Standard season before a new set comes in and changes everything, sometimes it just might not be worth learning all the intricacies of a format to figure out how to perfectly play a control deck. If you're looking to show up to a Friday Night Magic tournament after taking some time away from tournaments to gear up to play with Gatecrash after the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-24"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fruity-pebbles-2009-01-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170210213055id_/http://magic.wizards.com/en/articles/archive/feature/fruity-pebbles-2009-01-06"
 [_metadata_:wayback_capture_timestamp]:- "2017-02-10 21:30:55+00:00"
-[_metadata_:publish_date]:- "2009-01-06"
 [_metadata_:description]:- "[decklist] Title: Kai Budde's Fruity Pebbles Format: Pro Tour-Chicago 1999 2 Flood Plain 2 Adarkar Wastes 4 Plateau 4 Scrubland 4 Tundra 1 Underground Sea 2 Volcanic Island 1 Phyrexian Walker 4 Shield Sphere 3 Arcane Denial 4 Brainstorm 4 Demonic Consultation 4 Enduring Renewal 2 Enlightened Tutor 4 Force of Will 4 Goblin Bombardment 4 Impulse 3 Mana Vault 4 Tithe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-06"
 ---
 
 

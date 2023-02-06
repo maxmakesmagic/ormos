@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/limited-edition-collection-2005-08-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015215404id_/https://magic.wizards.com/en/articles/archive/feature/limited-edition-collection-2005-08-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:54:04+00:00"
-[_metadata_:publish_date]:- "2005-08-16"
 [_metadata_:description]:- "WIZARDS OF THE COAST TO OPEN ART VAULTS TO PUBLIC FOR FIRST TIMEPublisher of Dungeons & Dragons and Magic: The Gathering Will Release Ten Iconic Art Pieces in Historic FirstJULY 29, 2005 (Renton, Wash.) - The eyes of the art world will be on Seattle this fall as a portion of one of the largest privately held collections of fantasy-themed art in existence is made available to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-08-16"
 ---
 
 

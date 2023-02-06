@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oath-druids-2010-05-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151204040614id_/http://magic.wizards.com/en/articles/archive/feature/oath-druids-2010-05-04"
 [_metadata_:wayback_capture_timestamp]:- "2015-12-04 04:06:14+00:00"
-[_metadata_:publish_date]:- "2010-05-04"
 [_metadata_:description]:- "Adrian Sullivan's Oath of Druids"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-04"
 ---
 
 

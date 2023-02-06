@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-2-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126183404id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-2-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:34:04+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Abe, Kazufumi (145) 3 33 Swan, Tom (98) 3 Alvarenga, Rafael (76) 0 66 Simoncini, Stefano (290) 0 Anzorena, Pablo (15) 0 49 Hamon, Yann (26) 0 Auer, Jeffrey (104) 0 137 Lavery, Joshua (206) 1 Azevedo, Pedro (199) 0 101 Yamazoe, Makoto (47) 0 Bachmann, David (229) 0 35 Hofmans, Kim (278) 0 Baehr, Kevin (155) 3 146 Burgner, Kurt (173) 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

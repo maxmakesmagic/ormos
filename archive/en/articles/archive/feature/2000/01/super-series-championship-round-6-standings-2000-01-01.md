@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521145548id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 14:55:48+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Chapman, Eric 18 63.8889 75.0000 57.4057 6/6/0/0 2 Bryant, Jusdtin 18 63.8889 70.5882 59.3708 6/6/0/0 3 Cassidy, Jonathan 18 62.9630 80.0000 56.7643 6/6/0/0 4 Phelps, Mason 16 59.4444 66.6667 54.5745 6/5/1/0 5 Spindel, Daniel 15 65.0000 78.5714 58.3184 6/5/0/0 6 Wiegand, Jon 15 62.2222 73.3333 55.5496"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

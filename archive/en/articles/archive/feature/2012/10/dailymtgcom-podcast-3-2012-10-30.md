@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-3-2012-10-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531085410id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-3-2012-10-30"
 [_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:54:10+00:00"
-[_metadata_:publish_date]:- "2012-10-30"
 [_metadata_:description]:- "This is the biweekly audio podcast for DailyMTG.com. Episode 3 - `Mystical Web Producer`: (55:21) In this episode Trick, Tifa, and Mike talk with Web Producer (and Arcana author) Monty Ashley. They talk about Return to Ravnica Game Day, the Magic Online Community Cup, and Halloween! (13 MB)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-10-30"
 ---
 
 

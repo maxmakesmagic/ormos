@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lifetime-grand-prix-top-8s-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206094456id_/https://magic.wizards.com/en/articles/archive/feature/lifetime-grand-prix-top-8s-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 09:44:56+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Nikolaus Eigner 3 1 Sigurd Eskeland 3 Vasilis Fatouros 3 Stefano Fiore 3 Jason Ford 3 1 Ben Friedman 3 Kenichi Fujita 3 2 Justin Gary 3 1 Sam Gomersall 3 1 Thomas Gundersen 3 Brian Hacker 3 Yann Hamon 3 2 Jake Hart 3 Weng Heng Soh 3 Matt Henstra 3 Jim Herold 3 3 Nicolai Herzog 3 Kazuya Hirabayashi 3 Nathan Holiday 3 1 Mike Hron 3 1 Ren Ishikawa 3 Lukas Jaklovsky 3 Eric James 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-01-05"
 ---
 
 

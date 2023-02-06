@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/story-time-2003-07-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813210352id_/https://magic.wizards.com/en/articles/archive/feature/story-time-2003-07-31"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 21:03:52+00:00"
-[_metadata_:publish_date]:- "2003-07-31"
 [_metadata_:description]:- "Magic Memory Week? Why, oh why, did I get that lobotomy? I knew it would come back to haunt me. That’s a joke of course. I didn’t have any idea it would come back to haunt me. Well, let’s wring some memories out of this brain of mine. Magic memories are easy to scrounge up. I started playing with Beta, and this game has a knack for creating striking moments in time. The hard"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-07-31"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-product-overview-2021-10-28?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211029102016id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-product-overview-2021-10-28?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-29 10:20:16+00:00"
-[_metadata_:publish_date]:- "2021-10-28"
 [_metadata_:description]:- "Get to know all the boosters, bundles, and more you'll find for Innistrad: Crimson Vow."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-10-28"
 ---
 
 

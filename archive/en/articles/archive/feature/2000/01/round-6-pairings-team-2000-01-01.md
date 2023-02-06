@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705193950id_/https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-05 19:39:50+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPointsOpponentPoints#I Magic6vsAzz Izz3A Little Too Sick12vsAntarctica12AlphaBetaUnlimited.com/212vsTeam Flees12Bags13vsWho's the Other Dude12Bill Bixby's Bill Bixby6vsRing Wraiths6Car Acrobatic Team9vsPC Load Letter9Cavity Creeps9vsJovial Evil9Cherry12vsHot Fungusaur Invasion 2K112Conan the Barbarian9vsLeft Cheek Sneak9Coup de Foudre6vsAustihaibing6Cyanide9vsWhere's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

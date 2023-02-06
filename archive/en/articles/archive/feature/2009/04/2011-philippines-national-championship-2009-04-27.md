@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-philippines-national-championship-2009-04-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118011930id_/https://magic.wizards.com/en/articles/archive/feature/2011-philippines-national-championship-2009-04-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 01:19:30+00:00"
-[_metadata_:publish_date]:- "2009-04-27"
 [_metadata_:description]:- "FirstLastInvitation Source JanAng2010 National Team Joselito AlbertoJamir2010 National Team Christian JosephLim2010 National Team CaesarFamorcanNational Champion CaesarFamorcan2010 National Champion AdrianMarasiganTop 75 Country rating Jose VictorSalvatierraTop 75 Country rating JasonAscalonTop 75 Country rating AndrewCantillanaTop 75 Country rating OliverMastileroTop 75"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-27"
 ---
 
 

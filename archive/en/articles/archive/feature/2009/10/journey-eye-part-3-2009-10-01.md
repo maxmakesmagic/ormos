@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/journey-eye-part-3-2009-10-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200809054045id_/https://magic.wizards.com/en/articles/archive/feature/journey-eye-part-3-2009-10-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-09 05:40:45+00:00"
-[_metadata_:publish_date]:- "2009-10-01"
 [_metadata_:description]:- "    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-01"
 ---
 
 

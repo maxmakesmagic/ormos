@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-dynasty-vs-team-20-dollar-billz-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629092725id_/https://magic.wizards.com/en/articles/archive/feature/round-10-dynasty-vs-team-20-dollar-billz-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-29 09:27:25+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Dynasty vs. Team $20 Dollar BillzThe final round of the final team grand prix of the season featured a team of accomplished PT veterans against a team of relative newcomers. Dynasty (Ben Rubin, Brian Hacker, and Gab Tsang) had been on a roll all weekend, and only needed one more win to advance into the top 4 playoff. Team $20 Dollar Billz (Eric Duewel-Zahnise, Pete Ripley, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

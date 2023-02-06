@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/resource-income-2011-08-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053623id_/https://magic.wizards.com/en/articles/archive/feature/resource-income-2011-08-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:36:23+00:00"
-[_metadata_:publish_date]:- "2011-08-01"
 [_metadata_:description]:- "Welcome to Bloodthirst Week. This week we'll be exploring a mechanic of Ravnica's Gruul guild that found its way into the core set with Magic 2012. When I first heard the topic of the theme week I assumed I would write an article about what we look for in returning mechanics specifically in the core set. As I began to figure out what I wanted to write, it hit me: I'd already"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-08-01"
 ---
 
 

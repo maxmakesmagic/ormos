@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/free-whaley-2010-07-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210707161147id_/https://magic.wizards.com/en/articles/archive/feature/free-whaley-2010-07-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-07-07 16:11:47+00:00"
-[_metadata_:publish_date]:- "2010-07-01"
 [_metadata_:description]:- "[decklist] Title: Dave Humpherys Format: Pro Tour–Rome 1999 10 Island 2 Mishra's Factory 4 Swamp 3 Underground River 4 Underground Sea 4 Great Whale 4 Merfolk Traders 1 Priest of Gix 4 Shield Sphere 1 Triskelion 1 Attunement 2 Counterspell 3 Duress 4 Force of Will 4 Impulse 4 Intuition 4 Recurring Nightmare 1 Stroke of Genius *3 Arcane Laboratory *4 Chill *1 Counterspell *1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-01"
 ---
 
 

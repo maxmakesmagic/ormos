@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intotheaether-has-no-clothes-2004-09-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204100215id_/https://magic.wizards.com/en/articles/archive/feature/intotheaether-has-no-clothes-2004-09-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 10:02:15+00:00"
-[_metadata_:publish_date]:- "2004-09-14"
 [_metadata_:description]:- "Wow (to steal a line from Mike Flores). I'm impressed with the turnout for my three days of Emperor Fun. Thank you all for showing up, both while I was there and throughout other parts of the day. I apologize to those folks who complained that the only time I could reliably find time to play started at 9pm Pacific. Thankfully, though, by all accounts it sounds like people"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-09-14"
 ---
 
 

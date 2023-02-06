@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-envy-2014-04-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023030023id_/https://magic.wizards.com/en/articles/archive/feature/green-envy-2014-04-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 03:00:23+00:00"
-[_metadata_:publish_date]:- "2014-04-29"
 [_metadata_:description]:- "Back at Pro Tour Theros, Makihito Mihara unleashed an explosive deck onto the rest of the Pro Tour, resulting in a semifinal appearance. Afterwards, Green Devotion has taken a backseat to both Blue Devotion and Black Devotion, but Magic Online user Gray Eyed Wanderer recently had success with Green Devotion with a 2nd-place finish in a Magic Online Premier Event. One of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-29"
 ---
 
 

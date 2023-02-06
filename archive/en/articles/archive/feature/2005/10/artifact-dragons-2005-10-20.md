@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/artifact-dragons-2005-10-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117203044id_/https://magic.wizards.com/en/articles/archive/feature/artifact-dragons-2005-10-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-17 20:30:44+00:00"
-[_metadata_:publish_date]:- "2005-10-20"
 [_metadata_:description]:- "Mirrodin's Clockwork Dragon is only the most recent member of an elite group: it is one of only four artifact creatures in Magic with the Dragon creature type. This illustrious gang of clanking lizards has been ravaging opponents' life totals since Mirage. Illustrating an artifact dragon is an interesting challenge for an artist. How do you represent the creature's artifact"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-20"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-2014-trials-2014-04-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022235117id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-2014-trials-2014-04-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 23:51:17+00:00"
-[_metadata_:publish_date]:- "2014-04-03"
 [_metadata_:description]:- "Grand Prix Salt Lake City Trials will be run at North America and Latin America WPN locations from June 14, 2014 to August 24, 2014. Each awards the winner a two-round bye to Grand Prix Salt Lake City. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-03"
 ---
 
 

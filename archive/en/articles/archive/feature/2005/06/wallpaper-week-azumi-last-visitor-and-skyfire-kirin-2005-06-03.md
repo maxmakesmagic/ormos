@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-azumi-last-visitor-and-skyfire-kirin-2005-06-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160801083003id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-azumi-last-visitor-and-skyfire-kirin-2005-06-03"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-01 08:30:03+00:00"
-[_metadata_:publish_date]:- "2005-06-03"
 [_metadata_:description]:- "&#13; This week we have a special double batch of Saviors of Kamigawa desktop wallpaper (thanks to Jen Page, magicthegathering.com's graphic designer whiz)!&#13; &#13; First, in honor of our final legend vignette, there's Ayumi, the Last Visitor by rk post.&#13; &#13; And second, in honor of Fire Week, it's Skyfire Kirin by Tsutomu Kawade. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-06-03"
 ---
 
 

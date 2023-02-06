@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/evidence-other-guilds-2005-11-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025051628id_/https://magic.wizards.com/en/articles/archive/feature/evidence-other-guilds-2005-11-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 05:16:28+00:00"
-[_metadata_:publish_date]:- "2005-11-15"
 [_metadata_:description]:- "Boros, Dimir, Golgari, Selesnya. Since the Ravnica set focuses on these four guilds, we've heard all about them. But the other guilds are a relative mystery. However, since Ravnica the plane is full of the activities of all ten guilds, there are hints about the other guilds floating around in the flavor of Ravnica, the cards. It's too early to reveal too much about these"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-15"
 ---
 
 

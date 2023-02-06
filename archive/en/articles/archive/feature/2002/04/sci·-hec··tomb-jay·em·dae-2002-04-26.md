@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sci%C2%B7-hec%C2%B7%C2%B7tomb-jay%C2%B7em%C2%B7dae-2002-04-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018230004id_/https://magic.wizards.com/en/articles/archive/feature/sci%C2%B7-hec%C2%B7%C2%B7tomb-jay%C2%B7em%C2%B7dae-2002-04-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 23:00:04+00:00"
-[_metadata_:publish_date]:- "2002-04-26"
 [_metadata_:description]:- "sci·on From Merriam-Webster Online: Function: noun Etymology: Middle English, from Middle French cion, of Germanic origin; akin to Old High German chInan to sprout, split open, Old English cInan to gape Date: 13th century 1 : a detached living portion of a plant joined to a stock in grafting and usually supplying solely aerial parts to a graft 2 : descendant; childhec·a·tomb"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-04-26"
 ---
 
 

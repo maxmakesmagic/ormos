@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp-washington-and-gp-bochum-2004-04-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525165925id_/https://magic.wizards.com/en/articles/archive/feature/gp-washington-and-gp-bochum-2004-04-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 16:59:25+00:00"
-[_metadata_:publish_date]:- "2004-04-22"
 [_metadata_:description]:- "Grand Prix: Washington DC“Thaaaat's Me” (Bill Stead, Chris Fennell, and Charles Gindy)Close to 600 gamers returned to the region where the Team Pro Tour began all these years ago. Three-person teams had to build two sealed deck sets over the course of eight rounds, then the top 20 teams would draft three times on day two, finally cutting to the top 4.Many of the usual suspects"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-04-22"
 ---
 
 

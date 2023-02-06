@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-team-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123234226id_/https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-team-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-23 23:42:26+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPoints OpponentPoints 3,141596 *3vsCalvo destiny3 Absolute Samuels9vsTwo men and a baby !9 AlphaBetaUnlimited.com6vssuicideboard *6 Altrove *6vsThe lucky squad *6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

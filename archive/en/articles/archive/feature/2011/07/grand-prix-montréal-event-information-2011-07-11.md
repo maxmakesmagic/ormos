@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-montr%C3%A9al-event-information-2011-07-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161002033510id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-montr%C3%A9al-event-information-2011-07-11"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-02 03:35:10+00:00"
-[_metadata_:publish_date]:- "2011-07-11"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-07-11"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-strixhaven-school-mages-2021-03-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210731084249id_/https://magic.wizards.com/en/articles/archive/feature/collecting-strixhaven-school-mages-2021-03-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-07-31 08:42:49+00:00"
-[_metadata_:publish_date]:- "2021-03-25"
 [_metadata_:description]:- "From the Mystical Archive and Biblioplex to the far reaches of campus and beyond, here's what you should know about everything there is to collect in Strixhaven: School of Mages."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-03-25"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-6-recap-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518011930id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-6-recap-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 01:19:30+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler Two of the best players in the history of the game. The consensus best player in the world versus the consensus most hated player in the world. Last year's player of the Year versus last year's Invitational winner. It may be the case that every match at this tournament is a feature match, but this one was a little bit more special. This one was Jon Finkel"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dark-ascension-update-bulletin-2012-01-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161117184801id_/http://magic.wizards.com/en/articles/archive/feature/dark-ascension-update-bulletin-2012-01-25"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-17 18:48:01+00:00"
-[_metadata_:publish_date]:- "2012-01-25"
 [_metadata_:description]:- "Dark Ascension is almost upon us, so it's time once again to go through the Oracle and Comprehensive Rules changes for the next update. These updates always feel like a reunion for the rules enthusiasts out there. We all get together, see what changes are on the horizon, and learn a bit more about our game and the structure that holds it all together. I talk to you. You talk to me. It's great fun."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-25"
 ---
 
 

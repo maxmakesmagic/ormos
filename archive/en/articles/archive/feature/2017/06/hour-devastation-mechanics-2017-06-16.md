@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/hour-devastation-mechanics-2017-06-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170620040721id_/http://magic.wizards.com/en/articles/archive/feature/hour-devastation-mechanics-2017-06-16"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-20 04:07:21+00:00"
-[_metadata_:publish_date]:- "2017-06-16"
 [_metadata_:description]:- "Matt explains the new and returning mechanics in Hour of Devastation."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-06-17"
 ---
 
 

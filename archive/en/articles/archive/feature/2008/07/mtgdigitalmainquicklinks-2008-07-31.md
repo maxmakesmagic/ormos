@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgdigitalmainquicklinks-2008-07-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027225801id_/https://magic.wizards.com/en/articles/archive/feature/mtgdigitalmainquicklinks-2008-07-31"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 22:58:01+00:00"
-[_metadata_:publish_date]:- "2008-07-31"
 [_metadata_:description]:- "New to Magic Magic Online Duels of the Planeswalkers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-31"
 ---
 
 

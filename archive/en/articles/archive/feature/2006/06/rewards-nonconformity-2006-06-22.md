@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rewards-nonconformity-2006-06-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203004743id_/https://magic.wizards.com/en/articles/archive/feature/rewards-nonconformity-2006-06-22"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-03 00:47:43+00:00"
-[_metadata_:publish_date]:- "2006-06-22"
 [_metadata_:description]:- "Before the Pro Tour, many of us joked that no team was going to post fewer than four copies of Loxodon Hierarch unless they somehow couldn't get their hands on a set for some reason (no friends, no barns, they blew all their money on pachinko, whatever)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-06-22"
 ---
 
 

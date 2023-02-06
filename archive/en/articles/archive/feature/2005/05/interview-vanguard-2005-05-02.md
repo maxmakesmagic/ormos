@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/interview-vanguard-2005-05-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811023116id_/https://magic.wizards.com/en/articles/archive/feature/interview-vanguard-2005-05-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-11 02:31:16+00:00"
-[_metadata_:publish_date]:- "2005-05-02"
 [_metadata_:description]:- "First, the facts. As many are already aware, the old fan favorite, Vanguard, is coming to Magic: the Gathering® Online. For many, that brings forth cheers of excitement and delight. It’s been far too long for most since they last took part in any Vanguard shenanigans and miracles. For others, it simply makes them tilt their head sideways and say, “What is this? I must know.”"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-05-02"
 ---
 
 

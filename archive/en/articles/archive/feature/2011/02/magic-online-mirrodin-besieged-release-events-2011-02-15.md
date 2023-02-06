@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-mirrodin-besieged-release-events-2011-02-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125054834id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-mirrodin-besieged-release-events-2011-02-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-25 05:48:34+00:00"
-[_metadata_:publish_date]:- "2011-02-15"
 [_metadata_:description]:- "The Phyrexian assault on the metallic plane of Mirrodin intensifies. The Mirran resistance rallies to survive and overcome. Both sides bring the full might of their arsenals to bear. As the fate of one world hangs in the balance, Magic players in our world get to enjoy all the wicked weapons this war has to offer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-02-15"
 ---
 
 

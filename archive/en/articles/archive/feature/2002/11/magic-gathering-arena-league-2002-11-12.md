@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-arena-league-2002-11-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211115012126id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-arena-league-2002-11-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-15 01:21:26+00:00"
-[_metadata_:publish_date]:- "2002-11-12"
 [_metadata_:description]:- "With the release of Time Spiral, Wizards of the Coast will be retiring the organized play program, Arena. Launched in 1996, Arena enjoyed many years of success across the globe. However, both the game of Magic and Magic players’ tastes have changed throughout the years. As a result, the company will be discontinuing the Arena program effective immediately. We are excited to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-11-12"
 ---
 
 

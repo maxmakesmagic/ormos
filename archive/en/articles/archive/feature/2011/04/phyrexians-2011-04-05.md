@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/phyrexians-2011-04-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160702210022id_/http://magic.wizards.com/en/articles/archive/feature/phyrexians-2011-04-05"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-02 21:00:22+00:00"
-[_metadata_:publish_date]:- "2011-04-05"
 [_metadata_:description]:- "[decklist] Title: The Phyrexians Format: Duel Decks: Phyrexia vs. the Coalition 25 Swamp 1 Bone Shredder 1 Carrion Feeder 1 Order of Yawgmoth 1 Phyrexian Battleflies 1 Phyrexian Broodlings 1 Phyrexian Colossus 1 Phyrexian Debaser 1 Phyrexian Defiler 1 Phyrexian Denouncer 1 Phyrexian Gargantua 1 Phyrexian Ghoul 1 Phyrexian Hulk 1 Phyrexian Negator 1 Phyrexian Plaguelord 2 Priest of Gix 1 Sanguine Guard 2 Dark Ritual 1 Hideous End"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-04-05"
 ---
 
 

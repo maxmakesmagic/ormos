@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/titan-control-2010-07-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170720165652id_/http://magic.wizards.com/en/articles/archive/feature/titan-control-2010-07-27"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-20 16:56:52+00:00"
-[_metadata_:publish_date]:- "2010-07-27"
 [_metadata_:description]:- "[decklist] Title: Kamiya Shogo's Titan Control Format: Standard 4 Forest 4 Island 3 Mountain 2 Halimar Depths 2 Khalni Garden 4 Misty Rainforest 4 Raging Ravine 2 Scalding Tarn 2 Frost Titan 2 Primeval Titan 2 Into the Roil 4 Lightning Bolt 4 Mana Leak 3 Cultivate 3 Destructive Force 3 Explore 2 Mind Spring 3 Rampant Growth 3 Garruk Wildspeaker 4 Jace, the Mind Sculptor *1 Mold Shambler *3 Obstinate Baloth *2 Pelakka Wurm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-27"
 ---
 
 

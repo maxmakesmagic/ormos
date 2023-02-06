@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/breaking-darksteel-2004-01-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130145924id_/https://magic.wizards.com/en/articles/archive/feature/breaking-darksteel-2004-01-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-30 14:59:24+00:00"
-[_metadata_:publish_date]:- "2004-01-29"
 [_metadata_:description]:- "Let me let you in on a little secret: I am not ready for Darksteel. I have a file with half a dozen bizarre Mirrodin-based decks that I never got to write about before the best-of weeks at the end of the year. After coming back from break, Darksteel previews hijacked my brain for three weeks. And now the full set is out, and there's no going back. Well, there may be a little"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-01-29"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/one-final-challenge-%E2%80%93-results-2005-08-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026223651id_/https://magic.wizards.com/en/articles/archive/feature/one-final-challenge-%E2%80%93-results-2005-08-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 22:36:51+00:00"
-[_metadata_:publish_date]:- "2005-08-03"
 [_metadata_:description]:- "As the Single Card Strategies column winded down to its final few articles, I knew that I would have to revisit the Reader Challenge one last time. The Reader Challenge is one of the most polarizing things about this column, with people mostly completely loving it or completely hating it – but since most of you are in the “love it” camp, it seemed like a necessary thing to do"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-08-03"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/promo-cards-2013-01-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170401024050id_/http://magic.wizards.com/en/articles/archive/feature/promo-cards-2013-01-02"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-01 02:40:50+00:00"
-[_metadata_:publish_date]:- "2013-01-02"
 [_metadata_:description]:- "&#13; Okay, enough fooling around. It's Wednesday already, and we haven't had any Gatecrash preview cards in Arcana. This will not stand! Today, we have the best kind of preview cards: alternate-art event promos!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-02"
 ---
 
 

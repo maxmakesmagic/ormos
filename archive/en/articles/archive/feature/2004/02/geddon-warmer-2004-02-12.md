@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/geddon-warmer-2004-02-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210126065238id_/https://magic.wizards.com/en/articles/archive/feature/geddon-warmer-2004-02-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-26 06:52:38+00:00"
-[_metadata_:publish_date]:- "2004-02-12"
 [_metadata_:description]:- "Did you just realize that all your friends suck? Don't feel bad, it happens to everyone. Are you ashamed that everyone in your Magic play group is a hideous loser—uh, except you? Hey, me too. (No offense, guys.) But what can you do about it? Until now, nothing! You'd have to continue hanging out with them forever. That's all about to change, though. I'm here to help."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-02-12"
 ---
 
 

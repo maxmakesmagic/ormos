@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/keeping-it-current-2002-04-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018182727id_/https://magic.wizards.com/en/articles/archive/feature/keeping-it-current-2002-04-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:27:27+00:00"
-[_metadata_:publish_date]:- "2002-04-08"
 [_metadata_:description]:- "When I told my friends and coworkers that I’d volunteered to write an article about why Magic Online won’t let players play with cards from sets before Invasion, their first reaction was to send for the exorcist. Thanks, guys!Let me get the official answer out of the way first. Why can’t you play with older card sets in Magic Online? Because the powers that be say so. You can"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-04-08"
 ---
 
 

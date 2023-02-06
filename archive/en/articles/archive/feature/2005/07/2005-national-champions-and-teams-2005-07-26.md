@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2005-national-champions-and-teams-2005-07-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028212959id_/https://magic.wizards.com/en/articles/archive/feature/2005-national-champions-and-teams-2005-07-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 21:29:59+00:00"
-[_metadata_:publish_date]:- "2005-07-26"
 [_metadata_:description]:- "Championships marked with an asterisk only send their champions to Worlds, not a team."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-07-26"
 ---
 
 

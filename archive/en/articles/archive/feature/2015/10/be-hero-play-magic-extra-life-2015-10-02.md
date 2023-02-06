@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/be-hero-play-magic-extra-life-2015-10-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160507055917id_/http://magic.wizards.com/en/articles/archive/feature/be-hero-play-magic-extra-life-2015-10-02"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-07 05:59:17+00:00"
-[_metadata_:publish_date]:- "2015-10-02"
 [_metadata_:description]:- "It's time to play Magic for a great cause!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-10-02"
 ---
 
 

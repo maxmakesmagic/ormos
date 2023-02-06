@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-release-notes-2017-03-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170307070644id_/http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-release-notes-2017-03-03"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-07 07:06:44+00:00"
-[_metadata_:publish_date]:- "2017-03-03"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-03-03"
 ---
 
 

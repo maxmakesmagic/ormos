@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-community-appreciation-week-2010-07-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516121004id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-community-appreciation-week-2010-07-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 12:10:04+00:00"
-[_metadata_:publish_date]:- "2010-07-20"
 [_metadata_:description]:- "We just want to say congratulations on your 2010 Community Cup win once again! Players who contributed to the Community Cup strategy threads will be receiving their Mirrodin Block draft set shortly and the Community Cup Mirrodin Block Draft Queues will start on Friday, July 23. For those of you who were not able participate in the Community Cup threads, don't fret...we have"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-07-20"
 ---
 
 

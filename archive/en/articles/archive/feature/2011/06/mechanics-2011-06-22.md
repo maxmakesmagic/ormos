@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-2011-06-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160327021005id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-2011-06-22"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-27 02:10:05+00:00"
-[_metadata_:publish_date]:- "2011-06-22"
 [_metadata_:description]:- "The Magic 2012 Core Set and Duels of the Planeswalkers 2012 introduce some new terminology to the Magic universe, and the core set brings back a few things you might or might not have expected."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-22"
 ---
 
 

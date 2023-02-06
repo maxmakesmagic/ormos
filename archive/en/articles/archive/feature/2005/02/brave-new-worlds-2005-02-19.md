@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brave-new-worlds-2005-02-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812173228id_/https://magic.wizards.com/en/articles/archive/feature/brave-new-worlds-2005-02-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-12 17:32:28+00:00"
-[_metadata_:publish_date]:- "2005-02-19"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.The Betrayers of Kamigawa questions keep rolling in now that more and more people are getting their hands on more cards. People seem quite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-02-19"
 ---
 
 

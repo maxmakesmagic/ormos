@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/devotion-mogis-2014-04-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022080817id_/https://magic.wizards.com/en/articles/archive/feature/devotion-mogis-2014-04-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 08:08:17+00:00"
-[_metadata_:publish_date]:- "2014-04-16"
 [_metadata_:description]:- "Even though there is no Mogis in this decklist, I think it would do Mogis proud. On one hand, we've got the pure aggression that red is famous for, although this red deck goes a little larger than most. On the other hand, we've got black's disruption in the form of Duress, Slaughter Games, and Rakdos's Return, with some removal thrown in for spice. So why is this a winning"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-16"
 ---
 
 

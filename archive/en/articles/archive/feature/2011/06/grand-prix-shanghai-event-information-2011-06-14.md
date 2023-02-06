@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-shanghai-event-information-2011-06-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160804054853id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-shanghai-event-information-2011-06-14"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-04 05:48:53+00:00"
-[_metadata_:publish_date]:- "2011-06-14"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-14"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/multikick-seat-pants-2010-01-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921125904id_/https://magic.wizards.com/en/articles/archive/feature/multikick-seat-pants-2010-01-25"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-21 12:59:04+00:00"
-[_metadata_:publish_date]:- "2010-01-25"
 [_metadata_:description]:- "Welcome to Worldwake Previews, Week II. Last week I talked about how we tweaked the land theme. This week I'm going to talk about how we tweaked everything else. But before we get to all of that, how about starting off with the preview card. Let's start this article with a bang."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-25"
 ---
 
 

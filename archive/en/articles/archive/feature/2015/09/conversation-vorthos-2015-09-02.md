@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/conversation-vorthos-2015-09-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150904211232id_/http://magic.wizards.com/en/articles/archive/feature/conversation-vorthos-2015-09-02"
 [_metadata_:wayback_capture_timestamp]:- "2015-09-04 21:12:32+00:00"
-[_metadata_:publish_date]:- "2015-09-02"
 [_metadata_:description]:- "In honor of the ten-year anniversary of Vorthos's name day, Matt sits down for a chat with our resident flavor czar."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-09-02"
 ---
 
 

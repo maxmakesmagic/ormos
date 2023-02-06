@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030063943id_/https://magic.wizards.com/en/articles/archive/feature/round-7-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:39:43+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Player Points Op.Win% 1 Saux, Rafaël A Le 21 82.14% 2 Possato, William C 21 80.00% 3 Svaldi, Guilherme Dei 21 77.14% 4 Ruel, Antoine 21 75.00% 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

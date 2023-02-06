@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/messages-consulate-2016-11-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161125080206id_/http://magic.wizards.com/en/articles/archive/feature/messages-consulate-2016-11-23"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-25 08:02:06+00:00"
-[_metadata_:publish_date]:- "2016-11-23"
 [_metadata_:description]:- "The Consulate of Kaladesh has been delivering regular updates to the people of Ghirapur regarding the recent events in their city."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-11-23"
 ---
 
 

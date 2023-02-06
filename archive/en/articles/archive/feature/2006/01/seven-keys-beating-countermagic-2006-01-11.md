@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/seven-keys-beating-countermagic-2006-01-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170322230250id_/http://magic.wizards.com/en/articles/archive/feature/seven-keys-beating-countermagic-2006-01-11"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-22 23:02:50+00:00"
-[_metadata_:publish_date]:- "2006-01-11"
 [_metadata_:description]:- "Last week I looked at relatively elementary situations where players faced decks whose main strategy was centered around countering your spells. Normally I would take such a topic and talk about it in the abstract, then offer examples. In this case, the examples came first and now I'm going to talk about these situations in the abstract, as I think they'll be more useful now that we've set the stage. Ready for some principles?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-01-11"
 ---
 
 

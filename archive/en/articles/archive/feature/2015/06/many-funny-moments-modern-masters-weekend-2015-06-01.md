@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/many-funny-moments-modern-masters-weekend-2015-06-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150603234338id_/http://magic.wizards.com/en/articles/archive/feature/many-funny-moments-modern-masters-weekend-2015-06-01"
 [_metadata_:wayback_capture_timestamp]:- "2015-06-03 23:43:38+00:00"
-[_metadata_:publish_date]:- "2015-06-01"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "There were many fun and enjoyable moments during Modern Masters Weekend, even outside the tournament. Here are a few."
+[_metadata_:publish_date]:- "2015-06-01"
 ---
 
 

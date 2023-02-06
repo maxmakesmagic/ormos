@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duel-decks-divine-vs-demonic-theme-decks-2009-07-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121092955id_/https://magic.wizards.com/en/articles/archive/feature/duel-decks-divine-vs-demonic-theme-decks-2009-07-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-21 09:29:55+00:00"
-[_metadata_:publish_date]:- "2009-07-30"
 [_metadata_:description]:- "Divine With the divine deck, righteousness is on your side. The demonic deck starts out faster, but you've got the tools to resist the assault. If you can survive the onrushing hordes long enough, you'll triumph in the end. This deck is very mana-hungry, even with twenty-six lands. You'll want to mulligan hands with only one land, especially if they contain multiple expensive"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-30"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duel-xbox-developers-october-24-2009-10-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022195223id_/https://magic.wizards.com/en/articles/archive/feature/duel-xbox-developers-october-24-2009-10-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 19:52:23+00:00"
-[_metadata_:publish_date]:- "2009-10-21"
 [_metadata_:description]:- "Xbox LIVE® Arcade – Game with Developers – October 24, 2009Team members from Stainless Games, Ltd., Wizards of the Coast, Microsoft, and other Magic developers behind Magic: The Gathering Duels of the Planeswalkers Expansion Pack 1 will play Xbox LIVE® Gold Members on Saturday, October 24. Join us Saturday, October 24 from 6-9 p.m. ET for a classic gaming session. Plus, this"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-21"
 ---
 
 

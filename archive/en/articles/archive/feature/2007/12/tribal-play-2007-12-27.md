@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tribal-play-2007-12-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126145931id_/https://magic.wizards.com/en/articles/archive/feature/tribal-play-2007-12-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 14:59:31+00:00"
-[_metadata_:publish_date]:- "2007-12-27"
 [_metadata_:description]:- "I always find it difficult to judge my own work, so I decided to pass the buck and choose a `Best Of` Week article that site manager Scott Johns enjoyed. For this one, I completely misread the theme week assignment and accidentally devoted the entire column to a retired baseball player instead of the first big tribal block. Oops! To my relief, nobody noticed the gaffe and the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-12-27"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gatecrash-diaries-2012-12-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207073727id_/https://magic.wizards.com/en/articles/archive/feature/gatecrash-diaries-2012-12-31"
 [_metadata_:wayback_capture_timestamp]:- "2021-02-07 07:37:27+00:00"
-[_metadata_:publish_date]:- "2012-12-31"
 [_metadata_:description]:- "I was born in New York City. To this day, that is one of my proudest accomplishments.  There's just something about being a native New Yorker. It's authentic. It's gritty. It's one of the million little things that lets me know I'm better than everyone else. OK, maybe not that. But I do like being able to make the claim; it's a badge of honor."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-12-31"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/uniquely-typed-2013-05-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628221831id_/https://magic.wizards.com/en/articles/archive/feature/uniquely-typed-2013-05-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-28 22:18:31+00:00"
-[_metadata_:publish_date]:- "2013-05-03"
 [_metadata_:description]:- "Simic experiments are well known for their unique types. Of any group in Magic they have some of the most memorably unique type lines, but they aren't the only ones."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-03"
 ---
 
 

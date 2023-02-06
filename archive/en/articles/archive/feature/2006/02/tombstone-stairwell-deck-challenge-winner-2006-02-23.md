@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tombstone-stairwell-deck-challenge-winner-2006-02-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129132151id_/https://magic.wizards.com/en/articles/archive/feature/tombstone-stairwell-deck-challenge-winner-2006-02-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-29 13:21:51+00:00"
-[_metadata_:publish_date]:- "2006-02-23"
 [_metadata_:description]:- "Has anyone else noticed Tombstone Stairwell looks a lot like the abyssal pit that Imhotep tossed himself into at the end of The Mummy Returns because his woman ran off? Someone in the visual effects crew was a fan of either the artist Dom! or Magic: The Gathering, I just know it. At any rate, after a month, dozens of deck submissions, plus several cuts, we finally have a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-02-23"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-2011-04-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020061054id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-2011-04-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 06:10:54+00:00"
-[_metadata_:publish_date]:- "2011-04-15"
 [_metadata_:description]:- "[decklist] Title: Alex Muhich's Planeswalkers Format: Standard – Grand Prix Dallas-Fort Worth 4 Creeping Tar Pit 4 Darkslick Shores 2 Dragonskull Summit 2 Island 8 Mountain 4 Scalding Tarn 4 Inferno Titan 1 Kuldotha Phoenix 4 Everflowing Chalice 4 Galvanic Blast 3 Jace, the Mind Sculptor 3 Koth of the Hammer 2 Prophetic Prism 3 Slagstorm 4 Sphere of the Suns 4 Tezzeret, Agent"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-04-15"
 ---
 
 

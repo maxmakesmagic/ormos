@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/d14-release-dates-2013-06-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531083520id_/https://magic.wizards.com/en/articles/archive/feature/d14-release-dates-2013-06-20"
 [_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:35:20+00:00"
-[_metadata_:publish_date]:- "2013-06-20"
 [_metadata_:description]:- "Coming soon to a system near you, Magic 2014—Duels of the Planeswalkers will be releasing on Xbox LIVE® Arcade, PC/Steam®, PlayStation® Network, iPad®, and for the first time on Android™ tablets next week! As with previous years we are rolling out the release of the game over two days across the myriad of platforms. Magic 2014 will release during the date below for the specified platform."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-20"
 ---
 
 

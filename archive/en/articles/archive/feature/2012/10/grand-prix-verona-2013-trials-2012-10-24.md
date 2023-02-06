@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-verona-2013-trials-2012-10-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519224105id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-verona-2013-trials-2012-10-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 22:41:05+00:00"
-[_metadata_:publish_date]:- "2012-10-24"
 [_metadata_:description]:- "Grand Prix Verona Trials will be run at European WPN locations from December 15, 2012 to February 24, 2013. Each awards the winner a three-round bye to Grand Prix Verona. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-10-24"
 ---
 
 

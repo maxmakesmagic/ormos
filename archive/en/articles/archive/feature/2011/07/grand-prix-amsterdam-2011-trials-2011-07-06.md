@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-amsterdam-2011-trials-2011-07-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524071102id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-amsterdam-2011-trials-2011-07-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:11:02+00:00"
-[_metadata_:publish_date]:- "2011-07-06"
 [_metadata_:description]:- "Grand Prix Amsterdam Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers at least 1 three-round bye to Grand Prix Amsterdam. WPN Locations in the Amsterdam Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-07-06"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oral-history-limited-2016-05-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160512170045id_/http://magic.wizards.com/en/articles/archive/feature/oral-history-limited-2016-05-09"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-12 17:00:45+00:00"
-[_metadata_:publish_date]:- "2016-05-09"
 [_metadata_:description]:- "BDM spoke with several of the pros who pioneered competitive Limited play, admiring how far these formats have come since the beginning."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-05-09"
 ---
 
 

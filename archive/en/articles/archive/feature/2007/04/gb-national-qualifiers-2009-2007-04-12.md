@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gb-national-qualifiers-2009-2007-04-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015212541id_/https://magic.wizards.com/en/articles/archive/feature/gb-national-qualifiers-2009-2007-04-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:25:41+00:00"
-[_metadata_:publish_date]:- "2007-04-12"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document Date 28th March , 2009 to 30th June 2009 Format Standard-constructed format Deck lists are required Invitations All GB Qualifying tournaments award 1 invitation per full 8 players to GB Nationals."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-04-12"
 ---
 
 

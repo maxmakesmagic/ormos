@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-born-gods-coming-2014-02-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111180717id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-born-gods-coming-2014-02-12"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-11 18:07:17+00:00"
-[_metadata_:publish_date]:- "2014-02-12"
 [_metadata_:description]:- "Next week, February 21-23, 2014, the best Magic players in the world will gather in Valencia, Spain, for Pro Tour Born of the Gods to battle for their share of the $250,000 prize pool. Coverage will start on our Twitch.tv at 9 a.m. in Valencia, or midnight Pacific, 3 a.m. Eastern (see the table below for a breakdown)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-02-12"
 ---
 
 

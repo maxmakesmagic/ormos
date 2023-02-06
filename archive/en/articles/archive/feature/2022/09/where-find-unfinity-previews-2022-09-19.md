@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-unfinity-previews-2022-09-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220919151311id_/https://magic.wizards.com/en/articles/archive/feature/where-find-unfinity-previews-2022-09-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-09-19 15:13:11+00:00"
-[_metadata_:publish_date]:- "2022-09-19"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Unfinity, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-09-19"
 ---
 
 

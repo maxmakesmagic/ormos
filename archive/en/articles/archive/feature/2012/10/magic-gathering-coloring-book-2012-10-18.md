@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-coloring-book-2012-10-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160516132709id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-coloring-book-2012-10-18"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-16 13:27:09+00:00"
-[_metadata_:publish_date]:- "2012-10-18"
 [_metadata_:description]:- "Two weeks ago, we showed you the winners of the PAX Prime Coloring Contest. But we didn't show you the whole coloring book! The art was created by Mike `Gabriel` Krahulik from Penny Arcade. And it came with these neat Magic-themed crayons!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-10-18"
 ---
 
 

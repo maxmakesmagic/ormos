@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/valakut-ramp-2009-12-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170808064116id_/http://magic.wizards.com/en/articles/archive/feature/valakut-ramp-2009-12-15"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-08 06:41:16+00:00"
-[_metadata_:publish_date]:- "2009-12-15"
 [_metadata_:description]:- "[decklist] Title: Justin Corbett's Valakut Ramp Format: Texas 2009s Standard 3 Forest 12 Mountain 2 Naya Panorama 4 Terramorphic Expanse 4 Valakut, the Molten Pinnacle 4 Bloodbraid Elf 4 Goblin Ruinblaster 4 Siege-Gang Commander 4 Expedition Map 4 Khalni Heart Expedition 3 Burst Lightning 4 Harrow 4 Lightning Bolt 4 Rampant Growth *3 Blitz Hellion *4 Hell's Thunder *2 Unstable Footing *3 Chandra Nalaar *3 Earthquake [/decklist]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-12-15"
 ---
 
 

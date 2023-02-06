@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/neuron-neuroff-2005-05-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819012542id_/https://magic.wizards.com/en/articles/archive/feature/neuron-neuroff-2005-05-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 01:25:42+00:00"
-[_metadata_:publish_date]:- "2005-05-24"
 [_metadata_:description]:- "There is no need to panic. Please clear your mind of thoughts. We will think for you. Thinking has been scientifically linked to elevated levels of stress, high blood pressure, and spontaneous combustion. Please don't take unnecessary risks. We have only your best interests at heart.There has been no conclusive link between thought and brain tumors, but why gamble with your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-05-24"
 ---
 
 

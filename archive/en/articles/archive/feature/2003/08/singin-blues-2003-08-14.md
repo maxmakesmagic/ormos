@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/singin-blues-2003-08-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820051044id_/https://magic.wizards.com/en/articles/archive/feature/singin-blues-2003-08-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-20 05:10:44+00:00"
-[_metadata_:publish_date]:- "2003-08-14"
 [_metadata_:description]:- "Finally, it's Blue Week! You have no idea how long I've been waiting for this. Believe me, you can't whip out your Brainy Smurf costume any old time you want and wear it to work—people'll think you're a freak! But during Blue Week, no one will give a second thought to a man wearing nothing but white pants, a white hat, glasses, and a gallon of blue body paint. If anything,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-08-14"
 ---
 
 

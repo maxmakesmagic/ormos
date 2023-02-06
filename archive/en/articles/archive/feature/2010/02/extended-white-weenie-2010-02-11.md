@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extended-white-weenie-2010-02-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819165526id_/https://magic.wizards.com/en/articles/archive/feature/extended-white-weenie-2010-02-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 16:55:26+00:00"
-[_metadata_:publish_date]:- "2010-02-11"
 [_metadata_:description]:- "[decklist] Title: Patrizio Golia's Extended White Weenie Format: Extended 1 Eiganjo Castle 3 Ghost Quarter 3 Horizon Canopy 14 Plains 4 Aven Mindcensor 4 Figure of Destiny 2 Hokori, Dust Drinker 2 Isamaru, Hound of Konda 2 Samurai of the Pale Curtain 3 Soltari Priest 4 Honor of the Pure 4 Mana Tithe 3 Oblivion Ring 4 Path to Exile 4 Spectral Procession 3 Umezawa's Jitte *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-02-11"
 ---
 
 

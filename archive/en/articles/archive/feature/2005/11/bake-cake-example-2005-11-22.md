@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bake-cake-example-2005-11-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125144156id_/https://magic.wizards.com/en/articles/archive/feature/bake-cake-example-2005-11-22"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-25 14:41:56+00:00"
-[_metadata_:publish_date]:- "2005-11-22"
 [_metadata_:description]:- "In yesterday's Ask Wizards question, Magic Creative Director Brady Dommermuth explained the flavor relationship between a player, his hand, and his library of spells. It's not the first time that someone has undertaken the challenge of explaining the flavor of such abstract game concepts and mechanics, however. Below is a document written by Daneen McDermott, formerly of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-22"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525111610id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 11:16:10+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Junior Super Series Championship Round 5 Standings - 15-17 Division  Op-Match Rank Name Points Win% 1 Sluzinski, Jeff 15 63.33 2 McArthur, Stephen 13 77.33 3 Del Rosario, Derek 13 73.33 4 Laurent, Sebastien 12 62.00 5 Fornalski, David 12 61.33 6 Moses, Doug 12 61.33 7 Prokopin, Adam 12 57.33 8 Quelle, Blake 12 56.00 9 Carpenter, Ryan 12 56.00 10 Stampke, Ryan 12 56.00 11"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-here-be-dragons-2015-03-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150329092503id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-here-be-dragons-2015-03-27"
 [_metadata_:wayback_capture_timestamp]:- "2015-03-29 09:25:03+00:00"
-[_metadata_:publish_date]:- "2015-03-27"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Grant and Katelin don’t really believe this alternate timeline stuff. Graham is dubious as well."
+[_metadata_:publish_date]:- "2015-03-27"
 ---
 
 

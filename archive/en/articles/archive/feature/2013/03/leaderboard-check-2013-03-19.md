@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/leaderboard-check-2013-03-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626052432id_/https://magic.wizards.com/en/articles/archive/feature/leaderboard-check-2013-03-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-26 05:24:32+00:00"
-[_metadata_:publish_date]:- "2013-03-19"
 [_metadata_:description]:- "The guilds of Ravnica are still racing on PlaneswalkerPoints.com. Hopefully you've joined the race by picking your guild on PlaneswalkerPoints.com. Doing so joins your points to your guild of choice and allows you to earn guild related achievements!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-03-19"
 ---
 
 

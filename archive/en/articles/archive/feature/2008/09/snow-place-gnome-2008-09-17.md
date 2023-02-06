@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/snow-place-gnome-2008-09-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814193436id_/https://magic.wizards.com/en/articles/archive/feature/snow-place-gnome-2008-09-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-14 19:34:36+00:00"
-[_metadata_:publish_date]:- "2008-09-17"
 [_metadata_:description]:- "[decklist] Title: Filippo Kratter's Faeries Format: 2008 Italian Nationals, Standard 6 Island 4 Underground River 2 Pendelhaven 2 Sunken Ruins 4 Secluded Glen 3 River of Tears 4 Mutavault 3 Murderous Redcap 4 Mistbind Clique 4 Spellstutter Sprite 4 Scion of Oona 3 Terror 2 Slaughter Pact 4 Rune Snag 4 Cryptic Command 4 Bitterblossom 4 Ancestral Vision *3 Damnation *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-17"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/architect-2012-05-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614193713id_/http://magic.wizards.com/en/articles/archive/feature/architect-2012-05-22"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-14 19:37:13+00:00"
-[_metadata_:publish_date]:- "2012-05-22"
 [_metadata_:description]:- "Former player of the year Brad Nelson has had a good couple of weeks. After rattling off a 20th-place finish at Pro Tour Avacyn Restored in Barcelona, he flew back to the United States and made the finals of Grand Prix Minneapolis! Even better, he had a great time while doing it, citing the Grand Architect deck he played as an absolute blast!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-22"
 ---
 
 

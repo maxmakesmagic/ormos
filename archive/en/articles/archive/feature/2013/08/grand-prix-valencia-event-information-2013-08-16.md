@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-valencia-event-information-2013-08-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503143609id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-valencia-event-information-2013-08-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 14:36:09+00:00"
-[_metadata_:publish_date]:- "2013-08-16"
 [_metadata_:description]:- "Information Grand Prix Valencia is brought to you by Gordian Knot Games.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #MTGgpval Date: November 8-10, 2013 Format: Theros Sealed Deck and Booster Draft Tournament Location Feria Valencia Avda de las Ferias s / n"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-16"
 ---
 
 

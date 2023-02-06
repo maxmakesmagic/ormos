@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/speed-inevitability-and-futility-2007-11-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208194338id_/https://magic.wizards.com/en/articles/archive/feature/speed-inevitability-and-futility-2007-11-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 19:43:38+00:00"
-[_metadata_:publish_date]:- "2007-11-29"
 [_metadata_:description]:- "For those of you who have been asking, yes, Swimming with Sharks will [once again] take up at least some of the task of Constructed Magic Online coverage. At the time of this writing, though, we still don't have decks or playback from the post-Lorwyn Premiere Events... But we'll keep you posted! Check back next week! That is all about that!So this week I decided to cover three"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-11-29"
 ---
 
 

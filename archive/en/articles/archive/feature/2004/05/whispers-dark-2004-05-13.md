@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whispers-dark-2004-05-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207150430id_/https://magic.wizards.com/en/articles/archive/feature/whispers-dark-2004-05-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-07 15:04:30+00:00"
-[_metadata_:publish_date]:- "2004-05-13"
 [_metadata_:description]:- "OK, everybody. Get your jaws nice and loose. Stretch 'em out, relax the muscles. And now… drop them! Egads! Hold on a sec… checks calendar… nope, it's not April 1st. This card is real.If you're anything like me, you're thinking “uuuuuuhhhhhhhhhhrrrrrrrrrgggggggggg,” because your brain has just melted. There might be some drooling involved as well. Don't misunderstand: I'm not"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-05-13"
 ---
 
 

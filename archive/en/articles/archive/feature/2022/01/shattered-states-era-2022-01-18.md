@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shattered-states-era-2022-01-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118155137id_/https://magic.wizards.com/en/articles/archive/feature/shattered-states-era-2022-01-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:51:37+00:00"
-[_metadata_:publish_date]:- "2022-01-18"
 [_metadata_:description]:- "See the history of the devastating Shattered States Era immortalized on the hilt of a masterwork sword."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-01-18"
 ---
 
 

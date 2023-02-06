@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sage-hours-2014-04-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626122141id_/https://magic.wizards.com/en/articles/archive/feature/sage-hours-2014-04-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-26 12:21:41+00:00"
-[_metadata_:publish_date]:- "2014-04-24"
 [_metadata_:description]:- "Some of you may already be familiar with this Meletian fellow, he's definitely going to be popular among the Commander crowd (and other Johnny gamers I'm sure). The art, while focusing on the male in the foreground, is wonderfully detailed and something I wanted to take a closer look at. Sage of Hours | Art by Matt Stewart So first off, let's talk about the device he is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-24"
 ---
 
 

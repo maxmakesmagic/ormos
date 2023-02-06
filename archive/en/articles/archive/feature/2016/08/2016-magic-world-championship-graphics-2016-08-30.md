@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2016-magic-world-championship-graphics-2016-08-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170414134243id_/http://magic.wizards.com/en/articles/archive/feature/2016-magic-world-championship-graphics-2016-08-30"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-14 13:42:43+00:00"
-[_metadata_:publish_date]:- "2016-08-30"
 [_metadata_:description]:- "The numbers behind the players competing this week for the title of Magic: The Gathering World Championship."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-08-30"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-green-aggro-2012-02-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022080034id_/https://magic.wizards.com/en/articles/archive/feature/mono-green-aggro-2012-02-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 08:00:34+00:00"
-[_metadata_:publish_date]:- "2012-02-10"
 [_metadata_:description]:- "The StarCityGames.com Open Series in Richmond this past weekend saw several players packing decks backed by brand-new Dark Ascension cards. Former US National team member Todd Anderson brought an especially exciting deck to the table: Mono Green Aggro!Mono Green Aggro hasn't been seen in Standard for a while, but the power of Dark Ascension's Strangleroot Geist has tempted"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-02-10"
 ---
 
 

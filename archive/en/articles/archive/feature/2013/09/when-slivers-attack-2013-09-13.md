@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/when-slivers-attack-2013-09-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170820183639id_/http://magic.wizards.com/en/articles/archive/feature/when-slivers-attack-2013-09-13"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-20 18:36:39+00:00"
-[_metadata_:publish_date]:- "2013-09-13"
 [_metadata_:description]:- "Who says Slivers aren't a force to be reckoned with in Standard? You throw enough of 'em into a deck and something sweet is bound to happen, as today's list proves. This is one of the most streamlined decks I've had the pleasure of featuring, but that seems to be a consistent characteristic of the Sliver tribe. It rewards you for playing nicely, but in a very Borg-like way. If you are going to be Slivers, you better be SLIVERS, with very little room for anything else."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-13"
 ---
 
 

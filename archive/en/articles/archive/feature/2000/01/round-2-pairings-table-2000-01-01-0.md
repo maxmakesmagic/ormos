@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704111936id_/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-04 11:19:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team Points Opponent Points Tapa chilu * 3 vs Calvo's Legacy 3 Fumetteria Gabriele * 3 vs Nether Spirits 3 Mad 3 vs Dirty arbouze * 3 Furetto team * 3 vs Amsterdam 3 Is on my mind * 3 vs Vintara 3 The Feebles 3 vs Viperin * 3 killers of the Coast 3 vs zyrberus 3 CAP games Team * 3 vs Angstschreeuw 3 I 3 ciccioni 3 vs The lucky squad * 3 Accellerated Vares8 Volante 3 vs"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

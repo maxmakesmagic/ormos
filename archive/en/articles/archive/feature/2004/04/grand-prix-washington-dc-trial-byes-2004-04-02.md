@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-trial-byes-2004-04-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020084721id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-trial-byes-2004-04-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 08:47:21+00:00"
-[_metadata_:publish_date]:- "2004-04-02"
 [_metadata_:description]:- "StatusDateOrganizerCityTeamPlayerPlayerPlayerPROSteve PortMadison3/13/2004XhjBox KleinAdam W KuglerManchester S SyPROTom FowlerAberdeen3/14/2004Team Swan Tom SwanBrad P SwanGregory SwanPRORobert DoughertyBoston3/20/2004Weapons of Mass."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-04-02"
 ---
 
 

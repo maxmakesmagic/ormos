@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/godo-ungiven-2013-09-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814221033id_/https://magic.wizards.com/en/articles/archive/feature/godo-ungiven-2013-09-18"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-14 22:10:33+00:00"
-[_metadata_:publish_date]:- "2013-09-18"
 [_metadata_:description]:- "Casting Gifts Ungiven has to be one of my favorite things to do in Magic, even if it's a little easier than it used to be. The reason I say that is due to one card, and one card only: Unburial Rites. It used to be that you would get four value cards, and set up elaborate loops with combinations like Hana Kami/Soulless Revival/Stir the Grave/Ethereal Haze or Recoup/Yawgmoth's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-18"
 ---
 
 

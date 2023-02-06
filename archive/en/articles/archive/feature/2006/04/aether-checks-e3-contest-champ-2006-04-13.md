@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-checks-e3-contest-champ-2006-04-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525225009id_/https://magic.wizards.com/en/articles/archive/feature/aether-checks-e3-contest-champ-2006-04-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 22:50:09+00:00"
-[_metadata_:publish_date]:- "2006-04-13"
 [_metadata_:description]:- "The 2006 Magic Invitational is coming up in less than a month, and Wizards of the Coast recently ran a promotion through Magic Online to fly the winner and his guest out to Los Angeles to hang out at our All-Star Game. I caught up with E3 Championship Winner Przemysław Wołowiec to ask him a few questions.We'd like to know a little bit about you for our files… My name is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-04-13"
 ---
 
 

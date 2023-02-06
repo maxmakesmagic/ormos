@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theres-no-shaman-trying-2008-03-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125090447id_/https://magic.wizards.com/en/articles/archive/feature/theres-no-shaman-trying-2008-03-27"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-25 09:04:47+00:00"
-[_metadata_:publish_date]:- "2008-03-27"
 [_metadata_:description]:- "Welcome to Shaman Week! It's kind of like two weeks ago, but with a different banner(et). Let me start this week's column by admitting that I had no idea what kind of puns I would use when I sat down. When I don't know what to do, my fallback for random theme weeks (and this week's theme was selected by Rainbow Knights' armourer) is to type the word in question into the Orb of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-03-27"
 ---
 
 

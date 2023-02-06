@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-1-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206011336id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-1-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 01:13:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Hershberger, Jacob 3 33.3333 100.0000 33.3333 1/1/0/0 2 Foster, Chris 3 33.3333 100.0000 33.3333 1/1/0/0 3 Perkins, Wesley 3 33.3333 100.0000 33.3333 1/1/0/0 4 Horner, Brian 3 33.3333 100.0000 33.3333 1/1/0/0 5 Hutchison, John-David 3 33.3333 100.0000 33.3333 1/1/0/0 6 Huang, Toby 3 33.3333 100.0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

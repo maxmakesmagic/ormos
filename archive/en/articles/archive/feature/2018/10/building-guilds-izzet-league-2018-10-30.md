@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-guilds-izzet-league-2018-10-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210614180916id_/https://magic.wizards.com/en/articles/archive/feature/building-guilds-izzet-league-2018-10-30"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-14 18:09:16+00:00"
-[_metadata_:publish_date]:- "2018-10-30"
 [_metadata_:description]:- "Each guild on Ravnica has its own style, history, and personality, all fleshed out and solidified in our internal world guide."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-10-30"
 ---
 
 

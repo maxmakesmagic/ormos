@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-3-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120181909id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-3-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:19:09+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler What a match-up! Jon Finkel is the leading money winner of all time and Mike Long is in the top 5. Jon Finkel is the consensus best player in the game and Long is the consensus most hated player in the game. Their decks also made for an interesting matchup. Both were running Rebel decks, but they approached the archetype is radically different ways. Long's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

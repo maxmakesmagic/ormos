@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-red-dragons-2010-03-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018054744id_/https://magic.wizards.com/en/articles/archive/feature/blue-red-dragons-2010-03-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:47:44+00:00"
-[_metadata_:publish_date]:- "2010-03-29"
 [_metadata_:description]:- "[decklist] Title: Ray Daniel's Blue-Red Dragons Format: Standard – Top 16, TCGplayer $5k in Los Angeles, CA 4 Halimar Depths 9 Island 8 Mountain 4 Scalding Tarn 2 Bogardan Hellkite 2 Goblin Ruinblaster 2 Hellkite Charger 1 Spellbound Dragon 2 Sphinx of Jwar Isle 1 Jace, the Mind Sculptor 1 Banefire 3 Burst Lightning 4 Cancel 2 Double Negative 2 Earthquake 3 Essence Scatter 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-29"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-feature-match-donnie-gallitz-vs-mike-flores-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519031106id_/https://magic.wizards.com/en/articles/archive/feature/round-9-feature-match-donnie-gallitz-vs-mike-flores-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 03:11:06+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Adrian Sullivan Flores and Gallitz wowed the crowd with their antics even before the matchup began. Both players were playing Black Control based on Vampiric Tutors and main-deck sideboard cards. `I played Trinity two times in a row. Seven minutes,` Mike bragged as he and Gallitz laughed about their easy wins. This match would be hard, and the subtle differences in their"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

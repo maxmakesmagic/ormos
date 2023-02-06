@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-horizons-prerelease-primer-2019-06-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190609084726id_/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-prerelease-primer-2019-06-06"
 [_metadata_:wayback_capture_timestamp]:- "2019-06-09 08:47:26+00:00"
-[_metadata_:publish_date]:- "2019-06-06"
 [_metadata_:description]:- "Gavin explains everything you'll need to make the most of Modern Horizons Prerelease!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-06-06"
 ---
 
 

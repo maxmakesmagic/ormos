@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/slider-chk-2008-07-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023124515id_/https://magic.wizards.com/en/articles/archive/feature/slider-chk-2008-07-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-23 12:45:15+00:00"
-[_metadata_:publish_date]:- "2008-07-17"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-17"
 ---
 
 

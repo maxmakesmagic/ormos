@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/big-spirits-2012-12-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816133728id_/https://magic.wizards.com/en/articles/archive/feature/big-spirits-2012-12-31"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 13:37:28+00:00"
-[_metadata_:publish_date]:- "2012-12-31"
 [_metadata_:description]:- "As we wrap up 2012 and start 2013, I'll begin my term as author of Daily Decks with a look back on some of the most successful decks of 2012. As my way of introducing myself, I think it's most fitting to lead off with a deck I helped design, and since this is the first day of a `year in review`–style retrospective, I think it's most fitting to start with the first Pro Tour of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-12-31"
 ---
 
 

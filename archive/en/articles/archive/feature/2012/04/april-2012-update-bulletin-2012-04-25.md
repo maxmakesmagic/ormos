@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/april-2012-update-bulletin-2012-04-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210802112804id_/https://magic.wizards.com/en/articles/archive/feature/april-2012-update-bulletin-2012-04-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-08-02 11:28:04+00:00"
-[_metadata_:publish_date]:- "2012-04-25"
 [_metadata_:description]:- "Welcome to the Avacyn Restored Update Bulletin, starring a new card set, a few updated Oracle wordings, and some new and/or tweaked rules. There's not a whole lot to talk about this update. In fact, there's so little I combined the usual Functional and Nonfunctional sections into a single Card Changes section. Have fun! If you'd like to get in touch with me concerning future"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-04-25"
 ---
 
 

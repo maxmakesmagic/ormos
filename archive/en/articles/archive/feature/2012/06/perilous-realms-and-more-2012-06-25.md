@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/perilous-realms-and-more-2012-06-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023508id_/https://magic.wizards.com/en/articles/archive/feature/perilous-realms-and-more-2012-06-25"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:35:08+00:00"
-[_metadata_:publish_date]:- "2012-06-25"
 [_metadata_:description]:- "Changes are coming up very quickly for DailyMTG.com. Among these changes are:  A new column with a new author  A new column with an old author, retiring the old column  A new day for a column and author  A new day for a weekly arcana  That's some change right there."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-25"
 ---
 
 

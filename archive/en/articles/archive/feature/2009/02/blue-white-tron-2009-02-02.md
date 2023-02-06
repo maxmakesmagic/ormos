@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-white-tron-2009-02-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525232720id_/https://magic.wizards.com/en/articles/archive/feature/blue-white-tron-2009-02-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 23:27:20+00:00"
-[_metadata_:publish_date]:- "2009-02-02"
 [_metadata_:description]:- "[decklist] Title: Nicholas Gulledge's Blue-White Tron Format: PTQ Honolulu 1 Academy Ruins 2 Flooded Strand 4 Hallowed Fountain 1 Mystic Gate 1 Plains 2 Tolaria West 4 Urza's Mine 4 Urza's Power Plant 4 Urza's Tower 1 Sundering Titan 1 Triskelion 4 Azorius Signet 2 Chalice of the Void 3 Chrome Mox 4 Condescend 1 Crucible of Worlds 2 Decree of Justice 2 Engineered Explosives 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-02"
 ---
 
 

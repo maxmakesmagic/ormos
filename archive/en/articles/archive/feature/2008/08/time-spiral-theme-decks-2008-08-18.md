@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/time-spiral-theme-decks-2008-08-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018115807id_/https://magic.wizards.com/en/articles/archive/feature/time-spiral-theme-decks-2008-08-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-18 11:58:07+00:00"
-[_metadata_:publish_date]:- "2008-08-18"
 [_metadata_:description]:- "Fun With Fungus Hope's Crusaders Reality Fracture Sliver Evolution (Back to Product Page) Fun With Fungus Fungus doesn’t think or sleep—it just spreads and devours. The “Fun with Fungus” deck lets you take the reins of a post-apocalyptic rampage of Thallids, and these freaky fungus fiends won’t take “Eeeeewww!” for an answer. In the early going, play as many Thallids as"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-18"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-round-1-feature-match-trevor-blackwell-vs-jon-finkel-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627121100id_/https://magic.wizards.com/en/articles/archive/feature/masters-round-1-feature-match-trevor-blackwell-vs-jon-finkel-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 12:11:00+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Michael Aten This feature match pits the current U.S. and World Champion and the consensus best player in the game, Jon Finkel, against the winner of this summer's booster draft Masters tournament as well as last year's PTLA and the world's top-rated limited player, Trevor Blackwell. With two of the world's best competing in the first round, there's a lot at stake; because"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

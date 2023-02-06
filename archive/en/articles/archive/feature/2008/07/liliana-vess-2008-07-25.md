@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/liliana-vess-2008-07-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160506003730id_/http://magic.wizards.com/en/articles/archive/feature/liliana-vess-2008-07-25"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-06 00:37:30+00:00"
-[_metadata_:publish_date]:- "2008-07-25"
 [_metadata_:description]:- "Liliana Vess is a planeswalker who wields black magic. Her specialty is necromancy: spells that reanimate the dead, corrupt the living, and unlock power from death. Beautiful, cunning, and ambitious to a fault, Liliana Vess is quietly one of the Multiverse's most magnetic dangers. Liliana's dark charisma is undeniable—she's agelessly striking and sharp as the edge of a razor."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-25"
 ---
 
 

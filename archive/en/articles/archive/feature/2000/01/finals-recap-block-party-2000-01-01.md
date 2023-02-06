@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-recap-block-party-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029130850id_/https://magic.wizards.com/en/articles/archive/feature/finals-recap-block-party-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-29 13:08:50+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Chris Pikula told me before the match that he tested his Squirrel-prison deck against a copy of Jon's Living Death deck last night and the match-up was pretty even. It's a weird matchup because each game is usually a slaughter one way or the other. If the Squirrel deck establishes a mana lock there's almost nothing Death can do while if Death gets off a big Living Death, that usually spells doom in the other direction. All in all it was quite interesting to watch the top Urza's block deck face off against the top Rath block deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

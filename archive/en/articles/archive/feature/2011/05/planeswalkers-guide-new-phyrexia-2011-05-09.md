@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-new-phyrexia-2011-05-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160501184626id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-new-phyrexia-2011-05-09"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-01 18:46:26+00:00"
-[_metadata_:publish_date]:- "2011-05-09"
 [_metadata_:description]:- "At the Prerelease this past weekend, or looking over the Card Image Gallery, perhaps you found yourself staring at a particularly disturbing piece of art and wondering what's going on in it, or reading"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-05-09"
 ---
 
 

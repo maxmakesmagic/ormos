@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-your-move-games-vs-dynasty-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703024902id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-your-move-games-vs-dynasty-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-03 02:49:02+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Your Move Games vs. DynastyNever underestimate Brian Hacker or Gab Tsang when it comes to team draft. Hacker may not have played a match of Magic in six months, but he knows how to game and Gab Tsang is one of the guys he's been gaming with the longest. They teamed up with Igor Frayman for last team PT and fell only one match short of the Top 8. This year they've teamed up"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-welsh-nationals-2006-08-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021114434id_/https://magic.wizards.com/en/articles/archive/feature/2006-welsh-nationals-2006-08-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 11:44:34+00:00"
-[_metadata_:publish_date]:- "2006-08-03"
 [_metadata_:description]:- "Tournament Date The 2006 Welsh National Championship will be held on Saturday, 12th August & Sunday, 13th August, with additional side events, including Last Chance Qualifiers on Friday, 11th August. Tournament LocationHasbro Caswell Way Newport Gwent NP9 0YHWebsiteHotel InformationThe following are required to compete in the Welsh National Championship: An acceptable form of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-08-03"
 ---
 
 

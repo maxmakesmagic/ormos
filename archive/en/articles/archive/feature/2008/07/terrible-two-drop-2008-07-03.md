@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/terrible-two-drop-2008-07-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206065258id_/https://magic.wizards.com/en/articles/archive/feature/terrible-two-drop-2008-07-03"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 06:52:58+00:00"
-[_metadata_:publish_date]:- "2008-07-03"
 [_metadata_:description]:- "I have often described Magic as a game of two-drops. Ever since a couple of uppity Ironclaw Orcs decided they could tussle with Necropotence's ponderous Order of the Ebon Hand, or even sneak past the odd Erhnam Djinn, what a player has done (or could stop) on the second turn has been a deciding factor in that player's—and that deck's—success. In a world that once consisted of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-03"
 ---
 
 

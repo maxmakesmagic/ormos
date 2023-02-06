@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-12-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519014824id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-12-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 01:48:24+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Nobushita, Jun 33 68.2870 70.9677 64.5371 12/11/0/0 2 Yamada, Tsutomu 31 63.8889 81.4815 58.7782 11/9/1/1 3 Law, Albertus Hui Chin 29 62.8788 75.0000 60.9019 11/8/2/1 4 Khoo, Wei Ren 28 68.6214 75.0000 61.6835 9/6/1/3 5 Tham, Tishen 28 65.4321 65.6250 63.2290 9/6/1/3 6 Au Yong, Wai Kin 28 64.1204"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

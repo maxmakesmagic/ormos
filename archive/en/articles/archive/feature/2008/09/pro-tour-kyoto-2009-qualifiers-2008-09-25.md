@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-kyoto-2009-qualifiers-2008-09-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020094301id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-kyoto-2009-qualifiers-2008-09-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-20 09:43:01+00:00"
-[_metadata_:publish_date]:- "2008-09-25"
 [_metadata_:description]:- "Latin AmericaOctober 2008-January 2009 CountryCityDateOrganizerLocationAddressWebsite ArgentinaBuenos Aires10/25/2008Juan Del CompareSalón BasalduaBelgrano 1144 ArgentinaBuenos Aires11/22/2008Jose NazarenoSalón BasalduaBelgrano 1144 BrazilPorto Alegre12/21/2008Rafael SvaldJambôR. Sarmento Leite, 631, Cidade BaixaWebsite BrazilRio de Janeiro12/7/2008Henrique AmigoGame LandR."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-25"
 ---
 
 

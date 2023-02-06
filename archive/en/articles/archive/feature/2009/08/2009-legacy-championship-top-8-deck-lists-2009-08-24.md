@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-legacy-championship-top-8-deck-lists-2009-08-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517211927id_/https://magic.wizards.com/en/articles/archive/feature/2009-legacy-championship-top-8-deck-lists-2009-08-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 21:19:27+00:00"
-[_metadata_:publish_date]:- "2009-08-24"
 [_metadata_:description]:- "[decklist] Title: Ernest Turck Format: 1st place, 2009 Legacy Championship 1 Gemstone Mine 3 Cephalid Coliseum 4 City of Brass 1 Tireless Tribe 2 Sadistic Hypnotist 1 Flame-Kin Zealot 4 Narcomoeba 3 Golgari Thug 4 Ichorid 4 Stinkweed Imp 4 Golgari Grave-Troll 4 Putrid Imp 4 Bridge from Below 4 Breakthrough 4 Cabal Therapy 2 Deep Analysis 4 Lion's Eye Diamond 4 Lotus Petal 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-08-24"
 ---
 
 

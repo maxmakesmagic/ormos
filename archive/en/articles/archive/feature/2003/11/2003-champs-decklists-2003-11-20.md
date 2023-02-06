@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2003-champs-decklists-2003-11-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503003559id_/https://magic.wizards.com/en/articles/archive/feature/2003-champs-decklists-2003-11-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 00:35:59+00:00"
-[_metadata_:publish_date]:- "2003-11-20"
 [_metadata_:description]:- "What's good in Standard?When Odyssey Block rotated out, it took with it Psychatog and all the Madness and Threshold cards that have defined the format for almost two years. It can be tricky to calculate a metagame from scratch, but that's where States comes in. These 479 decks cover a number of different archetypes, but they all have one thing in common: they took someone to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-11-20"
 ---
 
 

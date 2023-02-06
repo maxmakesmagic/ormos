@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2008-magic-world-championships-artists-2008-11-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160326211919id_/http://magic.wizards.com/en/articles/archive/feature/2008-magic-world-championships-artists-2008-11-12"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-26 21:19:19+00:00"
-[_metadata_:publish_date]:- "2008-11-12"
 [_metadata_:description]:- "Looking for something to do in between games at the World Championships? Take some time to meet actual Magic artists, have them sign your cards, and check out cool prints and other artwork!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-12"
 ---
 
 

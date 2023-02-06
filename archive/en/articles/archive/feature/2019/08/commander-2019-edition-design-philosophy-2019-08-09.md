@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-design-philosophy-2019-08-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201107225914id_/https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-design-philosophy-2019-08-09"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-07 22:59:14+00:00"
-[_metadata_:publish_date]:- "2019-08-09"
 [_metadata_:description]:- "Glenn explains the philosophy working behind the scenes to bring Commander (2019 Edition) to life."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-08-09"
 ---
 
 

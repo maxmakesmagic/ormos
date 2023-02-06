@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-15-2003-02-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127080213id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-15-2003-02-15"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 08:02:13+00:00"
-[_metadata_:publish_date]:- "2003-02-15"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at ask@wizards.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Beginner Questions Q: If my friend has a Silvos, Rogue Elemental and attacks with it. I block it with a creature that has at least 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-02-15"
 ---
 
 

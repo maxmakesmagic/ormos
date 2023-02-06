@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-september-2008-2008-09-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026214757id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-september-2008-2008-09-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-26 21:47:57+00:00"
-[_metadata_:publish_date]:- "2008-09-01"
 [_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your name and location, to us via this email form. We'll post a new question and answer each day.Why didn't you translate the word `Planeswalker` on Russian Shards of Alara cards?September 30, 2008 Q: Why didn't you translate the word `Planeswalker` on Russian Shards of Alara cards?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/opening-deck-builders-toolkit-2010-05-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414011906id_/http://magic.wizards.com/en/articles/archive/feature/opening-deck-builders-toolkit-2010-05-21"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:19:06+00:00"
-[_metadata_:publish_date]:- "2010-05-21"
 [_metadata_:description]:- "We've got this new product coming out today called the Deck Builder's Toolkit. It's designed for new players who want a base of cards to start building decks from. And as part of the launch (today!) we sent copies out to a few other websites to see what they thought. Because we already know that we like it!Trick Jarrett (ManaNation.com)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-21"
 ---
 
 

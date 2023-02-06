@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000third-draft-pods-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118132807id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000third-draft-pods-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:28:07+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Pod Seat Name Points 1 1 Burgner, Kurt 21 8 Kastle, Darwin 19 4 McKenna, Tim 19 6 Boeken, Noah 18 3 Tsang, Terry 18 2 Ljones, Christer 18 5 Blackwell, Trevor 18 7 Labarre, Nicolas 18 2 5 Frayman, Igor 18 1 D'Tela, Sceadeau 17 6 Herzog, Nicolai 17 8 McNeill, Dan 16 3 Nishioka, Andrew 16 4 Ekebom, Erno 16 7 Soderberg, Rickard 16 2 Ødegaard, Øyvind 16 3 7 Parker, Brock 16 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

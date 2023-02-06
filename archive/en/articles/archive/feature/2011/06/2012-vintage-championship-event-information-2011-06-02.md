@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2012-vintage-championship-event-information-2011-06-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021215458id_/https://magic.wizards.com/en/articles/archive/feature/2012-vintage-championship-event-information-2011-06-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 21:54:58+00:00"
-[_metadata_:publish_date]:- "2011-06-02"
 [_metadata_:description]:- "WhereGEN CON Indianapolis Indiana Convention Center TCG Hall 100 South Capitol Avenue Indianapolis, IndianaFriday, August 17, 2012 Tournament begins at 10:00 AM.CostThe entry fee for the 2012 Magic: The Gathering Vintage Championship is $24. Please note that admission to GEN CON is also required."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-02"
 ---
 
 

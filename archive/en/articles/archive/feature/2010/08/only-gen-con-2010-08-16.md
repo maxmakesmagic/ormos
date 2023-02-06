@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/only-gen-con-2010-08-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116181054id_/https://magic.wizards.com/en/articles/archive/feature/only-gen-con-2010-08-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-16 18:10:54+00:00"
-[_metadata_:publish_date]:- "2010-08-16"
 [_metadata_:description]:- "Gen Con. Gamer Mecca. It's not called `the best four days in gaming` for nothing. Each year, thousands upon thousands of people descend on Indianapolis to whet their appetites, quench their thirsts, and generally devour as many games as they possibly can in the 96 hours that the convention lasts. For four days, downtown Indianapolis is awash in a sea of gamers like some sort of unnatural disaster. Somewhere in the eye of this perfect storm, I sat with my camera and computer, ready for the time of my life."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-08-16"
 ---
 
 

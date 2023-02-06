@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/yes-really-2008-04-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160705132319id_/http://magic.wizards.com/en/articles/archive/feature/yes-really-2008-04-10"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-05 13:23:19+00:00"
-[_metadata_:publish_date]:- "2008-04-10"
 [_metadata_:description]:- "As the columnist for tournament Spike column Swimming With Sharks I have had the opportunity to preview some pretty incredible cards over the past few years. Most recently I got to do the honors on Countryside Crusher (already a chase rare and contributor to both Loam-based and regular old G/R Tarmogoyf decks); the set before that, I had a chance to preview both the insanely playable Shriekmaw and the universally beloved (or hated!) Cryptic Command."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-04-10"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93new-jersey-2006-09-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025100500id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93new-jersey-2006-09-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 10:05:00+00:00"
-[_metadata_:publish_date]:- "2006-09-20"
 [_metadata_:description]:- "Entry FeeEntry fee varies from location to location."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-09-20"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wizards-eyeball-2005-11-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129073804id_/https://magic.wizards.com/en/articles/archive/feature/wizards-eyeball-2005-11-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-29 07:38:04+00:00"
-[_metadata_:publish_date]:- "2005-11-01"
 [_metadata_:description]:- "No, the blue thing is not his eyeball. Putrefy uses Golgari guild magic to accelerate the decomposition process to the extreme, causing a creature or artifact to become a dry corpse or broken shell in the blink of an eye. And Jim Nelson's art definitely gets that across: The art depicts a hapless wizard being struck by the spell, and he is indeed missing an eye due to the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-01"
 ---
 
 

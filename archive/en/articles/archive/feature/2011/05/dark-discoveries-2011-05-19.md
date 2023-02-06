@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dark-discoveries-2011-05-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150211071017id_/http://magic.wizards.com/en/articles/archive/feature/dark-discoveries-2011-05-19"
 [_metadata_:wayback_capture_timestamp]:- "2015-02-11 07:10:17+00:00"
-[_metadata_:publish_date]:- "2011-05-19"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-05-19"
 ---
 
 

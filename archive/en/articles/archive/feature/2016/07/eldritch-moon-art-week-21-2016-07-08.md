@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-art-week-21-2016-07-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160711061343id_/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-art-week-21-2016-07-08"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-11 06:13:43+00:00"
-[_metadata_:publish_date]:- "2016-07-08"
 [_metadata_:description]:- "Blake is back for another look at the art from some of this week's Eldritch Moon preview cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-07-08"
 ---
 
 

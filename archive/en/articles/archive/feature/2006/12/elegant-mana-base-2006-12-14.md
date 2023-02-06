@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/elegant-mana-base-2006-12-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208030448id_/https://magic.wizards.com/en/articles/archive/feature/elegant-mana-base-2006-12-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 03:04:48+00:00"
-[_metadata_:publish_date]:- "2006-12-14"
 [_metadata_:description]:- "Worth Wollpert, who today sits in hallowed Renton, WA (I can only assume Wizards of the Coast headquarters was the myth behind the reality of Prahv, Spires of Order), was, ten years ago, a mentor of sorts to me as I became more serious about tournament Magic. Worth dazzled me with an early qualification for Pro Tour Columbus (Hall of Famer Olle Råde's Columbus), using a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-12-14"
 ---
 
 

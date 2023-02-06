@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lost-legends-2022-07-21?utm_source=wizards&utm_medium=email&utm_campaign=ttm&utm_content=DMU-Lost-Legends-button"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818223812id_/https://magic.wizards.com/en/articles/archive/feature/lost-legends-2022-07-21?utm_source=wizards&utm_medium=email&utm_campaign=ttm&utm_content=DMU-Lost-Legends-button"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 22:38:12+00:00"
-[_metadata_:publish_date]:- "2022-07-21"
 [_metadata_:description]:- "Collector Boosters of Dominaria United, arriving September 9, can feature both legends and Legends!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-07-21"
 ---
 
 

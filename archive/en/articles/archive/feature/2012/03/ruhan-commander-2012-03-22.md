@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ruhan-commander-2012-03-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160504003412id_/http://magic.wizards.com/en/articles/archive/feature/ruhan-commander-2012-03-22"
 [_metadata_:wayback_capture_timestamp]:- "2016-05-04 00:34:12+00:00"
-[_metadata_:publish_date]:- "2012-03-22"
 [_metadata_:description]:- "Longtime Magic player and perennial StarCityGames.com writer Bennie Smith is a Commander fanatic, and in his newest article he goes over his take on a Ruhan of the Fomori deck. The exclusive legend from the Magic: The Gathering Commander product has quickly turned into a fan favorite."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-22"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-seminfinals-report-hubbo-vs-dogma-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205231109id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-seminfinals-report-hubbo-vs-dogma-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:11:09+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Zvi Mowshowitz (The position of the players was as follows: Dogma had Liszka on the right, Heffern in the middle and Estrion on the left; Hubbo had Carpenter on the right, Hubble in the middle and Opalka on the right.)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

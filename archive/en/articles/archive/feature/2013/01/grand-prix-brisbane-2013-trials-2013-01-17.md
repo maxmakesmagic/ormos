@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-2013-trials-2013-01-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516131231id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-2013-trials-2013-01-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 13:12:31+00:00"
-[_metadata_:publish_date]:- "2013-01-17"
 [_metadata_:description]:- "Grand Prix Brisbane Trials will be run at APAC and Japan WPN locations from July 13, 2013 to September 15, 2013. Each awards the winner a two-round bye to Grand Prix Brisbane. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-01-17"
 ---
 
 

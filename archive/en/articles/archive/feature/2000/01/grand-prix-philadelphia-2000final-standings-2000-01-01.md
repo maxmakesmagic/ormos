@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000final-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518152345id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000final-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 15:23:45+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name 1 Van Cleave, Trey (Q) 2 Fitch, Britt (1700) 3 McCord Scott 4 Marks John 5 Jensen III, William (Q) 6 Roderer, Dave (1700) 7 Swan, Brad (1700) 8 Bernat Michael 9 Rose, Kyle (Q) 10 Humpherys, David (Q) 11 Dougherty, Robert (Q) 12 Bush Michelle 13 Sorino Roger 14 Kastle, Darwin (Q) 15 Thomsen Skye 16 Gallitz, Donald (Q) (1700) 17 Wilson, Gabriel (1700) 18 Schaper,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

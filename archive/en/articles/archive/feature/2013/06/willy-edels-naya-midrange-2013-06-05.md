@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/willy-edels-naya-midrange-2013-06-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525105101id_/https://magic.wizards.com/en/articles/archive/feature/willy-edels-naya-midrange-2013-06-05"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:51:01+00:00"
-[_metadata_:publish_date]:- "2013-06-05"
 [_metadata_:description]:- "Longtime pro player Willy Edel has written in Portuguese in the past to support his Brazilian Magic Community. Recently, he was generous enough to write a detailed and excellent article on Naya in Standard, an archetype he's been working on for a long time and finished 2nd in Grand Prix Guadalajara with. If you have any interest in playing Naya, especially a slower, more"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-05"
 ---
 
 

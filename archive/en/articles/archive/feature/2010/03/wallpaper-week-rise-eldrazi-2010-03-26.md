@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-rise-eldrazi-2010-03-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111190841id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-rise-eldrazi-2010-03-26"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-11 19:08:41+00:00"
-[_metadata_:publish_date]:- "2010-03-26"
 [_metadata_:description]:- "This week's desktop wallpaper features Michael Komarck's artwork from the Rise of the Eldrazi Fat Pack. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-03-26"
 ---
 
 

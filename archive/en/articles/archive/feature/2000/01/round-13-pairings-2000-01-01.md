@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-13-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030034922id_/https://magic.wizards.com/en/articles/archive/feature/round-13-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:49:22+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Table        Player        Points               Opponent        Points    1  Svaldi, Guilherme Dei  31  vs.  Martins - ama, Leopoldo M.  31  2  Shvartsman, Alex"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

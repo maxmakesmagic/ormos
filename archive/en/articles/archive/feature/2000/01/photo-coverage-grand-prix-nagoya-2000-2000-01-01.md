@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/photo-coverage-grand-prix-nagoya-2000-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519142616id_/https://magic.wizards.com/en/articles/archive/feature/photo-coverage-grand-prix-nagoya-2000-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 14:26:16+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Sunday's Pictures [view] Team `Unluckys` [view] Team `T.T.Y.` (Hatta, Goto, Inki) [view] Team `Iwamoto` is looking cool. (Nakamura, Ito, Higuchi) [view] Team `Godzilla` (Williams, Long, Maher) [view] Team `Masato Club` (Matsuo, Nobushita, Komiya) [view] New Wave (Wong, Blackwell, Shvartsman) [view] New Wave drafts vs. Masato Club [view] Team `Geddon Beta` vs. team `Poor Shark`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

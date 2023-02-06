@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fiends-and-behemoths-2008-09-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429063411id_/https://magic.wizards.com/en/articles/archive/feature/fiends-and-behemoths-2008-09-15"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:34:11+00:00"
-[_metadata_:publish_date]:- "2008-09-15"
 [_metadata_:description]:- "Fiends and Behemoths The shards of Alara can supply a menagerie of mighty creatures for a planeswalker's summoning arsenal, but beware—these same beasts can also represent dire threats to the planeswalker's own life. Naya's behemoths, sometimes called ancients or gargantuans, stride thunderously among the mountains and jungle flora. Worshipped by many elf and human societies"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-15"
 ---
 
 

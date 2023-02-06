@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-standard-2012-12-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628150335id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-standard-2012-12-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-28 15:03:35+00:00"
-[_metadata_:publish_date]:- "2012-12-17"
 [_metadata_:description]:- "Today's Daily Deck was piloted by drVendigo, who took it to a 4–0 finish at a recent Daily Event. See more at the `Standard` article. If you'd like to compete in a Daily Event as well, download Magic Online today!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-12-17"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-6-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528045806id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-6-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-28 04:58:06+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points 770 (26) 6 24 Griffin Team (40) 6 Amsterdam (52) 4 32 Rounders (81) 4 Antarctica (42) 12 3 Your Move Games (73) 12 ATM (64) 10 9 Papa Smurf (54) 10 Babes of the Dingo (70) 9 12 CCC (60) 9 Big Dogs (27) 9 16 Matrix (12) 9 Billy Goats Gruff (61) 6 28 Sped (79) 6 Brown Bomber (69) 7 22 Grumpy Old Men (66) 7 CCC (60) 9 12 Babes of the Dingo (70)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

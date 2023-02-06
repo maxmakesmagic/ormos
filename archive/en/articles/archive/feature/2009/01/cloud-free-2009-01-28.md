@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cloud-free-2009-01-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516212218id_/https://magic.wizards.com/en/articles/archive/feature/cloud-free-2009-01-28"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:22:18+00:00"
-[_metadata_:publish_date]:- "2009-01-28"
 [_metadata_:description]:- "[decklist] Title: Michael Jacob's Deathcloudless Deathcloud Format: Grand Prix–Los Angeles 4 Barren Moor 2 Bloodstained Mire 2 Forest 2 Ghost Quarter 1 Golgari Rot Farm 1 Mutavault 2 Overgrown Tomb 2 Polluted Delta 3 Swamp 2 Tranquil Thicket 2 Twilight Mire 3 Windswept Heath 4 Kitchen Finks 4 Tarmogoyf 3 Bitterblossom 4 Darkblast 4 Life from the Loam 3 Putrefy 3 Raven's Crime"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-28"
 ---
 
 

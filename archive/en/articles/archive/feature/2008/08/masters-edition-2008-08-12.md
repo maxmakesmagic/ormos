@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-edition-2008-08-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208233750id_/https://magic.wizards.com/en/articles/archive/feature/masters-edition-2008-08-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 23:37:50+00:00"
-[_metadata_:publish_date]:- "2008-08-12"
 [_metadata_:description]:- "Collector's Highlights Available only on Magic Online, Masters Edition features 195 cards with randomly-inserted premium cards. The cards are legal in the Classic format and any format that uses Classic to define card legality. It is available only in online booster packs and the cards are non-redeemable for physical product. The set includes 60 rares, 60 uncommons, 60"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-12"
 ---
 
 

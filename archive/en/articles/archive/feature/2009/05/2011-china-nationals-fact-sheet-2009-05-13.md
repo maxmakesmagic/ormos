@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-china-nationals-fact-sheet-2009-05-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521003052id_/https://magic.wizards.com/en/articles/archive/feature/2011-china-nationals-fact-sheet-2009-05-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 00:30:52+00:00"
-[_metadata_:publish_date]:- "2009-05-13"
 [_metadata_:description]:- "Date: July 2-3, 2011Event Location: B1 Floor, Rainbow Hotel, BeijingAddress: No 11, Xi Jing Road, Xuan Wu District, Beijing, China, 100050EligibilityThe Magic: the Gathering China National Championship is an invitation-only event, open to citizens or permanent residents of China who have won an invitation to Nationals through DCI ratings or from qualifying events such as"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-13"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519175356id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-1"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 17:53:56+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Round 9 Results Table Player 1 Result Player 2 1 Gagg, Norman 1-0-0 Reinhardt, Fabio 2 Mello, Patrick 01/02/00 Wshrle, Sven 3 Cieslikowski, Marcin 0-2-0 Bastos, Frederico 4 Mahoney-Schwartz, Steven O' 0-2-0 Dam, Lars 5 Gysemans, Peter 02/01/00 Karlsson, Morgan 6 Minton, Patrick 01/02/00 Boeken, Noah 7 Cedercrantz, Johan 2-0-0 O'Mahoney-Schwartz, Daniel 8 Monsen, Haakon R 0-2-0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

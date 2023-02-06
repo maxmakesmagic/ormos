@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-8-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206031948id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-8-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-06 03:19:48+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Baker Justin Turning Travis G Lost, 0-2 Blackwell Trevor Johansson Hans Won, 1-0 Bregoli Mike Eskeland Sigurd Lost, 0-2 Brower Jeremy Mowshowitz Zvi Lost, 0-2 Budde Kai Mitchell Andrew Won, 2-0 Bui Lucien Marcus Fred Won, 2-0 Chapin Patrick Kühn Janosch Lost, 0-2 Comer Alan Hustad James Won, 2-1 Coppage Thomas Franzen Johan Lost, 1-2 Cornelissen Kamiel"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

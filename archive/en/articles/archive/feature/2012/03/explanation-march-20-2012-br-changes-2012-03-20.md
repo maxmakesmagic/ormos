@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/explanation-march-20-2012-br-changes-2012-03-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309075953id_/http://magic.wizards.com/en/articles/archive/feature/explanation-march-20-2012-br-changes-2012-03-20"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-09 07:59:53+00:00"
-[_metadata_:publish_date]:- "2012-03-20"
 [_metadata_:description]:- "In reference to the March 20, 2012, Banned and Restricted Announcement.Innistrad Block ConstructedBlock formats have a significantly smaller card pool than Standard. They tend to be about half as large. As a result, it is easier for a strong deck or strategy to go unanswered, as there are fewer potentially competitive strategies."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-20"
 ---
 
 

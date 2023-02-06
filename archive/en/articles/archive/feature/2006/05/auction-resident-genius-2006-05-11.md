@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/auction-resident-genius-2006-05-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503053200id_/https://magic.wizards.com/en/articles/archive/feature/auction-resident-genius-2006-05-11"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 05:32:00+00:00"
-[_metadata_:publish_date]:- "2006-05-11"
 [_metadata_:description]:- "I originally wanted Birds of Paradise, but that Avatar had already been bogarted by former Single Card Strategies columnist Adrian Sullivan before I emailed Auction of the Geniuses Lord and Master Zvi Mowshowitz."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-05-11"
 ---
 
 

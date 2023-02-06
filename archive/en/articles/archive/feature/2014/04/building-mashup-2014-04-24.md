@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-mashup-2014-04-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119060517id_/https://magic.wizards.com/en/articles/archive/feature/building-mashup-2014-04-24"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 06:05:17+00:00"
-[_metadata_:publish_date]:- "2014-04-24"
 [_metadata_:description]:- "Making a mashup can be difficult, but it's easily one of the most rewarding things to do in Magic. Occasionally, you can take the finer points of two different decks, splice them together, and end up with something that is well-positioned to dominate a format. It happens infrequently, but when it does, it's usually pretty powerful. In this case, we have a typical-looking RG"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-24"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2005-10-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814184639id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2005-10-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-14 18:46:39+00:00"
-[_metadata_:publish_date]:- "2005-10-20"
 [_metadata_:description]:- "If you won a GPT and your name does not appear here please verify yourself that the event was reported correctly by viewing your match history: https://webapp.wizards.com/DCIMember/login.asp or the tournament itself via this website: http://webapp.wizards.com/dcitournament/default.asp (set the status from Future to Rated).If the tournament does not appear, please contact the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-20"
 ---
 
 

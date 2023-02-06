@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-horobi-deaths-wail-2004-09-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629033021id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-horobi-deaths-wail-2004-09-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-29 03:30:21+00:00"
-[_metadata_:publish_date]:- "2004-09-17"
 [_metadata_:description]:- "This week's desktop wallpaper is John Bolton's Horobi, Death's Wail from the Champions of Kamigawa set. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-09-17"
 ---
 
 

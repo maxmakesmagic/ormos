@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/secretist-part-3-released-2013-05-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531083838id_/https://magic.wizards.com/en/articles/archive/feature/secretist-part-3-released-2013-05-29"
 [_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:38:38+00:00"
-[_metadata_:publish_date]:- "2013-05-29"
 [_metadata_:description]:- "The end is nigh! The end is nigh! The end is... well okay, it's here. The third and final novella of Doug Beyer's The Secretist is now available for purchase!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-29"
 ---
 
 

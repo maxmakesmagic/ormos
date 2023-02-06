@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/classic-magics-bumper-crop-2011-07-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207032510id_/https://magic.wizards.com/en/articles/archive/feature/classic-magics-bumper-crop-2011-07-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-07 03:25:10+00:00"
-[_metadata_:publish_date]:- "2011-07-18"
 [_metadata_:description]:- "It was a big deal.Wizards had decided to reboot the core set. It would have a new naming convention, a sleeker set size, a lot of card turnover, and a major rules overhaul besides.The year, as I'm sure you can guess, was... 1999.A full decade before Magic R&D would reboot the core set with Magic 2010—a process Mark Rosewater describes in his article today—they made a major"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-07-18"
 ---
 
 

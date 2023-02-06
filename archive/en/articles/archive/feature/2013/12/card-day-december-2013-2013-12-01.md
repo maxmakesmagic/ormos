@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-december-2013-2013-12-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705025447id_/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2013-2013-12-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-05 02:54:47+00:00"
-[_metadata_:publish_date]:- "2013-12-01"
 [_metadata_:description]:- "Man-o'-War – Visions. For 20th Anniversary Week, we asked R&D for the most important cards in Magic's history. Ken Nagle and Shawn Main picked Man-o'-War. Ken said, `Uktabi Orangutan, Man-o'-War, and friends showcased the 'enter the battlefield'-with-a-spell effect, creating powerful creatures for tournament play thanks to their warm bodies being relevant all the time, even if"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-12-01"
 ---
 
 

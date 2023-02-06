@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/space-academy-lesson-one-2007-12-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160412165956id_/http://magic.wizards.com/en/articles/archive/feature/space-academy-lesson-one-2007-12-31"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-12 16:59:56+00:00"
-[_metadata_:publish_date]:- "2007-12-31"
 [_metadata_:description]:- "The following deserves some explanation... to say the least!First explanation: No, this article is not `real.` For `What If?` Week, in honor of Planar Chaos, we devoted every Card of the Day, every Ask Wizards, and most of the article slots to exploring alternate history scenarios. `What If?` Week articles were a blast to write and generated really strong responses, so it's no great surprise that this isn't the only `What If?` Week article you'll be reading this week."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-12-31"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/piecing-together-timeshifted-mosaic-2006-10-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122224342id_/https://magic.wizards.com/en/articles/archive/feature/piecing-together-timeshifted-mosaic-2006-10-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-22 22:43:42+00:00"
-[_metadata_:publish_date]:- "2006-10-02"
 [_metadata_:description]:- "`Aaron, why don’t you take a crack at a list of old cards to bring back?`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-10-02"
 ---
 
 

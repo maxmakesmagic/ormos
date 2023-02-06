@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-green-infect-2011-09-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614191350id_/http://magic.wizards.com/en/articles/archive/feature/mono-green-infect-2011-09-30"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-14 19:13:50+00:00"
-[_metadata_:publish_date]:- "2011-09-30"
 [_metadata_:description]:- "[decklist] Title: zemox's Mono-Green Infect Format: Standard (pre-Innistrad) 16 Forest 4 Inkmoth Nexus 4 Glistener Elf 4 Ichorclaw Myr 4 Necropede 4 Plague Myr 4 Ancient Stirrings 4 Giant Growth 4 Groundswell 4 Mutagenic Growth 1 Prey's Vengeance 3 Throne of Geth 4 Vines of Vastwood *3 Creeping Corrosion *1 Dryad's Favor *4 Livewire Lash *4 Nature's Claim *3 Torpor Orb"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-30"
 ---
 
 

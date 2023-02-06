@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/four-hundred-and-counting-2009-09-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170520165402id_/http://magic.wizards.com/en/articles/archive/feature/four-hundred-and-counting-2009-09-28"
 [_metadata_:wayback_capture_timestamp]:- "2017-05-20 16:54:02+00:00"
-[_metadata_:publish_date]:- "2009-09-28"
 [_metadata_:description]:- "Every hundred weeks, I write a column where I review the last hundred weeks of columns, grading each one and providing insights and trivia about them. If you've cracked my naming convention, you've figured out that this is the fourth such column. Here are the first three:  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-09-28"
 ---
 
 

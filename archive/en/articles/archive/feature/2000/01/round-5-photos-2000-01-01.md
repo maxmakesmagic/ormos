@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-photos-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029104302id_/https://magic.wizards.com/en/articles/archive/feature/round-5-photos-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-29 10:43:02+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Kai Budde vs. Dave Humpherys    Jon Finkel vs. Brian Hacker"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

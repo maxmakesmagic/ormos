@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-holiday-gift-guide-and-holiday-buy-box-promotion-2016-11-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161123073656id_/http://magic.wizards.com/en/articles/archive/feature/magic-holiday-gift-guide-and-holiday-buy-box-promotion-2016-11-21"
 [_metadata_:wayback_capture_timestamp]:- "2016-11-23 07:36:56+00:00"
-[_metadata_:publish_date]:- "2016-11-21"
 [_metadata_:description]:- "It can be difficult to buy gifts for the gamers in your life, so we've grouped together gift ideas for whoever you might be shopping for."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-11-21"
 ---
 
 

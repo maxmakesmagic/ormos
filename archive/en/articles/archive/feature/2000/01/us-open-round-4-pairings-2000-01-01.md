@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-round-4-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525100605id_/https://magic.wizards.com/en/articles/archive/feature/us-open-round-4-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:06:05+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Table Ally, Arif Spright, Patrick 16 Augustine, Brian Ziegler, Eric 6 Buck, Paul Sandrock, Eric 13 Buovanni, Chris Potter, Skip 14 Cooper, Geddes Martell, Tom 10 Currence, Bryce Krouner, Ken 3 De Michele, David Wescoe, Craig 8 Golden, Ryan Hartney, Aaron 5 Grodzinski, Tyler Liebert, Dylan 4 Hale, Yancy Sigman, Kevin 12 Hartney, Aaron Golden, Ryan 5 Hines,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/championnat-de-france-2009-2009-07-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028222154id_/https://magic.wizards.com/en/articles/archive/feature/championnat-de-france-2009-2009-07-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 22:21:54+00:00"
-[_metadata_:publish_date]:- "2009-07-17"
 [_metadata_:description]:- "PrenomNomSource de l'invitation GaetanLefebvreComposite Rating YannMassicardComposite Rating GabrielNassifComposite Rating RaphaelLevyComposite Rating OlivierMonbaillyComposite Rating FabienDemazeauComposite Rating AmielTenenbaumComposite Rating YannHamonComposite Rating LaurentCestaroComposite Rating CamilleFenetComposite Rating FaridMeraghniComposite Rating"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-17"
 ---
 
 

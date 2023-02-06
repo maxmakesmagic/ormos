@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-2010-08-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170723162719id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-2010-08-31"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-23 16:27:19+00:00"
-[_metadata_:publish_date]:- "2010-08-31"
 [_metadata_:description]:- "Scars of Mirrodin returns us to the metal world of Mirrodin, but not quite as we left it. If you've played with the original Mirrodin block, some of Scars' cards and mechanics will look familiar to you. But whether you're a veteran or a newcomer, Scars has some surprises in store ....  Metalcraft"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-08-31"
 ---
 
 

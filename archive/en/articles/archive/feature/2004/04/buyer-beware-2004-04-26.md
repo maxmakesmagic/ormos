@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/buyer-beware-2004-04-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170712022511id_/http://magic.wizards.com/en/articles/archive/feature/buyer-beware-2004-04-26"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-12 02:25:11+00:00"
-[_metadata_:publish_date]:- "2004-04-26"
 [_metadata_:description]:- "Spotting counterfeit Magic cards"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-02-01"
 ---
 
 

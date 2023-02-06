@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93nashville-2010-trials-2010-08-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516133044id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93nashville-2010-trials-2010-08-25"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-16 13:30:44+00:00"
-[_metadata_:publish_date]:- "2010-08-25"
 [_metadata_:description]:- "Grand Prix–Nashville Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers at least 1 three-round bye to Grand Prix–Nashville. WPN Locations in the Nashville AreaEntry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format Sealed Deck Limited with Booster Draft (or Sealed Deck) Top 8. If"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-08-25"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-feature-match-anthony-ferraro-vs-robert-heathco-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517140752id_/https://magic.wizards.com/en/articles/archive/feature/round-1-feature-match-anthony-ferraro-vs-robert-heathco-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 14:07:52+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "In the first JSS Championship of their respective careers, Kamloops, British Columbia Native Anthony Ferraro and Jacksonville Florida's Robert Heathco, both aged fifteen, armed with only their decks and their nerves squared off in the first feature match of the tourney. Game 1 saw a slow slart, with both players playing lands until fourth turn when Anthony hoped to get an"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

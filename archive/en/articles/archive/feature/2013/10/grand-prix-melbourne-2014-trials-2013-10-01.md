@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-melbourne-2014-trials-2013-10-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204132853id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-melbourne-2014-trials-2013-10-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-04 13:28:53+00:00"
-[_metadata_:publish_date]:- "2013-10-01"
 [_metadata_:description]:- "Grand Prix Melbourne Trials will be run at Asia Pacific and Japan WPN locations from December 7, 2013 to February 16, 2014. Each awards the winner a two-round bye to Grand Prix Melbourne. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-10-01"
 ---
 
 

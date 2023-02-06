@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/peasant-magic-2002-07-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130210915id_/https://magic.wizards.com/en/articles/archive/feature/peasant-magic-2002-07-12"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-30 21:09:15+00:00"
-[_metadata_:publish_date]:- "2002-07-12"
 [_metadata_:description]:- "Battling with the best commons"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-01"
 ---
 
 

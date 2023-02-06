@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/writers-challenge-2-2003-02-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130004630id_/https://magic.wizards.com/en/articles/archive/feature/writers-challenge-2-2003-02-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-30 00:46:30+00:00"
-[_metadata_:publish_date]:- "2003-02-20"
 [_metadata_:description]:- "WRITER'S CHALLENGE I think a lot of people want to make cool, creative decks. The problem comes when those people show up to Friday Night Magic sporting a red-white Skirk Fire Marshal deck only to face blue-green madness deck after Psychatog deck after monoblack-control deck. A few really good cards can make a few really good decks possible and subsequently squeeze out room"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-02-20"
 ---
 
 

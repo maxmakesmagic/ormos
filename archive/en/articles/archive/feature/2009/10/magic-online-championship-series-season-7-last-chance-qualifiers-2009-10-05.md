@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-season-7-last-chance-qualifiers-2009-10-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117091634id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-season-7-last-chance-qualifiers-2009-10-05"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-17 09:16:34+00:00"
-[_metadata_:publish_date]:- "2009-10-05"
 [_metadata_:description]:- "The Magic Online Championship Series Season 7 LCQs will offer the opportunity for all Magic Online users that have earned at least 10 QPs but not yet qualified for the Season 7 Championship to qualify.Each player who has earned 10-14 QPs by the end of Season 7 will be allowed to enter any and/or all of the scheduled LCQ tournaments."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-05"
 ---
 
 

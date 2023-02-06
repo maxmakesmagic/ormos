@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rotation-and-revolution-2002-05-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150915230529id_/http://magic.wizards.com/en/articles/archive/feature/rotation-and-revolution-2002-05-24"
 [_metadata_:wayback_capture_timestamp]:- "2015-09-15 23:05:29+00:00"
-[_metadata_:publish_date]:- "2002-05-24"
 [_metadata_:description]:- "Last week’s poll was an interesting one for us. We had been leaning towards not having any new art in Eighth Edition and we were just going to use the most recent version of each card (because we’ve heard some players complain about too much new art making it hard to recognize the cards from their pictures). I was in a meeting last week on just this subject and I suggested that I could use the poll from my column to get us some feedback before we made a final decision. Boy am I glad we asked!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-05-24"
 ---
 
 

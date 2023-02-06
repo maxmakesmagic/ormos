@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-47-2003-10-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127093538id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-47-2003-10-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 09:35:38+00:00"
-[_metadata_:publish_date]:- "2003-10-11"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at saturdayschool@horvik.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. Mirrodin Questions Q: Say I have a Pentavus with three +1/+1 counters on it, and I have two Pentavite tokens in play. If"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-10-11"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/boosters-fat-packs-2013-04-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210512150936id_/https://magic.wizards.com/en/articles/archive/feature/boosters-fat-packs-2013-04-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-12 15:09:36+00:00"
-[_metadata_:publish_date]:- "2013-04-09"
 [_metadata_:description]:- "There are three awesome images on Dragon's Maze booster packs. And you should already know all three! First is: That's Emmara Tandris! She's the Selesnya maze runner who you haven't seen yet, but readers of Doug Beyer's The Secretist know who she is. Here's the Izzet weird maze runner Melek, Izzet Paragon, Mike Cannon introduced him in yesterday's From the Lab. And here's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-04-09"
 ---
 
 

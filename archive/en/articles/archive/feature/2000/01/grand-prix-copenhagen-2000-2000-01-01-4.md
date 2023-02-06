@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-4"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525020120id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-4"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 02:01:20+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Round 9 Feature match Tom Van de Logt vs. Sigurd Eskeland Going into this game Tom is lying in third on 22 points and Sigurd is in sixth on 21 a win here would almost gurantee top eight for either of them. Tom is playing a mainly white deck featuring numerous Rebel Searchers, he is howerver lacking in the quality of his rebeld he can search for. Tom's deck also features a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/exploring-academy-2013-09-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170710112102id_/http://magic.wizards.com/en/articles/archive/feature/exploring-academy-2013-09-26"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-10 11:21:02+00:00"
-[_metadata_:publish_date]:- "2013-09-26"
 [_metadata_:description]:- "I know that Caleb Durward (`He Who Got Survival Banned` is his official title) has been a champion of a black-green Legacy deck with Veteran Explorer for a long time (inexplicably called Nic Fit), so when I saw this list I immediately thought of him. This particular deck has added a whole new color, but all that does is up the sweetness factor, and who doesn't like sweetness?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-26"
 ---
 
 

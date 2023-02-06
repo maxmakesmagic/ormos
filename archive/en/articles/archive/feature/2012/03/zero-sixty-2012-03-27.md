@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zero-sixty-2012-03-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210303154215id_/https://magic.wizards.com/en/articles/archive/feature/zero-sixty-2012-03-27"
 [_metadata_:wayback_capture_timestamp]:- "2021-03-03 15:42:15+00:00"
-[_metadata_:publish_date]:- "2012-03-27"
 [_metadata_:description]:- "Welcome to ReConstructed!ReConstructed is a brand new weekly column here on DailyMTG.com that focuses on deck building, tweaking, and tuning. Figuring out how to improve your deck can be one of the hardest parts of Magic, and I'm here to help.This column is all about YOU! Each week, I'm going to take a reader's decklist, look over the deck and what its creator is looking to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-27"
 ---
 
 

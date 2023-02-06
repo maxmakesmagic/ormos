@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/inside-wizards-stronghold-2012-06-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418112527id_/https://magic.wizards.com/en/articles/archive/feature/inside-wizards-stronghold-2012-06-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-18 11:25:27+00:00"
-[_metadata_:publish_date]:- "2012-06-04"
 [_metadata_:description]:- "May 28, 2012Dear Diary,Today is going to be a great day!(I work at Wizards of the Coast doing my favorite job, how could it not be? In fact, make sure to check out Mark's column today for more about this!)Ah, yes, the welcoming sign that signals the end of my commute. Hello Wizards.(If you've been reading this website for a while, you probably recognize this tour idea from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-04"
 ---
 
 

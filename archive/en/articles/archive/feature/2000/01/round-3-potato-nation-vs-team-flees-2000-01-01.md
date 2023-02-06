@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-potato-nation-vs-team-flees-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701072707id_/https://magic.wizards.com/en/articles/archive/feature/round-3-potato-nation-vs-team-flees-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-01 07:27:07+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Potato Nation vs. Team FleesDavid Harris, Matt Leclaire, D.J. Flees are three guys from Dayton, Ohio who drove an hour to the local Grand Prix and proceeded to win their first two rounds. In round 3 they got paired up against reigning Pro Tour champion Potato Nation. Mike Turian, Gary Wise, and Scott Johns love this format and Mike and his Pittsburgh buddies have been trying"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

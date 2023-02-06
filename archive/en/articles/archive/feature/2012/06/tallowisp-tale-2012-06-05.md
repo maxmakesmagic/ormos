@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tallowisp-tale-2012-06-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519133034id_/https://magic.wizards.com/en/articles/archive/feature/tallowisp-tale-2012-06-05"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:30:34+00:00"
-[_metadata_:publish_date]:- "2012-06-05"
 [_metadata_:description]:- "Modern is a format that consistently crosses the streams of past and present. With nine years' worth of cards at deck builders' disposal, synergies that designers never even dreamed of appear more often than ever. Some Modern-legal Magic themes overlap in weird places—like today's deck. The overlap? Kamigawa and Innistrad blocks. Kamigawa certainly had its Spirit tribal mojo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-05"
 ---
 
 

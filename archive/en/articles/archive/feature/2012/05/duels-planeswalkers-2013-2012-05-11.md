@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-2012-05-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220927094055id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-2012-05-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-09-27 09:40:55+00:00"
-[_metadata_:publish_date]:- "2012-05-11"
 [_metadata_:description]:- "Face a greater challenge with Duels of the Planeswalkers 2013 ! Coming this summer*, the newest version of the successful video game franchise Magic: The Gathering Duels of the Planeswalkers will bring 10 new decks, tutorial, and other exciting features. Duels of the Planeswalkers 2013 will be available on Xbox LIVE Arcade, PC/Steam, PlayStation Network and for the first time"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-11"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-day-1-summary-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526123214id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-day-1-summary-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:32:14+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "The day started off busy, with record-breaking total of 217 teams in attendance. The teams are competing for a prize total of $15,000 plus invitations to Pro Tour New York for the top 4 teams. Some competitors, such as Bob Maher, Trevor Blackwell and Alex Shvartsman, are also here to try and boost their Pro Points in order to have a better chance of winning the coveted Pro"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000-invitees-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029101411id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000-invitees-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-29 10:14:11+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Slot 1) Last Year's Duelist Invitational Winner Mike Long [United States] 20 Pro Points 4th Invitational Invite ('97, '98, '99, '00) 26th, Pro Tour Chicago 8th, Pro Tour Los Angeles 1st, Duelist Invitational"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

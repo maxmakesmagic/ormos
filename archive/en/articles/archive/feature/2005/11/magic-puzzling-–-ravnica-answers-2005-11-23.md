@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-%E2%80%93-ravnica-answers-2005-11-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022110208id_/https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-%E2%80%93-ravnica-answers-2005-11-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 11:02:08+00:00"
-[_metadata_:publish_date]:- "2005-11-23"
 [_metadata_:description]:- "Time for the answers to Monday's puzzles.Round 1, Game 3: Vhati has 31 cards in his graveyard, and 9 in play. That leaves exactly 20 cards left in his deck (since the required deck size was 60 cards). Tap all your land and your Signet for mana. Transmute Dimir Infiltrator into Glimpse the Unthinkable. Transmute Muddle the Mixture into Twincast. Cast Glimpse the Unthinkable"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-11-23"
 ---
 
 

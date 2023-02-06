@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aethergeode-miner-2017-01-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030632id_/https://magic.wizards.com/en/articles/archive/feature/aethergeode-miner-2017-01-03"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:06:32+00:00"
-[_metadata_:publish_date]:- "2017-01-03"
 [_metadata_:description]:- "Quinn previews a resourceful card from Aether Revolt that does its part to eke out greater value from the rest of your deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-01-03"
 ---
 
 

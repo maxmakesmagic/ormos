@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gateway-round-1-patrick-mello-vs-mike-long-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701000428id_/https://magic.wizards.com/en/articles/archive/feature/gateway-round-1-patrick-mello-vs-mike-long-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-01 00:04:28+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Sideboard Staff Over 100 players started this tournament, looking for one of only two slots to the Masters Series which starts later today. Every one of these players has proved themselves at Magic Pro Events previously, as they needed six or more Pro Tour Points to be eligible to play. As the format is single elimination, Round 1 reduces the field to sixty-four. This means"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

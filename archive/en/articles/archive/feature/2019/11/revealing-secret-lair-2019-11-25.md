@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/revealing-secret-lair-2019-11-25?gclid=EAIaIQobChMI7snS7YuG5wIVA__jBx1lcgG2EAAYASAAEgIKSfD_BwE"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220409171458id_/https://magic.wizards.com/en/articles/archive/feature/revealing-secret-lair-2019-11-25?gclid=EAIaIQobChMI7snS7YuG5wIVA__jBx1lcgG2EAAYASAAEgIKSfD_BwE"
 [_metadata_:wayback_capture_timestamp]:- "2022-04-09 17:14:58+00:00"
-[_metadata_:publish_date]:- "2019-11-25"
 [_metadata_:description]:- "Learn about the thought process behind Magic's new sub-brand from the product owner himself."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2019-11-25"
 ---
 
 

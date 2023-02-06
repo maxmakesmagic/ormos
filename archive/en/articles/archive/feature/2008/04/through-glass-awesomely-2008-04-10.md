@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/through-glass-awesomely-2008-04-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122035221id_/https://magic.wizards.com/en/articles/archive/feature/through-glass-awesomely-2008-04-10"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-22 03:52:21+00:00"
-[_metadata_:publish_date]:- "2008-04-10"
 [_metadata_:description]:- "Howdy, all. It's that time of year again: spring! Around these here parts, it means a few specific things. The Toronto Maple Leafs are getting ready to hit the links, while their loyal fans bemoan the fact that the Leafs' championship drought inches closer to the half-century mark; the Toronto Blue Jays are about to lose half of their lineup to season-ending injuries; and the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-04-10"
 ---
 
 

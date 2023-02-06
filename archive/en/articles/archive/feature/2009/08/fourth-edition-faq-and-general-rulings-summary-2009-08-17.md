@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fourth-edition-faq-and-general-rulings-summary-2009-08-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429041403id_/https://magic.wizards.com/en/articles/archive/feature/fourth-edition-faq-and-general-rulings-summary-2009-08-17"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:14:03+00:00"
-[_metadata_:publish_date]:- "2009-08-17"
 [_metadata_:description]:- "This list of questions and answers is intended to clarify the Magic: The Gathering—Fourth Edition rules. These questions and answers are not meant to supersede or substitute for the rules. If any answer below actually modifies or corrects the old published rules, the text will make that clear."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-08-17"
 ---
 
 

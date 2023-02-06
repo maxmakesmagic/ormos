@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-sacramento-event-information-2013-11-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160923051014id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-sacramento-event-information-2013-11-20"
 [_metadata_:wayback_capture_timestamp]:- "2016-09-23 05:10:14+00:00"
-[_metadata_:publish_date]:- "2013-11-20"
 [_metadata_:description]:- "Information    Grand Prix Sacramento is brought to you by ChannelFireball.com and Cascade Games."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-11-20"
 ---
 
 

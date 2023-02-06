@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/design-challenge-4-booster-shot-2010-12-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005259id_/https://magic.wizards.com/en/articles/archive/feature/design-challenge-4-booster-shot-2010-12-22"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:59+00:00"
-[_metadata_:publish_date]:- "2010-12-22"
 [_metadata_:description]:- "They say you only have one chance to make a good first impression. For this Design Challenge I am going to give each of you the chance to create the best first impression you can. Imagine a player is opening his or her first booster from your set. I want you to build the perfect booster for that player to open.The idea of this challenge is to present your set to someone who"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-12-22"
 ---
 
 

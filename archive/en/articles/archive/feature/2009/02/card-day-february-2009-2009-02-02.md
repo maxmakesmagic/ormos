@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-february-2009-2009-02-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628214115id_/https://magic.wizards.com/en/articles/archive/feature/card-day-february-2009-2009-02-02"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-28 21:41:15+00:00"
-[_metadata_:publish_date]:- "2009-02-02"
 [_metadata_:description]:- "Reverence – Saviors of Kamigawa rare. The art for Reverence shows the daimyo Konda, Lord of Eiganjo inside the Eiganjo Castle throne room. The people around him are suffused with reverence and awe for him, presumably because he can have them executed at a whim. Mulch – Stronghold common. Mulch nearly got reprinted in Odyssey, but it (and Song of Blood) proved to be way too"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-02-02"
 ---
 
 

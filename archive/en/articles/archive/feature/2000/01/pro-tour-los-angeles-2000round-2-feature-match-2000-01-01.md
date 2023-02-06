@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-2-feature-match-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118150836id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-2-feature-match-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:08:36+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Tom `Jester` Byrne This match featured two people who have both made top 8 at previous PTLA's, and both in Limited events. Yoo had placed in the top 8 at PTLA 2 and Worth finished 4th last year here on the boat. Yoo had drafted a U/B deck with mainly creatures and a potentially devastating Balloon Peddler/Coastal Piracy deck, and Worth had managed to draft an aggressive R/B"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

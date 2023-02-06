@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-zendikar-rising-2020-09-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813192617id_/https://magic.wizards.com/en/articles/archive/feature/collecting-zendikar-rising-2020-09-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-13 19:26:17+00:00"
-[_metadata_:publish_date]:- "2020-09-01"
 [_metadata_:description]:- "Get your adventuring party ready for all the special frames and card treatments in Zendikar Rising!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-09-01"
 ---
 
 

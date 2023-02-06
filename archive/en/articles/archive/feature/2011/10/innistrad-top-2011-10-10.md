@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/innistrad-top-2011-10-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160304065551id_/http://magic.wizards.com/en/articles/archive/feature/innistrad-top-2011-10-10"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-04 06:55:51+00:00"
-[_metadata_:publish_date]:- "2011-10-10"
 [_metadata_:description]:- "It's an early morning in October. I'm staring at this line of text:  At the beginning of your upkeep, put X 2/2 black Zombie creature tokens onto the battlefield, where X is half the number of Zombies you control, rounded down. As the lead concepter of Innistrad, it's my job to take those words and turn them into an art description—an art description that will represent the mechanic, resonate with players, and illustrate the world of Innistrad."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-10-10"
 ---
 
 

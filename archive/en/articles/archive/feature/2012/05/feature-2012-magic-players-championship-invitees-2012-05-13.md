@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-2012-magic-players-championship-invitees-2012-05-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150911005958id_/http://magic.wizards.com/en/articles/archive/feature/feature-2012-magic-players-championship-invitees-2012-05-13"
 [_metadata_:wayback_capture_timestamp]:- "2015-09-11 00:59:58+00:00"
-[_metadata_:publish_date]:- "2012-05-13"
 [_metadata_:description]:- "With the conclusion of Pro Tour Avacyn Restored, the final spots for the Players Championship, taking place in Seattle during the last week of August, have been decided. Six slots had been decided before this event began, leaving ten slots left to be divided up. Here are the sixteen players invited to the Players Championship, the best of the best. First are the invites for the winners of various awards during the previous season:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-05-13"
 ---
 
 

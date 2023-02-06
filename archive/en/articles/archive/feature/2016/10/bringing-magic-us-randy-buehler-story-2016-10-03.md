@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/bringing-magic-us-randy-buehler-story-2016-10-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161007155900id_/http://magic.wizards.com/en/articles/archive/feature/bringing-magic-us-randy-buehler-story-2016-10-03"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-07 15:59:00+00:00"
-[_metadata_:publish_date]:- "2016-10-03"
 [_metadata_:description]:- "Corbin reflects on the historic influence Randy Buehler has had on Magic coverage."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-10-03"
 ---
 
 

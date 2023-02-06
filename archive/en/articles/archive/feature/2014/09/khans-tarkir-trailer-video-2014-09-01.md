@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/khans-tarkir-trailer-video-2014-09-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20140903221911id_/http://magic.wizards.com/en/articles/archive/feature/khans-tarkir-trailer-video-2014-09-01"
 [_metadata_:wayback_capture_timestamp]:- "2014-09-03 22:19:11+00:00"
-[_metadata_:publish_date]:- "2014-09-01"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Get ready for Magic's next big set, Khans of Tarkir."
+[_metadata_:publish_date]:- "2014-09-01"
 ---
 
 

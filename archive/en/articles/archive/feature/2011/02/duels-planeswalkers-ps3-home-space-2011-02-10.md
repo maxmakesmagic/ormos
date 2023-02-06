@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-ps3-home-space-2011-02-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414012050id_/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-ps3-home-space-2011-02-10"
 [_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:20:50+00:00"
-[_metadata_:publish_date]:- "2011-02-10"
 [_metadata_:description]:- "Wizards of the Coast has yet another way for Magic: The Gathering players and fans to interact online. Now available on the PlayStation Network, a Magic-themed Home space will launch tomorrow and offer an opportunity to interact with Wizards of the Coast staff and special celebrity guests from the gaming community. Adorned with dueling holograms, sculptures and a gallery, the Magic Home space is sure to engage Planeswalkers of all skill levels."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-02-10"
 ---
 
 

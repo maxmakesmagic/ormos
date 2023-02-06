@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/photo-coverage-2000-australian-nationals-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130104238id_/https://magic.wizards.com/en/articles/archive/feature/photo-coverage-2000-australian-nationals-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-30 10:42:38+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "[view] Stephen Campbell with his trophy [view] Ben Seck with his trophy [view] Kim Brebach [view] High fashion [view] Stephen Campbell vs. Kim Brebach in the Finals [view] Justin West vs. Craig Hong in the Loser's Bracket Finals [view] Justin West vs. Kim Brebach in the Semifinals [view] Andrew Macdonald vs. Ben Seck in the Loser's Bracket of the Semifinals [view] Hugh Karp vs"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

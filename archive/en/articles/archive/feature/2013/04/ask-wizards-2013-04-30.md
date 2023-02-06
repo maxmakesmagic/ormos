@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-04-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127121328id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-04-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 12:13:28+00:00"
-[_metadata_:publish_date]:- "2013-04-30"
 [_metadata_:description]:- "Ask Wizards is a weekly feature that allows you to ask us questions! If you'd like to submit your question please email it to AskWizards@wizards.com. We aren't able to answer every question we receive but if your question is good then it might show up in the coming weeks! Today's answer comes from the Tumblr of one Doug Beyer, member of the R&D creative team and retired author"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-04-30"
 ---
 
 

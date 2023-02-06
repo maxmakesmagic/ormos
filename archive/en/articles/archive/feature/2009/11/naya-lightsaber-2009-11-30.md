@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/naya-lightsaber-2009-11-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170429004554id_/http://magic.wizards.com/en/articles/archive/feature/naya-lightsaber-2009-11-30"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-29 00:45:54+00:00"
-[_metadata_:publish_date]:- "2009-11-30"
 [_metadata_:description]:- "[decklist] Title: Andre Coimbra's Naya Lightsaber Format: Worlds 2009 Standard 4 Arid Mesa 4 Forest 3 Mountain 1 Oran-Rief, the Vastwood 4 Plains 4 Rootbound Crag 4 Sunpetal Grove 4 Baneslayer Angel 4 Bloodbraid Elf 4 Noble Hierarch 4 Ranger of Eos 1 Scute Mob 4 Wild Nacatl 4 Woolly Thoctar 3 Ajani Vengeant 4 Lightning Bolt 4 Path to Exile *1 Ajani Vengeant *2 Burst Lightning *4 Celestial Purge *4 Goblin Ruinblaster"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-11-30"
 ---
 
 

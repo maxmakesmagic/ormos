@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-back-2009-06-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017044546id_/https://magic.wizards.com/en/articles/archive/feature/magic-back-2009-06-29"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-17 04:45:46+00:00"
-[_metadata_:publish_date]:- "2009-06-29"
 [_metadata_:description]:- "It's been a while since you've been home. This was not unexpected, of course. You're a planeswalker who is constantly hungry for more power and knowledge, and one does not discover new spells and sources of mana by sitting around. However, you've recently seen a lot of chaos even for planeswalker standards. You watched a plane flip polarity in front of your very eyes, then"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-29"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-nam-sung-wook-2014-11-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141115203435id_/http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-nam-sung-wook-2014-11-11"
 [_metadata_:wayback_capture_timestamp]:- "2014-11-15 20:34:35+00:00"
-[_metadata_:publish_date]:- "2014-11-11"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "This has been a landmark year for Asian Magic. Traditionally overshadowed by the strong performances of the storied Japanese community, regions such as Korea, Singapore, Hong Kong, and Chinese Taipei have been steadily making a ruckus in the global professional Magic scene, and it has become impossible to overlook them. At the top of this rise of talent has been Team MTG Mint Card, which has gone about snapping up the finest talent that Asia has to offer, including newly-minted Platinum Pro Nam Sung Wook."
+[_metadata_:publish_date]:- "2014-11-11"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-12-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521170218id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-12-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 17:02:18+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Opponent Points Auer, Jeff (1700) (512) 19 Yang, Peter (1700) (4) 19 Bernat Michael (70) 27 Marks John (379) 27 Boyer, Chris (1700) (27) 22 Lute Joe (374) 22 Bush Michelle (11) 28 Dougherty, Robert (Q) (9) 28 Carpenter, Ryan (1700) (389) 24 Rose, Kyle (Q) (91) 24 Crosby, Joseph (Q) (1700) (393) 25 Qian, Patrick (1700) (402) 24 Dobson, Tony (Q) (1700) (96) 21"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

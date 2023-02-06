@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-3-recap-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518155139id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-3-recap-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 15:51:39+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler Gary Wise had on of the best turn 4's all morning when he used Surge of Strength to make his Treefolk Seedlings 6/3 and then, after he was done attacking with them, he sacrificed the Seedlings to bust out a turn 4 6/3 flying, firebreathing Dracoplasm. However, Gary had trouble drawing land in games 2 and 3 and fell to 0-3. Mike Long wrecked Zvi in game 1 by"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

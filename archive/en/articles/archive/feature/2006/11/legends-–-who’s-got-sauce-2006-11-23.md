@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/legends-%E2%80%93-who%E2%80%99s-got-sauce-2006-11-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170321115646id_/http://magic.wizards.com/en/articles/archive/feature/legends-%E2%80%93-who%E2%80%99s-got-sauce-2006-11-23"
 [_metadata_:wayback_capture_timestamp]:- "2017-03-21 11:56:46+00:00"
-[_metadata_:publish_date]:- "2006-11-23"
 [_metadata_:description]:- "Wizards of the Coast is out of the office for the Thanksgiving holiday, and will return with new articles beginning Monday, November 27. In case you missed it, what follows is the article that ran in this slot last week. Have a great weekend, for our American audience happy Thanksgiving vacation, and we’ll see all of you Monday!Scott Johns, magicthegathering.com Content Manager"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-11-23"
 ---
 
 

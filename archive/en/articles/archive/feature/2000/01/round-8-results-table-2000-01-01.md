@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-results-table-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124042250id_/https://magic.wizards.com/en/articles/archive/feature/round-8-results-table-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:22:50+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Team Result   Opponent The Ken Ho All-Stars 200 vs. Family Games Center The Ancient Kavus 210 vs. Frog Eaters Dynasty 300 vs. Huey Brock and Linde Team Needs/Hotel Room *Amate 210 vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

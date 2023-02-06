@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/theros-prerelease-primer-2013-09-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150318000512id_/http://magic.wizards.com/en/articles/archive/feature/theros-prerelease-primer-2013-09-16"
 [_metadata_:wayback_capture_timestamp]:- "2015-03-18 00:05:12+00:00"
-[_metadata_:publish_date]:- "2013-09-16"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Hi again! Usually I'm pretty manic when I write Prerelease Primers, but the start of a new block requires more information and less excitability. It's gonna be hard, though... Because Elspeth."
+[_metadata_:publish_date]:- "2013-09-16"
 ---
 
 

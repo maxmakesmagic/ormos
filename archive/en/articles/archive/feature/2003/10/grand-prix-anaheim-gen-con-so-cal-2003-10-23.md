@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-anaheim-gen-con-so-cal-2003-10-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031011746id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-anaheim-gen-con-so-cal-2003-10-23"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-31 01:17:46+00:00"
-[_metadata_:publish_date]:- "2003-10-23"
 [_metadata_:description]:- "The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour™ events.Grand Prix—Anaheim is presented by Gen Con So Cal and Wizards of the Coast.TOURNAMENT FORMAT AND SCHEDULE The format for Grand Prix–Anaheim is Extended. All DCI™ Constructed-format rules, Magic® Floor Rules, and all subsequent updates will be enforced."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-10-23"
 ---
 
 

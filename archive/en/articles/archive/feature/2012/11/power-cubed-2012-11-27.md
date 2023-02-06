@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/power-cubed-2012-11-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160330172356id_/http://magic.wizards.com/en/articles/archive/feature/power-cubed-2012-11-27"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-30 17:23:56+00:00"
-[_metadata_:publish_date]:- "2012-11-27"
 [_metadata_:description]:- "What would you take from this pack?  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-11-27"
 ---
 
 

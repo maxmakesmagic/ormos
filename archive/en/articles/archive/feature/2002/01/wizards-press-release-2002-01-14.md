@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wizards-press-release-2002-01-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200818045555id_/https://magic.wizards.com/en/articles/archive/feature/wizards-press-release-2002-01-14"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-18 04:55:55+00:00"
-[_metadata_:publish_date]:- "2002-01-14"
 [_metadata_:description]:- "WIZARDS OF THE COAST ANNOUNCES CARD REDEMPTION FEATURE FOR SOON-TO-BE-RELEASED MAGIC: THE GATHERING® ONLINE GAME   In gaming industry first, Magic Online will enable players to redeem digital cards for physical cards"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-01-14"
 ---
 
 

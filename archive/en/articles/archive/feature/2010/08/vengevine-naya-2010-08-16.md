@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vengevine-naya-2010-08-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028060924id_/https://magic.wizards.com/en/articles/archive/feature/vengevine-naya-2010-08-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 06:09:24+00:00"
-[_metadata_:publish_date]:- "2010-08-16"
 [_metadata_:description]:- "[decklist] Title: Aníbal Carbonero's Vengevine Naya Format: Standard - 1st Place - 2010 Spain National Championships 4 Arid Mesa 5 Forest 3 Misty Rainforest 2 Mountain 2 Plains 2 Raging Ravine 2 Sejiri Steppe 1 Stirring Wildwood 2 Sunpetal Grove 1 Tectonic Edge 1 Terramorphic Expanse 1 Baneslayer Angel 3 Birds of Paradise 4 Bloodbraid Elf 3 Cunning Sparkmage 4 Fauna Shaman 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-08-16"
 ---
 
 

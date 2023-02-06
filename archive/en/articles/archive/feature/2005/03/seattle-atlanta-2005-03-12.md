@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/seattle-atlanta-2005-03-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809170740id_/https://magic.wizards.com/en/articles/archive/feature/seattle-atlanta-2005-03-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-09 17:07:40+00:00"
-[_metadata_:publish_date]:- "2005-03-12"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Microsoft might be the giant of the software companies, but it's Silicon Valley in California (and industrialists in Japan) that often get"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-03-12"
 ---
 
 

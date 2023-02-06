@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pax-party-puzzle-2010-09-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160314014658id_/http://magic.wizards.com/en/articles/archive/feature/pax-party-puzzle-2010-09-09"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-14 01:46:58+00:00"
-[_metadata_:publish_date]:- "2010-09-09"
 [_metadata_:description]:- "Pretend you're at the PAX Party. If it helps, reread yesterday's Arcana. As you enter, you're given a sheet of paper that says this: Assault on Mirrodin PAX Prime Scavenger Hunt"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-09-09"
 ---
 
 

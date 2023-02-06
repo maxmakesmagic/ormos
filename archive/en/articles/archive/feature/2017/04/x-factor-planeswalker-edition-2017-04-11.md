@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/x-factor-planeswalker-edition-2017-04-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170411143413id_/http://magic.wizards.com/en/articles/archive/feature/x-factor-planeswalker-edition-2017-04-11"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-11 14:34:13+00:00"
-[_metadata_:publish_date]:- "2017-04-11"
 [_metadata_:description]:- "X marks the spot with Luis's planeswalker preview card from Amonkhet!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2017-04-11"
 ---
 
 

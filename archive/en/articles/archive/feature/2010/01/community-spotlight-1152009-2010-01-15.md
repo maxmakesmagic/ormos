@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-1152009-2010-01-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118205549id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-1152009-2010-01-15"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:55:49+00:00"
-[_metadata_:publish_date]:- "2010-01-15"
 [_metadata_:description]:- "January 9-10: StarCityGames.com Open Series: Dallas / Fort WorthLast weekend, Star City Games had another installment of their Open Series, this time in Dallas / Fort Worth. Specifically, it was in Fort Worth.They had two big tournaments: a 332-person Standard event on Saturday, and a 117-person Legacy event on Sunday."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-15"
 ---
 
 

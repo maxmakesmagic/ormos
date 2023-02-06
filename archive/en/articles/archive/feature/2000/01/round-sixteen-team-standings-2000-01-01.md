@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-sixteen-team-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031070205id_/https://magic.wizards.com/en/articles/archive/feature/round-sixteen-team-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-31 07:02:05+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name Points Op-Match 1 United States 132 0.58757 2 Austria 114 0.51595 3 Norway 112 0.54469 4 Netherlands 110 0.57422 5 France"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-standings-score-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626205504id_/https://magic.wizards.com/en/articles/archive/feature/round-8-standings-score-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-26 20:55:04+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 Angstschreeuw 2463.2937% 2 one day fly 2175.0000% 3 AlphaBetaUnlimited.com 2164.8148% 4 gotta catch Kai 1972.9167% 5 Black-Ops 1968.2870% 6 Two men and a baby !"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

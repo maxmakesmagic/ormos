@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-2009-format-schedule-and-prizes-2009-01-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626223020id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-2009-format-schedule-and-prizes-2009-01-07"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-26 22:30:20+00:00"
-[_metadata_:publish_date]:- "2009-01-07"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document.FormatStandard Constructed and Booster Draft 2 Shards of Alara and 1 Conflux boosters will be used for drafting Deck lists are required Check www.thedci.com for Standard and Booster Draft format rules."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-07"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-6-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517154344id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-6-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 15:43:44+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Match Points Team Points Team  Team Puge *** BYE *** 1 15 Godzilla 15 Team Imabiki 2 15 Team Iwamoto 15 WACHI-DE? 3 15 I''s 13 Poor Shark 4 13 T.F.Z. 13 Yanitetsu 5 13 Team Fenrir 12 NAGOYAN 6 12 Masato Club 12 Team Usagi 7 12 Team Thirties 12 Today 8 12 MAHODO 12 HAYATE 9 12 Team T.T.Y."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

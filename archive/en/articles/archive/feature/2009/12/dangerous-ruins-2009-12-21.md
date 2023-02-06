@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dangerous-ruins-2009-12-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429022046id_/https://magic.wizards.com/en/articles/archive/feature/dangerous-ruins-2009-12-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:20:46+00:00"
-[_metadata_:publish_date]:- "2009-12-21"
 [_metadata_:description]:- "Dangerous Ruins Explorers and planeswalkers risk life and limb to seek Zendikar's treasures. For as long as anyone can remember, mysterious ruins lay hidden on every continent, and loci of powerful mana tempted power-seekers of all persuasions. The Roil continuously unearthed new destinations, and swallowed some ruins not completely explored. As chaos escalates in the world,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-12-21"
 ---
 
 

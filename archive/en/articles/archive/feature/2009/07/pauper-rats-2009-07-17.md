@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pauper-rats-2009-07-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119090055id_/https://magic.wizards.com/en/articles/archive/feature/pauper-rats-2009-07-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-19 09:00:55+00:00"
-[_metadata_:publish_date]:- "2009-07-17"
 [_metadata_:description]:- "[decklist] Title: SlashRus's Pauper Rats Format: Magic Online Pauper 2 Dimir Aqueduct 2 Grixis Panorama 3 Island 14 Swamp 3 Terramorphic Expanse 4 Chittering Rats 3 Crypt Rats 4 Mulldrifter 1 Death Denied 3 Deep Analysis 4 Diabolic Edict 4 Distress 2 Echoing Decay 4 Innocent Blood 4 Probe 3 Tendrils of Corruption *4 Dross Golem *4 Duress *1 Echoing Decay *3 Hydroblast *2 Relic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-07-17"
 ---
 
 

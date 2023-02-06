@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-02-1"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028210927id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-02-1"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 21:09:27+00:00"
-[_metadata_:publish_date]:- "2008-12-02"
 [_metadata_:description]:- "Thanks to tournament organizer Marvin Paguirigan for the decklists.[decklist] Title: Nathan Braymore Format: 1st Place - Ontario - Kitchener - 11/22 7 Forest 2 Mountain 7 Plains 3 Akrasan Squire 1 Knight of the Skyward Eye 1 Rockcaster Platoon 1 Yoked Plowbeast 1 Cavern Thoctar 1 Druid of the Anima 1 Drumhunter 2 Mosstodon 1 Naya Battlemage 1 Spearbreaker Behemoth 3 Wild"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-12-02"
 ---
 
 

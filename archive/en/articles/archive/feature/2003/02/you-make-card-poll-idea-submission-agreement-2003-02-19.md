@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-card-poll-idea-submission-agreement-2003-02-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022081229id_/https://magic.wizards.com/en/articles/archive/feature/you-make-card-poll-idea-submission-agreement-2003-02-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 08:12:29+00:00"
-[_metadata_:publish_date]:- "2003-02-19"
 [_metadata_:description]:- "YOU MUST CLICK I DO NOT ACCEPT OR I ACCEPT AT THE BOTTOM OF THIS AGREEMENT TO CONTINUE.PLEASE READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY AND IN ITS ENTIRETY BEFORE ACCEPTING THIS AGREEMENT AND USING THIS POLL ON THE Wizards of the Coast, Inc. (`Wizards`) SITE."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-02-19"
 ---
 
 

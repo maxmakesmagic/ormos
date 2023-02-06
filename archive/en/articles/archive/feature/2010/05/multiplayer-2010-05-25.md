@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/multiplayer-2010-05-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027052502id_/https://magic.wizards.com/en/articles/archive/feature/multiplayer-2010-05-25"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 05:25:02+00:00"
-[_metadata_:publish_date]:- "2010-05-25"
 [_metadata_:description]:- "Official Multiplayer FormatsThere are almost as many ways to play Magic with more than two people as there are Magic players. These are the most popular, including Free-for-All, Chaos, Grand Melee, Emperor, and Commander/EDH.Multiplayer ProductsWhile you can use any Magic product in a multiplayer game, some products are specifically designed for use by more than two"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-25"
 ---
 
 

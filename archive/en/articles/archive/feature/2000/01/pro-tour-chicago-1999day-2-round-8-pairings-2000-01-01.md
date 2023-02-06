@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-8-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127182459id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-8-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 18:24:59+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Table Opponent Points Baberowski, Dirk (120) 18 6 Ho, Lan (290) 18 Baker, Justin (284) 13 40 Shaw, Thomas (86) 13 Benedict, Brian (176) 13 46 Budde, Kai (320) 13 Benezech, Lionel (318) 16 13 Snepvangers, Abraham (20) 16 Bernat, Michael (283) 13 36 Lau, Terry (289) 13 Bingen, Sturla (116) 13 45 Ranks, Matthew (227) 13 Budde, Kai (320) 13 46 Benedict, Brian (176)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

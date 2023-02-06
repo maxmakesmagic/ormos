@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/filigree-art-quiz-2008-11-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180123072958id_/https://magic.wizards.com/en/articles/archive/feature/filigree-art-quiz-2008-11-19"
 [_metadata_:wayback_capture_timestamp]:- "2018-01-23 07:29:58+00:00"
-[_metadata_:publish_date]:- "2008-11-19"
 [_metadata_:description]:- "Almost all living things on Esper have etherium grafted to their bodies in some way. Can you identify Esper cards just by seeing the filigree? After you guess, click on the thumbnails to see if you're right!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-19"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/life-imitates-mana-2008-09-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921120444id_/https://magic.wizards.com/en/articles/archive/feature/life-imitates-mana-2008-09-09"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-21 12:04:44+00:00"
-[_metadata_:publish_date]:- "2008-09-09"
 [_metadata_:description]:- "Life Imitates Mana"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-09-09"
 ---
 
 

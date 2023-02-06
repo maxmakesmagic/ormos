@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-evolving-coverage-landscape-2012-05-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150716012025id_/http://magic.wizards.com/en/articles/archive/feature/feature-evolving-coverage-landscape-2012-05-11"
 [_metadata_:wayback_capture_timestamp]:- "2015-07-16 01:20:25+00:00"
-[_metadata_:publish_date]:- "2012-05-11"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Magic's scenery changes every set. Sometimes it's as dramatic as the lands in Innistrad as compared to those of Avacyn Restored, but it's change that always comes in unique and exciting ways. Today, that change is in the ways we deliver coverage of the Pro Tour to you all. At Pro Tour Dark Ascension we went from one day of coverage to covering all three."
+[_metadata_:publish_date]:- "2012-05-10"
 ---
 
 

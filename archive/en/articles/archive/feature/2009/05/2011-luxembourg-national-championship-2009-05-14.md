@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-luxembourg-national-championship-2009-05-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025082027id_/https://magic.wizards.com/en/articles/archive/feature/2011-luxembourg-national-championship-2009-05-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:20:27+00:00"
-[_metadata_:publish_date]:- "2009-05-14"
 [_metadata_:description]:- "Date: 30 July 2011Location: Restaurant-Brasserie des Arts, 100 r. de GasperichCity: LuxembourgCountry: LuxembourgThe Magic: the Gathering Luxembourg Championship is open to all citizens or permanent residents of Luxembourg.Contact informationEmail: nigel@twiddleskeep.comTelephone: +352 691 254 103Website: www.twiddleskeep.comFormatStandard and Booster Draft 3 Magic 2012"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-14"
 ---
 
 

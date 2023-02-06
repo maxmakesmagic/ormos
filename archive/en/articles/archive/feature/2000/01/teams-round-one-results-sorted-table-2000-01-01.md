@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-one-results-sorted-table-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031232541id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-one-results-sorted-table-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-31 23:25:41+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Match Team Opponent Result 1 United States Netherlands Drew 2-2 2 Austria Germany Lost 1-3 3 Spain Norway Won 4-0 4 France Canada Drew 1-1-2 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

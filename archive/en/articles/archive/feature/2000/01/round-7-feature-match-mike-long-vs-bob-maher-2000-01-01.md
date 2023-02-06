@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-mike-long-vs-bob-maher-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517011308id_/https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-mike-long-vs-bob-maher-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-17 01:13:08+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Randy Buehler After 3 sets of pairings and an apology from head scorekeeper Gordon Culp, Mike Long and Bob Maher finally sat down to play against each other. Both players have represented the US at Worlds in the past and both would like to do it again. Maher made the same choice as a lot of Pro Tour regulars -- he's running Control Black. Jon Finkel, Steve OMS, Rob"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

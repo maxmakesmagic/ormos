@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-january-8-14-2011-2011-01-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127052257id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-january-8-14-2011-2011-01-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 05:22:57+00:00"
-[_metadata_:publish_date]:- "2011-01-14"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site. This week, the most important addition is the Orb of Insight for Mirrodin Besieged. Here's how the Orb works: You enter any word, and the Orb will tell you how many times that word appears in the set. It counts all text on the cards with the exception of flavor text."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-01-14"
 ---
 
 

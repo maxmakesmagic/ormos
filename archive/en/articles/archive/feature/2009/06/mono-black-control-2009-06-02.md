@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-control-2009-06-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021235813id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-control-2009-06-02"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-21 23:58:13+00:00"
-[_metadata_:publish_date]:- "2009-06-02"
 [_metadata_:description]:- "[decklist] Title: dunkle_stille's Mono-black Control Format: Magic Online Classic 4 Mishra's Factory 13 Snow-Covered Swamp 1 Tomb of Urami 2 Urborg, Tomb of Yawgmoth 4 Wasteland 2 Nantuko Shade 3 Tombstalker 2 Crucible of Worlds 2 Demonic Consultation 1 Demonic Tutor 3 Duress 4 Hymn to Tourach 3 Innocent Blood 1 Mox Diamond 3 Pithing Needle 3 Pox 4 Smallpox 4 Thoughtseize 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-02"
 ---
 
 

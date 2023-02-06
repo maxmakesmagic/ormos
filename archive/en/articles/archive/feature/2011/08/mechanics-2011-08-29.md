@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-2011-08-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160325153353id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-2011-08-29"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-25 15:33:53+00:00"
-[_metadata_:publish_date]:- "2011-08-29"
 [_metadata_:description]:- "If you're new to Magic or looking for a refresher on the basic rules, check out the Learn to Play page."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-08-29"
 ---
 
 

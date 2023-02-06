@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/psychatog-redux-2002-07-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160117220521id_/http://magic.wizards.com/en/articles/archive/feature/psychatog-redux-2002-07-12"
 [_metadata_:wayback_capture_timestamp]:- "2016-01-17 22:05:21+00:00"
-[_metadata_:publish_date]:- "2002-07-12"
 [_metadata_:description]:- "Was it a mistake to print Psychatog? You said:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-07-12"
 ---
 
 

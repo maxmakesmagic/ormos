@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-united-states-national-championship-2010-06-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521195628id_/https://magic.wizards.com/en/articles/archive/feature/2011-united-states-national-championship-2010-06-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-21 19:56:28+00:00"
-[_metadata_:publish_date]:- "2010-06-14"
 [_metadata_:description]:- "U.S. Nationals Invitation list comprises the following:The current U.S. National Champion and members of the current U.S. national team (including alternate). Players from the U.S. with Pro Tour Players Club level 2 or higher. Winners of invitations through National Qualifiers (including Last Chance National Qualifiers or “Grinders”). The Top 100 DCI-ranked players in the DCI"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-06-14"
 ---
 
 

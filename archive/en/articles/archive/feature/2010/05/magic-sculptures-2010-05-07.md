@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-sculptures-2010-05-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120010100id_/https://magic.wizards.com/en/articles/archive/feature/magic-sculptures-2010-05-07"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 01:01:00+00:00"
-[_metadata_:publish_date]:- "2010-05-07"
 [_metadata_:description]:- "People who were planning on going to Gravesend Magic's `Magic in May` convention were treated to this mysterious announcement:In an effort to bring you something new... ...introducing probably the WORLD’S FIRST EVER... Magic Sculptor Challenge IF YOU BUILD THE MOST CREATIVE AND ARTISTIC PIECE OF SCULPTURE, YOU COULD WIN A FABULOUS PRIZE!Glen White's plan was to use up some of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-05-07"
 ---
 
 

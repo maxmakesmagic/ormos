@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-green-valakut-2010-12-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022214332id_/https://magic.wizards.com/en/articles/archive/feature/red-green-valakut-2010-12-14"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-22 21:43:32+00:00"
-[_metadata_:publish_date]:- "2010-12-14"
 [_metadata_:description]:- "[decklist] Title: Simon Görtzen's Red-Green Valakut Format: Standard - 15 Points - 2010 World Championships 3 Evolving Wilds 5 Forest 1 Khalni Garden 12 Mountain 3 Terramorphic Expanse 4 Valakut, the Molten Pinnacle 3 Avenger of Zendikar 2 Oracle of Mul Daya 4 Overgrown Battlement 4 Primeval Titan 4 Cultivate 4 Explore 4 Growth Spasm 3 Lightning Bolt 4 Summoning Trap *4 Gaea's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-12-14"
 ---
 
 

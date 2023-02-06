@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/looking-ahead-2004-04-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529000232id_/https://magic.wizards.com/en/articles/archive/feature/looking-ahead-2004-04-15"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-29 00:02:32+00:00"
-[_metadata_:publish_date]:- "2004-04-15"
 [_metadata_:description]:- "Coming Up: GP Washington DC, GP BochumFinally, a chance to play team limited!Those of you who've been reading my articles for a long time know just how much I love this format. I strongly feel this is the most skill-intensive Magic tournament format, and I always look forward to the events. I am even coming out of my semi-retirement to play in GP Washington DC this weekend.I'm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-04-15"
 ---
 
 

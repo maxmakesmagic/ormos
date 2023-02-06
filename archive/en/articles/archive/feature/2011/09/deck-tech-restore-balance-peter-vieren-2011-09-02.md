@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/deck-tech-restore-balance-peter-vieren-2011-09-02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151021135947id_/http://magic.wizards.com/en/articles/archive/feature/deck-tech-restore-balance-peter-vieren-2011-09-02"
 [_metadata_:wayback_capture_timestamp]:- "2015-10-21 13:59:47+00:00"
-[_metadata_:publish_date]:- "2011-09-02"
 [_metadata_:description]:- "There was only a single player battling with Restore Balance in his deck at Pro Tour Philadelphia, and that player was Peter Vieren. Though he ultimately ended up at .500 with an 8-8 record, the deck worked well enough for Vieren to make it to Day Two."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-01"
 ---
 
 

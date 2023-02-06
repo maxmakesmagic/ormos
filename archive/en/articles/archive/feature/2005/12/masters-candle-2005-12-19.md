@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-candle-2005-12-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127002022id_/https://magic.wizards.com/en/articles/archive/feature/masters-candle-2005-12-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-27 00:20:22+00:00"
-[_metadata_:publish_date]:- "2005-12-19"
 [_metadata_:description]:- "Magicthegathering.com is running `best of` content during the holidays, and will return with new content January 4, 2006. This Magic Arcana originally ran January 13, 2005. Tallowisp (a Betrayers card previewed today by Mark Gottlieb) is the spirit of a candle's flame. According to the art description provided to Ron Spears, it once lit the scrolls and tomes of the legendary"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-12-19"
 ---
 
 

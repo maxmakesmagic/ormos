@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/friday-nights-heros-path-refusal-2014-04-30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815100815id_/https://magic.wizards.com/en/articles/archive/feature/friday-nights-heros-path-refusal-2014-04-30"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-15 10:08:15+00:00"
-[_metadata_:publish_date]:- "2014-04-30"
 [_metadata_:description]:- "Alex attempts the eighth Hero Path challenge in isolation. Sort of. Meanwhile, the rest of the LoadingReadyRun crew strategizes how best to face Xenagos in the final step, at Journey into Nyx Game Day. Talk about this series on Twitter with the #FridayNightsMTG hashtag and be sure to follow @loadingreadyrun! Watch all the previous episodes on our Friday Nights YouTube Playlist!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-30"
 ---
 
 

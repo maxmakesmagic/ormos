@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/winter%E2%80%99s-chill-2006-11-22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181022020956id_/https://magic.wizards.com/en/articles/archive/feature/winter%E2%80%99s-chill-2006-11-22"
 [_metadata_:wayback_capture_timestamp]:- "2018-10-22 02:09:56+00:00"
-[_metadata_:publish_date]:- "2006-11-22"
 [_metadata_:description]:- "Greetings, Johnnies! Way back in January, when I started writing this column, I expressed a severe dislike for winter. It's one of my least favourite seasons. Bottom four, anyway. It's just so cold and miserable. I'm very sad to report that it's snowing a bit as write this."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-11-22"
 ---
 
 

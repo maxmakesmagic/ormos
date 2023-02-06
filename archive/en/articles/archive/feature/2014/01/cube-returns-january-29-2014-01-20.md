@@ -5,8 +5,8 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cube-returns-january-29-2014-01-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805142236id_/https://magic.wizards.com/en/articles/archive/feature/cube-returns-january-29-2014-01-20"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-05 14:22:36+00:00"
-[_metadata_:publish_date]:- "2014-01-20"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-01-20"
 ---
 
 

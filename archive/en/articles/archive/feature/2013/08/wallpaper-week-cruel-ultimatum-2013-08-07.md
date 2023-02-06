@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-cruel-ultimatum-2013-08-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170729175045id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-cruel-ultimatum-2013-08-07"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-29 17:50:45+00:00"
-[_metadata_:publish_date]:- "2013-08-07"
 [_metadata_:description]:- "Welcome to Wallpaper of the Week! This week's wallpaper features Todd Lockwood's Cruel Ultimatum. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-08-07"
 ---
 
 

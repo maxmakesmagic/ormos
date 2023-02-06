@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-feature-match-ben-seck-vs-dane-coltman-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522230100id_/https://magic.wizards.com/en/articles/archive/feature/round-8-feature-match-ben-seck-vs-dane-coltman-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 23:01:00+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Liam Coltman After the two players present their decks they are immediately called for a deck check. After 10 minutes the players begin to realise that there is a problem with one of the decks and when Ben Seck is called over, things look grim. He returns back to the feature table 10 minutes later with the news that his sleeves appear to be marked, but he is going to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

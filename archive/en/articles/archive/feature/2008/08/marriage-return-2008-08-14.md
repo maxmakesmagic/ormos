@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/marriage-return-2008-08-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126140455id_/https://magic.wizards.com/en/articles/archive/feature/marriage-return-2008-08-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-26 14:04:55+00:00"
-[_metadata_:publish_date]:- "2008-08-14"
 [_metadata_:description]:- "It's mid-August, the last third of summer here in Canada, and that can mean only two things: I have suddenly become a year older than usual, and the Magic players I know are banding with others (i.e. getting married). Last weekend, my friend tied the knot (Congrats, Todd and Trista!). A planned pre-wedding triple-Invasion draft was thwarted by a power outage, so the only magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-14"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-9-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518193137id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-9-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 19:31:37+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Points Opponent Points Brackett, Derek - 1700 (21) 19 Kloeckner, Kyle (151) 19 Bradley, James G."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

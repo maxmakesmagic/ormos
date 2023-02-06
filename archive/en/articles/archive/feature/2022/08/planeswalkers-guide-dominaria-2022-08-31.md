@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-dominaria-2022-08-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220831164141id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-dominaria-2022-08-31"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-31 16:41:41+00:00"
-[_metadata_:publish_date]:- "2022-08-31"
 [_metadata_:description]:- "What you need to know about the plane of Dominaria's history, lands, and inhabitants."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2022-08-31"
 ---
 
 

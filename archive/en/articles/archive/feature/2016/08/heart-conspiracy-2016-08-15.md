@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/heart-conspiracy-2016-08-15?tags=Daily%20MTG&lang=en"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160819173432id_/http://magic.wizards.com/en/articles/archive/feature/heart-conspiracy-2016-08-15?tags=Daily%20MTG&lang=en"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-19 17:34:32+00:00"
-[_metadata_:publish_date]:- "2016-08-15"
 [_metadata_:description]:- "Shawn Main, lead designer for both Conspiracy sets, kicks off Preview Week with some of his favorite cards in Conspiracy: Take the Crown!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-08-15"
 ---
 
 

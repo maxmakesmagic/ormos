@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000semifinals-feature-match-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210128021705id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000semifinals-feature-match-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-28 02:17:05+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Thomas Pannell Blackwell started out with a good hand: Ramosian Sergeant, Renounce, Charm Peddler, Thermal Glider, a Plains, and 2 Mountains. Blackwell kept and drew Lithophage on his first turn. He played his small creatures and searched for Nightwind Glider by `going up the chain`: he searched for Ramosian Lieutenant with Ramosian Sergeant and used the Ramosian Lieutenant to get the Glider. Blackwell remained aggressive for the rest of the game, using Kris Mage to keep Burgner's Creatures out of the way."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

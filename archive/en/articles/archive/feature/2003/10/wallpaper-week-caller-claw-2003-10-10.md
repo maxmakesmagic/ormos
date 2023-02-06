@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-caller-claw-2003-10-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025052217id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-caller-claw-2003-10-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 05:22:17+00:00"
-[_metadata_:publish_date]:- "2003-10-10"
 [_metadata_:description]:- "This week's desktop wallpaper is Legions' instant-speed elf, Caller of the Claw by Matt Cavotta. Enjoy. 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-10-10"
 ---
 
 

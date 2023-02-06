@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-white-quest-2011-02-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161218225600id_/http://magic.wizards.com/en/articles/archive/feature/mono-white-quest-2011-02-18"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-18 22:56:00+00:00"
-[_metadata_:publish_date]:- "2011-02-18"
 [_metadata_:description]:- "[decklist] Title: Frank Karsten's Mono-White Quest Format: Standard - Pro Tour Paris 2011 4 Contested War Zone 4 Arid Mesa 4 Marsh Flats 11 Plains 4 Ornithopter 4 Memnite 4 Glint Hawk 4 Signal Pest 4 Steppe Lynx 4 Accorder Paladin 4 Kor Skyfisher 3 Squadron Hawk 4 Quest for the Holy Relic 2 Argentum Armor *2 Plains *1 Squadron Hawk *1 Sword of Feast and Famine *3 Refraction Trap *4 Kor Firewalker *2 Jinxed Idol *1 Molten-Tail Masticore"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-02-18"
 ---
 
 

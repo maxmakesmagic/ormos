@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pack-lunch-it%E2%80%99s-field-trip-2006-02-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811073501id_/http://magic.wizards.com/en/articles/archive/feature/pack-lunch-it%E2%80%99s-field-trip-2006-02-08"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-11 07:35:01+00:00"
-[_metadata_:publish_date]:- "2006-02-08"
 [_metadata_:description]:- "In the last few weeks I have received many many emails asking where to go to see and/or buy Magic art. After typing out the same reply a handful of times, I decided to rent a bus and take all the Taste The Magic folks on a field trip to artville! Don’t worry about your permission slips, Rorix is driving, and he doesn’t care what your parents think!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-02-08"
 ---
 
 

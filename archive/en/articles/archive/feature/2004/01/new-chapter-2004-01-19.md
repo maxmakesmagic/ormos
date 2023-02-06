@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-chapter-2004-01-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429030715id_/https://magic.wizards.com/en/articles/archive/feature/new-chapter-2004-01-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:07:15+00:00"
-[_metadata_:publish_date]:- "2004-01-19"
 [_metadata_:description]:- "“Welcome to MagictheGathering.com.” With that phrase, Mark Rosewater introduced a new website to Magic’s online community that would have the opportunity to take its readers places they’d only dreamed of. In the two years since that announcement this site has gone on to become the premier site for Magic content. The credit for the site’s success goes to many people, but one of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-01-19"
 ---
 
 

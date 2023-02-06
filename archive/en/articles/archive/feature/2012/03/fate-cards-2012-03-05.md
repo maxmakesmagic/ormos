@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fate-cards-2012-03-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170409232235id_/http://magic.wizards.com/en/articles/archive/feature/fate-cards-2012-03-05"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-09 23:22:35+00:00"
-[_metadata_:publish_date]:- "2012-03-05"
 [_metadata_:description]:- "Hi! I'm a Magic card.Most of you out there view Magic from a player's point of view. I can't really blame you for that, I suppose. For Fate Week though, I thought I would bring you into my world and show you around."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-03-05"
 ---
 
 

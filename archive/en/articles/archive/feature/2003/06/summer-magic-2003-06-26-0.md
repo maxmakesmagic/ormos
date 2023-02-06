@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117044718id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-0"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-17 04:47:18+00:00"
-[_metadata_:publish_date]:- "2003-06-26"
 [_metadata_:description]:- "NameLocationCityPhoneUngdommens husSkårersletta 60Lørenskog4792243200GledeshusetØvre Langgate 47Tønsberg4733473582Kens Card ShopDaniel Leegaardsgt. 10Fredrikstad4769312928Tromsø BruktbokhandelKirkegt. 6Tromsø4777686974Outland KristiansandMarkensgt. 24Kristiansand4738099420Outland StavangerStavanger StorsenterStavanger4751938080Outland OsloØstbanehallen Oslo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-06-26"
 ---
 
 

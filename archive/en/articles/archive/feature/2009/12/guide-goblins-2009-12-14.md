@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/guide-goblins-2009-12-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811122947id_/http://magic.wizards.com/en/articles/archive/feature/guide-goblins-2009-12-14"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-11 12:29:47+00:00"
-[_metadata_:publish_date]:- "2009-12-14"
 [_metadata_:description]:- "On Earth, few creatures are as insignificant yet annoying as the lowly mosquito. But over in the Multiverse of Magic, it is not the mosquitoes that you have to watch out for, it's the Goblins. Generations of blue mages and similar pond life have scorned the puny-looking Goblins, only to find themselves on the receiving end of a beatdown."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-12-14"
 ---
 
 

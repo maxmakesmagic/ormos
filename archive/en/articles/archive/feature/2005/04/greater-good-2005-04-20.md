@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/greater-good-2005-04-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170105220333id_/http://magic.wizards.com/en/articles/archive/feature/greater-good-2005-04-20"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-05 22:03:33+00:00"
-[_metadata_:publish_date]:- "2005-04-20"
 [_metadata_:description]:- "“Ask not what your country can do for you, ask what you can do for your country.”   Well, not every Magic player is going to have the charisma of a JFK, but that doesn't mean you can't get every one of your creatures a chance to really sacrifice themselves to the Greater Good. This week we're going to take a chance to look at one of those quality enchantments that I've come to love, even though I never managed to get it into a big tournament win."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-04-20"
 ---
 
 

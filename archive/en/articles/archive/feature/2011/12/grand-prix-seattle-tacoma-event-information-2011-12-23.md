@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-tacoma-event-information-2011-12-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503081558id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-tacoma-event-information-2011-12-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-05-03 08:15:58+00:00"
-[_metadata_:publish_date]:- "2011-12-23"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Facebook Event Official hashtag: #gpseatac Date: March 2-4, 2012Format: Innistrad/Dark Ascension Sealed Deck / Booster Draft Tournament Location Greater Tacoma Convention & Trade Center 1500 Broadway Tacoma, WA 98402 Registration: $40 Friday, March 2: 2 p.m. –"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-12-23"
 ---
 
 

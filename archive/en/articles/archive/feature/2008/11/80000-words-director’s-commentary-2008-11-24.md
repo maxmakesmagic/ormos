@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/80000-words-director%E2%80%99s-commentary-2008-11-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418203456id_/https://magic.wizards.com/en/articles/archive/feature/80000-words-director%E2%80%99s-commentary-2008-11-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-18 20:34:56+00:00"
-[_metadata_:publish_date]:- "2008-11-24"
 [_metadata_:description]:- "On August 7, 2006, Making Magic featured one of my most popular columns of all time. In it, I took the readers on an eighty-picture tour of Wizards of the Coast. The only words in the column were scribbled on two small white boards that I carried around with me. This, of course, means that one of my most popular columns of all time also had my smallest word count ever. On a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-11-24"
 ---
 
 

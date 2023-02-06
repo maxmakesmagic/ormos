@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finding-your-way-standard-2014-04-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816072508id_/https://magic.wizards.com/en/articles/archive/feature/finding-your-way-standard-2014-04-04"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 07:25:08+00:00"
-[_metadata_:publish_date]:- "2014-04-04"
 [_metadata_:description]:- "It's been a while since we've seen a brand-new archetype in Standard, but Ari Lax recently piloted this version of BG `Dredge` to a Top 16 finish at Grand Prix Cincinnati. Similar decks had been doing well on Magic Online and Ari decided to show the world that it was the real deal. The deck runs a lot of mana creatures and a low land count in order to mill as many creatures as"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-04"
 ---
 
 

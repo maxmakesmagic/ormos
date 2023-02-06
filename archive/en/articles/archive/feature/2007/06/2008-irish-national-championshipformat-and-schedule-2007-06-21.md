@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-irish-national-championshipformat-and-schedule-2007-06-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028140928id_/https://magic.wizards.com/en/articles/archive/feature/2008-irish-national-championshipformat-and-schedule-2007-06-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-28 14:09:28+00:00"
-[_metadata_:publish_date]:- "2007-06-21"
 [_metadata_:description]:- "Updated 2008-07-15QUICK LINKS   Qualifier Fact Sheet Qualifier Locations Invitation List   The Magic: the Gathering® 2008 Irish National Championship will be held on August 2-3 at The Plaza Hotel, Dublin. Last-chance qualifiers will take place August 1 at Models Inc, 65 Upper Dorset Street, DublinRegistration InformationIrish Nationals registration will occur from 5:30 PM –"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-06-21"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/setting-modern-fire-2013-12-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170730075553id_/http://magic.wizards.com/en/articles/archive/feature/setting-modern-fire-2013-12-04"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-30 07:55:53+00:00"
-[_metadata_:publish_date]:- "2013-12-04"
 [_metadata_:description]:- "Travis Woo is not one to shy away from crazy decks, and he would be first on my list if I had to guess who made a deck with Worldfire, Spellweaver Helix, and Reforge the Soul (much less four of all of them)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-12-04"
 ---
 
 

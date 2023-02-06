@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/casual-formats-2008-08-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112002316id_/https://magic.wizards.com/en/articles/archive/feature/casual-formats-2008-08-11"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:23:16+00:00"
-[_metadata_:publish_date]:- "2008-08-11"
 [_metadata_:description]:- "There are many more ways to play Magic games than the sanctioned formats detailed here. From single-pack showdowns to massive multiplayer battles, Magic is a game ready to be enjoyed in many ways by as many of your friends as possible."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-11"
 ---
 
 

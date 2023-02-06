@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-2020-10-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210619085338id_/https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-2020-10-26"
 [_metadata_:wayback_capture_timestamp]:- "2021-06-19 08:53:38+00:00"
-[_metadata_:publish_date]:- "2020-10-26"
 [_metadata_:description]:- "Gavin shows off all the truly legendary card treatments available in the upcoming Commander Legends, out November 6."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-10-26"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-results-2000-01-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030020545id_/https://magic.wizards.com/en/articles/archive/feature/round-4-results-2000-01-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2017-10-30 02:05:45+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Table Player Result   Opponent 1 Cereceda, Francisco Won 2-0 vs. Rocha, Maykon N 2 Vasconcelos Jr., Joao Robert Lost 1-2 vs. Fonseca, Guilherme 3 Paiva, Rhodner O Won 2-0 vs. Lapuch, Alexandre"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

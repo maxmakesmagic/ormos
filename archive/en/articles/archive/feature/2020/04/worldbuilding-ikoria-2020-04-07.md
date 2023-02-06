@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldbuilding-ikoria-2020-04-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531064600id_/https://magic.wizards.com/en/articles/archive/feature/worldbuilding-ikoria-2020-04-07"
 [_metadata_:wayback_capture_timestamp]:- "2020-05-31 06:46:00+00:00"
-[_metadata_:publish_date]:- "2020-04-07"
 [_metadata_:description]:- "Meris Mullaley asks Doug Beyer, Andrew Vallas, and Jehan Choo about the creation of Ikoria: Lair of Behemoth's unique world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2020-04-07"
 ---
 
 

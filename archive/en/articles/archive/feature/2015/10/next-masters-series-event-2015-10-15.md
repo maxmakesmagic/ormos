@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/next-masters-series-event-2015-10-15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140342id_/http://magic.wizards.com/en/articles/archive/feature/next-masters-series-event-2015-10-15"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:03:42+00:00"
-[_metadata_:publish_date]:- "2015-10-15"
 [_metadata_:description]:- "&#13; by Sideboard Staff&#13; &#13; The second Masters Series will be held at Pro Tour Chicago from November 30 to December 3.&#13; &#13; For information about Pro Tour Chicago 2000, click here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-10-15"
 ---
 
 

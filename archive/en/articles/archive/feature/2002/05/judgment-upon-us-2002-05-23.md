@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/judgment-upon-us-2002-05-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208011536id_/https://magic.wizards.com/en/articles/archive/feature/judgment-upon-us-2002-05-23"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 01:15:36+00:00"
-[_metadata_:publish_date]:- "2002-05-23"
 [_metadata_:description]:- "Judgment is upon us. Have you been found worthy?It was my intention after each new set’s release to have a “Building Blocks” article. But in all honesty, the Torment Building Blocks week didn’t produce a lot of email response. I didn’t receive negative mail from it per se, just a lot of dead air. I interpreted this unusual silence as a lack of interest, which translates to no"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-05-23"
 ---
 
 

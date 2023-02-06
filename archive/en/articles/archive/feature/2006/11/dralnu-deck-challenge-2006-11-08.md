@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dralnu-deck-challenge-2006-11-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117082954id_/https://magic.wizards.com/en/articles/archive/feature/dralnu-deck-challenge-2006-11-08"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-17 08:29:54+00:00"
-[_metadata_:publish_date]:- "2006-11-08"
 [_metadata_:description]:- "Welcome to the Season Finale of the Dralnu Deck Challenge! For those of you who are just tuning in, allow me to explain what's going on. Two weeks ago, I announced that the WizOs were going to be hosting a deckbuilding challenge and they wanted me be the final judge. I ran a poll featuring a number of fine Johnny cards, and you, the readers, selected Dralnu, Lich Lord. Many of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-11-08"
 ---
 
 

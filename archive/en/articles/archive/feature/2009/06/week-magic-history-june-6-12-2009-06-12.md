@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-june-6-12-2009-06-12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124131104id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-june-6-12-2009-06-12"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-24 13:11:04+00:00"
-[_metadata_:publish_date]:- "2009-06-12"
 [_metadata_:description]:- "June 7-8, 2003: A Star-Studded Grand Prix FinalsIn June 2003, 198 teams showed up to the RAI in Amsterdam to play the Onslaught Sealed Format at 2003 Grand Prix–Amsterdam. Shock leaders after day one, Boys of Summer, failed to capitalize on early promise and just missed out on the top 4. Phoenix Foundation also failed to make it, despite going unbeaten through the draft"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-06-12"
 ---
 
 

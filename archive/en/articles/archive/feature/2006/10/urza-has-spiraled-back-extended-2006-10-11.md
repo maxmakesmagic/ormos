@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/urza-has-spiraled-back-extended-2006-10-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807161629id_/https://magic.wizards.com/en/articles/archive/feature/urza-has-spiraled-back-extended-2006-10-11"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-07 16:16:29+00:00"
-[_metadata_:publish_date]:- "2006-10-11"
 [_metadata_:description]:- "Hello, and welcome to another installment of Online Tech. Last week was an exciting one, because the preliminary events for the Magic Online World Championships qualifier were run. I was unable to shout them out in my column last week because I did not get this information in time, but fortunately Brian David-Marshall announced them last Friday and alerted the players who"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-10-11"
 ---
 
 

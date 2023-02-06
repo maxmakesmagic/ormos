@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-miami-event-information-2013-06-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161005065435id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-miami-event-information-2013-06-17"
 [_metadata_:wayback_capture_timestamp]:- "2016-10-05 06:54:35+00:00"
-[_metadata_:publish_date]:- "2013-06-17"
 [_metadata_:description]:- "Information    Grand Prix Miami is brought to you by StarCityGames.com."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-17"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dream-jobs-open-now-2007-06-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160729034349id_/http://magic.wizards.com/en/articles/archive/feature/dream-jobs-open-now-2007-06-20"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-29 03:43:49+00:00"
-[_metadata_:publish_date]:- "2007-06-20"
 [_metadata_:description]:- "If you've ever dreamed of a job in the game industry working at Wizards of the Coast, this may be your best chance to make that dream a reality. Wizards of the Coast is currently seeking applications for a number of positions. As part of our ongoing digital initiative, we are particularly looking for qualified applicants for the following positions."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-06-20"
 ---
 
 

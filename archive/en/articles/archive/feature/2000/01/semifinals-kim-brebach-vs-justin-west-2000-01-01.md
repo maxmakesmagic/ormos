@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-kim-brebach-vs-justin-west-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518042029id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-kim-brebach-vs-justin-west-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 04:20:29+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Luke Hancock and Dane Coltman Justin West, playing an innovative Pirates deck, was matched up against Kim Brebach playing Trinity with a splash of white for Armageddon. Game 1 In a shock in Game 1, Kim mulliganed first on a 50/50 hand and found that his next hand had no land. Both the second and the third mulligan hands had the same problem. Kim therefore decided to concede"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

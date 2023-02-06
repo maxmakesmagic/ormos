@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sets-five-part-i-2002-07-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170127063012id_/http://magic.wizards.com/en/articles/archive/feature/sets-five-part-i-2002-07-10"
 [_metadata_:wayback_capture_timestamp]:- "2017-01-27 06:30:12+00:00"
-[_metadata_:publish_date]:- "2002-07-10"
 [_metadata_:description]:- "Here we are, smack in the middle of Cycle Week. Some weeks ago, I called up Aaron and asked him if I could do an abnormally long article about the cycles of Magic. Coincidently, he had been thinking about making a cycle theme week for MagicTheGathering.com. My call just expedited the process, and I'm thankful that we've gotten to this topic sooner than later. Why's that, you ask? I love cycles!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-07-10"
 ---
 
 

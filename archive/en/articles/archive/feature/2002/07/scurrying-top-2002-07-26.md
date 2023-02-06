@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scurrying-top-2002-07-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170630095950id_/http://magic.wizards.com/en/articles/archive/feature/scurrying-top-2002-07-26"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-30 09:59:50+00:00"
-[_metadata_:publish_date]:- "2002-07-26"
 [_metadata_:description]:- "Introduction: Squirrels and Sharing"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-07-26"
 ---
 
 

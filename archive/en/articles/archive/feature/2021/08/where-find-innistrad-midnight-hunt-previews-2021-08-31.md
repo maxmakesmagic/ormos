@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-midnight-hunt-previews-2021-08-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210831143615id_/https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-midnight-hunt-previews-2021-08-31"
 [_metadata_:wayback_capture_timestamp]:- "2021-08-31 14:36:15+00:00"
-[_metadata_:publish_date]:- "2021-08-31"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Innistrad: Midnight Hunt, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-08-31"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-throwback-2015-09-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150920005756id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-throwback-2015-09-17"
 [_metadata_:wayback_capture_timestamp]:- "2015-09-20 00:57:56+00:00"
-[_metadata_:publish_date]:- "2015-09-17"
 [_metadata_:description]:- "The crew hosts a throwback draft of the original Zendikar while reminiscing about their favorite decks from way back when."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-09-17"
 ---
 
 

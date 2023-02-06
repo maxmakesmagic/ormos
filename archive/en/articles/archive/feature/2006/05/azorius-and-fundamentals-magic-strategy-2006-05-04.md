@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/azorius-and-fundamentals-magic-strategy-2006-05-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205154517id_/https://magic.wizards.com/en/articles/archive/feature/azorius-and-fundamentals-magic-strategy-2006-05-04"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-05 15:45:17+00:00"
-[_metadata_:publish_date]:- "2006-05-04"
 [_metadata_:description]:- "U/W control is perhaps the oldest true strategy in Magic. What do I mean by this? There are certain cards or combinations of elements of the game that seem scripted by designers or are obviously complementary in their redundancy that any player or aspiring Johnny will notice for a potential deck theme. I often write about how Kird Ape was the first `combination` that sparked"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-05-04"
 ---
 
 

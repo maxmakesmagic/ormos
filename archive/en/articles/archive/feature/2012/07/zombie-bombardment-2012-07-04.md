@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zombie-bombardment-2012-07-04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170418200633id_/http://magic.wizards.com/en/articles/archive/feature/zombie-bombardment-2012-07-04"
 [_metadata_:wayback_capture_timestamp]:- "2017-04-18 20:06:33+00:00"
-[_metadata_:publish_date]:- "2012-07-04"
 [_metadata_:description]:- "All eyes were on Atlanta this past weekend as more than nine hundred players slogged through constant temperatures above 100 degrees to play in the last North American Legacy Grand Prix of the year. Land Tax had just been unbanned and everyone was looking to see if it would have an impact. Instead, while Gaudenis Vidugiris might have won the trophy, it was Sam Black's Top 8 Zombie Bombardment deck that might have produced the most memorable moments."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-07-04"
 ---
 
 

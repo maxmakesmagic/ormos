@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/back-future-sight-2007-04-09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210419220614id_/https://magic.wizards.com/en/articles/archive/feature/back-future-sight-2007-04-09"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-19 22:06:14+00:00"
-[_metadata_:publish_date]:- "2007-04-09"
 [_metadata_:description]:- "Time is not a kind or merciful force. It marches relentlessly on, uninterested in those whom it tortures and toys with. And it tends to be really, really cranky when someone tries to mess with it. You don't have to be Marty McFly to know that the space-time continuum is a tricky thing, and needs to be treated with special care. Otherwise you might end up with the mess of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2007-04-09"
 ---
 
 

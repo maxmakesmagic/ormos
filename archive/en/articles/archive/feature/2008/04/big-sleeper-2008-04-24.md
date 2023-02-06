@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/big-sleeper-2008-04-24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202055833id_/https://magic.wizards.com/en/articles/archive/feature/big-sleeper-2008-04-24"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-02 05:58:33+00:00"
-[_metadata_:publish_date]:- "2008-04-24"
 [_metadata_:description]:- "Long time no see. I trust everyone who could make it out enjoyed the Shadowmoor Prerelease. Unfortunately, due to some unforeseen circumstances (Is there any other kind?), I could not join the eager throng of pack-busters looking to get their hands on some new Elf cards. Besides, even if I could attend, I didn't want to taint my immaculate lifetime record at tournaments by"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-04-24"
 ---
 
 

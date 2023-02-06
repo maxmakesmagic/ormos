@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-origins-release-notes-2015-07-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150710025533id_/http://magic.wizards.com/en/articles/archive/feature/magic-origins-release-notes-2015-07-08"
 [_metadata_:wayback_capture_timestamp]:- "2015-07-10 02:55:33+00:00"
-[_metadata_:publish_date]:- "2015-07-08"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "DOC Download Links:"
+[_metadata_:publish_date]:- "2015-07-08"
 ---
 
 

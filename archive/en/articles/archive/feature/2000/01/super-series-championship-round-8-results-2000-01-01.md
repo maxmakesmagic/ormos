@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-8-results-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524033524id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-8-results-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-24 03:35:24+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Adam, Felix Culpepper, Andy Lost, 0-2 Ames, David Wilhelm, Aaron Lost, 0-2 Ash, Kevin Simmons, Charles Won, 2-0 Aune, Eirik Stearns, Nick Lost, 1-2 Barbeau, Alex Carlisle, Lance Won, 2-1 Benjamin, Matt Carroll, Brendan Won, 2-1 Blatnick, Bramdpm Russo, Spencer Lost, 0-2 Bonomo, Justin Huang, Toby Won, 2-0 Brehm, Christopher Furby, Charles Won, 2-0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

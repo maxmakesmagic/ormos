@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/arcades-sabboth-commander-2009-01-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527060531id_/https://magic.wizards.com/en/articles/archive/feature/arcades-sabboth-commander-2009-01-29"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-27 06:05:31+00:00"
-[_metadata_:publish_date]:- "2009-01-29"
 [_metadata_:description]:- "[decklist] Title: Chris Millar's Arcades Sabboth Format: Elder Dragon Highlander/Commander 1 Azorius Chancery 1 Breeding Pool 10 Forest 1 Hallowed Fountain 6 Island 1 Krosan Verge 1 Lonely Sandbar 5 Plains 1 Savannah 1 Selesnya Sanctuary 1 Simic Growth Chamber 1 Temple Garden 1 Temple of the False God 1 Terminal Moraine 1 Tranquil Thicket 1 Tropical Island 1 Tundra 1 Yavimaya"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-01-29"
 ---
 
 

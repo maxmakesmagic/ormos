@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/maverick-legacy-2013-06-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818032428id_/http://magic.wizards.com/en/articles/archive/feature/maverick-legacy-2013-06-25"
 [_metadata_:wayback_capture_timestamp]:- "2017-08-18 03:24:28+00:00"
-[_metadata_:publish_date]:- "2013-06-25"
 [_metadata_:description]:- "Maverick is a GW Legacy deck that can compete with blue decks in the format on library manipulation to always have the cards it wants, which is unusual for those colors. Every now and then, green or white gets a powerful tutor of some kind, and when you get to add the best of them from throughout history, it creates a powerful package."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-06-25"
 ---
 
 

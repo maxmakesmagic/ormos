@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/spark-trooper-control-2013-03-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519195207id_/https://magic.wizards.com/en/articles/archive/feature/spark-trooper-control-2013-03-20"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:52:07+00:00"
-[_metadata_:publish_date]:- "2013-03-20"
 [_metadata_:description]:- "I haven’t been following Return to Ravnica Block Constructed well enough to know who to credit for the Dega (WBR) Control deck that has emerged as one of the most popular decks in the format."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-03-20"
 ---
 
 

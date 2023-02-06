@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/purifying-fire-2009-05-19-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429212016id_/https://magic.wizards.com/en/articles/archive/feature/purifying-fire-2009-05-19-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 21:20:16+00:00"
-[_metadata_:publish_date]:- "2009-05-19"
 [_metadata_:description]:- "`Ghost warden?` Chandra said. `What's a ghost warden?``Normally, it's a spirit from the land of the dead summoned to protect the living,` said her host, Samir Mia Kauldi.Chandra's young companion Brannon cried, `I've heard about ghost wardens! They've got flowing white hair, and white armor, and no real legs, just wispy trails of white dust where their feet should be! They"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-05-19"
 ---
 
 

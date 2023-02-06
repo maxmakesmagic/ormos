@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-nature-makes-magic-can-modify-2008-07-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208183019id_/https://magic.wizards.com/en/articles/archive/feature/what-nature-makes-magic-can-modify-2008-07-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-08 18:30:19+00:00"
-[_metadata_:publish_date]:- "2008-07-10"
 [_metadata_:description]:- "I haven't personally attended a Launch Party (formerly Release tournaments) since Ravnica: City of Guilds (I finished second!), but I think that I am going to make a point of hitting the Eventide Launch Party in a few weeks. Why? The Launch Party promo card is an absolutely stupendous creature! I don't know anything about trading (and in fact we columnists don't even get a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-07-10"
 ---
 
 

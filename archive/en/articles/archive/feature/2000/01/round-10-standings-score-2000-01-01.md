@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-standings-score-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123203122id_/https://magic.wizards.com/en/articles/archive/feature/round-10-standings-score-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-11-23 20:31:22+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "RankTeamPointsOp.Win%1The Ken Ho All-Stars2672.08%2Your Move Games2660.10%3Dynasty2572.86%4The Ancient Kavus2569.58%5Huey Brock and Linde2467.50%6A Little Too Sick2465.60%7Family Games Center22"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/january-2010-update-bulletin-2010-01-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160326085317id_/http://magic.wizards.com/en/articles/archive/feature/january-2010-update-bulletin-2010-01-28"
 [_metadata_:wayback_capture_timestamp]:- "2016-03-26 08:53:17+00:00"
-[_metadata_:publish_date]:- "2010-01-28"
 [_metadata_:description]:- "Hi everyone! It's the end of the first month of the beginning of the first year of the beginning of a new decade, and what better way to commemorate the occasion than with the Worldwake Prerelease?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-01-28"
 ---
 
 

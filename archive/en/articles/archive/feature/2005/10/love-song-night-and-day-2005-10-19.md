@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/love-song-night-and-day-2005-10-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201511id_/https://magic.wizards.com/en/articles/archive/feature/love-song-night-and-day-2005-10-19"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:15:11+00:00"
-[_metadata_:publish_date]:- "2005-10-19"
 [_metadata_:description]:- "Wizards of the Coast is in the process of moving to a new building and will return with new articles beginning Monday, October 24th. In the meantime, we hope you'll enjoy this informal week of previously run content relating to Mirage, in preparation for that popular set's upcoming release on Magic Online. Have a great week, and we'll be back to see you on Monday. Scott Johns,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2005-10-19"
 ---
 
 

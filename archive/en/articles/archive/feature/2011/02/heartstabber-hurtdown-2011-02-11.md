@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/heartstabber-hurtdown-2011-02-11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170621081558id_/http://magic.wizards.com/en/articles/archive/feature/heartstabber-hurtdown-2011-02-11"
 [_metadata_:wayback_capture_timestamp]:- "2017-06-21 08:15:58+00:00"
-[_metadata_:publish_date]:- "2011-02-11"
 [_metadata_:description]:- "[decklist] Title: Adrian Rosada's Heartstabber Hurtdown Format: Zendikar Draft - 1st Place - 2009 Grand Prix Paris 9 Forest 9 Swamp 1 Blood Seeker 1 Crypt Ripper 1 Guul Draz Vampire 2 Heartstabber Mosquito 1 Joraga Bard 1 Mindless Null 1 Oracle of Mul Daya 1 Oran-Rief Recluse 1 Territorial Baloth 1 Timbermaw Larva 1 Vampire Hexmage 1 Vampire Nighthawk 1 Zendikar Farguide 1 Adventuring Gear 1 Baloth Cage Trap 1 Eldrazi Monument 1 Gigantiform"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-02-11"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/boddy-horizons-2010-06-17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220510053834id_/https://magic.wizards.com/en/articles/archive/feature/boddy-horizons-2010-06-17"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-10 05:38:34+00:00"
-[_metadata_:publish_date]:- "2010-06-17"
 [_metadata_:description]:- "[decklist] Title: Kyle Boddy's Boddy Horizons Format: Legacy - Starcitygames.com Legacy Open - Seattle 1 Forest 3 Horizon Canopy 4 Misty Rainforest 3 Tropical Island 3 Tundra 4 Wasteland 4 Windswept Heath 1 Karakas 1 Vendilion Clique 4 Knight of the Reliquary 4 Tarmogoyf 2 Terravore 1 Vendilion Clique 2 Engineered Explosives 4 Brainstorm 4 Daze 4 Force of Will 4 Stifle 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-06-17"
 ---
 
 

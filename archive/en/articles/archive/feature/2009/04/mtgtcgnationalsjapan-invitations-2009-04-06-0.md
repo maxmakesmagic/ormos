@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgtcgnationalsjapan-invitations-2009-04-06-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201195134id_/https://magic.wizards.com/en/articles/archive/feature/mtgtcgnationalsjapan-invitations-2009-04-06-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-01 19:51:34+00:00"
-[_metadata_:publish_date]:- "2009-04-06"
 [_metadata_:description]:- "Last Updated/最終更新: 2011-07-07 プレイヤー名 プレイヤー姓 在住都道府県 招待枠 日付 Katsuhiro Mori 大阪府 日本選手権 2010-07-04 Tsuyoshi Ikeda 福岡県 日本選手権 2010-07-04 Shou Tagomori 奈良県 日本選手権 2010-07-04 Ryouichi Tamada 大阪府 日本選手権 2010-07-04 Tsuyoshi Fujita 大阪府 Hall of Fame  Tadayoshi Komiya 神奈川県 特別招待 2011-06-27 Masayuki Higashino 大阪府 特別招待 2011-06-27 Tsuyoshi Doyama 大阪府 特別招待 2011-06-27 Kazuhiko Mitsuya 東京都 特別招待"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-04-06"
 ---
 
 

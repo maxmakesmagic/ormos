@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-challenge-4-2018-05-29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180529151054id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-challenge-4-2018-05-29"
 [_metadata_:wayback_capture_timestamp]:- "2018-05-29 15:10:54+00:00"
-[_metadata_:publish_date]:- "2018-05-29"
 [_metadata_:description]:- "Five contestants remain in the hunt for the Top 3, but the Great Designer Search 3 journey comes to an end for one today."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2018-05-29"
 ---
 
 

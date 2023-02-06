@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-4-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129141739id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-4-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-29 14:17:39+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Match Points Team Points Team  Wake of Destruction *** BYE *** 1 9 UNLUCKY'S 9 WACHI-DE? 2 9 BIN BI BIN 9 T.F.Z."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

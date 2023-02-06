@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/updating-list-strixhaven-school-mages-2021-03-25?src=stx-prod"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210419212709id_/https://magic.wizards.com/en/articles/archive/feature/updating-list-strixhaven-school-mages-2021-03-25?src=stx-prod"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-19 21:27:09+00:00"
-[_metadata_:publish_date]:- "2021-03-25"
 [_metadata_:description]:- "Check out our latest updates to The List, 300 interesting cards from Magic's past that can be found in Strixhaven: School of Mages Set Boosters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2021-03-25"
 ---
 
 

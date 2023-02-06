@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-finals-feature-match-jason-zila-vs-william-jensen-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627234547id_/https://magic.wizards.com/en/articles/archive/feature/masters-finals-feature-match-jason-zila-vs-william-jensen-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-27 23:45:47+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "by Keith Anderson There was a definite sense of predetermination leading up to this game. Jason Zila had already played against three Survival decks in the Masters, and had won all the games comfortably. No one expected anything but a win for Zila. William Jensen won the toss in Game 1, and elected to play. He got off to a good start, with a first turn Birds of Paradise,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

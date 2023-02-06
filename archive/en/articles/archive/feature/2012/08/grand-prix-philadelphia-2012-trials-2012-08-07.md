@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2012-trials-2012-08-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128204551id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2012-trials-2012-08-07"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-28 20:45:51+00:00"
-[_metadata_:publish_date]:- "2012-08-07"
 [_metadata_:description]:- "Grand Prix Philadelphia Trials will be run at North American WPN locations from September 21 to October 14, 2012. Each awards the winner a three-round bye to Grand Prix Philadelphia. WPN Locations in the Philadelphia, Pennsylvania Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-08-07"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-fiction-ebook-collection-2015-09-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150925191601id_/http://magic.wizards.com/en/articles/archive/feature/magic-fiction-ebook-collection-2015-09-23"
 [_metadata_:wayback_capture_timestamp]:- "2015-09-25 19:16:01+00:00"
-[_metadata_:publish_date]:- "2015-09-23"
 [_metadata_:description]:- "We're proud to release the newest in a long line of fabulous Magic fiction outlets: The Magic Fiction eBook Collection!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2015-09-23"
 ---
 
 

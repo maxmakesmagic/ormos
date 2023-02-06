@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/maniac-chimes-2013-03-14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518095140id_/https://magic.wizards.com/en/articles/archive/feature/maniac-chimes-2013-03-14"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-18 09:51:40+00:00"
-[_metadata_:publish_date]:- "2013-03-14"
 [_metadata_:description]:- "I'm going to try to post roughly one reader submission per week. This week's deck was sent to me by Francisco Jose Ronquillo Marroquin of Guatemala. This is a blue-black control deck that wins with Sphinx of the Chimes. Sphinx of the Chimes is an extremely powerful creature, in that if you have a large hand and your deck is properly constructed, it can potentially allow you to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-03-14"
 ---
 
 

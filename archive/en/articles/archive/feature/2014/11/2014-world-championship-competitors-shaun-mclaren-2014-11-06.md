@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-shaun-mclaren-2014-11-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200528024055id_/https://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-shaun-mclaren-2014-11-06"
 [_metadata_:wayback_capture_timestamp]:- "2020-05-28 02:40:55+00:00"
-[_metadata_:publish_date]:- "2014-11-06"
 [_metadata_:description]:- "For Pro Tour Born of the Gods champion Shaun McLaren, this past year of Magic has been one big, wild ride. `It’s hard to understand when you're wrapped up in the moment,` he began. `You're so focused on just winning or losing, but looking back makes me really appreciate I having such great finishes in such a short time period of time. I'm just trying to enjoy the wild ride of being a Pro now.`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-11-06"
 ---
 
 

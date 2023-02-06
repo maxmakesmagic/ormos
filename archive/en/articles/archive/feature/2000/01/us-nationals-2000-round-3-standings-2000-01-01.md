@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-3-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520164158id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-3-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-20 16:41:58+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Soo, Waiken 9 66.6667 83.3333 67.8571 3/3/0/0 2 Fung, Elliot 9 55.5556 100.0000 55.5556 3/3/0/0 3 Finkel, Jon 9 55.5556 100.0000 52.3810 3/3/0/0 4 Crosby, Joseph 9 55.5556 100.0000 52.3810 3/3/0/0 5 Wilkens, Paul 9 55.5556 85.7143 54.1667 3/3/0/0 6 Fortenberry, Joe 9 55.5556 85.7143 53.2407 3/3/0/0 7"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

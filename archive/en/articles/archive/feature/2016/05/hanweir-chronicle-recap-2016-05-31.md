@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/hanweir-chronicle-recap-2016-05-31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160602165244id_/http://magic.wizards.com/en/articles/archive/feature/hanweir-chronicle-recap-2016-05-31"
 [_metadata_:wayback_capture_timestamp]:- "2016-06-02 16:52:44+00:00"
-[_metadata_:publish_date]:- "2016-05-31"
 [_metadata_:description]:- "Alison presents a refresher of the articles from the Hanweir Chronicle so far."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2016-05-31"
 ---
 
 

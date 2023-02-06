@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-promotion-info-2011-06-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209150707id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-promotion-info-2011-06-06"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 15:07:07+00:00"
-[_metadata_:publish_date]:- "2011-06-06"
 [_metadata_:description]:- "This promotion ended on December 15, 2011.Looking for the alternate-art Liliana Vess or alternate-art Garruk Wildspeaker? We're sorry, but the original promotion has ended. See the terms and conditions for the PlayStation® 3 here, for the XBox here, and for Steam here.However, there will be a new opportunity to get a foil Magic: The Gathering card! Duels of the Planeswalkers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-06"
 ---
 
 

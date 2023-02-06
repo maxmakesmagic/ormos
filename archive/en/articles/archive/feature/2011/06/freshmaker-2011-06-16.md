@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/freshmaker-2011-06-16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210126202159id_/https://magic.wizards.com/en/articles/archive/feature/freshmaker-2011-06-16"
 [_metadata_:wayback_capture_timestamp]:- "2021-01-26 20:21:59+00:00"
-[_metadata_:publish_date]:- "2011-06-16"
 [_metadata_:description]:- "[decklist] Title: Christian Valenti's Freshmaker Format: Scars of Mirrodin Block Constructed – Pro Tour Nagoya 4 Copperline Gorge 10 Mountain 8 Forest 2 Inkmoth Nexus 2 Thrun, the Last Troll 4 Viridian Emissary 3 Kuldotha Phoenix 4 Ichor Wellspring 3 Red Sun's Zenith 1 Creeping Corrosion 4 Slagstorm 1 Karn Liberated 4 Koth of the Hammer 3 Artillerize 4 Beast Within 3 Mycosynth Wellspring *2 Brutalizer Exarch *2 Glissa's Scorn *1 Vulshok Refugee"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-06-16"
 ---
 
 

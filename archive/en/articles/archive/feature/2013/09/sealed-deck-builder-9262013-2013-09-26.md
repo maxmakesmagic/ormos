@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-9262013-2013-09-26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112041656id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-9262013-2013-09-26"
 [_metadata_:wayback_capture_timestamp]:- "2020-11-12 04:16:56+00:00"
-[_metadata_:publish_date]:- "2013-09-26"
 [_metadata_:description]:- "Daily Activity Welcome back to the Magic: The Gathering Sealed Deck Builder! This week, we feature a sealed pool with 6 Theros booster packs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-26"
 ---
 
 

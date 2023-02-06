@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-1-2012-01-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170713182939id_/http://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-1-2012-01-23"
 [_metadata_:wayback_capture_timestamp]:- "2017-07-13 18:29:39+00:00"
-[_metadata_:publish_date]:- "2012-01-23"
 [_metadata_:description]:- "Now that we have the preview weeks out of the way, it's time to get to the card-by-card article. You see, there are stories about how the whole set comes together and there are stories about how individual cards or small subsets of cards come together. My card-by-card columns let me talk about the second type of stories. I always enjoy doing these columns, so let's waste no time and get to it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-01-23"
 ---
 
 

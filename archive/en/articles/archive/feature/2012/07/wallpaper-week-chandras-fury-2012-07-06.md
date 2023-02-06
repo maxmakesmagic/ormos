@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-chandras-fury-2012-07-06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818104601id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-chandras-fury-2012-07-06"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 10:46:01+00:00"
-[_metadata_:publish_date]:- "2012-07-06"
 [_metadata_:description]:- "This week's wallpaper features Volkan Baga's Chandra's Fury from the Magic 2013 set. Enjoy.  2560x1600 1920x1080 1280x960 640x960 (iPhone) 2048x2048 (iPad) 851x315 (Facebook Cover) See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-07-06"
 ---
 
 

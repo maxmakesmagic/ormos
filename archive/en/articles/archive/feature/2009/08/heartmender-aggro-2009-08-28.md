@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/heartmender-aggro-2009-08-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027174234id_/https://magic.wizards.com/en/articles/archive/feature/heartmender-aggro-2009-08-28"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 17:42:34+00:00"
-[_metadata_:publish_date]:- "2009-08-28"
 [_metadata_:description]:- "[decklist] Title: Nathan Gelderloos's Green-White Aggro Format: 4 Forest 3 Jungle Shrine 4 Plains 2 Sunpetal Grove 3 Terramorphic Expanse 4 Windbrisk Heights 4 Wooded Bastion 2 Heartmender 4 Kitchen Finks 2 Knight of New Alara 4 Knotvine Paladin 4 Noble Hierarch 4 Qasali Pridemage 4 Wilt-Leaf Liege 2 Behemoth Sledge 3 Elspeth, Knight-Errant 4 Oblivion Ring 3 Path to Exile *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-08-28"
 ---
 
 

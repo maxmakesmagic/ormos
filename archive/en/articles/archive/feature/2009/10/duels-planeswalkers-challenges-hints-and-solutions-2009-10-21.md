@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-challenges-hints-and-solutions-2009-10-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429105802id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-challenges-hints-and-solutions-2009-10-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-04-29 10:58:02+00:00"
-[_metadata_:publish_date]:- "2009-10-21"
 [_metadata_:description]:- "Challenge #1 – Garruk vs. ElspethWings of Light ChallengeYou're playing Garruk, and you're getting beat down by his Craw Wurms. You've got the situation under control, though, because you can win the game this turn. It's your turn, and you've already drawn your card. How can you win the game?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-21"
 ---
 
 

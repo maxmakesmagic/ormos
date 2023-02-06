@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2014-core-set-credits-2013-05-20-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209022008id_/https://magic.wizards.com/en/articles/archive/feature/magic-2014-core-set-credits-2013-05-20-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 02:20:08+00:00"
-[_metadata_:publish_date]:- "2013-05-20"
 [_metadata_:description]:- "Original Magic Game Design: Richard Garfield Initial Concept and Game Design: Mark Globus (lead), Tom LaPille, Adam Lee, Shawn Main, and Ken Troop Final Game Design and Development: Dave Guskin (lead), Kelly Digges, Aaron Forsythe, James Hata, Zac Hill, and Mac McCall with contributions from Matt Tabak Magic R&D Leads : Aaron Forsythe (director), Mark Rosewater (design), and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-20"
 ---
 
 

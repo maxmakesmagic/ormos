@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-information-2006-04-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027013748id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-information-2006-04-13"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-27 01:37:48+00:00"
-[_metadata_:publish_date]:- "2006-04-13"
 [_metadata_:description]:- "What makes a player good at Magic? In Magic, the winner is not necessarily the one who knows the rules the best, nor the one who can think of playing options no one else would think of. Both can happen, but 90% of the time, playing well at Magic is more about limiting mistakes. When someone says “I’ve played perfectly well today”, you can be sure it’s wrong. Even Pros make at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-04-13"
 ---
 
 

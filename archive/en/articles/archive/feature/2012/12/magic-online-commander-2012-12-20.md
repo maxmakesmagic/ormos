@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-commander-2012-12-20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024232524id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-commander-2012-12-20"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 23:25:24+00:00"
-[_metadata_:publish_date]:- "2012-12-20"
 [_metadata_:description]:- "All this week we're featuring decks from Magic Online. Because Commander is a casual format, there are no tournament results to pull from. Instead, we asked around Wizards of the Coast HQ for decks our friends have online they particularly enjoy. Here is one from WotC_Ron we like playing against. See more at the `Commander` article. If you'd like to try your hand at Commander"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-12-20"
 ---
 
 

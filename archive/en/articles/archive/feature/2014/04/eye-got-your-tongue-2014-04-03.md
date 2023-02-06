@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eye-got-your-tongue-2014-04-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923142527id_/https://magic.wizards.com/en/articles/archive/feature/eye-got-your-tongue-2014-04-03"
 [_metadata_:wayback_capture_timestamp]:- "2020-09-23 14:25:27+00:00"
-[_metadata_:publish_date]:- "2014-04-03"
 [_metadata_:description]:- "Sometimes, finding an Arcana can be difficult, especially for the week leading up to previews. By this time, we've exhausted most of the obvious tidbits in cards and art. So, today, I went diving into Multiverse again looking for something to share with you all, and I think I've found something."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-04-03"
 ---
 
 

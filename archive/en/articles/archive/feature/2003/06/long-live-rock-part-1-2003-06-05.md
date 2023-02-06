@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/long-live-rock-part-1-2003-06-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819165331id_/https://magic.wizards.com/en/articles/archive/feature/long-live-rock-part-1-2003-06-05"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-19 16:53:31+00:00"
-[_metadata_:publish_date]:- "2003-06-05"
 [_metadata_:description]:- "What do you mean, `What are they?` They're musicians! Hey, I didn't paint it...Wow. I challenged you, and you came through like the crazy people I know you are. The response to my first deck challenge was extraordinary. I was sent 88 decks—and before you start thinking that's a low number, consider that not only did every card in every deck had to have a strong connection to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-06-05"
 ---
 
 

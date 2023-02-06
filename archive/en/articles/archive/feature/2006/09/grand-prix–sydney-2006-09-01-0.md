@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sydney-2006-09-01-0"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025112707id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sydney-2006-09-01-0"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-25 11:27:07+00:00"
-[_metadata_:publish_date]:- "2006-09-01"
 [_metadata_:description]:- "Store nameAddressStatePost CodeContactPhoneDate(s)Logical Choice - ACT38 Garema Place, CivicACT2600Glenn Doyle(02) 6248 77222006-08-27Logical Choice - ACT38 Garema Place, CivicACT2600Glenn Doyle(02) 6248 77222006-09-10Armagedon Games155a Keen Street, LismoreNSW2480Cameron Smith(02) 6621 54322006-09-02Sydney Games Centre Suite 2, Level 1 195a Burwood Road, BurwoodNSW2134Chris"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-09-01"
 ---
 
 

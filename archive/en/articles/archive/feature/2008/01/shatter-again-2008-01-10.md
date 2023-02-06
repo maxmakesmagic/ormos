@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shatter-again-2008-01-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209021801id_/https://magic.wizards.com/en/articles/archive/feature/shatter-again-2008-01-10"
 [_metadata_:wayback_capture_timestamp]:- "2021-12-09 02:18:01+00:00"
-[_metadata_:publish_date]:- "2008-01-10"
 [_metadata_:description]:- "Back in the summer of 1998, Magic R&D did something I just didn't understand. While in hindsight I can appreciate the decision from perspectives of pointing, power level, and even aesthetics, it was just something that, armed with my own set of experiences, I just don't think I would have done in the same spot. What was so puzzling? R&D released the red twin to Allay, this"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-01-10"
 ---
 
 

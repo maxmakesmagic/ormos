@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mastering-blue-black-control-2013-10-25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170215195032id_/http://magic.wizards.com/en/articles/archive/feature/mastering-blue-black-control-2013-10-25"
 [_metadata_:wayback_capture_timestamp]:- "2017-02-15 19:50:32+00:00"
-[_metadata_:publish_date]:- "2013-10-25"
 [_metadata_:description]:- "If you are looking for a master, you need look no further than Shouta Yasooka. Time and time again, he's built awesome decks, from his Cryptic Command plus Doran deck at Pro Tour Amsterdam to his UB Tezzeret deck from every tournament in 2011. This time, he's decided to master some waves, all while still playing the blue-black shell he seems to prefer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-10-25"
 ---
 
 

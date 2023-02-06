@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-5-%E2%80%9Conce-more-feeling%E2%80%9D-part-ii-2006-12-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171209051346id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-5-%E2%80%9Conce-more-feeling%E2%80%9D-part-ii-2006-12-01"
 [_metadata_:wayback_capture_timestamp]:- "2017-12-09 05:13:46+00:00"
-[_metadata_:publish_date]:- "2006-12-01"
 [_metadata_:description]:- "If you haven't read Part I, I strongly urge you to take a peek. It shows this week's challenge as well as the submissions of our seven remaining candidates. (Note that the submissions will be repeated here for reference purposes but if you read Part I you can skip over them and go right to the judges' comments, in which case this article will be much shorter for you than it looks on the page.)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-12-01"
 ---
 
 

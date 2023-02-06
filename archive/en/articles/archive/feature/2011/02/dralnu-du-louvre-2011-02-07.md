@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dralnu-du-louvre-2011-02-07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160804011418id_/http://magic.wizards.com/en/articles/archive/feature/dralnu-du-louvre-2011-02-07"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-04 01:14:18+00:00"
-[_metadata_:publish_date]:- "2011-02-07"
 [_metadata_:description]:- "[decklist] Title: Dralnu du Louvre Format: 2006 World Championships in Paris, Standard portion 4 Desert 3 Dimir Aqueduct 2 Dreadship Reef 4 Underground River 4 Watery Grave 1 Dralnu, Lich Lord 1 Skeletal Vampire 3 Teferi, Mage of Zhalfir 7 Snow-Covered Island 1 Commandeer 1 Last Gasp 4 Mystical Teachings 4 Remand 4 Repeal 4 Rewind 4 Rune Snag 1 Seize the Soul 3 Spell Snare 1 Sudden Death 4 Think Twice *4 Bottle Gnomes *1 Darkblast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-02-07"
 ---
 
 

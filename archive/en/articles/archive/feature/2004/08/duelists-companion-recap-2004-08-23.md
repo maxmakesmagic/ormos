@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duelists-companion-recap-2004-08-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160822074638id_/http://magic.wizards.com/en/articles/archive/feature/duelists-companion-recap-2004-08-23"
 [_metadata_:wayback_capture_timestamp]:- "2016-08-22 07:46:38+00:00"
-[_metadata_:publish_date]:- "2004-08-23"
 [_metadata_:description]:- "Magic: The Gathering First World ChampionshipLast month, 512 Magic players from around the world journeyed to Milwaukee, Wisconsin with one common goal: each of them hoped to become the first-ever Magic: The Gathering World Champion. The Championship was the largest Duelists' Convocation tournament ever help, with eight different heats of 64 players each over a two-day period. The competition thinned to the final 64, as eight winners from each heat assembled at 8:00 a.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2004-08-23"
 ---
 
 

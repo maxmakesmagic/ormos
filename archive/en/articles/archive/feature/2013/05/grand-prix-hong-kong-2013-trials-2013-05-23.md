@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-hong-kong-2013-trials-2013-05-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525235418id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-hong-kong-2013-trials-2013-05-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-25 23:54:18+00:00"
-[_metadata_:publish_date]:- "2013-05-23"
 [_metadata_:description]:- "Grand Prix Hong Kong Trials will be run at Asia Pacific and Japan WPN locations from July 27, 2013 to October 6, 2013. Each awards the winner a two-round bye to Grand Prix Hong Kong. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-23"
 ---
 
 

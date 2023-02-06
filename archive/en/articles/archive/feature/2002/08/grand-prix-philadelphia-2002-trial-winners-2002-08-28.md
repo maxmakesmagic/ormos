@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2002-trial-winners-2002-08-28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816181714id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2002-trial-winners-2002-08-28"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-16 18:17:14+00:00"
-[_metadata_:publish_date]:- "2002-08-28"
 [_metadata_:description]:- "Each Player below receives a 3-round bye at Grand Prix-PhiladelphiaStatusEventDateOrganizerCityFirstLast PROPhiladelphia Trials 02-03 #113608/3/2002Dorian AndersPhiladelphiaTomKelleher PROPhiladelphia Trials 02-03 #113918/8/2002Michael GuptilMilwaukeeKevinDulin PROPhiladelphia Trials 02-03 #113548/24/2002Dan GrayLos AngelesBrandonCurran PROPhiladelphia Trials 02-03"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2002-08-28"
 ---
 
 

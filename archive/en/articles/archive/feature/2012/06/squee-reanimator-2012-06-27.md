@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/squee-reanimator-2012-06-27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160715052522id_/http://magic.wizards.com/en/articles/archive/feature/squee-reanimator-2012-06-27"
 [_metadata_:wayback_capture_timestamp]:- "2016-07-15 05:25:22+00:00"
-[_metadata_:publish_date]:- "2012-06-27"
 [_metadata_:description]:- "At Grand Prix Yokohama last weekend, more than 1,500 players came out to battle in Modern for the Grand Prix title. On Friday, players swarmed the site in search of claiming some last-minute byes in the last-chance qualifier tournaments. One player to do so? Victor Mayor Redondo! His unique reanimator deck took down the qualifier, showing off yet another new and exciting archetype for the Modern format."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2012-06-27"
 ---
 
 

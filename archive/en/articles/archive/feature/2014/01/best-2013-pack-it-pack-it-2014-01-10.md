@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-pack-it-pack-it-2014-01-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818152156id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-pack-it-pack-it-2014-01-10"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 15:21:56+00:00"
-[_metadata_:publish_date]:- "2014-01-10"
 [_metadata_:description]:- "I'd be remiss if I mentioned Mono-Blue Devotion as one of the best decks of 2013 but didn't mention its biggest rival—Mono-Black Devotion. Normally the `best` deck is easy to identify, but Mono-Blue and Mono-Black are not making it easy. Grand Prix Louisville was the breakout tournament for Mono-Black Devotion (as it wasn't taken seriously, despite making Top 8 at Pro Tour"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-01-10"
 ---
 
 

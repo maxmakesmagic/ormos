@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mercadian-masques-theme-decks-2008-08-18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127213155id_/https://magic.wizards.com/en/articles/archive/feature/mercadian-masques-theme-decks-2008-08-18"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-27 21:31:55+00:00"
-[_metadata_:publish_date]:- "2008-08-18"
 [_metadata_:description]:- "Tidal Mastery Rebel's Call Disruptor Deepwood Menace (Back to Product Page) Tidal Mastery Master the ocean's surge and thunder with Tidal Mastery. Establish a line of creature defense, counter assaults, then pound away like the ceaseless sea."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2008-08-18"
 ---
 
 

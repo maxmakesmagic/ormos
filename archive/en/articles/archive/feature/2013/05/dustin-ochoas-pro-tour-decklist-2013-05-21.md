@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dustin-ochoas-pro-tour-decklist-2013-05-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024174041id_/https://magic.wizards.com/en/articles/archive/feature/dustin-ochoas-pro-tour-decklist-2013-05-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 17:40:41+00:00"
-[_metadata_:publish_date]:- "2013-05-21"
 [_metadata_:description]:- "Sam Black will have a cool new deck for us tomorrow. In the meantime, here is the decklist Dusty Ochoa took to the finals of Pro Tour Dragon's Maze. Check out the complete event coverage right here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-05-21"
 ---
 
 

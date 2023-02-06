@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-mythology-quiz-2013-09-13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707021142id_/https://magic.wizards.com/en/articles/archive/feature/theros-mythology-quiz-2013-09-13"
 [_metadata_:wayback_capture_timestamp]:- "2022-07-07 02:11:42+00:00"
-[_metadata_:publish_date]:- "2013-09-13"
 [_metadata_:description]:- "Hello and welcome to another Arcana quiz! This quiz focuses on Theros and its top-down mythology influences. To do well on this quiz you should be up to date on the cards we've revealed from Theros, so be sure to visit the card image gallery and have some knowledge of ancient Greek and Roman mythology before you dive into this quiz. Good luck! A few quick notes! First off,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2013-09-13"
 ---
 
 

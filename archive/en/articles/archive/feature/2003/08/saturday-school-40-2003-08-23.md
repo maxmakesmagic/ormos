@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-40-2003-08-23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118100454id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-40-2003-08-23"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-18 10:04:54+00:00"
-[_metadata_:publish_date]:- "2003-08-23"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at ask@wizards.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Beginner QuestionsQ: Say someone had 2 Zombies, 4 Wizards, 3 Birds, and 2 Mercenaries. If the rules of tribes are correct, then"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2003-08-23"
 ---
 
 

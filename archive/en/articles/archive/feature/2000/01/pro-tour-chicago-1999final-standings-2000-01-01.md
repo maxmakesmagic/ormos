@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999final-standings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815112434id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999final-standings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:24:34+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Rank Name 1 Maher Jr., Bob 2 Davis, Brian 3 Luhrs, Christian 4 Levy, Raphael 5 Comer, Alan 6 Baberowski, Dirk 7 Dobson, Tony 8 Fuentes, Hector"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

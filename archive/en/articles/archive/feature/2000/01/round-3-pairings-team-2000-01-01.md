@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-team-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625165716id_/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-team-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-25 16:57:16+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "TeamPointsOpponentPoints#I Magic3vsTeam Acme Smackdown3$42 Ticket6vsI Don't Care6100 Super Good Fun Time6vsShaolin Sword63 Stooges3vsThe Flagbearers35 Ways Worse than Portent6vswww.5color.com6AlphaBetaUnlimited.com/6vsSix Degrees of Kevin Bacon6AlphaBetaUnlimited.com/23vsDon't You Hate Pants3Antarctica6vsCavity Creeps6Azz Izz3vsSean Connery & the Cosmic Dw3Bags6vsTeam"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

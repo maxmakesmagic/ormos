@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brazil-national-champ-2011-09-21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024233108id_/https://magic.wizards.com/en/articles/archive/feature/brazil-national-champ-2011-09-21"
 [_metadata_:wayback_capture_timestamp]:- "2021-10-24 23:31:08+00:00"
-[_metadata_:publish_date]:- "2011-09-21"
 [_metadata_:description]:- "[decklist] Title: Marcus Camargo's Bant Pod Format: Brazil Nationals 2011 4 Forest 2 Island 4 Misty Rainforest 2 Plains 4 Razorverge Thicket 4 Seachrome Coast 2 Tectonic Edge 2 Acidic Slime 4 Birds of Paradise 1 Blade Splicer 1 Elesh Norn, Grand Cenobite 3 Llanowar Elves 1 Obstinate Baloth 2 Phantasmal Image 2 Phyrexian Metamorph 1 Razor Hippogriff 3 Sea Gate Oracle 1 Solemn"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2011-09-21"
 ---
 
 

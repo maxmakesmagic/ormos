@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jund-aggro-2009-10-19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818233523id_/https://magic.wizards.com/en/articles/archive/feature/jund-aggro-2009-10-19"
 [_metadata_:wayback_capture_timestamp]:- "2022-08-18 23:35:23+00:00"
-[_metadata_:publish_date]:- "2009-10-19"
 [_metadata_:description]:- "[decklist] Title: Jack Wang's Jund Aggro Format: Zendikar Standard 4 Forest 2 Mountain 4 Swamp 3 Dragonskull Summit 4 Rootbound Crag 4 Savage Lands 4 Verdant Catacombs 4 Bloodbraid Elf 3 Broodmate Dragon 4 Putrid Leech 4 Sprouting Thrinax 3 Bituminous Blast 4 Lightning Bolt 2 Resounding Thunder 2 Terminate 2 Garruk Wildspeaker 4 Blightning 3 Maelstrom Pulse *4 Goblin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2009-10-19"
 ---
 
 

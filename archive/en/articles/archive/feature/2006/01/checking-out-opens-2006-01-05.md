@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/checking-out-opens-2006-01-05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120212517id_/https://magic.wizards.com/en/articles/archive/feature/checking-out-opens-2006-01-05"
 [_metadata_:wayback_capture_timestamp]:- "2022-01-20 21:25:17+00:00"
-[_metadata_:publish_date]:- "2006-01-05"
 [_metadata_:description]:- "Hello everyone, I hope the holidays were good to you and yours, and that everyone has fully recovered from any New Year's celebratory activity! 2005 was a great year for Magic and the signs are there for 2006 to be even better. For Magic Online, the much anticipated Version 3.0 is on the way and you can rest assured we will share with you details about that right here in this"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2006-01-05"
 ---
 
 

@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pauper-madness-2010-02-10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161221193542id_/http://magic.wizards.com/en/articles/archive/feature/pauper-madness-2010-02-10"
 [_metadata_:wayback_capture_timestamp]:- "2016-12-21 19:35:42+00:00"
-[_metadata_:publish_date]:- "2010-02-10"
 [_metadata_:description]:- "[decklist] Title: Baldr7's Pauper Madness Format: Magic Online Pauper 7 Forest 2 Golgari Rot Farm 9 Swamp 4 Terramorphic Expanse 4 Basking Rootwalla 2 Brain Gorgers 3 Festercreep 3 Gathan Raiders 4 Golgari Brownscale 2 Gorgon Recluse 4 Grave Scrabbler 4 Putrid Leech 4 Vampire Hounds 4 Wild Mongrel 4 Tortured Existence *4 Augur of Skulls *4 Duress *1 Festercreep *3 Okiba-Gang Shinobi *3 Stinkweed Imp [/decklist]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-02-10"
 ---
 
 

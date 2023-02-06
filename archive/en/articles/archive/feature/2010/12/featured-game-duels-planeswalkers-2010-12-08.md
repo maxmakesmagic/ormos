@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/featured-game-duels-planeswalkers-2010-12-08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128212516id_/https://magic.wizards.com/en/articles/archive/feature/featured-game-duels-planeswalkers-2010-12-08"
 [_metadata_:wayback_capture_timestamp]:- "2021-11-28 21:25:16+00:00"
-[_metadata_:publish_date]:- "2010-12-08"
 [_metadata_:description]:- "Come and play Magic: The Gathering – Duels of the Planeswalkers with members of the creative team from Robot Chicken on December 10, 2010!Magic: The Gathering – Duels of the Planeswalkers from Wizards of the Coast is an epic game of fantasy and strategy, where you unleash a torrent of fantastic creatures and devastating spells to destroy online foes in your quest for"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-12-08"
 ---
 
 

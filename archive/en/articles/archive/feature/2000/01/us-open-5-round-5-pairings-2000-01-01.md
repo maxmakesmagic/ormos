@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-5-pairings-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523155856id_/https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-5-pairings-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-23 15:58:56+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "Player Opponent Result Anderson, Brett (38) Weigel, Eric J."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 

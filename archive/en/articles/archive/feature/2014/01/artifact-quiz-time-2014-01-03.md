@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/artifact-quiz-time-2014-01-03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630080502id_/https://magic.wizards.com/en/articles/archive/feature/artifact-quiz-time-2014-01-03"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-30 08:05:02+00:00"
-[_metadata_:publish_date]:- "2014-01-03"
 [_metadata_:description]:- "During the holiday rerun weeks, we are presenting some of the year's most popular Arcana articles. It was a challenge to narrow down to just ten, so we hope you enjoy this look back into 2013! —DailyMTG Staff Quiz time has come once again and this time we're looking at artifacts in the game of Magic. Everyone knows artifacts, everyone loves artifacts, and everyone plays"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-01-03"
 ---
 
 

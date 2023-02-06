@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-february-2010-2010-02-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629043723id_/https://magic.wizards.com/en/articles/archive/feature/card-day-february-2010-2010-02-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-06-29 04:37:23+00:00"
-[_metadata_:publish_date]:- "2010-02-01"
 [_metadata_:description]:- "Death's Shadow – Worldwake rare. Death's Shadow is a `shadow avatar,` a personal incarnation of a mage's soul, a creature made of magic that represents the mage's innermost power. But this creature has a twist -- the avatar `feeds` from the mage's life force, so it becomes stronger the weaker the mage gets. Sejiri Steppe – Worldwake common. It enters the battlefield tapped. It"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2010-02-01"
 ---
 
 

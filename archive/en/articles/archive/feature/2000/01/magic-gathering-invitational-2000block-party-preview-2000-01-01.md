@@ -5,9 +5,9 @@
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000block-party-preview-2000-01-01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522005600id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000block-party-preview-2000-01-01"
 [_metadata_:wayback_capture_timestamp]:- "2022-05-22 00:56:00+00:00"
-[_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:description]:- "The second format of the Invitational is Block Party. Each competitor gets to choose a stand-alone block and then play a deck that's legal in that block. From Ice Age block, the obvious deck is Necro. There aren't a lot of support cards, but Abyssal Specter, Icequake, Soul Burn, and Mind Warp aren't terrible. Plus, Knight of Stromgald, Contagion and Lake of the Dead are quite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2000-01-01"
 ---
 
 
