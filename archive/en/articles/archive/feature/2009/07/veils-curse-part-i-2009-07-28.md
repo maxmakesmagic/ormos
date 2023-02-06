@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160310011326/http://magic.wizards.com/en/articles/archive/feature/veils-curse-part-i-2009-07-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/veils-curse-part-i-2009-07-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160310011326id_/http://magic.wizards.com/en/articles/archive/feature/veils-curse-part-i-2009-07-28"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-10 01:13:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-28"
+[_metadata_:title]:- "The Veil's Curse, Part I"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-10 01:13:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160310011326id_/http://magic.wizards.com/en/articles/archive/feature/veils-curse-part-i-2009-07-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/veils-curse-part-i-2009-07-28"
 ---
 
 

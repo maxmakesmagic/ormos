@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170711065928/http://magic.wizards.com/en/articles/archive/feature/your-final-answer-2006-06-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/your-final-answer-2006-06-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170711065928id_/http://magic.wizards.com/en/articles/archive/feature/your-final-answer-2006-06-24"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-11 06:59:28+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-06-24"
+[_metadata_:title]:- "Is That Your Final Answer?"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-11 06:59:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170711065928id_/http://magic.wizards.com/en/articles/archive/feature/your-final-answer-2006-06-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/your-final-answer-2006-06-24"
 ---
 
 

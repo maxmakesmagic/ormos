@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201111170510/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-february-19-25-2011-2011-02-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-february-19-25-2011-2011-02-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111170510id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-february-19-25-2011-2011-02-25"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 17:05:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site. On the Mirran side, a new blog entry has appeared in the Mountains. Farris of the Anvil, a Vulshok leader, tells the tale of a clash with Phyrexian forces."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-02-25"
+[_metadata_:title]:- "On the Mirrodin Site: February 19-25, 2011"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 17:05:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111170510id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-february-19-25-2011-2011-02-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-february-19-25-2011-2011-02-25"
 ---
 
 

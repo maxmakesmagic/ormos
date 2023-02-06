@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220113123023/https://magic.wizards.com/en/articles/archive/feature/life-toshiro-umezawa-2022-01-12?utm_source=dlvr.it&utm_medium=twitter)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/life-toshiro-umezawa-2022-01-12?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220113123023id_/https://magic.wizards.com/en/articles/archive/feature/life-toshiro-umezawa-2022-01-12?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-13 12:30:23+00:00"
+[_metadata_:author]:- "Daniel Holt"
 [_metadata_:description]:- "Toshiro's adventures are famous across the Plane of Kamigawa. Learn how his influence has endured over a thousand years."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-01-12"
+[_metadata_:title]:- "Life of Toshiro Umezawa"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-13 12:30:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220113123023id_/https://magic.wizards.com/en/articles/archive/feature/life-toshiro-umezawa-2022-01-12?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/life-toshiro-umezawa-2022-01-12?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

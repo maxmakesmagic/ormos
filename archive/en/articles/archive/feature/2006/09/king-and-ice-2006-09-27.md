@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124050554/https://magic.wizards.com/en/articles/archive/feature/king-and-ice-2006-09-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/king-and-ice-2006-09-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124050554id_/https://magic.wizards.com/en/articles/archive/feature/king-and-ice-2006-09-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 05:05:54+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Greetings Johnnies, past, present, and future! Traveling through time is all the rage these days. It used to be that only skateboarding teenagers, naked robots out for blood, and English guys in phone booths made the journey up and down the space-time continuum, falling in love with their own mothers, trying to kill some other guy's mother, or doing battle with rolling garbage"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-09-27"
+[_metadata_:title]:- "The King and Ice"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 05:05:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124050554id_/https://magic.wizards.com/en/articles/archive/feature/king-and-ice-2006-09-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/king-and-ice-2006-09-27"
 ---
 
 

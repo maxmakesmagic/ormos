@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211206030621/https://magic.wizards.com/en/articles/archive/feature/bogavhati-quiz-2009-05-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bogavhati-quiz-2009-05-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206030621id_/https://magic.wizards.com/en/articles/archive/feature/bogavhati-quiz-2009-05-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 03:06:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "We've got something special for you today. Mark Rosewater was rummaging through his hard drive, and he turned up something incredible: the original design file for the Magic set codenamed `Bogavhati`, which ended up as Tempest. This file is full of cards that were eventually printed in Tempest and later sets. There's even one card that was printed in Weatherlight, the set"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-14"
+[_metadata_:title]:- "Bogavhati Quiz"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 03:06:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206030621id_/https://magic.wizards.com/en/articles/archive/feature/bogavhati-quiz-2009-05-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bogavhati-quiz-2009-05-14"
 ---
 
 

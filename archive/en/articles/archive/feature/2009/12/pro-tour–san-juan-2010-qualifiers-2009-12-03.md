@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220925185545/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-qualifiers-2009-12-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-qualifiers-2009-12-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220925185545id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-qualifiers-2009-12-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-25 18:55:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Play the Game, See the World Pro Tour–San Juan is May 28-30, 2010. Qualifiers start January 2 and run until April 11. Check the Event Locator to find an event near you that could earn you an invitation to Pro Tour–San Juan. Magic Online Pro Tour Qualifiers will once again be run as well, so if you can't make it to an event near you, there's still a chance for you to qualify!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-12-03"
+[_metadata_:title]:- "Pro Tour–San Juan 2010 Qualifiers"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-25 18:55:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220925185545id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-qualifiers-2009-12-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-qualifiers-2009-12-03"
 ---
 
 

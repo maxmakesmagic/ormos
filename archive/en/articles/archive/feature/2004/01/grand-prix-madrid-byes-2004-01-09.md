@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025071753/https://magic.wizards.com/en/articles/archive/feature/grand-prix-madrid-byes-2004-01-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-madrid-byes-2004-01-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025071753id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-madrid-byes-2004-01-09"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 07:17:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3200028 2190014 118007 Rating used: Limited, December 24, 2003 Pro Point Standings Used: 2003 Pro Tour New Orleans StandingTo find the number of byes you have for Grand Prix-Madrid, go to the appropriate list below (sorted by last name): A-G H-N O-Z For questions about this page, please email"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-01-09"
+[_metadata_:title]:- "Grand Prix Madrid Byes"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 07:17:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025071753id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-madrid-byes-2004-01-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-madrid-byes-2004-01-09"
 ---
 
 

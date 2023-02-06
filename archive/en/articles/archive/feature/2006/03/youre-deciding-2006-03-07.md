@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220818150737/https://magic.wizards.com/en/articles/archive/feature/youre-deciding-2006-03-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/youre-deciding-2006-03-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818150737id_/https://magic.wizards.com/en/articles/archive/feature/youre-deciding-2006-03-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 15:07:37+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "The first round of this Legends Bracket edition of You Decide! is over. Here's an overview of how the top seeds performed, and some commentary on the seemingly inevitable upsets. The seedings largely held true in the picturesque region of Tolaria, with only the fifteenth-seed Tolsimir Wolfblood scoring an upset over second-seeded Sol'kanar the Swamp King. It remains to be seen"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-03-07"
+[_metadata_:title]:- "You're Deciding!"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 15:07:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818150737id_/https://magic.wizards.com/en/articles/archive/feature/youre-deciding-2006-03-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/youre-deciding-2006-03-07"
 ---
 
 

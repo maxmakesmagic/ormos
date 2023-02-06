@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429084525/https://magic.wizards.com/en/articles/archive/feature/guild-symbols-gatecrash-2013-03-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guild-symbols-gatecrash-2013-03-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429084525id_/https://magic.wizards.com/en/articles/archive/feature/guild-symbols-gatecrash-2013-03-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:45:25+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "The city-plane of Ravnica is full of guilds. And it's also full of guild symbols. And from that it follows that Gatecrash, being set on Ravnica, has guild symbols in card art. Sometimes, the symbol is prominent, in the fashion of the Boros Truefire Paladin. Truefire Paladin | Art by Michael C. Hayes Sometimes, they're being formed out of pure magic, like the Simic symbol on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-05"
+[_metadata_:title]:- "Guild Symbols in Gatecrash"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:45:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429084525id_/https://magic.wizards.com/en/articles/archive/feature/guild-symbols-gatecrash-2013-03-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guild-symbols-gatecrash-2013-03-05"
 ---
 
 

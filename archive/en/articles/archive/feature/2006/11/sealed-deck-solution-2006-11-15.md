@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128125512/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-solution-2006-11-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-solution-2006-11-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128125512id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-solution-2006-11-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 12:55:12+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Last week I left you with a league Sealed Deck pool, and I promised I would show my build today, and my thought process behind making it. The first thing I did was to remove the unplayable cards such as Clockspinning. Then I sorted the cards by color and put the multicolor cards in between their respective colors, in order to get a good overview:I eliminated white quickly."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-15"
+[_metadata_:title]:- "Sealed Deck Solution"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 12:55:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128125512id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-solution-2006-11-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-solution-2006-11-15"
 ---
 
 

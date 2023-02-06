@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022233156/https://magic.wizards.com/en/articles/archive/feature/eventsmagicworldsinv-2004-05-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eventsmagicworldsinv-2004-05-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022233156id_/https://magic.wizards.com/en/articles/archive/feature/eventsmagicworldsinv-2004-05-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 23:31:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated November 29, 2007Invitations to Worlds 2007 are awarded in the following manner: The 2006 World Champion. The Top 8 finishers from the 2006 World Championship. The 2006 Pro Tour Player of the Year. For countries that hold an invitation-only National Championship, the 4 members of each national team. For countries that hold an open National Championship, the winner of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-05-25"
+[_metadata_:title]:- "events_magic_worldsinv"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 23:31:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022233156id_/https://magic.wizards.com/en/articles/archive/feature/eventsmagicworldsinv-2004-05-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eventsmagicworldsinv-2004-05-25"
 ---
 
 

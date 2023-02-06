@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220127234643/https://magic.wizards.com/en/articles/archive/feature/look-look-way-2008-03-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/look-look-way-2008-03-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127234643id_/https://magic.wizards.com/en/articles/archive/feature/look-look-way-2008-03-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 23:46:43+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Ho, ho, ho, midgets! Welcome to Giant Week! Now, I don't want to brag, or come across as a dude with a big head or something, but I often think of myself as a giant. That's because I'm a tall-ish person. In my youth, I had nicknames like Stretch and, uh, Millar, and my friends and family conspired to strap cinder blocks to my head to stop me from growing. They were thwarted at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-03-13"
+[_metadata_:title]:- "Look Up, Look Way Up"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 23:46:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127234643id_/https://magic.wizards.com/en/articles/archive/feature/look-look-way-2008-03-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/look-look-way-2008-03-13"
 ---
 
 

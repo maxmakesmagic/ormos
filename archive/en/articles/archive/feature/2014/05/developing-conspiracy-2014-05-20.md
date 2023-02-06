@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502135903/https://magic.wizards.com/en/articles/archive/feature/developing-conspiracy-2014-05-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/developing-conspiracy-2014-05-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502135903id_/https://magic.wizards.com/en/articles/archive/feature/developing-conspiracy-2014-05-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 13:59:03+00:00"
+[_metadata_:author]:- "Dave Humpherys"
 [_metadata_:description]:- "Before we dig into Conspiracy let's take a look at the development team that helped make it happen. Dave Humpherys (lead) That's me. I was the lead developer on Journey into Nyx, Gatecrash, and Avacyn Restored. I manage the Magic R&D development team. Dan Emmons Each development team really wants someone on the team whose primary responsibility in R&D is design. In this case,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-20"
+[_metadata_:title]:- "Developing Conspiracy"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 13:59:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502135903id_/https://magic.wizards.com/en/articles/archive/feature/developing-conspiracy-2014-05-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/developing-conspiracy-2014-05-20"
 ---
 
 

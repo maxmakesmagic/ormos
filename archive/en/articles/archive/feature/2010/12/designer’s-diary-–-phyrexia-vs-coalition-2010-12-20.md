@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20221003144357/https://magic.wizards.com/en/articles/archive/feature/designer%E2%80%99s-diary-%E2%80%93-phyrexia-vs-coalition-2010-12-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/designer%E2%80%99s-diary-%E2%80%93-phyrexia-vs-coalition-2010-12-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221003144357id_/https://magic.wizards.com/en/articles/archive/feature/designer%E2%80%99s-diary-%E2%80%93-phyrexia-vs-coalition-2010-12-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-10-03 14:43:57+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Wizards of the Coast offices are closed for the holidays, so we're rerunning some of our favorite articles of the year. Each column author picked two of his articles to rerun, and I, as the editor of Daily MTG, picked the features."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-20"
+[_metadata_:title]:- "Designer’s Diary – Phyrexia vs. the Coalition"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-03 14:43:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221003144357id_/https://magic.wizards.com/en/articles/archive/feature/designer%E2%80%99s-diary-%E2%80%93-phyrexia-vs-coalition-2010-12-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/designer%E2%80%99s-diary-%E2%80%93-phyrexia-vs-coalition-2010-12-20"
 ---
 
 

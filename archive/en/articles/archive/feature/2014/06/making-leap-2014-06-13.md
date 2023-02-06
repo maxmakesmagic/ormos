@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220814034436/https://magic.wizards.com/en/articles/archive/feature/making-leap-2014-06-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/making-leap-2014-06-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814034436id_/https://magic.wizards.com/en/articles/archive/feature/making-leap-2014-06-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 03:44:36+00:00"
+[_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "In a previous Daily Deck, I highlighted a successful Theros Block Constructed Deck from Pro Tour Journey into Nyx. Oftentimes, good Block Constructed decks eventually become good Standard decks, but it generally takes some time (and often a rotation). This deck, however, has almost immediately made an impact in Standard after its success in Block Constructed. Mono-Black Aggro"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-06-13"
+[_metadata_:title]:- "Making the Leap"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 03:44:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814034436id_/https://magic.wizards.com/en/articles/archive/feature/making-leap-2014-06-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/making-leap-2014-06-13"
 ---
 
 

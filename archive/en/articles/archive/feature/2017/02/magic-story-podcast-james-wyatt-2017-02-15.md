@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170217103943/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-james-wyatt-2017-02-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-james-wyatt-2017-02-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170217103943id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-james-wyatt-2017-02-15"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-17 10:39:43+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "This week, the Magic Story Podcast sits down with writer extraordinaire James Wyatt!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-02-15"
+[_metadata_:title]:- "The Magic Story Podcast: James Wyatt"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-17 10:39:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170217103943id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-james-wyatt-2017-02-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-james-wyatt-2017-02-15"
 ---
 
 

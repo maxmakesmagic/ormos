@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160804030400/http://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2005-06-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2005-06-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160804030400id_/http://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2005-06-28"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-04 03:04:00+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "As any of the handful of people that have done this job for various sites will tell you, one of the toughest jobs you ever have to do is replace a great writer. Mark Gottlieb was one of those rare perfect matches that comes around and just fits his slot exactly. As someone that works with him I'm glad to see him moving on to bigger things, but as an editor (and reader) I'm definitely sorry to see him go. I know that this was also difficult for him, and I'm sure that the outpouring of praise last week meant quite a bit to him."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-06-28"
+[_metadata_:title]:- "Reject Rare Draft"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-04 03:04:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160804030400id_/http://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2005-06-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2005-06-28"
 ---
 
 

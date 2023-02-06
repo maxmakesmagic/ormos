@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522210751/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-bolivia-2009-06-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-bolivia-2009-06-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522210751id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-bolivia-2009-06-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 21:07:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fecha: 20 de agosto de 2011Ubicación: TM Games Obrajes / Av. H. Ormachea 5236Ciudad: La PazPaís: Bolivia El Campeonato Nacional de Bolivia de Magic: The Gathering está abierto a todos los ciudadanos y residentes permanentes del Bolivia. Información de Contacto Email: info@tmgames.comTelefono: 2-2788360Website: www.tmgames.com Formato Estándar y Booster Draft Se usarán 3 sobres"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-24"
+[_metadata_:title]:- "2011 Campeonato Nacional Bolivia"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 21:07:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522210751id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-bolivia-2009-06-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-bolivia-2009-06-24"
 ---
 
 

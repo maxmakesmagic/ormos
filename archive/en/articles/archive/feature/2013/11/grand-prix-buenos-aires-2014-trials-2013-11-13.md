@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118163643/https://magic.wizards.com/en/articles/archive/feature/grand-prix-buenos-aires-2014-trials-2013-11-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-buenos-aires-2014-trials-2013-11-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118163643id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-buenos-aires-2014-trials-2013-11-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:36:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Buenos Aires Trials will be run at Latin America WPN locations from December 21, 2013 to March 2, 2014. Each awards the winner a two-round bye to Grand Prix Buenos Aires. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-13"
+[_metadata_:title]:- "Grand Prix Buenos Aires 2014 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:36:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118163643id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-buenos-aires-2014-trials-2013-11-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-buenos-aires-2014-trials-2013-11-13"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220125043834/https://magic.wizards.com/en/articles/archive/feature/magic-online-born-gods-championships-2014-02-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-born-gods-championships-2014-02-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125043834id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-born-gods-championships-2014-02-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 04:38:34+00:00"
+[_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "Fated Conflagration Promo Card Update 03/20/2014: Participation prizes have been added to Qualifier and Championship events: All participants in Born of the Gods Limited and Standard Qualifier events will receive a standard promo Fated Conflagration. All participants in Born of the Gods Limited and Standard Championship events will receive a premium promo Fated Conflagration."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-02-03"
+[_metadata_:title]:- "Magic Online Born of the Gods Championships"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 04:38:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125043834id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-born-gods-championships-2014-02-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-born-gods-championships-2014-02-03"
 ---
 
 

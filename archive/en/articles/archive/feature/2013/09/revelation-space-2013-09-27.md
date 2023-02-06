@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220807155847/https://magic.wizards.com/en/articles/archive/feature/revelation-space-2013-09-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/revelation-space-2013-09-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807155847id_/https://magic.wizards.com/en/articles/archive/feature/revelation-space-2013-09-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-07 15:58:47+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Given that my favorite deck of the old Standard format is straight blue-white with four Sphinx's Revelations, it's probably not a big surprise that I'm starting there for new Standard. Josh Silvestri wrote an interesting article about week zero of Standard, and I liked the look of the UW deck he posted there. The core of the deck is still Supreme Verdict, Azorius Charm, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-27"
+[_metadata_:title]:- "Revelation Space"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-07 15:58:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807155847id_/https://magic.wizards.com/en/articles/archive/feature/revelation-space-2013-09-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/revelation-space-2013-09-27"
 ---
 
 

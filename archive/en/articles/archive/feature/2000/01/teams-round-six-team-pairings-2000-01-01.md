@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030190944/https://magic.wizards.com/en/articles/archive/feature/teams-round-six-team-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-six-team-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030190944id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-six-team-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:09:44+00:00"
 [_metadata_:description]:- "Match Team Points   Team Points 1 United States 216 vs. Czech Republic 184 2 Canada 197 vs. Germany 190 3 Netherlands 184 vs. France 182"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Teams Round Six Team Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:09:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030190944id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-six-team-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-six-team-pairings-2000-01-01"
 ---
 
 

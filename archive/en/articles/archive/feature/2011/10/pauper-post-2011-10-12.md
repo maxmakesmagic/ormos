@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024072316/https://magic.wizards.com/en/articles/archive/feature/pauper-post-2011-10-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pauper-post-2011-10-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024072316id_/https://magic.wizards.com/en/articles/archive/feature/pauper-post-2011-10-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:23:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Big-mana Post decks have posted fine finishes in a variety of formats."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-10-12"
+[_metadata_:title]:- "Pauper Post"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:23:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024072316id_/https://magic.wizards.com/en/articles/archive/feature/pauper-post-2011-10-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pauper-post-2011-10-12"
 ---
 
 

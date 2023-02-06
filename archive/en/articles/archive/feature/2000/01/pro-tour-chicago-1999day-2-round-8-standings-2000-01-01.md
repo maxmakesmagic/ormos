@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211130051432/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-8-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-8-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130051432id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-8-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 05:14:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Dobson, Tony 24 61.8304 76.1905 56.1448 8/8/0/0 2 Hron, Mike 22 65.6250 78.9474 58.0656 8/7/1/0 3 Davis, Brian 21 63.3929 73.6842 56.3932 8/7/0/0 4 Luhrs, Christian 21 62.0536 75.0000 56.8127 8/7/0/0 5 Ho, Lan 21 55.8780 77.7778 51.9009 8/7/0/0 6 Herms Pont, Roc 21 55.5456 75.0000 54.4739 8/7/0/0 7"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Day 2 Round 8 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 05:14:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130051432id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-8-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-8-standings-2000-01-01"
 ---
 
 

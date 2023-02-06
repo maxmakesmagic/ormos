@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429055038/https://magic.wizards.com/en/articles/archive/feature/new-gatherer-2009-04-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-gatherer-2009-04-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429055038id_/https://magic.wizards.com/en/articles/archive/feature/new-gatherer-2009-04-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 05:50:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "You may notice, at some point today, that card links in articles and decklists are now taking you to a new version of Gatherer. This Gatherer, in continuous development since late last year, is the culmination of our efforts to improve the searchability of our Magic Card Database for all of our users. Although we will continue to work on improvements and integration of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-16"
+[_metadata_:title]:- "The New Gatherer"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 05:50:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429055038id_/https://magic.wizards.com/en/articles/archive/feature/new-gatherer-2009-04-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-gatherer-2009-04-16"
 ---
 
 

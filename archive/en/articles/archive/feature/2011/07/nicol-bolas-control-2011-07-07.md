@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018183717/https://magic.wizards.com/en/articles/archive/feature/nicol-bolas-control-2011-07-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nicol-bolas-control-2011-07-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018183717id_/https://magic.wizards.com/en/articles/archive/feature/nicol-bolas-control-2011-07-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:37:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Zac Hill's Nicol Bolas Control Format: Shards of Alara Block Constructed 3 Arcane Sanctum 4 Exotic Orchard 1 Forest 3 Island 2 Jungle Shrine 2 Mountain 4 Rupture Spire 3 Seaside Citadel 4 Swamp 4 Bloodbraid Elf 2 Caldera Hellion 2 Kathari Remnant 4 Wall of Denial 2 Ajani Vengeant 3 Bituminous Blast 3 Cruel Ultimatum 4 Esper Charm 4 Maelstrom Pulse 1 Nicol"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-07-07"
+[_metadata_:title]:- "Nicol Bolas Control"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:37:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018183717id_/https://magic.wizards.com/en/articles/archive/feature/nicol-bolas-control-2011-07-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nicol-bolas-control-2011-07-07"
 ---
 
 

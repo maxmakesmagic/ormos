@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160706145023/http://magic.wizards.com/en/articles/archive/feature/making-1-1-counter-culture-2008-05-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/making-1-1-counter-culture-2008-05-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160706145023id_/http://magic.wizards.com/en/articles/archive/feature/making-1-1-counter-culture-2008-05-15"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-06 14:50:23+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to -1/-1 Counter Week!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-05-15"
+[_metadata_:title]:- "The Making of a -1/-1 Counter Culture"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-06 14:50:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160706145023id_/http://magic.wizards.com/en/articles/archive/feature/making-1-1-counter-culture-2008-05-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/making-1-1-counter-culture-2008-05-15"
 ---
 
 

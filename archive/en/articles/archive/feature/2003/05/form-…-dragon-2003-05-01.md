@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170512031132/http://magic.wizards.com/en/articles/archive/feature/form-%E2%80%A6-dragon-2003-05-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/form-%E2%80%A6-dragon-2003-05-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170512031132id_/http://magic.wizards.com/en/articles/archive/feature/form-%E2%80%A6-dragon-2003-05-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:11:32+00:00"
+[_metadata_:author]:- "Josh Bennett"
 [_metadata_:description]:- "One of the things I find so fascinating about the Magic game is its mutability. It's right there in the Golden Rule of Magic: When the cards contradict the rules, the cards win. That ability to shift the boundaries of the game on the fly keeps things exciting. You can never be sure of what will happen in a given game. You'll show up to some matches ready for a gunfight, and it'll turn out that the order of the day is tea and tiddlywinks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-05-01"
+[_metadata_:title]:- "Form of… a Dragon!"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:11:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170512031132id_/http://magic.wizards.com/en/articles/archive/feature/form-%E2%80%A6-dragon-2003-05-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/form-%E2%80%A6-dragon-2003-05-01"
 ---
 
 

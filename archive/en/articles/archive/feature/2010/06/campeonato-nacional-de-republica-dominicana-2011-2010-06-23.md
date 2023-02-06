@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516223412/https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-de-republica-dominicana-2011-2010-06-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-de-republica-dominicana-2011-2010-06-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516223412id_/https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-de-republica-dominicana-2011-2010-06-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 22:34:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fecha: 13 de Agosto de 2011Ubicación: Pabellon de Ajedrez Estadio Olimpico, Avenida Maximo Gomez, Estadio Olimpico.Ciudad: Santo DomingoPaís: Republica Dominicana El Campeonato Nacional de Republica Dominicana de Magic: The Gathering está abierto a todos los ciudadanos y residentes permanentes del Republica Dominicana."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-23"
+[_metadata_:title]:- "Campeonato Nacional de Republica Dominicana 2011"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 22:34:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516223412id_/https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-de-republica-dominicana-2011-2010-06-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-de-republica-dominicana-2011-2010-06-23"
 ---
 
 

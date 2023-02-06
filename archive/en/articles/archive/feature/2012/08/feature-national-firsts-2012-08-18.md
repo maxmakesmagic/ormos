@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151025003123/http://magic.wizards.com/en/articles/archive/feature/feature-national-firsts-2012-08-18)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-national-firsts-2012-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151025003123id_/http://magic.wizards.com/en/articles/archive/feature/feature-national-firsts-2012-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-25 00:31:23+00:00"
+[_metadata_:author]:- "Nate Price"
 [_metadata_:description]:- "In this wonderful event of firsts, one stands head and shoulders above the rest. Three of the teams participating in the World Magic Cup this weekend are representing their countries for the first time in Magic history."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-18"
+[_metadata_:title]:- "Feature: National Firsts"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-25 00:31:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151025003123id_/http://magic.wizards.com/en/articles/archive/feature/feature-national-firsts-2012-08-18"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-national-firsts-2012-08-18"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211201194104/https://magic.wizards.com/en/articles/archive/feature/rev-your-engine-2002-11-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rev-your-engine-2002-11-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201194104id_/https://magic.wizards.com/en/articles/archive/feature/rev-your-engine-2002-11-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 19:41:04+00:00"
+[_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "I don't think anyone who reads `House of Cards` will argue the fact that I have a serious `Johnny` streak in me. I cannot tell a lie: I love weird decks, especially when I create them.But, I pretty much stink at making good (or even passable) mana engines. For some reason, when I think about a deck trying to produce a lot of mana, I think Skyshroud Claim, not Ashnod's Altar."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-11-07"
+[_metadata_:title]:- "Rev Your Engine"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 19:41:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201194104id_/https://magic.wizards.com/en/articles/archive/feature/rev-your-engine-2002-11-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rev-your-engine-2002-11-07"
 ---
 
 

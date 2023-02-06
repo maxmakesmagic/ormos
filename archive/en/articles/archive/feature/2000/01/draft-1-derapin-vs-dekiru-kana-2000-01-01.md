@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701191202/https://magic.wizards.com/en/articles/archive/feature/draft-1-derapin-vs-dekiru-kana-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-1-derapin-vs-dekiru-kana-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701191202id_/https://magic.wizards.com/en/articles/archive/feature/draft-1-derapin-vs-dekiru-kana-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 19:12:02+00:00"
+[_metadata_:author]:- "石田格"
 [_metadata_:description]:- "DERAPIN GP 北海道準優勝の現役坊主深田崇正に、大坂の貴公子能西圭一郎、そして元関西在住の 広島の強豪灘とかなりの実力者揃いのチーム。 国内プレミアイベントで好成績を残す三人だけに侮れないチームである。 Dekiru-Kana? 日本最強のコンビといって過言ではない藤田、東野が第四の助っ人として大坂の強豪中村博文を引きつれての史上ニ人目となる東野の三度目の GP 優勝を狙う。 勢いも実力も段違いなだけに、なかなか三人目見つからなかったものの今回こそは二人の真骨頂が見れることだろう。 先攻の Dekiru-Kana? の中央である中村の第一手目は《Blazing Specter/燃え立つ死霊》となかなかの好カード。それに加え、左に座る司令塔の藤田にも《Angel of Mercy/慈愛の天使》がまわり、非常に幸先の良いスタートである。"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Draft 1: DERAPIN VS Dekiru-Kana?"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 19:12:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701191202id_/https://magic.wizards.com/en/articles/archive/feature/draft-1-derapin-vs-dekiru-kana-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-1-derapin-vs-dekiru-kana-2000-01-01"
 ---
 
 

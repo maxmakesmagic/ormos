@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220127165842/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999finals-recap-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999finals-recap-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127165842id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999finals-recap-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 16:58:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In what will go down as one of the great Finals in Pro Tour history, hometown favorite Bob Mahar Jr. defeated first time Pro Tour attendee Brian Davis in a 3-2 victory which took both players to their very limits. Maher's start didn't look so good as Davis, playing a Necro deck designed by online playtesting partner Craig Wescoe came out strong with Unmask, followed by Dark"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Finals Recap"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 16:58:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127165842id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999finals-recap-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999finals-recap-2000-01-01"
 ---
 
 

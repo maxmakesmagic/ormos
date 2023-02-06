@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171031041432/https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03facts-2003-09-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03facts-2003-09-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031041432id_/https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03facts-2003-09-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 04:14:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic: The Gathering Pro Tour – Amsterdam Qualifier November 8-9, 2003日本語の案内ページTrial Schedule"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-09-09"
+[_metadata_:title]:- "grandprix_shizuoka03_facts"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 04:14:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031041432id_/https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03facts-2003-09-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03facts-2003-09-09"
 ---
 
 

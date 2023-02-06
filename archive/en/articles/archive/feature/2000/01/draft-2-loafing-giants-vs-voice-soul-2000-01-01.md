@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220702094252/https://magic.wizards.com/en/articles/archive/feature/draft-2-loafing-giants-vs-voice-soul-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-2-loafing-giants-vs-voice-soul-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702094252id_/https://magic.wizards.com/en/articles/archive/feature/draft-2-loafing-giants-vs-voice-soul-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:42:52+00:00"
+[_metadata_:author]:- "森慶太"
 [_metadata_:description]:- "Voice of Soul:小宮忠義 名うての「青使い」として知られる小宮忠義が対戦する事になったのは、対面の Robert Dougherty 。奇しくも、結果としては似通ったデッキ同士での対決となったものである。一番最初のパックを開封した小宮にとって、選択肢といえたカードは以下の 6 枚。 Armadillo Cloak , Fires of Yavimaya , Exclude ,Shackles , Jade Leech , Power Armor。 そして、予想通りに Exclude からスタートした小宮は、青白黒にデッキを仕上げたのだった。Wash Out や Probe 、Repulse、Exotic Curse、Bog Down といったスペルにサポートされた 3 体のタッパーを含むデッキとなったのであった。"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Draft 2: Loafing Giants VS Voice of Soul"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:42:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702094252id_/https://magic.wizards.com/en/articles/archive/feature/draft-2-loafing-giants-vs-voice-soul-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-2-loafing-giants-vs-voice-soul-2000-01-01"
 ---
 
 

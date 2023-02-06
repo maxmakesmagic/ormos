@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023073201/https://magic.wizards.com/en/articles/archive/feature/t-minus-one-week-2004-09-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/t-minus-one-week-2004-09-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023073201id_/https://magic.wizards.com/en/articles/archive/feature/t-minus-one-week-2004-09-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 07:32:01+00:00"
+[_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "This Friday marks the on sale date for Champions of Kamigawa. The next day is the kickoff for the Champions Sealed Deck season of Pro Tour Qualifiers (PTQs) for Pro Tour Nagoya. With only a Prerelease and maybe one Friday Night Magic tournament under our belts, we have to dive right in to high-level competition with new cards, new mechanics, and cards with actual color"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-09-28"
+[_metadata_:title]:- "T-Minus One Week"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 07:32:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023073201id_/https://magic.wizards.com/en/articles/archive/feature/t-minus-one-week-2004-09-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/t-minus-one-week-2004-09-28"
 ---
 
 

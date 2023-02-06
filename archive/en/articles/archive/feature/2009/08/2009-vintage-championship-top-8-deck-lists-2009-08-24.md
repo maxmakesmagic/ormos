@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160505235457/http://magic.wizards.com/en/articles/archive/feature/2009-vintage-championship-top-8-deck-lists-2009-08-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2009-vintage-championship-top-8-deck-lists-2009-08-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160505235457id_/http://magic.wizards.com/en/articles/archive/feature/2009-vintage-championship-top-8-deck-lists-2009-08-24"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-05 23:54:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Itou Hiromichi"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-24"
+[_metadata_:title]:- "2009 Vintage Championship Top 8 Deck Lists"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-05 23:54:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160505235457id_/http://magic.wizards.com/en/articles/archive/feature/2009-vintage-championship-top-8-deck-lists-2009-08-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2009-vintage-championship-top-8-deck-lists-2009-08-24"
 ---
 
 

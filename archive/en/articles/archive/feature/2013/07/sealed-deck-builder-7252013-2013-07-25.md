@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160331054419/http://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-7252013-2013-07-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-7252013-2013-07-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160331054419id_/http://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-7252013-2013-07-25"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-31 05:44:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Daily Activity  //-->"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-25"
+[_metadata_:title]:- "Sealed Deck Builder: 7/25/2013"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-31 05:44:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160331054419id_/http://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-7252013-2013-07-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-7252013-2013-07-25"
 ---
 
 

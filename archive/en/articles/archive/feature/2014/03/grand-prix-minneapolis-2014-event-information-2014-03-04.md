@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160923003317/http://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-2014-event-information-2014-03-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-2014-event-information-2014-03-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160923003317id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-2014-event-information-2014-03-04"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-23 00:33:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Minneapolis is brought to you by Legion Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-04"
+[_metadata_:title]:- "Grand Prix Minneapolis 2014 Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-23 00:33:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160923003317id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-2014-event-information-2014-03-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-2014-event-information-2014-03-04"
 ---
 
 

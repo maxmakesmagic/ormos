@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20140801222704/http://magic.wizards.com/en/articles/archive/feature/premier-play-returns-magic-online)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/premier-play-returns-magic-online"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20140801222704id_/http://magic.wizards.com/en/articles/archive/feature/premier-play-returns-magic-online"
-[_metadata_:wayback_capture_timestamp]:- "2014-08-01 22:27:04+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Pro Tour Qualifiers and the Magic Online Championship Series return in August!"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-07-30"
+[_metadata_:title]:- "Premier Play Returns to Magic Online!"
+[_metadata_:wayback_capture_timestamp]:- "2014-08-01 22:27:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20140801222704id_/http://magic.wizards.com/en/articles/archive/feature/premier-play-returns-magic-online"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/premier-play-returns-magic-online"
 ---
 
 

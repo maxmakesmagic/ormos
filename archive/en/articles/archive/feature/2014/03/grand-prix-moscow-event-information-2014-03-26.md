@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161007184723/http://magic.wizards.com/en/articles/archive/feature/grand-prix-moscow-event-information-2014-03-26)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-moscow-event-information-2014-03-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161007184723id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-moscow-event-information-2014-03-26"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-07 18:47:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Moscow is brought to you by Hasbro Russia LLC., represented by tournamentcenter.eu"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-26"
+[_metadata_:title]:- "Grand Prix Moscow Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-07 18:47:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161007184723id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-moscow-event-information-2014-03-26"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-moscow-event-information-2014-03-26"
 ---
 
 

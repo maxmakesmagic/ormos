@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020102704/https://magic.wizards.com/en/articles/archive/feature/my-first-dragons-maze-standard-deck-2013-05-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-first-dragons-maze-standard-deck-2013-05-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020102704id_/https://magic.wizards.com/en/articles/archive/feature/my-first-dragons-maze-standard-deck-2013-05-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 10:27:04+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "As we prepare for Dragon's Maze release today, it's time for me to share a Standard deck for the new format. There's one card in Dragon's Maze I absolutely had to build a deck with: Varolz, the Scar-Striped. Varolz is kind of like a bigger Cartel Aristocrat, and Dragon's Maze brings along a much bigger Doomed Traveler to go with it in the form of Voice of Resurgence. This deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-03"
+[_metadata_:title]:- "My First Dragon's Maze Standard Deck"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 10:27:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020102704id_/https://magic.wizards.com/en/articles/archive/feature/my-first-dragons-maze-standard-deck-2013-05-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-first-dragons-maze-standard-deck-2013-05-03"
 ---
 
 

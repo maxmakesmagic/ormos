@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211207212733/https://magic.wizards.com/en/articles/archive/feature/prepare-defend-your-turf-2007-10-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prepare-defend-your-turf-2007-10-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207212733id_/https://magic.wizards.com/en/articles/archive/feature/prepare-defend-your-turf-2007-10-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 21:27:33+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Let's dial it back ten years. 1997. The Cleveland Indians blow it in game seven of the World Series instead of game seven of the measly ALCS (more of a heartbreaker, less embarrassing). Buffy the Vampire Slayer is a brand spanking, unproven, mid-season replacement on the fledgling television network the WB, and Titanic—easily the worst movie in the history of cinema *—is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-10-25"
+[_metadata_:title]:- "Prepare to Defend Your Turf"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 21:27:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207212733id_/https://magic.wizards.com/en/articles/archive/feature/prepare-defend-your-turf-2007-10-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prepare-defend-your-turf-2007-10-25"
 ---
 
 

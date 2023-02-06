@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170303011851/http://magic.wizards.com/en/articles/archive/feature/magic-journey-2009-11-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-journey-2009-11-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170303011851id_/http://magic.wizards.com/en/articles/archive/feature/magic-journey-2009-11-23"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-03 01:18:51+00:00"
+[_metadata_:author]:- "Geordie Tait"
 [_metadata_:description]:- "The Newbie Era – NorrittI started playing Magic: The Gathering in 1997. I don't know if it was before 3DRealms started working on Duke Nukem Forever, or after. I was just glad to get out of the year without SkyNet nuking me from orbit."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-23"
+[_metadata_:title]:- "A Magic Journey"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-03 01:18:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170303011851id_/http://magic.wizards.com/en/articles/archive/feature/magic-journey-2009-11-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-journey-2009-11-23"
 ---
 
 

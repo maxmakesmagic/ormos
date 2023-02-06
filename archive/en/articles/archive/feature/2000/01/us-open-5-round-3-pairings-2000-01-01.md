@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524015729/https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-3-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-3-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524015729id_/https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-3-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 01:57:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Anderson, Brett (38) 3 48 Parsons, Michael (22) 3 Andrews, Steve (80) 3 68 Pullman, Melanie (35) 3 Au, Winston (117) 3 58 Lagges, John (136) 3 Austin, Ty (134) 3 66 Lloyd, Colin (67) 3 Bondy, Brett (12) 3 41 Hules, Greg (135) 3 Bonham, Nick (81) 3 40 Moore, Robert (152) 3 Buck, Paul J."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Open 5 Round 3 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 01:57:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524015729id_/https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-3-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-3-pairings-2000-01-01"
 ---
 
 

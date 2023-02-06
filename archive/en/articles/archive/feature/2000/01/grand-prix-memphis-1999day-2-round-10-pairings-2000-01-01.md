@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521191439/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-10-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-10-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521191439id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-10-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 19:14:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Opponent Points Brackett, Derek - 1700 (21) 19 Carpenter, Ryan (36) 19 Bradley, James G."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Memphis 1999Day 2 Round 10 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 19:14:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521191439id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-10-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-10-pairings-2000-01-01"
 ---
 
 

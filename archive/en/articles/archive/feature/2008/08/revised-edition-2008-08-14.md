@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160118133912/http://magic.wizards.com/en/articles/archive/feature/revised-edition-2008-08-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/revised-edition-2008-08-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160118133912id_/http://magic.wizards.com/en/articles/archive/feature/revised-edition-2008-08-14"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-18 13:39:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Cardlists  Revised Edition Spoiler List  Revised Edition Checklist"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-14"
+[_metadata_:title]:- "Revised Edition"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-18 13:39:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160118133912id_/http://magic.wizards.com/en/articles/archive/feature/revised-edition-2008-08-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/revised-edition-2008-08-14"
 ---
 
 

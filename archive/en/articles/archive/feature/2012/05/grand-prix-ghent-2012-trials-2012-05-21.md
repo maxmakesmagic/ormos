@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521100747/https://magic.wizards.com/en/articles/archive/feature/grand-prix-ghent-2012-trials-2012-05-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-ghent-2012-trials-2012-05-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521100747id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-ghent-2012-trials-2012-05-21"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 10:07:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Ghent Trials will be run at WPN in the weeks leading up to the Grand Prix. Each awards the winner a three-round bye to Grand Prix Ghent.WPN Locations in the Ghent Area Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-21"
+[_metadata_:title]:- "Grand Prix Ghent 2012 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 10:07:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521100747id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-ghent-2012-trials-2012-05-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-ghent-2012-trials-2012-05-21"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160224164659/http://magic.wizards.com/en/articles/archive/feature/top-50-artifacts-all-time-2005-02-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/top-50-artifacts-all-time-2005-02-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160224164659id_/http://magic.wizards.com/en/articles/archive/feature/top-50-artifacts-all-time-2005-02-28"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-24 16:46:59+00:00"
+[_metadata_:author]:- "Zvi Mowshowitz"
 [_metadata_:description]:- "It is only fitting that many of Magic's most powerful artifacts were forged early on in the game's history. After all, are not all the best artifacts always ancient and powerful, valuable beyond measure with origins lost in the sands of time? Can you help but wonder what daring powerful demigod dared to craft such power? Are they not so rare and valuable that one can spend their lifetime chasing after them?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-02-28"
+[_metadata_:title]:- "The Top 50 Artifacts of All Time"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-24 16:46:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160224164659id_/http://magic.wizards.com/en/articles/archive/feature/top-50-artifacts-all-time-2005-02-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/top-50-artifacts-all-time-2005-02-28"
 ---
 
 

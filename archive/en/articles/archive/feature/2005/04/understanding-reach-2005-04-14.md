@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112020117/https://magic.wizards.com/en/articles/archive/feature/understanding-reach-2005-04-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/understanding-reach-2005-04-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020117id_/https://magic.wizards.com/en/articles/archive/feature/understanding-reach-2005-04-14"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:01:17+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Correctly playing your own deck is a difficult enough task. Tim McKenna used to say that it was almost okay that Affinity was the best deck because it was so difficult to play perfectly. Every little decision of which land to play down, whether or not to add a counter to AEther Vial, and how many creatures to send into the Red Zone could make a world of difference in terms of card counts and damage resolved."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-04-14"
+[_metadata_:title]:- "Understanding Reach"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:01:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020117id_/https://magic.wizards.com/en/articles/archive/feature/understanding-reach-2005-04-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/understanding-reach-2005-04-14"
 ---
 
 

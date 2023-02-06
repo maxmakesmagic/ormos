@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020225730/https://magic.wizards.com/en/articles/archive/feature/relive-past-original-mirrodin-block-drafts-2011-03-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/relive-past-original-mirrodin-block-drafts-2011-03-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020225730id_/https://magic.wizards.com/en/articles/archive/feature/relive-past-original-mirrodin-block-drafts-2011-03-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 22:57:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Go back in time and experience the history of the plane of Mirrodin! Starting Friday, March 18, you can join original Mirrodin Block drafts in the 8-Player Draft room. In addition to reliving this classic set that set the stage for the current Scars of Mirrodin Block, you will be able to earn War Marks to help you support your faction! Just maybe you can learn a new tactic or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-03-18"
+[_metadata_:title]:- "Relive the Past with Original Mirrodin Block Drafts!"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 22:57:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020225730id_/https://magic.wizards.com/en/articles/archive/feature/relive-past-original-mirrodin-block-drafts-2011-03-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/relive-past-original-mirrodin-block-drafts-2011-03-18"
 ---
 
 

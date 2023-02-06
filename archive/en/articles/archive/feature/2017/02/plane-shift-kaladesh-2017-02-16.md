@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170217184526/http://magic.wizards.com/en/articles/archive/feature/plane-shift-kaladesh-2017-02-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/plane-shift-kaladesh-2017-02-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170217184526id_/http://magic.wizards.com/en/articles/archive/feature/plane-shift-kaladesh-2017-02-16"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-17 18:45:26+00:00"
+[_metadata_:author]:- "James Wyatt"
 [_metadata_:description]:- "If the spirit of creativity pervading the world of Kaladesh kindled your drive for adventure, we have what you're looking for."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-02-16"
+[_metadata_:title]:- "Plane Shift: Kaladesh"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-17 18:45:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170217184526id_/http://magic.wizards.com/en/articles/archive/feature/plane-shift-kaladesh-2017-02-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/plane-shift-kaladesh-2017-02-16"
 ---
 
 

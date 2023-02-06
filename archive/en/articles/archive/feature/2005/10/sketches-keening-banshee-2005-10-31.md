@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429042008/https://magic.wizards.com/en/articles/archive/feature/sketches-keening-banshee-2005-10-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketches-keening-banshee-2005-10-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429042008id_/https://magic.wizards.com/en/articles/archive/feature/sketches-keening-banshee-2005-10-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:20:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to a Halloween Special edition of Sketches! Today we take a look behind the scenes of one of Ravnica's creepiest moonlit denizens, the Keening Banshee. This wailing, soul-draining spirit haunts opponents as well as Ravnica's rooftops. But first, some background on the artist, Robert Bliss. Artist Portfolio Artist Robert Bliss is a particularly good choice for a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-10-31"
+[_metadata_:title]:- "Sketches: Keening Banshee"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:20:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429042008id_/https://magic.wizards.com/en/articles/archive/feature/sketches-keening-banshee-2005-10-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketches-keening-banshee-2005-10-31"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170601052414/http://magic.wizards.com/en/articles/archive/feature/anything-basic-2006-09-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/anything-basic-2006-09-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170601052414id_/http://magic.wizards.com/en/articles/archive/feature/anything-basic-2006-09-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-01 05:24:14+00:00"
+[_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "It was a long time ago at the Pittsburgh Comic Con that I got my first look at Fourth Edition. My friend John and I attended to meet some of the great comic book artists of the time, find some of the back issues we had missed, and play a little Magic. There were hundreds of dealers at the con. Most of them were hocking comic books, some specializing in Silver or Golden Age books, most in the more modern variety. There were also some young independent writers and artists present trying to break into the industry."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-09-14"
+[_metadata_:title]:- "Anything But Basic"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-01 05:24:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170601052414id_/http://magic.wizards.com/en/articles/archive/feature/anything-basic-2006-09-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/anything-basic-2006-09-14"
 ---
 
 

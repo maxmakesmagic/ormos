@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170508050536/http://magic.wizards.com/en/articles/archive/feature/mtgcomprotourkyoto09-artists-2009-01-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mtgcomprotourkyoto09-artists-2009-01-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170508050536id_/http://magic.wizards.com/en/articles/archive/feature/mtgcomprotourkyoto09-artists-2009-01-07"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-08 05:05:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Todd LockwoodWhen Todd Lockwood attended his first Sci Fi and Fantasy convention, a door was opened that led to a staff position at TSR. With an impressive body of fantasy images, Todd helped to redefine the look of the popular Dungeons and Dragons game for the Third Edition release."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-07"
+[_metadata_:title]:- "mtgcom_protour_kyoto09-artists"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-08 05:05:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170508050536id_/http://magic.wizards.com/en/articles/archive/feature/mtgcomprotourkyoto09-artists-2009-01-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mtgcomprotourkyoto09-artists-2009-01-07"
 ---
 
 

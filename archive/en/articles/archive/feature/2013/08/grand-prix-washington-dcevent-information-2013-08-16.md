@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160927011426/http://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dcevent-information-2013-08-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dcevent-information-2013-08-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927011426id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dcevent-information-2013-08-16"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 01:14:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Washington D.C. is brought to you by TJ Collectibles."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-08-16"
+[_metadata_:title]:- "Grand Prix Washington D.C.Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 01:14:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927011426id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dcevent-information-2013-08-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dcevent-information-2013-08-16"
 ---
 
 

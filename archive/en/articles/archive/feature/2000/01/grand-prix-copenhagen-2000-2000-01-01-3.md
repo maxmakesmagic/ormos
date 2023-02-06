@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516065023/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-3)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-3"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516065023id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-3"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:50:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 8 Standings  Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Sanders Jensen, Niels 24 75,1190 100,0000 69,2561 5/5/0/3 2 Canu, Franck 22 78,2143 88,8889 72,0093 5/4/1/3 3 Van de Logt, Tom 22 74,6362 79,6296 65,9329 6/5/1/2 4 Angelin, Marcus 22 63,9881 88,2353 63,0739 6/5/1/2 5 Jorstedt, Mattias 22 63,0291 88,2353 64,3485 6/5/1/2 6 Eskeland,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:50:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516065023id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-3"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-3"
 ---
 
 

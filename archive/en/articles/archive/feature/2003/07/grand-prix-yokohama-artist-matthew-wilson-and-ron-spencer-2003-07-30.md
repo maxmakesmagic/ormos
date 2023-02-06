@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816080950/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-artist-matthew-wilson-and-ron-spencer-2003-07-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-artist-matthew-wilson-and-ron-spencer-2003-07-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816080950id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-artist-matthew-wilson-and-ron-spencer-2003-07-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 08:09:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Matthew Wilson | Ron Spencer Matthew Wilson Matthew's CardsCard NameCard Set Coastal PiracyEighth Edition Fallen AngelEighth Edition Phyrexian HulkEighth Edition ReviveEighth Edition Seasoned MarshalEighth Edition Spineless ThugEighth Edition TelepathyEighth Edition Yavimaya EnchantressEighth Edition Knight ErrantSeventh Edition Serra AdvocateSeventh Edition Day of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-07-30"
+[_metadata_:title]:- "Grand Prix Yokohama Artist: Matthew Wilson and Ron Spencer"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 08:09:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816080950id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-artist-matthew-wilson-and-ron-spencer-2003-07-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-artist-matthew-wilson-and-ron-spencer-2003-07-30"
 ---
 
 

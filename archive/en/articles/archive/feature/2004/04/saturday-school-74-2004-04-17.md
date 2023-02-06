@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220125175654/https://magic.wizards.com/en/articles/archive/feature/saturday-school-74-2004-04-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-74-2004-04-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125175654id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-74-2004-04-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 17:56:54+00:00"
+[_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at saturdayschool@horvik.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.ClarificationLast week, I answered a question which involved having Culling Scales in play, along with Tel-Jilad Chosen (a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-04-17"
+[_metadata_:title]:- "Saturday School #74"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 17:56:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125175654id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-74-2004-04-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-74-2004-04-17"
 ---
 
 

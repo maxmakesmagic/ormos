@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211206115509/https://magic.wizards.com/en/articles/archive/feature/mail-chain-2003-12-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mail-chain-2003-12-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206115509id_/https://magic.wizards.com/en/articles/archive/feature/mail-chain-2003-12-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 11:55:09+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "What’s the latest fad sweeping the nation? Full-contact Christmas shopping? No. Taking a broom and actually sweeping the nation? No. Being nice to people? NO!!! It’s writing me mail! All the suave and debonair kids are doing it. And today I’m going to share some Do’s and Don’ts on how to participate in the second-most exciting thing you can do on your computer. (The first-most"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-12-11"
+[_metadata_:title]:- "Mail Chain"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 11:55:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206115509id_/https://magic.wizards.com/en/articles/archive/feature/mail-chain-2003-12-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mail-chain-2003-12-11"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120193625/https://magic.wizards.com/en/articles/archive/feature/post-guildpact-pdc-2006-03-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/post-guildpact-pdc-2006-03-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120193625id_/https://magic.wizards.com/en/articles/archive/feature/post-guildpact-pdc-2006-03-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 19:36:25+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "Two-Headed Giant Champs As a follow-up to my Swimming with Sharks foray, I thought I'd touch on playing in Two-Headed Giant Champs this past weekend. I hope that lots of you were able to give the format a try; it really is a lot of fun! It's also quite skill-testing - while we were playing, I could quickly tell whether my opponents had actually tested 2HG rather than just"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-03-23"
+[_metadata_:title]:- "Post-Guildpact PDC"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 19:36:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120193625id_/https://magic.wizards.com/en/articles/archive/feature/post-guildpact-pdc-2006-03-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/post-guildpact-pdc-2006-03-23"
 ---
 
 

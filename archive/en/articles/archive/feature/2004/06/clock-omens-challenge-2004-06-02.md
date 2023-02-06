@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170906153611/http://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906153611id_/http://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-06 15:36:11+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Challenges are always interesting affairs. When it comes down to certain cards, there are really very narrow things that a card is capable of. For example, during the Sundering Titan Challenge, one of the big limitations of the challenge was that the Titan itself is basically just a Big Guy that comes with a Cool Effect ."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-06-02"
+[_metadata_:title]:- "The Clock of Omens Challenge"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-06 15:36:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906153611id_/http://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02"
 ---
 
 

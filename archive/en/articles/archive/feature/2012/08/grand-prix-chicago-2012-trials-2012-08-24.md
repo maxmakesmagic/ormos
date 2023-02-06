@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019172305/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2012-trials-2012-08-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2012-trials-2012-08-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019172305id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2012-trials-2012-08-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 17:23:05+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Chicago Trials will be run at WPN locations from September 15 to October 28, 2012. Each awards the winner a three-round bye to Grand Prix Chicago.Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the individual store running the event. Possible formats include"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-24"
+[_metadata_:title]:- "Grand Prix Chicago 2012 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 17:23:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019172305id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2012-trials-2012-08-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2012-trials-2012-08-24"
 ---
 
 

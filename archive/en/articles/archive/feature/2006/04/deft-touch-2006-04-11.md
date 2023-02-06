@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502093315/https://magic.wizards.com/en/articles/archive/feature/deft-touch-2006-04-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deft-touch-2006-04-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502093315id_/https://magic.wizards.com/en/articles/archive/feature/deft-touch-2006-04-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 09:33:15+00:00"
+[_metadata_:author]:- "Zvi Mowshowitz"
 [_metadata_:description]:- "Magic wouldn't be Magic without a sense of danger. Every so often, a card should have enough potential that you want to run out, buy four copies and start breaking formats. It's probably fair, but there's that chance that it isn't and if you hurry, you could be the one to prove it. This is that time. This is that card: Gentlemen, start your engines.When used without any"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-04-11"
+[_metadata_:title]:- "With a Deft Touch"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 09:33:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502093315id_/https://magic.wizards.com/en/articles/archive/feature/deft-touch-2006-04-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deft-touch-2006-04-11"
 ---
 
 

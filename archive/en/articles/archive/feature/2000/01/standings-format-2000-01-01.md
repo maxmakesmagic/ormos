@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208211647/https://magic.wizards.com/en/articles/archive/feature/standings-format-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standings-format-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208211647id_/https://magic.wizards.com/en/articles/archive/feature/standings-format-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 21:16:47+00:00"
 [_metadata_:description]:- "DUPLICATE LIMITED STANDINGS 3-0 Chris Pikula 3-0 Jakub Slemr 2-1 Jon Finkel 2-1 Dave Humpherys 2-1 Dirk Baberowski 2-1 Koichiro Maki 2-1 Pat Chapin 2-1 Zvi Mowshowitz 2-1 Nicolai Herzog 1-2 Mike Long 1-2 Steve O'Mahoney-Schwartz 1-2 Kai Budde 1-2 Darwin Kastle 0-3 Brian Hacker 0-3 Dave Price 0-3 Gary Wise BLOCK PARTY STANDINGS 3-0 Chris Pikula 3-0 Pat Chapin 3-0 Dave Price 2-1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Standings by Format"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 21:16:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208211647id_/https://magic.wizards.com/en/articles/archive/feature/standings-format-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standings-format-2000-01-01"
 ---
 
 

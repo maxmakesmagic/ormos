@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129185041/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-5-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-5-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129185041id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-5-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 18:50:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Match Team Team 1 Team Fenrir T.F.Z. 2 I''s Masato Club 3 WACHI-DE? Team Masato 4 Today Godzilla 5 Top Runner Team Imabiki 6 Team Iwamoto Team Machinami 7 Arabica Yanitetsu 8 Trickster Poor Shark 9 Shikaku Maniacs SHARP Executioners 10 BIN BI BIN NEW WAVE 11 UNLUCKY'S Mogiri Club 12 Astral Busters 830 Troopers 13 Lavatain Team T.T.Y."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 5 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 18:50:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129185041id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-5-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-5-pairings-2000-01-01"
 ---
 
 

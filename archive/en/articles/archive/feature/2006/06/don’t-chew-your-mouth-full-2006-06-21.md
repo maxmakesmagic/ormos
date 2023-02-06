@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211209045910/https://magic.wizards.com/en/articles/archive/feature/don%E2%80%99t-chew-your-mouth-full-2006-06-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/don%E2%80%99t-chew-your-mouth-full-2006-06-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209045910id_/https://magic.wizards.com/en/articles/archive/feature/don%E2%80%99t-chew-your-mouth-full-2006-06-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 04:59:10+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "I received an email this week that suggested an article topic that I probably should have addressed long ago. But it is better late than never. The email, from Thiago Miranda, asked these questions before going on to ask that I write an article on the subject: What is the etiquette for getting your cards signed at Magic events or Gaming/Comic Book conventions? That is:is there"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-06-21"
+[_metadata_:title]:- "Don’t Chew With Your Mouth Full"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 04:59:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209045910id_/https://magic.wizards.com/en/articles/archive/feature/don%E2%80%99t-chew-your-mouth-full-2006-06-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/don%E2%80%99t-chew-your-mouth-full-2006-06-21"
 ---
 
 

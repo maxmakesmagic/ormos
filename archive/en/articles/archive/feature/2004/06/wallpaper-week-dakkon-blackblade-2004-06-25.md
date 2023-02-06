@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170604140738/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dakkon-blackblade-2004-06-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dakkon-blackblade-2004-06-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170604140738id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dakkon-blackblade-2004-06-25"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-04 14:07:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Richard Kane Ferguson's Dakkon Blackblade from the Legends set. Enjoy!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-06-25"
+[_metadata_:title]:- "Wallpaper of the Week: Dakkon Blackblade"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-04 14:07:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170604140738id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dakkon-blackblade-2004-06-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dakkon-blackblade-2004-06-25"
 ---
 
 

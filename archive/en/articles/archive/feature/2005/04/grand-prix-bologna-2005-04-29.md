@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171031190204/https://magic.wizards.com/en/articles/archive/feature/grand-prix-bologna-2005-04-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-bologna-2005-04-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031190204id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-bologna-2005-04-29"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 19:02:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Win a trip to Grand Prix Nottingham ...and many other Magic prizes! At Grand Prix Bologna fill out the voucher* that you'll find at the DCI booth and deposit it in the designated box before Saturday, June 11– 5 pm. A draw will be held on Saturday, June 11 at 6pm."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-04-29"
+[_metadata_:title]:- "Grand Prix - Bologna"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 19:02:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031190204id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-bologna-2005-04-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-bologna-2005-04-29"
 ---
 
 

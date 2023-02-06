@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200818234207/https://magic.wizards.com/en/articles/archive/feature/splinter-twin-2010-09-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/splinter-twin-2010-09-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200818234207id_/https://magic.wizards.com/en/articles/archive/feature/splinter-twin-2010-09-09"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-18 23:42:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: CTA Amuro Format: Extended Daily #1529758 on 08/26/2010 5 Island 3 Mountain 4 Scalding Tarn 4 Shivan Reef 2 Tolaria West 4 Pestermite 4 Simian Spirit Guide 4 Hive Mind 2 Intervention Pact 4 Lotus Bloom 3 Pact of Negation 3 Pact of the Titan 4 Ponder 4 Preordain 4 Pyretic Ritual 4 Splinter Twin 2 Telling Time *4 Cunning Sparkmage *4 Firespout *2 Mana Leak *2 Negate *3 Relic of Progenitus"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-09"
+[_metadata_:title]:- "Splinter Twin"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-18 23:42:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200818234207id_/https://magic.wizards.com/en/articles/archive/feature/splinter-twin-2010-09-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/splinter-twin-2010-09-09"
 ---
 
 

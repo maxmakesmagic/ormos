@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502100050/https://magic.wizards.com/en/articles/archive/feature/pt-charleston-and-ss-sunset-2006-06-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pt-charleston-and-ss-sunset-2006-06-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502100050id_/https://magic.wizards.com/en/articles/archive/feature/pt-charleston-and-ss-sunset-2006-06-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 10:00:50+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. Pro Tour--Charleston is in full swing. Teams are playing for the elusive PT Champion title while trying to get their collective brains around the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-06-17"
+[_metadata_:title]:- "PT Charleston and the SS Sunset"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 10:00:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502100050id_/https://magic.wizards.com/en/articles/archive/feature/pt-charleston-and-ss-sunset-2006-06-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pt-charleston-and-ss-sunset-2006-06-17"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220808093238/https://magic.wizards.com/en/articles/archive/feature/card-card-recap-2004-08-23-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-card-recap-2004-08-23-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808093238id_/https://magic.wizards.com/en/articles/archive/feature/card-card-recap-2004-08-23-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 09:32:38+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "The year: 1994. The event: the first Magic World Championships. Both decks from the finals, and card-by-card recap of the entire finals."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-23"
+[_metadata_:title]:- "Card-by-card Recap"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 09:32:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808093238id_/https://magic.wizards.com/en/articles/archive/feature/card-card-recap-2004-08-23-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-card-recap-2004-08-23-0"
 ---
 
 

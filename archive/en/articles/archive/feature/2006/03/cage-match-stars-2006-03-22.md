@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210927035321/https://magic.wizards.com/en/articles/archive/feature/cage-match-stars-2006-03-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cage-match-stars-2006-03-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210927035321id_/https://magic.wizards.com/en/articles/archive/feature/cage-match-stars-2006-03-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-27 03:53:21+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "I don't know about you guys, but I just cannot figure out how Drew Lachey and the clod-foot Jerry Rice defeated the powerhouse that is Stacy Keibler on Dancing With The Stars. Drew Lachey is a 2/2 weenie at best, and Jerry Rice is like Shivan Dragon- dominant in the old days, but who really plays with him now? If you really think about it, Stacy's legs are a good 4/4 each, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-03-22"
+[_metadata_:title]:- "Cage Match With The Stars"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-27 03:53:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210927035321id_/https://magic.wizards.com/en/articles/archive/feature/cage-match-stars-2006-03-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cage-match-stars-2006-03-22"
 ---
 
 

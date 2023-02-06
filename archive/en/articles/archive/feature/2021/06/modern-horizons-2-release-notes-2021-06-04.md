@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210605105316/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-release-notes-2021-06-04?utm_source=dlvr.it&utm_medium=twitter)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-release-notes-2021-06-04?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210605105316id_/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-release-notes-2021-06-04?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-05 10:53:16+00:00"
+[_metadata_:author]:- "Jess Dunks"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-06-04"
+[_metadata_:title]:- "Modern Horizons 2 Release Notes"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-05 10:53:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210605105316id_/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-release-notes-2021-06-04?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-release-notes-2021-06-04?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

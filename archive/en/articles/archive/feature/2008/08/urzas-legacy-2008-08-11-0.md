@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160120081346/http://magic.wizards.com/en/articles/archive/feature/urzas-legacy-2008-08-11-0)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/urzas-legacy-2008-08-11-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160120081346id_/http://magic.wizards.com/en/articles/archive/feature/urzas-legacy-2008-08-11-0"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-20 08:13:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-11"
+[_metadata_:title]:- "Urza's Legacy"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-20 08:13:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160120081346id_/http://magic.wizards.com/en/articles/archive/feature/urzas-legacy-2008-08-11-0"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/urzas-legacy-2008-08-11-0"
 ---
 
 

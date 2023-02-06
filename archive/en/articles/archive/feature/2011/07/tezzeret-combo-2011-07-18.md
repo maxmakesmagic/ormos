@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021200940/https://magic.wizards.com/en/articles/archive/feature/tezzeret-combo-2011-07-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tezzeret-combo-2011-07-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021200940id_/https://magic.wizards.com/en/articles/archive/feature/tezzeret-combo-2011-07-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 20:09:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Xu Qian's Tezzeret Combo Format: Standard 2 Creeping Tar Pit 4 Darkslick Shores 4 Drowned Catacomb 4 Inkmoth Nexus 5 Island 5 Swamp 1 Blightsteel Colossus 4 Kuldotha Forgemaster 4 Spellskite 2 Wurmcoil Engine 2 Despise 4 Everflowing Chalice 2 Inquisition of Kozilek 1 Mindslaver 1 Mox Opal 4 Sphere of the Suns 4 Tezzeret, Agent of Bolas 4 Torpor Orb 3 Tumble"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-07-18"
+[_metadata_:title]:- "Tezzeret Combo"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 20:09:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021200940id_/https://magic.wizards.com/en/articles/archive/feature/tezzeret-combo-2011-07-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tezzeret-combo-2011-07-18"
 ---
 
 

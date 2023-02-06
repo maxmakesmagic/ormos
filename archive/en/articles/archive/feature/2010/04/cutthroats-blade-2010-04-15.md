@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211201014558/https://magic.wizards.com/en/articles/archive/feature/cutthroats-blade-2010-04-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cutthroats-blade-2010-04-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201014558id_/https://magic.wizards.com/en/articles/archive/feature/cutthroats-blade-2010-04-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 01:45:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Let's talk about Nirkana Cutthroat for a moment, if you don't mind. It's a creature from Rise of the Eldrazi with Level Up. Notice anything familiar there? Perhaps this will help. Nirkana Cutthroat | Art by Erica Yang Do you see it? Something that would help a young vampire, just starting out on the path to high-level awesomeness? The cutthroat is carrying a version of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-15"
+[_metadata_:title]:- "A Cutthroat's Blade"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 01:45:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201014558id_/https://magic.wizards.com/en/articles/archive/feature/cutthroats-blade-2010-04-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cutthroats-blade-2010-04-15"
 ---
 
 

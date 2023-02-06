@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200222113143/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-summary-2020-01-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-summary-2020-01-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200222113143id_/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-summary-2020-01-10"
-[_metadata_:wayback_capture_timestamp]:- "2020-02-22 11:31:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Brush up on your Theros lore before the release of Theros Beyond Death with a summary of the story thus far."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-01-10"
+[_metadata_:title]:- "Theros Beyond Death Story Summary"
+[_metadata_:wayback_capture_timestamp]:- "2020-02-22 11:31:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200222113143id_/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-summary-2020-01-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-summary-2020-01-10"
 ---
 
 

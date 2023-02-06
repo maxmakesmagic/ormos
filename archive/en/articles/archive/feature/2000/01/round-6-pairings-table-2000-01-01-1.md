@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701212637/https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01-1)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701212637id_/https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01-1"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 21:26:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPoints OpponentPointsPotato Peach15vsSusiyan15NISIKI15vsTeam 25:1715Yanitetsu15vswww.alphabetaunlimited.com15Scrambled Steak15vsRegneva13Team PPB13vsTeam Apprentice13DERAPIN13vsDEFENCER Minor13ATOK13vsVoice of Soul12Gonzo the Core12vsOhwarai no Genki12Panzer Hunters JO12vsMagic Square12Crash12vsAbsolute12OO Parts12vsGod only knows12AAA12vsBenefactor12Tokyo Butties12vsTeam"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 6 Pairings (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 21:26:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701212637id_/https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01-1"
 ---
 
 

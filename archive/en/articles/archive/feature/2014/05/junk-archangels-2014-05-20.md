@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020011221/https://magic.wizards.com/en/articles/archive/feature/junk-archangels-2014-05-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/junk-archangels-2014-05-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020011221id_/https://magic.wizards.com/en/articles/archive/feature/junk-archangels-2014-05-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 01:12:21+00:00"
+[_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "Jeff Hoogland is a player who has had quite a bit of success with under-the-radar decks. If you played against Black-Green Midrange last year or Blue-Red Faeries in Modern this year, you likely played against a Jeff Hoogland creation. Jeff is at it again, building a new deck with Journey into Nyx to help him reach the semifinals of a SCG Standard Open. Jeff's deck is a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-20"
+[_metadata_:title]:- "Junk Archangels"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 01:12:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020011221id_/https://magic.wizards.com/en/articles/archive/feature/junk-archangels-2014-05-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/junk-archangels-2014-05-20"
 ---
 
 

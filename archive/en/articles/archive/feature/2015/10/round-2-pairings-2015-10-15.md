@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160707141144/http://magic.wizards.com/en/articles/archive/feature/round-2-pairings-2015-10-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/round-2-pairings-2015-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707141144id_/http://magic.wizards.com/en/articles/archive/feature/round-2-pairings-2015-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:11:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Jason Zila vs. Tony Dobson Ben Rubin vs. Trevor Blackwell Kyle Rose vs. Warren Marsh Alex Shvartsman vs. Sigurd Eskeland Trey Van Cleave vs. Kurt Burgner Dirk Baberowski vs. Christian Luhrs Bob Maher, Jr. vs. Rob Dougherty William Jensen vs. Olivier Ruel"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:title]:- "Round 2 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:11:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707141144id_/http://magic.wizards.com/en/articles/archive/feature/round-2-pairings-2015-10-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/round-2-pairings-2015-10-15"
 ---
 
 

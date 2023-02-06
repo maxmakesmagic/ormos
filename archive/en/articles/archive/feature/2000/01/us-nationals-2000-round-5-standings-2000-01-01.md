@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528035831/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528035831id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:58:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Soo, Waiken 15 68.0000 81.8182 62.8866 5/5/0/0 2 Finkel, Jon 15 62.6667 100.0000 61.3147 5/5/0/0 3 Hernandez, Frank 15 55.3333 76.9231 52.3077 5/5/0/0 4 Humpherys, David 13 65.3333 81.8182 64.3030 5/4/1/0 5 Lieberman, Alex 13 64.0000 81.8182 62.9293 5/4/1/0 6 Rose, Kyle 13 61.3333 75.0000 59.9650"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Round 5 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:58:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528035831id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-standings-2000-01-01"
 ---
 
 

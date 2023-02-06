@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170612143715/http://magic.wizards.com/en/articles/archive/feature/love-letter-nearly-25-years-magic-2017-06-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/love-letter-nearly-25-years-magic-2017-06-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170612143715id_/http://magic.wizards.com/en/articles/archive/feature/love-letter-nearly-25-years-magic-2017-06-12"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-12 14:37:15+00:00"
+[_metadata_:author]:- "Corbin Hosler"
 [_metadata_:description]:- "A lot has changed since Magic debuted in 1993, but the game has never stopped inspiring players around the world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-06-12"
+[_metadata_:title]:- "A Love Letter to (Nearly) 25 Years of Magic"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-12 14:37:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170612143715id_/http://magic.wizards.com/en/articles/archive/feature/love-letter-nearly-25-years-magic-2017-06-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/love-letter-nearly-25-years-magic-2017-06-12"
 ---
 
 

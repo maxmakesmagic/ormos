@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519151150/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-34)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-34"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519151150id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-34"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 15:11:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 13 Pairings per table Table Player 1 Player 2 Maass, Eckhard *** BYE *** Pod 8 Dall Jensen, Thomas *** BYE *** Pod 3 Reinhardt, Fabio *** BYE *** Pod 7 Snepvangers, Abraham *** BYE *** Pod 6 1 Walter, Bjoern Andersson, Thomas 2 Dictus, Mark Hacker, Brian 3 Schneiders, Felix Franzen, Johan 4 Jocumsen, Bjorn Karlsson, Morgan 5 Elfgren, Bertil Dobson, Tony 6 Sanders Jensen,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 15:11:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519151150id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-34"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-34"
 ---
 
 

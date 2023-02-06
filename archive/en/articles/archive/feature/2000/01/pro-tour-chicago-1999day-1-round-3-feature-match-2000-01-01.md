@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220127170205/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-3-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-3-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127170205id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-3-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 17:02:05+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Dave Humpherys vs Matt Linde Game 1 Humpherys won the toss and played first, getting a Birds of Paradise, a Wall of Roots, and a Survival of the Fittest on the table by the time Linde's Rancored Pouncing Jaguar attacked on turn two. Linde sacrificed his wall to the big kitty, then used Survival to pitch an Uktabi Orangutan and get an Acedemy Rector. On his next turn, he played"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Day 1 Round 3 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 17:02:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127170205id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-3-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-3-feature-match-2000-01-01"
 ---
 
 

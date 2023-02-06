@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180111104131/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-skywatcher-adept-2010-04-09/)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-skywatcher-adept-2010-04-09/"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180111104131id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-skywatcher-adept-2010-04-09/"
-[_metadata_:wayback_capture_timestamp]:- "2018-01-11 10:41:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper features Tomasz Jedruszek's artwork from the Rise of the Eldrazi card Skywatcher Adept. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-09"
+[_metadata_:title]:- "Wallpaper of the Week: Skywatcher Adept"
+[_metadata_:wayback_capture_timestamp]:- "2018-01-11 10:41:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180111104131id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-skywatcher-adept-2010-04-09/"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-skywatcher-adept-2010-04-09/"
 ---
 
 

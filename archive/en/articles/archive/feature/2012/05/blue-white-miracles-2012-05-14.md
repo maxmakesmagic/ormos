@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170715200753/http://magic.wizards.com/en/articles/archive/feature/blue-white-miracles-2012-05-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-white-miracles-2012-05-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170715200753id_/http://magic.wizards.com/en/articles/archive/feature/blue-white-miracles-2012-05-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-15 20:07:53+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "When you lose the first round of any tournament, it’s usually a bad sign. In fact, up until Paulo Vitor Damo da Rosa's win at Pro Tour San Juan in 2010, no Pro Tour had ever been won by a player who lost in the first round. Alexander lost his first round this weekend. Oops."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-14"
+[_metadata_:title]:- "Blue-White Miracles"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-15 20:07:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170715200753id_/http://magic.wizards.com/en/articles/archive/feature/blue-white-miracles-2012-05-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-white-miracles-2012-05-14"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026000853/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sacramento-2014-trials-2013-09-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sacramento-2014-trials-2013-09-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026000853id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sacramento-2014-trials-2013-09-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:08:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Sacramento Trials will be run at North and Latin America WPN locations from October 26, 2013 to January 5, 2014. Each awards the winner a two-round bye to Grand Prix Sacramento. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-14"
+[_metadata_:title]:- "Grand Prix Sacramento 2014 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:08:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026000853id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sacramento-2014-trials-2013-09-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sacramento-2014-trials-2013-09-14"
 ---
 
 

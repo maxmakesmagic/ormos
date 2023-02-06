@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220127103510/https://magic.wizards.com/en/articles/archive/feature/banning-and-online-extended-2004-08-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/banning-and-online-extended-2004-08-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127103510id_/https://magic.wizards.com/en/articles/archive/feature/banning-and-online-extended-2004-08-10"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 10:35:10+00:00"
+[_metadata_:author]:- "Chad Ellis"
 [_metadata_:description]:- "Last Sunday was the finals of the MTGO World Championship Qualifier. This is now the second time that MTGO play has put someone on the Pro Tour (Andrew Cuneo was the first, from last year's Worlds Qualifier). Congratulations to Toshinori Shigehara of Japan, who piloted his Tooth and Nail build to victory in the finals!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-10"
+[_metadata_:title]:- "Banning and Online Extended"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 10:35:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127103510id_/https://magic.wizards.com/en/articles/archive/feature/banning-and-online-extended-2004-08-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/banning-and-online-extended-2004-08-10"
 ---
 
 

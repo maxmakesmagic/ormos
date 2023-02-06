@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220123183250/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93buenos-aires-2008-04-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93buenos-aires-2008-04-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123183250id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93buenos-aires-2008-04-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 18:32:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Grand Prix return to South America! Buenos Aires, the most `European` Latin American metropolis, will host this fantastic event. Enjoy the famous qualities of Buenos Aires, like its excellent cuisine and unique asados, its unmatched nights, its exceptional cultural activity and the remarkable hospitality. Meet the authentic style of tango and soccer in a spectacular"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-04-03"
+[_metadata_:title]:- "Grand Prix–Buenos Aires"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 18:32:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123183250id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93buenos-aires-2008-04-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93buenos-aires-2008-04-03"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160624231137/http://magic.wizards.com/en/articles/archive/feature/elf-and-nail-2009-05-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/elf-and-nail-2009-05-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160624231137id_/http://magic.wizards.com/en/articles/archive/feature/elf-and-nail-2009-05-12"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-24 23:11:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Elf and Nail Format: Standard 20 Forest 4 Birds of Paradise 1 Darksteel Colossus 1 Duplicant 1 Fierce Empath 1 Kamahl, Fist of Krosa 1 Sundering Titan 1 Triskelion 3 Vine Trellis 3 Viridian Shaman 3 Wirewood Herald 4 Wirewood Symbiote 4 Wood Elves 2 Chrome Mox 4 Skullclamp 3 Tooth and Nail 4 Vernal Bloom *3 Creeping Mold *1 Duplicant *4 Oxidize *3 Reap and Sow *1 Tooth and Nail *1 Triskelion"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-12"
+[_metadata_:title]:- "Elf and Nail"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-24 23:11:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160624231137id_/http://magic.wizards.com/en/articles/archive/feature/elf-and-nail-2009-05-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/elf-and-nail-2009-05-12"
 ---
 
 

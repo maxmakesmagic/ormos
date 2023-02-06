@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211205113514/https://magic.wizards.com/en/articles/archive/feature/playing-different-deck-dissension-card-preview-2006-04-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-different-deck-dissension-card-preview-2006-04-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205113514id_/https://magic.wizards.com/en/articles/archive/feature/playing-different-deck-dissension-card-preview-2006-04-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 11:35:14+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Interlude:Him: Island.Okay, it's Island. I can deal with that. I mean, what's an Island? All these online articles are saying that Heartbeat combo is the best deck. My deck is good against Heartbeat. Island. What's an Island, really? Me: Steam Vents.No of course I don't pay the two life; I don't have a play. I mean next turn I'll have an Izzet Signet, but for now, just a Steam"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-04-20"
+[_metadata_:title]:- "Playing a Different Deck: A Dissension Card Preview"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 11:35:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205113514id_/https://magic.wizards.com/en/articles/archive/feature/playing-different-deck-dissension-card-preview-2006-04-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-different-deck-dissension-card-preview-2006-04-20"
 ---
 
 

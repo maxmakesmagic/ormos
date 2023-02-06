@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502152252/https://magic.wizards.com/en/articles/archive/feature/everything-old-new-again-2005-09-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/everything-old-new-again-2005-09-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502152252id_/https://magic.wizards.com/en/articles/archive/feature/everything-old-new-again-2005-09-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 15:22:52+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Players who have been slugging it out in competitive Magic tournaments for only the past couple of years probably don't see as pronounced a difference between what we consider `control` decks and what we term `beatdown` decks as long time sharks like myself. Superb creature cards like Psychatog, Morphling, and most recently, Keiga, the Tide Star and Meloku the Clouded Mirror,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-09-29"
+[_metadata_:title]:- "Everything Old is New Again"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 15:22:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502152252id_/https://magic.wizards.com/en/articles/archive/feature/everything-old-new-again-2005-09-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/everything-old-new-again-2005-09-29"
 ---
 
 

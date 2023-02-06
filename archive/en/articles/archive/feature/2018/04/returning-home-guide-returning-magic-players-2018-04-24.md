@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180426014306/https://magic.wizards.com/en/articles/archive/feature/returning-home-guide-returning-magic-players-2018-04-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/returning-home-guide-returning-magic-players-2018-04-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180426014306id_/https://magic.wizards.com/en/articles/archive/feature/returning-home-guide-returning-magic-players-2018-04-24"
-[_metadata_:wayback_capture_timestamp]:- "2018-04-26 01:43:06+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "If you're just returning to Magic after some time away, here's a guide to what's new, what's the same, and how you can get back in the game."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-04-24"
+[_metadata_:title]:- "Returning Home: A Guide for Returning Magic Players"
+[_metadata_:wayback_capture_timestamp]:- "2018-04-26 01:43:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180426014306id_/https://magic.wizards.com/en/articles/archive/feature/returning-home-guide-returning-magic-players-2018-04-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/returning-home-guide-returning-magic-players-2018-04-24"
 ---
 
 

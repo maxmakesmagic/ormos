@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627000546/https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-09-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-09-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627000546id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-09-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:05:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Asia October-December 2009 CountryCityDateInvitationAddress Line 1Address Line 2ContactPhone ChinaBeijing 10/17/20091Donglinge RoadBeijing Dongcheng Email+8613801110286 ChinaGuangzhou10/25/20091Guangzhou Kangwang Kangwang Bei RoadEmail+8613826059875 ChinaShanghai11/1/20091Shanghai Huangpu DistrictNanjing West RoadEmail+8613402010037 Hong KongHong Kong12/6/20091Hong Kong Girl"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-17"
+[_metadata_:title]:- "Pro Tour San Diego 2010 - Qualifiers"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:05:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627000546id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-09-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-09-17"
 ---
 
 

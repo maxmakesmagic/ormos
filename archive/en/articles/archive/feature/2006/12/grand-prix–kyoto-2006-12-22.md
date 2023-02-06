@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160401001952/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kyoto-2006-12-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kyoto-2006-12-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160401001952id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kyoto-2006-12-22"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-01 00:19:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Mark Poole began working in the gaming industry in 1991 two years before Magic: The Gathering came out. Up until then he had painted illustrations for TSR and Dragon magazine. At the same time he had published his own line of fantasy/wildlife prints which were marketed world-wide"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-12-22"
+[_metadata_:title]:- "Grand Prix–Kyoto"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-01 00:19:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160401001952id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kyoto-2006-12-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kyoto-2006-12-22"
 ---
 
 

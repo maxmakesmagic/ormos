@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170804020757/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-10-27-0)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-10-27-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170804020757id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-10-27-0"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-04 02:07:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Thanks to tournament organizer Rick Lipman for the decklists."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-10-27"
+[_metadata_:title]:- "Pro Tour–Kyoto Qualifying Season: Top 8 Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-04 02:07:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170804020757id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-10-27-0"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-10-27-0"
 ---
 
 

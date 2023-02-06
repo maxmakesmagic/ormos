@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211015214337/https://magic.wizards.com/en/articles/archive/feature/pauper-goblins-2011-11-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pauper-goblins-2011-11-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015214337id_/https://magic.wizards.com/en/articles/archive/feature/pauper-goblins-2011-11-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:43:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In the recent Pauper Premier Event on Magic Online, Digwen took this Goblins deck all the way to the top, beating a nearly identical mirror match in the finals! The format has been full of poison and Cloudpost decks lately, and Goblins was perfectly poised to take both of those down. Build it up on Magic Online and play some of this vibrant format to find out for yourself!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-11-02"
+[_metadata_:title]:- "Pauper Goblins"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:43:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015214337id_/https://magic.wizards.com/en/articles/archive/feature/pauper-goblins-2011-11-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pauper-goblins-2011-11-02"
 ---
 
 

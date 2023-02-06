@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124111631/https://magic.wizards.com/en/articles/archive/feature/doran-doran-2009-04-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/doran-doran-2009-04-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124111631id_/https://magic.wizards.com/en/articles/archive/feature/doran-doran-2009-04-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:16:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Orie Guo's Doran Format: Extended 4 Bloodstained Mire 2 Forest 1 Godless Shrine 3 Overgrown Tomb 1 Plains 1 Shizo, Death's Storehouse 1 Swamp 1 Temple Garden 4 Treetop Village 4 Windswept Heath 4 Birds of Paradise 4 Dark Confidant 4 Doran, the Siege Tower 4 Kitchen Finks 1 Noble Hierarch 4 Tarmogoyf 1 Chrome Mox 4 Path to Exile 2 Profane Command 3 Putrefy 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-13"
+[_metadata_:title]:- "Doran Doran"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:16:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124111631id_/https://magic.wizards.com/en/articles/archive/feature/doran-doran-2009-04-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/doran-doran-2009-04-13"
 ---
 
 

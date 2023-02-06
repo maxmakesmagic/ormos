@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029014823/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utsunomiya-2002-08-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-utsunomiya-2002-08-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029014823id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utsunomiya-2002-08-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 01:48:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic: The Gathering Pro Tour - Chicago Qualifier October 12-13, 2002 Trial Schedule"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-08-20"
+[_metadata_:title]:- "Grand Prix - Utsunomiya"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 01:48:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029014823id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utsunomiya-2002-08-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-utsunomiya-2002-08-20"
 ---
 
 

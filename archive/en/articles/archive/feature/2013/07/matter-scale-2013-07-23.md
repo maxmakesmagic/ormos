@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220707040456/https://magic.wizards.com/en/articles/archive/feature/matter-scale-2013-07-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/matter-scale-2013-07-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707040456id_/https://magic.wizards.com/en/articles/archive/feature/matter-scale-2013-07-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 04:04:56+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Scale can always be difficult to figure out when you're looking at art. Sometimes you have to pay close attention to realize that the specks in the art are actually people, or perhaps you have to look at the surroundings and realize that it's just a bit larger than you might realize. First example is the new Dragon Egg from Magic 2014. Dragons are large creatures, so it makes"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-23"
+[_metadata_:title]:- "A Matter of Scale"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 04:04:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707040456id_/https://magic.wizards.com/en/articles/archive/feature/matter-scale-2013-07-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/matter-scale-2013-07-23"
 ---
 
 

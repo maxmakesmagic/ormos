@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812145734/https://magic.wizards.com/en/articles/archive/feature/white-blue-control-2009-12-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-blue-control-2009-12-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812145734id_/https://magic.wizards.com/en/articles/archive/feature/white-blue-control-2009-12-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 14:57:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Shaheen Soorani's White-Blue Control Format: Virginia 2009s Standard 4 Island 8 Plains 4 Glacial Fortress 2 Kabira Crossroads 4 Sejiri Refuge 3 Baneslayer Angel 4 Knight of the White Orchid 2 Sphinx of Jwar Isle 1 Iona, Shield of Emeria 4 Fieldmist Borderpost 3 Essence Scatter 4 Flashfreeze 4 Path to Exile 2 Elspeth, Knight-Errant 3 Jace Beleren 4 Day of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-12-17"
+[_metadata_:title]:- "White-Blue Control"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 14:57:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812145734id_/https://magic.wizards.com/en/articles/archive/feature/white-blue-control-2009-12-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-blue-control-2009-12-17"
 ---
 
 

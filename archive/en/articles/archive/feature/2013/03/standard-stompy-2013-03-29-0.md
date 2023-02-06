@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523090214/https://magic.wizards.com/en/articles/archive/feature/standard-stompy-2013-03-29-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-stompy-2013-03-29-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523090214id_/https://magic.wizards.com/en/articles/archive/feature/standard-stompy-2013-03-29-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:02:14+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Before Gatecrash came out, Bant Hexproof was one of the major contenders in Standard. Despite expectations that it could get better with the addition of Breeding Pool, the post-Gatecrash Standard metagame has largely left the deck behind. Magic Online's _Slippery_ has not forgotten about the deck and has found new tools for it from Gatecrash outside of the dual lands, in the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-29"
+[_metadata_:title]:- "Standard Stompy"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:02:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523090214id_/https://magic.wizards.com/en/articles/archive/feature/standard-stompy-2013-03-29-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-stompy-2013-03-29-0"
 ---
 
 

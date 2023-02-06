@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201111213715/https://magic.wizards.com/en/articles/archive/feature/first-dci-floor-rules-2005-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-dci-floor-rules-2005-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111213715id_/https://magic.wizards.com/en/articles/archive/feature/first-dci-floor-rules-2005-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 21:37:15+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Last week we ran a transcript of the original rulebook that came with Magic starter decks, in part for nostalgia reasons but also to show just how far the game has come. For this week, I thought it would be fun to run a transcript of the very first DCI Floor Rules, posted to Usenet all the way back on January 26, 1994. This one's a quicker read, but I'm sure you'll still find plenty of things to smile at."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-01-01"
+[_metadata_:title]:- "The First DCI Floor Rules"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 21:37:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111213715id_/https://magic.wizards.com/en/articles/archive/feature/first-dci-floor-rules-2005-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-dci-floor-rules-2005-01-01"
 ---
 
 

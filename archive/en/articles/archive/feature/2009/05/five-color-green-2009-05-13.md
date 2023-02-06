@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025054515/https://magic.wizards.com/en/articles/archive/feature/five-color-green-2009-05-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/five-color-green-2009-05-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025054515id_/https://magic.wizards.com/en/articles/archive/feature/five-color-green-2009-05-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 05:45:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Alex Shvartsman's 5cGreen Format: Standard 4 Gemstone Mine 3 City of Brass 3 Undiscovered Paradise 9 Forest 4 Birds of Paradise 4 Granger Guildmage 2 Quirion Ranger 4 Wall of Roots 3 Jolrael's Centaur 4 Uktabi Orangutan 1 Maro 4 Tradewind Rider 2 Derelor 4 Armageddon 4 Incinerate 3 Mana Leak 2 Diabolic Edict *3 Pyroblast *3 Propaganda *2 Honorable Passage *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-13"
+[_metadata_:title]:- "Five-Color Green"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 05:45:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025054515id_/https://magic.wizards.com/en/articles/archive/feature/five-color-green-2009-05-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/five-color-green-2009-05-13"
 ---
 
 

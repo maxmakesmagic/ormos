@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201025144300/https://magic.wizards.com/en/articles/archive/feature/playing-checkers-superman-2002-07-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-checkers-superman-2002-07-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025144300id_/https://magic.wizards.com/en/articles/archive/feature/playing-checkers-superman-2002-07-11"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:43:00+00:00"
+[_metadata_:author]:- "The Ferrett"
 [_metadata_:description]:- "What flies through air Grows big to scare And brushes your spells right off?Two blue and three, For control it's key, It's Morph, Morph, Morph!It's MOOO-rph! It's MOOO-rph! Is there anything Morph can't do? It's MOOO-rph! It's MOOO-rph! It's not killing me, but you!You're gonna hate the Morph! Everyone hates a Morph! You're gonna hate the Morph!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-07-11"
+[_metadata_:title]:- "Playing Checkers with Superman"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:43:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025144300id_/https://magic.wizards.com/en/articles/archive/feature/playing-checkers-superman-2002-07-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-checkers-superman-2002-07-11"
 ---
 
 

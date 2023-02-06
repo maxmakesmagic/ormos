@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220818141431/https://magic.wizards.com/en/articles/archive/feature/best-2013-delving-legacy-2014-01-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-delving-legacy-2014-01-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818141431id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-delving-legacy-2014-01-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 14:14:31+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Ever since its release, Delver of Secrets has been the scourge of Legacy. For the most part, it played the role of combo breaker thanks to the wall of counterspells it played. However, with the release of True-Name Nemesis, the possibility for a slower, more resilient Delver deck appeared. RWU Delver had existed prior to True-Name Nemesis, but it was RUG Delver that was widely"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-01-15"
+[_metadata_:title]:- "Best of 2013: Delving a Legacy"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 14:14:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818141431id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-delving-legacy-2014-01-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-delving-legacy-2014-01-15"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123180615/https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-draft-angstschreeuw-vs-team-clegg-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-draft-angstschreeuw-vs-team-clegg-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123180615id_/https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-draft-angstschreeuw-vs-team-clegg-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 18:06:15+00:00"
+[_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "Team Angstschreeuw In the semifinal of GP Turin, team Angstschreeuw (Bram Snepvangers, Jos Schreurs, Menno Dolstra) and Team Clegg (Brock Parker, Peter Szigeti, Dan Clegg) are facing each other. Angstschreeuw won the toss and elected to go first (I will list just notable cards; sorry to Razing Snidd fans)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Semifinal Feature Draft: Angstschreeuw vs. Team Clegg"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 18:06:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123180615id_/https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-draft-angstschreeuw-vs-team-clegg-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-draft-angstschreeuw-vs-team-clegg-2000-01-01"
 ---
 
 

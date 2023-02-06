@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20141230024148/http://magic.wizards.com/en/articles/archive/feature/new-look-new-feel-2014-12-11)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/new-look-new-feel-2014-12-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141230024148id_/http://magic.wizards.com/en/articles/archive/feature/new-look-new-feel-2014-12-11"
-[_metadata_:wayback_capture_timestamp]:- "2014-12-30 02:41:48+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "We just launched our redesigned look and feel for the Magic website, so click around and see what you think! If you want more details on today’s update, read the article by Trick Jarrett."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-12-11"
+[_metadata_:title]:- "A New Look; A New Feel"
+[_metadata_:wayback_capture_timestamp]:- "2014-12-30 02:41:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141230024148id_/http://magic.wizards.com/en/articles/archive/feature/new-look-new-feel-2014-12-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/new-look-new-feel-2014-12-11"
 ---
 
 

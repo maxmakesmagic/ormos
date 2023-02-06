@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211205231055/https://magic.wizards.com/en/articles/archive/feature/throwing-it-back-one-more-time-2004-12-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/throwing-it-back-one-more-time-2004-12-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205231055id_/https://magic.wizards.com/en/articles/archive/feature/throwing-it-back-one-more-time-2004-12-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 23:10:55+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Perhaps it's because magicthegathering.com is about to spiral backwards in time for the last two weeks of the month and I am just warming up. Perhaps it's because just about everybody loved my Sligh article a couple of weeks back -- a rare event for the opinionated Swimming with Sharks crowd, let me tell you. Or perhaps it's because I love watching the evolution of decks,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-12-15"
+[_metadata_:title]:- "Throwing it Back One More Time"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 23:10:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205231055id_/https://magic.wizards.com/en/articles/archive/feature/throwing-it-back-one-more-time-2004-12-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/throwing-it-back-one-more-time-2004-12-15"
 ---
 
 

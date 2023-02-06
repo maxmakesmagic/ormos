@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027094017/https://magic.wizards.com/en/articles/archive/feature/angels-and-demons-2012-10-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/angels-and-demons-2012-10-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027094017id_/https://magic.wizards.com/en/articles/archive/feature/angels-and-demons-2012-10-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:40:17+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Ever since Innistrad was released, graveyard strategies have naturally risen in popularity. One of the most iconic graveyard strategies of all time is that of Reanimator. The idea behind Reanimator is to drop a large and usually difficult to cast creature into the graveyard. From that point, they look to cheat the creature into play using something along the lines of Zombify"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-19"
+[_metadata_:title]:- "Angels and Demons"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:40:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027094017id_/https://magic.wizards.com/en/articles/archive/feature/angels-and-demons-2012-10-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/angels-and-demons-2012-10-19"
 ---
 
 

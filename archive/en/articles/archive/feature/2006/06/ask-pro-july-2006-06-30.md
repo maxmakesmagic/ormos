@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020175227/https://magic.wizards.com/en/articles/archive/feature/ask-pro-july-2006-06-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-pro-july-2006-06-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020175227id_/https://magic.wizards.com/en/articles/archive/feature/ask-pro-july-2006-06-30"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 17:52:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This feature has been put on indefinite hiatus. Wizards of the Coast has begun searching for a new writer. July 29, 2006Q: How does it feel to be up there in the top with Finkel and Budde? Do you think you will ever get more points/winnings the Finkel? How about Budde?-- Eugene A: Well, it is simply unbelievable. I don't even know what I am doing there, but I can tell you one"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-06-30"
+[_metadata_:title]:- "Ask the Pro: July"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 17:52:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020175227id_/https://magic.wizards.com/en/articles/archive/feature/ask-pro-july-2006-06-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-pro-july-2006-06-30"
 ---
 
 

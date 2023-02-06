@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016191111/https://magic.wizards.com/en/articles/archive/feature/modern-urzatron-2011-11-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-urzatron-2011-11-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016191111id_/https://magic.wizards.com/en/articles/archive/feature/modern-urzatron-2011-11-09"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:11:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "With Cloudpost out of the Modern picture, some players are turning to another way to achieve fast mana: the Urzatron! Francis Toussaint of Manadeprived.com wrote about his take on the archetype. Could this be a major player in Modern going forward?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-11-09"
+[_metadata_:title]:- "Modern Urzatron"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:11:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016191111id_/https://magic.wizards.com/en/articles/archive/feature/modern-urzatron-2011-11-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-urzatron-2011-11-09"
 ---
 
 

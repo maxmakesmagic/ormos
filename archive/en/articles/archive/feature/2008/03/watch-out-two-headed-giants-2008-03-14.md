@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220814224432/https://magic.wizards.com/en/articles/archive/feature/watch-out-two-headed-giants-2008-03-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/watch-out-two-headed-giants-2008-03-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814224432id_/https://magic.wizards.com/en/articles/archive/feature/watch-out-two-headed-giants-2008-03-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 22:44:32+00:00"
+[_metadata_:author]:- "Devin Low"
 [_metadata_:description]:- "In a Magic world like Lorwyn or Dominaria, `Watch out for two-headed giants!` is just plain good advice. But in Magic development, the advice is just as sound. It's easy to find yourself focusing on two-player Magic during development, and that is how we test most often. But it's also important for us to make fun cards for Two-Headed Giant (2 vs. 2), Emperor (3 vs. 3),"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-03-14"
+[_metadata_:title]:- "Watch Out for Two-Headed Giants!"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 22:44:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814224432id_/https://magic.wizards.com/en/articles/archive/feature/watch-out-two-headed-giants-2008-03-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/watch-out-two-headed-giants-2008-03-14"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170704212319/http://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-part-1-2010-04-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-part-1-2010-04-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170704212319id_/http://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-part-1-2010-04-08"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-04 21:23:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-08"
+[_metadata_:title]:- "Enter the Eldrazi, Part 1"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-04 21:23:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170704212319id_/http://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-part-1-2010-04-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-part-1-2010-04-08"
 ---
 
 

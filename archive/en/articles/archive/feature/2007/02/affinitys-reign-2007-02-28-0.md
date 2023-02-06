@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170808055152/http://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28-0)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170808055152id_/http://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28-0"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-08 05:51:52+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Alright, I'll start off with last week's Standard recap. This will be the last time that I will cover online Standard before Planar Chaos becomes legal, as the release events will replace Constructed Premiers soon. The information in this table is actually real. Good thing nothing is banned in the healthy Standard format."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-02-28"
+[_metadata_:title]:- "Affinity's Reign"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-08 05:51:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170808055152id_/http://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28-0"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28-0"
 ---
 
 

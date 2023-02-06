@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024140134/https://magic.wizards.com/en/articles/archive/feature/beasts-return-2009-01-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/beasts-return-2009-01-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024140134id_/https://magic.wizards.com/en/articles/archive/feature/beasts-return-2009-01-30"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 14:01:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: James Wise's Beasts Format: Grand Prix–Los Angeles 3 Contested Cliffs 3 Forest 1 Mountain 1 Murmuring Bosk 2 Overgrown Tomb 1 Plains 1 Stomping Ground 1 Swamp 1 Temple Garden 4 Windswept Heath 4 Wooded Foothills 4 Birds of Paradise 3 Chameleon Colossus 4 Heartwood Storyteller 3 Indrik Stomphowler 4 Ravenous Baloth 4 Sakura-Tribe Elder 4 Thornscape Battlemage"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-30"
+[_metadata_:title]:- "Beasts Return"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 14:01:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024140134id_/https://magic.wizards.com/en/articles/archive/feature/beasts-return-2009-01-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/beasts-return-2009-01-30"
 ---
 
 

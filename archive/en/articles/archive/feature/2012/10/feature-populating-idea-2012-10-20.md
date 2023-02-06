@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150910183711/http://magic.wizards.com/en/articles/archive/feature/feature-populating-idea-2012-10-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-populating-idea-2012-10-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150910183711id_/http://magic.wizards.com/en/articles/archive/feature/feature-populating-idea-2012-10-20"
-[_metadata_:wayback_capture_timestamp]:- "2015-09-10 18:37:11+00:00"
+[_metadata_:author]:- "Ray “blisterguy” Walkinshaw"
 [_metadata_:description]:- "Drafting Selesnya sounds easy, right? Surely you draft creatures, big creatures, with teeth! And you put them on the battlefield, right? You line 'em up next to each other, and you turn 'em sideways repeatedly, until your opponent is nought but a greasy stain on the floor."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-20"
+[_metadata_:title]:- "Feature: Populating an Idea"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-10 18:37:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150910183711id_/http://magic.wizards.com/en/articles/archive/feature/feature-populating-idea-2012-10-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-populating-idea-2012-10-20"
 ---
 
 

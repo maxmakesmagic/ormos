@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019220832/https://magic.wizards.com/en/articles/archive/feature/illusions-2011-08-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/illusions-2011-08-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019220832id_/https://magic.wizards.com/en/articles/archive/feature/illusions-2011-08-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 22:08:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Griffin Corrigan's Illusions Format: TCGPlayer Championship 1 Halimar Depths 19 Island 4 Tectonic Edge 4 Lord of the Unreal 4 Phantasmal Bear 4 Phantasmal Dragon 4 Phantasmal Image 4 Renegade Doppelganger 4 Mana Leak 4 Ponder 4 Preordain 4 Spell Pierce *4 Flashfreeze *3 Mental Misstep *4 Neurok Commando *4 Spellskite [/decklist] With the release of Magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-08-17"
+[_metadata_:title]:- "Illusions"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 22:08:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019220832id_/https://magic.wizards.com/en/articles/archive/feature/illusions-2011-08-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/illusions-2011-08-17"
 ---
 
 

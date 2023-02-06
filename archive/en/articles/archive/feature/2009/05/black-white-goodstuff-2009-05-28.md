@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026085942/https://magic.wizards.com/en/articles/archive/feature/black-white-goodstuff-2009-05-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/black-white-goodstuff-2009-05-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026085942id_/https://magic.wizards.com/en/articles/archive/feature/black-white-goodstuff-2009-05-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 08:59:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Christopher Murray's Black-White Goodstuff Format: Regionals 2009 4 Caves of Koilos 4 Fetid Heath 2 Plains 13 Swamp 4 Demigod of Revenge 4 Nyxathid 2 Shriekmaw 4 Stillmoon Cavalier 4 Tidehollow Sculler 2 Mind Shatter 4 Path to Exile 4 Profane Command 2 Raven's Crime 4 Thoughtseize 3 Wrath of God *4 Burrenton Forge-Tender *4 Fulminator Mage *2 Infest *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-28"
+[_metadata_:title]:- "Black-White Goodstuff"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 08:59:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026085942id_/https://magic.wizards.com/en/articles/archive/feature/black-white-goodstuff-2009-05-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/black-white-goodstuff-2009-05-28"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220626203718/https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-table-2000-01-01-1)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-table-2000-01-01-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626203718id_/https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-table-2000-01-01-1"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 20:37:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPoints OpponentPointswww.alphabetaunlimited.com18vsPotato Peach18Team 25:1718vsScrambled Steak18Team Apprentice16vsDERAPIN16Magic Square15vsLoafing Giants15Team Shinjo15vsCircle Money Draft15Ohwarai no Genki15vsP-Kies15Nagator's15vsDekiru-Kana?15Team Thirties15vsPoor Shark15Susiyan15vsTokyo Butties15Benefactor15vsVoice of Soul15Yanitetsu15vsOO Parts15NISIKI15vsFB Shinjo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 7 Pairings (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 20:37:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626203718id_/https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-table-2000-01-01-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-table-2000-01-01-1"
 ---
 
 

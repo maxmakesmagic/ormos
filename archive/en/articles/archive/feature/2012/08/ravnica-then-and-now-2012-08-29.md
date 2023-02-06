@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160516140137/http://magic.wizards.com/en/articles/archive/feature/ravnica-then-and-now-2012-08-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ravnica-then-and-now-2012-08-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160516140137id_/http://magic.wizards.com/en/articles/archive/feature/ravnica-then-and-now-2012-08-29"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-16 14:01:37+00:00"
+[_metadata_:author]:- "Adam Lee"
 [_metadata_:description]:- "Ravnica is a plane covered by a vast metropolis. Within the great city, ten guilds vie for power, each carving out its territory within the maze of buildings and alleyways hoping to gain the upper hand in an intricate planar chess match."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-29"
+[_metadata_:title]:- "Ravnica, Then and Now"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-16 14:01:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160516140137id_/http://magic.wizards.com/en/articles/archive/feature/ravnica-then-and-now-2012-08-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ravnica-then-and-now-2012-08-29"
 ---
 
 

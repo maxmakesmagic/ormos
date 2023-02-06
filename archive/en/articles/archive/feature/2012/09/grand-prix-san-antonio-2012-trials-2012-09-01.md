@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521144342/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-antonio-2012-trials-2012-09-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-antonio-2012-trials-2012-09-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521144342id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-antonio-2012-trials-2012-09-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 14:43:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix San Antonio Trials will be run at WPN locations from September 22 to November 11, 2012. Each awards the winner a three-round bye to Grand Prix San Antonio.Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the individual store running the event. Possible"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-01"
+[_metadata_:title]:- "Grand Prix San Antonio 2012 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 14:43:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521144342id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-antonio-2012-trials-2012-09-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-antonio-2012-trials-2012-09-01"
 ---
 
 

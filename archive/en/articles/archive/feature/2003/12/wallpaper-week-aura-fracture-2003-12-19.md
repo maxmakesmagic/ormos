@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627162545/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-aura-fracture-2003-12-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-aura-fracture-2003-12-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627162545id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-aura-fracture-2003-12-19"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 16:25:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Rebecca Guay's Aura Fracture from Prophecy. Enjoy. 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-12-19"
+[_metadata_:title]:- "Wallpaper of the Week: Aura Fracture"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 16:25:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627162545id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-aura-fracture-2003-12-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-aura-fracture-2003-12-19"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160602202356/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-duels-planeswalkers-2009-06-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-duels-planeswalkers-2009-06-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160602202356id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-duels-planeswalkers-2009-06-05"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-02 20:23:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; As we told you on Wednesday, Duels of the Planeswalkers is coming out on June 17. Go to the Duels of the Planeswalkers web site for how to order. So we thought we'd run up to it with a few wallpapers! Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-05"
+[_metadata_:title]:- "Wallpaper of the Week: Duels of the Planeswalkers"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-02 20:23:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160602202356id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-duels-planeswalkers-2009-06-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-duels-planeswalkers-2009-06-05"
 ---
 
 

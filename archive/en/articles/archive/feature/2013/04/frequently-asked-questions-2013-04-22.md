@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160124025700/http://magic.wizards.com/en/articles/archive/feature/frequently-asked-questions-2013-04-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/frequently-asked-questions-2013-04-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160124025700id_/http://magic.wizards.com/en/articles/archive/feature/frequently-asked-questions-2013-04-22"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-24 02:57:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Compiled by Matt Tabak, with contributions from Laurie Cheers, Eli Shiffrin, and Thijs van Ommen Document last modified March 21, 2013"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-22"
+[_metadata_:title]:- "Frequently Asked Questions"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-24 02:57:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160124025700id_/http://magic.wizards.com/en/articles/archive/feature/frequently-asked-questions-2013-04-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/frequently-asked-questions-2013-04-22"
 ---
 
 

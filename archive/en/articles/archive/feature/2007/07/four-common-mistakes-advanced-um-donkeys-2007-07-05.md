@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161202090323/http://magic.wizards.com/en/articles/archive/feature/four-common-mistakes-advanced-um-donkeys-2007-07-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/four-common-mistakes-advanced-um-donkeys-2007-07-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161202090323id_/http://magic.wizards.com/en/articles/archive/feature/four-common-mistakes-advanced-um-donkeys-2007-07-05"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-02 09:03:23+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "I often justify the mistakes that I make in Magic (if not life) by saying that I learn from them and try not to make the same mistakes over and ove"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-07-05"
+[_metadata_:title]:- "Four Common Mistakes for Advanced, um, Donkeys"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-02 09:03:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161202090323id_/http://magic.wizards.com/en/articles/archive/feature/four-common-mistakes-advanced-um-donkeys-2007-07-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/four-common-mistakes-advanced-um-donkeys-2007-07-05"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701202756/https://magic.wizards.com/en/articles/archive/feature/semifinals-ken-ho-all-stars-vs-ancient-kavus-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-ken-ho-all-stars-vs-ancient-kavus-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701202756id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-ken-ho-all-stars-vs-ancient-kavus-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 20:27:56+00:00"
+[_metadata_:author]:- "David Price"
 [_metadata_:description]:- "Ken Ho All-Stars vs. The Ancient KavusIn this semifinal match, The Ken Ho All-Stars, comprised of Dan Clegg and Ken Ho from San Francisco and Lan D. Ho from Texas, were paired up against The Ancient Kavus, consisting of Matt Vienneau and Gary Krakower from Canada and Mike Pustilnik from New York City. The Ken Ho All-Stars were in first place after the swiss rounds with an"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Semifinals: Ken Ho All-Stars vs. The Ancient Kavus"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 20:27:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701202756id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-ken-ho-all-stars-vs-ancient-kavus-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-ken-ho-all-stars-vs-ancient-kavus-2000-01-01"
 ---
 
 

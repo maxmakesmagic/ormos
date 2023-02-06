@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160609172623/http://magic.wizards.com/en/articles/archive/feature/how-eternal-masters-graphics-2016-06-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/how-eternal-masters-graphics-2016-06-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160609172623id_/http://magic.wizards.com/en/articles/archive/feature/how-eternal-masters-graphics-2016-06-09"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-09 17:26:23+00:00"
+[_metadata_:author]:- "Diego Fumagalli"
 [_metadata_:description]:- "Eternal Masters Limited uses complex components from throughout Magic's history, so Diego stepped in to help you find the best synergies."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-06-09"
+[_metadata_:title]:- "How to Eternal Masters—In Graphics"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-09 17:26:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160609172623id_/http://magic.wizards.com/en/articles/archive/feature/how-eternal-masters-graphics-2016-06-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/how-eternal-masters-graphics-2016-06-09"
 ---
 
 

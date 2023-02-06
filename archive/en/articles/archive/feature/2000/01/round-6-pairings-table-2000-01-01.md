@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220703231652/https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703231652id_/https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 23:16:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TableTeamPointsOpponentPoints1The Ken Ho All-Stars15vsTeam Clasp152The Hubbsucker Proxy15vsTeam Needs a Hotel Room153Ride or Die15vsAlphaBetaUnlimited.com/134Team $20 Dolla Billz13vsThe Tails135Madam Fishnut13vsFamily Games Center136Bags13vsWho's the Other Dude127www.5color.com12vsDynasty128Thanks Craig and Seth12vsTeam Disgruntled Hobos129Frog Eaters12vsCrystal Pepsi1210Rug"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 6 Pairings (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 23:16:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703231652id_/https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01"
 ---
 
 

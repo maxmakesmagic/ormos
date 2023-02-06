@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208035618/https://magic.wizards.com/en/articles/archive/feature/magic-2010-wallpaper-3-2009-07-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2010-wallpaper-3-2009-07-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208035618id_/https://magic.wizards.com/en/articles/archive/feature/magic-2010-wallpaper-3-2009-07-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 03:56:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic 2010 Wallpaper 3 1280x960 Widescreen: 2560x1600 iPhone (320x480)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-07"
+[_metadata_:title]:- "Magic 2010 Wallpaper 3"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 03:56:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208035618id_/https://magic.wizards.com/en/articles/archive/feature/magic-2010-wallpaper-3-2009-07-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2010-wallpaper-3-2009-07-07"
 ---
 
 

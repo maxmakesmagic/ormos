@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150707020550/http://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150707020550id_/http://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-07 02:05:50+00:00"
+[_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "My original plan for this primer was to create a “Choose Your Own Adventure” format to walk you through the process of attending this weekend's Ravnica Prerelease events. As I started to lay it out it became apparent to me that it was not going to be as easy I as I originally had hoped. The problem stems from having such a wide variety of ways to experience the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-09-19"
+[_metadata_:title]:- "Choose Your Own Ravnica Adventure"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-07 02:05:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150707020550id_/http://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19"
 ---
 
 

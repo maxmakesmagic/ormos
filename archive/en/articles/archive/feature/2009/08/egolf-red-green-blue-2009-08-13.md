@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017153818/https://magic.wizards.com/en/articles/archive/feature/egolf-red-green-blue-2009-08-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/egolf-red-green-blue-2009-08-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017153818id_/https://magic.wizards.com/en/articles/archive/feature/egolf-red-green-blue-2009-08-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 15:38:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Marlon Egolf's Red-Green-Blue Draft Format: Grand Prix-Boston 2009 9 Forest 6 Island 2 Mountain 1 Rootbound Crag 1 Ant Queen 2 Borderland Ranger 1 Craw Wurm 1 Cudgel Troll 1 Elvish Visionary 2 Illusionary Servant 1 Llanowar Elves 1 Merfolk Looter 1 Shivan Dragon 1 Wind Drake 1 Earthquake 1 Entangling Vines 1 Howl of the Night Pack 1 Levitation 1 Naturalize 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-13"
+[_metadata_:title]:- "Egolf Red-Green-Blue"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 15:38:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017153818id_/https://magic.wizards.com/en/articles/archive/feature/egolf-red-green-blue-2009-08-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/egolf-red-green-blue-2009-08-13"
 ---
 
 

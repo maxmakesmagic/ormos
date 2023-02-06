@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151017135058/http://magic.wizards.com/en/articles/archive/feature/feature-checking-player-year-race-2011-09-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-checking-player-year-race-2011-09-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151017135058id_/http://magic.wizards.com/en/articles/archive/feature/feature-checking-player-year-race-2011-09-03"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-17 13:50:58+00:00"
+[_metadata_:author]:- "David Sutcliffe"
 [_metadata_:description]:- "The second draft here at Pro Tour Philadelphia marked the halfway point in this Pro Tour, with just eight more rounds to play before we cut to the lights, camera and action of the Top 8 on Sunday. In terms of the Player of the Year race, we are more like three quarters of the way through. If this was the 400m final in the Olympics, the runners would just be coming off the final bend and preparing for a last lung-bursting sprint to the finish line."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-02"
+[_metadata_:title]:- "Feature: Checking in on the Player of the Year Race"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-17 13:50:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151017135058id_/http://magic.wizards.com/en/articles/archive/feature/feature-checking-player-year-race-2011-09-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-checking-player-year-race-2011-09-03"
 ---
 
 

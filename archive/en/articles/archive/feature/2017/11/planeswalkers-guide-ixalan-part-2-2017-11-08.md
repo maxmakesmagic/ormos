@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171108231343/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ixalan-part-2-2017-11-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ixalan-part-2-2017-11-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171108231343id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ixalan-part-2-2017-11-08"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-08 23:13:43+00:00"
+[_metadata_:author]:- "R&D Narrative Team"
 [_metadata_:description]:- "The pirates and vampires of Ixalan have long been adversaries, even before both sailed toward the new continent."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-11-08"
+[_metadata_:title]:- "Planeswalker's Guide to Ixalan, Part 2"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-08 23:13:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171108231343id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ixalan-part-2-2017-11-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ixalan-part-2-2017-11-08"
 ---
 
 

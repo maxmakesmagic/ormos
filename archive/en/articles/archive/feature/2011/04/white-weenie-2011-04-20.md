@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210424155641/https://magic.wizards.com/en/articles/archive/feature/white-weenie-2011-04-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-weenie-2011-04-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210424155641id_/https://magic.wizards.com/en/articles/archive/feature/white-weenie-2011-04-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-24 15:56:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Bryce Kaff's White Weenie Format: Extended – Pro Tour Qualifier for PT Nagoya in Sacramento, CA 3 Glacial Fortress 12 Plains 4 Seachrome Coast 4 Windbrisk Heights 4 Ajani's Pridemate 1 Burrenton Forge-Tender 4 Figure of Destiny 2 Hero of Bladehold 3 Ranger of Eos 4 Soul Warden 4 Soul's Attendant 4 Brave the Elements 1 Elspeth, Knight-Errant 4 Honor of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-20"
+[_metadata_:title]:- "White Weenie"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-24 15:56:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210424155641id_/https://magic.wizards.com/en/articles/archive/feature/white-weenie-2011-04-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-weenie-2011-04-20"
 ---
 
 

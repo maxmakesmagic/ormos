@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170126143549/http://magic.wizards.com/en/articles/archive/feature/grixis-artifact-control-2012-04-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grixis-artifact-control-2012-04-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170126143549id_/http://magic.wizards.com/en/articles/archive/feature/grixis-artifact-control-2012-04-13"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-26 14:35:49+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The blue-black-red color combination hasn't seen a ton of play in Standard recently, but Magic Online player JesseTN is looking to change all of that. Showing up to a Magic Online Daily Event with a Kuldotha Phoenix-powered control deck, JesseTN put a new spin on the Grixis Control archetype."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-13"
+[_metadata_:title]:- "Grixis Artifact Control"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-26 14:35:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170126143549id_/http://magic.wizards.com/en/articles/archive/feature/grixis-artifact-control-2012-04-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grixis-artifact-control-2012-04-13"
 ---
 
 

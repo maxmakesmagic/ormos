@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160723022103/http://magic.wizards.com/en/articles/archive/feature/magic-online-avacyn-restored-prerelease-events-2012-05-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-avacyn-restored-prerelease-events-2012-05-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160723022103id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-avacyn-restored-prerelease-events-2012-05-01"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-23 02:21:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ignite the DawnThe archangel Avacyn has returned! A bright, fiery dawn banishes Innistrad's shadows. Humanity takes up arms and drives back the creatures of the night. With flights of angels overhead, the righteous band together and wield holy light and miraculous magic to restore the balance of their world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-01"
+[_metadata_:title]:- "Magic Online Avacyn Restored Prerelease Events"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-23 02:21:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160723022103id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-avacyn-restored-prerelease-events-2012-05-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-avacyn-restored-prerelease-events-2012-05-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200923030642/https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-2-2010-09-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-2-2010-09-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923030642id_/https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-2-2010-09-23"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 03:06:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Elspeth and Ajani are still embroiled in webcomic-based action. We speak, of course, of part two of Gathering Forces!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-23"
+[_metadata_:title]:- "Gathering Forces, Part 2"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 03:06:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923030642id_/https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-2-2010-09-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-2-2010-09-23"
 ---
 
 

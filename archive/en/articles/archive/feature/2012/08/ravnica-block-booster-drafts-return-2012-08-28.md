@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020134758/https://magic.wizards.com/en/articles/archive/feature/ravnica-block-booster-drafts-return-2012-08-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-block-booster-drafts-return-2012-08-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020134758id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-block-booster-drafts-return-2012-08-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 13:47:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Experience one of the most beloved Magic blocks for the first time or return to the City of Guilds and rejoin the battle as powerful guilds vie for control of the plane. This is your chance to play with your favorite guild or experiment with different ones as you whet your appetite for the upcoming Return to Ravnica release in October. RAVNICA BLOCK BOOSTER DRAFTS START TIMES:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-28"
+[_metadata_:title]:- "Ravnica Block Booster Drafts Return"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 13:47:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020134758id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-block-booster-drafts-return-2012-08-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-block-booster-drafts-return-2012-08-28"
 ---
 
 

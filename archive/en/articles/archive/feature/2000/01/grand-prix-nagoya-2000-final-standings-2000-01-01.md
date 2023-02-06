@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211206010654/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-final-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-final-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206010654id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-final-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 01:06:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rank Name 1 New Wave 2 Masato Club 3 Godzilla 4 Unluckys 5 Executioners 6 Ray Force 7 WACHI-DE? 8 Team Iwamoto 9 Team Masato 10 Trickster 11 NAGOYAN 12 Team Wild 13 Poor Shark 14 Long Thinking NEO Alpha 15 T.F.Z. 16 Team Geddon Beta 17 Team Imabiki 18 SAKURA Gumi 19 Team T.T.Y."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Nagoya 2000 Final Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 01:06:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206010654id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-final-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-final-standings-2000-01-01"
 ---
 
 

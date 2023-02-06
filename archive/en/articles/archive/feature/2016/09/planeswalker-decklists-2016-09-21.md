@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161222233716/http://magic.wizards.com/en/articles/archive/feature/planeswalker-decklists-2016-09-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalker-decklists-2016-09-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161222233716id_/http://magic.wizards.com/en/articles/archive/feature/planeswalker-decklists-2016-09-21"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-22 23:37:16+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "See all the cards contained in the Kaladesh Planeswalker Decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-09-21"
+[_metadata_:title]:- "Planeswalker Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-22 23:37:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161222233716id_/http://magic.wizards.com/en/articles/archive/feature/planeswalker-decklists-2016-09-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalker-decklists-2016-09-21"
 ---
 
 

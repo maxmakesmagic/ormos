@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526113246/https://magic.wizards.com/en/articles/archive/feature/black-white-tokens-2013-07-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/black-white-tokens-2013-07-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526113246id_/https://magic.wizards.com/en/articles/archive/feature/black-white-tokens-2013-07-09"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:32:46+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Today marks my first appearance as the author of Daily Decks, so I decided to kick things off with a deck that is near and dear to my heart: BW Tokens. Granted, the deck may no longer feature Bitterblossom, but this is more an update to the Standard list I played at PT Kyoto than a new deck. The deck is based on the combination of Honor of the Pure and Intangible Virtue, which"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-09"
+[_metadata_:title]:- "Black-White Tokens"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:32:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526113246id_/https://magic.wizards.com/en/articles/archive/feature/black-white-tokens-2013-07-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/black-white-tokens-2013-07-09"
 ---
 
 

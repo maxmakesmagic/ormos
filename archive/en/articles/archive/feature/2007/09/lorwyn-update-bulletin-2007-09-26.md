@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210418002232/https://magic.wizards.com/en/articles/archive/feature/lorwyn-update-bulletin-2007-09-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lorwyn-update-bulletin-2007-09-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418002232id_/https://magic.wizards.com/en/articles/archive/feature/lorwyn-update-bulletin-2007-09-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 00:22:32+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "SinceLorwyn is about to be released, it's time for another round of updates to the Comprehensive Rules and the Oracle card reference. This one is kind of a doozy, since over 1200 cards got errata.That's not a typo.Well, it's a typo if it doesn't say `over 1200 cards` for some reason."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-09-26"
+[_metadata_:title]:- "Lorwyn Update Bulletin"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-18 00:22:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418002232id_/https://magic.wizards.com/en/articles/archive/feature/lorwyn-update-bulletin-2007-09-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lorwyn-update-bulletin-2007-09-26"
 ---
 
 

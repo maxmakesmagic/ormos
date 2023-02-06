@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20221003234559/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-august-8-14-2009-08-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-august-8-14-2009-08-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221003234559id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-august-8-14-2009-08-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-10-03 23:45:59+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "August 8, 1999: Kai Budde Becomes World Champion Ten years ago, the World Championship came to Japan for the first time, and Kai Budde took home the big prize. Meanwhile, the German National Team (led by German National Champion Marco Blume)made it to the finals before losing to Team USA (led by US National Champion Kyle Rose). In the finals, Kai Budde took his Covetous Dragon"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-14"
+[_metadata_:title]:- "This Week in Magic History: August 8-14"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-03 23:45:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221003234559id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-august-8-14-2009-08-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-august-8-14-2009-08-14"
 ---
 
 

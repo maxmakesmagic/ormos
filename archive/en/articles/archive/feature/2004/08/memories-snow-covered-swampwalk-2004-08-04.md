@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211205003257/https://magic.wizards.com/en/articles/archive/feature/memories-snow-covered-swampwalk-2004-08-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/memories-snow-covered-swampwalk-2004-08-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205003257id_/https://magic.wizards.com/en/articles/archive/feature/memories-snow-covered-swampwalk-2004-08-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 00:32:57+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "We interrupt your regularly scheduled column for a walk down the icy path down of Kjeld's memory lane. Once upon a time, specifically when Ice Age was released, there was no Swimming with Sharks. In fact, there were no Magic: the Gathering content websites at all! There were, however, still Magic tournaments, where players were perhaps even more cutthroat and competitive than"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-04"
+[_metadata_:title]:- "Memories of Snow-covered Swampwalk"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 00:32:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205003257id_/https://magic.wizards.com/en/articles/archive/feature/memories-snow-covered-swampwalk-2004-08-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/memories-snow-covered-swampwalk-2004-08-04"
 ---
 
 

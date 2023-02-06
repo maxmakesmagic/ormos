@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160830220837/http://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93boston-2003-05-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93boston-2003-05-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160830220837id_/http://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93boston-2003-05-03"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-30 22:08:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Come join Wizards of the Coast as we kick off our 2003-2004 Pro Tour Season in Boston, MA! This information will help you to prepare now to attend in September. Pro Tour-Boston will be held September 12-14, 2003.Last Chance Qualifier"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-05-03"
+[_metadata_:title]:- "2003 Pro Tour–Boston"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-30 22:08:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160830220837id_/http://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93boston-2003-05-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93boston-2003-05-03"
 ---
 
 

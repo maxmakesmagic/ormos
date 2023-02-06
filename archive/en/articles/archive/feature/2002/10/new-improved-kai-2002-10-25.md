@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502163943/https://magic.wizards.com/en/articles/archive/feature/new-improved-kai-2002-10-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-improved-kai-2002-10-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502163943id_/https://magic.wizards.com/en/articles/archive/feature/new-improved-kai-2002-10-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:39:43+00:00"
 [_metadata_:description]:- "First, I want to follow up on an article I wrote a few weeks ago about the impending release of Onslaught on Magic Online. The Invitational helped us find three tiny bugs in Onslaught cards, which we’ll have no trouble fixing in the next week and everything will be ready to go on November 1st. Onslaught product will go on sale in the company store on Friday, November 1st and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-10-25"
+[_metadata_:title]:- "The New, Improved Kai"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:39:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502163943id_/https://magic.wizards.com/en/articles/archive/feature/new-improved-kai-2002-10-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-improved-kai-2002-10-25"
 ---
 
 

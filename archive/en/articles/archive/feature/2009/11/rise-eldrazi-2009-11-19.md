@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160628174156/http://magic.wizards.com/en/articles/archive/feature/rise-eldrazi-2009-11-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rise-eldrazi-2009-11-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160628174156id_/http://magic.wizards.com/en/articles/archive/feature/rise-eldrazi-2009-11-19"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-28 17:41:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-19"
+[_metadata_:title]:- "Rise of the Eldrazi"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-28 17:41:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160628174156id_/http://magic.wizards.com/en/articles/archive/feature/rise-eldrazi-2009-11-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rise-eldrazi-2009-11-19"
 ---
 
 

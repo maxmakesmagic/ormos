@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160308042242/http://magic.wizards.com/en/articles/archive/feature/type-x-what%E2%80%99s-name-2005-12-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/type-x-what%E2%80%99s-name-2005-12-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160308042242id_/http://magic.wizards.com/en/articles/archive/feature/type-x-what%E2%80%99s-name-2005-12-08"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-08 04:22:42+00:00"
+[_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "In the multiverse of Magic: the Gathering, there are many different formats. Newer players normally start out exploring Standard, then once your have been around a while, Extended may be more to your liking. There are a lot of old time players like me around and some of them enjoy Vintage. Personally, I like to play Sealed deck or booster draft. Everyone has a favorite format. I am going to look at each of these different formats and help you decide which ones you might have the most fun playing."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-12-08"
+[_metadata_:title]:- "Type X: What’s In A Name?"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-08 04:22:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160308042242id_/http://magic.wizards.com/en/articles/archive/feature/type-x-what%E2%80%99s-name-2005-12-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/type-x-what%E2%80%99s-name-2005-12-08"
 ---
 
 

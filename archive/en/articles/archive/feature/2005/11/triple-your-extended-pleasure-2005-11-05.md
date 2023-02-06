@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160731043931/http://magic.wizards.com/en/articles/archive/feature/triple-your-extended-pleasure-2005-11-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/triple-your-extended-pleasure-2005-11-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160731043931id_/http://magic.wizards.com/en/articles/archive/feature/triple-your-extended-pleasure-2005-11-05"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-31 04:39:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "With Pro Tour-Los Angeles barely in the rearview mirror and the Pro Tour Qualifier season starting up in earnest, you'd think that might be enough to satisfy your Extended cravings. Oh, how wrong you'd be. Our globe-trotting coverage staff scattered across the world to bring you reports from Grand Prix in Melbourne, Kitakyuushuu, and Copenhagen. Did Boros Deck Wins continue its success from L.A.? What about the many shades of Psychatog? What about new tech? Read the coverage and make your own decisions!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-11-05"
+[_metadata_:title]:- "Triple Your Extended Pleasure"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-31 04:39:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160731043931id_/http://magic.wizards.com/en/articles/archive/feature/triple-your-extended-pleasure-2005-11-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/triple-your-extended-pleasure-2005-11-05"
 ---
 
 

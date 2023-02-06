@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210301110221/https://magic.wizards.com/en/articles/archive/feature/deck-brain-and-lot-friends-2010-12-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deck-brain-and-lot-friends-2010-12-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210301110221id_/https://magic.wizards.com/en/articles/archive/feature/deck-brain-and-lot-friends-2010-12-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-03-01 11:02:21+00:00"
+[_metadata_:author]:- "Dave Mills"
 [_metadata_:description]:- "It's no secret that I'm not especially interested in multiplayer strategy. It inevitably makes the assumption that there's only one reason to play Magic, and that's to win. Winning is fun. I like winning. But, as I argued in The Timmy Manifesto, overemphasis on strategy for multiplayer—an almost purely casual pursuit—runs the risk of marginalizing the reasons that a lot of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-06"
+[_metadata_:title]:- "A Deck, a Brain, and a Lot of Friends"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-01 11:02:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210301110221id_/https://magic.wizards.com/en/articles/archive/feature/deck-brain-and-lot-friends-2010-12-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deck-brain-and-lot-friends-2010-12-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170906154455/http://magic.wizards.com/en/articles/archive/feature/owling-mine-2009-05-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/owling-mine-2009-05-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906154455id_/http://magic.wizards.com/en/articles/archive/feature/owling-mine-2009-05-04"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-06 15:44:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Tiago Chan's Owling Mine Format: Pro Tour-Honolulu 2006 10 Island 2 Mountain 2 Mikokoro, Center of the Sea 4 Steam Vents 4 Shivan Reef 4 Kami of the Crescent Moon 4 Sleight of Hand 4 Boomerang 4 Exhaustion 2 Evacuation 4 Eye of Nowhere 4 Remand 4 Howling Mine 4 Sudden Impact 4 Ebony Owl Netsuke *3 Mana Leak *2 Meloku the Clouded Mirror *4 Threads of Disloyalty *3 Pyroclasm *3 Blood Moon"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-04"
+[_metadata_:title]:- "Owling Mine"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-06 15:44:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906154455id_/http://magic.wizards.com/en/articles/archive/feature/owling-mine-2009-05-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/owling-mine-2009-05-04"
 ---
 
 

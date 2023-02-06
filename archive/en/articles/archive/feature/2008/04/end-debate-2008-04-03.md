@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210501184527/https://magic.wizards.com/en/articles/archive/feature/end-debate-2008-04-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/end-debate-2008-04-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501184527id_/https://magic.wizards.com/en/articles/archive/feature/end-debate-2008-04-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-01 18:45:27+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Your Red Decks Wins players will tend to fall into two camps. There are those that will spend four or even eight main deck slots on three-mana land destruction (usually with some kind of an upside... say the 2 damage of a Molten Rain or the flexibility of killing a Platinum Angel, as with Pillage), versus those who would rather just forget about it and play a set of Volcanic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-04-03"
+[_metadata_:title]:- "The End of the Debate?"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-01 18:45:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501184527id_/https://magic.wizards.com/en/articles/archive/feature/end-debate-2008-04-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/end-debate-2008-04-03"
 ---
 
 

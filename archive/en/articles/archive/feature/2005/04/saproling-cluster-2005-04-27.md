@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429210358/https://magic.wizards.com/en/articles/archive/feature/saproling-cluster-2005-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saproling-cluster-2005-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429210358id_/https://magic.wizards.com/en/articles/archive/feature/saproling-cluster-2005-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 21:03:58+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Fallen Empires first introduced us to the Saproling. Looking back, I remember thinking that the Thallids were pretty cool. I even had a Green/Red beatdown deck that used the humble Thallid. Edward Beard, Jr.'s art was my favorite Thallid art (it reminded me of the game Awful Green Things from Outer Space), so I made sure to play only his version."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-04-27"
+[_metadata_:title]:- "Saproling Cluster"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 21:03:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429210358id_/https://magic.wizards.com/en/articles/archive/feature/saproling-cluster-2005-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saproling-cluster-2005-04-27"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220808084321/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-world-championships-2008-01-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-world-championships-2008-01-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808084321id_/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-world-championships-2008-01-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 08:43:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Complete Coverage of the 2008 World Championships Get a full rundown of all the happenings at 2008 Worlds by downloading The Gazetteer! This full-color handout contains public event details, venue information, hall activities, lists of nearby Wizards Play Network locations, and a coupon for Super Friday Night Magic!PDF (1.5 MB) The 2008 Magic: The Gathering World Championships"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-01-23"
+[_metadata_:title]:- "2008 Magic: The Gathering World Championships"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 08:43:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808084321id_/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-world-championships-2008-01-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-world-championships-2008-01-23"
 ---
 
 

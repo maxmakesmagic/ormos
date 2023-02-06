@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522203900/https://magic.wizards.com/en/articles/archive/feature/campionato-wpn-%E2%80%93-tornei-di-qualificazione-firenze-2010-10-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/campionato-wpn-%E2%80%93-tornei-di-qualificazione-firenze-2010-10-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522203900id_/https://magic.wizards.com/en/articles/archive/feature/campionato-wpn-%E2%80%93-tornei-di-qualificazione-firenze-2010-10-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:39:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "I Campionato WPN – Tornei di Qualificazione per Firenze sono una serie di tornei di qualificazione che si svolgono in tutta Europa dal 8 ottobre al 21 novembre 2010. Il vincitore di ogni torneo di qualificazione riceve un invito alla finale Campionato WPN - Firenze, che si svolge durante il GP Firenze 2010 di Magic: the Gathering in Firenze, Italia, il 28 novembre 2010. (Nota:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-10-14"
+[_metadata_:title]:- "Campionato WPN – Tornei di Qualificazione per Firenze"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:39:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522203900id_/https://magic.wizards.com/en/articles/archive/feature/campionato-wpn-%E2%80%93-tornei-di-qualificazione-firenze-2010-10-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/campionato-wpn-%E2%80%93-tornei-di-qualificazione-firenze-2010-10-14"
 ---
 
 

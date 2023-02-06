@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119142601/https://magic.wizards.com/en/articles/archive/feature/developing-vintage-masters-2014-05-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/developing-vintage-masters-2014-05-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119142601id_/https://magic.wizards.com/en/articles/archive/feature/developing-vintage-masters-2014-05-12"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 14:26:01+00:00"
+[_metadata_:author]:- "Ian Duke"
 [_metadata_:description]:- "Hi all! I'm Ian Duke and I work as a developer in Magic R&D. I've been with Wizards for about two years, and Vintage Masters was my first opportunity to lead the development of a set release. I'm super excited to dive in and tell you all about the process of building this awesome draft format, but since this is a preview article, I'll have to restrain myself a bit! Being a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-12"
+[_metadata_:title]:- "Developing Vintage Masters"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 14:26:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119142601id_/https://magic.wizards.com/en/articles/archive/feature/developing-vintage-masters-2014-05-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/developing-vintage-masters-2014-05-12"
 ---
 
 

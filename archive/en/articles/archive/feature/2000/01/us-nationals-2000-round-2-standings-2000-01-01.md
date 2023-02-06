@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202212655/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202212655id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 21:26:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Kastle, Darwin 6 50.0000 100.0000 53.3333 2/2/0/0 2 Finkel, Jon 6 50.0000 100.0000 50.0000 2/2/0/0 3 Mourssali, Riad 6 50.0000 100.0000 50.0000 2/2/0/0 4 Crosby, Joseph 6 50.0000 100.0000 50.0000 2/2/0/0 5 Fung, Elliot 6 50.0000 100.0000 45.0000 2/2/0/0 6 Fortenberry, Joe 6 50.0000 100.0000 45.0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Round 2 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 21:26:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202212655id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-standings-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170823035911/http://magic.wizards.com/en/articles/archive/feature/modern-zoo-2011-08-31)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-zoo-2011-08-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170823035911id_/http://magic.wizards.com/en/articles/archive/feature/modern-zoo-2011-08-31"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-23 03:59:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Nemesisjoe's Modern Zoo Format: Modern – 4-0 in a Daily Event on Magic Online 4 Arid Mesa 1 Blood Crypt 1 Godless Shrine 4 Misty Rainforest 1 Mountain 1 Overgrown Tomb 1 Plains 1 Sacred Foundry 3 Scalding Tarn 1 Steam Vents 1 Stomping Ground 1 Temple Garden 4 Dark Confidant 4 Grim Lavamancer 4 Kird Ape 4 Qasali Pridemage 4 Tarmogoyf 4 Wild Nacatl 4 Lightning Bolt 4 Lightning Helix 4 Path to Exile 4 Tribal Flames"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-08-31"
+[_metadata_:title]:- "Modern Zoo"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-23 03:59:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170823035911id_/http://magic.wizards.com/en/articles/archive/feature/modern-zoo-2011-08-31"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-zoo-2011-08-31"
 ---
 
 

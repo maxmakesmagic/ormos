@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519190105/https://magic.wizards.com/en/articles/archive/feature/modern-masters-magic-online-june-14-2013-05-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-masters-magic-online-june-14-2013-05-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519190105id_/https://magic.wizards.com/en/articles/archive/feature/modern-masters-magic-online-june-14-2013-05-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:01:05+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "June 18 Update: Hi all. The excitement around Grand Prix Las Vegas has inspired the Magic Online team to create a Modern Masters sealed Swiss Phantom queue. The full details about this new queue are updated below. Here is a recap.The Modern Masters sealed Swiss Phantom queues follow the following structure:Modern Masters Phantom Sealed Queues Location: Release Queues room."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-28"
+[_metadata_:title]:- "Modern Masters on Magic Online June 14"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:01:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519190105id_/https://magic.wizards.com/en/articles/archive/feature/modern-masters-magic-online-june-14-2013-05-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-masters-magic-online-june-14-2013-05-28"
 ---
 
 

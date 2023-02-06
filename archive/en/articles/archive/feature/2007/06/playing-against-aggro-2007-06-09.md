@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170813082857/http://magic.wizards.com/en/articles/archive/feature/playing-against-aggro-2007-06-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/playing-against-aggro-2007-06-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170813082857id_/http://magic.wizards.com/en/articles/archive/feature/playing-against-aggro-2007-06-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-13 08:28:57+00:00"
+[_metadata_:author]:- "Jeff Cunningham"
 [_metadata_:description]:- "Strategies for taking down aggro decks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-01"
+[_metadata_:title]:- "Playing Against Aggro"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-13 08:28:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170813082857id_/http://magic.wizards.com/en/articles/archive/feature/playing-against-aggro-2007-06-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/playing-against-aggro-2007-06-09"
 ---
 
 

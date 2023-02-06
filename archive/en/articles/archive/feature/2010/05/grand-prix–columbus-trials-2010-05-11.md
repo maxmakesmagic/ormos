@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516163418/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93columbus-trials-2010-05-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93columbus-trials-2010-05-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516163418id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93columbus-trials-2010-05-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 16:34:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with the local organizer for specific information. Format Legacy-constructed format Deck lists are required. Tournament Length Swiss rounds will each be 50 minutes in length Top 8 matches will have no time limit Number of Swiss rounds based on attendance according to the following chart: AttendanceNo. of Rounds 8 –"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-05-11"
+[_metadata_:title]:- "Grand Prix–Columbus Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 16:34:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516163418id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93columbus-trials-2010-05-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93columbus-trials-2010-05-11"
 ---
 
 

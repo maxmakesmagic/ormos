@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180117185000/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-trials-begin-2018-01-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-trials-begin-2018-01-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180117185000id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-trials-begin-2018-01-16"
-[_metadata_:wayback_capture_timestamp]:- "2018-01-17 18:50:00+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Today marks the start of the trials for the Great Designer Search 3!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-01-16"
+[_metadata_:title]:- "Great Designer Search 3 Trials Begin"
+[_metadata_:wayback_capture_timestamp]:- "2018-01-17 18:50:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180117185000id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-trials-begin-2018-01-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-trials-begin-2018-01-16"
 ---
 
 

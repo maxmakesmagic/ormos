@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170730080003/http://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos-2002-12-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos-2002-12-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170730080003id_/http://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos-2002-12-25"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-30 08:00:03+00:00"
+[_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "MagicTheGathering.Combos got an amazing amount of reader feedback; it seems to be the level of strategy you guys are looking for. I have the follow-up halfway done, and I promise I'll get cracking on it so that it can be more of a regular feature in the new year.  —Aaron"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-12-25"
+[_metadata_:title]:- "MagicTheGathering.Combos"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-30 08:00:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170730080003id_/http://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos-2002-12-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos-2002-12-25"
 ---
 
 

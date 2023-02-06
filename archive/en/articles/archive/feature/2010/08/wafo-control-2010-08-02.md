@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220514232534/https://magic.wizards.com/en/articles/archive/feature/wafo-control-2010-08-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wafo-control-2010-08-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220514232534id_/https://magic.wizards.com/en/articles/archive/feature/wafo-control-2010-08-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-14 23:25:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Guillaume Wafo-Tapa's Control Format: Standard - 2nd Place - 2010 France Nationals 4 Celestial Colonnade 4 Glacial Fortress 5 Island 4 Plains 1 Scalding Tarn 4 Sejiri Refuge 4 Tectonic Edge 2 Sun Titan 4 Wall of Omens 1 Cancel 2 Condemn 2 Day of Judgment 2 Deprive 2 Elspeth, Knight-Errant 2 Essence Scatter 1 Gideon Jura 3 Jace Beleren 3 Jace, the Mind"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-02"
+[_metadata_:title]:- "Wafo Control"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-14 23:25:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220514232534id_/https://magic.wizards.com/en/articles/archive/feature/wafo-control-2010-08-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wafo-control-2010-08-02"
 ---
 
 

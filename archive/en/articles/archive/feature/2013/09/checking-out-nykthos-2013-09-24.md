@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160504141659/http://magic.wizards.com/en/articles/archive/feature/checking-out-nykthos-2013-09-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/checking-out-nykthos-2013-09-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160504141659id_/http://magic.wizards.com/en/articles/archive/feature/checking-out-nykthos-2013-09-24"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-04 14:16:59+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-24"
+[_metadata_:title]:- "Checking Out Nykthos"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-04 14:16:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160504141659id_/http://magic.wizards.com/en/articles/archive/feature/checking-out-nykthos-2013-09-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/checking-out-nykthos-2013-09-24"
 ---
 
 

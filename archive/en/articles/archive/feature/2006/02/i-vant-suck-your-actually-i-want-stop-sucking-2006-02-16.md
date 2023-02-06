@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202075544/https://magic.wizards.com/en/articles/archive/feature/i-vant-suck-your-actually-i-want-stop-sucking-2006-02-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/i-vant-suck-your-actually-i-want-stop-sucking-2006-02-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202075544id_/https://magic.wizards.com/en/articles/archive/feature/i-vant-suck-your-actually-i-want-stop-sucking-2006-02-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 07:55:44+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Vampires are perhaps the most iconic monsters in all the worlds of fancy. They are feral and stomach churning like old Nosferatu. They are both horrifying mass murderers like legend-inspiring Vlad and heroes on paths to redemption like Buffy's onetime beau Angel. They are dead sexy, um, dead people like Kate Beckinsale in Underworld... or Brad Pitt in Interview with the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-02-16"
+[_metadata_:title]:- "I Vant To Suck Your... Actually I Want To Stop Sucking"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 07:55:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202075544id_/https://magic.wizards.com/en/articles/archive/feature/i-vant-suck-your-actually-i-want-stop-sucking-2006-02-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/i-vant-suck-your-actually-i-want-stop-sucking-2006-02-16"
 ---
 
 

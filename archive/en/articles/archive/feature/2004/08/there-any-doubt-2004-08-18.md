@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211204204732/https://magic.wizards.com/en/articles/archive/feature/there-any-doubt-2004-08-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/there-any-doubt-2004-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204204732id_/https://magic.wizards.com/en/articles/archive/feature/there-any-doubt-2004-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 20:47:32+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "‘04 JSS Champion, and now GP NJ Champion, Jeff GarzaIf there was any doubt about the dominant deck in Mirrodin Block, this past week's Grand Prix New Jersey may have just eradicated it. As faithful sharks trying to sharpen your dorsal fins, I'm sure you all followed the New Jersey coverage here on magicthegathering.com. But if you missed it, you can go read up on the event"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-18"
+[_metadata_:title]:- "Is There Any Doubt?"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 20:47:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204204732id_/https://magic.wizards.com/en/articles/archive/feature/there-any-doubt-2004-08-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/there-any-doubt-2004-08-18"
 ---
 
 

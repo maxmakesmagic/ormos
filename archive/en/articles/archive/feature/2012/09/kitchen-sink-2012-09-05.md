@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220630101304/https://magic.wizards.com/en/articles/archive/feature/kitchen-sink-2012-09-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kitchen-sink-2012-09-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630101304id_/https://magic.wizards.com/en/articles/archive/feature/kitchen-sink-2012-09-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 10:13:04+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "When you think about black as a color, it really does have a deep bag of tricks. Outside of interacting with enchantments and artifacts that have already hit play, what else can't it do? Need a creature killed? Black. A card plucked from someone's hand? Black. Need to remove that Golgari Grave-Troll that has been causing you problems from the graveyard? Black. This kind of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-05"
+[_metadata_:title]:- "The Kitchen Sink"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 10:13:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630101304id_/https://magic.wizards.com/en/articles/archive/feature/kitchen-sink-2012-09-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kitchen-sink-2012-09-05"
 ---
 
 

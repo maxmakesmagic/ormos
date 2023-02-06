@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210119192257/https://magic.wizards.com/en/articles/archive/feature/leading-kaldheim-set-design-2021-01-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/leading-kaldheim-set-design-2021-01-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210119192257id_/https://magic.wizards.com/en/articles/archive/feature/leading-kaldheim-set-design-2021-01-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-19 19:22:57+00:00"
+[_metadata_:author]:- "Dave Humpherys"
 [_metadata_:description]:- "Dave Humpherys, set design lead for Kaldheim, reflects on how the set came together during set design and shows off a preview card."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-01-19"
+[_metadata_:title]:- "Leading Kaldheim Set Design"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-19 19:22:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210119192257id_/https://magic.wizards.com/en/articles/archive/feature/leading-kaldheim-set-design-2021-01-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/leading-kaldheim-set-design-2021-01-19"
 ---
 
 

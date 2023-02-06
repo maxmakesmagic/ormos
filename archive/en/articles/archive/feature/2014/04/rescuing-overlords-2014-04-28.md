@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220814191419/https://magic.wizards.com/en/articles/archive/feature/rescuing-overlords-2014-04-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rescuing-overlords-2014-04-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814191419id_/https://magic.wizards.com/en/articles/archive/feature/rescuing-overlords-2014-04-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 19:14:19+00:00"
+[_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "On April 18, Magic Online hosted an R&D Challenge where everyone was invited to play against members of Wizards R&D... and win their packs! Magic Online user Better_then_u took home the lion's share of the prizes, as the lone player to go 5–0 outside of Magic R&D. Better_then_u's deck of choice was one of the strongest decks in Theros Block Constructed, Junk Reanimator."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-04-28"
+[_metadata_:title]:- "Rescuing Overlords"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 19:14:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814191419id_/https://magic.wizards.com/en/articles/archive/feature/rescuing-overlords-2014-04-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rescuing-overlords-2014-04-28"
 ---
 
 

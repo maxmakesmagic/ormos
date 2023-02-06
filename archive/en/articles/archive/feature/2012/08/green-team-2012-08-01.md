@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220707180857/https://magic.wizards.com/en/articles/archive/feature/green-team-2012-08-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-team-2012-08-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707180857id_/https://magic.wizards.com/en/articles/archive/feature/green-team-2012-08-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 18:08:57+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "A little while back, here on Daily Decks, we talked about a new deck that looked to abuse Primal Surge. Now, Primal Surge is quite the unique card and building around it can be tough, making for decks that are likely just below the competitive threshold, but still offer a lot of fun and potential. Within the shell that contained Primal Surge, though, secretly a competitive"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-01"
+[_metadata_:title]:- "The Green Team"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 18:08:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707180857id_/https://magic.wizards.com/en/articles/archive/feature/green-team-2012-08-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-team-2012-08-01"
 ---
 
 

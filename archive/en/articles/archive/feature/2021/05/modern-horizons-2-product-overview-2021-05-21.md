@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210522095540/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-product-overview-2021-05-21?utm_source=dlvr.it&utm_medium=twitter)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-product-overview-2021-05-21?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210522095540id_/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-product-overview-2021-05-21?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-22 09:55:40+00:00"
+[_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "Learn all about the booster packs, products, and more coming with Modern Horizons 2."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-05-21"
+[_metadata_:title]:- "Modern Horizons 2 Product Overview"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-22 09:55:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210522095540id_/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-product-overview-2021-05-21?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-product-overview-2021-05-21?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

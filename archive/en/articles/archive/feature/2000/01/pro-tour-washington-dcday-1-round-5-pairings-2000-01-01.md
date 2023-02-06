@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520115844/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520115844id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 11:58:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points 770 (26) 6 23 One-Ders (11) 6 Amsterdam (52) 1 38 Taz (34) 2 Antarctica (42) 9 9 Mana-Hattan (58) 9 ATM (64) 7 13 Luscious (51) 7 Babes of the Dingo (70) 9 5 Utrecht (49) 9 Big Dogs (27) 9 7 The Tank (47) 9 Billy Goats Gruff (61) 3 35 Hellfire Hannover (18) 3 Brown Bomber (69) 7 11 Shpadoinkle (17) 7 CCC (60) 6 17 SLB (2) 6 Champions (38) 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 5 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 11:58:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520115844id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-pairings-2000-01-01"
 ---
 
 

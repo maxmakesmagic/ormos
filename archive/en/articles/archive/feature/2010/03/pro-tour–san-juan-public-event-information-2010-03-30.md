@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029131457/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-public-event-information-2010-03-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-public-event-information-2010-03-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029131457id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-public-event-information-2010-03-30"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 13:14:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pro Tour–San Juan Main Event Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-30"
+[_metadata_:title]:- "Pro Tour–San Juan Public Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 13:14:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029131457id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-public-event-information-2010-03-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-public-event-information-2010-03-30"
 ---
 
 

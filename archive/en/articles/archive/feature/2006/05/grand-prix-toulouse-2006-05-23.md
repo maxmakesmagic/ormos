@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220817192336/https://magic.wizards.com/en/articles/archive/feature/grand-prix-toulouse-2006-05-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-toulouse-2006-05-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817192336id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-toulouse-2006-05-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-17 19:23:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Nothing to lose in Toulouse! Grand Prix are easily the biggest open events the DCI offers. They're high-energy and held around the world. Plus, no invitation is necessary -- anyone can attend. Even if you don’t want to attend the main event, there are still plenty of reasons to come. A Grand Prix is not just a regular Magic tournament… Grand Prix’s in Europe are true Magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-05-23"
+[_metadata_:title]:- "Grand Prix - Toulouse"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-17 19:23:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817192336id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-toulouse-2006-05-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-toulouse-2006-05-23"
 ---
 
 

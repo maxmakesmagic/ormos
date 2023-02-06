@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160524000810/http://magic.wizards.com/en/articles/archive/feature/conflux-intro-packs-2008-12-18)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/conflux-intro-packs-2008-12-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160524000810id_/http://magic.wizards.com/en/articles/archive/feature/conflux-intro-packs-2008-12-18"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-24 00:08:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Let's talk about the Conflux Intro Packs for a second. Just like in Shards of Alara, we're not having 60-card Theme Decks. Instead, we have Intro Packs. Each one is a 41-card preconstructed deck. Why not forty? Because that extra card is a foil rare, that's why! Each deck also comes with a strategy insert, a learn-to-play insert, and a 15-card Conflux booster pack. And they look like this:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-18"
+[_metadata_:title]:- "Conflux Intro Packs"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-24 00:08:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160524000810id_/http://magic.wizards.com/en/articles/archive/feature/conflux-intro-packs-2008-12-18"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/conflux-intro-packs-2008-12-18"
 ---
 
 

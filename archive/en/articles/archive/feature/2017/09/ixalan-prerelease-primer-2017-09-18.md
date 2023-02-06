@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170918144455/https://magic.wizards.com/en/articles/archive/feature/ixalan-prerelease-primer-2017-09-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ixalan-prerelease-primer-2017-09-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170918144455id_/https://magic.wizards.com/en/articles/archive/feature/ixalan-prerelease-primer-2017-09-18"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-18 14:44:55+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "With another set comes another Prerelease, and Gavin once again has answers to any questions you may have!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-09-18"
+[_metadata_:title]:- "Ixalan Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-18 14:44:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170918144455id_/https://magic.wizards.com/en/articles/archive/feature/ixalan-prerelease-primer-2017-09-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ixalan-prerelease-primer-2017-09-18"
 ---
 
 

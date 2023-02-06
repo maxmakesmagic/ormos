@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170309080558/http://magic.wizards.com/en/articles/archive/feature/countertop-2009-03-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/countertop-2009-03-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309080558id_/http://magic.wizards.com/en/articles/archive/feature/countertop-2009-03-16"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 08:05:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Gabriel Nassif's CounterTop Format: Grand Prix-Chicago 4 Flooded Strand 2 Island 4 Polluted Delta 3 Tropical Island 3 Tundra 4 Underground Sea 4 Dark Confidant 2 Sower of Temptation 4 Tarmogoyf 2 Trygon Predator 4 Brainstorm 4 Counterbalance 3 Daze 4 Force of Will 1 Krosan Grip 2 Ponder 4 Sensei's Divining Top 4 Swords to Plowshares 2 Vedalken Shackles *1 Blue Elemental Blast *1 Burrenton Forge-Tender *1 Darkblast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-16"
+[_metadata_:title]:- "CounterTop"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 08:05:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309080558id_/http://magic.wizards.com/en/articles/archive/feature/countertop-2009-03-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/countertop-2009-03-16"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170310011413/http://magic.wizards.com/en/articles/archive/feature/time-sieve-combo-2010-05-11)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/time-sieve-combo-2010-05-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170310011413id_/http://magic.wizards.com/en/articles/archive/feature/time-sieve-combo-2010-05-11"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-10 01:14:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Daniel Villamizar's Time Sieve Combo Format: Standard – Pro Tour Qualifier for PT–Amsterdam 5 Island 7 Plains 4 Swamp 4 Pilgrim's Eye 4 Angelsong 1 Dispeller's Capsule 4 Fieldmist Borderpost 4 Howling Mine 4 Kaleidostone 4 Mistvein Borderpost 4 Open the Vaults 4 Prophetic Prism 3 Tezzeret the Seeker 1 Thopter Foundry 3 Time Sieve 4 Time Warp *4 Day of Judgment *1 Executioner's Capsule *4 Negate *1 Spell Pierce"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-05-11"
+[_metadata_:title]:- "Time Sieve Combo"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-10 01:14:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170310011413id_/http://magic.wizards.com/en/articles/archive/feature/time-sieve-combo-2010-05-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/time-sieve-combo-2010-05-11"
 ---
 
 

@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030032425/https://magic.wizards.com/en/articles/archive/feature/round-8-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030032425id_/https://magic.wizards.com/en/articles/archive/feature/round-8-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:24:25+00:00"
 [_metadata_:description]:- "Rank Player Points Op.Win% 1 Saux, Rafaël A Le 24 80.00% 2 Ruel, Antoine 22 78.33% 3 Svaldi, Guilherme Dei 22 76.88% 4 Gabrenja, Matias 22 73.92% 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 8 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:24:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030032425id_/https://magic.wizards.com/en/articles/archive/feature/round-8-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-standings-2000-01-01"
 ---
 
 

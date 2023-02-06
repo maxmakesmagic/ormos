@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211127212702/https://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-08-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-08-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127212702id_/https://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-08-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 21:27:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Avacyn Few know why prayers to Avacyn have gone unanswered, but the consequence is clear to all—the old ways no longer carry the power they once had. In her unexplained absence, the power of Avacyn's influence fades, and the power of Innistrad's fiendish ilk grows. The aristocratic vampire families hunt peasant blood for sport and sustenance. Packs of snarling werewolves"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-08-31"
+[_metadata_:title]:- "The World of Innistrad"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 21:27:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127212702id_/https://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-08-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-08-31"
 ---
 
 

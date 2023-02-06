@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023200324/https://magic.wizards.com/en/articles/archive/feature/2011-australia-national-championship-2009-04-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-australia-national-championship-2009-04-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023200324id_/https://magic.wizards.com/en/articles/archive/feature/2011-australia-national-championship-2009-04-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 20:03:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: July 23-24, 2011 Event Location: Rydges Lakeside Address: London Circuit, Canberra City, ACT 2600 Eligibility The Magic: the Gathering Australia National Championship is an invitation-only event, open to citizens or permanent residents of Australia who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-06"
+[_metadata_:title]:- "2011 Australia National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 20:03:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023200324id_/https://magic.wizards.com/en/articles/archive/feature/2011-australia-national-championship-2009-04-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-australia-national-championship-2009-04-06"
 ---
 
 

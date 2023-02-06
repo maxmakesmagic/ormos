@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150911105703/http://magic.wizards.com/en/articles/archive/feature/feature-losing-control-2011-09-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-losing-control-2011-09-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150911105703id_/http://magic.wizards.com/en/articles/archive/feature/feature-losing-control-2011-09-03"
-[_metadata_:wayback_capture_timestamp]:- "2015-09-11 10:57:03+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Players at Philadelphia have discovered that Modern has a multitude of deck options, from Affinity to various flavors of Zoo to Twelvepost, Pyromancer Ascension, several types of Storm decks, Melira-based decks, and Elves, among others. But one thing they haven't had as much luck finding is a strong control deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-02"
+[_metadata_:title]:- "Feature: Losing Control"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-11 10:57:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150911105703id_/http://magic.wizards.com/en/articles/archive/feature/feature-losing-control-2011-09-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-losing-control-2011-09-03"
 ---
 
 

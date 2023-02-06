@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024022801/https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-brasileiro-2011-2009-06-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-brasileiro-2011-2009-06-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024022801id_/https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-brasileiro-2011-2009-06-30"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 02:28:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Data: 17 e 18 de Setembro de 2011Local: Devir LivrariaEndereço: R."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-30"
+[_metadata_:title]:- "Campeonato Nacional Brasileiro 2011"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 02:28:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024022801id_/https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-brasileiro-2011-2009-06-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-brasileiro-2011-2009-06-30"
 ---
 
 

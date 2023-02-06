@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123122440/https://magic.wizards.com/en/articles/archive/feature/final-standings-taem-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-standings-taem-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123122440id_/https://magic.wizards.com/en/articles/archive/feature/final-standings-taem-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 12:24:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPrizePoints 713,141596 *   11Absolute Samuels$6001 21Accellerated Vares8 Volante   66Agifalw   2AlphaBetaUnlimited.com$3,0003 73Altrove *  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Final Standings (By Taem)"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 12:24:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123122440id_/https://magic.wizards.com/en/articles/archive/feature/final-standings-taem-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-standings-taem-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523022042/https://magic.wizards.com/en/articles/archive/feature/hallelujah-2013-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hallelujah-2013-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523022042id_/https://magic.wizards.com/en/articles/archive/feature/hallelujah-2013-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 02:20:42+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Alexander Hayne won the second Pro Tour of the year, Pro Tour Avacyn Restored in Barcelona, with an innovative deck most players hadn't considered or tested against. His deck was a white-blue control deck that pushed the miracle mechanic as far as possible. The deck was designed to do everything it could to draw one card per turn for as long as possible to get as many chances"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-01"
+[_metadata_:title]:- "Hallelujah"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 02:20:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523022042id_/https://magic.wizards.com/en/articles/archive/feature/hallelujah-2013-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hallelujah-2013-01-01"
 ---
 
 

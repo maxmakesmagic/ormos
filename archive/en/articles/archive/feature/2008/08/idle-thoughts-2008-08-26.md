@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220628005531/https://magic.wizards.com/en/articles/archive/feature/idle-thoughts-2008-08-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/idle-thoughts-2008-08-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628005531id_/https://magic.wizards.com/en/articles/archive/feature/idle-thoughts-2008-08-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-28 00:55:31+00:00"
+[_metadata_:author]:- "Steve Sadin"
 [_metadata_:description]:- "My friend and former Pro Tour–Atlanta and Pro Tour–Charleston teammate Paul Jordan sent me his statistical analysis of the drafts at U.S. Nationals, and let me tell you, the amount of data here is simply overwhelming. If you've seen his analysis of Pro Tour–Hollywood or more recently, his analysis of the Constructed portion of U.S. Nationals, then you already know a little bit"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-26"
+[_metadata_:title]:- "Idle Thoughts"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-28 00:55:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628005531id_/https://magic.wizards.com/en/articles/archive/feature/idle-thoughts-2008-08-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/idle-thoughts-2008-08-26"
 ---
 
 

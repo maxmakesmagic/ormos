@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200815105950/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999top-96-deck-breakdown-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999top-96-deck-breakdown-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815105950id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999top-96-deck-breakdown-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-15 10:59:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Dobson, Tony Cocoa Pebbles (Necro plus Pebbles) Benedict, Brian Cocoa Pebbles (Necro plus Pebbles) Jacobson, Ben Cocoa Pebbles (Necro plus Pebbles) Marsh, Warren Cocoa Pebbles (Necro plus Pebbles) Ormerod, John Cocoa Pebbles (Necro plus Pebbles) Romero, Ellis Cocoa Pebbles (Necro plus Pebbles)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Top 96 Deck Breakdown"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-15 10:59:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815105950id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999top-96-deck-breakdown-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999top-96-deck-breakdown-2000-01-01"
 ---
 
 

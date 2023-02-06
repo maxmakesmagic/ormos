@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526085051/https://magic.wizards.com/en/articles/archive/feature/adepts-making-game-fun-2006-06-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adepts-making-game-fun-2006-06-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526085051id_/https://magic.wizards.com/en/articles/archive/feature/adepts-making-game-fun-2006-06-08"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 08:50:51+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "One of the many great things about Magic Online is just how easy it is to get into a Magic tournament from the convenience of your home, any time of the day or night. You don't need to find tournament space, scare up judges, keep track of matches or do deck checks. The game itself takes care of just about everything, but even so sometimes human intervention is required to help"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-06-08"
+[_metadata_:title]:- "Adepts: Making the Game Fun!"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 08:50:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526085051id_/https://magic.wizards.com/en/articles/archive/feature/adepts-making-game-fun-2006-06-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adepts-making-game-fun-2006-06-08"
 ---
 
 

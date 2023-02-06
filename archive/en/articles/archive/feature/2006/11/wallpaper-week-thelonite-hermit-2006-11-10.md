@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160927085949/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-thelonite-hermit-2006-11-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-thelonite-hermit-2006-11-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927085949id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-thelonite-hermit-2006-11-10"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 08:59:49+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; This week's desktop wallpaper is Chippy's Thelonite Hermit from the Time Spiral set. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-10"
+[_metadata_:title]:- "Wallpaper of the Week: Thelonite Hermit"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 08:59:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927085949id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-thelonite-hermit-2006-11-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-thelonite-hermit-2006-11-10"
 ---
 
 

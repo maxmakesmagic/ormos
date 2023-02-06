@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211209145559/https://magic.wizards.com/en/articles/archive/feature/challenge-frag-dolls-steam-june-26-2010-06-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenge-frag-dolls-steam-june-26-2010-06-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209145559id_/https://magic.wizards.com/en/articles/archive/feature/challenge-frag-dolls-steam-june-26-2010-06-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 14:55:59+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Frag Dolls are coming back to Duels of the Planeswalkers on Saturday, June 26. And this time, they'll be playing on Steam!Here's everything you need to know.Play the Frag Dolls on Steam June 26 6pm – 8pm PDTOn June 26th between 6pm - 8pm PDT members of the Frag Dolls and the Frag Doll Cadettes will be on Steam to take on challengers in Magic: The Gathering - Duels of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-23"
+[_metadata_:title]:- "Challenge the Frag Dolls on Steam: June 26"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 14:55:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209145559id_/https://magic.wizards.com/en/articles/archive/feature/challenge-frag-dolls-steam-june-26-2010-06-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenge-frag-dolls-steam-june-26-2010-06-23"
 ---
 
 

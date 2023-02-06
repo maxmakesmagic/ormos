@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124021508/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-12-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-12-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124021508id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-12-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:15:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Baberowski, Dirk (120) 27 3 Levy, Raphael (53) 27 Baker, Justin (284) 14 47 Dobrigna, Loic (213) 15 Benezech, Lionel (318) 22 14 Slemr, Jakub (27) 22 Bernat, Michael (283) 22 19 Rissanen, Toni (235) 22 Bingen, Sturla (116) 19 32 Osterberg, Rickard (190) 19 Budde, Kai (320) 19 29 Guevin, Peter (168) 19 Burgner, Kurt (335) 21 20 Van Cleave,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Day 2 Round 12 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:15:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124021508id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-12-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-12-pairings-2000-01-01"
 ---
 
 

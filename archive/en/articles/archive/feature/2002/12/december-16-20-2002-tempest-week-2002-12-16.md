@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517074021/https://magic.wizards.com/en/articles/archive/feature/december-16-20-2002-tempest-week-2002-12-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/december-16-20-2002-tempest-week-2002-12-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517074021id_/https://magic.wizards.com/en/articles/archive/feature/december-16-20-2002-tempest-week-2002-12-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 07:40:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The theme week for December 16-20, 2002 was `Tempest Week`.MondayMaking Magic: In a Teapot, by Mark Rosewater. Design stories about individual Tempest cards. Arcana: Jinxed Items. The cycle that became Jinxed Idol, Jinxed Ring, and ... Null Brooch?TuesdaySerious Fun: The New Old School, by Anthony Alongi. Tempest as the dividing line between `old` and `new`. Feature Article:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-12-16"
+[_metadata_:title]:- "December 16-20, 2002: Tempest Week"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 07:40:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517074021id_/https://magic.wizards.com/en/articles/archive/feature/december-16-20-2002-tempest-week-2002-12-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/december-16-20-2002-tempest-week-2002-12-16"
 ---
 
 

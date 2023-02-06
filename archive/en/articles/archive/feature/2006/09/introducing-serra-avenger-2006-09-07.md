@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208100755/https://magic.wizards.com/en/articles/archive/feature/introducing-serra-avenger-2006-09-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introducing-serra-avenger-2006-09-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208100755id_/https://magic.wizards.com/en/articles/archive/feature/introducing-serra-avenger-2006-09-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 10:07:55+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "In Magic there are a very few really iconic Fantastic Creatures. Vesuvan Doppelganger is on the back of some tee shirts, and Hurloon Minotaur somehow became the poster boy (bull) of the 1990s, but among the tournament caliber Fantastic Creatures, one veteran of Alpha flies head and shoulders (and cleavage, and wings of light, and sword of faith) above all others: Serra Angel."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-09-07"
+[_metadata_:title]:- "Introducing Serra Avenger"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 10:07:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208100755id_/https://magic.wizards.com/en/articles/archive/feature/introducing-serra-avenger-2006-09-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introducing-serra-avenger-2006-09-07"
 ---
 
 

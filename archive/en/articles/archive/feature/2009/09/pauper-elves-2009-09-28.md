@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220813214636/https://magic.wizards.com/en/articles/archive/feature/pauper-elves-2009-09-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pauper-elves-2009-09-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813214636id_/https://magic.wizards.com/en/articles/archive/feature/pauper-elves-2009-09-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 21:46:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: JJonasN's Pauper Elves Format: Magic Online Pauper 11 Forest 2 Island 2 Terramorphic Expanse 1 Tranquil Thicket 4 Birchlore Rangers 4 Elvish Branchbender 4 Elvish Visionary 4 Fyndhorn Elves 4 Llanowar Elves 2 Llanowar Empath 4 Nettle Sentinel 4 Quirion Ranger 4 Timberwatch Elf 3 Wellwisher 3 Commune with Nature 4 Distant Melody *3 Gleeful Sabotage *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-28"
+[_metadata_:title]:- "Pauper Elves"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 21:46:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813214636id_/https://magic.wizards.com/en/articles/archive/feature/pauper-elves-2009-09-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pauper-elves-2009-09-28"
 ---
 
 

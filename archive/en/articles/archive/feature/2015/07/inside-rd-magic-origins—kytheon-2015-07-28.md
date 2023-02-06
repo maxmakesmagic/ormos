@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150731004439/http://magic.wizards.com/en/articles/archive/feature/inside-rd-magic-origins%E2%80%94kytheon-2015-07-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/inside-rd-magic-origins%E2%80%94kytheon-2015-07-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150731004439id_/http://magic.wizards.com/en/articles/archive/feature/inside-rd-magic-origins%E2%80%94kytheon-2015-07-28"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-31 00:44:39+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Learn more about Magic Origin's five Planeswalkers and their stories in the latest episodes of Inside R&D."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-07-28"
+[_metadata_:title]:- "Inside R&D: Magic Origins—Kytheon"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-31 00:44:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150731004439id_/http://magic.wizards.com/en/articles/archive/feature/inside-rd-magic-origins%E2%80%94kytheon-2015-07-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/inside-rd-magic-origins%E2%80%94kytheon-2015-07-28"
 ---
 
 

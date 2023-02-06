@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521165334/https://magic.wizards.com/en/articles/archive/feature/natures-will-2005-03-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/natures-will-2005-03-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521165334id_/https://magic.wizards.com/en/articles/archive/feature/natures-will-2005-03-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 16:53:34+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "From time to time, various members of Wizards of the Coast's crack team of card designers give us a glance behind the curtain into their secret world. In a way, though, I always imagine that the picture they show us isn't the real one. Instead, for some reason, I like to think that the way things really work is more akin to some kind of wacky sitcom. There's a part of me that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-03-16"
+[_metadata_:title]:- "Nature's Will"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 16:53:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521165334id_/https://magic.wizards.com/en/articles/archive/feature/natures-will-2005-03-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/natures-will-2005-03-16"
 ---
 
 

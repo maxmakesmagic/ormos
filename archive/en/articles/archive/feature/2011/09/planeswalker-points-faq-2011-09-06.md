@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170712153056/http://magic.wizards.com/en/articles/archive/feature/planeswalker-points-faq-2011-09-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalker-points-faq-2011-09-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170712153056id_/http://magic.wizards.com/en/articles/archive/feature/planeswalker-points-faq-2011-09-06"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-12 15:30:56+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "http://wizards.custhelp.com/app/answers/detail/a_id/67Note: Significant portions of this information are outdated. For the most recent Planeswalker Points FAQ, visit this page."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-06"
+[_metadata_:title]:- "Planeswalker Points FAQ"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-12 15:30:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170712153056id_/http://magic.wizards.com/en/articles/archive/feature/planeswalker-points-faq-2011-09-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalker-points-faq-2011-09-06"
 ---
 
 

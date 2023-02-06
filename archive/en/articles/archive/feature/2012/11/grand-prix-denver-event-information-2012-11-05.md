@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170502230151/http://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-event-information-2012-11-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-event-information-2012-11-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502230151id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-event-information-2012-11-05"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-02 23:01:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Tournament Schedule      Tournament Byes      Public Events        Artist Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-05"
+[_metadata_:title]:- "Grand Prix Denver Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-02 23:01:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502230151id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-event-information-2012-11-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-event-information-2012-11-05"
 ---
 
 

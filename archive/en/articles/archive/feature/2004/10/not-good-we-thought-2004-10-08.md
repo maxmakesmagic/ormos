@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503070518/https://magic.wizards.com/en/articles/archive/feature/not-good-we-thought-2004-10-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/not-good-we-thought-2004-10-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503070518id_/https://magic.wizards.com/en/articles/archive/feature/not-good-we-thought-2004-10-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:05:18+00:00"
+[_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "After my “Combos? What Combos?” article last week, I received a bit of mail along the lines of: “It’s good that you don’t want to give away information on the new set too early, but how about information on old sets?” In general, readers were asking for me to pull the curtain back even further than I do already with regards to sets that no longer have a major impact on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-10-08"
+[_metadata_:title]:- "Not As Good As We Thought"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:05:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503070518id_/https://magic.wizards.com/en/articles/archive/feature/not-good-we-thought-2004-10-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/not-good-we-thought-2004-10-08"
 ---
 
 

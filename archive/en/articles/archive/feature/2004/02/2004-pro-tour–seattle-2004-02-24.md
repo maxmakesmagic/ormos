@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503154938/https://magic.wizards.com/en/articles/archive/feature/2004-pro-tour%E2%80%93seattle-2004-02-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2004-pro-tour%E2%80%93seattle-2004-02-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503154938id_/https://magic.wizards.com/en/articles/archive/feature/2004-pro-tour%E2%80%93seattle-2004-02-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 15:49:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This information will help you to prepare now to attend July 9th – July 11th , 2004. Where and How to Qualify Tournament Location Hotel information Mandatory Registration Format Prize Payout Artists Side Events Player Contact Invitation List Special Travel Promotion Wizards of the Coast and America West Airlines would like to offer our Pro Tour players the chance to get"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-02-24"
+[_metadata_:title]:- "2004 Pro Tour–Seattle"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 15:49:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503154938id_/https://magic.wizards.com/en/articles/archive/feature/2004-pro-tour%E2%80%93seattle-2004-02-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2004-pro-tour%E2%80%93seattle-2004-02-24"
 ---
 
 

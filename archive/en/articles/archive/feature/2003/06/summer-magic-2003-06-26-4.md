@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526015907/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-4)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-4"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526015907id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-4"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 01:59:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "NameLocationCityPhoneGoblin Gate ÅrhusBraband Minibeboerhus 54Århus4586194311Dragons Lair OdenseKongensgade 71Odense4565919701Planeswalkers GuildLundegade 17Helsingør4529917749Hobby WorldSct. Mathias Gade 45Viborg4586601749Nykøbing FrimærkehandelBøgevænget 5Nykøbing F4554860846Faraos CigarerSkindergade 27København4533322211Goblin Gate AalborgBorgergade"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-06-26"
+[_metadata_:title]:- "Summer of Magic"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 01:59:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526015907id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-4"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-4"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160118133906/http://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-sortable-spoiler-2011-01-31)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-sortable-spoiler-2011-01-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160118133906id_/http://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-sortable-spoiler-2011-01-31"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-18 13:39:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As is our tradition for the Monday after a new set's Prerelease events, today we post the full card list for the latest set right here on the front page of magicthegathering.com. Here is the sortable spoiler list for Mirrodin Besieged and the complete visual spoiler for the entire set, in each of the ten languages it was printed in! Enjoy!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-01-31"
+[_metadata_:title]:- "Mirrodin Besieged Sortable Spoiler"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-18 13:39:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160118133906id_/http://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-sortable-spoiler-2011-01-31"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-sortable-spoiler-2011-01-31"
 ---
 
 

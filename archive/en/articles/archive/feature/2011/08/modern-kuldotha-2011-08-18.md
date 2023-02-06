@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161206225525/http://magic.wizards.com/en/articles/archive/feature/modern-kuldotha-2011-08-18)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-kuldotha-2011-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161206225525id_/http://magic.wizards.com/en/articles/archive/feature/modern-kuldotha-2011-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-06 22:55:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Lee Sharpe's Kuldotha Red Format: Unified Modern – 2011 Magic Online Community Cup 3 Blinkmoth Nexus 2 Contested War Zone 4 Darksteel Citadel 9 Mountain 2 Clockwork Beetle 2 Goblin Bushwhacker 4 Goblin Guide 4 Memnite 4 Ornithopter 4 Signal Pest 2 Spark Elemental 4 Haze of Rage 4 Kuldotha Rebirth 4 Mox Opal 1 Paradise Mantle 4 Shrapnel Blast 3 Springleaf Drum *4 Arc Trail *4 Hellspark Elemental *4 Smash to Smithereens"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-08-18"
+[_metadata_:title]:- "Modern Kuldotha"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-06 22:55:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161206225525id_/http://magic.wizards.com/en/articles/archive/feature/modern-kuldotha-2011-08-18"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-kuldotha-2011-08-18"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220408094740/https://magic.wizards.com/en/articles/archive/feature/collecting-streets-of-new-capenna-2022-04-07?utm_source=dlvr.it&utm_medium=twitter)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-streets-of-new-capenna-2022-04-07?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220408094740id_/https://magic.wizards.com/en/articles/archive/feature/collecting-streets-of-new-capenna-2022-04-07?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_capture_timestamp]:- "2022-04-08 09:47:40+00:00"
+[_metadata_:author]:- "Max McCall"
 [_metadata_:description]:- "Here's all the collectible art deco style and beyond found in Streets of New Capenna."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-04-07"
+[_metadata_:title]:- "Collecting Streets of New Capenna"
+[_metadata_:wayback_capture_timestamp]:- "2022-04-08 09:47:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220408094740id_/https://magic.wizards.com/en/articles/archive/feature/collecting-streets-of-new-capenna-2022-04-07?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-streets-of-new-capenna-2022-04-07?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

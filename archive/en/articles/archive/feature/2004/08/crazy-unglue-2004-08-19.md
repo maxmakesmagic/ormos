@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161110201158/http://magic.wizards.com/en/articles/archive/feature/crazy-unglue-2004-08-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/crazy-unglue-2004-08-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161110201158id_/http://magic.wizards.com/en/articles/archive/feature/crazy-unglue-2004-08-19"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-10 20:11:58+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "The only set specifically designed for casual play, Unglued has some intriguing mechanics that will surely alter the course of a typical game—yet, a bit surprisingly, it doesn't have that much to offer in the way of combo pieces. A careful examination of the set reveals a few hidden gems, though, including one infinite damage loop— What? What?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-19"
+[_metadata_:title]:- "Crazy Unglue"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-10 20:11:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161110201158id_/http://magic.wizards.com/en/articles/archive/feature/crazy-unglue-2004-08-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/crazy-unglue-2004-08-19"
 ---
 
 

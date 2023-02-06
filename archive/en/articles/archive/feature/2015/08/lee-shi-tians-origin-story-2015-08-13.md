@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150815064145/http://magic.wizards.com/en/articles/archive/feature/lee-shi-tians-origin-story-2015-08-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lee-shi-tians-origin-story-2015-08-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150815064145id_/http://magic.wizards.com/en/articles/archive/feature/lee-shi-tians-origin-story-2015-08-13"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-15 06:41:45+00:00"
+[_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Lee Shi Tian's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-08-13"
+[_metadata_:title]:- "Lee Shi Tian's Origin Story"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-15 06:41:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150815064145id_/http://magic.wizards.com/en/articles/archive/feature/lee-shi-tians-origin-story-2015-08-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lee-shi-tians-origin-story-2015-08-13"
 ---
 
 

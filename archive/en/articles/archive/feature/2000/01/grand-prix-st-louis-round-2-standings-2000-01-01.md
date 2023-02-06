@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123175840/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-2-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-2-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123175840id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-2-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 17:58:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "      Op-Match Rank Name Points Win% 1 Hubbo 6 50.00 2 Pudge 6 50.00 3 Team Comic Market 6 50.00 4 Capitalist Pigs 6 50.00"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix St. Louis Round 2 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 17:58:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123175840id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-2-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-2-standings-2000-01-01"
 ---
 
 

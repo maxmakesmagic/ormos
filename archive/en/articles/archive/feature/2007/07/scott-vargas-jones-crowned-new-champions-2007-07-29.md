@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160825015535/http://magic.wizards.com/en/articles/archive/feature/scott-vargas-jones-crowned-new-champions-2007-07-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scott-vargas-jones-crowned-new-champions-2007-07-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160825015535id_/http://magic.wizards.com/en/articles/archive/feature/scott-vargas-jones-crowned-new-champions-2007-07-29"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-25 01:55:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Summer of Magic continues to speed along, sweeping up hundreds of players in its wake. This weekend featured two of the biggest National Championship events ever -- Magic Weekend in Baltimore and M-Fest in Birmingham."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-07-29"
+[_metadata_:title]:- "Scott-Vargas, Jones Crowned New Champions"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-25 01:55:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160825015535id_/http://magic.wizards.com/en/articles/archive/feature/scott-vargas-jones-crowned-new-champions-2007-07-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scott-vargas-jones-crowned-new-champions-2007-07-29"
 ---
 
 

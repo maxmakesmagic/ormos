@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220819145530/https://magic.wizards.com/en/articles/archive/feature/infinity-angels-2014-03-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/infinity-angels-2014-03-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819145530id_/https://magic.wizards.com/en/articles/archive/feature/infinity-angels-2014-03-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 14:55:30+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "This deck has been thrown around a little bit as of late, but this is the first time I've seen it finish well in a Magic Online Daily Event! Nukesaku scored a respectable 3–1 record with it. With two mana creatures; Felhide Spiritbinder; and Aurelia, the Warleader, you can attack as many times as you'd like thanks to the new legend rule. If your opponent stops your attempts at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-28"
+[_metadata_:title]:- "Infinity Angels"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 14:55:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819145530id_/https://magic.wizards.com/en/articles/archive/feature/infinity-angels-2014-03-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/infinity-angels-2014-03-28"
 ---
 
 

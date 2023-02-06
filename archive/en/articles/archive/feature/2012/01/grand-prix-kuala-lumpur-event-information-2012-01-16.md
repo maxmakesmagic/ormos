@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517055650/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-event-information-2012-01-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-event-information-2012-01-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517055650id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-event-information-2012-01-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 05:56:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Official hashtag: #gpkl Date: March 24-25, 2012Format: Standard Tournament Location Cititel Mid Valley Mid Valley City Lingkaran Syed Putra 59200 Kuala Lumpur, Malaysia Map Registration: 60 RM Friday, March 23: 2 p.m. - 8 p.m. Saturday, March 24: 8 a.m. - 8:30"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-16"
+[_metadata_:title]:- "Grand Prix Kuala Lumpur Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 05:56:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517055650id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-event-information-2012-01-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-event-information-2012-01-16"
 ---
 
 

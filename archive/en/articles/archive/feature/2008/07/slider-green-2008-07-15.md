@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026152608/https://magic.wizards.com/en/articles/archive/feature/slider-green-2008-07-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/slider-green-2008-07-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026152608id_/https://magic.wizards.com/en/articles/archive/feature/slider-green-2008-07-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 15:26:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-15"
+[_metadata_:title]:- "Slider Green"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 15:26:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026152608id_/https://magic.wizards.com/en/articles/archive/feature/slider-green-2008-07-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/slider-green-2008-07-15"
 ---
 
 

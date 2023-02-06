@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220705180228/https://magic.wizards.com/en/articles/archive/feature/inside-labyrinth-2017-01-24?fbclid=IwAR3uW83PXnvTqDTmRCbcB2WlcxIMAbQxdyJWvUAzPdhJIGJhGICkPpmKbcY)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/inside-labyrinth-2017-01-24?fbclid=IwAR3uW83PXnvTqDTmRCbcB2WlcxIMAbQxdyJWvUAzPdhJIGJhGICkPpmKbcY"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705180228id_/https://magic.wizards.com/en/articles/archive/feature/inside-labyrinth-2017-01-24?fbclid=IwAR3uW83PXnvTqDTmRCbcB2WlcxIMAbQxdyJWvUAzPdhJIGJhGICkPpmKbcY"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 18:02:28+00:00"
+[_metadata_:author]:- "Corbin Hosler"
 [_metadata_:description]:- "Corbin gets the low-down on a store that goes out of its way to immerse players in the worlds of Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-01-24"
+[_metadata_:title]:- "Inside the Labyrinth"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 18:02:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705180228id_/https://magic.wizards.com/en/articles/archive/feature/inside-labyrinth-2017-01-24?fbclid=IwAR3uW83PXnvTqDTmRCbcB2WlcxIMAbQxdyJWvUAzPdhJIGJhGICkPpmKbcY"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/inside-labyrinth-2017-01-24?fbclid=IwAR3uW83PXnvTqDTmRCbcB2WlcxIMAbQxdyJWvUAzPdhJIGJhGICkPpmKbcY"
 ---
 
 

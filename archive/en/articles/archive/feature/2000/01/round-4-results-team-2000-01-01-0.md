@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220706044333/https://magic.wizards.com/en/articles/archive/feature/round-4-results-team-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-results-team-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706044333id_/https://magic.wizards.com/en/articles/archive/feature/round-4-results-team-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 04:43:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult Opponent3,141596 *Won 3-0vsCalvo destinyAbsolute SamuelsLost 0-3vsTwo men and a baby !Accellerated Vares8 VolanteWon 2-1vsPensaci TuAgifalwWon 2-1vsAsani *AlphaBetaUnlimited.comWon 2-0-1vssuicideboard *Altrove *Lost 1-2vsThe lucky squad *AmsterdamWon 3-0vsBologna Demolition TeamAngstschreeuwWon 2-1vsI 3 ciccioniAsani *Lost 1-2vsAgifalwBabar Team *Won 2-0-1vsGothic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 4 Results (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 04:43:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706044333id_/https://magic.wizards.com/en/articles/archive/feature/round-4-results-team-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-results-team-2000-01-01-0"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211207091403/https://magic.wizards.com/en/articles/archive/feature/all-star-studded-2004-05-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/all-star-studded-2004-05-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207091403id_/https://magic.wizards.com/en/articles/archive/feature/all-star-studded-2004-05-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 09:14:03+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "The Magic Invitational is going on right now! You can watch the action live in Magic Online, or read our coverage as it happens. This week (from Tuesday, May 11th through Saturday, May 15th) we will be holding the Eighth Annual Magic Invitational. As this tournament is near and dear to my heart, I asked if I could write an article about the tournament explaining what is it,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-05-10"
+[_metadata_:title]:- "All-Star Studded"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 09:14:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207091403id_/https://magic.wizards.com/en/articles/archive/feature/all-star-studded-2004-05-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/all-star-studded-2004-05-10"
 ---
 
 

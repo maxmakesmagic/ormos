@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112003743/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2001-12-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2001-12-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112003743id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2001-12-13"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:37:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your full name and location, to ask@wizards.com. We'll post a new question and answer each day.January 31, 2002  `When will we see more elves?`-- Brian Hughes, Vancouver, BC"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2001-12-13"
+[_metadata_:title]:- "Ask Wizards"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:37:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112003743id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2001-12-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2001-12-13"
 ---
 
 

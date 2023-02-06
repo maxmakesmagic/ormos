@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701071348/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-exploding-borders-2009-02-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-exploding-borders-2009-02-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701071348id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-exploding-borders-2009-02-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 07:13:48+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Zoltan Boros & Gabor Szikszai's Exploding Borders from the Conflux set. Enjoy. Regular (1280x960 pixels) Widescreen (2560x1600 pixels) iPhone (320x480 pixels)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-13"
+[_metadata_:title]:- "Wallpaper of the Week: Exploding Borders"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 07:13:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701071348id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-exploding-borders-2009-02-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-exploding-borders-2009-02-13"
 ---
 
 

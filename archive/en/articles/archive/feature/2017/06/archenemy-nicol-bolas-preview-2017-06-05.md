@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220510080523/https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220510080523id_/https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-10 08:05:23+00:00"
+[_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Archenemy: Nicol Bolas lets you and your friends stage battles between the Gatewatch and perhaps the biggest baddie in the Multiverse!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-06-05"
+[_metadata_:title]:- "Archenemy: Nicol Bolas Preview"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-10 08:05:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220510080523id_/https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05"
 ---
 
 

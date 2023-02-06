@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220125075642/https://magic.wizards.com/en/articles/archive/feature/vanguard-mirage-2005-12-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vanguard-mirage-2005-12-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125075642id_/https://magic.wizards.com/en/articles/archive/feature/vanguard-mirage-2005-12-08"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 07:56:42+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "I was originally going to be doing an interview with Aaron Alberg this week, but there have been some changes of plans so we'll instead be bringing you a different interview next week. There will be more on that once we get to it, but I'm guessing you'll be happy to know that the planned topic is new info on MTGO 3.0. Also, I'd like to extend my congrats to Magic Online Worlds"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-12-08"
+[_metadata_:title]:- "On the Vanguard of Mirage"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 07:56:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125075642id_/https://magic.wizards.com/en/articles/archive/feature/vanguard-mirage-2005-12-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vanguard-mirage-2005-12-08"
 ---
 
 

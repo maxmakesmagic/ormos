@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024095939/https://magic.wizards.com/en/articles/archive/feature/2012-community-cup-our-team-2012-10-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2012-community-cup-our-team-2012-10-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024095939id_/https://magic.wizards.com/en/articles/archive/feature/2012-community-cup-our-team-2012-10-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 09:59:39+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "The 2012 Community cup is perilously close! On October 24-26, a team of players will face off against a team from Wizards of the Coast for glory and bragging rights. Last month, we announced the community team: Jon Loucks, Neale Talbot, Jesse Smith, Heath Newton, Jackie Lee, Conley Woods, Walter Kolczynski, and James Turner. Last week, we announced the formats: Return to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-19"
+[_metadata_:title]:- "The 2012 Community Cup: Our Team"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 09:59:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024095939id_/https://magic.wizards.com/en/articles/archive/feature/2012-community-cup-our-team-2012-10-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2012-community-cup-our-team-2012-10-19"
 ---
 
 

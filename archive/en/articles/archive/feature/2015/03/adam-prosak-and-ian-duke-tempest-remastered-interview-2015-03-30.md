@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170414025124/http://magic.wizards.com/en/articles/archive/feature/adam-prosak-and-ian-duke-tempest-remastered-interview-2015-03-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/adam-prosak-and-ian-duke-tempest-remastered-interview-2015-03-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170414025124id_/http://magic.wizards.com/en/articles/archive/feature/adam-prosak-and-ian-duke-tempest-remastered-interview-2015-03-30"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-14 02:51:24+00:00"
+[_metadata_:author]:- "David Whitfield"
 [_metadata_:description]:- "The lead designers of Tempest Remastered"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-03-30"
+[_metadata_:title]:- "Adam Prosak and Ian Duke Tempest Remastered Interview"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-14 02:51:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170414025124id_/http://magic.wizards.com/en/articles/archive/feature/adam-prosak-and-ian-duke-tempest-remastered-interview-2015-03-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/adam-prosak-and-ian-duke-tempest-remastered-interview-2015-03-30"
 ---
 
 

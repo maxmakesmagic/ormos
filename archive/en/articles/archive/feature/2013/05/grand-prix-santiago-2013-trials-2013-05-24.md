@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521201437/https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-2013-trials-2013-05-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-2013-trials-2013-05-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521201437id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-2013-trials-2013-05-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:14:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Santiago Trials will be run at Latin America WPN locations from August 10, 2013 to October 20, 2013. Each awards the winner a two-round bye to Grand Prix Santiago. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-24"
+[_metadata_:title]:- "Grand Prix Santiago 2013 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:14:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521201437id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-2013-trials-2013-05-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-2013-trials-2013-05-24"
 ---
 
 

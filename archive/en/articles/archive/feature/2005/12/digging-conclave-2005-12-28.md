@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201025144637/https://magic.wizards.com/en/articles/archive/feature/digging-conclave-2005-12-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/digging-conclave-2005-12-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025144637id_/https://magic.wizards.com/en/articles/archive/feature/digging-conclave-2005-12-28"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:46:37+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "Last week we sampled little bits of many treats, but did not get too deep about any of them. This week we're getting deep in more ways than one. We'll be following our old pal Tad, the archaeologist, down into the (then) uncharted strata of Selesnyan culture. This week we'll be eating just one dish, and a lot of it. It will be like college life; learning a lot whilst eating only Ramen noodles. Well, here it is once again. A strange brick of dried, wavy noodles called the Conclave. Drop it in hot water and enjoy!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-12-28"
+[_metadata_:title]:- "Digging Into The Conclave"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:46:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025144637id_/https://magic.wizards.com/en/articles/archive/feature/digging-conclave-2005-12-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/digging-conclave-2005-12-28"
 ---
 
 

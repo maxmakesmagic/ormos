@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124062829/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-season-2-last-chance-qualifiers-2009-05-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-season-2-last-chance-qualifiers-2009-05-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124062829id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-season-2-last-chance-qualifiers-2009-05-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 06:28:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic Online Championship Series Season 2 LCQs will offer the opportunity for all Magic Online users that have earned at least 10 QPs but not yet qualified for the Season 2 Championship to qualify.Each player who has earned 10-14 QPs by the end of Season 2 will be allowed to enter any and/or all of the scheduled LCQ tournaments."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-26"
+[_metadata_:title]:- "Magic Online Championship Series -- Season 2 Last Chance Qualifiers"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 06:28:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124062829id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-season-2-last-chance-qualifiers-2009-05-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-season-2-last-chance-qualifiers-2009-05-26"
 ---
 
 

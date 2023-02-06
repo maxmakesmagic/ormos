@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028173944/https://magic.wizards.com/en/articles/archive/feature/zombie-pod-2012-05-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zombie-pod-2012-05-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028173944id_/https://magic.wizards.com/en/articles/archive/feature/zombie-pod-2012-05-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 17:39:44+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Chris Schafer kicked off to a fabulous 9–0 start at Grand Prix Minneapolis. His deck of choice? Zombie Pod! This fantastically rogue deck turned heads of deck builders at the Grand Prix, using interactions few people had even tried! This unique deck combines Birthing Pod with a Zombie curve, using recurring creatures like Geralf's Messenger and Gravecrawler to fuel the Pod"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-25"
+[_metadata_:title]:- "Zombie Pod"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 17:39:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028173944id_/https://magic.wizards.com/en/articles/archive/feature/zombie-pod-2012-05-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zombie-pod-2012-05-25"
 ---
 
 

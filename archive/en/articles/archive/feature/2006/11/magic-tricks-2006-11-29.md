@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020173445/https://magic.wizards.com/en/articles/archive/feature/magic-tricks-2006-11-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-tricks-2006-11-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020173445id_/https://magic.wizards.com/en/articles/archive/feature/magic-tricks-2006-11-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 17:34:45+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Hi, it's me, Mark Rosewater. The good twin. For those that don't know, I don't make the puzzles. They're the work of my evil twin. He gets a real kick out of inflicting pain on Magic players. As a sort of penance, I write the answer column where I explain how to solve my evil twin's evil creations. With that said, let's get on with the solution. The first thing you need to do"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-29"
+[_metadata_:title]:- "Magic Tricks"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 17:34:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020173445id_/https://magic.wizards.com/en/articles/archive/feature/magic-tricks-2006-11-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-tricks-2006-11-29"
 ---
 
 

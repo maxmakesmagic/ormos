@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160927085942/http://magic.wizards.com/en/articles/archive/feature/sketches-black-knight-2009-06-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sketches-black-knight-2009-06-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927085942id_/http://magic.wizards.com/en/articles/archive/feature/sketches-black-knight-2009-06-25"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 08:59:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; The challenge with doing a core set is that iconic cards need iconic art. Take Black Knight, which first appeared in Alpha:&#13; &#13; &#13; &#13; &#13;  &#13; &#13; For Fifth Edition, ol' Blackie got a bit of a revamp:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-25"
+[_metadata_:title]:- "Sketches: Black Knight"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 08:59:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927085942id_/http://magic.wizards.com/en/articles/archive/feature/sketches-black-knight-2009-06-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sketches-black-knight-2009-06-25"
 ---
 
 

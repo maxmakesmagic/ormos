@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220123065408/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-sep-19-25-2009-09-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-sep-19-25-2009-09-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123065408id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-sep-19-25-2009-09-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 06:54:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "September 19-25: Prerelease Week! We're not saying this just to encourage you to go to the Zendikar prerelease (although it is this weekend, you know). But just look at how many prereleases have taken place over this weekend in September!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-25"
+[_metadata_:title]:- "This Week in Magic History: Sep 19-25"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 06:54:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123065408id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-sep-19-25-2009-09-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-sep-19-25-2009-09-25"
 ---
 
 

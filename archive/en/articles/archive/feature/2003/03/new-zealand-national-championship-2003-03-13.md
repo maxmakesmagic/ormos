@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028073006/https://magic.wizards.com/en/articles/archive/feature/new-zealand-national-championship-2003-03-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-zealand-national-championship-2003-03-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028073006id_/https://magic.wizards.com/en/articles/archive/feature/new-zealand-national-championship-2003-03-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 07:30:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Top 4 - New Zealand Nationals 20021ColeSwannack 2JamesWhite 9JulianBrown-santirso 44AnthonyGysberts Auckland Regionals (8 slots)1stMichaelNaisbitt 2ndTonyWootton 3rdNickTung 4thNickDorcas 5thTomDevereux 6thQuBai 7thAndrewEdwards 8thNancy Ying HuaHu Christchurch Regionals (8 slots)1stCraigHall 2ndJohnSeaton 3rdHughStevenson 4thJackHooker 5thBrentDay 6thStephenAustin 7thWayneFix"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-03-13"
+[_metadata_:title]:- "New Zealand National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 07:30:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028073006id_/https://magic.wizards.com/en/articles/archive/feature/new-zealand-national-championship-2003-03-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-zealand-national-championship-2003-03-13"
 ---
 
 

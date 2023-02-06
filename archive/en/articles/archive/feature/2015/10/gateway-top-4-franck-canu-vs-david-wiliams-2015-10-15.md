@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160707135738/http://magic.wizards.com/en/articles/archive/feature/gateway-top-4-franck-canu-vs-david-wiliams-2015-10-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gateway-top-4-franck-canu-vs-david-wiliams-2015-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707135738id_/http://magic.wizards.com/en/articles/archive/feature/gateway-top-4-franck-canu-vs-david-wiliams-2015-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:57:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:title]:- "Gateway Top 4: Franck Canu vs. David Wiliams"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:57:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707135738id_/http://magic.wizards.com/en/articles/archive/feature/gateway-top-4-franck-canu-vs-david-wiliams-2015-10-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gateway-top-4-franck-canu-vs-david-wiliams-2015-10-15"
 ---
 
 

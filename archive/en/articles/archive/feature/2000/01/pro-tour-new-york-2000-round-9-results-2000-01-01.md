@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123095531/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123095531id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 09:55:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Baker Justin Pustilnik Michael Won, 2-1 Blackwell Trevor Currence Bryce Won, 2-1 Bregoli Mike Humpherys David Won, 2-0 Brower Jeremy Dobson Tony Lost, 0-2 Budde Kai Eskeland Sigurd Lost, 0-2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 9 Results"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 09:55:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123095531id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-results-2000-01-01"
 ---
 
 

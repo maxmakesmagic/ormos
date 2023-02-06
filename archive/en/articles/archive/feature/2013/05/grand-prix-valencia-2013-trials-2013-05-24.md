@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519001520/https://magic.wizards.com/en/articles/archive/feature/grand-prix-valencia-2013-trials-2013-05-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-valencia-2013-trials-2013-05-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519001520id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-valencia-2013-trials-2013-05-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 00:15:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Valencia Trials will be run at European WPN locations from August 17, 2013 to October 27, 2013. Each awards the winner a two-round bye to Grand Prix Valencia. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event. Possible"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-24"
+[_metadata_:title]:- "Grand Prix Valencia 2013 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 00:15:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519001520id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-valencia-2013-trials-2013-05-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-valencia-2013-trials-2013-05-24"
 ---
 
 

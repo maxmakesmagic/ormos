@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211127115610/https://magic.wizards.com/en/articles/archive/feature/round-1-feature-match-bryce-currence-vs-alan-comer-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-feature-match-bryce-currence-vs-alan-comer-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127115610id_/https://magic.wizards.com/en/articles/archive/feature/round-1-feature-match-bryce-currence-vs-alan-comer-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 11:56:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In a match pitting two old friends from the Costa Mesa games center in California, Bryce Currence and Alan Comer fought for regional superiority. The first game began with a Comer mistake, as Alan, who'd cast a Rootwater Thief on turn two, attacked before brainstorming for a third land, meaning he couldn't activate the Thief's ability. Currence, playing an aggressive RG deck,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 1 Feature Match - Bryce Currence vs. Alan Comer"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 11:56:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127115610id_/https://magic.wizards.com/en/articles/archive/feature/round-1-feature-match-bryce-currence-vs-alan-comer-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-feature-match-bryce-currence-vs-alan-comer-2000-01-01"
 ---
 
 

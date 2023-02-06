@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020212027/https://magic.wizards.com/en/articles/archive/feature/magic-back-2008-02-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-back-2008-02-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020212027id_/https://magic.wizards.com/en/articles/archive/feature/magic-back-2008-02-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 21:20:27+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "/default.asp?x=mtgevent/ptkl08/welcome"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-02-15"
+[_metadata_:title]:- "The Magic is Back!"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 21:20:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020212027id_/https://magic.wizards.com/en/articles/archive/feature/magic-back-2008-02-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-back-2008-02-15"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200929151856/https://magic.wizards.com/en/articles/archive/feature/zoomed-guildgates-2013-04-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zoomed-guildgates-2013-04-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200929151856id_/https://magic.wizards.com/en/articles/archive/feature/zoomed-guildgates-2013-04-17"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-29 15:18:56+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "As we showed during our Comic Con panel, the Dragon's Maze guildgates feature a zoomed out view of each of them. We did this during the panel but for a lot of you this will be your first change to see a good look at these gorgeous pieces of art. Click on the images to zoom out or zoom back in."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-17"
+[_metadata_:title]:- "Zoomed Guildgates"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-29 15:18:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200929151856id_/https://magic.wizards.com/en/articles/archive/feature/zoomed-guildgates-2013-04-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zoomed-guildgates-2013-04-17"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123140142/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-49)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-49"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123140142id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-49"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 14:01:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Finals Feature Match Aaron Hiemstra vs. Mark Landers The match started inausipciously for Aaron Hiemstra, who had to mulligan twice. By the time he got any creatures on the board, he was facing a Dauthi army led by Mark Landers. Hiemstra never drew any of his direct damage and fell to the onslaught."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 14:01:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123140142id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-49"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-49"
 ---
 
 

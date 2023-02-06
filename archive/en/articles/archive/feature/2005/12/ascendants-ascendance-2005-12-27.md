@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210919165452/https://magic.wizards.com/en/articles/archive/feature/ascendants-ascendance-2005-12-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ascendants-ascendance-2005-12-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210919165452id_/https://magic.wizards.com/en/articles/archive/feature/ascendants-ascendance-2005-12-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-19 16:54:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magicthegathering.com is running `best of` content during the holidays, and will return with new content January 4, 2006. This Magic Arcana originally ran June 2, 2005. The Saviors of Kamigawa flippers, the ascendants, begin their lives as mortal creatures like the other Kamigawa block flippers. But these enlightened beings don't just gain in skill like some self-important"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-12-27"
+[_metadata_:title]:- "Ascendants in Ascendance"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-19 16:54:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210919165452id_/https://magic.wizards.com/en/articles/archive/feature/ascendants-ascendance-2005-12-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ascendants-ascendance-2005-12-27"
 ---
 
 

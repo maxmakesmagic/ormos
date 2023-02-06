@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220529080732/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%94kitakyushu-2009-trials-2009-09-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%94kitakyushu-2009-trials-2009-09-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529080732id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%94kitakyushu-2009-trials-2009-09-08"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 08:07:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with the local organizer for specific information. Format The format for all Grand Prix—Kitakyushu Trial tournaments is Sealed Deck with Booster Draft finals. Tournaments held before October 2, 2009 will use either 6 Magic 2010 Core Set booster packs or 2 booster packs each of Shards of Alara, Conflux, and Alara"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-08"
+[_metadata_:title]:- "Grand Prix—Kitakyushu 2009 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 08:07:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529080732id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%94kitakyushu-2009-trials-2009-09-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%94kitakyushu-2009-trials-2009-09-08"
 ---
 
 

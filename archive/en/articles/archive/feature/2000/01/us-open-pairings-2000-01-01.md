@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519064136/https://magic.wizards.com/en/articles/archive/feature/us-open-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519064136id_/https://magic.wizards.com/en/articles/archive/feature/us-open-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:41:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Open Qualifer #1 (Standard) Round 1 Round 2 Round 3 Round 4 Round 5 Round 6 Open Qualifer #2 (Sealed Deck) Round 1 Round 2 Round 3 Round 4 Round 5 Round 6 Open Qualifer #3 (Standard) Round 1 Round 2 Round 3 Round 4 Round 5 Open Qualifer #4 (Sealed Deck) Round 1 Round 2 Round 3 Round 4 Round 5 Open Qualifer #5 (Standard) Round 1 Round 2 Round 3 Round 4 Round 5 Round 6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Open Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:41:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519064136id_/https://magic.wizards.com/en/articles/archive/feature/us-open-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-pairings-2000-01-01"
 ---
 
 

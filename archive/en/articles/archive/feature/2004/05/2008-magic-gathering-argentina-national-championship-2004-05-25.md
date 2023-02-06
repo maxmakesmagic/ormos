@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026141057/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-argentina-national-championship-2004-05-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-argentina-national-championship-2004-05-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026141057id_/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-argentina-national-championship-2004-05-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 14:10:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvite SourceCity Juan PabloAlcaldeRatingCórdoba Capital Juan PabloAlcalde2007 National TeamBuenos Aires JoaquinAlvarez RiveraRatingcapital federal AgustinAmalfitanoRatingMar del Plata AgustinAmalfitanoNational QualifierBuenos Aires IvánArgimónNational QualifierBuenos Aires ElioAtencioRatingcordoba ElioAtencioNational Qualifiercordoba Jose AlejandroBalado"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-05-25"
+[_metadata_:title]:- "2008 Magic: The Gathering Argentina National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 14:10:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026141057id_/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-argentina-national-championship-2004-05-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-argentina-national-championship-2004-05-25"
 ---
 
 

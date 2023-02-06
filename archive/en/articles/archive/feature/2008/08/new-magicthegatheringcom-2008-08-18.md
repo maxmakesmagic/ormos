@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201025145312/https://magic.wizards.com/en/articles/archive/feature/new-magicthegatheringcom-2008-08-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-magicthegatheringcom-2008-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025145312id_/https://magic.wizards.com/en/articles/archive/feature/new-magicthegatheringcom-2008-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:53:12+00:00"
+[_metadata_:author]:- "Scott Johns"
 [_metadata_:description]:- "It's been a long time coming, but I'm very happy to announce that the new magicthegathering.com is right around the corner. In this article I'll give you some first looks at what the new site will look like, how it's set up, and some of the new tools, activities, and other features we can't wait to set you loose on.Ready to go? Click here to start it up!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:title]:- "The New Magicthegathering.com"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:53:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025145312id_/https://magic.wizards.com/en/articles/archive/feature/new-magicthegatheringcom-2008-08-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-magicthegatheringcom-2008-08-18"
 ---
 
 

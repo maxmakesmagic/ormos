@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200812015116/https://magic.wizards.com/en/articles/archive/feature/magic-online-cubed-2012-04-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-cubed-2012-04-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200812015116id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-cubed-2012-04-05"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-12 01:51:16+00:00"
+[_metadata_:author]:- "Ryan Spain"
 [_metadata_:description]:- "Hello!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-05"
+[_metadata_:title]:- "Magic Online Cubed"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-12 01:51:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200812015116id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-cubed-2012-04-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-cubed-2012-04-05"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220819225129/https://magic.wizards.com/en/articles/archive/feature/breaking-flamebreak-2004-02-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/breaking-flamebreak-2004-02-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819225129id_/https://magic.wizards.com/en/articles/archive/feature/breaking-flamebreak-2004-02-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 22:51:29+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "I'm very excited to be writing a column for the newly reborn magicthegathering.com. The name for this column goes back a long way. Back when Magic was born, it didn't take long for people to get excited enough about it to write about it on the Internet. It was during those early days of Magic writing that Jeff Franzman first wrote as Canticle, producing a huge Single-Card"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-02-11"
+[_metadata_:title]:- "Breaking Flamebreak"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 22:51:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819225129id_/https://magic.wizards.com/en/articles/archive/feature/breaking-flamebreak-2004-02-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/breaking-flamebreak-2004-02-11"
 ---
 
 

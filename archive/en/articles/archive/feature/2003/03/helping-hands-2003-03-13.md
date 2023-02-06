@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220807163132/https://magic.wizards.com/en/articles/archive/feature/helping-hands-2003-03-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/helping-hands-2003-03-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807163132id_/https://magic.wizards.com/en/articles/archive/feature/helping-hands-2003-03-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-07 16:31:32+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Happy Thursday to my loving and adoring fans! (And to the sadistic creeps plotting against me. I know who you are, and I want you to have a happy Thursday anyway. So there.) At the bottom of this column I'll provide some odd decks made with an odd theme. Before that, though, I'm going to flatter you and ask for your help. But even before that, I'm going to go over the mission"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-03-13"
+[_metadata_:title]:- "Helping Hands"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-07 16:31:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807163132id_/https://magic.wizards.com/en/articles/archive/feature/helping-hands-2003-03-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/helping-hands-2003-03-13"
 ---
 
 

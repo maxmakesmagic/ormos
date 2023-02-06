@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160207010529/http://magic.wizards.com/en/articles/archive/feature/rules-revealed-2009-08-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rules-revealed-2009-08-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160207010529id_/http://magic.wizards.com/en/articles/archive/feature/rules-revealed-2009-08-10"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-07 01:05:29+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "Back in May, we announced Planechase, a `whole new way to experience planeswalking.` We told you about the four game packs, each of which contains a 60-card deck and 10 all-new oversized `plane cards.` In July, we showed you the four game packs—Elemental Thunder, Metallic Dreams, Strike Force, and Zombie Empire—and even gave you a glimpse of some of the plane cards' art and names."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-10"
+[_metadata_:title]:- "Rules Revealed"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-07 01:05:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160207010529id_/http://magic.wizards.com/en/articles/archive/feature/rules-revealed-2009-08-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rules-revealed-2009-08-10"
 ---
 
 

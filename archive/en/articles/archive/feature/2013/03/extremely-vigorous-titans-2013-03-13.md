@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170115232626/http://magic.wizards.com/en/articles/archive/feature/extremely-vigorous-titans-2013-03-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/extremely-vigorous-titans-2013-03-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170115232626id_/http://magic.wizards.com/en/articles/archive/feature/extremely-vigorous-titans-2013-03-13"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-15 23:26:26+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-13"
+[_metadata_:title]:- "Extremely Vigorous Titans"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-15 23:26:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170115232626id_/http://magic.wizards.com/en/articles/archive/feature/extremely-vigorous-titans-2013-03-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/extremely-vigorous-titans-2013-03-13"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220811022516/https://magic.wizards.com/en/articles/archive/feature/aggro-grixis-2010-01-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-grixis-2010-01-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811022516id_/https://magic.wizards.com/en/articles/archive/feature/aggro-grixis-2010-01-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 02:25:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: The_Apologist's Aggro Grixis Format: Standard on Magic Online 4 Crumbling Necropolis 3 Dragonskull Summit 3 Drowned Catacomb 2 Island 4 Mountain 4 Scalding Tarn 4 Swamp 4 Bloodghast 4 Goblin Ruinblaster 4 Sedraxis Specter 3 Siege-Gang Commander 4 Blightning 4 Duress 4 Lightning Bolt 2 Mind Control 3 Sign in Blood 4 Spreading Seas *4 Dragon's Claw *1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-01-13"
+[_metadata_:title]:- "Aggro Grixis"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 02:25:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811022516id_/https://magic.wizards.com/en/articles/archive/feature/aggro-grixis-2010-01-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-grixis-2010-01-13"
 ---
 
 

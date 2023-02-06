@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200727221608/https://magic.wizards.com/en/articles/archive/feature/future-shifted-2009-07-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/future-shifted-2009-07-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200727221608id_/https://magic.wizards.com/en/articles/archive/feature/future-shifted-2009-07-15"
-[_metadata_:wayback_capture_timestamp]:- "2020-07-27 22:16:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The RYZWear contest is over. After 500+ submissions and 200,000 votes we have five Winners. You have decided and now the work begins as RYZ works with the winning designers to finalize the shoes for production and create a line of products inspired by their designs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-15"
+[_metadata_:title]:- "Future Shifted"
+[_metadata_:wayback_capture_timestamp]:- "2020-07-27 22:16:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200727221608id_/https://magic.wizards.com/en/articles/archive/feature/future-shifted-2009-07-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/future-shifted-2009-07-15"
 ---
 
 

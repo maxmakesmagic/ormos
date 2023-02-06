@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121122326/https://magic.wizards.com/en/articles/archive/feature/luminarch-control-2009-10-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/luminarch-control-2009-10-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121122326id_/https://magic.wizards.com/en/articles/archive/feature/luminarch-control-2009-10-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 12:23:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Calosso Fuentes's Luminarch Control Format: Zendikar Standard 2 Island 3 Mountain 6 Plains 4 Arid Mesa 4 Glacial Fortress 3 Rupture Spire 4 Scalding Tarn 4 Luminarch Ascension 4 Lightning Bolt 3 Negate 4 Path to Exile 1 Volcanic Fallout 4 Ajani Vengeant 2 Chandra Nalaar 3 Elspeth, Knight-Errant 3 Jace Beleren 4 Day of Judgment 2 Martial Coup *4 Baneslayer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-23"
+[_metadata_:title]:- "Luminarch Control"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 12:23:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121122326id_/https://magic.wizards.com/en/articles/archive/feature/luminarch-control-2009-10-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/luminarch-control-2009-10-23"
 ---
 
 

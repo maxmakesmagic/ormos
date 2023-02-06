@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118080910/https://magic.wizards.com/en/articles/archive/feature/states-rogue-2008-02-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/states-rogue-2008-02-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118080910id_/https://magic.wizards.com/en/articles/archive/feature/states-rogue-2008-02-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 08:09:10+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to Rogue Week! It's time to take a look at the crook, the thief, his lowlife, and their robbers. And some proper Rogues as well. First, a fascinating piece of trivia: Did you know that the word `rogue` does not appear in the flavour text of a single Magic card? It also appears in the name of Rogue Elephant as well as every article title this week. Sadly, the word is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-02-28"
+[_metadata_:title]:- "States of Rogue"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 08:09:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118080910id_/https://magic.wizards.com/en/articles/archive/feature/states-rogue-2008-02-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/states-rogue-2008-02-28"
 ---
 
 

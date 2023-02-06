@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117035745/https://magic.wizards.com/en/articles/archive/feature/captain-industry-2006-09-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/captain-industry-2006-09-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117035745id_/https://magic.wizards.com/en/articles/archive/feature/captain-industry-2006-09-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 03:57:45+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to House of Cards! Those of you looking to see a Time Spiral preview are in luck. This week, I get to preview Yoda. Well, it's not actually Yoda, but there are some similarities. The Empire Strikes Back introduced us to the Jedi Muppet, but it took another twenty years before we got to see him in action, battling the ridiculously titled Count Dooku in a style that was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-09-06"
+[_metadata_:title]:- "Captain of Industry"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 03:57:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117035745id_/https://magic.wizards.com/en/articles/archive/feature/captain-industry-2006-09-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/captain-industry-2006-09-06"
 ---
 
 

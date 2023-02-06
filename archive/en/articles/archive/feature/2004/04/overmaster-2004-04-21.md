@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017124103/https://magic.wizards.com/en/articles/archive/feature/overmaster-2004-04-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/overmaster-2004-04-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017124103id_/https://magic.wizards.com/en/articles/archive/feature/overmaster-2004-04-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 12:41:03+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "We're already well into Sorcery week at this point. I looked at every Sorcery that has ever been printed, trying to find that certain special someone that would really make me take notice. In a sense, it was a lot like going through the personals. There would be some title or other (“Misguided Rage!”, “Cultural Exchange”, or “Saproling Symbiosis”) that might draw my attention,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-04-21"
+[_metadata_:title]:- "Overmaster"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 12:41:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017124103id_/https://magic.wizards.com/en/articles/archive/feature/overmaster-2004-04-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/overmaster-2004-04-21"
 ---
 
 

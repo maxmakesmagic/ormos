@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220129141809/https://magic.wizards.com/en/articles/archive/feature/sketches-kagemaro-first-suffer-2005-12-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketches-kagemaro-first-suffer-2005-12-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129141809id_/https://magic.wizards.com/en/articles/archive/feature/sketches-kagemaro-first-suffer-2005-12-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-29 14:18:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magicthegathering.com is running `best of` content during the holidays, and will return with new content January 4, 2006. This Magic Arcana originally ran May 17, 2005. Welcome to another edition of Sketches! As you crack open packs at prerelease tournaments this Saturday and/or Sunday, you'll get to stare in person at the amazing art of Saviors of Kamigawa. Until then, you'll"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-12-26"
+[_metadata_:title]:- "Sketches: Kagemaro, First to Suffer"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-29 14:18:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129141809id_/https://magic.wizards.com/en/articles/archive/feature/sketches-kagemaro-first-suffer-2005-12-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketches-kagemaro-first-suffer-2005-12-26"
 ---
 
 

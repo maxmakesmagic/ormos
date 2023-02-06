@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220123093423/https://magic.wizards.com/en/articles/archive/feature/agents-artifice-art-contest-official-rules-2009-03-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/agents-artifice-art-contest-official-rules-2009-03-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123093423id_/https://magic.wizards.com/en/articles/archive/feature/agents-artifice-art-contest-official-rules-2009-03-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 09:34:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "By entering the Wizards of the Coast LLC (`Wizards`) Agents of Artifice Fan Art Contest (the `Contest`) you agree to be bound by these Official Rules. 1. Eligibility: No purchase necessary. The Contest is open to legal residents of the United States and Canada. If you are under the age of 18, a parent or legal guardian must sign the official entry form. VOID WHERE PROHIBITED"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-02"
+[_metadata_:title]:- "Agents of Artifice Art Contest Official Rules"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 09:34:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123093423id_/https://magic.wizards.com/en/articles/archive/feature/agents-artifice-art-contest-official-rules-2009-03-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/agents-artifice-art-contest-official-rules-2009-03-02"
 ---
 
 

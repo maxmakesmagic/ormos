@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119204306/https://magic.wizards.com/en/articles/archive/feature/randyb-reveals-more-mirage-2005-08-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/randyb-reveals-more-mirage-2005-08-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119204306id_/https://magic.wizards.com/en/articles/archive/feature/randyb-reveals-more-mirage-2005-08-04"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 20:43:06+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "We all know what you're dying for; so let's jump right into it, shall we?IntoTheAether: Since the announcement of Mirage for Magic Online, the buzz has been huge and overwhelmingly positive. Have you all started looking at any other classic sets to follow up Mirage?RandyB: If this works out, we'll work our way forward in time.IntoTheAether: Did R&D decide that development"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-08-04"
+[_metadata_:title]:- "RandyB Reveals More on Mirage"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 20:43:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119204306id_/https://magic.wizards.com/en/articles/archive/feature/randyb-reveals-more-mirage-2005-08-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/randyb-reveals-more-mirage-2005-08-04"
 ---
 
 

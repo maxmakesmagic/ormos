@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029160558/https://magic.wizards.com/en/articles/archive/feature/round-6-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029160558id_/https://magic.wizards.com/en/articles/archive/feature/round-6-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 16:05:58+00:00"
 [_metadata_:description]:- "Table Player Result   Opponent 1 Casatti, Vagner W Lost 1-2 vs. Hino, Celso M 2 Svaldi, Guilherme Dei Won 2-1 vs. Echeverria, José Luis J.l.e 3 Martins, Leopoldo M. Lost 0-2 vs. Possato, William C"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 6 Results"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 16:05:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029160558id_/https://magic.wizards.com/en/articles/archive/feature/round-6-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-results-2000-01-01"
 ---
 
 

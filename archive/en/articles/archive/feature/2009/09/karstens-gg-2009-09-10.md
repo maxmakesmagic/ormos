@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816050753/https://magic.wizards.com/en/articles/archive/feature/karstens-gg-2009-09-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/karstens-gg-2009-09-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816050753id_/https://magic.wizards.com/en/articles/archive/feature/karstens-gg-2009-09-10"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 05:07:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Frank Karsten's Greater Good Format: 2005 World Championships 2 Brushland 4 Forest 1 Island 1 Miren, the Moaning Well 1 Okina, Temple to the Grandfathers 2 Overgrown Tomb 3 Plains 1 Shizo, Death's Storehouse 3 Swamp 2 Temple Garden 2 Tendo Ice Bridge 1 Watery Grave 1 Kagemaro, First to Suffer 2 Kokusho, the Evening Star 4 Sakura-Tribe Elder 4 Yosei, the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-10"
+[_metadata_:title]:- "Karsten's GG"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 05:07:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816050753id_/https://magic.wizards.com/en/articles/archive/feature/karstens-gg-2009-09-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/karstens-gg-2009-09-10"
 ---
 
 

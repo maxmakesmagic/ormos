@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150322133554/http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-update-bulletin-2015-03-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-update-bulletin-2015-03-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150322133554id_/http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-update-bulletin-2015-03-19"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-22 13:35:54+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "A review of all the Oracle and Comprehensive Rules changes that come with a new set."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-03-19"
+[_metadata_:title]:- "Dragons of Tarkir Update Bulletin"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-22 13:35:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150322133554id_/http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-update-bulletin-2015-03-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-update-bulletin-2015-03-19"
 ---
 
 

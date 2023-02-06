@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119150102/https://magic.wizards.com/en/articles/archive/feature/tailoring-suit-2004-06-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tailoring-suit-2004-06-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119150102id_/https://magic.wizards.com/en/articles/archive/feature/tailoring-suit-2004-06-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 15:01:02+00:00"
+[_metadata_:author]:- "Chad Ellis"
 [_metadata_:description]:- "“Me: 8 life, Opponent: 20. He has 2 Ravenous Baloths on the board. I have pretty much the gauntlet running, but no Wrath of God. My solution to the Baloths wandering over to kill me? During his upkeep, I did 26 points of damage to his head by giving up 13 draws to the Words of War, forcing him to sac a Baloth.”Hanging out with Alan Comer is good times, even if it's over a chat"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-06-15"
+[_metadata_:title]:- "Tailoring to Suit"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 15:01:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119150102id_/https://magic.wizards.com/en/articles/archive/feature/tailoring-suit-2004-06-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tailoring-suit-2004-06-15"
 ---
 
 

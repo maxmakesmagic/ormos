@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210204182457/https://magic.wizards.com/en/articles/archive/feature/designing-black-is-magic-2021-02-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/designing-black-is-magic-2021-02-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210204182457id_/https://magic.wizards.com/en/articles/archive/feature/designing-black-is-magic-2021-02-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-04 18:24:57+00:00"
+[_metadata_:author]:- "Sydney Adams"
 [_metadata_:description]:- "Sydney Adams shares the stories, growth, and celebration that created Secret Lair: Black Is Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-02-04"
+[_metadata_:title]:- "Designing Black Is Magic"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-04 18:24:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210204182457id_/https://magic.wizards.com/en/articles/archive/feature/designing-black-is-magic-2021-02-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/designing-black-is-magic-2021-02-04"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201020004245/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-force-will-2004-01-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-force-will-2004-01-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201020004245id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-force-will-2004-01-30"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-20 00:42:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Terese Nielsen's Force of Will from Alliances. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-01-30"
+[_metadata_:title]:- "Wallpaper of the Week: Force of Will"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-20 00:42:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201020004245id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-force-will-2004-01-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-force-will-2004-01-30"
 ---
 
 

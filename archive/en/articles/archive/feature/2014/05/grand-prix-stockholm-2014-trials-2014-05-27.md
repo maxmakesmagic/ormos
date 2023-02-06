@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118162246/https://magic.wizards.com/en/articles/archive/feature/grand-prix-stockholm-2014-trials-2014-05-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-stockholm-2014-trials-2014-05-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118162246id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-stockholm-2014-trials-2014-05-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:22:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Stockholm Trials will be run at European WPN locations from August 2, 2014 to October 12, 2014. Each awards the winner a two-round bye to Grand Prix Stockholm. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-27"
+[_metadata_:title]:- "Grand Prix Stockholm 2014 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:22:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118162246id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-stockholm-2014-trials-2014-05-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-stockholm-2014-trials-2014-05-27"
 ---
 
 

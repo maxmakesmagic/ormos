@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812154053/https://magic.wizards.com/en/articles/archive/feature/delving-depths-2013-09-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/delving-depths-2013-09-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812154053id_/https://magic.wizards.com/en/articles/archive/feature/delving-depths-2013-09-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 15:40:53+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Look how far we've come since Scars of Mirrodin rotated. Delver of Secrets used to be the scourge of Standard, the most-feared deck by a wide margin. Less than a year later, and a Delver of Secrets deck can legitimately be classified as a rogue strategy. Granted, the deck did make Top 8 at Grand Prix Kitakyūshū, but that just makes it more exciting. Yuuta Takashi remade Delver"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-06"
+[_metadata_:title]:- "Delving the Depths"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 15:40:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812154053id_/https://magic.wizards.com/en/articles/archive/feature/delving-depths-2013-09-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/delving-depths-2013-09-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020012554/https://magic.wizards.com/en/articles/archive/feature/shot-was-one-million-kid-2005-08-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shot-was-one-million-kid-2005-08-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020012554id_/https://magic.wizards.com/en/articles/archive/feature/shot-was-one-million-kid-2005-08-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 01:25:54+00:00"
+[_metadata_:author]:- "John H. Klauk"
 [_metadata_:description]:- "Do you absolutely love playing the Magic: The Gathering® card game? -Yes!- Does the excitement of preparing for and competing in Magic tournaments drive your soul? -Yes! Keep going John, I’m listening.- How does the sound of winning cash prizes for winning those tournaments appeal to you? -Is this a trick question? – Do you dream of being immortalized for winning one of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-08-10"
+[_metadata_:title]:- "That Shot Was One in a Million Kid!"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 01:25:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020012554id_/https://magic.wizards.com/en/articles/archive/feature/shot-was-one-million-kid-2005-08-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shot-was-one-million-kid-2005-08-10"
 ---
 
 

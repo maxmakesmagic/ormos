@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701193556/https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-player-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-player-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701193556id_/https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-player-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 19:35:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPointsOpponentPointsA.S.K.3vsIkeike Family Fighters3AAA9vsSusiyan9ABCC4vsMatano Beat The Bando5Absolute6vsSouls of Rugerna6Aibon6vsAncestral Memories6Ain't afraid to die6vsCircle Money Draft6Air Orange3vsSuper Draw3Akebono Oyakatanhoiza3vsRakeru3Akko ni Omakase7vsTeam Emon Staff7All time 6000yen3vsUemura3Ancestral Memories6vsAibon6Apocalypse3vsTeam Work3Army of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 4 Pairings (by Player)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 19:35:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701193556id_/https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-player-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-player-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170721132857/http://magic.wizards.com/en/articles/archive/feature/inside-showdown-new-york-2006-08-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/inside-showdown-new-york-2006-08-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170721132857id_/http://magic.wizards.com/en/articles/archive/feature/inside-showdown-new-york-2006-08-21"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-21 13:28:57+00:00"
+[_metadata_:author]:- "Mark Rosewater and Henry Stern"
 [_metadata_:description]:- "Ten years ago Wizards of the Coast took an incredible gamble and launched the Magic Pro Tour, starting a phenomenon that would completely change the face of the hobby gaming industry. Since then Magic players have traveled the world, made a living playing the game, and taken home well over twenty-four million dollars in prize money in the process!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-21"
+[_metadata_:title]:- "Inside `Showdown in New York`"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-21 13:28:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170721132857id_/http://magic.wizards.com/en/articles/archive/feature/inside-showdown-new-york-2006-08-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/inside-showdown-new-york-2006-08-21"
 ---
 
 

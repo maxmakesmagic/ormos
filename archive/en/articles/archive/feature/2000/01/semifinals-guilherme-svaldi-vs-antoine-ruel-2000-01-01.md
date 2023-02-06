@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030034210/https://magic.wizards.com/en/articles/archive/feature/semifinals-guilherme-svaldi-vs-antoine-ruel-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-guilherme-svaldi-vs-antoine-ruel-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030034210id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-guilherme-svaldi-vs-antoine-ruel-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:42:10+00:00"
 [_metadata_:description]:- "Rui Oliveira Antoine Ruel Antoine had to cool down for a good twenty minutes after the long, complicated and often too noisy quarterfinals while Guilherme had a long time to regather his wits after the quick quarterfinals against Argentinean Jose Barbero."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Semifinals: Guilherme Svaldi vs. Antoine Ruel"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:42:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030034210id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-guilherme-svaldi-vs-antoine-ruel-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-guilherme-svaldi-vs-antoine-ruel-2000-01-01"
 ---
 
 

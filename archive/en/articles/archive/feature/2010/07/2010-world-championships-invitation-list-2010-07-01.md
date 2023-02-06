@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429124756/https://magic.wizards.com/en/articles/archive/feature/2010-world-championships-invitation-list-2010-07-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-world-championships-invitation-list-2010-07-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429124756id_/https://magic.wizards.com/en/articles/archive/feature/2010-world-championships-invitation-list-2010-07-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:47:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Invitations to the 2010 World Championships are awarded in the following manner: The current World Champion. The Top 8 finishers from the previous World Championship. The current Pro Tour Player of the Year. For countries that hold an invitation-only National Championship, the members of each national team, including that team's designated alternate, if any. For countries that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-01"
+[_metadata_:title]:- "2010 World Championships Invitation List"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:47:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429124756id_/https://magic.wizards.com/en/articles/archive/feature/2010-world-championships-invitation-list-2010-07-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-world-championships-invitation-list-2010-07-01"
 ---
 
 

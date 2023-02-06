@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024184612/https://magic.wizards.com/en/articles/archive/feature/onslaught-top-10-lists-2002-10-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/onslaught-top-10-lists-2002-10-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024184612id_/https://magic.wizards.com/en/articles/archive/feature/onslaught-top-10-lists-2002-10-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 18:46:12+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "We're a team here at MagicTheGathering.com. Each writer contributes equally to make this a great site to read about the Magic game. In the ten months that we've all been together, we've never really done an article in which everyone contributed equally to the one piece. Mark's splashed a little from each of the writers in his introduction column, and Jay recently held a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-10-07"
+[_metadata_:title]:- "Onslaught Top 10 Lists"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 18:46:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024184612id_/https://magic.wizards.com/en/articles/archive/feature/onslaught-top-10-lists-2002-10-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/onslaught-top-10-lists-2002-10-07"
 ---
 
 

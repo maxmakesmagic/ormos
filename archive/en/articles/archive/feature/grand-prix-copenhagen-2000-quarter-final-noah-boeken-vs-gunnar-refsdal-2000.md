@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220529112950/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-quarter-final-noah-boeken-vs-gunnar-refsdal-2000)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-quarter-final-noah-boeken-vs-gunnar-refsdal-2000"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529112950id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-quarter-final-noah-boeken-vs-gunnar-refsdal-2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 11:29:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Noah has drafted a reasonable White-Black deck. It's highlights include a pair of Defender en-Vecs, a Trouble Healer, a Jhovall Queen and a few white combat tricks like Cho-Manno's Blessing and Mageta's Boon. Gunnar is playing Blue-Green. He has little in the way of fat as his biggest creatures are mostly 3/3s in the shape of Silt Crawlers and a Chimeric Idol. He has a couple"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000 - Quarter-Final Noah Boeken vs. Gunnar Refsdal"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 11:29:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529112950id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-quarter-final-noah-boeken-vs-gunnar-refsdal-2000"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-quarter-final-noah-boeken-vs-gunnar-refsdal-2000"
 ---
 
 

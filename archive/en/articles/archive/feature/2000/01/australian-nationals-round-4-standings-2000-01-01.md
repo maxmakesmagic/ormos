@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202000624/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-4-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-4-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202000624id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-4-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 00:06:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Turner, Daniel 12 58.3333 100.0000 54.3981 4/4/0/0 2 Chan, Jonathan 12 58.3333 88.8889 54.8773 4/4/0/0 3 Coltman, Dane 12 47.9167 72.7273 50.6481 4/4/0/0 4 Hong, Craig 10 52.0833 77.7778 55.6250 4/3/1/0 5 Brebach, Kim 10 50.0000 77.7778 52.2222 4/3/1/0 6 Bow, Frankle 10 47.9167 70.0000 53.5218 4/3/1/0 7"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Australian Nationals Round 4 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 00:06:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202000624id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-4-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-4-standings-2000-01-01"
 ---
 
 

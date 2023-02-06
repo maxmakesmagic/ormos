@@ -2,11 +2,12 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20141203222415/http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141203222415id_/http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12"
-[_metadata_:wayback_capture_timestamp]:- "2014-12-03 22:24:15+00:00"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-11-12"
+[_metadata_:title]:- "2014 World Championship Competitors: Jérémy Dezani"
+[_metadata_:wayback_capture_timestamp]:- "2014-12-03 22:24:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141203222415id_/http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12"
 ---
 
 

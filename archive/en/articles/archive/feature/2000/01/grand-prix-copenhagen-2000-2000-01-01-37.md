@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520144153/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-37)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-37"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520144153id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-37"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 14:41:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 12 Results Table Player 1 Result Player 2 Gaudron, Stephane *** BYE *** Mello, Patrick *** BYE *** 1 Myrvig, Peter 0-2-0 Canu, Franck 2 Sanders Jensen, Niels 02-01-00 Cedercrantz, Johan 3 Jocumsen, Bjorn 2-0-0 Ruel, Antoine 4 Osterberg, Richard 2-0-0 Bastos, Frederico 5 Karlsson, Morgan 01-02-00 Levy, Raphael 6 Walter, Bjoern 02-01-00 Kruschel, Andreas 7 Cieslikowski,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 14:41:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520144153id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-37"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-37"
 ---
 
 

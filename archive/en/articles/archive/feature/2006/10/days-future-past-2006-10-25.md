@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220811115330/https://magic.wizards.com/en/articles/archive/feature/days-future-past-2006-10-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/days-future-past-2006-10-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811115330id_/https://magic.wizards.com/en/articles/archive/feature/days-future-past-2006-10-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 11:53:30+00:00"
+[_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "If you have read anything I have written about Magic before, you know the one thing that is most important to me is the history of Magic. I have been around the game for over 12 years. I have seen a lot of changes in the way people play our game and the way the sets are designed. That is a big reason Time Spiral is such a boon to me. I just turned 30, and it has provided a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-10-25"
+[_metadata_:title]:- "Days of Future Past"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 11:53:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811115330id_/https://magic.wizards.com/en/articles/archive/feature/days-future-past-2006-10-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/days-future-past-2006-10-25"
 ---
 
 

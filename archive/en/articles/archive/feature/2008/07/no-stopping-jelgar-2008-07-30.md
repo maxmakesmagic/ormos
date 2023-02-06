@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220706231336/https://magic.wizards.com/en/articles/archive/feature/no-stopping-jelgar-2008-07-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/no-stopping-jelgar-2008-07-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706231336id_/https://magic.wizards.com/en/articles/archive/feature/no-stopping-jelgar-2008-07-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 23:13:36+00:00"
+[_metadata_:author]:- "How creatures resist removal"
 [_metadata_:description]:- "This is the article text."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-30"
+[_metadata_:title]:- "No Stopping Jelgar!"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 23:13:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706231336id_/https://magic.wizards.com/en/articles/archive/feature/no-stopping-jelgar-2008-07-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/no-stopping-jelgar-2008-07-30"
 ---
 
 

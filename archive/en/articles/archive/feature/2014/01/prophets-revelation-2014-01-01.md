@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112034942/https://magic.wizards.com/en/articles/archive/feature/prophets-revelation-2014-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prophets-revelation-2014-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112034942id_/https://magic.wizards.com/en/articles/archive/feature/prophets-revelation-2014-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:49:42+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "As we celebrate the holidays, we're bringing you some of our favorite decks from throughout the year.  Enjoy these fun flashbacks into last year’s favorites.  Wizards of the Coast Staff"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-01-01"
+[_metadata_:title]:- "The Prophet's Revelation"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:49:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112034942id_/https://magic.wizards.com/en/articles/archive/feature/prophets-revelation-2014-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prophets-revelation-2014-01-01"
 ---
 
 

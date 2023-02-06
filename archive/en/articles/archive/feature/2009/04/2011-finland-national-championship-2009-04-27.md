@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016033958/https://magic.wizards.com/en/articles/archive/feature/2011-finland-national-championship-2009-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-finland-national-championship-2009-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016033958id_/https://magic.wizards.com/en/articles/archive/feature/2011-finland-national-championship-2009-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 03:39:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 20-21 August 2011Event Location: Servin MökkiAddress: Jämeräntaival 4, Espoo, Finland Eligibility The Magic: the Gathering Finland National Championship is an invitation-only event, open to citizens or permanent residents of Finland who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 Finland National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 03:39:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016033958id_/https://magic.wizards.com/en/articles/archive/feature/2011-finland-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-finland-national-championship-2009-04-27"
 ---
 
 

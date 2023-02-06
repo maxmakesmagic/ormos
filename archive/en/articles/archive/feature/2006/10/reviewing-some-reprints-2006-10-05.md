@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210501110456/https://magic.wizards.com/en/articles/archive/feature/reviewing-some-reprints-2006-10-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reviewing-some-reprints-2006-10-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501110456id_/https://magic.wizards.com/en/articles/archive/feature/reviewing-some-reprints-2006-10-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-01 11:04:56+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Welcome to Timeshifted Week!Well, I suppose since it's Thursday and Timeshifted Week began on Monday, you've either already had your welcome or never actually noticed it was a theme week, which would make my greeting three or four days tardy (go figure, given the time theme). Sorry about that.Time Spiral's `purples,` or timeshifted cards, are some of the coolest to grace"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-10-05"
+[_metadata_:title]:- "Reviewing Some Reprints"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-01 11:04:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501110456id_/https://magic.wizards.com/en/articles/archive/feature/reviewing-some-reprints-2006-10-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reviewing-some-reprints-2006-10-05"
 ---
 
 

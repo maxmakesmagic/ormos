@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180314152554/https://magic.wizards.com/en/articles/archive/feature/dominarian-roots-masters-25-2018-03-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominarian-roots-masters-25-2018-03-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180314152554id_/https://magic.wizards.com/en/articles/archive/feature/dominarian-roots-masters-25-2018-03-14"
-[_metadata_:wayback_capture_timestamp]:- "2018-03-14 15:25:54+00:00"
+[_metadata_:author]:- "Chas Andres"
 [_metadata_:description]:- "Masters 25 is chock-full of flavor wins and interesting callbacks for fans of Magic history, with root running all the way back to Dominaria."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-03-14"
+[_metadata_:title]:- "The Dominarian Roots of Masters 25"
+[_metadata_:wayback_capture_timestamp]:- "2018-03-14 15:25:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180314152554id_/https://magic.wizards.com/en/articles/archive/feature/dominarian-roots-masters-25-2018-03-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominarian-roots-masters-25-2018-03-14"
 ---
 
 

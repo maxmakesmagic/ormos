@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170811045438/http://magic.wizards.com/en/articles/archive/feature/beware-his-wrath-2006-02-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/beware-his-wrath-2006-02-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811045438id_/http://magic.wizards.com/en/articles/archive/feature/beware-his-wrath-2006-02-07"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-11 04:54:38+00:00"
+[_metadata_:author]:- "Zvi Mowshowitz"
 [_metadata_:description]:- "Michael Turian has some sage advice for those building a creature deck that wants to commit a lot of creatures to the table and worrying about how to beat Wrath of God. That advice? Don't. Build the deck as if Wrath doesn't exist. Deal with it over the board."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-02-07"
+[_metadata_:title]:- "Beware His Wrath"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-11 04:54:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811045438id_/http://magic.wizards.com/en/articles/archive/feature/beware-his-wrath-2006-02-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/beware-his-wrath-2006-02-07"
 ---
 
 

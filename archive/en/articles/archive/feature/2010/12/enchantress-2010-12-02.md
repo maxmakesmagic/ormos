@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021032438/https://magic.wizards.com/en/articles/archive/feature/enchantress-2010-12-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchantress-2010-12-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021032438id_/https://magic.wizards.com/en/articles/archive/feature/enchantress-2010-12-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 03:24:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: pryite199's Enchantress Format: Legacy - Magic Online Event 5 Forest 1 Horizon Canopy 1 Karakas 4 Plains 2 Savannah 2 Serra's Sanctum 1 Taiga 4 Windswept Heath 4 Argothian Enchantress 1 Aura of Silence 3 Chrome Mox 3 Elephant Grass 4 Enchantress's Presence 1 Ghostly Prison 1 Karmic Justice 1 Mirri's Guile 1 Moat 3 Oblivion Ring 1 Open the Vaults 2 Runed Halo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-02"
+[_metadata_:title]:- "Enchantress"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 03:24:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021032438id_/https://magic.wizards.com/en/articles/archive/feature/enchantress-2010-12-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchantress-2010-12-02"
 ---
 
 

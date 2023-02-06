@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160506001640/http://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2008-07-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2008-07-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160506001640id_/http://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2008-07-25"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-06 00:16:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Garruk Wildspeaker is a Planeswalker who wields green magic. His specialty is creature magic: spells that coax abundant mana from the land, summon wild beasts, and unleash the ferocity and power of his summoned creatures."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-25"
+[_metadata_:title]:- "Garruk Wildspeaker"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-06 00:16:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160506001640id_/http://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2008-07-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2008-07-25"
 ---
 
 

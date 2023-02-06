@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017084658/https://magic.wizards.com/en/articles/archive/feature/green-white-big-kid-2012-10-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-white-big-kid-2012-10-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017084658id_/https://magic.wizards.com/en/articles/archive/feature/green-white-big-kid-2012-10-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 08:46:58+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Yesterday, we featured a Trostani, Selesnya's Voice Commander deck in honor of it being Selesnya Week here on DailyMTG. Today, I wanted to keep in theme, but instead take a glance over at Standard. Last weekend, the Return to Ravnica Prerelease took place. That meant there was little room for Standard to be had, so we don't have any tournament results to work off of. That"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-05"
+[_metadata_:title]:- "Green-White Big Kid"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 08:46:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017084658id_/https://magic.wizards.com/en/articles/archive/feature/green-white-big-kid-2012-10-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-white-big-kid-2012-10-05"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526123746/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999player-list-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999player-list-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526123746id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999player-list-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:37:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Name Byes Adkins, Johnny 1 Adkins, Joshua 1 Albright, Nathan Anderson, Dan Anderson, Rhonda Angel, Greg Ansley, Justin Armstrong, Herman 1 Armstrong, Michael Arnold, David Auer, Jeffery 1 Augustine, Brian 1 Baker, Jeffery Baxter, James Beck, Scott 3 Bernat, Michael 1 Bernstein, Adam Blankenship, Jesse Boal, Michael Boyd, David Brackett, Derek 1 Bradford, Joshua 1 Bradley,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Memphis 1999Player List"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:37:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526123746id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999player-list-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999player-list-2000-01-01"
 ---
 
 

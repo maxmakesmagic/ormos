@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525010831/https://magic.wizards.com/en/articles/archive/feature/draft-1-feature-mike-turian-and-justin-gary-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-1-feature-mike-turian-and-justin-gary-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525010831id_/https://magic.wizards.com/en/articles/archive/feature/draft-1-feature-mike-turian-and-justin-gary-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 01:08:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan This draft table was something of a Who's Who of the Pro Tour, with Pro-Tour greats Alan Comer, Justin Gary, Mike Pustilnik, Mike Turian, and Bryce Currence providing perhaps a little intimidation for the remaining players at the table. Of them all, only Pustilnik wasn't seated next to a Pro-Tour regular. I followed former National Champ Justin Gary and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Draft 1 Feature - Mike Turian and Justin Gary"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 01:08:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525010831id_/https://magic.wizards.com/en/articles/archive/feature/draft-1-feature-mike-turian-and-justin-gary-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-1-feature-mike-turian-and-justin-gary-2000-01-01"
 ---
 
 

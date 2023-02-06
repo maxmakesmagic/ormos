@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208224516/https://magic.wizards.com/en/articles/archive/feature/shocking-isnt-it-2007-04-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shocking-isnt-it-2007-04-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208224516id_/https://magic.wizards.com/en/articles/archive/feature/shocking-isnt-it-2007-04-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 22:45:16+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "As you probably know, loyal reader, the main goal of this column is to predict or report on the trends of Constructed formats—Extended and Block Constructed PTQs, Standard for Champs and Regionals, and what have you—in order to help prepare you and other readers for the wiles and dangers that each of these tournament metagames will present. We're pretty good at that, but"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-04-05"
+[_metadata_:title]:- "Shocking, Isn't It?"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 22:45:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208224516id_/https://magic.wizards.com/en/articles/archive/feature/shocking-isnt-it-2007-04-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shocking-isnt-it-2007-04-05"
 ---
 
 

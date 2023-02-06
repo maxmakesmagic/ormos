@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519000545/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-5-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-5-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519000545id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-5-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 00:05:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 O'Mahoney-Schwartz, Steve 15 80.00 2 Mowshowitz, Zvi 15 80.00 3 Pustilnik, Michael 15 80.00 4 Cain, Joseph 15 80.00 5 Sullivan, Adrian 15 80.00 6 Parke, Jamie 15 73.33 7 Price, David 15 73.33 8 Jafari, David 15 73.33 9 Flores, Homero 15 73.33 10 Pacheco, Marc 15 70.00 11 Heffern, Mike 15 70.00 12 Rauseo, Matt 15 70.00 13 Shuler, John 15 66.67"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Memphis 1999Day 1 Round 5 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 00:05:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519000545id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-5-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-5-standings-2000-01-01"
 ---
 
 

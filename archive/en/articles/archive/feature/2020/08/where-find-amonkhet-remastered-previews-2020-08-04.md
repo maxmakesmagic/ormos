@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200804224316/https://magic.wizards.com/en/articles/archive/feature/where-find-amonkhet-remastered-previews-2020-08-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-amonkhet-remastered-previews-2020-08-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200804224316id_/https://magic.wizards.com/en/articles/archive/feature/where-find-amonkhet-remastered-previews-2020-08-04"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-04 22:43:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Amonkhet Remastered previews are almost upon us, and you can get all the dates and preview outlets right here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-08-04"
+[_metadata_:title]:- "Where to Find Amonkhet Remastered Previews"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-04 22:43:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200804224316id_/https://magic.wizards.com/en/articles/archive/feature/where-find-amonkhet-remastered-previews-2020-08-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-amonkhet-remastered-previews-2020-08-04"
 ---
 
 

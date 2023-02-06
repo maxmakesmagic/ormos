@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200307090206/https://magic.wizards.com/en/articles/archive/feature/unglued-qas-questions-asked-sometimes)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unglued-qas-questions-asked-sometimes"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200307090206id_/https://magic.wizards.com/en/articles/archive/feature/unglued-qas-questions-asked-sometimes"
-[_metadata_:wayback_capture_timestamp]:- "2020-03-07 09:02:06+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Ready for some Un- fun? Mark has everything you need here to clarify card rules for Unglued."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "1998-08-11"
+[_metadata_:title]:- "Unglued QAS (Questions Asked, Sometimes)"
+[_metadata_:wayback_capture_timestamp]:- "2020-03-07 09:02:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200307090206id_/https://magic.wizards.com/en/articles/archive/feature/unglued-qas-questions-asked-sometimes"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unglued-qas-questions-asked-sometimes"
 ---
 
 

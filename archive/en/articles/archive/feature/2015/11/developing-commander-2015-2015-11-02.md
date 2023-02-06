@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151102161834/http://magic.wizards.com/en/articles/archive/feature/developing-commander-2015-2015-11-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/developing-commander-2015-2015-11-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151102161834id_/http://magic.wizards.com/en/articles/archive/feature/developing-commander-2015-2015-11-02"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-02 16:18:34+00:00"
+[_metadata_:author]:- "Ben Hayes"
 [_metadata_:description]:- "Ben takes us behind the scenes to talk about the development of Commander (2015 Edition)!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-11-02"
+[_metadata_:title]:- "Developing Commander 2015"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-02 16:18:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151102161834id_/http://magic.wizards.com/en/articles/archive/feature/developing-commander-2015-2015-11-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/developing-commander-2015-2015-11-02"
 ---
 
 

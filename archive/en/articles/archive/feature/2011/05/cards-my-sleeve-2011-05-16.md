@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211206010301/https://magic.wizards.com/en/articles/archive/feature/cards-my-sleeve-2011-05-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cards-my-sleeve-2011-05-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206010301id_/https://magic.wizards.com/en/articles/archive/feature/cards-my-sleeve-2011-05-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 01:03:01+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "It's the first non-theme week following the release of a new set. That means it's time for the `Mark tells stories about cards from the set` column. Ah, like the swallows returning to Capistrano, let us return to this fine tradition to hear some design stories and other miscellaneous stuff. As one of the color pie gurus, I have mixed opinions on this card. I don't really mind"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-05-16"
+[_metadata_:title]:- "Cards Up My Sleeve"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 01:03:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206010301id_/https://magic.wizards.com/en/articles/archive/feature/cards-my-sleeve-2011-05-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cards-my-sleeve-2011-05-16"
 ---
 
 

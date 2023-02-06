@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160326211924/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-art-week-2-2016-03-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-art-week-2-2016-03-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160326211924id_/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-art-week-2-2016-03-25"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-26 21:19:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "A lot of great cards have been previewed this week, and we're taking a moment to admire the amazing art that's on those cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-03-25"
+[_metadata_:title]:- "Shadows over Innistrad Art—Week 2"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-26 21:19:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160326211924id_/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-art-week-2-2016-03-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-art-week-2-2016-03-25"
 ---
 
 

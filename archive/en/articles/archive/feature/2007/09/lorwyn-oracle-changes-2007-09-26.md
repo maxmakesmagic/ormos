@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502173331/https://magic.wizards.com/en/articles/archive/feature/lorwyn-oracle-changes-2007-09-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lorwyn-oracle-changes-2007-09-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502173331id_/https://magic.wizards.com/en/articles/archive/feature/lorwyn-oracle-changes-2007-09-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 17:33:31+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "What is Oracle?Magic is a game made up of over 9,000 interchangeable pieces—the cards. Over the years, we've felt the need to update the wordings of older cards, whether because we've introduced a new keyword, or a card was printed with a mistake, or we have a clearer wording for what a card does, etc. Rather than sneak into your room at night and change your cards with a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-09-26"
+[_metadata_:title]:- "Lorwyn Oracle Changes"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 17:33:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502173331id_/https://magic.wizards.com/en/articles/archive/feature/lorwyn-oracle-changes-2007-09-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lorwyn-oracle-changes-2007-09-26"
 ---
 
 

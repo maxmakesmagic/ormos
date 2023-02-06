@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200316092343/https://magic.wizards.com/en/articles/archive/feature/unhinged-faqtiwdawcc)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unhinged-faqtiwdawcc"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200316092343id_/https://magic.wizards.com/en/articles/archive/feature/unhinged-faqtiwdawcc"
-[_metadata_:wayback_capture_timestamp]:- "2020-03-16 09:23:43+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "It's all in good fun to go a little Unhinged, but Mark's FAQTIWDAWCC is here in case things go a little too far."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-19"
+[_metadata_:title]:- "Unhinged FAQTIWDAWCC"
+[_metadata_:wayback_capture_timestamp]:- "2020-03-16 09:23:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200316092343id_/https://magic.wizards.com/en/articles/archive/feature/unhinged-faqtiwdawcc"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unhinged-faqtiwdawcc"
 ---
 
 

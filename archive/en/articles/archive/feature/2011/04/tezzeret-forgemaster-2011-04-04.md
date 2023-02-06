@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220122004852/https://magic.wizards.com/en/articles/archive/feature/tezzeret-forgemaster-2011-04-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tezzeret-forgemaster-2011-04-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122004852id_/https://magic.wizards.com/en/articles/archive/feature/tezzeret-forgemaster-2011-04-04"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 00:48:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Edwin Garcia Format: Standard – StarCityGames.com Open in Los Angeles 5 Island 7 Swamp 4 Darkslick Shores 4 Drowned Catacomb 4 Inkmoth Nexus 1 Blightsteel Colossus 4 Kuldotha Forgemaster 1 Myr Battlesphere 1 Wurmcoil Engine 1 Blue Sun's Zenith 3 Mana Leak 1 Mindslaver 4 Everflowing Chalice 4 Sphere of the Suns 3 Tumble Magnet 4 Jace, the Mind Sculptor 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-04"
+[_metadata_:title]:- "Tezzeret Forgemaster"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 00:48:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122004852id_/https://magic.wizards.com/en/articles/archive/feature/tezzeret-forgemaster-2011-04-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tezzeret-forgemaster-2011-04-04"
 ---
 
 

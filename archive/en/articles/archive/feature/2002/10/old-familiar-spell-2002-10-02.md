@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210122121217/https://magic.wizards.com/en/articles/archive/feature/old-familiar-spell-2002-10-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/old-familiar-spell-2002-10-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122121217id_/https://magic.wizards.com/en/articles/archive/feature/old-familiar-spell-2002-10-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-22 12:12:17+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "Magic’s first `standalone` expansion set was Ice Age way back in 1995, though that distinction should have belonged to Legends (the first issue of The Duelist even advertised Legends as a standalone set). Either way, as the first standalone, Ice Age, was designed to be playable even if you didn’t own any other Magic cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-10-02"
+[_metadata_:title]:- "That Old Familiar Spell"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-22 12:12:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122121217id_/https://magic.wizards.com/en/articles/archive/feature/old-familiar-spell-2002-10-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/old-familiar-spell-2002-10-02"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121171810/https://magic.wizards.com/en/articles/archive/feature/trouble-tribals-2006-04-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/trouble-tribals-2006-04-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121171810id_/https://magic.wizards.com/en/articles/archive/feature/trouble-tribals-2006-04-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 17:18:10+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome Spikes and other super-competitive types! I've gotta tell you, I've seen the light. I know that two weeks ago I said that I'm a Johnny/Timmy according to the fun test devised by Making Magic columnist and R&D bigwig Mark Rosewater. Unfortunately, Johnny-faithful, that's just not true any more. I've gone over to the dark side. The Spike side. Char is my new favourite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-04-05"
+[_metadata_:title]:- "The Trouble with Tribals"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 17:18:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121171810id_/https://magic.wizards.com/en/articles/archive/feature/trouble-tribals-2006-04-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/trouble-tribals-2006-04-05"
 ---
 
 

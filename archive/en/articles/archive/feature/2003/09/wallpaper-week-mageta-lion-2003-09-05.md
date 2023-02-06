@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627035731/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mageta-lion-2003-09-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mageta-lion-2003-09-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627035731id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mageta-lion-2003-09-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 03:57:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is the white Spellshaper Legend from Prophecy, Mageta the Lion by Brom. Enjoy. 1024x768 800x600 See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-09-05"
+[_metadata_:title]:- "Wallpaper of the Week: Mageta the Lion"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 03:57:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627035731id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mageta-lion-2003-09-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mageta-lion-2003-09-05"
 ---
 
 

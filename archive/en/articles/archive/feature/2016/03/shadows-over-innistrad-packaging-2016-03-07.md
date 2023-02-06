@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160307173809/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-packaging-2016-03-07?)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-packaging-2016-03-07?"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160307173809id_/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-packaging-2016-03-07?"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-07 17:38:09+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Even the packaging for Shadows over Innistrad is spooky and full of mysteries!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-03-07"
+[_metadata_:title]:- "Shadows over Innistrad Packaging"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-07 17:38:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160307173809id_/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-packaging-2016-03-07?"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-packaging-2016-03-07?"
 ---
 
 

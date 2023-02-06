@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210425160403/https://magic.wizards.com/en/articles/archive/feature/modern-affinity-2011-05-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-affinity-2011-05-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210425160403id_/https://magic.wizards.com/en/articles/archive/feature/modern-affinity-2011-05-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-25 16:04:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Affinity Format: Modern 4 Blinkmoth Nexus 4 Glimmervoid 4 Darksteel Citadel 4 Darkslick Shores 1 Watery Grave 4 Memnite 4 Ornithopter 4 Signal Pest 4 Frogmite 4 Myr Enforcer 4 Arcbound Ravager 4 Master of Etherium 4 Thoughtcast 4 Cranial Plating 4 Springleaf Drum 3 Mox Opal [/decklist] The Community Cup is at hand, and a new format has been announced for the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-05-26"
+[_metadata_:title]:- "Modern Affinity"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-25 16:04:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210425160403id_/https://magic.wizards.com/en/articles/archive/feature/modern-affinity-2011-05-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-affinity-2011-05-26"
 ---
 
 

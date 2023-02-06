@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126185814/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-7-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-7-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126185814id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-7-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:58:14+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Burgner, Kurt 21 62.6984 87.5000 55.4971 7/7/0/0 2 McKenna, Tim 19 64.6259 72.2222 62.1347 7/6/1/0 3 Kastle, Darwin 19 54.6939 81.2500 52.4863 7/6/1/0 4 Tsang, Terry 18 61.9048 80.0000 58.4524 7/6/0/0 5 Boeken, Noah 18 59.8639 72.2222 56.4321 7/6/0/0 6 Ljones, Christer 18 59.2971 66.6667 58.5431 7/6/0/0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 7 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:58:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126185814id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-7-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-7-standings-2000-01-01"
 ---
 
 

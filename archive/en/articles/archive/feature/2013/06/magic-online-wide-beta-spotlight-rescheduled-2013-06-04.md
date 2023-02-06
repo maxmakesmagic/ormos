@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502074430/https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-spotlight-rescheduled-2013-06-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-spotlight-rescheduled-2013-06-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502074430id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-spotlight-rescheduled-2013-06-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 07:44:30+00:00"
+[_metadata_:author]:- "Chris Kiritz"
 [_metadata_:description]:- "Hi Magic Online players. At the end of April we announced our plans for a Wide Beta Spotlight, in which we would require players to use the new version for several days. To drive trials while keeping players excited, we timed this two-day event to include an extra day of Dragon's Maze Prerelease events. Our primary goal was to get more players to try the Wide Beta and gather"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-04"
+[_metadata_:title]:- "Magic Online Wide Beta Spotlight Rescheduled"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 07:44:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502074430id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-spotlight-rescheduled-2013-06-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-spotlight-rescheduled-2013-06-04"
 ---
 
 

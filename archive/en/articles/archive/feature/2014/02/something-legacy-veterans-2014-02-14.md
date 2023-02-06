@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220814221929/https://magic.wizards.com/en/articles/archive/feature/something-legacy-veterans-2014-02-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/something-legacy-veterans-2014-02-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814221929id_/https://magic.wizards.com/en/articles/archive/feature/something-legacy-veterans-2014-02-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 22:19:29+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Any casual observer might not recognize today's deck as a Legacy staple, but it's one of the many decks that exist in Legacy without ever breaking through to the big time. This deck is known as `Nic Fit,` but I'd prefer to call it BUG Midrange so players unfamiliar with Legacy have an idea of what the deck is and how the deck works. The deck revolves around finding Veteran"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-02-14"
+[_metadata_:title]:- "Something for Legacy Veterans"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 22:19:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814221929id_/https://magic.wizards.com/en/articles/archive/feature/something-legacy-veterans-2014-02-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/something-legacy-veterans-2014-02-14"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170615101214/http://magic.wizards.com/en/articles/archive/feature/bottomless-tank-never-say-die-2006-01-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/bottomless-tank-never-say-die-2006-01-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615101214id_/http://magic.wizards.com/en/articles/archive/feature/bottomless-tank-never-say-die-2006-01-19"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-15 10:12:14+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Put down whatever Magic cards you are leafing through right this second. Look away from your computer. Cross the hallway, walk down the stairs, slip on a pair of flippity floppities, and snap on the light to your daddy's garage (for those of you not living at home, or perhaps browsing the Internet at work, this may be a fairly long walk… through the snow). Push aside the dusty bottles of 409, anti-freeze, ammonia, and Clorox (but don't accidentally mix the last two or feed Gremlins after midnight)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-01-19"
+[_metadata_:title]:- "The Bottomless Tank of Never Say Die"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-15 10:12:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615101214id_/http://magic.wizards.com/en/articles/archive/feature/bottomless-tank-never-say-die-2006-01-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/bottomless-tank-never-say-die-2006-01-19"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521060729/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000player-list-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000player-list-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521060729id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000player-list-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 06:07:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Name Byes Abueg John Al-Doory Aziz Allen Chris Allen Crispin Allen Dustin Allen Tim Alsip Bill Amendolia Aaron Anders Dorian 2 Anderson Alex Anderson Dan Anderson Eric Andrews Mal 1 Anthon J.R."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Philadelphia 2000Player List"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 06:07:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521060729id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000player-list-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000player-list-2000-01-01"
 ---
 
 

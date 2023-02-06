@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123140353/https://magic.wizards.com/en/articles/archive/feature/every-two-sides-has-story-2011-08-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/every-two-sides-has-story-2011-08-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123140353id_/https://magic.wizards.com/en/articles/archive/feature/every-two-sides-has-story-2011-08-29"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 14:03:53+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-08-29"
+[_metadata_:title]:- "Every Two Sides Has a Story"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 14:03:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123140353id_/https://magic.wizards.com/en/articles/archive/feature/every-two-sides-has-story-2011-08-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/every-two-sides-has-story-2011-08-29"
 ---
 
 

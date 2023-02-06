@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023142028/https://magic.wizards.com/en/articles/archive/feature/australian-national-championship-2003-03-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-national-championship-2003-03-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023142028id_/https://magic.wizards.com/en/articles/archive/feature/australian-national-championship-2003-03-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 14:20:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Top 4 - Australian Nationals 20021RobNadebaumVIC, 6DanteRosatiVIC, 26DanielCliftonVIC, 28JustinWestVIC, Hobart (8 slots)1stMalcomFarrell2ndJasonHicks3rdTylerWalsh4thChrisStokes5thJaredConden6thKyleMoseleu7thBenLohberger8thAdrianMaynePerth (8 slots)1stBenYuill2ndDanielReimers3rdStephenFitzpatrick4thTakahiroKoyama5thHaydenSmith6thJasperCook7thTronYoung8thScottDanielsAdelaide (8"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-03-13"
+[_metadata_:title]:- "Australian National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 14:20:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023142028id_/https://magic.wizards.com/en/articles/archive/feature/australian-national-championship-2003-03-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-national-championship-2003-03-13"
 ---
 
 

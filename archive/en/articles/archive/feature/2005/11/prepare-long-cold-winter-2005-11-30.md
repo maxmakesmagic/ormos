@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220807215736/https://magic.wizards.com/en/articles/archive/feature/prepare-long-cold-winter-2005-11-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prepare-long-cold-winter-2005-11-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807215736id_/https://magic.wizards.com/en/articles/archive/feature/prepare-long-cold-winter-2005-11-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-07 21:57:36+00:00"
+[_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "As I write this, I have taken a brief respite from my endless exile in the wilderness of rural West Virginia and I am now at GenConSoCal in beautiful Anaheim, California. When I left West Virginia, the weather had just turned cold and we had just had our first snow. I am not disappointed in the least to be taken away from the icy cold of Appalachia and given a chance to play"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-11-30"
+[_metadata_:title]:- "Prepare for a Long, Cold Winter"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-07 21:57:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807215736id_/https://magic.wizards.com/en/articles/archive/feature/prepare-long-cold-winter-2005-11-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prepare-long-cold-winter-2005-11-30"
 ---
 
 

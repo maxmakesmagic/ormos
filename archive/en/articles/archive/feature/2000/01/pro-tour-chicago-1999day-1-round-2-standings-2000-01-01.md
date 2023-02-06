@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211201075220/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-2-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-2-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201075220id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-2-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 07:52:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Van Cleave, Trey 6 50.0000 100.0000 50.0000 2/2/0/0 2 Ranks, Matthew 6 50.0000 100.0000 50.0000 2/2/0/0 3 Chong, Rick 6 50.0000 100.0000 50.0000 2/2/0/0 4 Twiefel, Torben 6 50.0000 100.0000 50.0000 2/2/0/0 5 Snepvangers, Abraham 6 50.0000 100.0000 45.0000 2/2/0/0 6 Refsdal, Thomas 6 50.0000 100.0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Day 1 Round 2 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 07:52:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201075220id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-2-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-2-standings-2000-01-01"
 ---
 
 

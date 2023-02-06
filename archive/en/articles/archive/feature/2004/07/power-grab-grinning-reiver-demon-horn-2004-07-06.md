@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118020448/https://magic.wizards.com/en/articles/archive/feature/power-grab-grinning-reiver-demon-horn-2004-07-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/power-grab-grinning-reiver-demon-horn-2004-07-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118020448id_/https://magic.wizards.com/en/articles/archive/feature/power-grab-grinning-reiver-demon-horn-2004-07-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 02:04:48+00:00"
+[_metadata_:author]:- "Chad Ellis"
 [_metadata_:description]:- "Community is what makes MTGO special. Sure, it's great knowing you can get a draft or a match at any point of day or night, but it's more than that. It's the friends we make, the whacky decks we find in casual multi-player, the Adepts and experienced players who take the time to answer questions or to hook new players up with some commons or uncommons for their"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-07-06"
+[_metadata_:title]:- "Power Grab the Grinning Reiver Demon by the Horn!"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 02:04:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118020448id_/https://magic.wizards.com/en/articles/archive/feature/power-grab-grinning-reiver-demon-horn-2004-07-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/power-grab-grinning-reiver-demon-horn-2004-07-06"
 ---
 
 

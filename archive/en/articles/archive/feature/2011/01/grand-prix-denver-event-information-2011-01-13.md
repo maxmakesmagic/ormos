@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019053720/https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-event-information-2011-01-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-event-information-2011-01-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019053720id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-event-information-2011-01-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 05:37:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Date: February 19-20, 2011Format: Sealed Deck/Booster Draft Tournament Location Crowne Plaza Denver International Airport 15500 E. 40th Avenue Denver, Colorado 80239 Convention Center Rooms Registration: $40 Friday, February 18: Registration Noon - 9 p.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-01-13"
+[_metadata_:title]:- "Grand Prix Denver Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 05:37:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019053720id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-event-information-2011-01-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-event-information-2011-01-13"
 ---
 
 

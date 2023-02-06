@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117020958/https://magic.wizards.com/en/articles/archive/feature/fastest-humans-2013-02-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fastest-humans-2013-02-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117020958id_/https://magic.wizards.com/en/articles/archive/feature/fastest-humans-2013-02-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:09:58+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "I write all the decks for each week during the previous week. Right now, I'm on a plane on my way to Pro Tour Gatecrash in Montreal. Among the most powerful cards in Gatecrash is Burning-Tree Emissary. It has played a powerful supporting role in a variety of strategies. Inspired by smh's deck that went 4–0 in a Daily Event, we built and tested our own updated version of Naya"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-02-20"
+[_metadata_:title]:- "The Fastest Humans"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:09:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117020958id_/https://magic.wizards.com/en/articles/archive/feature/fastest-humans-2013-02-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fastest-humans-2013-02-20"
 ---
 
 

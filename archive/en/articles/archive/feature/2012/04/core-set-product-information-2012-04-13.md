@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211209114435/https://magic.wizards.com/en/articles/archive/feature/core-set-product-information-2012-04-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-set-product-information-2012-04-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209114435id_/https://magic.wizards.com/en/articles/archive/feature/core-set-product-information-2012-04-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 11:44:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Set Information The Magic 2013 Core Set features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set. The Magic 2013 Core Set is available in booster packs, intro packs, and fat packs Set Name: Magic 2013 Core Set Number of Cards: 249 Twitter Hashtag: #MTGM13 Magic 2013 Core Set FAQ (or download as DOC) Prerelease Events Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-13"
+[_metadata_:title]:- "Core Set Product Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 11:44:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209114435id_/https://magic.wizards.com/en/articles/archive/feature/core-set-product-information-2012-04-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-set-product-information-2012-04-13"
 ---
 
 

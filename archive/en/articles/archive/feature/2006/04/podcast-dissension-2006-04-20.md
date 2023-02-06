@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021032501/https://magic.wizards.com/en/articles/archive/feature/podcast-dissension-2006-04-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/podcast-dissension-2006-04-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021032501id_/https://magic.wizards.com/en/articles/archive/feature/podcast-dissension-2006-04-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 03:25:01+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "Hungry for more Dissension news and previews? Download the latest Magic: The Gathering podcast to feed your pre-Prerelease pangs. This month, Randy Buehler interviews Dissension lead designer Aaron Forsythe and coverage reporter Ted Knutson, and previews a Dissension card that has been in the works for more than three years. Want to know what Aaron’s favorite Dissension card"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-04-20"
+[_metadata_:title]:- "Podcast: Dissension!"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 03:25:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021032501id_/https://magic.wizards.com/en/articles/archive/feature/podcast-dissension-2006-04-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/podcast-dissension-2006-04-20"
 ---
 
 

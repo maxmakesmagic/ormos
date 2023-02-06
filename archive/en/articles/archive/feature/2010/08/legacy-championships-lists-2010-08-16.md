@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021002547/https://magic.wizards.com/en/articles/archive/feature/legacy-championships-lists-2010-08-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-championships-lists-2010-08-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021002547id_/https://magic.wizards.com/en/articles/archive/feature/legacy-championships-lists-2010-08-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:25:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Ryan Messick Format: 1 Scalding Tarn 2 Barbarian Ring 1 Bloodstained Mire 4 Badlands 4 Wasteland 1 Arid Mesa 4 Mountain 4 Auntie's Hovel 4 Goblin Ringleader 2 Siege-Gang Commander 1 Kiki-Jiki, Mirror Breaker 1 Stingscourger 3 Goblin Chieftain 4 Goblin Matron 4 Goblin Piledriver 4 Goblin Lackey 4 Goblin Warchief 1 Wort, Boggart Auntie 2 Warren Instigator 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-16"
+[_metadata_:title]:- "Legacy Championships Lists"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:25:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021002547id_/https://magic.wizards.com/en/articles/archive/feature/legacy-championships-lists-2010-08-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-championships-lists-2010-08-16"
 ---
 
 

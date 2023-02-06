@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018114259/https://magic.wizards.com/en/articles/archive/feature/whole-new-lands-2012-08-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whole-new-lands-2012-08-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018114259id_/https://magic.wizards.com/en/articles/archive/feature/whole-new-lands-2012-08-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 11:42:59+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Legacy is often regarded as a stable format. A player is able to build his or her favorite deck and play it for years. It will wax and wane in power level during that time, but the deck will most likely be legal, which is reassuring. However, it is easy to then make the leap that Legacy does not change often, which is most certainly not the case. Legacy has had format-rocking"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-15"
+[_metadata_:title]:- "A Whole New Lands"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 11:42:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018114259id_/https://magic.wizards.com/en/articles/archive/feature/whole-new-lands-2012-08-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whole-new-lands-2012-08-15"
 ---
 
 

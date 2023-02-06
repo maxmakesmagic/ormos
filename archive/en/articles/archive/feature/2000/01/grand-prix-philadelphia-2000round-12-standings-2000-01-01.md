@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211205083450/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-12-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-12-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205083450id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-12-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 08:34:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 McCord Scott 34 69.59 2 Jensen III, William (Q) 31 73.63 3 Bush Michelle 31 68.92 4 Fitch, Britt (1700) 31 68.03 5 Roderer, Dave (1700) 31 66.34 6 Leiher, Peter (Q) 30 74.31 7 Marks John 30 69.56 8 Means, Jason (Q) (1700) 30 66.07 9 Swan, Brad (1700) 30 62.37 10 Joyce Brian 29 70.44 11 Dougherty, Robert (Q) 28 72.58 12 Parke, Jamie (Q) 28 69.72"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 12 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 08:34:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205083450id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-12-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-12-standings-2000-01-01"
 ---
 
 

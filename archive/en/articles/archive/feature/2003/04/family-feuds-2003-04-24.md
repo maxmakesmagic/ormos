@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119113216/https://magic.wizards.com/en/articles/archive/feature/family-feuds-2003-04-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/family-feuds-2003-04-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119113216id_/https://magic.wizards.com/en/articles/archive/feature/family-feuds-2003-04-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 11:32:16+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Most of the time, I like to march to my own beat. Well, “march” is a strong word; let's say “walk” instead. Or better, “lounge around.” But despite my customary rhythmic laziness, I sometimes take requests. An email from Zarak (who I'm guessing is either from Rhode Island or the Crab Nebula) starts like this:Mark, I have been musing over this idea for a while. I wanted to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-04-24"
+[_metadata_:title]:- "Family Feuds"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 11:32:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119113216id_/https://magic.wizards.com/en/articles/archive/feature/family-feuds-2003-04-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/family-feuds-2003-04-24"
 ---
 
 

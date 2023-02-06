@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523054057/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-scenes-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-scenes-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523054057id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-scenes-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 05:40:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Teriyaki Toshiki deckbuilding The Austin Powers were quite pleased with their blue and white cards during the second deck construction period. Left to Right: Zephid's Embrace; Morphling; Barrin, Master Wizard; Catastrophe; Radiant, Archangel; Serra's Embrace; and another Serra's Embrace  DKLA building their decks Frayman 2; Electric Boogaloo building their decks  Close-up of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Scenes"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 05:40:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523054057id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-scenes-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-scenes-2000-01-01"
 ---
 
 

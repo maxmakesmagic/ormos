@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160129104554/http://magic.wizards.com/en/articles/archive/feature/international-magic-survey-2016-01-27)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/international-magic-survey-2016-01-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160129104554id_/http://magic.wizards.com/en/articles/archive/feature/international-magic-survey-2016-01-27"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-29 10:45:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Want your voice heard?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-01-27"
+[_metadata_:title]:- "International Magic Survey"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-29 10:45:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160129104554id_/http://magic.wizards.com/en/articles/archive/feature/international-magic-survey-2016-01-27"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/international-magic-survey-2016-01-27"
 ---
 
 

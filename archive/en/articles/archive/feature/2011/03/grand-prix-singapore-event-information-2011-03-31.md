@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026132228/https://magic.wizards.com/en/articles/archive/feature/grand-prix-singapore-event-information-2011-03-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-singapore-event-information-2011-03-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026132228id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-singapore-event-information-2011-03-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:22:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Date: June 4-5, 2011 Format: Standard Tournament Location Singapore Expo Conference Hall A-F (Friday: E-F only) 1 Expo Drive Singapore 486150 Map Doors: Free Registration: SGD $40 Friday, June 3: Registration times 10 a.m. - 8 p.m. Saturday, June 4:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-03-31"
+[_metadata_:title]:- "Grand Prix Singapore Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:22:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026132228id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-singapore-event-information-2011-03-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-singapore-event-information-2011-03-31"
 ---
 
 

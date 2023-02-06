@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521201426/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521201426id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:14:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 5 Standings - 14 and under Division  Op-Match Rank Name Points Win% 1 Burt Rodney 13 69.33 2 Hartman Nick 13 61.33 3 Lipp Scott 13 60.00 4 Behlen Andrew 13 56.00 5 Landers Mark 12 65.33 6 Winnard Marty 12 52.00 7 Mcbee Sean 12 52.00 8 Blair James 12 50.67 9 Hiemstra Aaron 12 49.33 10 Dyke Eric 12 46.67 11 Hadlock Justin 12 38.67 12 Reidy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:14:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521201426id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-27"
 ---
 
 

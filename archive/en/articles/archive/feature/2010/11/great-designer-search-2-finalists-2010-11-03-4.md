@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502005303/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-4)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-4"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005303id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-4"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:53:03+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "NAME: Scott Van EssenMULTIPLE CHOICE SCORE: 44ESSAYS:1. Introduce yourself and explain why you are a good fit for this internship.My name is Scott Van Essen. I was within a hair's breadth of the brass ring in GDS1 (tied for 6th). You might ask what I bring to the table this time that I did not have last time. Upon asking myself that question, I realized that in GDS1, I simply"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-11-03"
+[_metadata_:title]:- "The Great Designer Search 2 Finalists"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:53:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005303id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-4"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-4"
 ---
 
 

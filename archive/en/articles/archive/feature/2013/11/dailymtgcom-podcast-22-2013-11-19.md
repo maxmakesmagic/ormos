@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118180402/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-22-2013-11-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-22-2013-11-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118180402id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-22-2013-11-19"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 18:04:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Today's episode features Trick and Gavin talking to R&D's latest intern: Gerry Thompson! They talk to him about his background and Pro history, his trip to Wizards, his initial thoughts on arriving, and his thoughts on Theros. Episode 22 - Talking to Gerry T. - (19:29) (8.92 MB) The DailyMTG Podcast is on iTunes! You can visit its page right here. Or, if you use a different"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-19"
+[_metadata_:title]:- "DailyMTG.com Podcast #22"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 18:04:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118180402id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-22-2013-11-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-22-2013-11-19"
 ---
 
 

@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190605022436/https://magic.wizards.com/en/articles/archive/feature/round-6-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022436id_/https://magic.wizards.com/en/articles/archive/feature/round-6-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:24:36+00:00"
 [_metadata_:description]:- "Rank Player Points Op.Win% 1 Possato, William C 18 79.16% 2 Saux, Rafaël A Le 18 77.77% 3 Lucindo, Fabiano 18 77.77% 4 Ruel, Antoine 18 77.77% 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 6 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:24:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022436id_/https://magic.wizards.com/en/articles/archive/feature/round-6-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-standings-2000-01-01"
 ---
 
 

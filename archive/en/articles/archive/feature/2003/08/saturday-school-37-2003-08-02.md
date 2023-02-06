@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124050139/https://magic.wizards.com/en/articles/archive/feature/saturday-school-37-2003-08-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-37-2003-08-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124050139id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-37-2003-08-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 05:01:39+00:00"
+[_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at ask@wizards.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Beginner QuestionsQ: If an opponent plays a creature and I use Deflection to counter it do I gain control of that creature? --Angelo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-08-02"
+[_metadata_:title]:- "Saturday School #37"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 05:01:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124050139id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-37-2003-08-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-37-2003-08-02"
 ---
 
 

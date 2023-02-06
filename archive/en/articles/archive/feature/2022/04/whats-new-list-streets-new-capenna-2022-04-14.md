@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220415101904/https://magic.wizards.com/en/articles/archive/feature/whats-new-list-streets-new-capenna-2022-04-14?utm_source=dlvr.it&utm_medium=twitter)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whats-new-list-streets-new-capenna-2022-04-14?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220415101904id_/https://magic.wizards.com/en/articles/archive/feature/whats-new-list-streets-new-capenna-2022-04-14?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_capture_timestamp]:- "2022-04-15 10:19:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The List changes things up this time around to include Magic-themed versions of the Secret Lair x Stranger Things cards!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-04-14"
+[_metadata_:title]:- "What's New on The List for Streets of New Capenna"
+[_metadata_:wayback_capture_timestamp]:- "2022-04-15 10:19:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220415101904id_/https://magic.wizards.com/en/articles/archive/feature/whats-new-list-streets-new-capenna-2022-04-14?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whats-new-list-streets-new-capenna-2022-04-14?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

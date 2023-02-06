@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160225192218/http://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-2014-event-information-2014-06-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-2014-event-information-2014-06-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160225192218id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-2014-event-information-2014-06-16"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-25 19:22:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Salt Lake City is brought to you by Cascade Games, LLC. and ChannelFireball.com."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-06-16"
+[_metadata_:title]:- "Grand Prix Salt Lake City 2014 Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-25 19:22:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160225192218id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-2014-event-information-2014-06-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-2014-event-information-2014-06-16"
 ---
 
 

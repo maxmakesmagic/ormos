@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502134011/https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-10-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502134011id_/https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 13:40:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Thanks to tournament organizer Pete Hoefling and Starcitygames.com for the decklists."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-10-15"
+[_metadata_:title]:- "Magic Cruise Qualifying Season: Top 8 Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 13:40:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502134011id_/https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-10-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-10-15"
 ---
 
 

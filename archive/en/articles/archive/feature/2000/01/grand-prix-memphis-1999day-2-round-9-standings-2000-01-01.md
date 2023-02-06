@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123235051/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-9-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-9-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123235051id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-9-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 23:50:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "      Op-Match Rank Name Points Win% 1 Turning, Travis - 1700 27 67.69 2 Pacheco, Marc - 1700 25 69.22 3 Heiss, Nathan 24 72.53 4 Rauseo, Matt"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Memphis 1999Day 2 Round 9 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 23:50:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123235051id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-9-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-9-standings-2000-01-01"
 ---
 
 

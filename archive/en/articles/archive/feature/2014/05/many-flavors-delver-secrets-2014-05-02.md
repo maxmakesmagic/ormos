@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220807223113/https://magic.wizards.com/en/articles/archive/feature/many-flavors-delver-secrets-2014-05-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/many-flavors-delver-secrets-2014-05-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807223113id_/https://magic.wizards.com/en/articles/archive/feature/many-flavors-delver-secrets-2014-05-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-07 22:31:13+00:00"
+[_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "Since it's printing in Innistrad, Delver of Secrets has been a Legacy staple, fueling many different blue tempo decks. Force of Will, Daze, and Wasteland are Legacy staples that are commonly seen with everyone's favorite Insectile Aberration. RUG. RWU. UR. BUG. Many different color combinations have been successful in combination with Delver of Secrets, but Legacy aficionado"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-02"
+[_metadata_:title]:- "The Many Flavors of Delver of Secrets"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-07 22:31:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807223113id_/https://magic.wizards.com/en/articles/archive/feature/many-flavors-delver-secrets-2014-05-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/many-flavors-delver-secrets-2014-05-02"
 ---
 
 

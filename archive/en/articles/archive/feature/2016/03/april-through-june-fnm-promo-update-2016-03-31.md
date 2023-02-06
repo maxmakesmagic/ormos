@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170615125343/http://magic.wizards.com/en/articles/archive/feature/april-through-june-fnm-promo-update-2016-03-31)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/april-through-june-fnm-promo-update-2016-03-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615125343id_/http://magic.wizards.com/en/articles/archive/feature/april-through-june-fnm-promo-update-2016-03-31"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-15 12:53:43+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Blake takes a look ahead to see what FNM promos are waiting in the near future."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-03-31"
+[_metadata_:title]:- "April through June FNM Promo Update"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-15 12:53:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615125343id_/http://magic.wizards.com/en/articles/archive/feature/april-through-june-fnm-promo-update-2016-03-31"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/april-through-june-fnm-promo-update-2016-03-31"
 ---
 
 

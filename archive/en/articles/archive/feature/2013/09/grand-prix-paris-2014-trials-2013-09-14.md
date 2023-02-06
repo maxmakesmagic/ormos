@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118180840/https://magic.wizards.com/en/articles/archive/feature/grand-prix-paris-2014-trials-2013-09-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-paris-2014-trials-2013-09-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118180840id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-paris-2014-trials-2013-09-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 18:08:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Paris Trials will be run at European WPN locations from November 23, 2013 to January 31, 2014. Each awards the winner a two-round bye to Grand Prix Paris. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event. Possible"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-14"
+[_metadata_:title]:- "Grand Prix Paris 2014 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 18:08:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118180840id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-paris-2014-trials-2013-09-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-paris-2014-trials-2013-09-14"
 ---
 
 

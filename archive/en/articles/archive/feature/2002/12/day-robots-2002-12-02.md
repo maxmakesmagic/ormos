@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210726145422/https://magic.wizards.com/en/articles/archive/feature/day-robots-2002-12-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/day-robots-2002-12-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210726145422id_/https://magic.wizards.com/en/articles/archive/feature/day-robots-2002-12-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-26 14:54:22+00:00"
+[_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "When Fourth Edition (and later, Chronicles) was released, I was one of the players that did a little dance. You see, I started playing right when Fallen Empires was released, which was about when the folks here at Wizards figured out how many cards they needed to print to satisfy the demand for expansion sets."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-12-02"
+[_metadata_:title]:- "Day of the Robots"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-26 14:54:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210726145422id_/https://magic.wizards.com/en/articles/archive/feature/day-robots-2002-12-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/day-robots-2002-12-02"
 ---
 
 

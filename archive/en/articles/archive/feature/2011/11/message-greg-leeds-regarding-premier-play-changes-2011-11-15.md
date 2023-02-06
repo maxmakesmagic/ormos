@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200531091329/https://magic.wizards.com/en/articles/archive/feature/message-greg-leeds-regarding-premier-play-changes-2011-11-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/message-greg-leeds-regarding-premier-play-changes-2011-11-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531091329id_/https://magic.wizards.com/en/articles/archive/feature/message-greg-leeds-regarding-premier-play-changes-2011-11-15"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 09:13:29+00:00"
+[_metadata_:author]:- "Greg Leeds"
 [_metadata_:description]:- "*/ Hello. I'm Greg Leeds, President of Wizards of the Coast. I know that you don't hear from me often, but I feel that this message is an important one to address to you personally."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-11-15"
+[_metadata_:title]:- "Message from Greg Leeds Regarding Premier Play Changes"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 09:13:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531091329id_/https://magic.wizards.com/en/articles/archive/feature/message-greg-leeds-regarding-premier-play-changes-2011-11-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/message-greg-leeds-regarding-premier-play-changes-2011-11-15"
 ---
 
 

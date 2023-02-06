@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120172258/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-3-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-3-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120172258id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-3-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:22:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Alvarez Omar Williams David Lost, 1-2 Amendolia Aaron Hubble Bryan Lost, 0-2 Angeli Alessio Manataras Pablo Won, 2-1 Asquini Alessandro Bernabeu Jesus Drew, 1-1 Assen Johan Hacker Brian Won, 1-0 Au Yong Wai Kin Johnson Vincent Won, 2-0 Ayala Hermes Ross Edward Lost, 0-2 Baberowski Dirk Nishioka Andrew Lost, 1-2 Bachmann David Postema Bas Lost, 1-2 Baker"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 3 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:22:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120172258id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-3-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-3-results-2000-01-01"
 ---
 
 

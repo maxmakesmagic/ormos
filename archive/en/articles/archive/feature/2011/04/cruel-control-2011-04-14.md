@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160110191503/http://magic.wizards.com/en/articles/archive/feature/cruel-control-2011-04-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cruel-control-2011-04-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160110191503id_/http://magic.wizards.com/en/articles/archive/feature/cruel-control-2011-04-14"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-10 19:15:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Kellen Abel's Cruel Control"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-14"
+[_metadata_:title]:- "Cruel Control"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-10 19:15:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160110191503id_/http://magic.wizards.com/en/articles/archive/feature/cruel-control-2011-04-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cruel-control-2011-04-14"
 ---
 
 

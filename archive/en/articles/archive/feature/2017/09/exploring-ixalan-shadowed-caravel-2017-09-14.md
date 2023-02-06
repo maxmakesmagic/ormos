@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170914144627/https://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-shadowed-caravel-2017-09-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-shadowed-caravel-2017-09-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170914144627id_/https://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-shadowed-caravel-2017-09-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-14 14:46:27+00:00"
+[_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Take a closer look at the process behind one of today's preview cards—Shadowed Caravel!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-09-14"
+[_metadata_:title]:- "Exploring Ixalan – Shadowed Caravel"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-14 14:46:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170914144627id_/https://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-shadowed-caravel-2017-09-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-shadowed-caravel-2017-09-14"
 ---
 
 

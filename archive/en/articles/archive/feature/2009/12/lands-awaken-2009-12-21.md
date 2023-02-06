@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200813212110/https://magic.wizards.com/en/articles/archive/feature/lands-awaken-2009-12-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lands-awaken-2009-12-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200813212110id_/https://magic.wizards.com/en/articles/archive/feature/lands-awaken-2009-12-21"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-13 21:21:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Lands Awaken"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-12-21"
+[_metadata_:title]:- "The Lands Awaken"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-13 21:21:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200813212110id_/https://magic.wizards.com/en/articles/archive/feature/lands-awaken-2009-12-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lands-awaken-2009-12-21"
 ---
 
 

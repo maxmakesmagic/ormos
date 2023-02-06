@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026192524/https://magic.wizards.com/en/articles/archive/feature/2007-world-championships-prize-payout-2007-10-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-world-championships-prize-payout-2007-10-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026192524id_/https://magic.wizards.com/en/articles/archive/feature/2007-world-championships-prize-payout-2007-10-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 19:25:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Prizes USD Individual PlacePrizePlacePrizePlacePrizePlacePrize1$40,00017$3,00033$1,15049$600 2$22,00018$2,80034$1,10050$580 3$15,00019$2,60035$1,05051$560 4$14,00020$2,40036$1,00052$540 5$11,00021$2,20037$95053$520 6$10,00022$2,00038$90054$500 7$9,00023$1,90039$85055$490 8$8,00024$1,80040$80056$480 9$6,00025$1,70041$77557$470 10$5,50026$1,60042$75058$460"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-10-02"
+[_metadata_:title]:- "2007 World Championships Prize Payout"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 19:25:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026192524id_/https://magic.wizards.com/en/articles/archive/feature/2007-world-championships-prize-payout-2007-10-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-world-championships-prize-payout-2007-10-02"
 ---
 
 

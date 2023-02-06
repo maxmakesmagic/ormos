@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524054511/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524054511id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-10"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 05:45:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 6 Pairings - 15-17 Division Player Points Table Opponent Points Adams, Zach (58) 4 74 Leonhardt, Ryan (45) 3 Allen, Crispin (3) 6 71 Wescoe, Craig (13) 6 Baker, Justin (35) 9 62 Freneau, Philip (41) 9 Brubaker, Jake (24) 6 69 Carey, Joey (30) 6 Cahir, Dan (14) 7 66 Slapak, Mark (38) 6 Carey, Joey (30) 6 69 Brubaker, Jake (24) 6 Carpenter,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 05:45:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524054511id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-10"
 ---
 
 

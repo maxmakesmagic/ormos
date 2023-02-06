@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170415200648/http://magic.wizards.com/en/articles/archive/feature/explanation-september-2011-br-changes-2011-09-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/explanation-september-2011-br-changes-2011-09-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170415200648id_/http://magic.wizards.com/en/articles/archive/feature/explanation-september-2011-br-changes-2011-09-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-15 20:06:48+00:00"
+[_metadata_:author]:- "Erik Lauer"
 [_metadata_:description]:- "In reference to the September 20, 2011 Banned and Restricted Announcement."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-20"
+[_metadata_:title]:- "Explanation of September 2011 B&R Changes"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-15 20:06:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170415200648id_/http://magic.wizards.com/en/articles/archive/feature/explanation-september-2011-br-changes-2011-09-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/explanation-september-2011-br-changes-2011-09-20"
 ---
 
 

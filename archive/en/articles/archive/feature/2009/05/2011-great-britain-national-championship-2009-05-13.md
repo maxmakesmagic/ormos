@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160923052227/http://magic.wizards.com/en/articles/archive/feature/2011-great-britain-national-championship-2009-05-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2011-great-britain-national-championship-2009-05-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160923052227id_/http://magic.wizards.com/en/articles/archive/feature/2011-great-britain-national-championship-2009-05-13"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-23 05:22:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 19-21 August 2011Event Location: Ponds Forge International Sports CentreAddress: Sheffield Station, Sheaf St, Sheffield, S1 2BPEligibilityThe Magic: the Gathering Great Britain National Championship is an invitation-only event, open to citizens or permanent residents of Great Britain who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-13"
+[_metadata_:title]:- "2011 Great Britain National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-23 05:22:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160923052227id_/http://magic.wizards.com/en/articles/archive/feature/2011-great-britain-national-championship-2009-05-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2011-great-britain-national-championship-2009-05-13"
 ---
 
 

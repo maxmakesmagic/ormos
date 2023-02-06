@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211209114702/https://magic.wizards.com/en/articles/archive/feature/card-doctorjay-2002-12-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-doctorjay-2002-12-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209114702id_/https://magic.wizards.com/en/articles/archive/feature/card-doctorjay-2002-12-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 11:47:02+00:00"
+[_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Today marks the fiftieth `House of Cards` article, of which I'm quite proud. Several weeks ago, I decided I wanted to do something different and cool for #50. I thought about getting a guest columnist or loading the article with decklists or maybe doing another Deck Challenge."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-12-12"
+[_metadata_:title]:- "A Card for doctorjay"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 11:47:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209114702id_/https://magic.wizards.com/en/articles/archive/feature/card-doctorjay-2002-12-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-doctorjay-2002-12-12"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211127160656/https://magic.wizards.com/en/articles/archive/feature/product-information-2011-10-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2011-10-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127160656id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2011-10-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 16:06:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Prereleases: January 28-29, 2012 Release Date: February 3, 2012 Launch Parties: February 3-6, 2012 Game Day: February 25-26, 2012 Command the Night Set Name: Dark Ascension Block: Set 2 of 3 in the Innistrad block Number of Cards: 158 Twitter Hashtag: #MTGDKA Design Team: Mark Rosewater (lead), Jenna Helland, Zac Hill, Graeme Hopkins, Matt Tabak Development Team: Tom LaPille"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-10-25"
+[_metadata_:title]:- "Product Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 16:06:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127160656id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2011-10-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2011-10-25"
 ---
 
 

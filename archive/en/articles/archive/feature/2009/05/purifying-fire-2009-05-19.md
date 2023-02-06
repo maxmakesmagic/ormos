@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200812014836/https://magic.wizards.com/en/articles/archive/feature/purifying-fire-2009-05-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/purifying-fire-2009-05-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200812014836id_/https://magic.wizards.com/en/articles/archive/feature/purifying-fire-2009-05-19"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-12 01:48:36+00:00"
+[_metadata_:author]:- "Laura Resnick"
 [_metadata_:description]:- "Award-winning author Laura Resnick brings readers into the adventures of Chandra Nalaar, a young and impulsive mage on a collision course with destiny.Chandra Nalaar -- fresh off an encounter in which the young pyromancer was able to show off some of her more enlightening talents to earn a place in a loose association of fire mages -- still has a lot to prove..."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-19"
+[_metadata_:title]:- "The Purifying Fire"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-12 01:48:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200812014836id_/https://magic.wizards.com/en/articles/archive/feature/purifying-fire-2009-05-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/purifying-fire-2009-05-19"
 ---
 
 

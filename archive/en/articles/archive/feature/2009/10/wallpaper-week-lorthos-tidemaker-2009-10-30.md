@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112003202/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-lorthos-tidemaker-2009-10-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-lorthos-tidemaker-2009-10-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112003202id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-lorthos-tidemaker-2009-10-30"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:32:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper features Kekai Kotaki's Lorthos, the Tidemaker art from Zendikar. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-30"
+[_metadata_:title]:- "Wallpaper of the Week: Lorthos, the Tidemaker"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:32:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112003202id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-lorthos-tidemaker-2009-10-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-lorthos-tidemaker-2009-10-30"
 ---
 
 

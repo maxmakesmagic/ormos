@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502061124/https://magic.wizards.com/en/articles/archive/feature/lorwyn-comprehensive-rules-changes-2007-09-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lorwyn-comprehensive-rules-changes-2007-09-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502061124id_/https://magic.wizards.com/en/articles/archive/feature/lorwyn-comprehensive-rules-changes-2007-09-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 06:11:24+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "What are the Comprehensive Rules?Magic is complicated. No, really. When you have over 9,000 interchangeable game pieces, you get some freaky interactions. The Comprehensive Rules cover everything the game has ever come up with, from basic game play structure, to every keyword ever, to entire pages dedicated to single bizarre cards (hello, Mindslaver!) The Comprehensive Rules"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-09-26"
+[_metadata_:title]:- "Lorwyn Comprehensive Rules Changes"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 06:11:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502061124id_/https://magic.wizards.com/en/articles/archive/feature/lorwyn-comprehensive-rules-changes-2007-09-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lorwyn-comprehensive-rules-changes-2007-09-26"
 ---
 
 

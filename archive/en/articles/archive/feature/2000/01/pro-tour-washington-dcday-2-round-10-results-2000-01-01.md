@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516221044/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516221044id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 22:10:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Antarctica Operation Mise Won, 2-0 ATM Utrecht Lost, 0-2 Brown Bomber Fu-Ku-Ra-Mi Won, 2-0 CCC Your Move Games Lost, 1-2 CMU Game Empire Intentional Draw Fifth Again The Tank Lost, 0-2 Fu-Ku-Ra-Mi Brown Bomber Lost, 0-2 Game Empire CMU Intentional Draw Goblin Gate The Alliance Lost, 0-2 Lost in Spain Papa Smurf Won, 2-0-1 Marc's Brothers THL Lost, 0-2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 2 Round 10 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 22:10:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516221044id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-results-2000-01-01"
 ---
 
 

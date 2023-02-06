@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160927000227/http://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-event-information-2011-07-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-event-information-2011-07-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927000227id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-event-information-2011-07-22"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 00:02:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-07-22"
+[_metadata_:title]:- "Grand Prix Santiago Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 00:02:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927000227id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-event-information-2011-07-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-event-information-2011-07-22"
 ---
 
 

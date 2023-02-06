@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027162805/https://magic.wizards.com/en/articles/archive/feature/cascade-control-2009-06-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cascade-control-2009-06-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027162805id_/https://magic.wizards.com/en/articles/archive/feature/cascade-control-2009-06-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 16:28:05+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Zac Hill's Cascade Control Format: Pro Tour–Honolulu 3 Arcane Sanctum 4 Exotic Orchard 1 Forest 3 Island 2 Jungle Shrine 2 Mountain 4 Rupture Spire 3 Seaside Citadel 4 Swamp 4 Bloodbraid Elf 2 Caldera Hellion 2 Kathari Remnant 4 Wall of Denial 2 Ajani Vengeant 3 Bituminous Blast 3 Cruel Ultimatum 4 Esper Charm 4 Maelstrom Pulse 1 Nicol Bolas, Planeswalker 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-17"
+[_metadata_:title]:- "Cascade Control"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 16:28:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027162805id_/https://magic.wizards.com/en/articles/archive/feature/cascade-control-2009-06-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cascade-control-2009-06-17"
 ---
 
 

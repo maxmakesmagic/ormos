@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160914201811/http://magic.wizards.com/en/articles/archive/feature/grand-prix-barcelona-event-information-2013-12-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-barcelona-event-information-2013-12-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160914201811id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-barcelona-event-information-2013-12-04"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-14 20:18:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Barcelona is brought to you by Gordian Knot Games."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-12-04"
+[_metadata_:title]:- "Grand Prix Barcelona Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-14 20:18:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160914201811id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-barcelona-event-information-2013-12-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-barcelona-event-information-2013-12-04"
 ---
 
 

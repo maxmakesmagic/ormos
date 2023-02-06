@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170615232240/http://magic.wizards.com/en/articles/archive/feature/archenemy-assemble-doomsday-machine-2010-06-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/archenemy-assemble-doomsday-machine-2010-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615232240id_/http://magic.wizards.com/en/articles/archive/feature/archenemy-assemble-doomsday-machine-2010-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-15 23:22:40+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "If you were watching the coverage of Pro Tour–San Juan, you know that Archenemy was played all weekend in the Champion Challenge. And we've already covered how to play Archenemy. Which means that you might have learned what some cards do. So why should we beat around the bush? Say hello to one of the Archenemy decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-01"
+[_metadata_:title]:- "Archenemy: Assemble the Doomsday Machine"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-15 23:22:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615232240id_/http://magic.wizards.com/en/articles/archive/feature/archenemy-assemble-doomsday-machine-2010-06-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/archenemy-assemble-doomsday-machine-2010-06-01"
 ---
 
 

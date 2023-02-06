@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525044817/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-ii-2009-09-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-ii-2009-09-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525044817id_/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-ii-2009-09-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 04:48:17+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Zendikar Previews, Week 2! This week we're continuing our peek into the new fall set. My column is the second part of a three-part column about Zendikar's design. I'm assuming you've read last week's article, so if you haven't, you might want to read it first. Note that I am going to be liberally referencing cards from the Zendikar visual spoiler. If you don't want"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-14"
+[_metadata_:title]:- "Achieving Zendikar, Part II"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 04:48:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525044817id_/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-ii-2009-09-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-ii-2009-09-14"
 ---
 
 

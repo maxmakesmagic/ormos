@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200314114850/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-release-notes-2020-01-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-release-notes-2020-01-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200314114850id_/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-release-notes-2020-01-10"
-[_metadata_:wayback_capture_timestamp]:- "2020-03-14 11:48:50+00:00"
+[_metadata_:author]:- "Eli Shiffrin"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-01-10"
+[_metadata_:title]:- "Theros Beyond Death Release Notes"
+[_metadata_:wayback_capture_timestamp]:- "2020-03-14 11:48:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200314114850id_/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-release-notes-2020-01-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-release-notes-2020-01-10"
 ---
 
 

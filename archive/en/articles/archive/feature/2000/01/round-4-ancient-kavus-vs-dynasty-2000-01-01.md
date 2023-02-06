@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220703054831/https://magic.wizards.com/en/articles/archive/feature/round-4-ancient-kavus-vs-dynasty-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-ancient-kavus-vs-dynasty-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703054831id_/https://magic.wizards.com/en/articles/archive/feature/round-4-ancient-kavus-vs-dynasty-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 05:48:31+00:00"
+[_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "The Ancient Kavus vs. DynastyThere were 11 PT Top 8's amongst the players at the feature match area in round 4 when the Ancient Kavus (Gary Krakower, Matt Vienneau, Mike Pustilnik) took on Dynasty (Gab Tsang, Brian Hacker, Ben Rubin). Vienneau and Krakower, both from Toronto, Canada, have bee playing together for years and last teamed up with Dave Price. That team finished 5th"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 4: The Ancient Kavus vs. Dynasty"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 05:48:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703054831id_/https://magic.wizards.com/en/articles/archive/feature/round-4-ancient-kavus-vs-dynasty-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-ancient-kavus-vs-dynasty-2000-01-01"
 ---
 
 

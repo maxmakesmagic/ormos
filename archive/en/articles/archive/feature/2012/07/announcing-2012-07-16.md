@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112011112/https://magic.wizards.com/en/articles/archive/feature/announcing-2012-07-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-2012-07-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112011112id_/https://magic.wizards.com/en/articles/archive/feature/announcing-2012-07-16"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:11:12+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "If you were at the Magic panel at San Diego Comic Con this weekend, you already know this. But if you weren't, you may be interested to know that Magic's February 2013 set, code-named `Line,` is called Gatecrash. Fight For Your Guild"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-16"
+[_metadata_:title]:- "Announcing"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:11:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112011112id_/https://magic.wizards.com/en/articles/archive/feature/announcing-2012-07-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-2012-07-16"
 ---
 
 

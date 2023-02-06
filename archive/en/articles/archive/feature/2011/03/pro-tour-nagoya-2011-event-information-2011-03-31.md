@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502214321/https://magic.wizards.com/en/articles/archive/feature/pro-tour-nagoya-2011-event-information-2011-03-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-nagoya-2011-event-information-2011-03-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502214321id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-nagoya-2011-event-information-2011-03-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 21:43:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document.Pro Tour RegistrationTime: 18:00 - 21:00., Thursday, June 9 Location: Nagoya Trade & Industry CenterFukiage Hall 2-6-3 Fukiage, Chikusa-ku Nagoya-shi, Aichi-ken Note: This registration period is only for players"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-03-31"
+[_metadata_:title]:- "Pro Tour Nagoya 2011 Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 21:43:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502214321id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-nagoya-2011-event-information-2011-03-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-nagoya-2011-event-information-2011-03-31"
 ---
 
 

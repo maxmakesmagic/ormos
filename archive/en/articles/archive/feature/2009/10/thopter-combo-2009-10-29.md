@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170113044015/http://magic.wizards.com/en/articles/archive/feature/thopter-combo-2009-10-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/thopter-combo-2009-10-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170113044015id_/http://magic.wizards.com/en/articles/archive/feature/thopter-combo-2009-10-29"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-13 04:40:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kuan Tian's Thopter Foundry Combo Format: Extended 1 Academy Ruins 1 Breeding Pool 3 Hallowed Fountain 4 Island 4 Misty Rainforest 2 Mystic Gate 4 Scalding Tarn 4 Seat of the Synod 1 Temple Garden 1 Tolaria West 3 Engineered Explosives 3 Gifts Ungiven 1 Life from the Loam 4 Mana Leak 3 Mana Tithe 3 Muddle the Mixture 1 Oblivion Ring 3 Path to Exile 4 Sword of the Meek 4 Thirst for Knowledge 4 Thopter Foundry"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-29"
+[_metadata_:title]:- "Thopter Combo"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-13 04:40:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170113044015id_/http://magic.wizards.com/en/articles/archive/feature/thopter-combo-2009-10-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/thopter-combo-2009-10-29"
 ---
 
 

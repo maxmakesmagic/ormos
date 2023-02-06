@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112042118/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-battle-wits-2012-06-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-battle-wits-2012-06-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112042118id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-battle-wits-2012-06-29"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 04:21:18+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This week's wallpaper features Jason Chan's Battle of Wits from the Magic 2013 set. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-29"
+[_metadata_:title]:- "Wallpaper of the Week: Battle of Wits"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 04:21:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112042118id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-battle-wits-2012-06-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-battle-wits-2012-06-29"
 ---
 
 

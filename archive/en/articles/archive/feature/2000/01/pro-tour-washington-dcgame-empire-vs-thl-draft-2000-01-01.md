@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220529111625/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcgame-empire-vs-thl-draft-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcgame-empire-vs-thl-draft-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529111625id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcgame-empire-vs-thl-draft-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 11:16:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In this match-up pitting a team of experienced veterans against relative Pro Tour newcomers, Game Empire left the draft portion of the round exuding confidence. The draft began with THL's Marc Aquino making a questionable choice, taking Victimize, a card which, as Burgner put it, `doesn't usually make the cut.` Selden described his reaction to the choice as jubilation, while"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Game Empire vs. THL Draft"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 11:16:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529111625id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcgame-empire-vs-thl-draft-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcgame-empire-vs-thl-draft-2000-01-01"
 ---
 
 

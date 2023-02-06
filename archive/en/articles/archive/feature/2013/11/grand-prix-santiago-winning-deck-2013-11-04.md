@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016181240/https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-winning-deck-2013-11-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-winning-deck-2013-11-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016181240id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-winning-deck-2013-11-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 18:12:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Luis Navas on winning Grand Prix Santiago![decklist] Title: Luis Navas Format: GP Santiago Champion 8 Mountain 10 Swamp 4 Blood Crypt 4 Mogis's Marauder 4 Rakdos Cackler 4 Tormented Hero 1 Thrill-Kill Assassin 4 Spike Jester 4 Rakdos Shred-Freak 3 Xathrid Necromancer 4 Exava, Rakdos Blood Witch 4 Madcap Skills 4 Lightning Strike 2 Doom Blade *2 Burning Earth"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-04"
+[_metadata_:title]:- "Grand Prix Santiago Winning Deck"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 18:12:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016181240id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-winning-deck-2013-11-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-winning-deck-2013-11-04"
 ---
 
 

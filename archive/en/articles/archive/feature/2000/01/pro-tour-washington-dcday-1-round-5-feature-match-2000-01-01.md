@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522054934/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522054934id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 05:49:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round Five Feature Match: Marc's Brothers vs. Tongo Nation Michael Sochon (B) vs. Mike Long (B) Raphael Levy (U/W) vs. Justin Gary (W/R) Marc Hernandez (R/G) vs. Brian Schneider (U/G) Tongo Nation is not following the standard Black, Blue-White, Red-Green breakdown followed by most of the teams.  Mike Schneider has just cast a Hunting Moa, planning on putting it's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 5 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 05:49:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522054934id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-feature-match-2000-01-01"
 ---
 
 

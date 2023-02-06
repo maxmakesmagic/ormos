@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429134527/https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-3-2005-03-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-3-2005-03-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429134527id_/https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-3-2005-03-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 13:45:27+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "At House of Cards, Draft Week can only mean that it's time for my favorite Magic format of all time, Reject Rare Draft. This is an opportunity to resurrect all the bizarre, unplayable, or merely neglected rares gathering dust in your collection and put them to work once again. Reject Rare Draft is a completely normal booster draft with one major exception: Instead of using"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-03-17"
+[_metadata_:title]:- "Reject Rare Draft 3"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 13:45:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429134527id_/https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-3-2005-03-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-3-2005-03-17"
 ---
 
 

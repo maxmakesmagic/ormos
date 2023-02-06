@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151008190452/http://magic.wizards.com/en/articles/archive/feature/super-league-last-chance-qualifier-2015-10-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/super-league-last-chance-qualifier-2015-10-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151008190452id_/http://magic.wizards.com/en/articles/archive/feature/super-league-last-chance-qualifier-2015-10-06"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-08 19:04:52+00:00"
+[_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "It's almost time for the Super League Championship and most of the roster is set, but a few players have one last chance to win their spots."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-10-06"
+[_metadata_:title]:- "Super League Last Chance Qualifier"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-08 19:04:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151008190452id_/http://magic.wizards.com/en/articles/archive/feature/super-league-last-chance-qualifier-2015-10-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/super-league-last-chance-qualifier-2015-10-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123234705/https://magic.wizards.com/en/articles/archive/feature/magic-2013-update-bulletin-2012-07-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2013-update-bulletin-2012-07-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123234705id_/https://magic.wizards.com/en/articles/archive/feature/magic-2013-update-bulletin-2012-07-04"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 23:47:05+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "The Magic 2013 core set, fifteenth of its name, will soon be upon us. Exalted is back, there are a few new Planeswalkers, and magical things from all over the Multiverse are waiting for their place in your favorite decks. And it's time once again to polish some older cards and tweak the Comprehensive Rules."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-04"
+[_metadata_:title]:- "Magic 2013 Update Bulletin"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 23:47:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123234705id_/https://magic.wizards.com/en/articles/archive/feature/magic-2013-update-bulletin-2012-07-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2013-update-bulletin-2012-07-04"
 ---
 
 

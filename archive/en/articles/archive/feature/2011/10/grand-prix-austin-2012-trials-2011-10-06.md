@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527165957/https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-2012-trials-2011-10-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-2012-trials-2011-10-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527165957id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-2012-trials-2011-10-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 16:59:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Austin Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers the winner a three-round bye to Grand Prix Austin. WPN Locations in the Austin Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-10-06"
+[_metadata_:title]:- "Grand Prix Austin 2012 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 16:59:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527165957id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-2012-trials-2011-10-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-2012-trials-2011-10-06"
 ---
 
 

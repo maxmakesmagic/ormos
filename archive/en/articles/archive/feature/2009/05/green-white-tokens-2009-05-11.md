@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121103409/https://magic.wizards.com/en/articles/archive/feature/green-white-tokens-2009-05-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-white-tokens-2009-05-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121103409id_/https://magic.wizards.com/en/articles/archive/feature/green-white-tokens-2009-05-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 10:34:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: tomy_vercety's Green-White Tokens Format: Standard 4 Brushland 4 Forest 4 Plains 4 Treetop Village 4 Windbrisk Heights 4 Wooded Bastion 4 Cloudgoat Ranger 2 Elvish Visionary 4 Kitchen Finks 4 Noble Hierarch 4 Steward of Valeron 4 Wilt-Leaf Liege 2 Ajani Goldmane 2 Garruk Wildspeaker 2 Martial Coup 2 Overrun 2 Path to Exile 4 Spectral Procession *4 Burrenton"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-11"
+[_metadata_:title]:- "Green-White Tokens"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 10:34:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121103409id_/https://magic.wizards.com/en/articles/archive/feature/green-white-tokens-2009-05-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-white-tokens-2009-05-11"
 ---
 
 

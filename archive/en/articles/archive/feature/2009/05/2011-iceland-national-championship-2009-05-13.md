@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523090615/https://magic.wizards.com/en/articles/archive/feature/2011-iceland-national-championship-2009-05-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-iceland-national-championship-2009-05-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523090615id_/https://magic.wizards.com/en/articles/archive/feature/2011-iceland-national-championship-2009-05-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:06:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 18 September 2011Location: Pegasus Oyuncak, Ihlamurdere Caddesi Mısırlıbahce Sokak No:3/A BesiktasCity: IstanbulCountry: IcelandThe Magic: the Gathering Iceland Championship is open to all citizens or permanent residents of Iceland.Contact informationEmail: unnsteinnb@gmail.comFormatStandard and Booster Draft 3 Magic 2012 booster packs will be used for drafting Deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-13"
+[_metadata_:title]:- "2011 Iceland National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:06:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523090615id_/https://magic.wizards.com/en/articles/archive/feature/2011-iceland-national-championship-2009-05-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-iceland-national-championship-2009-05-13"
 ---
 
 

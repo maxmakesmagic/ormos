@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170502195239/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-2010-12-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-2010-12-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502195239id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-2010-12-02"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-02 19:52:39+00:00"
+[_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "As a follow-up to our recent successful multiplayer offerings, 2009's Planechase and 2010's Archenemy, we wanted to do something different for our 2011 multiplayer product. We set out to kill two birds with one stone: make new cards specifically for multiplayer play and give a popular fan-created format—Elder Dragon Highlander (or EDH for short)—the attention it deserves."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-02"
+[_metadata_:title]:- "Magic: The Gathering Commander"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-02 19:52:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502195239id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-2010-12-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-2010-12-02"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170312005926/http://magic.wizards.com/en/articles/archive/feature/say-my-name-2005-04-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/say-my-name-2005-04-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170312005926id_/http://magic.wizards.com/en/articles/archive/feature/say-my-name-2005-04-25"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-12 00:59:26+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "Mr. A: We need a name for this burn spell. Mr. B: How about Lightning Blast. Mr. A: That sounds good. How about this green creature that gets bigger? Mr. B: Dirtcowl Wurm sounds smooth. Mr. A: Yeah. Wurms are cool. These trees are cool too, they help us think of great stuff for green cards. Mr. B: Yeah, and they make a great shady place to stop for a little respite. Mr. A: Dude! Respite, that's a great name. Chalk that one up! Mr."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-04-25"
+[_metadata_:title]:- "Say My Name"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-12 00:59:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170312005926id_/http://magic.wizards.com/en/articles/archive/feature/say-my-name-2005-04-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/say-my-name-2005-04-25"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160512180935/http://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-finals-recap-2000-01-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-finals-recap-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160512180935id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-finals-recap-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-12 18:09:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Gary Wise In a match pitting what were easily the two most dominant decks in the environment, the Mogg Squad's Sigurd Eskeland defeated the European Alliance's Warren Marsh to win Pro Tour New York 5, three games to one. Playing his team's Rising Waters deck, Eskeland, known as the Big Viking to his fellow Pro Tour players, finally got his payday in what has been a long career of near misses."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Finals Recap"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-12 18:09:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160512180935id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-finals-recap-2000-01-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-finals-recap-2000-01-01"
 ---
 
 

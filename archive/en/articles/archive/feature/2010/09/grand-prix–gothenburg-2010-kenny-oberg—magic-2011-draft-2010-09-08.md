@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022075336/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-2010-kenny-oberg%E2%80%94magic-2011-draft-2010-09-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-2010-kenny-oberg%E2%80%94magic-2011-draft-2010-09-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022075336id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-2010-kenny-oberg%E2%80%94magic-2011-draft-2010-09-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 07:53:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kenny Oberg Format: Grand Prix–Gothenburg 2010 - Magic 2011 Draft 10 Forest 6 Mountain 1 Swamp 2 Acidic Slime 1 Awakener Druid 2 Canyon Minotaur 2 Cudgel Troll 1 Garruk's Companion 1 Greater Basilisk 1 Mitotic Slime 1 Prodigal Pyromancer 2 Sacred Wolf 1 Sylvan Ranger 1 Yavimaya Wurm 1 Combust 1 Doom Blade 1 Fireball 1 Fling 1 Plummet 1 Pyroclasm 1 Sorcerer's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-08"
+[_metadata_:title]:- "Grand Prix–Gothenburg 2010, Kenny Oberg—Magic 2011 Draft"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 07:53:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022075336id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-2010-kenny-oberg%E2%80%94magic-2011-draft-2010-09-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-2010-kenny-oberg%E2%80%94magic-2011-draft-2010-09-08"
 ---
 
 

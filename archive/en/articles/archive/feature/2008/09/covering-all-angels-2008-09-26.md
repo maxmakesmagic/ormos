@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220813152517/https://magic.wizards.com/en/articles/archive/feature/covering-all-angels-2008-09-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/covering-all-angels-2008-09-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813152517id_/https://magic.wizards.com/en/articles/archive/feature/covering-all-angels-2008-09-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 15:25:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Ingrid Lind-Jahn's Angels Format: Covering All the Angels 4 Karoo 18 Plains 1 Strip Mine 4 Angelic Page 4 Voice of All 2 Angel of Mercy 2 Serra Angel 2 Angelic Protector 1 Archangel 3 Blinding Angel 2 Radiant, Archangel 1 Seraph 3 Serra Advocate 1 Warrior Angel 4 Voice of Law 4 Disenchant 4 Swords to Plowshares 1 Moat 2 Pearl Medallion 1 Voltaic Key 2 Urza's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-26"
+[_metadata_:title]:- "Covering All the Angels"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 15:25:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813152517id_/https://magic.wizards.com/en/articles/archive/feature/covering-all-angels-2008-09-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/covering-all-angels-2008-09-26"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220813114824/https://magic.wizards.com/en/articles/archive/feature/five-color-nassif-2009-03-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/five-color-nassif-2009-03-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813114824id_/https://magic.wizards.com/en/articles/archive/feature/five-color-nassif-2009-03-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 11:48:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Gabriel Nassif's Five-Color Control Format: Pro Tour–Kyoto 2 Cascade Bluffs 2 Exotic Orchard 3 Island 1 Mystic Gate 4 Reflecting Pool 4 Sunken Ruins 2 Vivid Crag 4 Vivid Creek 3 Vivid Marsh 2 Vivid Meadow 3 Broodmate Dragon 4 Mulldrifter 3 Plumeveil 3 Wall of Reverence 4 Broken Ambitions 1 Celestial Purge 2 Cruel Ultimatum 4 Cryptic Command 4 Esper Charm 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-03"
+[_metadata_:title]:- "Five-Color Nassif"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 11:48:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813114824id_/https://magic.wizards.com/en/articles/archive/feature/five-color-nassif-2009-03-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/five-color-nassif-2009-03-03"
 ---
 
 

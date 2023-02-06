@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201205222531/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-4-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-4-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205222531id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-4-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 22:25:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Results Team 3 Aces 0-3 Fungusaur Antarctica 0-3 Josh Napper Fan Club Backstreetboys 0-3 Tighttanic BattleZone 0-3 The Right Brothers Beat Squad 0-3 Chub Toad II Beauty and the Beasts"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix St. Louis Round 4 Results"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 22:25:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205222531id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-4-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-4-results-2000-01-01"
 ---
 
 

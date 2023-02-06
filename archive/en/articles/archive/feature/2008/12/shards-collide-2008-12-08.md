@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429063408/https://magic.wizards.com/en/articles/archive/feature/shards-collide-2008-12-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-collide-2008-12-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429063408id_/https://magic.wizards.com/en/articles/archive/feature/shards-collide-2008-12-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:34:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Long ago Alara was one plane, but it was drained of its mana and shattered into five shards. Over centuries, each shard recovered its own mana, but only three of the five colors flourished on each shard, creating five distinct worlds, each with its own unique identity. The creatures native to each shard have forgotten Alara, their mother world. But Alara's shards have drifted"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-08"
+[_metadata_:title]:- "The Shards Collide"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:34:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429063408id_/https://magic.wizards.com/en/articles/archive/feature/shards-collide-2008-12-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-collide-2008-12-08"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021110145/https://magic.wizards.com/en/articles/archive/feature/whos-lifegain-2002-06-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whos-lifegain-2002-06-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021110145id_/https://magic.wizards.com/en/articles/archive/feature/whos-lifegain-2002-06-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 11:01:45+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "Welcome again to Life Gain Week, where I ask the question, “Who’s the lifegain?” Each color in Magic has certain themes which are expressed through repetition from set to set. Randy introduced the color pie, which showed where each color stood in relation to how many mechanics each used. Over the course of Magic history, different colors have controlled different shares of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-06-26"
+[_metadata_:title]:- "Who's the Lifegain?"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 11:01:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021110145id_/https://magic.wizards.com/en/articles/archive/feature/whos-lifegain-2002-06-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whos-lifegain-2002-06-26"
 ---
 
 

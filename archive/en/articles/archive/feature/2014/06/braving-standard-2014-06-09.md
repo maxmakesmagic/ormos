@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124101649/https://magic.wizards.com/en/articles/archive/feature/braving-standard-2014-06-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/braving-standard-2014-06-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124101649id_/https://magic.wizards.com/en/articles/archive/feature/braving-standard-2014-06-09"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 10:16:49+00:00"
+[_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "One of the most powerful cards to build a deck around in Standard is Brave the Elements. For a single white mana to provide protection to all of your white creatures is extremely effective and versatile. While the normal-use case is getting your creatures through any blockers, Brave the Elements is also good at protecting your creatures from cards such as Anger of the Gods or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-06-09"
+[_metadata_:title]:- "Braving Standard"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 10:16:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124101649id_/https://magic.wizards.com/en/articles/archive/feature/braving-standard-2014-06-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/braving-standard-2014-06-09"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119235930/https://magic.wizards.com/en/articles/archive/feature/survival-bant-2010-03-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/survival-bant-2010-03-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119235930id_/https://magic.wizards.com/en/articles/archive/feature/survival-bant-2010-03-10"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 23:59:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Nicola Landoni's Survival Bant Format: Legacy – Grand Prix–Madrid 1 Flooded Strand 1 Forest 1 Island 4 Misty Rainforest 1 Plains 2 Savannah 1 Taiga 3 Tropical Island 1 Tundra 1 Volcanic Island 3 Windswept Heath 1 Eternal Witness 1 Iona, Shield of Emeria 1 Loyal Retainers 4 Noble Hierarch 1 Qasali Pridemage 1 Rafiq of the Many 3 Rhox War Monk 1 Squee, Goblin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-10"
+[_metadata_:title]:- "Survival Bant"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 23:59:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119235930id_/https://magic.wizards.com/en/articles/archive/feature/survival-bant-2010-03-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/survival-bant-2010-03-10"
 ---
 
 

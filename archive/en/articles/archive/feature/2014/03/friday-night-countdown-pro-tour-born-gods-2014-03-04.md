@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200918103726/https://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-born-gods-2014-03-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-born-gods-2014-03-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200918103726id_/https://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-born-gods-2014-03-04"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-18 10:37:26+00:00"
+[_metadata_:author]:- "Rich Hagon and Brian David-Marshall"
 [_metadata_:description]:- "Rich and Brian look back at Pro Tour Born of the Gods, analyzing the state of the Modern metagame, including closer looks at Living End, Amulet of Vigor, and many other decks from the tournament and its Top 8. They then recount Hall of Famer William “Huey” Jensen’s featured draft from Day One. Lastly, they discuss the new feature at the Pro Tour: King of the Hill."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-04"
+[_metadata_:title]:- "Friday Night Countdown: Pro Tour Born of the Gods"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-18 10:37:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200918103726id_/https://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-born-gods-2014-03-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-born-gods-2014-03-04"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517102956/https://magic.wizards.com/en/articles/archive/feature/qualifier-season-pro-tour-magic-2015-announced-2014-02-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/qualifier-season-pro-tour-magic-2015-announced-2014-02-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517102956id_/https://magic.wizards.com/en/articles/archive/feature/qualifier-season-pro-tour-magic-2015-announced-2014-02-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 10:29:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information for the next Pro Tour Qualifier season has been released. Store-run PTQs for Pro Tour Magic 2015 start March 15 and run until June 1. The Swiss format is Sealed Deck, with a Booster Draft Top 8. The Journey into Nyx set will be released midway through the season, so all PTQs run after May 2, 2014, will incorporate the new set. The winner of each store-run qualifier"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-02-18"
+[_metadata_:title]:- "Qualifier Season for Pro Tour Magic 2015 Announced"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 10:29:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517102956id_/https://magic.wizards.com/en/articles/archive/feature/qualifier-season-pro-tour-magic-2015-announced-2014-02-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/qualifier-season-pro-tour-magic-2015-announced-2014-02-18"
 ---
 
 

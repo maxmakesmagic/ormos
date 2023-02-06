@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026004746/https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-nagoya-2011-2010-12-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-nagoya-2011-2010-12-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026004746id_/https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-nagoya-2011-2010-12-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:47:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Play the Game, See the World Pro Tour Nagoya is June 10-12, 2011. Qualifiers for the Pro Tour held at Magic Weekend Nagoya start January 1 and run until April 10. Check the Event Locator to find an event near you that could earn you an invitation to the Pro Tour at Magic Weekend Nagoya. Magic Online Pro Tour Qualifiers will once again be run as well, so if you can't make it to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-16"
+[_metadata_:title]:- "Qualifiers for Pro Tour Nagoya 2011"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:47:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026004746id_/https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-nagoya-2011-2010-12-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-nagoya-2011-2010-12-16"
 ---
 
 

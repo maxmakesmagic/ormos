@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211204005423/https://magic.wizards.com/en/articles/archive/feature/phyrexia-vs-coalition-theme-decks-2010-03-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/phyrexia-vs-coalition-theme-decks-2010-03-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204005423id_/https://magic.wizards.com/en/articles/archive/feature/phyrexia-vs-coalition-theme-decks-2010-03-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 00:54:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Phyrexia Format: Phyrexia vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-04"
+[_metadata_:title]:- "Phyrexia vs. the Coalition Theme Decks"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 00:54:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204005423id_/https://magic.wizards.com/en/articles/archive/feature/phyrexia-vs-coalition-theme-decks-2010-03-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/phyrexia-vs-coalition-theme-decks-2010-03-04"
 ---
 
 

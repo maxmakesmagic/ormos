@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124034125/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124034125id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:41:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix St. Louis Round 7 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:41:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124034125id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-feature-match-2000-01-01"
 ---
 
 

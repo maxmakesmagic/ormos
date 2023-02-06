@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190207035117/https://magic.wizards.com/en/articles/archive/feature/animating-ravnica-2019-01-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/animating-ravnica-2019-01-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190207035117id_/https://magic.wizards.com/en/articles/archive/feature/animating-ravnica-2019-01-18"
-[_metadata_:wayback_capture_timestamp]:- "2019-02-07 03:51:17+00:00"
+[_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "Ravnica comes to life in Magic: The Gathering Arena!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-01-18"
+[_metadata_:title]:- "Animating Ravnica"
+[_metadata_:wayback_capture_timestamp]:- "2019-02-07 03:51:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190207035117id_/https://magic.wizards.com/en/articles/archive/feature/animating-ravnica-2019-01-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/animating-ravnica-2019-01-18"
 ---
 
 

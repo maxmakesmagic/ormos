@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521232156/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-5-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-5-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521232156id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-5-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 23:21:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Table No. Player Res No."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Australian Nationals Round 5 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 23:21:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521232156id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-5-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-5-results-2000-01-01"
 ---
 
 

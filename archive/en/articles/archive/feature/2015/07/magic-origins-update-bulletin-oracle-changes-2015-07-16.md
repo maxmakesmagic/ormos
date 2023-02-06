@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150719025303/http://magic.wizards.com/en/articles/archive/feature/magic-origins-update-bulletin-oracle-changes-2015-07-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-origins-update-bulletin-oracle-changes-2015-07-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150719025303id_/http://magic.wizards.com/en/articles/archive/feature/magic-origins-update-bulletin-oracle-changes-2015-07-16"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-19 02:53:03+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "What is Oracle? Magic is a game made up of more than 14,000 interchangeable pieces—the cards. Over the years, we've felt the need to update the wordings of older cards, whether because we've introduced a new keyword, or a card was printed with a mistake, or we have a clearer wording for what a card does, etc."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-07-16"
+[_metadata_:title]:- "Magic Origins Update Bulletin—Oracle Changes"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-19 02:53:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150719025303id_/http://magic.wizards.com/en/articles/archive/feature/magic-origins-update-bulletin-oracle-changes-2015-07-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-origins-update-bulletin-oracle-changes-2015-07-16"
 ---
 
 

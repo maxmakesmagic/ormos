@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210418125302/https://magic.wizards.com/en/articles/archive/feature/bloodchief-ascension-2011-05-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bloodchief-ascension-2011-05-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418125302id_/https://magic.wizards.com/en/articles/archive/feature/bloodchief-ascension-2011-05-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 12:53:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Dean Kruse's Bloodchief Ascension Format: Standard StarCityGames.com Open in Orlando, FL 4 Mountain 4 Swamp 4 Blackcleave Cliffs 2 Darkslick Shores 4 Dragonskull Summit 4 Lavaclaw Reaches 4 Phyrexian Revoker 4 Bloodghast 4 Goblin Guide 4 Bloodchief Ascension 4 Hideous End 4 Lightning Bolt 4 Staggershock 3 Volt Charge 4 Arc Trail 3 Mindcrank *4 Spellskite *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-05-19"
+[_metadata_:title]:- "Bloodchief Ascension"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-18 12:53:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418125302id_/https://magic.wizards.com/en/articles/archive/feature/bloodchief-ascension-2011-05-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bloodchief-ascension-2011-05-19"
 ---
 
 

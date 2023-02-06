@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201205231719/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205231719id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:17:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The last two undefeated, untied teams met in round 6. Tight Club (Bob Maher, Dave Williams, and Tim McKenna) was expected to do well this weekend, but their opponents were relatively unknown. Sam Gilly, Aaron Jackson, and Mike Bernat call themselves Team Sourgirl, but their results were anything but sour."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix St. Louis Round 6 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:17:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205231719id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-feature-match-2000-01-01"
 ---
 
 

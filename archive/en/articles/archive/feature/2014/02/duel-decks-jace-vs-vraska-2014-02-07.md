@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160904220006/http://magic.wizards.com/en/articles/archive/feature/duel-decks-jace-vs-vraska-2014-02-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duel-decks-jace-vs-vraska-2014-02-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160904220006id_/http://magic.wizards.com/en/articles/archive/feature/duel-decks-jace-vs-vraska-2014-02-07"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-04 22:00:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-02-07"
+[_metadata_:title]:- "Duel Decks: Jace vs. Vraska"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-04 22:00:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160904220006id_/http://magic.wizards.com/en/articles/archive/feature/duel-decks-jace-vs-vraska-2014-02-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duel-decks-jace-vs-vraska-2014-02-07"
 ---
 
 

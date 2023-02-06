@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019120135/https://magic.wizards.com/en/articles/archive/feature/teysa-commander-2011-11-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teysa-commander-2011-11-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019120135id_/https://magic.wizards.com/en/articles/archive/feature/teysa-commander-2011-11-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 12:01:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ben McDole has a new column on GatheringMagic.com all about modifying Commander decks on a budget. What is his second entry into the series? A deck built around Teysa, Orzhov Scion!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-11-03"
+[_metadata_:title]:- "Teysa Commander"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 12:01:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019120135id_/https://magic.wizards.com/en/articles/archive/feature/teysa-commander-2011-11-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teysa-commander-2011-11-03"
 ---
 
 

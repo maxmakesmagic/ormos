@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151227074651/http://magic.wizards.com/en/articles/archive/feature/magic-online-banned-and-restricted-list-august-2009-2009-08-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-banned-and-restricted-list-august-2009-2009-08-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151227074651id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-banned-and-restricted-list-august-2009-2009-08-20"
-[_metadata_:wayback_capture_timestamp]:- "2015-12-27 07:46:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The following cards are banned or restricted in the listed Magic Online formats as of the August 26 downtime."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-20"
+[_metadata_:title]:- "Magic Online Banned and Restricted List - August 2009"
+[_metadata_:wayback_capture_timestamp]:- "2015-12-27 07:46:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151227074651id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-banned-and-restricted-list-august-2009-2009-08-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-banned-and-restricted-list-august-2009-2009-08-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208045702/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-10-recap-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-10-recap-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208045702id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-10-recap-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 04:57:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler There's always a lot of speculation about what's going to get played in Type 1 at the Invitational. Dave Price played easily the coolest deck - a Mishra's Workshop deck that was sent to him by Andrew Cuneo. Cuneo is an old school Pittsburgh player who is legendary on the East Coast for building fun decks that are also quite competitive. When the DCI"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 10 Recap"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 04:57:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208045702id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-10-recap-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-10-recap-2000-01-01"
 ---
 
 

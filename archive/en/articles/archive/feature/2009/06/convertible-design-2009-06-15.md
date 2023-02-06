@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150808002238/http://magic.wizards.com/en/articles/archive/feature/convertible-design-2009-06-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/convertible-design-2009-06-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150808002238id_/http://magic.wizards.com/en/articles/archive/feature/convertible-design-2009-06-15"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-08 00:22:38+00:00"
+[_metadata_:author]:- "Ken Nagle"
 [_metadata_:description]:- "Here in R&D, we design many Magic cards—far more than we print. A small 145 Magic expansion typically goes through more than 10 times that many card designs before the final 145 cards end up in your hands. One way we think up Magic cards is called `top-down design,` which is the theme week this week. To better describe just what top-down design is, it's imperative to know exactly what composes a Magic card. After all, you can't bake a loaf of bread without first knowing all the necessary ingredients. Mechanical Parts"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-15"
+[_metadata_:title]:- "Convertible Design"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-08 00:22:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150808002238id_/http://magic.wizards.com/en/articles/archive/feature/convertible-design-2009-06-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/convertible-design-2009-06-15"
 ---
 
 

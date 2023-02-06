@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117184522/https://magic.wizards.com/en/articles/archive/feature/dragon-kami-reborn-2022-01-17?utm_source=dlvr.it&utm_medium=twitter)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dragon-kami-reborn-2022-01-17?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117184522id_/https://magic.wizards.com/en/articles/archive/feature/dragon-kami-reborn-2022-01-17?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 18:45:22+00:00"
+[_metadata_:author]:- "Emily Teng"
 [_metadata_:description]:- "The dragons of Kamigawa are some of the most powerful and enduring kami around. However, not even they are free from pain and death."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-01-17"
+[_metadata_:title]:- "The Dragon-Kami Reborn"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 18:45:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117184522id_/https://magic.wizards.com/en/articles/archive/feature/dragon-kami-reborn-2022-01-17?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dragon-kami-reborn-2022-01-17?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

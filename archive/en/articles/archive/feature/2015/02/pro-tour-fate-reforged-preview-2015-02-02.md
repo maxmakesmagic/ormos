@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150202182701/http://magic.wizards.com/en/articles/archive/feature/pro-tour-fate-reforged-preview-2015-02-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-fate-reforged-preview-2015-02-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150202182701id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-fate-reforged-preview-2015-02-02"
-[_metadata_:wayback_capture_timestamp]:- "2015-02-02 18:27:01+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "The Magic: The Gathering Pro Tour comes to Washington, DC."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-02-02"
+[_metadata_:title]:- "Pro Tour Fate Reforged Preview"
+[_metadata_:wayback_capture_timestamp]:- "2015-02-02 18:27:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150202182701id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-fate-reforged-preview-2015-02-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-fate-reforged-preview-2015-02-02"
 ---
 
 

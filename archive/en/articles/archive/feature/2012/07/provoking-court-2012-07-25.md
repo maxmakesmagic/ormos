@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210712142926/https://magic.wizards.com/en/articles/archive/feature/provoking-court-2012-07-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/provoking-court-2012-07-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210712142926id_/https://magic.wizards.com/en/articles/archive/feature/provoking-court-2012-07-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-12 14:29:26+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "There's a card in Magic 2013 called Courtly Provocateur. It looks like this: The art description that was given to artist James Ryman was this: Color: Blue creature Location: A corpse-filled ballroom Action: Show a female mage who holds a mask of your design that covers only the top half of her face. Below the mask, we can see her grinning mouth. She bows slightly as if she is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-25"
+[_metadata_:title]:- "Provoking the Court"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-12 14:29:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210712142926id_/https://magic.wizards.com/en/articles/archive/feature/provoking-court-2012-07-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/provoking-court-2012-07-25"
 ---
 
 

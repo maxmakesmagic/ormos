@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220407164222/https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-mechanics-2022-04-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-mechanics-2022-04-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220407164222id_/https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-mechanics-2022-04-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-04-07 16:42:22+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "You'll need to learn a thing, or five, before braving the Streets of New Capenna. See what's in store with five new mechanics from the five families of New Capenna."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-04-07"
+[_metadata_:title]:- "Streets of New Capenna Mechanics"
+[_metadata_:wayback_capture_timestamp]:- "2022-04-07 16:42:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220407164222id_/https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-mechanics-2022-04-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-mechanics-2022-04-07"
 ---
 
 

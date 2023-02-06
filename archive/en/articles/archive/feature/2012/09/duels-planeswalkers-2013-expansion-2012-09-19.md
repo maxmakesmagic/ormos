@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220927094107/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-expansion-2012-09-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-expansion-2012-09-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220927094107id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-expansion-2012-09-19"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-27 09:41:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic: The Gathering — Duels of the Planeswalkers 2013 Expansion In the Duels of the Planeswalkers 2013 Expansion, enjoy five new playable decks whose colors correspond to the guilds in Return to Ravnica, five new puzzling challenges, and ten new single-player campaign levels. Put your spell-slinging skills to the test and try to defeat the guilds and unlock their new decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-19"
+[_metadata_:title]:- "Duels of the Planeswalkers 2013 Expansion"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-27 09:41:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220927094107id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-expansion-2012-09-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-expansion-2012-09-19"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220116111028/https://magic.wizards.com/en/articles/archive/feature/rarely-good-2006-04-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rarely-good-2006-04-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116111028id_/https://magic.wizards.com/en/articles/archive/feature/rarely-good-2006-04-19"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:10:28+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Whoa, whoa, whoa! Slow down there, Johnnies, Johnny-wannabes, and Johnnabes! I know you're all excited about the Dissension Previews, and who can blame you? The cards look so sweet, four out of five Magical dentists are greedily rubbing their hands together and cackling maniacally in anticipation. Personally, I can't wait to get my greedy little hands on Experiment Kraj (the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-04-19"
+[_metadata_:title]:- "Rarely Good"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:10:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116111028id_/https://magic.wizards.com/en/articles/archive/feature/rarely-good-2006-04-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rarely-good-2006-04-19"
 ---
 
 

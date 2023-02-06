@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220127232759/https://magic.wizards.com/en/articles/archive/feature/mastering-commander-2008-03-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mastering-commander-2008-03-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127232759id_/https://magic.wizards.com/en/articles/archive/feature/mastering-commander-2008-03-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 23:27:59+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome back, coterie of Johnnies. While we're still (as of this writing) in the darkest days before the dawn of Morningtide on Magic Online, I thought I would take a gander at the coolest new development in the realm of electronic Magic. For those who missed it, along with the latest update to the various Banned and Restricted lists seen here, there was the addition of a new"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-03-06"
+[_metadata_:title]:- "Mastering Commander"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 23:27:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127232759id_/https://magic.wizards.com/en/articles/archive/feature/mastering-commander-2008-03-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mastering-commander-2008-03-06"
 ---
 
 

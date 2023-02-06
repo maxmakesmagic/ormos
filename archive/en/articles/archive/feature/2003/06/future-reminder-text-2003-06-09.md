@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170621034600/http://magic.wizards.com/en/articles/archive/feature/future-reminder-text-2003-06-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/future-reminder-text-2003-06-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170621034600id_/http://magic.wizards.com/en/articles/archive/feature/future-reminder-text-2003-06-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-21 03:46:00+00:00"
+[_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "A couple of weeks ago at E-3, Wizards of the Coast gave away a promotional card that has generated quite a bit of buzz:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-06-09"
+[_metadata_:title]:- "The Future of Reminder Text"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-21 03:46:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170621034600id_/http://magic.wizards.com/en/articles/archive/feature/future-reminder-text-2003-06-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/future-reminder-text-2003-06-09"
 ---
 
 

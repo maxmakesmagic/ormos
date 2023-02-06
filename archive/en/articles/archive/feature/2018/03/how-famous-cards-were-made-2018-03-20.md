@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180320162651/https://magic.wizards.com/en/articles/archive/feature/how-famous-cards-were-made-2018-03-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/how-famous-cards-were-made-2018-03-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180320162651id_/https://magic.wizards.com/en/articles/archive/feature/how-famous-cards-were-made-2018-03-20"
-[_metadata_:wayback_capture_timestamp]:- "2018-03-20 16:26:51+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin dives deep into the past to share what R&D was thinking when designing classic cards from long ago."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-03-20"
+[_metadata_:title]:- "How Famous Cards Were Made"
+[_metadata_:wayback_capture_timestamp]:- "2018-03-20 16:26:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180320162651id_/https://magic.wizards.com/en/articles/archive/feature/how-famous-cards-were-made-2018-03-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/how-famous-cards-were-made-2018-03-20"
 ---
 
 

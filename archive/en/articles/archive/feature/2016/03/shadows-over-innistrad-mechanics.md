@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160307171731/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160307171731id_/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-07 17:17:31+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Matt explains the new (and returning) mechanics coming with Shadows over Innistrad."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-03-07"
+[_metadata_:title]:- "Shadows over Innistrad Mechanics"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-07 17:17:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160307171731id_/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics"
 ---
 
 

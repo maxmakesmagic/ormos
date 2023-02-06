@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021001300/https://magic.wizards.com/en/articles/archive/feature/feature-rise-super-team-2011-09-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/feature-rise-super-team-2011-09-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021001300id_/https://magic.wizards.com/en/articles/archive/feature/feature-rise-super-team-2011-09-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:13:00+00:00"
+[_metadata_:author]:- "Bill Stark"
 [_metadata_:description]:- "In the history of Magic, `super-teams` have come into existence from time to time before fading away again. In the early 2000s, a combination of East Coast and Carnegie Mellon University players formed what was believed to be the first super-team, but the challenge of coordinating design and testing efforts between so many players proved difficult and efforts from the group"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-04"
+[_metadata_:title]:- "Feature: The Rise of the Super-Team"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:13:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021001300id_/https://magic.wizards.com/en/articles/archive/feature/feature-rise-super-team-2011-09-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/feature-rise-super-team-2011-09-04"
 ---
 
 

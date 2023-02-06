@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030170836/https://magic.wizards.com/en/articles/archive/feature/mini-movies-2000-world-championships-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mini-movies-2000-world-championships-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030170836id_/https://magic.wizards.com/en/articles/archive/feature/mini-movies-2000-world-championships-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 17:08:36+00:00"
 [_metadata_:description]:- "[view] A look at the live Internet broadcast of the Team Finals (820K MPEG) [view] The Feature Match area (120K MPEG)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Mini-Movies from 2000 World Championships"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 17:08:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030170836id_/https://magic.wizards.com/en/articles/archive/feature/mini-movies-2000-world-championships-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mini-movies-2000-world-championships-2000-01-01"
 ---
 
 

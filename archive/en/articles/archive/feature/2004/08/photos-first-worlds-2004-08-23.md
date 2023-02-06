@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170209020650/http://magic.wizards.com/en/articles/archive/feature/photos-first-worlds-2004-08-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/photos-first-worlds-2004-08-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170209020650id_/http://magic.wizards.com/en/articles/archive/feature/photos-first-worlds-2004-08-23"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-09 02:06:50+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "During the finals, a shockingly young-looking Mark Rosewater keeps careful track of everything Zak Dolan does. The person immediately behind Mark is Jim Lin, who would go on to become the Vice-President of R&amp;D. Former editor of the Duelist Companion Rhias Hall is barely visible behind the video camera on the right."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-23"
+[_metadata_:title]:- "Photos from the first Worlds"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-09 02:06:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170209020650id_/http://magic.wizards.com/en/articles/archive/feature/photos-first-worlds-2004-08-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/photos-first-worlds-2004-08-23"
 ---
 
 

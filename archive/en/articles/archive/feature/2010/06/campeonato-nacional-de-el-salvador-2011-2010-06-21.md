@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526013624/https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-de-el-salvador-2011-2010-06-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-de-el-salvador-2011-2010-06-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526013624id_/https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-de-el-salvador-2011-2010-06-21"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 01:36:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fecha: 24 JulioUbicación: Siesta Hotel, Final boulevard los proceres, Antiguo CuscatlanCiudad: Antiguo CuscatlanPaís: El Salvador El Campeonato Nacional de El Salvador de Magic: The Gathering está abierto a todos los ciudadanos y residentes permanentes del El Salvador. Información de Contacto Email: akatsukihc@hotmail.comTelefono: (503) 22889612Website: www.akatsukihc.com"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-21"
+[_metadata_:title]:- "Campeonato Nacional de El Salvador 2011"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 01:36:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526013624id_/https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-de-el-salvador-2011-2010-06-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-de-el-salvador-2011-2010-06-21"
 ---
 
 

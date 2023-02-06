@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170712080647/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93austin-artists-2009-08-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93austin-artists-2009-08-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170712080647id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93austin-artists-2009-08-28"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-12 08:06:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The artists booth will be open Friday-Sunday from 10 a.m. - 5 p.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-28"
+[_metadata_:title]:- "Pro Tour–Austin Artists"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-12 08:06:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170712080647id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93austin-artists-2009-08-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93austin-artists-2009-08-28"
 ---
 
 

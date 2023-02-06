@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211203094621/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-6-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-6-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203094621id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-6-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 09:46:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Adams, Joel ( 15) 4 30 Chieng, Willie ( 55) 4 Ansell, Robert ( 31) 9 22 Scott, Jason ( 39) 9 Bandas, Jim ( 80) 8 35 Trinh, Michael ( 47) 7 Barlow, Russell ( 19) 9 6 Kemp, Adam ( 52) 9 Bow, Frankle ( 83) 10 1 Nelson, Matthew ( 76) 9 Bray, Jonathan ( 70) 8 25 Hamilton, Berren ( 62) 7 Brebach, Kim ( 32) 13 36 Hong, Craig ( 82) 13 Brugman, John ( 41)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Australian Nationals Round 6 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 09:46:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203094621id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-6-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-6-pairings-2000-01-01"
 ---
 
 

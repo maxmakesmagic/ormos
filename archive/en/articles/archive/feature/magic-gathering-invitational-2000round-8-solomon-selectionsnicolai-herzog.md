@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516145244/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsnicolai-herzog)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsnicolai-herzog"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516145244id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsnicolai-herzog"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 14:52:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Nicolai Herzog Divides   Nicolai Herzog Zvi Mowshowitz Icatian Phalanx Giant Tortoise Meteor Shower Abduction Repentance Fissure Ball Lightning Anaba Shaman Pack #2 - Zvi Mowshowitz Divides   Nicolai Herzog Zvi Mowshowitz Shaman en-Kor Rhox Bounty Hunter Barbed Sextant Havoc Blue Elemental Blast Curiosity Spitting Earth Pack #3 - Nicolai Herzog Divides   Nicolai"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 8 Solomon SelectionsNicolai Herzog vs. Zvi Mowshowitz"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 14:52:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516145244id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsnicolai-herzog"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsnicolai-herzog"
 ---
 
 

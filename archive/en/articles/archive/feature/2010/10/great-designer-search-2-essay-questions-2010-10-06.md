@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502005248/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-essay-questions-2010-10-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-essay-questions-2010-10-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005248id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-essay-questions-2010-10-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:48+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "One of my jobs as the Head Designer for Magic is to find new designers. Four years ago when I was offered the opportunity to have the very first design intern, I asked if I was allowed to fill the job any way I saw fit. They said yes. The result was the original Great Designer Search, where I went looking for our design intern among all of you. (Finding designers has"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-10-06"
+[_metadata_:title]:- "The Great Designer Search 2: Essay Questions"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005248id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-essay-questions-2010-10-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-essay-questions-2010-10-06"
 ---
 
 

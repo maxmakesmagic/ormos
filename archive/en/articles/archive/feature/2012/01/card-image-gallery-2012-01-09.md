@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170615170937/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-01-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-01-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615170937id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-01-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-15 17:09:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-09"
+[_metadata_:title]:- "Card Image Gallery"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-15 17:09:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615170937id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-01-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-01-09"
 ---
 
 

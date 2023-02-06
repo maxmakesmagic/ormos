@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170325012552/http://magic.wizards.com/en/articles/archive/feature/systemic-thought-2006-04-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/systemic-thought-2006-04-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170325012552id_/http://magic.wizards.com/en/articles/archive/feature/systemic-thought-2006-04-25"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-25 01:25:52+00:00"
+[_metadata_:author]:- "Zvi Mowshowitz"
 [_metadata_:description]:- "As many of you know, this will be my last column. After this, The Play's The Thing comes to an end. It would be impossible to cover every type of play situation that comes up in Magic - as cards are being printed, new possibilities are created faster than one person could hope to cover them. In my time here, I only managed to scratch the surface. However there is a procedure for dealing with situations you haven't seen before. Magic is about dealing with the new and different and the unknown."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-04-25"
+[_metadata_:title]:- "Systemic Thought"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-25 01:25:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170325012552id_/http://magic.wizards.com/en/articles/archive/feature/systemic-thought-2006-04-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/systemic-thought-2006-04-25"
 ---
 
 

@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029212311/https://magic.wizards.com/en/articles/archive/feature/round-3-results-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-results-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029212311id_/https://magic.wizards.com/en/articles/archive/feature/round-3-results-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:23:11+00:00"
 [_metadata_:description]:- "Table Player Result   Opponent 1 Da Silva, Valdecir Vieira Lost 1-2 vs. Santos, Bruno B 2 Rotemberg, Miguel Lost 0-2 vs. Uehara, Pedro Henrique S 3 Bickhol, Nicholas A. Won 2-1 vs. Lobo, Ruben"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 3 Results"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:23:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029212311id_/https://magic.wizards.com/en/articles/archive/feature/round-3-results-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-results-2000-01-01-0"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816095951/https://magic.wizards.com/en/articles/archive/feature/ascending-next-level-2014-01-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ascending-next-level-2014-01-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816095951id_/https://magic.wizards.com/en/articles/archive/feature/ascending-next-level-2014-01-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 09:59:51+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "I've always been fascinated by any sort of hybridization between decks. Even though the strategic implications are huge, I'm more satisfied knowing that something clever is occurring. In this instance, we have the best of both worlds. On the surface, we have a Pyromancer Ascension control deck that resembles the Standard version from years ago, but it clearly draws on the RWU"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-01-30"
+[_metadata_:title]:- "Ascending to the Next Level"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 09:59:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816095951id_/https://magic.wizards.com/en/articles/archive/feature/ascending-next-level-2014-01-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ascending-next-level-2014-01-30"
 ---
 
 

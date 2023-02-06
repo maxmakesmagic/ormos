@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124015248/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-5-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-5-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124015248id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-5-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 01:52:48+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Justin Gary vs. Matt Vienneau Justin Gary Matt Vienneau Justin Gary and Matt Vienneau both sat down for this match sporting perfect 4-0 records. They also had two of the more interesting decks of the tournament. Justin is playing a Survival/Recur deck with Fruity Pebbles built into it (people have started calling it Trix). The idea is that you take a normal Survival/Recur"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Round 5 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 01:52:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124015248id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-5-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-5-feature-match-2000-01-01"
 ---
 
 

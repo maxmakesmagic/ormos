@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170419184602/http://magic.wizards.com/en/articles/archive/feature/lexicon-archive-2002-01-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lexicon-archive-2002-01-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170419184602id_/http://magic.wizards.com/en/articles/archive/feature/lexicon-archive-2002-01-15"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-19 18:46:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-01-15"
+[_metadata_:title]:- "The Lexicon Archive"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-19 18:46:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170419184602id_/http://magic.wizards.com/en/articles/archive/feature/lexicon-archive-2002-01-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lexicon-archive-2002-01-15"
 ---
 
 

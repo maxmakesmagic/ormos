@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019051831/https://magic.wizards.com/en/articles/archive/feature/na%C2%B7cre-jo%C2%B7kul%C2%B7haups-la%C2%B7qua%C2%B7tus-2002-04-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/na%C2%B7cre-jo%C2%B7kul%C2%B7haups-la%C2%B7qua%C2%B7tus-2002-04-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019051831id_/https://magic.wizards.com/en/articles/archive/feature/na%C2%B7cre-jo%C2%B7kul%C2%B7haups-la%C2%B7qua%C2%B7tus-2002-04-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 05:18:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "na·cre From Merriam-Webster Online: Function: noun Etymology: Middle French, from Old Italian naccara drum, nacre, from Arabic naqqArah drum Date: 1718 : mother-of-pearl - na·cre·ous adjectivejo·kul·haups From www.kidscosmos.org: Function: noun Etymology: Icelandic jökulhlaup : a flood created when a body of water held by a glacial dam breaks through the confining"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-04-05"
+[_metadata_:title]:- "na·cre, jo·kul·haups, La·qua·tus"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 05:18:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019051831id_/https://magic.wizards.com/en/articles/archive/feature/na%C2%B7cre-jo%C2%B7kul%C2%B7haups-la%C2%B7qua%C2%B7tus-2002-04-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/na%C2%B7cre-jo%C2%B7kul%C2%B7haups-la%C2%B7qua%C2%B7tus-2002-04-05"
 ---
 
 

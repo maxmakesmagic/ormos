@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201111231631/https://magic.wizards.com/en/articles/archive/feature/enchanting-modern-2013-10-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchanting-modern-2013-10-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111231631id_/https://magic.wizards.com/en/articles/archive/feature/enchanting-modern-2013-10-10"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 23:16:31+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Amongst the most feared commanders I've seen over the years is Zur the Enchanter, but this is the first time I've seen him poke his head into other formats. He is actually Modern-legal, and as this list shows, possibly Modern-effective as well."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-10"
+[_metadata_:title]:- "Enchanting Modern"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 23:16:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111231631id_/https://magic.wizards.com/en/articles/archive/feature/enchanting-modern-2013-10-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchanting-modern-2013-10-10"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170405224436/http://magic.wizards.com/en/articles/archive/feature/morph-%E2%80%99s-new-ability-2002-09-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/morph-%E2%80%99s-new-ability-2002-09-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170405224436id_/http://magic.wizards.com/en/articles/archive/feature/morph-%E2%80%99s-new-ability-2002-09-06"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-05 22:44:36+00:00"
+[_metadata_:author]:- "Paul Barclay"
 [_metadata_:description]:- "Normally, the job of the rules team is to protect the unsuspecting public from the crazy schemes of designers such as Mike Elliott, Bill Rose, Mark Rosewater, and Brian Tinsman. But now we’ve created a work of evil genius of our very own. It’s an ability called “morph,” which allows you to play creatures with the ability face down. The card text for morph looks like this: “Morph RR (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)”"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-09-06"
+[_metadata_:title]:- "Morph: ’s New Ability"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-05 22:44:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170405224436id_/http://magic.wizards.com/en/articles/archive/feature/morph-%E2%80%99s-new-ability-2002-09-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/morph-%E2%80%99s-new-ability-2002-09-06"
 ---
 
 

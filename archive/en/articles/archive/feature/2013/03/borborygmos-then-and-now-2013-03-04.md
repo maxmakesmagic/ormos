@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220705040438/https://magic.wizards.com/en/articles/archive/feature/borborygmos-then-and-now-2013-03-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/borborygmos-then-and-now-2013-03-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705040438id_/https://magic.wizards.com/en/articles/archive/feature/borborygmos-then-and-now-2013-03-04"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 04:04:38+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "The Gruul Clans have had the same leader since the original Ravnica block. Here's what Borborygmos looked like in his Guildpact incarnation: Borborygmos | Art by Todd Lockwood And here's what he looks like in Gatecrash as Borborygmos Enraged: Borborygmos Enraged | Art by Aleksi Briclot    We know what you're thinking. `That's great. Borborygmos has aged pretty well. But what"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-04"
+[_metadata_:title]:- "Borborygmos Then and Now"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 04:04:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705040438id_/https://magic.wizards.com/en/articles/archive/feature/borborygmos-then-and-now-2013-03-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/borborygmos-then-and-now-2013-03-04"
 ---
 
 

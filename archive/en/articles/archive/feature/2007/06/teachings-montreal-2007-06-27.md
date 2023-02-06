@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210307050720/https://magic.wizards.com/en/articles/archive/feature/teachings-montreal-2007-06-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teachings-montreal-2007-06-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210307050720id_/https://magic.wizards.com/en/articles/archive/feature/teachings-montreal-2007-06-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-03-07 05:07:20+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "The Block Constructed Pro Tour Qualifier season is underway (check here for a qualifier near you) and last weekend we have already seen some high level action in Grand Prix-Montreal. I was there as well, and in this article I will outline my thoughts on the format, the best decks, my playtesting, and the influence of Magic Online. Block Constructed is by far my favorite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-06-27"
+[_metadata_:title]:- "The Teachings of Montreal"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-07 05:07:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210307050720id_/https://magic.wizards.com/en/articles/archive/feature/teachings-montreal-2007-06-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teachings-montreal-2007-06-27"
 ---
 
 

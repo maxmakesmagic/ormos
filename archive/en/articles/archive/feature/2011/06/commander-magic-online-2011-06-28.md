@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151121065608/http://magic.wizards.com/en/articles/archive/feature/commander-magic-online-2011-06-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-magic-online-2011-06-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151121065608id_/http://magic.wizards.com/en/articles/archive/feature/commander-magic-online-2011-06-28"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-21 06:56:08+00:00"
+[_metadata_:author]:- "Lee Sharpe"
 [_metadata_:description]:- "A little over four years ago, I was excited to accept a dream job working at Wizards of the Coast as a Magic Online game server developer. Accepting this job did come at a significant cost: I was no longer allowed to play in Magic Online tournaments. I miss this a lot."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-06-28"
+[_metadata_:title]:- "Commander on Magic Online"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-21 06:56:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151121065608id_/http://magic.wizards.com/en/articles/archive/feature/commander-magic-online-2011-06-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-magic-online-2011-06-28"
 ---
 
 

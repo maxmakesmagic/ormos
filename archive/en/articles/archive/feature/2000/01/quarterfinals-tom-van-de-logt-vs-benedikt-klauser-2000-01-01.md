@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211201041026/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-tom-van-de-logt-vs-benedikt-klauser-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quarterfinals-tom-van-de-logt-vs-benedikt-klauser-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201041026id_/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-tom-van-de-logt-vs-benedikt-klauser-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 04:10:26+00:00"
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Quarterfinals: Tom Van de Logt vs. Benedikt Klauser"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 04:10:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201041026id_/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-tom-van-de-logt-vs-benedikt-klauser-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quarterfinals-tom-van-de-logt-vs-benedikt-klauser-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220125082136/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125082136id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 08:21:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "EuropeJanuary-April 2009 CountryCityEvent DateInvitationsLocationAddressContact Eamail FranceMontpellier4/19/20091Salle des rencontres1, place Francis PongeEmail SwedenLund4/19/20091Spel pa ClemenstorgetClemenstorget 6 ItalyTorino4/19/20091Goblin - TorinoVia Barabaroux 13Email NetherlandsEindhoven4/19/20091GameForceVissersstraat 18aEmail ItalyLatina4/19/20091Quinto Elementovia"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-06"
+[_metadata_:title]:- "Pro Tour Honolulu 2009 - Qualifiers"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 08:21:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125082136id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-06"
 ---
 
 

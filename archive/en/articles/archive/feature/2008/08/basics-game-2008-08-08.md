@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211119145717/https://magic.wizards.com/en/articles/archive/feature/basics-game-2008-08-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/basics-game-2008-08-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211119145717id_/https://magic.wizards.com/en/articles/archive/feature/basics-game-2008-08-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-19 14:57:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Colors The Magic game has five colors of spells and five types of basic lands. For example, red spells have R in their costs, and tapping (turning) a Mountain gives you R that you can spend to play spells. Each color specializes in certain kinds of effects. It's up to you whether to master one color or all five.Card TypesSorcery A sorcery represents a magical incantation. You"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-08"
+[_metadata_:title]:- "Basics of the Game"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-19 14:57:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211119145717id_/https://magic.wizards.com/en/articles/archive/feature/basics-game-2008-08-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/basics-game-2008-08-08"
 ---
 
 

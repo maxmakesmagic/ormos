@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523090029/https://magic.wizards.com/en/articles/archive/feature/frown-yard-2013-01-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/frown-yard-2013-01-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523090029id_/https://magic.wizards.com/en/articles/archive/feature/frown-yard-2013-01-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:00:29+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Yesterday, I looked at one of the few decks in Standard that's always the aggressor. Even after sideboarding, it had no way to slow a game down and take control—just more aggressive creatures and ways to push them through. Today, I'm going to look at the other end of the spectrum: a control players' control deck. This is for the Magic player who doesn't really have anywhere"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-25"
+[_metadata_:title]:- "The Frown Yard"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:00:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523090029id_/https://magic.wizards.com/en/articles/archive/feature/frown-yard-2013-01-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/frown-yard-2013-01-25"
 ---
 
 

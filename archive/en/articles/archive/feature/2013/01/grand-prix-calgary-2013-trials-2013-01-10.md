@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160403152413/http://magic.wizards.com/en/articles/archive/feature/grand-prix-calgary-2013-trials-2013-01-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-calgary-2013-trials-2013-01-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160403152413id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-calgary-2013-trials-2013-01-10"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-03 15:24:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Calgary Trials will be run at North America WPN locations from May 4, 2013 to July 7, 2013. Each awards the winner a three-round bye to Grand Prix Calgary.   Entry Fee  Entry fee varies from location to location. Check with local organizer for specific information.   Format"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-10"
+[_metadata_:title]:- "Grand Prix Calgary 2013 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-03 15:24:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160403152413id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-calgary-2013-trials-2013-01-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-calgary-2013-trials-2013-01-10"
 ---
 
 

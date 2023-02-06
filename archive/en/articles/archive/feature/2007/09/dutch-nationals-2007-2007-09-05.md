@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170602140233/http://magic.wizards.com/en/articles/archive/feature/dutch-nationals-2007-2007-09-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dutch-nationals-2007-2007-09-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170602140233id_/http://magic.wizards.com/en/articles/archive/feature/dutch-nationals-2007-2007-09-05"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-02 14:02:33+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-09-05"
+[_metadata_:title]:- "Dutch Nationals 2007"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-02 14:02:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170602140233id_/http://magic.wizards.com/en/articles/archive/feature/dutch-nationals-2007-2007-09-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dutch-nationals-2007-2007-09-05"
 ---
 
 

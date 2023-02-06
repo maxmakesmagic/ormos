@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519212818/https://magic.wizards.com/en/articles/archive/feature/grand-prix-anaheim-2012-trials-2012-03-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-anaheim-2012-trials-2012-03-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519212818id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-anaheim-2012-trials-2012-03-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 21:28:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Anaheim Trials will be run at WPN locations from March 10 to April 22, 2012. Each awards the winner a three-round bye to Grand Prix Anaheim. WPN Locations in the Anaheim, California Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-03-27"
+[_metadata_:title]:- "Grand Prix Anaheim 2012 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 21:28:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519212818id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-anaheim-2012-trials-2012-03-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-anaheim-2012-trials-2012-03-27"
 ---
 
 

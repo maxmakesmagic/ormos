@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030070555/https://magic.wizards.com/en/articles/archive/feature/round-12-pairings-2015-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-12-pairings-2015-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030070555id_/https://magic.wizards.com/en/articles/archive/feature/round-12-pairings-2015-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:05:55+00:00"
 [_metadata_:description]:- "Table Player Points   Opponent Points 1 Martins - ama, Leopoldo M. 30 vs. Shvartsman, Alex 30 2 Svaldi, Guilherme Dei 28 vs. Nascimento - ama, Rodrigo A 28 3 Inacio - ama, Eliton"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-12-30"
+[_metadata_:title]:- "Round 12 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:05:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030070555id_/https://magic.wizards.com/en/articles/archive/feature/round-12-pairings-2015-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-12-pairings-2015-01-01"
 ---
 
 

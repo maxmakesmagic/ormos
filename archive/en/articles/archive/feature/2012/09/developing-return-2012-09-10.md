@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112030700/https://magic.wizards.com/en/articles/archive/feature/developing-return-2012-09-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/developing-return-2012-09-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030700id_/https://magic.wizards.com/en/articles/archive/feature/developing-return-2012-09-10"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:07:00+00:00"
+[_metadata_:author]:- "Erik Lauer"
 [_metadata_:description]:- "Hello! I'm Erik Lauer. I was the lead developer on Return to Ravnica. This is my fifth development lead, following Magic 2010, Magic 2011, Mirrodin Besieged, and Innistrad. I was very excited to lead development for our return to Ravnica.Billy Moreno, Tom LaPille, Zac Hill, Erik Lauer, Dave Humpherys, Shawn Main, Adam Lee"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-10"
+[_metadata_:title]:- "Developing the Return"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:07:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030700id_/https://magic.wizards.com/en/articles/archive/feature/developing-return-2012-09-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/developing-return-2012-09-10"
 ---
 
 

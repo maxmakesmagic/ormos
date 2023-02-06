@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170907214052/https://magic.wizards.com/en/articles/archive/feature/everything-you-need-know-about-magic-gathering-arena-2017-09-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/everything-you-need-know-about-magic-gathering-arena-2017-09-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170907214052id_/https://magic.wizards.com/en/articles/archive/feature/everything-you-need-know-about-magic-gathering-arena-2017-09-07"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-07 21:40:52+00:00"
+[_metadata_:author]:- "Jeffrey Steefel"
 [_metadata_:description]:- "Jeffrey Steefel outlines details for a new game from Wizards, Magic: The Gathering Arena."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-09-07"
+[_metadata_:title]:- "Everything You Need to Know About Magic: The Gathering Arena"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-07 21:40:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170907214052id_/https://magic.wizards.com/en/articles/archive/feature/everything-you-need-know-about-magic-gathering-arena-2017-09-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/everything-you-need-know-about-magic-gathering-arena-2017-09-07"
 ---
 
 

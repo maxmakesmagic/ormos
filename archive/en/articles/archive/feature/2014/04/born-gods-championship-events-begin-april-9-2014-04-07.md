@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161220192743/http://magic.wizards.com/en/articles/archive/feature/born-gods-championship-events-begin-april-9-2014-04-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/born-gods-championship-events-begin-april-9-2014-04-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161220192743id_/http://magic.wizards.com/en/articles/archive/feature/born-gods-championship-events-begin-april-9-2014-04-07"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-20 19:27:43+00:00"
+[_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-04-07"
+[_metadata_:title]:- "Born of the Gods Championship Events Begin April 9!"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-20 19:27:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161220192743id_/http://magic.wizards.com/en/articles/archive/feature/born-gods-championship-events-begin-april-9-2014-04-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/born-gods-championship-events-begin-april-9-2014-04-07"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118163515/https://magic.wizards.com/en/articles/archive/feature/ohareraising-adventures-2008-08-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ohareraising-adventures-2008-08-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118163515id_/https://magic.wizards.com/en/articles/archive/feature/ohareraising-adventures-2008-08-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:35:15+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to Enemy Color Week, and what a week it is and/or has been! It started off, if you consider Sunday the start of the week, well enough. It was the last day of U.S. Nationals in Chicago. The national team was determined, the Vintage champion crowned, and I managed to deck a mono-red aggro player with Scalpelexis. I'm not sure which the greater feat is.I finished my final"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-07"
+[_metadata_:title]:- "O'Hareraising Adventures"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:35:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118163515id_/https://magic.wizards.com/en/articles/archive/feature/ohareraising-adventures-2008-08-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ohareraising-adventures-2008-08-07"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151017135112/http://magic.wizards.com/en/articles/archive/feature/feature-fantasy-breakdown-2012-05-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-fantasy-breakdown-2012-05-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151017135112id_/http://magic.wizards.com/en/articles/archive/feature/feature-fantasy-breakdown-2012-05-13"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-17 13:51:12+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "We now know how the cards played in this event and thus how they scored for the Fantasy Pro Tour. We're going to break down the best card from each of the categories and talk a little about them. The Fantasy Pro Tour relies on knowledge and intuition about the metagame to predict the best card in each of the nine categories."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-13"
+[_metadata_:title]:- "Feature: The Fantasy Breakdown"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-17 13:51:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151017135112id_/http://magic.wizards.com/en/articles/archive/feature/feature-fantasy-breakdown-2012-05-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-fantasy-breakdown-2012-05-13"
 ---
 
 

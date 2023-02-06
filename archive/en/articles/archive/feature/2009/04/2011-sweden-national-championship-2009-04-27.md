@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524153534/https://magic.wizards.com/en/articles/archive/feature/2011-sweden-national-championship-2009-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-sweden-national-championship-2009-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524153534id_/https://magic.wizards.com/en/articles/archive/feature/2011-sweden-national-championship-2009-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 15:35:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 18-19 June 2011 Event Location: Studenternas Hus Address: Götabergsgatan 17, 41134, Göteborg Eligibility The Magic: the Gathering Sweden National Championship is an invitation-only event, open to citizens or permanent residents of Sweden who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers. Invitation List"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 Sweden National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 15:35:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524153534id_/https://magic.wizards.com/en/articles/archive/feature/2011-sweden-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-sweden-national-championship-2009-04-27"
 ---
 
 

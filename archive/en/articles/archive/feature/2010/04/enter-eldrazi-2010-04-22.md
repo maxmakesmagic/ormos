@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150120102351/http://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-2010-04-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-2010-04-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150120102351id_/http://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-2010-04-22"
-[_metadata_:wayback_capture_timestamp]:- "2015-01-20 10:23:51+00:00"
+[_metadata_:author]:- "Brady Dommermuth"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-22"
+[_metadata_:title]:- "Enter the Eldrazi"
+[_metadata_:wayback_capture_timestamp]:- "2015-01-20 10:23:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150120102351id_/http://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-2010-04-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-2010-04-22"
 ---
 
 

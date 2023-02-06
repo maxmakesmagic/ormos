@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516232304/https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-jon-finkel-vs-frank-hernandez-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-jon-finkel-vs-frank-hernandez-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516232304id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-jon-finkel-vs-frank-hernandez-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 23:23:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Michael Flores Jon Finkel is running the mono-black Vampiric Tutor deck, while Hernandez came off a 3-1 win against Mike Long with small green creatures. This matchup heavily favors Finkel, who has both Perish and Engineered Plague in his main deck; Vicious Hunger and Yawgmoth's Will are also very dangerous for green. Game One: Hernandez opens with a Vine Dryad and Wild"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Semifinals Feature Match - Jon Finkel vs. Frank Hernandez"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 23:23:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516232304id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-jon-finkel-vs-frank-hernandez-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-jon-finkel-vs-frank-hernandez-2000-01-01"
 ---
 
 

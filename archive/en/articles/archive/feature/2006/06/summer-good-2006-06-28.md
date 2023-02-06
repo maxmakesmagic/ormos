@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124200352/https://magic.wizards.com/en/articles/archive/feature/summer-good-2006-06-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-good-2006-06-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124200352id_/https://magic.wizards.com/en/articles/archive/feature/summer-good-2006-06-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 20:03:52+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Last Wednesday was the first day of summer around these parts. By the weekend, my bachelor igloo had completely melted. No longer beholden to my Snow-Covered Landlord, I made the trek southward, to Toronto's historic Fort York, where I went to see Canadian rock Legends (Legendary Creatures) The Tragically Hip in concert, as mandated by Canadian law. It was a great show, and I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-06-28"
+[_metadata_:title]:- "Summer Good"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 20:03:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124200352id_/https://magic.wizards.com/en/articles/archive/feature/summer-good-2006-06-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-good-2006-06-28"
 ---
 
 

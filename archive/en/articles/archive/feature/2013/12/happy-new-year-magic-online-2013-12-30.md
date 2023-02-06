@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220116112740/https://magic.wizards.com/en/articles/archive/feature/happy-new-year-magic-online-2013-12-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/happy-new-year-magic-online-2013-12-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116112740id_/https://magic.wizards.com/en/articles/archive/feature/happy-new-year-magic-online-2013-12-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:27:40+00:00"
+[_metadata_:author]:- "Clayton Kroh"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-12-30"
+[_metadata_:title]:- "Happy New Year from Magic Online!"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:27:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116112740id_/https://magic.wizards.com/en/articles/archive/feature/happy-new-year-magic-online-2013-12-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/happy-new-year-magic-online-2013-12-30"
 ---
 
 

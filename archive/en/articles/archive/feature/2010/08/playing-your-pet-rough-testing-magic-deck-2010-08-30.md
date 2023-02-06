@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160516140415/http://magic.wizards.com/en/articles/archive/feature/playing-your-pet-rough-testing-magic-deck-2010-08-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/playing-your-pet-rough-testing-magic-deck-2010-08-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160516140415id_/http://magic.wizards.com/en/articles/archive/feature/playing-your-pet-rough-testing-magic-deck-2010-08-30"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-16 14:04:15+00:00"
+[_metadata_:author]:- "Beth Moursund"
 [_metadata_:description]:- "In one of my Serious Fun articles, I mentioned an old article in The Duelist called `Playing Your Pet` (though I incorrectly attributed it to Duelist #8, when in fact it was in Duelist #7). This article featured multiple solita"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-30"
+[_metadata_:title]:- "Playing Your Pet: Rough-Testing A Magic Deck"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-16 14:04:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160516140415id_/http://magic.wizards.com/en/articles/archive/feature/playing-your-pet-rough-testing-magic-deck-2010-08-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/playing-your-pet-rough-testing-magic-deck-2010-08-30"
 ---
 
 

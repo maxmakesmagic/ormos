@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210726190821/https://magic.wizards.com/en/articles/archive/feature/where-find-jumpstart-historic-horizons-previews-2021-07-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-jumpstart-historic-horizons-previews-2021-07-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210726190821id_/https://magic.wizards.com/en/articles/archive/feature/where-find-jumpstart-historic-horizons-previews-2021-07-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-26 19:08:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Jumpstart: Historic Horizons, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-07-26"
+[_metadata_:title]:- "Where to Find Jumpstart: Historic Horizons Previews"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-26 19:08:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210726190821id_/https://magic.wizards.com/en/articles/archive/feature/where-find-jumpstart-historic-horizons-previews-2021-07-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-jumpstart-historic-horizons-previews-2021-07-26"
 ---
 
 

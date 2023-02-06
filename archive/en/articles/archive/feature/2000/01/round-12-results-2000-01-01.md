@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030082957/https://magic.wizards.com/en/articles/archive/feature/round-12-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-12-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030082957id_/https://magic.wizards.com/en/articles/archive/feature/round-12-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 08:29:57+00:00"
 [_metadata_:description]:- "Table Player Result   Opponent 1 Martins - ama, Leopoldo M. Drew 0-0-3 vs. Shvartsman, Alex 2 Svaldi, Guilherme Dei Won 2-0 vs. Nascimento - ama, Rodrigo A 3 Inacio - ama, Eliton Won 2-0 vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 12 Results"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 08:29:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030082957id_/https://magic.wizards.com/en/articles/archive/feature/round-12-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-12-results-2000-01-01"
 ---
 
 

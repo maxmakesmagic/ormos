@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220702114720/https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702114720id_/https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 11:47:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win%1The Ken Ho All-Stars2173.33%2Family Games Center1964.28%3The Ancient Kavus1869.90%4Frog Eaters1869.52%5Dynasty1869.04%6Team Needs/Hotel Room *Amate1865.64%7A Little Too Sick1864.28%8Huey Brock and Linde1863.33%9The Hubbsucker Proxy1862.77%10Thanks Craig and Seth1858.25%11Your Move Games1759.68%12Grape Apes1750.24%13Team Bald Dummy1676.19%14Team $20 Dolla"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 7 Standings (by Score)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 11:47:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702114720id_/https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01"
 ---
 
 

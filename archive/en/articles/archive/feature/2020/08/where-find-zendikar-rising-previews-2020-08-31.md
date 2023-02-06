@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200901141314/https://magic.wizards.com/en/articles/archive/feature/where-find-zendikar-rising-previews-2020-08-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-zendikar-rising-previews-2020-08-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200901141314id_/https://magic.wizards.com/en/articles/archive/feature/where-find-zendikar-rising-previews-2020-08-31"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-01 14:13:14+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Zendikar Rising, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-08-31"
+[_metadata_:title]:- "Where to Find Zendikar Rising Previews"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-01 14:13:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200901141314id_/https://magic.wizards.com/en/articles/archive/feature/where-find-zendikar-rising-previews-2020-08-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-zendikar-rising-previews-2020-08-31"
 ---
 
 

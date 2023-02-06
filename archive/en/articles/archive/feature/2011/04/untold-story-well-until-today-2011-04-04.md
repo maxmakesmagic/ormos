@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161026123519/http://magic.wizards.com/en/articles/archive/feature/untold-story-well-until-today-2011-04-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/untold-story-well-until-today-2011-04-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161026123519id_/http://magic.wizards.com/en/articles/archive/feature/untold-story-well-until-today-2011-04-04"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-26 12:35:19+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13; Before I begin today's column, you need to watch the video below. (You might have already seen it last Tuesday.)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-04"
+[_metadata_:title]:- "The Untold Story (Well, Until Today)"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-26 12:35:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161026123519id_/http://magic.wizards.com/en/articles/archive/feature/untold-story-well-until-today-2011-04-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/untold-story-well-until-today-2011-04-04"
 ---
 
 

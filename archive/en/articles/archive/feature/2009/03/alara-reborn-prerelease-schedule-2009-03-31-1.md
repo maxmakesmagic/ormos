@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161029065222/http://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31-1)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161029065222id_/http://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31-1"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-29 06:52:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "SpainWorldwide Fact Sheet DateCityVenueAddressPostal CodeContact"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-31"
+[_metadata_:title]:- "Alara Reborn Prerelease Schedule"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-29 06:52:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161029065222id_/http://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31-1"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31-1"
 ---
 
 

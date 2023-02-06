@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429025312/https://magic.wizards.com/en/articles/archive/feature/through-twinning-glass-2008-05-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/through-twinning-glass-2008-05-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429025312id_/https://magic.wizards.com/en/articles/archive/feature/through-twinning-glass-2008-05-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:53:12+00:00"
+[_metadata_:author]:- "Evil Doug Beyer"
 [_metadata_:description]:- "It's Evil Twin Week, so I'd like to tell you a little about my evil twin, Doug Beyer: hack, spoilsport, and all-around anti-me propagandist. As the classic evil twin, Doug enjoys undermining all my plans. I'd like to introduce you to three of these plans today—all of which Doug takes great pleasure in ruining on a daily basis. 1. Inject Real-World Humor into Magic What is the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-05-28"
+[_metadata_:title]:- "Through the Twinning Glass"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:53:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429025312id_/https://magic.wizards.com/en/articles/archive/feature/through-twinning-glass-2008-05-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/through-twinning-glass-2008-05-28"
 ---
 
 

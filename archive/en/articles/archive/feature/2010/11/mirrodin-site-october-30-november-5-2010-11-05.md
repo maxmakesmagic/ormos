@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220122170521/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-30-november-5-2010-11-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-30-november-5-2010-11-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122170521id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-30-november-5-2010-11-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 17:05:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site. Now that that's out of the way, let's get down to it. On the Phyrexia side, Unctus of the Synod has a new Field Report. There are also keep wallpapers for Skithyryx, the Blight Dragon and Pierce Strider. The Mirrans, meanwhile, have wallpapers for Rusted Relic and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-11-05"
+[_metadata_:title]:- "On the Mirrodin Site: October 30-November 5"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 17:05:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122170521id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-30-november-5-2010-11-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-30-november-5-2010-11-05"
 ---
 
 

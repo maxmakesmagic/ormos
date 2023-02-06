@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128205215/https://magic.wizards.com/en/articles/archive/feature/grand-prix-turin-2012-trials-2012-01-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-turin-2012-trials-2012-01-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128205215id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-turin-2012-trials-2012-01-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 20:52:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Turin Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers the winner a three-round bye to Grand Prix Turin.WPN Locations in the Turin Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information.Format The format for each Grand Prix Trial chosen by the individual store running"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-16"
+[_metadata_:title]:- "Grand Prix Turin 2012 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 20:52:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128205215id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-turin-2012-trials-2012-01-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-turin-2012-trials-2012-01-16"
 ---
 
 

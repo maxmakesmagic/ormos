@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170824095731/http://magic.wizards.com/en/articles/archive/feature/announcement-week-and-weekend-recap-2017-06-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/announcement-week-and-weekend-recap-2017-06-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170824095731id_/http://magic.wizards.com/en/articles/archive/feature/announcement-week-and-weekend-recap-2017-06-19"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-24 09:57:31+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "In case you missed any of the reveals from Announcement Week or over the weekend, Blake has compiled everything you need to know!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-06-19"
+[_metadata_:title]:- "Announcement Week and Weekend Recap"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-24 09:57:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170824095731id_/http://magic.wizards.com/en/articles/archive/feature/announcement-week-and-weekend-recap-2017-06-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/announcement-week-and-weekend-recap-2017-06-19"
 ---
 
 

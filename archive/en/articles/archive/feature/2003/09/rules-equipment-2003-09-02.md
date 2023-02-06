@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160408112414/http://magic.wizards.com/en/articles/archive/feature/rules-equipment-2003-09-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rules-equipment-2003-09-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160408112414id_/http://magic.wizards.com/en/articles/archive/feature/rules-equipment-2003-09-02"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-08 11:24:14+00:00"
+[_metadata_:author]:- "Paul Barclay"
 [_metadata_:description]:- "The most current version of the Magic Comprehensive Rules is always available at www.wizards.com/magic/comprules."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-09-02"
+[_metadata_:title]:- "Rules for Equipment"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-08 11:24:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160408112414id_/http://magic.wizards.com/en/articles/archive/feature/rules-equipment-2003-09-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rules-equipment-2003-09-02"
 ---
 
 

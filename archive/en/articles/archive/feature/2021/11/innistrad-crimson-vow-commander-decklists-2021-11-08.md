@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211108194232/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-commander-decklists-2021-11-08?derp)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-commander-decklists-2021-11-08?derp"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211108194232id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-commander-decklists-2021-11-08?derp"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-08 19:42:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Check out the new and returning cards included in Innistrad: Crimson Vow Commander decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-11-08"
+[_metadata_:title]:- "Innistrad: Crimson Vow Commander Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-08 19:42:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211108194232id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-commander-decklists-2021-11-08?derp"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-commander-decklists-2021-11-08?derp"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018183507/https://magic.wizards.com/en/articles/archive/feature/extended-dark-bant-2009-04-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extended-dark-bant-2009-04-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018183507id_/https://magic.wizards.com/en/articles/archive/feature/extended-dark-bant-2009-04-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:35:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Wataru Hosaka's Extended Format: Pro Tour Qualifier-Honolulu 3 City of Brass 2 Forest 3 Gemstone Mine 3 Horizon Canopy 1 Island 4 Pillar of the Paruns 1 Plains 4 Reflecting Pool 1 Treetop Village 2 Birds of Paradise 4 Doran, the Siege Tower 3 Gaddock Teeg 4 Lightning Angel 4 Noble Hierarch 4 Rhox War Monk 1 Woolly Thoctar 4 Bant Charm 3 Countersquall 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-08"
+[_metadata_:title]:- "Extended Dark Bant"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:35:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018183507id_/https://magic.wizards.com/en/articles/archive/feature/extended-dark-bant-2009-04-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extended-dark-bant-2009-04-08"
 ---
 
 

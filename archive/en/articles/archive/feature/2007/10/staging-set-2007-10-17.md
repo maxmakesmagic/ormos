@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429201602/https://magic.wizards.com/en/articles/archive/feature/staging-set-2007-10-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/staging-set-2007-10-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201602id_/https://magic.wizards.com/en/articles/archive/feature/staging-set-2007-10-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:16:02+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "I've been watching a show this fall called Journeyman, mostly because I was a fan of Kevin McKidd, the dour Scotsman who played Lucius Vorenus on HBO's Rome. Journeyman is not great, especially if you've already done a stint of watching Quantum Leap before it, and I may be telling my TiVo to give up on it soon. But there are parts of the show that have a familiar twinge for me."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-10-17"
+[_metadata_:title]:- "Staging the Set"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:16:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201602id_/https://magic.wizards.com/en/articles/archive/feature/staging-set-2007-10-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/staging-set-2007-10-17"
 ---
 
 

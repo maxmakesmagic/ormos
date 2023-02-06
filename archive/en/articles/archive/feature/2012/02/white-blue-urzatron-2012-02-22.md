@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161230222530/http://magic.wizards.com/en/articles/archive/feature/white-blue-urzatron-2012-02-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/white-blue-urzatron-2012-02-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161230222530id_/http://magic.wizards.com/en/articles/archive/feature/white-blue-urzatron-2012-02-22"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-30 22:25:30+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The diverse new Modern format has given several players another chance to use some of their favorite cards from the past, and professional Magic player Luis Scot-Vargas is no exception. At Grand Prix Lincoln this past weekend, Luis dusted off his Urza's Towers, Urza's Power Plants, and Urza's Mines, putting them to good use and rocketing his way to the Top 8 of the tournament!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-02-22"
+[_metadata_:title]:- "White-Blue Urzatron"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-30 22:25:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161230222530id_/http://magic.wizards.com/en/articles/archive/feature/white-blue-urzatron-2012-02-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/white-blue-urzatron-2012-02-22"
 ---
 
 

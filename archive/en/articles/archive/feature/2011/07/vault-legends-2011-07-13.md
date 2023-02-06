@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429205632/https://magic.wizards.com/en/articles/archive/feature/vault-legends-2011-07-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-legends-2011-07-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429205632id_/https://magic.wizards.com/en/articles/archive/feature/vault-legends-2011-07-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:56:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "There are some allies whose power is legendary. Assembled here are fifteen of the most powerful legends in Magic history, legends heralded for their devastating powers and fearsome abilities. As a Planeswalker, you have searched the Multiverse for such allies. That search is finally at an end."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-07-13"
+[_metadata_:title]:- "From the Vault: Legends"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:56:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429205632id_/https://magic.wizards.com/en/articles/archive/feature/vault-legends-2011-07-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-legends-2011-07-13"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523075530/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcgame-empire-vs-your-move-games-draft-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcgame-empire-vs-your-move-games-draft-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523075530id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcgame-empire-vs-your-move-games-draft-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 07:55:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Having dispensed of Jon Finkel's Team Antarctica, Team Your Move Games has an uphill battle to fight. Along with Darwin Kastle and Dave Humpherys winning 3-1 over Finkel and Steve O'Mahoney-Schwartz respectively, Rob Dougherty, whose match was tied 1-1 when his teammates sealed the victory, revealed the fact he's been extremely ill all day."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Game Empire vs. Your Move Games Draft"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 07:55:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523075530id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcgame-empire-vs-your-move-games-draft-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcgame-empire-vs-your-move-games-draft-2000-01-01"
 ---
 
 

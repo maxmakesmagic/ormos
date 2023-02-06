@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161225203542/http://magic.wizards.com/en/articles/archive/feature/dragon-stompy-2009-07-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragon-stompy-2009-07-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161225203542id_/http://magic.wizards.com/en/articles/archive/feature/dragon-stompy-2009-07-23"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-25 20:35:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Suczi's Dragon Stompy Format: Magic Online Classic 4 Ancient Tomb 4 Crystal Vein 10 Mountain 4 Gathan Raiders 4 Magus of the Moon 4 Rakdos Pit Dragon 4 Simian Spirit Guide 4 Taurean Mauler 4 Blood Moon 4 Chalice of the Void 4 Chrome Mox 4 Seething Song 4 Trinisphere 2 Umezawa's Jitte *4 Pyroblast *2 Pyrokinesis *2 Relic of Progenitus *3 Shattering Spree *2 Spitebellows *2 Volcanic Fallout"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-23"
+[_metadata_:title]:- "Dragon Stompy"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-25 20:35:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161225203542id_/http://magic.wizards.com/en/articles/archive/feature/dragon-stompy-2009-07-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragon-stompy-2009-07-23"
 ---
 
 

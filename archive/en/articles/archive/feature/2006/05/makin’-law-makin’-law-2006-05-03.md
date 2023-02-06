@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190812221453/https://magic.wizards.com/en/articles/archive/feature/makin%E2%80%99-law-makin%E2%80%99-law-2006-05-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/makin%E2%80%99-law-makin%E2%80%99-law-2006-05-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190812221453id_/https://magic.wizards.com/en/articles/archive/feature/makin%E2%80%99-law-makin%E2%80%99-law-2006-05-03"
-[_metadata_:wayback_capture_timestamp]:- "2019-08-12 22:14:53+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "Prahv, where much work is done to make sure nothing is accomplished."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-05-03"
+[_metadata_:title]:- "Makin’ the Law, Makin’ the Law"
+[_metadata_:wayback_capture_timestamp]:- "2019-08-12 22:14:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190812221453id_/https://magic.wizards.com/en/articles/archive/feature/makin%E2%80%99-law-makin%E2%80%99-law-2006-05-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/makin%E2%80%99-law-makin%E2%80%99-law-2006-05-03"
 ---
 
 

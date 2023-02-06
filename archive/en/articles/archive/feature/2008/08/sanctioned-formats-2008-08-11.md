@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160228034020/http://magic.wizards.com/en/articles/archive/feature/sanctioned-formats-2008-08-11)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sanctioned-formats-2008-08-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160228034020id_/http://magic.wizards.com/en/articles/archive/feature/sanctioned-formats-2008-08-11"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-28 03:40:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Looking for some creative ideas on how to play Magic with your friends? Sanctioned Magic: The Gathering formats provide rules and instructions for a multitude of ways to play that are the same the world over, from the kitchen table to the Top 8 of the Magic: The Gathering World Championships. Sanctioned formats are split into two categories: Constructed and Limited. Constructed formats include Standard, Block Constructed, Modern, Vintage, and Legacy. Limited formats include Sealed Deck and Booster Draft."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-11"
+[_metadata_:title]:- "Sanctioned Formats"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-28 03:40:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160228034020id_/http://magic.wizards.com/en/articles/archive/feature/sanctioned-formats-2008-08-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sanctioned-formats-2008-08-11"
 ---
 
 

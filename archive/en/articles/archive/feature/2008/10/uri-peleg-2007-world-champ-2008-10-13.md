@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429125122/https://magic.wizards.com/en/articles/archive/feature/uri-peleg-2007-world-champ-2008-10-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/uri-peleg-2007-world-champ-2008-10-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429125122id_/https://magic.wizards.com/en/articles/archive/feature/uri-peleg-2007-world-champ-2008-10-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:51:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Uri Peleg's Doran Format: Worlds 2007: Standard 1 Brushland 3 Caves of Koilos 1 Forest 2 Gemstone Mine 4 Gilt-Leaf Palace 1 Horizon Canopy 4 Llanowar Wastes 1 Pendelhaven 4 Treetop Village 2 Urborg, Tomb of Yawgmoth 4 Birds of Paradise 4 Doran, the Siege Tower 1 Hypnotic Specter 3 Llanowar Elves 4 Ohran Viper 3 Shriekmaw 4 Tarmogoyf 2 Eyeblight's Ending 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-10-13"
+[_metadata_:title]:- "Uri Peleg, 2007 World Champ"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:51:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429125122id_/https://magic.wizards.com/en/articles/archive/feature/uri-peleg-2007-world-champ-2008-10-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/uri-peleg-2007-world-champ-2008-10-13"
 ---
 
 

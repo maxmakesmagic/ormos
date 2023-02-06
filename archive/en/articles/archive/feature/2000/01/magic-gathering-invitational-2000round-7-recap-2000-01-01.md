@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517015305/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-recap-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-recap-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517015305id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-recap-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 01:53:05+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler In the first round of Solomon Draft, Pat Chapin and Brian hacker met in a mirror match of sorts. Chapin was in 2nd place at 5-1 while Hacker was tied for last at 1-5. The race for last place is at least as important to the competitors as the race for first. None of the players seem to have their heart set on winning, but every one of them is adamant that they"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 7 Recap"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 01:53:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517015305id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-recap-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-recap-2000-01-01"
 ---
 
 

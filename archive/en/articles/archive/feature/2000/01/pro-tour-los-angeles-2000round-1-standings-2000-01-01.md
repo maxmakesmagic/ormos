@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118134657/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118134657id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:46:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Shin, Min 3 33.3333 100.0000 33.3333 1/1/0/0 2 Kornblith, Charles 3 33.3333 100.0000 33.3333 1/1/0/0 3 D'Tela, Sceadeau 3 33.3333 100.0000 33.3333 1/1/0/0 4 Wollny, Gregor 3 33.3333 100.0000 33.3333 1/1/0/0 5 Miller, Cameron 3 33.3333 100.0000 33.3333 1/1/0/0 6 Labarre, Nicolas 3 33.3333 100.0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 1 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:46:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118134657id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-standings-2000-01-01"
 ---
 
 

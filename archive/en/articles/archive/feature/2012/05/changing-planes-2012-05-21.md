@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160728144758/http://magic.wizards.com/en/articles/archive/feature/changing-planes-2012-05-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/changing-planes-2012-05-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160728144758id_/http://magic.wizards.com/en/articles/archive/feature/changing-planes-2012-05-21"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-28 14:47:58+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-21"
+[_metadata_:title]:- "Changing Planes"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-28 14:47:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160728144758id_/http://magic.wizards.com/en/articles/archive/feature/changing-planes-2012-05-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/changing-planes-2012-05-21"
 ---
 
 

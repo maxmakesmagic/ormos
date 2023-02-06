@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150607173958/http://magic.wizards.com/en/articles/archive/feature/your-first-tournament-2007-02-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/your-first-tournament-2007-02-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150607173958id_/http://magic.wizards.com/en/articles/archive/feature/your-first-tournament-2007-02-03"
-[_metadata_:wayback_capture_timestamp]:- "2015-06-07 17:39:58+00:00"
+[_metadata_:author]:- "Jeff Cunningham"
 [_metadata_:description]:- "An introduction to the world of competitive Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-02-03"
+[_metadata_:title]:- "Your First Tournament"
+[_metadata_:wayback_capture_timestamp]:- "2015-06-07 17:39:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150607173958id_/http://magic.wizards.com/en/articles/archive/feature/your-first-tournament-2007-02-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/your-first-tournament-2007-02-03"
 ---
 
 

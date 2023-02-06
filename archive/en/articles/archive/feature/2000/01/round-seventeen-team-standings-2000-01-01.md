@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171031031527/https://magic.wizards.com/en/articles/archive/feature/round-seventeen-team-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-seventeen-team-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031031527id_/https://magic.wizards.com/en/articles/archive/feature/round-seventeen-team-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 03:15:27+00:00"
 [_metadata_:description]:- "Rank Name Points Op-Match 1 United States 133 58.51% 2 Austria 117 51.56% 3 Netherlands 116 56.76% 4 France 113 53.75% 5 Norway"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round Seventeen Team Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 03:15:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031031527id_/https://magic.wizards.com/en/articles/archive/feature/round-seventeen-team-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-seventeen-team-standings-2000-01-01"
 ---
 
 

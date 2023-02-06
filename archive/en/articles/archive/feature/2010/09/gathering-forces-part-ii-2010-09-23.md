@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429054523/https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-ii-2010-09-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-ii-2010-09-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429054523id_/https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-ii-2010-09-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 05:45:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-23"
+[_metadata_:title]:- "Gathering Forces, Part II"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 05:45:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429054523id_/https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-ii-2010-09-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-ii-2010-09-23"
 ---
 
 

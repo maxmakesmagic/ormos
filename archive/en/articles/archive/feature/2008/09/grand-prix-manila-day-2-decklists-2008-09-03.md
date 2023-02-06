@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816193019/https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-day-2-decklists-2008-09-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-day-2-decklists-2008-09-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816193019id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-day-2-decklists-2008-09-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 19:30:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Reynald Abella Format: Day 2 - Grand Prix-Manila 3 Island 4 Mystic Gate 4 Vivid Creek 3 Vivid Grove 4 Vivid Meadow 3 Flooded Grove 4 Reflecting Pool 1 Cascade Bluffs 1 Chameleon Colossus 1 Oona, Queen of the Fae 3 Cloudthresher 4 Kitchen Finks 4 Mulldrifter 2 Shriekmaw 4 Cryptic Command 2 Broken Ambitions 2 Negate 2 Makeshift Mannequin 4 Firespout 2 Austere"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-03"
+[_metadata_:title]:- "Grand Prix Manila Day 2 Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 19:30:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816193019id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-day-2-decklists-2008-09-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-day-2-decklists-2008-09-03"
 ---
 
 

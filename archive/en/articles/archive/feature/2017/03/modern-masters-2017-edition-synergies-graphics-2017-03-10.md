@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170311112035/http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-synergies-graphics-2017-03-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-synergies-graphics-2017-03-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170311112035id_/http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-synergies-graphics-2017-03-10"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-11 11:20:35+00:00"
+[_metadata_:author]:- "Diego Fumagalli"
 [_metadata_:description]:- "Diego illustrates several of the synergies you can play with in Modern Masters 2017 Edition."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-03-10"
+[_metadata_:title]:- "Modern Masters 2017 Edition Synergies—In Graphics"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-11 11:20:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170311112035id_/http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-synergies-graphics-2017-03-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-synergies-graphics-2017-03-10"
 ---
 
 

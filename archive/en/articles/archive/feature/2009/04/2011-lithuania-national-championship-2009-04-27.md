@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521041554/https://magic.wizards.com/en/articles/archive/feature/2011-lithuania-national-championship-2009-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-lithuania-national-championship-2009-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521041554id_/https://magic.wizards.com/en/articles/archive/feature/2011-lithuania-national-championship-2009-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 04:15:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 18 June 2011Location: Hotel Europa City Vilnius Conference Center, J.Jasinskio str. 14City: VilniusCountry: LithuaniaThe Magic: the Gathering Lithuania National Championship is National Championship is open to all citizens or permanent residents of Lithuania.Contact informationEmail: kaupo@procard.eeTelephone: +37256702568Website: www.zaisk.ltFormatStandard and Booster"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 Lithuania National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 04:15:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521041554id_/https://magic.wizards.com/en/articles/archive/feature/2011-lithuania-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-lithuania-national-championship-2009-04-27"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211207081118/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerchandra-2008-07-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerchandra-2008-07-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207081118id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerchandra-2008-07-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 08:11:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Chandra Nalaar is a red-magic-wielding planeswalker. Her specialty is pyromancy: spells of fire, fire, and more fire. There's no virtue in subtlety—at least not as far as the fire-mage Chandra Nalaar is concerned. Impulsive, passionate, and short-tempered, she's as ready to explode as the pyromantic spells of her ever-growing repertoire. Chandra's spark ignited when she was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-15"
+[_metadata_:title]:- "mtgrelaunch_planeswalker_chandra"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 08:11:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207081118id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerchandra-2008-07-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerchandra-2008-07-15"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161011012359/http://magic.wizards.com/en/articles/archive/feature/pro-tour-kaladesh-preview-2016-10-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-kaladesh-preview-2016-10-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161011012359id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-kaladesh-preview-2016-10-10"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-11 01:23:59+00:00"
+[_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Rich has your first look at what awaits players at Pro Tour Kaladesh in Honolulu, Hawaii!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-10-10"
+[_metadata_:title]:- "Pro Tour Kaladesh Preview"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-11 01:23:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161011012359id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-kaladesh-preview-2016-10-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-kaladesh-preview-2016-10-10"
 ---
 
 

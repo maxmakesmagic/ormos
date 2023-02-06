@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023024824/https://magic.wizards.com/en/articles/archive/feature/good-stuff-zoo-2010-04-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/good-stuff-zoo-2010-04-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023024824id_/https://magic.wizards.com/en/articles/archive/feature/good-stuff-zoo-2010-04-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 02:48:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Barrett Neigel's Good Stuff Zoo Format: Extended 4 Arid Mesa 5 Forest 1 Ghost Quarter 3 Misty Rainforest 2 Mountain 2 Plains 1 Sejiri Steppe 1 Stirring Wildwood 2 Stomping Ground 3 Temple Garden 4 Aven Mindcensor 2 Baneslayer Angel 4 Birds of Paradise 4 Bloodbraid Elf 2 Cunning Sparkmage 4 Knight of the Reliquary 2 Noble Hierarch 2 Samurai of the Pale Curtain"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-05"
+[_metadata_:title]:- "Good Stuff Zoo"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 02:48:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023024824id_/https://magic.wizards.com/en/articles/archive/feature/good-stuff-zoo-2010-04-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/good-stuff-zoo-2010-04-05"
 ---
 
 

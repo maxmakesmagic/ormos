@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118173847/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-2014-event-information-2014-06-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-2014-event-information-2014-06-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118173847id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-2014-event-information-2014-06-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:38:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Utrecht is brought to you by tournamentcenter BVBA.  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gputrecht Date: August 8-10, 2014 Format: Standard Tournament Location Jaarbeurs Utrecht Jaarbeursplein 6 3521 Utrecht Click here for map. Registration: €35 (€55 sleep-in)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-06-03"
+[_metadata_:title]:- "Grand Prix Utrecht 2014 Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:38:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118173847id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-2014-event-information-2014-06-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-2014-event-information-2014-06-03"
 ---
 
 

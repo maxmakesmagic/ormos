@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210122224709/https://magic.wizards.com/en/articles/archive/feature/initial-stages-madness-2002-01-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/initial-stages-madness-2002-01-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122224709id_/https://magic.wizards.com/en/articles/archive/feature/initial-stages-madness-2002-01-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-22 22:47:09+00:00"
+[_metadata_:author]:- "Mike Elliott"
 [_metadata_:description]:- "When Mark told me he wanted me to discuss how I came up with madness, I started in with the story, `Well, I was playing Magic and my girlfriend was distracting me and I dropped a card on the table. (As a game designer, I always have women hanging all over me.) And then it hit me… What if something exciting happened when I discarded a card?` That sounded a lot more exciting than some other implausible story, such as, `I was staring at some old cards like Elvish Spirit Guide and got an idea on how to do a twist on an old trick.`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-01-21"
+[_metadata_:title]:- "Initial Stages of Madness"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-22 22:47:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122224709id_/https://magic.wizards.com/en/articles/archive/feature/initial-stages-madness-2002-01-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/initial-stages-madness-2002-01-21"
 ---
 
 

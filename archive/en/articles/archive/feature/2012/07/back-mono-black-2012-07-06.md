@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701160312/https://magic.wizards.com/en/articles/archive/feature/back-mono-black-2012-07-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/back-mono-black-2012-07-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701160312id_/https://magic.wizards.com/en/articles/archive/feature/back-mono-black-2012-07-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 16:03:12+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "For literally years, the idea of Mono-Black Control has been one of the most popular archetypes, both in casual and competitive circles. Some trace the archetype back to Cabal Coffers and Mutilate, but in reality, ever since the dawn of Magic and the printing of Drain Life, the idea of playing nothing but Swamps has been beloved. Generally, the archetype falls short in the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-06"
+[_metadata_:title]:- "Back in Mono-Black"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 16:03:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701160312id_/https://magic.wizards.com/en/articles/archive/feature/back-mono-black-2012-07-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/back-mono-black-2012-07-06"
 ---
 
 

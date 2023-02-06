@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126183609/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126183609id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:36:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler 1997 World Champion Jakub Slemr came out aggressive in game 1 against Frenchman Michael Sochon with turn 1 Ramosian Sergeant, turn-2 Ramosian Lieutenant, and turn 3 Devout Witness. Sochon didn't play a land on turn 3 or 4 and it looked like Jakub would run him over with Rebels. When Jakub attacked with a Devout Witness on turn 5, Michael blocked with a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 1 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:36:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126183609id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-feature-match-2000-01-01"
 ---
 
 

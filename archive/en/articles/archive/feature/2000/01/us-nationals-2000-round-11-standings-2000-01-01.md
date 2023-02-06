@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519025323/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519025323id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 02:53:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Finkel, Jon 28 66.0331 74.0741 61.0607 11/9/1/0 2 Benafel, Chris 28 60.1928 76.0000 56.9079 11/9/1/0 3 Hernandez, Frank 27 59.1889 67.8571 56.4234 11/9/0/0 4 Rose, Kyle 26 60.5641 69.2308 57.5050 11/8/2/0 5 Turian, Michael 25 63.7990 70.3704 60.1264 11/8/1/0 6 Long, Mike 25 60.6192 70.3704 58.1547"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Round 11 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 02:53:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519025323id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-standings-2000-01-01"
 ---
 
 

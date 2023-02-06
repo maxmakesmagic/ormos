@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502120759/https://magic.wizards.com/en/articles/archive/feature/island-lost-toys-2007-08-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/island-lost-toys-2007-08-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502120759id_/https://magic.wizards.com/en/articles/archive/feature/island-lost-toys-2007-08-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 12:07:59+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Welcome back to Online Tech! Last week I reviewed the Standard metagame, and since then I have started to playtest some games in preparation for my National Championships. A good rounded-out gauntlet of decks to test against would be one Rakdos deck, one Gruul deck, one Blue-Red-White Blink deck, and one Solar Flare deck (you can check my Standard deck-o-pedia for decklists)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-08-22"
+[_metadata_:title]:- "The Island of Lost Toys"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 12:07:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502120759id_/https://magic.wizards.com/en/articles/archive/feature/island-lost-toys-2007-08-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/island-lost-toys-2007-08-22"
 ---
 
 

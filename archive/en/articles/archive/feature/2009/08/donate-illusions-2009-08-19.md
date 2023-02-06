@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210112131926/https://magic.wizards.com/en/articles/archive/feature/donate-illusions-2009-08-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/donate-illusions-2009-08-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210112131926id_/https://magic.wizards.com/en/articles/archive/feature/donate-illusions-2009-08-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-12 13:19:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kai Budde's Donate Illusions Format: Extended 14 Island 4 Shivan Reef 4 Volcanic Island 3 Fire // Ice 4 Accumulated Knowledge 2 Brainstorm 1 Capsize 4 Counterspell 4 Donate 4 Force of Will 4 Illusions of Grandeur 1 Impulse 3 Intuition 4 Merchant Scroll 4 Sapphire Medallion *1 Hibernation *2 Hydroblast *3 Morphling *4 Pyroblast *3 Pyroclasm *2 Stroke of Genius"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-19"
+[_metadata_:title]:- "Donate Illusions"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-12 13:19:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210112131926id_/https://magic.wizards.com/en/articles/archive/feature/donate-illusions-2009-08-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/donate-illusions-2009-08-19"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523063013/https://magic.wizards.com/en/articles/archive/feature/pro-tour-theros-2013-invitations-2013-05-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-theros-2013-invitations-2013-05-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523063013id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-theros-2013-invitations-2013-05-29"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 06:30:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Invitations to Pro Tour Theros are awarded in the following manner: The winner of each Pro Tour Theros Qualifier (including Magic Online Pro Tour Qualifiers). The winner of each Magic Online Championship Series (MOCS) tournament that awards invitations to Pro Tour Theros. The Top 4 finishing players from each individual-format Grand Prix with player attendance of less than"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-29"
+[_metadata_:title]:- "Pro Tour Theros 2013 Invitations"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 06:30:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523063013id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-theros-2013-invitations-2013-05-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-theros-2013-invitations-2013-05-29"
 ---
 
 

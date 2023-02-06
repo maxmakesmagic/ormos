@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150730015538/http://magic.wizards.com/en/articles/archive/feature/pro-tour-magic-origins-preview-2015-07-27)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-magic-origins-preview-2015-07-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150730015538id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-magic-origins-preview-2015-07-27"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-30 01:55:38+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Rich runs through what you can expect to see as Pro Tour Origins caps off the season in Vancouver this weekend."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-07-27"
+[_metadata_:title]:- "Pro Tour Magic Origins Preview"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-30 01:55:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150730015538id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-magic-origins-preview-2015-07-27"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-magic-origins-preview-2015-07-27"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211130203210/https://magic.wizards.com/en/articles/archive/feature/control-your-destiny-2005-03-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/control-your-destiny-2005-03-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130203210id_/https://magic.wizards.com/en/articles/archive/feature/control-your-destiny-2005-03-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 20:32:10+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Well, the 2005 Extended PTQ season is over. More or less. There were some straggler PTQs last weekend and the American Northeast will be blessed with three bonus PTQs in the next three weeks, but last week's article, I'm told, will have been the last one wherein TOs everywhere will submit their proud local champions, freshly pinned, for the `Extended Top 8 Decklists` link. Go"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-03-31"
+[_metadata_:title]:- "Control Your Destiny"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 20:32:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130203210id_/https://magic.wizards.com/en/articles/archive/feature/control-your-destiny-2005-03-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/control-your-destiny-2005-03-31"
 ---
 
 

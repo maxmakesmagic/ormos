@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220705132450/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-score-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-standings-score-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705132450id_/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-score-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 13:24:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 gotta catch Kai 12 75.00% 2 Team Clegg 12 75.00% 3 trash AAA 12 75.00% 4 Two men and a baby !"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 4 Standings (by Score)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 13:24:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705132450id_/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-score-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-standings-score-2000-01-01-0"
 ---
 
 

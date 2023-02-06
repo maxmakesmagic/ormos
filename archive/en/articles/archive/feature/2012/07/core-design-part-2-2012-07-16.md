@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502053034/https://magic.wizards.com/en/articles/archive/feature/core-design-part-2-2012-07-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-design-part-2-2012-07-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053034id_/https://magic.wizards.com/en/articles/archive/feature/core-design-part-2-2012-07-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:30:34+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Last week, I had a mailbag column where I answered players' questions about Magic 2013. I got so many questions and was having such fun I decided, why stop. Today is part two of that mailbag column. shaterri @maro254 How has having new cards in the core set changed what you look for in fresh core-set reprints? We tend to focus new cards on making cards we want but don't have"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-16"
+[_metadata_:title]:- "Core Design, Part 2"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:30:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053034id_/https://magic.wizards.com/en/articles/archive/feature/core-design-part-2-2012-07-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-design-part-2-2012-07-16"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018172626/https://magic.wizards.com/en/articles/archive/feature/time-spiral-orb-insight-2006-08-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/time-spiral-orb-insight-2006-08-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018172626id_/https://magic.wizards.com/en/articles/archive/feature/time-spiral-orb-insight-2006-08-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 17:26:26+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "The Orb of Insight has returned!Almost surely the most anticipated Orb in magicthegathering.com history, this one holds the keys to unlock many of Time Spiral's mysteries. As you read this, Time Spiral is probably the most secret set in a very long time at this stage, so we're hoping you'll find the Orb of Insight that much more fun to play with. How does it work? Well, that's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-28"
+[_metadata_:title]:- "Time Spiral Orb of Insight"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 17:26:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018172626id_/https://magic.wizards.com/en/articles/archive/feature/time-spiral-orb-insight-2006-08-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/time-spiral-orb-insight-2006-08-28"
 ---
 
 

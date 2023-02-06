@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112025118/https://magic.wizards.com/en/articles/archive/feature/look-back-magic-weekend-paris-2011-02-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/look-back-magic-weekend-paris-2011-02-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112025118id_/https://magic.wizards.com/en/articles/archive/feature/look-back-magic-weekend-paris-2011-02-14"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:51:18+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "Magic Weekend Paris set a new standard for major Magic events. Combining the top-level play of the Pro Tour with the wide-open competition of the Grand Prix, it offered mages from around the world a chance to come together for four solid days of the game we all love."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-02-14"
+[_metadata_:title]:- "A Look Back at Magic Weekend Paris"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:51:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112025118id_/https://magic.wizards.com/en/articles/archive/feature/look-back-magic-weekend-paris-2011-02-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/look-back-magic-weekend-paris-2011-02-14"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523032458/https://magic.wizards.com/en/articles/archive/feature/ideas-unbound-2005-05-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ideas-unbound-2005-05-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523032458id_/https://magic.wizards.com/en/articles/archive/feature/ideas-unbound-2005-05-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 03:24:58+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "I am not on Wizards R&D and have never been on their R&D (though I have seen their pad, ages ago, and it was nice). But even if I'm not on R&D, I still know that one of the things that Maro and friends like to do is recreate the classics. Now, I never was one for Ted Turner's move colorizing tons of old classic movies, but somehow attempting to recreate the old classic Power"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-05-25"
+[_metadata_:title]:- "Ideas Unbound"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 03:24:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523032458id_/https://magic.wizards.com/en/articles/archive/feature/ideas-unbound-2005-05-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ideas-unbound-2005-05-25"
 ---
 
 

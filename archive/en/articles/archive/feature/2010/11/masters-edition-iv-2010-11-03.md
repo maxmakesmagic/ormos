@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202152154/https://magic.wizards.com/en/articles/archive/feature/masters-edition-iv-2010-11-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-edition-iv-2010-11-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202152154id_/https://magic.wizards.com/en/articles/archive/feature/masters-edition-iv-2010-11-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 15:21:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights Available only on Magic Online, Masters Edition IV features 269 cards with randomly inserted premium cards and goes on sale for a limited time beginning January 10, 2011. Each Masters Edition IV booster pack contains 15 randomly sorted cards (1 rare, 3 uncommon, 10 common, and 1 of the following lands: Urza's Mine, Urza's Power Plant, or Urza's Tower.)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-11-03"
+[_metadata_:title]:- "Masters Edition IV"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 15:21:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202152154id_/https://magic.wizards.com/en/articles/archive/feature/masters-edition-iv-2010-11-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-edition-iv-2010-11-03"
 ---
 
 

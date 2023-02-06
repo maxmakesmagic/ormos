@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123112517/https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123112517id_/https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 11:25:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 Angstschreeuw 21 64.02% 2 one day fly 18 78.57% 3 Team Clegg 18 73.33% 4 Two men and a baby ! 18 70.28% 5 Metagames/LNT 18 70.28% 6 AlphaBetaUnlimited.com 18 63.96% 7 gotta c"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 7 Standings (by Score)"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 11:25:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123112517id_/https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-standings-score-2000-01-01-0"
 ---
 
 

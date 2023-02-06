@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20181009215802/https://magic.wizards.com/en/articles/archive/feature/finding-some-inspiration-2014-03-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finding-some-inspiration-2014-03-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181009215802id_/https://magic.wizards.com/en/articles/archive/feature/finding-some-inspiration-2014-03-12"
-[_metadata_:wayback_capture_timestamp]:- "2018-10-09 21:58:02+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Sometimes you look at a decklist and you can't figure out exactly what's going on. If it were a flash in the pan, I might be able to move on, but lists like these have been popping up with multiple 3–1 and 4–0 finishes in Magic Online Daily Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-12"
+[_metadata_:title]:- "Finding Some Inspiration"
+[_metadata_:wayback_capture_timestamp]:- "2018-10-09 21:58:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181009215802id_/https://magic.wizards.com/en/articles/archive/feature/finding-some-inspiration-2014-03-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finding-some-inspiration-2014-03-12"
 ---
 
 

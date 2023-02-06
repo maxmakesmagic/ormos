@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211201230545/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201230545id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 23:05:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 2 Pairings per table Table Player 1 Player 2 Hullecremer, Michael *** BYE *** 1 Lund, Peter Wshrle, Sven 2 Wehner, Lasse Winther Vercruysse, Jeroen 3 Laznovsky, Martin Christensen, Allan B."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 23:05:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201230545id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-31"
 ---
 
 

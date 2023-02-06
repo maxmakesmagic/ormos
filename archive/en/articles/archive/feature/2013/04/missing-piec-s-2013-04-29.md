@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220702151308/https://magic.wizards.com/en/articles/archive/feature/missing-piec-s-2013-04-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/missing-piec-s-2013-04-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702151308id_/https://magic.wizards.com/en/articles/archive/feature/missing-piec-s-2013-04-29"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 15:13:08+00:00"
+[_metadata_:author]:- "Bonnie Bruenderman"
 [_metadata_:description]:- "We have a bit of a challenge for you... Can you figure out what's missing from these card images? It's the heat of battle, you're about to attack for lethal and.... wait—something's wrong! What's missing from this battlefield? Click to see the answer Boros Mastiff | Art by Kev Walker The Golgari save and reuse pretty much everything. While they seem to know how to get all"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-29"
+[_metadata_:title]:- "Missing Piec s"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 15:13:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702151308id_/https://magic.wizards.com/en/articles/archive/feature/missing-piec-s-2013-04-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/missing-piec-s-2013-04-29"
 ---
 
 

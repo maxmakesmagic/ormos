@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030195215/https://magic.wizards.com/en/articles/archive/feature/world-championship-finals-jon-finkel-usa-vs-bob-maher-jr-usa-2000-01-01-1)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-championship-finals-jon-finkel-usa-vs-bob-maher-jr-usa-2000-01-01-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030195215id_/https://magic.wizards.com/en/articles/archive/feature/world-championship-finals-jon-finkel-usa-vs-bob-maher-jr-usa-2000-01-01-1"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:52:15+00:00"
+[_metadata_:author]:- "Kim Eikefet"
 [_metadata_:description]:- "Match Coverage  Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "World Championship Finals Jon Finkel (USA) vs. Bob Maher, Jr. (USA)"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:52:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030195215id_/https://magic.wizards.com/en/articles/archive/feature/world-championship-finals-jon-finkel-usa-vs-bob-maher-jr-usa-2000-01-01-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-championship-finals-jon-finkel-usa-vs-bob-maher-jr-usa-2000-01-01-1"
 ---
 
 

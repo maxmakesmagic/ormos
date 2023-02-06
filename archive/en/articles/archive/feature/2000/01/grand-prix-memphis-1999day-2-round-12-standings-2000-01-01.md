@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523090529/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-12-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-12-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523090529id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-12-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:05:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Sullivan, Adrian 31 72.58 2 Pustilnik, Michael 31 67.44 3 Kloeckner, Kyle 31 64.36 4 Rauseo, Matt 30 70.24 5 Turning, Travis - 1700 30 69.52 6 Watts, Ric 30 62.47 7 Norton, Matthew 30 58.93 8 Heffern, Mike 28 73.99 9 Jafari, David 28 69.20 10 Pacheco, Marc - 1700 28 68.10 11 Pippin, Russell 28 57.80 12 Heiss, Nathan 27 70.59 13 Guevin, Thomas"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Memphis 1999Day 2 Round 12 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:05:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523090529id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-12-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-12-standings-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202171242/https://magic.wizards.com/en/articles/archive/feature/inside-numbers-2009-06-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/inside-numbers-2009-06-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202171242id_/https://magic.wizards.com/en/articles/archive/feature/inside-numbers-2009-06-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 17:12:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Do you like numbers? Do you like decklists? Do you like when decklists are broken down and reassembled to create pleasing tables and graphs? Then we have some good news! In today's Decks of the Week, we've got all 246 decklists from the Magic Online Championship Series. If you're interested in Shards of Alara Block Constructed, this is a treasure trove of information."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-04"
+[_metadata_:title]:- "Inside the Numbers"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 17:12:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202171242id_/https://magic.wizards.com/en/articles/archive/feature/inside-numbers-2009-06-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/inside-numbers-2009-06-04"
 ---
 
 

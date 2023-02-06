@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119155550/https://magic.wizards.com/en/articles/archive/feature/introduction-2004-05-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introduction-2004-05-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119155550id_/https://magic.wizards.com/en/articles/archive/feature/introduction-2004-05-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 15:55:50+00:00"
+[_metadata_:author]:- "Chad Ellis"
 [_metadata_:description]:- "When Scott Johns told me this column might become available for a new writer, I was pretty excited. Not only has Magic Online been my primary outlet for the game over the past couple of years while I was living and working in Germany (which, as everyone knows, has no Magic scene whatsoever), it is also a place where the true spirit of the game thrives – the spirit of casual"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-05-18"
+[_metadata_:title]:- "An Introduction"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 15:55:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119155550id_/https://magic.wizards.com/en/articles/archive/feature/introduction-2004-05-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introduction-2004-05-18"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170614212000/http://magic.wizards.com/en/articles/archive/feature/blue-black-zombies-2013-04-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-black-zombies-2013-04-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614212000id_/http://magic.wizards.com/en/articles/archive/feature/blue-black-zombies-2013-04-19"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-14 21:20:00+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "This deck has the dubious honor of containing the worst card this week.   Adam Breeden took second place at a 185-player PTQ in London with multiple cards that often don't make the cut in Gatecrash draft decks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-19"
+[_metadata_:title]:- "Blue-Black Zombies"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-14 21:20:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614212000id_/http://magic.wizards.com/en/articles/archive/feature/blue-black-zombies-2013-04-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-black-zombies-2013-04-19"
 ---
 
 

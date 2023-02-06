@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521162705/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521162705id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 16:27:05+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Akbar, David ( 60) 3 59 Long, Mike (114) 3 Allen, Dustin ( 36) 3 45 Morales, Manuel (105) 3 Armstrong, Herman ( 88) 0 60 Pitz, Jesse ( 5) 0 Aubertin, Justin ( 3) 3 16 Bunsongsikul, Ped ( 82) 1 Beckmon, John ( 15) 3 7 Mitchell, Alex ( 68) 3 Benafel, Chris ( 50) 1 68 Lovell, Brian ( 87) 0 Bhattacharyya, Sayan ( 39) 1 15 Lieberman, Alex ( 59) 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Round 2 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 16:27:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521162705id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-pairings-2000-01-01"
 ---
 
 

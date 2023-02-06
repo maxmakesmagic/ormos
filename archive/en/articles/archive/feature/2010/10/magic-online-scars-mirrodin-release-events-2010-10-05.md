@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429025653/https://magic.wizards.com/en/articles/archive/feature/magic-online-scars-mirrodin-release-events-2010-10-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-scars-mirrodin-release-events-2010-10-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429025653id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-scars-mirrodin-release-events-2010-10-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:56:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The corrosion begins. The metal plane of Mirrodin shines under the light of five suns ... but it’s now tarnished by the deadly scourge known as Phyrexia. As you travel this threatened land, you know a conflict is brewing. Dark forces have begun to assemble. Which side will you command? Scars of Mirrodin goes on sale in the Magic Online Store on Monday, October 18 at 9:00 AM"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-10-05"
+[_metadata_:title]:- "Magic Online Scars of Mirrodin Release Events"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:56:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429025653id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-scars-mirrodin-release-events-2010-10-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-scars-mirrodin-release-events-2010-10-05"
 ---
 
 

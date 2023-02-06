@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171031063258/https://magic.wizards.com/en/articles/archive/feature/team-day-round-one-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-day-round-one-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031063258id_/https://magic.wizards.com/en/articles/archive/feature/team-day-round-one-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 06:32:58+00:00"
 [_metadata_:description]:- "Rank Name Points Op-Match 1 United States 154 33.33% 2 Spain 142 33.33% 3 Netherlands 140 33.33% 4 Czech Republic 138 33.33% 5 Germany"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Team Day: Round One Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 06:32:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031063258id_/https://magic.wizards.com/en/articles/archive/feature/team-day-round-one-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-day-round-one-standings-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220625105926/https://magic.wizards.com/en/articles/archive/feature/round-8-results-player-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-results-player-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625105926id_/https://magic.wizards.com/en/articles/archive/feature/round-8-results-player-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 10:59:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentA.S.K.Drew 1-1-1vsDaisisziAAADrew 1-1-1vsWizard's BrainAbsoluteWon 2-1vsNISIKIAll time 6000yenWon 3-0vsGonzo the CoreApocalypseWon 3-0vsTeam ChoSoku HayataAscalon PlusDrew 1-1-1vsMKGAsian PapillonWon 3-0vsSamuraiAsteriskWon 2-1vsRibbon DragonsBenefactorLost 0-3vsYasagure BrothersBlue ViceLost 1-2vsChicago MiracleChackLost 1-2vsTeam Emon StaffChiban DragonWon"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 8 Results (by Player)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 10:59:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625105926id_/https://magic.wizards.com/en/articles/archive/feature/round-8-results-player-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-results-player-2000-01-01"
 ---
 
 

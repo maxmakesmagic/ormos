@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016100638/https://magic.wizards.com/en/articles/archive/feature/you-make-card-step-15-2002-07-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-card-step-15-2002-07-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016100638id_/https://magic.wizards.com/en/articles/archive/feature/you-make-card-step-15-2002-07-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 10:06:38+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "The people have spoken, but a third of you couldn’t agree. It’s time for a run-off. Here are the top three vote getters (in no particular order):Concept A - A humanoid elemental of moss supports itself with a hand against a dead tree. From where the elemental touches, it spreads wild regrowth.Concept B - A shambling plant-creature which can quickly grow large thorny spikes to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-07-02"
+[_metadata_:title]:- "You Make The Card - Step 15"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 10:06:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016100638id_/https://magic.wizards.com/en/articles/archive/feature/you-make-card-step-15-2002-07-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-card-step-15-2002-07-02"
 ---
 
 

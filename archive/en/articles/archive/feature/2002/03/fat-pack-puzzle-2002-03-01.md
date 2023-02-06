@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017223345/https://magic.wizards.com/en/articles/archive/feature/fat-pack-puzzle-2002-03-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fat-pack-puzzle-2002-03-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017223345id_/https://magic.wizards.com/en/articles/archive/feature/fat-pack-puzzle-2002-03-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 22:33:45+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Here is the puzzle `Crossing the Threshold` from the Torment Fat Pack. You can read through the text version of the puzzle here, or you can download the PDF by clicking the picture below. At the end of this article is the answer… but give it a try on your own first! No cheating!Crossing the ThresholdYour opponent is Worth. You and he are playing a game using Odyssey and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-03-01"
+[_metadata_:title]:- "Fat Pack Puzzle"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 22:33:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017223345id_/https://magic.wizards.com/en/articles/archive/feature/fat-pack-puzzle-2002-03-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fat-pack-puzzle-2002-03-01"
 ---
 
 

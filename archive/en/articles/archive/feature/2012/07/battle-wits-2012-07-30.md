@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210601034209/https://magic.wizards.com/en/articles/archive/feature/battle-wits-2012-07-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-wits-2012-07-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210601034209id_/https://magic.wizards.com/en/articles/archive/feature/battle-wits-2012-07-30"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-01 03:42:09+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "It was four or five years ago now. The setting was a Denver PTQ. The format was Extended and Dredge was the best deck by a mile. Turn-two kills were commonplace and the format was very unforgiving. Meanwhile, with a deck reaching 250 cards high sat a kid playing on the verge of a Top 8. The deck featured just about every cool card of the format, from Pernicious Deed to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-30"
+[_metadata_:title]:- "Battle of Wits"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-01 03:42:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210601034209id_/https://magic.wizards.com/en/articles/archive/feature/battle-wits-2012-07-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-wits-2012-07-30"
 ---
 
 

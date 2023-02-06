@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120164515/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-1-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-1-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120164515id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-1-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 16:45:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Steve O'Mahoney Schwartz and Olivier Ruel faced off in round one of Pro Tour New York. The two may be facing off again on Sunday in the finals of the Team Challenge. O'Mahoney Schwartz's Team Antarctica and Ruel's Team Black Ops play their Team Challenge semi-final matches on Saturday night in an effort to advance to Sunday's finals where the victorious team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 1 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 16:45:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120164515id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-1-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-1-feature-match-2000-01-01"
 ---
 
 

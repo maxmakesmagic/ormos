@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021125034/https://magic.wizards.com/en/articles/archive/feature/aggro-bant-2009-02-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-bant-2009-02-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021125034id_/https://magic.wizards.com/en/articles/archive/feature/aggro-bant-2009-02-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 12:50:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: eaglescout16's Aggro Bant Format: Standard 1 Adarkar Wastes 1 Brushland 3 Flooded Grove 3 Mystic Gate 4 Reflecting Pool 4 Seaside Citadel 3 Treetop Village 3 Wooded Bastion 2 Yavimaya Coast 4 Jhessian Infiltrator 4 Kitchen Finks 3 Rafiq of the Many 4 Rhox War Monk 4 Shorecrasher Mimic 3 Wilt-Leaf Liege 4 Bant Charm 4 Broken Ambitions 4 Cryptic Command 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-10"
+[_metadata_:title]:- "Aggro Bant"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 12:50:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021125034id_/https://magic.wizards.com/en/articles/archive/feature/aggro-bant-2009-02-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-bant-2009-02-10"
 ---
 
 

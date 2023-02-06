@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220809155924/https://magic.wizards.com/en/articles/archive/feature/reaper-king-2009-06-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reaper-king-2009-06-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809155924id_/https://magic.wizards.com/en/articles/archive/feature/reaper-king-2009-06-29"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 15:59:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: alucard_999's Reaper King Format: Magic Online Vanguard 4 Ancient Ziggurat 3 Auntie's Hovel 2 Caves of Koilos 1 Graven Cairns 2 Karplusan Forest 2 Llanowar Wastes 2 Mountain 4 Reflecting Pool 3 Swamp 2 Bant Sureblade 3 Duergar Assailant 4 Jund Hackblade 2 Kitchen Finks 4 Murderous Redcap 4 Nip Gwyllion 2 Odious Trow 4 Sygg, River Cutthroat 4 Tattermunge"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-29"
+[_metadata_:title]:- "Reaper King"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 15:59:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809155924id_/https://magic.wizards.com/en/articles/archive/feature/reaper-king-2009-06-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reaper-king-2009-06-29"
 ---
 
 

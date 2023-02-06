@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220819022733/https://magic.wizards.com/en/articles/archive/feature/what-characters-2003-08-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-characters-2003-08-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819022733id_/https://magic.wizards.com/en/articles/archive/feature/what-characters-2003-08-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 02:27:33+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Let's face it, my Internet face time is a shallow attempt to immortalize myself in the neverending fame known as Google searches. As a writer and as an insecure person, I continually strive to create a permanent marker on the world that will live on long after I cease to do the same. Will my Riftstone Portal-Nantuko Monastery deck still be an active topic of conversation well"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-08-28"
+[_metadata_:title]:- "What Characters!"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 02:27:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819022733id_/https://magic.wizards.com/en/articles/archive/feature/what-characters-2003-08-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-characters-2003-08-28"
 ---
 
 

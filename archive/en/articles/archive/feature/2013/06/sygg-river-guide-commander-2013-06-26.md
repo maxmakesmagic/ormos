@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025131610/https://magic.wizards.com/en/articles/archive/feature/sygg-river-guide-commander-2013-06-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sygg-river-guide-commander-2013-06-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025131610id_/https://magic.wizards.com/en/articles/archive/feature/sygg-river-guide-commander-2013-06-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 13:16:10+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Today, I'm going to look at one of my oldest Commander decks, Sygg, River Guide. The great thing about Sygg as a commander is that he costs so little that you'll almost always have him in play, and he's not especially threatening.This deck is entirely designed for multiplayer, where always having creatures in play can put you in a good position diplomatically, but the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-26"
+[_metadata_:title]:- "Sygg, River Guide Commander"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 13:16:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025131610id_/https://magic.wizards.com/en/articles/archive/feature/sygg-river-guide-commander-2013-06-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sygg-river-guide-commander-2013-06-26"
 ---
 
 

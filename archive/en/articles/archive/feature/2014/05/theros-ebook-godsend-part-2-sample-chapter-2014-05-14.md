@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160804004718/http://magic.wizards.com/en/articles/archive/feature/theros-ebook-godsend-part-2-sample-chapter-2014-05-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/theros-ebook-godsend-part-2-sample-chapter-2014-05-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160804004718id_/http://magic.wizards.com/en/articles/archive/feature/theros-ebook-godsend-part-2-sample-chapter-2014-05-14"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-04 00:47:18+00:00"
+[_metadata_:author]:- "The Magic Creative Team"
 [_metadata_:description]:- "&#13; The great hydra Polukranos is dead, slain by the Planeswalker Elspeth, champion of the sun god. Now the gods turn their faces from Theros, and the machinations of the satyr Planeswalker Xenagos are coming to fruition... &#13; &#13; The Theros eBook Godsend reaches its conclusion in Part 2, available right now! You can download it for Kindle and Nook for $1.99. Don't have an e-reader? Not a problem. You can find it on Google Play, and Kindle and Nook both have apps for your smartphone as well."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-14"
+[_metadata_:title]:- "Theros eBook Godsend, Part 2: Sample Chapter"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-04 00:47:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160804004718id_/http://magic.wizards.com/en/articles/archive/feature/theros-ebook-godsend-part-2-sample-chapter-2014-05-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/theros-ebook-godsend-part-2-sample-chapter-2014-05-14"
 ---
 
 

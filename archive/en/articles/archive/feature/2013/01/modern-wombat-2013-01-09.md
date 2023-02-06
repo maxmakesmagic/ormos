@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124103327/https://magic.wizards.com/en/articles/archive/feature/modern-wombat-2013-01-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-wombat-2013-01-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124103327id_/https://magic.wizards.com/en/articles/archive/feature/modern-wombat-2013-01-09"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 10:33:27+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "This deck may be old news by now, but only because it's the kind of deck that makes people yell things like, `Stop the presses!` when they first see it. This list is taken from the Top 8 of a Modern PTQ on Magic Online, and it's one of two decks in this archetype that made it to the Top 8. The reason this deck is such big news is both that new archetypes are rare in Modern and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-09"
+[_metadata_:title]:- "Modern Wombat"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 10:33:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124103327id_/https://magic.wizards.com/en/articles/archive/feature/modern-wombat-2013-01-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-wombat-2013-01-09"
 ---
 
 

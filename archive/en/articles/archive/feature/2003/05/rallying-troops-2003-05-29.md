@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170512031253/http://magic.wizards.com/en/articles/archive/feature/rallying-troops-2003-05-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rallying-troops-2003-05-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170512031253id_/http://magic.wizards.com/en/articles/archive/feature/rallying-troops-2003-05-29"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:12:53+00:00"
+[_metadata_:author]:- "Mark Gottlieb"
 [_metadata_:description]:- "Welcome, four days late, to Soldier week! American patriotic spirit is running high, and this week kicked off with Memorial Day in the States, so there couldn't be a better time to honor Soldiers. Except that Magic Soldiers aren't quite the loyal, uniformed, defenders-of-freedom types. You know those movies where there's a guy in a paramilitary unit-some overly trained black ops commando who can kill a man using a spork from forty feet away-who goes rogue, and it takes the rest of the film for the rest of the military to track him down?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-05-29"
+[_metadata_:title]:- "Rallying the Troops"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:12:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170512031253id_/http://magic.wizards.com/en/articles/archive/feature/rallying-troops-2003-05-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rallying-troops-2003-05-29"
 ---
 
 

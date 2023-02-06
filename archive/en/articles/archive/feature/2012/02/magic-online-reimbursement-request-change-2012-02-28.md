@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160714024358/http://magic.wizards.com/en/articles/archive/feature/magic-online-reimbursement-request-change-2012-02-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-reimbursement-request-change-2012-02-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160714024358id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-reimbursement-request-change-2012-02-28"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-14 02:43:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "We here at Wizards of the Coast strive to provide a fun and stable environment for players to enjoy Magic Online game play. Unfortunately, technical issues can occasionally arise that may disrupt the game service. While we cannot prevent all such possible issues, the Magic Online Game Support Team strives to help players who experience technical problems in Magic Online (it’s what we’re here for!) as quickly and efficiently as possible."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-02-28"
+[_metadata_:title]:- "Magic Online Reimbursement Request Change"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-14 02:43:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160714024358id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-reimbursement-request-change-2012-02-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-reimbursement-request-change-2012-02-28"
 ---
 
 

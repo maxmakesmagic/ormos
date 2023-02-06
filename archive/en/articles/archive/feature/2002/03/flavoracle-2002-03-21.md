@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160315195533/http://magic.wizards.com/en/articles/archive/feature/flavoracle-2002-03-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/flavoracle-2002-03-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160315195533id_/http://magic.wizards.com/en/articles/archive/feature/flavoracle-2002-03-21"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-15 19:55:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The FlavOracle is a document that houses the official flavor text for every Magic card (basic sets, expansion sets, and promotional cards).Full FlavOracle: TXT - DOC"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-03-21"
+[_metadata_:title]:- "The FlavOracle"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-15 19:55:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160315195533id_/http://magic.wizards.com/en/articles/archive/feature/flavoracle-2002-03-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/flavoracle-2002-03-21"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516081912/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-11-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-11-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516081912id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-11-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 08:19:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Dobson, Tony 30 65.8009 72.4138 59.2137 11/10/0/0 2 Luhrs, Christian 30 63.7938 77.7778 58.3171 11/10/0/0 3 Maher Jr., Bob 28 52.4597 76.9231 52.7338 11/9/1/0 4 Fuentes, Hector 27 65.6356 76.0000 60.3143 11/9/0/0 5 Chapin, Patrick 27 62.2747 70.3704 56.7384 11/9/0/0 6 Levy, Raphael 27 61.9835 75.0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Day 2 Round 11 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 08:19:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516081912id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-11-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-11-standings-2000-01-01"
 ---
 
 

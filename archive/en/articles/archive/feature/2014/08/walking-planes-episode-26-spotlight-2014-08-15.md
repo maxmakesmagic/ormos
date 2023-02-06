@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150102111746/http://magic.wizards.com/en/articles/archive/feature/walking-planes-episode-26-spotlight-2014-08-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/walking-planes-episode-26-spotlight-2014-08-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150102111746id_/http://magic.wizards.com/en/articles/archive/feature/walking-planes-episode-26-spotlight-2014-08-15"
-[_metadata_:wayback_capture_timestamp]:- "2015-01-02 11:17:46+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Nathan Holt and Shawn Kornhauser"
 [_metadata_:description]:- "How do you feel when all eyes are on you?"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-08-15"
+[_metadata_:title]:- "Walking the Planes Episode #26: `The Spotlight`"
+[_metadata_:wayback_capture_timestamp]:- "2015-01-02 11:17:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150102111746id_/http://magic.wizards.com/en/articles/archive/feature/walking-planes-episode-26-spotlight-2014-08-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/walking-planes-episode-26-spotlight-2014-08-15"
 ---
 
 

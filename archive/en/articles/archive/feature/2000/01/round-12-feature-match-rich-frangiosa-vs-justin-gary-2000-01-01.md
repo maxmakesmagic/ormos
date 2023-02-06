@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516064513/https://magic.wizards.com/en/articles/archive/feature/round-12-feature-match-rich-frangiosa-vs-justin-gary-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-12-feature-match-rich-frangiosa-vs-justin-gary-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516064513id_/https://magic.wizards.com/en/articles/archive/feature/round-12-feature-match-rich-frangiosa-vs-justin-gary-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:45:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan One of the Pro Tour's favorite players, Rich Frangiosa would be fighting for his first major Top 8 versus former U.S. National Champion Justin Gary. Both players were coming into Nationals with high hopes for the tournament. Justin wanted to regain his crown and become the first two-time U.S. National Champion, while Rich was quoted as wanting to make it"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 12 Feature Match - Rich Frangiosa vs. Justin Gary"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:45:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516064513id_/https://magic.wizards.com/en/articles/archive/feature/round-12-feature-match-rich-frangiosa-vs-justin-gary-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-12-feature-match-rich-frangiosa-vs-justin-gary-2000-01-01"
 ---
 
 

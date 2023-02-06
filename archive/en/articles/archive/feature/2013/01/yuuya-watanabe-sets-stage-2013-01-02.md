@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524060229/https://magic.wizards.com/en/articles/archive/feature/yuuya-watanabe-sets-stage-2013-01-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/yuuya-watanabe-sets-stage-2013-01-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524060229id_/https://magic.wizards.com/en/articles/archive/feature/yuuya-watanabe-sets-stage-2013-01-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 06:02:29+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "During the Magic Players Championship in September, everyone thought the deck of the tournament was and would be Shouta Yasooka's Eternal Command deck, which helped him dominate the Swiss rounds of the tournament and proceed to the finals. There he met and was defeated by Yuuya Watanabe, who, incidentally, was more or less unstoppable throughout 2012. Ultimately, while Shouta"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-02"
+[_metadata_:title]:- "Yuuya Watanabe Sets the Stage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 06:02:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524060229id_/https://magic.wizards.com/en/articles/archive/feature/yuuya-watanabe-sets-stage-2013-01-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/yuuya-watanabe-sets-stage-2013-01-02"
 ---
 
 

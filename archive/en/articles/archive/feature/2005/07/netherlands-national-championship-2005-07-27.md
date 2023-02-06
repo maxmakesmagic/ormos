@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160927052913/http://magic.wizards.com/en/articles/archive/feature/netherlands-national-championship-2005-07-27)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/netherlands-national-championship-2005-07-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927052913id_/http://magic.wizards.com/en/articles/archive/feature/netherlands-national-championship-2005-07-27"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 05:29:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 15-16-17 augustus 2008Address: Nationaal Denksport CentrumAddress: Kennedylaan 8Zip: 3533 KHCity: Utrecht Country: The NetherlandsContact info: rdrijvers@ps-games.nl / +31-(0)492509895Format: 3 day NationalsEntry fee: invitation only"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-07-27"
+[_metadata_:title]:- "Netherlands National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 05:29:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927052913id_/http://magic.wizards.com/en/articles/archive/feature/netherlands-national-championship-2005-07-27"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/netherlands-national-championship-2005-07-27"
 ---
 
 

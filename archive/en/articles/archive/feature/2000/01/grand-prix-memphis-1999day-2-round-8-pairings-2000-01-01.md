@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123134412/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-8-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-8-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123134412id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-8-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 13:44:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Opponent Points Brackett, Derek (21) 16 Clark, Aaron (46) 16 Bradley, James G. (23) 15 Jensen, William (130) 15 Brice, Ernest (25) 18 Watts, Ric (333) 18 Buehler, Randy (31) 15 Fischbeck, Ryan (72) 15"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Memphis 1999Day 2 Round 8 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 13:44:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123134412id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-8-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-8-pairings-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816161959/https://magic.wizards.com/en/articles/archive/feature/desired-walkthrough-part-2-2007-02-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/desired-walkthrough-part-2-2007-02-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816161959id_/https://magic.wizards.com/en/articles/archive/feature/desired-walkthrough-part-2-2007-02-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 16:19:59+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Before I begin, I'd like to thank everyone who wrote in to give me feedback on my last article, where I introduced detailed game walkthroughs with TEPS Desire (which, by the way, stands for The Extended Perfect Storm). I do read every letter sent to me, and although I do not have the time to mail back everyone individually and can't play deck doctor for everyone, I certainly"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-02-14"
+[_metadata_:title]:- "A Desired Walkthrough, Part 2"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 16:19:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816161959id_/https://magic.wizards.com/en/articles/archive/feature/desired-walkthrough-part-2-2007-02-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/desired-walkthrough-part-2-2007-02-14"
 ---
 
 

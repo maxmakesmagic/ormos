@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161117151723/http://magic.wizards.com/en/articles/archive/feature/recapping-kaladesh-story-2016-11-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/recapping-kaladesh-story-2016-11-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161117151723id_/http://magic.wizards.com/en/articles/archive/feature/recapping-kaladesh-story-2016-11-16"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-17 15:17:23+00:00"
+[_metadata_:author]:- "Chas Andres"
 [_metadata_:description]:- "Chas recaps the story of Kaladesh so far to get you caught up on all the action."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-11-16"
+[_metadata_:title]:- "Recapping the Kaladesh Story"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-17 15:17:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161117151723id_/http://magic.wizards.com/en/articles/archive/feature/recapping-kaladesh-story-2016-11-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/recapping-kaladesh-story-2016-11-16"
 ---
 
 

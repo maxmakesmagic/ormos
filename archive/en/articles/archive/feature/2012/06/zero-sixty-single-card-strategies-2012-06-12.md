@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170309081841/http://magic.wizards.com/en/articles/archive/feature/zero-sixty-single-card-strategies-2012-06-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zero-sixty-single-card-strategies-2012-06-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309081841id_/http://magic.wizards.com/en/articles/archive/feature/zero-sixty-single-card-strategies-2012-06-12"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 08:18:41+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Synergy is the crux of most successful creature-based Magic decks. Whether it's the synergy between Llanowar Elves and Elvish Archdruid or Stoneforge Mystic and Batterskull, the additional value eked out by positive interactions goes a long way over the course of a deck's life cycle."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-12"
+[_metadata_:title]:- "Zero to Sixty: Single Card Strategies"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 08:18:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309081841id_/http://magic.wizards.com/en/articles/archive/feature/zero-sixty-single-card-strategies-2012-06-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zero-sixty-single-card-strategies-2012-06-12"
 ---
 
 

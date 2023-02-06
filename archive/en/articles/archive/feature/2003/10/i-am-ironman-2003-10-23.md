@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160602203409/http://magic.wizards.com/en/articles/archive/feature/i-am-ironman-2003-10-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/i-am-ironman-2003-10-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160602203409id_/http://magic.wizards.com/en/articles/archive/feature/i-am-ironman-2003-10-23"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-02 20:34:09+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Warning! This article contains scenes of graphic card violenceHas he lost his mind? (clearly)Can he see or is he blind? (I had LASIK 3 years ago)Can he walk at all,Or if he moves will he fall? (can someone help me up?)Is he alive or dead? (alive, but very sleepy)Has he thoughts within his head? (debatable)We'll just pass him therewhy should we even care? (because he's writing an Ironman article!)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-10-23"
+[_metadata_:title]:- "I . . . AM . . . IRONMAN!"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-02 20:34:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160602203409id_/http://magic.wizards.com/en/articles/archive/feature/i-am-ironman-2003-10-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/i-am-ironman-2003-10-23"
 ---
 
 

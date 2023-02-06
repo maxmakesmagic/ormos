@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123182116/https://magic.wizards.com/en/articles/archive/feature/mana-maze-puzzling-2012-08-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mana-maze-puzzling-2012-08-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123182116id_/https://magic.wizards.com/en/articles/archive/feature/mana-maze-puzzling-2012-08-29"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 18:21:16+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Yesterday, we looked at Mana Maze Solitaire, a solitaire variant of Magic developed by Mark Rosewater in 1995. Today, we have a puzzle based on those rules!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-29"
+[_metadata_:title]:- "Mana Maze: The Puzzling"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 18:21:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123182116id_/https://magic.wizards.com/en/articles/archive/feature/mana-maze-puzzling-2012-08-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mana-maze-puzzling-2012-08-29"
 ---
 
 

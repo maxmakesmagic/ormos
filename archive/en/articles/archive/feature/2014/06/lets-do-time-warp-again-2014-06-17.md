@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200922215515/https://magic.wizards.com/en/articles/archive/feature/lets-do-time-warp-again-2014-06-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lets-do-time-warp-again-2014-06-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200922215515id_/https://magic.wizards.com/en/articles/archive/feature/lets-do-time-warp-again-2014-06-17"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-22 21:55:15+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Last week, Friday Nights went `Time Walking,` thanks to Jer's Take Another Turn deck. During that trip through space and time (but mostly time), Jer noted that there were 29 `take an extra turn` cards. But, thanks to the release of Conspiracy (which Jer didn't yet have access to), there are now officially 30 such cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-06-17"
+[_metadata_:title]:- "Let's do the Time Warp Again"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-22 21:55:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200922215515id_/https://magic.wizards.com/en/articles/archive/feature/lets-do-time-warp-again-2014-06-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lets-do-time-warp-again-2014-06-17"
 ---
 
 

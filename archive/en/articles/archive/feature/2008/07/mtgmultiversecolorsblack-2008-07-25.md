@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018131424/https://magic.wizards.com/en/articles/archive/feature/mtgmultiversecolorsblack-2008-07-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgmultiversecolorsblack-2008-07-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018131424id_/https://magic.wizards.com/en/articles/archive/feature/mtgmultiversecolorsblack-2008-07-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 13:14:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Black mana comes from dank swamps, where things fester and rot. Shadowy wastelands, haunted catacombs, and fetid bogs are all prime sources of black mana. Black is the color of death, fear, and amorality—these are the twisted values of the darkness. Black magic is powerful and easy to wield, but it comes with a high price. Black mages are self-centered and self-serving. They"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-25"
+[_metadata_:title]:- "mtg_multiverse_colors_black"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 13:14:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018131424id_/https://magic.wizards.com/en/articles/archive/feature/mtgmultiversecolorsblack-2008-07-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgmultiversecolorsblack-2008-07-25"
 ---
 
 

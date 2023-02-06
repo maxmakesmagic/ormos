@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220610210025/https://magic.wizards.com/en/articles/archive/feature/crash-course-commander-commander-legends-battle-baldurs-gate-2022-06-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/crash-course-commander-commander-legends-battle-baldurs-gate-2022-06-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220610210025id_/https://magic.wizards.com/en/articles/archive/feature/crash-course-commander-commander-legends-battle-baldurs-gate-2022-06-10"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-10 21:00:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Gavin Verhey and Scott Larabee answer community questions on the Commander and Commander Draft formats as well as the upcoming Commander Legends: Battle for Baldur's Gate set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-06-10"
+[_metadata_:title]:- "Crash Course in Commander for Commander Legends: Battle for Baldur's Gate"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-10 21:00:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220610210025id_/https://magic.wizards.com/en/articles/archive/feature/crash-course-commander-commander-legends-battle-baldurs-gate-2022-06-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/crash-course-commander-commander-legends-battle-baldurs-gate-2022-06-10"
 ---
 
 

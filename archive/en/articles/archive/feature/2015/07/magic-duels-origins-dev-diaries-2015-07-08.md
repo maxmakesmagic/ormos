@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150708180531/http://magic.wizards.com/en/articles/archive/feature/magic-duels-origins-dev-diaries-2015-07-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-duels-origins-dev-diaries-2015-07-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150708180531id_/http://magic.wizards.com/en/articles/archive/feature/magic-duels-origins-dev-diaries-2015-07-08"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-08 18:05:31+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Drew Nolosco"
 [_metadata_:description]:- "The Head Developer  of Magic Duels: Origins shares tips to celebrate its release."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-07-08"
+[_metadata_:title]:- "Magic Duels: Origins Dev Diaries"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-08 18:05:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150708180531id_/http://magic.wizards.com/en/articles/archive/feature/magic-duels-origins-dev-diaries-2015-07-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-duels-origins-dev-diaries-2015-07-08"
 ---
 
 

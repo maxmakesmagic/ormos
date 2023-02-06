@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120182755/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-7-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-7-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120182755id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-7-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:27:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Mike Turian and Zvi Mowshowitz went into the last round on Friday at 4-2. Zvi offered a draw that would assure both players a berth in day 2, but Mike declined. Mike knew he had a matchup advantage and both players knew that while a draw would advance them to tomorrow, they would start out at the very bottom of the standings. This was also a bit of a grudge"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 7 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:27:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120182755id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-7-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-7-feature-match-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170808205053/http://magic.wizards.com/en/articles/archive/feature/dragons-dragons-and-cat-dragons-2017-08-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-dragons-and-cat-dragons-2017-08-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170808205053id_/http://magic.wizards.com/en/articles/archive/feature/dragons-dragons-and-cat-dragons-2017-08-08"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-08 20:50:53+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin shares some fiery preview cards from Commander (2017 Edition) and discusses the process behind the set's design."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-08-08"
+[_metadata_:title]:- "Dragons, Dragons, and . . . Cat Dragons"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-08 20:50:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170808205053id_/http://magic.wizards.com/en/articles/archive/feature/dragons-dragons-and-cat-dragons-2017-08-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-dragons-and-cat-dragons-2017-08-08"
 ---
 
 

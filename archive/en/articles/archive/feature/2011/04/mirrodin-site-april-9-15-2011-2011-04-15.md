@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028050429/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-april-9-15-2011-2011-04-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-april-9-15-2011-2011-04-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028050429id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-april-9-15-2011-2011-04-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 05:04:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site. Here's the new stuff from this week. Mirran Faction Field Reports Farris of the Anvil Dear Sharaia, Today the red sun rose—the signal for our assault. Today we struck back at the Phyrexians at Oxid Ridge. Today was the first time I did not think of myself as a member"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-15"
+[_metadata_:title]:- "On the Mirrodin Site: April 9-15, 2011"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 05:04:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028050429id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-april-9-15-2011-2011-04-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-april-9-15-2011-2011-04-15"
 ---
 
 

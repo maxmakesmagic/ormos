@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211119044130/https://magic.wizards.com/en/articles/archive/feature/coldsnap-qa-2005-10-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coldsnap-qa-2005-10-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211119044130id_/https://magic.wizards.com/en/articles/archive/feature/coldsnap-qa-2005-10-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-19 04:41:30+00:00"
 [_metadata_:description]:- "It turns out that there are more stories coming out of WotC's move across the street than just a giant Dragon stopping traffic. While I was helping to pack up R&D, I emptied out a filing cabinet in Richard Garfield's old office (now an R&D conference room known as `The Danger Room`). It looked as if the cabinet had been moved intact from Wizards' last move ten years ago."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-10-26"
+[_metadata_:title]:- "Coldsnap Q&A"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-19 04:41:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211119044130id_/https://magic.wizards.com/en/articles/archive/feature/coldsnap-qa-2005-10-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coldsnap-qa-2005-10-26"
 ---
 
 

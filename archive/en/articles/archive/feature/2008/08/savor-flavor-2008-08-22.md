@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220122174406/https://magic.wizards.com/en/articles/archive/feature/savor-flavor-2008-08-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/savor-flavor-2008-08-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122174406id_/https://magic.wizards.com/en/articles/archive/feature/savor-flavor-2008-08-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 17:44:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Every Magic card is a window onto the Multiverse, and every player is a planeswalker. The Savor the Flavor column explores the creative process behind Magic's flavor, including card art, flavor text, card names, world-building, books, comics, and the foundations of Magic's unique, planeswalker-driven twist on fantasy. Magic creative designer Doug Beyer currently writes this"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-22"
+[_metadata_:title]:- "Savor the Flavor"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 17:44:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122174406id_/https://magic.wizards.com/en/articles/archive/feature/savor-flavor-2008-08-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/savor-flavor-2008-08-22"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020024651/https://magic.wizards.com/en/articles/archive/feature/exalted-esper-2013-04-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/exalted-esper-2013-04-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020024651id_/https://magic.wizards.com/en/articles/archive/feature/exalted-esper-2013-04-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 02:46:51+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Today's deck finished 2nd in a PTQ in Tokyo, Japan, and it's noteworthy for attacking the Standard format in a way very similar to what we've seen in another deck, but executed quite differently. This deck shares a philosophical origin with Bant Hexproof but leans primarily on the exalted mechanic rather than enchantments to make its large attackers. Knight of Infamy and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-22"
+[_metadata_:title]:- "Exalted Esper"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 02:46:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020024651id_/https://magic.wizards.com/en/articles/archive/feature/exalted-esper-2013-04-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/exalted-esper-2013-04-22"
 ---
 
 

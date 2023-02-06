@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220705201007/https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-table-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-table-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705201007id_/https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-table-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 20:10:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TableTeamPointsOpponentPoints1Hot Fungusaur Invasion 2K19vsWretch92Derf9vsThe Hubbsucker Proxy93Team Bald Dummy9vsEuropean Alliance945 Ways Worse than Portent9vsThe Tails95The Grunties9vsTeam Clasp96Team John F."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 4 Pairings (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 20:10:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705201007id_/https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-table-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-table-2000-01-01"
 ---
 
 

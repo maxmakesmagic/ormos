@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429045401/https://magic.wizards.com/en/articles/archive/feature/snap-shots-judgment-2002-05-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/snap-shots-judgment-2002-05-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429045401id_/https://magic.wizards.com/en/articles/archive/feature/snap-shots-judgment-2002-05-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:54:01+00:00"
+[_metadata_:author]:- "Will McDermott"
 [_metadata_:description]:- "Cards and novels. Novels and cards. In the Magic: The Gathering multiverse, these two printed forms work together to tell a story. The cards provide the background, using images, card names, game mechanics, and flavor text to set the scene and paint a picture of a fantastic world full of wizards, artifacts, spells, and creatures."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-05-13"
+[_metadata_:title]:- "Snap (Shots of) Judgment"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:54:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429045401id_/https://magic.wizards.com/en/articles/archive/feature/snap-shots-judgment-2002-05-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/snap-shots-judgment-2002-05-13"
 ---
 
 

@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160318204844/http://magic.wizards.com/en/articles/archive/feature/infinite-humanity-2013-02-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/infinite-humanity-2013-02-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160318204844id_/http://magic.wizards.com/en/articles/archive/feature/infinite-humanity-2013-02-05"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-18 20:48:44+00:00"
+[_metadata_:author]:- "Sam Stoddard"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-02-05"
+[_metadata_:title]:- "Infinite Humanity"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-18 20:48:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160318204844id_/http://magic.wizards.com/en/articles/archive/feature/infinite-humanity-2013-02-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/infinite-humanity-2013-02-05"
 ---
 
 

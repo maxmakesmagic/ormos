@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160216043928/http://magic.wizards.com/en/articles/archive/feature/asking-permission-2002-04-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/asking-permission-2002-04-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160216043928id_/http://magic.wizards.com/en/articles/archive/feature/asking-permission-2002-04-12"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-16 04:39:28+00:00"
 [_metadata_:description]:- "My anti-land destruction stance in last week’s article generated quite a few e-mails and just about every one of them agreed with my basic position. By far the most common theme in my Inbox last week was “Yeah! And counterspell decks suck too!” Those who know me a little bit better phrased this general sentiment as a question: “Isn’t is just as annoying to have a control player counter every one of your spells? Why does R&D continue to print good counterspells?”"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-04-12"
+[_metadata_:title]:- "Asking Permission"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-16 04:39:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160216043928id_/http://magic.wizards.com/en/articles/archive/feature/asking-permission-2002-04-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/asking-permission-2002-04-12"
 ---
 
 

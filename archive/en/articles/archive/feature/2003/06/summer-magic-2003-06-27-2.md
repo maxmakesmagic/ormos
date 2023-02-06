@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024133247/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-2)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-2"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024133247id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-2"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 13:32:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "NameLocationCityPhoneSPRINGBulevar Mihajla Pupina 10e lok. MP6Belgrade38111311078DRAGONBul. Kneza Milosa 37Novi Sad38121401610Faculty of Teaching Sombor381642153874MENSA Nis381641158907"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-06-27"
+[_metadata_:title]:- "Summer of Magic"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 13:32:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024133247id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-2"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-2"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517121450/https://magic.wizards.com/en/articles/archive/feature/deck-analysis-team-godzilla-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deck-analysis-team-godzilla-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517121450id_/https://magic.wizards.com/en/articles/archive/feature/deck-analysis-team-godzilla-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 12:14:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Godzilla Invades Japan Sideboard staff has obtained the decklist for `Godzilla`, the team of David Williams, Michael Long and Bob Maher. We are featuring this team's decklist because they are the only undefeated team to use an English decklist. This is a good analysis to help players who may compete in team sealed deck Pro Tour Qualifiers and Grand Prix. These are the decks"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Deck Analysis of team Godzilla"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 12:14:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517121450id_/https://magic.wizards.com/en/articles/archive/feature/deck-analysis-team-godzilla-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deck-analysis-team-godzilla-2000-01-01"
 ---
 
 

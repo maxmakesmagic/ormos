@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020140112/https://magic.wizards.com/en/articles/archive/feature/invitational-vintage-2010-07-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/invitational-vintage-2010-07-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020140112id_/https://magic.wizards.com/en/articles/archive/feature/invitational-vintage-2010-07-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:01:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jon Finkel's Invitational Vintage Format: Vintage – 2000 Magic Invitational 4 City of Brass 4 Volcanic Island 4 Underground Sea 4 Wasteland 2 Tundra 1 Library of Alexandria 1 Tolarian Academy 1 Strip Mine 2 Gorilla Shaman 1 Morphling 1 Circle of Protection: Red 1 Black Lotus 1 Mox Pearl 1 Mox Sapphire 1 Mox Emerald 1 Mox Ruby 1 Mox Jet 1 Sol Ring 4 Mana Drain"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-06"
+[_metadata_:title]:- "Invitational Vintage"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:01:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020140112id_/https://magic.wizards.com/en/articles/archive/feature/invitational-vintage-2010-07-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/invitational-vintage-2010-07-06"
 ---
 
 

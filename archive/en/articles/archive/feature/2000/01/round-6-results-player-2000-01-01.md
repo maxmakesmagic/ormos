@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627043822/https://magic.wizards.com/en/articles/archive/feature/round-6-results-player-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-results-player-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627043822id_/https://magic.wizards.com/en/articles/archive/feature/round-6-results-player-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 04:38:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentA.S.K.Won 2-1vsKou II ZikoAAALost 1-2vsBenefactorABCCLost 0-3vsPrince HirotakaAbsoluteWon 2-1vsCrashAibonLost 1-2vsAsteriskAin't afraid to dieLost 0-3vsTeam MaruiAir OrangeLost 1-2vsSuberikomiAkko ni OmakaseLost 0-3vsWiz type KOFAll time 6000yenWon 2-1vsUnluckey'sApocalypseLost 1-2vsLuciferArmy of SerraWon 3-0vsFC NasuAscalon PlusWon 3-0vsInitial TAsian"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 6 Results (by Player)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 04:38:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627043822id_/https://magic.wizards.com/en/articles/archive/feature/round-6-results-player-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-results-player-2000-01-01"
 ---
 
 

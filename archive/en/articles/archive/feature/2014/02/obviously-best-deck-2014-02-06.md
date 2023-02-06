@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170325213049/http://magic.wizards.com/en/articles/archive/feature/obviously-best-deck-2014-02-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/obviously-best-deck-2014-02-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170325213049id_/http://magic.wizards.com/en/articles/archive/feature/obviously-best-deck-2014-02-06"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-25 21:30:49+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "We've seen a few different flavors of Show and Tell strategies in Legacy. Some are mono-blue with Omniscience (and win with Cunning Wish), some are blue-red (and win with Sneak Attack and fatties), and there are some mish-mashes containing elements of both, with or without Burning Wish."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-02-06"
+[_metadata_:title]:- "Obviously the Best Deck"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-25 21:30:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170325213049id_/http://magic.wizards.com/en/articles/archive/feature/obviously-best-deck-2014-02-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/obviously-best-deck-2014-02-06"
 ---
 
 

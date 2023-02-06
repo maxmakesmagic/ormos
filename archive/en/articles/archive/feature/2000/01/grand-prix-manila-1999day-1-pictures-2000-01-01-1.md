@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527123927/https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-1999day-1-pictures-2000-01-01-1)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-1999day-1-pictures-2000-01-01-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527123927id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-1999day-1-pictures-2000-01-01-1"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 12:39:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[ 1 - 2 - 3 - 4 ]  Dean Alfar of Novelty Entertainment, Inc. gives the opening speech. Bobby Cabral from Novelty gives opening remarks before tournament start.  Vicky of Novelty oversees the registration station. The rockin' Grand Prix-Manila Disc Jockey, he loves the 80's.  Tennille Tan hard at work as Assistant Scorekeeper. Happy happy joy joy � judges before the tournament"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Manila 1999Day 1 Pictures"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 12:39:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527123927id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-1999day-1-pictures-2000-01-01-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-1999day-1-pictures-2000-01-01-1"
 ---
 
 

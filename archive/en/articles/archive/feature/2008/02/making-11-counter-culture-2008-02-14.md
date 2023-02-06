@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170213194401/http://magic.wizards.com/en/articles/archive/feature/making-11-counter-culture-2008-02-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/making-11-counter-culture-2008-02-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170213194401id_/http://magic.wizards.com/en/articles/archive/feature/making-11-counter-culture-2008-02-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-13 19:44:01+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to +1/+1 Counter Week! Call it Bead Week, Penny Week, or Marble Week (Note: Do not use marbles as +1/+1 counters. Unless you're a Hippo.) if you like. It doesn't really matter what you call it as long as you don't call it Late for Dinner Week. The more important thing is what you do with this time and the +1/+1 counters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-02-14"
+[_metadata_:title]:- "The Making of a +1/+1 Counter Culture"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-13 19:44:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170213194401id_/http://magic.wizards.com/en/articles/archive/feature/making-11-counter-culture-2008-02-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/making-11-counter-culture-2008-02-14"
 ---
 
 

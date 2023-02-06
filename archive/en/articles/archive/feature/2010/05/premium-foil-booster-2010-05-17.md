@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210421140437/https://magic.wizards.com/en/articles/archive/feature/premium-foil-booster-2010-05-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/premium-foil-booster-2010-05-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210421140437id_/https://magic.wizards.com/en/articles/archive/feature/premium-foil-booster-2010-05-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-21 14:04:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Take one last trip to Alara and collect all 539 foil premium cards, in this handsome foil booster. Each of these boosters contains fifteen foil, black-bordered cards from Shards of Alara, Conflux, and Alara Reborn.  Further Information Release Date: January 8th, 2010MSRP: $11.99"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-05-17"
+[_metadata_:title]:- "Premium Foil Booster"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-21 14:04:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210421140437id_/https://magic.wizards.com/en/articles/archive/feature/premium-foil-booster-2010-05-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/premium-foil-booster-2010-05-17"
 ---
 
 

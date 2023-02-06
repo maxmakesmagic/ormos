@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170708114116/http://magic.wizards.com/en/articles/archive/feature/one-land-belcher-2009-05-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/one-land-belcher-2009-05-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170708114116id_/http://magic.wizards.com/en/articles/archive/feature/one-land-belcher-2009-05-08"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-08 11:41:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: rukcus's One-Land Belcher Format: Magic Online Classic 1 Taiga 4 Elvish Spirit Guide 4 Simian Spirit Guide 4 Tinder Wall 4 Burning Wish 4 Chrome Mox 4 Dark Ritual 4 Demonic Consultation 1 Demonic Tutor 3 Desperate Ritual 3 Empty the Warrens 4 Goblin Charbelcher 4 Lion's Eye Diamond 4 Lotus Petal 4 Manamorphose 4 Rite of Flame 4 Seething Song *1 Diminishing Returns *1 Empty the Warrens *4 Guttural Response *1 Hull Breach"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-08"
+[_metadata_:title]:- "One-Land Belcher"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-08 11:41:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170708114116id_/http://magic.wizards.com/en/articles/archive/feature/one-land-belcher-2009-05-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/one-land-belcher-2009-05-08"
 ---
 
 

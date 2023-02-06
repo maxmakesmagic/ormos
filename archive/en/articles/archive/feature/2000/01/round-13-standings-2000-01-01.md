@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030012307/https://magic.wizards.com/en/articles/archive/feature/round-13-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-13-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030012307id_/https://magic.wizards.com/en/articles/archive/feature/round-13-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 01:23:07+00:00"
 [_metadata_:description]:- "Rank Player Points Op.Win% 1 Shvartsman, Alex 34 70.6044% 2 Ruel, Antoine 32 73.8462% 3 Svaldi, Guilherme Dei 32 72.0946% 4 Martins - ama, Leopoldo M. 32 70.1823%"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 13 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 01:23:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030012307id_/https://magic.wizards.com/en/articles/archive/feature/round-13-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-13-standings-2000-01-01"
 ---
 
 

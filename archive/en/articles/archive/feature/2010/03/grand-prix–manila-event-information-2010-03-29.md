@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211015233920/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93manila-event-information-2010-03-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93manila-event-information-2010-03-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015233920id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93manila-event-information-2010-03-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 23:39:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Tournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information Date: June 12-13, 2010 Format: Standard Tournament Location SMX Convention Center, Function Room 4, Level 3 Seashell Drive, Mall of Asia Complex, Pasay City, 1300, PhilippinesLocation Map Registration: 800 Peso Friday, June 11: 12 p.m. – 8 p.m. Saturday,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-29"
+[_metadata_:title]:- "Grand Prix–Manila Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 23:39:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015233920id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93manila-event-information-2010-03-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93manila-event-information-2010-03-29"
 ---
 
 

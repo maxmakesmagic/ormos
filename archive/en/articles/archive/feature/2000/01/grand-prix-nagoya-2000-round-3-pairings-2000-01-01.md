@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124043859/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-3-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-3-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124043859id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-3-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:38:59+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Match Team Points Team   TAROU   *** BYE *** 1 Poor Shark   Team KAME-ZAOH 2 Team Fenrir   MAHODO 3 NakaQ MoQ   Shikaku Maniacs SHARP"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 3 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:38:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124043859id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-3-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-3-pairings-2000-01-01"
 ---
 
 

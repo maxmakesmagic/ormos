@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170417163913/http://magic.wizards.com/en/articles/archive/feature/praise-unguilded-2013-03-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/praise-unguilded-2013-03-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170417163913id_/http://magic.wizards.com/en/articles/archive/feature/praise-unguilded-2013-03-12"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:39:13+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "&#13; Last week was `Gruul Week.` During Return to Ravnica, we had weeks for all five of the guilds in that set. It will come as no surprise that there are more guild theme weeks scheduled in the near future. But what about the characters in Ravnica that don't belong to a guild?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-12"
+[_metadata_:title]:- "In Praise of the Unguilded"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:39:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170417163913id_/http://magic.wizards.com/en/articles/archive/feature/praise-unguilded-2013-03-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/praise-unguilded-2013-03-12"
 ---
 
 

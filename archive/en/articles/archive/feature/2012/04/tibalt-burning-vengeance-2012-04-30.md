@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170425203957/http://magic.wizards.com/en/articles/archive/feature/tibalt-burning-vengeance-2012-04-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tibalt-burning-vengeance-2012-04-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170425203957id_/http://magic.wizards.com/en/articles/archive/feature/tibalt-burning-vengeance-2012-04-30"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-25 20:39:57+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "TCGPlayer.com columnist Christopher Morris-Lent has been hard at work looking for the best place to put Tibalt, the Fiend Blooded. In his recent article, he looks through several different uses for the brand new Planeswalker. One strategy that stuck out at him? Burning Vengeance!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-30"
+[_metadata_:title]:- "Tibalt Burning Vengeance"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-25 20:39:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170425203957id_/http://magic.wizards.com/en/articles/archive/feature/tibalt-burning-vengeance-2012-04-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tibalt-burning-vengeance-2012-04-30"
 ---
 
 

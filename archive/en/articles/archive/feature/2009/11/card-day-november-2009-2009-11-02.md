@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220808205024/https://magic.wizards.com/en/articles/archive/feature/card-day-november-2009-2009-11-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-november-2009-2009-11-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808205024id_/https://magic.wizards.com/en/articles/archive/feature/card-day-november-2009-2009-11-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 20:50:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Steamflogger Boss – Future Sight rare. If you're like most people, you probably haven't spent much time looking at the art of Steamflogger Boss. And that means you've missed something really cool hidden in the art! This arcana has the scoop. Holy Day – Legends common. The Legends flavor text for Holy Day is from Silex Scintillans, a collection of seventeenth-century religious"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-02"
+[_metadata_:title]:- "Card of the Day - November, 2009"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 20:50:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808205024id_/https://magic.wizards.com/en/articles/archive/feature/card-day-november-2009-2009-11-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-november-2009-2009-11-02"
 ---
 
 

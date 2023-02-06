@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429040814/https://magic.wizards.com/en/articles/archive/feature/saving-grace-taking-last-look-kamigawa-2005-05-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saving-grace-taking-last-look-kamigawa-2005-05-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040814id_/https://magic.wizards.com/en/articles/archive/feature/saving-grace-taking-last-look-kamigawa-2005-05-09"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:08:14+00:00"
+[_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "When a world's best, maybe only, hope for survival is a ronin samurai with few morals who wouldn't care a whit about Kamigawa were he not living on it, you know the situation's grim. Yet the very name of the final chapter of the block, Saviors of Kamigawa, suggests that there is hope. But does it lie with Toshiro Umezawa, one of the most popular Magic protagonists of all time,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-05-09"
+[_metadata_:title]:- "Saving Grace - Taking a Last Look at Kamigawa?"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:08:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040814id_/https://magic.wizards.com/en/articles/archive/feature/saving-grace-taking-last-look-kamigawa-2005-05-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saving-grace-taking-last-look-kamigawa-2005-05-09"
 ---
 
 

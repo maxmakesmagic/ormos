@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220529080209/https://magic.wizards.com/en/articles/archive/feature/shuffling-investigation-world-magic-cup-2012-08-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shuffling-investigation-world-magic-cup-2012-08-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529080209id_/https://magic.wizards.com/en/articles/archive/feature/shuffling-investigation-world-magic-cup-2012-08-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 08:02:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "After investigating the incident involving Jorge Iramain's shuffling during the finals of the World Magic Cup, we have determined that Jorge's search and shuffle actions did not constitute an intentional break of randomization. We will therefore take no further action.However, we would like to remind all Magic players that sufficiently randomizing your deck, and your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-27"
+[_metadata_:title]:- "Shuffling Investigation For The World Magic Cup"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 08:02:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529080209id_/https://magic.wizards.com/en/articles/archive/feature/shuffling-investigation-world-magic-cup-2012-08-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shuffling-investigation-world-magic-cup-2012-08-27"
 ---
 
 

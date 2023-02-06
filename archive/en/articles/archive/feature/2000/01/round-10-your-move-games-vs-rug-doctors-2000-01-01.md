@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123103542/https://magic.wizards.com/en/articles/archive/feature/round-10-your-move-games-vs-rug-doctors-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-your-move-games-vs-rug-doctors-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123103542id_/https://magic.wizards.com/en/articles/archive/feature/round-10-your-move-games-vs-rug-doctors-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 10:35:42+00:00"
+[_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "Your Move Games vs. Rug DoctorsEvery North American Grand Prix there seems to be yet another unknown player from Madison, Wisconsin who does well. Whether it's Mike Hron, or Dustin Stern, or Kurtis Hahn, players from Bob Maher's circle of friends keep doing well. Adrian Sullivan and Brian Kowal also number among this group."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 10: Your Move Games vs. Rug Doctors"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 10:35:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123103542id_/https://magic.wizards.com/en/articles/archive/feature/round-10-your-move-games-vs-rug-doctors-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-your-move-games-vs-rug-doctors-2000-01-01"
 ---
 
 

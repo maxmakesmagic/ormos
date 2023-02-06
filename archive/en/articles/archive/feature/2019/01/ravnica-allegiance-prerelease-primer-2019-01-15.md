@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201107232855/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-prerelease-primer-2019-01-15?fbclid=IwAR1xNh5AVQeKo-2qgOC0NM4QwtHWE5RBMcQktC0VGda71HUZtf9AXdfYrzU)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-prerelease-primer-2019-01-15?fbclid=IwAR1xNh5AVQeKo-2qgOC0NM4QwtHWE5RBMcQktC0VGda71HUZtf9AXdfYrzU"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201107232855id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-prerelease-primer-2019-01-15?fbclid=IwAR1xNh5AVQeKo-2qgOC0NM4QwtHWE5RBMcQktC0VGda71HUZtf9AXdfYrzU"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-07 23:28:55+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Everything you need to know about the Ravnica Allegiance Prerelease in one handy guide!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-01-15"
+[_metadata_:title]:- "Ravnica Allegiance Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-07 23:28:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201107232855id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-prerelease-primer-2019-01-15?fbclid=IwAR1xNh5AVQeKo-2qgOC0NM4QwtHWE5RBMcQktC0VGda71HUZtf9AXdfYrzU"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-prerelease-primer-2019-01-15?fbclid=IwAR1xNh5AVQeKo-2qgOC0NM4QwtHWE5RBMcQktC0VGda71HUZtf9AXdfYrzU"
 ---
 
 

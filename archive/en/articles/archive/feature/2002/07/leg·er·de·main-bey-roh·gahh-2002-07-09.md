@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020062029/https://magic.wizards.com/en/articles/archive/feature/leg%C2%B7er%C2%B7de%C2%B7main-bey-roh%C2%B7gahh-2002-07-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/leg%C2%B7er%C2%B7de%C2%B7main-bey-roh%C2%B7gahh-2002-07-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020062029id_/https://magic.wizards.com/en/articles/archive/feature/leg%C2%B7er%C2%B7de%C2%B7main-bey-roh%C2%B7gahh-2002-07-09"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 06:20:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "leg·er·de·main From Merriam-Webster Online: Function: noun Etymology: Middle English, from Middle French leger de main light of hand Date: 15th century 1 : sleight of hand 2 : a display of skill or adroitness bey From Merriam-Webster Online: Function: noun Etymology: Turkish, gentleman, chief Date: 1595 1 a : a provincial governor in the Ottoman Empire b : the former native"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-07-09"
+[_metadata_:title]:- "leg·er·de·main, bey, Roh·gahh"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 06:20:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020062029id_/https://magic.wizards.com/en/articles/archive/feature/leg%C2%B7er%C2%B7de%C2%B7main-bey-roh%C2%B7gahh-2002-07-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/leg%C2%B7er%C2%B7de%C2%B7main-bey-roh%C2%B7gahh-2002-07-09"
 ---
 
 

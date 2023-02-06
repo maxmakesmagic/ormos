@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525204550/https://magic.wizards.com/en/articles/archive/feature/share-magic-your-friends-contest-winners-2010-07-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/share-magic-your-friends-contest-winners-2010-07-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525204550id_/https://magic.wizards.com/en/articles/archive/feature/share-magic-your-friends-contest-winners-2010-07-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 20:45:50+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "As we told you last week, Magic is making an appearance in the Disney blockbuster The Sorcerer's Apprentice, which is in theaters ... today! What a coincidence! We received a great many submissions to our contest. Five first-place winners each got a draft set of product for 8 friends consisting of a display of Magic 2011 product (36 boosters), 8 alternate art Jace Beleren"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-15"
+[_metadata_:title]:- "Share Magic with Your Friends Contest Winners"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 20:45:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525204550id_/https://magic.wizards.com/en/articles/archive/feature/share-magic-your-friends-contest-winners-2010-07-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/share-magic-your-friends-contest-winners-2010-07-15"
 ---
 
 

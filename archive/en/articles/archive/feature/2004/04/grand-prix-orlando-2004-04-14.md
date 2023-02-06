@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171031024415/https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-2004-04-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-2004-04-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031024415id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-2004-04-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 02:44:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Grand Prix—Orlando is presented by Unity Entertainment."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-04-14"
+[_metadata_:title]:- "Grand Prix - Orlando"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 02:44:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031024415id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-2004-04-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-2004-04-14"
 ---
 
 

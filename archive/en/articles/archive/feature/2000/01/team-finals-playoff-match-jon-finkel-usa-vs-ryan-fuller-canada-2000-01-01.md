@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170522083816/http://magic.wizards.com/en/articles/archive/feature/team-finals-playoff-match-jon-finkel-usa-vs-ryan-fuller-canada-2000-01-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/team-finals-playoff-match-jon-finkel-usa-vs-ryan-fuller-canada-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170522083816id_/http://magic.wizards.com/en/articles/archive/feature/team-finals-playoff-match-jon-finkel-usa-vs-ryan-fuller-canada-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-22 08:38:16+00:00"
+[_metadata_:author]:- "Kim Eikefet"
 [_metadata_:description]:- "Match Coverage  Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Team Finals Playoff Match, Jon Finkel (USA) vs. Ryan Fuller (Canada)"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-22 08:38:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170522083816id_/http://magic.wizards.com/en/articles/archive/feature/team-finals-playoff-match-jon-finkel-usa-vs-ryan-fuller-canada-2000-01-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/team-finals-playoff-match-jon-finkel-usa-vs-ryan-fuller-canada-2000-01-01"
 ---
 
 

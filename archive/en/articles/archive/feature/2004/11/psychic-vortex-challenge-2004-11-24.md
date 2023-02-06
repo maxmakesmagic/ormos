@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220817222551/https://magic.wizards.com/en/articles/archive/feature/psychic-vortex-challenge-2004-11-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/psychic-vortex-challenge-2004-11-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817222551id_/https://magic.wizards.com/en/articles/archive/feature/psychic-vortex-challenge-2004-11-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-17 22:25:51+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "It's been nearly two months since the results of the Uyo Challenge, and once again I see the readers are fired up about trying to meet my challenge. I profiled Psychic Vortex two weeks ago, and I have to say that people were very enthusiastic about my look at the card. Psychic Vortex just stands out as one of those cards that really does inspire the imagination. I remember the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-24"
+[_metadata_:title]:- "The Psychic Vortex Challenge"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-17 22:25:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817222551id_/https://magic.wizards.com/en/articles/archive/feature/psychic-vortex-challenge-2004-11-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/psychic-vortex-challenge-2004-11-24"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518110512/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-41)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-41"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518110512id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-41"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 11:05:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 6 Pairings - 14 and under Division Player Points Table Opponent Points Allen Dustin (17) 3 23 Heule Tyler (55) 3 Altemara Chase (10) 9 11 Anderson Adam (2) 9 Anderson Adam (2) 9 11 Altemara Chase (10) 9 Behlen Andrew (3) 13 1 Burt Rodney (46) 13 Bizub Marc (39) 0 *** BYE *** Blair James (24) 12 3 Landers Mark (40) 12 Blatnick Brandon (7)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 11:05:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518110512id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-41"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-41"
 ---
 
 

@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518034750/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionsdirk-baberowski)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionsdirk-baberowski"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518034750id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionsdirk-baberowski"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 03:47:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Dave Humpherys Divides   Dave Humpherys Dirk Baberowski Forbid Coastal Piracy Red Elemental Blast Ivory Mask Deranged Hermit Time Elemental Maggot Therapy Bull Hippo Pack #2 - Dirk Baberowski Divides   Dave Humpherys Dirk Baberowski Wild Aesthir Flare Lawbringer Suq'Ata Firewalker Mind Harness Gerrard's Wisdom Sanctum Custodian Jungle Wurm Pack #3 - Dave Humpherys"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 7 Solomon SelectionsDirk Baberowski vs. Dave Humpherys"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 03:47:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518034750id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionsdirk-baberowski"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionsdirk-baberowski"
 ---
 
 

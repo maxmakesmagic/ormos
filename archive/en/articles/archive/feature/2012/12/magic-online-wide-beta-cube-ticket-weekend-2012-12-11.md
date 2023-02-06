@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023235232/https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-cube-ticket-weekend-2012-12-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-cube-ticket-weekend-2012-12-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023235232id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-cube-ticket-weekend-2012-12-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 23:52:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Happy Holidays Magic Players! If you haven't heard, the Magic Online Wide Beta has been up and running for just over three months and we have made a lot of progress so far, much of it based on your feedback. If you have already logged in to the Wide Beta and given us your thoughts, we thank you and hope that you will continue to do so as we continue development into the new"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-11"
+[_metadata_:title]:- "Magic Online Wide Beta Cube Ticket Weekend"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 23:52:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023235232id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-cube-ticket-weekend-2012-12-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-cube-ticket-weekend-2012-12-11"
 ---
 
 

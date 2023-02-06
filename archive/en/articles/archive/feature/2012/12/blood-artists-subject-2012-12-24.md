@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220630142522/https://magic.wizards.com/en/articles/archive/feature/blood-artists-subject-2012-12-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blood-artists-subject-2012-12-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630142522id_/https://magic.wizards.com/en/articles/archive/feature/blood-artists-subject-2012-12-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 14:25:22+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This Arcana originally appeared on May 10, 2012. This is Blood Artist from Avacyn Restored. Naturally, the first thing we're going to do is take a closer look at the art. Blood Artist | Art by Johannes Voss When it's that big, we can see the artist's painting pretty clearly. Does it look kind of familiar? Curse of Oblivion | Art by Jana Schirmer & Johannes Voss Yes, the pose"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-24"
+[_metadata_:title]:- "The Blood Artist's Subject"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 14:25:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630142522id_/https://magic.wizards.com/en/articles/archive/feature/blood-artists-subject-2012-12-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blood-artists-subject-2012-12-24"
 ---
 
 

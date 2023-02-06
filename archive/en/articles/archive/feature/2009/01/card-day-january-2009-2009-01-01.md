@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220814000523/https://magic.wizards.com/en/articles/archive/feature/card-day-january-2009-2009-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-january-2009-2009-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814000523id_/https://magic.wizards.com/en/articles/archive/feature/card-day-january-2009-2009-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 00:05:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Chicken à la King – Unglued rare. The flavor text for Chicken à la King, which is a reference to the phrase `running around like a chicken with its head cut off,` is Mark Rosewater's favorite flavor text in all of Unglued. Chord of Calling – Ravnica: City of Guilds rare. In the art for Chord of Calling, three Selesnya druids have summoned an enormous creature. It is therefore"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-01"
+[_metadata_:title]:- "Card of the Day - January, 2009"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 00:05:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814000523id_/https://magic.wizards.com/en/articles/archive/feature/card-day-january-2009-2009-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-january-2009-2009-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211201073135/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-52)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-52"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201073135id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-52"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 07:31:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Finals Feature Match Jeff Sluzinski vs Stephen McArthur Two Necro decks meet in the finals, hardly a surprise to anyone following this tournament closely. The players were well aware of each other's decks. That is why McArthur chose to mulligan a very decent hand - he wanted to draw some of his more effective anti-Necro cards, Duress and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 07:31:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201073135id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-52"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-52"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118044818/https://magic.wizards.com/en/articles/archive/feature/ballot-talk-part-2-2010-08-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ballot-talk-part-2-2010-08-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118044818id_/https://magic.wizards.com/en/articles/archive/feature/ballot-talk-part-2-2010-08-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 04:48:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "We're down to just one week left in the balloting for the 2010 Pro Tour Hall of Fame. While the remaining voters stew over the tough choices facing them on how to cast their five votes, the number of voters and interested members of the Magic community sharing their ballots continues to grow. Thanks to the wonders of Twitter and Facebook, it's never been easier to share your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-20"
+[_metadata_:title]:- "Ballot Talk, Part 2"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 04:48:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118044818id_/https://magic.wizards.com/en/articles/archive/feature/ballot-talk-part-2-2010-08-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ballot-talk-part-2-2010-08-20"
 ---
 
 

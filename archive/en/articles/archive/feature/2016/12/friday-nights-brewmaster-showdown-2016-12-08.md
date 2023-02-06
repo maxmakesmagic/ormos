@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161210142141/http://magic.wizards.com/en/articles/archive/feature/friday-nights-brewmaster-showdown-2016-12-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-brewmaster-showdown-2016-12-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161210142141id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-brewmaster-showdown-2016-12-08"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-10 14:21:41+00:00"
+[_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "Come on down to Cam's U-Brew Standard Warehouse as the gang shows up for the Standard Showdown. Just don't try to give them any holiday gifts."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-12-08"
+[_metadata_:title]:- "Friday Nights: `Brewmaster Showdown`"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-10 14:21:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161210142141id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-brewmaster-showdown-2016-12-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-brewmaster-showdown-2016-12-08"
 ---
 
 

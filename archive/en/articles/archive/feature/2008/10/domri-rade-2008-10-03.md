@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160506010550/http://magic.wizards.com/en/articles/archive/feature/domri-rade-2008-10-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/domri-rade-2008-10-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160506010550id_/http://magic.wizards.com/en/articles/archive/feature/domri-rade-2008-10-03"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-06 01:05:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Domri Rade has always had the guts to defy the powers that be. He just never had the strength to stand up to those who oppressed him."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-10-03"
+[_metadata_:title]:- "Domri Rade"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-06 01:05:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160506010550id_/http://magic.wizards.com/en/articles/archive/feature/domri-rade-2008-10-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/domri-rade-2008-10-03"
 ---
 
 

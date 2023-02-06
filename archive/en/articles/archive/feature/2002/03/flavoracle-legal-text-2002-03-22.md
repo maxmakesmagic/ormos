@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201025145701/https://magic.wizards.com/en/articles/archive/feature/flavoracle-legal-text-2002-03-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flavoracle-legal-text-2002-03-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025145701id_/https://magic.wizards.com/en/articles/archive/feature/flavoracle-legal-text-2002-03-22"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:57:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "By submitting entries on our site, you signify your agreement to these terms and conditions which govern the FlavOracle, including without limitation all materials and/or content you provide through your use of the FlavOracle, and by which Wizards offers you access to the FlavOracle."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-03-22"
+[_metadata_:title]:- "FlavOracle Legal Text"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:57:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025145701id_/https://magic.wizards.com/en/articles/archive/feature/flavoracle-legal-text-2002-03-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flavoracle-legal-text-2002-03-22"
 ---
 
 

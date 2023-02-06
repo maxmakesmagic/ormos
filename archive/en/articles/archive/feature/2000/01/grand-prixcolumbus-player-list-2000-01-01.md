@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210725050941/https://magic.wizards.com/en/articles/archive/feature/grand-prix%C2%96columbus-player-list-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%C2%96columbus-player-list-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210725050941id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%C2%96columbus-player-list-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-25 05:09:41+00:00"
+[_metadata_:author]:- "Sideboard Staff"
 [_metadata_:description]:- "TeamPlayerSeed#I MagicBurghy, JeffADolton, ChrisBArmbruster, MatthewC#realgangstasWhitman, JoeACasper, JoshuaBDoughty, NickC$30 Cab FareCuddy, RandyATapper, ShannonBMaiden, JosephC$42 TicketLebedowicz, OsypAHarvey, EugeneBHorvath, AdamC100 Super Good Fun TimeGary, JustinAMowshowitz, ZviBShvartsman, AlexC3 for FlinchingDillinger, JeffASzamborski, TimBChamberlain, JacobC3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand PrixColumbus Player List"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-25 05:09:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210725050941id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%C2%96columbus-player-list-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%C2%96columbus-player-list-2000-01-01"
 ---
 
 

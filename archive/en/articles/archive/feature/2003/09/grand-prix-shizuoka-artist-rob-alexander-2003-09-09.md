@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170604160949/http://magic.wizards.com/en/articles/archive/feature/grand-prix-shizuoka-artist-rob-alexander-2003-09-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-shizuoka-artist-rob-alexander-2003-09-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170604160949id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-shizuoka-artist-rob-alexander-2003-09-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-04 16:09:49+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rob's CardsCard NameCard Set  EvacuationEighth Edition (Core Set)  Lesser GargadonEighth Edition (Core Set)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-09-09"
+[_metadata_:title]:- "Grand Prix Shizuoka Artist: Rob Alexander"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-04 16:09:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170604160949id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-shizuoka-artist-rob-alexander-2003-09-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-shizuoka-artist-rob-alexander-2003-09-09"
 ---
 
 

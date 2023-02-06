@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502233838/https://magic.wizards.com/en/articles/archive/feature/secret-wars-2008-10-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/secret-wars-2008-10-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502233838id_/https://magic.wizards.com/en/articles/archive/feature/secret-wars-2008-10-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 23:38:38+00:00"
+[_metadata_:author]:- "Noah Weil"
 [_metadata_:description]:- "You have been selected to participate in a series of competitions. The winner will receive the ultimate Prize. Your presence is required. Rest well. It will be a long event. Required presence be damned, I was going to say no. I had things going on, and fighting for ultimate power was not on the day's to-do list. But the missive was not kidding. Evil Tony, the Tournament"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-10-06"
+[_metadata_:title]:- "Secret Wars"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 23:38:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502233838id_/https://magic.wizards.com/en/articles/archive/feature/secret-wars-2008-10-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/secret-wars-2008-10-06"
 ---
 
 

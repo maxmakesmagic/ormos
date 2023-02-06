@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208065141/https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-michael-doecke-1-1-vs-adam-kemp-1-1-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-michael-doecke-1-1-vs-adam-kemp-1-1-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208065141id_/https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-michael-doecke-1-1-vs-adam-kemp-1-1-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 06:51:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Luke Hancock Michael Doecke and Adam Kemp are both members of the returning Team Australia from the 1999 World Championships. Michael (WesleyC on the irc) is well known by many overseas players while Adam is more known for being an active participant to the Australian DCIA-L mailing list. So far both players have lost 1 match and are playing the last round for the first"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 3 Feature Match - Michael Doecke (1-1) vs. Adam Kemp (1-1)"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 06:51:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208065141id_/https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-michael-doecke-1-1-vs-adam-kemp-1-1-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-michael-doecke-1-1-vs-adam-kemp-1-1-2000-01-01"
 ---
 
 

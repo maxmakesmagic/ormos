@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160804011428/http://magic.wizards.com/en/articles/archive/feature/grand-prix-louisville-event-information-2013-07-27)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-louisville-event-information-2013-07-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160804011428id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-louisville-event-information-2013-07-27"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-04 01:14:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Louisville is brought to you by Pastimes."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-27"
+[_metadata_:title]:- "Grand Prix Louisville Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-04 01:14:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160804011428id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-louisville-event-information-2013-07-27"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-louisville-event-information-2013-07-27"
 ---
 
 

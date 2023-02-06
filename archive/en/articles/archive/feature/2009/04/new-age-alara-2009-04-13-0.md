@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518005548/https://magic.wizards.com/en/articles/archive/feature/new-age-alara-2009-04-13-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-age-alara-2009-04-13-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518005548id_/https://magic.wizards.com/en/articles/archive/feature/new-age-alara-2009-04-13-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 00:55:48+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "It's just about time for Alara Reborn to pour molten gold all over the world. Now we can tell the complete story of Alara, including the wartime role of a powerful angel you'll definitely want to meet, and the story of a demon whose memory of defeat stings him to this day. To understand the epic crescendo that's gathering force at the end of the story, however, we must first"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-13"
+[_metadata_:title]:- "A New Age for Alara"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 00:55:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518005548id_/https://magic.wizards.com/en/articles/archive/feature/new-age-alara-2009-04-13-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-age-alara-2009-04-13-0"
 ---
 
 

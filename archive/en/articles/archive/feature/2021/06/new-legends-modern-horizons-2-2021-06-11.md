@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210611180250/https://magic.wizards.com/en/articles/archive/feature/new-legends-modern-horizons-2-2021-06-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-legends-modern-horizons-2-2021-06-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210611180250id_/https://magic.wizards.com/en/articles/archive/feature/new-legends-modern-horizons-2-2021-06-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-11 18:02:50+00:00"
+[_metadata_:author]:- "Emily Teng"
 [_metadata_:description]:- "Modern Horizons 2 plays on Magic's past and adds new legends for the future. Here are the stories of the newest legendary creatures you'll meet."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-06-11"
+[_metadata_:title]:- "The New Legends of Modern Horizons 2"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-11 18:02:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210611180250id_/https://magic.wizards.com/en/articles/archive/feature/new-legends-modern-horizons-2-2021-06-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-legends-modern-horizons-2-2021-06-11"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112033310/https://magic.wizards.com/en/articles/archive/feature/februarys-fnm-promo-2013-12-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/februarys-fnm-promo-2013-12-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112033310id_/https://magic.wizards.com/en/articles/archive/feature/februarys-fnm-promo-2013-12-04"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:33:10+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Here's a peek at the upcoming promos for Friday Night Magic. Here's a reminder what you can get this month, what's coming next month, and our unveiling of what you can get in February!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-12-04"
+[_metadata_:title]:- "February's FNM Promo"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:33:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112033310id_/https://magic.wizards.com/en/articles/archive/feature/februarys-fnm-promo-2013-12-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/februarys-fnm-promo-2013-12-04"
 ---
 
 

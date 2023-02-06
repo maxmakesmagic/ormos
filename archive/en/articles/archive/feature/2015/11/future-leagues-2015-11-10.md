@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151113034704/http://magic.wizards.com/en/articles/archive/feature/future-leagues-2015-11-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/future-leagues-2015-11-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151113034704id_/http://magic.wizards.com/en/articles/archive/feature/future-leagues-2015-11-10"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-13 03:47:04+00:00"
+[_metadata_:author]:- "Chris Kiritz"
 [_metadata_:description]:- "Leagues have been a huge success so far on Magic Online, and they're only going to get better!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-11-10"
+[_metadata_:title]:- "The Future of Leagues"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-13 03:47:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151113034704id_/http://magic.wizards.com/en/articles/archive/feature/future-leagues-2015-11-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/future-leagues-2015-11-10"
 ---
 
 

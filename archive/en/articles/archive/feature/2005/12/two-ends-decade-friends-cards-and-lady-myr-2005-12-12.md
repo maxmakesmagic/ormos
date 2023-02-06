@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816041329/https://magic.wizards.com/en/articles/archive/feature/two-ends-decade-friends-cards-and-lady-myr-2005-12-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/two-ends-decade-friends-cards-and-lady-myr-2005-12-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816041329id_/https://magic.wizards.com/en/articles/archive/feature/two-ends-decade-friends-cards-and-lady-myr-2005-12-12"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 04:13:29+00:00"
+[_metadata_:author]:- "John Klauk"
 [_metadata_:description]:- "I can remember seeing Demonic Tutor for the first time. No, not this last year when some 30-year-old player leaned over my shoulder and said, “Hey kid, have you ever seen this card?” I mean I remember seeing that gem of a card for the first time in a deck someone had just made out of their freshly busted Revised Edition™ starter deck. You know, when they were called starter"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-12-12"
+[_metadata_:title]:- "Two Ends of a Decade: Friends, Cards, and Lady Myr"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 04:13:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816041329id_/https://magic.wizards.com/en/articles/archive/feature/two-ends-decade-friends-cards-and-lady-myr-2005-12-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/two-ends-decade-friends-cards-and-lady-myr-2005-12-12"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160914201339/http://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-event-information-2013-06-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-event-information-2013-06-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160914201339id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-event-information-2013-06-07"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-14 20:13:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Oakland is brought to you by ChannelFireball."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-07"
+[_metadata_:title]:- "Grand Prix Oakland Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-14 20:13:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160914201339id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-event-information-2013-06-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-event-information-2013-06-07"
 ---
 
 

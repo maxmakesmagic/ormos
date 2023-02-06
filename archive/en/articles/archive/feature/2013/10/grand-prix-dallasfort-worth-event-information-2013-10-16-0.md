@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019002821/https://magic.wizards.com/en/articles/archive/feature/grand-prix-dallasfort-worth-event-information-2013-10-16-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-dallasfort-worth-event-information-2013-10-16-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019002821id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-dallasfort-worth-event-information-2013-10-16-0"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 00:28:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Dallas/Fort Worth is brought to you by Legion Events.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpdtw Date: December 6-8, 2013 Format: Standard Tournament Location Fort Worth Convention Center 1201 Houston Street Fort Worth, Texas"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-16"
+[_metadata_:title]:- "Grand Prix Dallas/Fort Worth Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 00:28:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019002821id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-dallasfort-worth-event-information-2013-10-16-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-dallasfort-worth-event-information-2013-10-16-0"
 ---
 
 

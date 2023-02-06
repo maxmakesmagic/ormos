@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220125082823/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125082823id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-12"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 08:28:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "AsiaJanuary-April 2009 CountryDateCityInvitationAddressLine1AddressLine2ContactPhone China2009-03-07Beijing 1Beijing Haidian DistrictZhongguancun E Worldlegendtony@263.net China2009-03-15Guangzhou1Guangzhou Yuexiu Qu Fazhenglu Zhenjiadajiemagicrabit@hotmail.com China2009-03-14Shanghai1Shanghai Nanning XiluTiyu Mansionsagitta@21cn.com Taiwan2009-01-11Tainan1Cartoon Magic ClubB1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-12"
+[_metadata_:title]:- "Pro Tour Honolulu 2009 - Qualifiers"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 08:28:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125082823id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-12"
 ---
 
 

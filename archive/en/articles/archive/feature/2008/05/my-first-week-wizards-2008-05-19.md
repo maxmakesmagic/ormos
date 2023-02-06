@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023145357/https://magic.wizards.com/en/articles/archive/feature/my-first-week-wizards-2008-05-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-first-week-wizards-2008-05-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023145357id_/https://magic.wizards.com/en/articles/archive/feature/my-first-week-wizards-2008-05-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 14:53:57+00:00"
+[_metadata_:author]:- "Bill Stark"
 [_metadata_:description]:- "Working at Wizards of the Coast.... For many of us it's the type of job we've dreamed of since we were kids. `Just think!` we imagine, dazing off in the back of Mrs. Lyon's English class. `Playing Magic ALL DAY! And you get paid for it! What could possibly be better?`Of course, when I got an email from coverage manager Greg Collins a month ago asking if I had plans for the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-05-19"
+[_metadata_:title]:- "My First Week at Wizards"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 14:53:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023145357id_/https://magic.wizards.com/en/articles/archive/feature/my-first-week-wizards-2008-05-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-first-week-wizards-2008-05-19"
 ---
 
 

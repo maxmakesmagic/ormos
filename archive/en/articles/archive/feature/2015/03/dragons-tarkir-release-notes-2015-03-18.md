@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150321000339/http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-release-notes-2015-03-18)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-release-notes-2015-03-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150321000339id_/http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-release-notes-2015-03-18"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-21 00:03:39+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include information concerning the release of a new Magic: The Gathering set, as well as a collection of clarifications and rulings involving that set's cards."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-03-18"
+[_metadata_:title]:- "DRAGONS OF TARKIR RELEASE NOTES"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-21 00:03:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150321000339id_/http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-release-notes-2015-03-18"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-release-notes-2015-03-18"
 ---
 
 

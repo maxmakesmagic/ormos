@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812232742/https://magic.wizards.com/en/articles/archive/feature/pyromancer-ascension-2009-11-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pyromancer-ascension-2009-11-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812232742id_/https://magic.wizards.com/en/articles/archive/feature/pyromancer-ascension-2009-11-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 23:27:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Karl Goronowski's Pyromancer Ascension Format: Standard 4 Crumbling Necropolis 2 Dragonskull Summit 4 Drowned Catacomb 1 Exotic Orchard 3 Island 3 Mountain 4 Scalding Tarn 3 Swamp 4 Cruel Ultimatum 4 Double Negative 2 Earthquake 4 Grixis Charm 2 Jace Beleren 4 Lightning Bolt 4 Ponder 4 Pyromancer Ascension 4 Time Warp 4 Worldly Counsel *2 Bogardan Hellkite *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-17"
+[_metadata_:title]:- "Pyromancer Ascension"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 23:27:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812232742id_/https://magic.wizards.com/en/articles/archive/feature/pyromancer-ascension-2009-11-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pyromancer-ascension-2009-11-17"
 ---
 
 

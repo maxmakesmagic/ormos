@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170612031609/http://magic.wizards.com/en/articles/archive/feature/national-championship-coverage-2010-07-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/national-championship-coverage-2010-07-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170612031609id_/http://magic.wizards.com/en/articles/archive/feature/national-championship-coverage-2010-07-23"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-12 03:16:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-23"
+[_metadata_:title]:- "National Championship Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-12 03:16:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170612031609id_/http://magic.wizards.com/en/articles/archive/feature/national-championship-coverage-2010-07-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/national-championship-coverage-2010-07-23"
 ---
 
 

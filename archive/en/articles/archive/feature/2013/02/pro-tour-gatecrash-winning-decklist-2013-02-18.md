@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112020034/https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-winning-decklist-2013-02-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-winning-decklist-2013-02-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020034id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-winning-decklist-2013-02-18"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:00:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Tom Martell, champion of Pro Tour Gatecrash. Check out the complete event coverage right here. View all of the decks which made the Top 8."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-02-18"
+[_metadata_:title]:- "Pro Tour Gatecrash Winning Decklist"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:00:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020034id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-winning-decklist-2013-02-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-winning-decklist-2013-02-18"
 ---
 
 

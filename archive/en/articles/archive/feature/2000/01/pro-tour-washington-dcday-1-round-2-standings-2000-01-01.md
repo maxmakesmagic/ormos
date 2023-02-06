@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516163320/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516163320id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 16:33:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Name Denied 6 50.00 2 Big Dogs 6 50.00 3 TLC 6 50.00 4 Three Blind Mice 6 50.00 5 CCC 6 50.00 6 CMU 6 50.00 7 Your Move Games 6 50.00 8 ECA 6 50.00 9 Babes of the Dingo 6 41.67 10 Operation Mise 6 41.67 11 Fifth Again 6 41.67 12 Utrecht 6 41.67 13 Sugar Bus, 6 41.67 14 Game Empire, 6 41.67 15 Comrades 6 41.67 16 Shpadoinkle 6 41.67 17 Tongo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 2 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 16:33:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516163320id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-standings-2000-01-01"
 ---
 
 

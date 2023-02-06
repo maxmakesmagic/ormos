@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027101150/https://magic.wizards.com/en/articles/archive/feature/nefarox-thanks-asking-2012-09-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nefarox-thanks-asking-2012-09-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027101150id_/https://magic.wizards.com/en/articles/archive/feature/nefarox-thanks-asking-2012-09-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 10:11:50+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Normally, we try to focus on one Commander deck each week here at Daily Decks, to make room for awesome Standard brews and innovative Legacy or Modern lists. With Return to Ravnica right around the corner, though, innovation in those formats has mellowed out recently. We will be bringing you plenty of Ravnica brews soon enough, but as a result, we get to take a look into the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-24"
+[_metadata_:title]:- "Nefarox, Thanks for Asking"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 10:11:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027101150id_/https://magic.wizards.com/en/articles/archive/feature/nefarox-thanks-asking-2012-09-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nefarox-thanks-asking-2012-09-24"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016040113/https://magic.wizards.com/en/articles/archive/feature/grand-prix-top-8-lists-2005-11-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-top-8-lists-2005-11-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016040113id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-top-8-lists-2005-11-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 04:01:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Lifetime Grand Prix Top 8s by player Grand Chicago 2014 Grand Prix Milan 2014 Grand Prix Washington D.C."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-11-01"
+[_metadata_:title]:- "Grand Prix Top 8 Lists"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 04:01:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016040113id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-top-8-lists-2005-11-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-top-8-lists-2005-11-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518072609/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518072609id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 07:26:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Larkin John 25 65.5497 2 Globus Mark 24 58.495 3 Rubin Ben 24 56.7078 4 Eskeland Sigurd 23 61.7578 5 Cornelissen Kamiel 22 69.4062 6 McCord Scott 22 58.8183 7 Turning Travis G 22 52.8807 8 Wise Gary 21 66.5491 9 Gordon Mark 21 65.9612 10 Jensen William 21 65.6085 11 Kettil Mattias 21 60.2587 12 Marsh Warren 21 59.8178 13 Devenport David 21"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 9 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 07:26:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518072609id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-standings-2000-01-01"
 ---
 
 

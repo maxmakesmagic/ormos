@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210501045543/https://magic.wizards.com/en/articles/archive/feature/two-tournaments-one-deck-one-card-particular-2004-11-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/two-tournaments-one-deck-one-card-particular-2004-11-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501045543id_/https://magic.wizards.com/en/articles/archive/feature/two-tournaments-one-deck-one-card-particular-2004-11-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-01 04:55:43+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "The sad fact is not that Affinity seems to be the best deck in every format from Mirrodin Block Constructed to Standard to Extended, but that a disturbing number of players aren't approaching it correctly. When you have a deck of such sheer power, such boundless forgiveness, as Affinity, not playing it yourself can be thought of as a handicap (in making a dissenting archetype"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-03"
+[_metadata_:title]:- "Two Tournaments, One Deck, One Card in Particular"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-01 04:55:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501045543id_/https://magic.wizards.com/en/articles/archive/feature/two-tournaments-one-deck-one-card-particular-2004-11-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/two-tournaments-one-deck-one-card-particular-2004-11-03"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523204811/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-14-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-14-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523204811id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-14-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 20:48:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Opponent Points Bernat Michael (70) 30 Bush Michelle (11) 31 Bush Michelle (11) 31 Bernat Michael (70) 30 Carpenter, Ryan (1700) (389) 24 Qian, Patrick (1700) (402) 24 Crosby, Joseph (Q) (1700) (393) 28 Vanzander, Michael (1700) (262) 28 Dobson, Tony (Q) (1700) (96) 21 Morawski Jonathan (69) 22 Dougherty, Robert (Q) (9) 31 Marks John (379) 33 Ellis, Randy (1700)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 14 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 20:48:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523204811id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-14-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-14-pairings-2000-01-01"
 ---
 
 

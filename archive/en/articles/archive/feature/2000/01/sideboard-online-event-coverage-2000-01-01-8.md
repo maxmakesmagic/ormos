@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521054229/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-8)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-8"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521054229id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-8"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 05:42:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 1 Standings - 15-17 Division  Op-Match Rank Name Points Win% 1 Quelle, Blake 3 33.33 2 Herin, Chip 3 33.33 3 Schmitz, Daniel 3 33.33 4 Del Rosario, Derek 3 33.33 5 Spica, Joe 3 33.33 6 Weber, Paul 3 33.33 7 Keady, Sean 3 33.33 8 Reinert, Udo 3 33.33 9 Morgan, William 3 33.33 10 Logue, Tim 3 33.33 11 Keller Thomas 3 33.33 12 McArthur,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 05:42:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521054229id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-8"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-8"
 ---
 
 

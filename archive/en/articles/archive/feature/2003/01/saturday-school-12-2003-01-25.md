@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120002328/https://magic.wizards.com/en/articles/archive/feature/saturday-school-12-2003-01-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-12-2003-01-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120002328id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-12-2003-01-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:23:28+00:00"
+[_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Now that Legions is public knowledge, feel free to send all your questions about Legions — or any cards, for that matter — to Rune at ask@wizards.com.Can't find an answer to your question? Check the Saturday School Rules Database.Beginner QuestionsQ: Mirari's Wake says `add a mana of any type that land produced.` What is a `type` of mana, and how is it different than color? A:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-01-25"
+[_metadata_:title]:- "Saturday School #12"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:23:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120002328id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-12-2003-01-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-12-2003-01-25"
 ---
 
 

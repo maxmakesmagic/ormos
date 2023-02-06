@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523190652/https://magic.wizards.com/en/articles/archive/feature/2011-austria-national-championship-2009-04-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-austria-national-championship-2009-04-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523190652id_/https://magic.wizards.com/en/articles/archive/feature/2011-austria-national-championship-2009-04-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 19:06:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "First Last Reason Benjamin Bannwinkler Wien Arved Bartuska Wien Simon Berger Salzburg Richard Berze Graz, Rating Armin Birner Rating Daniel Boettcher Linz Michael Brandtner Rating Emanuel Burtscher Rating Vijay Chand ÖM 2010 Wuy Chea Linz Nikolaus Eigner Rating, Pro Club, ÖM 2010 Herbert Engleitner Rating Harald Fellner Rating Markus Ferner Salzburg Sebastian Fiala-Ibitz Linz"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-23"
+[_metadata_:title]:- "2011 Austria National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 19:06:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523190652id_/https://magic.wizards.com/en/articles/archive/feature/2011-austria-national-championship-2009-04-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-austria-national-championship-2009-04-23"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200920152208/https://magic.wizards.com/en/articles/archive/feature/arctic-blast-past-2006-07-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/arctic-blast-past-2006-07-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200920152208id_/https://magic.wizards.com/en/articles/archive/feature/arctic-blast-past-2006-07-03"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-20 15:22:08+00:00"
+[_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "AN ARCTIC BLAST! IN JUNE NEW CARD SET TO BE A HOT NUMBER AT CANADIAN COMPETITION"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-07-03"
+[_metadata_:title]:- "An Arctic Blast From the Past"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-20 15:22:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200920152208id_/https://magic.wizards.com/en/articles/archive/feature/arctic-blast-past-2006-07-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/arctic-blast-past-2006-07-03"
 ---
 
 

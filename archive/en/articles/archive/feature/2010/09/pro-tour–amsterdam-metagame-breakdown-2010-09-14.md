@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201109043142/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-metagame-breakdown-2010-09-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-metagame-breakdown-2010-09-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201109043142id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-metagame-breakdown-2010-09-14"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-09 04:31:42+00:00"
+[_metadata_:author]:- "Paul Jordan"
 [_metadata_:description]:- "Paul Rietzl's third Top 8 and first PT win. Brad Nelson's continued status as a Pro Tour superstar. Kai Budde's return to Sunday Magic. BrianKibler playing in elimination rounds on the day he is announced as a Hall of Famer. White Weenie going 9-0 for the title?! To say that Pro Tour–Amsterdam had some storylines is an understatement of gargantuan stature."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-14"
+[_metadata_:title]:- "Pro Tour–Amsterdam Metagame Breakdown"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-09 04:31:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201109043142id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-metagame-breakdown-2010-09-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-metagame-breakdown-2010-09-14"
 ---
 
 

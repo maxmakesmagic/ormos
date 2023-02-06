@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160706145017/http://magic.wizards.com/en/articles/archive/feature/innistrad-card-image-gallery-2011-08-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/innistrad-card-image-gallery-2011-08-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160706145017id_/http://magic.wizards.com/en/articles/archive/feature/innistrad-card-image-gallery-2011-08-29"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-06 14:50:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; */"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-08-29"
+[_metadata_:title]:- "Innistrad Card Image Gallery"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-06 14:50:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160706145017id_/http://magic.wizards.com/en/articles/archive/feature/innistrad-card-image-gallery-2011-08-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/innistrad-card-image-gallery-2011-08-29"
 ---
 
 

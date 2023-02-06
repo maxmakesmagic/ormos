@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028022134/https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-dark-ascension-honolulu-2011-09-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-dark-ascension-honolulu-2011-09-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028022134id_/https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-dark-ascension-honolulu-2011-09-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 02:21:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Play the Game, See the World Pro Tour Dark Ascension in Honolulu is February 10-12, 2012.Qualifiers for Pro Tour Dark Ascension start October 1 and run until December 25. Check the Event Locator to find an event near you that could earn you an invitation to Pro Tour Dark Ascension. Pro Tour Qualifiers offer a Planeswalker Points multiplier of 5x, making them prime"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-06"
+[_metadata_:title]:- "Qualifiers for Pro Tour Dark Ascension in Honolulu"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 02:21:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028022134id_/https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-dark-ascension-honolulu-2011-09-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-dark-ascension-honolulu-2011-09-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522192101/https://magic.wizards.com/en/articles/archive/feature/block-standard-2013-03-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/block-standard-2013-03-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522192101id_/https://magic.wizards.com/en/articles/archive/feature/block-standard-2013-03-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 19:21:01+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Yesterday, I wrote about a strategy's successful port from Standard to Block Constructed. Today, I'm going to examine a deck that has recently exploded on Magic Online despite not yet having physical results that can be seen as an updated port of a Block deck. The Block deck is the WBR deck I've previously written about — what I consider Block's answer to midrange Jund"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-27"
+[_metadata_:title]:- "From Block to Standard"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 19:21:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522192101id_/https://magic.wizards.com/en/articles/archive/feature/block-standard-2013-03-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/block-standard-2013-03-27"
 ---
 
 

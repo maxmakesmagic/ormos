@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627003624/https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-09-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-09-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627003624id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-09-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:36:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "North America October-December 2009 StateCityEvent DateInvitesLocationAddressPhone #URL ArkansasJacksonville10/10/20091GameZone Alpha620 West Main St.502-905-3613Website CaliforniaSanta Clara10/10/20091Santa Clara Convention Center5001 Great America Parkway650-224-5313Website ColoradoDenver10/10/20091American Inn10101 I-70 Service Rd North, exit 267720-209-7970Website"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-16"
+[_metadata_:title]:- "Pro Tour San Diego 2010 - Qualifiers"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:36:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627003624id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-09-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-2010-qualifiers-2009-09-16"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208134932/https://magic.wizards.com/en/articles/archive/feature/busy-days-ahead-2004-10-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/busy-days-ahead-2004-10-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208134932id_/https://magic.wizards.com/en/articles/archive/feature/busy-days-ahead-2004-10-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 13:49:32+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Sharks of the Magic world have a lot to look forward to. Not only do we have the Champions of Kamigawa Sealed Deck PTQs just kicking off, but we are also about to hit the annual Champs tournaments. This article is going to address both halves of the busy days ahead: The first part is going to be a bit of a follow-up to last week's article on designing a sealed deck, and the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-10-13"
+[_metadata_:title]:- "Busy Days Ahead"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 13:49:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208134932id_/https://magic.wizards.com/en/articles/archive/feature/busy-days-ahead-2004-10-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/busy-days-ahead-2004-10-13"
 ---
 
 

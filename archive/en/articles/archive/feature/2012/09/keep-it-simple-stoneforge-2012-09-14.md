@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028103219/https://magic.wizards.com/en/articles/archive/feature/keep-it-simple-stoneforge-2012-09-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/keep-it-simple-stoneforge-2012-09-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028103219id_/https://magic.wizards.com/en/articles/archive/feature/keep-it-simple-stoneforge-2012-09-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 10:32:19+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "A week or two back, we discussed Legacy and specifically talked about a mono-blue list that seemed pretty simple compared to most of the decks out there. The deck just wanted to play small creatures and counter a few spells en route to victory. As much as that deck was simple in a format of cool and complex things, today's list might be even more so, especially considering the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-14"
+[_metadata_:title]:- "Keep It Simple, Stoneforge"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 10:32:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028103219id_/https://magic.wizards.com/en/articles/archive/feature/keep-it-simple-stoneforge-2012-09-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/keep-it-simple-stoneforge-2012-09-14"
 ---
 
 

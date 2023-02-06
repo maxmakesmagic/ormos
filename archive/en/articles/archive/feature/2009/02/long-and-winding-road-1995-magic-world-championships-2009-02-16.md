@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210208210130/https://magic.wizards.com/en/articles/archive/feature/long-and-winding-road-1995-magic-world-championships-2009-02-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/long-and-winding-road-1995-magic-world-championships-2009-02-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210208210130id_/https://magic.wizards.com/en/articles/archive/feature/long-and-winding-road-1995-magic-world-championships-2009-02-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-08 21:01:30+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Seattle, Wash.—You could tell just from watching Henry Stern walk across the room that he had far more energy than he was able to contain. Quickly scooting past various Magic duels in progress, Stern exited the room where the tournament was being held. The glass door to the courtyard swung open with a vengeance as Stern walked into the light and triumphantly raised his arms. `YES!!!!`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-16"
+[_metadata_:title]:- "The Long and Winding Road: The 1995 Magic World Championships"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-08 21:01:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210208210130id_/https://magic.wizards.com/en/articles/archive/feature/long-and-winding-road-1995-magic-world-championships-2009-02-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/long-and-winding-road-1995-magic-world-championships-2009-02-16"
 ---
 
 

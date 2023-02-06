@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028045740/https://magic.wizards.com/en/articles/archive/feature/rise-and-shine-2012-12-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rise-and-shine-2012-12-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028045740id_/https://magic.wizards.com/en/articles/archive/feature/rise-and-shine-2012-12-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 04:57:40+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Last weekend, while there was a Modern Grand Prix happening in the North, over in the East, Standard was on display. While Standard continues to have showings by things like Zombies and Reanimator, new tricks keep being added to its bag, keeping Standard players on their toes. We have talked about various`Nightshade Peddler decks before here on Daily Decks, but nothing quite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-13"
+[_metadata_:title]:- "Rise and Shine"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 04:57:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028045740id_/https://magic.wizards.com/en/articles/archive/feature/rise-and-shine-2012-12-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rise-and-shine-2012-12-13"
 ---
 
 

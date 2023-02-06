@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522034055/https://magic.wizards.com/en/articles/archive/feature/modern-loam-2013-04-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-loam-2013-04-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522034055id_/https://magic.wizards.com/en/articles/archive/feature/modern-loam-2013-04-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 03:40:55+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Magic Online Superstar Jaberwocki finished 7th Place in a Modern Premier event with a creatureless deck that isn't trying to win in the first four turns, which is quite unusual in Magic these days. Jaberwocki's deck is the opposite of `Aggro Loam`—this deck is looking to grind as much as possible with its Life from the Loams."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-30"
+[_metadata_:title]:- "Modern Loam"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 03:40:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522034055id_/https://magic.wizards.com/en/articles/archive/feature/modern-loam-2013-04-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-loam-2013-04-30"
 ---
 
 

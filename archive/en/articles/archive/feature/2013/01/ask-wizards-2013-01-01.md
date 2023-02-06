@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121053953/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121053953id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 05:39:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ask Wizards is a weekly feature that allows you to ask us questions! If you'd like to submit your question please email it to AskWizards@wizards.com. We aren't able to answer every question we receive but if your question is good then it might show up in the coming weeks! Q: 2013 is the 20th anniversary for Magic; what're you guys doing for it? - Tyson T. A: Trick Jarrett,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-01"
+[_metadata_:title]:- "Ask Wizards"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 05:39:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121053953id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-01-01"
 ---
 
 

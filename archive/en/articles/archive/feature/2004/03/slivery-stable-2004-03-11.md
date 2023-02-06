@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211207003041/https://magic.wizards.com/en/articles/archive/feature/slivery-stable-2004-03-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/slivery-stable-2004-03-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207003041id_/https://magic.wizards.com/en/articles/archive/feature/slivery-stable-2004-03-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 00:30:41+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "When Scott Johns told me that this week would be Sliver Week, I immediately had a bone to pick. Oops, I meant “nose,” not “bone.” But once I was done with that, I needed to have a little chat with Scott. Since my tape recorder's batteries had run down, I'm going to take some dramatic license in reconstructing the conversation. (That's literary-speak for “completely make the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-03-11"
+[_metadata_:title]:- "Slivery Stable"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 00:30:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207003041id_/https://magic.wizards.com/en/articles/archive/feature/slivery-stable-2004-03-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/slivery-stable-2004-03-11"
 ---
 
 

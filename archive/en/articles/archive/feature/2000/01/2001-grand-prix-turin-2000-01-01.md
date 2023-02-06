@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123161917/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-turin-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-turin-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123161917id_/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-turin-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 16:19:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[view] The Champs: Team Clegg [view] Dan Clegg of Team Clegg"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "2001 Grand Prix Turin"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 16:19:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123161917id_/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-turin-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-turin-2000-01-01"
 ---
 
 

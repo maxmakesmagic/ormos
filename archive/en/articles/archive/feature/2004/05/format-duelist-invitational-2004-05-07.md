@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429084208/https://magic.wizards.com/en/articles/archive/feature/format-duelist-invitational-2004-05-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/format-duelist-invitational-2004-05-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429084208id_/https://magic.wizards.com/en/articles/archive/feature/format-duelist-invitational-2004-05-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:42:08+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "The preliminary rounds of the Duelist Invitational will be fifteen matches (best two out of three) with each player facing off against every other player once. The two players with the best record at the end of the fifteen rounds will meet in a three out of five duel final match. The constructed format of the final match will be decided by a preference list created by all the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-05-07"
+[_metadata_:title]:- "Format of Duelist Invitational"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:42:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429084208id_/https://magic.wizards.com/en/articles/archive/feature/format-duelist-invitational-2004-05-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/format-duelist-invitational-2004-05-07"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210108153216/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kaldheim-part-1-2021-01-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kaldheim-part-1-2021-01-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210108153216id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kaldheim-part-1-2021-01-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-08 15:32:16+00:00"
+[_metadata_:author]:- "Ari Zirulnik"
 [_metadata_:description]:- "Ari traverses the Cosmos to take readers on a journey through the general workings of Kaldheim and the human realm of Bretagard."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-01-08"
+[_metadata_:title]:- "PLANESWALKER'S GUIDE TO KALDHEIM, PART 1"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-08 15:32:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210108153216id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kaldheim-part-1-2021-01-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kaldheim-part-1-2021-01-08"
 ---
 
 

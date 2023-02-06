@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521000957/https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2011-release-events-2010-07-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2011-release-events-2010-07-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521000957id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2011-release-events-2010-07-21"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 00:09:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering game expands every year, introducing new worlds filled with deadly perils, new wars between ancient enemies, and fantastic new adventures. At the center is the Magic core set, representing the game in its purest form: evocative spells, menacing creatures, and infinite possibilities. But even at its core, the experience is ever changing. The Magic 2011"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-21"
+[_metadata_:title]:- "Magic Online Magic 2011 Release Events"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 00:09:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521000957id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2011-release-events-2010-07-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2011-release-events-2010-07-21"
 ---
 
 

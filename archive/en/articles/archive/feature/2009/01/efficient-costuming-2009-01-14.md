@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025230926/https://magic.wizards.com/en/articles/archive/feature/efficient-costuming-2009-01-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/efficient-costuming-2009-01-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025230926id_/https://magic.wizards.com/en/articles/archive/feature/efficient-costuming-2009-01-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 23:09:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "We're always impressed by people who make costumes to look like Magic cards. And of course we're always on the lookout for things to do with extra Magic cards. Are you thinking what we're thinking? What if somehow someone could create a Magic costume out of Magic cards? Hmm. What card would lend itself to that? Well... Yes! Perfect! Now all we have to do is—wait. What? You'll"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-14"
+[_metadata_:title]:- "Efficient Costuming"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 23:09:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025230926id_/https://magic.wizards.com/en/articles/archive/feature/efficient-costuming-2009-01-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/efficient-costuming-2009-01-14"
 ---
 
 

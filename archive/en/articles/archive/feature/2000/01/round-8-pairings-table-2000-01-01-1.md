@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627173448/https://magic.wizards.com/en/articles/archive/feature/round-8-pairings-table-2000-01-01-1)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-pairings-table-2000-01-01-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627173448id_/https://magic.wizards.com/en/articles/archive/feature/round-8-pairings-table-2000-01-01-1"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 17:34:48+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPoints OpponentPointswww.alphabetaunlimited.com21vsScrambled Steak21Team Apprentice19vsSusiyan18NISIKI18vsAbsolute18Circle Money Draft18vsLoafing Giants18P-Kies18vsDekiru-Kana?18Voice of Soul18vsPoor Shark18Potato Peach18vsTeam 25:1718OO Parts18vsTanshoku club with 2516Regneva16vsDERAPIN16Chack16vsTeam Emon Staff16Team PPB16vsYaburon16Team Scarecrow16vsYokohama"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 8 Pairings (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 17:34:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627173448id_/https://magic.wizards.com/en/articles/archive/feature/round-8-pairings-table-2000-01-01-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-pairings-table-2000-01-01-1"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202124134/https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-2013-winning-decklist-2013-09-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-2013-winning-decklist-2013-09-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202124134id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-2013-winning-decklist-2013-09-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 12:41:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Josh McClain, the winner of Grand Prix Detroit 2013."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-16"
+[_metadata_:title]:- "Grand Prix Detroit 2013 Winning Decklist"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 12:41:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202124134id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-2013-winning-decklist-2013-09-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-2013-winning-decklist-2013-09-16"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024201225/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-maelstrom-pulse-2009-05-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-maelstrom-pulse-2009-05-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024201225id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-maelstrom-pulse-2009-05-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 20:12:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Anthony Francisco's Maelstrom Pulse from Alara Reborn. Enjoy. Regular (1280x960 pixels) Widescreen (2560x1600 pixels) iPhone (320x480 pixels)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-15"
+[_metadata_:title]:- "Wallpaper of the Week: Maelstrom Pulse"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 20:12:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024201225id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-maelstrom-pulse-2009-05-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-maelstrom-pulse-2009-05-15"
 ---
 
 

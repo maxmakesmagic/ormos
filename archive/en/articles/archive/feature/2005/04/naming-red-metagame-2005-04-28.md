@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160903072111/http://magic.wizards.com/en/articles/archive/feature/naming-red-metagame-2005-04-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/naming-red-metagame-2005-04-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160903072111id_/http://magic.wizards.com/en/articles/archive/feature/naming-red-metagame-2005-04-28"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-03 07:21:11+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "“All Paul Sligh did was to qualify for the Pro Tour with the deck and post it on the ‘Net. It bothers me, it boggles my mind why this guy is so famous… I think people having their names on the deck is a bit silly. It isn't a big deal that I don't get any credit for the deck, as long as Sligh doesn't either.” -Dave Price"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-04-28"
+[_metadata_:title]:- "Naming the Red Metagame"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-03 07:21:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160903072111id_/http://magic.wizards.com/en/articles/archive/feature/naming-red-metagame-2005-04-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/naming-red-metagame-2005-04-28"
 ---
 
 

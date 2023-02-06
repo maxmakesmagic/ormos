@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525205103/https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-sponsors-exemptions-announced-2013-01-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-sponsors-exemptions-announced-2013-01-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525205103id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-sponsors-exemptions-announced-2013-01-08"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 20:51:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wit Pro Tour Gatecrash a month away, the invitation list has been finalized for the field of players heading to Montreal to battle in the Standard and Gatecrash Booster Draft formats on February 15-17. Wizards of the Coast is awarding Sponsor's Exemption invitations and airfare to players who showed excellence in play and positive community activity during the qualifying"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-08"
+[_metadata_:title]:- "Pro Tour Gatecrash Sponsor's Exemptions Announced"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 20:51:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525205103id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-sponsors-exemptions-announced-2013-01-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-sponsors-exemptions-announced-2013-01-08"
 ---
 
 

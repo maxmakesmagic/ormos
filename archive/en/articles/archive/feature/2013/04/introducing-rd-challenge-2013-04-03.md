@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523114757/https://magic.wizards.com/en/articles/archive/feature/introducing-rd-challenge-2013-04-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introducing-rd-challenge-2013-04-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523114757id_/https://magic.wizards.com/en/articles/archive/feature/introducing-rd-challenge-2013-04-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 11:47:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Think you can beat Magic R&D at their own game? Well now is your chance to find out. Next Friday, April 12, bring your best Standard deck and see what happens. At least 10 current and former R&D members, including Mark Globus, Erik Lauer, Tom LaPille, and Ryan Spain will be waiting. Who will remain undefeated? START TIME: Scheduled at 12:00 PM (PDT) on Friday, April 12. (Note:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-03"
+[_metadata_:title]:- "Introducing the R&D Challenge!"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 11:47:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523114757id_/https://magic.wizards.com/en/articles/archive/feature/introducing-rd-challenge-2013-04-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introducing-rd-challenge-2013-04-03"
 ---
 
 

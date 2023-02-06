@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701102654/https://magic.wizards.com/en/articles/archive/feature/gateway-top-4-franck-canu-vs-david-wiliams-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gateway-top-4-franck-canu-vs-david-wiliams-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701102654id_/https://magic.wizards.com/en/articles/archive/feature/gateway-top-4-franck-canu-vs-david-wiliams-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 10:26:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff Although both players were playing decks designed to abuse Survival of the Fittest and Squee, they were actually very different in their design. David's deck was a more traditional Survival deck using all five colors and and Survival and Recurring Nightmare to find answers to whatever threats his opponent played. Franck's deck was a Green/Blue/White deck and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Gateway Top 4: Franck Canu vs. David Wiliams"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 10:26:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701102654id_/https://magic.wizards.com/en/articles/archive/feature/gateway-top-4-franck-canu-vs-david-wiliams-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gateway-top-4-franck-canu-vs-david-wiliams-2000-01-01"
 ---
 
 

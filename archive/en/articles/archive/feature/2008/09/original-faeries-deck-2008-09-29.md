@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023233723/https://magic.wizards.com/en/articles/archive/feature/original-faeries-deck-2008-09-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/original-faeries-deck-2008-09-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023233723id_/https://magic.wizards.com/en/articles/archive/feature/original-faeries-deck-2008-09-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 23:37:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Bertrand Lestree's 1994 Goodness Format: 1994 World Championships, Type 1 2 Bayou 2 City of Brass 4 Mishra's Factory 4 Taiga 4 Tropical Island 4 Volcanic Island 3 Argothian Pixies 3 Birds of Paradise 4 Kird Ape 2 Whirling Dervish 1 Ancestral Recall 1 Black Lotus 4 Chain Lightning 1 Channel 1 Chaos Orb 1 Control Magic 1 Demonic Tutor 4 Fireball 1 Icy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-29"
+[_metadata_:title]:- "The Original Faeries Deck"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 23:37:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023233723id_/https://magic.wizards.com/en/articles/archive/feature/original-faeries-deck-2008-09-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/original-faeries-deck-2008-09-29"
 ---
 
 

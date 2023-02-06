@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170614154705/http://magic.wizards.com/en/articles/archive/feature/ravnica-preview-review-2005-09-17)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ravnica-preview-review-2005-09-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614154705id_/http://magic.wizards.com/en/articles/archive/feature/ravnica-preview-review-2005-09-17"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-14 15:47:05+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-09-17"
+[_metadata_:title]:- "Ravnica Preview Review"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-14 15:47:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614154705id_/http://magic.wizards.com/en/articles/archive/feature/ravnica-preview-review-2005-09-17"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ravnica-preview-review-2005-09-17"
 ---
 
 

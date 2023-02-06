@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160529073112/http://magic.wizards.com/en/articles/archive/feature/rochester-draft-primer-2005-01-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rochester-draft-primer-2005-01-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160529073112id_/http://magic.wizards.com/en/articles/archive/feature/rochester-draft-primer-2005-01-21"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-29 07:31:12+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Just about every tournament player is well familiar with the Booster Draft format—and most of those who have tried it like it and often become avid fans. The next step up on the strategy ladder is Rochester Draft. Historically, it has not received as much attention or popularity as the Booster Draft format, though in all fairness it is more strategic and more interesting."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-01-21"
+[_metadata_:title]:- "Rochester Draft Primer"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-29 07:31:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160529073112id_/http://magic.wizards.com/en/articles/archive/feature/rochester-draft-primer-2005-01-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rochester-draft-primer-2005-01-21"
 ---
 
 

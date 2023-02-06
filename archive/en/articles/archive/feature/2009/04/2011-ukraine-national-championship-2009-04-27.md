@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526115641/https://magic.wizards.com/en/articles/archive/feature/2011-ukraine-national-championship-2009-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-ukraine-national-championship-2009-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526115641id_/https://magic.wizards.com/en/articles/archive/feature/2011-ukraine-national-championship-2009-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:56:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 2-3 July 2011 Event Location: “Foxtrot” Conference Hall Address: Dorogozhitskaya street, 1, Kiev, Ukraine EligibilityThe Magic: the Gathering Ukraine National Championship is an invitation-only event, open to citizens or permanent residents of Ukraine who have won an invitation to Nationals through DCI ratings or from qualifying events such as National"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 Ukraine National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:56:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526115641id_/https://magic.wizards.com/en/articles/archive/feature/2011-ukraine-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-ukraine-national-championship-2009-04-27"
 ---
 
 

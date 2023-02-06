@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200923130755/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-4-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-4-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923130755id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-4-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 13:07:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Adam, Felix (210) Zbrog, Matthew (60) 0-2 Altermara, Chase (212) Dunn, Jared (196) 2-0 Ames, David (157) Kramer, Daniel (37) 2-0 Ames, Steve (61) Huang, Toby (34) 0-2 Anderson, Eddie (15) Spindel, Daniel (105)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Super Series Championship Round 4 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 13:07:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923130755id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-4-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-4-pairings-2000-01-01"
 ---
 
 

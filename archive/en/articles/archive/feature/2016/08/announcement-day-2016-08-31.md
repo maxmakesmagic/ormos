@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210418225434/https://magic.wizards.com/en/articles/archive/feature/announcement-day-2016-08-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcement-day-2016-08-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418225434id_/https://magic.wizards.com/en/articles/archive/feature/announcement-day-2016-08-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 22:54:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Happy Announcement Day!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-08-31"
+[_metadata_:title]:- "Announcement Day"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-18 22:54:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418225434id_/https://magic.wizards.com/en/articles/archive/feature/announcement-day-2016-08-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcement-day-2016-08-31"
 ---
 
 

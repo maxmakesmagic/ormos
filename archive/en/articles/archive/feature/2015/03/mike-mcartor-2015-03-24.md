@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150328001717/http://magic.wizards.com/en/articles/archive/feature/mike-mcartor-2015-03-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mike-mcartor-2015-03-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150328001717id_/http://magic.wizards.com/en/articles/archive/feature/mike-mcartor-2015-03-24"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-28 00:17:17+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Wizards community has lost a beloved friend, a kindhearted co-worker, and a man with a passion for the written language. He has had a hand in virtually everything we publish. He was like family to us all and will not be forgotten"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-03-24"
+[_metadata_:title]:- "Mike McArtor"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-28 00:17:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150328001717id_/http://magic.wizards.com/en/articles/archive/feature/mike-mcartor-2015-03-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mike-mcartor-2015-03-24"
 ---
 
 

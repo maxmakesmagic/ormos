@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022081508/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kyoto-artist-carl-critchlow-2003-03-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kyoto-artist-carl-critchlow-2003-03-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022081508id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kyoto-artist-carl-critchlow-2003-03-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 08:15:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Carl's CardsCard NameCard Set Death MutationApocalypse Phyrexian GargantuaApocalypse Minotaur TacticianApocalypse Orim’s ThunderApocalypse Gerrard’s VerdictApocalypse Clockwork BeastBeatdown Packaging #2Sixth Edition Tower DrakeInvasion Shimmering WingsInvasion Breaking WaveInvasion Fertile GroundInvasion Rith, the AwakenerInvasion Tsabo’s WebInvasion Dromar’s"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-03-05"
+[_metadata_:title]:- "Grand Prix Kyoto Artist: Carl Critchlow"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 08:15:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022081508id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kyoto-artist-carl-critchlow-2003-03-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kyoto-artist-carl-critchlow-2003-03-05"
 ---
 
 

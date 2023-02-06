@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126184728/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-2-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-2-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126184728id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-2-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:47:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Abe, Kazufumi (145) Swan, Tom (98) 0-2 Alvarenga, Rafael (76) Simoncini, Stefano (290) 2-0 Anzorena, Pablo (15) Hamon, Yann (26) 0-2 Auer, Jeffrey (104) Lavery, Joshua (206) 0-2 Azevedo, Pedro (199) Yamazoe, Makoto (47) 0-2 Bachmann, David (229) Hofmans, Kim (278) 2-1 Baehr, Kevin (155) Burgner, Kurt (173) 0-2 Benefel, Chris (163) Low, Devin (202) 1-1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 2 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:47:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126184728id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-2-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-2-results-2000-01-01"
 ---
 
 

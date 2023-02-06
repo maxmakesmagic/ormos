@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160219212304/http://magic.wizards.com/en/articles/archive/feature/elvish-melody-2014-04-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/elvish-melody-2014-04-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160219212304id_/http://magic.wizards.com/en/articles/archive/feature/elvish-melody-2014-04-10"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-19 21:23:04+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "I always felt like the bad guy when playing Combo Elves in Extended. In Pauper, where there are lots of people being the bad guy, playing Elves doesn't feel so bad. Like Brian Kibler, I'm just an honest guy casting honest green creatures."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-04-10"
+[_metadata_:title]:- "Elvish Melody"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-19 21:23:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160219212304id_/http://magic.wizards.com/en/articles/archive/feature/elvish-melody-2014-04-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/elvish-melody-2014-04-10"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123191652/https://magic.wizards.com/en/articles/archive/feature/day-1-deck-breakdown-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/day-1-deck-breakdown-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123191652id_/https://magic.wizards.com/en/articles/archive/feature/day-1-deck-breakdown-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 19:16:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "On Day One of Pro Tour-New York 1999-2000, the most popular deck was no surprise: Rebels ruled the day. Out of 310 decks, 133 were Rebel-based, making up 43% of the field. Another twelve were best described as U/W Control - even though they weren't Rebel-based, many of them played at least some Rebels. The second-most popular deck category was Black Control, which combined powerful Mercenaries like Silent Assassin with powerful creature-kill like Massacre and Snuff Out. 29 Black Control decks showed up."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Day 1 Deck Breakdown"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 19:16:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123191652id_/https://magic.wizards.com/en/articles/archive/feature/day-1-deck-breakdown-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/day-1-deck-breakdown-2000-01-01"
 ---
 
 

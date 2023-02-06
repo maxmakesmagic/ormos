@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220629153915/https://magic.wizards.com/en/articles/archive/feature/first-gateway-tournament-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-gateway-tournament-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629153915id_/https://magic.wizards.com/en/articles/archive/feature/first-gateway-tournament-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 15:39:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler One hundred two players, each with at least 6 Pro Tour points, converged on Neutral Ground New York for the first-ever Gateway tournament. The Gateway was a single-elimination `Meatgrinder` with the top two players advancing to this weekend's Masters series event. The Masters is a 32-person Extended-format tournament with a total prize purse of $150,000,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "The First Gateway Tournament"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 15:39:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629153915id_/https://magic.wizards.com/en/articles/archive/feature/first-gateway-tournament-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-gateway-tournament-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190912104103/https://magic.wizards.com/en/articles/archive/feature/building-card-2018-06-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-card-2018-06-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190912104103id_/https://magic.wizards.com/en/articles/archive/feature/building-card-2018-06-29"
-[_metadata_:wayback_capture_timestamp]:- "2019-09-12 10:41:03+00:00"
+[_metadata_:author]:- "Tom Wänerstrand"
 [_metadata_:description]:- "A lot of work goes into the visual design of cards—especially for a special printing like Signature Spellbook: Jace!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-06-29"
+[_metadata_:title]:- "Building a Card"
+[_metadata_:wayback_capture_timestamp]:- "2019-09-12 10:41:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190912104103id_/https://magic.wizards.com/en/articles/archive/feature/building-card-2018-06-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-card-2018-06-29"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025174447/https://magic.wizards.com/en/articles/archive/feature/canada-regional-championships-2009-2007-04-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/canada-regional-championships-2009-2007-04-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025174447id_/https://magic.wizards.com/en/articles/archive/feature/canada-regional-championships-2009-2007-04-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 17:44:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format DocumentDateMay 16, 2009FormatStandard-constructed format Deck lists are required InvitationsAll Canadian Regional Championships will award invitations to the 2009 Canadian National Championship based on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-04-12"
+[_metadata_:title]:- "Canada Regional Championships 2009"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 17:44:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025174447id_/https://magic.wizards.com/en/articles/archive/feature/canada-regional-championships-2009-2007-04-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/canada-regional-championships-2009-2007-04-12"
 ---
 
 

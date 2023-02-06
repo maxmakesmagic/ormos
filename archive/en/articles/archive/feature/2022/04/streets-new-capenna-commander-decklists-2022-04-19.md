@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220419220537/https://magic.wizards.com/en/articles/archive/feature/streets-new-capenna-commander-decklists-2022-04-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/streets-new-capenna-commander-decklists-2022-04-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220419220537id_/https://magic.wizards.com/en/articles/archive/feature/streets-new-capenna-commander-decklists-2022-04-19"
-[_metadata_:wayback_capture_timestamp]:- "2022-04-19 22:05:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Check out the complete decklists for the Streets of New Capenna Commander decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-04-19"
+[_metadata_:title]:- "Streets of New Capenna Commander Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2022-04-19 22:05:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220419220537id_/https://magic.wizards.com/en/articles/archive/feature/streets-new-capenna-commander-decklists-2022-04-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/streets-new-capenna-commander-decklists-2022-04-19"
 ---
 
 

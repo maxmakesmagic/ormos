@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211205160131/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-2011-03-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-2011-03-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205160131id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-2011-03-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 16:01:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights Magic: The Gathering Commander will consist of five different 100-card singleton decks, each with a suggested retail price of $29.99. To continue the tradition of oversized cards associated with our multiplayer releases, each deck will also include three premium oversized legendary commander cards that can be used in lieu of the normal versions of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-03-16"
+[_metadata_:title]:- "Magic: The Gathering Commander"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 16:01:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205160131id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-2011-03-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-commander-2011-03-16"
 ---
 
 

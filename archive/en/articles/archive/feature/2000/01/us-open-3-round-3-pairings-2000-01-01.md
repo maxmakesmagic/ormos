@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527024135/https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-3-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-3-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527024135id_/https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-3-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 02:41:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Allen, Chris ( 28) 3 105 Lumpford, Ryan ( 69) 3 Allen, Dustin ( 17) 3 111 Nader, Johnathan ( 91) 3 Austin, Ty ( 68) 3 104 Simkins, Daniel (117) 3 Conrad, E."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Open 3 Round 3 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 02:41:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527024135id_/https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-3-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-3-pairings-2000-01-01"
 ---
 
 

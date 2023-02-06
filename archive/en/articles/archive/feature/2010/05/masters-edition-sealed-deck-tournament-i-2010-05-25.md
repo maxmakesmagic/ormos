@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522160555/https://magic.wizards.com/en/articles/archive/feature/masters-edition-sealed-deck-tournament-i-2010-05-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-edition-sealed-deck-tournament-i-2010-05-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522160555id_/https://magic.wizards.com/en/articles/archive/feature/masters-edition-sealed-deck-tournament-i-2010-05-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 16:05:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic Online-exclusive sets composed entirely of cards originally printed in previous Magic: The Gathering sets and features many of the most popular cards from Magic's past. All cards will appear with their original artwork and original-style card frames..MASTERS EDITION SEALED DECK TOURNAMENT ISTART TIME: Saturday, June 12, 2010 11:00 AM PDT / 18:00 UTC. LOCATION: Premier"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-05-25"
+[_metadata_:title]:- "Masters Edition Sealed Deck Tournament I"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 16:05:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522160555id_/https://magic.wizards.com/en/articles/archive/feature/masters-edition-sealed-deck-tournament-i-2010-05-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-edition-sealed-deck-tournament-i-2010-05-25"
 ---
 
 

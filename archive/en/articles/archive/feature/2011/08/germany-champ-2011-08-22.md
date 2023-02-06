@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210421234122/https://magic.wizards.com/en/articles/archive/feature/germany-champ-2011-08-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/germany-champ-2011-08-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210421234122id_/https://magic.wizards.com/en/articles/archive/feature/germany-champ-2011-08-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-21 23:41:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Helge Nelson's Red Deck Wins Format: Germany Nationals 2011 (Standard Constructed) 4 Arid Mesa 11 Mountain 4 Scalding Tarn 4 Teetering Peaks 4 Chandra's Phoenix 4 Goblin Guide 4 Grim Lavamancer 2 Hero of Oxid Ridge 1 Kargan Dragonlord 2 Plated Geopede 2 Burst Lightning 1 Koth of the Hammer 4 Lightning Bolt 4 Searing Blaze 4 Shrine of Burning Rage 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-08-22"
+[_metadata_:title]:- "Germany Champ"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-21 23:41:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210421234122id_/https://magic.wizards.com/en/articles/archive/feature/germany-champ-2011-08-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/germany-champ-2011-08-22"
 ---
 
 

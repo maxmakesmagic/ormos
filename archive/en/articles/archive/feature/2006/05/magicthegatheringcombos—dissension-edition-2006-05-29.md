@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502164027/https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos%E2%80%94dissension-edition-2006-05-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos%E2%80%94dissension-edition-2006-05-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502164027id_/https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos%E2%80%94dissension-edition-2006-05-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:40:27+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "As we all know, I am awesome. And as my plans for total world domination near completion, I thought I'd take time out to share my awesomeness with all of you. If you poor schlubs out there knew a mere fraction of what I do about life, maybe yours wouldn't suck so badly. That's why, in an uncharacteristic act of generosity (but a very characteristic act of self-demagoguery), I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-05-29"
+[_metadata_:title]:- "Magicthegathering.Combos—Dissension Edition"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:40:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502164027id_/https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos%E2%80%94dissension-edition-2006-05-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcombos%E2%80%94dissension-edition-2006-05-29"
 ---
 
 

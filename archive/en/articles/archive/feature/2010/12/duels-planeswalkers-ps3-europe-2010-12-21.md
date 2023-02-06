@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026224234/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-ps3-europe-2010-12-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-ps3-europe-2010-12-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026224234id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-ps3-europe-2010-12-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 22:42:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Everything about this announcement has been said already, except for this: Duels of the Planeswalkers is coming to the Playstation 3 in Europe and the Asia-Pacific region! It will be available on Wednesday, December 22. So if you've been waiting in your European, Asian, or Pacific home, looking mournfully at your Playstation 3, waiting for Duels of the Planeswalkers, you don't"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-21"
+[_metadata_:title]:- "Duels of the Planeswalkers on PS3 in Europe"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 22:42:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026224234id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-ps3-europe-2010-12-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-ps3-europe-2010-12-21"
 ---
 
 

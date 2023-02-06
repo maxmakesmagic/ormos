@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170622002750/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-time-sieve-2009-04-17)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-time-sieve-2009-04-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170622002750id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-time-sieve-2009-04-17"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-22 00:27:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Franz Vohwinkel's Time Sieve from Alara Reborn (as seen in From the Lab and the Visual Spoiler). Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-17"
+[_metadata_:title]:- "Wallpaper of the Week: Time Sieve"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-22 00:27:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170622002750id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-time-sieve-2009-04-17"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-time-sieve-2009-04-17"
 ---
 
 

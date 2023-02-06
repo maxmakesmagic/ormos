@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118150504/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-12-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-12-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118150504id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-12-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:05:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Burgner, Kurt 31 66.6667 81.4815 59.9090 12/10/1/0 2 Ekebom, Erno 31 63.4590 68.9655 59.8746 12/10/1/0 3 Benefel, Chris 29 55.3571 76.9231 54.4331 12/9/2/0 4 Blackwell, Trevor 28 62.5992 65.3846 60.8964 12/9/1/0 5 Nishioka, Andrew 28 62.3677 68.9655 57.8009 12/9/1/0 6 Kastle, Darwin 28 58.6574 70.3704"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 12 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:05:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118150504id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-12-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-12-standings-2000-01-01"
 ---
 
 

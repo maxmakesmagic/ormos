@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112005728/https://magic.wizards.com/en/articles/archive/feature/big-draft-box-big-box-draft-2002-08-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/big-draft-box-big-box-draft-2002-08-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112005728id_/https://magic.wizards.com/en/articles/archive/feature/big-draft-box-big-box-draft-2002-08-14"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:57:28+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "Okay, so I tapped my Gargantuan Gorilla to deal 7 damage to `Tree Chucka` (Heartwood Giant). Then I attacked with my Fungal Shambler and drew a card. But my opponent discarded Guerilla Tactics to off my Gorilla!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-08-14"
+[_metadata_:title]:- "Big Draft Box, Big Box Draft"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:57:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112005728id_/https://magic.wizards.com/en/articles/archive/feature/big-draft-box-big-box-draft-2002-08-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/big-draft-box-big-box-draft-2002-08-14"
 ---
 
 

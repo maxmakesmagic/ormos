@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020011957/https://magic.wizards.com/en/articles/archive/feature/tcg-products-slider-2008-08-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tcg-products-slider-2008-08-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020011957id_/https://magic.wizards.com/en/articles/archive/feature/tcg-products-slider-2008-08-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 01:19:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "mtg_tcg_products_slider_regionalized"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-12"
+[_metadata_:title]:- "TCG Products Slider"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 01:19:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020011957id_/https://magic.wizards.com/en/articles/archive/feature/tcg-products-slider-2008-08-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tcg-products-slider-2008-08-12"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200531084155/https://magic.wizards.com/en/articles/archive/feature/event-deck-2013-04-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/event-deck-2013-04-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531084155id_/https://magic.wizards.com/en/articles/archive/feature/event-deck-2013-04-15"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:41:55+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Here is the Event Deck that we are releasing for Dragon's Maze; we'll share the decklist later on but this should whet your appetite. As you may already know, Dragon's Maze, and going forward, will only have one event deck per release. Because of this change, rather than having eight rares per deck, each new Event Deck will now have ten rares at the same $24.99 MSRP!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-15"
+[_metadata_:title]:- "Event Deck"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:41:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531084155id_/https://magic.wizards.com/en/articles/archive/feature/event-deck-2013-04-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/event-deck-2013-04-15"
 ---
 
 

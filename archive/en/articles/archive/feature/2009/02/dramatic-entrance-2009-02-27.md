@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220813001249/https://magic.wizards.com/en/articles/archive/feature/dramatic-entrance-2009-02-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dramatic-entrance-2009-02-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813001249id_/https://magic.wizards.com/en/articles/archive/feature/dramatic-entrance-2009-02-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 00:12:49+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Ajnar25's Mono-Green Format: Magic Online Premier Event 16 Forest 4 Mosswort Bridge 4 Birds of Paradise 2 Deity of Scars 4 Deus of Calamity 4 Devoted Druid 4 Llanowar Elves 4 Oversoul of Dusk 4 Primalcrux 3 Woodfall Primus 3 Dramatic Entrance 4 Impromptu Raid 4 Overgrowth *3 Cloudthresher *2 Deity of Scars *1 Dramatic Entrance *4 Eyes of the Wisent *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-27"
+[_metadata_:title]:- "A Dramatic Entrance"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 00:12:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813001249id_/https://magic.wizards.com/en/articles/archive/feature/dramatic-entrance-2009-02-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dramatic-entrance-2009-02-27"
 ---
 
 

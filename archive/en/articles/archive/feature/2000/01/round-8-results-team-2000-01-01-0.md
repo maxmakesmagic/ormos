@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220625112356/https://magic.wizards.com/en/articles/archive/feature/round-8-results-team-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-results-team-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625112356id_/https://magic.wizards.com/en/articles/archive/feature/round-8-results-team-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 11:23:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentAbsolute SamuelsWon 2-1vskillers of the CoastAlphaBetaUnlimited.comWon 2-1vsTwo men and a baby !AmsterdamLost 1-2vstrash AAAAngstschreeuwWon 2-1vsMetagames/LNTBlack-OpsWon 2-1vsTeam 25:17Bologna Demolition TeamWon 2-1vszyrberusCi Ciapem I Dané *Lost 1-2vsF3BoPCosmopolitanLost 1-2vswww.revised4th5th.comF3BoPWon 2-1vsCi Ciapem I Dané *gotta catch KaiWon"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 8 Results (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 11:23:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625112356id_/https://magic.wizards.com/en/articles/archive/feature/round-8-results-team-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-results-team-2000-01-01-0"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150322103600/http://magic.wizards.com/en/articles/archive/feature/zendikar-sample-chapter-2010-05-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zendikar-sample-chapter-2010-05-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150322103600id_/http://magic.wizards.com/en/articles/archive/feature/zendikar-sample-chapter-2010-05-15"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-22 10:36:00+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Robert B. Wintermute"
 [_metadata_:description]:- "Complex strut works of wood, rope suspension bridges, and planked walkways festooned the tree in arcing loops. The fact that the turntimbers healed over any attempts to penetrate its bark only heightened her amazement -- the clever tribe had been able to make the marvel without even one nail."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-05-15"
+[_metadata_:title]:- "Zendikar: Sample Chapter"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-22 10:36:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150322103600id_/http://magic.wizards.com/en/articles/archive/feature/zendikar-sample-chapter-2010-05-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zendikar-sample-chapter-2010-05-15"
 ---
 
 

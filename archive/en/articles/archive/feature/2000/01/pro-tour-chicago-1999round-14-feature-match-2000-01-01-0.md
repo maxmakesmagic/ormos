@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220127182742/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-14-feature-match-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-14-feature-match-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127182742id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-14-feature-match-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 18:27:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pat Chapin vs. Brian Davis (10-3) Round 14 is crunch time, and this time, either Brian Davis or Pat Chapin would be getting crunched. Both sat at 10-3 with the winner going into the top eight, and the loser watching it tomorrow. Both were playing control Necro decks, Chapin with Masticores, Davis with Skittering Skirge. Davis won the toss and played first, consulting for a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Round 14 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 18:27:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127182742id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-14-feature-match-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-14-feature-match-2000-01-01-0"
 ---
 
 

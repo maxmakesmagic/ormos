@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160709171356/http://magic.wizards.com/en/articles/archive/feature/naya-aggro-2009-02-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/naya-aggro-2009-02-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160709171356id_/http://magic.wizards.com/en/articles/archive/feature/naya-aggro-2009-02-03"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-09 17:13:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: kalebas's Naya Aggro Format: Magic Online 7 Forest 4 Jungle Shrine 6 Mountain 2 Naya Panorama 6 Plains 4 Battlegrace Angel 4 Druid of the Anima 1 Feral Hydra 4 Ranger of Eos 3 Steward of Valeron 4 Wild Nacatl 4 Woolly Thoctar 3 Elspeth, Knight-Errant 2 Naya Charm 4 Oblivion Ring 2 Sarkhan Vol *1 Ajani Vengeant *1 Elspeth, Knight-Errant *1 Feral Hydra *2 Knight-Captain of Eos *4 Naturalize *2 Naya Charm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-03"
+[_metadata_:title]:- "Naya Aggro"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-09 17:13:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160709171356id_/http://magic.wizards.com/en/articles/archive/feature/naya-aggro-2009-02-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/naya-aggro-2009-02-03"
 ---
 
 

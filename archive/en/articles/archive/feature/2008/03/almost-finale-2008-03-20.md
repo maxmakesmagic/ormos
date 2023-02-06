@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211130102854/https://magic.wizards.com/en/articles/archive/feature/almost-finale-2008-03-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/almost-finale-2008-03-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130102854id_/https://magic.wizards.com/en/articles/archive/feature/almost-finale-2008-03-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 10:28:54+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "ThePro Tour–Hollywood-feeding PTQ season is not officially over (there are maybe one or two weeks of qualifier tournaments peppering the schedules hither and thither) but this past weekend has essentially capped it off with a gigantic double Grand Prix whiz bang sendoff. Top players and relative unknowns shared Sunday spotlight space in Philadelphia and Vienna both, with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-03-20"
+[_metadata_:title]:- "Almost Finale"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 10:28:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130102854id_/https://magic.wizards.com/en/articles/archive/feature/almost-finale-2008-03-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/almost-finale-2008-03-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121103705/https://magic.wizards.com/en/articles/archive/feature/extended-ascension-2010-01-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extended-ascension-2010-01-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121103705id_/https://magic.wizards.com/en/articles/archive/feature/extended-ascension-2010-01-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 10:37:05+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Adrian Sullivan's Extended Ascension Format: Extended 4 Arid Mesa 2 Blood Crypt 1 Gemstone Caverns 2 Ghitu Encampment 1 Godless Shrine 4 Grove of the Burnwillows 4 Marsh Flats 1 Mountain 1 Plains 1 Sacred Foundry 1 Swamp 3 Countryside Crusher 4 Dark Confidant 3 Simian Spirit Guide 4 Bloodchief Ascension 3 Burst Lightning 4 Isochron Scepter 4 Lightning Bolt 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-01-11"
+[_metadata_:title]:- "Extended Ascension"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 10:37:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121103705id_/https://magic.wizards.com/en/articles/archive/feature/extended-ascension-2010-01-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extended-ascension-2010-01-11"
 ---
 
 

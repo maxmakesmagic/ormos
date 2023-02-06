@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220705033425/https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-match-alphabetaunlimitedcom-vs-one-day-fly-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-match-alphabetaunlimitedcom-vs-one-day-fly-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705033425id_/https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-match-alphabetaunlimitedcom-vs-one-day-fly-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 03:34:25+00:00"
+[_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "Team www.alphabetaunlimited.comwww.alphabetaunlimited.com: Noah Boeken Chris Benafel Ryan Fuller One Day Fly: Tom Van de Logt Kamiel Cornelissen Jelger WiegersmaStraight after their hour long battle against Black Ops in the last round of the swiss the Dutch team was hoping to carry some of that momentum into the semifinals. But no Magic team has more momentum than"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Semifinal Feature Match: AlphaBetaUnlimited.com vs. One Day Fly"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 03:34:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705033425id_/https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-match-alphabetaunlimitedcom-vs-one-day-fly-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinal-feature-match-alphabetaunlimitedcom-vs-one-day-fly-2000-01-01"
 ---
 
 

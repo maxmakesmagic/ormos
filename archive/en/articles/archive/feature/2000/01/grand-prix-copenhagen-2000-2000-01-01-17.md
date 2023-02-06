@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523073423/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523073423id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 07:34:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 6 Feature match Bob Maher vs. Antoine Ruel A bit of transatlantic rivalry this round as Antoine Ruel from France's Team Black Ops faces the formidable American Bob Maher, the MAN in the last extended season. Like most of the people here today both players are playing three colour decks with two strong colours and a back up splash. Bob's deck is B/R/g and Antoine's is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 07:34:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523073423id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-17"
 ---
 
 

@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029101214/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000-finals-decks-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000-finals-decks-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029101214id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000-finals-decks-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 10:12:14+00:00"
 [_metadata_:description]:- "TYPE 1 [decklist] Title: CHRIS PIKULA Subtitle: Format: 1 Ancestral Recall 1 Black Lotus 4 Dark Ritual 4 Demonic Consultation 1 Demonic Tutor 4 Donate 4 Duress 4 Force of Will 1 Hoodwink 4 Illusions of Grandeur 1 Kaervek's Torch 1 Lim-Dul's Vault 1 Lotus Petal 1 Mox Jet 1 Mox Sapphire 4 Necropotence 1 Sol Ring 1 Time Walk 1 Vampiric Tutor 1 Yawgmoth's Will 4 Badlands"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Magic: The Gathering Invitational 2000 Finals Decks"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 10:12:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029101214id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000-finals-decks-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000-finals-decks-2000-01-01"
 ---
 
 

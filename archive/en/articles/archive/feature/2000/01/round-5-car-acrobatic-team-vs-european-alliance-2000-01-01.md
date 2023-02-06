@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220626111446/https://magic.wizards.com/en/articles/archive/feature/round-5-car-acrobatic-team-vs-european-alliance-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-car-acrobatic-team-vs-european-alliance-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626111446id_/https://magic.wizards.com/en/articles/archive/feature/round-5-car-acrobatic-team-vs-european-alliance-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 11:14:46+00:00"
+[_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "Car Acrobatic Team vs. European AllianceNow this is a feature match. The Car Acrobatic Team (Aaron Forsythe, Andrew Cuneo, and Andrew Johnson) finished 2nd at Pro Tour New York and 3rd at the Tokyo Masters. This is their format. The European Alliance (Sigurd Eskeland, Patrick Mello, and Kai Budde) is a great collection of individual talent, with 4 Pro Tour wins between them,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 5: Car Acrobatic Team vs. European Alliance"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 11:14:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626111446id_/https://magic.wizards.com/en/articles/archive/feature/round-5-car-acrobatic-team-vs-european-alliance-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-car-acrobatic-team-vs-european-alliance-2000-01-01"
 ---
 
 

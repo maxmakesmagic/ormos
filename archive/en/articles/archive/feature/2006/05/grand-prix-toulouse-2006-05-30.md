@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160809070642/http://magic.wizards.com/en/articles/archive/feature/grand-prix-toulouse-2006-05-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-toulouse-2006-05-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160809070642id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-toulouse-2006-05-30"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-09 07:06:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.&#13; &#13; Win a trip to Grand Prix Malmö&#13; ...and many other Magic prizes!&#13; At Grand Prix Toulouse fill out the voucher* that you'll find at the registration desk and deposit it in the designated box Saturday, June 24 before 5 pm. A draw will be held on Saturday, June 24 - at 6pm."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-05-30"
+[_metadata_:title]:- "Grand Prix - Toulouse"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-09 07:06:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160809070642id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-toulouse-2006-05-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-toulouse-2006-05-30"
 ---
 
 

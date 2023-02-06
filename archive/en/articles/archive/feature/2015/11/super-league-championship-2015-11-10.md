@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151112173927/http://magic.wizards.com/en/articles/archive/feature/super-league-championship-2015-11-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/super-league-championship-2015-11-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151112173927id_/http://magic.wizards.com/en/articles/archive/feature/super-league-championship-2015-11-10"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-12 17:39:27+00:00"
+[_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "The Group Stage of the SLC is coming to an end, but there are still plenty of undecided seats left in the playoff race."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-11-10"
+[_metadata_:title]:- "Super League Championship"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-12 17:39:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151112173927id_/http://magic.wizards.com/en/articles/archive/feature/super-league-championship-2015-11-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/super-league-championship-2015-11-10"
 ---
 
 

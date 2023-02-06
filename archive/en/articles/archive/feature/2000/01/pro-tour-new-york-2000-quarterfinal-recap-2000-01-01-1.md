@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521200716/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01-1)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521200716id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01-1"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:07:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Jessica Lawson After facing each other in the last round of the Swiss portion of the tournament, Ben Rubin and John Hunka were paired together again in the first round of the Top 8. Since Rubin won Saturday's match 2-0, Hunka was hoping that his luck would be better today. The matchup seemed to favor Rubin's Green/White rebel deck over Hunka's mono-white Rebel deck. The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Quarterfinal Recap"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:07:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521200716id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01-1"
 ---
 
 

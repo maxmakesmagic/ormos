@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119224021/https://magic.wizards.com/en/articles/archive/feature/players-get-taste-urzas-destiny-1999-06-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/players-get-taste-urzas-destiny-1999-06-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119224021id_/https://magic.wizards.com/en/articles/archive/feature/players-get-taste-urzas-destiny-1999-06-08"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 22:40:21+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "The three day-long Junior Super Series event in Florida wasn't just for the kids - older players had plenty to do at the Disney's Wide World of Sports Complex where the championship took place. Artists were present on site to sign cards and chat with the fans - among them are popular D.Alexander Gregory (Cursed Scroll, Persecute) and Ron Spencer (Hammer of Bogardan, Yawgmoth's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "1999-06-08"
+[_metadata_:title]:- "Players Get a Taste of Urza's Destiny"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 22:40:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119224021id_/https://magic.wizards.com/en/articles/archive/feature/players-get-taste-urzas-destiny-1999-06-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/players-get-taste-urzas-destiny-1999-06-08"
 ---
 
 

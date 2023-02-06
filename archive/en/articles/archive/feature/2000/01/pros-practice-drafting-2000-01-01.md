@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522232411/https://magic.wizards.com/en/articles/archive/feature/pros-practice-drafting-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pros-practice-drafting-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522232411id_/https://magic.wizards.com/en/articles/archive/feature/pros-practice-drafting-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 23:24:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler With Meatgrinder #1 starting in the main tournament area, many American Pro Tour regulars began arriving at the tournament site. Everyone wants to take a look at the constructed decks being played in the 'Grinders. And there's no better way to pass time between laps through the 'Grinder tables than by doing 8-man booster drafts. Dave Price, Alan Comer, Elliot"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "The Pros Practice Drafting"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 23:24:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522232411id_/https://magic.wizards.com/en/articles/archive/feature/pros-practice-drafting-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pros-practice-drafting-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161124194745/http://magic.wizards.com/en/articles/archive/feature/exploring-standard-showdown-videos-2016-11-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/exploring-standard-showdown-videos-2016-11-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161124194745id_/http://magic.wizards.com/en/articles/archive/feature/exploring-standard-showdown-videos-2016-11-22"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-24 19:47:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wondering about Standard Showdown? Not a Standard player but curious what the format is like? Check out the videos below to learn just what we have in store."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-11-22"
+[_metadata_:title]:- "Exploring Standard Showdown (Videos)"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-24 19:47:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161124194745id_/http://magic.wizards.com/en/articles/archive/feature/exploring-standard-showdown-videos-2016-11-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/exploring-standard-showdown-videos-2016-11-22"
 ---
 
 

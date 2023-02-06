@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171031012747/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2005-07-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2005-07-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031012747id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2005-07-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 01:27:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring $25,000 in cash prizes and invitations to the Pro Tour for the top 16 finishers.Grand Prix—Philadelphia is presented by Gray Matter Conventions."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-07-20"
+[_metadata_:title]:- "Grand Prix - Philadelphia"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 01:27:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031012747id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2005-07-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2005-07-20"
 ---
 
 

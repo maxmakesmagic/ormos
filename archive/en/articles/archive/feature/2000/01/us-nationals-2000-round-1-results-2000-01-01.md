@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129031322/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-1-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-1-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129031322id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-1-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 03:13:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Akbar, David Devenport, David Won, 1-0 Allen, Dustin Cavey, Michael Won, 2-0 Armstrong, Herman Lovin, Mark Lost, 1-2 Aubertin, Justin Howell, Damon Won, 2-0 Beckmon, John Lewis, Aaron Won, 2-1 Benafel, Chris Bunsongsikul, Ped Drew, 1-1 Bhattacharyya, Sayan Hale, Yancy Drew, 1-1 Bigos, Kyle Carpenter, Ryan Won, 2-0 Blackwell, Trevor Price, David Lost, 0-2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Round 1 Results"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 03:13:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129031322id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-1-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-1-results-2000-01-01"
 ---
 
 

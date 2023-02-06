@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170621130837/http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93charleston-2006-02-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93charleston-2006-02-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170621130837id_/http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93charleston-2006-02-23"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-21 13:08:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "CHARLESTON AREA CONVENTION CENTER JUNE 16-18  Play the Game, See the World"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-02-23"
+[_metadata_:title]:- "2006 Pro Tour–Charleston"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-21 13:08:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170621130837id_/http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93charleston-2006-02-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93charleston-2006-02-23"
 ---
 
 

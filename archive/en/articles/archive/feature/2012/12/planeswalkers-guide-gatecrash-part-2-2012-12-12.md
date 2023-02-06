@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150510232127/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-gatecrash-part-2-2012-12-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-gatecrash-part-2-2012-12-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150510232127id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-gatecrash-part-2-2012-12-12"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-10 23:21:27+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "The Magic Creative Team"
 [_metadata_:description]:- " "
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-12"
+[_metadata_:title]:- "Planeswalker's Guide to Gatecrash: Part 2"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-10 23:21:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150510232127id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-gatecrash-part-2-2012-12-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-gatecrash-part-2-2012-12-12"
 ---
 
 

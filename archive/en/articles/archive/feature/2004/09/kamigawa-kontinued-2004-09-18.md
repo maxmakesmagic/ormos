@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520132844/https://magic.wizards.com/en/articles/archive/feature/kamigawa-kontinued-2004-09-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-kontinued-2004-09-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520132844id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-kontinued-2004-09-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 13:28:44+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Champions of Kamigawa's prerelease is September 18th and 19th, so if you're reading this Saturday morning, just print it out, and head to the nearest prerelease event. Better yet,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-09-18"
+[_metadata_:title]:- "Kamigawa Kontinued"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 13:28:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520132844id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-kontinued-2004-09-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-kontinued-2004-09-18"
 ---
 
 

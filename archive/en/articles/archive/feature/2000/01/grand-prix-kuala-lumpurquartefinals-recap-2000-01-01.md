@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211203191213/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203191213id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 19:12:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Tsutomu Yamada vs. Ryan Soh This quarterfinal match was best two out of three with no time limit. This match featured Japanese played Tsutomu Yamada against Malaysian player Ryan Soh. Yamada plays for Team Muneo, based in Osaka, Japan. Soh plays for the team sponsored by The Games Castle; he is part of a small faction within The Games Castle called Team Turbo Man. Yamada has"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Kuala LumpurQuartefinals Recap"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 19:12:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203191213id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01"
 ---
 
 

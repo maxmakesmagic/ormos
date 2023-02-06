@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220125151054/https://magic.wizards.com/en/articles/archive/feature/intro-packs-2013-09-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intro-packs-2013-09-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125151054id_/https://magic.wizards.com/en/articles/archive/feature/intro-packs-2013-09-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 15:10:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Favors from Nyx Manipulative Monstrosities Devotion to Darkness Blazing Beasts of Myth Anthousa's Army (Back to Product Page) Favors from Nyx With the `Favors from Nyx` deck, bestow the gifts of the divine on your creatures, enhancing them with additional power and useful abilities. A creature with bestow, such as Hopeful Eidolon, can be cast as a creature when you need one or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-11"
+[_metadata_:title]:- "Intro Packs"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 15:10:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125151054id_/https://magic.wizards.com/en/articles/archive/feature/intro-packs-2013-09-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intro-packs-2013-09-11"
 ---
 
 

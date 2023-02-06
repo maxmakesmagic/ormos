@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170130005820/http://magic.wizards.com/en/articles/archive/feature/post-ban-standard-2005-01-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/post-ban-standard-2005-01-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170130005820id_/http://magic.wizards.com/en/articles/archive/feature/post-ban-standard-2005-01-05"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-30 00:58:20+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Ding-Dong, the witch is dead! One of the most hated Standard archetypes of all time has been kicked out of the format."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-01-05"
+[_metadata_:title]:- "POST-BAN STANDARD"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-30 00:58:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170130005820id_/http://magic.wizards.com/en/articles/archive/feature/post-ban-standard-2005-01-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/post-ban-standard-2005-01-05"
 ---
 
 

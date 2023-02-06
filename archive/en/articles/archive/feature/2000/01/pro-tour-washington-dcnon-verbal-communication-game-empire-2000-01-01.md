@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524124829/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcnon-verbal-communication-game-empire-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcnon-verbal-communication-game-empire-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524124829id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcnon-verbal-communication-game-empire-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 12:48:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Coming into PTDC, Alan Comer, Kurt Burgner and Brian Selden, who together form Team Game Empire, hadn't had too many opportunities to work on their non-verbal communication techniques, essential for communicating during the Team Rochester Draft format, in which teams may not speak during a draft, but are free to gesture and point."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Non-Verbal Communication with Game Empire"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 12:48:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524124829id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcnon-verbal-communication-game-empire-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcnon-verbal-communication-game-empire-2000-01-01"
 ---
 
 

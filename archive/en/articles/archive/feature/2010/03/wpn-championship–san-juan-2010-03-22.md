@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160401201228/http://magic.wizards.com/en/articles/archive/feature/wpn-championship%E2%80%93san-juan-2010-03-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wpn-championship%E2%80%93san-juan-2010-03-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160401201228id_/http://magic.wizards.com/en/articles/archive/feature/wpn-championship%E2%80%93san-juan-2010-03-22"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-01 20:12:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The WPN Championship–San Juan will take place Sunday, May 30, 2010 in San Juan, Puerto Rico at the Pro Tour–San Juan 2010 event.  When you win, the organizer of your event wins too!! WPN Championship–San Juan Prizes:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-22"
+[_metadata_:title]:- "WPN Championship–San Juan"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-01 20:12:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160401201228id_/http://magic.wizards.com/en/articles/archive/feature/wpn-championship%E2%80%93san-juan-2010-03-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wpn-championship%E2%80%93san-juan-2010-03-22"
 ---
 
 

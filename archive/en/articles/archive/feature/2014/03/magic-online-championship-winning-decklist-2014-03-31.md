@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124100950/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-winning-decklist-2014-03-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-winning-decklist-2014-03-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124100950id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-winning-decklist-2014-03-31"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 10:09:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Lars Dam on winning the Magic Online Championship![decklist] Title: Lars Dam Format: 2013 Magic Online Championship - Standard 13 Swamp 4 Blood Crypt 4 Mutavault 4 Temple of Malice 2 Pack Rat 4 Desecration Demon 3 Nightveil Specter 1 Sire of Insanity 2 Lifebane Zombie 1 Erebos, God of the Dead 3 Gray Merchant of Asphodel 2 Bile Blight 4 Devour Flesh 4 Hero's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-31"
+[_metadata_:title]:- "Magic Online Championship Winning Decklist"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 10:09:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124100950id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-winning-decklist-2014-03-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-winning-decklist-2014-03-31"
 ---
 
 

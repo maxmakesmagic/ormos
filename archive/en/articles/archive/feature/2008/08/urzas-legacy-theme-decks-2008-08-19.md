@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523025426/https://magic.wizards.com/en/articles/archive/feature/urzas-legacy-theme-decks-2008-08-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/urzas-legacy-theme-decks-2008-08-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523025426id_/https://magic.wizards.com/en/articles/archive/feature/urzas-legacy-theme-decks-2008-08-19"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 02:54:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Crusher Phyrexian Assault Radiant's Revenge Time Drain (Back to Product Page) Crusher Before Urza can complete the Legacy and build the famed ship Weatherlight, the planeswalker must overcome some large obstacles: hulking worms and treefolk. They're big, they're bad, and they're worth the wait. Once you bring them out, `Crusher` is bound to leave your opponents hurting."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-19"
+[_metadata_:title]:- "Urza's Legacy Theme Decks"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 02:54:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523025426id_/https://magic.wizards.com/en/articles/archive/feature/urzas-legacy-theme-decks-2008-08-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/urzas-legacy-theme-decks-2008-08-19"
 ---
 
 

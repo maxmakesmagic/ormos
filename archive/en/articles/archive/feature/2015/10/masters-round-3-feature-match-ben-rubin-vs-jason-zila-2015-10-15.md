@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160707135804/http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-ben-rubin-vs-jason-zila-2015-10-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-ben-rubin-vs-jason-zila-2015-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707135804id_/http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-ben-rubin-vs-jason-zila-2015-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:58:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Elliot Fertik"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:title]:- "Masters Round 3 Feature Match: Ben Rubin vs. Jason Zila"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:58:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707135804id_/http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-ben-rubin-vs-jason-zila-2015-10-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-ben-rubin-vs-jason-zila-2015-10-15"
 ---
 
 

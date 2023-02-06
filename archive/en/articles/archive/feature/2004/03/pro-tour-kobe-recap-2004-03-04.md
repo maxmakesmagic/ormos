@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523030019/https://magic.wizards.com/en/articles/archive/feature/pro-tour-kobe-recap-2004-03-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-kobe-recap-2004-03-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523030019id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-kobe-recap-2004-03-04"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 03:00:19+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "It finally happened. We have the first Japanese Pro Tour champion. In those final minutes of Pro Tour Kobe the Japanese at last got their Champion, and even at a Japanese Pro Tour no less. Those who have been waiting for such an event have had to wait for years, and through several near misses. First there was Tsuyoshi Fujita – the first Japanese player to make a Pro Tour top"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-03-04"
+[_metadata_:title]:- "Pro Tour Kobe Recap"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 03:00:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523030019id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-kobe-recap-2004-03-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-kobe-recap-2004-03-04"
 ---
 
 

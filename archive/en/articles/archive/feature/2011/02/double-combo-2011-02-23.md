@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210126060438/https://magic.wizards.com/en/articles/archive/feature/double-combo-2011-02-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/double-combo-2011-02-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210126060438id_/https://magic.wizards.com/en/articles/archive/feature/double-combo-2011-02-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-26 06:04:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Wanipop Pnomdontri's Double Combo Format: Extended 1 Cascade Bluffs 1 Copperline Gorge 1 Fire-Lit Thicket 3 Flooded Grove 3 Forest 2 Halimar Depths 4 Island 4 Misty Rainforest 1 Mountain 2 Scalding Tarn 4 Valakut, the Molten Pinnacle 4 Bloodbraid Elf 4 Pestermite 4 Cryptic Command 3 Explore 3 Ponder 4 Preordain 4 Prismatic Omen 3 Rampant Growth 3 Scapeshift 2 Splinter Twin *3 Kitchen Finks *2 Nature's Claim"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-02-23"
+[_metadata_:title]:- "Double Combo"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-26 06:04:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210126060438id_/https://magic.wizards.com/en/articles/archive/feature/double-combo-2011-02-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/double-combo-2011-02-23"
 ---
 
 

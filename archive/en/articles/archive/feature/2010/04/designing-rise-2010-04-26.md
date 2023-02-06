@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200922153920/https://magic.wizards.com/en/articles/archive/feature/designing-rise-2010-04-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/designing-rise-2010-04-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200922153920id_/https://magic.wizards.com/en/articles/archive/feature/designing-rise-2010-04-26"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-22 15:39:20+00:00"
+[_metadata_:author]:- "Brian Tinsman"
 [_metadata_:description]:- "My name is Brian Tinsman, and I'm the Rise of the Eldrazi design team lead. I was also lead designer of Judgment, Scourge, Champions of Kamigawa, Saviors of Kamigawa, and Time Spiral. My job title is Game Design Manager, New Business Development. That means that in addition to designing Magic sets I lead the game design teams of many other products at Wizards. I'm also an author, speaker, and teacher of game design so I have among the highest game design expertise in the company."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-26"
+[_metadata_:title]:- "Designing Rise"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-22 15:39:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200922153920id_/https://magic.wizards.com/en/articles/archive/feature/designing-rise-2010-04-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/designing-rise-2010-04-26"
 ---
 
 

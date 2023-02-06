@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180225200812/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-multiple-choice-test-answers-2006-10-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-multiple-choice-test-answers-2006-10-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180225200812id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-multiple-choice-test-answers-2006-10-11"
-[_metadata_:wayback_capture_timestamp]:- "2018-02-25 20:08:12+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Now that you’ve taken the test and had it scored, it’s time to take a look at the answers. For each answer, I will not only tell you the correct choice, but I’ll explain why it’s the correct choice and talk about some of the pitfalls built into the question."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-10-11"
+[_metadata_:title]:- "The Great Designer Search Multiple Choice Test Answers"
+[_metadata_:wayback_capture_timestamp]:- "2018-02-25 20:08:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180225200812id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-multiple-choice-test-answers-2006-10-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-multiple-choice-test-answers-2006-10-11"
 ---
 
 

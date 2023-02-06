@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210508012532/https://magic.wizards.com/en/articles/archive/feature/what-magic-gathering-2008-08-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-magic-gathering-2008-08-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210508012532id_/https://magic.wizards.com/en/articles/archive/feature/what-magic-gathering-2008-08-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-08 01:25:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "You're here because you want to learn the Magic: The Gathering game, the world's premier trading card game. It was the first of its kind, and it's still the best and the biggest.In the Magic game, you play the role of a planeswalker—a powerful wizard who fights other planeswalkers for glory, knowledge, and conquest. Your deck of cards represents all the weapons in your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-08"
+[_metadata_:title]:- "What is Magic: The Gathering?"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-08 01:25:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210508012532id_/https://magic.wizards.com/en/articles/archive/feature/what-magic-gathering-2008-08-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-magic-gathering-2008-08-08"
 ---
 
 

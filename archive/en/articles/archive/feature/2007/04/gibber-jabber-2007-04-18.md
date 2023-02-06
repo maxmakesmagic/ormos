@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170519081551/http://magic.wizards.com/en/articles/archive/feature/gibber-jabber-2007-04-18)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gibber-jabber-2007-04-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170519081551id_/http://magic.wizards.com/en/articles/archive/feature/gibber-jabber-2007-04-18"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-19 08:15:51+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Howdy, all. It's preview time, so throw away your crystal balls and prepare to fast-forward. The future is nigh. And by `nigh,` I mean four paragraphs away. Does it get any nigher than that?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-04-18"
+[_metadata_:title]:- "Gibber Jabber"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-19 08:15:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170519081551id_/http://magic.wizards.com/en/articles/archive/feature/gibber-jabber-2007-04-18"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gibber-jabber-2007-04-18"
 ---
 
 

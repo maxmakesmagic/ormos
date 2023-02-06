@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170818133946/http://magic.wizards.com/en/articles/archive/feature/around-worlds-fifteens-years-2009-11-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/around-worlds-fifteens-years-2009-11-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818133946id_/http://magic.wizards.com/en/articles/archive/feature/around-worlds-fifteens-years-2009-11-16"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-18 13:39:46+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-16"
+[_metadata_:title]:- "Around the Worlds in Fifteens Years"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-18 13:39:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818133946id_/http://magic.wizards.com/en/articles/archive/feature/around-worlds-fifteens-years-2009-11-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/around-worlds-fifteens-years-2009-11-16"
 ---
 
 

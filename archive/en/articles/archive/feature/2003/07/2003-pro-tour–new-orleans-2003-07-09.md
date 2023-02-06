@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021221645/https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93new-orleans-2003-07-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93new-orleans-2003-07-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021221645id_/https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93new-orleans-2003-07-09"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 22:16:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This information will help you to prepare now to attend October 31st – November 2nd, 2003.Where and How to Qualify Tournament Location Hotel Information Mandatory Registration Format Prize Payout Artists Side Events Player Contact Invitation List Tournament LocationErnest N. Morial Convention Center 900 Convention Center Blvd., New Orleans, LA 70130 504-582-3023 - Fax :"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-07-09"
+[_metadata_:title]:- "2003 Pro Tour–New Orleans"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 22:16:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021221645id_/https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93new-orleans-2003-07-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93new-orleans-2003-07-09"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180612154306/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-final-day-2018-06-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-final-day-2018-06-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180612154306id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-final-day-2018-06-12"
-[_metadata_:wayback_capture_timestamp]:- "2018-06-12 15:43:06+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Mark recounts the final day of the Great Designer Search 3!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-06-12"
+[_metadata_:title]:- "Great Designer Search 3 – Final Day"
+[_metadata_:wayback_capture_timestamp]:- "2018-06-12 15:43:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180612154306id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-final-day-2018-06-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-final-day-2018-06-12"
 ---
 
 

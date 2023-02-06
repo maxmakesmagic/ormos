@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023185119/https://magic.wizards.com/en/articles/archive/feature/results-furnace-rath-challenge-2004-07-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/results-furnace-rath-challenge-2004-07-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023185119id_/https://magic.wizards.com/en/articles/archive/feature/results-furnace-rath-challenge-2004-07-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 18:51:19+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Last week was Red Week at magicthegathering.com. I was so happy to have a whole week celebrating Red, I hoped I could extend the party just a little bit more by making last week's card the subject of a Reader Challenge. I was sure I was not the only player out there who really likes Red and I made a bet with myself that the challenge would go over well.First of all, I want to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-07-28"
+[_metadata_:title]:- "Results from the Furnace of Rath Challenge"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 18:51:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023185119id_/https://magic.wizards.com/en/articles/archive/feature/results-furnace-rath-challenge-2004-07-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/results-furnace-rath-challenge-2004-07-28"
 ---
 
 

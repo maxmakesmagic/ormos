@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210125032513/https://magic.wizards.com/en/articles/archive/feature/pro-tour-paris-metagame-breakdown-2011-02-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-paris-metagame-breakdown-2011-02-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125032513id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-paris-metagame-breakdown-2011-02-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-25 03:25:13+00:00"
+[_metadata_:author]:- "Paul Jordan"
 [_metadata_:description]:- "The idea is simple—splice a Grand Prix onto a Pro Tour weekend. The execution quickly spirals away from simplicity for everyone involved—ask the judges, organizers, dealers and players (see: Rietzl, Paul). The logistics alone would scare off most folks from even making an attempt at such an ambitious weekend. Thankfully, those putting together Magic Weekend Paris were not deterred and the result was a spectacular success of a weekend."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-02-17"
+[_metadata_:title]:- "Pro Tour Paris Metagame Breakdown"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-25 03:25:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125032513id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-paris-metagame-breakdown-2011-02-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-paris-metagame-breakdown-2011-02-17"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210217141613/https://magic.wizards.com/en/articles/archive/feature/saturday-school-2-2002-11-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-2-2002-11-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210217141613id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-2-2002-11-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-17 14:16:13+00:00"
+[_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Rune is back to answer more of your questions, including one that's on everyone's mind… `Do token creatures go to the graveyard?` General / Older Card Questions Q: I have a question regarding what happens to token creatures when they are killed. I've seen players use combos of Battle Screech to put Bird tokens into play and Soulcatchers' Aerie to add +1/+1 counters `whenever a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-11-02"
+[_metadata_:title]:- "Saturday School #2"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-17 14:16:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210217141613id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-2-2002-11-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-2-2002-11-02"
 ---
 
 

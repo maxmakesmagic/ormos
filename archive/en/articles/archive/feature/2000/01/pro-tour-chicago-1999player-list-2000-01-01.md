@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519194530/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999player-list-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999player-list-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519194530id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999player-list-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:45:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Aguiar, Rui (343) Alcantara, Jomar (317) Allen, Crispin (143) Allen, Dustin (144) Allison, Jerry (124) Anderson, Adam (313) Anderson, Alex (4) Arevalos, Francisco (77) Aw, Yuen (262) Baberowski, Dirk (120) Baehr, Kevin (43) Baillargeon, Rene (276) Baker, Justin (284) Barkho, Sammy (151) Basarowich, Christian (89) Bede, Robert (11) Behlen, Andrew (14) Benedict, Brian (176)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Player List"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:45:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519194530id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999player-list-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999player-list-2000-01-01"
 ---
 
 

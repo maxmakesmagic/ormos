@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525090925/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93seattle-2009-trials-2009-03-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93seattle-2009-trials-2009-03-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525090925id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93seattle-2009-trials-2009-03-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:09:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. FormatStandard-constructed format Deck lists are required Tournament LengthSwiss rounds will each be 50 minutes in length Top 8 matches will have no time limit Number of Swiss rounds based on attendance according to the following chart:AttendanceSwiss rounds 17 - 325 33 -"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-16"
+[_metadata_:title]:- "Grand Prix–Seattle 2009 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:09:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525090925id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93seattle-2009-trials-2009-03-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93seattle-2009-trials-2009-03-16"
 ---
 
 

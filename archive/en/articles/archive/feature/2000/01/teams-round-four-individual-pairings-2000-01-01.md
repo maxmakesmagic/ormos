@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202042911/https://magic.wizards.com/en/articles/archive/feature/teams-round-four-individual-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-four-individual-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202042911id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-four-individual-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 04:29:11+00:00"
 [_metadata_:description]:- "Table Player Player 1 Finkel, Jon (USA) vs. Oman, Jimmy (SWE) 2 Benafel, Chris (USA) vs. Jonsson, Andreas (SWE) 3 Hernandez, Frank (USA) vs. Kettil, Mattias (SWE) 4 Forsythe, Aaron (USA) vs. Rosholm, Tomas (SWE) 5 Baudys, Ondrej (CZE) vs. Fuller, Ryan (CAN) 6 Laznovsky, Martin (CZE) vs. Evans, Murray (CAN) 7 Marek, Libor (CZE) vs. Tsang, Gabriel (CAN) 8 Tejnsky, Petr (CZE) vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Teams Round Four Individual Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 04:29:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202042911id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-four-individual-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-four-individual-pairings-2000-01-01"
 ---
 
 

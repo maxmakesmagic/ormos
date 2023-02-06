@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220819012215/https://magic.wizards.com/en/articles/archive/feature/friday-nights-clanmanders-2014-10-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/friday-nights-clanmanders-2014-10-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819012215id_/https://magic.wizards.com/en/articles/archive/feature/friday-nights-clanmanders-2014-10-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 01:22:15+00:00"
+[_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "Dreams come true for James while Alex debates his next commander."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-10-02"
+[_metadata_:title]:- "Friday Nights: Clanmanders"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 01:22:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819012215id_/https://magic.wizards.com/en/articles/archive/feature/friday-nights-clanmanders-2014-10-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/friday-nights-clanmanders-2014-10-02"
 ---
 
 

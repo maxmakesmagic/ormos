@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210128032025/https://magic.wizards.com/en/articles/archive/feature/building-guilds-golgari-swarm-2018-10-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-guilds-golgari-swarm-2018-10-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210128032025id_/https://magic.wizards.com/en/articles/archive/feature/building-guilds-golgari-swarm-2018-10-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-28 03:20:25+00:00"
+[_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "Each guild on Ravnica has its own style, history, and personality, all fleshed out and solidified in our internal world guide."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-10-26"
+[_metadata_:title]:- "Building the Guilds – Golgari Swarm"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-28 03:20:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210128032025id_/https://magic.wizards.com/en/articles/archive/feature/building-guilds-golgari-swarm-2018-10-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-guilds-golgari-swarm-2018-10-26"
 ---
 
 

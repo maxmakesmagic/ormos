@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170522083128/http://magic.wizards.com/en/articles/archive/feature/unknown-error-occured-2010-04-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/unknown-error-occured-2010-04-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170522083128id_/http://magic.wizards.com/en/articles/archive/feature/unknown-error-occured-2010-04-07"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-22 08:31:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "We are sorry for the inconvenience, but the new account creation process for Magic: The Gathering Online is currently unavailable. Please try again later. If this problem persists, please contact Wizards of the Coast Game Support. Thank you."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-07"
+[_metadata_:title]:- "An Unknown Error Occured"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-22 08:31:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170522083128id_/http://magic.wizards.com/en/articles/archive/feature/unknown-error-occured-2010-04-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/unknown-error-occured-2010-04-07"
 ---
 
 

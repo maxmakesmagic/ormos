@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220707010417/https://magic.wizards.com/en/articles/archive/feature/round-1-standings-score-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-standings-score-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707010417id_/https://magic.wizards.com/en/articles/archive/feature/round-1-standings-score-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 01:04:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win%1Jovial Evil333.33%2Madam Fishnut333.33%3Conan the Barbarian333.33%4Suboptimal333.33%5Yellow333.33%6Ride or Die333.33%7Vodalian War Machine333.33%8Team Time Capsule333.33%9Team AA333.33%10Cavity Creeps333.33%113 White Boys from the Stix333.33%12Six Degrees of Kevin Bacon333.33%133 Stooges333.33%14Team Sports Bench333.33%15Two Guys a Girl and a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 1 Standings (by Score)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 01:04:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707010417id_/https://magic.wizards.com/en/articles/archive/feature/round-1-standings-score-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-standings-score-2000-01-01"
 ---
 
 

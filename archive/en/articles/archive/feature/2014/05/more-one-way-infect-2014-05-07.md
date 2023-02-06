@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170217210705/http://magic.wizards.com/en/articles/archive/feature/more-one-way-infect-2014-05-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/more-one-way-infect-2014-05-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170217210705id_/http://magic.wizards.com/en/articles/archive/feature/more-one-way-infect-2014-05-07"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-17 21:07:05+00:00"
+[_metadata_:author]:- "Adam Prosak"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-07"
+[_metadata_:title]:- "More Than One Way to Infect"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-17 21:07:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170217210705id_/http://magic.wizards.com/en/articles/archive/feature/more-one-way-infect-2014-05-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/more-one-way-infect-2014-05-07"
 ---
 
 

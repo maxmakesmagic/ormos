@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170418155427/http://magic.wizards.com/en/articles/archive/feature/trample-civilization-underfoot-2010-06-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/trample-civilization-underfoot-2010-06-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170418155427id_/http://magic.wizards.com/en/articles/archive/feature/trample-civilization-underfoot-2010-06-30"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-18 15:54:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Anyone! Format: Archenemy 10 Forest 1 Graypelt Refuge 1 Khalni Garden 1 Krosan Verge 1 Llanowar Reborn 1 Mosswort Bridge 1 Nantuko Monastery 5 Plains 1 Secluded Steppe 1 Tranquil Thicket 1 Vitu-Ghazi, the City-Tree 1 Feral Hydra 2 Fertilid 1 Forgotten Ancient 1 Hunting Moa 1 Kamahl, Fist of Krosa 1 Krosan Tusker 1 Leaf Gilder 1 Molimo, Maro-Sorcerer 1 Pale Recluse 2 Sakura-Tribe Elder 1 Selesnya Guildmage"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-30"
+[_metadata_:title]:- "Trample Civilization Underfoot"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-18 15:54:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170418155427id_/http://magic.wizards.com/en/articles/archive/feature/trample-civilization-underfoot-2010-06-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/trample-civilization-underfoot-2010-06-30"
 ---
 
 

@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029121441/https://magic.wizards.com/en/articles/archive/feature/finals-recap-duplicate-limited-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-recap-duplicate-limited-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029121441id_/https://magic.wizards.com/en/articles/archive/feature/finals-recap-duplicate-limited-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 12:14:41+00:00"
+[_metadata_:author]:- "Randy Buehler"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Finals Recap - Duplicate Limited"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 12:14:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029121441id_/https://magic.wizards.com/en/articles/archive/feature/finals-recap-duplicate-limited-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-recap-duplicate-limited-2000-01-01"
 ---
 
 

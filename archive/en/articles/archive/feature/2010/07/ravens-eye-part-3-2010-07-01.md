@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210423030518/https://magic.wizards.com/en/articles/archive/feature/ravens-eye-part-3-2010-07-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravens-eye-part-3-2010-07-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210423030518id_/https://magic.wizards.com/en/articles/archive/feature/ravens-eye-part-3-2010-07-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-23 03:05:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-01"
+[_metadata_:title]:- "The Raven's Eye, Part 3"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-23 03:05:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210423030518id_/https://magic.wizards.com/en/articles/archive/feature/ravens-eye-part-3-2010-07-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravens-eye-part-3-2010-07-01"
 ---
 
 

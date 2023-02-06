@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180920141117/https://magic.wizards.com/en/articles/archive/feature/wall-commander-2012-02-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wall-commander-2012-02-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180920141117id_/https://magic.wizards.com/en/articles/archive/feature/wall-commander-2012-02-02"
-[_metadata_:wayback_capture_timestamp]:- "2018-09-20 14:11:17+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "There are 224 different creature types in Magic, but last week TCGPlayer.com columnist Cassidy Silver chose a rather unusual one to build a Commander deck around: Walls! This unique Commander deck plans to lay down Doran, the Siege Tower and then turn all of its creatures with defender—mostly walls—into attacking threats thanks to Rolling Stones, Wakestone Gargoyle, and Warmonger's Chariot."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-02-02"
+[_metadata_:title]:- "Wall Commander"
+[_metadata_:wayback_capture_timestamp]:- "2018-09-20 14:11:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180920141117id_/https://magic.wizards.com/en/articles/archive/feature/wall-commander-2012-02-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wall-commander-2012-02-02"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220702094608/https://magic.wizards.com/en/articles/archive/feature/round-5-derapin-vs-team-ppb-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-derapin-vs-team-ppb-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702094608id_/https://magic.wizards.com/en/articles/archive/feature/round-5-derapin-vs-team-ppb-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:46:08+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Satoshi Nada vs.Tomoyuki Katayama Game 1 Satoshi started things off with a Pincer Spider, which was matched by Tomoyuki's Mire Kavu. A Satoshi Slingshot Goblin that tried to join the party fell victim to an Exotic Curse, but a Kavu Aggressor and a Horned Kavu showed up to mourn his passing and hopefully avenge his death. Tomoyuki showed that the Exotic Curse had not been a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 5: DERAPIN vs. Team PPB"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:46:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702094608id_/https://magic.wizards.com/en/articles/archive/feature/round-5-derapin-vs-team-ppb-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-derapin-vs-team-ppb-2000-01-01"
 ---
 
 

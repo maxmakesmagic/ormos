@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211206142030/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-4-championship-coverage-2009)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-4-championship-coverage-2009"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206142030id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-4-championship-coverage-2009"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 14:20:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic Online Championship Series awards invites to the Magic World Championships as well as a cash tournament for players who qualify through the series. The results for the Standard-format Season 4 championship are below.Here's how the top 8 matches occurred.top 8 bracket  Quaterfinals         jurda           Archer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-27"
+[_metadata_:title]:- "Magic Online Championship Series - 2009 Season 4 Championship Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 14:20:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206142030id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-4-championship-coverage-2009"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-4-championship-coverage-2009"
 ---
 
 

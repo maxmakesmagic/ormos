@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200923113651/https://magic.wizards.com/en/articles/archive/feature/jake%E2%80%99s-top-ten-things-be-excited-about-2006-2005-12-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jake%E2%80%99s-top-ten-things-be-excited-about-2006-2005-12-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923113651id_/https://magic.wizards.com/en/articles/archive/feature/jake%E2%80%99s-top-ten-things-be-excited-about-2006-2005-12-20"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 11:36:51+00:00"
+[_metadata_:author]:- "Jake Theis"
 [_metadata_:description]:- "What would an end-of-the-year newsletter be without an obligatory Top Ten list? Instead of listing the top ten things of 2005, however, I'm going to list the things coming up in 2006 that I am excited about."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-12-20"
+[_metadata_:title]:- "Jake’s Top Ten Things to Be Excited about in 2006"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 11:36:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923113651id_/https://magic.wizards.com/en/articles/archive/feature/jake%E2%80%99s-top-ten-things-be-excited-about-2006-2005-12-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jake%E2%80%99s-top-ten-things-be-excited-about-2006-2005-12-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190113074610/https://magic.wizards.com/en/articles/archive/feature/through-fog-2012-10-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/through-fog-2012-10-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190113074610id_/https://magic.wizards.com/en/articles/archive/feature/through-fog-2012-10-18"
-[_metadata_:wayback_capture_timestamp]:- "2019-01-13 07:46:10+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Welcome back to Daily Decks! This week, we are taking a look at the results from the 2012's. Today, we feature a list from my home state of Colorado! Eric Weeden showed up to the tournament with an old favorite that has been absent from Standard for quite a while: Turbo Fog."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-18"
+[_metadata_:title]:- "Through the Fog"
+[_metadata_:wayback_capture_timestamp]:- "2019-01-13 07:46:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190113074610id_/https://magic.wizards.com/en/articles/archive/feature/through-fog-2012-10-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/through-fog-2012-10-18"
 ---
 
 

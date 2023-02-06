@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211203013332/https://magic.wizards.com/en/articles/archive/feature/gruul-translation-2006-02-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gruul-translation-2006-02-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203013332id_/https://magic.wizards.com/en/articles/archive/feature/gruul-translation-2006-02-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 01:33:32+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Hammerfist Giant My Freshman English teacher in high school used to say that the smartest person in the room doesn't necessarily know everything (because no one really knows everything); he knows the right place to look for his answers. Competitive Magic works in much the same way. The best deck designers aren't necessarily fonts of unending good ideas; they aren't necessarily"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-02-02"
+[_metadata_:title]:- "Gruul in Translation"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 01:33:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203013332id_/https://magic.wizards.com/en/articles/archive/feature/gruul-translation-2006-02-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gruul-translation-2006-02-02"
 ---
 
 

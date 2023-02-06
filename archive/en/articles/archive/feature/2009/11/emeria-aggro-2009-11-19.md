@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117023102/https://magic.wizards.com/en/articles/archive/feature/emeria-aggro-2009-11-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/emeria-aggro-2009-11-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117023102id_/https://magic.wizards.com/en/articles/archive/feature/emeria-aggro-2009-11-19"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:31:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Shane Giachetti's Emeria Aggro Format: Standard 18 Plains 4 Emeria, the Sky Ruin 4 Baneslayer Angel 2 Devout Lightcaster 4 Kazandu Blademaster 4 Knight of the White Orchid 4 Kor Cartographer 4 Sigiled Paladin 4 White Knight 4 Honor of the Pure 2 Celestial Purge 4 Path to Exile 2 Ajani Goldmane *2 Devout Lightcaster *2 Kor Sanctifiers *1 World Queller *3 Brave"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-19"
+[_metadata_:title]:- "Emeria Aggro"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:31:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117023102id_/https://magic.wizards.com/en/articles/archive/feature/emeria-aggro-2009-11-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/emeria-aggro-2009-11-19"
 ---
 
 

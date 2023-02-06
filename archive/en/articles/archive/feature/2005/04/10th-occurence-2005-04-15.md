@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220808144653/https://magic.wizards.com/en/articles/archive/feature/10th-occurence-2005-04-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/10th-occurence-2005-04-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808144653id_/https://magic.wizards.com/en/articles/archive/feature/10th-occurence-2005-04-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 14:46:53+00:00"
+[_metadata_:author]:- "John Klauk"
 [_metadata_:description]:- "Sealed deck. Some say it is all in the luck of what you open. I know others that argue it is the most skill-testing Limited format. I tend to lean toward the first line of thought. I mean, I have found myself often squeezing the cards one by one slowly apart with an awkward grimace hoping that what I am seeing will suddenly become better card by card. Probably looks as if I’m"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-04-15"
+[_metadata_:title]:- "The 10th Occurence"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 14:46:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808144653id_/https://magic.wizards.com/en/articles/archive/feature/10th-occurence-2005-04-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/10th-occurence-2005-04-15"
 ---
 
 

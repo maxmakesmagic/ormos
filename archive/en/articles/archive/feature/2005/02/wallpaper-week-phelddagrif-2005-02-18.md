@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021000621/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-phelddagrif-2005-02-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-phelddagrif-2005-02-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021000621id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-phelddagrif-2005-02-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:06:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is that legendary hippo-generator from Alliances, Amy Weber's Phelddagrif. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-02-18"
+[_metadata_:title]:- "Wallpaper of the Week: Phelddagrif"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:06:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021000621id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-phelddagrif-2005-02-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-phelddagrif-2005-02-18"
 ---
 
 

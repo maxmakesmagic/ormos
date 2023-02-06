@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170403010758/http://magic.wizards.com/en/articles/archive/feature/good-things-come-threes-2008-01-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/good-things-come-threes-2008-01-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170403010758id_/http://magic.wizards.com/en/articles/archive/feature/good-things-come-threes-2008-01-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-03 01:07:58+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Ask an old kithkin alchemist what to do about faeries, and her first recommendation would be, `Just stay away from them. Their games only lead to trouble.` If you prodded her for more practical remedies, she might recommend an elixir concocted of thyme and bitterblossom petals, the scent of which on your breath might distract them from their mischief for long enough for you to divert their tricks to someone else. But her ultimate suggestion would be this:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-01-09"
+[_metadata_:title]:- "Good Things Come in Threes"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-03 01:07:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170403010758id_/http://magic.wizards.com/en/articles/archive/feature/good-things-come-threes-2008-01-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/good-things-come-threes-2008-01-09"
 ---
 
 

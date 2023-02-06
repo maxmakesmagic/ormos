@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129095503/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-sarkhan-vol-2008-09-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-sarkhan-vol-2008-09-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129095503id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-sarkhan-vol-2008-09-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 09:55:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Daarken's Sarkhan Vol from the upcoming Shards of Alara set. Enjoy. 1280x1024 pixels 1024x768 pixels 800x600 pixels"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-12"
+[_metadata_:title]:- "Wallpaper of the Week: Sarkhan Vol"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 09:55:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129095503id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-sarkhan-vol-2008-09-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-sarkhan-vol-2008-09-12"
 ---
 
 

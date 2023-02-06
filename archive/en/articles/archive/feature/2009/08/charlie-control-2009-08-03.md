@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220813212503/https://magic.wizards.com/en/articles/archive/feature/charlie-control-2009-08-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/charlie-control-2009-08-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813212503id_/https://magic.wizards.com/en/articles/archive/feature/charlie-control-2009-08-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 21:25:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Charles Gindy's Cruel Control Format: 2009 U.S."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-03"
+[_metadata_:title]:- "Charlie Control"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 21:25:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813212503id_/https://magic.wizards.com/en/articles/archive/feature/charlie-control-2009-08-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/charlie-control-2009-08-03"
 ---
 
 

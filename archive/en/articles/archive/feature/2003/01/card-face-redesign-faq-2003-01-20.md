@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128033512/https://magic.wizards.com/en/articles/archive/feature/card-face-redesign-faq-2003-01-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-face-redesign-faq-2003-01-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128033512id_/https://magic.wizards.com/en/articles/archive/feature/card-face-redesign-faq-2003-01-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 03:35:12+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "The new card face design was unveiled at Pro Tour - Chicago this weekend.Why is Wizards changing the design of the Magic cards? With Magic’s 10th anniversary, we felt there was an opportunity to refresh the look of Magic cards and enhance, if we could, the design from the standpoint of both aesthetics and the functionality of the cards.What is the extent of the changes? We’re"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-01-20"
+[_metadata_:title]:- "Card Face Redesign FAQ"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 03:35:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128033512id_/https://magic.wizards.com/en/articles/archive/feature/card-face-redesign-faq-2003-01-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-face-redesign-faq-2003-01-20"
 ---
 
 

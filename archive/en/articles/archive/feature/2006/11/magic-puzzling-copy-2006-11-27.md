@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502053458/https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-copy-2006-11-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-copy-2006-11-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053458id_/https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-copy-2006-11-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:34:58+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Your opponent is Adam. You and he are playing using only Time Spiral cards. The game has been long and quirky. You just drew the last card in your library, a Magus of the Disk. Realizing that you have to win this turn, you looked at your cards in hand and in play and what Adam had in play (Adam currently has no cards in hand). After a little study, you realize that you can"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-27"
+[_metadata_:title]:- "Magic: The Puzzling - Copy That"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:34:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053458id_/https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-copy-2006-11-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-copy-2006-11-27"
 ---
 
 

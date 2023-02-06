@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526054707/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-37)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-37"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526054707id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-37"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 05:47:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Quarterfinals Feature Match Stephen McArthur vs Sebastien Laurent McArthur was confident going into the match. He strongly feels that his version of Necro should beat, nay, crush Sligh. Conventional wisdom suggests otherwise, and so Laurent is confident as well. McArthur cast a first turn Duress that surely did not make him happy. Among other"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 05:47:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526054707id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-37"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-37"
 ---
 
 

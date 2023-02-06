@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120180722/https://magic.wizards.com/en/articles/archive/feature/alliances-2008-08-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alliances-2008-08-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120180722id_/https://magic.wizards.com/en/articles/archive/feature/alliances-2008-08-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:07:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights The eighth Magic expansion, Alliances, continued several themes introduced in its predecessor, Ice Age. With `cantrips,` cumulative upkeep, and `pitch` cards, this popular 199-card expansion is widely considered the measuring stick for new releases.  Cardlists & FAQs Cardlists Alliances Spoiler List Alliances Checklist Alliances DE Checklist Alliances SP"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-11"
+[_metadata_:title]:- "Alliances"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:07:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120180722id_/https://magic.wizards.com/en/articles/archive/feature/alliances-2008-08-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alliances-2008-08-11"
 ---
 
 

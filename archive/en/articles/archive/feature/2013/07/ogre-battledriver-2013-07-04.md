@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518151716/https://magic.wizards.com/en/articles/archive/feature/ogre-battledriver-2013-07-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ogre-battledriver-2013-07-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518151716id_/https://magic.wizards.com/en/articles/archive/feature/ogre-battledriver-2013-07-04"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 15:17:16+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Ogre Battledriver is an extreme powerful creature to untap with. If you have it in play, and cast and flashback Lingering Souls, those tokens alone can attack for 12 that turn. The problem is, if you build your deck to untap with a four-mana 3/3, your opponent is unlikely to let you do that. Fortunately, I think we can do better.Instead of trying to untap with Ogre"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-04"
+[_metadata_:title]:- "Ogre Battledriver"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 15:17:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518151716id_/https://magic.wizards.com/en/articles/archive/feature/ogre-battledriver-2013-07-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ogre-battledriver-2013-07-04"
 ---
 
 

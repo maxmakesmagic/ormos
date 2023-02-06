@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429043717/https://magic.wizards.com/en/articles/archive/feature/im-ur-column-tasting-ur-magic-2008-05-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/im-ur-column-tasting-ur-magic-2008-05-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429043717id_/https://magic.wizards.com/en/articles/archive/feature/im-ur-column-tasting-ur-magic-2008-05-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:37:17+00:00"
+[_metadata_:author]:- "Ken Nagle"
 [_metadata_:description]:- "Surprise! I'm not Doug `Who’s going to write my column while I’m on vacation?` Beyer. Though it shouldn't take a -fueled Stroke of Genius to figure that out...Welcome to a very special episode of Taste the Magic: The Uncreative Edition. Why is it so uncreative? Because I am NOT part of the Magic creative team. I'm a proud member of Magic Design and Development, the awesomest"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-05-07"
+[_metadata_:title]:- "I'M IN UR COLUMN, TASTING UR MAGIC"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:37:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429043717id_/https://magic.wizards.com/en/articles/archive/feature/im-ur-column-tasting-ur-magic-2008-05-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/im-ur-column-tasting-ur-magic-2008-05-07"
 ---
 
 

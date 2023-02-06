@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220807155912/https://magic.wizards.com/en/articles/archive/feature/grand-prix-porto-alegre-trials-2004-08-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-porto-alegre-trials-2004-08-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807155912id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-porto-alegre-trials-2004-08-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-07 15:59:12+00:00"
+[_metadata_:author]:- "updated 9-15-04"
 [_metadata_:description]:- "CountryCityEvent DateOrganizerEmailArgentinaBuenos Aires10/24/2004Juan Del Comparemtgarg@netizen.com.arArgentinaRosario10/16/2004Christian Tapiamtgros@mtgros.netArgentinaCordoba10/9/2004Sergio Sessaregossessa71@hotmail.comBrazilNovo Hamburgo9/5/2004Renan F Weisheinerrenan_voraz@hotmail.comBrazilPorto alegre9/12/2004Rafael Dei Svaldijambo@brturbo.netBrazilPorto"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-03"
+[_metadata_:title]:- "Grand Prix - Porto Alegre Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-07 15:59:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807155912id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-porto-alegre-trials-2004-08-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-porto-alegre-trials-2004-08-03"
 ---
 
 

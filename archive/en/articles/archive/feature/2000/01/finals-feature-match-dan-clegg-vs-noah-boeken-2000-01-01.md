@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524230711/https://magic.wizards.com/en/articles/archive/feature/finals-feature-match-dan-clegg-vs-noah-boeken-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-feature-match-dan-clegg-vs-noah-boeken-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524230711id_/https://magic.wizards.com/en/articles/archive/feature/finals-feature-match-dan-clegg-vs-noah-boeken-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 23:07:11+00:00"
+[_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "Dan CleggPro Tour Barcelona semifinalist Dan Clegg, known to some as `the Slug`, faced of against Noah Boeken, current European Champion. The draft was full of strange situations, as complains about differences in the times to draft and internal conflicts between members of www.alphabetaunlimited.com. During deck construction, Ryan Fuller had to calm Chris and Noah down and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Finals Feature Match: Dan Clegg vs. Noah Boeken"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 23:07:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524230711id_/https://magic.wizards.com/en/articles/archive/feature/finals-feature-match-dan-clegg-vs-noah-boeken-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-feature-match-dan-clegg-vs-noah-boeken-2000-01-01"
 ---
 
 

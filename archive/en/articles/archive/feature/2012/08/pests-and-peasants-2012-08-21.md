@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160221044318/http://magic.wizards.com/en/articles/archive/feature/pests-and-peasants-2012-08-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pests-and-peasants-2012-08-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160221044318id_/http://magic.wizards.com/en/articles/archive/feature/pests-and-peasants-2012-08-21"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-21 04:43:18+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "There was certainly a time in my Magic career when you would not have been able to convince me to play aggro in any form. The entire genre of decks were scoffed at by the up-and-coming PTQ crowd, and I was really no different. I understood they still took skill but thought they could never show off the same amount of skills as control could. Control was for better players."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-21"
+[_metadata_:title]:- "Pests and Peasants"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-21 04:43:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160221044318id_/http://magic.wizards.com/en/articles/archive/feature/pests-and-peasants-2012-08-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pests-and-peasants-2012-08-21"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701034818/https://magic.wizards.com/en/articles/archive/feature/round-10-pairings-player-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-pairings-player-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701034818id_/https://magic.wizards.com/en/articles/archive/feature/round-10-pairings-player-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 03:48:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPointsOpponentPointsAbsolute *21vsFire Beat21Circle Money Draft18vsTeam 25:1718Dekiru-Kana?22vsTeam Emon Staff *22DERAPIN19vsP-Kies19Fire Beat21vsAbsolute *21Loafing Giants22vsVoice of Soul22Magic Square21vsTanshoku club with 25 *19NISIKI *18vsYaburon19P-Kies19vsDERAPIN19Poor Shark22vsTeam Apprentice *22Potato Peach22vsScrambled Steak21Scrambled Steak21vsPotato"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 10 Pairings (by Player)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 03:48:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701034818id_/https://magic.wizards.com/en/articles/archive/feature/round-10-pairings-player-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-pairings-player-2000-01-01"
 ---
 
 

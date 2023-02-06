@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200803160905/https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200803160905id_/https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-03 16:09:05+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "Announcement Date: December 1, 2003 Effective Date: January 1, 2004"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-12-01"
+[_metadata_:title]:- "Banned & Restricted Announcement"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-03 16:09:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200803160905id_/https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01"
 ---
 
 

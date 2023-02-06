@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027192847/https://magic.wizards.com/en/articles/archive/feature/2007-magic-scholarship-series-2006-11-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-magic-scholarship-series-2006-11-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027192847id_/https://magic.wizards.com/en/articles/archive/feature/2007-magic-scholarship-series-2006-11-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 19:28:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: the Gathering® 2007 Scholarship Series Championship will be at Magic Weekend alongside the U.S. National Championship on July 28-29 at the Baltimore Convention Center. For information about the Magic Scholarship Series Open being held on July 27, click here Tournament Location Baltimore Convention Center Halls A and B One West Pratt Street Baltimore, MD 21201 (401)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-08"
+[_metadata_:title]:- "2007 Magic Scholarship Series"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 19:28:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027192847id_/https://magic.wizards.com/en/articles/archive/feature/2007-magic-scholarship-series-2006-11-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-magic-scholarship-series-2006-11-08"
 ---
 
 

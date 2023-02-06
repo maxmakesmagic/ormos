@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220829154702/https://magic.wizards.com/en/articles/archive/feature/whats-new-list-dominaria-united-2022-08-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whats-new-list-dominaria-united-2022-08-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220829154702id_/https://magic.wizards.com/en/articles/archive/feature/whats-new-list-dominaria-united-2022-08-29"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-29 15:47:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Check out the latest changes to The List, the 300 cards from Magic's past you can find in Dominaria United Set Boosters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-08-29"
+[_metadata_:title]:- "What's New on The List for Dominaria United"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-29 15:47:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220829154702id_/https://magic.wizards.com/en/articles/archive/feature/whats-new-list-dominaria-united-2022-08-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whats-new-list-dominaria-united-2022-08-29"
 ---
 
 

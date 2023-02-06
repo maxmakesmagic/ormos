@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220707125403/https://magic.wizards.com/en/articles/archive/feature/card-day-october-2011-2011-10-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-october-2011-2011-10-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707125403id_/https://magic.wizards.com/en/articles/archive/feature/card-day-october-2011-2011-10-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 12:54:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Sakashima the Impostor – Saviors of Kamigawa rare. Kamigawa block was all about legends, both in the sense of `cards that can have only copy in play at a time` and `stories that have achieved mythic status.` So in the run-up to the prereleases, the website told the legends behind the Legends. Here's Sakashima the Impostor's story. Sea Monster – Tenth Edition common. The Tenth"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-10-03"
+[_metadata_:title]:- "Card of the Day - October, 2011"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 12:54:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707125403id_/https://magic.wizards.com/en/articles/archive/feature/card-day-october-2011-2011-10-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-october-2011-2011-10-03"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201021135824/https://magic.wizards.com/en/articles/archive/feature/2007-us-national-championship-2006-05-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-us-national-championship-2006-05-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201021135824id_/https://magic.wizards.com/en/articles/archive/feature/2007-us-national-championship-2006-05-30"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-21 13:58:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: the Gathering® 2007 US National Championship will be at Magic Weekend on July 27-29 at the Baltimore Convention Center. Tournament Location Baltimore Convention Center Halls A and B One West Pratt Street Baltimore, MD 21201 (401) 649-7000 Side Events The side events schedule for the 2007 US National Championship is here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-05-30"
+[_metadata_:title]:- "2007 US National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-21 13:58:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201021135824id_/https://magic.wizards.com/en/articles/archive/feature/2007-us-national-championship-2006-05-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-us-national-championship-2006-05-30"
 ---
 
 

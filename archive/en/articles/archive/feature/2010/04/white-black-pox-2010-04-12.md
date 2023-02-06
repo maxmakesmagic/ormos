@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121091233/https://magic.wizards.com/en/articles/archive/feature/white-black-pox-2010-04-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-black-pox-2010-04-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121091233id_/https://magic.wizards.com/en/articles/archive/feature/white-black-pox-2010-04-12"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 09:12:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Charles Lancaster's White-Black Pox Format: Extended – Top 8, Grand Prix-Houston 4 Fetid Heath 4 Flagstones of Trokair 3 Godless Shrine 4 Marsh Flats 2 Plains 4 Swamp 2 Urborg, Tomb of Yawgmoth 2 Baneslayer Angel 4 Bloodghast 4 Dark Confidant 4 Gatekeeper of Malakir 3 Kitchen Finks 2 Stoneforge Mystic 4 Tidehollow Sculler 4 Smallpox 2 Smother 1 Sword of Fire"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-12"
+[_metadata_:title]:- "White-Black Pox"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 09:12:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121091233id_/https://magic.wizards.com/en/articles/archive/feature/white-black-pox-2010-04-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-black-pox-2010-04-12"
 ---
 
 

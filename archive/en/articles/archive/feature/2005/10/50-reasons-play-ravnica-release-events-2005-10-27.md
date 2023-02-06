@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220123052940/https://magic.wizards.com/en/articles/archive/feature/50-reasons-play-ravnica-release-events-2005-10-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/50-reasons-play-ravnica-release-events-2005-10-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123052940id_/https://magic.wizards.com/en/articles/archive/feature/50-reasons-play-ravnica-release-events-2005-10-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 05:29:40+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "Just slip out the back, Jack Make a new plan, Stan You don't need to be coy, Roy Just get yourself free Hop on the bus, Gus You don't need to discuss much Just drop off the key, Lee And get yourself free!What's that? The wrong 50? Oops, sorry about that...{shuffles papers around}Ah, here we go! Ahem.50 Reasons to Play in the Ravnica Release EventsGleemax commands you."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-10-27"
+[_metadata_:title]:- "50 Reasons to Play in the Ravnica Release Events"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 05:29:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123052940id_/https://magic.wizards.com/en/articles/archive/feature/50-reasons-play-ravnica-release-events-2005-10-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/50-reasons-play-ravnica-release-events-2005-10-27"
 ---
 
 

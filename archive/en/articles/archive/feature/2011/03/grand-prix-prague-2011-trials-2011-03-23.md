@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528222656/https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-2011-trials-2011-03-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-2011-trials-2011-03-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528222656id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-2011-trials-2011-03-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 22:26:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix PragueTrials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers at least 1 three-round bye to Grand Prix Prague. WPN Locations in the Prague Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-03-23"
+[_metadata_:title]:- "Grand Prix Prague 2011 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 22:26:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528222656id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-2011-trials-2011-03-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-2011-trials-2011-03-23"
 ---
 
 

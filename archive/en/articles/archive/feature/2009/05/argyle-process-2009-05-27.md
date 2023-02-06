@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211203103257/https://magic.wizards.com/en/articles/archive/feature/argyle-process-2009-05-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/argyle-process-2009-05-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203103257id_/https://magic.wizards.com/en/articles/archive/feature/argyle-process-2009-05-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 10:32:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ever wonder how Steve Argyle creates his cards? Us too! So it's lucky for all of us that Steve has recorded the process for a couple of cards and put them on YouTube. Let's watch together, shall we? Yoked Plowbeast  .  Naya Battlemage  ."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-27"
+[_metadata_:title]:- "The Argyle Process"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 10:32:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203103257id_/https://magic.wizards.com/en/articles/archive/feature/argyle-process-2009-05-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/argyle-process-2009-05-27"
 ---
 
 

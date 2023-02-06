@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123154128/https://magic.wizards.com/en/articles/archive/feature/round-2-sped-vs-empty-gs-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-sped-vs-empty-gs-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123154128id_/https://magic.wizards.com/en/articles/archive/feature/round-2-sped-vs-empty-gs-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 15:41:28+00:00"
+[_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "Sped vs. Empty G'sTeam Sped has grown up on the Pro Tour and they've never stopped having fun. For GP Columbus, the Sped reunion tour lineup is Jaime Parke, Joe Weber, and Bryan Manolakos. Their second round opponents - Empty G's - were Alex Lieberman, Ben Stark, and Antonio de Rosa."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 2: Sped vs. Empty G's"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 15:41:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123154128id_/https://magic.wizards.com/en/articles/archive/feature/round-2-sped-vs-empty-gs-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-sped-vs-empty-gs-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220817200333/https://magic.wizards.com/en/articles/archive/feature/gp-brisbane-field-trip-2004-11-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp-brisbane-field-trip-2004-11-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817200333id_/https://magic.wizards.com/en/articles/archive/feature/gp-brisbane-field-trip-2004-11-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-17 20:03:33+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Wizards of the Coast is out of the office for the Thanksgiving holiday, and will return with new articles beginning Monday, 11/29. In case you"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-27"
+[_metadata_:title]:- "GP Brisbane Field Trip"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-17 20:03:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817200333id_/https://magic.wizards.com/en/articles/archive/feature/gp-brisbane-field-trip-2004-11-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp-brisbane-field-trip-2004-11-27"
 ---
 
 

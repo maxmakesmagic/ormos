@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022032426/https://magic.wizards.com/en/articles/archive/feature/l33t-unhinged-strategery-guide-2004-11-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/l33t-unhinged-strategery-guide-2004-11-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022032426id_/https://magic.wizards.com/en/articles/archive/feature/l33t-unhinged-strategery-guide-2004-11-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 03:24:26+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Remember Unglued? If you do, don't admit to it, you are showing your age. The first funny Magic set was introduced at Gen Con gaming convention, where they hosted a pre-release tournament for it. It was one of the most fun experiences playing Magic one could ask for. Mark Rosewater was there, wearing a chicken suit. Players enjoyed hours of forcing each other to fetch drinks,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-18"
+[_metadata_:title]:- "L33T Unhinged Strategery Guide"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 03:24:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022032426id_/https://magic.wizards.com/en/articles/archive/feature/l33t-unhinged-strategery-guide-2004-11-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/l33t-unhinged-strategery-guide-2004-11-18"
 ---
 
 

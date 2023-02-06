@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522033628/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522033628id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 03:36:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Larkin John 12 68.75 2 Cornelissen Kamiel 12 64.5833 3 Hager Jason 12 62.5 4 Ikeda Tsuyoshi 12 62.5 5 Davis Kevin 12 62.5 6 Gordon Mark 12 60.4167 7 Thompson Mike 12 58.3333 8 Kettil Mattias 12 58.3333 9 Marcus Fred 12 56.25 10 Walker Stewart 12 54.1667 11 Ziegler Eric 12 54.1667 12 Olivieri Nicolas 12 54.1667 13 Budde Kai 12 52.0833 14 Jensen"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 4 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 03:36:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522033628id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-standings-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210615000222/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-public-event-information-2010-07-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-public-event-information-2010-07-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210615000222id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-public-event-information-2010-07-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-15 00:02:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Come one, come all to participate in four days of events open to the public. Starting Thursday with the Last-Chance Qualifier, there are tournaments, drafts, Archenemy, EDH, and open dueling all weekend. Pro Tour–Amsterdam will also play host to a few extra-special events, such as a Scars of Mirrodin preview party on Saturday night, the WPN Championship–Amsterdam, two Pro Tour"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-27"
+[_metadata_:title]:- "Pro Tour–Amsterdam Public Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-15 00:02:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210615000222id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-public-event-information-2010-07-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-public-event-information-2010-07-27"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523225020/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-9-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-9-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523225020id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-9-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 22:50:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 West, Justin 24 60.2513 73.9130 58.9901 9/8/0/0 2 Hong, Craig 22 60.2881 78.9474 57.6581 9/7/1/0 3 Seck, T."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Australian Nationals Round 9 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 22:50:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523225020id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-9-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-9-standings-2000-01-01"
 ---
 
 

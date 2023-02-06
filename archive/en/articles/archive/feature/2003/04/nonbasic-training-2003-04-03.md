@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812180357/https://magic.wizards.com/en/articles/archive/feature/nonbasic-training-2003-04-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nonbasic-training-2003-04-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812180357id_/https://magic.wizards.com/en/articles/archive/feature/nonbasic-training-2003-04-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 18:03:57+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "I have a confession to make: I love nonbasic land. I always have. The first Magic product I ever opened was a Beta starter that had a Bayou (and a Force of Nature), and I was instantly hooked. I still have that Bayou, though I've played with it so frequently that it's practically in tatters. Land is a necessary evil in the game; it fills two-fifths of each deck with cards that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-04-03"
+[_metadata_:title]:- "Nonbasic Training"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 18:03:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812180357id_/https://magic.wizards.com/en/articles/archive/feature/nonbasic-training-2003-04-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nonbasic-training-2003-04-03"
 ---
 
 

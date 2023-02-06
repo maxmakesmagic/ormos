@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518110936/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518110936id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 11:09:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Game Empire 28 59.33 2 Your Move Games 24 65.00 3 CMU 22 62.33 4 Antarctica 22 56.78 5 Tongo Nation 22 55.56 6 Sugar Bus 21 52.67 7 THL 21 51.00 8 Shop Adept 20 54.78 9 Brown Bomber 20 52.78 10 Neutral Ground SF 20 49.56 11 Urban Housing 20 47.00 12 Operation Mise 19 60.67 13 CCC 19 54.78 14 Phenomene J 18 63.67 15 Neutral Ground Detroit 18"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 2 Round 10 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 11:09:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518110936id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-standings-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016125843/https://magic.wizards.com/en/articles/archive/feature/walking-modern-2012-12-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/walking-modern-2012-12-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016125843id_/https://magic.wizards.com/en/articles/archive/feature/walking-modern-2012-12-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 12:58:43+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "There were certainly some number of control decks that people expected to see this past weekend in Toronto. The White-Blue Flash deck has put up results, with and without more aggro elements to it. Scapeshift would be slinging the Cryptic Command. Maybe even White-Blue Tron would surge back into the metagame. But a deck packed with Planeswalkers and Spreading Seas was not"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-14"
+[_metadata_:title]:- "Walking Modern"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 12:58:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016125843id_/https://magic.wizards.com/en/articles/archive/feature/walking-modern-2012-12-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/walking-modern-2012-12-14"
 ---
 
 

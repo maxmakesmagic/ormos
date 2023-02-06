@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170330205921/http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-7-name-selection-2005-08-17)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-7-name-selection-2005-08-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330205921id_/http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-7-name-selection-2005-08-17"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-30 20:59:21+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Here’s what we have so far:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-08-17"
+[_metadata_:title]:- "You Make the Card 3 Step 7 - Name Selection"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-30 20:59:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330205921id_/http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-7-name-selection-2005-08-17"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-7-name-selection-2005-08-17"
 ---
 
 

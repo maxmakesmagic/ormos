@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190731162420/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-2019-edition-previews-2019-07-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-commander-2019-edition-previews-2019-07-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190731162420id_/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-2019-edition-previews-2019-07-31"
-[_metadata_:wayback_capture_timestamp]:- "2019-07-31 16:24:20+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Check back here to see where and when new previews are coming—and for direct links to cards that have already been previewed!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-07-31"
+[_metadata_:title]:- "Where to Find Commander (2019 Edition) Previews"
+[_metadata_:wayback_capture_timestamp]:- "2019-07-31 16:24:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190731162420id_/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-2019-edition-previews-2019-07-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-commander-2019-edition-previews-2019-07-31"
 ---
 
 

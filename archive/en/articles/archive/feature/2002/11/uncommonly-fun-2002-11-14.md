@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211207062321/https://magic.wizards.com/en/articles/archive/feature/uncommonly-fun-2002-11-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/uncommonly-fun-2002-11-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207062321id_/https://magic.wizards.com/en/articles/archive/feature/uncommonly-fun-2002-11-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 06:23:21+00:00"
+[_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "I have two basic goals here at `House of Cards.` The first is to inspire you to make your own decks by reminding you of the fun of deckbuilding. I think there's far too much reliance on the Internet for off-the-shelf decklists, especially when a near-infinite number of decks are waiting to be discovered. I'd argue that sometimes it's much more satisfying to lose five games if"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-11-14"
+[_metadata_:title]:- "Uncommonly Fun"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 06:23:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207062321id_/https://magic.wizards.com/en/articles/archive/feature/uncommonly-fun-2002-11-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/uncommonly-fun-2002-11-14"
 ---
 
 

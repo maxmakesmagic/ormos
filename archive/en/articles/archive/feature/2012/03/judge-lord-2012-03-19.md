@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170512031212/http://magic.wizards.com/en/articles/archive/feature/judge-lord-2012-03-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/judge-lord-2012-03-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170512031212id_/http://magic.wizards.com/en/articles/archive/feature/judge-lord-2012-03-19"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:12:12+00:00"
+[_metadata_:author]:- "Jason Lemahieu"
 [_metadata_:description]:- "Jason LemahieuWe're here in Lords Week and I am thrilled for this opportunity to tell you a bit about the group I have the distinct pleasure of helping lead. We might not have the cult following of Merfolk or the pop-icon status of Vampires, but we've been around almost as long as Magic itself, and we play a critical role in what we can all agree is the greatest game ever created."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-03-19"
+[_metadata_:title]:- "Judge Lord"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:12:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170512031212id_/http://magic.wizards.com/en/articles/archive/feature/judge-lord-2012-03-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/judge-lord-2012-03-19"
 ---
 
 

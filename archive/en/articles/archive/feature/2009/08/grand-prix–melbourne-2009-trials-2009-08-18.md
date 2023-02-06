@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024051245/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93melbourne-2009-trials-2009-08-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93melbourne-2009-trials-2009-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024051245id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93melbourne-2009-trials-2009-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 05:12:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "DateCityCountryVenueContact Email 2009-08-01HobartAustraliaEmail03 62310271Email 2009-08-02AdelaideAustraliaInfinity Games08 84102404Email 2009-08-08SydneyAustraliaGood Games02 92811760Email 2009-08-08MelbourneAustraliaDungeon of Magic03 96505815Email 2009-08-16CanberraAustraliaMind Games Canberra02 62487722Email 2009-08-16IpswichAustraliaMerlins Mantle07 54823758Email"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-18"
+[_metadata_:title]:- "Grand Prix–Melbourne 2009 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 05:12:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024051245id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93melbourne-2009-trials-2009-08-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93melbourne-2009-trials-2009-08-18"
 ---
 
 

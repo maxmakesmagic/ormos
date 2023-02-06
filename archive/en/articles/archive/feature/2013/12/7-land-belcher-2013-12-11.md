@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112020408/https://magic.wizards.com/en/articles/archive/feature/7-land-belcher-2013-12-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/7-land-belcher-2013-12-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020408id_/https://magic.wizards.com/en/articles/archive/feature/7-land-belcher-2013-12-11"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:04:08+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-12-11"
+[_metadata_:title]:- "7-Land Belcher"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:04:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020408id_/https://magic.wizards.com/en/articles/archive/feature/7-land-belcher-2013-12-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/7-land-belcher-2013-12-11"
 ---
 
 

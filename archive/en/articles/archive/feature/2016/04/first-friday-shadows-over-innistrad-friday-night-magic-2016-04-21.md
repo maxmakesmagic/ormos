@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160424095328/http://magic.wizards.com/en/articles/archive/feature/first-friday-shadows-over-innistrad-friday-night-magic-2016-04-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/first-friday-shadows-over-innistrad-friday-night-magic-2016-04-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160424095328id_/http://magic.wizards.com/en/articles/archive/feature/first-friday-shadows-over-innistrad-friday-night-magic-2016-04-21"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-24 09:53:28+00:00"
+[_metadata_:author]:- "Nathan Holt and Shawn Kornhauser"
 [_metadata_:description]:- "The Walking the Planes crew visits a local store to find out what players brought for battle at the first post-rotation FNM."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-04-21"
+[_metadata_:title]:- "First Friday: Shadows over Innistrad at Friday Night Magic"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-24 09:53:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160424095328id_/http://magic.wizards.com/en/articles/archive/feature/first-friday-shadows-over-innistrad-friday-night-magic-2016-04-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/first-friday-shadows-over-innistrad-friday-night-magic-2016-04-21"
 ---
 
 

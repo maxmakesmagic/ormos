@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170309172948/http://magic.wizards.com/en/articles/archive/feature/five-color-elementals-2009-08-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/five-color-elementals-2009-08-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309172948id_/http://magic.wizards.com/en/articles/archive/feature/five-color-elementals-2009-08-24"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 17:29:48+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Brandden `Doogle` McDonough's Five-Color Elementals Format: Standard 4 Ancient Ziggurat 2 Exotic Orchard 1 Forest 1 Mountain 1 Plains 4 Primal Beyond 4 Reflecting Pool 1 Swamp 2 Vivid Crag 2 Vivid Grove 1 Vivid Marsh 4 Bloom Tender 1 Cloudthresher 4 Flamekin Harbinger 1 Fulminator Mage 4 Horde of Notions 4 Incandescent Soulstoke 4 Mulldrifter 4 Reveillark 2 Shriekmaw 4 Smokebraider 1 Tar Fiend 1 Crib Swap"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-24"
+[_metadata_:title]:- "Five-Color Elementals"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 17:29:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309172948id_/http://magic.wizards.com/en/articles/archive/feature/five-color-elementals-2009-08-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/five-color-elementals-2009-08-24"
 ---
 
 

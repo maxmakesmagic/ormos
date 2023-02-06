@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210301103306/https://magic.wizards.com/en/articles/archive/feature/five-years-plus-ten-2009-06-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/five-years-plus-ten-2009-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210301103306id_/https://magic.wizards.com/en/articles/archive/feature/five-years-plus-ten-2009-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-03-01 10:33:06+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "The Duelist premiered in January of 1994, six short months after Magic: The Gathering made its big splash at GenCon. Five years and 33 issues later, they took a multifaceted look at the history of the most popular game in the world. A little over ten years after that, we take a look back at their retrospective in honor of Origin Stories Week. These articles, some republished"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-01"
+[_metadata_:title]:- "Five Years (Plus Ten)"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-01 10:33:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210301103306id_/https://magic.wizards.com/en/articles/archive/feature/five-years-plus-ten-2009-06-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/five-years-plus-ten-2009-06-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160324043154/http://magic.wizards.com/en/articles/archive/feature/developing-shadows-over-innistrad-2016-03-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/developing-shadows-over-innistrad-2016-03-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160324043154id_/http://magic.wizards.com/en/articles/archive/feature/developing-shadows-over-innistrad-2016-03-21"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-24 04:31:54+00:00"
+[_metadata_:author]:- "Dave Humpherys"
 [_metadata_:description]:- "Dave talks about developing the mechanics that shape our return to Innistrad, and shares a sinfully powerful preview card."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-03-21"
+[_metadata_:title]:- "Developing Shadows over Innistrad"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-24 04:31:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160324043154id_/http://magic.wizards.com/en/articles/archive/feature/developing-shadows-over-innistrad-2016-03-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/developing-shadows-over-innistrad-2016-03-21"
 ---
 
 

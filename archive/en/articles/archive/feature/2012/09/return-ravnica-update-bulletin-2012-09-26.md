@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123160631/https://magic.wizards.com/en/articles/archive/feature/return-ravnica-update-bulletin-2012-09-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/return-ravnica-update-bulletin-2012-09-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123160631id_/https://magic.wizards.com/en/articles/archive/feature/return-ravnica-update-bulletin-2012-09-26"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 16:06:31+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Isn't preview season the best? We're all getting ready to return to the urban landscape of Ravnica. The five new guild mechanics have been revealed, and there are plenty of exciting cards to think about with the Prerelease this weekend. And Return to Ravnica might just be the best Prerelease ever, with players from all over the globe joining together in service of their favorite guild. You might expect the Rules Manager to be a natural fit with the lawmages of the Azorius Senate, right up until I killed you and ate you."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-26"
+[_metadata_:title]:- "Return to Ravnica Update Bulletin"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 16:06:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123160631id_/https://magic.wizards.com/en/articles/archive/feature/return-ravnica-update-bulletin-2012-09-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/return-ravnica-update-bulletin-2012-09-26"
 ---
 
 

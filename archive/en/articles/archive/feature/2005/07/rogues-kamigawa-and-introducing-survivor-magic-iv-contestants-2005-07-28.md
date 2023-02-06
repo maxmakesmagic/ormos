@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220116190439/https://magic.wizards.com/en/articles/archive/feature/rogues-kamigawa-and-introducing-survivor-magic-iv-contestants-2005-07-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rogues-kamigawa-and-introducing-survivor-magic-iv-contestants-2005-07-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116190439id_/https://magic.wizards.com/en/articles/archive/feature/rogues-kamigawa-and-introducing-survivor-magic-iv-contestants-2005-07-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 19:04:39+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "Rogues of KamigawaI was sad to see that the only Kamigawa Block Constructed tournament here in Richmond VA was being held on my son's three-year birthday, and since it was unlikely I'd be able to travel to any out of town PTQs, KBC in the world of paper Magic was over for me before it started!Thankfully, there's always Magic Online. Anytime, anywhere, anyhow. You want Magic?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-07-28"
+[_metadata_:title]:- "Rogues of Kamigawa and Introducing Survivor Magic IV Contestants"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 19:04:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116190439id_/https://magic.wizards.com/en/articles/archive/feature/rogues-kamigawa-and-introducing-survivor-magic-iv-contestants-2005-07-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rogues-kamigawa-and-introducing-survivor-magic-iv-contestants-2005-07-28"
 ---
 
 

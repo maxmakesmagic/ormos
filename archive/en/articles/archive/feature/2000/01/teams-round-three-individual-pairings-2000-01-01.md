@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030182559/https://magic.wizards.com/en/articles/archive/feature/teams-round-three-individual-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-three-individual-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030182559id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-three-individual-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 18:25:59+00:00"
 [_metadata_:description]:- "Table Player Seed   Player Seed 1 Finkel, Jon (USA) A vs. Konstanczer, Andre (GER) A 2 Benafel, Chris (USA) B vs. Brinkmann, Jan (GER) B 3 Hernandez, Frank (USA) C"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Teams Round Three Individual Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 18:25:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030182559id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-three-individual-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-three-individual-pairings-2000-01-01"
 ---
 
 

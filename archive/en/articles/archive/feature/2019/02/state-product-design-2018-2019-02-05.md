@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190205155812/https://magic.wizards.com/en/articles/archive/feature/state-product-design-2018-2019-02-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/state-product-design-2018-2019-02-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190205155812id_/https://magic.wizards.com/en/articles/archive/feature/state-product-design-2018-2019-02-05"
-[_metadata_:wayback_capture_timestamp]:- "2019-02-05 15:58:12+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "2018 was packed to the brim with diverse Magic products. Here, Gavin overviews those that stood out most, for better or for worse."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-02-05"
+[_metadata_:title]:- "State of Product Design 2018"
+[_metadata_:wayback_capture_timestamp]:- "2019-02-05 15:58:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190205155812id_/https://magic.wizards.com/en/articles/archive/feature/state-product-design-2018-2019-02-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/state-product-design-2018-2019-02-05"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200529003607/https://magic.wizards.com/en/articles/archive/feature/september-20-2010-dci-banned-restricted-list-announcement-2010-09-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/september-20-2010-dci-banned-restricted-list-announcement-2010-09-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200529003607id_/https://magic.wizards.com/en/articles/archive/feature/september-20-2010-dci-banned-restricted-list-announcement-2010-09-20"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-29 00:36:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Announcement Date: September 20, 2010Effective Date: October 1, 2010VintageFrantic Search is no longer restricted.Gush is no longer restricted.Zendikar Block Constructed, Standard, Extended, Legacy No changesChanges to Magic Online–only formats are now announced monthly in the Magic Online Community Group blog."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-20"
+[_metadata_:title]:- "September 20 2010 DCI Banned & Restricted List Announcement"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-29 00:36:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200529003607id_/https://magic.wizards.com/en/articles/archive/feature/september-20-2010-dci-banned-restricted-list-announcement-2010-09-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/september-20-2010-dci-banned-restricted-list-announcement-2010-09-20"
 ---
 
 

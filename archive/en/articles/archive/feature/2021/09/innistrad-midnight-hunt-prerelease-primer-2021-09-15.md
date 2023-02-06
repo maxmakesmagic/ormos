@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210915144724/https://magic.wizards.com/en/articles/archive/feature/innistrad-midnight-hunt-prerelease-primer-2021-09-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-midnight-hunt-prerelease-primer-2021-09-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210915144724id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-midnight-hunt-prerelease-primer-2021-09-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-15 14:47:24+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Ready to dive into the Kessig countryside? Here's what you should know for a transformative Innistrad: Midnight Hunt Prerelease experience."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-09-15"
+[_metadata_:title]:- "Innistrad: Midnight Hunt Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-15 14:47:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210915144724id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-midnight-hunt-prerelease-primer-2021-09-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-midnight-hunt-prerelease-primer-2021-09-15"
 ---
 
 

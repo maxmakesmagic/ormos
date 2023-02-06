@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220127174229/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-1-feature-match-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-1-feature-match-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127174229id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-1-feature-match-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 17:42:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Jon Finkel vs. Steven O'Mahoney Schwartz Jon Finkel's Hand Round 1 of a Pro Tour isn't usually quite this exciting, but thanks to the joy of radom pairings there were four amazing feature matches featuring a total of 23 Pro Tour Top 8's and 26 additional Grand Prix Top 8's amongst the 8 competitors. (The total goes up from 49 to 57 if you count reporters!) Kastle v Price, Rade"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Round 1 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 17:42:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127174229id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-1-feature-match-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-1-feature-match-2000-01-01-0"
 ---
 
 

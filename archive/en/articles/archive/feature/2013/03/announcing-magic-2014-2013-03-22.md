@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112030124/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-2013-03-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-2013-03-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030124id_/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-2013-03-22"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:01:24+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Ignite Your Spark this year with Magic 2014 and discover a number of cool new things:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-22"
+[_metadata_:title]:- "Announcing Magic 2014"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:01:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030124id_/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-2013-03-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-2013-03-22"
 ---
 
 

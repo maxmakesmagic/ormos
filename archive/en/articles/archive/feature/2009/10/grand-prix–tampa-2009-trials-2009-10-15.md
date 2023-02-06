@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161005073942/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93tampa-2009-trials-2009-10-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93tampa-2009-trials-2009-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161005073942id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93tampa-2009-trials-2009-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-05 07:39:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; Grand Prix– Tampa Trials"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-15"
+[_metadata_:title]:- "Grand Prix–Tampa 2009 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-05 07:39:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161005073942id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93tampa-2009-trials-2009-10-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93tampa-2009-trials-2009-10-15"
 ---
 
 

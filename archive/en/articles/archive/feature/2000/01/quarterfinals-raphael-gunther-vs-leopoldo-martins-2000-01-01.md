@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030063715/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-raphael-gunther-vs-leopoldo-martins-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quarterfinals-raphael-gunther-vs-leopoldo-martins-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030063715id_/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-raphael-gunther-vs-leopoldo-martins-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:37:15+00:00"
 [_metadata_:description]:- "Rui Oliveira Raphael Gunther There is nothing like playing a compatriot, in your own country, in the Top 8 to let you work out the pressure. One of these guys will probably be the top money-maker in this tournament since they are both amateur flagged."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Quarterfinals: Raphael Gunther vs. Leopoldo Martins"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:37:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030063715id_/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-raphael-gunther-vs-leopoldo-martins-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quarterfinals-raphael-gunther-vs-leopoldo-martins-2000-01-01"
 ---
 
 

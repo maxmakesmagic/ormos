@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518000201/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-6-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-6-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518000201id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-6-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 00:02:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Godzilla 18 70.83 2 WACHI-DE? 16 79.17 3 Poor Shark 16 68.06 4 T.F.Z. 16 62.50 5 Team Iwamoto 16 59.56 6 I''s 15 74.44 7 NEW WAVE 15 72.22 8 Team Imabiki 15 69.44 9 Masato Club 15 65.33 10 NAGOYAN 15 64.81 11 UNLUCKY'S 15 62.44 12 SAKURA Gumi 15 59.44 13 HAYATE 15 57.41 14 Team Thirties 15 55.00 15 FIN 15 52.78 16 Team T.T.Y."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 6 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 00:02:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518000201id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-6-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-6-standings-2000-01-01"
 ---
 
 

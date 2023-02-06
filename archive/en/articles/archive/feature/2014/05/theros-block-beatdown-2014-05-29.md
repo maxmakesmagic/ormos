@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025083327/https://magic.wizards.com/en/articles/archive/feature/theros-block-beatdown-2014-05-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-block-beatdown-2014-05-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025083327id_/https://magic.wizards.com/en/articles/archive/feature/theros-block-beatdown-2014-05-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:33:27+00:00"
+[_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "One of the holy grails of great Magic decks is the ability to play an aggressive deck capable of running over your opponents quickly while maintaining the ability to make powerful plays as the game goes on. With the bestow mechanic, Carlos Moral was able to build a deck that was powerful in all stages of the game. At Pro Tour Journey into Nyx, Carlos finished in 18th place on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-29"
+[_metadata_:title]:- "Theros Block Beatdown"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:33:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025083327id_/https://magic.wizards.com/en/articles/archive/feature/theros-block-beatdown-2014-05-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-block-beatdown-2014-05-29"
 ---
 
 

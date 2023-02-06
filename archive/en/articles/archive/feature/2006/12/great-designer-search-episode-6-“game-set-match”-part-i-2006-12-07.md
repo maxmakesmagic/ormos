@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171209051350/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-6-%E2%80%9Cgame-set-match%E2%80%9D-part-i-2006-12-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-6-%E2%80%9Cgame-set-match%E2%80%9D-part-i-2006-12-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171209051350id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-6-%E2%80%9Cgame-set-match%E2%80%9D-part-i-2006-12-07"
-[_metadata_:wayback_capture_timestamp]:- "2017-12-09 05:13:50+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "After many weeks, we’re finally coming into the home stretch. At the end of this challenge, we’ll be down to the Final Three that will be flown to Wizards of the Coast for a formal interview. Who will that be? Before we can find that out, we need to first take a look at this week’s Design Challenge (#5 for those who are counting). Here is what we sent the applicants:  Dear Applicants,  Congratulations – You have advanced past another round!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-12-07"
+[_metadata_:title]:- "The Great Designer Search Episode #6 “Game, Set, Match”, Part I"
+[_metadata_:wayback_capture_timestamp]:- "2017-12-09 05:13:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171209051350id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-6-%E2%80%9Cgame-set-match%E2%80%9D-part-i-2006-12-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-6-%E2%80%9Cgame-set-match%E2%80%9D-part-i-2006-12-07"
 ---
 
 

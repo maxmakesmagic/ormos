@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025145434/https://magic.wizards.com/en/articles/archive/feature/eldrazi-green-2010-04-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eldrazi-green-2010-04-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025145434id_/https://magic.wizards.com/en/articles/archive/feature/eldrazi-green-2010-04-09"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 14:54:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kaffinated's Eldrazi Green Format: Standard 14 Forest 4 Oran-Rief, the Vastwood 2 Tectonic Edge 2 Verdant Catacombs 4 Arbor Elf 4 Elvish Archdruid 4 Elvish Visionary 4 Joraga Warcaller 4 Leatherback Baloth 4 Llanowar Elves 3 Nissa's Chosen 4 Wolfbriar Elemental 2 Eldrazi Monument 3 Nissa Revane 2 Strength of the Tajuru *4 Acidic Slime *4 Great Sable Stag *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-09"
+[_metadata_:title]:- "Eldrazi Green"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 14:54:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025145434id_/https://magic.wizards.com/en/articles/archive/feature/eldrazi-green-2010-04-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eldrazi-green-2010-04-09"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220127213533/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-21-2013-11-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-21-2013-11-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127213533id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-21-2013-11-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 21:35:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Trick, Gavin, and Tifa are back with a quick episode talking about Commander (2013 Edition) and Theros. They will be back again in two weeks with another episode! Episode 21 - Commander & Theros - (12:25) (5.68 MB) The DailyMTG Podcast is on iTunes! You can visit its page right here. Or, if you use a different podcast aggregator, you can point it directly at the RSS feed:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-05"
+[_metadata_:title]:- "DailyMTG.com Podcast #21"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 21:35:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127213533id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-21-2013-11-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-21-2013-11-05"
 ---
 
 

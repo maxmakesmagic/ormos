@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520200722/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-chile-2009-06-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-chile-2009-06-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520200722id_/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-chile-2009-06-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 20:07:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvitation SourceRegional DateRegional CityRegional Country BrianGrady2008 National Championn/an/an/a JulioBernabe2008 National Teamn/an/an/a VictorElizalde2008 National Teamn/an/an/a JuanVeliz2008 National Teamn/an/an/a José LuisEcheverría Paredes2008 Alternaten/an/an/a JulioBernabePro Club 2+n/an/an/a BrianGradyPro Club 2+n/an/an/a JuanVelizPro Club 2+n/an/an/a José"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-24"
+[_metadata_:title]:- "2009 Campeonato Nacional Chile"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 20:07:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520200722id_/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-chile-2009-06-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-chile-2009-06-24"
 ---
 
 

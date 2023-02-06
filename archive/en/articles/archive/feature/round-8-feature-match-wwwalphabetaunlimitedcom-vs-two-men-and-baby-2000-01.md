@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220628022103/https://magic.wizards.com/en/articles/archive/feature/round-8-feature-match-wwwalphabetaunlimitedcom-vs-two-men-and-baby-2000-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-feature-match-wwwalphabetaunlimitedcom-vs-two-men-and-baby-2000-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628022103id_/https://magic.wizards.com/en/articles/archive/feature/round-8-feature-match-wwwalphabetaunlimitedcom-vs-two-men-and-baby-2000-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-28 02:21:03+00:00"
+[_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "Team www.alphabetaunlimited.comwww.alphabetaunlimited.com: Noah Boeken Chris Benafel Ryan FullerTwo men and a baby: Trey Van Cleave Niels Jensen Brian DavisThis was a tough match up to follow since the two teams have been pretty picky at each other during the weekend. When www.revised4th5th.com arrived late today there were some comments about the reaction from `Two men and a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:title]:- "Round 8 Feature Match: www.alphabetaunlimited.com vs. Two men and a baby"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-28 02:21:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628022103id_/https://magic.wizards.com/en/articles/archive/feature/round-8-feature-match-wwwalphabetaunlimitedcom-vs-two-men-and-baby-2000-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-feature-match-wwwalphabetaunlimitedcom-vs-two-men-and-baby-2000-01"
 ---
 
 

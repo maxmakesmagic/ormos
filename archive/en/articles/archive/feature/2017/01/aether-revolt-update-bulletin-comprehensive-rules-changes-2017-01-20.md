@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170123072351/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-update-bulletin-comprehensive-rules-changes-2017-01-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-update-bulletin-comprehensive-rules-changes-2017-01-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170123072351id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-update-bulletin-comprehensive-rules-changes-2017-01-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-23 07:23:51+00:00"
+[_metadata_:author]:- "Eli Shiffrin"
 [_metadata_:description]:- "A review of all the Oracle and Comprehensive Rules changes that come with a new set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-01-20"
+[_metadata_:title]:- "Aether Revolt Update Bulletin—Comprehensive Rules Changes"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-23 07:23:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170123072351id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-update-bulletin-comprehensive-rules-changes-2017-01-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-update-bulletin-comprehensive-rules-changes-2017-01-20"
 ---
 
 

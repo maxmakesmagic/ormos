@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123152921/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123152921id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 15:29:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Alex Shvartsman When one refers to a `mirror match` it is usually understood that the two decks facing each other pursue the same general strategy. In the case of the quarterfinal match between Mattias Kettil (Sweden) and John Larkin (Ireland). Their aggro-rebel decks are virtually identical - literally within two or three cards of each other."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Quarterfinal Recap"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 15:29:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123152921id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01-0"
 ---
 
 

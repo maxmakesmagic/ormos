@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126185434/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-14-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-14-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126185434id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-14-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:54:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Bachmann, David (229) 26 29 Devenport, David (270) 26 Benefel, Chris (163) 29 20 Parker, Brock (286) 25 Benefield, Kevin (234) 19 4 Jocumsen, Bjorn (101) 18 Bernabeu, Jesus (143) 25 43 Mukka, Daniel (184) 25 Blackwell, Trevor (298) 31 14 Ekebom, Erno (178) 32 Boeken, Noah (129) 24 40 Gary, Justin (306) 25 Bulthaud, Sean (314) 27 17 Van de"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 14 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:54:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126185434id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-14-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-14-pairings-2000-01-01"
 ---
 
 

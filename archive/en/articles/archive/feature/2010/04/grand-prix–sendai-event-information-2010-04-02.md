@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160927054716/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sendai-event-information-2010-04-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sendai-event-information-2010-04-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927054716id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sendai-event-information-2010-04-02"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 05:47:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-02"
+[_metadata_:title]:- "Grand Prix–Sendai Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 05:47:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927054716id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sendai-event-information-2010-04-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sendai-event-information-2010-04-02"
 ---
 
 

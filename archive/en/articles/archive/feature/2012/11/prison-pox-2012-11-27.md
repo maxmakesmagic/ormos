@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016092757/https://magic.wizards.com/en/articles/archive/feature/prison-pox-2012-11-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prison-pox-2012-11-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016092757id_/https://magic.wizards.com/en/articles/archive/feature/prison-pox-2012-11-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 09:27:57+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Generally, for a format like Legacy, the best decks tend to sit in that upper sphere of viability for quite a while. The format has no rotation, so without something vital being banned or unbanned, the format's best decks have the luxury of staying there. Of course, new sets do have an impact on the format, but you are talking about increasing the card pool by maybe 1%."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-27"
+[_metadata_:title]:- "Prison Pox"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 09:27:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016092757id_/https://magic.wizards.com/en/articles/archive/feature/prison-pox-2012-11-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prison-pox-2012-11-27"
 ---
 
 

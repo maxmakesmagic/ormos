@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023213835/https://magic.wizards.com/en/articles/archive/feature/ask-pro-august-2006-07-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-pro-august-2006-07-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023213835id_/https://magic.wizards.com/en/articles/archive/feature/ask-pro-august-2006-07-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 21:38:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "During the investigation and after the announcement of his six-month suspension, Olivier Ruel received many emails about his situation. Now that the investigation has concluded, here are answers to several types of emails showing up frequently in his email box, serving as a conclusion to Olivier's run on this feature.In keeping with the European flavor of this feature, Raphaël"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-07-31"
+[_metadata_:title]:- "Ask the Pro: August"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 21:38:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023213835id_/https://magic.wizards.com/en/articles/archive/feature/ask-pro-august-2006-07-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-pro-august-2006-07-31"
 ---
 
 

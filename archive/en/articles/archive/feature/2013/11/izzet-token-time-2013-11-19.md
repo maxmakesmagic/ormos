@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220808231834/https://magic.wizards.com/en/articles/archive/feature/izzet-token-time-2013-11-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/izzet-token-time-2013-11-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808231834id_/https://magic.wizards.com/en/articles/archive/feature/izzet-token-time-2013-11-19"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 23:18:34+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "We're going to kick this week off with a reader submission, as I was sent an interesting list that combines Young Pyromancer, Master of Waves, and Bident of Thassa for an impressive amount of card-drawing potential. Jean R. sent me his blue-red tokens list (which you can do too, using the email link at the bottom of the page), and I made a couple changes that seemed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-19"
+[_metadata_:title]:- "Izzet Token Time?"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 23:18:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808231834id_/https://magic.wizards.com/en/articles/archive/feature/izzet-token-time-2013-11-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/izzet-token-time-2013-11-19"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160809152322/http://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-event-information-2012-11-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-event-information-2012-11-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160809152322id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-event-information-2012-11-15"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-09 15:23:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Sydney is brought to you by Top Deck Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-15"
+[_metadata_:title]:- "Grand Prix Sydney Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-09 15:23:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160809152322id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-event-information-2012-11-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-event-information-2012-11-15"
 ---
 
 

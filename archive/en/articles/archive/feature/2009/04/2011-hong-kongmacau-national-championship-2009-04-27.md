@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525165853/https://magic.wizards.com/en/articles/archive/feature/2011-hong-kongmacau-national-championship-2009-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-hong-kongmacau-national-championship-2009-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525165853id_/https://magic.wizards.com/en/articles/archive/feature/2011-hong-kongmacau-national-championship-2009-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 16:58:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: July 16-17, 2011Event Location: July 16-Shop 1001, 10/F, Windsor HouseJuly 17- G/F Atrium, Windsor HouseAddress: Windsor House, 311 Gloucester Road, Causeway Bay, Hong KongEligibilityThe Magic: the Gathering Hong Kong/Macau National Championship is an invitation-only event, open to citizens or permanent residents of Hong Kong/Macau who have won an invitation to Nationals"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 Hong Kong/Macau National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 16:58:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525165853id_/https://magic.wizards.com/en/articles/archive/feature/2011-hong-kongmacau-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-hong-kongmacau-national-championship-2009-04-27"
 ---
 
 

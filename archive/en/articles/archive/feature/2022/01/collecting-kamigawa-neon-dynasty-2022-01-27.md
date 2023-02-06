@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128221732/https://magic.wizards.com/en/articles/archive/feature/collecting-kamigawa-neon-dynasty-2022-01-27?utm_source=dlvr.it&utm_medium=twitter)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-kamigawa-neon-dynasty-2022-01-27?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128221732id_/https://magic.wizards.com/en/articles/archive/feature/collecting-kamigawa-neon-dynasty-2022-01-27?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 22:17:32+00:00"
+[_metadata_:author]:- "Max McCall"
 [_metadata_:description]:- "Light it up with the latest styles and coolest cards coming in Kamigawa: Neon Dynasty!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-01-27"
+[_metadata_:title]:- "Collecting Kamigawa: Neon Dynasty"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 22:17:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128221732id_/https://magic.wizards.com/en/articles/archive/feature/collecting-kamigawa-neon-dynasty-2022-01-27?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-kamigawa-neon-dynasty-2022-01-27?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

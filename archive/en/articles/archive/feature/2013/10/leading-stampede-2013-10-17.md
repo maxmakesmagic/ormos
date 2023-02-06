@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220808135133/https://magic.wizards.com/en/articles/archive/feature/leading-stampede-2013-10-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/leading-stampede-2013-10-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808135133id_/https://magic.wizards.com/en/articles/archive/feature/leading-stampede-2013-10-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 13:51:33+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Yesterday, I featured a Modern deck ported over to Legacy, and it seems only fitting to do the reverse today. Legacy Elves is one of my favorite decks, and what I played at the last Legacy Grand Prix (as well as at some other tournaments over the last few years), so I'll use any excuse to start casting Nettle Sentinels. This list still has the same group of mana producers,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-17"
+[_metadata_:title]:- "Leading the Stampede"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 13:51:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808135133id_/https://magic.wizards.com/en/articles/archive/feature/leading-stampede-2013-10-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/leading-stampede-2013-10-17"
 ---
 
 

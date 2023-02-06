@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161219190817/http://magic.wizards.com/en/articles/archive/feature/series-rarely-good-events-2008-06-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/series-rarely-good-events-2008-06-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161219190817id_/http://magic.wizards.com/en/articles/archive/feature/series-rarely-good-events-2008-06-19"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-19 19:08:17+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Howdy, folks. It's summertime in my neck of the woods, which apparently means one thing: rain. For the past few weeks, Toronto has been gloomier than Lorwyn after the Aurora. Or is it before the Aurora? In any case, the sunny, storybook world I usually live in has turned into a dark and dreary place like Shadowmoor or Seattle."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-06-19"
+[_metadata_:title]:- "A Series of Rarely Good Events"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-19 19:08:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161219190817id_/http://magic.wizards.com/en/articles/archive/feature/series-rarely-good-events-2008-06-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/series-rarely-good-events-2008-06-19"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170622232544/http://magic.wizards.com/en/articles/archive/feature/players-championship-winning-modern-decklist-2012-09-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/players-championship-winning-modern-decklist-2012-09-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170622232544id_/http://magic.wizards.com/en/articles/archive/feature/players-championship-winning-modern-decklist-2012-09-03"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-22 23:25:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Yuuya Watanabe, the winner of the 2012 Players Championship. Watanabe defeated Shouta Yasooka in a thrilling five-game final to capture the title of Player of the Year. You can read complete coverage of the Players Championship here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-03"
+[_metadata_:title]:- "Players Championship: Winning Modern Decklist"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-22 23:25:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170622232544id_/http://magic.wizards.com/en/articles/archive/feature/players-championship-winning-modern-decklist-2012-09-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/players-championship-winning-modern-decklist-2012-09-03"
 ---
 
 

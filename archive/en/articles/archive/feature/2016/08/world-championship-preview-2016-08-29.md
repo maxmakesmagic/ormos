@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160830171404/http://magic.wizards.com/en/articles/archive/feature/world-championship-preview-2016-08-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/world-championship-preview-2016-08-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160830171404id_/http://magic.wizards.com/en/articles/archive/feature/world-championship-preview-2016-08-29"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-30 17:14:04+00:00"
+[_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Rich daydreams about winning the World Championship before getting down to the reality of what's ahead for our competitors."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-08-29"
+[_metadata_:title]:- "World Championship Preview"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-30 17:14:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160830171404id_/http://magic.wizards.com/en/articles/archive/feature/world-championship-preview-2016-08-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/world-championship-preview-2016-08-29"
 ---
 
 

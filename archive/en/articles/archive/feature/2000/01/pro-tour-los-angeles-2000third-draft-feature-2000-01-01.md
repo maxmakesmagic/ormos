@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211203012537/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000third-draft-feature-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000third-draft-feature-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203012537id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000third-draft-feature-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 01:25:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler When Darwin Kastle is on a hot streak, he puts up some of the best results on tour. His five final day appearances are second only to Jon Finkel and Darwin currently leads the Pro Tour Player of the year race. As Saturday morning dawned on the boat, Darwin sat down at table #1 with a 6-0-1 record. He's quite likely to add to his lead in the player of the year"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Third Draft Feature"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 01:25:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203012537id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000third-draft-feature-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000third-draft-feature-2000-01-01"
 ---
 
 

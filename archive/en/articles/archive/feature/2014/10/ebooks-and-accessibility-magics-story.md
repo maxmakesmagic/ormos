@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20141010122603/http://magic.wizards.com/en/articles/archive/feature/ebooks-and-accessibility-magics-story)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ebooks-and-accessibility-magics-story"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141010122603id_/http://magic.wizards.com/en/articles/archive/feature/ebooks-and-accessibility-magics-story"
-[_metadata_:wayback_capture_timestamp]:- "2014-10-10 12:26:03+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Our goal has always been for a wide range of people to enjoy Magic's story."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-10-08"
+[_metadata_:title]:- "eBooks and the Accessibility of Magic's Story"
+[_metadata_:wayback_capture_timestamp]:- "2014-10-10 12:26:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141010122603id_/http://magic.wizards.com/en/articles/archive/feature/ebooks-and-accessibility-magics-story"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ebooks-and-accessibility-magics-story"
 ---
 
 

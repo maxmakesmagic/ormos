@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520120753/https://magic.wizards.com/en/articles/archive/feature/round-2-feature-match-jon-finkel-vs-donnie-gallitz-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-feature-match-jon-finkel-vs-donnie-gallitz-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520120753id_/https://magic.wizards.com/en/articles/archive/feature/round-2-feature-match-jon-finkel-vs-donnie-gallitz-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 12:07:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In a pairing of two of the Pro Tour's grizzled veterans, New Jersey's Jon Finkel and D.C.'s Donnie Gallitz paired up in a match that got a little ugly. With Gallitz passing to Finkel during the draft, he knew that Jon's deck was more than just optimal, passing just breakers as Troubled Healer and a sixth pick Mageta the Lion. When the two competitors sat down for the match it"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 2 Feature Match - Jon Finkel vs. Donnie Gallitz"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 12:07:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520120753id_/https://magic.wizards.com/en/articles/archive/feature/round-2-feature-match-jon-finkel-vs-donnie-gallitz-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-feature-match-jon-finkel-vs-donnie-gallitz-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521221718/https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-2-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-2-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521221718id_/https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-2-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 22:17:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Allen, Chris ( 28) 1 102 McGuire, Jonathan ( 57) 1 Allen, Dustin ( 17) 1 128 Litton, Zac ( 6) 1 Andrews, Steve ( 31) 1 113 Haslar, Michael ( 34) 1 Angle, Keith ( 4) 1 109 Franco, David ( 83) 1 Austin, Ty ( 68) 1 103 McAndrew, Michael ( 99) 1 Christman, Joel ( 78) 1 123 Pagliocco, Tony ( 20) 1 Conrad, E. Paul ( 58) 1 114 Egedi, Paul ( 60) 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Open 3 Round 2 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 22:17:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521221718id_/https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-2-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-3-round-2-pairings-2000-01-01"
 ---
 
 

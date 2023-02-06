@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030193549/https://magic.wizards.com/en/articles/archive/feature/team-final-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-final-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030193549id_/https://magic.wizards.com/en/articles/archive/feature/team-final-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:35:49+00:00"
 [_metadata_:description]:- "Rank Name Winnings 1 United States $22,000 2 Canada $12,000 3 Finland $8,000 4 Netherlands $8,000 5 Germany   6 Czech Republic  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Team Final Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:35:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030193549id_/https://magic.wizards.com/en/articles/archive/feature/team-final-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-final-standings-2000-01-01"
 ---
 
 

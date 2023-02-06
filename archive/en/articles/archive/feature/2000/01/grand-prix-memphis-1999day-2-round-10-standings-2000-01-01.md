@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527115125/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-10-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-10-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527115125id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-10-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 11:51:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Pacheco, Marc - 1700 28 67.62 2 Pustilnik, Michael 27 70.34 3 Turning, Travis - 1700 27 68.73 4 Sullivan, Adrian 27 68.57 5 Heffern, Mike 25 77.82 6 Jafari, David 25 71.97 7 James, Carl - 1700 25 64.14 8 Kloeckner, Kyle 25 62.86 9 Heiss, Nathan 24 73.93 10 Rauseo, Matt 24 73.81 11 Cain, Joseph 24 69.52 12 Bradley, James G."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Memphis 1999Day 2 Round 10 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 11:51:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527115125id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-10-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-10-standings-2000-01-01"
 ---
 
 

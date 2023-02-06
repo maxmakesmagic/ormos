@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522203749/https://magic.wizards.com/en/articles/archive/feature/magic-online-events-spotlight-modern-2012-06-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-events-spotlight-modern-2012-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522203749id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-events-spotlight-modern-2012-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:37:49+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Avacyn Restored has arrived, adding new weapons to your arsenal. New spells, creatures, and planeswalkers provide new ways to conquer your foes, while miracles can turn the tables when you are on the ropes. Avacyn Restored release events wrap up next week, so there is no better time to start thinking about updating your constructed decks. Just in-case you needed a little"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-01"
+[_metadata_:title]:- "Magic Online Events: Spotlight on Modern"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:37:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522203749id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-events-spotlight-modern-2012-06-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-events-spotlight-modern-2012-06-01"
 ---
 
 

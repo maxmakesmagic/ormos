@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20191111202513/https://magic.wizards.com/en/articles/archive/feature/young-electromancer-2013-11-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/young-electromancer-2013-11-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191111202513id_/https://magic.wizards.com/en/articles/archive/feature/young-electromancer-2013-11-08"
-[_metadata_:wayback_capture_timestamp]:- "2019-11-11 20:25:13+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I always like seeing Goblin Electromancer in decklists, especially `fair` ones that don't involve casting a giant Grapeshot. Playing with Sapphire Medallion was just a ton of fun, and Electromancer is basically a Sapphire Medallion with legs. Today's deck combines the cost reduction of Electromancer with the payoff of Young Pyromancer, all wrapped up in a RWU midrange shell. As you can imagine, I'm a fan of all of those things."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-08"
+[_metadata_:title]:- "Young Electromancer"
+[_metadata_:wayback_capture_timestamp]:- "2019-11-11 20:25:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191111202513id_/https://magic.wizards.com/en/articles/archive/feature/young-electromancer-2013-11-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/young-electromancer-2013-11-08"
 ---
 
 

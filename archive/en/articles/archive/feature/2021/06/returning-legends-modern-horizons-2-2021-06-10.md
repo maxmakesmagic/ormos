@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210612024140/https://magic.wizards.com/en/articles/archive/feature/returning-legends-modern-horizons-2-2021-06-10?utm_source=dlvr.it&utm_medium=twitter)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/returning-legends-modern-horizons-2-2021-06-10?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210612024140id_/https://magic.wizards.com/en/articles/archive/feature/returning-legends-modern-horizons-2-2021-06-10?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-12 02:41:40+00:00"
+[_metadata_:author]:- "Ethan Fleischer"
 [_metadata_:description]:- "Read the stories behind heroes and villains of Magic's past who come to life through the cards of Modern Horizons 2."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-06-10"
+[_metadata_:title]:- "The Returning Legends of Modern Horizons 2"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-12 02:41:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210612024140id_/https://magic.wizards.com/en/articles/archive/feature/returning-legends-modern-horizons-2-2021-06-10?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/returning-legends-modern-horizons-2-2021-06-10?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

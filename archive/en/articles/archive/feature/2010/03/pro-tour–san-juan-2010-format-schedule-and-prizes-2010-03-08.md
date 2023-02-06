@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021021639/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-format-schedule-and-prizes-2010-03-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-format-schedule-and-prizes-2010-03-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021021639id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-format-schedule-and-prizes-2010-03-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 02:16:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document. Format Zendikar-Rise of the Eldrazi Block Constructed and Booster Draft 3 Rise of the Eldrazi boosters will be used for drafting Deck lists are required Check www.thedci.com for Block Constructed and Booster"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-08"
+[_metadata_:title]:- "Pro Tour–San Juan 2010 Format, Schedule, and Prizes"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 02:16:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021021639id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-format-schedule-and-prizes-2010-03-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-format-schedule-and-prizes-2010-03-08"
 ---
 
 

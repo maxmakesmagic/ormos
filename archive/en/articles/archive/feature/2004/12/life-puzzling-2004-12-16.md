@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210118220621/https://magic.wizards.com/en/articles/archive/feature/life-puzzling-2004-12-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/life-puzzling-2004-12-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210118220621id_/https://magic.wizards.com/en/articles/archive/feature/life-puzzling-2004-12-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-18 22:06:21+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "If you were to ask me to describe myself—to sum up my entire life, being, and purpose—in one word, it would not be gamer or writer or even (gasp!) supervillain. It would be puzzler."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-12-16"
+[_metadata_:title]:- "Life Is Puzzling"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-18 22:06:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210118220621id_/https://magic.wizards.com/en/articles/archive/feature/life-puzzling-2004-12-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/life-puzzling-2004-12-16"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220815101704/https://magic.wizards.com/en/articles/archive/feature/sliver-kids-2010-02-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sliver-kids-2010-02-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815101704id_/https://magic.wizards.com/en/articles/archive/feature/sliver-kids-2010-02-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 10:17:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jacob Van Lunen's Sliver Kids Format: Time Spiral Block Two-Headed Giant Draft 8 Forest 9 Mountain 1 Bonesplitter Sliver 2 Homing Sliver 1 Llanowar Empath 2 Reflex Sliver 1 Spinneret Sliver 2 Stingscourger 3 Two-Headed Sliver 3 Virulent Sliver 1 Dead // Gone 1 Flowstone Embrace 2 Ghostfire 1 Grapeshot 1 Orcish Cannonade 1 Pact of the Titan 1 Shivan Meteor"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-17"
+[_metadata_:title]:- "Sliver Kids"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 10:17:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815101704id_/https://magic.wizards.com/en/articles/archive/feature/sliver-kids-2010-02-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sliver-kids-2010-02-17"
 ---
 
 

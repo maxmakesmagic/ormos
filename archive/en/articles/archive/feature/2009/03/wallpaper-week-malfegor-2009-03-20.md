@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170406122120/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-malfegor-2009-03-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-malfegor-2009-03-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170406122120id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-malfegor-2009-03-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-06 12:21:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; This week's desktop wallpaper is the Demon Dragon from Conflux, Jason Chan's Malfegor. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-20"
+[_metadata_:title]:- "Wallpaper of the Week: Malfegor"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-06 12:21:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170406122120id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-malfegor-2009-03-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-malfegor-2009-03-20"
 ---
 
 

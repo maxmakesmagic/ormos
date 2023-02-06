@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150531234410/http://magic.wizards.com/en/articles/archive/feature/friday-nights-six-sides-2015-05-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-six-sides-2015-05-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150531234410id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-six-sides-2015-05-29"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-31 23:44:10+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "LRR builds a Cube. And they observe the Standard Player in their natural habitat."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-05-29"
+[_metadata_:title]:- "Friday Nights: Six Sides"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-31 23:44:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150531234410id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-six-sides-2015-05-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-six-sides-2015-05-29"
 ---
 
 

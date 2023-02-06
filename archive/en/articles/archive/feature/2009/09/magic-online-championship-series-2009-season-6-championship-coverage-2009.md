@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202074956/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-6-championship-coverage-2009)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-6-championship-coverage-2009"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202074956id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-6-championship-coverage-2009"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 07:49:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic Online Championship Series awards invites to the Magic World Championships as well as a cash tournament for players who qualify through the series. The 2009 Season 6 Championship was held on September 20. The format was Masters Edition III sealed deck with a Top 8 Masters Edition III draft."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-21"
+[_metadata_:title]:- "Magic Online Championship Series - 2009 Season 6 Championship Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 07:49:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202074956id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-6-championship-coverage-2009"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-6-championship-coverage-2009"
 ---
 
 

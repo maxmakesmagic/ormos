@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170725205601/http://magic.wizards.com/en/articles/archive/feature/loam-assault-2014-03-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/loam-assault-2014-03-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170725205601id_/http://magic.wizards.com/en/articles/archive/feature/loam-assault-2014-03-19"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-25 20:56:01+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "One of the best things to do against combo decks is retrace Raven's Crime several times. One of the best ways to beat aggressive decks is the Life from the Loam/Seismic Assault combo. If you combine those, you'll likely end up with a deck similar to the one Bronson Magnan used to win Grand Prix Lincoln."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-19"
+[_metadata_:title]:- "Loam Assault"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-25 20:56:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170725205601id_/http://magic.wizards.com/en/articles/archive/feature/loam-assault-2014-03-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/loam-assault-2014-03-19"
 ---
 
 

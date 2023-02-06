@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502134013/https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-11-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-11-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502134013id_/https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-11-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 13:40:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Bill Stark Format: 1st Place 3 Vivid Marsh 4 Vivid Meadow 4 Vivid Creek 2 Vivid Grove 1 Yavimaya Coast 3 Sunken Ruins 4 Reflecting Pool 1 Mystic Gate 1 Caves of Koilos 1 Cascade Bluffs 1 Battlefield Forge 1 Island 1 Nucklavee 4 Mulldrifter 4 Kitchen Finks 1 Cloudthresher 1 Pyroclasm 3 Wrath of God 2 Cruel Ultimatum 2 Remove Soul 3 Negate 4 Esper Charm 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-11-12"
+[_metadata_:title]:- "Magic Cruise Qualifying Season: Top 8 Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 13:40:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502134013id_/https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-11-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-11-12"
 ---
 
 

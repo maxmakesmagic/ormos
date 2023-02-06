@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527115332/https://magic.wizards.com/en/articles/archive/feature/ad-nauseam-2013-06-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ad-nauseam-2013-06-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527115332id_/https://magic.wizards.com/en/articles/archive/feature/ad-nauseam-2013-06-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 11:53:32+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Modern is home to a number of bizarre combo decks, some of which are far more intuitive than others. One of the more abstract decks is the Ad Nauseam combo deck. Like Splinter Twin, this is basically a two-card combo deck where you win when you play both cards together—but that deck can be explained by a simple loop that results in attacking with an arbitrarily large number of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-27"
+[_metadata_:title]:- "Ad Nauseam"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 11:53:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527115332id_/https://magic.wizards.com/en/articles/archive/feature/ad-nauseam-2013-06-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ad-nauseam-2013-06-27"
 ---
 
 

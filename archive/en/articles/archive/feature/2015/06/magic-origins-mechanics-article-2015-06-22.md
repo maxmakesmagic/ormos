@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150623115859/http://magic.wizards.com/en/articles/archive/feature/magic-origins-mechanics-article-2015-06-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-origins-mechanics-article-2015-06-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150623115859id_/http://magic.wizards.com/en/articles/archive/feature/magic-origins-mechanics-article-2015-06-22"
-[_metadata_:wayback_capture_timestamp]:- "2015-06-23 11:58:59+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "The new and returning mechanics of Magic Origins."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-06-22"
+[_metadata_:title]:- "Magic Origins Mechanics Article"
+[_metadata_:wayback_capture_timestamp]:- "2015-06-23 11:58:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150623115859id_/http://magic.wizards.com/en/articles/archive/feature/magic-origins-mechanics-article-2015-06-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-origins-mechanics-article-2015-06-22"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220127204336/https://magic.wizards.com/en/articles/archive/feature/building-better-faerie-realm-2007-10-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-better-faerie-realm-2007-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127204336id_/https://magic.wizards.com/en/articles/archive/feature/building-better-faerie-realm-2007-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 20:43:36+00:00"
+[_metadata_:author]:- "Elye Alexander"
 [_metadata_:description]:- "Hi there.Excuse me for a moment while I look around. This is way cool—I'm on the Magic web site! Who'd've thunk it?...But I suppose I should introduce myself. My name is Elye Alexander; and unlike many of the feature writers here, my official association with Wizards of the Coast began fairly recently. Ah, but unofficially my connection to the game of games goes way back, to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-10-15"
+[_metadata_:title]:- "Building a Better Faerie Realm"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 20:43:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127204336id_/https://magic.wizards.com/en/articles/archive/feature/building-better-faerie-realm-2007-10-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-better-faerie-realm-2007-10-15"
 ---
 
 

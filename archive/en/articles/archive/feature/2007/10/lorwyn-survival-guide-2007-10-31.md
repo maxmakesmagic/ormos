@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170125174850/http://magic.wizards.com/en/articles/archive/feature/lorwyn-survival-guide-2007-10-31)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lorwyn-survival-guide-2007-10-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170125174850id_/http://magic.wizards.com/en/articles/archive/feature/lorwyn-survival-guide-2007-10-31"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-25 17:48:50+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Welcome to the Lorwyn Survival Guide *, part of the award-winning Survival Guide series of interplanar travel books. Lorwyn seems out of the way to most planeswalkers, but is definitely well worth the trip. If you're willing to do your research, prepare adequately, and tread carefully, an excursion to idyllic Lorwyn can be one of the most rewarding and enlightening experiences of your plane-traveling career."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-10-31"
+[_metadata_:title]:- "Lorwyn Survival Guide"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-25 17:48:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170125174850id_/http://magic.wizards.com/en/articles/archive/feature/lorwyn-survival-guide-2007-10-31"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lorwyn-survival-guide-2007-10-31"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201109200834/https://magic.wizards.com/en/articles/archive/feature/commander-legends-prerelease-primer-2020-11-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-legends-prerelease-primer-2020-11-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201109200834id_/https://magic.wizards.com/en/articles/archive/feature/commander-legends-prerelease-primer-2020-11-09"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-09 20:08:34+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin goes through all the need-to-know info to prep players for the Commander Legends Prerelease."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-11-09"
+[_metadata_:title]:- "Commander Legends Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-09 20:08:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201109200834id_/https://magic.wizards.com/en/articles/archive/feature/commander-legends-prerelease-primer-2020-11-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-legends-prerelease-primer-2020-11-09"
 ---
 
 

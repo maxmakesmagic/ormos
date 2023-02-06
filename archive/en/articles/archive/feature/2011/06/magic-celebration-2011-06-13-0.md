@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022044905/https://magic.wizards.com/en/articles/archive/feature/magic-celebration-2011-06-13-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-celebration-2011-06-13-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022044905id_/https://magic.wizards.com/en/articles/archive/feature/magic-celebration-2011-06-13-0"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 04:49:05+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "`PlayStation` and the `PS` Family logo are registered trademarks and “PS3” is a trademark of Sony Computer Entertainment Inc. The PlayStation Network Logo is a service mark of Sony Computer Entertainment Inc. © 2011 Microsoft Corporation. All rights reserved. Microsoft, Xbox, Xbox LIVE, and the Xbox logos are trademarks of the Microsoft group of companies. ©2011 Valve"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-06-13"
+[_metadata_:title]:- "Magic Celebration"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 04:49:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022044905id_/https://magic.wizards.com/en/articles/archive/feature/magic-celebration-2011-06-13-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-celebration-2011-06-13-0"
 ---
 
 

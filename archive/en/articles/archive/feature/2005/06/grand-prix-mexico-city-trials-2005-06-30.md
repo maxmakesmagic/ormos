@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022012645/https://magic.wizards.com/en/articles/archive/feature/grand-prix-mexico-city-trials-2005-06-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-mexico-city-trials-2005-06-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022012645id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-mexico-city-trials-2005-06-30"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 01:26:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "CountryDateCityOrganizerEmailWebsiteArgentina7/9/05Buenos AiresJuan Del Comparemtgarg@netizen.com.arArgentina7/16/05Cordobajose Nazarenomtgarg@netizen.com.arArgentina7/22/05Mar Del PlataJuan Del Comparemtgarg@netizen.com.arBolivia7/22/05La PazEdwin Villegastierramedia@mail.comWebsiteBrazil7/31/05Rio de JaneiroVitor Quirinovitorquirino@atorregame.comWebsiteBrazil7/10/05Porto"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-06-30"
+[_metadata_:title]:- "Grand Prix Mexico City Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 01:26:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022012645id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-mexico-city-trials-2005-06-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-mexico-city-trials-2005-06-30"
 ---
 
 

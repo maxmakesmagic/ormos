@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527183127/https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-qualifiers-top-8-standard-decklists-2013-04-18-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-qualifiers-top-8-standard-decklists-2013-04-18-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527183127id_/https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-qualifiers-top-8-standard-decklists-2013-04-18-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 18:31:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "World Magic Cup Qualifier Top 8 Decklists Thanks to tournament organizer Takakuwa Akihiro for the deck lists."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-18"
+[_metadata_:title]:- "World Magic Cup Qualifiers: Top 8 Standard Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 18:31:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527183127id_/https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-qualifiers-top-8-standard-decklists-2013-04-18-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-qualifiers-top-8-standard-decklists-2013-04-18-0"
 ---
 
 

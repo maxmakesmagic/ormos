@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516063549/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516063549id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:35:49+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points 770 (26) 3 30 Billy Goats Gruff (61) 3 Amsterdam (52) 1 36 New Wave (65) 1 Antarctica (42) 6 7 ECA (57) 6 ATM (64) 4 19 Urban Housing (62) 4 Babes of the Dingo (70) 9 4 Operation Mise (19) 9 Big Dogs (27) 9 3 Game Empire (77) 9 Billy Goats Gruff (61) 3 30 770 (26) 3 Brown Bomber (69) 4 20 The Austin Powers (37) 4 CCC (60) 6 14 Three Blind"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 4 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:35:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516063549id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-pairings-2000-01-01"
 ---
 
 

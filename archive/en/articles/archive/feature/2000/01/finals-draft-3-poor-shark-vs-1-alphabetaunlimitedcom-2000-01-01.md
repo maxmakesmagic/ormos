@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220702090300/https://magic.wizards.com/en/articles/archive/feature/finals-draft-3-poor-shark-vs-1-alphabetaunlimitedcom-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-draft-3-poor-shark-vs-1-alphabetaunlimitedcom-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702090300id_/https://magic.wizards.com/en/articles/archive/feature/finals-draft-3-poor-shark-vs-1-alphabetaunlimitedcom-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:03:00+00:00"
+[_metadata_:author]:- "石田格  &  松井健治"
 [_metadata_:description]:- "誰もが思ったとおり彼らはこの日の最終戦までマジックをやる事となった。 数々の日本チームをちぎっては投げちぎっては投げ、一度ちぎったチームを再度ちぎったりもしながら彼ら www.alphabetaunlimited.com はこの日最後の椅子に座った。対するはベスト 4 唯一の紅一点のメンバーを擁する Poor Shark である。Poor Shark と www.alphabetaunlimited.com はプロツアー東京でのゲートウェイで中央こそ違うものの同じ 3w.ABU と当たっている、当然 Poor Shark から見れば前回の試合リベンジのチャンスである、 3w.ABU にしてみれば良くある事なのかもしれないが何か因縁めいたものを感じるマッチである。 まず、ドラフトの流れから行くと全体的に Poor Shark 方が有利に見える。"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Finals Draft: (3) Poor Shark vs. (1) AlphaBetaUnlimited.com"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:03:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702090300id_/https://magic.wizards.com/en/articles/archive/feature/finals-draft-3-poor-shark-vs-1-alphabetaunlimitedcom-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-draft-3-poor-shark-vs-1-alphabetaunlimitedcom-2000-01-01"
 ---
 
 

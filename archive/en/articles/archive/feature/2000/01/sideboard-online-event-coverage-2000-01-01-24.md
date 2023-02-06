@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522083550/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522083550id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 08:35:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 1 Standings - 14 and under Division  Op-Match Rank Name Points Win% 1 Hiemstra Aaron 3 33.33 2 Behlen Andrew 3 33.33 3 Engelken David 3 33.33 4 Blair James 3 33.33 5 Zappelli Joey 3 33.33 6 Percopo Joseph 3 33.33 7 Reidy Ryan 3 33.33 8 Mcbee Sean 3 33.33 9 Lipp Scott 3 33.33 10 Vo Nguyen 3 33.33 11 Levine Jeff 3 33.33 12 Franz Eric 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 08:35:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522083550id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-24"
 ---
 
 

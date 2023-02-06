@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120090943/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-23-2013-12-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-23-2013-12-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120090943id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-23-2013-12-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 09:09:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In today's episode, hosts Trick, Tifa, and Gavin talk to none other than Magic Head Designer Mark Rosewater! They talk to Mark about top-down design in general and the design of Theros in particular. Episode 23 - Talking to Maro - (26:38) (12.1 MB) The DailyMTG Podcast is on iTunes! You can visit its page right here. Or, if you use a different podcast aggregator, you can point"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-12-03"
+[_metadata_:title]:- "DailyMTG.com Podcast #23"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 09:09:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120090943id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-23-2013-12-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-23-2013-12-03"
 ---
 
 

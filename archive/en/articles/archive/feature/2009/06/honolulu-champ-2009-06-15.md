@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220819211731/https://magic.wizards.com/en/articles/archive/feature/honolulu-champ-2009-06-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/honolulu-champ-2009-06-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819211731id_/https://magic.wizards.com/en/articles/archive/feature/honolulu-champ-2009-06-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 21:17:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kazuya Mitamura's Shards of Alara Draft Format: Pro Tour-Honolulu 8 Forest 7 Mountain 2 Swamp 1 Blister Beetle 1 Bloodbraid Elf 1 Carrion Thrash 1 Deadshot Minotaur 1 Drumhunter 2 Ember Weaver 1 Goblin Outlander 1 Gorger Wurm 1 Jund Sojourners 1 Jungle Weaver 1 Monstrous Carabid 1 Naya Battlemage 1 Rhox Brute 2 Vithian Stinger 1 Fiery Fall 1 Quietus Spike 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-15"
+[_metadata_:title]:- "Honolulu Champ"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 21:17:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819211731id_/https://magic.wizards.com/en/articles/archive/feature/honolulu-champ-2009-06-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/honolulu-champ-2009-06-15"
 ---
 
 

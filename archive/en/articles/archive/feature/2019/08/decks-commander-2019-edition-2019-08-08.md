@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190808223015/https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190808223015id_/https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08"
-[_metadata_:wayback_capture_timestamp]:- "2019-08-08 22:30:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Take a look at the decklists for each Commander (2019 Edition) deck as they're revealed!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-08-08"
+[_metadata_:title]:- "The Decks of Commander (2019 Edition)"
+[_metadata_:wayback_capture_timestamp]:- "2019-08-08 22:30:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190808223015id_/https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08"
 ---
 
 

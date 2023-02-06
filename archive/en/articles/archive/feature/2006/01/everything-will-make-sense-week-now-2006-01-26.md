@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208134053/https://magic.wizards.com/en/articles/archive/feature/everything-will-make-sense-week-now-2006-01-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/everything-will-make-sense-week-now-2006-01-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208134053id_/https://magic.wizards.com/en/articles/archive/feature/everything-will-make-sense-week-now-2006-01-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 13:40:53+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Before he became the producer of magicthegathering.com, our fearless leader Scott Johns was a professional Magic player, a champion of no mean ability. As a member of the Pacific Coast Legends, Scott was on the leading edge of early Magic strategy, while later in his career, he joined up with the innovative Mogg Squad, a team distinguished by some of the most impressive deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-01-26"
+[_metadata_:title]:- "Everything Will Make Sense a Week From Now"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 13:40:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208134053id_/https://magic.wizards.com/en/articles/archive/feature/everything-will-make-sense-week-now-2006-01-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/everything-will-make-sense-week-now-2006-01-26"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160322102237/http://magic.wizards.com/en/articles/archive/feature/zak-dolan-first-world-champ-2008-12-31)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zak-dolan-first-world-champ-2008-12-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160322102237id_/http://magic.wizards.com/en/articles/archive/feature/zak-dolan-first-world-champ-2008-12-31"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-22 10:22:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Zak Dolan's Stasis Control"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-31"
+[_metadata_:title]:- "Zak Dolan, First World Champ"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-22 10:22:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160322102237id_/http://magic.wizards.com/en/articles/archive/feature/zak-dolan-first-world-champ-2008-12-31"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zak-dolan-first-world-champ-2008-12-31"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170328153654/http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-new-art-descriptions-2017-03-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-new-art-descriptions-2017-03-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170328153654id_/http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-new-art-descriptions-2017-03-28"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-28 15:36:54+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Take a closer look at some of the new art from Modern Masters 2017 Edition!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-03-28"
+[_metadata_:title]:- "Modern Masters 2017 Edition New Art Descriptions"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-28 15:36:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170328153654id_/http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-new-art-descriptions-2017-03-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-masters-2017-edition-new-art-descriptions-2017-03-28"
 ---
 
 

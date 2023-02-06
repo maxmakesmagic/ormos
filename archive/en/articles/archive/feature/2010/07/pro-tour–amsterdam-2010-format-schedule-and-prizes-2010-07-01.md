@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210615003744/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-2010-format-schedule-and-prizes-2010-07-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-2010-format-schedule-and-prizes-2010-07-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210615003744id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-2010-format-schedule-and-prizes-2010-07-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-15 00:37:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document. Main Event RegistrationTime: 6 p.m. - 9 p.m., Thursday, September 2 Note: This registration period is only for players participating in the main event. Registration information for Public Events will be posted at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-01"
+[_metadata_:title]:- "Pro Tour–Amsterdam 2010 Format, Schedule, and Prizes"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-15 00:37:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210615003744id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-2010-format-schedule-and-prizes-2010-07-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-2010-format-schedule-and-prizes-2010-07-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170906060749/http://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-conquerors-galleon-2017-09-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-conquerors-galleon-2017-09-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906060749id_/http://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-conquerors-galleon-2017-09-05"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-06 06:07:49+00:00"
+[_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Take a closer look at the process behind today's preview card—Conqueror's Galleon!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-09-05"
+[_metadata_:title]:- "Exploring Ixalan – Conqueror's Galleon"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-06 06:07:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906060749id_/http://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-conquerors-galleon-2017-09-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-conquerors-galleon-2017-09-05"
 ---
 
 

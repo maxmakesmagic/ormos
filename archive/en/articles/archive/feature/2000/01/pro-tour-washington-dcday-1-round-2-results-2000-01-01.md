@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516062738/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516062738id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:27:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result 770 Kakao Lost, 0-2 Amsterdam The Alliance Lost, 1-2 Antarctica Name Denied Lost, 0-2 ATM Tongo Nation Draw, 1-1-1 Babes of the Dingo Special Bus Won, 2-0 Big Dogs Luscious Won, 2-0-1 Billy Goats Gruff Champions Won, 2-1 Brown Bomber Rocket Won, 2-1 CCC Deadguy Won, 2-0-1 Champions Billy Goats Gruff Lost, 1-2 CMU Ethan Allen Won, 2-0-1 Comrades Neutral"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 2 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:27:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516062738id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-2-results-2000-01-01"
 ---
 
 

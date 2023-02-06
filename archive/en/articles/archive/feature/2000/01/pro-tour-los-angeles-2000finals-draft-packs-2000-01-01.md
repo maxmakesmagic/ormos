@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211204030322/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000finals-draft-packs-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000finals-draft-packs-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204030322id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000finals-draft-packs-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 03:03:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Seat One-Kurt Burgner Booster 1 Booster 2 Booster 3 1 Volcanic Wind 1 Snuff Out 1 Highway Robber 2 Nightwind Glider 2 Cho-Arrim Bruiser 2 Disenchant 3 Shock Troops 3 Snorting Gahr 2 Thunderclap 4 Gerrard's Irregulars 4 Blockade Runner 3 Lithophage 5 Story Circle 5 Intimidation 4 Saprazzan Breaker 6 Sever Soul 6 Battle Rampart 5 Ramosian Rally 7 Ramosian Sergeant 7 Flaming"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Finals Draft Packs"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 03:03:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204030322id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000finals-draft-packs-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000finals-draft-packs-2000-01-01"
 ---
 
 

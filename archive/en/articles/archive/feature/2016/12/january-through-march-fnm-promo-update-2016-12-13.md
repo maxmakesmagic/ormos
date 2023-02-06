@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161213170941/http://magic.wizards.com/en/articles/archive/feature/january-through-march-fnm-promo-update-2016-12-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/january-through-march-fnm-promo-update-2016-12-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161213170941id_/http://magic.wizards.com/en/articles/archive/feature/january-through-march-fnm-promo-update-2016-12-13"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-13 17:09:41+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "It's time to announce the promos that Friday Night Magic players can look forward to over the next three months."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-12-13"
+[_metadata_:title]:- "January Through March FNM Promo Update"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-13 17:09:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161213170941id_/http://magic.wizards.com/en/articles/archive/feature/january-through-march-fnm-promo-update-2016-12-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/january-through-march-fnm-promo-update-2016-12-13"
 ---
 
 

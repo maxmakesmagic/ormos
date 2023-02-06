@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170929091230/https://magic.wizards.com/en/articles/archive/feature/dungrove-green-2012-07-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dungrove-green-2012-07-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170929091230id_/https://magic.wizards.com/en/articles/archive/feature/dungrove-green-2012-07-03"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-29 09:12:30+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Hello everyone and welcome to the new Daily Decks here on DailyMTG! Alright, so the column isn't new, but its new to me! My name is Conley Woods, and hopefully I can carry the torch that Gavin so graciously passed along to me. I will be doing my best to find some interesting and unique brews in our time together here. I am not one to hold that up any, so without further ado..."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-03"
+[_metadata_:title]:- "Dungrove Green"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-29 09:12:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170929091230id_/https://magic.wizards.com/en/articles/archive/feature/dungrove-green-2012-07-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dungrove-green-2012-07-03"
 ---
 
 

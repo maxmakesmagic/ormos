@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028021413/https://magic.wizards.com/en/articles/archive/feature/standard-stompy-2013-03-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-stompy-2013-03-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028021413id_/https://magic.wizards.com/en/articles/archive/feature/standard-stompy-2013-03-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 02:14:13+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Continuing the theme of exploring decks that work in multiple formats, I'm going to look at what passes for `mono-green` aggro in Standard these days. I said it's rare that mono-green can be effective in most Constructed formats, but ehhh managed to put up a decent result with this green-splash-red aggro deck. The primary reason to build a heavily green creature deck in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-29"
+[_metadata_:title]:- "Standard Stompy"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 02:14:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028021413id_/https://magic.wizards.com/en/articles/archive/feature/standard-stompy-2013-03-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-stompy-2013-03-29"
 ---
 
 

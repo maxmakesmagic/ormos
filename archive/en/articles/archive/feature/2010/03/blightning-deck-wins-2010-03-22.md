@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220201001202/https://magic.wizards.com/en/articles/archive/feature/blightning-deck-wins-2010-03-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blightning-deck-wins-2010-03-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220201001202id_/https://magic.wizards.com/en/articles/archive/feature/blightning-deck-wins-2010-03-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-02-01 00:12:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Ding Yuan Leong's Blightning Deck Wins Format: Standard - Grand Prix-Kuala Lumpur 4 Arid Mesa 4 Dragonskull Summit 4 Lavaclaw Reaches 8 Mountain 4 Scalding Tarn 4 Ball Lightning 4 Goblin Guide 4 Hell's Thunder 4 Hellspark Elemental 4 Blightning 3 Burst Lightning 3 Earthquake 4 Lightning Bolt 2 Quenchable Fire 4 Searing Blaze *4 Deathmark *2 Doom Blade *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-22"
+[_metadata_:title]:- "Blightning Deck Wins"
+[_metadata_:wayback_capture_timestamp]:- "2022-02-01 00:12:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220201001202id_/https://magic.wizards.com/en/articles/archive/feature/blightning-deck-wins-2010-03-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blightning-deck-wins-2010-03-22"
 ---
 
 

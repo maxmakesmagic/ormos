@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210421115440/https://magic.wizards.com/en/articles/archive/feature/goldfingers-2009-04-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/goldfingers-2009-04-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210421115440id_/https://magic.wizards.com/en/articles/archive/feature/goldfingers-2009-04-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-21 11:54:40+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to the second, and last, Alara Reborn Preview Week. Last week I talked about the difficulties of an all-gold design (once again let me stress that by `gold` I am referring to traditional multicolor cards requiring two or more different colored mana to cast). This week I am going to explain how the team solved these problems. And somewhere in the middle of me doing"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-20"
+[_metadata_:title]:- "Goldfingers"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-21 11:54:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210421115440id_/https://magic.wizards.com/en/articles/archive/feature/goldfingers-2009-04-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/goldfingers-2009-04-20"
 ---
 
 

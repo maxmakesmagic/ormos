@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160429231246/http://magic.wizards.com/en/articles/archive/feature/summer-not-2006-07-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/summer-not-2006-07-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160429231246id_/http://magic.wizards.com/en/articles/archive/feature/summer-not-2006-07-05"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-29 23:12:46+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Whew, is it still Summer? My armpits tell me it is, but I thought I'd get a second opinion. I hope everyone had a good weekend. I know I did. When I wasn't talking to my armpits, I was celebrating Canada's birthday. The party was fantastic: I came second in the maple syrup chugging contest, third in the canoe race, and my Pierre Elliot Trudeau chainsaw-sculpture earned me the Most Improved Chainsaw Sculptor Award (which is very prestigious where I come from)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-07-05"
+[_metadata_:title]:- "Summer Not"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-29 23:12:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160429231246id_/http://magic.wizards.com/en/articles/archive/feature/summer-not-2006-07-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/summer-not-2006-07-05"
 ---
 
 

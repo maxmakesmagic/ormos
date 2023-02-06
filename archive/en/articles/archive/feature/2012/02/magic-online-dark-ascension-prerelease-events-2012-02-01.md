@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160716131641/http://magic.wizards.com/en/articles/archive/feature/magic-online-dark-ascension-prerelease-events-2012-02-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-dark-ascension-prerelease-events-2012-02-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160716131641id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-dark-ascension-prerelease-events-2012-02-01"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-16 13:16:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; Command the Night&#13; &#13; Innistrad is a plane of menace and dread where every creature hides a darker aspect. Here, hedonistic vampires stalk the shadows to quench their thirst, and the full moon can transform a simple villager into a savage werewolf. Best to huddle inside, Planeswalker, lest the horrors of this world rend you limb from limb."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-02-01"
+[_metadata_:title]:- "Magic Online Dark Ascension Prerelease Events"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-16 13:16:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160716131641id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-dark-ascension-prerelease-events-2012-02-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-dark-ascension-prerelease-events-2012-02-01"
 ---
 
 

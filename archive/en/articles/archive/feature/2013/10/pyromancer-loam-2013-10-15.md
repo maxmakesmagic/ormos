@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220811233040/https://magic.wizards.com/en/articles/archive/feature/pyromancer-loam-2013-10-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pyromancer-loam-2013-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811233040id_/https://magic.wizards.com/en/articles/archive/feature/pyromancer-loam-2013-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 23:30:40+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I like Life from the Loam decks, and I like Delver of Secrets decks, and this is the first time I've seen them combined. Young Pyromancer even enters the fray, making this a pretty cool synergy deck, all told. There are two major parts to the deck, and they both have plenty of pieces that overlap. The first is the Delver of Secrets/Young Pyromancer contingent, where the deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-15"
+[_metadata_:title]:- "Pyromancer Loam"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 23:30:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811233040id_/https://magic.wizards.com/en/articles/archive/feature/pyromancer-loam-2013-10-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pyromancer-loam-2013-10-15"
 ---
 
 

@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517163133/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsbrian-hacker-vs)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsbrian-hacker-vs"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517163133id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsbrian-hacker-vs"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 16:31:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Brian Hacker Divides   Brian Hacker Steve O'Mahoney-Schwartz Icatian Phalanx Giant Tortoise Fissure Meteor Shower Ball Lightning Repentance Anaba Shaman Abduction Pack #2 - Steve O'Mahoney-Schwartz Divides   Brian Hacker Steve O'Mahoney-Schwartz Rhox Bounty Hunter Barbed Sextant Blue Elemental Blast Shaman en-Kor Curiosity Havoc Spitting Earth Pack #3 - Brian Hacker"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 8 Solomon SelectionsBrian Hacker vs. Steven O'Mahoney-Schwartz"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 16:31:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517163133id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsbrian-hacker-vs"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsbrian-hacker-vs"
 ---
 
 

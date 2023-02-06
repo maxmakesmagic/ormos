@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170805022239/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-vampires-2017-08-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-vampires-2017-08-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170805022239id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-vampires-2017-08-02"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-05 02:22:39+00:00"
+[_metadata_:author]:- "Blake Rasmussen and Alison Luhrs"
 [_metadata_:description]:- "In the first of four podcasts about Commander (2017 Edition), Alison shares all she can about Magic's Vampires."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-08-02"
+[_metadata_:title]:- "Magic Story Podcast: Vampires"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-05 02:22:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170805022239id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-vampires-2017-08-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-vampires-2017-08-02"
 ---
 
 

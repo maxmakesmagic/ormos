@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220707095717/https://magic.wizards.com/en/articles/archive/feature/round-3-results-team-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-results-team-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707095717id_/https://magic.wizards.com/en/articles/archive/feature/round-3-results-team-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 09:57:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult Opponent3,141596 *Lost 1-2vsLa Sauss'bac Team *Absolute SamuelsWon 2-1vsUranusAccellerated Vares8 VolanteLost 1-2vsTeam CleggAgifalwLost 1-2vsDo you enjoy it ?AlphaBetaUnlimited.comLost 0-3vsgotta catch KaiAltrove *Won 2-1vsSaffidi *AmsterdamWon 2-0-1vslibrary of alexandria 2AngstschreeuwWon 2-1vsFumetteria Gabriele *Asani *Lost 1-2vsPal CompanyBabar Team *Won"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 3 Results (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 09:57:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707095717id_/https://magic.wizards.com/en/articles/archive/feature/round-3-results-team-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-results-team-2000-01-01-0"
 ---
 
 

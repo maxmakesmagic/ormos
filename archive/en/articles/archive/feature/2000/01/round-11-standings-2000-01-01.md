@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190605022131/https://magic.wizards.com/en/articles/archive/feature/round-11-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-11-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022131id_/https://magic.wizards.com/en/articles/archive/feature/round-11-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:21:31+00:00"
 [_metadata_:description]:- "Rank Player Points Op.Win% 1 Martins - ama, Leopoldo M. 30 70.51% 2 Shvartsman, Alex 30 69.34% 3 Svaldi, Guilherme Dei 28 74.02% 4 Nascimento - ama, Rodrigo A 28 63.86%"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 11 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:21:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022131id_/https://magic.wizards.com/en/articles/archive/feature/round-11-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-11-standings-2000-01-01"
 ---
 
 

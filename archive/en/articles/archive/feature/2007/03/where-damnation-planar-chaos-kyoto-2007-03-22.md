@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211203053139/https://magic.wizards.com/en/articles/archive/feature/where-damnation-planar-chaos-kyoto-2007-03-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-damnation-planar-chaos-kyoto-2007-03-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203053139id_/https://magic.wizards.com/en/articles/archive/feature/where-damnation-planar-chaos-kyoto-2007-03-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 05:31:39+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Before proceeding with the content of this article proper, I just want to stress how jealous I am of the Japanese for Grand Prix – Kyoto. I know that the last Two-Headed Giant Grand Prix broke the floorboards with its attendance, and we East Coasters have got that format for Boston... But I love me a Standard.So... Kyoto... Standard Grand Prix. This event was an eye-opener"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-03-22"
+[_metadata_:title]:- "Where is the Damnation? (Planar) Chaos in Kyoto"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 05:31:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203053139id_/https://magic.wizards.com/en/articles/archive/feature/where-damnation-planar-chaos-kyoto-2007-03-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-damnation-planar-chaos-kyoto-2007-03-22"
 ---
 
 

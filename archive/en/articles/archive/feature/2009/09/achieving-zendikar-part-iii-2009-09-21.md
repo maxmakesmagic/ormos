@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200805190122/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-iii-2009-09-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-iii-2009-09-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805190122id_/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-iii-2009-09-21"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:01:22+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "If you're interested in working for Wizards of the Coast, make sure you check out the end of this article."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-21"
+[_metadata_:title]:- "Achieving Zendikar, Part III"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:01:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805190122id_/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-iii-2009-09-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-iii-2009-09-21"
 ---
 
 

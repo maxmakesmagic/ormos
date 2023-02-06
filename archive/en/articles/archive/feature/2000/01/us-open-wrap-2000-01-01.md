@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523052004/https://magic.wizards.com/en/articles/archive/feature/us-open-wrap-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-wrap-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523052004id_/https://magic.wizards.com/en/articles/archive/feature/us-open-wrap-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 05:20:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Most of the players qualified for Nationals returned to their various hotels before the last Meatgrinder finished up around 1:30am. By the end of Thursday the last 20 members of the nationals field had been chosen and the metagame for Saturday was taking form. The biggest story on Thursday was definitely Casey McCarrel. The Pro Tour New York champion recently"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Open Wrap Up"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 05:20:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523052004id_/https://magic.wizards.com/en/articles/archive/feature/us-open-wrap-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-wrap-2000-01-01"
 ---
 
 

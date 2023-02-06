@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150805052345/http://magic.wizards.com/en/articles/archive/feature/theros-release-notes-2013-09-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/theros-release-notes-2013-09-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150805052345id_/http://magic.wizards.com/en/articles/archive/feature/theros-release-notes-2013-09-16"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-05 05:23:45+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Compiled by Matt Tabak, with contributions from Laurie Cheers, Carsten Haese, Eli Shiffrin, Zoe Stephenson, and Thijs van Ommen Document last modified September 11, 2013"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-16"
+[_metadata_:title]:- "Theros Release Notes"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-05 05:23:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150805052345id_/http://magic.wizards.com/en/articles/archive/feature/theros-release-notes-2013-09-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/theros-release-notes-2013-09-16"
 ---
 
 

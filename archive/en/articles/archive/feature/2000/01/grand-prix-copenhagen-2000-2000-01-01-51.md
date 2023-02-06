@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124035802/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-51)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-51"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124035802id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-51"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:58:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 1 Results Table Player 1 Result Player 2   Brandtzaeg, Christian   *** BYE *** 1 Mandeville, Daniel 0-2-0 Qvist, Peter 2 Vammen, Mikkel 0-2-0 ter Wal, Gerjan 3 Carstens, Stefan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:58:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124035802id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-51"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-51"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028162627/https://magic.wizards.com/en/articles/archive/feature/sink-your-teeth-booster-fun-innistrad-crimson-vow-2021-10-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sink-your-teeth-booster-fun-innistrad-crimson-vow-2021-10-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028162627id_/https://magic.wizards.com/en/articles/archive/feature/sink-your-teeth-booster-fun-innistrad-crimson-vow-2021-10-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 16:26:27+00:00"
+[_metadata_:author]:- "Clayton Kroh"
 [_metadata_:description]:- "The most exclusive Vampire wedding on Innistrad is here, and these Booster Fun treatments give you a look into this invite-only event to die for!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-10-28"
+[_metadata_:title]:- "Sink Your Teeth into the Booster Fun of Innistrad: Crimson Vow"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 16:26:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028162627id_/https://magic.wizards.com/en/articles/archive/feature/sink-your-teeth-booster-fun-innistrad-crimson-vow-2021-10-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sink-your-teeth-booster-fun-innistrad-crimson-vow-2021-10-28"
 ---
 
 

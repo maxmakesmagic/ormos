@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170807192813/http://magic.wizards.com/en/articles/archive/feature/eighteen-years-2011-11-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eighteen-years-2011-11-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170807192813id_/http://magic.wizards.com/en/articles/archive/feature/eighteen-years-2011-11-28"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-07 19:28:13+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Transformation Week. This week we'll be exploring this major theme of Innistrad. I've already written on the topic of the double-faced cards, the highest profile take on transformation in the set. I thought about talking about the many other transformation mechanics we've done—flip cards, level-up, threshold, etc.—but the more I thought about them the more I got drawn in a completely different direction."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-11-28"
+[_metadata_:title]:- "Eighteen Years"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-07 19:28:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170807192813id_/http://magic.wizards.com/en/articles/archive/feature/eighteen-years-2011-11-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eighteen-years-2011-11-28"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120165146/https://magic.wizards.com/en/articles/archive/feature/antiquities-2008-08-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/antiquities-2008-08-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120165146id_/https://magic.wizards.com/en/articles/archive/feature/antiquities-2008-08-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 16:51:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights The second Magic expansion, Antiquities, was released in March 1994. The tale of Urza and Mishra represented in this 100-card set was the first story to be supported by both the functionality and flavor of the cards.  Novel The Brothers' War by Jeff Grubb Dominarian legends speak of a mighty conflict, obscured by the mists of history. Of a conflict"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-11"
+[_metadata_:title]:- "Antiquities"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 16:51:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120165146id_/https://magic.wizards.com/en/articles/archive/feature/antiquities-2008-08-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/antiquities-2008-08-11"
 ---
 
 

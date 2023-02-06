@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160418104228/http://magic.wizards.com/en/articles/archive/feature/forgotten-lore-taking-card-advantage-2009-10-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/forgotten-lore-taking-card-advantage-2009-10-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160418104228id_/http://magic.wizards.com/en/articles/archive/feature/forgotten-lore-taking-card-advantage-2009-10-12"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-18 10:42:28+00:00"
+[_metadata_:author]:- "Brian Weissman"
 [_metadata_:description]:- "In the early days of tournament Magic, Brian Weissman popularized a control deck that people called `The Weissman Deck,` or, more often, just `The Deck`—a name that should give you an idea of just how dominant and influential it became. (Besides, when you create what Mike Flores has called `the first real archetype in competitive Magic,` you have a lot of leeway when it comes to naming it!)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-12"
+[_metadata_:title]:- "Forgotten Lore: Taking Card Advantage"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-18 10:42:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160418104228id_/http://magic.wizards.com/en/articles/archive/feature/forgotten-lore-taking-card-advantage-2009-10-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/forgotten-lore-taking-card-advantage-2009-10-12"
 ---
 
 

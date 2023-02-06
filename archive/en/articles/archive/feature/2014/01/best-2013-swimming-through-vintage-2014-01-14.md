@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025075401/https://magic.wizards.com/en/articles/archive/feature/best-2013-swimming-through-vintage-2014-01-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-swimming-through-vintage-2014-01-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025075401id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-swimming-through-vintage-2014-01-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 07:54:01+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Vintage has long been thought of as a format with turn-one kills, little interaction, and a complete lack of creatures (except for whatever you wanted to Tinker or Oath of Druids into play). Hopefully, Joel Lim's victory at this year's Vintage Championship will do something to quash those rumors. In fact, the finals pitted two aggressive decks against each other! Merfolk"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-01-14"
+[_metadata_:title]:- "Best of 2013: Swimming through Vintage"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 07:54:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025075401id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-swimming-through-vintage-2014-01-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-swimming-through-vintage-2014-01-14"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429043146/https://magic.wizards.com/en/articles/archive/feature/sting-betrayal-2005-01-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sting-betrayal-2005-01-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429043146id_/https://magic.wizards.com/en/articles/archive/feature/sting-betrayal-2005-01-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:31:46+00:00"
+[_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "Art by Wayne ReynoldsNothing is so bad that it can't get worse. The people of Kamigawa know this better than anyone else. Already they've had to deal with the anger of their gods, but when other parties get into the act, the world will have a rough time indeed. But tof course, that's not going to stop anyone from enjoying the great cards that will arise from the conflict, not"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-01-10"
+[_metadata_:title]:- "The Sting of Betrayal"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:31:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429043146id_/https://magic.wizards.com/en/articles/archive/feature/sting-betrayal-2005-01-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sting-betrayal-2005-01-10"
 ---
 
 

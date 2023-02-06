@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170709065756/http://magic.wizards.com/en/articles/archive/feature/history-legends-2002-12-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/history-legends-2002-12-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170709065756id_/http://magic.wizards.com/en/articles/archive/feature/history-legends-2002-12-24"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-09 06:57:56+00:00"
+[_metadata_:author]:- "Steve Conard"
 [_metadata_:description]:- "I love articles about the game—and the company—in its infancy. Steve Conard painted a great picture of those early times with his discussion about the design of our most `legendary` expansion. —Aaron"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-12-24"
+[_metadata_:title]:- "The History of Legends"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-09 06:57:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170709065756id_/http://magic.wizards.com/en/articles/archive/feature/history-legends-2002-12-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/history-legends-2002-12-24"
 ---
 
 

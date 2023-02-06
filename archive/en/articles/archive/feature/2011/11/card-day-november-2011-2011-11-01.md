@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018082642/https://magic.wizards.com/en/articles/archive/feature/card-day-november-2011-2011-11-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-november-2011-2011-11-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018082642id_/https://magic.wizards.com/en/articles/archive/feature/card-day-november-2011-2011-11-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 08:26:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Slayer of the Wicked – Innistrad uncommon. The art for Slayer of the Wicked shows two creatures, but they're not the slayer and a victim. Actually, according to the art description, it's a father-and-son team who work together as monster hunters! Kismet – Legends uncommon. Many years ago, Kismet combined with Stasis to lock down decks pretty well. But it only tapped creatures,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-11-01"
+[_metadata_:title]:- "Card of the Day - November, 2011"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 08:26:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018082642id_/https://magic.wizards.com/en/articles/archive/feature/card-day-november-2011-2011-11-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-november-2011-2011-11-01"
 ---
 
 

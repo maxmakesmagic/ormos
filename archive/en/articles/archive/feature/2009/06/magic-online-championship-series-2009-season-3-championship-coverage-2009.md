@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211206114903/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-3-championship-coverage-2009)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-3-championship-coverage-2009"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206114903id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-3-championship-coverage-2009"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 11:49:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic Online Championship Series awards invites to the Magic World Championships as well as a cash tournament for players who qualify through the series. The 2009 Season 3 Championship was held on June 27."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-30"
+[_metadata_:title]:- "Magic Online Championship Series - 2009 Season 3 Championship Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 11:49:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206114903id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-3-championship-coverage-2009"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-3-championship-coverage-2009"
 ---
 
 

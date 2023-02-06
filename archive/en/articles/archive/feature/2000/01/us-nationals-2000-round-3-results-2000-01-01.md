@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220529121736/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-3-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-3-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529121736id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-3-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 12:17:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Akbar, David Swarowski, Robert Lost, 1-2 Allen, Dustin Ho, Ken Lost, 0-2 Armstrong, Herman *** BYE *** Aubertin, Justin Benafel, Chris Lost, 0-2 Beckmon, Jon Stark, Ben Lost, 0-2 Benafel, Chris Aubertin, Justin Won, 2-0 Bhattacharyya, Sayan Flores, Micheal Won, 2-0 Bigos, Kyle Pohle, Tyler Won, 2-1 Blackwell, Trevor Connell, Warren Won, 2-0 Boneau, Trent"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Round 3 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 12:17:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529121736id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-3-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-3-results-2000-01-01"
 ---
 
 

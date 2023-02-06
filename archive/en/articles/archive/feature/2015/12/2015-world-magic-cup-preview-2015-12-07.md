@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160504155150/http://magic.wizards.com/en/articles/archive/feature/2015-world-magic-cup-preview-2015-12-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2015-world-magic-cup-preview-2015-12-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160504155150id_/http://magic.wizards.com/en/articles/archive/feature/2015-world-magic-cup-preview-2015-12-07"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-04 15:51:50+00:00"
+[_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Rich talks us through the World Magic Cup, the formats being played, and who we'll see. One thing's for sure: expect the unexpected!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-12-07"
+[_metadata_:title]:- "2015 World Magic Cup Preview"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-04 15:51:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160504155150id_/http://magic.wizards.com/en/articles/archive/feature/2015-world-magic-cup-preview-2015-12-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2015-world-magic-cup-preview-2015-12-07"
 ---
 
 

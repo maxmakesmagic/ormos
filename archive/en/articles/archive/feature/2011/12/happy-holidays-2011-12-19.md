@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170722231808/http://magic.wizards.com/en/articles/archive/feature/happy-holidays-2011-12-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/happy-holidays-2011-12-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170722231808id_/http://magic.wizards.com/en/articles/archive/feature/happy-holidays-2011-12-19"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-22 23:18:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Happy holidays from all of us here at magicthegathering.com! Deck the virtual halls with one of these Magic holiday card wallpapers!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-12-19"
+[_metadata_:title]:- "Happy Holidays"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-22 23:18:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170722231808id_/http://magic.wizards.com/en/articles/archive/feature/happy-holidays-2011-12-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/happy-holidays-2011-12-19"
 ---
 
 

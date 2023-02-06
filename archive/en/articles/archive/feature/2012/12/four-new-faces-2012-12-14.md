@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170621235727/http://magic.wizards.com/en/articles/archive/feature/four-new-faces-2012-12-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/four-new-faces-2012-12-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170621235727id_/http://magic.wizards.com/en/articles/archive/feature/four-new-faces-2012-12-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-21 23:57:27+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "It's hard to believe, but it's been just over a year since I, and Mike McArtor, took over DailyMTG.com from Kelly Digges. Oh how time flies when you're having fun!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-14"
+[_metadata_:title]:- "Four New Faces"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-21 23:57:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170621235727id_/http://magic.wizards.com/en/articles/archive/feature/four-new-faces-2012-12-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/four-new-faces-2012-12-14"
 ---
 
 

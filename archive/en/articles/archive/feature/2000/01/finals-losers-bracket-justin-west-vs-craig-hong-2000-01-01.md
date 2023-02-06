@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523153711/https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-justin-west-vs-craig-hong-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-justin-west-vs-craig-hong-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523153711id_/https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-justin-west-vs-craig-hong-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 15:37:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Liam Coltman With only one spot left in the Australian team the two competitors sat down and began to shuffle their decks. A large crowed gathered as the decks were cut and their opening hands were drawn. Game 1 After choosing to play first Hong was forced to mulligan down to 6, before opening up with a Forest and a Wild Dog. He followed up with a port on turn 2 and when he"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Finals (Loser's Bracket) - Justin West vs. Craig Hong"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 15:37:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523153711id_/https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-justin-west-vs-craig-hong-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-justin-west-vs-craig-hong-2000-01-01"
 ---
 
 

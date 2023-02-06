@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018203159/https://magic.wizards.com/en/articles/archive/feature/titan-mastery-2012-08-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/titan-mastery-2012-08-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018203159id_/https://magic.wizards.com/en/articles/archive/feature/titan-mastery-2012-08-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 20:31:59+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "A few years ago, Valakut was the best deck on the planet. It was fast, explosive, resilient, and punished unprepared opponents. When it rotated there was a sigh of relief, but with Primeval Titan sticking around, a new kid on the block was bound to emerge. Wolf Run was the immediate follow-up deck, and being red-green in nature, the comparison was fitting, even if it was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-06"
+[_metadata_:title]:- "Titan Mastery"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 20:31:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018203159id_/https://magic.wizards.com/en/articles/archive/feature/titan-mastery-2012-08-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/titan-mastery-2012-08-06"
 ---
 
 

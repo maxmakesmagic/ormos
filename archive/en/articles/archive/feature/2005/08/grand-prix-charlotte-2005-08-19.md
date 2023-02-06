@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503165800/https://magic.wizards.com/en/articles/archive/feature/grand-prix-charlotte-2005-08-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-charlotte-2005-08-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503165800id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-charlotte-2005-08-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 16:58:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring $25,000 in cash prizes and invitations to the Pro Tour for the top 16 finishers. Grand Prix—Charlotte is presented by Shuffle Up EventsTournament Format And ScheduleThe format for Grand Prix–Charlotte is Extended. All DCI Constructed-format rules,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-08-19"
+[_metadata_:title]:- "Grand Prix - Charlotte"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 16:58:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503165800id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-charlotte-2005-08-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-charlotte-2005-08-19"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170123193558/http://magic.wizards.com/en/articles/archive/feature/christopher-rush-2016-02-11)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/christopher-rush-2016-02-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170123193558id_/http://magic.wizards.com/en/articles/archive/feature/christopher-rush-2016-02-11"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-23 19:35:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Christopher Rush's legacy will live on through the joy he brought to friends and fans around the world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-02-12"
+[_metadata_:title]:- "Christopher Rush"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-23 19:35:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170123193558id_/http://magic.wizards.com/en/articles/archive/feature/christopher-rush-2016-02-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/christopher-rush-2016-02-11"
 ---
 
 

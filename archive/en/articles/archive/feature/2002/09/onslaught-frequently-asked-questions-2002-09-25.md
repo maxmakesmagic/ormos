@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429040246/https://magic.wizards.com/en/articles/archive/feature/onslaught-frequently-asked-questions-2002-09-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/onslaught-frequently-asked-questions-2002-09-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040246id_/https://magic.wizards.com/en/articles/archive/feature/onslaught-frequently-asked-questions-2002-09-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:02:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Compiled by Paul Barclay, David DeLaney, Jeff Jordan, Del Laugel, and Mark Gottlieb Text version of this FAQThis FAQ has two sections, each of which serves a different purpose.The first section (`General Notes`) explains the new mechanics and concepts in the set. The second section (`Card-Specific Notes`) contains answers to the most important questions players might ask about"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-09-25"
+[_metadata_:title]:- "Onslaught Frequently Asked Questions"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:02:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040246id_/https://magic.wizards.com/en/articles/archive/feature/onslaught-frequently-asked-questions-2002-09-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/onslaught-frequently-asked-questions-2002-09-25"
 ---
 
 

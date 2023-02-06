@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161202173908/http://magic.wizards.com/en/articles/archive/feature/synergizing-standard-showdown-graphics-2016-12-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/synergizing-standard-showdown-graphics-2016-12-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161202173908id_/http://magic.wizards.com/en/articles/archive/feature/synergizing-standard-showdown-graphics-2016-12-02"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-02 17:39:08+00:00"
+[_metadata_:author]:- "Diego Fumagalli"
 [_metadata_:description]:- "&#13; &#13; &#13; &#13; &#13; &#13; &#13; &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-12-02"
+[_metadata_:title]:- "Synergizing Standard Showdown—in Graphics"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-02 17:39:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161202173908id_/http://magic.wizards.com/en/articles/archive/feature/synergizing-standard-showdown-graphics-2016-12-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/synergizing-standard-showdown-graphics-2016-12-02"
 ---
 
 

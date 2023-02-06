@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022064336/https://magic.wizards.com/en/articles/archive/feature/duel-decks-divine-vs-demonic-2009-04-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duel-decks-divine-vs-demonic-2009-04-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022064336id_/https://magic.wizards.com/en/articles/archive/feature/duel-decks-divine-vs-demonic-2009-04-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 06:43:36+00:00"
+[_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "Hello! A month ago Kelly Digges tapped me on the shoulder. `Hey Mike, did you want to write the Duel Decks: Divine vs. Demonic feature article?` `Sure,` I said. I jotted down some notes (which are after the battle below), but after that nothing happened for almost a month—until Akroma, Angel of Wrath looked over my shoulder and realized how much I was procrastinating. Akroma:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-06"
+[_metadata_:title]:- "Duel Decks: Divine vs. Demonic"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 06:43:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022064336id_/https://magic.wizards.com/en/articles/archive/feature/duel-decks-divine-vs-demonic-2009-04-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duel-decks-divine-vs-demonic-2009-04-06"
 ---
 
 

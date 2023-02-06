@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129143938/https://magic.wizards.com/en/articles/archive/feature/new-phyrexia-2011-04-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-phyrexia-2011-04-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129143938id_/https://magic.wizards.com/en/articles/archive/feature/new-phyrexia-2011-04-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 14:39:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This should start on 4/20     Collector's Highlights  New Phyrexia is the third set in the Scars of Mirrodin block. The set features 175 black-bordered cards, including randomly inserted premium versions of all cards in the set. It will be available in intro packs, booster packs, and fat packs. The set introduces new mechanics including phyrexian mana. A new Planeswalker card"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-15"
+[_metadata_:title]:- "New Phyrexia"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 14:39:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129143938id_/https://magic.wizards.com/en/articles/archive/feature/new-phyrexia-2011-04-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-phyrexia-2011-04-15"
 ---
 
 

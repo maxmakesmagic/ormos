@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030070115/https://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-12-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-12-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030070115id_/https://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-12-04"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:01:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "23rd & 24th August Format: StandardTournament Location:Bella CenterCenter Boulevard 52300 CopenhagenDenmark    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-12-04"
+[_metadata_:title]:- "Tournament Fact Sheet"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:01:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030070115id_/https://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-12-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-12-04"
 ---
 
 

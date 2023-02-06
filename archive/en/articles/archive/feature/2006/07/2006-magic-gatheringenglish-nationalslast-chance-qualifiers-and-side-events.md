@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026132043/https://magic.wizards.com/en/articles/archive/feature/2006-magic-gatheringenglish-nationalslast-chance-qualifiers-and-side-events)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-magic-gatheringenglish-nationalslast-chance-qualifiers-and-side-events"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026132043id_/https://magic.wizards.com/en/articles/archive/feature/2006-magic-gatheringenglish-nationalslast-chance-qualifiers-and-side-events"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:20:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Every Day8-Player Pick Up Single-Elimination TournamentsThese tournaments will be added as requested (subject to space and judge availability).Registration opens at 10AM - 8PM (7PM for Limited formats, 5PM on Friday for all formats)Finalists will win 4 boosters & a deck box for first place, 2 boosters for second place and 1 booster for third & forth."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-07-13"
+[_metadata_:title]:- "2006 Magic: The GatheringEnglish NationalsLast Chance Qualifiers and Side Events"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:20:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026132043id_/https://magic.wizards.com/en/articles/archive/feature/2006-magic-gatheringenglish-nationalslast-chance-qualifiers-and-side-events"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-magic-gatheringenglish-nationalslast-chance-qualifiers-and-side-events"
 ---
 
 

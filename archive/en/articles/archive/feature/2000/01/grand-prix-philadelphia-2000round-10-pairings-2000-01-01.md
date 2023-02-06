@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524160639/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-10-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-10-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524160639id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-10-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:06:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Auer, Jeff (1700) (512) Lute Joe (374) Bernat Michael (70) Jensen III, William (Q) (83) Boyer, Chris (1700) (27) Stroud James (122) Bush Michelle (11) Vanzander, Michael (1700) (262) Carpenter, Ryan (1700) (389) Fitch, Britt (1700) (340) Crosby, Joseph (Q) (1700) (393) Weiford, Jess (1700) (384) Dobson, Tony (Q) (1700) (96) Smith, Sean (1700) (381) Dougherty,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 10 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:06:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524160639id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-10-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-10-pairings-2000-01-01"
 ---
 
 

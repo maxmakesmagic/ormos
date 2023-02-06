@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211128142046/https://magic.wizards.com/en/articles/archive/feature/round-3-svend-geertsen-vs-noah-boeken-red-deck-wins-vs-tangle-wire-stompy)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-svend-geertsen-vs-noah-boeken-red-deck-wins-vs-tangle-wire-stompy"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128142046id_/https://magic.wizards.com/en/articles/archive/feature/round-3-svend-geertsen-vs-noah-boeken-red-deck-wins-vs-tangle-wire-stompy"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 14:20:46+00:00"
+[_metadata_:author]:- "Pete Norris"
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:title]:- "Round 3: Svend Geertsen vs. Noah Boeken Red Deck Wins vs. Tangle Wire Stompy"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 14:20:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128142046id_/https://magic.wizards.com/en/articles/archive/feature/round-3-svend-geertsen-vs-noah-boeken-red-deck-wins-vs-tangle-wire-stompy"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-svend-geertsen-vs-noah-boeken-red-deck-wins-vs-tangle-wire-stompy"
 ---
 
 

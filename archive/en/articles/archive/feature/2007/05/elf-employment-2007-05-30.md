@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502151922/https://magic.wizards.com/en/articles/archive/feature/elf-employment-2007-05-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/elf-employment-2007-05-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502151922id_/https://magic.wizards.com/en/articles/archive/feature/elf-employment-2007-05-30"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 15:19:22+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to ELF Week! Today we're going to look at ELF, the Executable and Linking Format (formerly called the Extensible Linking Format), which is apparently a common standard file format for executables, object code, shared libraries, and core dumps.Whoops. What I meant to say was: Welcome to Elf Week! That squeal you just heard was me. Cause: Delight. Before I get to the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-05-30"
+[_metadata_:title]:- "Elf Employment"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 15:19:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502151922id_/https://magic.wizards.com/en/articles/archive/feature/elf-employment-2007-05-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/elf-employment-2007-05-30"
 ---
 
 

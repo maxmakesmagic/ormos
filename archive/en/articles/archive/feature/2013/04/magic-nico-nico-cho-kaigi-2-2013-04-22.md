@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220705221650/https://magic.wizards.com/en/articles/archive/feature/magic-nico-nico-cho-kaigi-2-2013-04-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-nico-nico-cho-kaigi-2-2013-04-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705221650id_/https://magic.wizards.com/en/articles/archive/feature/magic-nico-nico-cho-kaigi-2-2013-04-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 22:16:50+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Magic is going to be at the Nico Nico Cho Kaigi 2 event happening this weekend on April 27 and 28! Nico Nico Douga is a popular video sharing site in Japan and they're putting on their second event, which we are very excited to be part of! It is being held in Makuhari Messe Convention Center, outside Tokyo. This event will be two days of massive entertainment that will cover"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-22"
+[_metadata_:title]:- "Magic at Nico Nico Cho Kaigi 2"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 22:16:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705221650id_/https://magic.wizards.com/en/articles/archive/feature/magic-nico-nico-cho-kaigi-2-2013-04-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-nico-nico-cho-kaigi-2-2013-04-22"
 ---
 
 

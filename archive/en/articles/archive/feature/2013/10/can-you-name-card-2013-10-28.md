@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027100002/https://magic.wizards.com/en/articles/archive/feature/can-you-name-card-2013-10-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/can-you-name-card-2013-10-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027100002id_/https://magic.wizards.com/en/articles/archive/feature/can-you-name-card-2013-10-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 10:00:02+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Magic players use the art to identify cards, many do so more than the actual written name. Looking across the battlefield you can see what you're facing just by seeing the renderings of Magic's amazing artists. But, can you identify the card just from the descriptions? I'm betting you might have some trouble even though, once you see the card, it becomes obvious. Location:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-28"
+[_metadata_:title]:- "Can You Name That Card?"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 10:00:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027100002id_/https://magic.wizards.com/en/articles/archive/feature/can-you-name-card-2013-10-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/can-you-name-card-2013-10-28"
 ---
 
 

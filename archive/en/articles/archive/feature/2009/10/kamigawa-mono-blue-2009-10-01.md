@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027060744/https://magic.wizards.com/en/articles/archive/feature/kamigawa-mono-blue-2009-10-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-mono-blue-2009-10-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027060744id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-mono-blue-2009-10-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 06:07:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Antonino De Rosa's Kamigawa Mono-Blue Format: Grand Prix–Salt Lake City 20 Island 1 Mikokoro, Center of the Sea 1 Minamo, School at Water's Edge 1 Miren, the Moaning Well 1 Oboro, Palace in the Clouds 1 Shizo, Death's Storehouse 3 Azami, Lady of Scrolls 4 Jushi Apprentice 3 Keiga, the Tide Star 3 Meloku the Clouded Mirror 3 Consuming Vortex 3 Disrupting Shoal"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-01"
+[_metadata_:title]:- "Kamigawa Mono-Blue"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 06:07:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027060744id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-mono-blue-2009-10-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-mono-blue-2009-10-01"
 ---
 
 

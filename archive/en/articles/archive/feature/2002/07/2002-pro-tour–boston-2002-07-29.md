@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028112756/https://magic.wizards.com/en/articles/archive/feature/2002-pro-tour%E2%80%93boston-2002-07-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2002-pro-tour%E2%80%93boston-2002-07-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028112756id_/https://magic.wizards.com/en/articles/archive/feature/2002-pro-tour%E2%80%93boston-2002-07-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 11:27:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Come join Wizards of the Coast as we kick off our 2002-2003 Pro Tour Season in Boston, MA! This information will help you to prepare now to attend in September. Pro Tour–Boston will be held September 27-29, 2002.Invitation List How to Qualify Tournament Location Hotel information Format Information Packet Prize Payout Artists Ancillary Events Player Contact Tournament"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-07-29"
+[_metadata_:title]:- "2002 Pro Tour–Boston"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 11:27:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028112756id_/https://magic.wizards.com/en/articles/archive/feature/2002-pro-tour%E2%80%93boston-2002-07-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2002-pro-tour%E2%80%93boston-2002-07-29"
 ---
 
 

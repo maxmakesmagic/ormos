@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210507030211/https://magic.wizards.com/en/articles/archive/feature/2012-edition-frequently-asked-questions-2012-05-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2012-edition-frequently-asked-questions-2012-05-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210507030211id_/https://magic.wizards.com/en/articles/archive/feature/2012-edition-frequently-asked-questions-2012-05-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-07 03:02:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Document last modified May 21, 2012DOC Download Links: English | French | German | Italian | Japanese | SpanishAn FAQ is a collection of clarifications and rulings involving the cards in a new Magic: The Gathering set. It's intended to make playing with these new cards more fun by clearing up the common misconceptions and confusion inevitably caused by new mechanics and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-24"
+[_metadata_:title]:- "(2012 Edition) Frequently Asked Questions"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-07 03:02:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210507030211id_/https://magic.wizards.com/en/articles/archive/feature/2012-edition-frequently-asked-questions-2012-05-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2012-edition-frequently-asked-questions-2012-05-24"
 ---
 
 

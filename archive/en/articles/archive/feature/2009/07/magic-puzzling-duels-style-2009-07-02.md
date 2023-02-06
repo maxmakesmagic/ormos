@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170218194431/http://magic.wizards.com/en/articles/archive/feature/magic-puzzling-duels-style-2009-07-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-puzzling-duels-style-2009-07-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170218194431id_/http://magic.wizards.com/en/articles/archive/feature/magic-puzzling-duels-style-2009-07-02"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-18 19:44:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; So you haven't played Duels of the Planeswalkers? And you've got some excuse like `I don't have an Xbox,` which is fine, but that means you're missing out on some fun."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-02"
+[_metadata_:title]:- "Magic: The Puzzling, Duels Style"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-18 19:44:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170218194431id_/http://magic.wizards.com/en/articles/archive/feature/magic-puzzling-duels-style-2009-07-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-puzzling-duels-style-2009-07-02"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816072007/https://magic.wizards.com/en/articles/archive/feature/same-new-same-new-2004-11-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/same-new-same-new-2004-11-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816072007id_/https://magic.wizards.com/en/articles/archive/feature/same-new-same-new-2004-11-04"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 07:20:07+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Welcome, once again, to House of Cards. This week I thought I'd do something different and mercilessly mock a number of players who a) Aren't rocket scientists, and have therefore not memorized all 86 pages of the Comprehensive Rules, and b) Were foolishly thoughtful enough to send me email with their personal combo creations. What? I did that last week? Oh. I'll have to think"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-04"
+[_metadata_:title]:- "Same New, Same New"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 07:20:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816072007id_/https://magic.wizards.com/en/articles/archive/feature/same-new-same-new-2004-11-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/same-new-same-new-2004-11-04"
 ---
 
 

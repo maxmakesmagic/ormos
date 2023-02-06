@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220809134026/https://magic.wizards.com/en/articles/archive/feature/gw-hexless-2013-08-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gw-hexless-2013-08-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809134026id_/https://magic.wizards.com/en/articles/archive/feature/gw-hexless-2013-08-09"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 13:40:26+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "While doing coverage for the World Magic Cup, one of the decklists from the finals caught my eye. I watched Gabor Kocsis demolish France's Yann Guthmann in the UW matchup, and the amount of damage he put together was impressive. The deck looks a lot like a Hexproof deck, except that almost all of the creatures are targetable instead. That may sound worse, but what you get in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-08-09"
+[_metadata_:title]:- "GW Hexless"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 13:40:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809134026id_/https://magic.wizards.com/en/articles/archive/feature/gw-hexless-2013-08-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gw-hexless-2013-08-09"
 ---
 
 

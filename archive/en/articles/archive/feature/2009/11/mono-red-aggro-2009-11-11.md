@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816215343/https://magic.wizards.com/en/articles/archive/feature/mono-red-aggro-2009-11-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-red-aggro-2009-11-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816215343id_/https://magic.wizards.com/en/articles/archive/feature/mono-red-aggro-2009-11-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 21:53:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Almerick Li's Mono-red Aggro Format: Standard 4 Arid Mesa 11 Mountain 4 Scalding Tarn 4 Valakut, the Molten Pinnacle 4 Ball Lightning 4 Goblin Guide 3 Hell's Thunder 4 Hellspark Elemental 4 Plated Geopede 4 Burst Lightning 3 Chandra Nalaar 3 Elemental Appeal 4 Lightning Bolt 4 Volcanic Fallout *4 Earthquake *4 Goblin Ruinblaster *3 Magma Spray *4 Unstable"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-11"
+[_metadata_:title]:- "Mono-red Aggro"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 21:53:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816215343id_/https://magic.wizards.com/en/articles/archive/feature/mono-red-aggro-2009-11-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-red-aggro-2009-11-11"
 ---
 
 

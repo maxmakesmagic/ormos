@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201111202629/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-garruks-companion-2010-07-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-garruks-companion-2010-07-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111202629id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-garruks-companion-2010-07-30"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 20:26:29+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This week's wallpaper features Efrem Palacios's Garruk's Companion artwork from Magic 2011. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-30"
+[_metadata_:title]:- "Wallpaper of the Week: Garruk's Companion"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 20:26:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111202629id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-garruks-companion-2010-07-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-garruks-companion-2010-07-30"
 ---
 
 

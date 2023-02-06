@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522075832/https://magic.wizards.com/en/articles/archive/feature/us-open-1-deck-summary-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-1-deck-summary-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522075832id_/https://magic.wizards.com/en/articles/archive/feature/us-open-1-deck-summary-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 07:58:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 1 % of Field Round 2 Remain % Round 3 % from Round 2 Remain % % of field Round 4 Remain % Round 5 Remain % Round 6 Remain % Final Remain % Trinity Green 19 9.0% 13 68% 10 77% 53% 16% 7 37% 4 21% 3 16% 2 11% Replenish 22 10.4% 11 50% 4 36% 18% 6% 2 9% 1 5% 1 5% 1 5% Rebels 26 12.3% 20 77% 11 55% 42% 17% 4 15% 2 8% 1 4% 1 4% Speed Blue 2 0.9% 2 100% 1 50% 50% 2% 1 50% 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Open 1 Deck Summary"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 07:58:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522075832id_/https://magic.wizards.com/en/articles/archive/feature/us-open-1-deck-summary-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-1-deck-summary-2000-01-01"
 ---
 
 

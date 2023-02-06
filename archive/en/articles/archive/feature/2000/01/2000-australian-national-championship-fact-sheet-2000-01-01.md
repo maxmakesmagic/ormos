@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521070104/https://magic.wizards.com/en/articles/archive/feature/2000-australian-national-championship-fact-sheet-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2000-australian-national-championship-fact-sheet-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521070104id_/https://magic.wizards.com/en/articles/archive/feature/2000-australian-national-championship-fact-sheet-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 07:01:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What is the date for the AU National Championships? June 10, 11 & 12 2000 Where is the AU National Championships going to be held? Rydges Lakeside Canberra London Circuit Canberra, ACT Is the AU National Championships Open or Closed? What does that mean anyway? An `Open` National Championships is where any player can turn up, register and play in the Nationals. A `Closed`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "2000 Australian National Championship Fact Sheet"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 07:01:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521070104id_/https://magic.wizards.com/en/articles/archive/feature/2000-australian-national-championship-fact-sheet-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2000-australian-national-championship-fact-sheet-2000-01-01"
 ---
 
 

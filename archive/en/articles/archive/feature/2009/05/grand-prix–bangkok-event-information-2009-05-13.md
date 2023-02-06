@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016062157/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93bangkok-event-information-2009-05-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93bangkok-event-information-2009-05-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016062157id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93bangkok-event-information-2009-05-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 06:21:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: August 22-23, 2009 Format: Sealed Deck / Booster Draft Day 2 Tournament LocationThe Mall Bangkapi 4th Floor, MCC Hall 3522 Ladprao Rd, Klongchan Bangkapi, Bangkok 10240 Thailand Location map (PDF) Registration: 1000Baht Friday, August 21: 2 p.m. – 8 p.m. Saturday, August"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-13"
+[_metadata_:title]:- "Grand Prix–Bangkok Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 06:21:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016062157id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93bangkok-event-information-2009-05-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93bangkok-event-information-2009-05-13"
 ---
 
 

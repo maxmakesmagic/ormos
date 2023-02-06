@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429041802/https://magic.wizards.com/en/articles/archive/feature/what-you-see-what-you-get-2009-06-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-you-see-what-you-get-2009-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429041802id_/https://magic.wizards.com/en/articles/archive/feature/what-you-see-what-you-get-2009-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:18:02+00:00"
+[_metadata_:author]:- "Pete Venters"
 [_metadata_:description]:- "Magic: The Gathering has come a long way since Duelist #1—almost 20 Magic sets containing over 3,000 cards and spawning 2.3 billion errata. During this outpouring of cards (and the coincidental loss of several million acres of rainforest), what has remained constant about Magic? Nothing, except perhaps the card backs. The card front has changed subtly—from the dropping of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-01"
+[_metadata_:title]:- "What You See Is What You Get"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:18:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429041802id_/https://magic.wizards.com/en/articles/archive/feature/what-you-see-what-you-get-2009-06-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-you-see-what-you-get-2009-06-01"
 ---
 
 

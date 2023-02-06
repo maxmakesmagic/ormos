@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022170307/https://magic.wizards.com/en/articles/archive/feature/2011-latvia-national-championship-2009-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-latvia-national-championship-2009-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022170307id_/https://magic.wizards.com/en/articles/archive/feature/2011-latvia-national-championship-2009-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 17:03:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 19 June 2011Location: Megagame, Perses 14City: RigaCountry: LatviaThe Magic: the Gathering Latvia National Championship is National Championship is open to all citizens or permanent residents of Latvia.Contact informationEmail: kaupo@procard.eeTelephone: +37256702568 FormatStandard and Booster Draft 1 New Phyrexia, 1 Mirrodin Besieged, and 1 Scars of Mirrodin booster"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 Latvia National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 17:03:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022170307id_/https://magic.wizards.com/en/articles/archive/feature/2011-latvia-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-latvia-national-championship-2009-04-27"
 ---
 
 

@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171101021359/https://magic.wizards.com/en/articles/archive/feature/round-eighteen-results-sorted-table-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-eighteen-results-sorted-table-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171101021359id_/https://magic.wizards.com/en/articles/archive/feature/round-eighteen-results-sorted-table-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-01 02:13:59+00:00"
 [_metadata_:description]:- "Table Player Opponent Result 1 Hothow Dominik (ger) Summersberger Helmut (AUT) Won 2-1 2 Finkel Jon (USA) Klauser Benedikt (AUT) Won 2-0 3 Maher, Jr. Bob (usa) Mowshowitz Zvi (usa) Won 2-1 4 van de Logt Tom (HOL)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round Eighteen Results Sorted By Table"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-01 02:13:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171101021359id_/https://magic.wizards.com/en/articles/archive/feature/round-eighteen-results-sorted-table-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-eighteen-results-sorted-table-2000-01-01"
 ---
 
 

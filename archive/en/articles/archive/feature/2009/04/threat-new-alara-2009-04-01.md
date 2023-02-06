@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429063414/https://magic.wizards.com/en/articles/archive/feature/threat-new-alara-2009-04-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/threat-new-alara-2009-04-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429063414id_/https://magic.wizards.com/en/articles/archive/feature/threat-new-alara-2009-04-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:34:14+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The epic war intensifies as the former shards engage in relentless battles and bloodletting. But even as their armies assault one another, the discord sparks internal evolution in the once independent shards. As cultures mingle and the landscape changes, the shards begin to transform into something new. The old ways are dying. New Alara has emerged from the ashes. Naya adapts"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-01"
+[_metadata_:title]:- "The Threat to New Alara"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:34:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429063414id_/https://magic.wizards.com/en/articles/archive/feature/threat-new-alara-2009-04-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/threat-new-alara-2009-04-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200805195815/https://magic.wizards.com/en/articles/archive/feature/warrior-esthetic-2008-01-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/warrior-esthetic-2008-01-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805195815id_/https://magic.wizards.com/en/articles/archive/feature/warrior-esthetic-2008-01-30"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:58:15+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Eye-roll. Come on. The Warrior creature type is the dull one. What? Are you kidding me?Warrior's the type that gets slapped on when the creature merits a class (i.e., when it's a sentient humanoid that's doing an obvious job), but doesn't have any clear role other than fighting, right?No. You do not `slap on` the Warrior type.Of course you do. You have a goblin, it's got a spear or something, it has power and toughness—it's a Warrior."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-01-30"
+[_metadata_:title]:- "The Warrior Esthetic"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:58:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805195815id_/https://magic.wizards.com/en/articles/archive/feature/warrior-esthetic-2008-01-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/warrior-esthetic-2008-01-30"
 ---
 
 

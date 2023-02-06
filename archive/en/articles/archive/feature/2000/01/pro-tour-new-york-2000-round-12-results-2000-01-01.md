@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124021427/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124021427id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:14:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Baker Justin Edbury Richard Drew, 1-1 Blackwell Trevor Marks Jason Won, 2-0 Bregoli Mike Lo Moro Raffaele Won, 2-0 Brower Jeremy Johansson Hans Won, 2-0 Budde Kai Ruel Olivier Lost, 0-2 Bui Lucien Turning Travis G Drew, 1-1 Chapin Patrick Hubble Bryan Won, 2-1 Comer Alan Marsh Warren Lost, 1-2 Coppage Thomas Rumsey Michael Lost, 0-2 Cornelissen Kamiel"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 12 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:14:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124021427id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-results-2000-01-01"
 ---
 
 

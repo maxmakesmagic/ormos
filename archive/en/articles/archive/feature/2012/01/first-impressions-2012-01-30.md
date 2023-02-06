@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200805202741/https://magic.wizards.com/en/articles/archive/feature/first-impressions-2012-01-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-impressions-2012-01-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805202741id_/https://magic.wizards.com/en/articles/archive/feature/first-impressions-2012-01-30"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 20:27:41+00:00"
+[_metadata_:author]:- "Dave Humpherys"
 [_metadata_:description]:- "Hopefully, many of you had the chance to partake in a Dark Ascension Prerelease over the weekend. We're curious to hear your stories about the event and to know what has you most excited."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-30"
+[_metadata_:title]:- "First Impressions"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 20:27:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805202741id_/https://magic.wizards.com/en/articles/archive/feature/first-impressions-2012-01-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-impressions-2012-01-30"
 ---
 
 

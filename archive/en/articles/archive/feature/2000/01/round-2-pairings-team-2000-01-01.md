@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220626082437/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-team-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-team-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626082437id_/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-team-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 08:24:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPointsOpponentPoints#I Magic0vsI am Jack's Team0#realgangstas0vsUne Leche De FBI0$30 Cab Fare3vsTeam Clasp3$42 Ticket0* AWARDED BYE *100 Super Good Fun Time0* AWARDED BYE *3 for Flinching3vsScorned for Sega33 White Boys from the Stix3vsOne Turn Too Late35 Ways Worse than Portent0* AWARDED BYE *A Little Too Sick0* AWARDED BYE *AlphaBetaUnlimited.com/0* AWARDED BYE"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 2 Pairings (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 08:24:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626082437id_/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-team-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-team-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021063017/https://magic.wizards.com/en/articles/archive/feature/umezawa%E2%80%99s-jitte-2005-02-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/umezawa%E2%80%99s-jitte-2005-02-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021063017id_/https://magic.wizards.com/en/articles/archive/feature/umezawa%E2%80%99s-jitte-2005-02-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 06:30:17+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "At the first pre-release some weeks ago I had the pleasure of opening up this bad boy, and I couldn't have been more impressed at the kind of craziness that ensued every time I had it in play. (Toshiro) Umezawa's Jitte, my friends, is a very impressive card.One of the greatest things about playing Magic is the sheer multitude of ways you can play it. I regularly draft for fun,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-02-02"
+[_metadata_:title]:- "Umezawa’s Jitte"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 06:30:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021063017id_/https://magic.wizards.com/en/articles/archive/feature/umezawa%E2%80%99s-jitte-2005-02-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/umezawa%E2%80%99s-jitte-2005-02-02"
 ---
 
 

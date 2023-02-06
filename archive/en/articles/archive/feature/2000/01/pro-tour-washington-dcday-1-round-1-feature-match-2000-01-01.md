@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524145808/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-1-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-1-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524145808id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-1-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 14:58:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The first feature match held at a team-format Pro Tour matched the two teams with the longest names: Pat Chapin and the Dinosaurs (featuring Pat Chapin, Aaron Forsythe, and Eric Taylor) and Frayman 2; Electric Boogaloo (featuring Igor Frayman, Chris Pikula, and Adam Katz). Each team built a Black-White deck, a Blue-White deck, and a Red-Green deck. On the Dinosaurs, Taylor"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 1 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 14:58:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524145808id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-1-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-1-feature-match-2000-01-01"
 ---
 
 

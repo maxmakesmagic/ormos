@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118133711/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000top-8-decks-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000top-8-decks-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118133711id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000top-8-decks-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:37:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Brian Selden LAND (18) 10 Plains 7 Swamp 1 Peat Bog WHITE (14) 1 Charm Peddler 1 Cho-Arrim Legate 1 Cho-Manno's Blessing 1 Devout Witness 1 Disenchant 1 Jhovall Rider 1 Muzzle 1 Ramosian Captain 1 Ramosian Commander 1 Ramosian Lieutenant 1 Ramosian Rally 1 Revered Elder 1 Story Circle 1 Trap Runner BLACK (8) 1 Bog Smugglers 1 Deathgazer 2 Highway Robber 1 Intimidation 2 Sever"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Top 8 Decks"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:37:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118133711id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000top-8-decks-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000top-8-decks-2000-01-01"
 ---
 
 

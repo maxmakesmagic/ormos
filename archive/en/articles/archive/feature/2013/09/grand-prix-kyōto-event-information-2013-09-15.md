@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526112658/https://magic.wizards.com/en/articles/archive/feature/grand-prix-ky%C5%8Dto-event-information-2013-09-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-ky%C5%8Dto-event-information-2013-09-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526112658id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-ky%C5%8Dto-event-information-2013-09-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:26:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Kyōto is brought to you by Dandelion Inc."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-15"
+[_metadata_:title]:- "Grand Prix Kyōto Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:26:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526112658id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-ky%C5%8Dto-event-information-2013-09-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-ky%C5%8Dto-event-information-2013-09-15"
 ---
 
 

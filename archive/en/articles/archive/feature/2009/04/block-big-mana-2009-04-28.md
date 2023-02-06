@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018205704/https://magic.wizards.com/en/articles/archive/feature/block-big-mana-2009-04-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/block-big-mana-2009-04-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018205704id_/https://magic.wizards.com/en/articles/archive/feature/block-big-mana-2009-04-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 20:57:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kettle's Big Mana Format: Shards of Alara Block Constructed 6 Forest 4 Jungle Shrine 5 Mountain 4 Naya Panorama 5 Plains 4 Druid of the Anima 4 Elvish Visionary 4 Keeper of Progenitus 4 Knotvine Mystic 4 Wild Nacatl 4 Woolly Thoctar 4 Ajani Vengeant 4 Banefire 4 Titanic Ultimatum *4 Celestial Purge *4 Martial Coup *4 Oblivion Ring *3 Realm Razer [/decklist]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-28"
+[_metadata_:title]:- "Block Big Mana"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 20:57:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018205704id_/https://magic.wizards.com/en/articles/archive/feature/block-big-mana-2009-04-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/block-big-mana-2009-04-28"
 ---
 
 

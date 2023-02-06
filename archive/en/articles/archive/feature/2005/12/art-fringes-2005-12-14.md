@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210928063417/https://magic.wizards.com/en/articles/archive/feature/art-fringes-2005-12-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/art-fringes-2005-12-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210928063417id_/https://magic.wizards.com/en/articles/archive/feature/art-fringes-2005-12-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-28 06:34:17+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "There has been talk both inside and outside the walls of Wizards about the perceived homogenization of Magic art. I cannot speak for the opinions of others, but I can let you know what my position is on the whole thing. In my humble opinion, it's not as bad as the rabble rousers would have you think, but it is not as good as it could be. I do absolutely believe that a no-holds"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-12-14"
+[_metadata_:title]:- "Art on the Fringes"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-28 06:34:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210928063417id_/https://magic.wizards.com/en/articles/archive/feature/art-fringes-2005-12-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/art-fringes-2005-12-14"
 ---
 
 

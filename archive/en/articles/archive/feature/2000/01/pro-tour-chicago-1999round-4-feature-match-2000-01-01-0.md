@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211128065009/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-4-feature-match-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-4-feature-match-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128065009id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-4-feature-match-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 06:50:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Christian Lührs - Svend Geertsen Lührs won the die roll and chose to go first. He played an Underground Sea and said go, prompting Geertsen to wonder what decks ran Underground Seas. He found out after trying to play a first turn Skyshroud Elite as Lührs cast Demonic Consultation in response, calling for a Force of Will. Two Force of Wills were in the first six cards, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Round 4 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 06:50:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128065009id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-4-feature-match-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-4-feature-match-2000-01-01-0"
 ---
 
 

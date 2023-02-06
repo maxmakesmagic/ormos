@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170819070200/http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-release-notes-2017-08-11)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-release-notes-2017-08-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170819070200id_/http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-release-notes-2017-08-11"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-19 07:02:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-08-11"
+[_metadata_:title]:- "Magic: The Gathering—Commander (2017 Edition) Release Notes"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-19 07:02:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170819070200id_/http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-release-notes-2017-08-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-release-notes-2017-08-11"
 ---
 
 

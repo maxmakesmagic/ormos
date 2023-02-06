@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208043404/https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-feature-match-aaron-forsythe-vs-mike-turian-2000-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-feature-match-aaron-forsythe-vs-mike-turian-2000-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208043404id_/https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-feature-match-aaron-forsythe-vs-mike-turian-2000-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 04:34:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Mike Flores Friends from the Pittsburgh area, Forsythe and Turian are both playing Aaron's `Angry Hermit` deck, a G/R contraption filled with mana acceleration creatures and mana control. The competitors had a little to say before the start: `I think I have deck advantage.` -Mike Turian `I already beat Mike in this matchup at Friday Night Magic.` -Aaron Forsythe Game One:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:title]:- "Finals (Loser's Bracket) Feature Match - Aaron Forsythe vs. Mike Turian"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 04:34:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208043404id_/https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-feature-match-aaron-forsythe-vs-mike-turian-2000-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-feature-match-aaron-forsythe-vs-mike-turian-2000-01"
 ---
 
 

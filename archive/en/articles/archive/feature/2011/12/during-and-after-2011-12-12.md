@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160721093905/http://magic.wizards.com/en/articles/archive/feature/during-and-after-2011-12-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/during-and-after-2011-12-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160721093905id_/http://magic.wizards.com/en/articles/archive/feature/during-and-after-2011-12-12"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-21 09:39:05+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "When I asked (then) MagicTheGathering.com editor Kelly Digges if I could steal some word count on the website, he thought of a of a nifty place to put me: Flashback Week. His angle: flash back to when these pages served up a particular blend of flavor-related babble each week."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-12-12"
+[_metadata_:title]:- "Before, During, and After"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-21 09:39:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160721093905id_/http://magic.wizards.com/en/articles/archive/feature/during-and-after-2011-12-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/during-and-after-2011-12-12"
 ---
 
 

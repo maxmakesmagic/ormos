@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126184631/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-pods-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-pods-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126184631id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-pods-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:46:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pod Seat Name 1 7 Fisher, Justin 1 Waller, Sam 4 Baehr, Kevin 8 Nakamura, Satoshi 5 Prawdzik, Nathaniel 3 Woods, Norman 2 Lynch, Brian 6 Burgner, Kurt 2 2 Faesi, Christopher 5 Johnson, Jake 1 Rybalchenko, Andrey 3 Bryant, David 6 Schrage, Marvin 7 Underhill, Shawn 8 Lopes, Cesar 4 Herzog, Nicolai 3 2 Myrvig, Peter 7 Godinez-Estrada, Gerardo 8 Tsai, Tony 5 Cheng, Wai 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000First Draft Pods"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:46:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126184631id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-pods-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-pods-2000-01-01"
 ---
 
 

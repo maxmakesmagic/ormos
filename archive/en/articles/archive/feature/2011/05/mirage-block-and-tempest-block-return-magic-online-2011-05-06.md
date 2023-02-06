@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518084554/https://magic.wizards.com/en/articles/archive/feature/mirage-block-and-tempest-block-return-magic-online-2011-05-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirage-block-and-tempest-block-return-magic-online-2011-05-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518084554id_/https://magic.wizards.com/en/articles/archive/feature/mirage-block-and-tempest-block-return-magic-online-2011-05-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 08:45:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Two classic blocks return to Magic Online for a limited engagement. Mirage Block and Tempest Block will be available in the Magic Online Store for one week (May 11 to May 18) and will be accompanied by draft queues and four-round scheduled events. Don't miss your chance to relive the past! CLASSIC BLOCK BOOSTER DRAFT QUEUESSTART TIME: Starting after the scheduled downtime on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-05-06"
+[_metadata_:title]:- "Mirage Block and Tempest Block Return to Magic Online"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 08:45:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518084554id_/https://magic.wizards.com/en/articles/archive/feature/mirage-block-and-tempest-block-return-magic-online-2011-05-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirage-block-and-tempest-block-return-magic-online-2011-05-06"
 ---
 
 

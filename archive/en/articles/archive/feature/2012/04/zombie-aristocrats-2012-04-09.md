@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161029212025/http://magic.wizards.com/en/articles/archive/feature/zombie-aristocrats-2012-04-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zombie-aristocrats-2012-04-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161029212025id_/http://magic.wizards.com/en/articles/archive/feature/zombie-aristocrats-2012-04-09"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-29 21:20:25+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Blue-Black Zombies have been a huge part of Standard recently, but StarCityGames.com Open Series competitor Joshua Gaxiola recently took a different approach to the shambling soldiers. Opting for red instead of blue, he catapulted himself into the Top 16 of the Salt Lake City Open on the back of burn spells and Falkenrath Aristocrat."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-09"
+[_metadata_:title]:- "Zombie Aristocrats"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-29 21:20:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161029212025id_/http://magic.wizards.com/en/articles/archive/feature/zombie-aristocrats-2012-04-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zombie-aristocrats-2012-04-09"
 ---
 
 

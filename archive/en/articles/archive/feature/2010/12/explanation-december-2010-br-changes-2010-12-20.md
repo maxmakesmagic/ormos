@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170718173159/http://magic.wizards.com/en/articles/archive/feature/explanation-december-2010-br-changes-2010-12-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/explanation-december-2010-br-changes-2010-12-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170718173159id_/http://magic.wizards.com/en/articles/archive/feature/explanation-december-2010-br-changes-2010-12-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-18 17:31:59+00:00"
+[_metadata_:author]:- "Erik Lauer"
 [_metadata_:description]:- "To see the changes, click here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-20"
+[_metadata_:title]:- "Explanation of December 2010 B&R Changes"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-18 17:31:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170718173159id_/http://magic.wizards.com/en/articles/archive/feature/explanation-december-2010-br-changes-2010-12-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/explanation-december-2010-br-changes-2010-12-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018234330/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-launch-party-schedule-2009-04-14-3)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-launch-party-schedule-2009-04-14-3"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018234330id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-launch-party-schedule-2009-04-14-3"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 23:43:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "ItalyWorldwide Fact Sheet DateCityVenueAddress Postal CodePhone 5/3/2009AbbiategrassoOpen Games - AbbiategrassoVia Palestro 2920081 4/30/2009Alzano LombardoModelltechnikVia Fantoni 55/572402235511811 5/2/2009AnconaLa FumetteriaVia Maratta 20/a60123 5/2/2009ArcoreArea GiocoVia Caglio, 620043 5/2/2009arezzoFumettopoliVia Piave 2452100 5/1/2009AsolaLa grotta del Dragovia Cesare"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-14"
+[_metadata_:title]:- "Alara Reborn Launch Party Schedule"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 23:43:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018234330id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-launch-party-schedule-2009-04-14-3"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-launch-party-schedule-2009-04-14-3"
 ---
 
 

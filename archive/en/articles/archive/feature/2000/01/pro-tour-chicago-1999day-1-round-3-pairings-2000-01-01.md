@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523202057/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-3-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-3-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523202057id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-3-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 20:20:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Aguiar, Rui (343) 3 60 Gray, Andrew (46) 3 Alcantara, Jomar (317) 0 139 Hatakeyama, Tomoya (55) 0 Allen, Crispin (143) 2 126 Rank, Derek (225) 2 Allen, Dustin (144) 6 15 Baberowski, Dirk (120) 6 Allison, Jerry (124) 3 49 Verbruggen, Guy (187) 3 Anderson, Adam (313) 0 134 Le Pine, Mark (314) 0 Anderson, Alex (4) 6 21 Davis, Brian (170) 6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Day 1 Round 3 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 20:20:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523202057id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-3-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-3-pairings-2000-01-01"
 ---
 
 

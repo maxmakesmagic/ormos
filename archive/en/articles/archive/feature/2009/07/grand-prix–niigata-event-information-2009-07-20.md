@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211130182744/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93niigata-event-information-2009-07-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93niigata-event-information-2009-07-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130182744id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93niigata-event-information-2009-07-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 18:27:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: August 29-30, 2009 Format: Magic 2010 Sealed Deck / Booster Draft Tournament Location Toki Messe 6-1 Bandai-jima Chuo-ku, Niigata-shi Web Site Registration: Friday, August 28: 16:00-20:00, ¥3000 Saturday, August 29: 08:00-09:00, ¥3500 Get your free promo card by playing in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-20"
+[_metadata_:title]:- "Grand Prix–Niigata Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 18:27:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130182744id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93niigata-event-information-2009-07-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93niigata-event-information-2009-07-20"
 ---
 
 

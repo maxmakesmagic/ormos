@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812211217/https://magic.wizards.com/en/articles/archive/feature/bazaar-moxen-modern-winner-2014-05-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bazaar-moxen-modern-winner-2014-05-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812211217id_/https://magic.wizards.com/en/articles/archive/feature/bazaar-moxen-modern-winner-2014-05-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 21:12:17+00:00"
+[_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "The Bazaar of Moxen tournament series, in Annecy, France, recently added Modern to its suite of Eternal offerings, with the main event drawing 307 players. At the end of the day, Serafin Wellinger was the last player standing, piloting a unique green-white deck with a variety of disruptive elements. The core of this deck uses Leonin Arbiter and Thalia, Guardian of Thraben to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-16"
+[_metadata_:title]:- "Bazaar of Moxen Modern Winner"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 21:12:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812211217id_/https://magic.wizards.com/en/articles/archive/feature/bazaar-moxen-modern-winner-2014-05-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bazaar-moxen-modern-winner-2014-05-16"
 ---
 
 

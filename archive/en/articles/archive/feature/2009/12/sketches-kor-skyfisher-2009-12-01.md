@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429105120/https://magic.wizards.com/en/articles/archive/feature/sketches-kor-skyfisher-2009-12-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketches-kor-skyfisher-2009-12-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429105120id_/https://magic.wizards.com/en/articles/archive/feature/sketches-kor-skyfisher-2009-12-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 10:51:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "From time to time, a sketch comes in that's so right that there's no point elaborating on it. So let's take a look at Dan Scott's Kor Skyfisher! The card, as you may already know, looks like this: The art description was this: Color: White creature Location: Plains environment Action: Show a female kor warrior who's riding a kitesail, a flying device of your design, through"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-12-01"
+[_metadata_:title]:- "Sketches: Kor Skyfisher"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 10:51:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429105120id_/https://magic.wizards.com/en/articles/archive/feature/sketches-kor-skyfisher-2009-12-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketches-kor-skyfisher-2009-12-01"
 ---
 
 

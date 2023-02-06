@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211204172806/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204172806id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 17:28:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Europe - OtherWorldwide Fact Sheet DateCountryCityVenueAddressPostal CodeContact 4/25/2009AustriaKlagenfurtSpielmann games & moreSuedpark 19020 4/25/2009AustriaViennaMagic CornerNewaldgasse 3/11090Email 4/25/2009AustriaSt. PltenGamePlayLinzerstrae 163100 4/25/2009AustriaWasendorfRieger Reinhold KEGWasendroferstrasse 208753 4/25/2009AustriaLinzTassilo HausWebergasse 9A-4020"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-31"
+[_metadata_:title]:- "Alara Reborn Prerelease Schedule"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 17:28:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204172806id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31"
 ---
 
 

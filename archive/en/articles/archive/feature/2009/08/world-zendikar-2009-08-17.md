@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429022037/https://magic.wizards.com/en/articles/archive/feature/world-zendikar-2009-08-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-zendikar-2009-08-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429022037id_/https://magic.wizards.com/en/articles/archive/feature/world-zendikar-2009-08-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:20:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The World of Zendikar Akoum Akoum is a mountainous continent where magma glows from crevasses in the earth. Crystalline fields shimmer beneath the sun, but their many sharp edges will slice through skin and bone. In some areas, the temperatures are extreme—burning an explorer's skin during the day and causing frostbite during the night. Gases occasionally spew from the ground,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-17"
+[_metadata_:title]:- "The World of Zendikar"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:20:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429022037id_/https://magic.wizards.com/en/articles/archive/feature/world-zendikar-2009-08-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-zendikar-2009-08-17"
 ---
 
 

@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029212011/https://magic.wizards.com/en/articles/archive/feature/round-1-kiyoshi-sasanuma-fujieda-laboratory-vs-hashimoto-hiroshi-rakeru)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-kiyoshi-sasanuma-fujieda-laboratory-vs-hashimoto-hiroshi-rakeru"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029212011id_/https://magic.wizards.com/en/articles/archive/feature/round-1-kiyoshi-sasanuma-fujieda-laboratory-vs-hashimoto-hiroshi-rakeru"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:20:11+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Fujieda Laboratory's Sasanuma Kiyoshi Kiyoshi Sasanuma, whose best previous finish was at the 1998 APAC Championship, is known as the `Japanese Zvi` for his innovative deck designs. Sasanuma started Game 1 with a double mulligan, keeping a five-card hand that miraculously had three land."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:title]:- "Round 1: Kiyoshi Sasanuma (Fujieda Laboratory) vs. Hashimoto Hiroshi (Rakeru)"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:20:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029212011id_/https://magic.wizards.com/en/articles/archive/feature/round-1-kiyoshi-sasanuma-fujieda-laboratory-vs-hashimoto-hiroshi-rakeru"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-kiyoshi-sasanuma-fujieda-laboratory-vs-hashimoto-hiroshi-rakeru"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026184535/https://magic.wizards.com/en/articles/archive/feature/cascade-control-2009-11-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cascade-control-2009-11-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026184535id_/https://magic.wizards.com/en/articles/archive/feature/cascade-control-2009-11-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 18:45:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Andy Hanson's Cascade Control Format: Standard 2 Arcane Sanctum 1 Arid Mesa 1 Crumbling Necropolis 1 Dragonskull Summit 1 Drowned Catacomb 3 Exotic Orchard 1 Forest 1 Glacial Fortress 1 Island 2 Jungle Shrine 2 Marsh Flats 1 Mountain 2 Plains 4 Rupture Spire 1 Savage Lands 1 Scalding Tarn 1 Swamp 1 Verdant Catacombs 4 Baneslayer Angel 4 Bloodbraid Elf 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-10"
+[_metadata_:title]:- "Cascade Control"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 18:45:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026184535id_/https://magic.wizards.com/en/articles/archive/feature/cascade-control-2009-11-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cascade-control-2009-11-10"
 ---
 
 

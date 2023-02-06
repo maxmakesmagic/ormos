@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201128030427/https://magic.wizards.com/en/articles/archive/feature/color-purple-2007-01-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/color-purple-2007-01-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201128030427id_/https://magic.wizards.com/en/articles/archive/feature/color-purple-2007-01-29"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-28 03:04:27+00:00"
+[_metadata_:author]:- "Paul Sottosanti"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-01-30"
+[_metadata_:title]:- "The Color Purple"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-28 03:04:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201128030427id_/https://magic.wizards.com/en/articles/archive/feature/color-purple-2007-01-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/color-purple-2007-01-29"
 ---
 
 

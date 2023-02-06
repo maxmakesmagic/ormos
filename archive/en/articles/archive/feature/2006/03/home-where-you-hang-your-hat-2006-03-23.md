@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170511192407/http://magic.wizards.com/en/articles/archive/feature/home-where-you-hang-your-hat-2006-03-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/home-where-you-hang-your-hat-2006-03-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170511192407id_/http://magic.wizards.com/en/articles/archive/feature/home-where-you-hang-your-hat-2006-03-23"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-11 19:24:07+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "You know all those times you try to access magicthegathering.com, or any less entertaining and informative website really, and the Internet seems a wee bit slow? Sorry about that. It's me. Blame your old pal michaelj. Send hate mail to… Actually, there is a perfectly good forum link. So anyway, Wizards of the Coast has this eminently useful site application called Gatherer, The Official Magic: The Gathering Card Database."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-03-23"
+[_metadata_:title]:- "Home is Where You Hang Your Hat"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-11 19:24:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170511192407id_/http://magic.wizards.com/en/articles/archive/feature/home-where-you-hang-your-hat-2006-03-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/home-where-you-hang-your-hat-2006-03-23"
 ---
 
 

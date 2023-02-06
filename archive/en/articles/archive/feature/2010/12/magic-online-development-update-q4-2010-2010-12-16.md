@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160422021544/http://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q4-2010-2010-12-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q4-2010-2010-12-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160422021544id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q4-2010-2010-12-16"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-22 02:15:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Summary Construction of the new Magic Online client is running full-bore, and we are targeting late Q1 2011 for a game play beta focused on the new 2-player duel scene. A beta for the full client would follow when all the scenes have finished construction. We continue to work on infrastructure improvements in order to ensure continued system stability. We are starting to take on feature development projects in addition to the infrastructure updates. The system is continuing to perform well as the user base expands."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-16"
+[_metadata_:title]:- "Magic Online Development Update Q4 2010"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-22 02:15:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160422021544id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q4-2010-2010-12-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q4-2010-2010-12-16"
 ---
 
 

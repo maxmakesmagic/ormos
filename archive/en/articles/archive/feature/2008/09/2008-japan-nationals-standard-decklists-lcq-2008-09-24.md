@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026031731/https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-lcq-2008-09-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-lcq-2008-09-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026031731id_/https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-lcq-2008-09-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 03:17:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Senba Koutaro Format: 2008 Japan Nationals LCQ A Winner - Standard 4 Island 2 Swamp 4 Secluded Glen 4 Mutavault 3 Underground River 2 Faerie Conclave 2 Sunken Ruins 1 Reflecting Pool 1 River of Tears 1 Pendelhaven 4 Spellstutter Sprite 4 Scion of Oona 2 Pestermite 4 Mistbind Clique 4 Bitterblossom 4 Ancestral Vision 4 Remove Soul 4 Cryptic Command 2 Terror 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-24"
+[_metadata_:title]:- "2008 Japan Nationals Standard Decklists LCQ"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 03:17:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026031731id_/https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-lcq-2008-09-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-lcq-2008-09-24"
 ---
 
 

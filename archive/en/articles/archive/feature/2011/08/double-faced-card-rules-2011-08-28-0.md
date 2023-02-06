@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170318215159/http://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-28-0)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-28-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318215159id_/http://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-28-0"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-18 21:51:59+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "This page is intended to cover double-faced cards in detail. As such, it repeats the basic information from the Innistrad Mechanics Article. If you're just looking for the basics, the Mechanics Article should have you covered.Tens of billions of Magic cards have been printed, and until now, they all had one thing in common: the back of the card. Well, no longer. For the first time ever, Innistrad brings double-faced cards to Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-08-28"
+[_metadata_:title]:- "Double-Faced Card Rules"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-18 21:51:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318215159id_/http://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-28-0"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-28-0"
 ---
 
 

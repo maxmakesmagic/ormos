@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150711185227/http://magic.wizards.com/en/articles/archive/feature/september-27-2013-dci-banned-restricted-list-announcement-2013-09-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/september-27-2013-dci-banned-restricted-list-announcement-2013-09-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150711185227id_/http://magic.wizards.com/en/articles/archive/feature/september-27-2013-dci-banned-restricted-list-announcement-2013-09-16"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-11 18:52:27+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Erik Lauer"
 [_metadata_:description]:- "Announcement Date: September 16, 2013Effective Date: September 27, 2013Magic Online Effective Date: October 2, 2013"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-16"
+[_metadata_:title]:- "September 27, 2013, DCI Banned & Restricted List Announcement"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-11 18:52:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150711185227id_/http://magic.wizards.com/en/articles/archive/feature/september-27-2013-dci-banned-restricted-list-announcement-2013-09-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/september-27-2013-dci-banned-restricted-list-announcement-2013-09-16"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170520181607/http://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-2-2012-01-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-2-2012-01-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170520181607id_/http://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-2-2012-01-30"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-20 18:16:07+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Last week, I began telling card-by-card stories of Dark Ascension. Whenever I'm the design lead, I tend to have more stories, so I couldn't fit everything in last week (nor this week, as you'll see). Today is part two of my stories. If you haven't read part one, you might want to give it a peek, although unlike most multi-part columns this one stands alone better than most."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-30"
+[_metadata_:title]:- "Dark Shadows, Part 2"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-20 18:16:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170520181607id_/http://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-2-2012-01-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-2-2012-01-30"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211015194553/https://magic.wizards.com/en/articles/archive/feature/2006-magic-gathering-world-championships-2006-08-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-magic-gathering-world-championships-2006-08-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015194553id_/https://magic.wizards.com/en/articles/archive/feature/2006-magic-gathering-world-championships-2006-08-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 19:45:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Low-cost hotels – Formule 1 Formule 1 is a low-budget hotel chain offering functional rooms for 1, 2 or 3 persons.They offer modern rooms that contain a double bed and a bunk, a washbasin and mirror, a corner table, and a TV. Toilets and showers are located just outside the room.Reservations can be made in several ways: 1) Through the internet: www.hotelformule1.com 2) By"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-22"
+[_metadata_:title]:- "2006 Magic: The Gathering World Championships"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 19:45:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015194553id_/https://magic.wizards.com/en/articles/archive/feature/2006-magic-gathering-world-championships-2006-08-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-magic-gathering-world-championships-2006-08-22"
 ---
 
 

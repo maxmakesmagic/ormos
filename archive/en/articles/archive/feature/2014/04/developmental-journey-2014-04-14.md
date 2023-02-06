@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220625023318/https://magic.wizards.com/en/articles/archive/feature/developmental-journey-2014-04-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/developmental-journey-2014-04-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625023318id_/https://magic.wizards.com/en/articles/archive/feature/developmental-journey-2014-04-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 02:33:18+00:00"
+[_metadata_:author]:- "Dave Humpherys"
 [_metadata_:description]:- "I'd like to share some of the most notable changes of course that Journey into Nyx took through development, but first, let's meet the Journey into Nyx development team. Dave Humpherys (lead) My role at Wizards of the Coast is to manage the development team for Magic R&D. I've led set development for Gatecrash and Avacyn Restored, as well as for the upcoming Conspiracy. I'll"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-04-14"
+[_metadata_:title]:- "A Developmental Journey"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 02:33:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625023318id_/https://magic.wizards.com/en/articles/archive/feature/developmental-journey-2014-04-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/developmental-journey-2014-04-14"
 ---
 
 

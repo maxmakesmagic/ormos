@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210917212445/https://magic.wizards.com/en/articles/archive/feature/adding-little-flavor-2002-03-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adding-little-flavor-2002-03-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210917212445id_/https://magic.wizards.com/en/articles/archive/feature/adding-little-flavor-2002-03-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-17 21:24:45+00:00"
+[_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "It’s often ignored, often made fun of, but most players would notice if it suddenly disappeared tomorrow. And the game would be worse off if it did. Yes, it’s flavor text, sometimes a storytelling point, sometimes a cheap gag, always controversial. If you thought Magic players couldn’t agree on card abilities, you should listen to a debate on flavor text sometime! Players are"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-03-21"
+[_metadata_:title]:- "Adding a Little Flavor"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-17 21:24:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210917212445id_/https://magic.wizards.com/en/articles/archive/feature/adding-little-flavor-2002-03-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adding-little-flavor-2002-03-21"
 ---
 
 

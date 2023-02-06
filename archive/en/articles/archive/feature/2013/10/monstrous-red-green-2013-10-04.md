@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160120081336/http://magic.wizards.com/en/articles/archive/feature/monstrous-red-green-2013-10-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/monstrous-red-green-2013-10-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160120081336id_/http://magic.wizards.com/en/articles/archive/feature/monstrous-red-green-2013-10-04"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-20 08:13:36+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Last weekend, the StarCityGames Open in Worcester kicked off the new season of Standard. It gave us a preview of what Standard might look like, demonstrated the effectiveness of new Theros cards, and most importantly showed us where the wild things are. The answer to that last one is Christopher Posporelis's RG deck, as it's got no shortage of monsters. He made Top 8 with the classic strategy of Elves and Dragons, which has been a deck for as long as Magic has existed."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-04"
+[_metadata_:title]:- "Monstrous Red-Green"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-20 08:13:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160120081336id_/http://magic.wizards.com/en/articles/archive/feature/monstrous-red-green-2013-10-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/monstrous-red-green-2013-10-04"
 ---
 
 

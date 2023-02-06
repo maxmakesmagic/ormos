@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503020609/https://magic.wizards.com/en/articles/archive/feature/entangled-human-tribalism-2007-01-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/entangled-human-tribalism-2007-01-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503020609id_/https://magic.wizards.com/en/articles/archive/feature/entangled-human-tribalism-2007-01-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 02:06:09+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Today I have a special feature on the online Tribal Wars metagame, where Humans dominate the scene. But let's tackle Standard first. In the following table I have listed the 20 most popular Standard decks as seen in the Top 8s of online Premier Events last week. You can click on a deck name to go to the corresponding post in my deck-o-pedia forum thread, where you can find a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-01-17"
+[_metadata_:title]:- "Entangled in Human Tribalism"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 02:06:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503020609id_/https://magic.wizards.com/en/articles/archive/feature/entangled-human-tribalism-2007-01-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/entangled-human-tribalism-2007-01-17"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523213242/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-11-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-11-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523213242id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-11-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:32:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Opponent Points Auer, Jeff (1700) (512) 19 Zaun, Michael (1700) (147) 18 Bernat Michael (70) 24 Regnier, Shawn (1700) (480) 22 Boyer, Chris (1700) (27) 22 Schaper, Garrett (1700) (429) 22 Bush Michelle (11) 25 Crosby, Joseph (Q) (1700) (393) 25 Carpenter, Ryan (1700) (389) 24 Sorino Roger (108) 24 Crosby, Joseph (Q) (1700) (393) 25 Bush Michelle (11) 25 Dobson,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 11 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:32:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523213242id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-11-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-11-pairings-2000-01-01"
 ---
 
 

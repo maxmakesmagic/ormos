@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526203212/https://magic.wizards.com/en/articles/archive/feature/ghost-baron-2013-07-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ghost-baron-2013-07-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526203212id_/https://magic.wizards.com/en/articles/archive/feature/ghost-baron-2013-07-10"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 20:32:12+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I stumbled across an interesting decklist this week while reading an article by Jacob Van Lunen on Standard (a name readers of DailyMTG.com will likely recognize). Jacob modified a deck he found on Magic Online played by a user named Scream, and has been having good results with it. The deck bears remarkable similarity to a deck we considered playing in Block Constructed at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-10"
+[_metadata_:title]:- "The Ghost Baron"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 20:32:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526203212id_/https://magic.wizards.com/en/articles/archive/feature/ghost-baron-2013-07-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ghost-baron-2013-07-10"
 ---
 
 

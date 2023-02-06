@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030085551/https://magic.wizards.com/en/articles/archive/feature/grand-prix-pittsburgh-2003-03-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-pittsburgh-2003-03-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030085551id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-pittsburgh-2003-03-13"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 08:55:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour™ events.Grand Prix—Pittsburgh is presented by Professional Event Services"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-03-13"
+[_metadata_:title]:- "Grand Prix - Pittsburgh"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 08:55:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030085551id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-pittsburgh-2003-03-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-pittsburgh-2003-03-13"
 ---
 
 

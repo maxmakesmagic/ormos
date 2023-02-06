@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528180600/https://magic.wizards.com/en/articles/archive/feature/2010-community-cup-wizards-coast-team-announced-2010-06-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-community-cup-wizards-coast-team-announced-2010-06-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528180600id_/https://magic.wizards.com/en/articles/archive/feature/2010-community-cup-wizards-coast-team-announced-2010-06-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 18:06:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "With only one week to go until the 2010 Magic Online Community Cup, it is time to introduce the Wizards of the Coast team. Like last year, the Wizards team consists of many different employees who work on Magic and Magic Online who will be scheduled for different events. This year, however, they are out for vengeance! The 9 members of the Community Team will be competing"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-02"
+[_metadata_:title]:- "2010 Community Cup Wizards of the Coast Team Announced!"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 18:06:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528180600id_/https://magic.wizards.com/en/articles/archive/feature/2010-community-cup-wizards-coast-team-announced-2010-06-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-community-cup-wizards-coast-team-announced-2010-06-02"
 ---
 
 

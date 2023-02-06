@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220702163432/https://magic.wizards.com/en/articles/archive/feature/notes-first-two-rounds-play-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/notes-first-two-rounds-play-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702163432id_/https://magic.wizards.com/en/articles/archive/feature/notes-first-two-rounds-play-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 16:34:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler It was standing room only at Neutral Ground New York for the first two rounds of the Extended constructed Masters event. Things felt tense during the Gateway as 103 players fought for the last two invitations into the exclusive field, but the heat turned up dramatically as arguably the best 32 players in the world sat down to start dividing up $150,000."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Notes on the first two rounds of play"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 16:34:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702163432id_/https://magic.wizards.com/en/articles/archive/feature/notes-first-two-rounds-play-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/notes-first-two-rounds-play-2000-01-01"
 ---
 
 

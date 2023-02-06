@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170610160928/http://magic.wizards.com/en/articles/archive/feature/mtgcomprotoursandiego07-qualifiers-2007-02-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mtgcomprotoursandiego07-qualifiers-2007-02-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170610160928id_/http://magic.wizards.com/en/articles/archive/feature/mtgcomprotoursandiego07-qualifiers-2007-02-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-10 16:09:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Play the Game, See the World Wondering about life on the Pro Tour? Watch as some of the game's best players from past and present talk about the role the Pro Tour has played in their lives. Download now! (26.1 MB zip WMP) North America"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-02-20"
+[_metadata_:title]:- "mtgcom_protour_sandiego07-qualifiers"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-10 16:09:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170610160928id_/http://magic.wizards.com/en/articles/archive/feature/mtgcomprotoursandiego07-qualifiers-2007-02-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mtgcomprotoursandiego07-qualifiers-2007-02-20"
 ---
 
 

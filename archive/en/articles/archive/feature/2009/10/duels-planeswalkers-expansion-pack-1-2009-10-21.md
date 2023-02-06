@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521200054/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-expansion-pack-1-2009-10-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-expansion-pack-1-2009-10-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521200054id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-expansion-pack-1-2009-10-21"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:00:54+00:00"
+[_metadata_:author]:- "Jay Schneider"
 [_metadata_:description]:- "On October 21, Duels of the Planeswalkers is launching an expansion to challenge your Magic skills, and this time we've brought along a dragon! And not just any dragon, but Nicol Bolas, a planeswalker dragon and everyone's favorite bad guy. Why? Because there are a lot of you, and we couldn't find anyone else tough enough to handle the job. At the time I'm writing this, there"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-21"
+[_metadata_:title]:- "Duels of the Planeswalkers Expansion Pack 1"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:00:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521200054id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-expansion-pack-1-2009-10-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-expansion-pack-1-2009-10-21"
 ---
 
 

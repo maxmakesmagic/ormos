@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220815104521/https://magic.wizards.com/en/articles/archive/feature/balancing-act-2007-04-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/balancing-act-2007-04-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815104521id_/https://magic.wizards.com/en/articles/archive/feature/balancing-act-2007-04-04"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 10:45:21+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Welcome back to Online Tech! I'll be talking about the online Extended metagame today, with a special focus on the Balancing Tings deck.But first off, let me explain a small change in the way this column is typically set up: I am going to cover Standard slightly less often. You may be used to getting a weekly Standard update from me, but for instance I'm not going to show one"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-04-04"
+[_metadata_:title]:- "A Balancing Act"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 10:45:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815104521id_/https://magic.wizards.com/en/articles/archive/feature/balancing-act-2007-04-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/balancing-act-2007-04-04"
 ---
 
 

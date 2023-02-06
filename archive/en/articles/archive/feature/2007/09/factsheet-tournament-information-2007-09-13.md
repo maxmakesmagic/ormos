@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171031201844/https://magic.wizards.com/en/articles/archive/feature/factsheet-tournament-information-2007-09-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/factsheet-tournament-information-2007-09-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031201844id_/https://magic.wizards.com/en/articles/archive/feature/factsheet-tournament-information-2007-09-13"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 20:18:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "3 & 4 November 2007 Format: StandardTournament Location:Targi W KrakovieCentralna street 41AKrakow 31-586, Polandhttp://www.targi.krakow.pl   Celebrate 10 years of Grand Prix! Grand Prix are the most exciting events the DCI offers. They're high-energy and held around the world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-09-13"
+[_metadata_:title]:- "Factsheet Tournament Information"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 20:18:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031201844id_/https://magic.wizards.com/en/articles/archive/feature/factsheet-tournament-information-2007-09-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/factsheet-tournament-information-2007-09-13"
 ---
 
 

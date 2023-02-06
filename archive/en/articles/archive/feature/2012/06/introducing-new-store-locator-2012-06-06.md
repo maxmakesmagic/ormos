@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160826102811/http://magic.wizards.com/en/articles/archive/feature/introducing-new-store-locator-2012-06-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/introducing-new-store-locator-2012-06-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160826102811id_/http://magic.wizards.com/en/articles/archive/feature/introducing-new-store-locator-2012-06-06"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-26 10:28:11+00:00"
 [_metadata_:description]:- "We've launched a new store locator. It's a completely free map tool to help players find both events and Wizards Play Network locations! The store locator is now translated into all eleven languages we support, but it's also now available for your mobile device."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-06"
+[_metadata_:title]:- "Introducing the New Store Locator"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-26 10:28:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160826102811id_/http://magic.wizards.com/en/articles/archive/feature/introducing-new-store-locator-2012-06-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/introducing-new-store-locator-2012-06-06"
 ---
 
 

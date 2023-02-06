@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161230221702/http://magic.wizards.com/en/articles/archive/feature/top-50-card-drawing-cards-2003-03-21-0)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/top-50-card-drawing-cards-2003-03-21-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161230221702id_/http://magic.wizards.com/en/articles/archive/feature/top-50-card-drawing-cards-2003-03-21-0"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-30 22:17:02+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "Welcome to the second in a series of my top fifty cards of all time list. Last time around we went through the Top 50 White Cards of all time. Now that I'm working for StarCityGames as their Magic Card manager, I've been immersed in a world of Magical cards 24-7. I eat Magic, dream Magic, and play Magic Online obsessively."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-03-21"
+[_metadata_:title]:- "The Top 50 Card Drawing Cards"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-30 22:17:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161230221702id_/http://magic.wizards.com/en/articles/archive/feature/top-50-card-drawing-cards-2003-03-21-0"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/top-50-card-drawing-cards-2003-03-21-0"
 ---
 
 

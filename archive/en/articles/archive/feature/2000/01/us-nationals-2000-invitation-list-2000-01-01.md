@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522041857/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-invitation-list-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-invitation-list-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522041857id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-invitation-list-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 04:18:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Invitation Origin Date Given Name Surname Received Reg. Forms Disney Release Forms  Regional N. Cal. 5/1/00 David Akbar  Regional South 5/1/00 Herron Armstrong  Regional N.W. 5/1/00 Justin Aubertin  Top 25 DCI 5/2/00 David Bachmann  Regional Mountain 5/1/00 John Beckmon  Top 50 LA  Chris Benafel  Regional Florida 5/1/00 Kyle Bigos  Top 50 LA  Trevor Blackwell  Regional South"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Invitation List"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 04:18:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522041857id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-invitation-list-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-invitation-list-2000-01-01"
 ---
 
 

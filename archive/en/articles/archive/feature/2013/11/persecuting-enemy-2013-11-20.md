@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170318214927/http://magic.wizards.com/en/articles/archive/feature/persecuting-enemy-2013-11-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/persecuting-enemy-2013-11-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318214927id_/http://magic.wizards.com/en/articles/archive/feature/persecuting-enemy-2013-11-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-18 21:49:27+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I haven't been playing a ton of Modern lately, but I saw a recent list that caught my eye. Played by the Magic Online user Smaland, this blue-black deck features the fearsome curve of Geralf's Messenger into Abyssal Persecutor, so I took one look and thought `What would Conley do?` His obsession with Persecutor is well-chronicled, and I assembled the deck with that in mind."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-20"
+[_metadata_:title]:- "Persecuting the Enemy"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-18 21:49:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318214927id_/http://magic.wizards.com/en/articles/archive/feature/persecuting-enemy-2013-11-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/persecuting-enemy-2013-11-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016192724/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-xbox-official-terms-2011-06-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-xbox-official-terms-2011-06-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016192724id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-xbox-official-terms-2011-06-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:27:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Please click your region: US | EU The Magic: The Gathering - Duels of the Planeswalkers Campaign (`Campaign`) is a Campaign offered by Wizards of the Coast LLC. (`Wizards` or `Sponsor`). The Campaign starts on June 17, 2009 and ends December 31, 2009. Who Will We Reward? It's easy for you to receive a Gift. First, you must be eligible."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-06-07"
+[_metadata_:title]:- "Duels of the Planeswalkers XBox Official Terms"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:27:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016192724id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-xbox-official-terms-2011-06-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-xbox-official-terms-2011-06-07"
 ---
 
 

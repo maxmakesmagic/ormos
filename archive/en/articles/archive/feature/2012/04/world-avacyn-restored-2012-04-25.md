@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160424124937/http://magic.wizards.com/en/articles/archive/feature/world-avacyn-restored-2012-04-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/world-avacyn-restored-2012-04-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160424124937id_/http://magic.wizards.com/en/articles/archive/feature/world-avacyn-restored-2012-04-25"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-24 12:49:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "*/ /*-->*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-25"
+[_metadata_:title]:- "The World of Avacyn Restored"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-24 12:49:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160424124937id_/http://magic.wizards.com/en/articles/archive/feature/world-avacyn-restored-2012-04-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/world-avacyn-restored-2012-04-25"
 ---
 
 

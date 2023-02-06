@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151025003240/http://magic.wizards.com/en/articles/archive/feature/feature-firsts-2012-08-18)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-firsts-2012-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151025003240id_/http://magic.wizards.com/en/articles/archive/feature/feature-firsts-2012-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-25 00:32:40+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "You'll always remember your first."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-18"
+[_metadata_:title]:- "Feature: Firsts"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-25 00:32:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151025003240id_/http://magic.wizards.com/en/articles/archive/feature/feature-firsts-2012-08-18"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-firsts-2012-08-18"
 ---
 
 

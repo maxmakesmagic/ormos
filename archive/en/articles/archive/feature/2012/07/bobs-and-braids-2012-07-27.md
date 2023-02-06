@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220629183240/https://magic.wizards.com/en/articles/archive/feature/bobs-and-braids-2012-07-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bobs-and-braids-2012-07-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629183240id_/https://magic.wizards.com/en/articles/archive/feature/bobs-and-braids-2012-07-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 18:32:40+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "It is generally the case that most Standard formats have some reigning king that holds control of an era. Right now, we are in the Delver of Secrets era in Standard. You can follow the string back in time, though, through Caw-Blade to Faeries to Affinity. Each of these decks defined Standard for a significant portion of time. If you have ever been the victim of a Blightning,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-27"
+[_metadata_:title]:- "Bobs and Braids"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 18:32:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629183240id_/https://magic.wizards.com/en/articles/archive/feature/bobs-and-braids-2012-07-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bobs-and-braids-2012-07-27"
 ---
 
 

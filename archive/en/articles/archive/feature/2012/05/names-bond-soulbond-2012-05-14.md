@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170818031649/http://magic.wizards.com/en/articles/archive/feature/names-bond-soulbond-2012-05-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/names-bond-soulbond-2012-05-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818031649id_/http://magic.wizards.com/en/articles/archive/feature/names-bond-soulbond-2012-05-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-18 03:16:49+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "I keep saying one of these weeks I'm going to talk about the design of soulbond. Well, it turns out this week is that week. Soulbond is a complex mechanic and it had an equally complex trip from idea to print. Today's column will examine some of the many issues we had to face designing (and developing) soulbond."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-14"
+[_metadata_:title]:- "The Name's Bond, Soulbond"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-18 03:16:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818031649id_/http://magic.wizards.com/en/articles/archive/feature/names-bond-soulbond-2012-05-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/names-bond-soulbond-2012-05-14"
 ---
 
 

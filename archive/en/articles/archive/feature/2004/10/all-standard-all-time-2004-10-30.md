@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220809070306/https://magic.wizards.com/en/articles/archive/feature/all-standard-all-time-2004-10-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/all-standard-all-time-2004-10-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809070306id_/https://magic.wizards.com/en/articles/archive/feature/all-standard-all-time-2004-10-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 07:03:06+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.State, Island, Principality, Province, etc. Championships were last weekend, and there is a ton of decklists available right here. Check 'em out for the latest in post-Kamigawa"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-10-30"
+[_metadata_:title]:- "All Standard, All the Time"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 07:03:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809070306id_/https://magic.wizards.com/en/articles/archive/feature/all-standard-all-time-2004-10-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/all-standard-all-time-2004-10-30"
 ---
 
 

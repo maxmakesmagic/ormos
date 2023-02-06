@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023155029/https://magic.wizards.com/en/articles/archive/feature/legacy-fish-2009-12-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-fish-2009-12-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023155029id_/https://magic.wizards.com/en/articles/archive/feature/legacy-fish-2009-12-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:50:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Bo Li's Legacy Fish Format: Worlds 2009 Legacy 12 Island 4 Mutavault 4 Wasteland 4 Cursecatcher 4 Lord of Atlantis 4 Merrow Reejerey 4 Silvergill Adept 3 Wake Thrasher 4 Aether Vial 3 Daze 4 Force of Will 2 Spell Snare 4 Standstill 2 Stifle 2 Umezawa's Jitte *4 Hydroblast *2 Kira, Great Glass-Spinner *2 Merfolk Sovereign *2 Mindbreak Trap *2 Sower of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-12-02"
+[_metadata_:title]:- "Legacy Fish"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:50:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023155029id_/https://magic.wizards.com/en/articles/archive/feature/legacy-fish-2009-12-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-fish-2009-12-02"
 ---
 
 

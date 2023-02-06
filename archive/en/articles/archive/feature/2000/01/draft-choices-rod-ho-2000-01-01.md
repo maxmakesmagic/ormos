@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518172216/https://magic.wizards.com/en/articles/archive/feature/draft-choices-rod-ho-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-choices-rod-ho-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518172216id_/https://magic.wizards.com/en/articles/archive/feature/draft-choices-rod-ho-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:22:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Luke Hancock The first draft of the Australian Nationals saw the great and distinguished Rod Ho seated at a table where the other 'name' player in Australia was Jonathon Chan from NSW. Despite feeling somewhat poorly, Rod managed to just turn up in time for the seating of the very first draft pod and drafted a solid W/B deck. His choices in the initial Mercadian Masques"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Draft Choices - Rod Ho"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:22:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518172216id_/https://magic.wizards.com/en/articles/archive/feature/draft-choices-rod-ho-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-choices-rod-ho-2000-01-01"
 ---
 
 

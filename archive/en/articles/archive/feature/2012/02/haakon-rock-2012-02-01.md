@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170403010825/http://magic.wizards.com/en/articles/archive/feature/haakon-rock-2012-02-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/haakon-rock-2012-02-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170403010825id_/http://magic.wizards.com/en/articles/archive/feature/haakon-rock-2012-02-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-03 01:08:25+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "In a recent Magic Online PTQ, Wirecat brought a crazy new Modern deck to the (virtual) table that has stirred up a lot of discussion. While Burning Vengeance was made to work with flashback, Wirecat discovered it also works with the Eventide retrace mechanic and the Coldsnap rare Haakon, Stromgald Scourge!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-02-01"
+[_metadata_:title]:- "Haakon Rock"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-03 01:08:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170403010825id_/http://magic.wizards.com/en/articles/archive/feature/haakon-rock-2012-02-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/haakon-rock-2012-02-01"
 ---
 
 

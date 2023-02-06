@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429201454/https://magic.wizards.com/en/articles/archive/feature/house-lies-built-2005-11-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/house-lies-built-2005-11-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201454id_/https://magic.wizards.com/en/articles/archive/feature/house-lies-built-2005-11-09"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:14:54+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "Dimir Week. What is that? The idea of dedicating a whole week of articles to a guild that does not exist is foolish. One would think that this is early April and magicthegathering.com is up to its usual shenanigans. Sure, I understand that they have to pay equal attention to all the color pairs, and that Blue/Black deserves its moment in the spotlight. We can blab all day"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-11-09"
+[_metadata_:title]:- "The House That Lies Built"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:14:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201454id_/https://magic.wizards.com/en/articles/archive/feature/house-lies-built-2005-11-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/house-lies-built-2005-11-09"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211011125755/https://magic.wizards.com/en/articles/archive/feature/elementary-school-2003-10-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/elementary-school-2003-10-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211011125755id_/https://magic.wizards.com/en/articles/archive/feature/elementary-school-2003-10-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-11 12:57:55+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Magic has a long history with Elementals. When the game was born, it came with Earth Elemental, Air Elemental, Fire Elemental, and Water Elementals. That was enough for a while (hey, there are only four elements, after all), until Legends bent the laws of physics enough to introduce Time Elemental (cosmic) and Wood Elemental (less so). Legends also gave us Chromium—it may be"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-10-16"
+[_metadata_:title]:- "Elementary School"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-11 12:57:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211011125755id_/https://magic.wizards.com/en/articles/archive/feature/elementary-school-2003-10-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/elementary-school-2003-10-16"
 ---
 
 

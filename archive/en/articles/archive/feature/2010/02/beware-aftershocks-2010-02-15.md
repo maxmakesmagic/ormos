@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211209151857/https://magic.wizards.com/en/articles/archive/feature/beware-aftershocks-2010-02-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/beware-aftershocks-2010-02-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209151857id_/https://magic.wizards.com/en/articles/archive/feature/beware-aftershocks-2010-02-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 15:18:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As you know, Zendikar is a dangerous place, what with all the deadly perils and traps and whatnot. There are a few cards which demonstrate how the land itself provides dangers to the unwary adventurer. Consider Rumbling Aftershocks. Apparently it's set in a part of Zendikar where the slightest tremor can cause giant boulders to plummet down onto helpless passersby. Rumbling"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-15"
+[_metadata_:title]:- "Beware the Aftershocks"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 15:18:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209151857id_/https://magic.wizards.com/en/articles/archive/feature/beware-aftershocks-2010-02-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/beware-aftershocks-2010-02-15"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170707063006/http://magic.wizards.com/en/articles/archive/feature/sets-five-part-ii-2002-07-17)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sets-five-part-ii-2002-07-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170707063006id_/http://magic.wizards.com/en/articles/archive/feature/sets-five-part-ii-2002-07-17"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-07 06:30:06+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "Last week, I started cataloging all the cycles in Magic. The first installment covered the base sets plus all the expansions through Weatherlight; this time I'll look at Tempest through Judgment. Each set is followed by a few notes.If you don't know what a card does, you can view it by clicking on the card name."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-07-17"
+[_metadata_:title]:- "Sets of Five, Part II"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-07 06:30:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170707063006id_/http://magic.wizards.com/en/articles/archive/feature/sets-five-part-ii-2002-07-17"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sets-five-part-ii-2002-07-17"
 ---
 
 

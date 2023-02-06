@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161003063400/http://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-01-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-01-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161003063400id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-01-30"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-03 06:34:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; GP Cardiff UK Trials&#13; &#13; The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-01-30"
+[_metadata_:title]:- "Grand Prix - Cardiff"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-03 06:34:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161003063400id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-01-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-01-30"
 ---
 
 

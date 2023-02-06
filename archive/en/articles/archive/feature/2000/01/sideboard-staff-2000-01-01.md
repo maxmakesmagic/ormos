@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211209064354/https://magic.wizards.com/en/articles/archive/feature/sideboard-staff-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-staff-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209064354id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-staff-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 06:43:54+00:00"
 [_metadata_:description]:- "Tournament Info Tournament Update Jon Finkel Wins! Jon Finkel beat Bob Maher, Jr. three games to two in the finals. Team Results After the four individual matches ended with each team winning two, the team championship came down to a final match between team captains Jon Finkel and Ryan Fuller. Finkel won, 2-0, capturing the championship for the United States. Player of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Staff"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 06:43:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209064354id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-staff-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-staff-2000-01-01"
 ---
 
 

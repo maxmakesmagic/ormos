@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502010953/https://magic.wizards.com/en/articles/archive/feature/dissension-prerelease-sneak-preview-details-2006-04-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dissension-prerelease-sneak-preview-details-2006-04-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502010953id_/https://magic.wizards.com/en/articles/archive/feature/dissension-prerelease-sneak-preview-details-2006-04-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 01:09:53+00:00"
+[_metadata_:author]:- "Colin Smith"
 [_metadata_:description]:- "Event DateCityOrganisers NameEmailPhone number22/04/2005SheffieldUK Gamerskevins@uk-gamers.net0797474458422/04/2005BelfastMagicmontournaments@magicmon.co.uk0289032090023/04/2005DoncasterUK Gamerskevins@uk-gamers.net0797474458422/04/2006GalwayGamers realmjim@gamersrealm.ie03539156300622/04/2006NottinghamDavid"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-04-12"
+[_metadata_:title]:- "Dissension Prerelease & Sneak Preview Details"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 01:09:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502010953id_/https://magic.wizards.com/en/articles/archive/feature/dissension-prerelease-sneak-preview-details-2006-04-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dissension-prerelease-sneak-preview-details-2006-04-12"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220529034616/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-1-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-1-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529034616id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-1-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 03:46:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Adam, Felix (210) Sandridge, Nicholas (127) 1-2 Allen, Ross (55) Hershberger, Jacob (4) 0-2 Altermara, Chase (212) Reitman, Brent (73) 2-0 Ames, David (157) Hostetler, Jesse (148) 2-1 Ames, Steve (61) Patrick, Chris (156) 2-1 Anderson, Eddie (15) McBee, Sean (188) 2-1 Anderson, Will (184) Smith, Aaron (161) 2-0 Ash, Kevin (101) Curtis, Chris (158) 0-2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Super Series Championship Round 1 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 03:46:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529034616id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-1-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-1-pairings-2000-01-01"
 ---
 
 

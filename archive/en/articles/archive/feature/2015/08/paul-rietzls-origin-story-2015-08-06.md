@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150807182157/http://magic.wizards.com/en/articles/archive/feature/paul-rietzls-origin-story-2015-08-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/paul-rietzls-origin-story-2015-08-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150807182157id_/http://magic.wizards.com/en/articles/archive/feature/paul-rietzls-origin-story-2015-08-06"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-07 18:21:57+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Paul Rietzl's Magic and Pro Tour origins!"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-08-06"
+[_metadata_:title]:- "Paul Rietzl's Origin Story"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-07 18:21:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150807182157id_/http://magic.wizards.com/en/articles/archive/feature/paul-rietzls-origin-story-2015-08-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/paul-rietzls-origin-story-2015-08-06"
 ---
 
 

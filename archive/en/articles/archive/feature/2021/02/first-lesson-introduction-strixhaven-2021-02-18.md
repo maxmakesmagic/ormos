@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210218231917/https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210218231917id_/https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-18 23:19:17+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Class is starting soon. Here's what you need to know about your enrollment at Strixhaven: School of Mages."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-02-18"
+[_metadata_:title]:- "The First Lesson: Introduction to Strixhaven"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-18 23:19:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210218231917id_/https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18"
 ---
 
 

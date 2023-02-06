@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170216103708/http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170216103708id_/http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-16 10:37:08+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "The fate of humanity on Innistrad will soon be decided. The battlefield has been chosen, the stakes are set, and the combatants are on a collision course. And when all is said and done, more than an angel will be released back into the world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-09"
+[_metadata_:title]:- "Angel's Rise and Demon's Release"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-16 10:37:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170216103708id_/http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527231600/https://magic.wizards.com/en/articles/archive/feature/plasm-capture-2013-05-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/plasm-capture-2013-05-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527231600id_/https://magic.wizards.com/en/articles/archive/feature/plasm-capture-2013-05-09"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 23:16:00+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "The card Mana Drain is absurd. At twice the mana it still seems extremely powerful. While it's possible to build a deck around exploiting eight+ mana spells with Plasm Capture as a supplemental ramp spell, I think it's better to take advantage of the mana offered by Plasm Capture to allow a deck to do something it wouldn't normally be capable of doing, to avoid flooding on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-09"
+[_metadata_:title]:- "Plasm Capture"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 23:16:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527231600id_/https://magic.wizards.com/en/articles/archive/feature/plasm-capture-2013-05-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/plasm-capture-2013-05-09"
 ---
 
 

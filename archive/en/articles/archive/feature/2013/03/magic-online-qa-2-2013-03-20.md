@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024073815/https://magic.wizards.com/en/articles/archive/feature/magic-online-qa-2-2013-03-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-qa-2-2013-03-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024073815id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-qa-2-2013-03-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:38:15+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Last week we held a live Q&A about the new Magic Online client via our Twitch.tv channel. On the panel were: Worth Wollpert - Executive Producer for Magic Online and Duels of the Planeswalkers Chris Kiritz - Business Manager for Magic Online Ryan Spain - R&D Digital Designer Sean Gibbons - Community Coordinator for Magic Online They showed the client, highlighting some of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-20"
+[_metadata_:title]:- "Magic Online Q&A #2"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:38:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024073815id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-qa-2-2013-03-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-qa-2-2013-03-20"
 ---
 
 

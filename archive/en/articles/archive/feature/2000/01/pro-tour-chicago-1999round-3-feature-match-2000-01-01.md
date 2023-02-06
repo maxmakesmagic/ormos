@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516211839/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-3-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-3-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516211839id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-3-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:18:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Michael Turian vs Masaya Mori Round three pitted Pro Tour Veteran Mike Turian, the only player from Pittsburgh competing in this weekend's tournament, against reigning APAC champion Masaya Mori. In a somewhat rare event in Extended, both players were running multiple Tradewind Riders and designed their decks to lock up their opponent. Turian's deck is essentially an Extended"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Round 3 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:18:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516211839id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-3-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-3-feature-match-2000-01-01"
 ---
 
 

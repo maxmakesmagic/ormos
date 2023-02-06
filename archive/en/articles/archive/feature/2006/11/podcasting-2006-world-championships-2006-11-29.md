@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429125237/https://magic.wizards.com/en/articles/archive/feature/podcasting-2006-world-championships-2006-11-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/podcasting-2006-world-championships-2006-11-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429125237id_/https://magic.wizards.com/en/articles/archive/feature/podcasting-2006-world-championships-2006-11-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:52:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to the 2006 Magic World Championships! The best Magic players in the world have flocked to Paris with the hope of taking home the world championship trophy. Randy Buehler's prowling the event floor to bring you all the info straight from the players' mouths. With 357 players representing 64 countries, there's sure to be plenty of stories, tall tales, anecdotes, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-29"
+[_metadata_:title]:- "Podcasting from the 2006 World Championships"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:52:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429125237id_/https://magic.wizards.com/en/articles/archive/feature/podcasting-2006-world-championships-2006-11-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/podcasting-2006-world-championships-2006-11-29"
 ---
 
 

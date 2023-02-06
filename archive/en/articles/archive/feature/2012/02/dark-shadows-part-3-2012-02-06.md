@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502052628/https://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-3-2012-02-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-3-2012-02-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502052628id_/https://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-3-2012-02-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:26:28+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Pro Tour Dark Ascension Week. From now on, we are going to lead into each Pro Tour with a theme week playing up the upcoming Pro Tour. What exactly does that mean? I asked our new editor-in-chief Trick Jarrett. He said to talk about the upcoming format or the set the Pro Tour is named after. `So,` I asked, `I could talk about Dark Ascension?` `Absolutely.` And that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-02-06"
+[_metadata_:title]:- "Dark Shadows, Part 3"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:26:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502052628id_/https://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-3-2012-02-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dark-shadows-part-3-2012-02-06"
 ---
 
 

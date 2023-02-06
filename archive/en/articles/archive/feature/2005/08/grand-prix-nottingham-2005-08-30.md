@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160927134704/http://magic.wizards.com/en/articles/archive/feature/grand-prix-nottingham-2005-08-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-nottingham-2005-08-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927134704id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-nottingham-2005-08-30"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 13:47:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Side Events Schedule The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-08-30"
+[_metadata_:title]:- "Grand Prix - Nottingham"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 13:47:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927134704id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-nottingham-2005-08-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-nottingham-2005-08-30"
 ---
 
 

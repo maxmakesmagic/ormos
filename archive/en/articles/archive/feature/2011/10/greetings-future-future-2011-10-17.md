@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429112911/https://magic.wizards.com/en/articles/archive/feature/greetings-future-future-2011-10-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/greetings-future-future-2011-10-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429112911id_/https://magic.wizards.com/en/articles/archive/feature/greetings-future-future-2011-10-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 11:29:11+00:00"
+[_metadata_:author]:- "Zac Hill"
 [_metadata_:description]:- "Today I want to talk about the Future Future League. Which is different from the Future League. Which doesn't exist.Make sense yet?The Future Future League (FFL) is Magic's internal Constructed playtest team. It's composed primarily of Magic developers and a few enthusiastic deck-brewers from other departments. This article will be about what the FFL does, why it exists, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-10-17"
+[_metadata_:title]:- "Greetings from the Future Future"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 11:29:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429112911id_/https://magic.wizards.com/en/articles/archive/feature/greetings-future-future-2011-10-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/greetings-future-future-2011-10-17"
 ---
 
 

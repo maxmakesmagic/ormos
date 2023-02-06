@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210207081024/https://magic.wizards.com/en/articles/archive/feature/pax-east-panel-2013-03-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pax-east-panel-2013-03-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207081024id_/https://magic.wizards.com/en/articles/archive/feature/pax-east-panel-2013-03-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-07 08:10:24+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "We had a panel at PAX East featuring Adam Colby, Brady Dommermuth, Dave Guskin, and Scott Larabee. They talk about Dragon's Maze, announced Theros block, and went over the Dragon's Maze Prerelease."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-28"
+[_metadata_:title]:- "PAX East Panel"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-07 08:10:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207081024id_/https://magic.wizards.com/en/articles/archive/feature/pax-east-panel-2013-03-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pax-east-panel-2013-03-28"
 ---
 
 

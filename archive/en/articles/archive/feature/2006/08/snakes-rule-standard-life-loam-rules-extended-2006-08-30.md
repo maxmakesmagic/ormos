@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170725034228/http://magic.wizards.com/en/articles/archive/feature/snakes-rule-standard-life-loam-rules-extended-2006-08-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/snakes-rule-standard-life-loam-rules-extended-2006-08-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170725034228id_/http://magic.wizards.com/en/articles/archive/feature/snakes-rule-standard-life-loam-rules-extended-2006-08-30"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-25 03:42:28+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "The Constructed Premier events started again last week, after their break during the Coldsnap release tournaments the week before. Sure enough, the Online Standard metagame has shifted largely once again, so I'll start by covering it first. I will present the decks in a table, ranking them according to their popularity percentage (look here for an explanation if you want, but it works intuitively)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-30"
+[_metadata_:title]:- "Snakes rule Standard, Life from the Loam rules Extended"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-25 03:42:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170725034228id_/http://magic.wizards.com/en/articles/archive/feature/snakes-rule-standard-life-loam-rules-extended-2006-08-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/snakes-rule-standard-life-loam-rules-extended-2006-08-30"
 ---
 
 

@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029135322/https://magic.wizards.com/en/articles/archive/feature/gotta-catch-kai-pustilnik-shvartsman-mowshowitz-first-deck-construction)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gotta-catch-kai-pustilnik-shvartsman-mowshowitz-first-deck-construction"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029135322id_/https://magic.wizards.com/en/articles/archive/feature/gotta-catch-kai-pustilnik-shvartsman-mowshowitz-first-deck-construction"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 13:53:22+00:00"
+[_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "As the registration got underway and the big names strolled into the tournament site, the Palastrampa, you could easily imagine players taking a guiding tour of who-is-who is European, and even World, Magic. Amongst the top teams in the game one team stood out: Pro Tour Champions Mike Pustilnik and Zvi Mowshowitz and Alex `Broken in Grand Prix` Shvartsman looking to improve his record eleventh Grand Prix Top 8. They team is aptly named `Gotta catch Kai` as they are all still theatrically in the race for Pro Tour Player of the year that the German behemoth leads."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:title]:- "`Gotta Catch Kai` (Pustilnik, Shvartsman, Mowshowitz) first deck construction"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 13:53:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029135322id_/https://magic.wizards.com/en/articles/archive/feature/gotta-catch-kai-pustilnik-shvartsman-mowshowitz-first-deck-construction"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gotta-catch-kai-pustilnik-shvartsman-mowshowitz-first-deck-construction"
 ---
 
 

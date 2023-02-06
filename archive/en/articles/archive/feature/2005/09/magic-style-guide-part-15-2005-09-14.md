@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160720164857/http://magic.wizards.com/en/articles/archive/feature/magic-style-guide-part-15-2005-09-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-style-guide-part-15-2005-09-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160720164857id_/http://magic.wizards.com/en/articles/archive/feature/magic-style-guide-part-15-2005-09-14"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-20 16:48:57+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "Last week I wrote that I might bump back part two of the Style Guide article if something else came up. Well, it did, sort of. It seems as though Style Guide Part 1 could use some clarification before we move on to Part 2. So, this week we'll be extending into Style Guide Part 1.5."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-09-14"
+[_metadata_:title]:- "Magic Style Guide (Part 1.5)"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-20 16:48:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160720164857id_/http://magic.wizards.com/en/articles/archive/feature/magic-style-guide-part-15-2005-09-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-style-guide-part-15-2005-09-14"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161209052528/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dragonmaster-outcast-2010-01-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dragonmaster-outcast-2010-01-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161209052528id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dragonmaster-outcast-2010-01-29"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-09 05:25:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; This week's desktop wallpaper features Raymond Swanland's Dragonmaster Outcast art from Worldwake. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-01-29"
+[_metadata_:title]:- "Wallpaper of the Week: Dragonmaster Outcast"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-09 05:25:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161209052528id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dragonmaster-outcast-2010-01-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dragonmaster-outcast-2010-01-29"
 ---
 
 

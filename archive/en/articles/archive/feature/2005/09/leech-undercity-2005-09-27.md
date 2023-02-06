@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170411020410/http://magic.wizards.com/en/articles/archive/feature/leech-undercity-2005-09-27)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/leech-undercity-2005-09-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170411020410id_/http://magic.wizards.com/en/articles/archive/feature/leech-undercity-2005-09-27"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-11 02:04:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; Most of the citizens of Ravnica live their lives oblivious to the network of sewer-tunnels and cavernous vaults under the city. And it's a good thing, too; there's stuff like this down there:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-09-27"
+[_metadata_:title]:- "Leech of the Undercity"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-11 02:04:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170411020410id_/http://magic.wizards.com/en/articles/archive/feature/leech-undercity-2005-09-27"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/leech-undercity-2005-09-27"
 ---
 
 

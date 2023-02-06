@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429214138/https://magic.wizards.com/en/articles/archive/feature/man-behind-curtain-2006-11-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/man-behind-curtain-2006-11-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429214138id_/https://magic.wizards.com/en/articles/archive/feature/man-behind-curtain-2006-11-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 21:41:38+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Howdy, all. In case we haven't met, I'd like to introduce myself. My name is Christopher Bruce Millar (birth certificate). My name is Chris Millar (article bylines). My name is C-Dog (friends, especially my pirate and hiphop artist friends). My name is Master (my hunchbacked lab assistant). My name is JackSquat (various Internets). My name is _houseofcards (Magic Online). My"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-01"
+[_metadata_:title]:- "The Man Behind the Curtain"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 21:41:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429214138id_/https://magic.wizards.com/en/articles/archive/feature/man-behind-curtain-2006-11-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/man-behind-curtain-2006-11-01"
 ---
 
 

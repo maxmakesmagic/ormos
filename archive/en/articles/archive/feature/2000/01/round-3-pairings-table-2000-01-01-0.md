@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220707015843/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-table-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-table-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707015843id_/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-table-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 01:58:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Points Opponent Points Team 25:17 6 vs Pensaci Tu 6 Sing Along party * 6 vs trash AAA 6 killers of the Coast 6 vs Token king team 6 Accellerated Vares8 Volante 6 vs Team Clegg 6 I 3 ciccioni 6 vs La 139 * 6 Calvo's Legacy 6 vs one day fly 6 library of alexandria 2 6 vs Amsterdam 6 Cosmopolitan 6 vs www.revised4th5th.com 6 Metagames/LNT 6 vs Black-Ops 6 The Feebles 6 vs"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 3 Pairings (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 01:58:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707015843id_/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-table-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-table-2000-01-01-0"
 ---
 
 

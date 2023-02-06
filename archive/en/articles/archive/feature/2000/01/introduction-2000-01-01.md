@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030003705/https://magic.wizards.com/en/articles/archive/feature/introduction-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introduction-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030003705id_/https://magic.wizards.com/en/articles/archive/feature/introduction-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 00:37:05+00:00"
 [_metadata_:description]:- "Rui Oliveira The first weekend of the Extended qualifying season couldn't be set in two more different cities: Las Vegas and Curitiba. While the gambling hotspot is a recent city born in the desert and heavily centered on providing specialized tourism, Curitiba dates back to the seventeen century but was always strive to keep up with times and gives its citizens the best possible environment."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Introduction"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 00:37:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030003705id_/https://magic.wizards.com/en/articles/archive/feature/introduction-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introduction-2000-01-01"
 ---
 
 

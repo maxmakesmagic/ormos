@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220127181601/https://magic.wizards.com/en/articles/archive/feature/my-only-friend-end-turn-2006-08-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-only-friend-end-turn-2006-08-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127181601id_/https://magic.wizards.com/en/articles/archive/feature/my-only-friend-end-turn-2006-08-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 18:16:01+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "I'm a Single White Green Mage. I like long walks through the Forest and dinner by firefly light. I enjoy stimulating conversation with trees. If you have pointy ears and put G into my mana pool, then I probably think you're awesome. I like to search my library for land cards and tap out for fatties, sometimes at the same time. I only have one speed: Sorcery. My favourite Phase"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-30"
+[_metadata_:title]:- "My Only Friend, The End (of Turn)"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 18:16:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127181601id_/https://magic.wizards.com/en/articles/archive/feature/my-only-friend-end-turn-2006-08-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-only-friend-end-turn-2006-08-30"
 ---
 
 

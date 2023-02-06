@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170613072308/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-begins-2006-08-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-begins-2006-08-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170613072308id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-begins-2006-08-25"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-13 07:23:08+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "For years, the most popular question I've received in my mail is `How can I get a job in R&D?` Today I have the answer. If you somehow missed the buzz from my article on Monday, Wizards of the Coast is looking for a new designer, and today is the first step for those that will be trying out. If you have no idea what I'm talking about, I strongly recommend going back and reading the end of that article so you're up to speed."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-25"
+[_metadata_:title]:- "The Great Designer Search Begins!"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-13 07:23:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170613072308id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-begins-2006-08-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-begins-2006-08-25"
 ---
 
 

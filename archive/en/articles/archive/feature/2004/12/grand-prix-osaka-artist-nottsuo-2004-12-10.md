@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211015212611/https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-artist-nottsuo-2004-12-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-artist-nottsuo-2004-12-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015212611id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-artist-nottsuo-2004-12-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:26:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "NottsuoCard NameCard Set Darksteel BruteDarksteelGemini EngineDarksteelWirefly HiveDarksteelMagma GiantFifth DawnRelic BarrierFifth DawnAkki CoalflingerChampions of KamigawaCruel DeceiverChampions of KamigawaRyusei, the Falling StarChampions of KamigawaSachi, Daughter of SeshiroChampions of KamigawaThousand-legged KamiChampions of Kamigawa"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-12-10"
+[_metadata_:title]:- "Grand Prix Osaka Artist - Nottsuo"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:26:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015212611id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-artist-nottsuo-2004-12-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-artist-nottsuo-2004-12-10"
 ---
 
 

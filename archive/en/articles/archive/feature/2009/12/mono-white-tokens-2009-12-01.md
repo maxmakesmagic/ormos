@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170705075002/http://magic.wizards.com/en/articles/archive/feature/mono-white-tokens-2009-12-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-white-tokens-2009-12-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170705075002id_/http://magic.wizards.com/en/articles/archive/feature/mono-white-tokens-2009-12-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-05 07:50:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: William Cavaglieri's Mono-White Tokens Format: Worlds 2009 Standard 4 Arid Mesa 2 Gargoyle Castle 4 Marsh Flats 14 Plains 2 Emeria Angel 4 Knight of the White Orchid 4 Ranger of Eos 2 Soul Warden 4 Steppe Lynx 2 White Knight 2 Brave the Elements 4 Conqueror's Pledge 4 Honor of the Pure 1 Martial Coup 3 Oblivion Ring 4 Path to Exile *1 Brave the Elements *2 Celestial Purge *4 Devout Lightcaster *2 Elspeth, Knight-Errant"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-12-01"
+[_metadata_:title]:- "Mono-White Tokens"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-05 07:50:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170705075002id_/http://magic.wizards.com/en/articles/archive/feature/mono-white-tokens-2009-12-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-white-tokens-2009-12-01"
 ---
 
 

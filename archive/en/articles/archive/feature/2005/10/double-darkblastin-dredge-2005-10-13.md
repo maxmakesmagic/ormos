@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429202223/https://magic.wizards.com/en/articles/archive/feature/double-darkblastin-dredge-2005-10-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/double-darkblastin-dredge-2005-10-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429202223id_/https://magic.wizards.com/en/articles/archive/feature/double-darkblastin-dredge-2005-10-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:22:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Ravnica card Darkblast is a subtly tricky card. As the only instant with the Dredge mechanic, it is the only card you can cast, dredge and cast again in the same turn (without help from other effects). Say there's a 2/2 Boros Guildmage making your life hard. During your upkeep, before you draw your card for the turn, Darkblast it to give it -1/-1. During your draw step,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-10-13"
+[_metadata_:title]:- "Double Darkblastin' with Dredge"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:22:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429202223id_/https://magic.wizards.com/en/articles/archive/feature/double-darkblastin-dredge-2005-10-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/double-darkblastin-dredge-2005-10-13"
 ---
 
 

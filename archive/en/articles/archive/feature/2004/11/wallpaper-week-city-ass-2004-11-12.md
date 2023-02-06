@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220706110240/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-city-ass-2004-11-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-city-ass-2004-11-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706110240id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-city-ass-2004-11-12"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 11:02:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is John Avon's City of Ass from the upcoming Unhinged set. See, it's... a city where... donkeys live... anyway. Enjoy. 1024x768 pixels 800x600 pixels Bonus Wallpaper! Lest we forget -- we still owe you all a little Crucible of Worlds action, don't we? It's the second You Make the Card card, it's a Vintage scene wrecking-ball, it's a floor wax..."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-12"
+[_metadata_:title]:- "Wallpaper of the Week: City of Ass"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 11:02:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706110240id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-city-ass-2004-11-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-city-ass-2004-11-12"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524155254/https://magic.wizards.com/en/articles/archive/feature/magic-online-community-cup-2011-2011-04-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-community-cup-2011-2011-04-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524155254id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-community-cup-2011-2011-04-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 15:52:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "It is that time again, when the days grow longer and the temperature begins to climb. While many will venture out into the blossoming spring to enjoy the sunshine, Wizards of the Coast employees will be holed up in dark of The Pit, devising decks and plotting strategies to finally win the Community Cup and finally defeat that meddling Community Team."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-26"
+[_metadata_:title]:- "Magic Online Community Cup 2011"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 15:52:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524155254id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-community-cup-2011-2011-04-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-community-cup-2011-2011-04-26"
 ---
 
 

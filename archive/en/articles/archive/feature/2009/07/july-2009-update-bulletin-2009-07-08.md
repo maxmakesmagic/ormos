@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160414012656/http://magic.wizards.com/en/articles/archive/feature/july-2009-update-bulletin-2009-07-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/july-2009-update-bulletin-2009-07-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414012656id_/http://magic.wizards.com/en/articles/archive/feature/july-2009-update-bulletin-2009-07-08"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:26:56+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Hi there! I've had a busy month.  The Prerelease for the game-changing core set known as Magic 2010 will be in a couple of days, so my handlers over here have let me out of my padded cell to drop some knowledge on y'all. And believe me, I'm lugging around a truckload of knowledge."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-08"
+[_metadata_:title]:- "July 2009 Update Bulletin"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:26:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414012656id_/http://magic.wizards.com/en/articles/archive/feature/july-2009-update-bulletin-2009-07-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/july-2009-update-bulletin-2009-07-08"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201128110100/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201128110100id_/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-28 11:01:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Changes in Modern, Legacy, and Vintage."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-01-19"
+[_metadata_:title]:- "January 19, 2015, Banned and Restricted Announcement"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-28 11:01:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201128110100id_/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-announcement-2015-01-19"
 ---
 
 

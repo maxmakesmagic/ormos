@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022210450/https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-betrayers-edition-2005-04-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-betrayers-edition-2005-04-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022210450id_/https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-betrayers-edition-2005-04-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 21:04:50+00:00"
+[_metadata_:author]:- "Jeff Till"
 [_metadata_:description]:- "Your worst fears and highest hopes have come true: Magic: the Puzzling is back again. This time you are running the gauntlet against some of the worst betrayers history has ever known. Do you have what it takes to annihilate Benedict Arnold? Can you come out victorious against a seemingly impervious Brutus? By fighting fire with fire and using your new cards from Betrayers of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-04-04"
+[_metadata_:title]:- "Magic: The Puzzling - Betrayers Edition"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 21:04:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022210450id_/https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-betrayers-edition-2005-04-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-puzzling-betrayers-edition-2005-04-04"
 ---
 
 

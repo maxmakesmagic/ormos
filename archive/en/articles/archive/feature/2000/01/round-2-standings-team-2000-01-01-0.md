@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220707045617/https://magic.wizards.com/en/articles/archive/feature/round-2-standings-team-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-standings-team-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707045617id_/https://magic.wizards.com/en/articles/archive/feature/round-2-standings-team-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 04:56:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 743,141596 * 3 41.66% 21Absolute Samuels 6 0.00% 4Accellerated Vares8 Volante 6 50.00% 60Agifalw 3 66.66% 31AlphaBetaUnlimited.com 6 0.00% 67Altrove * 3 66.66% 17Amsterdam 6 41.66% 3Angstschreeuw 6 50.00% 70Asani * 3 66.66% 69Babar Team * 3 66.66% 38Birds of paradise 4 50.00% 22Black-Ops 6 0.00% 23Bologna Demolition Team 6 0.00% 79Budellos * 1 66.66%"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 2 Standings (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 04:56:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707045617id_/https://magic.wizards.com/en/articles/archive/feature/round-2-standings-team-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-standings-team-2000-01-01-0"
 ---
 
 

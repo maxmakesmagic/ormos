@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160609070613/http://magic.wizards.com/en/articles/archive/feature/name-killers-2007-11-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/name-killers-2007-11-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160609070613id_/http://magic.wizards.com/en/articles/archive/feature/name-killers-2007-11-28"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-09 07:06:13+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Long before Magic is a finished product—before it's ready to leap from your booster pack, fully formed and armored out of the forehead of Zeus, as it were—there is serious work to be done. I warn you: today's column is not about Magic's beautiful and sleek exterior, its precisely conceived, multiverse-spanning end result of flavor. It's about ripping off the exoskeleton and looking at Magic's guts, the whys and why nots of making the game itself."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-11-28"
+[_metadata_:title]:- "Name Killers"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-09 07:06:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160609070613id_/http://magic.wizards.com/en/articles/archive/feature/name-killers-2007-11-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/name-killers-2007-11-28"
 ---
 
 

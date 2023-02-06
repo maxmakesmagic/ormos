@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211207112852/https://magic.wizards.com/en/articles/archive/feature/product-information-2014-03-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2014-03-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207112852id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2014-03-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 11:28:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Events Information Prerelease Events: April 26-27, 2014 Release Date: May 2, 2014 Launch Weekend: May 2-4, 2014 Magic Online Prerelease Events: May 9-12, 2014 Magic Online Release: May 12, 2014 Magic Online Release Events: May 12-28, 2014 Game Day: May 24-25, 2014 Intro Packs Mortals of Myth Fates Foreseen Pantheon's Power Voracious Rage The Wilds and the Deep Rival the Gods"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-10"
+[_metadata_:title]:- "Product Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 11:28:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207112852id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2014-03-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2014-03-10"
 ---
 
 

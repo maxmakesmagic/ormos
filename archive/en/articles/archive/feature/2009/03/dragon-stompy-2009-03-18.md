@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220811033250/https://magic.wizards.com/en/articles/archive/feature/dragon-stompy-2009-03-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dragon-stompy-2009-03-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811033250id_/https://magic.wizards.com/en/articles/archive/feature/dragon-stompy-2009-03-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 03:32:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: James Mink's Dragon Stompy Format: Grand Prix-Chicago 4 Ancient Tomb 4 City of Traitors 11 Mountain 4 Arc-Slogger 4 Gathan Raiders 4 Magus of the Moon 4 Rakdos Pit Dragon 4 Simian Spirit Guide 3 Taurean Mauler 2 Blood Moon 4 Chalice of the Void 4 Chrome Mox 4 Seething Song 4 Trinisphere *1 Blood Moon *4 Boil *1 Pithing Needle *3 Powder Keg *4 Pyroclasm *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-18"
+[_metadata_:title]:- "Dragon Stompy"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 03:32:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811033250id_/https://magic.wizards.com/en/articles/archive/feature/dragon-stompy-2009-03-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dragon-stompy-2009-03-18"
 ---
 
 

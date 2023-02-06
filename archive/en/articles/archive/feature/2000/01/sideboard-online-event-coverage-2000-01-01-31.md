@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522020626/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522020626id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-31"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 02:06:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Semifinals Preview Stephen McArthur (Necro) vs Blake Quelle (Combo) Despite the many disruption spells it features, this matchup promises to be difficult for the Necro deck. Necro is not able to win very quickly and, no matter how much McArthur disrupts Quelle's hand, drawing a Yawgmoth's Will, or a way to get Yawgmoth's Will such as Intuition"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 02:06:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522020626id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-31"
 ---
 
 

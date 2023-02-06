@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112022139/https://magic.wizards.com/en/articles/archive/feature/alpha-playtest-cards-iconics-2012-07-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alpha-playtest-cards-iconics-2012-07-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112022139id_/https://magic.wizards.com/en/articles/archive/feature/alpha-playtest-cards-iconics-2012-07-05"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:21:39+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Before Magic went on sale, it was playtested with cards made with clip art. We've shown them several times:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-05"
+[_metadata_:title]:- "Alpha Playtest Cards: Iconics"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:21:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112022139id_/https://magic.wizards.com/en/articles/archive/feature/alpha-playtest-cards-iconics-2012-07-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alpha-playtest-cards-iconics-2012-07-05"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210422135146/https://magic.wizards.com/en/articles/archive/feature/legion-hill-giants-2010-08-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legion-hill-giants-2010-08-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210422135146id_/https://magic.wizards.com/en/articles/archive/feature/legion-hill-giants-2010-08-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-22 13:51:46+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Since the dawn of Magic, the term for a vanilla 3/3 that costs 3R has been `Hill Giant.` There have been numerous creatures at that power, toughness, and precise cost that also had abilities like Lord of Shatterskull Pass, Ogre Gatecrasher, and, um, Ancient Kavu, but the noble tradition of the vanilla 3/3 has lived on. Behold! Hill Giant Some would call Hill Giant the Trope"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-16"
+[_metadata_:title]:- "The Legion of Hill Giants"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-22 13:51:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210422135146id_/https://magic.wizards.com/en/articles/archive/feature/legion-hill-giants-2010-08-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legion-hill-giants-2010-08-16"
 ---
 
 

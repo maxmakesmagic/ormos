@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211207120929/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207120929id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 12:09:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Snepvangers Abraham 6 50 2 Ayala Hermes 6 50 3 Marsh Warren 6 50 4 Wong Nicholas 6 50 5 Budde Kai 6 50 6 Labarre Nicolas 6 50 7 Bower Mike 6 50 8 DuBois Daniel 6 50 9 Rumsey Michael 6 50 10 Guo Chi Jin 6 50 11 Hager Jason 6 50 12 Brower Jeremy 6 50 13 Ziegler Eric 6 50 14 Larkin John 6 50 15 Marks Jason 6 50 16 Mitchell Andrew 6 50 17 Dobson"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 2 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 12:09:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207120929id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-standings-2000-01-01"
 ---
 
 

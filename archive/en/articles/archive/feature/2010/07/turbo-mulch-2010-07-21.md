@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170409210921/http://magic.wizards.com/en/articles/archive/feature/turbo-mulch-2010-07-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/turbo-mulch-2010-07-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170409210921id_/http://magic.wizards.com/en/articles/archive/feature/turbo-mulch-2010-07-21"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-09 21:09:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Randy Buehler's Turbo Mulch Format: 1998 U.S. Nationals 4 Grasslands 7 Forest 7 Plains 4 Brushland 2 Quicksand 2 Wasteland 2 Archangel 4 Oath of Druids 4 Wrath of God 3 Gerrard's Wisdom 2 Cataclysm 4 Scroll Rack 2 Disenchant 1 Aura of Silence 2 Creeping Mold 2 Enlightened Tutor 4 Gaea's Blessing 4 Mulch *2 Jester's Cap *2 Armageddon *4 Abeyance *1 Circle of Protection: Red *1 Gerrard's Wisdom"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-21"
+[_metadata_:title]:- "Turbo Mulch"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-09 21:09:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170409210921id_/http://magic.wizards.com/en/articles/archive/feature/turbo-mulch-2010-07-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/turbo-mulch-2010-07-21"
 ---
 
 

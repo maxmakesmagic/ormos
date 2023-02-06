@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170723162739/http://magic.wizards.com/en/articles/archive/feature/tempo-twin-2014-04-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tempo-twin-2014-04-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170723162739id_/http://magic.wizards.com/en/articles/archive/feature/tempo-twin-2014-04-25"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-23 16:27:39+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "At this point, Tempo Twin (a Splinter Twin combo deck with a backup plan) is mostly a known quantity. While your opponent stockpiles removal in an attempt to stop your combo, you end up nickel and diming him or her out with Snapcaster Mage, Pestermite, and Lightning Bolt. Oddly enough, it's very effective."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-04-25"
+[_metadata_:title]:- "Tempo Twin"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-23 16:27:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170723162739id_/http://magic.wizards.com/en/articles/archive/feature/tempo-twin-2014-04-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tempo-twin-2014-04-25"
 ---
 
 

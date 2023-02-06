@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028092336/https://magic.wizards.com/en/articles/archive/feature/wallpapers-2008-12-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpapers-2008-12-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028092336id_/https://magic.wizards.com/en/articles/archive/feature/wallpapers-2008-12-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 09:23:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "1280X1024 pixels 1024X768 pixels 1280X1024 pixels 1024X768 pixels 1280X960 pixels 800X600 pixels 1280X960 pixels 800X600 pixels  1280X1024 pixels 1024X768 pixels 1280X1024 pixels 1024X768 pixels 1280X960 pixels 800X600 pixels 1280X960 pixels 800X600 pixels"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-15"
+[_metadata_:title]:- "Wallpapers"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 09:23:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028092336id_/https://magic.wizards.com/en/articles/archive/feature/wallpapers-2008-12-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpapers-2008-12-15"
 ---
 
 

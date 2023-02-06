@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018143351/https://magic.wizards.com/en/articles/archive/feature/mono-black-pox-2012-01-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-pox-2012-01-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018143351id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-pox-2012-01-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 14:33:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic Online Championship winner and StarCityGames.com writer Reid Duke worked hard to come up with an exciting deck for the Legacy portion of the StarCityGames.com Invitational a few weeks ago... and he found it! This blast from the past features several cards that haven't seen play in ages, topped off by Pox!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-03"
+[_metadata_:title]:- "Mono-Black Pox"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 14:33:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018143351id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-pox-2012-01-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-pox-2012-01-03"
 ---
 
 

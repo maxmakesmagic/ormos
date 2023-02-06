@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020093326/https://magic.wizards.com/en/articles/archive/feature/2006-world-championships-format-and-schedule-2006-09-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-world-championships-format-and-schedule-2006-09-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020093326id_/https://magic.wizards.com/en/articles/archive/feature/2006-world-championships-format-and-schedule-2006-09-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 09:33:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document Format Individual formats: Standard, Booster Draft, and Extended National Team format: Team Rochester Draft Check www.thedci.com for all DCI format rules Daily Information Day 1 (Wednesday, November 29) Standard"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-09-19"
+[_metadata_:title]:- "2006 World Championships Format and Schedule"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 09:33:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020093326id_/https://magic.wizards.com/en/articles/archive/feature/2006-world-championships-format-and-schedule-2006-09-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-world-championships-format-and-schedule-2006-09-19"
 ---
 
 

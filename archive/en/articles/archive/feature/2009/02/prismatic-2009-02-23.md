@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220818232523/https://magic.wizards.com/en/articles/archive/feature/prismatic-2009-02-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prismatic-2009-02-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818232523id_/https://magic.wizards.com/en/articles/archive/feature/prismatic-2009-02-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 23:25:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Maondas's Prismatic Format: Magic Online Premier Event 1 Ancient Den 4 Badlands 1 Blood Crypt 4 Bloodstained Mire 2 Breeding Pool 1 City of Brass 4 Flooded Strand 5 Forest 1 Godless Shrine 4 Island 1 Mountain 4 Overgrown Tomb 1 Plains 4 Polluted Delta 1 Sacred Foundry 4 Savannah 4 Snow-Covered Forest 4 Snow-Covered Island 1 Snow-Covered Mountain 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-23"
+[_metadata_:title]:- "Prismatic"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 23:25:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818232523id_/https://magic.wizards.com/en/articles/archive/feature/prismatic-2009-02-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prismatic-2009-02-23"
 ---
 
 

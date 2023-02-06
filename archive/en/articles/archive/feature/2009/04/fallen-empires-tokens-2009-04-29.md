@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170326223819/http://magic.wizards.com/en/articles/archive/feature/fallen-empires-tokens-2009-04-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fallen-empires-tokens-2009-04-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170326223819id_/http://magic.wizards.com/en/articles/archive/feature/fallen-empires-tokens-2009-04-29"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-26 22:38:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "If you've played much with the Fallen Empires set, you'll have noticed that it has a lot of Counters and Tokens. Most people used glass beads or pocket change or dice, but there was an official option as well. Duelist #4 came with a cardboard sheet filled with two-sided punch-out tokens and counters!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-29"
+[_metadata_:title]:- "Fallen Empires Tokens"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-26 22:38:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170326223819id_/http://magic.wizards.com/en/articles/archive/feature/fallen-empires-tokens-2009-04-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fallen-empires-tokens-2009-04-29"
 ---
 
 

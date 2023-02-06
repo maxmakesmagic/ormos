@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220125073102/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125073102id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 07:31:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "North AmericaJanuary-April 2009 StateCityEvent dateInvitationsLocationAddressContact phoneURL AlabamaBirmingham4/4/20091Coffee Stop and Game Stop310 1st Ave. East, Oneonta251- 610-8052 Website AlabamaMobile1/17/20091University of South AlabamaStudent Union Ballroom251- 610-8052 Website AlaskaAnchorage3/28/20091Wayne's World1921 W."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-05"
+[_metadata_:title]:- "Pro Tour Honolulu 2009 - Qualifiers"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 07:31:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125073102id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-05"
 ---
 
 

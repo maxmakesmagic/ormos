@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170309040356/http://magic.wizards.com/en/articles/archive/feature/goblin-commander-2012-01-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/goblin-commander-2012-01-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309040356id_/http://magic.wizards.com/en/articles/archive/feature/goblin-commander-2012-01-19"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 04:03:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "You know what creature type is awesome? Goblin! Judging by his taste in Commander decks, TCGPlayer.com columnist Cassidy Silver seems to agree. In a recent article, Cassidy writes about decks built on a theme—and in this case, that theme is goblins! If you've been looking to goblin your opponent out on Commander, take some inspiration from Cassidy's deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-19"
+[_metadata_:title]:- "Goblin Commander"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 04:03:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309040356id_/http://magic.wizards.com/en/articles/archive/feature/goblin-commander-2012-01-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/goblin-commander-2012-01-19"
 ---
 
 

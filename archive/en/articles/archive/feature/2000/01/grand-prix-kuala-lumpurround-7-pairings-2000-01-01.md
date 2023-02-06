@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518072342/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518072342id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 07:23:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Ang, Jun Yang (120) 13 22 Wong, Nicholas Jonathan ( 1) 13 Au Yong, Wai Kin ( 56) 13 17 Chew, Wilson Choon Gee ( 21) 13 Aw-Yeong, Weng Kwong (134) 15 10 Soh, Ryan Siong Huat ( 14) 15 Chai, Royce Ming Huang (174) 12 28 Tan, Chuan Hwa Michael (281) 12 Chan, Sam Soon (106) 13 20 Higashino, Masayuki ( 12) 13 Chew, Wilson Choon Gee ( 21) 13 17 Au Yong,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Kuala LumpurRound 7 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 07:23:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518072342id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-pairings-2000-01-01"
 ---
 
 

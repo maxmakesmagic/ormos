@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20191213165043/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-mechanics-2019-12-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-mechanics-2019-12-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191213165043id_/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-mechanics-2019-12-12"
-[_metadata_:wayback_capture_timestamp]:- "2019-12-13 16:50:43+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Matt unveils the new and returning mechanics coming with Theros: Beyond Death."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-12-12"
+[_metadata_:title]:- "Theros Beyond Death Mechanics"
+[_metadata_:wayback_capture_timestamp]:- "2019-12-13 16:50:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191213165043id_/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-mechanics-2019-12-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-mechanics-2019-12-12"
 ---
 
 

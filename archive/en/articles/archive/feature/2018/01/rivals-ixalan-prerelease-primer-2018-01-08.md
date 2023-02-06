@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180121183812/https://magic.wizards.com/en/articles/archive/feature/rivals-ixalan-prerelease-primer-2018-01-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rivals-ixalan-prerelease-primer-2018-01-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180121183812id_/https://magic.wizards.com/en/articles/archive/feature/rivals-ixalan-prerelease-primer-2018-01-08"
-[_metadata_:wayback_capture_timestamp]:- "2018-01-21 18:38:12+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "It's almost time for the Rivals of Ixalan Prerelease, and Gavin is here to prepare you for the Golden City."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-01-08"
+[_metadata_:title]:- "Rivals of Ixalan Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2018-01-21 18:38:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180121183812id_/https://magic.wizards.com/en/articles/archive/feature/rivals-ixalan-prerelease-primer-2018-01-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rivals-ixalan-prerelease-primer-2018-01-08"
 ---
 
 

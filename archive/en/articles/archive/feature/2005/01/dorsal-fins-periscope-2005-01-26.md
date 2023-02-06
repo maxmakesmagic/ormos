@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211205150846/https://magic.wizards.com/en/articles/archive/feature/dorsal-fins-periscope-2005-01-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dorsal-fins-periscope-2005-01-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205150846id_/https://magic.wizards.com/en/articles/archive/feature/dorsal-fins-periscope-2005-01-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 15:08:46+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "The release of a new set is always exciting for me. As someone who is mostly interested in decks and deck design, new cards -- and in the case of Betrayers of Kamigawa, key reprints -- really get my creative juices flowing. The beginning is also the best time to share new ideas and new interactions, maybe revisit old applications of similar cards... before they've been"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-01-26"
+[_metadata_:title]:- "Dorsal Fins in the Periscope"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 15:08:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205150846id_/https://magic.wizards.com/en/articles/archive/feature/dorsal-fins-periscope-2005-01-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dorsal-fins-periscope-2005-01-26"
 ---
 
 
