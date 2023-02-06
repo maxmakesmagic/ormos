@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025201539/https://magic.wizards.com/en/articles/archive/feature/toshi-challenge-2005-01-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/toshi-challenge-2005-01-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025201539id_/https://magic.wizards.com/en/articles/archive/feature/toshi-challenge-2005-01-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 20:15:39+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Two weeks ago I asked everyone if they would like the chance to try out a Reader Challenge on Toshiro Umezawa. Overwhelmingly, the answer to this question was “Yes,` so it shouldn't be much of a surprise that my inbox was flooded with decks trying to make the most out of Toshi. I suspect that in the end, Toshi will live up to his expectations as a powerful card for"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-01-26"
+[_metadata_:title]:- "The Toshi Challenge"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 20:15:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025201539id_/https://magic.wizards.com/en/articles/archive/feature/toshi-challenge-2005-01-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/toshi-challenge-2005-01-26"
 ---
 
 

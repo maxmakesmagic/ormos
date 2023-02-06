@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021002449/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2012-2012-12-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-december-2012-2012-12-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021002449id_/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2012-2012-12-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:24:49+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "The Ultimate Nightmare of Wizards of the Coast® Customer Service – Unglued uncommon. The flavor text of The Ultimate Nightmare... is no longer accurate, both because the phone number has changed and because Game Support is only on duty until 6:00 p.m. Pacific Time. In the United States and Canada, (800) 324-6496 will work. Outside those countries, use (425) 204-8069, go to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-03"
+[_metadata_:title]:- "Card of the Day - December, 2012"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:24:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021002449id_/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2012-2012-12-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-december-2012-2012-12-03"
 ---
 
 

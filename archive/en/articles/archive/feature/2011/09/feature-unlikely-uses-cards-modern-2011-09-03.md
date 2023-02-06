@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151004175740/http://magic.wizards.com/en/articles/archive/feature/feature-unlikely-uses-cards-modern-2011-09-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-unlikely-uses-cards-modern-2011-09-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151004175740id_/http://magic.wizards.com/en/articles/archive/feature/feature-unlikely-uses-cards-modern-2011-09-03"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-04 17:57:40+00:00"
+[_metadata_:author]:- "Steve Sadin"
 [_metadata_:description]:- "While most of the decks that are performing well in the Modern portion of Pro Tour Philadelphia are souped-up descendants of decks that have performed well in previous Standard, or Extended formats, there are still plenty of cards that have never before seen play in competitive Constructed decks which now serve oh-so-crucial roles in Modern."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-03"
+[_metadata_:title]:- "Feature: Unlikely Uses for Cards in Modern"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-04 17:57:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151004175740id_/http://magic.wizards.com/en/articles/archive/feature/feature-unlikely-uses-cards-modern-2011-09-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-unlikely-uses-cards-modern-2011-09-03"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151025031716/http://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-battle-zendikar-2015-10-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-battle-zendikar-2015-10-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151025031716id_/http://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-battle-zendikar-2015-10-23"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-25 03:17:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Learn from the pros in this Eldrazi-sized edition of Friday Night Countdown!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-10-23"
+[_metadata_:title]:- "Friday Night Countdown: Pro Tour Battle for Zendikar"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-25 03:17:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151025031716id_/http://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-battle-zendikar-2015-10-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-battle-zendikar-2015-10-23"
 ---
 
 

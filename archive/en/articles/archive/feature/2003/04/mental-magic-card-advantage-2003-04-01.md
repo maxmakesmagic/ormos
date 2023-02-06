@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200805232607/https://magic.wizards.com/en/articles/archive/feature/mental-magic-card-advantage-2003-04-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mental-magic-card-advantage-2003-04-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805232607id_/https://magic.wizards.com/en/articles/archive/feature/mental-magic-card-advantage-2003-04-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 23:26:07+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "This is Part 3 of the Mental Magic series. – PART 1 – PART 2Last time, I promised you that before I went into our next exploration of the intricacies of Mental Magic, I would address some questions and concerns from both email and the message boards. Many of the questions are similar, so I thought that this forum would be a good place to answer them."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-04-01"
+[_metadata_:title]:- "Mental Magic: Card Advantage"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 23:26:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805232607id_/https://magic.wizards.com/en/articles/archive/feature/mental-magic-card-advantage-2003-04-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mental-magic-card-advantage-2003-04-01"
 ---
 
 

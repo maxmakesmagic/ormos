@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124033219/https://magic.wizards.com/en/articles/archive/feature/round-3-standings-team-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-standings-team-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124033219id_/https://magic.wizards.com/en/articles/archive/feature/round-3-standings-team-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:32:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win%144#I Magic 3 44.44% 76#realgangstas 6 55.55%108$30 Cab Fare 3 66.66% 2$42 Ticket 9 66.66% 45100 Super Good Fun Time 6100.00%1363 for Flinching 3 55.55% 713 Stooges 6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 3 Standings (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:32:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124033219id_/https://magic.wizards.com/en/articles/archive/feature/round-3-standings-team-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-standings-team-2000-01-01"
 ---
 
 

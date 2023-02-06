@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117051210/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-ecuador-2009-08-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-ecuador-2009-08-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117051210id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-ecuador-2009-08-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 05:12:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fecha: 17 de septiembre de 2011 Ubicación: Tropiburguer Plaza Deportiva Seguros Constitucion, Av. Amazonas y Juan Jose Villalengua Esq. Ciudad: Quito País: Ecuador El Campeonato Nacional de Ecuador de Magic: The Gathering está abierto a todos los ciudadanos y residentes permanentes del Ecuador."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-13"
+[_metadata_:title]:- "2011 Campeonato Nacional Ecuador"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 05:12:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117051210id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-ecuador-2009-08-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-ecuador-2009-08-13"
 ---
 
 

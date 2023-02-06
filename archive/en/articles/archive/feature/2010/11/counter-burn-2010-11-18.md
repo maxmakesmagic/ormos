@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161213210009/http://magic.wizards.com/en/articles/archive/feature/counter-burn-2010-11-18)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/counter-burn-2010-11-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161213210009id_/http://magic.wizards.com/en/articles/archive/feature/counter-burn-2010-11-18"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-13 21:00:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Anthony Justice's Counter Burn Format: Grand Prix–Milwaukee 2002 1 Cephalid Coliseum 11 Island 8 Mountain 4 Shivan Reef 4 Counterspell 2 Earthquake 4 Fact or Fiction 4 Fire // Ice 3 Firebolt 2 Gainsay 3 Prophetic Bolt 4 Repulse 4 Sleight of Hand 3 Syncopate 3 Urza's Rage *2 Caltrops *4 Flametongue Kavu *2 Gainsay *3 Glacial Wall *4 Grim Lavamancer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-11-18"
+[_metadata_:title]:- "Counter Burn"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-13 21:00:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161213210009id_/http://magic.wizards.com/en/articles/archive/feature/counter-burn-2010-11-18"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/counter-burn-2010-11-18"
 ---
 
 

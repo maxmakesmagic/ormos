@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220123101349/https://magic.wizards.com/en/articles/archive/feature/enchantertainment-2007-06-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchantertainment-2007-06-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123101349id_/https://magic.wizards.com/en/articles/archive/feature/enchantertainment-2007-06-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 10:13:49+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Happy Fourth of July from the future! And welcome to Enchantment Week. Ah, enchantments! They're easily my second- or third-favourite type of nonland permanent.Like balloons and my '80s-era television from Sears, enchantments are famous for their static abilities. Others have triggers. You put some on animals and some on players. Some enchantments just sit around and annoy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-06-27"
+[_metadata_:title]:- "Enchantertainment"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 10:13:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123101349id_/https://magic.wizards.com/en/articles/archive/feature/enchantertainment-2007-06-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchantertainment-2007-06-27"
 ---
 
 

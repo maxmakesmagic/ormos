@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502005257/https://magic.wizards.com/en/articles/archive/feature/design-challenge-3-trading-places-2010-12-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/design-challenge-3-trading-places-2010-12-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005257id_/https://magic.wizards.com/en/articles/archive/feature/design-challenge-3-trading-places-2010-12-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:57+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "One of the popular tropes of reality shows is to bring back design challenges from previous seasons but with a twist. That is exactly what we're doing today. During GDS1 the very first Design Challenge was called `Gimme Five` In it, I made the designers design three cycles, one of each rarity (there was no mythic rare back then). So today's Challenge is going to bring back"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-08"
+[_metadata_:title]:- "Design Challenge #3: `Trading Places`"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005257id_/https://magic.wizards.com/en/articles/archive/feature/design-challenge-3-trading-places-2010-12-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/design-challenge-3-trading-places-2010-12-08"
 ---
 
 

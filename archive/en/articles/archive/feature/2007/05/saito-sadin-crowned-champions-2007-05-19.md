@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160825015731/http://magic.wizards.com/en/articles/archive/feature/saito-sadin-crowned-champions-2007-05-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/saito-sadin-crowned-champions-2007-05-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160825015731id_/http://magic.wizards.com/en/articles/archive/feature/saito-sadin-crowned-champions-2007-05-19"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-25 01:57:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Top Magic players around the world flocked to Strasbourg, France, and Columbus, Ohio, to take part in a huge Grand Prix weekend. More than 2,000 players shuffled up in the major events, but only two could be crowned champion. Dive in to complete coverage from Brian David-Marshall, Hanno Terbuyken, Richard Hagon, Ben Coleman, and Craig Jones."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-05-19"
+[_metadata_:title]:- "Saito, Sadin Crowned Champions"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-25 01:57:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160825015731id_/http://magic.wizards.com/en/articles/archive/feature/saito-sadin-crowned-champions-2007-05-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/saito-sadin-crowned-champions-2007-05-19"
 ---
 
 

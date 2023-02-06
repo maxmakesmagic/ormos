@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429045357/https://magic.wizards.com/en/articles/archive/feature/final-judgment-2002-04-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-judgment-2002-04-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429045357id_/https://magic.wizards.com/en/articles/archive/feature/final-judgment-2002-04-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:53:57+00:00"
+[_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "The Mirari has bounced around from owner to owner, from zealous aven leaders to unstable dementia summoners. Now it has finally come into the hands of the man who’s been seeking it for the duration of two expansions: Kamahl, Pit Fighter. What he does with it is another question entirely.That question is just one that Judgment seeks to answer. The final set of a Magic block"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-04-29"
+[_metadata_:title]:- "Final Judgment"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:53:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429045357id_/https://magic.wizards.com/en/articles/archive/feature/final-judgment-2002-04-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-judgment-2002-04-29"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028203116/https://magic.wizards.com/en/articles/archive/feature/bant-aggro-2009-02-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bant-aggro-2009-02-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028203116id_/https://magic.wizards.com/en/articles/archive/feature/bant-aggro-2009-02-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 20:31:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Mike Magby's Bant Aggro Format: Pro Tour Qualifier–Honolulu 1 Breeding Pool 2 Flooded Grove 3 Flooded Strand 5 Forest 1 Hallowed Fountain 1 Island 2 Mystic Gate 3 Plains 1 Temple Garden 3 Windswept Heath 4 Ethersworn Canonist 3 Gaddock Teeg 4 Noble Hierarch 4 Rhox War Monk 4 Tarmogoyf 3 Trygon Predator 2 Vendilion Clique 3 Bant Charm 4 Mana Leak 3 Oblivion"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-24"
+[_metadata_:title]:- "Bant Aggro"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 20:31:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028203116id_/https://magic.wizards.com/en/articles/archive/feature/bant-aggro-2009-02-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bant-aggro-2009-02-24"
 ---
 
 

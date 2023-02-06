@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201111230158/https://magic.wizards.com/en/articles/archive/feature/izzet-smash-2013-06-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/izzet-smash-2013-06-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111230158id_/https://magic.wizards.com/en/articles/archive/feature/izzet-smash-2013-06-04"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 23:01:58+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-04"
+[_metadata_:title]:- "Izzet Smash"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 23:01:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111230158id_/https://magic.wizards.com/en/articles/archive/feature/izzet-smash-2013-06-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/izzet-smash-2013-06-04"
 ---
 
 

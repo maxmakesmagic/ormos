@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210116181236/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2014-2013-03-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2014-2013-03-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116181236id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2014-2013-03-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-16 18:12:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-21"
+[_metadata_:title]:- "Duels of the Planeswalkers 2014"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-16 18:12:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116181236id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2014-2013-03-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2014-2013-03-21"
 ---
 
 

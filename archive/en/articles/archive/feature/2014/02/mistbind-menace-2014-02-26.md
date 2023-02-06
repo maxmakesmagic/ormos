@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160101152053/http://magic.wizards.com/en/articles/archive/feature/mistbind-menace-2014-02-26)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mistbind-menace-2014-02-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160101152053id_/http://magic.wizards.com/en/articles/archive/feature/mistbind-menace-2014-02-26"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-01 15:20:53+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "It was inevitable."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-02-26"
+[_metadata_:title]:- "The Mistbind Menace"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-01 15:20:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160101152053id_/http://magic.wizards.com/en/articles/archive/feature/mistbind-menace-2014-02-26"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mistbind-menace-2014-02-26"
 ---
 
 

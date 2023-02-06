@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170823035815/http://magic.wizards.com/en/articles/archive/feature/scs-crystal-shard-2003-09-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scs-crystal-shard-2003-09-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170823035815id_/http://magic.wizards.com/en/articles/archive/feature/scs-crystal-shard-2003-09-19"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-23 03:58:15+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "While it's common for Wizards to reprint toned-down versions of broken cards from Magic's past, it's always a pleasure to see an upgrade to an old favorite. For today's Mirrodin preview, I get the pleasure of giving the Single Card Strategy treatment to the prodigal son of the Exodus set's Erratic Portal, Crystal Shard!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-09-19"
+[_metadata_:title]:- "SCS: Crystal Shard"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-23 03:58:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170823035815id_/http://magic.wizards.com/en/articles/archive/feature/scs-crystal-shard-2003-09-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scs-crystal-shard-2003-09-19"
 ---
 
 

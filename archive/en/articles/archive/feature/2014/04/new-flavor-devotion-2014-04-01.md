@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025161829/https://magic.wizards.com/en/articles/archive/feature/new-flavor-devotion-2014-04-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-flavor-devotion-2014-04-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025161829id_/https://magic.wizards.com/en/articles/archive/feature/new-flavor-devotion-2014-04-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 16:18:29+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "At the most recent Grand Prix, in Cincinnati, some of the Team ChannelFireball guys decided to play Black Devotion with a couple twists. First, they chose to splash red for some game breakers like Rakdos's Return, Slaughter Games, and Sire of Insanity. The second twist was by far the most interesting, as they chose to eschew Pack Rat completely. With Mono-Black Devotion"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-04-01"
+[_metadata_:title]:- "A New Flavor of Devotion"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 16:18:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025161829id_/https://magic.wizards.com/en/articles/archive/feature/new-flavor-devotion-2014-04-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-flavor-devotion-2014-04-01"
 ---
 
 

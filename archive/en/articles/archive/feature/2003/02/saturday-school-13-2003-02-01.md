@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118070605/https://magic.wizards.com/en/articles/archive/feature/saturday-school-13-2003-02-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-13-2003-02-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118070605id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-13-2003-02-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 07:06:05+00:00"
+[_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "The Legions questions are rolling in… clarifications of provoke, double strike, and more follow! Send your rules questions to Rune at ask@wizards.com.Don't see the answer to your question? Check out the Saturday School Searchable Rules Database.Beginner Questions Q: If someone has a card that can return itself to its owners hand (such as Arcanis the Omnipotent), then someone"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-02-01"
+[_metadata_:title]:- "Saturday School #13"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 07:06:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118070605id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-13-2003-02-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-13-2003-02-01"
 ---
 
 

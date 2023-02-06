@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160415042736/http://magic.wizards.com/en/articles/archive/feature/fnm-gp-promos-2013-04-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fnm-gp-promos-2013-04-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160415042736id_/http://magic.wizards.com/en/articles/archive/feature/fnm-gp-promos-2013-04-25"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-15 04:27:36+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "You go to Friday Night Magic, right? Of course you do! And by going, you know that one of the reasons (aside from playing Magic) is to get the awesome FNM Promos we release each month."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-25"
+[_metadata_:title]:- "FNM + GP Promos"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-15 04:27:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160415042736id_/http://magic.wizards.com/en/articles/archive/feature/fnm-gp-promos-2013-04-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fnm-gp-promos-2013-04-25"
 ---
 
 

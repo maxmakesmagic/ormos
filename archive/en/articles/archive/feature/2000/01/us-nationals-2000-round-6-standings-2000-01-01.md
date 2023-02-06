@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526110752/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-6-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-6-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526110752id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-6-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:07:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Finkel, Jon 18 67.5926 92.3077 63.2822 6/6/0/0 2 Lieberman, Alex 16 66.6667 78.5714 62.9335 6/5/1/0 3 Humpherys, David 16 62.9630 78.5714 60.0878 6/5/1/0 4 Benafel, Chris 16 53.7037 83.3333 54.1514 6/5/1/0 5 Soo, Waiken 15 67.5926 71.4286 64.3468 6/5/0/0 6 Dougherty, Robert 15 64.8148 62.5000 60.1091"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Round 6 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:07:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526110752id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-6-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-6-standings-2000-01-01"
 ---
 
 

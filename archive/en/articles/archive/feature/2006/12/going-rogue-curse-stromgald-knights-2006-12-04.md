@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170609115908/http://magic.wizards.com/en/articles/archive/feature/going-rogue-curse-stromgald-knights-2006-12-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/going-rogue-curse-stromgald-knights-2006-12-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170609115908id_/http://magic.wizards.com/en/articles/archive/feature/going-rogue-curse-stromgald-knights-2006-12-04"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-09 11:59:08+00:00"
+[_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Okay, let's talk deckbuilding."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-12-04"
+[_metadata_:title]:- "Going Rogue: Curse of the Stromgald Knights"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-09 11:59:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170609115908id_/http://magic.wizards.com/en/articles/archive/feature/going-rogue-curse-stromgald-knights-2006-12-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/going-rogue-curse-stromgald-knights-2006-12-04"
 ---
 
 

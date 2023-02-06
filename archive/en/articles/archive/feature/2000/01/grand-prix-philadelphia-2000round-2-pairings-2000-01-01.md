@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527201536/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-2-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-2-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527201536id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-2-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 20:15:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Abueg John (331) Weingart Andrew (497) Al-Doory Aziz (206) Murphy Christopher (570) Allen Chris (436) Gade Anthony (515) Allen Crispin (571) Keeth Trevor (326) Allen Dustin (449) DeMeo Seph (579) Allen Tim (442) Morales Manuel (255) Alsip Bill (341) Hules Greg (337) Amendolia Aaron (320) Bongiovanni Mauro (5) Anders Dorian (295) *** Awarded Bye *** Anderson"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 2 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 20:15:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527201536id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-2-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-2-pairings-2000-01-01"
 ---
 
 

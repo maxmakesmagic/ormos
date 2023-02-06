@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220529030824/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-jeff-schalk-vs-justin-bryant-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-jeff-schalk-vs-justin-bryant-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529030824id_/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-jeff-schalk-vs-justin-bryant-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 03:08:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Gary Wise With $2500 in scholarship money under their belts already, Jeff Schalk of Alabama and Justin Bryant of Colorado had to be pretty satisfied with what they'd already accomplished. This said, before the match it was apparent that they were both hungry for a little more. Thanks to Schalk's pre-tournament decision to play a highly aggressive Stompy deck, the match went"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Quarterfinals Feature Match - Jeff Schalk vs Justin Bryant"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 03:08:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529030824id_/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-jeff-schalk-vs-justin-bryant-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-jeff-schalk-vs-justin-bryant-2000-01-01"
 ---
 
 

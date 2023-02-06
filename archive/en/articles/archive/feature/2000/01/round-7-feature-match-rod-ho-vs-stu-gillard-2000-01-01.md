@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524070046/https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-rod-ho-vs-stu-gillard-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-rod-ho-vs-stu-gillard-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524070046id_/https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-rod-ho-vs-stu-gillard-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:00:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Liam Coltman Star of Australian magic, Rod Ho, paired up against one of the best players that is yet to make the top 8, Stu Gillard. After narrowly missing out last year, Stu was hungry for the win, and was hoping that his bargain deck could give it to him. Rod won the die roll and chose to play. Game 1 Both players drew their opening hands, looked at them, and proceeded to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 7 Feature Match - Rod Ho vs. Stu Gillard"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:00:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524070046id_/https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-rod-ho-vs-stu-gillard-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-rod-ho-vs-stu-gillard-2000-01-01"
 ---
 
 

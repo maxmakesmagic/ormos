@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200531064425/https://magic.wizards.com/en/articles/archive/feature/monsters-ikoria-art-descriptions-2020-05-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/monsters-ikoria-art-descriptions-2020-05-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531064425id_/https://magic.wizards.com/en/articles/archive/feature/monsters-ikoria-art-descriptions-2020-05-14"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 06:44:25+00:00"
+[_metadata_:author]:- "Kendall Pepple"
 [_metadata_:description]:- "Let's take a closer look at the monsters of Ikoria, a plane filled with creatures ranging from small, winged squirrels to giant dinosaur turtles."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-05-14"
+[_metadata_:title]:- "Monsters of Ikoria Art Descriptions"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 06:44:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531064425id_/https://magic.wizards.com/en/articles/archive/feature/monsters-ikoria-art-descriptions-2020-05-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/monsters-ikoria-art-descriptions-2020-05-14"
 ---
 
 

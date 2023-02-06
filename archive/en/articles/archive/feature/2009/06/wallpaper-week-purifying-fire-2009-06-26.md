@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211201193745/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-purifying-fire-2009-06-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-purifying-fire-2009-06-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201193745id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-purifying-fire-2009-06-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 19:37:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Do you like fire? Do you like goggles? Do you like books? Then do we have some news for you! Check out Michael Komarck's beautiful cover of The Purifying Fire, by Laura Resnick! Here it is, in handy Wallpaper form! And be sure to scroll down for the latest installment of Core Set Survivor! Regular (1280x960 pixels) Widescreen (2560x1600 pixels) iPhone (320x480 pixels) Core Set"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-26"
+[_metadata_:title]:- "Wallpaper of the Week: The Purifying Fire"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 19:37:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201193745id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-purifying-fire-2009-06-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-purifying-fire-2009-06-26"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522104652/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-playerlist-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-playerlist-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522104652id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-playerlist-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 10:46:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Byes Alves, Carlos Andersen, Klaus Andersson, Karolina Andersson, Thomas 1 Angelin, Marcus 2 Apollo, Kristoffer 1 Appel, Ren Arabski, Krzysztof Asad, Ihab 1 Åsbø, Torgeir Assen, Johan B K Poulsen, Palle 1 Baierhofer, Horst Bakke, Geir Baldvinsson, Einar August Balluais, Romuald 1 Balsby, Jeppe Balssby, Jens 1 Bastos, Frederico 1 Beck, Martin Behrens, Andreas Bell,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000 - Playerlist"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 10:46:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522104652id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-playerlist-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-playerlist-2000-01-01"
 ---
 
 

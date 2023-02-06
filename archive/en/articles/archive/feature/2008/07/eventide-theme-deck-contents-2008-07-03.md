@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161201041143/http://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161201041143id_/http://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-01 04:11:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "So we were sitting around talking about our preview schedule and when we should show certain things, and we got to talking about the theme decks. We showed the boxes already, but when should we show the decklists? And then someone came up with this idea: what if we did it before the Prerelease? That way most of the cards are just mysterious names that could mean almost anything, and people can come back and look at the lists once the set's fully out there!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-01"
+[_metadata_:title]:- "Eventide Theme Deck Contents"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-01 04:11:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161201041143id_/http://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03"
 ---
 
 

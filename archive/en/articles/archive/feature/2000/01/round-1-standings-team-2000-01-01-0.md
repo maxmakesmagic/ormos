@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123193442/https://magic.wizards.com/en/articles/archive/feature/round-1-standings-team-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-standings-team-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123193442id_/https://magic.wizards.com/en/articles/archive/feature/round-1-standings-team-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 19:34:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 843,141596 * 0100.00% 37Absolute Samuels 3 0.00% 38Accellerated Vares8 Volante 3 0.00% 66Agifalw 0100.00% 57AlphaBetaUnlimited.com 3 0.00% 80Altrove * 0100.00% 1Amsterdam"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 1 Standings (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 19:34:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123193442id_/https://magic.wizards.com/en/articles/archive/feature/round-1-standings-team-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-standings-team-2000-01-01-0"
 ---
 
 

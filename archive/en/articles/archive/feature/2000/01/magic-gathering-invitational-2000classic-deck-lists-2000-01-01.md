@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517123317/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000classic-deck-lists-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000classic-deck-lists-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517123317id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000classic-deck-lists-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 12:33:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "DIRK BABEROWSKI 4 Force of Will 2 Mana Drain 4 Ophidian 4 Duress 3 Impulse 3 Brainstorm 1 Vampiric Tutor 1 Mystical Tutor 1 Demonic Tutor 1 Timetwister 1 Time Walk 1 Ancestral Recall 1 Balance 1 Swords to Plowshares 1 Seal of Cleansing 1 Yawgmoth's Will 1 Morphling 2 Counterspell 1 Sol Ring 1 Black Lotus 1 Mox Sapphire 1 Mox Jet 1 Mox Pearl 1 Strip Mine 4 Wasteland 1 Library"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Magic: The Gathering Invitational 2000Classic Deck Lists"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 12:33:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517123317id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000classic-deck-lists-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000classic-deck-lists-2000-01-01"
 ---
 
 

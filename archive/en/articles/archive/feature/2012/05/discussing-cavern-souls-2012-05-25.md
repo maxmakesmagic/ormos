@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160922014558/http://magic.wizards.com/en/articles/archive/feature/discussing-cavern-souls-2012-05-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/discussing-cavern-souls-2012-05-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160922014558id_/http://magic.wizards.com/en/articles/archive/feature/discussing-cavern-souls-2012-05-25"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-22 01:45:58+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Perhaps you've heard conversation lately about a ruling involving Cavern of Souls. Why don't I start with the current ruling and what you need to know, and then I'll step back and talk about some of the thinking behind these actions.Current Ruling:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-25"
+[_metadata_:title]:- "Discussing Cavern of Souls"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-22 01:45:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160922014558id_/http://magic.wizards.com/en/articles/archive/feature/discussing-cavern-souls-2012-05-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/discussing-cavern-souls-2012-05-25"
 ---
 
 

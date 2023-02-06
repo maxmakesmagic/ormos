@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029054122/https://magic.wizards.com/en/articles/archive/feature/magic-weekend-fact-sheet-2007-06-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-weekend-fact-sheet-2007-06-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029054122id_/https://magic.wizards.com/en/articles/archive/feature/magic-weekend-fact-sheet-2007-06-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 05:41:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "July 26-29, Baltimore, Md. Magic Weekend brings all the best parts of the game together in one location for four amazing days. Whether you're hanging out with your friends playing in open events, challenging for a slice of $100,000 in scholarship money, or trying to become the next United States National Champion, there's something for everybody!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-06-14"
+[_metadata_:title]:- "Magic Weekend Fact Sheet"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 05:41:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029054122id_/https://magic.wizards.com/en/articles/archive/feature/magic-weekend-fact-sheet-2007-06-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-weekend-fact-sheet-2007-06-14"
 ---
 
 

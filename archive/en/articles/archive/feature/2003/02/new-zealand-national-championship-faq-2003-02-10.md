@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160908190703/http://magic.wizards.com/en/articles/archive/feature/new-zealand-national-championship-faq-2003-02-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/new-zealand-national-championship-faq-2003-02-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160908190703id_/http://magic.wizards.com/en/articles/archive/feature/new-zealand-national-championship-faq-2003-02-10"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-08 19:07:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Invitation ListWhat is the date for the New Zealand National Championship?26-27 July 2008Where is the New Zealand National Championship going to be held?Christchurch Town Hall, Christchurch New Zealand"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-02-10"
+[_metadata_:title]:- "New Zealand National Championship FAQ"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-08 19:07:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160908190703id_/http://magic.wizards.com/en/articles/archive/feature/new-zealand-national-championship-faq-2003-02-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/new-zealand-national-championship-faq-2003-02-10"
 ---
 
 

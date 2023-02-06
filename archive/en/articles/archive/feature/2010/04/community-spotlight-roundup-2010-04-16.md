@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128193728/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-roundup-2010-04-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-roundup-2010-04-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128193728id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-roundup-2010-04-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 19:37:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "We have three things that we think are Community Spotlight-worthy this week. And we don't feel like choosing between them or making them fight to the death for our amusement, so we're just going to give you all three. You're welcome. Rise of the Eldrazi R&D Chat Do you want to know more about the creation of Rise of the Eldrazi? Do you like chatting? Are you a big fan of Brian"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-16"
+[_metadata_:title]:- "Community Spotlight: Roundup!"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 19:37:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128193728id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-roundup-2010-04-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-roundup-2010-04-16"
 ---
 
 

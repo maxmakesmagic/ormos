@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528054954/https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2013-release-events-2012-07-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2013-release-events-2012-07-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528054954id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2013-release-events-2012-07-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 05:49:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Face a Greater Challenge The Magic: The Gathering game expands every year, introducing new worlds filled with deadly perils, ancient adversaries, and fantastic new adventures. Magic 2013 is no different, where Planeswalkers aren’t the only powerful mages in the Multiverse; there are also powerful creatures whose deeds have made their names known throughout their own worlds. In"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-17"
+[_metadata_:title]:- "Magic Online Magic 2013 Release Events"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 05:49:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528054954id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2013-release-events-2012-07-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2013-release-events-2012-07-17"
 ---
 
 

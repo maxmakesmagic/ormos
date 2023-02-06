@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170607054615/http://magic.wizards.com/en/articles/archive/feature/there-no-eye-team-2007-04-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/there-no-eye-team-2007-04-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170607054615id_/http://magic.wizards.com/en/articles/archive/feature/there-no-eye-team-2007-04-25"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-07 05:46:15+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to this old house of cards! As you probably all know, Future Sight is almost upon us. At the time of this writing (Spring, 1974), the complete spoiler, sortable or not, is not yet available. Since I can't see into the future, I figured I'd do the next best thing and consult those who (probably) can. I'm talking about giant floating eyeballs. Incognito, oxymoronic planeswalkers. Watchers. You know, creatures and players with extraordinary vision."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-04-25"
+[_metadata_:title]:- "There is No Eye in Team"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-07 05:46:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170607054615id_/http://magic.wizards.com/en/articles/archive/feature/there-no-eye-team-2007-04-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/there-no-eye-team-2007-04-25"
 ---
 
 

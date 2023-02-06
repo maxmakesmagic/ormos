@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123174203/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-team-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-team-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123174203id_/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-team-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 17:42:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPoints OpponentPoints 3,141596 *3vsLa Sauss'bac Team *3 Absolute Samuels6vsUranus6 Accellerated Vares8 Volante6vsTeam Clegg6 Agifalw3vsDo you enjoy it ?3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 3 Pairings (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 17:42:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123174203id_/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-team-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-team-2000-01-01-0"
 ---
 
 

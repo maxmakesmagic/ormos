@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502162010/https://magic.wizards.com/en/articles/archive/feature/nakamura-gifts-2011-11-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nakamura-gifts-2011-11-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502162010id_/https://magic.wizards.com/en/articles/archive/feature/nakamura-gifts-2011-11-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:20:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic World Championships this past weekend featured the relatively new Modern format. No one was quite sure how the metagame was going to look, but 2011 Hall of Fame inductee Shuhei Nakamura certainly had put some work into the format. After going 6-0 in Modern with this highly innovative Gifts Ungiven deck, the famous Japanese deckbuilder has put a brand new archetype on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-11-23"
+[_metadata_:title]:- "Nakamura Gifts"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:20:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502162010id_/https://magic.wizards.com/en/articles/archive/feature/nakamura-gifts-2011-11-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nakamura-gifts-2011-11-23"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126063637/https://magic.wizards.com/en/articles/archive/feature/hedron-crab-2009-11-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hedron-crab-2009-11-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126063637id_/https://magic.wizards.com/en/articles/archive/feature/hedron-crab-2009-11-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 06:36:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Glenn Goldsworthy's Hedron Crab Format: 5th Place - United Kingdom - London - The Games Club (Standard) 4 Arcane Sanctum 3 Marsh Flats 3 Misty Rainforest 1 Swamp 2 Plains 2 Reliquary Tower 8 Island 4 Hedron Crab 4 Jace Beleren 4 Path to Exile 4 Archive Trap 4 Mind Funeral 1 Haunting Echoes 4 Day of Judgment 4 Cancel 4 Howling Mine 4 Angelsong *2 Sphinx of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-06"
+[_metadata_:title]:- "Hedron Crab"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 06:36:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126063637id_/https://magic.wizards.com/en/articles/archive/feature/hedron-crab-2009-11-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hedron-crab-2009-11-06"
 ---
 
 

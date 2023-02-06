@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170427202619/http://magic.wizards.com/en/articles/archive/feature/when-worlds-collide-part-ii-2009-01-26)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/when-worlds-collide-part-ii-2009-01-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170427202619id_/http://magic.wizards.com/en/articles/archive/feature/when-worlds-collide-part-ii-2009-01-26"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-27 20:26:19+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13; */"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-26"
+[_metadata_:title]:- "When Worlds Collide, Part II"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-27 20:26:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170427202619id_/http://magic.wizards.com/en/articles/archive/feature/when-worlds-collide-part-ii-2009-01-26"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/when-worlds-collide-part-ii-2009-01-26"
 ---
 
 

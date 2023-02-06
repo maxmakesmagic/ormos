@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210430211022/https://magic.wizards.com/en/articles/archive/feature/living-death-2009-01-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/living-death-2009-01-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210430211022id_/https://magic.wizards.com/en/articles/archive/feature/living-death-2009-01-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-30 21:10:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Patrick Chapin's Living Death Format: Magic Invitational 2000 1 Volrath's Stronghold 1 Mogg Hollows 2 Rootwater Depths 2 Skyshroud Forest 3 Reflecting Pool 4 Pine Barrens 5 Forest 3 Swamp 1 Island 4 Hermit Druid 4 Wall of Blossoms 1 Spike Feeder 1 Spike Weaver 1 Verdant Force 1 Stronghold Assassin 1 Thrull Surgeon 1 Coffin Queen 3 Tradewind Rider 1 Shard"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-05"
+[_metadata_:title]:- "Living Death"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-30 21:10:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210430211022id_/https://magic.wizards.com/en/articles/archive/feature/living-death-2009-01-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/living-death-2009-01-05"
 ---
 
 

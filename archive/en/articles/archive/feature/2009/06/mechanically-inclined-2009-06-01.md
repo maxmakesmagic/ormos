@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160413105746/http://magic.wizards.com/en/articles/archive/feature/mechanically-inclined-2009-06-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanically-inclined-2009-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160413105746id_/http://magic.wizards.com/en/articles/archive/feature/mechanically-inclined-2009-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-13 10:57:46+00:00"
+[_metadata_:author]:- "Brady Dommermuth"
 [_metadata_:description]:- "Five short years have produced no less than 17 separate named Magic mechanics. Chances are you've seen most of them hit the scene, succeed or fail, then become staples or fossils. Have you ever wondered where the ideas came from, or why a particular mechanic just didn't make the cut? I interviewed the R&D staff about some of the winners and losers. Here's what I learned."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-01"
+[_metadata_:title]:- "Mechanically Inclined"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-13 10:57:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160413105746id_/http://magic.wizards.com/en/articles/archive/feature/mechanically-inclined-2009-06-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanically-inclined-2009-06-01"
 ---
 
 

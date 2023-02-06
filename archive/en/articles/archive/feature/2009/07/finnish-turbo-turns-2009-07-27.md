@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812144512/https://magic.wizards.com/en/articles/archive/feature/finnish-turbo-turns-2009-07-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finnish-turbo-turns-2009-07-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812144512id_/https://magic.wizards.com/en/articles/archive/feature/finnish-turbo-turns-2009-07-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 14:45:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Mikko Airaksinen's Turbo Turns Format: Standard 7 Island 3 Mystic Gate 3 Plains 3 Swamp 4 Cryptic Command 4 Pollen Lullaby 4 Open the Vaults 4 Time Warp 4 Elsewhere Flask 4 Fieldmist Borderpost 1 Font of Mythos 4 Howling Mine 3 Kaleidostone 4 Mistvein Borderpost 4 Time Sieve 2 Jace Beleren 2 Tezzeret the Seeker *4 Ethersworn Canonist *3 Angelsong *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-27"
+[_metadata_:title]:- "Finnish Turbo Turns"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 14:45:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812144512id_/https://magic.wizards.com/en/articles/archive/feature/finnish-turbo-turns-2009-07-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finnish-turbo-turns-2009-07-27"
 ---
 
 

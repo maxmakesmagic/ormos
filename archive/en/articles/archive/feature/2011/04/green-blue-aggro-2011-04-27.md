@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170414022846/http://magic.wizards.com/en/articles/archive/feature/green-blue-aggro-2011-04-27)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/green-blue-aggro-2011-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170414022846id_/http://magic.wizards.com/en/articles/archive/feature/green-blue-aggro-2011-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-14 02:28:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Laurence Swasey's Green-Blue Aggro Format: Standard – StarCityGames.com Open in Boston, MA 8 Forest 5 Island 2 Evolving Wilds 4 Misty Rainforest 1 Scalding Tarn 2 Terramorphic Expanse 3 Verdant Catacombs 3 Acidic Slime 4 Birds of Paradise 1 Consecrated Sphinx 4 Fauna Shaman 2 Frost Titan 4 Lotus Cobra 4 Nest Invader 1 Oracle of Mul Daya 4 Vengevine 2 Sword of Feast and Famine 2 Garruk Wildspeaker 4 Jace, the Mind Sculptor"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-27"
+[_metadata_:title]:- "Green-Blue Aggro"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-14 02:28:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170414022846id_/http://magic.wizards.com/en/articles/archive/feature/green-blue-aggro-2011-04-27"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/green-blue-aggro-2011-04-27"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519190739/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-7-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-7-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519190739id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-7-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:07:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Allen Chris (436) Dimalanta Matthew (530) Allen Crispin (571) Dougherty, Robert (Q) (9) Allen Tim (442) Fitch, Britt (1700) (340) Amendolia Aaron (320) Van Ostenbridge Ron (109) Anders Dorian (295) Pisano, Robert (1700) (197) Anderson Alex (420) Kenyon Lee (42) Anderson Eric (552) Lynch Brian (68) Andrews Mal (21) Humpherys, David (Q) (294) Auer, Jeff (1700)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 7 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:07:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519190739id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-7-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-7-pairings-2000-01-01"
 ---
 
 

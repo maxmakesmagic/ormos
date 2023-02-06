@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160430160423/http://magic.wizards.com/en/articles/archive/feature/morningtide-update-bulletin-2008-01-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/morningtide-update-bulletin-2008-01-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160430160423id_/http://magic.wizards.com/en/articles/archive/feature/morningtide-update-bulletin-2008-01-16"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-30 16:04:23+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "TheMorningtide Prerelease is days away, which means that it's time for another round of Oracle fixes and Comp Rules updates. These updates happen only when a new set is released, so corrections or improvements that have come to our attention over the past few months are being implemented now. In addition, some rules changes are necessary to make the new cards work."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-01-16"
+[_metadata_:title]:- "Morningtide Update Bulletin"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-30 16:04:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160430160423id_/http://magic.wizards.com/en/articles/archive/feature/morningtide-update-bulletin-2008-01-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/morningtide-update-bulletin-2008-01-16"
 ---
 
 

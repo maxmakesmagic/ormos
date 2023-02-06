@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200531082131/https://magic.wizards.com/en/articles/archive/feature/propheting-wildly-2013-10-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/propheting-wildly-2013-10-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531082131id_/https://magic.wizards.com/en/articles/archive/feature/propheting-wildly-2013-10-29"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:21:31+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "After the success of mono-blue devotion in Dublin, it's natural to try and figure out how to evolve the deck, and who's better at evolution than the Simic? This deck keeps all the powerful elements of the original devotion deck, while looking to green to ramp up the power level and add some new synergies."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-29"
+[_metadata_:title]:- "Propheting Wildly"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:21:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531082131id_/https://magic.wizards.com/en/articles/archive/feature/propheting-wildly-2013-10-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/propheting-wildly-2013-10-29"
 ---
 
 

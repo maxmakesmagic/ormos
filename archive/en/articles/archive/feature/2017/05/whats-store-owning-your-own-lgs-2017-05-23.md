@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170527092248/http://magic.wizards.com/en/articles/archive/feature/whats-store-owning-your-own-lgs-2017-05-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/whats-store-owning-your-own-lgs-2017-05-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170527092248id_/http://magic.wizards.com/en/articles/archive/feature/whats-store-owning-your-own-lgs-2017-05-23"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-27 09:22:48+00:00"
+[_metadata_:author]:- "Maria Bartholdi"
 [_metadata_:description]:- "Mike Hawthorne and Ryan Overturf, co-owners of Lodestone Coffee and Games in Minnesota, reveal what it's like to own a game store."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-05-23"
+[_metadata_:title]:- "What's In Store? | Owning Your Own LGS"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-27 09:22:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170527092248id_/http://magic.wizards.com/en/articles/archive/feature/whats-store-owning-your-own-lgs-2017-05-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/whats-store-owning-your-own-lgs-2017-05-23"
 ---
 
 

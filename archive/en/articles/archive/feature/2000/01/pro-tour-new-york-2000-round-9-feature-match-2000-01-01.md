@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211127235719/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127235719id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 23:57:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Two of the top European players in the game faced off in round 10. Reigning World Champion and Player of the Year Kai Budde brought his Rebel deck to the feature match table sporting a 6-0-1 record in matchups versus other rebel decks. He has in fact only lost one duel to another Rebel deck. However, in order to make his deck that good in the mirror matchup,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 9 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 23:57:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127235719id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-feature-match-2000-01-01"
 ---
 
 

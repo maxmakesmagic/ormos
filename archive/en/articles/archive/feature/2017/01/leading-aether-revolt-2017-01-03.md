@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170105084034/http://magic.wizards.com/en/articles/archive/feature/leading-aether-revolt-2017-01-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/leading-aether-revolt-2017-01-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170105084034id_/http://magic.wizards.com/en/articles/archive/feature/leading-aether-revolt-2017-01-03"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-05 08:40:34+00:00"
+[_metadata_:author]:- "Ben Hayes"
 [_metadata_:description]:- "Ben stops by to talk Aether Revolt design and shares several preview cards in the process."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-01-03"
+[_metadata_:title]:- "Leading Aether Revolt"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-05 08:40:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170105084034id_/http://magic.wizards.com/en/articles/archive/feature/leading-aether-revolt-2017-01-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/leading-aether-revolt-2017-01-03"
 ---
 
 

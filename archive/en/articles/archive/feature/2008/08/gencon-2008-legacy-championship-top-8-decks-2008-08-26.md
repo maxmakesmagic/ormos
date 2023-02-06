@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525071840/https://magic.wizards.com/en/articles/archive/feature/gencon-2008-legacy-championship-top-8-decks-2008-08-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gencon-2008-legacy-championship-top-8-decks-2008-08-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525071840id_/https://magic.wizards.com/en/articles/archive/feature/gencon-2008-legacy-championship-top-8-decks-2008-08-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 07:18:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Blake Patrow Format: 3 Tundra 2 Tropical Island 2 Underground Sea 4 Flooded Strand 1 Windswept Heath 1 Polluted Delta 1 Island 1 Plains 3 Mutavault 4 Muscle Sliver 4 Sinew Sliver 4 Winged Sliver 4 Crystalline Sliver 3 Hibernation Sliver 4 Force of Will 4 Daze 4 Aether Vial 4 Swords to Plowshares 4 Brainstorm 3 Ponder *4 Blue Elemental Blast *3 Stifle *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-26"
+[_metadata_:title]:- "GenCon 2008 Legacy Championship Top 8 Decks"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 07:18:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525071840id_/https://magic.wizards.com/en/articles/archive/feature/gencon-2008-legacy-championship-top-8-decks-2008-08-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gencon-2008-legacy-championship-top-8-decks-2008-08-26"
 ---
 
 

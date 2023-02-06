@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118204427/https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-event-information-2011-12-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-event-information-2011-12-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118204427id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-event-information-2011-12-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:44:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Facebook Event Official hashtag: #gpaustin Date: January 7-8, 2012Format: Innistrad Sealed Deck / Booster Draft Tournament Location Austin Convention Center 500 E Cesar Chavez St Austin, TX 78701-4001 Registration: $40 Friday, January 6: 2 p.m. – 9 p.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-12-16"
+[_metadata_:title]:- "Grand Prix Austin Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:44:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118204427id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-event-information-2011-12-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-event-information-2011-12-16"
 ---
 
 

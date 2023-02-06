@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025202556/https://magic.wizards.com/en/articles/archive/feature/manalith-ramp-2012-03-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/manalith-ramp-2012-03-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025202556id_/https://magic.wizards.com/en/articles/archive/feature/manalith-ramp-2012-03-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 20:25:56+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "At the StarCityGames.com Open Series in Tampa this past weekend, Ron Xidea came with his take on the accelerated green decks that have been at the top of Standard: black-green-white ramp. Packed with more versatility than a normal ramp deck, the archetype propelled Xidea right into 9th place!Most decks of this variety tend to focus on the ramp aspect, then play a six-drop or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-03-06"
+[_metadata_:title]:- "Manalith Ramp"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 20:25:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025202556id_/https://magic.wizards.com/en/articles/archive/feature/manalith-ramp-2012-03-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/manalith-ramp-2012-03-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118162930/https://magic.wizards.com/en/articles/archive/feature/giving-multiplayer-try-2005-05-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/giving-multiplayer-try-2005-05-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118162930id_/https://magic.wizards.com/en/articles/archive/feature/giving-multiplayer-try-2005-05-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:29:30+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "MTGO MultiplayerOne of the things I've been looking forward to is trying out the multiplayer options for Magic Online. I first fell in love with Magic as a multiplayer game, with a handful of gaming buddies getting together around the kitchen table every weekend with our 200 card decks, slinging spells and talking trash and angling for the ante. Deckbuilding was a crude art"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-05-05"
+[_metadata_:title]:- "Giving Multiplayer a Try"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:29:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118162930id_/https://magic.wizards.com/en/articles/archive/feature/giving-multiplayer-try-2005-05-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/giving-multiplayer-try-2005-05-05"
 ---
 
 

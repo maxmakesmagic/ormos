@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017194310/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2014-event-information-2014-03-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2014-event-information-2014-03-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017194310id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2014-event-information-2014-03-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 19:43:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Chicago is brought to you by Pastimes.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpchicago Date: June 20-22, 2014 Format: Standard Tournament Location Donald E. Stephens Convention Center 5555 N. River Road Rosemont, IL 60018 Click"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-27"
+[_metadata_:title]:- "Grand Prix Chicago 2014 Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 19:43:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017194310id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2014-event-information-2014-03-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2014-event-information-2014-03-27"
 ---
 
 

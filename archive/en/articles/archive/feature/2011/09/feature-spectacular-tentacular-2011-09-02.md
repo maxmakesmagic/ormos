@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150809055656/http://magic.wizards.com/en/articles/archive/feature/feature-spectacular-tentacular-2011-09-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-spectacular-tentacular-2011-09-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150809055656id_/http://magic.wizards.com/en/articles/archive/feature/feature-spectacular-tentacular-2011-09-02"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-09 05:56:56+00:00"
+[_metadata_:author]:- "David Sutcliffe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-01"
+[_metadata_:title]:- "Feature: Spectacular Tentacular"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-09 05:56:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150809055656id_/http://magic.wizards.com/en/articles/archive/feature/feature-spectacular-tentacular-2011-09-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-spectacular-tentacular-2011-09-02"
 ---
 
 

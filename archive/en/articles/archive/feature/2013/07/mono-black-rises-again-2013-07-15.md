@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210217192751/https://magic.wizards.com/en/articles/archive/feature/mono-black-rises-again-2013-07-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-rises-again-2013-07-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210217192751id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-rises-again-2013-07-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-17 19:27:51+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Mono-Black control is one of Magic's enduring archetypes, and with the release of every single set, masses of people try to build it (and some succeed; take a look at Conley Woods's deck from PT Gatecrash earlier this year). In a recent Magic Online PTQ, F0ZEFY finished in 10th place with this take on Mono-Black, although it does touch green for a few powerful additions."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-15"
+[_metadata_:title]:- "Mono-Black Rises Again"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-17 19:27:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210217192751id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-rises-again-2013-07-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-rises-again-2013-07-15"
 ---
 
 

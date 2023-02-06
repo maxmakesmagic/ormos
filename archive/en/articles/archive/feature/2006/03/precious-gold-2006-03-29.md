@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190812220944/https://magic.wizards.com/en/articles/archive/feature/precious-gold-2006-03-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/precious-gold-2006-03-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190812220944id_/https://magic.wizards.com/en/articles/archive/feature/precious-gold-2006-03-29"
-[_metadata_:wayback_capture_timestamp]:- "2019-08-12 22:09:44+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "I remember being proud of myself for not screaming or thrashing like an animal when the Rakdos lowlives grabbed me and put the rope around my neck. There, at the end of the noose, my life would take a turn. Of course it would, I was going to die. But I remembered my Orzhov and I knew that it was only my body that would die. My life took a turn, though it was not the one I had expected."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-03-29"
+[_metadata_:title]:- "Precious Gold"
+[_metadata_:wayback_capture_timestamp]:- "2019-08-12 22:09:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190812220944id_/https://magic.wizards.com/en/articles/archive/feature/precious-gold-2006-03-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/precious-gold-2006-03-29"
 ---
 
 

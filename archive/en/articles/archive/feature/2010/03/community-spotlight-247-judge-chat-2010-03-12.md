@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126074433/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-247-judge-chat-2010-03-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-247-judge-chat-2010-03-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126074433id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-247-judge-chat-2010-03-12"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 07:44:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Let's say you're playing Magic in the middle of the night. So far, fairly realistic, right? But then you have a rules question. What do you do? What ... do you do? Well, thanks to the worldwide DCI Judge community and especially Jason Lemahieu, there's an answer! Twenty-four hours a day, seven days a week, there's someone on the #mtgrules IRC channel waiting for your question."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-12"
+[_metadata_:title]:- "Community Spotlight: 24/7 Judge Chat"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 07:44:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126074433id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-247-judge-chat-2010-03-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-247-judge-chat-2010-03-12"
 ---
 
 

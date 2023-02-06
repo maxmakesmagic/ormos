@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129124427/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129124427id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 12:44:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Akbar, David ( 60) 6 60 Lovin, Mark (140) 6 Allen, Dustin ( 36) 4 17 Hale, Yancy (121) 4 Armstrong, Herman ( 88) 3 30 Bragg, Tillman ( 4) 3 Aubertin, Justin ( 3) 6 36 Horner, Brian ( 8) 6 Beckmon, Jon ( 15) 7 66 Johnson, Jake ( 32) 7 Benafel, Chris ( 50) 10 9 Regnier, Shawn ( 90) 10 Bhattacharyya, Sayan ( 39) 7 39 Swoyer, Mark ( 63) 7 Bigos, Kyle"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Round 5 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 12:44:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129124427id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-5-pairings-2000-01-01"
 ---
 
 

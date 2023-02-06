@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200722073652/https://magic.wizards.com/en/articles/archive/feature/between-rock-and-shard-place-2008-09-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/between-rock-and-shard-place-2008-09-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200722073652id_/https://magic.wizards.com/en/articles/archive/feature/between-rock-and-shard-place-2008-09-08"
-[_metadata_:wayback_capture_timestamp]:- "2020-07-22 07:36:52+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Shards of Alara Preview Week 1! It's time to introduce you to this year's new world, except there isn't one. There's five! Yes, Shards of Alara as I will soon explain has not one, not two, not three, not four, but five brand spanking new worlds for you to explore, each with its own flavor and identity. How did this happen? What does it mean? What's the preview card? All will be explained shortly."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-08"
+[_metadata_:title]:- "Between a Rock and a Shard Place"
+[_metadata_:wayback_capture_timestamp]:- "2020-07-22 07:36:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200722073652id_/https://magic.wizards.com/en/articles/archive/feature/between-rock-and-shard-place-2008-09-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/between-rock-and-shard-place-2008-09-08"
 ---
 
 

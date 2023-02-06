@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170218220855/http://magic.wizards.com/en/articles/archive/feature/magic-2014-duels-planeswalkers-deck-pack-2013-11-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-2014-duels-planeswalkers-deck-pack-2013-11-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170218220855id_/http://magic.wizards.com/en/articles/archive/feature/magic-2014-duels-planeswalkers-deck-pack-2013-11-04"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-18 22:08:55+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "&#13; This week we will be rolling out Deck Pack 1 (of three) for all platforms for Magic 2014—Duels of the Planeswalkers. You can buy Deck Pack 1 for $2.99 once it becomes available on your platform and in your region. Deck Pack 2 will launch later this winter.&#13; &#13; Roll outs for this deck pack will take place as follows:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-04"
+[_metadata_:title]:- "Magic 2014 - Duels of the Planeswalkers Deck Pack"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-18 22:08:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170218220855id_/http://magic.wizards.com/en/articles/archive/feature/magic-2014-duels-planeswalkers-deck-pack-2013-11-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-2014-duels-planeswalkers-deck-pack-2013-11-04"
 ---
 
 

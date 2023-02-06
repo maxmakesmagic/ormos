@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118143332/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118143332id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:33:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Tom `Jester` Byrne Game 1 In the beginning of this match, Rubin tried to go on the offensive early but only managed to do a few points of damage before missing his critical third land drop. Fuller began to stabilize on turn 3 with a Thermal Glider and Ramosian Lieutenant on turn 4, and slowly massed his forces with Cho-Manno Revolutionary, a Nightwind Glider and a Wild"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 8 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:33:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118143332id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-feature-match-2000-01-01"
 ---
 
 

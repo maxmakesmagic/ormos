@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170502191323/http://magic.wizards.com/en/articles/archive/feature/red-white-blue-control-2010-01-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/red-white-blue-control-2010-01-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502191323id_/http://magic.wizards.com/en/articles/archive/feature/red-white-blue-control-2010-01-15"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-02 19:13:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Luis Scott-Vargas's Red-White-Blue Control Format: StarCityGames.com Open 4 Island 2 Mountain 4 Plains 4 Arid Mesa 4 Glacial Fortress 4 Scalding Tarn 4 Sejiri Refuge 3 Sphinx of Jwar Isle 4 Wall of Denial 4 Spreading Seas 2 Double Negative 4 Flashfreeze 4 Lightning Bolt 2 Path to Exile 3 Ajani Vengeant 2 Jace Beleren 2 Divination 2 Earthquake 2 Mind Spring *4 Baneslayer Angel *3 Luminarch Ascension *2 Mind Control"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-01-15"
+[_metadata_:title]:- "Red-White-Blue Control"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-02 19:13:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502191323id_/http://magic.wizards.com/en/articles/archive/feature/red-white-blue-control-2010-01-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/red-white-blue-control-2010-01-15"
 ---
 
 

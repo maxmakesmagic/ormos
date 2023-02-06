@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211209011656/https://magic.wizards.com/en/articles/archive/feature/eight-roads-finals-2006-11-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eight-roads-finals-2006-11-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209011656id_/https://magic.wizards.com/en/articles/archive/feature/eight-roads-finals-2006-11-09"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 01:16:56+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "The Finals: If you haven't heard of it, the Finals is Japan's most prestigious invitation-only event of the year. Like a mini-premiere event, sort of the Japanese All-Star Game, the Finals only allows a select few (108 last year, 94 in 2004) to participate... and when the smoke clears, what a select few they are! Last year's The Finals finals was a battle between Pro Tour -"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-09"
+[_metadata_:title]:- "Eight Roads to The Finals"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 01:16:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209011656id_/https://magic.wizards.com/en/articles/archive/feature/eight-roads-finals-2006-11-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eight-roads-finals-2006-11-09"
 ---
 
 

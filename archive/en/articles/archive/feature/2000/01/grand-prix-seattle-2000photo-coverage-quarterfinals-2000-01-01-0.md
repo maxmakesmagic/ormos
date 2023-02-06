@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521201922/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-quarterfinals-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-quarterfinals-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521201922id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-quarterfinals-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:19:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Tim Kariel (Seattle player) Jeremy Brower (Arizona player)  Alex Shvartsman after losing game 1 Bob Maher after winning game 1  Spectators watching the quarterfinals Spectators watching the Elarar/Maher match  Jay Elarar after losing game 1 Jeremy Brower defeats David Weitz [ 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 ]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Seattle 2000Photo Coverage - Quarterfinals"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:19:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521201922id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-quarterfinals-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-quarterfinals-2000-01-01-0"
 ---
 
 

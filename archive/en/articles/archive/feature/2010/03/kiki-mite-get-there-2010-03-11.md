@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024115210/https://magic.wizards.com/en/articles/archive/feature/kiki-mite-get-there-2010-03-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kiki-mite-get-there-2010-03-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024115210id_/https://magic.wizards.com/en/articles/archive/feature/kiki-mite-get-there-2010-03-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 11:52:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Chester Li's Kiki Mite Get There Format: Extended – Qualifier for PT–San Juan 3 Cascade Bluffs 5 Island 4 Misty Rainforest 1 Mountain 3 Mutavault 4 Scalding Tarn 3 Steam Vents 3 Kiki-Jiki, Mirror Breaker 3 Mistbind Clique 4 Pestermite 4 Spellstutter Sprite 3 Vendilion Clique 4 Ancestral Vision 2 Chrome Mox 2 Cryptic Command 4 Lightning Bolt 3 Mana Leak 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-11"
+[_metadata_:title]:- "Kiki Mite Get There"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 11:52:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024115210id_/https://magic.wizards.com/en/articles/archive/feature/kiki-mite-get-there-2010-03-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kiki-mite-get-there-2010-03-11"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200503071147/https://magic.wizards.com/en/articles/archive/feature/playing-magic-friends-when-you-cant-gather-2020-04-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-magic-friends-when-you-cant-gather-2020-04-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200503071147id_/https://magic.wizards.com/en/articles/archive/feature/playing-magic-friends-when-you-cant-gather-2020-04-17"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-03 07:11:47+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin talks about best Magic practices for keeping in touch with friends while social distancing and setting up games of Magic over webcam."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-04-17"
+[_metadata_:title]:- "Playing Magic with Friends When You Can't Gather"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-03 07:11:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200503071147id_/https://magic.wizards.com/en/articles/archive/feature/playing-magic-friends-when-you-cant-gather-2020-04-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-magic-friends-when-you-cant-gather-2020-04-17"
 ---
 
 

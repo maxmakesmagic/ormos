@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503155151/https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93atlanta-2004-10-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93atlanta-2004-10-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503155151id_/https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93atlanta-2004-10-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 15:51:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Come join Wizards of the Coast for our next Pro Tour stop in Atlanta, GA. This information will help you to prepare now to attend in March. Pro Tour Atlanta will be held March 11-13, 2005. Team Preview Wondering who's coming to Atlanta? What about the top teams to watch? Brian David-Marshall has all the info in his preview of Pro Tour-Atlanta, including a short trip down"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-10-08"
+[_metadata_:title]:- "2005 Pro Tour–Atlanta"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 15:51:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503155151id_/https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93atlanta-2004-10-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93atlanta-2004-10-08"
 ---
 
 

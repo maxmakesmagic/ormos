@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503071206/https://magic.wizards.com/en/articles/archive/feature/change-horizon-2006-09-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/change-horizon-2006-09-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503071206id_/https://magic.wizards.com/en/articles/archive/feature/change-horizon-2006-09-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:12:06+00:00"
+[_metadata_:author]:- "Scott Johns"
 [_metadata_:description]:- "By now most people know that back in July (`Taking You To The Beginning, At Last`) the columnist I was talking about losing was Anthony Alongi. Anthony has been with magicthegathering.com since it first opened its doors back in 2002. Anthony is easily one of the most iconic multiplayer writers in Magic, with a history that goes back well before his impressive stint with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-09-13"
+[_metadata_:title]:- "Change On The Horizon"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:12:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503071206id_/https://magic.wizards.com/en/articles/archive/feature/change-horizon-2006-09-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/change-horizon-2006-09-13"
 ---
 
 

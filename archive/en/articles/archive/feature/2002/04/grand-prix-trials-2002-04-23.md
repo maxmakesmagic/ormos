@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812203834/https://magic.wizards.com/en/articles/archive/feature/grand-prix-trials-2002-04-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-trials-2002-04-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812203834id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-trials-2002-04-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 20:38:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Trials (GPTs) are smaller, regional Magic Tournaments that award at least one 2-round bye to the appropriate individual-format Grand Prix. Players with a 2-round bye at a Grand Prix get a `leg up` in the event – they don't have to play in the first two rounds of the tournament and are considered to have won those rounds! If you’re interested in participating in a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-04-23"
+[_metadata_:title]:- "Grand Prix Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 20:38:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812203834id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-trials-2002-04-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-trials-2002-04-23"
 ---
 
 

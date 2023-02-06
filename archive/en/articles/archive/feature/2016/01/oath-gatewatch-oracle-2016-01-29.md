@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160131110335/http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-oracle-2016-01-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-oracle-2016-01-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160131110335id_/http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-oracle-2016-01-29"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-31 11:03:35+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "What is Oracle?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-01-29"
+[_metadata_:title]:- "Oath of the Gatewatch Update Bulletin—Oracle Text"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-31 11:03:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160131110335id_/http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-oracle-2016-01-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-oracle-2016-01-29"
 ---
 
 

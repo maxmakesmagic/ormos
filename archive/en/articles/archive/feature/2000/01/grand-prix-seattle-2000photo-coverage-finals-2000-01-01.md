@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524002731/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-finals-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-finals-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524002731id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-finals-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 00:27:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Bob Maher, pondering how to deal with opponent's Morphling Jeremy Brower serving the beatdown  Bob Maher loses game two due to Morphling Bob Maher vs. Jeremy Brower  Elaine Ferrao, Jeremy Brower and (standing) his girlfriend from Seattle. Maher waits patiently while Brower considers his options  Both players endurance is tested in this final match."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Seattle 2000Photo Coverage - Finals"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 00:27:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524002731id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-finals-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-finals-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528081706/https://magic.wizards.com/en/articles/archive/feature/magic-online-cube-preview-weekend-2012-03-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-cube-preview-weekend-2012-03-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528081706id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-cube-preview-weekend-2012-03-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 08:17:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Cube drafting has been a major part the paper Magic scene for many years now, and it can be found at all levels of play. From professional players looking to unwind with a fully 'powered' Cube after a long day at a Pro Tour to a group of friends with a Pauper Cube at their kitchen table, one thing is clear…Cube is here to stay. For those who are unfamiliar with Cube, it is a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-03-22"
+[_metadata_:title]:- "The Magic Online Cube Preview Weekend"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 08:17:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528081706id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-cube-preview-weekend-2012-03-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-cube-preview-weekend-2012-03-22"
 ---
 
 

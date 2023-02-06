@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518220801/https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-mike-turian-vs-chris-benafel-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-mike-turian-vs-chris-benafel-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518220801id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-mike-turian-vs-chris-benafel-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 22:08:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In a long drawn out match featuring two players looking to make their first appearance on the US National team, Mike Turian and Chris Benafel squared off with a spot on the team as the prize to the winner. Game one was all Baneful, with the two players trading land drops until the 8th turn, Benafel's fourth. Three of Mike's four lands were Rishadan Ports, so Chris started"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Semifinals Feature Match - Mike Turian vs. Chris Benafel"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 22:08:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518220801id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-mike-turian-vs-chris-benafel-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-mike-turian-vs-chris-benafel-2000-01-01"
 ---
 
 

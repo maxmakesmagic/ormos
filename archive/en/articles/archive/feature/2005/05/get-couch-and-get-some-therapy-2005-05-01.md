@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019034457/https://magic.wizards.com/en/articles/archive/feature/get-couch-and-get-some-therapy-2005-05-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/get-couch-and-get-some-therapy-2005-05-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019034457id_/https://magic.wizards.com/en/articles/archive/feature/get-couch-and-get-some-therapy-2005-05-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 03:44:57+00:00"
+[_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "Around the world, players are taking up the challenge. The DCI and your local storeowners have invited you to come and play the Magic: the Gathering® game. What’s more, just for showing up to play, you might get some much-needed therapy, Cabal Therapy. Every Friday during the month of May, Wizards of the Coast is giving you a great chance to win an exclusive foil version of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-05-01"
+[_metadata_:title]:- "Get off the couch and get some Therapy"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 03:44:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019034457id_/https://magic.wizards.com/en/articles/archive/feature/get-couch-and-get-some-therapy-2005-05-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/get-couch-and-get-some-therapy-2005-05-01"
 ---
 
 

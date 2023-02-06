@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170803002754/http://magic.wizards.com/en/articles/archive/feature/pro-tour-hour-devastation-photo-essay-2017-08-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-hour-devastation-photo-essay-2017-08-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170803002754id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-hour-devastation-photo-essay-2017-08-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-03 00:27:54+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Blake tells the tale of Pro Tour Hour of Devastation with some help from the camera of Christopher Mora."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-08-01"
+[_metadata_:title]:- "Pro Tour Hour of Devastation Photo Essay"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-03 00:27:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170803002754id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-hour-devastation-photo-essay-2017-08-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-hour-devastation-photo-essay-2017-08-01"
 ---
 
 

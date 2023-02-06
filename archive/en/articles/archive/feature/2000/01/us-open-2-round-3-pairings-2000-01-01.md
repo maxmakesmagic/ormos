@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517072830/https://magic.wizards.com/en/articles/archive/feature/us-open-2-round-3-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-2-round-3-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517072830id_/https://magic.wizards.com/en/articles/archive/feature/us-open-2-round-3-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 07:28:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Aldrich, Steven ( 95) 2 10 Szollosi, Bryan (133) 2 Allen, Ross ( 31) 2 23 Fears, Adam ( 8) 3 Beckman, David ( 67) 0 31 Mansfield, Willie ( 48) 2 Belfatto, Michael ( 73) 2 24 McCarrel, Casey ( 60) 3 Benson, Mike ( 65) 2 25 Kennison, Koby ( 34) 3 Bock, Dan (125) 3 20 Mason, Craig ( 6) 2 Brenner, Tim (139) 2 18 Michaels, Max (109) 2 Bryant, David ("
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Open 2 Round 3 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 07:28:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517072830id_/https://magic.wizards.com/en/articles/archive/feature/us-open-2-round-3-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-2-round-3-pairings-2000-01-01"
 ---
 
 

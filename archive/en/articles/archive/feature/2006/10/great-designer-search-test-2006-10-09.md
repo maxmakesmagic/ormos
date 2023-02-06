@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170525131829/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-test-2006-10-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-test-2006-10-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170525131829id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-test-2006-10-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-25 13:18:29+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "On Friday, August 25th, The Great Designer Search began. All applicants began by writing ten essays on a variety of hard questions. Everyone who passed the first wave was asked to take “The Test.” The Test was a thirty-five question multiple choice test checking the applicant’s knowledge of different things that a designer needs to know."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-10-09"
+[_metadata_:title]:- "The Great Designer Search: The Test"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-25 13:18:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170525131829id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-test-2006-10-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-test-2006-10-09"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502092249/https://magic.wizards.com/en/articles/archive/feature/grand-prix-qu%C3%A9bec-city-event-information-2013-01-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-qu%C3%A9bec-city-event-information-2013-01-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502092249id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-qu%C3%A9bec-city-event-information-2013-01-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 09:22:49+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Québec City is brought to you by Alberta Premier Events.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpqbc Date: February 22-24, 2013 Format: Standard Tournament Location Centre des Congrès de Québec Convention Hall 200 (2nd floor) 1000,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-21"
+[_metadata_:title]:- "Grand Prix Québec City Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 09:22:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502092249id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-qu%C3%A9bec-city-event-information-2013-01-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-qu%C3%A9bec-city-event-information-2013-01-21"
 ---
 
 

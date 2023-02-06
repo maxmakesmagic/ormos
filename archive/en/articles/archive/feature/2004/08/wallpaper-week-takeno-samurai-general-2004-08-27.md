@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220629002653/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-takeno-samurai-general-2004-08-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-takeno-samurai-general-2004-08-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629002653id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-takeno-samurai-general-2004-08-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 00:26:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Matt Cavotta's Takeno, Master Samurai from the upcoming Champions of Kamigawa set. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-27"
+[_metadata_:title]:- "Wallpaper of the Week: Takeno, Samurai General"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 00:26:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629002653id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-takeno-samurai-general-2004-08-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-takeno-samurai-general-2004-08-27"
 ---
 
 

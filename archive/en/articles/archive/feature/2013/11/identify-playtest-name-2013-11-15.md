@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220626181932/https://magic.wizards.com/en/articles/archive/feature/identify-playtest-name-2013-11-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/identify-playtest-name-2013-11-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626181932id_/https://magic.wizards.com/en/articles/archive/feature/identify-playtest-name-2013-11-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 18:19:32+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "The journey for a card from concept to final card is fraught with peril. Many cards never make it out of design, and those that do make it undergo intense trial and experimentation during the development of the set. And then, even as they are being tweaked by the numbers, they gain ongoing creative tweaks as the name is finalized and the art is commissioned. In today's Arcana"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-15"
+[_metadata_:title]:- "Identify the Playtest Name"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 18:19:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626181932id_/https://magic.wizards.com/en/articles/archive/feature/identify-playtest-name-2013-11-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/identify-playtest-name-2013-11-15"
 ---
 
 

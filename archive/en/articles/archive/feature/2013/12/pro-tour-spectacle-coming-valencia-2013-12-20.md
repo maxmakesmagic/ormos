@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519014420/https://magic.wizards.com/en/articles/archive/feature/pro-tour-spectacle-coming-valencia-2013-12-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-spectacle-coming-valencia-2013-12-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519014420id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-spectacle-coming-valencia-2013-12-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 01:44:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The best and brightest Magic players are coming to Valencia, Spain, in February, and you can be there to watch all the action, from the opening draft to the climactic finals. Held at the Ciudad de las Artes y las Ciencias in Valencia, Pro Tour Born of the Gods opens its doors to the public on Friday, February 21 at 8 a.m., one hour before the start of play. The Pro Tour begins"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-12-20"
+[_metadata_:title]:- "Pro Tour Spectacle Coming to Valencia"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 01:44:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519014420id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-spectacle-coming-valencia-2013-12-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-spectacle-coming-valencia-2013-12-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018022334/https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2012-trials-2012-03-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2012-trials-2012-03-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018022334id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2012-trials-2012-03-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 02:23:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "http://www.wizards.com/Magic/TCG/Events.aspx?x=mtg/event/grandprix/anaheim12/trialsGrand Prix–Los Angeles Trials will be run at WPN locations from March 10 to April 22, 2012. Each awards the winner a three-round bye to Grand Prix–Los Angeles.WPN Locations in the Los Angeles, California Area Entry FeeEntry fee varies from location to location. Check with local organizer for"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-03-01"
+[_metadata_:title]:- "Grand Prix Los Angeles 2012 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 02:23:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018022334id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2012-trials-2012-03-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2012-trials-2012-03-01"
 ---
 
 

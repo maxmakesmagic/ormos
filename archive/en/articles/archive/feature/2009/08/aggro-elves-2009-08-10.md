@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170615010157/http://magic.wizards.com/en/articles/archive/feature/aggro-elves-2009-08-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aggro-elves-2009-08-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615010157id_/http://magic.wizards.com/en/articles/archive/feature/aggro-elves-2009-08-10"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-15 01:01:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Steven Pulliam's Red-Green Elves Format: Standard 4 Fire-Lit Thicket 9 Forest 3 Mountain 4 Rootbound Crag 2 Terramorphic Expanse 4 Bloodbraid Elf 4 Elvish Archdruid 2 Great Sable Stag 4 Imperious Perfect 4 Llanowar Elves 4 Talara's Battalion 4 Wilt-Leaf Liege 4 Wren's Run Vanquisher 4 Lightning Bolt 4 Manamorphose *1 Banefire *2 Great Sable Stag *2 Naturalize *2 Pithing Needle *2 Scattershot Archer *2 Volcanic Fallout"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-10"
+[_metadata_:title]:- "Aggro Elves"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-15 01:01:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615010157id_/http://magic.wizards.com/en/articles/archive/feature/aggro-elves-2009-08-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aggro-elves-2009-08-10"
 ---
 
 

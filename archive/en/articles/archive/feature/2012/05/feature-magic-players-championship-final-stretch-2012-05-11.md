@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150911005409/http://magic.wizards.com/en/articles/archive/feature/feature-magic-players-championship-final-stretch-2012-05-11)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-magic-players-championship-final-stretch-2012-05-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150911005409id_/http://magic.wizards.com/en/articles/archive/feature/feature-magic-players-championship-final-stretch-2012-05-11"
-[_metadata_:wayback_capture_timestamp]:- "2015-09-11 00:54:09+00:00"
+[_metadata_:author]:- "Nate Price"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-10"
+[_metadata_:title]:- "Feature: The Magic Players Championship Final Stretch"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-11 00:54:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150911005409id_/http://magic.wizards.com/en/articles/archive/feature/feature-magic-players-championship-final-stretch-2012-05-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-magic-players-championship-final-stretch-2012-05-11"
 ---
 
 

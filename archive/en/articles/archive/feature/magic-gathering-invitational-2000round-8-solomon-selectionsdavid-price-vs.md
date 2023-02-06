@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525204824/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsdavid-price-vs)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsdavid-price-vs"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525204824id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsdavid-price-vs"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 20:48:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - David Price Divides   David Price Pat Chapin Meteor Shower Icatian Phalanx Repentance Giant Tortoise Abduction Fissure Ball Lightning Anaba Shaman Pack #2 - Pat Chapin Divides   David Price Pat Chapin Rhox Bounty Hunter Barbed Sextant Havoc Shaman en-Kor Curiosity Blue Elemental Blast Spitting Earth Pack #3 - David Price Divides   David Price Pat Chapin Hired Giant"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 8 Solomon SelectionsDavid Price vs. Patrick Chapin"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 20:48:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525204824id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsdavid-price-vs"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsdavid-price-vs"
 ---
 
 

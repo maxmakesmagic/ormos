@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160322064852/http://magic.wizards.com/en/articles/archive/feature/thats-spirits-2014-02-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/thats-spirits-2014-02-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160322064852id_/http://magic.wizards.com/en/articles/archive/feature/thats-spirits-2014-02-20"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-22 06:48:52+00:00"
+[_metadata_:author]:- "Mike McArtor"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-02-20"
+[_metadata_:title]:- "That's the Spirits!"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-22 06:48:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160322064852id_/http://magic.wizards.com/en/articles/archive/feature/thats-spirits-2014-02-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/thats-spirits-2014-02-20"
 ---
 
 

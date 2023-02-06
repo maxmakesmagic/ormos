@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160228033338/http://magic.wizards.com/en/articles/archive/feature/factsheet-tournament-information-2007-12-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/factsheet-tournament-information-2007-12-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160228033338id_/http://magic.wizards.com/en/articles/archive/feature/factsheet-tournament-information-2007-12-04"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-28 03:33:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "3rd & 4th May Format: Sealed Deck (Shadowmoor) with day 2 booster draft Tournament Location:Brussels ExpoBrussels Expo (Heizel) Hall 10Place de Belgique 11020 Brussels Get on the battlefield - Open to all !! Grand Prix are the most exciting events the DCI offers. They're high-energy and held around the world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-12-04"
+[_metadata_:title]:- "Factsheet Tournament Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-28 03:33:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160228033338id_/http://magic.wizards.com/en/articles/archive/feature/factsheet-tournament-information-2007-12-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/factsheet-tournament-information-2007-12-04"
 ---
 
 

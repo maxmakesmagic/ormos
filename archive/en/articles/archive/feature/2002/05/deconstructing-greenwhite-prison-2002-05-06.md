@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160815122914/http://magic.wizards.com/en/articles/archive/feature/deconstructing-greenwhite-prison-2002-05-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/deconstructing-greenwhite-prison-2002-05-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160815122914id_/http://magic.wizards.com/en/articles/archive/feature/deconstructing-greenwhite-prison-2002-05-06"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-15 12:29:14+00:00"
+[_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "The Powers-That-Be at MagicTheGathering.com must love the underdog. This is my third “Deconstructing Famous Decks” article and it is the third time that the deck under the microscope didn't actually win anything. Not that I am complaining. I’m a lifelong Mets fan, which should give you an idea about how I feel about underdogs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-05-06"
+[_metadata_:title]:- "Deconstructing Green/White Prison"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-15 12:29:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160815122914id_/http://magic.wizards.com/en/articles/archive/feature/deconstructing-greenwhite-prison-2002-05-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/deconstructing-greenwhite-prison-2002-05-06"
 ---
 
 

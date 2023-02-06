@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120164436/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-2010-qualifiers-2009-09-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-2010-qualifiers-2009-09-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120164436id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-2010-qualifiers-2009-09-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 16:44:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Play the Game, See the World Magic Online Qualifiers North America Latin America Europe Asia Japan Australia and New Zealand Pro Tour–San Diego Invitation List Pro Tour–San Diego is February 19-21, 2010. Qualifiers start October 3 and run until December 27. Check the schedule for your region to find an event near you that could earn you an invitation to Pro Tour–San Diego."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-15"
+[_metadata_:title]:- "Pro Tour–San Diego 2010 Qualifiers"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 16:44:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120164436id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-2010-qualifiers-2009-09-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-2010-qualifiers-2009-09-15"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517152843/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517152843id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 15:28:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 6 Results - 14 and under Division Player Opponent Results Allen Dustin Heule Tyler Lost, 1-2 Altemara Chase Anderson Adam Lost, 1-2 Anderson Adam Altemara Chase Won, 2-1 Behlen Andrew Burt Rodney Intentional Draw Bizub Marc *** BYE *** Blair James Landers Mark Lost, 1-2 Blatnick Brandon Hall Mike Won, 2-1 Bowen Benjamin Lewis Andrew Lost,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 15:28:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517152843id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-25"
 ---
 
 

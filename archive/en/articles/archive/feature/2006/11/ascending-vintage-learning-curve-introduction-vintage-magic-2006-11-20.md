@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210513035521/https://magic.wizards.com/en/articles/archive/feature/ascending-vintage-learning-curve-introduction-vintage-magic-2006-11-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ascending-vintage-learning-curve-introduction-vintage-magic-2006-11-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210513035521id_/https://magic.wizards.com/en/articles/archive/feature/ascending-vintage-learning-curve-introduction-vintage-magic-2006-11-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-13 03:55:21+00:00"
+[_metadata_:author]:- "Stephen Menendian"
 [_metadata_:description]:- "Hi everyone, and welcome! When Scott Johns asked me if I'd like to contribute a piece to this wonderful site, I jumped at the opportunity to talk about Vintage at the home of Magic on the Web. My name is Stephen Menendian, and I am a regular writer for another other major Magical site, Starcitygames.com."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-20"
+[_metadata_:title]:- "Ascending the Vintage Learning Curve: An Introduction to Vintage Magic"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-13 03:55:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210513035521id_/https://magic.wizards.com/en/articles/archive/feature/ascending-vintage-learning-curve-introduction-vintage-magic-2006-11-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ascending-vintage-learning-curve-introduction-vintage-magic-2006-11-20"
 ---
 
 

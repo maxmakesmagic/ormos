@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161008070558/http://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-event-information-2013-09-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-event-information-2013-09-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161008070558id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-event-information-2013-09-05"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-08 07:05:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Santiago is brought to you by La Forja de Stone."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-05"
+[_metadata_:title]:- "Grand Prix Santiago Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-08 07:05:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161008070558id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-event-information-2013-09-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-event-information-2013-09-05"
 ---
 
 

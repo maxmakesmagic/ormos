@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220818144443/https://magic.wizards.com/en/articles/archive/feature/ravnica-there-room-everyone-2005-09-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-there-room-everyone-2005-09-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818144443id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-there-room-everyone-2005-09-21"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 14:44:43+00:00"
+[_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "Ravnica—it’s a massive metropolitan area endlessly flowing across an entire plane. The city encompasses huge forests intertwined with spiraling towers, rushing waterways flowing around regal constructs, and gargantuan industrial complexes billowing with heat and steam. In every aspect of the city, there is life and death, from the endless residential sprawl filled with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-09-21"
+[_metadata_:title]:- "In Ravnica, There Is Room for Everyone"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 14:44:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818144443id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-there-room-everyone-2005-09-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-there-room-everyone-2005-09-21"
 ---
 
 

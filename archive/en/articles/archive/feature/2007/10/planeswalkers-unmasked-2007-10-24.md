@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160928115124/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-unmasked-2007-10-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-unmasked-2007-10-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160928115124id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-unmasked-2007-10-24"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-28 11:51:24+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "We've had an entire minisite devoted to the five Lorwyn planeswalkers, yet we hardly know anything about them. You may have heard of them by reputation, your friends regaling you with tales of their exploits during hard-fought battles. You may have even summoned one or two of them yourself—watched them in action as they hurled magic at your common enemy, before vanishing off to whatever plane they came from."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-10-24"
+[_metadata_:title]:- "Planeswalkers Unmasked"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-28 11:51:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160928115124id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-unmasked-2007-10-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-unmasked-2007-10-24"
 ---
 
 

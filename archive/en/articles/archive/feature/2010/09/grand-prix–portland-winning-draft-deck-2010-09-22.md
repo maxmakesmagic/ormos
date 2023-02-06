@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022215831/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93portland-winning-draft-deck-2010-09-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93portland-winning-draft-deck-2010-09-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022215831id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93portland-winning-draft-deck-2010-09-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 21:58:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Martin Juza's Blue-Black Draft Deck Format: Magic 2011 Draft - 1st Place - Grand Prix–Portland 8 Island 8 Swamp 1 Terramorphic Expanse 1 Aether Adept 1 Alluring Siren 1 Armored Cancrix 1 Augury Owl 2 Azure Drake 1 Child of Night 1 Cloud Elemental 1 Conundrum Sphinx 1 Howling Banshee 1 Maritime Guard 1 Rotting Legion 1 Scroll Thief 1 Wall of Frost 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-22"
+[_metadata_:title]:- "Grand Prix–Portland Winning Draft Deck"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 21:58:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022215831id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93portland-winning-draft-deck-2010-09-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93portland-winning-draft-deck-2010-09-22"
 ---
 
 

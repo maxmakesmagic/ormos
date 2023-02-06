@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521070228/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521070228id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 07:02:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Oks, Oliver 9 55.5556 100.0000 53.3333 2/2/0/1 2 Chan, Jonathan 9 55.5556 85.7143 51.8519 3/3/0/0 3 Coltman, Dane 9 48.1481 66.6667 53.9683 3/3/0/0 4 Collins, Lenny 9 44.4444 100.0000 42.0635 3/3/0/0 5 Turner, Daniel 9 44.4444 100.0000 41.2698 3/3/0/0 6 Campbell, Stephen 9 40.7407 75.0000 45.7672"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Australian Nationals Round 3 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 07:02:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521070228id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-standings-2000-01-01"
 ---
 
 

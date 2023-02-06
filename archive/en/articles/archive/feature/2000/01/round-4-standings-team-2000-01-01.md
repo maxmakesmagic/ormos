@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220626170423/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-team-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-standings-team-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626170423id_/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-team-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 17:04:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win%110#I Magic 6 47.91% 88#realgangstas 6 62.50%128$30 Cab Fare 3 58.33% 26$42 Ticket 9 75.00% 74100 Super Good Fun Time 6 75.00%1363 for Flinching 3 55.55% 693 Stooges 7 50.00% 873 White Boys from the Stix 6 64.58%1603 X Threat 0 41.66% 215 Ways Worse than Portent 9 87.50% 505280 9 58.33% 67A Few Good Men 7 60.41% 37A Little Too Sick 9 62.50% 80Airtight 6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 4 Standings (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 17:04:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626170423id_/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-team-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-standings-team-2000-01-01"
 ---
 
 

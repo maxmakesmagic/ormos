@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517053452/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-news-2010-09-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-news-2010-09-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517053452id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-news-2010-09-21"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 05:34:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The 2010 Magic Online Championship Series comes to a close when Season X ends with the downtime on October 13. If you haven't yet qualified for the 2010 Magic Online Championship in Chiba, Japan, and a shot at your share of $100,000, you only have three chances left: win the MOCS End-of-Season X Tournament on October 24, win the MOCS Player of the Year Championship on October"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-21"
+[_metadata_:title]:- "Magic Online Championship Series News"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 05:34:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517053452id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-news-2010-09-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-news-2010-09-21"
 ---
 
 

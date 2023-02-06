@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200206185722/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-nova-chaser-2007-12-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-nova-chaser-2007-12-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200206185722id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-nova-chaser-2007-12-14"
-[_metadata_:wayback_capture_timestamp]:- "2020-02-06 18:57:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Dan Scott's Nova Chaser from the Lorwyn set. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-12-14"
+[_metadata_:title]:- "Wallpaper of the Week: Nova Chaser"
+[_metadata_:wayback_capture_timestamp]:- "2020-02-06 18:57:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200206185722id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-nova-chaser-2007-12-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-nova-chaser-2007-12-14"
 ---
 
 

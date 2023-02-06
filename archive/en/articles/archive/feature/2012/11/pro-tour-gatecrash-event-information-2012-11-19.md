@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019030302/https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-event-information-2012-11-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-event-information-2012-11-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019030302id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-event-information-2012-11-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 03:03:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Palais des Congres, Hall 220e Montreal, Quebec February 15-17, 2013 Quick LinksViewer Information Player Information Live Coverage of Pro Tour Gatecrash The Pro Tour returns to Canada for the first time in more than 10 years and features the debut of the new Gatecrash set on the premier-play stage. The top players from around the world will be in Montreal to battle for fame,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-19"
+[_metadata_:title]:- "Pro Tour Gatecrash Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 03:03:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019030302id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-event-information-2012-11-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-gatecrash-event-information-2012-11-19"
 ---
 
 

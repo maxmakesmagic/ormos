@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161120195338/http://magic.wizards.com/en/articles/archive/feature/dancing-dark-ascension-part-2-2012-01-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dancing-dark-ascension-part-2-2012-01-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161120195338id_/http://magic.wizards.com/en/articles/archive/feature/dancing-dark-ascension-part-2-2012-01-16"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-20 19:53:38+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-16"
+[_metadata_:title]:- "Dancing in the Dark Ascension, Part 2"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-20 19:53:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161120195338id_/http://magic.wizards.com/en/articles/archive/feature/dancing-dark-ascension-part-2-2012-01-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dancing-dark-ascension-part-2-2012-01-16"
 ---
 
 

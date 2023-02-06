@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126183426/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126183426id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:34:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Abe, Kazufumi (145) Hon Ming, Au Yeung (175) 1-2 Alvarenga, Rafael (76) Van de Logt, Tom (117) 1-2 Anzorena, Pablo (15) Rank, Derek (28) 0-2 Auer, Jeffrey (104) Bulthaud, Sean (314) 0-2 Azevedo, Pedro (199) Pikula, Chris (313) 1-2 Bachmann, David (229) Shiwaku, Tsuyoshi (169) 2-0 Baehr, Kevin (155) Bock, Daniel (265) 1-2 Benefel, Chris (163) Hofstad,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 5 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:34:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126183426id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-results-2000-01-01"
 ---
 
 

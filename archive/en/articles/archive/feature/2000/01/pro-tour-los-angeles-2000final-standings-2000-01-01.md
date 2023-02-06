@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118135149/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000final-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000final-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118135149id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000final-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:51:49+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rank Name Prize Money Pro Tour Pts 1 Blackwell, Trevor $25,000 32 2 Benafel, Chris $15,000 24 3 Burgner, Kurt $10,000 16 4 Long, Mike $8,000 16 5 Ekebom, Erno $6,500 12 6 Cowley, Bruce $5,500 12 7 Nishioka, Andrew $4,800 12 8 Selden, Brian $4,300 12 9 McNeill, Dan $4,000 8 10 Kastle, Darwin $3,750 8 11 Hager, Lucas $3,520 8 12 Phillips, Eric $3,310 8 13 Herzog, Nicolai $3,110"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Final Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:51:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118135149id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000final-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000final-standings-2000-01-01"
 ---
 
 

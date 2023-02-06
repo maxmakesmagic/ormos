@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701045055/https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-table-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-table-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701045055id_/https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-table-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 04:50:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Points Opponent Points Absolute Samuels 9 vs Two men and a baby ! 9 trash AAA 9 vs Vintara 9 Team Clegg 9 vs Team 25:17 9 one day fly 9 vs www.revised4th5th.com 9 Bologna Demolition Team 9 vs Amsterdam 9 Burning Bern 9 vs gotta catch Kai 9 Angstschreeuw 9 vs I 3 ciccioni 9 Metagames/LNT 9 vs Token king team 7 killers of the Coast 7 vs Stuchkaccolites * 7 Pannaburst 7 vs"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 4 Pairings (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 04:50:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701045055id_/https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-table-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-table-2000-01-01-0"
 ---
 
 

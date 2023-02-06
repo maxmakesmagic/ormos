@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160908091448/http://magic.wizards.com/en/articles/archive/feature/mtgo-changes-coldsnap-release-2006-08-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mtgo-changes-coldsnap-release-2006-08-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160908091448id_/http://magic.wizards.com/en/articles/archive/feature/mtgo-changes-coldsnap-release-2006-08-10"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-08 09:14:48+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "Elf Speaks! MTGO Changes Hi everyone, this is Michael `elf` Feuell. I'm a Senior Software Developer at Wizards of the Coast and I'm here to talk about some of the changes coming to Magic Online with the release of Coldsnap.First, automated posters were creating so much traffic and posting so frequently to the Message Board room that it was causing the client to either lag, hang, or crash. Our solution came in 3 parts:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-10"
+[_metadata_:title]:- "MTGO Changes with Coldsnap Release!"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-08 09:14:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160908091448id_/http://magic.wizards.com/en/articles/archive/feature/mtgo-changes-coldsnap-release-2006-08-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mtgo-changes-coldsnap-release-2006-08-10"
 ---
 
 

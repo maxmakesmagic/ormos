@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522182417/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522182417id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 18:24:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Adam, Felix Miller, Josh Won, 2-1 Allen, Ross Devirgilio, Daniel Lost, 0-2 Altermara, Chase Gonzalez, Phillip Won, 2-0 Ames, David Tidd, David Lost, 0-2 Ames, Steve Percopo, Joe Won, 2-0 Anderson, Eddie Carlisle, Lance Won, 2-0 Anderson, Will Roof, Huston Lost, 1-2 Ash, Kevin Orellana, Manuel Lost, 1-2 Aune, Eirik Leehey, Cameron Won, 2-1 Balla, John"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Super Series Championship Round 2 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 18:24:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522182417id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-results-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024114727/https://magic.wizards.com/en/articles/archive/feature/modern-elves-2011-06-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-elves-2011-06-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024114727id_/https://magic.wizards.com/en/articles/archive/feature/modern-elves-2011-06-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 11:47:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Luis Scott-Vargas's Modern Elves Format: Unified Modern – Magic Online Community Cup 2011 13 Forest 3 Horizon Canopy 1 Pendelhaven 4 Arbor Elf 2 Boreal Druid 4 Elvish Archdruid 4 Elvish Visionary 1 Emrakul, the Aeons Torn 1 Eternal Witness 2 Fauna Shaman 4 Heritage Druid 4 Llanowar Elves 4 Nettle Sentinel 2 Regal Force 1 Viridian Shaman 4 Glimpse of Nature 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-06-27"
+[_metadata_:title]:- "Modern Elves"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 11:47:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024114727id_/https://magic.wizards.com/en/articles/archive/feature/modern-elves-2011-06-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-elves-2011-06-27"
 ---
 
 

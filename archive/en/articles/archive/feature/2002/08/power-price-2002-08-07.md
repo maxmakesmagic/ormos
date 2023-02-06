@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210415182038/https://magic.wizards.com/en/articles/archive/feature/power-price-2002-08-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/power-price-2002-08-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210415182038id_/https://magic.wizards.com/en/articles/archive/feature/power-price-2002-08-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-15 18:20:38+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "It’s my pleasure again to welcome you to the middle of a theme week. This time around, we’re taking a look at Magic’s first expansion set, Arabian Nights. Unlike the original set, this group of cards took an existing theme (1,001 Arabian Nights) and built the flavor of the cards around the theme.Djinni and creatures with drawbacks debuted in Alpha, but Arabian Nights brought"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-08-07"
+[_metadata_:title]:- "Power at a Price"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-15 18:20:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210415182038id_/https://magic.wizards.com/en/articles/archive/feature/power-price-2002-08-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/power-price-2002-08-07"
 ---
 
 

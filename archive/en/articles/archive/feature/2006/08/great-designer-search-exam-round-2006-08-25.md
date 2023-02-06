@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170726082500/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-exam-round-2006-08-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-exam-round-2006-08-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170726082500id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-exam-round-2006-08-25"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-26 08:25:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "To apply, you need to write a 250-350 word essay for each of the ten questions below. If any question is under or over the required length, the entire test may be discarded."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-25"
+[_metadata_:title]:- "The Great Designer Search - Exam Round"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-26 08:25:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170726082500id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-exam-round-2006-08-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-exam-round-2006-08-25"
 ---
 
 

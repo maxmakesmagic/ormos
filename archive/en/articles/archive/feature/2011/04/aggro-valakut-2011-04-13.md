@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026130725/https://magic.wizards.com/en/articles/archive/feature/aggro-valakut-2011-04-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-valakut-2011-04-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026130725id_/https://magic.wizards.com/en/articles/archive/feature/aggro-valakut-2011-04-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:07:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Justin Corbett's Aggro Valakut Format: Standard Grand Prix Dallas-Fort Worth 5 Forest 4 Misty Rainforest 10 Mountain 4 Raging Ravine 4 Valakut, the Molten Pinnacle 4 Hero of Oxid Ridge 2 Inferno Titan 4 Lotus Cobra 4 Primeval Titan 4 Viridian Emissary 3 Arc Trail 2 Bestial Menace 4 Harrow 4 Lightning Bolt 2 Tumble Magnet *3 Acidic Slime *3 Mark of Mutiny *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-13"
+[_metadata_:title]:- "Aggro Valakut"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:07:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026130725id_/https://magic.wizards.com/en/articles/archive/feature/aggro-valakut-2011-04-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-valakut-2011-04-13"
 ---
 
 

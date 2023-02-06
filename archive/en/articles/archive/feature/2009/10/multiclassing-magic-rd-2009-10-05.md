@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200805195111/https://magic.wizards.com/en/articles/archive/feature/multiclassing-magic-rd-2009-10-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/multiclassing-magic-rd-2009-10-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805195111id_/https://magic.wizards.com/en/articles/archive/feature/multiclassing-magic-rd-2009-10-05"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:51:11+00:00"
+[_metadata_:author]:- "Matt Place"
 [_metadata_:description]:- "I'm writing this article from an interesting perspective. I filled a unique role in the creation of Zendikar: I was the designer/developer for the set. This is a lot like being a fighter/wizard, with the exception that I don't have to rest to memorize my spells. Being the designer/developer meant I was a fully functioning member of both the design team and the development team. Later on I will go into more details on what this role entails, but first, how did I get the job?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-05"
+[_metadata_:title]:- "Multiclassing in Magic R&D"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:51:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805195111id_/https://magic.wizards.com/en/articles/archive/feature/multiclassing-magic-rd-2009-10-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/multiclassing-magic-rd-2009-10-05"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220704145214/https://magic.wizards.com/en/articles/archive/feature/examining-engineered-explosives-2013-06-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/examining-engineered-explosives-2013-06-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704145214id_/https://magic.wizards.com/en/articles/archive/feature/examining-engineered-explosives-2013-06-21"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-04 14:52:14+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "There were a number of new art pieces on cards in Modern Masters, among them was a rare from Fifth Dawn called Engineered Explosives. Even though the new card is in Modern Masters, the art remained set on the plane of Mirrodin. If you look carefully in the art you can see the hexagonal metalic plates which make up the ground on Mirrodin. Additionally, while it is obvious you"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-21"
+[_metadata_:title]:- "Examining Engineered Explosives"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-04 14:52:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704145214id_/https://magic.wizards.com/en/articles/archive/feature/examining-engineered-explosives-2013-06-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/examining-engineered-explosives-2013-06-21"
 ---
 
 

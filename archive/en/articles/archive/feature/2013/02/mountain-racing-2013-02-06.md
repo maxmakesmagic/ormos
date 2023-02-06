@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210506215345/https://magic.wizards.com/en/articles/archive/feature/mountain-racing-2013-02-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mountain-racing-2013-02-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210506215345id_/https://magic.wizards.com/en/articles/archive/feature/mountain-racing-2013-02-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-06 21:53:45+00:00"
+[_metadata_:author]:- "Sam Stoddard"
 [_metadata_:description]:- "Another deck came out of the first week of Gatecrash Standard, this time from Japan's own Tomoharu Saito. Mono-Red decks have been popular over the last few weeks for their blazing fast speed and ability to race the decks with Thragtusk. Tomoharu has added Flinthoof Boar (who gets a huge bonus from the newly released Stomping Ground), and Burning-Tree Emissary for amazingly"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-02-06"
+[_metadata_:title]:- "Mountain Racing"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-06 21:53:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210506215345id_/https://magic.wizards.com/en/articles/archive/feature/mountain-racing-2013-02-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mountain-racing-2013-02-06"
 ---
 
 

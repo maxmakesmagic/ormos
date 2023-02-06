@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516065109/https://magic.wizards.com/en/articles/archive/feature/2011-singapore-national-championship-2009-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-singapore-national-championship-2009-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516065109id_/https://magic.wizards.com/en/articles/archive/feature/2011-singapore-national-championship-2009-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:51:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvitation Source Teng ChekLim2010 National Team Kok SengOng2010 National Team StevenTan2010 National Team RondyKrish2010 Alternate Teng ChekLim2010 National Champion StevenTanTop 75 Country rating IanChungTop 75 Country rating GaryTanTop 75 Country rating DingLeongTop 75 Country rating Yong HanChooTop 75 Country rating AlvinTanTop 75 Country rating EdwardTayTop 75"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 Singapore National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:51:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516065109id_/https://magic.wizards.com/en/articles/archive/feature/2011-singapore-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-singapore-national-championship-2009-04-27"
 ---
 
 

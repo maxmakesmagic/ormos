@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123203040/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-2-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-2-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123203040id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-2-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 20:30:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Opponent Points Adkins, Johnny (1) 3 Crenshaw, Bedford (50) 3 Adkins, Joshua (2) 3 Scogin, Jeff (276) 3 Albright, Nathan (3) 0 House, JD (117) 0 Anderson, Dan (4) 0 Gill, Jeremy (85) 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Memphis 1999Day 1 Round 2 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 20:30:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123203040id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-2-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-2-pairings-2000-01-01"
 ---
 
 

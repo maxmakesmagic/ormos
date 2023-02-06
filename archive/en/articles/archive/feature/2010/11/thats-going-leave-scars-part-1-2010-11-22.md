@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502053658/https://magic.wizards.com/en/articles/archive/feature/thats-going-leave-scars-part-1-2010-11-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/thats-going-leave-scars-part-1-2010-11-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053658id_/https://magic.wizards.com/en/articles/archive/feature/thats-going-leave-scars-part-1-2010-11-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:36:58+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Traditionally the first non-theme week after previews, I write my `cards` article where I go through the latest set and tell a whole bunch of little stories about individual cards. Due to the Great Designer Search 2, I haven't had the chance to write this article yet for Scars of Mirrodin. Today I will right that wrong (or is that write that wrong?). I am often asked if we"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-11-22"
+[_metadata_:title]:- "That's Going To Leave Scars, Part 1"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:36:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053658id_/https://magic.wizards.com/en/articles/archive/feature/thats-going-leave-scars-part-1-2010-11-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/thats-going-leave-scars-part-1-2010-11-22"
 ---
 
 

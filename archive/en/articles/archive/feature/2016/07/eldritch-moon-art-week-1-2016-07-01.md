@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160701182628/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-art-week-1-2016-07-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-art-week-1-2016-07-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160701182628id_/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-art-week-1-2016-07-01"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-01 18:26:28+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Blake takes a closer look at the art from some of this week's Eldritch Moon preview cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-07-01"
+[_metadata_:title]:- "Eldritch Moon Art—Week 1"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-01 18:26:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160701182628id_/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-art-week-1-2016-07-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-art-week-1-2016-07-01"
 ---
 
 

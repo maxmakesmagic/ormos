@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523080921/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-2-feature-match-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-2-feature-match-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523080921id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-2-feature-match-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:09:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Nicolas Labarre vs. Masayuki Higashino Nicolas Labarre Masayuki Higashino Game 1 Japanese national champion Higashino started with two mulligans, then played slowly, trying only a sapphire medallion on turn four, which Labarre Mana Leaked. Labarre was playing a blue/green/white Oath of Druids deck, playing a Sylvan Library and Trade Routes early. Though he never used the Trade"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Round 2 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:09:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523080921id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-2-feature-match-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-2-feature-match-2000-01-01-0"
 ---
 
 

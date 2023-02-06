@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220703054938/https://magic.wizards.com/en/articles/archive/feature/planeswalkerpoints-guild-winner-2013-05-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkerpoints-guild-winner-2013-05-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703054938id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkerpoints-guild-winner-2013-05-31"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 05:49:38+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Since we returned to Ravnica we have been running the Guild vs. Guild leaderboard on PlaneswalkerPoints.com. More than 100,000 players chose their guild and competed to push their guild to the top of the leaderboards. Today, that race ends and we have a winner. Despite the Izzet League taking an early lead with their wild machinations and crazy magical inventions, it was the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-31"
+[_metadata_:title]:- "PlaneswalkerPoints Guild Winner"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 05:49:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703054938id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkerpoints-guild-winner-2013-05-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkerpoints-guild-winner-2013-05-31"
 ---
 
 

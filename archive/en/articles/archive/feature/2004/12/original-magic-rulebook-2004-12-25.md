@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150220051055/http://magic.wizards.com/en/articles/archive/feature/original-magic-rulebook-2004-12-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/original-magic-rulebook-2004-12-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150220051055id_/http://magic.wizards.com/en/articles/archive/feature/original-magic-rulebook-2004-12-25"
-[_metadata_:wayback_capture_timestamp]:- "2015-02-20 05:10:55+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Your rules questions answered."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-12-25"
+[_metadata_:title]:- "The Original Magic Rulebook"
+[_metadata_:wayback_capture_timestamp]:- "2015-02-20 05:10:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150220051055id_/http://magic.wizards.com/en/articles/archive/feature/original-magic-rulebook-2004-12-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/original-magic-rulebook-2004-12-25"
 ---
 
 

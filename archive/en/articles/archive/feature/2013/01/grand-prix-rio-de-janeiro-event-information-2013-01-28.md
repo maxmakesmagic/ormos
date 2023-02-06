@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516120123/https://magic.wizards.com/en/articles/archive/feature/grand-prix-rio-de-janeiro-event-information-2013-01-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-rio-de-janeiro-event-information-2013-01-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516120123id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-rio-de-janeiro-event-information-2013-01-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 12:01:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Rio de Janeiro is brought to you by Let's Collect Brasil.  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gprio Date: March 8-10, 2013 Format: Standard Tournament Location Centro Cultural da Ação da Cidadania Avenida Barão de Tefé, 75 Saúde Rio de Janeiro – RJ Click here"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-28"
+[_metadata_:title]:- "Grand Prix Rio de Janeiro Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 12:01:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516120123id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-rio-de-janeiro-event-information-2013-01-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-rio-de-janeiro-event-information-2013-01-28"
 ---
 
 

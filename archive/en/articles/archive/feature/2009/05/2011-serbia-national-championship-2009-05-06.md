@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220529091730/https://magic.wizards.com/en/articles/archive/feature/2011-serbia-national-championship-2009-05-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-serbia-national-championship-2009-05-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529091730id_/https://magic.wizards.com/en/articles/archive/feature/2011-serbia-national-championship-2009-05-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 09:17:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 21 August 2011Location: C22, Narodnih heroja 7City: BelgradeCountry: SerbiaThe Magic: the Gathering Serbia Championship is open to all citizens or permanent residents of Serbia.Contact informationEmail: dragongamesdoo@gmail.com Telephone: 063624038Website: www.dragon.rsFormatStandard and Booster Draft 3 Magic 2012 booster packs will be used for drafting Deck lists are"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-06"
+[_metadata_:title]:- "2011 Serbia National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 09:17:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529091730id_/https://magic.wizards.com/en/articles/archive/feature/2011-serbia-national-championship-2009-05-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-serbia-national-championship-2009-05-06"
 ---
 
 

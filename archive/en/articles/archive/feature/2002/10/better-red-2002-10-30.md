@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220820043545/https://magic.wizards.com/en/articles/archive/feature/better-red-2002-10-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/better-red-2002-10-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820043545id_/https://magic.wizards.com/en/articles/archive/feature/better-red-2002-10-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-20 04:35:45+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "A few weeks ago, I held a contest in which I invited the readers to send in ideas for a create-your-own-column. After many weeks of deliberation (and a whole lot of great ideas!), I narrowed it down to a single winner. I wish I could have picked multiple winners for the contest, but in the end it was a column idea near and dear to my offbeat heart which won out.J. Stratton"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-10-30"
+[_metadata_:title]:- "Better Off Red?"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-20 04:35:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820043545id_/https://magic.wizards.com/en/articles/archive/feature/better-red-2002-10-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/better-red-2002-10-30"
 ---
 
 

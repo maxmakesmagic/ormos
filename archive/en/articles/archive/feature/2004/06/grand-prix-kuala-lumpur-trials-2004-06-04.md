@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024134905/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-trials-2004-06-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-trials-2004-06-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024134905id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-trials-2004-06-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 13:49:05+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "CountryDateCityVenueContactChina12-Jun-04Beijing Beijing Longtan Hotellegendtony@elong.comChina12-Jun-04GuangzhouGuangzhou Chuangmenjie Shopgeorgeli@163.netChina12-Jun-04ShanghaiShanghai Tiyu Mansionsagitta@21cn.comChina19-Jun-04ChongqingChongqing Saibo Diannao Guangchonganrainlee@msn.comChina19-Jun-04FuzhouFuzhou science and technology"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-06-04"
+[_metadata_:title]:- "Grand Prix - Kuala Lumpur Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 13:49:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024134905id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-trials-2004-06-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-trials-2004-06-04"
 ---
 
 

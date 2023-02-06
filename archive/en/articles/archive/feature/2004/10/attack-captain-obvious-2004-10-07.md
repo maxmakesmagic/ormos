@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160502184951/http://magic.wizards.com/en/articles/archive/feature/attack-captain-obvious-2004-10-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/attack-captain-obvious-2004-10-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160502184951id_/http://magic.wizards.com/en/articles/archive/feature/attack-captain-obvious-2004-10-07"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-02 18:49:51+00:00"
+[_metadata_:author]:- "Mark Gottlieb"
 [_metadata_:description]:- "My secret's out, I suppose. I'm a supervillain.I thought I was careful. I cultivated an alter ego. I never attempted heinously convoluted world-domination schemes without my costume. I avoided overtly taunting superheroes like some of my more reckless brethren. But it all started to fall apart."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-10-07"
+[_metadata_:title]:- "The Attack of Captain Obvious"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-02 18:49:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160502184951id_/http://magic.wizards.com/en/articles/archive/feature/attack-captain-obvious-2004-10-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/attack-captain-obvious-2004-10-07"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023061338/https://magic.wizards.com/en/articles/archive/feature/magic-online-rise-eldrazi-release-events-2010-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-rise-eldrazi-release-events-2010-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023061338id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-rise-eldrazi-release-events-2010-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 06:13:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The colossal Eldrazi, soulless ravagers of the Æther, have awakened from their slumber deep within Zendikar’s core. Rely on your knowledge, your skills, and your weaponry, for only those who can command the Eldrazi—or escape them—stand a chance. Rise of the Eldrazi goes on sale in the Magic Online Store on Monday, May 10 at 9:00 AM PDT (16:00 UTC). Rise of the Eldrazi becomes"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-27"
+[_metadata_:title]:- "Magic Online Rise of the Eldrazi Release Events"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 06:13:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023061338id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-rise-eldrazi-release-events-2010-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-rise-eldrazi-release-events-2010-04-27"
 ---
 
 

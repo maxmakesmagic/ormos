@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170816024408/http://magic.wizards.com/en/articles/archive/feature/casey-mccarrel-part-2-2000-01-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/casey-mccarrel-part-2-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816024408id_/http://magic.wizards.com/en/articles/archive/feature/casey-mccarrel-part-2-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-16 02:44:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In the second act of what may become an epic story in the annals of Magic history, Casey McCarrel, continuing his comeback from suspension, qualified for US nationals in the evening's waning hours."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Casey McCarrel, Part 2"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-16 02:44:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816024408id_/http://magic.wizards.com/en/articles/archive/feature/casey-mccarrel-part-2-2000-01-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/casey-mccarrel-part-2-2000-01-01"
 ---
 
 

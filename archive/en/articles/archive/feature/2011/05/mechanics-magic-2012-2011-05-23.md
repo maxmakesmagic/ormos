@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129140624/https://magic.wizards.com/en/articles/archive/feature/mechanics-magic-2012-2011-05-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mechanics-magic-2012-2011-05-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129140624id_/https://magic.wizards.com/en/articles/archive/feature/mechanics-magic-2012-2011-05-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 14:06:24+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "une is going to be a busy month for Magic! On June 6, previews for the much-anticipated Magic: The Gathering Commander kick into gear. On June 15, Duels of the Planeswalkers 2012 hits virtual shelves (at least on some systems—exact availability dates may vary). That weekend, Magic: The Gathering Commander hits actual shelves, with Launch Parties to celebrate. And on June 27,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-01"
+[_metadata_:title]:- "The Mechanics of Magic 2012"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 14:06:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129140624id_/https://magic.wizards.com/en/articles/archive/feature/mechanics-magic-2012-2011-05-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mechanics-magic-2012-2011-05-23"
 ---
 
 

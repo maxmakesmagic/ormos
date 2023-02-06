@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021062738/https://magic.wizards.com/en/articles/archive/feature/gp-dallas-ft-worth-winner-2011-04-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp-dallas-ft-worth-winner-2011-04-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021062738id_/https://magic.wizards.com/en/articles/archive/feature/gp-dallas-ft-worth-winner-2011-04-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 06:27:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: David Shiels's Caw-Blade Format: Standard – Winner, Grand Prix Dallas-Ft."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-12"
+[_metadata_:title]:- "GP Dallas-Ft. Worth Winner"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 06:27:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021062738id_/https://magic.wizards.com/en/articles/archive/feature/gp-dallas-ft-worth-winner-2011-04-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp-dallas-ft-worth-winner-2011-04-12"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220705153841/https://magic.wizards.com/en/articles/archive/feature/card-day-august-2008-2008-08-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-august-2008-2008-08-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705153841id_/https://magic.wizards.com/en/articles/archive/feature/card-day-august-2008-2008-08-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 15:38:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Masters Edition 2 uncommon. Demonic Consultation was such a powerful tutor that it's rarely even been reprinted in a `fixed` form. One example of that, though, was Unhinged's Aesthetic Consultation, which added a the artist-matters theme to mix things up a bit.Masters Edition 2 is coming to Magic Online!Masters Edition 2 uncommon. The person in Personal Tutor (who looks"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-01"
+[_metadata_:title]:- "Card of the Day - August, 2008"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 15:38:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705153841id_/https://magic.wizards.com/en/articles/archive/feature/card-day-august-2008-2008-08-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-august-2008-2008-08-01"
 ---
 
 

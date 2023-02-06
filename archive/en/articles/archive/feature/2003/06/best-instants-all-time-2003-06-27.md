@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210418105353/https://magic.wizards.com/en/articles/archive/feature/best-instants-all-time-2003-06-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-instants-all-time-2003-06-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418105353id_/https://magic.wizards.com/en/articles/archive/feature/best-instants-all-time-2003-06-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 10:53:53+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "Hello from the land of StarCityGames.com! It's been a while, but Aaron managed to wrest me away from the grasp of one Pete “Darth Junior” Hoefling in order for me to present to you, in an absolutely random fashion, the Top 50 Soldiers of all time.Oh wait, I missed that week.Ok, then here's the Top 50 Keyworded Cards of all time!Hmmm. Aaron's informed me that I've missed the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-06-27"
+[_metadata_:title]:- "Best Instants of All Time"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-18 10:53:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418105353id_/https://magic.wizards.com/en/articles/archive/feature/best-instants-all-time-2003-06-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-instants-all-time-2003-06-27"
 ---
 
 

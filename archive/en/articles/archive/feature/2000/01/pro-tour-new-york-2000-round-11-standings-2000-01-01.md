@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120175922/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120175922id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:59:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Eskeland Sigurd 29 66.9356 2 Larkin John 28 65.7222 3 Rubin Ben 27 61.2121 4 Globus Mark 27 60.1338 5 Hunka John 27 57.9103 6 Kettil Mattias 27 57.2609 7 Lo Moro Raffaele 26 53.9945 8 Cornelissen Kamiel 25 66.9185 9 Hirabayashi Kazuya 25 59.5828 10 Turning Travis G 25 56.8871 11 Bui Lucien 25 54.9193 12 Bregoli Mike 25 54.4431 13 Wise Gary 24"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 11 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:59:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120175922id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-standings-2000-01-01"
 ---
 
 

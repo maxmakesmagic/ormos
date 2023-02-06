@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220706014221/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-molten-frame-2009-02-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-molten-frame-2009-02-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706014221id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-molten-frame-2009-02-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 01:42:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Izzy's Molten Frame from the Conflux set. Enjoy. Regular (1280x960 pixels) Widescreen (2560x1600 pixels) iPhone (320x480 pixels)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-06"
+[_metadata_:title]:- "Wallpaper of the Week: Molten Frame"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 01:42:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706014221id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-molten-frame-2009-02-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-molten-frame-2009-02-06"
 ---
 
 

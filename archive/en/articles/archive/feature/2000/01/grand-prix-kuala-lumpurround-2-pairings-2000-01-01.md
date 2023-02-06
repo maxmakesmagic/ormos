@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523042101/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-2-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-2-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523042101id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-2-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 04:21:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Abdul Jalal, Abdul Halim Bin (114) 0 130 Foo, Sze Zhaun (177) 0 Abdul Wahab, Mohammad Nazim (143) 0 129 Mohamed, Iskandar Zulqarnain (170) 0 Ahmad Kamal, Ahmad Omar ( 55) 3 44 Jansen, Jansen ( 38) 3 Ahmad, Wan Hafiz Wan (142) 0 128 Fong, Zhi Ven (224) 0 Amzar, Hazwan (263) 0 118 Loh, Ivan (238) 0 Ang, Jun Yang (120) 3 *** Awarded Bye *** Ang, Kok"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Kuala LumpurRound 2 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 04:21:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523042101id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-2-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-2-pairings-2000-01-01"
 ---
 
 

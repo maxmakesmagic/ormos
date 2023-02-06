@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208044309/https://magic.wizards.com/en/articles/archive/feature/deconstructing-fires-2002-07-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deconstructing-fires-2002-07-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208044309id_/https://magic.wizards.com/en/articles/archive/feature/deconstructing-fires-2002-07-30"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 04:43:09+00:00"
+[_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "Fatties with haste, what could be better?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-02-01"
+[_metadata_:title]:- "Deconstructing Fires"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 04:43:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208044309id_/https://magic.wizards.com/en/articles/archive/feature/deconstructing-fires-2002-07-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deconstructing-fires-2002-07-30"
 ---
 
 

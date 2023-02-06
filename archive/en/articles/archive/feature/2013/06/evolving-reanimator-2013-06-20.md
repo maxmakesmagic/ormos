@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160715053459/http://magic.wizards.com/en/articles/archive/feature/evolving-reanimator-2013-06-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/evolving-reanimator-2013-06-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160715053459id_/http://magic.wizards.com/en/articles/archive/feature/evolving-reanimator-2013-06-20"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-15 05:34:59+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Diverse formats like Modern and the current Standard format tend to lead to a very slow development of new decks, with constant shifts in existing decks. This is because most of the best strategies are found early, and without a clear target, it's hard to build a level-two deck (that is to say, a weaker deck that's designed to prey on a known metagame). Instead, we just see gradual evolution among a changing shift in power and prevalence of the dominant decks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-20"
+[_metadata_:title]:- "Evolving Reanimator"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-15 05:34:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160715053459id_/http://magic.wizards.com/en/articles/archive/feature/evolving-reanimator-2013-06-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/evolving-reanimator-2013-06-20"
 ---
 
 

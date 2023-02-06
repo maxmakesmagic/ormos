@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211130224721/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2011-01-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2011-01-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130224721id_/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2011-01-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 22:47:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "January 17, 2011: 5 New Cards AddedNew CardSourceColorMitotic ManipulationDengeki OnlineBlueKuldotha FlamefiendCantripRedRot WolfCantripGreenShimmer MyrCantripArtifactSilverskin ArmorTwitter - Wizards_MagicArtifactJanuary 18, 2011: 14 New Cards AddedNew CardSourceColorMirran SpyFacebook - MirranBlueSteel SabotageFacebook - PhyrexianBlueFlensermiteCustomer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-01-05"
+[_metadata_:title]:- "Visual Spoiler"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 22:47:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130224721id_/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2011-01-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2011-01-05"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429113422/https://magic.wizards.com/en/articles/archive/feature/dueling-dominaria-2006-09-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dueling-dominaria-2006-09-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429113422id_/https://magic.wizards.com/en/articles/archive/feature/dueling-dominaria-2006-09-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 11:34:22+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "When you’re off slinging cards with your pals, it is pretty easy to play “in-world.” I explained this term a few weeks back in Parlez Vous Part Deux. It describes the mindset of the player who has become the dueling mage, instead of a card-flipping Earthling. Anyway, it has always been easy to get in-world—you’re a mage, and these are your spells, you draw mana from the land"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-09-28"
+[_metadata_:title]:- "Dueling in Dominaria"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 11:34:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429113422id_/https://magic.wizards.com/en/articles/archive/feature/dueling-dominaria-2006-09-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dueling-dominaria-2006-09-28"
 ---
 
 

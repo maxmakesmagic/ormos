@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211206093441/https://magic.wizards.com/en/articles/archive/feature/vault-realms-2012-08-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-realms-2012-08-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206093441id_/https://magic.wizards.com/en/articles/archive/feature/vault-realms-2012-08-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 09:34:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "From the Farthest Reaches of the Multiverse Most planes of existence have their own wondrous places. But only Planeswalkers can travel to lands beyond their own and call on their mana from across the Æther. You have seen dozens of realms, and those of your kind have told you of dozens more. Your bonds to these lands are the root of your power."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-14"
+[_metadata_:title]:- "From the Vault: Realms"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 09:34:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206093441id_/https://magic.wizards.com/en/articles/archive/feature/vault-realms-2012-08-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-realms-2012-08-14"
 ---
 
 

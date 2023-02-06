@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022075227/https://magic.wizards.com/en/articles/archive/feature/block-championships-lists-2010-08-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/block-championships-lists-2010-08-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022075227id_/https://magic.wizards.com/en/articles/archive/feature/block-championships-lists-2010-08-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 07:52:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Matt Severa Format: 1 Dread Statuary 4 Khalni Garden 3 Misty Rainforest 3 Verdant Catacombs 13 Forest 4 Arbor Elf 4 Joraga Treespeaker 4 Kozilek's Predator 4 Lotus Cobra 4 Nest Invader 4 Vengevine 4 Wolfbriar Elemental 2 River Boa 4 Beastmaster Ascension 2 Eldrazi Monument *4 Leatherback Baloth *1 River Boa *3 Tajuru Preserver *2 Eldrazi Monument *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-16"
+[_metadata_:title]:- "Block Championships Lists"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 07:52:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022075227id_/https://magic.wizards.com/en/articles/archive/feature/block-championships-lists-2010-08-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/block-championships-lists-2010-08-16"
 ---
 
 

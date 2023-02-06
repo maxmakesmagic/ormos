@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701053355/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-team-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-standings-team-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701053355id_/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-team-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 05:33:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 703,141596 * 6 49.33% 11Absolute Samuels 12 73.33% 31Accellerated Vares8 Volante 9 70.00% 64Agifalw 6 54.16% 14AlphaBetaUnlimited.com 12 66.66% 69Altrove * 6 50.66% 13Amsterdam 12 66.66% 4Angstschreeuw 15 61.66% 75Asani * 6 43.33% 16Babar Team * 12 54.66% 23Birds of paradise 10 54.66% 8Black-Ops 12 75.55% 12Bologna Demolition Team 12 66.66% 81Budellos * 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 5 Standings (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 05:33:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701053355id_/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-team-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-standings-team-2000-01-01-0"
 ---
 
 

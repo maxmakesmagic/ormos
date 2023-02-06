@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180803014946/https://magic.wizards.com/en/articles/archive/feature/plane-shift-dominaria-2018-07-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/plane-shift-dominaria-2018-07-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180803014946id_/https://magic.wizards.com/en/articles/archive/feature/plane-shift-dominaria-2018-07-31"
-[_metadata_:wayback_capture_timestamp]:- "2018-08-03 01:49:46+00:00"
+[_metadata_:author]:- "James Wyatt"
 [_metadata_:description]:- "Bring Dominaria to life in your D&D campaign with this guide to the peoples and places of Magic's most storied plane."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-07-31"
+[_metadata_:title]:- "Plane Shift: Dominaria"
+[_metadata_:wayback_capture_timestamp]:- "2018-08-03 01:49:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180803014946id_/https://magic.wizards.com/en/articles/archive/feature/plane-shift-dominaria-2018-07-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/plane-shift-dominaria-2018-07-31"
 ---
 
 

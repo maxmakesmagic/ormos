@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816170723/https://magic.wizards.com/en/articles/archive/feature/return-old-favorite-2014-02-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/return-old-favorite-2014-02-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816170723id_/https://magic.wizards.com/en/articles/archive/feature/return-old-favorite-2014-02-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 17:07:23+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Who doesn't love a good WU Control deck? It's not for everyone, especially when it's dominating a format. However, when WU Control is relatively tame compared to the other decks in a format, suddenly WU Control is the good guy. In Modern, that seems to be the case. In a format with Dark Confidant, Tarmogoyf, Primeval Titan, and Kiki-Jiki, you're a hero if you're playing Wall"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-02-27"
+[_metadata_:title]:- "Return of an Old Favorite"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 17:07:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816170723id_/https://magic.wizards.com/en/articles/archive/feature/return-old-favorite-2014-02-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/return-old-favorite-2014-02-27"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220702022115/https://magic.wizards.com/en/articles/archive/feature/ptq-champion-zoo-2009-01-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ptq-champion-zoo-2009-01-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702022115id_/https://magic.wizards.com/en/articles/archive/feature/ptq-champion-zoo-2009-01-19"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 02:21:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Bradley Carpenter's Zoo Format: PTQ Honolulu 1 Blood Crypt 4 Bloodstained Mire 1 Breeding Pool 1 Forest 1 Godless Shrine 1 Overgrown Tomb 2 Plains 1 Sacred Foundry 1 Steam Vents 1 Stomping Ground 1 Temple Garden 4 Windswept Heath 4 Wooded Foothills 4 Dark Confidant 4 Lightning Angel 3 Shadow Guildmage 4 Tarmogoyf 4 Tidehollow Sculler 4 Wild Nacatl 4 Lightning"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-19"
+[_metadata_:title]:- "PTQ Champion Zoo"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 02:21:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702022115id_/https://magic.wizards.com/en/articles/archive/feature/ptq-champion-zoo-2009-01-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ptq-champion-zoo-2009-01-19"
 ---
 
 

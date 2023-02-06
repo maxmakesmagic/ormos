@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180809094909/https://magic.wizards.com/en/articles/archive/feature/singleton-and-extended-2007-06-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/singleton-and-extended-2007-06-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180809094909id_/https://magic.wizards.com/en/articles/archive/feature/singleton-and-extended-2007-06-13"
-[_metadata_:wayback_capture_timestamp]:- "2018-08-09 09:49:09+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "The online Future Sight release events are over, and Constructed Premier Events have resumed, so you can expect me to cover the first Standard results next week. I personally did not play in any release event, because I'm practicing for the Two-Headed Giant Pro Tour these days, and participating in an individual Limited tournament would cause my card valuations to go nuts."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-06-13"
+[_metadata_:title]:- "Singleton and Extended"
+[_metadata_:wayback_capture_timestamp]:- "2018-08-09 09:49:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180809094909id_/https://magic.wizards.com/en/articles/archive/feature/singleton-and-extended-2007-06-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/singleton-and-extended-2007-06-13"
 ---
 
 

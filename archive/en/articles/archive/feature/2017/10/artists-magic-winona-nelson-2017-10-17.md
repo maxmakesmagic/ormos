@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171111115940/https://magic.wizards.com/en/articles/archive/feature/artists-magic-winona-nelson-2017-10-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/artists-magic-winona-nelson-2017-10-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171111115940id_/https://magic.wizards.com/en/articles/archive/feature/artists-magic-winona-nelson-2017-10-17"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-11 11:59:40+00:00"
+[_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Nicholas caught up with Winona Nelson to ask her how she creates such beautiful pieces of Magic art."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-10-17"
+[_metadata_:title]:- "The Artists of Magic: Winona Nelson"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-11 11:59:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171111115940id_/https://magic.wizards.com/en/articles/archive/feature/artists-magic-winona-nelson-2017-10-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/artists-magic-winona-nelson-2017-10-17"
 ---
 
 

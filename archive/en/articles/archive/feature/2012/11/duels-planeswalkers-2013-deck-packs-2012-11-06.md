@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160414005539/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-deck-packs-2012-11-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-deck-packs-2012-11-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414005539id_/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-deck-packs-2012-11-06"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-14 00:55:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Deck Pack 1: Act of War & Sky and Scale  Deck Pack 2: Grim Procession & Berserker Rage  Deck Pack 3: Rogue's Gallery & Mana Mystery"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-06"
+[_metadata_:title]:- "Duels of the Planeswalkers 2013 Deck Packs"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-14 00:55:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414005539id_/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-deck-packs-2012-11-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-deck-packs-2012-11-06"
 ---
 
 

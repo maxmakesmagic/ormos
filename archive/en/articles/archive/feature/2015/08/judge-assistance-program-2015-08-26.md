@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150827092451/http://magic.wizards.com/en/articles/archive/feature/judge-assistance-program-2015-08-26)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/judge-assistance-program-2015-08-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150827092451id_/http://magic.wizards.com/en/articles/archive/feature/judge-assistance-program-2015-08-26"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-27 09:24:51+00:00"
+[_metadata_:author]:- "David Lyford-Smith"
 [_metadata_:description]:- "We need your help to improve the Organized Play experience!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-08-26"
+[_metadata_:title]:- "Player Experience Sphere"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-27 09:24:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150827092451id_/http://magic.wizards.com/en/articles/archive/feature/judge-assistance-program-2015-08-26"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/judge-assistance-program-2015-08-26"
 ---
 
 

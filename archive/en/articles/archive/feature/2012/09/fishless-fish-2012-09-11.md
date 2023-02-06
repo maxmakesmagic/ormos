@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211128213741/https://magic.wizards.com/en/articles/archive/feature/fishless-fish-2012-09-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fishless-fish-2012-09-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128213741id_/https://magic.wizards.com/en/articles/archive/feature/fishless-fish-2012-09-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 21:37:41+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "If you were to ask casual Legacy players what defines the format, I am sure you would get a diverse set of answers, but most of them would involve the epic feel of the format. They would chant about the turn-one-win decks and tell stories of the deck that never had to play a land but won anyway. They would tell of the forty-three-land deck and the deck that puts a 15/15 into"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-11"
+[_metadata_:title]:- "Fishless Fish"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 21:37:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128213741id_/https://magic.wizards.com/en/articles/archive/feature/fishless-fish-2012-09-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fishless-fish-2012-09-11"
 ---
 
 

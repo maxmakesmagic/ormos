@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525055644/https://magic.wizards.com/en/articles/archive/feature/podcasting-pro-tour%E2%80%93amsterdam-2010-09-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/podcasting-pro-tour%E2%80%93amsterdam-2010-09-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525055644id_/https://magic.wizards.com/en/articles/archive/feature/podcasting-pro-tour%E2%80%93amsterdam-2010-09-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 05:56:44+00:00"
+[_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Let Pro Tour Statisician Richard Hagon be your guide through Pro Tour–Amsterdam, the third Pro Tour of the 2010 season. If you're not a regular reader of event coverage, this is a great starting place to learn the top players and storylines that have shaped this season. With exclusive player interviews, analysis of deckbuilding strategies, explanations of formats and the PT"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-03"
+[_metadata_:title]:- "Podcasting from Pro Tour–Amsterdam"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 05:56:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525055644id_/https://magic.wizards.com/en/articles/archive/feature/podcasting-pro-tour%E2%80%93amsterdam-2010-09-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/podcasting-pro-tour%E2%80%93amsterdam-2010-09-03"
 ---
 
 

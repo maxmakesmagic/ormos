@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020081054/https://magic.wizards.com/en/articles/archive/feature/flavoracle-submission-step-2-2002-03-22-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flavoracle-submission-step-2-2002-03-22-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020081054id_/https://magic.wizards.com/en/articles/archive/feature/flavoracle-submission-step-2-2002-03-22-0"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 08:10:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FlavOracle Submission - Step 2 of 2 To submit your FlavOracle flavor text, please mail in a postcard with the following information: Name Address Email Address FlavOracle Suggestion Parent's Name Parent's Signature You are required to have your parent's signature for authorization to post your name on our website in the event your flavor text is selected. For more information,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-03-22"
+[_metadata_:title]:- "FlavOracle Submission - Step 2"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 08:10:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020081054id_/https://magic.wizards.com/en/articles/archive/feature/flavoracle-submission-step-2-2002-03-22-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flavoracle-submission-step-2-2002-03-22-0"
 ---
 
 

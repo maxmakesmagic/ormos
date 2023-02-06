@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429092009/https://magic.wizards.com/en/articles/archive/feature/planes-existence-ravnica-2008-07-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planes-existence-ravnica-2008-07-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429092009id_/https://magic.wizards.com/en/articles/archive/feature/planes-existence-ravnica-2008-07-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 09:20:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ravnica is a vast, worldwide cityscape—a patchwork of grand halls, decrepit slums, ancient ruins, and layer upon layer of stonework structures. Of the world's countless civic centers, one looms large above all others: the City of Ravnica, a metropolis so vast that its name has long since become synonymous with the entire plane. It is here, amid mazes of streets and towering"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-25"
+[_metadata_:title]:- "Planes of Existence: Ravnica"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 09:20:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429092009id_/https://magic.wizards.com/en/articles/archive/feature/planes-existence-ravnica-2008-07-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planes-existence-ravnica-2008-07-25"
 ---
 
 

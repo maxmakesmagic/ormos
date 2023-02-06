@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160426205920/http://magic.wizards.com/en/articles/archive/feature/round-9-hubbsucker-proxy-vs-ancient-kavus-2000-01-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/round-9-hubbsucker-proxy-vs-ancient-kavus-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160426205920id_/http://magic.wizards.com/en/articles/archive/feature/round-9-hubbsucker-proxy-vs-ancient-kavus-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-26 20:59:20+00:00"
+[_metadata_:author]:- "Alex Borteh"
 [_metadata_:description]:- "The Hubbsucker Proxy vs. The Ancient KavusRound nine of Grand Prix Columbus featured two very good teams facing off against each other in a match to determine which team would be playing the next round for a chance at making the top four cut."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 9: The Hubbsucker Proxy vs. The Ancient Kavus"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-26 20:59:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160426205920id_/http://magic.wizards.com/en/articles/archive/feature/round-9-hubbsucker-proxy-vs-ancient-kavus-2000-01-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/round-9-hubbsucker-proxy-vs-ancient-kavus-2000-01-01"
 ---
 
 

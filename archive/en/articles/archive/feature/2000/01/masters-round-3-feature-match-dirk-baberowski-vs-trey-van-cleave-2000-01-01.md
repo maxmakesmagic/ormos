@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220629124351/https://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-dirk-baberowski-vs-trey-van-cleave-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-dirk-baberowski-vs-trey-van-cleave-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629124351id_/https://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-dirk-baberowski-vs-trey-van-cleave-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 12:43:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Scott Wills The Master Series was down to the final eight and everyone knew that a lot was on the line. In addition to the thousands of dollars up for stake in each match, all of the players who were still in contention knew that they were just three match wins away from achieving the title of the very first Master Series Champion. This match featured Dirk Baberowski from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Masters Round 3 Feature Match: Dirk Baberowski vs. Trey Van Cleave"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 12:43:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629124351id_/https://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-dirk-baberowski-vs-trey-van-cleave-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-dirk-baberowski-vs-trey-van-cleave-2000-01-01"
 ---
 
 

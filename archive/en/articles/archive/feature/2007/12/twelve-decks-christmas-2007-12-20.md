@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170425203810/http://magic.wizards.com/en/articles/archive/feature/twelve-decks-christmas-2007-12-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/twelve-decks-christmas-2007-12-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170425203810id_/http://magic.wizards.com/en/articles/archive/feature/twelve-decks-christmas-2007-12-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-25 20:38:10+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "It's the first ever Swimming with Sharks year in review!Over the course of the past twelve months we have seen numerous great players navigating a wide palette of impressive decks. For this, the last column of 2007, I decided to review the top twelve decks of the year, one deck a month, scouring the Swimming with Sharks archives from January to December. Let's take a walk down Memory Lapse Lane, shall we?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-12-20"
+[_metadata_:title]:- "The Twelve Decks before Christmas"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-25 20:38:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170425203810id_/http://magic.wizards.com/en/articles/archive/feature/twelve-decks-christmas-2007-12-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/twelve-decks-christmas-2007-12-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518155257/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-colombia-2009-06-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-colombia-2009-06-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518155257id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-colombia-2009-06-29"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 15:52:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fecha: 13 y 14 de agosto de 2011Ubicación Nombre: C.C. Vizcaya 335, 3 PisoUbicación Direción: Calle 10 # 32 -115Ciudad: MedellinPaís: Colombia Elegibilidad El Campeonato Nacional de Colombia de Magic: The Gathering es un evento por invitación, abierto a todos los ciudadanos o residentes permanentes de Colombia que reciban invitaciones al Nacional a través de los puntajes DCI o"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-29"
+[_metadata_:title]:- "2011 Campeonato Nacional Colombia"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 15:52:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518155257id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-colombia-2009-06-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-colombia-2009-06-29"
 ---
 
 

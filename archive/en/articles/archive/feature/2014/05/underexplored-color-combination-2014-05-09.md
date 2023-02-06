@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220819173725/https://magic.wizards.com/en/articles/archive/feature/underexplored-color-combination-2014-05-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/underexplored-color-combination-2014-05-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819173725id_/https://magic.wizards.com/en/articles/archive/feature/underexplored-color-combination-2014-05-09"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 17:37:25+00:00"
+[_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "Historically speaking, white-black-red has been one of the least successful color combinations in Magic tournament history. However, VirgoIII finished in 4th place in a recent Modern Premier Event with a white-black-red deck that looks exceptionally powerful and contains some of the strongest cards Modern has to offer. Thoughtseize, Dark Confidant, and Liliana of the Veil"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-09"
+[_metadata_:title]:- "An Underexplored Color Combination"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 17:37:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819173725id_/https://magic.wizards.com/en/articles/archive/feature/underexplored-color-combination-2014-05-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/underexplored-color-combination-2014-05-09"
 ---
 
 

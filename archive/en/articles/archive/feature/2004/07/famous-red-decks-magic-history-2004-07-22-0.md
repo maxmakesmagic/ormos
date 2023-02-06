@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170318215204/http://magic.wizards.com/en/articles/archive/feature/famous-red-decks-magic-history-2004-07-22-0)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/famous-red-decks-magic-history-2004-07-22-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318215204id_/http://magic.wizards.com/en/articles/archive/feature/famous-red-decks-magic-history-2004-07-22-0"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-18 21:52:04+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Red decks have a special place in the hearts of many a player. Whether it be a weenie strategy, land destruction, control decks or pure burn, most of us have given in to the allure of Mountains at one time or another."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-07-22"
+[_metadata_:title]:- "Famous Red Decks in Magic History"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-18 21:52:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318215204id_/http://magic.wizards.com/en/articles/archive/feature/famous-red-decks-magic-history-2004-07-22-0"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/famous-red-decks-magic-history-2004-07-22-0"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202044038/https://magic.wizards.com/en/articles/archive/feature/booster-draft-2012-12-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/booster-draft-2012-12-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202044038id_/https://magic.wizards.com/en/articles/archive/feature/booster-draft-2012-12-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 04:40:38+00:00"
+[_metadata_:author]:- "Staff"
 [_metadata_:description]:- "Booster Draft (or just Draft) is by far the most popular format on Magic Online. A draft consists of eight players selecting cards one at a time from three booster packs. Pro Tours (Magic's most prestigious tournaments) always put on two drafts, which at least partially explains the format's popularity. A lot of players like to look at successful draft decks (those that go"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-18"
+[_metadata_:title]:- "Booster Draft"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 04:40:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202044038id_/https://magic.wizards.com/en/articles/archive/feature/booster-draft-2012-12-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/booster-draft-2012-12-18"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170502222735/http://magic.wizards.com/en/articles/archive/feature/saturday-school-85-2004-07-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/saturday-school-85-2004-07-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502222735id_/http://magic.wizards.com/en/articles/archive/feature/saturday-school-85-2004-07-03"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-02 22:27:35+00:00"
+[_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Can't find the answer to your question? Maybe it's already been answered! Try the Saturday School Searchable Rules Database."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-07-03"
+[_metadata_:title]:- "Saturday School #85"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-02 22:27:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502222735id_/http://magic.wizards.com/en/articles/archive/feature/saturday-school-85-2004-07-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/saturday-school-85-2004-07-03"
 ---
 
 

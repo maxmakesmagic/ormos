@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525132948/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-6-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-6-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525132948id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-6-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 13:29:48+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Shvartsman, Alex (Q) 18 83.33 2 Emmert Mike 18 79.17 3 Shuldiner Allan 18 77.78 4 Thomsen Skye 18 77.78 5 Lute Joe 18 75.00 6 Leiher, Peter (Q) 18 75.00 7 Krouner Ken 18 75.00 8 Zaun, Michael (1700) 18 71.11 9 Stokinger, Andrew (1700) 18 70.00 10 McCord Scott 18 67.78 11 McLean, Drew (1700) 18 66.67 12 Turian, Michael (Q) 18 65.83 13 Boyer,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 6 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 13:29:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525132948id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-6-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-6-standings-2000-01-01"
 ---
 
 

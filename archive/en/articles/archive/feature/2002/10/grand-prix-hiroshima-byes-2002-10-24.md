@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020145656/https://magic.wizards.com/en/articles/archive/feature/grand-prix-hiroshima-byes-2002-10-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-hiroshima-byes-2002-10-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020145656id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-hiroshima-byes-2002-10-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:56:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3195028 2185014 117507 Rating used: Limited, October 23, 2002 Pro Point Standings Used: 2002 Pro Tour BostonTo find the number of byes you have for Grand Prix-Hiroshima, go to the appropriate list below (sorted by last name): A-B C-D E-G H-J K-L M-N O-R S T-V W-Z For questions about this page,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-10-24"
+[_metadata_:title]:- "Grand Prix Hiroshima Byes"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:56:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020145656id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-hiroshima-byes-2002-10-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-hiroshima-byes-2002-10-24"
 ---
 
 

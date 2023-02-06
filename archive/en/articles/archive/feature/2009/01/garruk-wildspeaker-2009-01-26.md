@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118015058/https://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2009-01-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2009-01-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118015058id_/https://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2009-01-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 01:50:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations, you've found Garruk Wildspeaker. As part of a special Conflux promotion, find all five hidden symbols on the Magic web site, each corresponding to a specific planeswalker.Print one of these forms, write down the names of all five hidden planeswalkers in the lines provided, and bring it to a participating store by February 28th, 2009 to receive a free"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-26"
+[_metadata_:title]:- "Garruk Wildspeaker"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 01:50:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118015058id_/https://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2009-01-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/garruk-wildspeaker-2009-01-26"
 ---
 
 

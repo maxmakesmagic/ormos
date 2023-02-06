@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220813153546/https://magic.wizards.com/en/articles/archive/feature/control-block-constructed-2014-05-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/control-block-constructed-2014-05-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813153546id_/https://magic.wizards.com/en/articles/archive/feature/control-block-constructed-2014-05-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 15:35:46+00:00"
+[_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "In a Block Constructed Pro Tour, many strategies that are powerful at the Pro Tour shape the future of Standard. With access to a smaller card pool, deck builders for Block Constructed are forced to find new ways to do solve problems. Much of the time, these restrictions can breed innovation. Stu Somers's finished in 12th place at Pro Tour Journey into Nyx with an Esper"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-27"
+[_metadata_:title]:- "Control in Block Constructed"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 15:35:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813153546id_/https://magic.wizards.com/en/articles/archive/feature/control-block-constructed-2014-05-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/control-block-constructed-2014-05-27"
 ---
 
 

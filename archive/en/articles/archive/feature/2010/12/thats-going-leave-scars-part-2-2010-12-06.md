@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502053603/https://magic.wizards.com/en/articles/archive/feature/thats-going-leave-scars-part-2-2010-12-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/thats-going-leave-scars-part-2-2010-12-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053603id_/https://magic.wizards.com/en/articles/archive/feature/thats-going-leave-scars-part-2-2010-12-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:36:03+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Two weeks ago, I started going through Scars of Mirrodin to tell some stories about individual cards (Part 1 is here). I only got through `D,` so it was clear that I needed a second part (and possibly more, but we'll see how it goes today). I'll cut my thesis paragraph short today to make room for more card-by-card stories. During Part 1, I talked about how there was a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-06"
+[_metadata_:title]:- "That's Going To Leave Scars, Part 2"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:36:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053603id_/https://magic.wizards.com/en/articles/archive/feature/thats-going-leave-scars-part-2-2010-12-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/thats-going-leave-scars-part-2-2010-12-06"
 ---
 
 

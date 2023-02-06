@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220125115347/https://magic.wizards.com/en/articles/archive/feature/squees-legacy-2014-01-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/squees-legacy-2014-01-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125115347id_/https://magic.wizards.com/en/articles/archive/feature/squees-legacy-2014-01-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 11:53:47+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Despite the amount of people working on building Magic decks, there is always something that shows up that no one has ever seen before. In this case, I'm talking about the deck that won the StarCityGames Legacy Open in Indianapolis—Jund Depths. Kennen uses the new legend rule to take advantage of the interaction between Dark Depths and Thespian's Stage, but in the meantime his"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-01-22"
+[_metadata_:title]:- "Squee's Legacy"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 11:53:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125115347id_/https://magic.wizards.com/en/articles/archive/feature/squees-legacy-2014-01-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/squees-legacy-2014-01-22"
 ---
 
 

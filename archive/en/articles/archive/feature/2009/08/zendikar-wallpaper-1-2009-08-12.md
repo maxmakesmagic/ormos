@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019161856/https://magic.wizards.com/en/articles/archive/feature/zendikar-wallpaper-1-2009-08-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-wallpaper-1-2009-08-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019161856id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-wallpaper-1-2009-08-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 16:18:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Zendikar Wallpaper 1 1024x768 pixels1280x960 pixels1280x1024 pixels2560x1600 pixels320x480 pixels (iPhone)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-12"
+[_metadata_:title]:- "Zendikar Wallpaper 1"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 16:18:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019161856id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-wallpaper-1-2009-08-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-wallpaper-1-2009-08-12"
 ---
 
 

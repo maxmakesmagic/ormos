@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200923162246/https://magic.wizards.com/en/articles/archive/feature/scs-artificial-evolution-2002-09-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scs-artificial-evolution-2002-09-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923162246id_/https://magic.wizards.com/en/articles/archive/feature/scs-artificial-evolution-2002-09-27"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 16:22:46+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "Single Card Strategy typically focuses on interesting commons and uncommons in current and upcoming sets, but for this column Mr. Forsythe tossed me a rare goodie--Artificial Evolution, a tribal card from Onslaught. But don't worry folks; most of the hard-core competitive crowd will probably undervalue this card so it shouldn't be too hard to pick up a few.To start off, while brainstorming uses for this card,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-09-27"
+[_metadata_:title]:- "SCS: Artificial Evolution"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 16:22:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923162246id_/https://magic.wizards.com/en/articles/archive/feature/scs-artificial-evolution-2002-09-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scs-artificial-evolution-2002-09-27"
 ---
 
 

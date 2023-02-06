@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170801030533/http://magic.wizards.com/en/articles/archive/feature/black-green-elves-2009-04-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/black-green-elves-2009-04-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170801030533id_/http://magic.wizards.com/en/articles/archive/feature/black-green-elves-2009-04-10"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-01 03:05:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Mrine's Black-Green Elves Format: Standard 6 Forest 4 Gilt-Leaf Palace 4 Llanowar Wastes 2 Mutavault 4 Swamp 4 Treetop Village 4 Civic Wayfinder 2 Cloudthresher 2 Imperious Perfect 2 Leaf Gilder 4 Llanowar Elves 2 Murderous Redcap 2 Shriekmaw 2 Wren's Run Packmaster 4 Wren's Run Vanquisher 2 Garruk Wildspeaker 2 Liliana Vess 2 Loxodon Warhammer 2 Mind Shatter 4 Profane Command *2 Cloudthresher *2 Graveborn Muse"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-10"
+[_metadata_:title]:- "Black-Green Elves"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-01 03:05:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170801030533id_/http://magic.wizards.com/en/articles/archive/feature/black-green-elves-2009-04-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/black-green-elves-2009-04-10"
 ---
 
 

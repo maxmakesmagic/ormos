@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170727013802/http://magic.wizards.com/en/articles/archive/feature/how-dare-you-2003-11-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/how-dare-you-2003-11-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170727013802id_/http://magic.wizards.com/en/articles/archive/feature/how-dare-you-2003-11-06"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-27 01:38:02+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Congratulations to all you mad scientist deckbuilders out there. I received over 300 submissions for my acrostic Deck Dare, a number that surprised me because that thing was hard! I guess you are pretty smart, after all. (Great. Now I owe Mark Rosewater a coke.) Just to go over the guidelines: Each submission had to be a theme deck. The deck had to work reasonably well, each card had to fit into the theme, and the theme had to be spelled out by the first letters of the cards in the deck (excepting basic lands)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-11-06"
+[_metadata_:title]:- "How Dare You?"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-27 01:38:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170727013802id_/http://magic.wizards.com/en/articles/archive/feature/how-dare-you-2003-11-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/how-dare-you-2003-11-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220628162544/https://magic.wizards.com/en/articles/archive/feature/round-7-results-table-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-results-table-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628162544id_/https://magic.wizards.com/en/articles/archive/feature/round-7-results-table-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-28 16:25:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Result Opponent The Ken Ho All-Stars 200 vs. Team Needs/Hotel Room *Amate Family Games Center 300 vs. AlphaBetaUnlimited.com/ Team $20 Dolla Billz 030 vs. Thanks Craig and Seth 5280 030 vs. Frog Eaters Team Flees 110 vs. Rug Doctors The Ancient Kavus 210 vs. Just Concede Dynasty 300 vs. Team 0-3 Lunch *Amateur* Huey Brock and Linde 300 vs. The O-men Team Bald Dummy 003"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 7 Results (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-28 16:25:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628162544id_/https://magic.wizards.com/en/articles/archive/feature/round-7-results-table-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-results-table-2000-01-01"
 ---
 
 

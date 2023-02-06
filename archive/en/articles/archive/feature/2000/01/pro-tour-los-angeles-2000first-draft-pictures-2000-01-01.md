@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126180857/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-pictures-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-pictures-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126180857id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-pictures-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:08:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Jeff Donais addresses the players before play begins at Pro Tour Los Angeles 2000 The players receive last-minute instructions and clarifications  Pat Chapin Drafts Lan D."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000First Draft Pictures"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:08:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126180857id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-pictures-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-pictures-2000-01-01"
 ---
 
 

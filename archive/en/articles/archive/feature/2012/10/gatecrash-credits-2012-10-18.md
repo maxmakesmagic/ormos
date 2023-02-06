@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208023302/https://magic.wizards.com/en/articles/archive/feature/gatecrash-credits-2012-10-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gatecrash-credits-2012-10-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208023302id_/https://magic.wizards.com/en/articles/archive/feature/gatecrash-credits-2012-10-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 02:33:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Original Magic Game Design: Richard GarfieldInitial Concept and Game Design: Mark Rosewater and Mark L. Gottlieb (leads), Ethan Fleischer, K."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-18"
+[_metadata_:title]:- "Gatecrash Credits"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 02:33:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208023302id_/https://magic.wizards.com/en/articles/archive/feature/gatecrash-credits-2012-10-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gatecrash-credits-2012-10-18"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170624052800/http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-roxith-thane-rot-2011-06-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-roxith-thane-rot-2011-06-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170624052800id_/http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-roxith-thane-rot-2011-06-03"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-24 05:28:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off highlights from the Mirrodin Site. For months, Mirran and Phyrexian characters have been providing field reports about the progress of the war. This week, we're going to share the entire story from one of the reports: Roxith, Thane of Rot."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-06-03"
+[_metadata_:title]:- "On the Mirrodin Site: Roxith, Thane of Rot"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-24 05:28:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170624052800id_/http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-roxith-thane-rot-2011-06-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-roxith-thane-rot-2011-06-03"
 ---
 
 

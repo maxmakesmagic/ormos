@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170804122318/http://magic.wizards.com/en/articles/archive/feature/running-gauntlet-pro-tour-hour-devastation-2017-08-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/running-gauntlet-pro-tour-hour-devastation-2017-08-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170804122318id_/http://magic.wizards.com/en/articles/archive/feature/running-gauntlet-pro-tour-hour-devastation-2017-08-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-04 12:23:18+00:00"
+[_metadata_:author]:- "Kenji Egashira"
 [_metadata_:description]:- "Kenji takes a few of the best-performing and most interesting decks from Pro Tour Hour of Devastation for a spin to try them out for himself."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-08-01"
+[_metadata_:title]:- "Running the Gauntlet: Pro Tour Hour of Devastation"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-04 12:23:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170804122318id_/http://magic.wizards.com/en/articles/archive/feature/running-gauntlet-pro-tour-hour-devastation-2017-08-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/running-gauntlet-pro-tour-hour-devastation-2017-08-01"
 ---
 
 

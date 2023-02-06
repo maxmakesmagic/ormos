@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119005435/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-july-18-24-2009-07-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-july-18-24-2009-07-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119005435id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-july-18-24-2009-07-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 00:54:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "July 22-23, 2006: Shuhei Nakamura takes Grand Prix–St. Louis! This week in 2006, Shuhei Nakamura is the Grand Prix–St. Louis Champion. For the last six rounds on Sunday, the three-time Pro Tour Top 8 competitor was deeply unhappy with his deck that had none of the degenerate redundancy of the other decks everyone around him seemed to be sporting. He contented himself with a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-24"
+[_metadata_:title]:- "This Week in Magic History: July 18-24"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 00:54:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119005435id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-july-18-24-2009-07-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-july-18-24-2009-07-24"
 ---
 
 

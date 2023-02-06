@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211205205647/https://magic.wizards.com/en/articles/archive/feature/guess-designer-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guess-designer-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205205647id_/https://magic.wizards.com/en/articles/archive/feature/guess-designer-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 20:56:47+00:00"
 [_metadata_:description]:- "Dirk Baberowski: BABEROWSKI'S MAN-O'WAR 2UU Creature - 2/2 You may play Baberowski's Man-O'War anytime you could play an instant. When Baberowski's Man-O'War comes into play, return target creature to owner's hand. Kai Budde: MISER'S FOUNTAIN Land As Miser's Fountain come into play, pay 5 or less life. For each life paid in this way, choose a color. T: Add 1 to your mana pool."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Guess the Designer"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 20:56:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205205647id_/https://magic.wizards.com/en/articles/archive/feature/guess-designer-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guess-designer-2000-01-01"
 ---
 
 

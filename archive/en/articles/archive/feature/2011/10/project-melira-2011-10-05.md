@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210207094933/https://magic.wizards.com/en/articles/archive/feature/project-melira-2011-10-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/project-melira-2011-10-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207094933id_/https://magic.wizards.com/en/articles/archive/feature/project-melira-2011-10-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-07 09:49:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This is a slightly updated version of a Melira, Sylvok Outcast–based combo deck that Magic R&D director Aaron Forsythe piloted to win an unscanctioned Modern tournament at Pro Tour Philadelphia."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-10-05"
+[_metadata_:title]:- "Project Melira"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-07 09:49:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207094933id_/https://magic.wizards.com/en/articles/archive/feature/project-melira-2011-10-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/project-melira-2011-10-05"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170623173233/http://magic.wizards.com/en/articles/archive/feature/podcasting-world-championships-2007-12-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/podcasting-world-championships-2007-12-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170623173233id_/http://magic.wizards.com/en/articles/archive/feature/podcasting-world-championships-2007-12-06"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-23 17:32:33+00:00"
+[_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Don't miss a minute of action from the 2007 Magic World Championships. Let Richard Hagon and Ben Coleman be your guides through the crowning moments of the 2007 Pro Tour season. If you're not a regular reader of event coverage, this is a great starting place to learn the top players and storylines that have shaped this season."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-12-06"
+[_metadata_:title]:- "Podcasting from the World Championships"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-23 17:32:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170623173233id_/http://magic.wizards.com/en/articles/archive/feature/podcasting-world-championships-2007-12-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/podcasting-world-championships-2007-12-06"
 ---
 
 

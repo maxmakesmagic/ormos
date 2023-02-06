@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200813000940/https://magic.wizards.com/en/articles/archive/feature/basically-awesomest-card-ever-2005-09-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/basically-awesomest-card-ever-2005-09-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200813000940id_/https://magic.wizards.com/en/articles/archive/feature/basically-awesomest-card-ever-2005-09-22"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-13 00:09:40+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Today's Ravnica Preview card is, as the title claims, basically the awesomest card ever:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-09-22"
+[_metadata_:title]:- "Basically the Awesomest Card Ever"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-13 00:09:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200813000940id_/https://magic.wizards.com/en/articles/archive/feature/basically-awesomest-card-ever-2005-09-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/basically-awesomest-card-ever-2005-09-22"
 ---
 
 

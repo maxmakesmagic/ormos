@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527202443/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93boston-2009-trials-2009-06-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93boston-2009-trials-2009-06-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527202443id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93boston-2009-trials-2009-06-12"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 20:24:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format Swiss Rounds: Sealed Deck, Top 8: Booster Draft Events prior to July 17, 2009 will use Swiss rounds: 2 Shards of Alara booster, 2 Conflux booster and 2 Alara Reborn booster per player. Booster Draft Product: 1 Shards of Alara booster, 1 Conflux booster and 1 Alara"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-12"
+[_metadata_:title]:- "Grand Prix–Boston 2009 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 20:24:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527202443id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93boston-2009-trials-2009-06-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93boston-2009-trials-2009-06-12"
 ---
 
 

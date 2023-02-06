@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220129065211/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2010-07-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2010-07-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129065211id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2010-07-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-29 06:52:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Longtime readers may remember a feature called Ask Wizards, predecessor to the current Wizards Asks. It was a daily Q&A with the people behind the scenes here at Wizards, from web devs to Magic developers to the occasional R&D Vice President. (Er, that is to say, Bill Rose has been the R&D Vice President pretty much the whole time, but only occasionally answered questions. He"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-16"
+[_metadata_:title]:- "Ask Wizards"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-29 06:52:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129065211id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2010-07-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2010-07-16"
 ---
 
 

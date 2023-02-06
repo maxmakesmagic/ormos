@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220811143226/https://magic.wizards.com/en/articles/archive/feature/red-green-aggro-2009-06-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-green-aggro-2009-06-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811143226id_/https://magic.wizards.com/en/articles/archive/feature/red-green-aggro-2009-06-12"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 14:32:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: VAT21's Red-Green Aggro Format: Magic Online Standard 4 Fire-Lit Thicket 6 Forest 4 Karplusan Forest 9 Mountain 4 Bloodbraid Elf 3 Boartusk Liege 4 Boggart Ram-Gang 3 Figure of Destiny 4 Jund Hackblade 3 Rip-Clan Crasher 4 Tattermunge Maniac 2 Colossal Might 4 Incinerate 4 Magma Spray 2 Puncture Blast *2 Chaotic Backlash *3 Everlasting Torment *4 Ignite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-12"
+[_metadata_:title]:- "Red-Green Aggro"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 14:32:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811143226id_/https://magic.wizards.com/en/articles/archive/feature/red-green-aggro-2009-06-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-green-aggro-2009-06-12"
 ---
 
 

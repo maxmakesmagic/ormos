@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023082255/https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlantic-city-event-information-2012-11-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlantic-city-event-information-2012-11-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023082255id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlantic-city-event-information-2012-11-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 08:22:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Atlantic City is brought to you by Professional Event Services.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpatcity Date: January 12-13, 2013 Format: Standard Tournament Location Atlantic City Convention Center One Convention"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-14"
+[_metadata_:title]:- "Grand Prix Atlantic City Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 08:22:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023082255id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlantic-city-event-information-2012-11-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlantic-city-event-information-2012-11-14"
 ---
 
 

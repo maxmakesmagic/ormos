@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190216135044/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-art-descriptions-2019-02-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-art-descriptions-2019-02-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190216135044id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-art-descriptions-2019-02-15"
-[_metadata_:wayback_capture_timestamp]:- "2019-02-16 13:50:44+00:00"
+[_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "Take a closer look at some of the gorgeous art inside Ravnica Allegiance!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-02-15"
+[_metadata_:title]:- "Ravnica Allegiance Art Descriptions"
+[_metadata_:wayback_capture_timestamp]:- "2019-02-16 13:50:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190216135044id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-art-descriptions-2019-02-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-art-descriptions-2019-02-15"
 ---
 
 

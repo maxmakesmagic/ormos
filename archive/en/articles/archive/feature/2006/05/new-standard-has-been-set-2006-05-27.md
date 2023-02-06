@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502100048/https://magic.wizards.com/en/articles/archive/feature/new-standard-has-been-set-2006-05-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-standard-has-been-set-2006-05-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502100048id_/https://magic.wizards.com/en/articles/archive/feature/new-standard-has-been-set-2006-05-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 10:00:48+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Regionals exploded the new Standard onto the world last weekend. Sporting reliable multicolored mana bases complements of the complete Ravnica dual"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-05-27"
+[_metadata_:title]:- "The New Standard Has Been Set"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 10:00:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502100048id_/https://magic.wizards.com/en/articles/archive/feature/new-standard-has-been-set-2006-05-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-standard-has-been-set-2006-05-27"
 ---
 
 

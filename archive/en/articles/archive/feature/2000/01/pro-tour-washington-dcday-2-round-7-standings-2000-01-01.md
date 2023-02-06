@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518024629/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-7-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-7-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518024629id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-7-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 02:46:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Game Empire 21 62.24 2 Your Move Games 18 64.97 3 Operation Mise 18 60.20 4 Marc's Brothers 16 65.42 5 Tongo Nation 16 55.90 6 Shop Adept 16 54.65 7 Phenomene J 15 65.99 8 CMU 15 60.88 9 Antarctica 15 55.44 10 Neutral Ground Detroit 15 52.38 11 CCC 15 49.32 12 THL 15 47.89 13 Matrix 15 47.28 14 Goblin Gate 15 41.72 15 Shpadoinkle 13 60.88 16"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 2 Round 7 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 02:46:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518024629id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-7-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-7-standings-2000-01-01"
 ---
 
 

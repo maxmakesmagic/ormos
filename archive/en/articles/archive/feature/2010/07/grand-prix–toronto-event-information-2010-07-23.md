@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030150421/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93toronto-event-information-2010-07-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93toronto-event-information-2010-07-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030150421id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93toronto-event-information-2010-07-23"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 15:04:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-23"
+[_metadata_:title]:- "Grand Prix–Toronto Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 15:04:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030150421id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93toronto-event-information-2010-07-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93toronto-event-information-2010-07-23"
 ---
 
 

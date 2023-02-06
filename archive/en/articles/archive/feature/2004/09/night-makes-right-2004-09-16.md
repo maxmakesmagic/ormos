@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160318153510/http://magic.wizards.com/en/articles/archive/feature/night-makes-right-2004-09-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/night-makes-right-2004-09-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160318153510id_/http://magic.wizards.com/en/articles/archive/feature/night-makes-right-2004-09-16"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-18 15:35:10+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "No fooling around this time. I'm all serious this week. Puts on serious face. See? Serious."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-09-16"
+[_metadata_:title]:- "Night Makes Right"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-18 15:35:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160318153510id_/http://magic.wizards.com/en/articles/archive/feature/night-makes-right-2004-09-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/night-makes-right-2004-09-16"
 ---
 
 

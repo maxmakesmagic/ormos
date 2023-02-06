@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201031120422/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-previews-2020-10-23?fbclid=IwAR2lrMkVE43GdsVGQDQizwUJr2XKNxUjpYwNts_kpIDWwcSG4qF0FcORYk4)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-previews-2020-10-23?fbclid=IwAR2lrMkVE43GdsVGQDQizwUJr2XKNxUjpYwNts_kpIDWwcSG4qF0FcORYk4"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201031120422id_/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-previews-2020-10-23?fbclid=IwAR2lrMkVE43GdsVGQDQizwUJr2XKNxUjpYwNts_kpIDWwcSG4qF0FcORYk4"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-31 12:04:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Commander Legends, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-10-23"
+[_metadata_:title]:- "Where to Find Commander Legends Previews"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-31 12:04:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201031120422id_/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-previews-2020-10-23?fbclid=IwAR2lrMkVE43GdsVGQDQizwUJr2XKNxUjpYwNts_kpIDWwcSG4qF0FcORYk4"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-previews-2020-10-23?fbclid=IwAR2lrMkVE43GdsVGQDQizwUJr2XKNxUjpYwNts_kpIDWwcSG4qF0FcORYk4"
 ---
 
 

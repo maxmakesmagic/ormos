@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220115225044/https://magic.wizards.com/en/articles/archive/feature/brilliant-control-2010-05-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brilliant-control-2010-05-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220115225044id_/https://magic.wizards.com/en/articles/archive/feature/brilliant-control-2010-05-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-15 22:50:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Alex Viksnins's Brilliant Control Format: Standard - TCGPlayer.com $5K 4 Marsh Flats 4 Creeping Tar Pit 4 Glacial Fortress 4 Arcane Sanctum 3 Island 3 Plains 3 Swamp 3 Emrakul, the Aeons Torn 4 Wall of Omens 1 Path to Exile 4 Ponder 1 Smother 4 Spreading Seas 4 Esper Charm 3 Day of Judgment 4 Brilliant Ultimatum 4 Jace, the Mind Sculptor 1 Elspeth,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-05-05"
+[_metadata_:title]:- "Brilliant Control"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-15 22:50:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220115225044id_/https://magic.wizards.com/en/articles/archive/feature/brilliant-control-2010-05-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brilliant-control-2010-05-05"
 ---
 
 

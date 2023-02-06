@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200919162512/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-art-descriptions-2020-09-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-art-descriptions-2020-09-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200919162512id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-art-descriptions-2020-09-17"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-19 16:25:12+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Zendikar Rising is a wild place with some wild art. Let's look at a few of the art descriptions from which the amazing artists drew their inspiration."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-09-17"
+[_metadata_:title]:- "Zendikar Rising Art Descriptions"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-19 16:25:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200919162512id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-art-descriptions-2020-09-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-art-descriptions-2020-09-17"
 ---
 
 

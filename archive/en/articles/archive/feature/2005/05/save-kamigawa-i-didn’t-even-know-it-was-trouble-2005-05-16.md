@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220820013656/https://magic.wizards.com/en/articles/archive/feature/save-kamigawa-i-didn%E2%80%99t-even-know-it-was-trouble-2005-05-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/save-kamigawa-i-didn%E2%80%99t-even-know-it-was-trouble-2005-05-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820013656id_/https://magic.wizards.com/en/articles/archive/feature/save-kamigawa-i-didn%E2%80%99t-even-know-it-was-trouble-2005-05-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-20 01:36:56+00:00"
+[_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "One of my first tournament experiences was getting to play with Alliances™ before it was ever released. Some of my friends and I went to Three Rivers Game Fest in Pittsburgh to check out a bunch of new games and find some cards to add to our favorite Magic® decks. While we were there, we heard a rumor that a tournament had been added to the Sunday schedule, an early release"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-05-16"
+[_metadata_:title]:- "Save Kamigawa? I Didn’t Even Know It Was in Trouble"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-20 01:36:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820013656id_/https://magic.wizards.com/en/articles/archive/feature/save-kamigawa-i-didn%E2%80%99t-even-know-it-was-trouble-2005-05-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/save-kamigawa-i-didn%E2%80%99t-even-know-it-was-trouble-2005-05-16"
 ---
 
 

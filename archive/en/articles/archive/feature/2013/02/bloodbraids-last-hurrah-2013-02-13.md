@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516123456/https://magic.wizards.com/en/articles/archive/feature/bloodbraids-last-hurrah-2013-02-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bloodbraids-last-hurrah-2013-02-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516123456id_/https://magic.wizards.com/en/articles/archive/feature/bloodbraids-last-hurrah-2013-02-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 12:34:56+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Modern is a remarkably diverse format but one that sees extremely gradual change. This is the nature of non-rotating formats. For the most part, when a player plays in a Modern tournament, he or she will recognize every deck his or her opponents play. xMiMx recently played Bloodbraid Elf in a tournament in a deck that approaches the card differently than Jund or dedicated"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-02-13"
+[_metadata_:title]:- "Bloodbraid's Last Hurrah"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 12:34:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516123456id_/https://magic.wizards.com/en/articles/archive/feature/bloodbraids-last-hurrah-2013-02-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bloodbraids-last-hurrah-2013-02-13"
 ---
 
 

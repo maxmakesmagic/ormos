@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220707082457/https://magic.wizards.com/en/articles/archive/feature/next-masters-series-event-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/next-masters-series-event-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707082457id_/https://magic.wizards.com/en/articles/archive/feature/next-masters-series-event-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 08:24:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff The second Masters Series will be held at Pro Tour Chicago from November 30 to December 3. For information about Pro Tour Chicago 2000, click here. Location Hyatt Regency Chicago On the Riverwalk 151 East Wacker Drive Chicago, IL 60601 (312) 565-1234 Columbus Rooms I & J for Thursday Masters and Gateway, Pro Tour Feature Match area all other days."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "The Next Masters Series Event"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 08:24:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707082457id_/https://magic.wizards.com/en/articles/archive/feature/next-masters-series-event-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/next-masters-series-event-2000-01-01"
 ---
 
 

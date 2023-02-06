@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180927083142/https://magic.wizards.com/en/articles/archive/feature/ravnica-guildgate-art-descriptions-2018-09-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-guildgate-art-descriptions-2018-09-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180927083142id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-guildgate-art-descriptions-2018-09-26"
-[_metadata_:wayback_capture_timestamp]:- "2018-09-27 08:31:42+00:00"
+[_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "Ravnica's guilds love to showcase their stature through impressive main entryways, but there are older time-worn passages into each domain."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-09-26"
+[_metadata_:title]:- "Ravnica Guildgate Art Descriptions"
+[_metadata_:wayback_capture_timestamp]:- "2018-09-27 08:31:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180927083142id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-guildgate-art-descriptions-2018-09-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-guildgate-art-descriptions-2018-09-26"
 ---
 
 

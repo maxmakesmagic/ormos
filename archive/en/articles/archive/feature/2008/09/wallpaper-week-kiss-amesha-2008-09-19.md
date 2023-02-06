@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211128112820/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-kiss-amesha-2008-09-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-kiss-amesha-2008-09-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128112820id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-kiss-amesha-2008-09-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 11:28:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Todd Lockwood's Kiss of the Amesha from the upcoming Shards of Alara set. Enjoy. 1280x960 pixels 1280x1024 pixels 1024x768 pixels 800x600 pixels"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-19"
+[_metadata_:title]:- "Wallpaper of the Week: Kiss of the Amesha"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 11:28:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128112820id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-kiss-amesha-2008-09-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-kiss-amesha-2008-09-19"
 ---
 
 

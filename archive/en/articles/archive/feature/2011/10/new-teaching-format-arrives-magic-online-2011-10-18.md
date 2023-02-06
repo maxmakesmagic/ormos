@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220116113119/https://magic.wizards.com/en/articles/archive/feature/new-teaching-format-arrives-magic-online-2011-10-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-teaching-format-arrives-magic-online-2011-10-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116113119id_/https://magic.wizards.com/en/articles/archive/feature/new-teaching-format-arrives-magic-online-2011-10-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:31:19+00:00"
+[_metadata_:author]:- "Chris Kiritz"
 [_metadata_:description]:- "We’re happy to announce a new format that will be available in the New Player room after the downtime on October 19, 2011: the Mentor format. We wanted to provide a way for players to teach other players Magic and Magic Online in a way that replicates some of the experience of teaching a friend in real life. To this end, we created the Mentor format and the Jace Beleren"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-10-18"
+[_metadata_:title]:- "New Teaching Format Arrives in Magic Online"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:31:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116113119id_/https://magic.wizards.com/en/articles/archive/feature/new-teaching-format-arrives-magic-online-2011-10-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-teaching-format-arrives-magic-online-2011-10-18"
 ---
 
 

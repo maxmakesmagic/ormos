@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160103015014/http://magic.wizards.com/en/articles/archive/feature/january-through-march-fnm-promo-update-2015-12-31)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/january-through-march-fnm-promo-update-2015-12-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160103015014id_/http://magic.wizards.com/en/articles/archive/feature/january-through-march-fnm-promo-update-2015-12-31"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-03 01:50:14+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Blake takes a look ahead to see what FNM promos are waiting in the near future."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-12-31"
+[_metadata_:title]:- "January through March FNM Promo Update"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-03 01:50:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160103015014id_/http://magic.wizards.com/en/articles/archive/feature/january-through-march-fnm-promo-update-2015-12-31"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/january-through-march-fnm-promo-update-2015-12-31"
 ---
 
 

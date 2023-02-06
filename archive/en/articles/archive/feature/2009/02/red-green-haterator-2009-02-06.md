@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128110223/https://magic.wizards.com/en/articles/archive/feature/red-green-haterator-2009-02-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-green-haterator-2009-02-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128110223id_/https://magic.wizards.com/en/articles/archive/feature/red-green-haterator-2009-02-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 11:02:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: newkidsontheblock's Red-Green Haterator Format: Magic Online 3 Forest 4 Mutavault 2 Pendelhaven 3 Stomping Ground 4 Windswept Heath 4 Wooded Foothills 2 Boreal Druid 4 Goblin Sharpshooter 3 Iwamori of the Open Fist 4 Llanowar Elves 4 Magus of the Moon 4 Scryb Ranger 4 Spectral Force 4 Chalice of the Void 3 Chrome Mox 4 Dead // Gone 4 Umezawa's Jitte *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-06"
+[_metadata_:title]:- "Red-Green Haterator"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 11:02:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128110223id_/https://magic.wizards.com/en/articles/archive/feature/red-green-haterator-2009-02-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-green-haterator-2009-02-06"
 ---
 
 

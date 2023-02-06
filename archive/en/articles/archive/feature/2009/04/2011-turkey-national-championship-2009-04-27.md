@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518101215/https://magic.wizards.com/en/articles/archive/feature/2011-turkey-national-championship-2009-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-turkey-national-championship-2009-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518101215id_/https://magic.wizards.com/en/articles/archive/feature/2011-turkey-national-championship-2009-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 10:12:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 18 September 2011Location: Pegasus Oyuncak, Ihlamurdere Caddesi Mısırlıbahce Sokak No:3/A BesiktasCity: IstanbulCountry: TurkeyThe Magic: the Gathering Turkey Championship is open to all citizens or permanent residents of Turkey.Contact informationEmail: Mavercik_2004@yahoo.comTelephone: (212) 327 2464Website: www.pegasusoyuncak.comFormatStandard and Booster Draft 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 Turkey National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 10:12:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518101215id_/https://magic.wizards.com/en/articles/archive/feature/2011-turkey-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-turkey-national-championship-2009-04-27"
 ---
 
 

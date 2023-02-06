@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117163849/https://magic.wizards.com/en/articles/archive/feature/grand-prix-bilbao-event-information-2012-11-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-bilbao-event-information-2012-11-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117163849id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-bilbao-event-information-2012-11-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 16:38:49+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Tournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpbilbao Date: January 19-20, 2013 Format: Modern Tournament Location Euskalduna, Avenida de Abandoibarra 4, 48011 Bilbao, Spain Registration: €25 Friday, January 18: 14:00 to 22:00* Saturday, January 19: 08:00 to 09:00* * Times are"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-02"
+[_metadata_:title]:- "Grand Prix Bilbao Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 16:38:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117163849id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-bilbao-event-information-2012-11-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-bilbao-event-information-2012-11-02"
 ---
 
 

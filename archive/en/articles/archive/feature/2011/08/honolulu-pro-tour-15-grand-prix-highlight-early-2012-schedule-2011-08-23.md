@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021222148/https://magic.wizards.com/en/articles/archive/feature/honolulu-pro-tour-15-grand-prix-highlight-early-2012-schedule-2011-08-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/honolulu-pro-tour-15-grand-prix-highlight-early-2012-schedule-2011-08-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021222148id_/https://magic.wizards.com/en/articles/archive/feature/honolulu-pro-tour-15-grand-prix-highlight-early-2012-schedule-2011-08-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 22:21:48+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to the new world of Magic premier play. The first three months of the 2012 season feature the first Pro Tour of the year and 15 Grand Prix spread across eight countries—and that's just a portion of the 2012 schedule! The Pro Tour returns to Hawaii in February as the marquee showcase of high-level Magic play. Pro Tour Dark Ascension in Honolulu will be February 10-12,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-08-23"
+[_metadata_:title]:- "Honolulu Pro Tour, 15 Grand Prix Highlight Early 2012 Schedule"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 22:21:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021222148id_/https://magic.wizards.com/en/articles/archive/feature/honolulu-pro-tour-15-grand-prix-highlight-early-2012-schedule-2011-08-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/honolulu-pro-tour-15-grand-prix-highlight-early-2012-schedule-2011-08-23"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030075630/https://magic.wizards.com/en/articles/archive/feature/grand-prix-las-vegas-event-information-2013-06-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-las-vegas-event-information-2013-06-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030075630id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-las-vegas-event-information-2013-06-03"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:56:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Las Vegas is brought to you by Cascade Games, LLC."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-03"
+[_metadata_:title]:- "Grand Prix Las Vegas Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:56:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030075630id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-las-vegas-event-information-2013-06-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-las-vegas-event-information-2013-06-03"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220123163600/https://magic.wizards.com/en/articles/archive/feature/greater-good-deck-challenge-winner-2005-09-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/greater-good-deck-challenge-winner-2005-09-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123163600id_/https://magic.wizards.com/en/articles/archive/feature/greater-good-deck-challenge-winner-2005-09-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 16:36:00+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "And the Winner by a Nose is...Well, first let me just say that I've really enjoyed playing all four of the finalists' decks. Picking “the best” of four very different decks is tough, especially since this contest hit before most people had the opportunity to playtest, tweak and tune. The decks I received were in various stages of development, from raw first passes to a few"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-09-15"
+[_metadata_:title]:- "Greater Good Deck Challenge Winner!"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 16:36:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123163600id_/https://magic.wizards.com/en/articles/archive/feature/greater-good-deck-challenge-winner-2005-09-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/greater-good-deck-challenge-winner-2005-09-15"
 ---
 
 

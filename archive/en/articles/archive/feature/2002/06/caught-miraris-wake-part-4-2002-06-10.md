@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210925122216/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-4-2002-06-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-4-2002-06-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210925122216id_/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-4-2002-06-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-25 12:22:16+00:00"
+[_metadata_:author]:- "Will McDermott"
 [_metadata_:description]:- "Part Four: Homework To me, brainstorming ideas for a story is the most enjoyable part of the creation process. That's probably why I have a drawer full of story ideas just waiting to be written (not to mention all the plots rambling around in my brain). The truth is, coming up with ideas is the easy part -- especially when you're surrounded by creative people. Taking all those"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-06-10"
+[_metadata_:title]:- "Caught in the Mirari's Wake, Part 4"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-25 12:22:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210925122216id_/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-4-2002-06-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-4-2002-06-10"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170309150600/http://magic.wizards.com/en/articles/archive/feature/races-zendikar-2009-08-17)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/races-zendikar-2009-08-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309150600id_/http://magic.wizards.com/en/articles/archive/feature/races-zendikar-2009-08-17"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 15:06:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Races of Zendikar  Vampires"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-17"
+[_metadata_:title]:- "The Races of Zendikar"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 15:06:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309150600id_/http://magic.wizards.com/en/articles/archive/feature/races-zendikar-2009-08-17"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/races-zendikar-2009-08-17"
 ---
 
 

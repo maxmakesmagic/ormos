@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429024140/https://magic.wizards.com/en/articles/archive/feature/four-short-stories-about-eventide-2008-07-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/four-short-stories-about-eventide-2008-07-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429024140id_/https://magic.wizards.com/en/articles/archive/feature/four-short-stories-about-eventide-2008-07-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:41:40+00:00"
+[_metadata_:author]:- "The Mimic"
 [_metadata_:description]:- "Welcome to Mimic Week! All this week on magicthegathering.com, the regular columns will appear as usual… but with a twist. Your eight regular writers, plus at least two guest authors who've written for the site before, are hiding in the ten regular column slots—maybe even their own—under a clever pseudonym: The Mimic! Can you figure out who actually wrote each article? Tune in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-21"
+[_metadata_:title]:- "Four Short Stories about Eventide"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:41:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429024140id_/https://magic.wizards.com/en/articles/archive/feature/four-short-stories-about-eventide-2008-07-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/four-short-stories-about-eventide-2008-07-21"
 ---
 
 

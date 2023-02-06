@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128175353/https://magic.wizards.com/en/articles/archive/feature/april-2010-update-bulletin-2010-04-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/april-2010-update-bulletin-2010-04-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128175353id_/https://magic.wizards.com/en/articles/archive/feature/april-2010-update-bulletin-2010-04-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 17:53:53+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Welcome, one and all, to the Mark Gottlieb Cavalcade of Minutiae and Pedanticness! Step right in to the Ruleseteria, put on your thinking cap and your straightjacket (mine is bedazzled), and fasten your safety harness by following the 39-step (and 17-substep!) Safety Harness Fastening Manual. You must be this Melviny to enter and, as always, no Vorthoses allowed. (Psst!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-13"
+[_metadata_:title]:- "April 2010 Update Bulletin"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 17:53:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128175353id_/https://magic.wizards.com/en/articles/archive/feature/april-2010-update-bulletin-2010-04-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/april-2010-update-bulletin-2010-04-13"
 ---
 
 

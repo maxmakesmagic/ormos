@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220930031510/https://magic.wizards.com/en/articles/archive/feature/alexander-blumke-becomes-1995-magic-world-champion-2009-02-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alexander-blumke-becomes-1995-magic-world-champion-2009-02-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220930031510id_/https://magic.wizards.com/en/articles/archive/feature/alexander-blumke-becomes-1995-magic-world-champion-2009-02-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-30 03:15:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Switzerland's Alexander Blumke defeated French national champion Marc Hernandez 3-2 in the finals of the 1995 Magic: The Gathering World Championships to become the new world champion on August 6, 1995.`I really didn't believe I could win,` said Blumke, the 26-year-old Geneva resident. `I didn't have a deck when I got here, so I stayed up late the night before making one."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-16"
+[_metadata_:title]:- "Alexander Blumke Becomes 1995 Magic World Champion"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-30 03:15:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220930031510id_/https://magic.wizards.com/en/articles/archive/feature/alexander-blumke-becomes-1995-magic-world-champion-2009-02-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alexander-blumke-becomes-1995-magic-world-champion-2009-02-16"
 ---
 
 

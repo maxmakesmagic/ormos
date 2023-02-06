@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023154828/https://magic.wizards.com/en/articles/archive/feature/pro-tour-kyoto-2009-qualifiers-2008-09-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-kyoto-2009-qualifiers-2008-09-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023154828id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-kyoto-2009-qualifiers-2008-09-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:48:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "North AmericaOctober 2008-January 2009 StateCityEvent dateInvitationsLocationAddressContact phoneURL AlabamaMobile12/06/20081University of South AlabamaStudent Center Ballroom251- 610-8052 Website AlbertaEdmonton11/29/20081Gamers Lair3528 137th Ave.403-851-8893Website ArizonaPhoenix12/06/20081Hero comics3405W."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-17"
+[_metadata_:title]:- "Pro Tour Kyoto 2009 - Qualifiers"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:48:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023154828id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-kyoto-2009-qualifiers-2008-09-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-kyoto-2009-qualifiers-2008-09-17"
 ---
 
 

@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029103605/https://magic.wizards.com/en/articles/archive/feature/duplicate-limited-decks-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duplicate-limited-decks-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029103605id_/https://magic.wizards.com/en/articles/archive/feature/duplicate-limited-decks-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 10:36:05+00:00"
 [_metadata_:description]:- "DIRK BABEROWSKI Okk Cinder Wall Armorer Guildmage Goblin Apprentice Goblin Gardener Tooth and Claw Mark of Fury Tunnel Treefolk Seedlings Fyndhorn Brownie Endangered Armodon Fugitive Druid Avalanche of Squirrels Bunch of Elephants Wall of Schizophrenia Bequeathal Harmonic Convergence Tranquil Domain Dracoplasm Surge of Strength Femeref Enchantress Carrier Pigeons 3 Plains 3 Island 6 Forest 6 Mountain KAI BUDDE Pearled Unicorn Cloudchaser Monk Carrier Pigeons Too...Many...Words..."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Duplicate Limited Decks"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 10:36:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029103605id_/https://magic.wizards.com/en/articles/archive/feature/duplicate-limited-decks-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duplicate-limited-decks-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018114917/https://magic.wizards.com/en/articles/archive/feature/2006-south-african-nationals-2006-08-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-south-african-nationals-2006-08-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018114917id_/https://magic.wizards.com/en/articles/archive/feature/2006-south-african-nationals-2006-08-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 11:49:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Tournament LocationMain EventEmerald Casino http://www.emeraldcasino.co.za/GrindersJabula Recreation CentreHall HoursFriday, August 18 2:00 pm - 6:00 pm (Grinders)Saturday, July 29: 8:00 am - 8:00 pm*Sunday, July 30: 8:00 am - Midnight* (The hall may close early on Sunday evening.)*The Tournament organizer reserves the right to close the hall at his/her discretion based on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-07"
+[_metadata_:title]:- "2006 South African Nationals"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 11:49:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018114917id_/https://magic.wizards.com/en/articles/archive/feature/2006-south-african-nationals-2006-08-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-south-african-nationals-2006-08-07"
 ---
 
 

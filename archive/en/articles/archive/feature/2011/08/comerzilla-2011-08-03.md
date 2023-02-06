@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220727205826/https://magic.wizards.com/en/articles/archive/feature/comerzilla-2011-08-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/comerzilla-2011-08-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220727205826id_/https://magic.wizards.com/en/articles/archive/feature/comerzilla-2011-08-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-27 20:58:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Alan Comer's Comerzilla Format: Standard 4 City of Brass 3 Underground River 3 Sulfurous Springs 2 Reflecting Pool 2 Undiscovered Paradise 4 Gemstone Mine 1 Swamp 1 Island 4 Hidden Horror 4 Merfolk Traders 4 Verdant Force 3 Shivan Dragon 2 Sliver Queen 2 Necrosavant 4 Animate Dead 4 Dark Ritual 2 Living Death 4 Necromancy 4 Mana Leak 4 Firestorm [/decklist]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-08-03"
+[_metadata_:title]:- "Comerzilla"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-27 20:58:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220727205826id_/https://magic.wizards.com/en/articles/archive/feature/comerzilla-2011-08-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/comerzilla-2011-08-03"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170404191033/http://magic.wizards.com/en/articles/archive/feature/titanic-farewell-2012-09-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/titanic-farewell-2012-09-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170404191033id_/http://magic.wizards.com/en/articles/archive/feature/titanic-farewell-2012-09-28"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-04 19:10:33+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Over the past two years, we have seen ramp decks do just about everything. First came Valakut, the Molten Pinnacle, to set the stage for us and pave the long road ahead for ramp decks. Eldrazi Green was a neat one somewhere along the way as well. With Innistrad, Kessig Wolf Run breathed new life into an archetype that seemed like it would die without Valakut hanging around to wreak a little more havoc."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-28"
+[_metadata_:title]:- "A Titanic Farewell"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-04 19:10:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170404191033id_/http://magic.wizards.com/en/articles/archive/feature/titanic-farewell-2012-09-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/titanic-farewell-2012-09-28"
 ---
 
 

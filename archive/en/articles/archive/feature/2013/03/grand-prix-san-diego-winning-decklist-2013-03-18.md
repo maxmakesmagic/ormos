@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025190434/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-winning-decklist-2013-03-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-winning-decklist-2013-03-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025190434id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-winning-decklist-2013-03-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 19:04:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Nathan Holiday, champion of Grand Prix San Diego."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-18"
+[_metadata_:title]:- "Grand Prix San Diego Winning Decklist"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 19:04:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025190434id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-winning-decklist-2013-03-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-winning-decklist-2013-03-18"
 ---
 
 

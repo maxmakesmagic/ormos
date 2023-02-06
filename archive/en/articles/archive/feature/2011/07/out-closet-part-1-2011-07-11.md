@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160729204356/http://magic.wizards.com/en/articles/archive/feature/out-closet-part-1-2011-07-11)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/out-closet-part-1-2011-07-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160729204356id_/http://magic.wizards.com/en/articles/archive/feature/out-closet-part-1-2011-07-11"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-29 20:43:56+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13; Hello, faithful readers. Today is a very personal column. I'm almost at the ten-year mark (and very close to the five-hundred-week mark), yet there are things I haven't yet shared with you. In fact, I'm about to reveal something that might seem inconsistent for a married man with three children, but I've hidden the truth for far too long. This is kind of hard to put into words, so I'll do it with a picture. Brace yourself.&#13; &#13; My hidden secret is that I'm..."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-07-11"
+[_metadata_:title]:- "Out of the Closet, Part 1"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-29 20:43:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160729204356id_/http://magic.wizards.com/en/articles/archive/feature/out-closet-part-1-2011-07-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/out-closet-part-1-2011-07-11"
 ---
 
 

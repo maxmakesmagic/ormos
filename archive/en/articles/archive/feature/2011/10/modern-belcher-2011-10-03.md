@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028050750/https://magic.wizards.com/en/articles/archive/feature/modern-belcher-2011-10-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-belcher-2011-10-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028050750id_/https://magic.wizards.com/en/articles/archive/feature/modern-belcher-2011-10-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 05:07:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: 1nf0rm4luk0's Modern Belcher Format: Modern (pre-Innistrad) 3 Mountain 4 Simian Spirit Guide 4 Street Wraith 4 Wild Cantor 4 Desperate Ritual 4 Gitaxian Probe 4 Goblin Charbelcher 4 Grapeshot 4 Lotus Bloom 4 Manamorphose 1 Mishra's Bauble 4 Pyretic Ritual 4 Pyromancer's Swath 4 Rite of Flame 4 Seething Song 4 Serum Powder *4 Empty the Warrens *4 Goblin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-10-03"
+[_metadata_:title]:- "Modern Belcher"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 05:07:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028050750id_/https://magic.wizards.com/en/articles/archive/feature/modern-belcher-2011-10-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-belcher-2011-10-03"
 ---
 
 

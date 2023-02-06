@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210116181808/https://magic.wizards.com/en/articles/archive/feature/underwater-and-unscrupulous-2002-02-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/underwater-and-unscrupulous-2002-02-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116181808id_/https://magic.wizards.com/en/articles/archive/feature/underwater-and-unscrupulous-2002-02-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-16 18:18:08+00:00"
+[_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "Underneath the ocean’s surface, you have a lot more to fear than sharks and drowning; you also have the Cephalid Looter to contend with. These octopus-like beings live only near the continent of Otaria, but are still a magical and political force to be reckoned with."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-02-05"
+[_metadata_:title]:- "Underwater and Unscrupulous"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-16 18:18:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116181808id_/https://magic.wizards.com/en/articles/archive/feature/underwater-and-unscrupulous-2002-02-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/underwater-and-unscrupulous-2002-02-05"
 ---
 
 

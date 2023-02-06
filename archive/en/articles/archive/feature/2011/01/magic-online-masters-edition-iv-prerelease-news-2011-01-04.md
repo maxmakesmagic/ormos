@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117062202/https://magic.wizards.com/en/articles/archive/feature/magic-online-masters-edition-iv-prerelease-news-2011-01-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-masters-edition-iv-prerelease-news-2011-01-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117062202id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-masters-edition-iv-prerelease-news-2011-01-04"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 06:22:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Some of the best and most beloved cards from Magic's history come to Magic Online with Masters Edition IV, many for the first time, and you can play with them before they go on sale during the Masters Edition IV Prerelease. All Masters Edition IV prerelease players will also earn an exclusive Nalathni Dragon prerelease card… the only place this card will be available! The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-01-04"
+[_metadata_:title]:- "Magic Online Masters Edition IV Prerelease News"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 06:22:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117062202id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-masters-edition-iv-prerelease-news-2011-01-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-masters-edition-iv-prerelease-news-2011-01-04"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220810073909/https://magic.wizards.com/en/articles/archive/feature/drakes-and-dragons-and-drafts-2005-04-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/drakes-and-dragons-and-drafts-2005-04-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810073909id_/https://magic.wizards.com/en/articles/archive/feature/drakes-and-dragons-and-drafts-2005-04-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-10 07:39:09+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Best of luck to everyone at the two Grand Prix this weekend. Two weeks from now is a Pro Tour in Richard Garfield's (and my) old stomping"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-04-23"
+[_metadata_:title]:- "Drakes and Dragons and Drafts"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-10 07:39:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810073909id_/https://magic.wizards.com/en/articles/archive/feature/drakes-and-dragons-and-drafts-2005-04-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/drakes-and-dragons-and-drafts-2005-04-23"
 ---
 
 

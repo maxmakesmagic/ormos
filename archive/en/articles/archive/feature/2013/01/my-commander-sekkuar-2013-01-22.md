@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170308173604/http://magic.wizards.com/en/articles/archive/feature/my-commander-sekkuar-2013-01-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/my-commander-sekkuar-2013-01-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170308173604id_/http://magic.wizards.com/en/articles/archive/feature/my-commander-sekkuar-2013-01-22"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-08 17:36:04+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "I used to be a devout casual Magic player. I spent most of junior high, high school, and college playing multiplayer games with friends, and while Commander didn't exist yet as a format, I played a lot of Magic with big decks. These days, I don't get a lot of chances to play casual formats, but I have several Commander decks on MagicOnline and one physical Commander deck. My commander, as you've probably guessed from the title, is Sek'Kuar, Deathkeeper."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-22"
+[_metadata_:title]:- "My Commander, Sek'Kuar"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-08 17:36:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170308173604id_/http://magic.wizards.com/en/articles/archive/feature/my-commander-sekkuar-2013-01-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/my-commander-sekkuar-2013-01-22"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021022838/https://magic.wizards.com/en/articles/archive/feature/formats-new-set-celebrations-2008-08-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/formats-new-set-celebrations-2008-08-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021022838id_/https://magic.wizards.com/en/articles/archive/feature/formats-new-set-celebrations-2008-08-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 02:28:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Shards of Alara Prerelease Events September 27–28 Your first opportunity to play with the new set! Event FormatsSealed Deck Tournament Open Dueling Sealed Deck Tournaments use a tournament pack plus three booster packs of Shards of Alara. Flights will be available in select locations. As a more casual format, Open Dueling is ideal for newer players. Grab an Intro Pack and then"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-06"
+[_metadata_:title]:- "Formats for New Set Celebrations"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 02:28:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021022838id_/https://magic.wizards.com/en/articles/archive/feature/formats-new-set-celebrations-2008-08-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/formats-new-set-celebrations-2008-08-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170630095506/http://magic.wizards.com/en/articles/archive/feature/manaless-dredge-2011-07-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/manaless-dredge-2011-07-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170630095506id_/http://magic.wizards.com/en/articles/archive/feature/manaless-dredge-2011-07-22"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-30 09:55:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Nicholas Rausch's Manaless Dredge Format: Legacy – Winner, StarCityGames.com Open in Cincinnati, OH 3 Dakmor Salvage 4 Bloodghast 3 Gigapede 4 Golgari Grave-Troll 4 Golgari Thug 4 Ichorid 4 Narcomoeba 4 Nether Shadow 4 Phantasmagorian 4 Shambling Shell 4 Stinkweed Imp 4 Street Wraith 1 Woodfall Primus 1 Iona, Shield of Emeria 4 Bridge from Below 4 Cabal Therapy 4 Dread Return *1 Inkwell Leviathan *1 Sphinx of the Steel Wind"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-07-22"
+[_metadata_:title]:- "Manaless Dredge"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-30 09:55:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170630095506id_/http://magic.wizards.com/en/articles/archive/feature/manaless-dredge-2011-07-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/manaless-dredge-2011-07-22"
 ---
 
 

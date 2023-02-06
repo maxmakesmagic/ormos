@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627023136/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627023136id_/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 02:31:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TableTeamPointsOpponentPoints1Empty G's3vsSped32Six Degrees of Kevin Bacon3vsNever Was33Egghead Games Inc.3vsBlack Dog34Team Sports Bench3vs528035Vodalian War Machine3vsCherry36Madam Fishnut3vsDu Hast37The Hubbsucker Proxy3vsSweet Jeebus38Wretch3vsTeam Disgruntled Hobos39Hot Fungusaur Invasion 2K13vsTeam Joe3103 White Boys from the Stix3vsOne Turn Too Late311Shaolin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 2 Pairings (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 02:31:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627023136id_/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01"
 ---
 
 

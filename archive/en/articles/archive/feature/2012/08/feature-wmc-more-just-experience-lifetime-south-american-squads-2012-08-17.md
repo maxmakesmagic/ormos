@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150910233948/http://magic.wizards.com/en/articles/archive/feature/feature-wmc-more-just-experience-lifetime-south-american-squads-2012-08-17)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-wmc-more-just-experience-lifetime-south-american-squads-2012-08-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150910233948id_/http://magic.wizards.com/en/articles/archive/feature/feature-wmc-more-just-experience-lifetime-south-american-squads-2012-08-17"
-[_metadata_:wayback_capture_timestamp]:- "2015-09-10 23:39:48+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "The World Magic Cup is many things to a lot of players. A chance to snag bragging rights for a year. A free trip to Gen Con. Another tournament to try and take down. But for some countries it means much more than that. For many players from smaller countries, it's an introduction to a world they might not otherwise have entered and a boost to their Magic communities at home. `It's the best days of my life,` said Nicolas Righetti, a Uruguayan playing in his first pro event. `It's really incredible.`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-16"
+[_metadata_:title]:- "Feature: WMC More Than Just `Experience of a Lifetime` to South American Squads"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-10 23:39:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150910233948id_/http://magic.wizards.com/en/articles/archive/feature/feature-wmc-more-just-experience-lifetime-south-american-squads-2012-08-17"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-wmc-more-just-experience-lifetime-south-american-squads-2012-08-17"
 ---
 
 

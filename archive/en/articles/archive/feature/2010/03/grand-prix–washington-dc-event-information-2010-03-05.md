@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022015534/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93washington-dc-event-information-2010-03-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93washington-dc-event-information-2010-03-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022015534id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93washington-dc-event-information-2010-03-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 01:55:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Date: May 22-23, 2010 Format: Standard Tournament Location Dulles Expo & Conference Center 4368 Chantilly Shopping Center Chantilly, VA 20153 Registration: $35 Friday, May 21: Registration noon - 10 p.m. Saturday, May 22: Registration 8:30 a.m. - 9:45 a.m. Get"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-05"
+[_metadata_:title]:- "Grand Prix–Washington D.C. Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 01:55:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022015534id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93washington-dc-event-information-2010-03-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93washington-dc-event-information-2010-03-05"
 ---
 
 

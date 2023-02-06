@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20181025170521/https://magic.wizards.com/en/articles/archive/feature/decks-wotcstaff-2018-10-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/decks-wotcstaff-2018-10-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181025170521id_/https://magic.wizards.com/en/articles/archive/feature/decks-wotcstaff-2018-10-09"
-[_metadata_:wayback_capture_timestamp]:- "2018-10-25 17:05:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "It should be no surprise that we love playing Magic here, so we wanted to share some employee-favorite decks from a variety of formats."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-10-09"
+[_metadata_:title]:- "The Decks of #WOTCSTAFF"
+[_metadata_:wayback_capture_timestamp]:- "2018-10-25 17:05:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181025170521id_/https://magic.wizards.com/en/articles/archive/feature/decks-wotcstaff-2018-10-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/decks-wotcstaff-2018-10-09"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124113128/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-event-information-2012-01-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-event-information-2012-01-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124113128id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-event-information-2012-01-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:31:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Official hashtag: #gplille Date: March 3-4, 2012Format: Standard Tournament Location Lille Grand Palais 1, Boulevard des Cités-Unies 59777 EURALILLE Registration: € 25 Friday, March 2: 2 p.m. – 10 p.m. Saturday, March 3: 8 a.m. - 9 a.m. Get your free promo card by playing in the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-07"
+[_metadata_:title]:- "Grand Prix Lille Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:31:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124113128id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-event-information-2012-01-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-event-information-2012-01-07"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220924171909/https://magic.wizards.com/en/articles/archive/feature/world-avacyn-restored-2012-04-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-avacyn-restored-2012-04-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220924171909id_/https://magic.wizards.com/en/articles/archive/feature/world-avacyn-restored-2012-04-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-24 17:19:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Tibalt, the Fiend-Blooded The student of a Nephalian skaberen, Tibalt tried to follow in his master's footsteps, cobbling together and reanimating corpses. But he lacked the talent and discipline for the dark, exacting work. Nursing a growing seed of hatred fed by his own failures and isolation, he began to turn his talents toward the realm of the living. His experiments"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-18"
+[_metadata_:title]:- "The World of Avacyn Restored"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-24 17:19:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220924171909id_/https://magic.wizards.com/en/articles/archive/feature/world-avacyn-restored-2012-04-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-avacyn-restored-2012-04-18"
 ---
 
 

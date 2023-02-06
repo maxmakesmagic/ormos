@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160804012629/http://magic.wizards.com/en/articles/archive/feature/deutsche-magicmeisterrschaft-2008-2005-07-27)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/deutsche-magicmeisterrschaft-2008-2005-07-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160804012629id_/http://magic.wizards.com/en/articles/archive/feature/deutsche-magicmeisterrschaft-2008-2005-07-27"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-04 01:26:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; Datum: 29.-31. August 2008&#13; &#13; Adresse:&#13; Hannover Congress Centrum&#13; Glassaal&#13; Clausewitzstraße 6&#13; 30175 HannoverKontaktinfo: wizards@hasbro.de&#13; &#13; Zeitplan:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-07-27"
+[_metadata_:title]:- "Deutsche Magicmeisterrschaft 2008"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-04 01:26:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160804012629id_/http://magic.wizards.com/en/articles/archive/feature/deutsche-magicmeisterrschaft-2008-2005-07-27"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/deutsche-magicmeisterrschaft-2008-2005-07-27"
 ---
 
 

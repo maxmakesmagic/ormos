@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520023236/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-fact-sheet-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-fact-sheet-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520023236id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-fact-sheet-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 02:32:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "JUNE 8-11, 2000 Disneys Wide World of Sports Complex Lake Buena Vista, Florida 32830 Directions: If you are traveling west, take I4 West to HWY 192. Follow the Magic Kingdom Park signs and exit right onto Osceola Parkway, go to Victory Way, located on your right. If you are traveling each, take I4 East to exit 25B. Exit right onto Osceloa Parkway, go to Victory Way, located"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Fact Sheet"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 02:32:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520023236id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-fact-sheet-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-fact-sheet-2000-01-01"
 ---
 
 

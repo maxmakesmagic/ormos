@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220702012219/https://magic.wizards.com/en/articles/archive/feature/round-9-standings-score-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-standings-score-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702012219id_/https://magic.wizards.com/en/articles/archive/feature/round-9-standings-score-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 01:22:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win%1The Ken Ho All-Stars2571.42%2The Ancient Kavus2468.14%3Your Move Games2361.22%4Dynasty2274.11%5Team $20 Dolla Billz2264.08%6Rug Doctors2261.60%7Team Needs/Hotel Room *Amate2167.81%8A Little Too Sick2167.08%9Huey Brock and Linde2166.40%10The Hubbsucker Proxy2164.80%11Thanks Craig and Seth2159.82%12Family Games"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 9 Standings (by Score)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 01:22:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702012219id_/https://magic.wizards.com/en/articles/archive/feature/round-9-standings-score-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-standings-score-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20221007160710/https://magic.wizards.com/en/articles/archive/feature/commanders-warhammer-40000-2022-10-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commanders-warhammer-40000-2022-10-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221007160710id_/https://magic.wizards.com/en/articles/archive/feature/commanders-warhammer-40000-2022-10-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-10-07 16:07:10+00:00"
+[_metadata_:author]:- "David McDarby"
 [_metadata_:description]:- "David gives readers a behind-the-scenes look at how the lore of Warhammer 40,000 was translated into Magic commanders and mechanics."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-10-07"
+[_metadata_:title]:- "The Commanders of Warhammer 40,000"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-07 16:07:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221007160710id_/https://magic.wizards.com/en/articles/archive/feature/commanders-warhammer-40000-2022-10-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commanders-warhammer-40000-2022-10-07"
 ---
 
 

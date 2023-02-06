@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200805200428/https://magic.wizards.com/en/articles/archive/feature/zendikar-prerelease-primer-2009-09-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-prerelease-primer-2009-09-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805200428id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-prerelease-primer-2009-09-21"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 20:04:28+00:00"
+[_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "I feel like the name of our latest Magic expansion is one that I can imagine being shouted from a hilltop, heralding a whole new Standard format, and echoing in the valleys below. Not every set name lends itself to such exclamation points, though Conflux, with its villainous Nicol Bolas storyline, did sound good being cried much like the name Khan, with a shake of the fist."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-21"
+[_metadata_:title]:- "Zendikar Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 20:04:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805200428id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-prerelease-primer-2009-09-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-prerelease-primer-2009-09-21"
 ---
 
 

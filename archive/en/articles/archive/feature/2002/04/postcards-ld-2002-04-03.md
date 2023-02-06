@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128125622/https://magic.wizards.com/en/articles/archive/feature/postcards-ld-2002-04-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/postcards-ld-2002-04-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128125622id_/https://magic.wizards.com/en/articles/archive/feature/postcards-ld-2002-04-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 12:56:22+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "Hello, we’re in the middle of Land Destruction week here at MagicTheGathering.com. Before we get going, I’d like to thank everyone for all the letters they’ve sent me over the last month. I’ve tried to respond to all of them (Aaron dumped a ton of them on me all at once), and I really appreciate all the fine comments that you, the reader, have sent in. As so, I’d like to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-04-03"
+[_metadata_:title]:- "Postcards From LD"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 12:56:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128125622id_/https://magic.wizards.com/en/articles/archive/feature/postcards-ld-2002-04-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/postcards-ld-2002-04-03"
 ---
 
 

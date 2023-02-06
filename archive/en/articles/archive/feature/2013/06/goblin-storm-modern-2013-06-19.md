@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160628205053/http://magic.wizards.com/en/articles/archive/feature/goblin-storm-modern-2013-06-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/goblin-storm-modern-2013-06-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160628205053id_/http://magic.wizards.com/en/articles/archive/feature/goblin-storm-modern-2013-06-19"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-28 20:50:53+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-19"
+[_metadata_:title]:- "Goblin Storm Modern"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-28 20:50:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160628205053id_/http://magic.wizards.com/en/articles/archive/feature/goblin-storm-modern-2013-06-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/goblin-storm-modern-2013-06-19"
 ---
 
 

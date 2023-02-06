@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202013954/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerjace-2008-07-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerjace-2008-07-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202013954id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerjace-2008-07-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 01:39:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Jace Beleren is a planeswalker who wields blue magic. His specialty is mental magic: spells of mind-reading, illusion, knowledge, and deception. Curiosity has always gotten the better of Jace Beleren. As a magical prodigy, he delved into lessons of sorcery deeper than the other students in mage academies, and succeeded to the point that even his instructors were suspicious of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-15"
+[_metadata_:title]:- "mtgrelaunch_planeswalker_jace"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 01:39:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202013954id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerjace-2008-07-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerjace-2008-07-15"
 ---
 
 

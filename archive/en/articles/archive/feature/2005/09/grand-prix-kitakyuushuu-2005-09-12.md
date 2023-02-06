@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024040810/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kitakyuushuu-2005-09-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kitakyuushuu-2005-09-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024040810id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kitakyuushuu-2005-09-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:08:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "日本語の案内ページ Trial Schedule The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events. Tournament Format And Schedule The format for Grand Prix—Kitakyuushuu is Extended. All DCI Constructed rules and Magic Floor Rules announced on October 1, 2005, along"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-09-12"
+[_metadata_:title]:- "Grand Prix - Kitakyuushuu"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:08:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024040810id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kitakyuushuu-2005-09-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kitakyuushuu-2005-09-12"
 ---
 
 

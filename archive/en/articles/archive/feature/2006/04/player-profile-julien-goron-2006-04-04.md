@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023061623/https://magic.wizards.com/en/articles/archive/feature/player-profile-julien-goron-2006-04-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/player-profile-julien-goron-2006-04-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023061623id_/https://magic.wizards.com/en/articles/archive/feature/player-profile-julien-goron-2006-04-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 06:16:23+00:00"
+[_metadata_:author]:- "Olivier Ruel"
 [_metadata_:description]:- "Julien Goron is not exactly one of these players you would describe as a wizard in the Magic jargon. He started playing Magic a few years after most of the other French Pros, making his way on the Magic scene pretty slowly. Everyone knows him for a while in France, but who would have bet he would turn into the player he finally became? The story began in Columbus, at the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-04-04"
+[_metadata_:title]:- "Player Profile: Julien Goron"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 06:16:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023061623id_/https://magic.wizards.com/en/articles/archive/feature/player-profile-julien-goron-2006-04-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/player-profile-julien-goron-2006-04-04"
 ---
 
 

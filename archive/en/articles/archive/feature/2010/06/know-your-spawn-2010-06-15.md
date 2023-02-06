@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210122230939/https://magic.wizards.com/en/articles/archive/feature/know-your-spawn-2010-06-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/know-your-spawn-2010-06-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122230939id_/https://magic.wizards.com/en/articles/archive/feature/know-your-spawn-2010-06-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-22 23:09:39+00:00"
+[_metadata_:author]:- "Kelly Digges"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-15"
+[_metadata_:title]:- "Know Your Spawn!"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-22 23:09:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122230939id_/https://magic.wizards.com/en/articles/archive/feature/know-your-spawn-2010-06-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/know-your-spawn-2010-06-15"
 ---
 
 

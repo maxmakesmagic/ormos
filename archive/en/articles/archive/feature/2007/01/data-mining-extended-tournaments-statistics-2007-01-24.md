@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220125210721/https://magic.wizards.com/en/articles/archive/feature/data-mining-extended-tournaments-statistics-2007-01-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/data-mining-extended-tournaments-statistics-2007-01-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125210721id_/https://magic.wizards.com/en/articles/archive/feature/data-mining-extended-tournaments-statistics-2007-01-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 21:07:21+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "TheIPA qualifiers have run the last week, so we have many well-attended events to draw metagame data from. Let's begin with the Standard update.Deck namePopularityChange in popularity from last week1. Mono Green Aggro■■■■■ ■■■■■ ■■ (12%)+2% 2. Dralnu du Louvre■■■■■ ■■■■■ ■■ (12%)+5% (!!!) 3. U/b Pickles■■■■■ ■■■■■ ■ (11%)-3% 4. U/W Urzatron■■■■■ ■■■■■ (10%)+1% 5. U/G"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-01-24"
+[_metadata_:title]:- "Data-Mining Extended Tournaments for Statistics"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 21:07:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125210721id_/https://magic.wizards.com/en/articles/archive/feature/data-mining-extended-tournaments-statistics-2007-01-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/data-mining-extended-tournaments-statistics-2007-01-24"
 ---
 
 

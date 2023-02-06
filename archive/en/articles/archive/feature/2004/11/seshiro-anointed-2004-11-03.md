@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816170014/https://magic.wizards.com/en/articles/archive/feature/seshiro-anointed-2004-11-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/seshiro-anointed-2004-11-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816170014id_/https://magic.wizards.com/en/articles/archive/feature/seshiro-anointed-2004-11-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 17:00:14+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "We return to our column, already in progress. Last week's column was a fun one – Scott Johns managed to get me to change topics in midstream by suggesting I write about Kiki-Jiki, Mirror Breaker and my very fun deck from this year's Wisconsin State Championship tournament. I've never really been one to shy away from fun requests, so I happily acquiesced. Of course, I had had"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-03"
+[_metadata_:title]:- "Seshiro the Anointed"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 17:00:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816170014id_/https://magic.wizards.com/en/articles/archive/feature/seshiro-anointed-2004-11-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/seshiro-anointed-2004-11-03"
 ---
 
 

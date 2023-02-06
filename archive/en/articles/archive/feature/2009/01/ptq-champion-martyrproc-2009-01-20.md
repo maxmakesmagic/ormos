@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220703235316/https://magic.wizards.com/en/articles/archive/feature/ptq-champion-martyrproc-2009-01-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ptq-champion-martyrproc-2009-01-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703235316id_/https://magic.wizards.com/en/articles/archive/feature/ptq-champion-martyrproc-2009-01-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 23:53:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Scott Honigmann's MartyrProc Format: PTQ Honolulu 2 Godless Shrine 1 Mistveil Plains 16 Plains 2 Sacred Foundry 4 Temple of the False God 2 Crovax, Ascendant Hero 4 Eternal Dragon 4 Martyr of Sands 2 Akroma's Vengeance 3 Chalice of the Void 3 Condemn 3 Decree of Justice 4 Oblivion Ring 2 Proclamation of Rebirth 4 Runed Halo 4 Wrath of God *2 Angel's Grace *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-20"
+[_metadata_:title]:- "PTQ Champion MartyrProc"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 23:53:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703235316id_/https://magic.wizards.com/en/articles/archive/feature/ptq-champion-martyrproc-2009-01-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ptq-champion-martyrproc-2009-01-20"
 ---
 
 

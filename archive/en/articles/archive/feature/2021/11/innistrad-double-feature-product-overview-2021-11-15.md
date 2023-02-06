@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211115163537/https://magic.wizards.com/en/articles/archive/feature/innistrad-double-feature-product-overview-2021-11-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-double-feature-product-overview-2021-11-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211115163537id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-double-feature-product-overview-2021-11-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-15 16:35:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "If you're in love with Innistrad, good news: Innistrad: Double Feature is coming to you at your local game store!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-11-15"
+[_metadata_:title]:- "Innistrad: Double Feature Product Overview"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-15 16:35:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211115163537id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-double-feature-product-overview-2021-11-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-double-feature-product-overview-2021-11-15"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526122030/https://magic.wizards.com/en/articles/archive/feature/grand-prix-columbus-2012-trials-2012-06-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-columbus-2012-trials-2012-06-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526122030id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-columbus-2012-trials-2012-06-08"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:20:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Columbus Trials will be run at WPN locations from May 26 to July 1, 2012. Each awards the winner a three-round bye to Grand Prix Columbus.WPN Locations in the Columbus, Ohio Area Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the individual store running"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-08"
+[_metadata_:title]:- "Grand Prix Columbus 2012 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:20:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526122030id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-columbus-2012-trials-2012-06-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-columbus-2012-trials-2012-06-08"
 ---
 
 

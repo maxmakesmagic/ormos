@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170424122350/http://magic.wizards.com/en/articles/archive/feature/solar-flare-2011-09-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/solar-flare-2011-09-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170424122350id_/http://magic.wizards.com/en/articles/archive/feature/solar-flare-2011-09-28"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-24 12:23:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Paul Cheon's Solar Flare Format: 2006 US Nationals 2 Azorius Chancery 2 Caves of Koilos 1 Eiganjo Castle 3 Godless Shrine 1 Hallowed Fountain 1 Island 1 Mikokoro, Center of the Sea 1 Minamo, School at Water's Edge 1 Miren, the Moaning Well 2 Orzhov Basilica 1 Plains 1 Shizo, Death's Storehouse 2 Swamp 2 Tendo Ice Bridge 1 Underground River 1 Watery Grave 3 Angel of Despair 3 Court Hussar 1 Ink-Eyes, Servant of Oni"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-28"
+[_metadata_:title]:- "Solar Flare"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-24 12:23:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170424122350id_/http://magic.wizards.com/en/articles/archive/feature/solar-flare-2011-09-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/solar-flare-2011-09-28"
 ---
 
 

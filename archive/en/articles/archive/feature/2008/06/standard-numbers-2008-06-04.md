@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021045238/https://magic.wizards.com/en/articles/archive/feature/standard-numbers-2008-06-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-numbers-2008-06-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021045238id_/https://magic.wizards.com/en/articles/archive/feature/standard-numbers-2008-06-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:52:38+00:00"
+[_metadata_:author]:- "Paul Jordan"
 [_metadata_:description]:- "HOLLYWOOD DECKLISTSTop 8 Decklists Day 2 Decklists Day 1 Decklists, A-M Day 1 Decklists, N-Z Pro Tour–Hollywood has come and gone. Charles Gindy reminded us what Sol Malka tried to tell us so many years ago and Uri Peleg confirmed last December: green and black is an extremely powerful combination. The Pros are done with Standard for now (with the exception of a Grand Prix in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-06-04"
+[_metadata_:title]:- "Standard By The Numbers"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:52:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021045238id_/https://magic.wizards.com/en/articles/archive/feature/standard-numbers-2008-06-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-numbers-2008-06-04"
 ---
 
 

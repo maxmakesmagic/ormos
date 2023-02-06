@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118125629/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000fourth-draft-feature-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000fourth-draft-feature-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118125629id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000fourth-draft-feature-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 12:56:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Going into the final draft Brian Selden was in 7th place at 8-2-1. He was feeding Christer Ljones, who was 4th at 9-2 (the only 9-2, oddly enough). At their previous tables, Selden had drafted green/red while Ljones drafted green/black. Selden's first pack had Cateran Overlord, War cadence, Rishadan Commander, Groundskeeper, and Nightwind Glider. Selden went"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Fourth Draft Feature"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 12:56:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118125629id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000fourth-draft-feature-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000fourth-draft-feature-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021213230/https://magic.wizards.com/en/articles/archive/feature/2005-south-african-nationals-invite-list-2004-04-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2005-south-african-nationals-invite-list-2004-04-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021213230id_/https://magic.wizards.com/en/articles/archive/feature/2005-south-african-nationals-invite-list-2004-04-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 21:32:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "2005 South African Nationals Information Page First NameLast NameWhere FromMarcoParavanoTop 4 2004 ZA NatsRussellTanchelTop 4 2004 ZA NatsSteveGersonTop 4 2004 ZA NatsStefanVeselyBloemfontein National QualifierIanvan der ColfBloemfontein National QualifierAndreGouwsBloemfontein National QualifierMichaelChungBloemfontein National QualifierP.c.van der WesthuizenBloemfontein"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-04-21"
+[_metadata_:title]:- "2005 South African Nationals Invite List"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 21:32:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021213230id_/https://magic.wizards.com/en/articles/archive/feature/2005-south-african-nationals-invite-list-2004-04-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2005-south-african-nationals-invite-list-2004-04-21"
 ---
 
 

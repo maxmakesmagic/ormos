@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220815153440/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-trial-schedule-2003-07-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-trial-schedule-2003-07-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815153440id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-trial-schedule-2003-07-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 15:34:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Australia/New Zealand Trials | Asia Trials Australia/New ZealandOrganiserVenueStreet AddressCityStateDatePhone NumberEmail Manuel StamatakisMega Games TraderShop 26/27 Top Ryde Shopping CentreRydeNSW9-Aug-0302 9808 1911megagame@hotkey.net.au Matt ArmstrongGaming KnightsLevel 1 of 2 Rock O'Kashel Lane GeelongVIC9-Aug-0303 5221 0637mra1977@hotmail.com Angus FosterDubbo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-07-18"
+[_metadata_:title]:- "Grand Prix - Sydney Trial Schedule"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 15:34:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815153440id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-trial-schedule-2003-07-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-trial-schedule-2003-07-18"
 ---
 
 

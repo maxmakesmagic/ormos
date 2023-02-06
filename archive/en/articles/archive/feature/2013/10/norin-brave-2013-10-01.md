@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210125133159/https://magic.wizards.com/en/articles/archive/feature/norin-brave-2013-10-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/norin-brave-2013-10-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125133159id_/https://magic.wizards.com/en/articles/archive/feature/norin-brave-2013-10-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-25 13:31:59+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Every time I think I've got Modern figured out, a new character shows up. This time, it happens to be everyone's favorite adventurer, none other than Norin the Wary. Norin made his debut in the flavor text of Alpha's Jade Statue, and his legacy continues in that vein. Finally, he got his own card in Time Spiral and was widely derided as one of the least useful cards in the set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-01"
+[_metadata_:title]:- "Norin the Brave"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-25 13:31:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125133159id_/https://magic.wizards.com/en/articles/archive/feature/norin-brave-2013-10-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/norin-brave-2013-10-01"
 ---
 
 

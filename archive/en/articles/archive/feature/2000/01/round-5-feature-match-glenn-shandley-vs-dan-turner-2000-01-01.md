@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220529011546/https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-glenn-shandley-vs-dan-turner-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-glenn-shandley-vs-dan-turner-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529011546id_/https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-glenn-shandley-vs-dan-turner-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 01:15:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Luke Hancock Dan Turner has played in Pro Tour: New York while Glenn Shandley is easily one of the most recognisable Magic: The Gathering players in Australia. Glenn is playing a b/u deck heavily based around a large mercenary chain and Dan is playing a u/g deck with a large amount of fat creatures such as Avatar of Will and Darba and blue creature control such as Withdraw"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 5 Feature Match - Glenn Shandley vs. Dan Turner"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 01:15:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529011546id_/https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-glenn-shandley-vs-dan-turner-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-glenn-shandley-vs-dan-turner-2000-01-01"
 ---
 
 

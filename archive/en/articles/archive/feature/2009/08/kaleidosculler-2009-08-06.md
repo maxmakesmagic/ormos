@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019093233/https://magic.wizards.com/en/articles/archive/feature/kaleidosculler-2009-08-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kaleidosculler-2009-08-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019093233id_/https://magic.wizards.com/en/articles/archive/feature/kaleidosculler-2009-08-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 09:32:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Th00mor Format: Kaleidoscope 2 City of Brass 4 Exotic Orchard 2 Gemstone Mine 1 Novijen, Heart of Progress 4 Pillar of the Paruns 1 Plains 4 Reflecting Pool 2 Vivid Creek 4 Vivid Meadow 4 Kitchen Finks 4 Meddling Mage 4 Mystic Snake 2 Oversoul of Dusk 4 Tidehollow Sculler 4 Bant Charm 4 Electrolyze 4 Lightning Helix 2 Soul Manipulation 4 Trial // Error *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-06"
+[_metadata_:title]:- "Kaleidosculler"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 09:32:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019093233id_/https://magic.wizards.com/en/articles/archive/feature/kaleidosculler-2009-08-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kaleidosculler-2009-08-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528010200/https://magic.wizards.com/en/articles/archive/feature/2011-belgium-national-championship-2009-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-belgium-national-championship-2009-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528010200id_/https://magic.wizards.com/en/articles/archive/feature/2011-belgium-national-championship-2009-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 01:02:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: July 29-31, 2011Event Location: Outpost AntwerpenAddress: Beggaardenstraat 6, Antwerpen, BelgiumEligibilityThe Magic: the Gathering Belgium National Championship is an invitation-only event, open to citizens or permanent residents of Belgium who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers.Registration"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 Belgium National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 01:02:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528010200id_/https://magic.wizards.com/en/articles/archive/feature/2011-belgium-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-belgium-national-championship-2009-04-27"
 ---
 
 

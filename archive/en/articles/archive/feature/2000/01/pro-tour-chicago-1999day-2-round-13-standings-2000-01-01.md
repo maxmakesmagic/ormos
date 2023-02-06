@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124015730/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-13-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-13-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124015730id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-13-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 01:57:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Luhrs, Christian 34 63.2854 75.0000 58.0326 13/11/1/0 2 Comer, Alan 33 58.4954 73.3333 55.3846 13/11/0/0 3 Maher Jr., Bob 32 57.6219 71.8750 55.3790 13/10/2/0 4 Dobson, Tony 31 67.7092 65.7143 60.8174 13/10/1/0 5 Levy, Raphael 31 62.9191 70.0000 58.8804 13/10/1/0 6 Fuentes, Hector 30 64.3956 70.0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Day 2 Round 13 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 01:57:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124015730id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-13-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-13-standings-2000-01-01"
 ---
 
 

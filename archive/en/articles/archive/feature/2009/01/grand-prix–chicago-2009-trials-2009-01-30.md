@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520225923/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93chicago-2009-trials-2009-01-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93chicago-2009-trials-2009-01-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520225923id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93chicago-2009-trials-2009-01-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 22:59:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with the local organizer for specific information.FormatLegacy-constructed format Deck lists are required Tournament LengthSwiss rounds will each be 50 minutes in length Top 8 matches will have no time limit Number of Swiss rounds based on attendance according to the following chart:Attendance Swiss rounds 17 - 32 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-30"
+[_metadata_:title]:- "Grand Prix–Chicago 2009 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 22:59:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520225923id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93chicago-2009-trials-2009-01-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93chicago-2009-trials-2009-01-30"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220811024713/https://magic.wizards.com/en/articles/archive/feature/best-2013-marking-your-territory-2014-01-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-marking-your-territory-2014-01-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811024713id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-marking-your-territory-2014-01-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 02:47:13+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "It was no surprise to see Josh Utter-Leyton attacking with Tarmogoyf and Dark Confidant at the World Championship, as he's played Jund at almost every Modern tournament he's played in. The strange part was seeing him playing straight BG, eschewing the red from the deck entirely. As a replacement for Lightning Bolt, Josh turned to Dismember and... Deathmark? In the biggest"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-01-07"
+[_metadata_:title]:- "Best of 2013: Marking Your Territory"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 02:47:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811024713id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-marking-your-territory-2014-01-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-marking-your-territory-2014-01-07"
 ---
 
 

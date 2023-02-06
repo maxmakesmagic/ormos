@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170401024055/http://magic.wizards.com/en/articles/archive/feature/zendikar-mono-green-2009-10-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zendikar-mono-green-2009-10-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170401024055id_/http://magic.wizards.com/en/articles/archive/feature/zendikar-mono-green-2009-10-28"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-01 02:40:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Joshua Sanders's Mono-Green Format: Zendikar Booster Draft 16 Forest 1 Misty Rainforest 1 Frontier Guide 1 Grazing Gladehart 1 Greenweaver Druid 1 Joraga Bard 1 Mold Shambler 1 Nissa's Chosen 1 Oran-Rief Recluse 2 Oran-Rief Survivalist 2 River Boa 1 Territorial Baloth 1 Timbermaw Larva 1 Turntimber Ranger 2 Vastwood Gorger 1 Baloth Cage Trap 1 Cobra Trap 1 Harrow 1 Khalni Heart Expedition 1 Primal Bellow"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-28"
+[_metadata_:title]:- "Zendikar Mono-Green"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-01 02:40:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170401024055id_/http://magic.wizards.com/en/articles/archive/feature/zendikar-mono-green-2009-10-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zendikar-mono-green-2009-10-28"
 ---
 
 

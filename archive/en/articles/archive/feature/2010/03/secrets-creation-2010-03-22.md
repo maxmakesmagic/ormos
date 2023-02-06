@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170321114925/http://magic.wizards.com/en/articles/archive/feature/secrets-creation-2010-03-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/secrets-creation-2010-03-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170321114925id_/http://magic.wizards.com/en/articles/archive/feature/secrets-creation-2010-03-22"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-21 11:49:25+00:00"
+[_metadata_:author]:- "Garrett Baumgartner"
 [_metadata_:description]:- "Zendikar and Worldwake have been a successful stab at evoking the flavor of exploration and discovery, and with that theme's time in the sun soon to overshadowed by the Rise of the Eldrazi, it seems fitting to take this opportunity to uncover more secrets about how the game comes together. So today I'm going to let you in on some of the more nuts-and-bolts aspects of what we concern ourselves behind the scenes, and what we worry about to make sure Vorthoses everywhere have a good feeling when they open new packs of cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-22"
+[_metadata_:title]:- "The Secrets of Creation"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-21 11:49:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170321114925id_/http://magic.wizards.com/en/articles/archive/feature/secrets-creation-2010-03-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/secrets-creation-2010-03-22"
 ---
 
 

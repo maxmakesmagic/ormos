@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017015010/https://magic.wizards.com/en/articles/archive/feature/standard-singleton-2010-08-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-singleton-2010-08-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017015010id_/https://magic.wizards.com/en/articles/archive/feature/standard-singleton-2010-08-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 01:50:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: karakusk Format: Standard Singleton 1 Dread Statuary 1 Eldrazi Temple 1 Evolving Wilds 7 Forest 1 Halimar Depths 8 Island 1 Khalni Garden 1 Misty Rainforest 1 Scalding Tarn 1 Seaside Citadel 1 Tectonic Edge 1 Terramorphic Expanse 1 Verdant Catacombs 1 Acidic Slime 1 Avenger of Zendikar 1 Birds of Paradise 1 Fauna Shaman 1 Joraga Treespeaker 1 Kozilek, Butcher"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-26"
+[_metadata_:title]:- "Standard Singleton"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 01:50:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017015010id_/https://magic.wizards.com/en/articles/archive/feature/standard-singleton-2010-08-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-singleton-2010-08-26"
 ---
 
 

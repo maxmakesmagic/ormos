@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170724005417/http://magic.wizards.com/en/articles/archive/feature/mono-black-control-2011-05-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-black-control-2011-05-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170724005417id_/http://magic.wizards.com/en/articles/archive/feature/mono-black-control-2011-05-23"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-24 00:54:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Frank Lepore's Mono-Black Control Format: Standard 4 Inkmoth Nexus 18 Swamp 3 Tectonic Edge 2 Grave Titan 2 Hex Parasite 1 Sheoldred, Whispering One 2 Karn Liberated 2 Liliana Vess 1 Batterskull 2 Black Sun's Zenith 2 Dismember 1 Duress 3 Everflowing Chalice 3 Go for the Throat 4 Inquisition of Kozilek 2 Lashwrithe 1 Life's Finale 4 Tezzeret's Gambit 3 Tumble Magnet *1 Black Sun's Zenith *1 Contagion Engine"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-05-23"
+[_metadata_:title]:- "Mono-Black Control"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-24 00:54:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170724005417id_/http://magic.wizards.com/en/articles/archive/feature/mono-black-control-2011-05-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-black-control-2011-05-23"
 ---
 
 

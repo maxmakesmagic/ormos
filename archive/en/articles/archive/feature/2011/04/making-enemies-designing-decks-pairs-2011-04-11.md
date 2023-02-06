@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170309082131/http://magic.wizards.com/en/articles/archive/feature/making-enemies-designing-decks-pairs-2011-04-11)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/making-enemies-designing-decks-pairs-2011-04-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309082131id_/http://magic.wizards.com/en/articles/archive/feature/making-enemies-designing-decks-pairs-2011-04-11"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 08:21:31+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Back when I was a lad, before all this Internet business, we got our Magic news and strategy on good old-fashioned paper, in the pages of The Duelist. A lot of what's in those pages is interesting these days only as a historical curio, but a lot of it remains fresh and relevant today."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-11"
+[_metadata_:title]:- "Making Enemies: Designing Decks in Pairs"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 08:21:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309082131id_/http://magic.wizards.com/en/articles/archive/feature/making-enemies-designing-decks-pairs-2011-04-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/making-enemies-designing-decks-pairs-2011-04-11"
 ---
 
 

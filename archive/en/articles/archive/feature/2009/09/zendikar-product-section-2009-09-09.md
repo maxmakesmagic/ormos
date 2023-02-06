@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020145645/https://magic.wizards.com/en/articles/archive/feature/zendikar-product-section-2009-09-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-product-section-2009-09-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020145645id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-product-section-2009-09-09"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:56:45+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "We're one week closer to the Zendikar Prerelease (September 26-27), and the Product Section has updated! There's a new puzzle, a new wallpaper, and a new setting preview: The Races of Zendikar! Oooooh .... flavorful! And the Visual Spoiler, an archive of all preview cards that have been officially released. Did you see the cards that got previewed at PAX? They're good! Watch"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-09"
+[_metadata_:title]:- "Zendikar Product Section"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:56:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020145645id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-product-section-2009-09-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-product-section-2009-09-09"
 ---
 
 

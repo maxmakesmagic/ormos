@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170508070536/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-ebooks-2012-09-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-ebooks-2012-09-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170508070536id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-ebooks-2012-09-13"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-08 07:05:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Dragon's Maze: The Secretist, Part Three  A Planeswalker Novella Ravnica's ten guilds are poised to run the Implicit Maze and unlock the power at its heart."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-13"
+[_metadata_:title]:- "Magic: The Gathering eBooks"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-08 07:05:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170508070536id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-ebooks-2012-09-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-ebooks-2012-09-13"
 ---
 
 

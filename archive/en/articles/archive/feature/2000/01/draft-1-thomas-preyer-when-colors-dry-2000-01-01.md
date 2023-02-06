@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211203140736/https://magic.wizards.com/en/articles/archive/feature/draft-1-thomas-preyer-when-colors-dry-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-1-thomas-preyer-when-colors-dry-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203140736id_/https://magic.wizards.com/en/articles/archive/feature/draft-1-thomas-preyer-when-colors-dry-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 14:07:36+00:00"
+[_metadata_:author]:- "Pete Norris"
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Draft 1: Thomas Preyer. When colors dry up..."
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 14:07:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203140736id_/https://magic.wizards.com/en/articles/archive/feature/draft-1-thomas-preyer-when-colors-dry-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-1-thomas-preyer-when-colors-dry-2000-01-01"
 ---
 
 

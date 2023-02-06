@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124044046/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-fact-sheet-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-fact-sheet-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124044046id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-fact-sheet-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:40:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic: The Gathering -  Pro Tour - New York Qualifier Team Event April 28-30, 2000 The Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to the Pro Tour. Tournament Format & Schedule The format for Grand Prix - Nagoya will be DCI Trio Team Sealed Deck with Team Rochester Draft for Day 2. Friday, April 28  Grand Prix registration, 3:00-9:00pm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Nagoya 2000 Fact Sheet"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:40:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124044046id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-fact-sheet-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-fact-sheet-2000-01-01"
 ---
 
 

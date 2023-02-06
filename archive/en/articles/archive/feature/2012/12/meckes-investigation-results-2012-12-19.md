@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022154353/https://magic.wizards.com/en/articles/archive/feature/meckes-investigation-results-2012-12-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/meckes-investigation-results-2012-12-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022154353id_/https://magic.wizards.com/en/articles/archive/feature/meckes-investigation-results-2012-12-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 15:43:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "After investigating the incident involving Josh Meckes at Grand Prix Toronto, the Investigations Committee has determined that the infraction was not intentional. Wizards of the Coast supports and encourages players to express their opinions via public media, however we ask that such expressions avoid accusations and other demeaning language. We value fairness and fun, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-19"
+[_metadata_:title]:- "Meckes Investigation Results"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 15:43:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022154353id_/https://magic.wizards.com/en/articles/archive/feature/meckes-investigation-results-2012-12-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/meckes-investigation-results-2012-12-19"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527133120/https://magic.wizards.com/en/articles/archive/feature/us-open-3-top-8-decks-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-3-top-8-decks-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527133120id_/https://magic.wizards.com/en/articles/archive/feature/us-open-3-top-8-decks-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 13:31:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "DUSTIN ALLEN (Tinker) CREATURES (5) 1 Karn, Silver Golem 3 Masticore 1 Phyrexian Colossus SPELLS (33) 2 Crumbling Sanctuary 4 Grim Monolith 1 Mishra's Helix 3 Phyrexian Processor 1 Ring of Gix 4 Sky Diamond 3 Stroke of Genius 4 Thran Dynamo 2 Thwart 4 Tinker 4 Voltaic Key 1 Worn Powerstone LAND (22) 4 Crystal Vein 14 Island 4 Rishadan Port SIDEBOARD 1 Masticore 3 Tangle Wire 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Open 3 Top 8 Decks"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 13:31:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527133120id_/https://magic.wizards.com/en/articles/archive/feature/us-open-3-top-8-decks-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-3-top-8-decks-2000-01-01"
 ---
 
 

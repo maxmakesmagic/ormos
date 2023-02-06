@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017220304/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-2005-10-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-2005-10-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017220304id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-2005-10-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 22:03:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Win a trip to the next Grand Prix ...and many other Magic prizes! Since it's the last Grand Prix of the year and since X-Mas is coming soon, we are offering a trip to Pro Tour Prague instead! At"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-10-06"
+[_metadata_:title]:- "Grand Prix - Lille"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 22:03:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017220304id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-2005-10-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-2005-10-06"
 ---
 
 

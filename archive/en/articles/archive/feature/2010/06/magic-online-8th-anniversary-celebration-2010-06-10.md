@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024042139/https://magic.wizards.com/en/articles/archive/feature/magic-online-8th-anniversary-celebration-2010-06-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-8th-anniversary-celebration-2010-06-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024042139id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-8th-anniversary-celebration-2010-06-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:21:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "June 20 marks Magic Online's 8th anniversary and we will be celebrating with 10 days of events beginning Friday June 11!The Magic Online 8th Anniversary celebration will consist of of 4 parts: Mirage and Tempest Blocks Return 5 Ticket Constructed Premier Events Employee Gunslinging Double Magic Online Player Reward points for all TournamentsMIRAGE BLOCK AND TEMPEST BLOCK"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-10"
+[_metadata_:title]:- "Magic Online 8th Anniversary Celebration!"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:21:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024042139id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-8th-anniversary-celebration-2010-06-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-8th-anniversary-celebration-2010-06-10"
 ---
 
 

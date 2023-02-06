@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161204094421/http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-week-1-2016-12-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-week-1-2016-12-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161204094421id_/http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-week-1-2016-12-02"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-04 09:44:21+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "If you need inspiration for what to play in the second week of Standard Showdown events, take a look at some of the decks from Week 1!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-12-02"
+[_metadata_:title]:- "Standard Showdown Decks, Week 1"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-04 09:44:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161204094421id_/http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-week-1-2016-12-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-week-1-2016-12-02"
 ---
 
 

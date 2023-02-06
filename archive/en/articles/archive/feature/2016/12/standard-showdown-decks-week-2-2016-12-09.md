@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161211135403/http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-week-2-2016-12-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-week-2-2016-12-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161211135403id_/http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-week-2-2016-12-09"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-11 13:54:03+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Take a look at some of the best decks from the second week of the Standard Showdown!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-12-09"
+[_metadata_:title]:- "Standard Showdown Decks, Week 2"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-11 13:54:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161211135403id_/http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-week-2-2016-12-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/standard-showdown-decks-week-2-2016-12-09"
 ---
 
 

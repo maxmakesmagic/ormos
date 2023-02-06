@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519064258/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519064258id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:42:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 4 Results Table Player 1 Result Player 2 1 Goldbaum, Nils 2-0-0 Joensson, Andreas 2 Hacker, Brian 2-0-0 Shvartsman, Alex 3 Karlsson, Morgan 2-0-0 Dolstra, Menno 4 Van Cleave, Trey 01/01/00 Jorstedt, Mattias 5 Twiefel, Torben 0-1-0 Yeh, Gottlieb 6 Refsdal, Thomas 0-2-0 Cieslikowski, Marcin 7 Kettil, Mattias 01/02/00 Dam, Lars 8 Gemünd, Tobias 0-2-0 Wills, Scott 9 van den"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:42:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519064258id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-23"
 ---
 
 

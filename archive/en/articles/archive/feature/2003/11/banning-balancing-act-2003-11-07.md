@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160302101554/http://magic.wizards.com/en/articles/archive/feature/banning-balancing-act-2003-11-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/banning-balancing-act-2003-11-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160302101554id_/http://magic.wizards.com/en/articles/archive/feature/banning-balancing-act-2003-11-07"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-02 10:15:54+00:00"
 [_metadata_:description]:- "I spent last weekend at Pro Tour New Orleans and a lot of people asked me what I thought of the format and what was going to get banned. This week I want to use this column to publicly answer some of these questions."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-11-07"
+[_metadata_:title]:- "The Banning Balancing Act"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-02 10:15:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160302101554id_/http://magic.wizards.com/en/articles/archive/feature/banning-balancing-act-2003-11-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/banning-balancing-act-2003-11-07"
 ---
 
 

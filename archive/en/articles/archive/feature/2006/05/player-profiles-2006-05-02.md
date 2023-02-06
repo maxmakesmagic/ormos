@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025234956/https://magic.wizards.com/en/articles/archive/feature/player-profiles-2006-05-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/player-profiles-2006-05-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025234956id_/https://magic.wizards.com/en/articles/archive/feature/player-profiles-2006-05-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 23:49:56+00:00"
+[_metadata_:author]:- "Olivier Ruel"
 [_metadata_:description]:- "Go AnanGo Anan, a name that is familiar to most of the constructed players. Who has never seen a “Go Anan deck” in a GP or PT Top 8? You’ve never heard of him? Go and type Go Anan deck on Google, you’ll have about 26 000 responses.I had heard so much about Go Anan before actually meeting him that at some point I actually thought he did not even exist, that he was just an urban"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-05-02"
+[_metadata_:title]:- "Player Profiles"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 23:49:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025234956id_/https://magic.wizards.com/en/articles/archive/feature/player-profiles-2006-05-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/player-profiles-2006-05-02"
 ---
 
 

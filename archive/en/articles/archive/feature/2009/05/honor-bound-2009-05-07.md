@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150318000505/http://magic.wizards.com/en/articles/archive/feature/honor-bound-2009-05-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/honor-bound-2009-05-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150318000505id_/http://magic.wizards.com/en/articles/archive/feature/honor-bound-2009-05-07"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-18 00:05:05+00:00"
+[_metadata_:author]:- "Jenna Helland"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-07"
+[_metadata_:title]:- "Honor Bound"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-18 00:05:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150318000505id_/http://magic.wizards.com/en/articles/archive/feature/honor-bound-2009-05-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/honor-bound-2009-05-07"
 ---
 
 

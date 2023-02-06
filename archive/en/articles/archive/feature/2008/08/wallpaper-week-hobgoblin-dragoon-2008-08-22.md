@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220704144452/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-hobgoblin-dragoon-2008-08-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-hobgoblin-dragoon-2008-08-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704144452id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-hobgoblin-dragoon-2008-08-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-04 14:44:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Matt Cavotta's Hobgoblin Dragoon from the Eventide set. Enjoy. 1280x1024 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-22"
+[_metadata_:title]:- "Wallpaper of the Week: Hobgoblin Dragoon"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-04 14:44:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704144452id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-hobgoblin-dragoon-2008-08-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-hobgoblin-dragoon-2008-08-22"
 ---
 
 

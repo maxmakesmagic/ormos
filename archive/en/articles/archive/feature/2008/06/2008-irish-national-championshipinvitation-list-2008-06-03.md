@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020042411/https://magic.wizards.com/en/articles/archive/feature/2008-irish-national-championshipinvitation-list-2008-06-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-irish-national-championshipinvitation-list-2008-06-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020042411id_/https://magic.wizards.com/en/articles/archive/feature/2008-irish-national-championshipinvitation-list-2008-06-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 04:24:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated 2008-06-26QUICK LINKS  Format & Schedule Qualifier Fact Sheet Qualifier Locations   Invitations to 2008 Irish National Championship are awarded in the following manner: The 2007 National Champion. The 2007 National Team Member. The 2007 World Champion (if residing in that country). The 2007 Pro Player of the Year (if residing in that country). Players with 2008 Pro"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-06-03"
+[_metadata_:title]:- "2008 Irish National ChampionshipInvitation List"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 04:24:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020042411id_/https://magic.wizards.com/en/articles/archive/feature/2008-irish-national-championshipinvitation-list-2008-06-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-irish-national-championshipinvitation-list-2008-06-03"
 ---
 
 

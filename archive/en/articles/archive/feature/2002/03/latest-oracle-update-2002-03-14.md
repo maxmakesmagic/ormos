@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170322214235/http://magic.wizards.com/en/articles/archive/feature/latest-oracle-update-2002-03-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/latest-oracle-update-2002-03-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170322214235id_/http://magic.wizards.com/en/articles/archive/feature/latest-oracle-update-2002-03-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-22 21:42:35+00:00"
+[_metadata_:author]:- "Paul Barclay"
 [_metadata_:description]:- "For fans of rules minutiae, here is the latest Oracle update in its entirety.The Magic rules team is constantly working to make sure old cards (written under old rules) are compatible with the current system. As such, some old cards need their wordings `tweaked.`These changes reflect how the cards will be treated in tournaments. If you are playing for fun, the Oracle can be used to clarify old wordings or settle disputes regarding rules."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-03-14"
+[_metadata_:title]:- "Latest Oracle Update"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-22 21:42:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170322214235id_/http://magic.wizards.com/en/articles/archive/feature/latest-oracle-update-2002-03-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/latest-oracle-update-2002-03-14"
 ---
 
 

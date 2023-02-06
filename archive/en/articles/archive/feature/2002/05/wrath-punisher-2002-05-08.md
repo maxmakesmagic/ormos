@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120001334/https://magic.wizards.com/en/articles/archive/feature/wrath-punisher-2002-05-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wrath-punisher-2002-05-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120001334id_/https://magic.wizards.com/en/articles/archive/feature/wrath-punisher-2002-05-08"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:13:34+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "In Randy’s article two Fridays ago, he explained that red is the color of passion, emotion, and rage. But let’s not fool ourselves, when you have a mechanic like the Punisher mechanic, you don’t want your color to sound like it's sharing feelings at a group hug session. No my friends, the Punisher mechanic is red, and red shouts. And what it shouts is, “Give me what I want or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-05-08"
+[_metadata_:title]:- "The Wrath of the Punisher"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:13:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120001334id_/https://magic.wizards.com/en/articles/archive/feature/wrath-punisher-2002-05-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wrath-punisher-2002-05-08"
 ---
 
 

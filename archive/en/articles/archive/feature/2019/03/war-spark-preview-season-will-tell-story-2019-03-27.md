@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190327201700/https://magic.wizards.com/en/articles/archive/feature/war-spark-preview-season-will-tell-story-2019-03-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/war-spark-preview-season-will-tell-story-2019-03-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190327201700id_/https://magic.wizards.com/en/articles/archive/feature/war-spark-preview-season-will-tell-story-2019-03-27"
-[_metadata_:wayback_capture_timestamp]:- "2019-03-27 20:17:00+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "The preview season for War of the Spark will showcase the story front and center as we reach the dramatic conclusion."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-03-27"
+[_metadata_:title]:- "War of the Spark Preview Season Will Tell a Story"
+[_metadata_:wayback_capture_timestamp]:- "2019-03-27 20:17:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190327201700id_/https://magic.wizards.com/en/articles/archive/feature/war-spark-preview-season-will-tell-story-2019-03-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/war-spark-preview-season-will-tell-story-2019-03-27"
 ---
 
 

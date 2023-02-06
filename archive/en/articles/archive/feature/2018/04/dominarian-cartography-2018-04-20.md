@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180420163057/https://magic.wizards.com/en/articles/archive/feature/dominarian-cartography-2018-04-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominarian-cartography-2018-04-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180420163057id_/https://magic.wizards.com/en/articles/archive/feature/dominarian-cartography-2018-04-20"
-[_metadata_:wayback_capture_timestamp]:- "2018-04-20 16:30:57+00:00"
+[_metadata_:author]:- "Ethan Fleischer"
 [_metadata_:description]:- "Ethan Fleischer recounts the sheer magnitude of work it took to bring the map of Dominaria to life."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-04-20"
+[_metadata_:title]:- "Dominarian Cartography"
+[_metadata_:wayback_capture_timestamp]:- "2018-04-20 16:30:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180420163057id_/https://magic.wizards.com/en/articles/archive/feature/dominarian-cartography-2018-04-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominarian-cartography-2018-04-20"
 ---
 
 

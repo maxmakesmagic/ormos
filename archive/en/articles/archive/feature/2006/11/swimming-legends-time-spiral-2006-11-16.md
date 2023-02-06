@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211206095851/https://magic.wizards.com/en/articles/archive/feature/swimming-legends-time-spiral-2006-11-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/swimming-legends-time-spiral-2006-11-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206095851id_/https://magic.wizards.com/en/articles/archive/feature/swimming-legends-time-spiral-2006-11-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 09:58:51+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "This is an introductory paragraph. This is the opening salvo where I remind you it is `Legends of Time Spiral Week` and conform that theme to the Constructed - specifically Standard-centric tournament Spike - themes of the Swimming With Sharks column. The paragraph concludes with our moving to the list of Time Spiral and `timeshifted` legends, with the promise of analyzing"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-16"
+[_metadata_:title]:- "Swimming with the Legends of Time Spiral"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 09:58:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206095851id_/https://magic.wizards.com/en/articles/archive/feature/swimming-legends-time-spiral-2006-11-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/swimming-legends-time-spiral-2006-11-16"
 ---
 
 

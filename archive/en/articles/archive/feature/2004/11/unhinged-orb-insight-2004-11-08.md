@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170702012244/http://magic.wizards.com/en/articles/archive/feature/unhinged-orb-insight-2004-11-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/unhinged-orb-insight-2004-11-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170702012244id_/http://magic.wizards.com/en/articles/archive/feature/unhinged-orb-insight-2004-11-08"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-02 01:22:44+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Last April 1st, I let you all in on the news that Unhinged was coming out. Many players bemoaned the fact that the set’s release was so far away. Well, that day is over. Maybe “over” is a bit strong. That day is close to being over. A week from this Friday (November 19, 2004 for those that like numbers) Unhinged will finally be released."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-08"
+[_metadata_:title]:- "Unhinged Orb of Insight"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-02 01:22:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170702012244id_/http://magic.wizards.com/en/articles/archive/feature/unhinged-orb-insight-2004-11-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/unhinged-orb-insight-2004-11-08"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816170646/https://magic.wizards.com/en/articles/archive/feature/brainstorming-birthing-pod-2013-10-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brainstorming-birthing-pod-2013-10-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816170646id_/https://magic.wizards.com/en/articles/archive/feature/brainstorming-birthing-pod-2013-10-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 17:06:46+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "It's always funny seeing a deck hop formats, especially when the new version is as faithful to the original as today's deck is. Birthing Pod is one of the biggest decks in Modern, using its namesake to tutor up a variety of answers and assemble the Melira, Sylvok Outcast + persist creature + sacrifice outlet combo, and it looks like it may have some legs in Legacy as well. The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-16"
+[_metadata_:title]:- "Brainstorming Birthing Pod"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 17:06:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816170646id_/https://magic.wizards.com/en/articles/archive/feature/brainstorming-birthing-pod-2013-10-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brainstorming-birthing-pod-2013-10-16"
 ---
 
 

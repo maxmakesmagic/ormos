@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523182940/https://magic.wizards.com/en/articles/archive/feature/maintaining-great-environment-events-2012-03-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/maintaining-great-environment-events-2012-03-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523182940id_/https://magic.wizards.com/en/articles/archive/feature/maintaining-great-environment-events-2012-03-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 18:29:40+00:00"
+[_metadata_:author]:- "Helene Bergeot"
 [_metadata_:description]:- "It is important for us to maintain a courteous and respectful environment at all Magic events. Participants are expected to demonstrate appropriate conduct towards others, whether they are players, spectators, judges or tournament officials. Disrespectful, harassing or bullying behavior, whether onsite or online, is not welcome at Magic events and violates Magic tournament"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-03-23"
+[_metadata_:title]:- "Maintaining a great environment at events"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 18:29:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523182940id_/https://magic.wizards.com/en/articles/archive/feature/maintaining-great-environment-events-2012-03-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/maintaining-great-environment-events-2012-03-23"
 ---
 
 

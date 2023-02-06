@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503081021/https://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-2005-11-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-2005-11-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503081021id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-2005-11-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 08:10:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Grand Prix—Richmond is presented by Star City EventsTournament Format And ScheduleThe format for Grand Prix–Richmond is Ravnica Block Limited, with day 2 Booster Draft. All DCI Limited-format"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-11-16"
+[_metadata_:title]:- "Grand Prix - Richmond"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 08:10:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503081021id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-2005-11-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-2005-11-16"
 ---
 
 

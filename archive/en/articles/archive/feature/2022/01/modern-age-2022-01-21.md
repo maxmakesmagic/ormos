@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121154926/https://magic.wizards.com/en/articles/archive/feature/modern-age-2022-01-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-age-2022-01-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121154926id_/https://magic.wizards.com/en/articles/archive/feature/modern-age-2022-01-21"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 15:49:26+00:00"
+[_metadata_:author]:- "Emily Teng"
 [_metadata_:description]:- "The stage is nearly set for present-day Kamigawa. Will the inhabitants of the Plane accommodate change in light of the new innovations and technologies of the modern age?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-01-21"
+[_metadata_:title]:- "The Modern Age"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 15:49:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121154926id_/https://magic.wizards.com/en/articles/archive/feature/modern-age-2022-01-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-age-2022-01-21"
 ---
 
 

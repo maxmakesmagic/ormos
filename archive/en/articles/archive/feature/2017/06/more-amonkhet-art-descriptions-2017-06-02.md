@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170605194723/http://magic.wizards.com/en/articles/archive/feature/more-amonkhet-art-descriptions-2017-06-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/more-amonkhet-art-descriptions-2017-06-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170605194723id_/http://magic.wizards.com/en/articles/archive/feature/more-amonkhet-art-descriptions-2017-06-02"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-05 19:47:23+00:00"
+[_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "Take a closer look at more of the fantastic art from Amonkhet, along with the art descriptions that led to the creation of each piece."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-06-02"
+[_metadata_:title]:- "More Amonkhet Art Descriptions"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-05 19:47:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170605194723id_/http://magic.wizards.com/en/articles/archive/feature/more-amonkhet-art-descriptions-2017-06-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/more-amonkhet-art-descriptions-2017-06-02"
 ---
 
 

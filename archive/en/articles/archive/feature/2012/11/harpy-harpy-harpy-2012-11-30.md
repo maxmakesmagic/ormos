@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170511190448/http://magic.wizards.com/en/articles/archive/feature/harpy-harpy-harpy-2012-11-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/harpy-harpy-harpy-2012-11-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170511190448id_/http://magic.wizards.com/en/articles/archive/feature/harpy-harpy-harpy-2012-11-30"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-11 19:04:48+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-30"
+[_metadata_:title]:- "Harpy, Harpy, Harpy"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-11 19:04:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170511190448id_/http://magic.wizards.com/en/articles/archive/feature/harpy-harpy-harpy-2012-11-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/harpy-harpy-harpy-2012-11-30"
 ---
 
 

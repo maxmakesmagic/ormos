@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171210060644/https://magic.wizards.com/en/articles/archive/feature/gds2-episode-4-design-challenge-elimination-2010-12-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gds2-episode-4-design-challenge-elimination-2010-12-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171210060644id_/https://magic.wizards.com/en/articles/archive/feature/gds2-episode-4-design-challenge-elimination-2010-12-22"
-[_metadata_:wayback_capture_timestamp]:- "2017-12-10 06:06:44+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "*/ It's time again to eliminate a candidate. After today, there will only be five designers remaining. I will list each designer's name. If you click on it you will see whether they are in or out. Candidates that are in will have a green CONTINUE PLAYING. The candidate that is eliminated will have a red GAME OVER. I will then give a short summary of where I feel they stand or why they were eliminated."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-22"
+[_metadata_:title]:- "GDS2, Episode 4: Design Challenge Elimination"
+[_metadata_:wayback_capture_timestamp]:- "2017-12-10 06:06:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171210060644id_/https://magic.wizards.com/en/articles/archive/feature/gds2-episode-4-design-challenge-elimination-2010-12-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gds2-episode-4-design-challenge-elimination-2010-12-22"
 ---
 
 

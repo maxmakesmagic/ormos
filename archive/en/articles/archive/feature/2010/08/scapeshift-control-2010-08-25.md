@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502041458/https://magic.wizards.com/en/articles/archive/feature/scapeshift-control-2010-08-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scapeshift-control-2010-08-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502041458id_/https://magic.wizards.com/en/articles/archive/feature/scapeshift-control-2010-08-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 04:14:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: _Batutinha_'s Scapeshift Control Format: Extended 4 Fire-Lit Thicket 2 Forest 4 Grove of the Burnwillows 10 Mountain 1 Oran-Rief, the Vastwood 3 Treetop Village 2 Valakut, the Molten Pinnacle 4 Bloodbraid Elf 4 Kitchen Finks 4 Tarmogoyf 3 Harmonize 3 Lightning Bolt 4 Punishing Fire 4 Rampant Growth 4 Scapeshift 4 Search for Tomorrow *4 Great Sable Stag *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-25"
+[_metadata_:title]:- "Scapeshift Control"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 04:14:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502041458id_/https://magic.wizards.com/en/articles/archive/feature/scapeshift-control-2010-08-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scapeshift-control-2010-08-25"
 ---
 
 

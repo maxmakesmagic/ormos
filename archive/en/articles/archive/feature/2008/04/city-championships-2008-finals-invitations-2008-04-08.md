@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170709163423/http://magic.wizards.com/en/articles/archive/feature/city-championships-2008-finals-invitations-2008-04-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/city-championships-2008-finals-invitations-2008-04-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170709163423id_/http://magic.wizards.com/en/articles/archive/feature/city-championships-2008-finals-invitations-2008-04-08"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-09 16:34:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "City ChampionshipsAll City Championships take place on April 12, 2008. They will be hosted at a store selected by Wizards within that region. The City Championships are 24K with a competitive REL and are Standard format. There is no entry fee for participating in a City Championship.Addional information:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-04-08"
+[_metadata_:title]:- "City Championships: 2008 Finals Invitations"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-09 16:34:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170709163423id_/http://magic.wizards.com/en/articles/archive/feature/city-championships-2008-finals-invitations-2008-04-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/city-championships-2008-finals-invitations-2008-04-08"
 ---
 
 

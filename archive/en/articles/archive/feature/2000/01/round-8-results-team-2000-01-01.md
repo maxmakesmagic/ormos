@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220628154757/https://magic.wizards.com/en/articles/archive/feature/round-8-results-team-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-results-team-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628154757id_/https://magic.wizards.com/en/articles/archive/feature/round-8-results-team-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-28 15:47:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentA Little Too SickLost 1-2vsThe Hubbsucker ProxyAlphaBetaUnlimited.com/Won 2-1vsMadam FishnutTeam FleesLost 0-3vsYour Move GamesDynastyWon 3-0vsHuey Brock and LindeFamily Games CenterLost 0-2vsThe Ken Ho All-StarsFrog EatersLost 1-2vsThe Ancient KavusGrape ApesLost 1-2vsTeam ClaspHuey Brock and LindeLost 0-3vsDynastyJust ConcedeLost 1-2vsRug DoctorsMadam"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 8 Results (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-28 15:47:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628154757id_/https://magic.wizards.com/en/articles/archive/feature/round-8-results-team-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-results-team-2000-01-01"
 ---
 
 

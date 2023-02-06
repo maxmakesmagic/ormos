@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129172824/https://magic.wizards.com/en/articles/archive/feature/character-building-2004-07-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/character-building-2004-07-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129172824id_/https://magic.wizards.com/en/articles/archive/feature/character-building-2004-07-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 17:28:24+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Over the years, Magic has spawned quite a number of memorable fictional characters. Gerrard Capashen. Memnarch. Osyp Lebedowicz. Through their trials and travails, we forge a deeper connection to the game and the underlying fantasy. Who among us could not suppress a wistful smirk when Ertai offered up counterspell denigrating a bumbling foe? Or when Glissa served up arrest at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-07-15"
+[_metadata_:title]:- "Character Building"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 17:28:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129172824id_/https://magic.wizards.com/en/articles/archive/feature/character-building-2004-07-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/character-building-2004-07-15"
 ---
 
 

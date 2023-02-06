@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429040956/https://magic.wizards.com/en/articles/archive/feature/magic-2010-intro-packs-2009-06-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2010-intro-packs-2009-06-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040956id_/https://magic.wizards.com/en/articles/archive/feature/magic-2010-intro-packs-2009-06-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:09:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic 2010 has some handsome intro packs. We bet you'd like to see them, wouldn't you? You would? Well, there's a coincidence. Because we happen to have some to show you! And we've got a display box to show you, but first let's take a break for Core Set Survivor! Core Set Survivor! There are exactly sixteen cards that have been in every core set from Alpha to Tenth Edition."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-22"
+[_metadata_:title]:- "Magic 2010 Intro Packs"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:09:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040956id_/https://magic.wizards.com/en/articles/archive/feature/magic-2010-intro-packs-2009-06-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2010-intro-packs-2009-06-22"
 ---
 
 

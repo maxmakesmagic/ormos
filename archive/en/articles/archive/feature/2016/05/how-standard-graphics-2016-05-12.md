@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160516120741/http://magic.wizards.com/en/articles/archive/feature/how-standard-graphics-2016-05-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/how-standard-graphics-2016-05-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160516120741id_/http://magic.wizards.com/en/articles/archive/feature/how-standard-graphics-2016-05-12"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-16 12:07:41+00:00"
+[_metadata_:author]:- "Diego Fumagalli"
 [_metadata_:description]:- "Standard can be a complex beast—until you break it down."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-05-12"
+[_metadata_:title]:- "How to Standard—in Graphics"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-16 12:07:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160516120741id_/http://magic.wizards.com/en/articles/archive/feature/how-standard-graphics-2016-05-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/how-standard-graphics-2016-05-12"
 ---
 
 

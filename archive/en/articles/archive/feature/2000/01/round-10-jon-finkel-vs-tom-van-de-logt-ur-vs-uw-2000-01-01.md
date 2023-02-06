@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202043531/https://magic.wizards.com/en/articles/archive/feature/round-10-jon-finkel-vs-tom-van-de-logt-ur-vs-uw-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-jon-finkel-vs-tom-van-de-logt-ur-vs-uw-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202043531id_/https://magic.wizards.com/en/articles/archive/feature/round-10-jon-finkel-vs-tom-van-de-logt-ur-vs-uw-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 04:35:31+00:00"
+[_metadata_:author]:- "Manuel Bevand"
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 10: Jon Finkel vs. Tom Van de Logt U/R vs. U/W"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 04:35:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202043531id_/https://magic.wizards.com/en/articles/archive/feature/round-10-jon-finkel-vs-tom-van-de-logt-ur-vs-uw-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-jon-finkel-vs-tom-van-de-logt-ur-vs-uw-2000-01-01"
 ---
 
 

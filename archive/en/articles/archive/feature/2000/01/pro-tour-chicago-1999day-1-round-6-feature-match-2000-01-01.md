@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211204210154/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-6-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-6-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204210154id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-6-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 21:01:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Terry Lau vs. Peter Radonjic The `eh`s were flying as these two Canadians at 3-1-1 asked Mark Rosewater to verify that the pairings were correct before being forced to attack each other to the death and a guaranteed day 2. Lau mulliganed on a no land draw (with 3 land on top of his deck causing a howl of anguish), then repeated the process, sparing himself the pain of looking"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Day 1 Round 6 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 21:01:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204210154id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-6-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-6-feature-match-2000-01-01"
 ---
 
 

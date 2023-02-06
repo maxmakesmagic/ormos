@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112020105/https://magic.wizards.com/en/articles/archive/feature/clamp-down-2004-01-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/clamp-down-2004-01-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020105id_/https://magic.wizards.com/en/articles/archive/feature/clamp-down-2004-01-08"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:01:05+00:00"
+[_metadata_:author]:- "Mark Gottlieb"
 [_metadata_:description]:- "It's hard to pinpoint the brokenest card in Darksteel. I mean, have you seen the set? (Don't answer that.) There are so many crazy and/or huge and/or undercosted and/or unkillable and/or otherwise cool cards that it's hard to believe the best one of all just might be an innocuous 1-mana uncommon Equipment. But it might be. Time will tell."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-01-08"
+[_metadata_:title]:- "Clamp Down"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:01:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020105id_/https://magic.wizards.com/en/articles/archive/feature/clamp-down-2004-01-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/clamp-down-2004-01-08"
 ---
 
 

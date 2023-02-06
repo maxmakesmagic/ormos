@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526085521/https://magic.wizards.com/en/articles/archive/feature/2011-hong-kong-national-championship-2009-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-hong-kong-national-championship-2009-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526085521id_/https://magic.wizards.com/en/articles/archive/feature/2011-hong-kong-national-championship-2009-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 08:55:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvitation Source LeungHon Chung2010 National Team YeungSun Kit2010 National Team KungYan2010 National Team Sze HangChan2010 Alternate YeungSun Kit2010 National Champion Sze HangChanTop 75 Country rating ZHANGMeng QiuTop 75 Country rating HoiChickTop 75 Country rating Shi TianLeeTop 75 Country rating King Yim KingstonTongTop 75 Country rating Wing LokTamTop 75 Country"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 Hong Kong National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 08:55:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526085521id_/https://magic.wizards.com/en/articles/archive/feature/2011-hong-kong-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-hong-kong-national-championship-2009-04-27"
 ---
 
 

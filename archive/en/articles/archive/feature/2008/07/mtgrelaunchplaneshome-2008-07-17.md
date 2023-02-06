@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211205193736/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneshome-2008-07-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneshome-2008-07-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205193736id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneshome-2008-07-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 19:37:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Multiverse—a boundless expanse of worlds, each different from the last. These worlds, called planes, differ as widely as the imagination. One plane might be covered entirely in dense jungle, for example. On another, city has replaced nature entirely. Still others are volcanic, icy, barren, or more like our own world, with many varied elements. Most planes are spheres with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-17"
+[_metadata_:title]:- "mtgrelaunch_planes_home"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 19:37:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205193736id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneshome-2008-07-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneshome-2008-07-17"
 ---
 
 

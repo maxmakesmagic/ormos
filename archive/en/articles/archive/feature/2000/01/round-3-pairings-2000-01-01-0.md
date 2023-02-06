@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029211425/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029211425id_/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:14:25+00:00"
 [_metadata_:description]:- "Table Player   Opponent 1 Da Silva, Valdecir Vieira vs. Santos, Bruno B 2 Rotemberg, Miguel vs. Uehara, Pedro Henrique S 3 Bickhol, Nicholas A. vs. Lobo, Ruben 4 Maciel, Julio C Silva vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 3 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:14:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029211425id_/https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-pairings-2000-01-01-0"
 ---
 
 

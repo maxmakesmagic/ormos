@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029063344/https://magic.wizards.com/en/articles/archive/feature/grandprixokayama04facts-2003-11-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixokayama04facts-2003-11-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029063344id_/https://magic.wizards.com/en/articles/archive/feature/grandprixokayama04facts-2003-11-24"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 06:33:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic: The Gathering Pro Tour – Kobe Qualifier January 24-25, 2004日本語の案内ページTrial Schedule"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-11-24"
+[_metadata_:title]:- "grandprix_okayama04_facts"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 06:33:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029063344id_/https://magic.wizards.com/en/articles/archive/feature/grandprixokayama04facts-2003-11-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixokayama04facts-2003-11-24"
 ---
 
 

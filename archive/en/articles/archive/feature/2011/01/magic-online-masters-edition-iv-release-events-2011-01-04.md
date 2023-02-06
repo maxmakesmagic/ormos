@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525094136/https://magic.wizards.com/en/articles/archive/feature/magic-online-masters-edition-iv-release-events-2011-01-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-masters-edition-iv-release-events-2011-01-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525094136id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-masters-edition-iv-release-events-2011-01-04"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:41:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Powerful spells and and classic artifacts highlight the Masters Edition IV set. Play with some of Magic's most beloved cards, many for the first time in Magic Online. Masters Edition IV goes on sale in the Magic Online Store on Monday, January 10 at 9:00 AM PST (17:00 UTC). All appropriate Classic format Daily Events, Premier Events, and Queues will switch to Masters Edition"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-01-04"
+[_metadata_:title]:- "Magic Online Masters Edition IV Release Events"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:41:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525094136id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-masters-edition-iv-release-events-2011-01-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-masters-edition-iv-release-events-2011-01-04"
 ---
 
 

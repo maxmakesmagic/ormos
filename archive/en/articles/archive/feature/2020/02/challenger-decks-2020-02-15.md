@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210128030157/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15?fbclid=IwAR0_ZZH-hy10LRPfKgXBAPUKqaKRN7fAQTaUJ_iLQcrfIIZe_FT6tWUa_fU)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15?fbclid=IwAR0_ZZH-hy10LRPfKgXBAPUKqaKRN7fAQTaUJ_iLQcrfIIZe_FT6tWUa_fU"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210128030157id_/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15?fbclid=IwAR0_ZZH-hy10LRPfKgXBAPUKqaKRN7fAQTaUJ_iLQcrfIIZe_FT6tWUa_fU"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-28 03:01:57+00:00"
+[_metadata_:author]:- "Kendall Pepple"
 [_metadata_:description]:- "New Challenger Decks are coming April 3. Get a look at what each deck will contain here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-02-15"
+[_metadata_:title]:- "Challenger Decks 2020"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-28 03:01:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210128030157id_/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15?fbclid=IwAR0_ZZH-hy10LRPfKgXBAPUKqaKRN7fAQTaUJ_iLQcrfIIZe_FT6tWUa_fU"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15?fbclid=IwAR0_ZZH-hy10LRPfKgXBAPUKqaKRN7fAQTaUJ_iLQcrfIIZe_FT6tWUa_fU"
 ---
 
 

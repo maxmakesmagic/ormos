@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521151945/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521151945id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 15:19:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 5 Standings  Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Wall, Mike 15 80,0000 100,0000 72,1865 5/5/0/0 2 Ruel, Antoine 15 80,0000 100,0000 69,6970 2/2/0/3 3 Maher, Bob 15 80,0000 90,9091 80,9091 2/2/0/3 4 Jocumsen, Bjorn 15 80,0000 90,9091 71,4646 3/3/0/2 5 Yeh, Gottlieb 15 80,0000 90,0000 80,9091 2/2/0/3 6 Canu, Franck 15 73,3333 100,0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 15:19:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521151945id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-26"
 ---
 
 

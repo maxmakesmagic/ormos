@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020220214/https://magic.wizards.com/en/articles/archive/feature/grand-prix-strasbourg-2013-trials-2012-11-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-strasbourg-2013-trials-2012-11-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020220214id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-strasbourg-2013-trials-2012-11-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 22:02:14+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Strasbourg Trials will be run at European WPN locations from January 19, 2013 to March 31, 2013. Each awards the winner a three-round bye to Grand Prix Strasbourg. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-01"
+[_metadata_:title]:- "Grand Prix Strasbourg 2013 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 22:02:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020220214id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-strasbourg-2013-trials-2012-11-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-strasbourg-2013-trials-2012-11-01"
 ---
 
 

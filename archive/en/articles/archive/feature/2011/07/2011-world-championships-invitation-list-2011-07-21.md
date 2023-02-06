@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027232427/https://magic.wizards.com/en/articles/archive/feature/2011-world-championships-invitation-list-2011-07-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-world-championships-invitation-list-2011-07-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027232427id_/https://magic.wizards.com/en/articles/archive/feature/2011-world-championships-invitation-list-2011-07-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 23:24:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Complete Magic Weekend San Francisco and 2011 World Championships InformationInvitations to the 2011 World Championships are awarded in the following manner: The current World Champion. The Top 8 finishers from the previous World Championship. The current Pro Tour Player of the Year. For countries that hold an invitation-only National Championship, the members of each national"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-07-21"
+[_metadata_:title]:- "2011 World Championships Invitation List"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 23:24:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027232427id_/https://magic.wizards.com/en/articles/archive/feature/2011-world-championships-invitation-list-2011-07-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-world-championships-invitation-list-2011-07-21"
 ---
 
 

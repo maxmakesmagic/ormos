@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126180233/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-11-pictures-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-11-pictures-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126180233id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-11-pictures-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:02:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Terry Tsang lost, 2-0, to Darwin Kastle in this round eleven feature match. That win gave Kastle a record so far of 8-2-1 Mike Long defeated David Williams, 2-0, and went to a record of 8-2-1  Christer Ljones and Kurt Burgner in a rematch of their Round Seven feature match. Yesterday, Kurt won, 2-0. In this round eleven feature match, Ljones got revenge, winning 2-1 and giving"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 11 Pictures"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:02:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126180233id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-11-pictures-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-11-pictures-2000-01-01"
 ---
 
 

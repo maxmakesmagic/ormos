@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211206063931/https://magic.wizards.com/en/articles/archive/feature/round-3-rob-dougherty-vs-jon-finkel-replenish-vs-tinker-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-rob-dougherty-vs-jon-finkel-replenish-vs-tinker-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206063931id_/https://magic.wizards.com/en/articles/archive/feature/round-3-rob-dougherty-vs-jon-finkel-replenish-vs-tinker-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 06:39:31+00:00"
+[_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 3: Rob Dougherty vs. Jon Finkel Replenish vs. Tinker"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 06:39:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206063931id_/https://magic.wizards.com/en/articles/archive/feature/round-3-rob-dougherty-vs-jon-finkel-replenish-vs-tinker-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-rob-dougherty-vs-jon-finkel-replenish-vs-tinker-2000-01-01"
 ---
 
 

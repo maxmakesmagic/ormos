@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503043005/https://magic.wizards.com/en/articles/archive/feature/conspiring-conspiracy-2014-05-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/conspiring-conspiracy-2014-05-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503043005id_/https://magic.wizards.com/en/articles/archive/feature/conspiring-conspiracy-2014-05-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:30:05+00:00"
+[_metadata_:author]:- "Shawn Main"
 [_metadata_:description]:- "Conspiracy is a multiplayer draft format all about subtlety, diplomacy, backstabbing, nuance, and betrayal. Well, mostly. Multiplayer can be about a lot of things. Sometimes, it's just about having the biggest hammer and smashing faces. It's just like the old saying goes: `The best defense is an anarchist dragon throwing open the gates to the smiling courtiers and leading a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-20"
+[_metadata_:title]:- "Conspiring a Conspiracy"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:30:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503043005id_/https://magic.wizards.com/en/articles/archive/feature/conspiring-conspiracy-2014-05-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/conspiring-conspiracy-2014-05-20"
 ---
 
 

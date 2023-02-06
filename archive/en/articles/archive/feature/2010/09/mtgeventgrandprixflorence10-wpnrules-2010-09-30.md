@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019083237/https://magic.wizards.com/en/articles/archive/feature/mtgeventgrandprixflorence10-wpnrules-2010-09-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgeventgrandprixflorence10-wpnrules-2010-09-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019083237id_/https://magic.wizards.com/en/articles/archive/feature/mtgeventgrandprixflorence10-wpnrules-2010-09-30"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 08:32:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Il vincitore del torneo finale Campionato WPN - Firenze vince il premio descritto qui sotto. Il torneo finale si svolge domenica 28 novembre, durante il GP Firenze 2010 di Magic: The Gathering, alla Fortezza da Basso in Firenze, Italia. Il formato della finale del Campionato WPN è Standard Constructed. Non c'è alcun costo di iscrizione per la finale del Campionato WPN. Per"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-30"
+[_metadata_:title]:- "mtg_event_grandprix_florence10-wpnrules"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 08:32:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019083237id_/https://magic.wizards.com/en/articles/archive/feature/mtgeventgrandprixflorence10-wpnrules-2010-09-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgeventgrandprixflorence10-wpnrules-2010-09-30"
 ---
 
 

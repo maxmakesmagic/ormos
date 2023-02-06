@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523121335/https://magic.wizards.com/en/articles/archive/feature/grand-prix-providence-2011-trials-2011-02-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-providence-2011-trials-2011-02-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523121335id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-providence-2011-trials-2011-02-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 12:13:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Providence Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers at least 1 three-round bye to Grand Prix Providence.WPN Locations in the Providence Area Entry Fee Entry fee varies from location to location."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-02-16"
+[_metadata_:title]:- "Grand Prix Providence 2011 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 12:13:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523121335id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-providence-2011-trials-2011-02-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-providence-2011-trials-2011-02-16"
 ---
 
 

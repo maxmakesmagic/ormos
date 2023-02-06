@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021013701/https://magic.wizards.com/en/articles/archive/feature/crowning-eternal-champions-2006-08-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/crowning-eternal-champions-2006-08-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021013701id_/https://magic.wizards.com/en/articles/archive/feature/crowning-eternal-champions-2006-08-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 01:37:01+00:00"
+[_metadata_:author]:- "Ted Knutson"
 [_metadata_:description]:- "Legacy Championship On Friday, August 11 one man stepped to the forefront to claim the title of best “Eternal” player in the world. Who was this masked man and how did he become the first person ever to hold the titles of Vintage and Legacy World Champion at the same time? Read on, my friends, read on. Click here for full article Vintage Championship So you want some Gen Con"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-24"
+[_metadata_:title]:- "Crowning Eternal Champions"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 01:37:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021013701id_/https://magic.wizards.com/en/articles/archive/feature/crowning-eternal-champions-2006-08-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/crowning-eternal-champions-2006-08-24"
 ---
 
 

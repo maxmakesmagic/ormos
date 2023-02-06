@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170811101500/http://magic.wizards.com/en/articles/archive/feature/having-serious-fun-two-headed-giant-2005-05-26)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/having-serious-fun-two-headed-giant-2005-05-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811101500id_/http://magic.wizards.com/en/articles/archive/feature/having-serious-fun-two-headed-giant-2005-05-26"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-11 10:15:00+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "2 Headed Mtg.com Writers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-05-26"
+[_metadata_:title]:- "Having Serious Fun in Two-Headed Giant"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-11 10:15:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811101500id_/http://magic.wizards.com/en/articles/archive/feature/having-serious-fun-two-headed-giant-2005-05-26"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/having-serious-fun-two-headed-giant-2005-05-26"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150815182427/http://magic.wizards.com/en/articles/archive/feature/friday-nights-long-road-2015-08-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-long-road-2015-08-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150815182427id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-long-road-2015-08-14"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-15 18:24:27+00:00"
+[_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "Paul's journey has been building up to this: Pro Tour Magic Origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-08-14"
+[_metadata_:title]:- "Friday Nights: The Long Road"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-15 18:24:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150815182427id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-long-road-2015-08-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-long-road-2015-08-14"
 ---
 
 

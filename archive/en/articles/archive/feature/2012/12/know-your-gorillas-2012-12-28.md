@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170330210311/http://magic.wizards.com/en/articles/archive/feature/know-your-gorillas-2012-12-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/know-your-gorillas-2012-12-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330210311id_/http://magic.wizards.com/en/articles/archive/feature/know-your-gorillas-2012-12-28"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-30 21:03:11+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "&#13; This Arcana originally appeared on July 30, 2012.&#13; &#13; For today's Arcana, we have a quiz that appeared in the July 1996 issue of The Duelist. Alliances had just come out, and it was time to tell the world about the secret gorilla history of the set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-28"
+[_metadata_:title]:- "Know Your Gorillas"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-30 21:03:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330210311id_/http://magic.wizards.com/en/articles/archive/feature/know-your-gorillas-2012-12-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/know-your-gorillas-2012-12-28"
 ---
 
 

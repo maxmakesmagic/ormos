@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20140903132226/http://magic.wizards.com/en/articles/archive/feature/mechanics-khans-tarkir)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-khans-tarkir"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20140903132226id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-khans-tarkir"
-[_metadata_:wayback_capture_timestamp]:- "2014-09-03 13:22:26+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "The six mechanics of the three-color clans of Tarkir."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-08-31"
+[_metadata_:title]:- "Mechanics of Khans of Tarkir"
+[_metadata_:wayback_capture_timestamp]:- "2014-09-03 13:22:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20140903132226id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-khans-tarkir"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-khans-tarkir"
 ---
 
 

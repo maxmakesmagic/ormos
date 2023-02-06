@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028142259/https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2002-trial-winners-2002-10-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2002-trial-winners-2002-10-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028142259id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2002-trial-winners-2002-10-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 14:22:59+00:00"
+[_metadata_:author]:- "updated November 5"
 [_metadata_:description]:- "Each Player below receives a 3-round bye at Grand Prix-Los AngelesStatusEventOrganizerCityDateFirstLast PROLos Angeles Trials 02-03 #11879Michael GuptilMilwaukee8/9/2002ArunSharma PROLos Angeles Trials 02-03 #11861Jim BaileyHigh Point10/05/02JamesMcCoy PROLos Angeles Trials 02-03 #11865Jym RescinitiKnoxville10/05/02StaceyAllen PROLos Angeles Trials 02-03 #11875Merlin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-10-10"
+[_metadata_:title]:- "Grand Prix - Los Angeles 2002 Trial Winners"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 14:22:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028142259id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2002-trial-winners-2002-10-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-2002-trial-winners-2002-10-10"
 ---
 
 

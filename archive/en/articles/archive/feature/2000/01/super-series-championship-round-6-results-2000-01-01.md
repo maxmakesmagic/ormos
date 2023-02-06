@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211209082334/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209082334id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 08:23:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Adam, Felix Ames, Steve Won, 2-0 Altermara, Chase Johnson, Philip Lost, 1-2 Ames, David Sandler, Noah Lost, 1-2 Ames, Steve Adam, Felix Lost, 0-2 Anderson, Eddie Tracy, Sean Lost, 0-2 Anderson, Will Mead, Hank Lost, 0-2 Ash, Kevin Pline, Gary Won, 2-0 Aune, Eirik Chu, Fei Won, 2-1 Barbeau, Alex Heathco, Robert Won, 2-0 Benjamin, Matt Hamilton, Iain Lost,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Super Series Championship Round 6 Results"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 08:23:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209082334id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-results-2000-01-01"
 ---
 
 

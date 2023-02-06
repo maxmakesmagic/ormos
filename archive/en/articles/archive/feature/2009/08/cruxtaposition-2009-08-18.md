@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024214255/https://magic.wizards.com/en/articles/archive/feature/cruxtaposition-2009-08-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cruxtaposition-2009-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024214255id_/https://magic.wizards.com/en/articles/archive/feature/cruxtaposition-2009-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 21:42:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Scott Bielick's Cruxtaposition Format: Standard 4 Fire-Lit Thicket 8 Forest 4 Mosswort Bridge 1 Mountain 2 Reflecting Pool 4 Rootbound Crag 4 Cloudthresher 4 Kitchen Finks 4 Oversoul of Dusk 4 Primalcrux 4 Spellbreaker Behemoth 4 Fertile Ground 4 Firespout 2 Garruk Wildspeaker 4 Rampant Growth 3 Volcanic Fallout *2 Banefire *3 Gaddock Teeg *3 Phosphorescent"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-18"
+[_metadata_:title]:- "Cruxtaposition"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 21:42:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024214255id_/https://magic.wizards.com/en/articles/archive/feature/cruxtaposition-2009-08-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cruxtaposition-2009-08-18"
 ---
 
 

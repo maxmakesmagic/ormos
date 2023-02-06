@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20141225180652/http://magic.wizards.com/en/articles/archive/feature/fetching-look-fate-reforged-2014-12-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fetching-look-fate-reforged-2014-12-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141225180652id_/http://magic.wizards.com/en/articles/archive/feature/fetching-look-fate-reforged-2014-12-24"
-[_metadata_:wayback_capture_timestamp]:- "2014-12-25 18:06:52+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "In Fate Reforged booster packs, the basic land slot may contain nonbasic lands."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-12-24"
+[_metadata_:title]:- "A Fetching Look at Fate Reforged"
+[_metadata_:wayback_capture_timestamp]:- "2014-12-25 18:06:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141225180652id_/http://magic.wizards.com/en/articles/archive/feature/fetching-look-fate-reforged-2014-12-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fetching-look-fate-reforged-2014-12-24"
 ---
 
 

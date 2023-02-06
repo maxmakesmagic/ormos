@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112023919/https://magic.wizards.com/en/articles/archive/feature/i-never-metagame-i-didnt-history-magic-metagame-2009-06-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/i-never-metagame-i-didnt-history-magic-metagame-2009-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023919id_/https://magic.wizards.com/en/articles/archive/feature/i-never-metagame-i-didnt-history-magic-metagame-2009-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:39:19+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Considered the first real archetype in competitive Magic, the `Weissman Deck` was a take-on-all-comers control deck that used all the early power cards. Weissman understood that the strength of broken cards like Mind Twist lay in their ability to dominate an opponent's resources. One Twist destroyed numerous cards. One Moat neutralized an entire ground offensive. This principle, now called card advantage, has influenced tournament-caliber strategies ever since."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-01"
+[_metadata_:title]:- "I Never Metagame I Didn't Like: The History of the Magic Metagame"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:39:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023919id_/https://magic.wizards.com/en/articles/archive/feature/i-never-metagame-i-didnt-history-magic-metagame-2009-06-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/i-never-metagame-i-didnt-history-magic-metagame-2009-06-01"
 ---
 
 

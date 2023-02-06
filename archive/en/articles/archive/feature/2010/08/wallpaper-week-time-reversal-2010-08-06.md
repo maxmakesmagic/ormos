@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170311160328/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-time-reversal-2010-08-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-time-reversal-2010-08-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170311160328id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-time-reversal-2010-08-06"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-11 16:03:28+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "&#13; This week's wallpaper features Howard Lyon's Time Reversal artwork from Magic 2011. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-06"
+[_metadata_:title]:- "Wallpaper of the Week: Time Reversal"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-11 16:03:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170311160328id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-time-reversal-2010-08-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-time-reversal-2010-08-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220616220711/https://magic.wizards.com/en/articles/archive/feature/collecting-double-masters-2022-and-product-overview-2022-06-16?utm_campaign=Double-Masters-2022&utm_source=TWITTER&utm_medium=social&utm_content=7123481932)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-double-masters-2022-and-product-overview-2022-06-16?utm_campaign=Double-Masters-2022&utm_source=TWITTER&utm_medium=social&utm_content=7123481932"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220616220711id_/https://magic.wizards.com/en/articles/archive/feature/collecting-double-masters-2022-and-product-overview-2022-06-16?utm_campaign=Double-Masters-2022&utm_source=TWITTER&utm_medium=social&utm_content=7123481932"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-16 22:07:11+00:00"
+[_metadata_:author]:- "Max McCall"
 [_metadata_:description]:- "Powerful cards and double the drafting fun are waiting for you with Double Masters 2022."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-06-16"
+[_metadata_:title]:- "Collecting Double Masters 2022 and Product Overview"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-16 22:07:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220616220711id_/https://magic.wizards.com/en/articles/archive/feature/collecting-double-masters-2022-and-product-overview-2022-06-16?utm_campaign=Double-Masters-2022&utm_source=TWITTER&utm_medium=social&utm_content=7123481932"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-double-masters-2022-and-product-overview-2022-06-16?utm_campaign=Double-Masters-2022&utm_source=TWITTER&utm_medium=social&utm_content=7123481932"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120003047/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93houston-2010-trials-2010-02-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93houston-2010-trials-2010-02-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120003047id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93houston-2010-trials-2010-02-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:30:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with local organizer for specific information.Format Extended-constructed Format Deck lists are required Tournament Length Swiss rounds - 50 minutes per round Top 8 matches will have no time limit Number of Swiss rounds based on attendance according to the following chart: AttendanceSwiss rounds 8-164 17 - 325 33 -"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-15"
+[_metadata_:title]:- "Grand Prix–Houston 2010 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:30:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120003047id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93houston-2010-trials-2010-02-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93houston-2010-trials-2010-02-15"
 ---
 
 

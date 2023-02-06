@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126184557/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126184557id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:45:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler There was a lot more to this match that just the games that got played. Justin Gary was originally supposed to join up with Shawn Regnier and Tom Guevin for the Team Pro Tour in D.C. last September. However, when Mike Long asked Justin to join him on Tongo Nation, Justin accepted and since then there has been some animosity between Justin and Hammer. Add to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 5 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:45:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126184557id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-feature-match-2000-01-01"
 ---
 
 

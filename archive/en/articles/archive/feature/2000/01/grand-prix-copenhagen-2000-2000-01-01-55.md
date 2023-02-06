@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516073500/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-55)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-55"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516073500id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-55"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 07:35:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 10 Standings  Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Sanders Jensen, Niels 28 73,0612 95,0000 69,6179 7/6/1/3 2 Yeh, Gottlieb 27 69,3197 80,9524 67,5026 7/6/0/3 3 Refsdal, Gunnar 27 68,4354 75,0000 64,2937 7/6/0/3 4 Jorstedt, Mattias 26 68,7302 81,8182 69,4530 8/6/2/2 5 Canu, Franck 25 75,9864 77,7778 71,3950 7/5/1/3 6 Eskeland, Sigurd"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 07:35:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516073500id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-55"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-55"
 ---
 
 

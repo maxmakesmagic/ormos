@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170720021831/https://magic.wizards.com/en/articles/archive/feature/episode-1-%E2%80%93-beginning-2006-10-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/episode-1-%E2%80%93-beginning-2006-10-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170720021831id_/https://magic.wizards.com/en/articles/archive/feature/episode-1-%E2%80%93-beginning-2006-10-26"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-20 02:18:31+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to the first episode of the Great Designer Search! For those of you that haven't been paying attention to our audition process, let me explain what's going on. R&D realized that it wanted to hire a design intern, but we didn't know exactly where to look. At that point, I suggested that we turn to one of our most valuable resources, the readers of magicthegathering.com."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-10-26"
+[_metadata_:title]:- "Episode 1 – `In the Beginning`"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-20 02:18:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170720021831id_/https://magic.wizards.com/en/articles/archive/feature/episode-1-%E2%80%93-beginning-2006-10-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/episode-1-%E2%80%93-beginning-2006-10-26"
 ---
 
 

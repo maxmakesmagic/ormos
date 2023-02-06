@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521051057/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-40)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-40"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521051057id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-40"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 05:10:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 2 Standings  Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Merten, David 6 50,0000 100,0000 66,6667 1/1/0/1 2 Monsen, Haakon R 6 50,0000 100,0000 66,6667 1/1/0/1 3 Joergensen, Dan 6 50,0000 100,0000 53,3333 2/2/0/0 4 Remie, Jeroen 6 50,0000 100,0000 50,0000 1/1/0/1 5 Goldbaum, Nils 6 50,0000 100,0000 50,0000 1/1/0/1 6 Thille, Carl 6 50,0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 05:10:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521051057id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-40"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-40"
 ---
 
 

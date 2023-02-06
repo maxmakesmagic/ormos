@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170330033206/http://magic.wizards.com/en/articles/archive/feature/magic-naming-arabian-nights-2002-08-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-naming-arabian-nights-2002-08-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330033206id_/http://magic.wizards.com/en/articles/archive/feature/magic-naming-arabian-nights-2002-08-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-30 03:32:06+00:00"
+[_metadata_:author]:- "Michael G. Ryan"
 [_metadata_:description]:- "When the Magic game's first expansion was released back in 1993, designer Richard Garfield was particularly inspired by a comic book called The Sandman by Neil Gaiman. In fact, so inspirational did Garfield find issue #50 with its story `Ramadan,` that one card in The Arabian Nights expansion ended up being named after a moment at the end of that tale. `This book,` Garfield said back in 1993, `reminded me what an intriguing, dynamic environment [The Arabian Nights] tales offer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-08-09"
+[_metadata_:title]:- "Magic: The Naming--Arabian Nights"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-30 03:32:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330033206id_/http://magic.wizards.com/en/articles/archive/feature/magic-naming-arabian-nights-2002-08-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-naming-arabian-nights-2002-08-09"
 ---
 
 

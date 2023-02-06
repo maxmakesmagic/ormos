@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200918104652/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-3)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-3"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200918104652id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-3"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-18 10:46:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "   Rob Dougherty (L), Dave Price, and John `Daddy` Yoo before the first draft."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-San Diego 1999Photo Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-18 10:46:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200918104652id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-3"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-3"
 ---
 
 

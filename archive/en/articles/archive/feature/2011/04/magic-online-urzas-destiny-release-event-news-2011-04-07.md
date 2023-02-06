@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429040324/https://magic.wizards.com/en/articles/archive/feature/magic-online-urzas-destiny-release-event-news-2011-04-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-urzas-destiny-release-event-news-2011-04-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040324id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-urzas-destiny-release-event-news-2011-04-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:03:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In Urza's Destiny, the ancient Planeswalker seeks to complete his epic struggle across Dominaria and silence the Phyrexian campaign of terror. Urza's Destiny, the third set in the Urza's Saga block, goes on sale in the Magic Online Store on Monday, Aprill 11 at 9:00 AM PDT (16:00 UTC). Urza's Destiny is legal in ALL appropriate Legacy and Classic-based formats as of March 30."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-07"
+[_metadata_:title]:- "Magic Online Urza's Destiny Release Event News"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:03:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040324id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-urzas-destiny-release-event-news-2011-04-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-urzas-destiny-release-event-news-2011-04-07"
 ---
 
 

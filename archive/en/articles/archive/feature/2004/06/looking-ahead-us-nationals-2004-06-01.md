@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812112356/https://magic.wizards.com/en/articles/archive/feature/looking-ahead-us-nationals-2004-06-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/looking-ahead-us-nationals-2004-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812112356id_/https://magic.wizards.com/en/articles/archive/feature/looking-ahead-us-nationals-2004-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 11:23:56+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Summer is busy time for gamers, with great conventions like Gen Con, Origins and DexCon competing for your pocketbook and the time on your calendar. For Magic players the schedule is even busier, with events such as Pro Tours and the U.S. Nationals. U.S. Nationals is one of the oldest established Premier Magic events in the history of the game. It has traveled all over the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-06-01"
+[_metadata_:title]:- "Looking Ahead: U.S. Nationals"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 11:23:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812112356id_/https://magic.wizards.com/en/articles/archive/feature/looking-ahead-us-nationals-2004-06-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/looking-ahead-us-nationals-2004-06-01"
 ---
 
 

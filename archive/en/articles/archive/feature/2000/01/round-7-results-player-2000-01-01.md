@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701082506/https://magic.wizards.com/en/articles/archive/feature/round-7-results-player-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-results-player-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701082506id_/https://magic.wizards.com/en/articles/archive/feature/round-7-results-player-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 08:25:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentA.S.K.Won 2-1vsTeam PrecisAAAWon 2-1vsSoul EdgeAbsoluteWon 2-0-1vsGloval VoiceAibonLost 0-3vsMeidaimaeAll time 6000yenLost 0-2-1vsGo RengerApocalypseLost 0-3vsBon VoyageAscalon PlusWon 3-0vsUemuraAsian PapillonWon 2-1vsWihAsteriskLost 1-2vsYaburonATOKLost 1-2vsTeam Emon StaffBenefactorLost 0-3vsVoice of SoulBlue ViceLost 1-2vsDaisisziBon VoyageWon"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 7 Results (by Player)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 08:25:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701082506id_/https://magic.wizards.com/en/articles/archive/feature/round-7-results-player-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-results-player-2000-01-01"
 ---
 
 

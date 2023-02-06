@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025063120/https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-top-8-2008-09-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-top-8-2008-09-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025063120id_/https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-top-8-2008-09-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 06:31:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Mihara Makihito Format: 2008 Japan Nationals - Top 8 6 Snow-Covered Island 4 Battlefield Forge 3 Vivid Creek 3 Mystic Gate 2 Reflecting Pool 4 Mutavault 1 Shivan Reef 4 Mulldrifter 4 Sower of Temptation 4 Reveillark 3 Greater Gargadon 3 Body Double 2 Venser, Shaper Savant 2 Bonded Fetch 4 Coldsteel Heart 3 Mind Stone 4 Rune Snag 2 Pact of Negation 2 Momentary"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-24"
+[_metadata_:title]:- "2008 Japan Nationals Standard Decklists Top 8"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 06:31:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025063120id_/https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-top-8-2008-09-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-top-8-2008-09-24"
 ---
 
 

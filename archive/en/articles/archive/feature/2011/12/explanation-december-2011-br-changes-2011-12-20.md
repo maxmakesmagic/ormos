@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170316003846/http://magic.wizards.com/en/articles/archive/feature/explanation-december-2011-br-changes-2011-12-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/explanation-december-2011-br-changes-2011-12-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170316003846id_/http://magic.wizards.com/en/articles/archive/feature/explanation-december-2011-br-changes-2011-12-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-16 00:38:46+00:00"
+[_metadata_:author]:- "Erik Lauer"
 [_metadata_:description]:- "In reference to the December 20, 2011, Banned and Restricted Announcement.ModernPunishing Fire and Wild Nacatl are banned."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-12-20"
+[_metadata_:title]:- "Explanation of December 2011 B&amp;R Changes"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-16 00:38:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170316003846id_/http://magic.wizards.com/en/articles/archive/feature/explanation-december-2011-br-changes-2011-12-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/explanation-december-2011-br-changes-2011-12-20"
 ---
 
 

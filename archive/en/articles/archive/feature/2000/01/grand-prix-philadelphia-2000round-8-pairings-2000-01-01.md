@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528165732/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-8-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-8-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528165732id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-8-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 16:57:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Allen Crispin (571) Matousek Pavel (22) Allen Tim (442) McCandless, Alan (1700) (235) Amendolia Aaron (320) Board Kenneth (421) Anders Dorian (295) Anderson Eric (552) Anderson Eric (552) Anders Dorian (295) Auer, Jeff (1700) (512) Senhouse Chris (7) Bello Hashim (516) Kelleher Tom (428) Bernat Michael (70) Zaun, Michael (1700) (147) Blatnick Brandon (284)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 8 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 16:57:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528165732id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-8-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-8-pairings-2000-01-01"
 ---
 
 

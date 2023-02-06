@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151017135230/http://magic.wizards.com/en/articles/archive/feature/feature-rookie-year-alexander-hayne-2012-05-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-rookie-year-alexander-hayne-2012-05-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151017135230id_/http://magic.wizards.com/en/articles/archive/feature/feature-rookie-year-alexander-hayne-2012-05-13"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-17 13:52:30+00:00"
+[_metadata_:author]:- "Nate Price"
 [_metadata_:description]:- "Coming into Pro Tour Avacyn Restored, Canadian Alexander Hayne was a Level 3 Pro Player with nothing more significant than a Finals appearance at Grand Prix Montreal earlier this season to his credit. Now he's made Platinum for 2012-2013, become the new Rookie of the Year, and, you know, won a Pro Tour."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-13"
+[_metadata_:title]:- "Feature: Rookie of the Year - Alexander Hayne"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-17 13:52:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151017135230id_/http://magic.wizards.com/en/articles/archive/feature/feature-rookie-year-alexander-hayne-2012-05-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-rookie-year-alexander-hayne-2012-05-13"
 ---
 
 

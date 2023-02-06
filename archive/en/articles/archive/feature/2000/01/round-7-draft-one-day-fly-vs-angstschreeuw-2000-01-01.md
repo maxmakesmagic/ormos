@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220626001738/https://magic.wizards.com/en/articles/archive/feature/round-7-draft-one-day-fly-vs-angstschreeuw-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-draft-one-day-fly-vs-angstschreeuw-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626001738id_/https://magic.wizards.com/en/articles/archive/feature/round-7-draft-one-day-fly-vs-angstschreeuw-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 00:17:38+00:00"
+[_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "When Noah Boeken won the European Championship last year it heralded a new era in European Magic: the Dutch had arrived and they were here to stay. This first draft of the second day was a perfect example of that. In the first table the only two undefeated teams, two of the three Dutch teams that made it to the second day, cross paths in what is without doubt another signal of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 7 Draft: One Day Fly vs. Angstschreeuw"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 00:17:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626001738id_/https://magic.wizards.com/en/articles/archive/feature/round-7-draft-one-day-fly-vs-angstschreeuw-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-draft-one-day-fly-vs-angstschreeuw-2000-01-01"
 ---
 
 

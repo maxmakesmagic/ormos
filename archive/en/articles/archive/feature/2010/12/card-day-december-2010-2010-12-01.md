@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220703212407/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2010-2010-12-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-december-2010-2010-12-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703212407id_/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2010-2010-12-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 21:24:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Ultimate Nightmare of Wizards of the Coast® Customer Service – Unglued uncommon. The phone number in the flavor text of The Ultimate Nightmare of Wizards of the Coast® Customer Service is no longer accurate. But in the United States and Canada, (800) 324-6496 will work. Outside those countries, use (425) 204-8069 or go to wizards.custhelp.com. Fiery Conclusion – Ravnica:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-01"
+[_metadata_:title]:- "Card of the Day - December, 2010"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 21:24:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703212407id_/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2010-2010-12-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-december-2010-2010-12-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126182902/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-feature-match-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-feature-match-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126182902id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-feature-match-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:29:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Tom `Jester` Byrne This match pairs up former Pro-Tour LA champion David Price against Pro Tour regular Pete Radonjic. Both players drafted white, with Price's deck revolving around the Rebel engine with blue for added support and Radonjic's deck mainly Red with white for some creatures and a few spells. Game 1 This game started off badly for Pete, who didn't play anything"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 5 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:29:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126182902id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-feature-match-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-feature-match-2000-01-01-0"
 ---
 
 

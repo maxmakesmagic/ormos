@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124042329/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124042329id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:23:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "      Op-Match Rank Name Points Win% 1 Executioners 6 50 2 Team Iwamoto 6 50 3 Masato Club 6 50 4 SIKI 6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 2 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:23:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124042329id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-standings-2000-01-01"
 ---
 
 

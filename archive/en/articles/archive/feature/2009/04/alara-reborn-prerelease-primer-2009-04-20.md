@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526020910/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-primer-2009-04-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-primer-2009-04-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526020910id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-primer-2009-04-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 02:09:10+00:00"
+[_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "Multicolour sets, we thought we knew you. After Invasion block and Ravnica block, and then the novel colour reworking in Shadowmoor block, I thought I had got the hang of all the different ways of laying out a sealed deck around. Now, in the same way that Legions got us doing our creature/spell splits a little differently, Alara Reborn is fast approaching, with all gold, all"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-20"
+[_metadata_:title]:- "Alara Reborn Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 02:09:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526020910id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-primer-2009-04-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-primer-2009-04-20"
 ---
 
 

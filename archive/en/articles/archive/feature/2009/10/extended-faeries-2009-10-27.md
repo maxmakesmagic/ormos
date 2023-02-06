@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119084936/https://magic.wizards.com/en/articles/archive/feature/extended-faeries-2009-10-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extended-faeries-2009-10-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119084936id_/https://magic.wizards.com/en/articles/archive/feature/extended-faeries-2009-10-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 08:49:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jonas Wallendorf's Faeries Format: Extended 1 Academy Ruins 2 Breeding Pool 2 Hallowed Fountain 8 Island 4 Misty Rainforest 4 Mutavault 4 Scalding Tarn 2 Sower of Temptation 4 Spellstutter Sprite 4 Tarmogoyf 4 Vendilion Clique 4 Ancestral Vision 1 Cryptic Command 3 Engineered Explosives 4 Mana Leak 4 Spell Snare 3 Umezawa's Jitte 2 Vedalken Shackles *1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-27"
+[_metadata_:title]:- "Extended Faeries"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 08:49:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119084936id_/https://magic.wizards.com/en/articles/archive/feature/extended-faeries-2009-10-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extended-faeries-2009-10-27"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503133904/https://magic.wizards.com/en/articles/archive/feature/sketching-skinbrand-goblin-2013-03-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketching-skinbrand-goblin-2013-03-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503133904id_/https://magic.wizards.com/en/articles/archive/feature/sketching-skinbrand-goblin-2013-03-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 13:39:04+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "It's always neat to look at the sketches that turned into Magic card art. But today we have sketches that are even neater than usual! This is Skinbrand Goblin. When the art description was sent out to artist Marco Nelor, it still had the playtest name `Scab Clan Goblin.` Here's the art description that Marco was given to work from: Color: Red creature (Gruul guild) Location:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-06"
+[_metadata_:title]:- "Sketching Skinbrand Goblin"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 13:39:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503133904id_/https://magic.wizards.com/en/articles/archive/feature/sketching-skinbrand-goblin-2013-03-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketching-skinbrand-goblin-2013-03-06"
 ---
 
 

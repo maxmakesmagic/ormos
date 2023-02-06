@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025085313/https://magic.wizards.com/en/articles/archive/feature/worldwake-sortable-spoiler-2010-02-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwake-sortable-spoiler-2010-02-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025085313id_/https://magic.wizards.com/en/articles/archive/feature/worldwake-sortable-spoiler-2010-02-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:53:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for the latest set right here on the front page of magicthegathering.com. Here is the sortable spoiler list for Worldwake and the complete visual spoiler for the entire set, in each of the nine languages it was printed in! Enjoy! Launch the Worldwake card list Launch the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-01"
+[_metadata_:title]:- "Worldwake Sortable Spoiler"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:53:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025085313id_/https://magic.wizards.com/en/articles/archive/feature/worldwake-sortable-spoiler-2010-02-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwake-sortable-spoiler-2010-02-01"
 ---
 
 

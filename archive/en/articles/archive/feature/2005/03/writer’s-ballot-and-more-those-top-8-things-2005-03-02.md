@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211203235435/https://magic.wizards.com/en/articles/archive/feature/writer%E2%80%99s-ballot-and-more-those-top-8-things-2005-03-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/writer%E2%80%99s-ballot-and-more-those-top-8-things-2005-03-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203235435id_/https://magic.wizards.com/en/articles/archive/feature/writer%E2%80%99s-ballot-and-more-those-top-8-things-2005-03-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 23:54:35+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "This week's unofficial Top 8 count: Red Deck Wins11111111Mind's Desire****111Psychatog***111Gobslins111111The Rock11111U/G Madness11111Reanimator1111Aluren111Life111NO Stick111 (including Columbus West and hybrid Confinement)Affinity111Cephalid Brunch11Goblin Welder11Dempsey U/W11Metamorphose*U/W Opposition1Trinity Green1White Weenie1Intruder Alarm1Red Deck Wins... in the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-03-02"
+[_metadata_:title]:- "The Writer’s Ballot and More of Those Top 8 Things"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 23:54:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203235435id_/https://magic.wizards.com/en/articles/archive/feature/writer%E2%80%99s-ballot-and-more-those-top-8-things-2005-03-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/writer%E2%80%99s-ballot-and-more-those-top-8-things-2005-03-02"
 ---
 
 

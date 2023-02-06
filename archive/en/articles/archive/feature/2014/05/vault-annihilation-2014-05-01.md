@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211201075547/https://magic.wizards.com/en/articles/archive/feature/vault-annihilation-2014-05-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-annihilation-2014-05-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201075547id_/https://magic.wizards.com/en/articles/archive/feature/vault-annihilation-2014-05-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 07:55:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Beyond Destruction Looms Annihilation  Harness the savage power of fifteen of the most brutal Magic cards ever unleashed. These limited-edition, black-bordered superweapons are legal in many tournament formats. Sweep the battlefield clean with this powerful arsenal and blast the opposition into oblivion."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-01"
+[_metadata_:title]:- "From the Vault: Annihilation"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 07:55:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201075547id_/https://magic.wizards.com/en/articles/archive/feature/vault-annihilation-2014-05-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-annihilation-2014-05-01"
 ---
 
 

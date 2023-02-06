@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516063054/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-jose-2012-trials-2012-08-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-jose-2012-trials-2012-08-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516063054id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-jose-2012-trials-2012-08-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:30:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix San Jose Trials will be run at North American WPN locations from August 11 to September 23, 2012. Each awards the winner a two-round bye for his or her team to Grand Prix San Jose.Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the individual store running"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-07"
+[_metadata_:title]:- "Grand Prix San Jose 2012 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:30:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516063054id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-jose-2012-trials-2012-08-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-jose-2012-trials-2012-08-07"
 ---
 
 

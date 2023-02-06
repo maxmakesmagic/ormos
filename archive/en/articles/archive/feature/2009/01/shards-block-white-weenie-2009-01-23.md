@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018082251/https://magic.wizards.com/en/articles/archive/feature/shards-block-white-weenie-2009-01-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-block-white-weenie-2009-01-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018082251id_/https://magic.wizards.com/en/articles/archive/feature/shards-block-white-weenie-2009-01-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 08:22:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: bös's White Weenie Format: Shards Block Constructed 24 Plains 4 Akrasan Squire 4 Battlegrace Angel 4 Knight of the White Orchid 2 Knight-Captain of Eos 3 Ranger of Eos 4 Sigiled Paladin 4 Elspeth, Knight-Errant 3 Excommunicate 4 Oblivion Ring 4 Sigil of Distinction *4 Dispeller's Capsule *1 Excommunicate *2 Knight-Captain of Eos *4 Relic of Progenitus *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-23"
+[_metadata_:title]:- "Shards Block White Weenie"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 08:22:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018082251id_/https://magic.wizards.com/en/articles/archive/feature/shards-block-white-weenie-2009-01-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-block-white-weenie-2009-01-23"
 ---
 
 

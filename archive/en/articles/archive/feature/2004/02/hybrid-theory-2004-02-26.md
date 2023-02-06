@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202080502/https://magic.wizards.com/en/articles/archive/feature/hybrid-theory-2004-02-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hybrid-theory-2004-02-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202080502id_/https://magic.wizards.com/en/articles/archive/feature/hybrid-theory-2004-02-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 08:05:02+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Day 1Dear Mom: Today I performed my very first electroshock therapy! It was a lot of fun except for the smell of singed nose hair. It was on this freeker named Gottlieb. They let me do a trial run on him because he's apparently the most expendable of the lot.You know we've been rounding up seditionists, zealots, and crazies. Gottlieb's all three in one whackjob package. He"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-02-26"
+[_metadata_:title]:- "Hybrid Theory"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 08:05:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202080502id_/https://magic.wizards.com/en/articles/archive/feature/hybrid-theory-2004-02-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hybrid-theory-2004-02-26"
 ---
 
 

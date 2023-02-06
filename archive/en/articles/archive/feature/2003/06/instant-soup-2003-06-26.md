@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211207062641/https://magic.wizards.com/en/articles/archive/feature/instant-soup-2003-06-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/instant-soup-2003-06-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207062641id_/https://magic.wizards.com/en/articles/archive/feature/instant-soup-2003-06-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 06:26:41+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "For Instant Week, I’m going to build some decks around some of the new and exciting Scourge instants. Since the Scourge previews ended, I’ve been so caught up in Rock & Roll decks and Reject Rare decks that I haven’t been paying too much attention to the new expansion. That’s unfortunate because Scourge is heaping helpings of fun—it’s just chock full of neato-keen stuff that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-06-26"
+[_metadata_:title]:- "Instant Soup"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 06:26:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207062641id_/https://magic.wizards.com/en/articles/archive/feature/instant-soup-2003-06-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/instant-soup-2003-06-26"
 ---
 
 

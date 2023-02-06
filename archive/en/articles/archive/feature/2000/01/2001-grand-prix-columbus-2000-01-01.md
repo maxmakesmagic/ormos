@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220630164922/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-columbus-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-columbus-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630164922id_/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-columbus-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 16:49:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[view] Your Move Games and Ken Ho in the Finals [view] Your Move Games in the finals [view] The Ken Ho All Stars in the finals [view] Babies love Grand Prix too [view] Your Move Games and The Ken Ho All-Stars in the Final Draft [view] Your Move Games and Dynasty in the Semifinals [view] Dynasty in the Semifinals [view] Your Move Games in the Semifinals [view] The Ancient Kavus"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "2001 Grand Prix Columbus"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 16:49:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630164922id_/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-columbus-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-columbus-2000-01-01"
 ---
 
 

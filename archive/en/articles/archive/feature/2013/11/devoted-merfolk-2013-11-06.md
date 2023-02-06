@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170301012049/http://magic.wizards.com/en/articles/archive/feature/devoted-merfolk-2013-11-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/devoted-merfolk-2013-11-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170301012049id_/http://magic.wizards.com/en/articles/archive/feature/devoted-merfolk-2013-11-06"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-01 01:20:49+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Merfolk has hovered around the fringes of Modern for quite some time, never making as many waves as it does in Legacy. The lack of Force of Will and Wasteland hurts the squad of fighting fish, as disruption is what makes tempo decks like this truly great. However, with a few new additions from Theros and a suite of the disruption that is available, Hall of Famer Raph Lévy took Merfolk to battle at Grand Prix Antwerp."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-06"
+[_metadata_:title]:- "Devoted to Merfolk"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-01 01:20:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170301012049id_/http://magic.wizards.com/en/articles/archive/feature/devoted-merfolk-2013-11-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/devoted-merfolk-2013-11-06"
 ---
 
 

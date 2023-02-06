@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124044340/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-11-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-11-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124044340id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-11-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:43:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Christian Lührs vs. Alan Comer (9-1) Round 10 saw Christian Lührs of Germany and Alan Comer of the US match up at 9-1, looking for the top slot going in to the second half of day two. Lührs is playing a four-color countersliver deck, while Comer is playing the `Suicide Brown` Tinker deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Round 11 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:43:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124044340id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-11-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-11-feature-match-2000-01-01"
 ---
 
 

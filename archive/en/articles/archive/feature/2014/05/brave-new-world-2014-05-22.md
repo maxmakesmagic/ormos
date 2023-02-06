@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211015213625/https://magic.wizards.com/en/articles/archive/feature/brave-new-world-2014-05-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brave-new-world-2014-05-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015213625id_/https://magic.wizards.com/en/articles/archive/feature/brave-new-world-2014-05-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:36:25+00:00"
+[_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "When Journey into Nyx was released, Mana Confluence was hailed as the missing ingredient for multicolored aggressive decks. Now that we have a few weeks of tournaments, it would appear that Mana Confluence has indeed given a boost to these multicolored aggressive decks! Jamie Arnold took his Naya Aggro deck to a finals appearance at StarCityGames Knoxville. This is a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-05-22"
+[_metadata_:title]:- "A Brave New World"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:36:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015213625id_/https://magic.wizards.com/en/articles/archive/feature/brave-new-world-2014-05-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brave-new-world-2014-05-22"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527153330/https://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-2010-trials-2010-01-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-2010-trials-2010-01-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527153330id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-2010-trials-2010-01-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 15:33:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format Extended Constructed Deck lists are required Tournament Length Swiss rounds - 50 minutes per round Top 8 matches will have no time limit Number of Swiss rounds based on attendance according to the following chart: AttendanceSwiss rounds 8-164 17 - 325 33 - 646 65 -"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-01-06"
+[_metadata_:title]:- "Grand Prix-Oakland 2010 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 15:33:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527153330id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-2010-trials-2010-01-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-2010-trials-2010-01-06"
 ---
 
 

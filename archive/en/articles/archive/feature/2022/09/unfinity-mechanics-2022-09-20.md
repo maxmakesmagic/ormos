@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220928231640/https://magic.wizards.com/en/articles/archive/feature/unfinity-mechanics-2022-09-20?utm_campaign=MTG---UNF---Unfinity&utm_source=TWITTER&utm_medium=social&utm_content=7722007244)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unfinity-mechanics-2022-09-20?utm_campaign=MTG---UNF---Unfinity&utm_source=TWITTER&utm_medium=social&utm_content=7722007244"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220928231640id_/https://magic.wizards.com/en/articles/archive/feature/unfinity-mechanics-2022-09-20?utm_campaign=MTG---UNF---Unfinity&utm_source=TWITTER&utm_medium=social&utm_content=7722007244"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-28 23:16:40+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Goodbye, sliver borders. Hello, stickers, Attractions, and more. Get ready to play with Unfinity's new mechanics!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-09-20"
+[_metadata_:title]:- "Unfinity Mechanics"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-28 23:16:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220928231640id_/https://magic.wizards.com/en/articles/archive/feature/unfinity-mechanics-2022-09-20?utm_campaign=MTG---UNF---Unfinity&utm_source=TWITTER&utm_medium=social&utm_content=7722007244"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unfinity-mechanics-2022-09-20?utm_campaign=MTG---UNF---Unfinity&utm_source=TWITTER&utm_medium=social&utm_content=7722007244"
 ---
 
 

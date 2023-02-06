@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170511165101/http://magic.wizards.com/en/articles/archive/feature/scourge-theme-decks-2008-08-18)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scourge-theme-decks-2008-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170511165101id_/http://magic.wizards.com/en/articles/archive/feature/scourge-theme-decks-2008-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-11 16:51:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:title]:- "Scourge Theme Decks"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-11 16:51:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170511165101id_/http://magic.wizards.com/en/articles/archive/feature/scourge-theme-decks-2008-08-18"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scourge-theme-decks-2008-08-18"
 ---
 
 

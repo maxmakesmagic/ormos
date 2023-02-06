@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121083942/https://magic.wizards.com/en/articles/archive/feature/magic-online-4th-july-celebration-2010-06-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-4th-july-celebration-2010-06-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121083942id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-4th-july-celebration-2010-06-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 08:39:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Celebrate the 4th of July with Magic Online this year! Starting July 2, we will run a selection of 64-player premier drafts throughout the holiday weekend. Due to the popularity of these events, we will schedule 3 of each event to begin concurrently. To ensure that everyone who wants to participate can, please limit your participation to one event per flight. Have fun!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-22"
+[_metadata_:title]:- "Magic Online 4th of July Celebration"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 08:39:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121083942id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-4th-july-celebration-2010-06-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-4th-july-celebration-2010-06-22"
 ---
 
 

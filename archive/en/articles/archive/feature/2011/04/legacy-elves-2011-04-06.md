@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210415233731/https://magic.wizards.com/en/articles/archive/feature/legacy-elves-2011-04-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-elves-2011-04-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210415233731id_/https://magic.wizards.com/en/articles/archive/feature/legacy-elves-2011-04-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-15 23:37:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: David Vo's Legacy Elves Format: Legacy – StarCityGames.com Open in Atlanta, GA 11 Forest 1 Gaea's Cradle 4 Elvish Archdruid 3 Elvish Spirit Guide 4 Elvish Visionary 4 Heritage Druid 4 Llanowar Elves 4 Nettle Sentinel 4 Priest of Titania 4 Quirion Ranger 1 Regal Force 1 Viridian Zealot 3 Wirewood Symbiote 1 Emrakul, the Aeons Torn 4 Summoner's Pact 4 Glimpse"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-06"
+[_metadata_:title]:- "Legacy Elves"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-15 23:37:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210415233731id_/https://magic.wizards.com/en/articles/archive/feature/legacy-elves-2011-04-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-elves-2011-04-06"
 ---
 
 

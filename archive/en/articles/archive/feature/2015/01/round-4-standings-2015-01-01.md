@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129070301/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-2015-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-standings-2015-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129070301id_/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-2015-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 07:03:01+00:00"
 [_metadata_:description]:- "Rank Player Points Op.Win% 1 Saux, Rafaël A Le 12 75.00% 2 Casatti, Vagner W 12 75.00% 3 Araujo, Marcio 12 75.00% 4 Lucindo, Fabiano 12 75.00% 5 Quinta, Matheus Chaud 12 75.00% 6 Shvartsman, Alex 12 75.00% 7 Possato, Dawton C 12 75.00% 8 Lima, Joao R 12 75.00% 9 Andrade, Marcelo T 12 75.00% 10 Paiva, Rhodner O 12 75.00% 11 Possamai, Rodrigo 12 75.00% 12 Echeverria, José Luis"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-12-30"
+[_metadata_:title]:- "Round 4 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 07:03:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129070301id_/https://magic.wizards.com/en/articles/archive/feature/round-4-standings-2015-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-standings-2015-01-01"
 ---
 
 

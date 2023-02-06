@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121093018/https://magic.wizards.com/en/articles/archive/feature/mirage-holiday-do-list-2005-11-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirage-holiday-do-list-2005-11-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121093018id_/https://magic.wizards.com/en/articles/archive/feature/mirage-holiday-do-list-2005-11-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 09:30:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As we've announced before, Mirage is coming to Magic Online. With the holidays coming up, we know you've got a lot of lists to make and check twice."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-11-16"
+[_metadata_:title]:- "Mirage Holiday To-Do List"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 09:30:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121093018id_/https://magic.wizards.com/en/articles/archive/feature/mirage-holiday-do-list-2005-11-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirage-holiday-do-list-2005-11-16"
 ---
 
 

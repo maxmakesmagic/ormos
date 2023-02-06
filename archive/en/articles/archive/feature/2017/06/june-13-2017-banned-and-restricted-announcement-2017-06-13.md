@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170613150225/http://magic.wizards.com/en/articles/archive/feature/june-13-2017-banned-and-restricted-announcement-2017-06-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/june-13-2017-banned-and-restricted-announcement-2017-06-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170613150225id_/http://magic.wizards.com/en/articles/archive/feature/june-13-2017-banned-and-restricted-announcement-2017-06-13"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-13 15:02:25+00:00"
+[_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "Announcing changes to Standard."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-06-13"
+[_metadata_:title]:- "June 13, 2017 Banned and Restricted Announcement"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-13 15:02:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170613150225id_/http://magic.wizards.com/en/articles/archive/feature/june-13-2017-banned-and-restricted-announcement-2017-06-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/june-13-2017-banned-and-restricted-announcement-2017-06-13"
 ---
 
 

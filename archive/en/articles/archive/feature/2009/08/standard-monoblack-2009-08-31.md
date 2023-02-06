@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812145351/https://magic.wizards.com/en/articles/archive/feature/standard-monoblack-2009-08-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-monoblack-2009-08-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812145351id_/https://magic.wizards.com/en/articles/archive/feature/standard-monoblack-2009-08-31"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 14:53:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kevin's Monoblack Format: 2nd Place - France - Saint Nazaire - Foyer des vieux amis 22 Swamp 4 Black Knight 4 Child of Night 3 Hypnotic Specter 4 Vampire Aristocrat 3 Vampire Nocturnus 4 Duress 4 Nameless Inversion 4 Tendrils of Corruption 4 Thoughtseize 4 Unholy Strength *1 Beseech the Queen *3 Bone Splinters *2 Consume Spirit *4 Deathmark *3 Doom Blade *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-31"
+[_metadata_:title]:- "Standard Monoblack"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 14:53:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812145351id_/https://magic.wizards.com/en/articles/archive/feature/standard-monoblack-2009-08-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-monoblack-2009-08-31"
 ---
 
 

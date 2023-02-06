@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528130556/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-guatemala-2009-06-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-guatemala-2009-06-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528130556id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-guatemala-2009-06-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 13:05:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fecha: 23 de Julio de 2011Ubicación: The Hideout, 15 Avenida 6-01 Zona 13 Centro Comercial Century Plaza, Local 302 Tercer Nivel.Ciudad: GuatemalaPaís: Guatemala El Campeonato Nacional de Guatemala de Magic: The Gathering está abierto a todos los ciudadanos y residentes permanentes del Guatemala."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-24"
+[_metadata_:title]:- "2011 Campeonato Nacional Guatemala"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 13:05:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528130556id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-guatemala-2009-06-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-guatemala-2009-06-24"
 ---
 
 

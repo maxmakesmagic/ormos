@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190605022125/https://magic.wizards.com/en/articles/archive/feature/semifinals-alex-shvartsman-vs-leopoldo-martins-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-alex-shvartsman-vs-leopoldo-martins-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022125id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-alex-shvartsman-vs-leopoldo-martins-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:21:25+00:00"
 [_metadata_:description]:- "Justin Polin Alex Shvartsman"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Semifinals: Alex Shvartsman vs. Leopoldo Martins"
+[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:21:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022125id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-alex-shvartsman-vs-leopoldo-martins-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-alex-shvartsman-vs-leopoldo-martins-2000-01-01"
 ---
 
 

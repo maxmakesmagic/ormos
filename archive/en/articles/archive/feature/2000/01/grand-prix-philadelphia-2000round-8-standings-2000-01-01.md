@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528035025/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-8-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-8-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528035025id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-8-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:50:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Leiher, Peter (Q) 24 72.92 2 McCord Scott 24 70.66 3 Qian, Patrick (1700) 24 63.48 4 Joyce Brian 22 66.13 5 Van Cleave, Trey (Q) 22 65.18 6 Emmert Mike 21 78.47 7 Stokinger, Andrew (1700) 21 76.79 8 Marks John 21 75.00 9 Turian, Michael (Q) 21 73.55 10 McLean, Drew (1700) 21 72.92 11 Bernat Michael 21 71.53 12 O'Mahoney-Schwartz, Daniel ( 21"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 8 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:50:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528035025id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-8-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-8-standings-2000-01-01"
 ---
 
 

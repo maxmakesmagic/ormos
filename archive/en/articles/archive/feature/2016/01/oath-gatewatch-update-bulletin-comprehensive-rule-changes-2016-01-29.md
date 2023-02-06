@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160131194417/http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-update-bulletin-comprehensive-rule-changes-2016-01-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-update-bulletin-comprehensive-rule-changes-2016-01-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160131194417id_/http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-update-bulletin-comprehensive-rule-changes-2016-01-29"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-31 19:44:17+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "What are the Comprehensive Rules?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-01-29"
+[_metadata_:title]:- "Oath of the Gatewatch Update Bulletin—Comprehensive Rule Changes"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-31 19:44:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160131194417id_/http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-update-bulletin-comprehensive-rule-changes-2016-01-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-update-bulletin-comprehensive-rule-changes-2016-01-29"
 ---
 
 

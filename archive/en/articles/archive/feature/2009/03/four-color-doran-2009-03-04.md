@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503140910/https://magic.wizards.com/en/articles/archive/feature/four-color-doran-2009-03-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/four-color-doran-2009-03-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503140910id_/https://magic.wizards.com/en/articles/archive/feature/four-color-doran-2009-03-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 14:09:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Brian Robinson's Four-Color Doran Aggro Format: Pro Tour–Kyoto 1 Adarkar Wastes 4 Ancient Ziggurat 2 Brushland 1 Caves of Koilos 2 Forest 1 Llanowar Wastes 4 Murmuring Bosk 1 Plains 1 Swamp 3 Treetop Village 2 Yavimaya Coast 4 Birds of Paradise 4 Doran, the Siege Tower 3 Gaddock Teeg 2 Kitchen Finks 4 Noble Hierarch 3 Rafiq of the Many 4 Rhox War Monk 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-04"
+[_metadata_:title]:- "Four-Color Doran"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 14:09:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503140910id_/https://magic.wizards.com/en/articles/archive/feature/four-color-doran-2009-03-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/four-color-doran-2009-03-04"
 ---
 
 

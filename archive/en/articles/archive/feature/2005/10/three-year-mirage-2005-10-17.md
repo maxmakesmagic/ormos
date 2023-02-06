@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220707163426/https://magic.wizards.com/en/articles/archive/feature/three-year-mirage-2005-10-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/three-year-mirage-2005-10-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707163426id_/https://magic.wizards.com/en/articles/archive/feature/three-year-mirage-2005-10-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 16:34:26+00:00"
+[_metadata_:author]:- "Bill Rose"
 [_metadata_:description]:- "Wizards of the Coast is in the process of moving to a new building and will return with new articles beginning Monday, October 24th. In the meantime, we hope you'll enjoy this informal week of previously run content relating to Mirage, in preparation for that popular set's upcoming release on Magic Online. Have a great week, and we'll be back to see you on Monday. Scott Johns,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-10-17"
+[_metadata_:title]:- "A Three-Year Mirage"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 16:34:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707163426id_/https://magic.wizards.com/en/articles/archive/feature/three-year-mirage-2005-10-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/three-year-mirage-2005-10-17"
 ---
 
 

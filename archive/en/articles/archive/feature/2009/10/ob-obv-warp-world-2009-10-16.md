@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027172212/https://magic.wizards.com/en/articles/archive/feature/ob-obv-warp-world-2009-10-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ob-obv-warp-world-2009-10-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027172212id_/https://magic.wizards.com/en/articles/archive/feature/ob-obv-warp-world-2009-10-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 17:22:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Brian David-Marshall's `Ob Obv` Warp World Format: Standard 4 Verdant Catacombs 4 Scalding Tarn 2 Misty Rainforest 7 Forest 7 Mountain 1 Swamp 4 Lotus Cobra 4 Rampaging Baloths 4 Siege-Gang Commander 4 Ob Nixilis, the Fallen 4 Elvish Visionary 3 Oracle of Mul Daya 4 Khalni Heart Expedition 4 Trace of Abundance 4 Warp World [/decklist] Pro Tour coverage"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-16"
+[_metadata_:title]:- "`Ob Obv` Warp World"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 17:22:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027172212id_/https://magic.wizards.com/en/articles/archive/feature/ob-obv-warp-world-2009-10-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ob-obv-warp-world-2009-10-16"
 ---
 
 

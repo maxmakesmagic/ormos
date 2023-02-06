@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025085640/https://magic.wizards.com/en/articles/archive/feature/2006-english-nationals-2004-03-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-english-nationals-2004-03-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025085640id_/https://magic.wizards.com/en/articles/archive/feature/2006-english-nationals-2004-03-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:56:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The 2006 English Nationals is underway! Click here for all the information live from the tournament floor! 2006 English Nationals Invite List Tournament Date The 2006 English National Championship will be held on Saturday July 29th & Sunday July 30th July, with additional side events, including Last Chance Qualifiers on Friday July 28th."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-03-31"
+[_metadata_:title]:- "2006 English Nationals"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:56:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025085640id_/https://magic.wizards.com/en/articles/archive/feature/2006-english-nationals-2004-03-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-english-nationals-2004-03-31"
 ---
 
 

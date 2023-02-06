@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170406073048/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-challenge-your-might-2009-06-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-challenge-your-might-2009-06-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170406073048id_/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-challenge-your-might-2009-06-03"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-06 07:30:48+00:00"
+[_metadata_:author]:- "Jay Schneider"
 [_metadata_:description]:- "Welcome! You're about to be introduced to Duels of the Planeswalkers (Duels), an awesome new game that brings the game play of Magic: The Gathering to the Xbox starting June 17. You read that right, we have an official launch date and it's just two weeks away! Ready to see what you'll be able to get?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-03"
+[_metadata_:title]:- "Duels of the Planeswalkers: Challenge Your Might"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-06 07:30:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170406073048id_/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-challenge-your-might-2009-06-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-challenge-your-might-2009-06-03"
 ---
 
 

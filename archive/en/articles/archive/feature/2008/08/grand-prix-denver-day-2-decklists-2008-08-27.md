@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121023507/https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-day-2-decklists-2008-08-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-day-2-decklists-2008-08-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121023507id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-day-2-decklists-2008-08-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 02:35:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Adam Yurchick Format: Day 2 - Grand Prix-Denver 4 Reflecting Pool 4 Primal Beyond 4 Vivid Crag 3 Vivid Marsh 1 Vivid Creek 2 Graven Cairns 2 Fire-Lit Thicket 1 Sunken Ruins 2 Mountain 1 Swamp 1 Mystic Gate 1 Horde of Notions 3 Flamekin Harbinger 4 Smokebraider 4 Fulminator Mage 4 Mulldrifter 3 Shriekmaw 3 Reveillark 3 Cloudthresher 1 Crib Swap 3 Nameless"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-27"
+[_metadata_:title]:- "Grand Prix Denver Day 2 Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 02:35:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121023507id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-day-2-decklists-2008-08-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-day-2-decklists-2008-08-27"
 ---
 
 

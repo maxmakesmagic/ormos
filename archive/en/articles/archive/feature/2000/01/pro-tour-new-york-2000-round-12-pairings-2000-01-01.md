@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528173858/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528173858id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 17:38:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Baker Justin (282) 22 12 Edbury Richard (278) 22 Blackwell Trevor (166) 23 10 Marks Jason (286) 23 Bregoli Mike (214) 25 4 Lo Moro Raffaele (217) 26 Brower Jeremy (224) 18 34 Johansson Hans ( 78) 18 Budde Kai (179) 22 14 Ruel Olivier (151) 22 Bui Lucien (154) 25 5 Turning Travis G (293) 25 Chapin Patrick (252) 15 45 Hubble Bryan ( 7) 15 Comer Alan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 12 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 17:38:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528173858id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-12-pairings-2000-01-01"
 ---
 
 

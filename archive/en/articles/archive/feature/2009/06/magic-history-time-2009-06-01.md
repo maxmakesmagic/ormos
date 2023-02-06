@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160624031519/http://magic.wizards.com/en/articles/archive/feature/magic-history-time-2009-06-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-history-time-2009-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160624031519id_/http://magic.wizards.com/en/articles/archive/feature/magic-history-time-2009-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-24 03:15:19+00:00"
+[_metadata_:author]:- "Michael G. Ryan"
 [_metadata_:description]:- "Magic: The Gathering hasn't yet spawned an animated television series, a line of action figures (although these are in the works for 1999), or a big-screen live-action film starring Harrison Ford as Urza, but in its five years Magic has produced quite a few choice collectibles. Some of these items are rarer than others (like the famed Proposal card that Richard Garfield gave to his bride-to-be Lily back when Magic was still a novelty). Others still sit on a store shelf near you. And some you'll only read about on these pages."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-01"
+[_metadata_:title]:- "A Magic History of Time"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-24 03:15:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160624031519id_/http://magic.wizards.com/en/articles/archive/feature/magic-history-time-2009-06-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-history-time-2009-06-01"
 ---
 
 

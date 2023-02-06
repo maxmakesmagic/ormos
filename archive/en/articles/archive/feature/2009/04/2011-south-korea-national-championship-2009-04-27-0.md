@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024073741/https://magic.wizards.com/en/articles/archive/feature/2011-south-korea-national-championship-2009-04-27-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-south-korea-national-championship-2009-04-27-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024073741id_/https://magic.wizards.com/en/articles/archive/feature/2011-south-korea-national-championship-2009-04-27-0"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:37:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: August 6-7, 2011Event Location: DMS Building, 12F Multi-use HallAddress: 12F, DMS Building, Sangam-dong 1602, Mapo--gu, Seoul, S.KoreaEligibilityThe Magic: the Gathering South Korea National Championship is an invitation-only event, open to citizens or permanent residents of South Korea who have won an invitation to Nationals through DCI ratings or from qualifying events"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 South Korea National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:37:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024073741id_/https://magic.wizards.com/en/articles/archive/feature/2011-south-korea-national-championship-2009-04-27-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-south-korea-national-championship-2009-04-27-0"
 ---
 
 

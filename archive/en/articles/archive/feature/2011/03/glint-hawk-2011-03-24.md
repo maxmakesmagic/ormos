@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025092750/https://magic.wizards.com/en/articles/archive/feature/glint-hawk-2011-03-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/glint-hawk-2011-03-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025092750id_/https://magic.wizards.com/en/articles/archive/feature/glint-hawk-2011-03-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 09:27:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jeremiah Edwards's Glint Hawk Format: Standard – 2010 Idaho State Champ 12 Plains 4 Arid Mesa 4 Marsh Flats 4 Ornithopter 4 Squadron Hawk 4 Glint Hawk 4 Memnite 4 Stoneforge Mystic 4 Kor Outfitter 4 Kor Skyfisher 4 Kor Duelist 4 Quest for the Holy Relic 2 Argentum Armor 1 Sword of Body and Mind 1 Basilisk Collar *3 War Priest of Thune *2 Emerge Unscathed *1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-03-24"
+[_metadata_:title]:- "Glint Hawk"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 09:27:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025092750id_/https://magic.wizards.com/en/articles/archive/feature/glint-hawk-2011-03-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/glint-hawk-2011-03-24"
 ---
 
 

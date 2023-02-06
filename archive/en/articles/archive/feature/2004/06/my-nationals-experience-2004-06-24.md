@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018183758/https://magic.wizards.com/en/articles/archive/feature/my-nationals-experience-2004-06-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-nationals-experience-2004-06-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018183758id_/https://magic.wizards.com/en/articles/archive/feature/my-nationals-experience-2004-06-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:37:58+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "The road to Worlds is paved with good intentions. It is also paved with the little yellow bricks of registering your decks correctly and being able to figure out the tiebreakers.For me this was the third time I attended U.S. Nationals as a competitor. It was also the first time Nationals was actually a World Championship qualifier for me. Over the last three years I've been"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-06-24"
+[_metadata_:title]:- "My Nationals Experience"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:37:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018183758id_/https://magic.wizards.com/en/articles/archive/feature/my-nationals-experience-2004-06-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-nationals-experience-2004-06-24"
 ---
 
 

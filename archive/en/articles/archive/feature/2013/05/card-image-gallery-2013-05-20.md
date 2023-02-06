@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211127154355/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-05-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-05-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127154355id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-05-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 15:43:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "White | Blue | Black | Red | Green | Artifact | Land | ALL CARDS Ajani, Caller of the Pride Ajani’s Chosen Angelic Accord Angelic Wall Archangel of Thune Auramancer Banisher Priest Blessing Bonescythe Sliver Brave the Elements Capashen Knight Celestial Flare Charging Griffin Congregate Dawnstrike Paladin Devout Invocation Divine Favor Fiendslayer Paladin Fortify Griffin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-20"
+[_metadata_:title]:- "Card Image Gallery"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 15:43:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127154355id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-05-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-05-20"
 ---
 
 

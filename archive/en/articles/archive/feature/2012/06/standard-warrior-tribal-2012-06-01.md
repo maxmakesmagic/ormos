@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170130005825/http://magic.wizards.com/en/articles/archive/feature/standard-warrior-tribal-2012-06-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/standard-warrior-tribal-2012-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170130005825id_/http://magic.wizards.com/en/articles/archive/feature/standard-warrior-tribal-2012-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-30 00:58:25+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Think there are no cards in Standard that entice you to play a Warrior deck? Think again! StarCityGames.com columnist John Dale Beety took a unique spin on Standard in his recent article, using Descendants' Path as a way to make every tribe in Standard matter. Warriors were one of the tribes on John's radar, resulting in an exciting and fun deck worth giving a look!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-01"
+[_metadata_:title]:- "Standard Warrior Tribal"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-30 00:58:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170130005825id_/http://magic.wizards.com/en/articles/archive/feature/standard-warrior-tribal-2012-06-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/standard-warrior-tribal-2012-06-01"
 ---
 
 

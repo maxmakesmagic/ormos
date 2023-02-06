@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124044828/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-1-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-1-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124044828id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-1-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:48:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Raphael Levy vs. Jakub Slemr"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Round 1 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:48:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124044828id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-1-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-1-feature-match-2000-01-01"
 ---
 
 

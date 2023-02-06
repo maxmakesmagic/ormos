@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220625110224/https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625110224id_/https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 11:02:24+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Hello! It's still Worlds Week and the schedule is still important, so to re-emphasize the point, we're repeating this Arcana. If you're not interested in Worlds Week, though, don't worry: We'll have an all-new Arcana for you tomorrow! —Mike McArtor, copyeditor, DailyMTG.com At this very moment, well, no that's not necessarily true. When this article publishes, I will be flying"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-30"
+[_metadata_:title]:- "Worlds Week Schedule"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 11:02:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625110224id_/https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-30"
 ---
 
 

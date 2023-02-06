@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017145252/https://magic.wizards.com/en/articles/archive/feature/zendikar-theme-decks-2009-09-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-theme-decks-2009-09-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017145252id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-theme-decks-2009-09-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 14:52:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Kor Armory Unstable Terrain Rise of the Vampires Pumped Up The Adventurers (Back to Product Page) Kor Armory The `Kor Armory` deck puts you in command of the Kor, a resourceful race of adventuring nomads who use Equipment to survive as they wander their dangerous world. Their ingenuity will be your opponents' downfall. Almost all of your creatures are Kor. Play them out"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-28"
+[_metadata_:title]:- "Zendikar Theme Decks"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 14:52:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017145252id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-theme-decks-2009-09-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-theme-decks-2009-09-28"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129143857/https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-intro-packs-2011-01-26-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-intro-packs-2011-01-26-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129143857id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-intro-packs-2011-01-26-0"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 14:38:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Battle Cries Mirromancy Doom Inevitable Path of Blight   (Back to Product Page)   Battle Cries The `Battle Cries` deck hits fast and hard, swarming your opponents with an army of ragtag Mirran rebels. It's all about strength in numbers. Cards like Master's Call or White Sun's Zenith bring forth armies with a single spell. From there, summon up some Kuldotha Ringleaders,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-01-26"
+[_metadata_:title]:- "Mirrodin Besieged Intro Packs"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 14:38:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129143857id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-intro-packs-2011-01-26-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-intro-packs-2011-01-26-0"
 ---
 
 

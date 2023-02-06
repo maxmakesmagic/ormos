@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112040458/https://magic.wizards.com/en/articles/archive/feature/card-day-february-2013-2013-02-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-february-2013-2013-02-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112040458id_/https://magic.wizards.com/en/articles/archive/feature/card-day-february-2013-2013-02-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 04:04:58+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-02-01"
+[_metadata_:title]:- "Card of the Day - February, 2013"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 04:04:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112040458id_/https://magic.wizards.com/en/articles/archive/feature/card-day-february-2013-2013-02-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-february-2013-2013-02-01"
 ---
 
 

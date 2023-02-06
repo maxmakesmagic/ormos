@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030061452/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-event-information-2013-11-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-event-information-2013-11-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030061452id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-event-information-2013-11-21"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:14:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Vancouver is brought to you by Professional Event Services."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-21"
+[_metadata_:title]:- "Grand Prix Vancouver Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:14:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030061452id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-event-information-2013-11-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-event-information-2013-11-21"
 ---
 
 

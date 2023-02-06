@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210418204624/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999top-8-decklists-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999top-8-decklists-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418204624id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999top-8-decklists-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 20:46:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: `DD-Sliver (Demonic Direction)` Format: Team NMA 4 Acidic Sliver 4 Crystalline Sliver 4 Hibernation Sliver 4 Muscle Sliver 4 Winged Sliver 4 Counterspell 3 Demonic Consultation 2 Disenchant 4 Force of Will 2 Misdirection 2 Swords to Plowshares 4 City of Brass 4 Flood Plain 2 Gemstone Mine 2 Scrubland 1 Tropical Island 3 Tundra 4 Underground Sea 2 Undiscovered"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Top 8 Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-18 20:46:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418204624id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999top-8-decklists-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999top-8-decklists-2000-01-01"
 ---
 
 

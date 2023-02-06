@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520020804/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-colombia-2009-06-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-colombia-2009-06-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520020804id_/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-colombia-2009-06-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 02:08:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvitation SourceRegional DateRegional CityRegional Country CarlosAmaya Troncoso2008 National Championn/an/an/a CarlosAmaya Troncoso2008 National Teamn/an/an/a EvelioBarrios2008 National Teamn/an/an/a AndresHiguera2008 National Teamn/an/an/a CarlosAmaya TroncosoPro Club 2+n/an/an/a EvelioBarriosPro Club 2+n/an/an/a AndresHigueraPro Club 2+n/an/an/a CarlosAmaya"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-24"
+[_metadata_:title]:- "2009 Campeonato Nacional Colombia"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 02:08:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520020804id_/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-colombia-2009-06-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-colombia-2009-06-24"
 ---
 
 

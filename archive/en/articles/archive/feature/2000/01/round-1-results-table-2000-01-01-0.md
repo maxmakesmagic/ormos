@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627035332/https://magic.wizards.com/en/articles/archive/feature/round-1-results-table-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-results-table-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627035332id_/https://magic.wizards.com/en/articles/archive/feature/round-1-results-table-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 03:53:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Result Opponent Qui quo qua * 120 vs. library of alessandria * Sing Along party * 210 vs. Iguane pelose * Tapa chilu * 210 vs. Tenebra * Pantere nere * 020 vs. Calvo's Legacy We win with win * 010 vs. Dirty arbouze * made in annecy * 120 vs. Fumetteria Gabriele * zyrberus 210 vs. os trolhas Vintara 210 vs. Altrove * suicideboard * 210 vs. 3,141596 * Viperin * 210 vs. To"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 1 Results (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 03:53:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627035332id_/https://magic.wizards.com/en/articles/archive/feature/round-1-results-table-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-results-table-2000-01-01-0"
 ---
 
 

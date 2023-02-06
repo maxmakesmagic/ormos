@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208161645/https://magic.wizards.com/en/articles/archive/feature/here-comes-onslaught-2002-10-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/here-comes-onslaught-2002-10-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208161645id_/https://magic.wizards.com/en/articles/archive/feature/here-comes-onslaught-2002-10-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 16:16:45+00:00"
+[_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "If you paid attention to any of my previous articles and if you've opened a booster pack from the most recent Magic set, you can probably guess that Onslaught is, without a doubt, my favorite Magic expansion of all time.I knew it when Mark Rosewater first told me about the Onslaught expansion's focus on creature themes. He was babbling about cycling coming back when my mind"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-10-03"
+[_metadata_:title]:- "Here Comes the Onslaught"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 16:16:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208161645id_/https://magic.wizards.com/en/articles/archive/feature/here-comes-onslaught-2002-10-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/here-comes-onslaught-2002-10-03"
 ---
 
 

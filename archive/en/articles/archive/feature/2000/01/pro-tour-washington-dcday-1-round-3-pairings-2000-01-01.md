@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518210150/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-3-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-3-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518210150id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-3-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 21:01:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points 770 (26) 0 37 Frayman 2; Electric Boogaloo (75) 0 Amsterdam (52) 1 32 Urban Housing (62) 1 Antarctica (42) 3 28 Random Technology (16) 3 ATM (64) 4 10 Marc's Brothers (3) 4 Babes of the Dingo (70) 6 6 Sugar Bus, (13) 6 Big Dogs (27) 6 4 Name Denied (29) 6 Billy Goats Gruff (61) 3 22 Phenomene J (41) 3 Brown Bomber (69) 4 9 Tongo Nation (31)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 3 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 21:01:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518210150id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-3-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-3-pairings-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170716081310/http://magic.wizards.com/en/articles/archive/feature/world-championship-standard-decks-2002-11-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/world-championship-standard-decks-2002-11-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170716081310id_/http://magic.wizards.com/en/articles/archive/feature/world-championship-standard-decks-2002-11-21"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-16 08:13:10+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "It's that time of year again. The time when the most iconic Standard decks from the World Championships are made immortal not just in the memories of Magic aficionados or by dusty links in cyberspace, but by ready-to-play commemorative decks specially printed by our friends in Renton, Washington. The World Championship Standard decks are chosen not simply for their efficacies of performance, but to showcase the various colors, strategies, and diversity of cards that were available at the 2002 Worlds."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-11-21"
+[_metadata_:title]:- "World Championship Standard Decks"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-16 08:13:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170716081310id_/http://magic.wizards.com/en/articles/archive/feature/world-championship-standard-decks-2002-11-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/world-championship-standard-decks-2002-11-21"
 ---
 
 

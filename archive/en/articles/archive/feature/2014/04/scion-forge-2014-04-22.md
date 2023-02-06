@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151124095944/http://magic.wizards.com/en/articles/archive/feature/scion-forge-2014-04-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scion-forge-2014-04-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151124095944id_/http://magic.wizards.com/en/articles/archive/feature/scion-forge-2014-04-22"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-24 09:59:44+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-04-22"
+[_metadata_:title]:- "Scion of the Forge"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-24 09:59:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151124095944id_/http://magic.wizards.com/en/articles/archive/feature/scion-forge-2014-04-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scion-forge-2014-04-22"
 ---
 
 

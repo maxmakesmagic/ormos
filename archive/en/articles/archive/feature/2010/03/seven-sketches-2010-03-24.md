@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201026135130/https://magic.wizards.com/en/articles/archive/feature/seven-sketches-2010-03-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/seven-sketches-2010-03-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201026135130id_/https://magic.wizards.com/en/articles/archive/feature/seven-sketches-2010-03-24"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-26 13:51:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "You like Steve Argyle's Admonition Angel, right? Admonition Angel | Art by Steve Argyle"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-24"
+[_metadata_:title]:- "Seven Sketches"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-26 13:51:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201026135130id_/https://magic.wizards.com/en/articles/archive/feature/seven-sketches-2010-03-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/seven-sketches-2010-03-24"
 ---
 
 

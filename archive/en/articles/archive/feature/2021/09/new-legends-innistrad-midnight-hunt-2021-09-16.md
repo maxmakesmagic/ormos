@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210916150110/https://magic.wizards.com/en/articles/archive/feature/new-legends-innistrad-midnight-hunt-2021-09-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-legends-innistrad-midnight-hunt-2021-09-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210916150110id_/https://magic.wizards.com/en/articles/archive/feature/new-legends-innistrad-midnight-hunt-2021-09-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-16 15:01:10+00:00"
+[_metadata_:author]:- "Ari Zirulnik and Grace Fong"
 [_metadata_:description]:- "Harvesttide is wild this year! New faces appear in Innistrad: Midnight Hunt—let's do some introductions."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-09-16"
+[_metadata_:title]:- "The New Legends of Innistrad: Midnight Hunt"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-16 15:01:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210916150110id_/https://magic.wizards.com/en/articles/archive/feature/new-legends-innistrad-midnight-hunt-2021-09-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-legends-innistrad-midnight-hunt-2021-09-16"
 ---
 
 

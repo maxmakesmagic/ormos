@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121235820/https://magic.wizards.com/en/articles/archive/feature/sketches-sway-stars-2005-12-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketches-sway-stars-2005-12-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121235820id_/https://magic.wizards.com/en/articles/archive/feature/sketches-sway-stars-2005-12-21"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 23:58:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magicthegathering.com is running `best of` content during the holidays, and will return with new content January 4, 2006. This Magic Arcana originally ran February 24, 2005. Welcome to another edition of Sketches! This time we take a behind the scenes look at the illustration of Betrayers of Kamigawa's insane blue reset button, Sway of the Stars. But first, some background on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-12-21"
+[_metadata_:title]:- "Sketches: Sway of the Stars"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 23:58:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121235820id_/https://magic.wizards.com/en/articles/archive/feature/sketches-sway-stars-2005-12-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketches-sway-stars-2005-12-21"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160507093857/http://magic.wizards.com/en/articles/archive/feature/decks-horsepower-2002-11-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/decks-horsepower-2002-11-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160507093857id_/http://magic.wizards.com/en/articles/archive/feature/decks-horsepower-2002-11-06"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-07 09:38:57+00:00"
+[_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "Ten of the best mana engines ever"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-11-06"
+[_metadata_:title]:- "Decks with Horsepower"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-07 09:38:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160507093857id_/http://magic.wizards.com/en/articles/archive/feature/decks-horsepower-2002-11-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/decks-horsepower-2002-11-06"
 ---
 
 

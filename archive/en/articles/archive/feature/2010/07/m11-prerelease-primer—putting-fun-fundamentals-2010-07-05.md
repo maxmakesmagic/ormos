@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200805200354/https://magic.wizards.com/en/articles/archive/feature/m11-prerelease-primer%E2%80%94putting-fun-fundamentals-2010-07-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/m11-prerelease-primer%E2%80%94putting-fun-fundamentals-2010-07-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805200354id_/https://magic.wizards.com/en/articles/archive/feature/m11-prerelease-primer%E2%80%94putting-fun-fundamentals-2010-07-05"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 20:03:54+00:00"
+[_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "We are just scant days away from the release of Magic 2011, the latest Magic core set in the game's illustrious history, and one that I am anticipating pretty hotly. As a writer, I normally try to avoid using the same word a lot within a few sentences or paragraphs, but I should warn you right now, I will be using the word `Prerelease` a lot in what follows—not least because it is the word buzzing round and round in my head as Saturday draws ever nearer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-05"
+[_metadata_:title]:- "M11 Prerelease Primer—Putting the Fun in Fundamentals"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 20:03:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805200354id_/https://magic.wizards.com/en/articles/archive/feature/m11-prerelease-primer%E2%80%94putting-fun-fundamentals-2010-07-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/m11-prerelease-primer%E2%80%94putting-fun-fundamentals-2010-07-05"
 ---
 
 

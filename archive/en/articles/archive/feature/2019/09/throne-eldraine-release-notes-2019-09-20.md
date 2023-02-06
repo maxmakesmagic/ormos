@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190921203110/https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-release-notes-2019-09-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-release-notes-2019-09-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190921203110id_/https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-release-notes-2019-09-20"
-[_metadata_:wayback_capture_timestamp]:- "2019-09-21 20:31:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-09-20"
+[_metadata_:title]:- "Throne of Eldraine Release Notes"
+[_metadata_:wayback_capture_timestamp]:- "2019-09-21 20:31:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190921203110id_/https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-release-notes-2019-09-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-release-notes-2019-09-20"
 ---
 
 

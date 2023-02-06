@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150503071352/http://magic.wizards.com/en/articles/archive/feature/innistrad-mechanics-2011-08-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/innistrad-mechanics-2011-08-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150503071352id_/http://magic.wizards.com/en/articles/archive/feature/innistrad-mechanics-2011-08-28"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-03 07:13:52+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "If you're new to Magic or looking for a refresher on the basic rules, check out the Learn to Play page."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-08-28"
+[_metadata_:title]:- "Innistrad Mechanics"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-03 07:13:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150503071352id_/http://magic.wizards.com/en/articles/archive/feature/innistrad-mechanics-2011-08-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/innistrad-mechanics-2011-08-28"
 ---
 
 

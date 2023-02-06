@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117215824/https://magic.wizards.com/en/articles/archive/feature/anthologies-theme-decks-2008-08-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/anthologies-theme-decks-2008-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117215824id_/https://magic.wizards.com/en/articles/archive/feature/anthologies-theme-decks-2008-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 21:58:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Green / White Black / Red (Back to Product Page) Green / White # Rarity Cost Card Name  11 L  Plains   10 L  Forest   1 R  Brushland   1 C  Drifting Meadows   1 U  Pendelhaven   1 C  Slippery Karst   1 C   Armored Pegasus   1 C   Benalish Knight   1 C   Combat Medic   1 U   Freewind Falcon   1 C   Icatian Javelineers   1 C   Infantry Veteran   1 C   Order of the White Shield"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:title]:- "Anthologies Theme Decks"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 21:58:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117215824id_/https://magic.wizards.com/en/articles/archive/feature/anthologies-theme-decks-2008-08-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/anthologies-theme-decks-2008-08-18"
 ---
 
 

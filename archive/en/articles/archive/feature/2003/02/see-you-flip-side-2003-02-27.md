@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211127205915/https://magic.wizards.com/en/articles/archive/feature/see-you-flip-side-2003-02-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/see-you-flip-side-2003-02-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127205915id_/https://magic.wizards.com/en/articles/archive/feature/see-you-flip-side-2003-02-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 20:59:15+00:00"
+[_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Today marks my last weekly House of Cards article. Of course, I never had illusions that my time with MagicTheGathering.com would last forever. But I kind of thought that I would reach the end of the road because: 1) I burned out... fizzle. pop. Making 3-5 decks every week plus coming up with a weekly article 51 weeks out of the year can be pretty challenging."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-02-27"
+[_metadata_:title]:- "See You on the Flip Side"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 20:59:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127205915id_/https://magic.wizards.com/en/articles/archive/feature/see-you-flip-side-2003-02-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/see-you-flip-side-2003-02-27"
 ---
 
 

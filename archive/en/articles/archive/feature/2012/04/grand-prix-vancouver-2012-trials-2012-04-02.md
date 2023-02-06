@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526213049/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-2012-trials-2012-04-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-2012-trials-2012-04-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526213049id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-2012-trials-2012-04-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 21:30:49+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Vancouver Trials will be run at WPN locations from April 21 to June 10, 2012. Each awards the winner a three-round bye to Grand Prix Vancouver.WPN Locations in the Vancouver, British Columbia Area Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-02"
+[_metadata_:title]:- "Grand Prix Vancouver 2012 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 21:30:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526213049id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-2012-trials-2012-04-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-vancouver-2012-trials-2012-04-02"
 ---
 
 

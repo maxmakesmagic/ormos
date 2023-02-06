@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160506003709/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-and-written-page-2008-06-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-and-written-page-2008-06-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160506003709id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-and-written-page-2008-06-04"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-06 00:37:09+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Greetings, planeswalkers, and welcome to a highly informational edition of Taste the Magic. If you read Monday's announcement and Mark Rosewater's article about some changes coming with Shards of Alara in the fall, you're already way ahead of the game. If you didn't, no sweat; you can read them in a bit. Today, as I am honored to be your Vorthos representative, I'll discuss the changes that are relevant to the storyline and worlds of Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-06-04"
+[_metadata_:title]:- "Planeswalkers and the Written Page"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-06 00:37:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160506003709id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-and-written-page-2008-06-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-and-written-page-2008-06-04"
 ---
 
 

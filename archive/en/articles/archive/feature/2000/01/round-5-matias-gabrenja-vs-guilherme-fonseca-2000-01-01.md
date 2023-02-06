@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030030018/https://magic.wizards.com/en/articles/archive/feature/round-5-matias-gabrenja-vs-guilherme-fonseca-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-matias-gabrenja-vs-guilherme-fonseca-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030030018id_/https://magic.wizards.com/en/articles/archive/feature/round-5-matias-gabrenja-vs-guilherme-fonseca-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:00:18+00:00"
 [_metadata_:description]:- "Rui Oliveira Guilherme Fonseca Game 1 Gabrenja opened up with a second turn Sapphire Medallion leaving no doubt about which deck he was playing and Guilherme left no doubt as well when he followed a Treetop Village with two Granger Guildmage."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 5: Matias Gabrenja vs. Guilherme Fonseca"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:00:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030030018id_/https://magic.wizards.com/en/articles/archive/feature/round-5-matias-gabrenja-vs-guilherme-fonseca-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-matias-gabrenja-vs-guilherme-fonseca-2000-01-01"
 ---
 
 

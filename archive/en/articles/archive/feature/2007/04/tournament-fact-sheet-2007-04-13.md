@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030201954/https://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-04-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-04-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030201954id_/https://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-04-13"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 20:19:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-04-13"
+[_metadata_:title]:- "Tournament Fact Sheet"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 20:19:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030201954id_/https://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-04-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-04-13"
 ---
 
 

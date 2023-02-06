@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160707152954/http://magic.wizards.com/en/articles/archive/feature/imprisoned-moon-2016-07-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/imprisoned-moon-2016-07-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707152954id_/http://magic.wizards.com/en/articles/archive/feature/imprisoned-moon-2016-07-07"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 15:29:54+00:00"
+[_metadata_:author]:- "Meghan Wolff"
 [_metadata_:description]:- "Meghan waxes poetic about a most enchanting preview card."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-07-07"
+[_metadata_:title]:- "Imprisoned in the Moon"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 15:29:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707152954id_/http://magic.wizards.com/en/articles/archive/feature/imprisoned-moon-2016-07-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/imprisoned-moon-2016-07-07"
 ---
 
 

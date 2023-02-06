@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170615171534/http://magic.wizards.com/en/articles/archive/feature/combo-decks-don%E2%80%99t-%E2%80%9Cjust-win%E2%80%9D-2005-01-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/combo-decks-don%E2%80%99t-%E2%80%9Cjust-win%E2%80%9D-2005-01-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615171534id_/http://magic.wizards.com/en/articles/archive/feature/combo-decks-don%E2%80%99t-%E2%80%9Cjust-win%E2%80%9D-2005-01-12"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-15 17:15:34+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Last week I talked about modifications Neutral Ground Time Walk Tournament finalist Phil Johnson made to Ryuichi Arita's `Life` deck. One of the assumptions made by that article was that all of the readers of Swimming With Sharks know how the Life deck works. Life is an intricate combination deck with a lot of cool elements, but how it wins or even what it does are not obvious."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-01-12"
+[_metadata_:title]:- "The Combo Decks That Don’t “Just Win”"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-15 17:15:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615171534id_/http://magic.wizards.com/en/articles/archive/feature/combo-decks-don%E2%80%99t-%E2%80%9Cjust-win%E2%80%9D-2005-01-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/combo-decks-don%E2%80%99t-%E2%80%9Cjust-win%E2%80%9D-2005-01-12"
 ---
 
 

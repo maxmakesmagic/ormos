@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160909201338/http://magic.wizards.com/en/articles/archive/feature/puzzle-not-2016-09-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/puzzle-not-2016-09-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160909201338id_/http://magic.wizards.com/en/articles/archive/feature/puzzle-not-2016-09-07"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-09 20:13:38+00:00"
+[_metadata_:author]:- "Marshall Sutcliffe"
 [_metadata_:description]:- "Marshall sets about untangling the knots in his Kaladesh preview cycle."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-09-07"
+[_metadata_:title]:- "Puzzle Not"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-09 20:13:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160909201338id_/http://magic.wizards.com/en/articles/archive/feature/puzzle-not-2016-09-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/puzzle-not-2016-09-07"
 ---
 
 

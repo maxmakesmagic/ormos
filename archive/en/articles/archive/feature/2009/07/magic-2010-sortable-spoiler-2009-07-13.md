@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527195952/https://magic.wizards.com/en/articles/archive/feature/magic-2010-sortable-spoiler-2009-07-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2010-sortable-spoiler-2009-07-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527195952id_/https://magic.wizards.com/en/articles/archive/feature/magic-2010-sortable-spoiler-2009-07-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 19:59:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for the latest set right here on the front page of magicthegathering.com. Here is the sortable spoiler list for Magic 2010 and the complete visual spoiler for the entire set, in each of the nine languages it was printed in! Enjoy! Launch the Magic 2010 card list Launch the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-13"
+[_metadata_:title]:- "Magic 2010 Sortable Spoiler"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 19:59:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527195952id_/https://magic.wizards.com/en/articles/archive/feature/magic-2010-sortable-spoiler-2009-07-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2010-sortable-spoiler-2009-07-13"
 ---
 
 

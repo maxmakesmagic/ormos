@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170715221815/http://magic.wizards.com/en/articles/archive/feature/any-time-day-good-time-pie-2007-02-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/any-time-day-good-time-pie-2007-02-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170715221815id_/http://magic.wizards.com/en/articles/archive/feature/any-time-day-good-time-pie-2007-02-08"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-15 22:18:15+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "ny time of day is a good time for pie. That is wisdom, folks. Some of you may recognize this as one of the many pearls of wisdom delivered in the movie Pulp Fiction. It is being delivered again today – as there has never been a better time for pie than in the wake of Planar Chaos. The whole concept of the color pie is a part of Magic flavor as much as it is a part of Magic mechanics."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-02-08"
+[_metadata_:title]:- "Any Time of Day Is a Good Time for Pie"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-15 22:18:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170715221815id_/http://magic.wizards.com/en/articles/archive/feature/any-time-day-good-time-pie-2007-02-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/any-time-day-good-time-pie-2007-02-08"
 ---
 
 

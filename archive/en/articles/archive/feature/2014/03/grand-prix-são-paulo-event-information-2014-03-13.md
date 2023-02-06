@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030190106/https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-event-information-2014-03-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-event-information-2014-03-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030190106id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-event-information-2014-03-13"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:01:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix São Paulo is brought to you by Let's Collect."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-13"
+[_metadata_:title]:- "Grand Prix São Paulo Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:01:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030190106id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-event-information-2014-03-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-event-information-2014-03-13"
 ---
 
 

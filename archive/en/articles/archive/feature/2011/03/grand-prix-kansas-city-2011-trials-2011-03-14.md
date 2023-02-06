@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021232244/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-2011-trials-2011-03-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-2011-trials-2011-03-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021232244id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-2011-trials-2011-03-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 23:22:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Kansas CityTrials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers at least 1 three-round bye to Grand Prix Kansas City. WPN Locations in the Kansas City Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format Sealed Deck Limited with Booster Draft (or Sealed Deck) Top"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-03-14"
+[_metadata_:title]:- "Grand Prix Kansas City 2011 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 23:22:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021232244id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-2011-trials-2011-03-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-2011-trials-2011-03-14"
 ---
 
 

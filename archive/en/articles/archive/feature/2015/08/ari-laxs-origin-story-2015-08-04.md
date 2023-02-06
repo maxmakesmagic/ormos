@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150906164037/http://magic.wizards.com/en/articles/archive/feature/ari-laxs-origin-story-2015-08-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ari-laxs-origin-story-2015-08-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150906164037id_/http://magic.wizards.com/en/articles/archive/feature/ari-laxs-origin-story-2015-08-04"
-[_metadata_:wayback_capture_timestamp]:- "2015-09-06 16:40:37+00:00"
+[_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Ari Lax's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-08-04"
+[_metadata_:title]:- "Ari Lax's Origin Story"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-06 16:40:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150906164037id_/http://magic.wizards.com/en/articles/archive/feature/ari-laxs-origin-story-2015-08-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ari-laxs-origin-story-2015-08-04"
 ---
 
 

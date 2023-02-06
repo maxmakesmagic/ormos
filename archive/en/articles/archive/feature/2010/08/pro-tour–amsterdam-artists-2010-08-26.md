@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160802151303/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-artists-2010-08-26)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-artists-2010-08-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160802151303id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-artists-2010-08-26"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-02 15:13:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The artists booth will be open Friday-Sunday from 10 a.m. - 5 p.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-26"
+[_metadata_:title]:- "Pro Tour–Amsterdam Artists"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-02 15:13:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160802151303id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-artists-2010-08-26"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-artists-2010-08-26"
 ---
 
 

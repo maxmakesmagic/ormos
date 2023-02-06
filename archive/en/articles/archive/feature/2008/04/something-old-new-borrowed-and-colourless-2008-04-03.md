@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128130055/https://magic.wizards.com/en/articles/archive/feature/something-old-new-borrowed-and-colourless-2008-04-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/something-old-new-borrowed-and-colourless-2008-04-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128130055id_/https://magic.wizards.com/en/articles/archive/feature/something-old-new-borrowed-and-colourless-2008-04-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 13:00:55+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to the first week of Shadowmoor previews! I hope you've been enjoying them so far. Since I have a Timmy streak a million miles wide, I know I'll be able to find room for a Mossbridge Troll in my green Elder Dragon Highlander decks. Probably alongside Defense of the Heart and, I don't know, Hearthcage Giant. If you're looking for something a little more Johnny-licious,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-04-03"
+[_metadata_:title]:- "Something Old, New, Borrowed, and Colourless"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 13:00:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128130055id_/https://magic.wizards.com/en/articles/archive/feature/something-old-new-borrowed-and-colourless-2008-04-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/something-old-new-borrowed-and-colourless-2008-04-03"
 ---
 
 

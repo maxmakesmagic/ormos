@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021040745/https://magic.wizards.com/en/articles/archive/feature/prime-speaker-bant-2013-07-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prime-speaker-bant-2013-07-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021040745id_/https://magic.wizards.com/en/articles/archive/feature/prime-speaker-bant-2013-07-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:07:45+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Let's wrap up the week the way we started it: a sweet Bant Standard deck. While it shares the colors of the Fog deck, this list couldn't be more of an opposite in terms of how it plays and how it wins. This particular list was piloted by Josh Ravitz to 4th place at a PTQ, and he wrote about the experience here. Dragon's Maze helped Bant out quite a bit, giving it access to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-26"
+[_metadata_:title]:- "Prime Speaker Bant"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:07:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021040745id_/https://magic.wizards.com/en/articles/archive/feature/prime-speaker-bant-2013-07-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prime-speaker-bant-2013-07-26"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027095640/https://magic.wizards.com/en/articles/archive/feature/golgari-hexproof-2013-10-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/golgari-hexproof-2013-10-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027095640id_/https://magic.wizards.com/en/articles/archive/feature/golgari-hexproof-2013-10-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:56:40+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "One of the main reasons I wanted to feature today's deck is that it's running Skylasher, a card that I think has the potential to be awesome in the current metagame. It ambushes many of mono-blue's small creatures, stops Nightveil Specter cold, and can't really be interacted with. It isn't the end-all be-all, because Master of Waves and Thassa can go over the top, but for two"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-31"
+[_metadata_:title]:- "Golgari Hexproof"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:56:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027095640id_/https://magic.wizards.com/en/articles/archive/feature/golgari-hexproof-2013-10-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/golgari-hexproof-2013-10-31"
 ---
 
 

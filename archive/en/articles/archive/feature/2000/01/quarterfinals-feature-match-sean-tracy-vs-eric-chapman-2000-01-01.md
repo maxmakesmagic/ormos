@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160620055228/http://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-sean-tracy-vs-eric-chapman-2000-01-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-sean-tracy-vs-eric-chapman-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160620055228id_/http://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-sean-tracy-vs-eric-chapman-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-20 05:52:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; by Geddes Cooper"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Quarterfinals Feature Match - Sean Tracy vs. Eric Chapman"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-20 05:52:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160620055228id_/http://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-sean-tracy-vs-eric-chapman-2000-01-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-sean-tracy-vs-eric-chapman-2000-01-01"
 ---
 
 

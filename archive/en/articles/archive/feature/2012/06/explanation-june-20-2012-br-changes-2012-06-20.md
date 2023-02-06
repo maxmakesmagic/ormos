@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527170941/https://magic.wizards.com/en/articles/archive/feature/explanation-june-20-2012-br-changes-2012-06-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/explanation-june-20-2012-br-changes-2012-06-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527170941id_/https://magic.wizards.com/en/articles/archive/feature/explanation-june-20-2012-br-changes-2012-06-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 17:09:41+00:00"
+[_metadata_:author]:- "Erik Lauer"
 [_metadata_:description]:- "Legacy Land Tax is no longer banned. While the Legacy metagame is healthy, the DCI is still interesting in occasionally unbanning some cards to see if they improve the format. The top tournament decks in Legacy include Reanimator, RUG Delver, and Sneak and Show. Land Tax has been banned since 2004, doesn't seem to directly add to the top decks, and could make the format even"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-20"
+[_metadata_:title]:- "Explanation of June 20, 2012, B&R Changes"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 17:09:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527170941id_/https://magic.wizards.com/en/articles/archive/feature/explanation-june-20-2012-br-changes-2012-06-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/explanation-june-20-2012-br-changes-2012-06-20"
 ---
 
 

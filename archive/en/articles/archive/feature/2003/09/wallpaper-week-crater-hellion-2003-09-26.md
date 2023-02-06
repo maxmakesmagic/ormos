@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200815063811/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-crater-hellion-2003-09-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-crater-hellion-2003-09-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815063811id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-crater-hellion-2003-09-26"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-15 06:38:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is the Urza's Saga monster Crater Hellion by Daren Bader. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-09-26"
+[_metadata_:title]:- "Wallpaper of the Week: Crater Hellion"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-15 06:38:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815063811id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-crater-hellion-2003-09-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-crater-hellion-2003-09-26"
 ---
 
 

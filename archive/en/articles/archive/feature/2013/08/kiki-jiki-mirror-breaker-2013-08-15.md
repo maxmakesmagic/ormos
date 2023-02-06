@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220815092409/https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2013-08-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2013-08-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815092409id_/https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2013-08-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 09:24:09+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I've always thought it was a shame how often Kiki-Jiki just ends the game, so I set out to build a Commander deck where he wouldn't. The idea is that Kiki-Jiki is sweet, and has a ton of combos, but none of them are actually infinite."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-08-15"
+[_metadata_:title]:- "Kiki-Jiki, Mirror Breaker"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 09:24:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815092409id_/https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2013-08-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2013-08-15"
 ---
 
 

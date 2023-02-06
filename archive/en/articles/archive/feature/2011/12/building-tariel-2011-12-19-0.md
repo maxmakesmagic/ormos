@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220930195305/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220930195305id_/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-30 19:53:05+00:00"
+[_metadata_:author]:- "Mark Purvis"
 [_metadata_:description]:- "Here at Daily MTG, we use the last two weeks of each year to bring back our favorite articles from the year and give our writers (and staff!) a break for the holidays.If you're a regular reader, you know that our website tells you all kinds of things about what we do to make Magic, from design to development to Constructed playtesting to world building to art concepting to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-12-19"
+[_metadata_:title]:- "Building Tariel"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-30 19:53:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220930195305id_/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
 ---
 
 

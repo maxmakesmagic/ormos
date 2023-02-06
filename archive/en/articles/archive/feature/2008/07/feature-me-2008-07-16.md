@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017054609/https://magic.wizards.com/en/articles/archive/feature/feature-me-2008-07-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/feature-me-2008-07-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017054609id_/https://magic.wizards.com/en/articles/archive/feature/feature-me-2008-07-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 05:46:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Featured articles are special articles written by a variety of authors, including Wizards employees and insiders, personalities from the community and more. These articles often explore one aspect of the game or its creation in detail.For more information, see Mark Rosewater's original website mission statement here ."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-16"
+[_metadata_:title]:- "Feature Me"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 05:46:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017054609id_/https://magic.wizards.com/en/articles/archive/feature/feature-me-2008-07-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/feature-me-2008-07-16"
 ---
 
 

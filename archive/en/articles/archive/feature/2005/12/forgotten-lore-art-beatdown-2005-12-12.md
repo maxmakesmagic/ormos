@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170707063917/http://magic.wizards.com/en/articles/archive/feature/forgotten-lore-art-beatdown-2005-12-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/forgotten-lore-art-beatdown-2005-12-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170707063917id_/http://magic.wizards.com/en/articles/archive/feature/forgotten-lore-art-beatdown-2005-12-12"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-07 06:39:17+00:00"
+[_metadata_:author]:- "David Price"
 [_metadata_:description]:- "Introduction from the Editor  One of the most popular players from the Pro Tour as evidenced by his repeated invitations to the Magic Invitational, David Price will always be known as the King of Beatdown. His most important performance came at Pro Tour Los Angeles 1997, piloting his signature Deadguy Red aggro deck. In a field that was likely the most red-saturated Day Two in Pro Tour history, it’s no surprise that David Price was the one to emerge on top."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-12-12"
+[_metadata_:title]:- "Forgotten Lore: The Art of Beatdown"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-07 06:39:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170707063917id_/http://magic.wizards.com/en/articles/archive/feature/forgotten-lore-art-beatdown-2005-12-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/forgotten-lore-art-beatdown-2005-12-12"
 ---
 
 

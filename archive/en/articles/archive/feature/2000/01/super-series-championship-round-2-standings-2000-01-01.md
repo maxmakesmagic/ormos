@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527032638/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527032638id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 03:26:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 DeMicco, Gietanno 6 50.0000 100.0000 50.0000 2/2/0/0 2 Wilhelm, Aaron 6 50.0000 100.0000 50.0000 2/2/0/0 3 Philbin, Brent 6 50.0000 100.0000 45.0000 2/2/0/0 4 Kast, James 6 50.0000 100.0000 45.0000 2/2/0/0 5 Altermara, Chase 6 50.0000 100.0000 45.0000 2/2/0/0 6 Pohle, Tyler 6 50.0000 100.0000 45.0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Super Series Championship Round 2 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 03:26:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527032638id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-2-standings-2000-01-01"
 ---
 
 

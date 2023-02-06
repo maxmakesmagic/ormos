@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220630013712/https://magic.wizards.com/en/articles/archive/feature/final-standings-team-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-standings-team-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630013712id_/https://magic.wizards.com/en/articles/archive/feature/final-standings-team-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 01:37:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rank Team Winnings Pro Points 27 5280  90 #I Magic *Amateur*  108 #realgangstas *Amateur*  136 $30 Cab Fare *Amateur*  46 $42 Ticket *Amateur*  32 100 Super Good Fun Time  142 3 for Flinching *Amateur*  64 3 Stooges *Amateur*  107 3 White Boys from the Stix *  151 3 X Threat *Amateur*  67 5 Ways Worse/Portent *Amateu  66 A Few Good Men  6 A Little Too Sick 1500 1 104 Airtight"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Final Standings (By Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 01:37:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630013712id_/https://magic.wizards.com/en/articles/archive/feature/final-standings-team-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-standings-team-2000-01-01"
 ---
 
 

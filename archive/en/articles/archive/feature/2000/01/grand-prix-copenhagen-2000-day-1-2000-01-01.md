@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124040236/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-day-1-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-day-1-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124040236id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-day-1-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:02:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Kenneth Mossberg (Sweden)  Tony Dobson (UK)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000 - Day 1"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:02:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124040236id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-day-1-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-day-1-2000-01-01"
 ---
 
 

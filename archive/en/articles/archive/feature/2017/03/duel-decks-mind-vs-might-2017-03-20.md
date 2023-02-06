@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170320163129/http://magic.wizards.com/en/articles/archive/feature/duel-decks-mind-vs-might-2017-03-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duel-decks-mind-vs-might-2017-03-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170320163129id_/http://magic.wizards.com/en/articles/archive/feature/duel-decks-mind-vs-might-2017-03-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-20 16:31:29+00:00"
+[_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Nick sits down with the newest Duel Decks to see how both sides match up."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-03-20"
+[_metadata_:title]:- "Duel Decks: Mind vs. Might"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-20 16:31:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170320163129id_/http://magic.wizards.com/en/articles/archive/feature/duel-decks-mind-vs-might-2017-03-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duel-decks-mind-vs-might-2017-03-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220129102129/https://magic.wizards.com/en/articles/archive/feature/kiki-ing-ffa-2006-06-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kiki-ing-ffa-2006-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129102129id_/https://magic.wizards.com/en/articles/archive/feature/kiki-ing-ffa-2006-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-29 10:21:29+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "(Breaking news! If you haven't seen the new banned/restricted list yet, go take a look. There are a few bannings for Prismatic, and a big change for Tribal Wars. Done? Great! Now, on with Bennie Smith and Into the Aether!)When my schedule opened up and it looked like I'd be able to play in the upcoming FFA, I was really looking forward to it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-06-01"
+[_metadata_:title]:- "Kiki-ing the FFA"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-29 10:21:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129102129id_/https://magic.wizards.com/en/articles/archive/feature/kiki-ing-ffa-2006-06-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kiki-ing-ffa-2006-06-01"
 ---
 
 

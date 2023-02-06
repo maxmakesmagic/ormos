@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021184646/https://magic.wizards.com/en/articles/archive/feature/once-more-through-breach-2013-09-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/once-more-through-breach-2013-09-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021184646id_/https://magic.wizards.com/en/articles/archive/feature/once-more-through-breach-2013-09-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 18:46:46+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I love a good Tron deck, and this deck reminds me of a similar list I tried a while ago. It still keeps the blue part from blue-white Tron, which means all sorts of sweet cards like Thirst for Knowledge, Gifts Ungiven, Compulsive Research, Remand, and Repeal, but the second color this time around is red. Red brings a few removal spells to the table, but the big addition is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-24"
+[_metadata_:title]:- "Once More Through the Breach"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 18:46:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021184646id_/https://magic.wizards.com/en/articles/archive/feature/once-more-through-breach-2013-09-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/once-more-through-breach-2013-09-24"
 ---
 
 

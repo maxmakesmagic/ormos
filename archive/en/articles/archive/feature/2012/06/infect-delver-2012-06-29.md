@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170509021324/http://magic.wizards.com/en/articles/archive/feature/infect-delver-2012-06-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/infect-delver-2012-06-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170509021324id_/http://magic.wizards.com/en/articles/archive/feature/infect-delver-2012-06-29"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-09 02:13:24+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "You've seen White-Blue Delver, you've seen Blue-Red Delver, you've seen Blue-Red-Green Delver, and you've even seen Delver without the Delver—but you might not have seen anything quite like this! At the StarCityGames.com Open Series in Detroit last weekend, Steven Krueger brought something very interesting: Infect Delver! Ending up in 9th place, this new flavor of the deck uses the infect mechanic to its advantage!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-29"
+[_metadata_:title]:- "Infect Delver"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-09 02:13:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170509021324id_/http://magic.wizards.com/en/articles/archive/feature/infect-delver-2012-06-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/infect-delver-2012-06-29"
 ---
 
 

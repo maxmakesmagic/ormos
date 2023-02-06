@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119011435/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-2142013-2013-02-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-2142013-2013-02-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119011435id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-2142013-2013-02-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 01:14:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Daily Activity Welcome back to the Magic: The Gathering Sealed Deck Builder! This week, we have a six-pack Gatecrash pool. Tips on Using the Sealed Deck Builder When you start the application, you'll see all your cards in a Card Pool tray. If you can't see all the cards in your pool, you can expand the size of your tray by dragging black tool bar upward. Drag cards from this"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-02-14"
+[_metadata_:title]:- "Sealed Deck Builder: 2/14/2013"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 01:14:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119011435id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-2142013-2013-02-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-2142013-2013-02-14"
 ---
 
 

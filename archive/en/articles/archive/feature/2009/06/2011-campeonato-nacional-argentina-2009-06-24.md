@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524150108/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-argentina-2009-06-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-argentina-2009-06-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524150108id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-argentina-2009-06-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 15:01:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fecha: 20 y 21 de Agosto 2011Ubicación Nombre: Salon BasaldúaUbicación Direción: Belgrano 1144Ciudad: Buenos AiresPaís: ArgentinaElegibilidadEl Campeonato Nacional de Argentina de Magic: The Gathering es un evento por invitación, abierto a todos los ciudadanos o residentes permanentes de Argentina que reciban invitaciones al Nacional a través de los puntajes DCI o clasificando"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-24"
+[_metadata_:title]:- "2011 Campeonato Nacional Argentina"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 15:01:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524150108id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-argentina-2009-06-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-argentina-2009-06-24"
 ---
 
 

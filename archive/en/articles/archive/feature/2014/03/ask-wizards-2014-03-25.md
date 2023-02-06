@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220123165537/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-03-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-03-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123165537id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-03-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 16:55:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ask Wizards is a weekly feature that allows you to ask us questions! If you'd like to submit your question please email it to AskWizards@wizards.com. We aren't able to answer every question we receive but if your question is good then it might show up in the coming weeks! Q: How often does Friday Nights come out? How often does Walking the Planes come out?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-25"
+[_metadata_:title]:- "Ask Wizards"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 16:55:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123165537id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-03-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-03-25"
 ---
 
 

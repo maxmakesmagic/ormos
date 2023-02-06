@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201205231225/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-finals-preview-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-finals-preview-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205231225id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-finals-preview-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:12:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix St. Louis Finals Preview"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:12:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205231225id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-finals-preview-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-finals-preview-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211006102727/https://magic.wizards.com/en/articles/archive/feature/innistrad-sortable-card-reference-2011-09-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-sortable-card-reference-2011-09-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211006102727id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-sortable-card-reference-2011-09-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-06 10:27:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As is our tradition for the Monday after a new set's Prerelease events, today we post the full card list for the latest set right here on the front page of DailyMTG.com. Here is the sortable Card Reference for Innistrad and the complete Card Image Gallery for the entire set, in each of the ten languages it's been printed in so far! Enjoy! Launch the Innistrad Card Reference"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-26"
+[_metadata_:title]:- "Innistrad Sortable Card Reference"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-06 10:27:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211006102727id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-sortable-card-reference-2011-09-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-sortable-card-reference-2011-09-26"
 ---
 
 

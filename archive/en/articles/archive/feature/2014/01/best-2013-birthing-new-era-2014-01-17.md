@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220813220824/https://magic.wizards.com/en/articles/archive/feature/best-2013-birthing-new-era-2014-01-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-birthing-new-era-2014-01-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813220824id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-birthing-new-era-2014-01-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 22:08:24+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Jund has been the bogey man of Modern since the first wave of bannings, so it's odd to think about a time in which Jund wouldn't be the most feared deck. For the most part, every other deck in the format was something you might expect to play against only once or twice over the course of a large tournament, mostly thanks to Modern's diversity. However, this year's Grand Prix"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-01-17"
+[_metadata_:title]:- "Best of 2013: Birthing a New Era"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 22:08:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813220824id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-birthing-new-era-2014-01-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-birthing-new-era-2014-01-17"
 ---
 
 

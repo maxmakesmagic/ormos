@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211203155053/https://magic.wizards.com/en/articles/archive/feature/product-information-2011-05-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2011-05-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203155053id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2011-05-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 15:50:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights Magic: The Gathering 2012 Core Set features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set. It is available in booster packs, intro packs, and fat packs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-05-23"
+[_metadata_:title]:- "Product Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 15:50:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203155053id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2011-05-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2011-05-23"
 ---
 
 

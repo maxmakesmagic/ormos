@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220122212611/https://magic.wizards.com/en/articles/archive/feature/superest-type-all-2006-11-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/superest-type-all-2006-11-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122212611id_/https://magic.wizards.com/en/articles/archive/feature/superest-type-all-2006-11-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 21:26:11+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to Legendary Creatures of Time Spiral Week! As Brady Dommermuth explained on Monday, the Legends of Time Spiral (hereafter known as L.O.T.S.) are all very famous personalities from Magic's past. Some of them are brave and heroic, some of them are amusing cowards. One thing they all have in common is their commitment to charity. Before he was raising the dead as a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-15"
+[_metadata_:title]:- "The Superest Type of All"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 21:26:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122212611id_/https://magic.wizards.com/en/articles/archive/feature/superest-type-all-2006-11-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/superest-type-all-2006-11-15"
 ---
 
 

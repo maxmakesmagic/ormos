@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201205212743/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-5-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-5-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205212743id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-5-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 21:27:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Points Team Points Team 6 3 Aces 6 Beat Squad 12 Antarctica 12 Coolers 9 Backstreetboys 9 Our Move Games 6 BattleZone 6 Last Minute 6 Beat Squad 6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix St. Louis Round 5 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 21:27:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205212743id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-5-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-5-pairings-2000-01-01"
 ---
 
 

@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211128234734/https://magic.wizards.com/en/articles/archive/feature/teams-round-6-murray-evans-vs-jan-brinkmann-germany-vs-canada-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-6-murray-evans-vs-jan-brinkmann-germany-vs-canada-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128234734id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-6-murray-evans-vs-jan-brinkmann-germany-vs-canada-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 23:47:34+00:00"
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Teams Round 6: Murray Evans vs. Jan Brinkmann Germany vs. Canada"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 23:47:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128234734id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-6-murray-evans-vs-jan-brinkmann-germany-vs-canada-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-6-murray-evans-vs-jan-brinkmann-germany-vs-canada-2000-01-01"
 ---
 
 

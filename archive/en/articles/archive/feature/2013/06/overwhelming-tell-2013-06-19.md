@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170313220510/http://magic.wizards.com/en/articles/archive/feature/overwhelming-tell-2013-06-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/overwhelming-tell-2013-06-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170313220510id_/http://magic.wizards.com/en/articles/archive/feature/overwhelming-tell-2013-06-19"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-13 22:05:10+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Back in April I unveiled two new promos for our judge program. That time it was Crucible of Worlds and Bribery. This time I'm back with two new judge promos!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-19"
+[_metadata_:title]:- "Overwhelming Tell"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-13 22:05:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170313220510id_/http://magic.wizards.com/en/articles/archive/feature/overwhelming-tell-2013-06-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/overwhelming-tell-2013-06-19"
 ---
 
 

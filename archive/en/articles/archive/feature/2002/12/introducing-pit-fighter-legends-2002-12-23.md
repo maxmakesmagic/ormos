@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160421052740/http://magic.wizards.com/en/articles/archive/feature/introducing-pit-fighter-legends-2002-12-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/introducing-pit-fighter-legends-2002-12-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160421052740id_/http://magic.wizards.com/en/articles/archive/feature/introducing-pit-fighter-legends-2002-12-23"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-21 05:27:40+00:00"
+[_metadata_:author]:- "Josh Bennett"
 [_metadata_:description]:- "The first feature article of `Best Of` Week is a no-brainer. Josh Bennett could make Eager Cadet sound exciting if we asked him to, so it was no surprise that his article previewing Onslaught's Pit Fighter Legends—a topic with some substance—was a true gem.Enjoy laughing out loud.—Aaron"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-12-23"
+[_metadata_:title]:- "Introducing the Pit Fighter Legends"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-21 05:27:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160421052740id_/http://magic.wizards.com/en/articles/archive/feature/introducing-pit-fighter-legends-2002-12-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/introducing-pit-fighter-legends-2002-12-23"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220625173117/https://magic.wizards.com/en/articles/archive/feature/round-6-results-table-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-results-table-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625173117id_/https://magic.wizards.com/en/articles/archive/feature/round-6-results-table-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 17:31:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Result Opponent Two men and a baby ! 120 vs. one day fly Metagames/LNT 030 vs. Angstschreeuw Stuchkaccolites * 030 vs. zyrberus Absolute Samuels 120 vs. Bologna Demolition Team Is on my mind * 030 vs. Black-Ops gotta catch Kai 210 vs. trash AAA Babar Team 120 vs. Team Clegg www.revised4th5th.com 300 vs. Amsterdam Cosmopolitan 210 vs. Do you enjoy it ?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 6 Results (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 17:31:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625173117id_/https://magic.wizards.com/en/articles/archive/feature/round-6-results-table-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-results-table-2000-01-01-0"
 ---
 
 

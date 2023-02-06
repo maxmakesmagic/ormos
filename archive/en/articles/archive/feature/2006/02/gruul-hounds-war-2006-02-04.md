@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521200535/https://magic.wizards.com/en/articles/archive/feature/gruul-hounds-war-2006-02-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gruul-hounds-war-2006-02-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521200535id_/https://magic.wizards.com/en/articles/archive/feature/gruul-hounds-war-2006-02-04"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:05:35+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Guildpact went on sale yesterday, and the worldwide release events are all this weekend. Without much further ado, let slip this week's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-02-04"
+[_metadata_:title]:- "The Gruul Hounds of War"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:05:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521200535id_/https://magic.wizards.com/en/articles/archive/feature/gruul-hounds-war-2006-02-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gruul-hounds-war-2006-02-04"
 ---
 
 

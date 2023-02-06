@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210301111214/https://magic.wizards.com/en/articles/archive/feature/weatherlight-takes-center-stage-2007-12-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/weatherlight-takes-center-stage-2007-12-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210301111214id_/https://magic.wizards.com/en/articles/archive/feature/weatherlight-takes-center-stage-2007-12-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-03-01 11:12:14+00:00"
+[_metadata_:author]:- "Michael G. Ryan"
 [_metadata_:description]:- "As you probably know by now, Magic has a brand-new story called The Weatherlight Saga. Each expansion will continue the epic story until it reaches its conclusion some time from now. Last issue, we introduced you to the planning of the tale, the characters, and the first short story to get the saga rolling. This issue we present you with a summary of the story behind the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-12-03"
+[_metadata_:title]:- "Weatherlight Takes Center Stage"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-01 11:12:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210301111214id_/https://magic.wizards.com/en/articles/archive/feature/weatherlight-takes-center-stage-2007-12-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/weatherlight-takes-center-stage-2007-12-03"
 ---
 
 

@@ -11,7 +11,7 @@ import sys
 from typing import List, Optional
 from urllib.parse import urlparse, unquote
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 from markdownify import MarkdownConverter
 
 from ormos.imagecache import db, ImageCache
@@ -28,6 +28,7 @@ class MagicWizardsConverterSingle:
         self.cache = {}
         self.image_cache = image_cache if image_cache else ImageCache()
         self.date = None
+        self.title = None
 
         # Within this path there should be two files:
         # - an HTML file containing the content
@@ -49,6 +50,10 @@ class MagicWizardsConverterSingle:
         self.raw_url = wayback_data["record"]["raw_url"]
         self.view_url = wayback_data["record"]["view_url"]
 
+        # Read in the HTML file
+        with open(self.html_path, "rb") as f:
+            self.soup = BeautifulSoup(f, "html.parser")
+
         # Start a metadata dictionary, which can be added to.
         self.metadata = {
             "wayback_url": self.url,
@@ -66,35 +71,49 @@ class MagicWizardsConverterSingle:
         else:
             self.image_prefix = None
 
-    # Converts HTML content into Markdown content
-    def process_html(self, path: Path) -> Optional[str]:
+    def _main_content(self, path: Path) -> Optional[Tag]:
         log.info("[%s] Processing HTML path: %s", self.identifier, path)
-        with open(path, "rb") as f:
-            soup = BeautifulSoup(f, "html.parser")
 
         # Store off some metadata if it exists.
-        for tag in soup.find_all("meta"):
+        for tag in self.soup.find_all("meta"):
             name = tag.get("name", None)
             if name in ["generator", "description"]:
                 self.metadata[name] = tag.get("content", "")
+
+            prop = tag.get("property", None)
+            if prop in ["og:title"]:
+                self.title = tag.get("content", "")
+
+        if not self.title:
+            title_tag = self.soup.find("title")
+            if title_tag:
+                self.title = title_tag.getText()
+
+        if self.title:
+            self.metadata["title"] = self.title
 
         # Content can be in one of several places.
         #
         # <div id="main-content">
         # <div id="main">
-        main_content = soup.find("div", id="main-content")
-        if not main_content:
-            main_content = soup.find("div", id="main")
+        main_content = self.soup.find("div", id="main-content")
+        if main_content:
+            return main_content
 
-        # Check the main content again. If it's not present this is probably not an article.
-        if not main_content:
-            if soup.find("article"):
-                raise Exception("Found an <article> not inside content")
+        # Try another tag
+        main_content = self.soup.find("div", id="main")
+        if main_content:
+            return main_content
 
-            # Assume not an article. Check later.
-            log.error("[%s] Not an article", self.identifier)
-            return None
+        # If here, this is probably not an article.
+        if self.soup.find("article"):
+            raise Exception("Found an <article> not inside content")
 
+        # Assume not an article. Check later.
+        log.error("[%s] Not an article", self.identifier)
+        return None
+
+    def _store_data_from_soup(self, main_content: Tag):
         # Store off the publish date if it can be found
         DATE_REX = re.compile(
             r"((January|February|March|April|May|June|July|August|September|October|November|December) ([0-3]?[0-9]), (\d{4}))"
@@ -116,6 +135,36 @@ class MagicWizardsConverterSingle:
             parsed_date = datetime.strptime(full_date, "%B %d, %Y")
             self.date = parsed_date.strftime("%Y-%m-%d")
             log.debug("[%s] Detected article date as %s", self.identifier, self.date)
+
+        # Try and find the author
+        author_div = main_content.find("div", class_="author")
+        if author_div:
+            # the author is in the first p tag
+            author_text = author_div.p.getText()
+            if author_text.startswith("By "):
+                author_text = author_text[3:]
+
+            # Split out the first comma
+            if "," in author_text:
+                author_text = author_text.split(",")[0]
+
+            # Replace any slashes.
+            author_text = author_text.replace("/", "-")
+
+            log.debug(
+                "[%s] Detected article author as %s", self.identifier, author_text
+            )
+            self.metadata["author"] = author_text
+
+    # Converts HTML content into Markdown content
+    def process_html(self, path: Path) -> Optional[str]:
+        main_content = self._main_content(path)
+        if not main_content:
+            # Failed to find main content
+            return None
+
+        # Store data from the main content soup
+        self._store_data_from_soup(main_content)
 
         # Remove content that isn't necessary
         #
@@ -150,7 +199,7 @@ class MagicWizardsConverterSingle:
         # Convert iframes to hyperlinks
         for iframe in main_content.find_all("iframe"):
             if "src" in iframe.attrs:
-                new_a = soup.new_tag("a")
+                new_a = self.soup.new_tag("a")
                 new_a.attrs["href"] = iframe.attrs["src"]
                 new_a.string = iframe.attrs["src"]
                 iframe.replace_with(new_a)
@@ -245,8 +294,8 @@ class MagicWizardsConverterSingle:
                 f.write(f"[Link to Wayback Machine]({self.view_url})\n\n")
 
                 # Add the metadata as Markdown metadata at the start of the file
-                for key, value in self.metadata.items():
-                    escvalue = value.replace('"', "`")
+                for key in sorted(self.metadata):
+                    escvalue = self.metadata[key].replace('"', "`")
                     f.write(f'[_metadata_:{key}]:- "{escvalue}"\n')
                 f.write("---\n")
                 f.write(markdown)

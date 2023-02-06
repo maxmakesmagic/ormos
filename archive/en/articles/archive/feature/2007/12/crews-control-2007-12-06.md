@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161014223622/http://magic.wizards.com/en/articles/archive/feature/crews-control-2007-12-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/crews-control-2007-12-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161014223622id_/http://magic.wizards.com/en/articles/archive/feature/crews-control-2007-12-06"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-14 22:36:22+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to Weatherlight Week! It's five years worth of story compressed into five days, kinda like the first half-decade of 24."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-12-06"
+[_metadata_:title]:- "Crew's Control"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-14 22:36:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161014223622id_/http://magic.wizards.com/en/articles/archive/feature/crews-control-2007-12-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/crews-control-2007-12-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220818173940/https://magic.wizards.com/en/articles/archive/feature/dominaria-united-product-overview-2022-08-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominaria-united-product-overview-2022-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818173940id_/https://magic.wizards.com/en/articles/archive/feature/dominaria-united-product-overview-2022-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:39:40+00:00"
+[_metadata_:author]:- "Tim Brown"
 [_metadata_:description]:- "Dominaria United is legendary with every booster. Here's what to expect inside Set, Draft, Collector, and Jumpstart Boosters!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-08-18"
+[_metadata_:title]:- "Dominaria United Product Overview"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:39:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818173940id_/https://magic.wizards.com/en/articles/archive/feature/dominaria-united-product-overview-2022-08-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominaria-united-product-overview-2022-08-18"
 ---
 
 

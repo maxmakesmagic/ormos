@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211128191051/https://magic.wizards.com/en/articles/archive/feature/actually-all-glitters-really-gold-2007-04-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/actually-all-glitters-really-gold-2007-04-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128191051id_/https://magic.wizards.com/en/articles/archive/feature/actually-all-glitters-really-gold-2007-04-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 19:10:51+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "TheWishes—three of the five of them, anyway—have been tournament staples since they were first printed in Judgment. In Odyssey Block, both Cunning Wish and Burning Wish enabled the powerful Mirari's Wake decks that took over the late PTQ season. At the very first major Standard tournament where they were legal to play, Carlos Romao showcased Cunning Wish and its ability to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-04-12"
+[_metadata_:title]:- "Actually, All that Glitters Really Is Gold!"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 19:10:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128191051id_/https://magic.wizards.com/en/articles/archive/feature/actually-all-glitters-really-gold-2007-04-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/actually-all-glitters-really-gold-2007-04-12"
 ---
 
 

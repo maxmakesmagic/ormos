@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211006104957/https://magic.wizards.com/en/articles/archive/feature/guildpact-sortable-spoiler-2006-01-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guildpact-sortable-spoiler-2006-01-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211006104957id_/https://magic.wizards.com/en/articles/archive/feature/guildpact-sortable-spoiler-2006-01-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-06 10:49:57+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of magicthegathering.com. Here is the sortable spoiler list for Guildpact. Enjoy! Launch the Guildpact card list Or launch Guildpact in Gatherer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-01-23"
+[_metadata_:title]:- "Guildpact Sortable Spoiler"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-06 10:49:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211006104957id_/https://magic.wizards.com/en/articles/archive/feature/guildpact-sortable-spoiler-2006-01-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guildpact-sortable-spoiler-2006-01-23"
 ---
 
 

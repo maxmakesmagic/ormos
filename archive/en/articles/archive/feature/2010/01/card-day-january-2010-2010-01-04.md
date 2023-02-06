@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018202105/https://magic.wizards.com/en/articles/archive/feature/card-day-january-2010-2010-01-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-january-2010-2010-01-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018202105id_/https://magic.wizards.com/en/articles/archive/feature/card-day-january-2010-2010-01-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 20:21:05+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rocket-Powered Turbo Slug – Unhinged uncommon. This card got into Unhinged after it got rejected from Unglued for rules concerns. Three years later, Future Sight's Pact Cycle would put it into real Magic at last. Rishadan Airship – Mercadian Masques common. Rishadan Airship is cool for two reasons. First, it appeared as a four-of in the Top 8 of Pro Tour–Chicago 2000 in Jay"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-01-04"
+[_metadata_:title]:- "Card of the Day - January, 2010"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 20:21:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018202105id_/https://magic.wizards.com/en/articles/archive/feature/card-day-january-2010-2010-01-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-january-2010-2010-01-04"
 ---
 
 

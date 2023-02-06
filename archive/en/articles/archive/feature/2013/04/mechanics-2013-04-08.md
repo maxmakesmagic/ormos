@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160119212841/http://magic.wizards.com/en/articles/archive/feature/mechanics-2013-04-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-2013-04-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160119212841id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-2013-04-08"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-19 21:28:41+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "If you're new to Magic or looking for a refresher on the basic rules, check out the Learn to Play page."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-08"
+[_metadata_:title]:- "The Mechanics of"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-19 21:28:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160119212841id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-2013-04-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-2013-04-08"
 ---
 
 

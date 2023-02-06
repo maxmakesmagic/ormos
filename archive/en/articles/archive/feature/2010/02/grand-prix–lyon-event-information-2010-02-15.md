@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023030218/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93lyon-event-information-2010-02-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93lyon-event-information-2010-02-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023030218id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93lyon-event-information-2010-02-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 03:02:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Tournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information Date: May 8-9, 2010 Format: Rise of the Eldrazi Sealed Deck Day 1/Booster Draft Day Two and Top 8 Tournament Location Cité Centre de Congrès Lyon 50, quai Charles de Gaulle Lyon Cedex 06 69463 France Registration: €35 Friday, May 7: 17:30 – 20:00"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-15"
+[_metadata_:title]:- "Grand Prix–Lyon Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 03:02:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023030218id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93lyon-event-information-2010-02-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93lyon-event-information-2010-02-15"
 ---
 
 

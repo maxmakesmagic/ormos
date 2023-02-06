@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160412165951/http://magic.wizards.com/en/articles/archive/feature/space-academy-lesson-one-2007-02-26)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/space-academy-lesson-one-2007-02-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160412165951id_/http://magic.wizards.com/en/articles/archive/feature/space-academy-lesson-one-2007-02-26"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-12 16:59:51+00:00"
+[_metadata_:author]:- "Kelly Digges"
 [_metadata_:description]:- "Deadly machines exchange laser volleys over a pockmarked battlefield… Strange creatures stalk human colonists through dark and twisted jungles… Desperate outcasts tear through sunbaked deserts in ramshackle buggies…Welcome to the future. Welcome to Space!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-02-26"
+[_metadata_:title]:- "Space Academy: Lesson One"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-12 16:59:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160412165951id_/http://magic.wizards.com/en/articles/archive/feature/space-academy-lesson-one-2007-02-26"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/space-academy-lesson-one-2007-02-26"
 ---
 
 

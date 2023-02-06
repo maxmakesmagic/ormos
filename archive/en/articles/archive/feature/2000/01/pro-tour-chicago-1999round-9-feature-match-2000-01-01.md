@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124021920/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-9-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-9-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124021920id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-9-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:19:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Darwin Kastle vs. Michelle Bush In the first ever feature match pitting girlfriend against boyfriend, Darwin Kastle and Michelle Bush faced off with nearly identical Trix decks (that's the Survival/Recur deck with the Enduring renewal/Goblin Bombardment combo built in). They actually have met once before on Tour - they played in Dallas and Michelle won. Michelle won the die"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Round 9 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:19:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124021920id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-9-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-9-feature-match-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202055629/https://magic.wizards.com/en/articles/archive/feature/modern-masters-card-image-gallery-2013-05-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-masters-card-image-gallery-2013-05-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202055629id_/https://magic.wizards.com/en/articles/archive/feature/modern-masters-card-image-gallery-2013-05-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 05:56:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to the Card Image Gallery for Modern Masters. This is a constantly updated archive of every preview card for Modern Masters, so check back often for updates! Also check out the full information about Modern Masters on the product information page. Welcome to the Card Image Gallery for Modern Masters. Here you can see every Modern Masters card. If you're looking for a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-20"
+[_metadata_:title]:- "Modern Masters Card Image Gallery"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 05:56:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202055629id_/https://magic.wizards.com/en/articles/archive/feature/modern-masters-card-image-gallery-2013-05-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-masters-card-image-gallery-2013-05-20"
 ---
 
 

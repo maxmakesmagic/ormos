@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525100811/https://magic.wizards.com/en/articles/archive/feature/january-7-11-2002-nightmare-week-2002-01-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/january-7-11-2002-nightmare-week-2002-01-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525100811id_/https://magic.wizards.com/en/articles/archive/feature/january-7-11-2002-nightmare-week-2002-01-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:08:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The theme week for January 7-11, 2002 was `Nightmare Week`. It was the second week of magicthegathering.com's existence and its first theme week.MondayMaking Magic: A Nightmare to Remember, by Mark Rosewater. Making the `nightmare` mechanic and previewing Torment. Feature: A Man Named Chainer, by Rei Nakazawa. The background of Chainer, Dementia Master and the Cabal."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-01-07"
+[_metadata_:title]:- "January 7-11, 2002: Nightmare Week"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:08:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525100811id_/https://magic.wizards.com/en/articles/archive/feature/january-7-11-2002-nightmare-week-2002-01-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/january-7-11-2002-nightmare-week-2002-01-07"
 ---
 
 

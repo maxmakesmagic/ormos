@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161029065104/http://magic.wizards.com/en/articles/archive/feature/magic-stories-2007-12-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-stories-2007-12-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161029065104id_/http://magic.wizards.com/en/articles/archive/feature/magic-stories-2007-12-05"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-29 06:51:04+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "It's Weatherlight Week, a week dedicated not only to the card set and airship both styled Weatherlight, but also to that eponymous multi-year saga of Magic stories. I've been thinking about Magic‘s relationship with stories a lot lately, and the Weatherlight Saga is a crucial story to understand in that context. When we in the creative team make plans for future developments in the fictional fabric of Magic, the Weatherlight Saga is an ever-present backdrop."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-12-05"
+[_metadata_:title]:- "Magic in Stories"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-29 06:51:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161029065104id_/http://magic.wizards.com/en/articles/archive/feature/magic-stories-2007-12-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-stories-2007-12-05"
 ---
 
 

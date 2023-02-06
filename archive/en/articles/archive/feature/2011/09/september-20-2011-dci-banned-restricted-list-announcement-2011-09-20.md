@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151227074829/http://magic.wizards.com/en/articles/archive/feature/september-20-2011-dci-banned-restricted-list-announcement-2011-09-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/september-20-2011-dci-banned-restricted-list-announcement-2011-09-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151227074829id_/http://magic.wizards.com/en/articles/archive/feature/september-20-2011-dci-banned-restricted-list-announcement-2011-09-20"
-[_metadata_:wayback_capture_timestamp]:- "2015-12-27 07:48:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Announcement Date: September 20, 2011Effective Date: October 1, 2011Magic Online Effective Date: October 12, 2011"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-20"
+[_metadata_:title]:- "September 20 2011 DCI Banned &amp; Restricted List Announcement"
+[_metadata_:wayback_capture_timestamp]:- "2015-12-27 07:48:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151227074829id_/http://magic.wizards.com/en/articles/archive/feature/september-20-2011-dci-banned-restricted-list-announcement-2011-09-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/september-20-2011-dci-banned-restricted-list-announcement-2011-09-20"
 ---
 
 

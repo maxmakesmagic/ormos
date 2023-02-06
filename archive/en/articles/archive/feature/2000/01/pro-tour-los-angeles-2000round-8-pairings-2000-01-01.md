@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118132653/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118132653id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:26:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Bachmann, David (229) 13 24 Konstanczer, Andre (304) 13 Benefel, Chris (163) 14 21 Pustilnik, Michael (217) 14 Benefield, Kevin (234) 13 23 Weitz, David (223) 13 Bernabeu, Jesus (143) 13 18 Ibamoto, Masami (241) 13 Blackwell, Trevor (298) 18 32 McKenna, Tim (142) 19 Boeken, Noah (129) 18 45 Tsang, Terry (182) 18 Bulthaud, Sean (314) 15 37"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 8 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:26:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118132653id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-pairings-2000-01-01"
 ---
 
 

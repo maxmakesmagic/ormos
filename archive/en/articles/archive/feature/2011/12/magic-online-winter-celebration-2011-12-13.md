@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524100714/https://magic.wizards.com/en/articles/archive/feature/magic-online-winter-celebration-2011-12-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-winter-celebration-2011-12-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524100714id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-winter-celebration-2011-12-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 10:07:14+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Stay indoors and celebrate the holidays with Magic Online's Winter Celebration! This year's celebration has a little something for everyone and includes the following events: The Classic Format CelebrationDaily 64-Player DraftsShards of Alara block Nix Tix DraftsTempest block and Urza's block Sealed QueuesCLASSIC FORMAT CELEBRATIONShow your support for eternal formats by"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-12-13"
+[_metadata_:title]:- "Magic Online Winter Celebration!"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 10:07:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524100714id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-winter-celebration-2011-12-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-winter-celebration-2011-12-13"
 ---
 
 

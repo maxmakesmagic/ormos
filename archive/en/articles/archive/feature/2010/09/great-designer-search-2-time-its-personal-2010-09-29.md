@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170811073249/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-time-its-personal-2010-09-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-time-its-personal-2010-09-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811073249id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-time-its-personal-2010-09-29"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-11 07:32:49+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to the Great Designer Search 2! I'm sure most of you are here eager to start on the first test, but that won't be happening today. Why? Because the GDS2 is going to work a bit differently from the GDS1. (That's sort of a theme for today's article.)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-29"
+[_metadata_:title]:- "The Great Designer Search 2: `This Time It's Personal`"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-11 07:32:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811073249id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-time-its-personal-2010-09-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-time-its-personal-2010-09-29"
 ---
 
 

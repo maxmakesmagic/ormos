@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021123719/https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcom-site-credits-2002-01-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcom-site-credits-2002-01-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021123719id_/https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcom-site-credits-2002-01-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 12:37:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Staff MemberTitleMonty AshleyContent Web ProducerDaniel StahlManaging Web ProducerDoug BeyerWeb DeveloperKevin EndoWeb DeveloperMark RosewaterResearch & Development, ColumnistAnthony AlongiColumnistBrian David-MarshallColumnistMark GottliebColumnistRandy BuehlerColumnistRune HorvikColumnistContributing Feature Writers:Rei NakazawaBennie SmithBen BleiweissMike FloresJosh"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-01-17"
+[_metadata_:title]:- "MagicTheGathering.Com Site Credits"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 12:37:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021123719id_/https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcom-site-credits-2002-01-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcom-site-credits-2002-01-17"
 ---
 
 

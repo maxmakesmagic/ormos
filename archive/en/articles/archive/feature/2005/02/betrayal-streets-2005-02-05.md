@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812151403/https://magic.wizards.com/en/articles/archive/feature/betrayal-streets-2005-02-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/betrayal-streets-2005-02-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812151403id_/https://magic.wizards.com/en/articles/archive/feature/betrayal-streets-2005-02-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 15:14:03+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.We're back from Japan, and what a week it was. The Pros were abuzz with talk of the modified payout for Pro Tour Philadelphia and the new Pro"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-02-05"
+[_metadata_:title]:- "Betrayal on the Streets"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 15:14:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812151403id_/https://magic.wizards.com/en/articles/archive/feature/betrayal-streets-2005-02-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/betrayal-streets-2005-02-05"
 ---
 
 

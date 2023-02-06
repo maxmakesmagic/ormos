@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170407212951/http://magic.wizards.com/en/articles/archive/feature/designing-johnny-2009-08-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/designing-johnny-2009-08-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170407212951id_/http://magic.wizards.com/en/articles/archive/feature/designing-johnny-2009-08-03"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-07 21:29:51+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13; If you're interested in working for Wizards of the Coast, make sure you check out the end of this column."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-03"
+[_metadata_:title]:- "Designing For Johnny"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-07 21:29:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170407212951id_/http://magic.wizards.com/en/articles/archive/feature/designing-johnny-2009-08-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/designing-johnny-2009-08-03"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701081657/https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-champions-2012-08-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-champions-2012-08-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701081657id_/https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-champions-2012-08-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 08:16:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Chinese Taipei, your first World Magic Cup champions. Yu Min Yang, Tzu-Ching Kuo, and Tung-Yi Cheng played across three Constructed formats to defeat Puerto Rico in the finals."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-20"
+[_metadata_:title]:- "World Magic Cup Champions"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 08:16:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701081657id_/https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-champions-2012-08-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-magic-cup-champions-2012-08-20"
 ---
 
 

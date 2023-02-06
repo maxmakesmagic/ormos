@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519124538/https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-dan-clegg-vs-melissa-detora-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-dan-clegg-vs-melissa-detora-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519124538id_/https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-dan-clegg-vs-melissa-detora-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 12:45:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In a match pitting experience against the wide-eyed exuberance of a first time big tourney player, the Jumble's Dan Clegg, playing a deck he predicted to go 0-3, faced off against Providence Rhode Island's Melissa Detora. Playing in her first big tourney, Melissa, who qualified for nationals through New England Regionals is the only woman playing in this year's national"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 3 Feature Match - Dan Clegg vs. Melissa Detora"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 12:45:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519124538id_/https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-dan-clegg-vs-melissa-detora-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-dan-clegg-vs-melissa-detora-2000-01-01"
 ---
 
 

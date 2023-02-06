@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525091813/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525091813id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:18:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Au Yong Wai Kin vs. Albertus Law In the quarterfinals, Malaysia's Au Yong Wai Kin brought his Countersliver deck to face Singaporean Albertus Law and his Necro-Donate deck. The first game started with a decision for Law: He was Duressed before drawing a card, and his hand held two Force of Wills, Illusions of Grandeur, Donate, Demonic Consultation, and two lands. He decided"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Kuala LumpurQuartefinals Recap"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:18:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525091813id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01-0"
 ---
 
 

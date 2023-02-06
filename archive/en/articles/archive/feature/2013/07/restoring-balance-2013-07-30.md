@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023154118/https://magic.wizards.com/en/articles/archive/feature/restoring-balance-2013-07-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/restoring-balance-2013-07-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023154118id_/https://magic.wizards.com/en/articles/archive/feature/restoring-balance-2013-07-30"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:41:18+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I haven't seen a Restore Balance cast since the last time I was in Amsterdam, at the Pro Tour in 2010. It's not the most common spell to cascade into (it is rare, after all), but the effect it has is undeniably powerful. What this deck is trying to do is use Demonic Dread or Violent Outburst to cast the aforementioned Restore Balance, and respond to it by sacrificing some or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-30"
+[_metadata_:title]:- "Restoring the Balance"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:41:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023154118id_/https://magic.wizards.com/en/articles/archive/feature/restoring-balance-2013-07-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/restoring-balance-2013-07-30"
 ---
 
 

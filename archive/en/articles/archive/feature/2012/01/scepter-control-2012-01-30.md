@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170725042832/http://magic.wizards.com/en/articles/archive/feature/scepter-control-2012-01-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scepter-control-2012-01-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170725042832id_/http://magic.wizards.com/en/articles/archive/feature/scepter-control-2012-01-30"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-25 04:28:32+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Longtime Magic Online player Dracc0n put his own spin on Modern control in a recent Premier Event with an Isochron Scepter control deck! With a wide array of control elements and several utility spells to put on a Scepter, Dracc0n sliced through the competition and took down the tournament. Could this be a new force in Modern? Check out the deck for yourself!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-30"
+[_metadata_:title]:- "Scepter Control"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-25 04:28:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170725042832id_/http://magic.wizards.com/en/articles/archive/feature/scepter-control-2012-01-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scepter-control-2012-01-30"
 ---
 
 

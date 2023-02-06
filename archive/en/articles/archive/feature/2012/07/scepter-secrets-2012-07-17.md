@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022034153/https://magic.wizards.com/en/articles/archive/feature/scepter-secrets-2012-07-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scepter-secrets-2012-07-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022034153id_/https://magic.wizards.com/en/articles/archive/feature/scepter-secrets-2012-07-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 03:41:53+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "We are well on our way here on Daily Decks and yet we have not really gotten to talk much about Modern, so I say we change that today. In ten days or so, Modern will be on display at Grand Prix Columbus, so we might as well kick off the event with a little dip into the pool that is Modern. And for that, we need to turn to where the queues are always firing: Magic Online. KWay"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-17"
+[_metadata_:title]:- "Scepter of Secrets"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 03:41:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022034153id_/https://magic.wizards.com/en/articles/archive/feature/scepter-secrets-2012-07-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scepter-secrets-2012-07-17"
 ---
 
 

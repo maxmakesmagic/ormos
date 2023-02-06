@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517145418/https://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q1-2011-2011-03-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q1-2011-2011-03-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517145418id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q1-2011-2011-03-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 14:54:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Summary The Scars of Mirrodin release period saw record user and game play activity and the system performed very well. We are tracking to the plan of running a series of betas in Q2 for the new client. The Digital Object Update and Collation update project is well underway and is going very well. The Alternate Entries module shipped early in Q1 and has performed well,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-03-25"
+[_metadata_:title]:- "Magic Online Development Update Q1 2011"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 14:54:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517145418id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q1-2011-2011-03-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q1-2011-2011-03-25"
 ---
 
 

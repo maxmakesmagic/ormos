@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024171851/https://magic.wizards.com/en/articles/archive/feature/innistrad-midnight-hunt-mechanics-2021-09-02?utm_source=MTGNexus&utm_medium=SetPreviews)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-midnight-hunt-mechanics-2021-09-02?utm_source=MTGNexus&utm_medium=SetPreviews"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024171851id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-midnight-hunt-mechanics-2021-09-02?utm_source=MTGNexus&utm_medium=SetPreviews"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 17:18:51+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Whether it's day or night, if you want to survive on Innistrad, the first step is understanding the mechanics of Innistrad: Midnight Hunt."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-09-02"
+[_metadata_:title]:- "Innistrad: Midnight Hunt Mechanics"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 17:18:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024171851id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-midnight-hunt-mechanics-2021-09-02?utm_source=MTGNexus&utm_medium=SetPreviews"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-midnight-hunt-mechanics-2021-09-02?utm_source=MTGNexus&utm_medium=SetPreviews"
 ---
 
 

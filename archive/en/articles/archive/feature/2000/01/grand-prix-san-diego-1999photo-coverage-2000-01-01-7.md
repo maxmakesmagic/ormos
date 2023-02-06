@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200918112641/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-7)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-7"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200918112641id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-7"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-18 11:26:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "   Kastle, Yoo, Blackwell"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-San Diego 1999Photo Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-18 11:26:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200918112641id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-7"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-7"
 ---
 
 

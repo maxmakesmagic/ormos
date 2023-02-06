@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20191001113802/https://magic.wizards.com/en/articles/archive/feature/vault-packaging-2013-06-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-packaging-2013-06-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191001113802id_/https://magic.wizards.com/en/articles/archive/feature/vault-packaging-2013-06-13"
-[_metadata_:wayback_capture_timestamp]:- "2019-10-01 11:38:02+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Back in February we announced this year's From the Vault: Twenty. Since we're just two months away from its release on August 23, 2013, it's time you get to see what the box looks like."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-13"
+[_metadata_:title]:- "From the Vault Packaging"
+[_metadata_:wayback_capture_timestamp]:- "2019-10-01 11:38:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191001113802id_/https://magic.wizards.com/en/articles/archive/feature/vault-packaging-2013-06-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-packaging-2013-06-13"
 ---
 
 

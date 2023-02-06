@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160824112305/http://magic.wizards.com/en/articles/archive/feature/commander-2015-edition-decklists-2015-11-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2015-edition-decklists-2015-11-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160824112305id_/http://magic.wizards.com/en/articles/archive/feature/commander-2015-edition-decklists-2015-11-06"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-24 11:23:05+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Can't wait to see every single one of the sweet new Commander decks? Well, wait no longer, because here they are!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-11-06"
+[_metadata_:title]:- "Commander (2015 Edition) Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-24 11:23:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160824112305id_/http://magic.wizards.com/en/articles/archive/feature/commander-2015-edition-decklists-2015-11-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2015-edition-decklists-2015-11-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025083029/https://magic.wizards.com/en/articles/archive/feature/eldrazi-arisen-2010-03-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eldrazi-arisen-2010-03-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025083029id_/https://magic.wizards.com/en/articles/archive/feature/eldrazi-arisen-2010-03-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:30:29+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Believe it or not, the plane of Zendikar was once a tranquil world. Mana-rich landscapes of rugged beauty. Vast, unspoiled tracts of magic-infused wilderness. An ecology of gentle creatures and primitive humanoid cultures. Thousands of years ago, all that was nearly wiped out forever. Thousands of years ago, planeswalkers made a desperate choice to trap abominations from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-29"
+[_metadata_:title]:- "The Eldrazi Arisen"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:30:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025083029id_/https://magic.wizards.com/en/articles/archive/feature/eldrazi-arisen-2010-03-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eldrazi-arisen-2010-03-29"
 ---
 
 

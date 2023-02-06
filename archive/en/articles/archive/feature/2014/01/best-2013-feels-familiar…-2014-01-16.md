@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020125102/https://magic.wizards.com/en/articles/archive/feature/best-2013-feels-familiar%E2%80%A6-2014-01-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-feels-familiar%E2%80%A6-2014-01-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020125102id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-feels-familiar%E2%80%A6-2014-01-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 12:51:02+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "First, Frantic Search got the axe in Pauper. Early in 2013, Grapeshot and Empty the Warrens also got banned. Regardless, Storm persevered, but eventually Temporal Fissure joined its brethren. While I enjoyed playing the Temporal Fissure deck during my Pauper stint, it was certainly no fun for my opponents to watch me take a ten-minute turn where the end result was them having"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-01-16"
+[_metadata_:title]:- "Best of 2013: This Feels Familiar…"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 12:51:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020125102id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-feels-familiar%E2%80%A6-2014-01-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-feels-familiar%E2%80%A6-2014-01-16"
 ---
 
 

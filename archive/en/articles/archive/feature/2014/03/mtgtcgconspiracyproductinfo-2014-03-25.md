@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503150803/https://magic.wizards.com/en/articles/archive/feature/mtgtcgconspiracyproductinfo-2014-03-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgtcgconspiracyproductinfo-2014-03-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503150803id_/https://magic.wizards.com/en/articles/archive/feature/mtgtcgconspiracyproductinfo-2014-03-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 15:08:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Release Information  Release Date: June 6, 2014  Further Information  Announcing Conspiracy   Complete Conspiracy Credits   Conspiracy Mechanics   Conspiracy Card Image Gallery   Conspiracy Release Notes   Pick. Plot. Play! Pick. Plot. Play! Experience a Magic format where the intrigues begin long before the first spells are cast! Revolutionary new abilities impact every part"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-25"
+[_metadata_:title]:- "mtg_tcg_conspiracy_productinfo"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 15:08:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503150803id_/https://magic.wizards.com/en/articles/archive/feature/mtgtcgconspiracyproductinfo-2014-03-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgtcgconspiracyproductinfo-2014-03-25"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429124541/https://magic.wizards.com/en/articles/archive/feature/designing-masters-2011-01-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/designing-masters-2011-01-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429124541id_/https://magic.wizards.com/en/articles/archive/feature/designing-masters-2011-01-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:45:41+00:00"
+[_metadata_:author]:- "Erik Lauer"
 [_metadata_:description]:- "The original Masters Edition was designed to bring some important pre-Mirage cards to Magic Online, but it left plenty of room for later releases. In early 2007 I had an idea of how to design the next three Masters Edition sets. They would break the release of pre-Mirage Magic sets into release periods. The three intervals that seemed to work were:Limited Edition Beta, Arabian"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-01-03"
+[_metadata_:title]:- "Designing the Masters"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:45:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429124541id_/https://magic.wizards.com/en/articles/archive/feature/designing-masters-2011-01-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/designing-masters-2011-01-03"
 ---
 
 

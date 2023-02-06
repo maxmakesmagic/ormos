@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150719025253/http://magic.wizards.com/en/articles/archive/feature/magic-origins-update-bulletin-comprehensive-rules-changes-2015-07-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-origins-update-bulletin-comprehensive-rules-changes-2015-07-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150719025253id_/http://magic.wizards.com/en/articles/archive/feature/magic-origins-update-bulletin-comprehensive-rules-changes-2015-07-16"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-19 02:52:53+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "What are the Comprehensive Rules? Magic is complicated. No, really. When you have more than 13,000 interchangeable game pieces, you get some freaky interactions. The Comprehensive Rules cover everything the game has ever come up with, from basic game play structure, to every keyword ever, to entire pages dedicated to single bizarre cards (hello, Karn Liberated!)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-07-16"
+[_metadata_:title]:- "Magic Origins Update Bulletin—Comprehensive Rules Changes"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-19 02:52:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150719025253id_/http://magic.wizards.com/en/articles/archive/feature/magic-origins-update-bulletin-comprehensive-rules-changes-2015-07-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-origins-update-bulletin-comprehensive-rules-changes-2015-07-16"
 ---
 
 

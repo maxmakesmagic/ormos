@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502052812/https://magic.wizards.com/en/articles/archive/feature/gle-ladies-part-3-2012-05-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gle-ladies-part-3-2012-05-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502052812id_/https://magic.wizards.com/en/articles/archive/feature/gle-ladies-part-3-2012-05-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:28:12+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Pro Tour Avacyn Restored Week. This week, the site will be talking all about Avacyn Restored and the Pro Tour that will use it. To keep in tradition with my last Pro Tour theme week, I'll be doing the third part of a three-part article of card-by-card stories of the set. Go read Part 1 and Part 2 first if you haven't yet. I have an interesting relationship with the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-07"
+[_metadata_:title]:- "-gle Ladies, Part 3"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:28:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502052812id_/https://magic.wizards.com/en/articles/archive/feature/gle-ladies-part-3-2012-05-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gle-ladies-part-3-2012-05-07"
 ---
 
 

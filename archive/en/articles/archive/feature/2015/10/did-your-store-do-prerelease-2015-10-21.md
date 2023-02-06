@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151024000242/http://magic.wizards.com/en/articles/archive/feature/did-your-store-do-prerelease-2015-10-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/did-your-store-do-prerelease-2015-10-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151024000242id_/http://magic.wizards.com/en/articles/archive/feature/did-your-store-do-prerelease-2015-10-21"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-24 00:02:42+00:00"
+[_metadata_:author]:- "Jordan Comar"
 [_metadata_:description]:- "Check out how some stores around the world celebrated their Battle for Zendikar Prereleases."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-10-21"
+[_metadata_:title]:- "Did Your Store Do This for Prerelease?"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-24 00:02:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151024000242id_/http://magic.wizards.com/en/articles/archive/feature/did-your-store-do-prerelease-2015-10-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/did-your-store-do-prerelease-2015-10-21"
 ---
 
 

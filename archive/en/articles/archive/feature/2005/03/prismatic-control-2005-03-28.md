@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160731041643/http://magic.wizards.com/en/articles/archive/feature/prismatic-control-2005-03-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/prismatic-control-2005-03-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160731041643id_/http://magic.wizards.com/en/articles/archive/feature/prismatic-control-2005-03-28"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-31 04:16:43+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "It's Control Week on magicthegathering.com, which happens to be a terrific time to talk about that five-color, 250-card Magic Online format known as Prismatic. I mean, just look at this chart:  Prismatic decks"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-03-28"
+[_metadata_:title]:- "Prismatic Control"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-31 04:16:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160731041643id_/http://magic.wizards.com/en/articles/archive/feature/prismatic-control-2005-03-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/prismatic-control-2005-03-28"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524052533/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524052533id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 05:25:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Jun-Wei Hew vs. Jim Len Dark Ritual and Mana Vault were just banned by the DCI to break up the best deck in the format: Necro-Donate. When Necro-Donate gets a good draw, it is almost impossible to beat. Jun-Wei Hew was playing Necro-Donate, and his opponent Jim Len was playing two-color Oath of Druids, similar to the deck played in Chicago by Dirk Baberowski. The match should"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Kuala LumpurRound 7 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 05:25:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524052533id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-feature-match-2000-01-01"
 ---
 
 

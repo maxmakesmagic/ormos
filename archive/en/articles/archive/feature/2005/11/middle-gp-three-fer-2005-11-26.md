@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527124256/https://magic.wizards.com/en/articles/archive/feature/middle-gp-three-fer-2005-11-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/middle-gp-three-fer-2005-11-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527124256id_/https://magic.wizards.com/en/articles/archive/feature/middle-gp-three-fer-2005-11-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 12:42:56+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Wizards of the Coast is out of the office for the Thanksgiving holiday, and will return with new articles beginning Monday, November 28. In case you missed it, what follows is the article that ran in this slot last week. Have a great weekend, and we’ll see you Monday!Scott Johns, magicthegathering.com Content ManagerSend your rules questions to Level Four Judge John Carter."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-11-26"
+[_metadata_:title]:- "The Middle of a GP Three-fer"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 12:42:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527124256id_/https://magic.wizards.com/en/articles/archive/feature/middle-gp-three-fer-2005-11-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/middle-gp-three-fer-2005-11-26"
 ---
 
 

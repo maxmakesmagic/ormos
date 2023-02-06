@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220810104008/https://magic.wizards.com/en/articles/archive/feature/doctor-strangewombat-2004-11-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/doctor-strangewombat-2004-11-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810104008id_/https://magic.wizards.com/en/articles/archive/feature/doctor-strangewombat-2004-11-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-10 10:40:08+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Breaking things. It's been a hobby of mankind for about five seconds longer than creating things has. We strive to break records—As you no doubt remember, Mark Gottlieb set the underwater violin-playing record in 1975. (A funny guy, Mark played Handel's Water Music.) We break the speed limit. We try to break up that hot girl from her unworthy, no-account, rich, successful,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-18"
+[_metadata_:title]:- "Doctor Strangewombat"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-10 10:40:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810104008id_/https://magic.wizards.com/en/articles/archive/feature/doctor-strangewombat-2004-11-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/doctor-strangewombat-2004-11-18"
 ---
 
 

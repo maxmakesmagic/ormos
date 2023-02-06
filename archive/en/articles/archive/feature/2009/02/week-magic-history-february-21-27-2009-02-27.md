@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128114116/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-february-21-27-2009-02-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-february-21-27-2009-02-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128114116id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-february-21-27-2009-02-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 11:41:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "February 21-27: Eleven Grand Prix Events! This was a great week to have a Grand Prix, with eleven events in the last ten years. Let's count them down!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-27"
+[_metadata_:title]:- "This Week in Magic History: February 21-27"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 11:41:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128114116id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-february-21-27-2009-02-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-february-21-27-2009-02-27"
 ---
 
 

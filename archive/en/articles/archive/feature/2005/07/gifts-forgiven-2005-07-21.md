@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161211050004/http://magic.wizards.com/en/articles/archive/feature/gifts-forgiven-2005-07-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gifts-forgiven-2005-07-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161211050004id_/http://magic.wizards.com/en/articles/archive/feature/gifts-forgiven-2005-07-21"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-11 05:00:04+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "For the past couple of weeks, the Kamigawa Block Constructed PTQs have been dominated by one card: Umezawa's Jitte."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-07-21"
+[_metadata_:title]:- "Gifts Forgiven"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-11 05:00:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161211050004id_/http://magic.wizards.com/en/articles/archive/feature/gifts-forgiven-2005-07-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gifts-forgiven-2005-07-21"
 ---
 
 

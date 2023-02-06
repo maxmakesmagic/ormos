@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160429123749/http://magic.wizards.com/en/articles/archive/feature/legacy-white-lightning-2006-08-31)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/legacy-white-lightning-2006-08-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160429123749id_/http://magic.wizards.com/en/articles/archive/feature/legacy-white-lightning-2006-08-31"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-29 12:37:49+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Look at this card:Now read the Oracle text on the card:  Play Waylay only during combat.  Put three 2/2 white Knight creature tokens into play. Remove them from the game at end of turn."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-31"
+[_metadata_:title]:- "The Legacy of White Lightning!"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-29 12:37:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160429123749id_/http://magic.wizards.com/en/articles/archive/feature/legacy-white-lightning-2006-08-31"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/legacy-white-lightning-2006-08-31"
 ---
 
 

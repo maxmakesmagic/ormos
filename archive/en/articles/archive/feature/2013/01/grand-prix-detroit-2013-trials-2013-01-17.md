@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527165152/https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-2013-trials-2013-01-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-2013-trials-2013-01-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527165152id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-2013-trials-2013-01-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 16:51:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Detroit Trials will be run at North and Latin America WPN locations from June 22, 2013 to September 1, 2013. Each awards the winner a two-round bye to Grand Prix Detroit. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-17"
+[_metadata_:title]:- "Grand Prix Detroit 2013 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 16:51:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527165152id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-2013-trials-2013-01-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-2013-trials-2013-01-17"
 ---
 
 

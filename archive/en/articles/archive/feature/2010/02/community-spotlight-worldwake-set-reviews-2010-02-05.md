@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220125180015/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-worldwake-set-reviews-2010-02-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-worldwake-set-reviews-2010-02-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125180015id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-worldwake-set-reviews-2010-02-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 18:00:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Worldwake is out today! And the Internet is awash in set reviews."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-05"
+[_metadata_:title]:- "Community Spotlight: Worldwake Set Reviews"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 18:00:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125180015id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-worldwake-set-reviews-2010-02-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-worldwake-set-reviews-2010-02-05"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017101336/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-wallpaper-2-2009-04-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-wallpaper-2-2009-04-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017101336id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-wallpaper-2-2009-04-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 10:13:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Alara Reborn Wallpaper 2 1280x960 Widescreen: 2560x1600 iPhone (320x480)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-14"
+[_metadata_:title]:- "Alara Reborn Wallpaper 2"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 10:13:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017101336id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-wallpaper-2-2009-04-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-wallpaper-2-2009-04-14"
 ---
 
 

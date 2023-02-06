@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220516133929/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516133929id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 13:39:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 5 Results Table Player 1 Result Player 2 Modhal, Jon *** BYE *** 1 Bernhardt, Falk 02/01/00 Wills, Scott 2 Osterberg, Richard 02/01/00 Gysemans, Peter 3 Nobari, Poya 0-2-0 Wall, Mike 4 Karlsson, Morgan 01/01/00 Bastos, Frederico 5 Maher, Bob 2-0-0 Goldbaum, Nils 6 Herzog, Nicolai 0-2-0 Eskeland, Sigurd 7 Myrvig, Peter 0-2-0 Van de Logt, Tom 8 Remie, Jeroen 01/01/01 Pech,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 13:39:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516133929id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-18"
 ---
 
 

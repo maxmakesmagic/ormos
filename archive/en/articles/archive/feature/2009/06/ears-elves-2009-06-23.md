@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128123707/https://magic.wizards.com/en/articles/archive/feature/ears-elves-2009-06-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ears-elves-2009-06-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128123707id_/https://magic.wizards.com/en/articles/archive/feature/ears-elves-2009-06-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 12:37:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Nissa Revane's Ears of the Elves Format: Duels of the Planeswalkers 16 Forest 8 Swamp 2 Elven Riders 2 Elvish Champion 3 Elvish Eulogist 2 Elvish Visionary 4 Elvish Warrior 4 Farhaven Elf 2 Gaea's Herald 1 Lys Alana Huntmaster 2 Moonglove Winnower 1 Coat of Arms 3 Essence Drain 3 Eyeblight's Ending 4 Giant Growth 2 Naturalize 1 Overrun [/decklist] Duels of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-23"
+[_metadata_:title]:- "Ears of the Elves"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 12:37:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128123707id_/https://magic.wizards.com/en/articles/archive/feature/ears-elves-2009-06-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ears-elves-2009-06-23"
 ---
 
 

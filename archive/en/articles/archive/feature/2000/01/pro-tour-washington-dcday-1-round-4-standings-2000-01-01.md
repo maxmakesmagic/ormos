@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523211914/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523211914id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:19:14+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Your Move Games 12 68.75 2 Game Empire 12 60.42 3 Operation Mise 12 56.25 4 Fifth Again 12 56.25 5 Tongo Nation 10 54.17 6 Marc's Brothers 10 45.83 7 TLC 9 77.08 8 Big Dogs 9 66.67 9 Three Blind Mice 9 62.50 10 Babes of the Dingo 9 60.42 11 Phenomene J 9 58.33 12 Neutral Ground Detroit 9 58.33 13 The Tank 9 56.25 14 Sugar Bus 9 54.17 15 CMU 9"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 4 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:19:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523211914id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-standings-2000-01-01"
 ---
 
 

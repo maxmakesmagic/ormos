@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017171444/https://magic.wizards.com/en/articles/archive/feature/luis-scott-vargas-wins-us-west-coast-wmcq-2012-06-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/luis-scott-vargas-wins-us-west-coast-wmcq-2012-06-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017171444id_/https://magic.wizards.com/en/articles/archive/feature/luis-scott-vargas-wins-us-west-coast-wmcq-2012-06-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 17:14:44+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Congratulations to Luis Scott-Vargas for winning this weekend's World Magic Cup Qualifier in Oakland, California."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-11"
+[_metadata_:title]:- "Luis Scott-Vargas Wins the US West Coast WMCQ"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 17:14:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017171444id_/https://magic.wizards.com/en/articles/archive/feature/luis-scott-vargas-wins-us-west-coast-wmcq-2012-06-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/luis-scott-vargas-wins-us-west-coast-wmcq-2012-06-11"
 ---
 
 

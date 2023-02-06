@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170212191909/http://magic.wizards.com/en/articles/archive/feature/no-mr-beleren-i-expect-you-die-2010-06-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/no-mr-beleren-i-expect-you-die-2010-06-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170212191909id_/http://magic.wizards.com/en/articles/archive/feature/no-mr-beleren-i-expect-you-die-2010-06-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-12 19:19:09+00:00"
+[_metadata_:author]:- "Dave Guskin"
 [_metadata_:description]:- "I can see in your eyes that you thought you had me, with your silly sneaking around and your pathetic `teamwork.` But now who's dangling from ropes over shark-infested magma? Certainly not me! Tragic, really, that you failed so completely. At least I can give you a few moments to bask in my genius before you drop to your death, to see the beautiful elegance of my master plan as it began in my mind and now ends—with your doom."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-14"
+[_metadata_:title]:- "No, Mr. Beleren, I Expect You to Die"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-12 19:19:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170212191909id_/http://magic.wizards.com/en/articles/archive/feature/no-mr-beleren-i-expect-you-die-2010-06-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/no-mr-beleren-i-expect-you-die-2010-06-14"
 ---
 
 

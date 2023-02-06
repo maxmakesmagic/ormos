@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220625072014/https://magic.wizards.com/en/articles/archive/feature/round-8-huey-brock-and-linde-vs-dynasty-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-huey-brock-and-linde-vs-dynasty-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625072014id_/https://magic.wizards.com/en/articles/archive/feature/round-8-huey-brock-and-linde-vs-dynasty-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 07:20:14+00:00"
+[_metadata_:author]:- "Thomas Pannell"
 [_metadata_:description]:- "DynastyLast season, Huey, Ben, and Casey (Billy `Baby Huey Jensen, Ben Rubin, and Casey McCarrel) won GP Pittsburgh. Since then, Huey got upset about Casey showing up late for Day 2 of PT NY last year and was unwilling to play with Casey. This caused Huey to look for teammates on the east coast. In the end he found long time friends Brock Parker and Matt Linde from Maryland to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 8: Huey, Brock, and Linde vs. Dynasty"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 07:20:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625072014id_/https://magic.wizards.com/en/articles/archive/feature/round-8-huey-brock-and-linde-vs-dynasty-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-huey-brock-and-linde-vs-dynasty-2000-01-01"
 ---
 
 

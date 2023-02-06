@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210225161330/https://magic.wizards.com/en/articles/archive/feature/blood-type-v-2007-05-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blood-type-v-2007-05-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210225161330id_/https://magic.wizards.com/en/articles/archive/feature/blood-type-v-2007-05-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-25 16:13:30+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "Billy Idol is so Rock-n-Roll, and it has nothing to do with the fact that his music is electric guitar-based with roots in punk rock, Elvis Presley and the blues. His music is quintessentially `Rock-n-Roll,` but that's not what makes him rock-n-roll. There's the irreverent personality, famously rebellious hairdo, signature fist-pumping, hotel room trashing, multiple arrests"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-05-24"
+[_metadata_:title]:- "Blood Type V"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-25 16:13:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210225161330id_/https://magic.wizards.com/en/articles/archive/feature/blood-type-v-2007-05-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blood-type-v-2007-05-24"
 ---
 
 

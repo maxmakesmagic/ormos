@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502151407/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93amsterdam-2007-01-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93amsterdam-2007-01-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502151407id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93amsterdam-2007-01-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 15:14:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Trial List Updated 2007-02-05 Country Location Date Organiser Website Email Telephone Map ENG Bradford 17-Feb Nick Sephton -- 0797 431 0551 -- ENG Bristol 18-Feb Area 51 Link 0117 9244 655 -- ENG Coventry 25-Feb Bishop Games -- 07973 152 397 -- ENG London 06-Jan The Games Club Link 07958 224 084 Link ENG Manchester 11-Feb Fanboy 3 Link 0161 247 7735 -- IE Dublin 04-Feb Games"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-01-04"
+[_metadata_:title]:- "Grand Prix–Amsterdam"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 15:14:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502151407id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93amsterdam-2007-01-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93amsterdam-2007-01-04"
 ---
 
 

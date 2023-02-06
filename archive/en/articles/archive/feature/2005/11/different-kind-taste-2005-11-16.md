@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429201506/https://magic.wizards.com/en/articles/archive/feature/different-kind-taste-2005-11-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/different-kind-taste-2005-11-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201506id_/https://magic.wizards.com/en/articles/archive/feature/different-kind-taste-2005-11-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:15:06+00:00"
+[_metadata_:author]:- "Scott Johns"
 [_metadata_:description]:- "Matt Cavotta wasn't able to complete his article this week due to several unexpected personal issues that came up over the weekend, but he'll be back in time for next week. In the meantime, we thought you might like a sneak preview of one of the amazing things waiting for you in Guildpact (and we don't mean just the art). In yesterday's Magic Arcana we pointed out some of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-11-16"
+[_metadata_:title]:- "A Different Kind of Taste"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:15:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201506id_/https://magic.wizards.com/en/articles/archive/feature/different-kind-taste-2005-11-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/different-kind-taste-2005-11-16"
 ---
 
 

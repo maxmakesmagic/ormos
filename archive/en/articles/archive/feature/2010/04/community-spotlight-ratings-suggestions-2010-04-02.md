@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220122014422/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-ratings-suggestions-2010-04-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-ratings-suggestions-2010-04-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122014422id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-ratings-suggestions-2010-04-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 01:44:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As you know, Magic uses the Elo system for its DCI ratings. You might not be aware that it's named after its creator, Arpad Elö, who invented it for chess. That's not all that relevant, but we thought we'd throw you some free information. You're welcome! Incidentally, that means it's just `Elo`, not `ELO`. ELO is Jeff Lynne's old band, which did a number of songs on the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-02"
+[_metadata_:title]:- "Community Spotlight: Ratings Suggestions"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 01:44:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122014422id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-ratings-suggestions-2010-04-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-ratings-suggestions-2010-04-02"
 ---
 
 

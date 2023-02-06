@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161213210358/http://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161213210358id_/http://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-13 21:03:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-29"
+[_metadata_:title]:- "Avacyn Restored Intro Packs"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-13 21:03:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161213210358id_/http://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524033625/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-07-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-07-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524033625id_/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-07-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 03:36:25+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Hail, adventurer! Before you set out for Adventures in the Forgotten Realms, take a moment to learn about how this world works."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-07-02"
+[_metadata_:title]:- "Adventures in the Forgotten Realms Mechanics"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 03:36:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524033625id_/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-07-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-07-02"
 ---
 
 

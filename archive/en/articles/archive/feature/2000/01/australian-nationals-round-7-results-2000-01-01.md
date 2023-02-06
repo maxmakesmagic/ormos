@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523163926/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523163926id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 16:39:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Table No. Player Res No. Player 1 60 Coltman, Dane 0-2-0 82 Hong, Craig 2 68 Collins, Lenny 0-2-0 8 West, Justin 3 12 MacDonald, Andrew 0-2-0 33 Turner, Daniel 4 29 Corney, Andrew 2-0-0 65 Ou, John 5 32 Brebach, Kim 0-2-0 83 Bow, Frankle 6 56 Seck, T."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Australian Nationals Round 7 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 16:39:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523163926id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-results-2000-01-01"
 ---
 
 

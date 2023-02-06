@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126184934/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000second-draft-feature-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000second-draft-feature-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126184934id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000second-draft-feature-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:49:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Some people were surprised to when Mike Long went 4-0 at his first draft table, but I for one was not. Mike Long wouldn't show up at a Pro Tour if he weren't prepared. Some players show up just to have hang out and have fun, but Long just isn't like that. He's highly competitive, highly talented, and he would never dream of pleasing the enemy players that want"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Second Draft Feature"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:49:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126184934id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000second-draft-feature-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000second-draft-feature-2000-01-01"
 ---
 
 

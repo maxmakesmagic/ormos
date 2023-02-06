@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524002533/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524002533id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 00:25:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 6 Standings - 15-17 Division  Op-Match Rank Name Points Win% 1 Sluzinski, Jeff 16 62.04 2 Quelle, Blake 15 55.56 3 McArthur, Stephen 14 71.30 4 Del Rosario, Derek 14 68.52 5 Fornalski, David 13 61.11 6 Laurent, Sebastien 13 60.19 7 Carpenter, Ryan 13 59.44 8 Prokopin, Adam 13 56.67 9 Stampke, Ryan 13 56.48 10 Moses, Doug 12 62.96 11"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 00:25:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524002533id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01"
 ---
 
 

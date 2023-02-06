@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025052457/https://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-02-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-02-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025052457id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-02-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 05:24:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix are easily the biggest open events the DCI offers. They're high-energy and held around the world. Plus, no invitation is necessary -- anyone can attend.Even if you don’t want to attend the main event, there are still plenty of reasons to come. A Grand Prix is not just a regular Magic tournament… Grand Prix’s in Europe are true Magic events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-02-13"
+[_metadata_:title]:- "Grand Prix - Cardiff"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 05:24:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025052457id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-02-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-02-13"
 ---
 
 

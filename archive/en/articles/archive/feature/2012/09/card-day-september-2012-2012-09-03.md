@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627140124/https://magic.wizards.com/en/articles/archive/feature/card-day-september-2012-2012-09-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-september-2012-2012-09-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627140124id_/https://magic.wizards.com/en/articles/archive/feature/card-day-september-2012-2012-09-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 14:01:24+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Guild Feud – Return to Ravnica rare. Ravnica is a place where the guilds are all at war. Fight for your guild at this weekend's Return to Ravnica Prerelease! Mountain – Return to Ravnica basic land. Return to Ravnica has five of each basic land. And one of each of those is a reprint of a basic land from Ravnica: City of Guilds! And now you're ready for this weekend's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-03"
+[_metadata_:title]:- "Card of the Day - September, 2012"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 14:01:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627140124id_/https://magic.wizards.com/en/articles/archive/feature/card-day-september-2012-2012-09-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-september-2012-2012-09-03"
 ---
 
 

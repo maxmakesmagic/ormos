@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211206094904/https://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206094904id_/https://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 09:49:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-25"
+[_metadata_:title]:- "Awakenings, Part 3"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 09:49:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206094904id_/https://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25"
 ---
 
 

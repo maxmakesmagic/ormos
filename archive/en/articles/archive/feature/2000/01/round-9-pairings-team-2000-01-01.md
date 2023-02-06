@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160426210647/http://magic.wizards.com/en/articles/archive/feature/round-9-pairings-team-2000-01-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/round-9-pairings-team-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160426210647id_/http://magic.wizards.com/en/articles/archive/feature/round-9-pairings-team-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-26 21:06:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPointsOpponentPointsAlphaBetaUnlimited.com/19vsTeam $20 Dolla Billz19Team Flees16vsMadam Fishnut16Family Games Center19vsRug Doctors19Frog Eaters18vsHuey Brock and Linde18Team Bald Dummy16vsJust Concede15"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 9 Pairings (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-26 21:06:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160426210647id_/http://magic.wizards.com/en/articles/archive/feature/round-9-pairings-team-2000-01-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/round-9-pairings-team-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151224121112/http://magic.wizards.com/en/articles/archive/feature/branded-play-2015-09-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/branded-play-2015-09-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151224121112id_/http://magic.wizards.com/en/articles/archive/feature/branded-play-2015-09-01"
-[_metadata_:wayback_capture_timestamp]:- "2015-12-24 12:11:12+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "We're changing things up again for the Battle for Zendikar Prerelease, and Gavin has all the details!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-09-01"
+[_metadata_:title]:- "Branded Play"
+[_metadata_:wayback_capture_timestamp]:- "2015-12-24 12:11:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151224121112id_/http://magic.wizards.com/en/articles/archive/feature/branded-play-2015-09-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/branded-play-2015-09-01"
 ---
 
 

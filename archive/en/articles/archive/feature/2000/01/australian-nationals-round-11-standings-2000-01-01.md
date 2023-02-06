@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202140719/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-11-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-11-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202140719id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-11-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 14:07:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 West, Justin 27 59.7649 68.9655 57.6608 11/9/0/0 2 Corney, Andrew 27 59.0603 76.0000 55.3041 11/9/0/0 3 Seck, T."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Australian Nationals Round 11 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 14:07:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202140719id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-11-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-11-standings-2000-01-01"
 ---
 
 

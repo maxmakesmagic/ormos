@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160706154343/http://magic.wizards.com/en/articles/archive/feature/merfolklore-2008-06-27)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/merfolklore-2008-06-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160706154343id_/http://magic.wizards.com/en/articles/archive/feature/merfolklore-2008-06-27"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-06 15:43:43+00:00"
+[_metadata_:author]:- "Devin Low"
 [_metadata_:description]:- "*/ Last week, I zoomed in on the detailed development of a single card. This week, I’m going to run through the development stories of five different cards. In honor of Merfolk Week, I’ll swim on down to my undersea friends."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-06-27"
+[_metadata_:title]:- "MerFolklore"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-06 15:43:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160706154343id_/http://magic.wizards.com/en/articles/archive/feature/merfolklore-2008-06-27"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/merfolklore-2008-06-27"
 ---
 
 

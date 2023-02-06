@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117224342/https://magic.wizards.com/en/articles/archive/feature/born-digital-gods-2014-02-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/born-digital-gods-2014-02-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117224342id_/https://magic.wizards.com/en/articles/archive/feature/born-digital-gods-2014-02-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 22:43:42+00:00"
+[_metadata_:author]:- "Jon Loucks"
 [_metadata_:description]:- "Download Magic Online This is the story of how Born of the Gods went from physical cards to a digital release. A few months ago, I told a similar tale for Theros. Like Theros, Born of the Gods was full of adventure, progress, setbacks, and learnings. Let’s start by paying tribute to a new mechanic in Born of the Gods… This Is Just a Tribute Fanatic of Xenagos Tribute offers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-02-24"
+[_metadata_:title]:- "Born of the Digital Gods"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 22:43:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117224342id_/https://magic.wizards.com/en/articles/archive/feature/born-digital-gods-2014-02-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/born-digital-gods-2014-02-24"
 ---
 
 

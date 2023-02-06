@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201125082328/https://magic.wizards.com/en/articles/archive/feature/sketches-autochthon-wurm-2005-10-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketches-autochthon-wurm-2005-10-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201125082328id_/https://magic.wizards.com/en/articles/archive/feature/sketches-autochthon-wurm-2005-10-12"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-25 08:23:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to another edition of Sketches! Today we take a look behind the scenes of the creation of that enormous 15-mana trampler from Ravnica: City of Guilds, Autochthon Wurm. But first, some background on the artist, Michael Phillippi."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-10-12"
+[_metadata_:title]:- "Sketches: Autochthon Wurm"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-25 08:23:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201125082328id_/https://magic.wizards.com/en/articles/archive/feature/sketches-autochthon-wurm-2005-10-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketches-autochthon-wurm-2005-10-12"
 ---
 
 

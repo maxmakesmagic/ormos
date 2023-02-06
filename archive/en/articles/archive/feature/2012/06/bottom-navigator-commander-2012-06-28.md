@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220626134915/https://magic.wizards.com/en/articles/archive/feature/bottom-navigator-commander-2012-06-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bottom-navigator-commander-2012-06-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626134915id_/https://magic.wizards.com/en/articles/archive/feature/bottom-navigator-commander-2012-06-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 13:49:15+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Longtime Magic writer Bennie Smith has plenty of Commander experience—and in his recent StarCityGames.com article, he takes a look at a new approach for building Commander decks. While normally players start with the commander and build from there, Bennie experimented with a different approach: starting with a cool, non-legendary card and building the deck around it. How did"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-28"
+[_metadata_:title]:- "Bottom-Up Navigator Commander"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 13:49:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626134915id_/https://magic.wizards.com/en/articles/archive/feature/bottom-navigator-commander-2012-06-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bottom-navigator-commander-2012-06-28"
 ---
 
 

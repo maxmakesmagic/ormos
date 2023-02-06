@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210802130614/https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-update-bulletin-2015-10-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-update-bulletin-2015-10-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210802130614id_/https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-update-bulletin-2015-10-09"
-[_metadata_:wayback_capture_timestamp]:- "2021-08-02 13:06:14+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "A review of the Oracle and Comprehensive Rules changes that come with the new set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-10-09"
+[_metadata_:title]:- "Battle for Zendikar Update Bulletin"
+[_metadata_:wayback_capture_timestamp]:- "2021-08-02 13:06:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210802130614id_/https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-update-bulletin-2015-10-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-update-bulletin-2015-10-09"
 ---
 
 

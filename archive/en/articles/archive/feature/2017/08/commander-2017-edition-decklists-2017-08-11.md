@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112023234/https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023234id_/https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:32:34+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Blake reveals the decklists for the Commander (2017 Edition) decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-08-11"
+[_metadata_:title]:- "Commander (2017 Edition) Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:32:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023234id_/https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11"
 ---
 
 

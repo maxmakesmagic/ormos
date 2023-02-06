@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124021800/https://magic.wizards.com/en/articles/archive/feature/dissension-2008-08-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dissension-2008-08-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124021800id_/https://magic.wizards.com/en/articles/archive/feature/dissension-2008-08-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:18:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights Dissension features 180 cards, with randomly-inserted premium cards. It will be available in booster packs, theme decks, and Fat Packs (which include six booster packs, the novel, a player's guide, and much more).  Novel Dissension: The Ravnica Cycle, Book III by Cory J. Herndon The Rakdos cultists bloody the streets with a viciousness matched only by"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-07"
+[_metadata_:title]:- "Dissension"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:18:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124021800id_/https://magic.wizards.com/en/articles/archive/feature/dissension-2008-08-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dissension-2008-08-07"
 ---
 
 

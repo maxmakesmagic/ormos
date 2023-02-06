@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180309183350/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-meet-top-8-2018-03-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-meet-top-8-2018-03-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180309183350id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-meet-top-8-2018-03-09"
-[_metadata_:wayback_capture_timestamp]:- "2018-03-09 18:33:50+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Meet the Top 8 finalists for the Great Designer Search 3!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-03-09"
+[_metadata_:title]:- "Great Designer Search 3 – Meet the Top 8"
+[_metadata_:wayback_capture_timestamp]:- "2018-03-09 18:33:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180309183350id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-meet-top-8-2018-03-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-meet-top-8-2018-03-09"
 ---
 
 

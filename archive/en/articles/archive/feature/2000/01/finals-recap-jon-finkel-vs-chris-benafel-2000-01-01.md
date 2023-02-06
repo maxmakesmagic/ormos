@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518102555/https://magic.wizards.com/en/articles/archive/feature/finals-recap-jon-finkel-vs-chris-benafel-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-recap-jon-finkel-vs-chris-benafel-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518102555id_/https://magic.wizards.com/en/articles/archive/feature/finals-recap-jon-finkel-vs-chris-benafel-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 10:25:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Approximately a month ago, Wizards of the Coast announced that $2 million would be added to the pro tour, thus legitimizing the concept of the true professional player. A number of players who had recently been complacent in their PT preparations swore that they'd be coming back and started working at their games with renewed vengeance. Amongst those players was Jon Finkel."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Finals Recap - Jon Finkel vs. Chris Benafel"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 10:25:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518102555id_/https://magic.wizards.com/en/articles/archive/feature/finals-recap-jon-finkel-vs-chris-benafel-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-recap-jon-finkel-vs-chris-benafel-2000-01-01"
 ---
 
 

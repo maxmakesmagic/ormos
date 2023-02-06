@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129090826/https://magic.wizards.com/en/articles/archive/feature/dark-mirror-milk-saucer-2007-01-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dark-mirror-milk-saucer-2007-01-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129090826id_/https://magic.wizards.com/en/articles/archive/feature/dark-mirror-milk-saucer-2007-01-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 09:08:26+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "I was trying to brainstorm for an angle on this preview article and decided to go with “see how screwed up the color pie is?” because we don’t normally think of black as the haste color. The only relevant black creature I could think up off the top of my head was Blazing Specter (which is also red, the default haste color, which actually strengthened my argument), but as"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-01-11"
+[_metadata_:title]:- "Dark Mirror Milk Saucer"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 09:08:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129090826id_/https://magic.wizards.com/en/articles/archive/feature/dark-mirror-milk-saucer-2007-01-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dark-mirror-milk-saucer-2007-01-11"
 ---
 
 

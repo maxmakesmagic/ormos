@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518211504/https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-4-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-4-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518211504id_/https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-4-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 21:15:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Anderson, Brett (38) 5 46 Johns, Scott (93) 5 Andrews, Steve (80) 5 37 Manelick, Ryan (98) 5 Bondy, Brett (12) 5 38 Kasliner, Scott (29) 5 Butz, Jeff (128) 5 41 Lagges, John (136) 5 Coppage, Thomas (69) 5 47 Jensen, Cory (115) 5 Emmert, Mike (73) 5 45 Hirsch, Steve (146) 5 Freeman, Brendan (99) 5 42 Johnson, Vincent (165) 5 Hilts, Will (15)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Open 5 Round 4 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 21:15:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518211504id_/https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-4-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-4-pairings-2000-01-01"
 ---
 
 

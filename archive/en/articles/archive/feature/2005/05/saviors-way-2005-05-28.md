@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520020925/https://magic.wizards.com/en/articles/archive/feature/saviors-way-2005-05-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saviors-way-2005-05-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520020925id_/https://magic.wizards.com/en/articles/archive/feature/saviors-way-2005-05-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 02:09:25+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Last weekend was the Saviors of Kamigawa prerelease-- the Magic equivalent of an early screening. In one week, Saviors hits the streets, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-05-28"
+[_metadata_:title]:- "Saviors on the Way"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 02:09:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520020925id_/https://magic.wizards.com/en/articles/archive/feature/saviors-way-2005-05-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saviors-way-2005-05-28"
 ---
 
 

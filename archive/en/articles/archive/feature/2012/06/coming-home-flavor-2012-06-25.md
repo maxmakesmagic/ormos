@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210918131436/https://magic.wizards.com/en/articles/archive/feature/coming-home-flavor-2012-06-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coming-home-flavor-2012-06-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210918131436id_/https://magic.wizards.com/en/articles/archive/feature/coming-home-flavor-2012-06-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-18 13:14:36+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "One of Magic's most crucial strengths is its elasticity. We get to push the game in weird directions, let it build in scale and expand in complexity, urge it to wander off to some uncharted nook of the possibility space. But then, after that block-long walkabout, it's able to snap back to its center again. Magic finds its way home, restoring itself to a state of classic game"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-25"
+[_metadata_:title]:- ": Coming Home to Flavor"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-18 13:14:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210918131436id_/https://magic.wizards.com/en/articles/archive/feature/coming-home-flavor-2012-06-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coming-home-flavor-2012-06-25"
 ---
 
 

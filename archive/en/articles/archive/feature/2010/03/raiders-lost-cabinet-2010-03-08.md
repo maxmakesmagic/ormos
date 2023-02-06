@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160531060253/http://magic.wizards.com/en/articles/archive/feature/raiders-lost-cabinet-2010-03-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/raiders-lost-cabinet-2010-03-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160531060253id_/http://magic.wizards.com/en/articles/archive/feature/raiders-lost-cabinet-2010-03-08"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-31 06:02:53+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Adventure Week! So what exactly is Adventure Week? To quote editor Kelly Digges: `This is a totally open-ended theme week about going on journeys, pushing comfort zones, and having fun.` I always write on theme so I began my adventure by figuring out what exactly I was going to do."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-08"
+[_metadata_:title]:- "Raiders of the Lost Cabinet"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-31 06:02:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160531060253id_/http://magic.wizards.com/en/articles/archive/feature/raiders-lost-cabinet-2010-03-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/raiders-lost-cabinet-2010-03-08"
 ---
 
 

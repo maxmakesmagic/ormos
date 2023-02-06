@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161221142127/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93yokohama-2007-2007-02-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93yokohama-2007-2007-02-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161221142127id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93yokohama-2007-2007-02-05"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-21 14:21:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; Pacific Convention Plaza Yokohama&#13; April 20-22, 2007&#13; &#13; &#13; Play the Game, See the World&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-02-05"
+[_metadata_:title]:- "Pro Tour–Yokohama 2007"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-21 14:21:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161221142127id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93yokohama-2007-2007-02-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93yokohama-2007-2007-02-05"
 ---
 
 

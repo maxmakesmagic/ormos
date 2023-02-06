@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017044610/https://magic.wizards.com/en/articles/archive/feature/revisiting-type-2-2004-03-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/revisiting-type-2-2004-03-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017044610id_/https://magic.wizards.com/en/articles/archive/feature/revisiting-type-2-2004-03-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 04:46:10+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Grand Prix: Sendai GP Sendai Champion, Ichiro ShimuraThe Grand Prix circuit returned to the Tohoku region of Japan for the third time last weekend with GP Sendai, this time testing the players' skills at Mirrodin-Darksteel sealed and draft play. Over 500 players attended, with most of the top Japanese pros present at the event. Only the Ruel brothers and Sam Gomersall showed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-03-25"
+[_metadata_:title]:- "Revisiting Type 2"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 04:46:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017044610id_/https://magic.wizards.com/en/articles/archive/feature/revisiting-type-2-2004-03-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/revisiting-type-2-2004-03-25"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220811111702/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-2009-03-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-2009-03-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811111702id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-2009-03-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 11:17:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: AJ Sacher's Planeswalker Control Format: Pro Tour–Kyoto 1 Exotic Orchard 1 Island 4 Mystic Gate 4 Reflecting Pool 2 Sunken Ruins 4 Vivid Crag 4 Vivid Creek 4 Vivid Meadow 4 Ajani Vengeant 4 Condemn 1 Cruel Ultimatum 4 Cryptic Command 4 Esper Charm 4 Garruk Wildspeaker 4 Jace Beleren 2 Liliana Vess 2 Terror 3 Volcanic Fallout 4 Wrath of God *3 Burrenton"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-06"
+[_metadata_:title]:- "Planeswalkers!"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 11:17:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811111702id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-2009-03-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-2009-03-06"
 ---
 
 

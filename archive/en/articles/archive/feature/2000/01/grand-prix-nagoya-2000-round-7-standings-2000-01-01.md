@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524161926/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-7-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-7-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524161926id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-7-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:19:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Godzilla 21 68.10 2 Team Iwamoto 19 60.48 3 NEW WAVE 18 66.67 4 NAGOYAN 18 63.61 5 Masato Club 18 63.17 6 UNLUCKY'S 18 59.84 7 SAKURA Gumi 18 59.80 8 Team T.T.Y. 18 56.46 9 Ray Force 17 63.81 10 Executioners 17 61.64 11 WACHI-DE? 16 82.86 12 Poor Shark 16 72.38 13 T.F.Z."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 7 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:19:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524161926id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-7-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-7-standings-2000-01-01"
 ---
 
 

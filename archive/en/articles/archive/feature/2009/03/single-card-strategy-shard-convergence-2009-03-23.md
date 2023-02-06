@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521000721/https://magic.wizards.com/en/articles/archive/feature/single-card-strategy-shard-convergence-2009-03-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/single-card-strategy-shard-convergence-2009-03-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521000721id_/https://magic.wizards.com/en/articles/archive/feature/single-card-strategy-shard-convergence-2009-03-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 00:07:21+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "A long time ago, in a galaxy far, far better off economically, a brilliant young man named Garfield, who sought neither the presidency nor an oven-baked lasagna, created a game called Magic: The Gathering that took the gaming world by storm and shook it to its very core.Ah, Magic: The Gathering. Like a regurgitated marble, the name rolls effortlessly off the tongue. Also like"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-23"
+[_metadata_:title]:- "Single Card Strategy: Shard Convergence"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 00:07:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521000721id_/https://magic.wizards.com/en/articles/archive/feature/single-card-strategy-shard-convergence-2009-03-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/single-card-strategy-shard-convergence-2009-03-23"
 ---
 
 

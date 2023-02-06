@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519205656/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-2013-trials-2012-10-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-2013-trials-2012-10-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519205656id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-2013-trials-2012-10-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 20:56:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Utrecht Trials will be run at European WPN locations from December 22, 2012 to March 3, 2013. Each awards the winner a two-round bye for his or her team to Grand Prix Utrecht. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-30"
+[_metadata_:title]:- "Grand Prix Utrecht 2013 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 20:56:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519205656id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-2013-trials-2012-10-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-2013-trials-2012-10-30"
 ---
 
 

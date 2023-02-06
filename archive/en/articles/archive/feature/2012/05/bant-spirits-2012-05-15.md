@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160626073039/http://magic.wizards.com/en/articles/archive/feature/bant-spirits-2012-05-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/bant-spirits-2012-05-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160626073039id_/http://magic.wizards.com/en/articles/archive/feature/bant-spirits-2012-05-15"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-26 07:30:39+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Pro Tour Avacyn Restored happened last weekend, bringing several of Magic's best players out of the woodwork to compete. Team StarCityGames Black put a lot of effort into the format—and was rewarded with one of the best-performing decks at the tournament. Renowned deck builder Sam Black hit a home run yet again, as his Bant Spirits deck pushed professional player Gaudenis Vidugiris and legendary Pro Tour Hall of Fame member Jon Finkel into the Top 8 in Barcelona."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-15"
+[_metadata_:title]:- "Bant Spirits"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-26 07:30:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160626073039id_/http://magic.wizards.com/en/articles/archive/feature/bant-spirits-2012-05-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/bant-spirits-2012-05-15"
 ---
 
 

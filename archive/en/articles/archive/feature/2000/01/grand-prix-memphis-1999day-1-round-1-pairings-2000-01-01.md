@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520070308/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-1-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-1-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520070308id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-1-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 07:03:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Adkins, Johnny (1) *** Awarded Bye *** Adkins, Johnny (1) *** Awarded Bye *** Adkins, Joshua (2) *** Awarded Bye *** Albright, Nathan (3) Oaks, Richard (208) Anderson, Dan (4) King, Katie (146) Anderson, Rhonda (5) Pippin, Russell (236) Angel, Greg (6) Perry, James (229) Ansley, Justin (7) Snyder, Kristopher (293) Armstrong, Herman (8) *** Awarded Bye ***"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Memphis 1999Day 1 Round 1 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 07:03:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520070308id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-1-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-1-pairings-2000-01-01"
 ---
 
 

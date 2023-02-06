@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160425055037/http://magic.wizards.com/en/articles/archive/feature/2004-magic-gathering-thailand-national-championship-2004-06-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2004-magic-gathering-thailand-national-championship-2004-06-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160425055037id_/http://magic.wizards.com/en/articles/archive/feature/2004-magic-gathering-thailand-national-championship-2004-06-03"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-25 05:50:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "DateInvitation OriginCityName29-May-042003 National ChampionSamutsakornBoonchai Jirapongtrakul29-May-042003 National TeamBangkokPrapon Maneechareonhong29-May-042003 National TeamBangkokTapparid Ung-Aram29-May-04Top 4 2003 NationalsBangkokPeerapat Ekpoothorn"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-06-03"
+[_metadata_:title]:- "2004 Magic: The Gathering Thailand National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-25 05:50:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160425055037id_/http://magic.wizards.com/en/articles/archive/feature/2004-magic-gathering-thailand-national-championship-2004-06-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2004-magic-gathering-thailand-national-championship-2004-06-03"
 ---
 
 

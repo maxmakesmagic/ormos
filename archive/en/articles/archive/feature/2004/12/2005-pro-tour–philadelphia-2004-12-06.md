@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029035200/https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93philadelphia-2004-12-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93philadelphia-2004-12-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029035200id_/https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93philadelphia-2004-12-06"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 03:52:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Come join Wizards of the Coast for our next Pro Tour stop in Philadelphia, PA. This information will help you to prepare now to attend in May. Pro Tour Philadelphia will be held May 6-8, 2005."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-12-06"
+[_metadata_:title]:- "2005 Pro Tour–Philadelphia"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 03:52:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029035200id_/https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93philadelphia-2004-12-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93philadelphia-2004-12-06"
 ---
 
 

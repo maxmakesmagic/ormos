@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201125090203/https://magic.wizards.com/en/articles/archive/feature/magic-2014-steam-presale-2013-06-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2014-steam-presale-2013-06-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201125090203id_/https://magic.wizards.com/en/articles/archive/feature/magic-2014-steam-presale-2013-06-11"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-25 09:02:03+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Steam just launched our Magic 2014—Duels of the Planeswalkers presale! The full game releases for Steam on June 26, 2013 (release dates will vary by platform). Head over to Steam to buy the Special Edition for just $19.99 or the normal version for $9.99!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-11"
+[_metadata_:title]:- "Magic 2014 Steam Presale"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-25 09:02:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201125090203id_/https://magic.wizards.com/en/articles/archive/feature/magic-2014-steam-presale-2013-06-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2014-steam-presale-2013-06-11"
 ---
 
 

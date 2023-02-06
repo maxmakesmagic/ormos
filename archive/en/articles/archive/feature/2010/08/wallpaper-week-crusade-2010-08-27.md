@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200812021013/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-crusade-2010-08-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-crusade-2010-08-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200812021013id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-crusade-2010-08-27"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-12 02:10:13+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This week's wallpaper features Howard Lyon's Crusade artwork from Elspeth vs. Tezzeret, which goes on sale on September 3. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-27"
+[_metadata_:title]:- "Wallpaper of the Week: Crusade"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-12 02:10:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200812021013id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-crusade-2010-08-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-crusade-2010-08-27"
 ---
 
 

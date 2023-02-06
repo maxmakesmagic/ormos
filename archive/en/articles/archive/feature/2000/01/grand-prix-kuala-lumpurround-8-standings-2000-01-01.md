@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129233731/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-8-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-8-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129233731id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-8-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 23:37:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Nobushita, Jun 24 71.3542 76.1905 66.8365 8/8/0/0 2 Hon, Derik 22 65.1042 75.0000 64.3275 8/7/1/0 3 Hew, Jun-Wei 21 75.0000 83.3333 65.8910 6/5/0/2 4 Thong, Scott 21 64.7569 70.0000 59.8322 8/7/0/0 5 Len, Jim 21 60.4167 77.7778 60.4417 8/7/0/0 6 Quak, Francis Hock Ann 21 60.3819 73.6842 61.5242 8/7/0/0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Kuala LumpurRound 8 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 23:37:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129233731id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-8-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-8-standings-2000-01-01"
 ---
 
 

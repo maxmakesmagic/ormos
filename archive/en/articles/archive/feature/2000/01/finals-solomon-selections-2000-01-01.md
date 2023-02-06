@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029105211/https://magic.wizards.com/en/articles/archive/feature/finals-solomon-selections-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-solomon-selections-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029105211id_/https://magic.wizards.com/en/articles/archive/feature/finals-solomon-selections-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 10:52:11+00:00"
+[_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "Pack #1 - Chris Pikula Divides Chris Pikula Jon Finkel Honorable Passage Brass Man Impulse Horned Troll Legacy's Allure Flood Saber Ants Pestilence Pack #2 - Jon Finkel Divides"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Finals Solomon Selections"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 10:52:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029105211id_/https://magic.wizards.com/en/articles/archive/feature/finals-solomon-selections-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-solomon-selections-2000-01-01"
 ---
 
 

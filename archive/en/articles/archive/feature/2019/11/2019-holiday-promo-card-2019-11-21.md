@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20191221203633/https://magic.wizards.com/en/articles/archive/feature/2019-holiday-promo-card-2019-11-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2019-holiday-promo-card-2019-11-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191221203633id_/https://magic.wizards.com/en/articles/archive/feature/2019-holiday-promo-card-2019-11-21"
-[_metadata_:wayback_capture_timestamp]:- "2019-12-21 20:36:33+00:00"
+[_metadata_:author]:- "Kendall Pepple"
 [_metadata_:description]:- "This year's Holiday Promo Card does more than decorate your collection."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-11-21"
+[_metadata_:title]:- "2019 Holiday Promo Card"
+[_metadata_:wayback_capture_timestamp]:- "2019-12-21 20:36:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191221203633id_/https://magic.wizards.com/en/articles/archive/feature/2019-holiday-promo-card-2019-11-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2019-holiday-promo-card-2019-11-21"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210731075541/https://magic.wizards.com/en/articles/archive/feature/april-2009-update-bulletin-2009-04-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/april-2009-update-bulletin-2009-04-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210731075541id_/https://magic.wizards.com/en/articles/archive/feature/april-2009-update-bulletin-2009-04-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-31 07:55:41+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Introduction The Alara Reborn Prerelease is just a couple of days away, and I am super excited about it. Let me let you in on a little secret about Alara Reborn ... I love this set. I've been pushing the idea of an `all-gold set` around here for years (though, oddly, no one ever thinks I'm serious when I say these things), and when it finally got the green light, I was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-22"
+[_metadata_:title]:- "April 2009 Update Bulletin"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-31 07:55:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210731075541id_/https://magic.wizards.com/en/articles/archive/feature/april-2009-update-bulletin-2009-04-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/april-2009-update-bulletin-2009-04-22"
 ---
 
 

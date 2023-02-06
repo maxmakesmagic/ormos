@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517150400/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-12-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-12-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517150400id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-12-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 15:04:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Aubertin, Justin Zimmerman, Steve Lost, 1-2 Beckmon, Jon Fortenberry, Joe Lost, 1-2 Benafel, Chris Rose, Kyle Draw, Intentional Bhattacharyya, Sayan Davis, Brian Won, 2-1 Bragg, Tillman Stampke, Ryan Lost, 1-2 Bunsongsikul, Ped Lovell, Brian Won, 2-0 Burghy, Jeff York, Kenny Lost, 1-2 Clegg, Daniel Mindes, Michael Won, 2-0 Comer, Alan Maher Jr., Bob"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Round 12 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 15:04:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517150400id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-12-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-12-results-2000-01-01"
 ---
 
 

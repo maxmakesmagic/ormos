@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022101125/https://magic.wizards.com/en/articles/archive/feature/when-you-wish-upon-all-star-2005-01-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/when-you-wish-upon-all-star-2005-01-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022101125id_/https://magic.wizards.com/en/articles/archive/feature/when-you-wish-upon-all-star-2005-01-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 10:11:25+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "On May 18-20, 2005 in Los Angeles at E3 (the Electronic Entertainment Expo), the Wizards of the Coast booth will host the Ninth Annual Magic Invitational. It will still be an invitation-only sixteen person round robin all-star game using five different formats. The winner will still get the opportunity to make their very own Magic card (complete with their image in the art)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-01-31"
+[_metadata_:title]:- "When You Wish Upon an All-Star"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 10:11:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022101125id_/https://magic.wizards.com/en/articles/archive/feature/when-you-wish-upon-all-star-2005-01-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/when-you-wish-upon-all-star-2005-01-31"
 ---
 
 

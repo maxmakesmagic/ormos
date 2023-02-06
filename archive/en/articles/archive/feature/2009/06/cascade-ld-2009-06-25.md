@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220813055249/https://magic.wizards.com/en/articles/archive/feature/cascade-ld-2009-06-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cascade-ld-2009-06-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813055249id_/https://magic.wizards.com/en/articles/archive/feature/cascade-ld-2009-06-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 05:52:49+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Diego Crucius's Cascade LD Format: Grand Prix-Sao Paulo 1 Adarkar Wastes 2 Battlefield Forge 4 Graven Cairns 1 Plains 4 Reflecting Pool 1 Rugged Prairie 4 Treetop Village 3 Vivid Crag 2 Vivid Grove 3 Vivid Meadow 3 Wooded Bastion 4 Bloodbraid Elf 1 Caldera Hellion 4 Enlisted Wurm 4 Kitchen Finks 4 Captured Sunlight 4 Incendiary Command 4 Primal Command 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-25"
+[_metadata_:title]:- "Cascade LD"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 05:52:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813055249id_/https://magic.wizards.com/en/articles/archive/feature/cascade-ld-2009-06-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cascade-ld-2009-06-25"
 ---
 
 

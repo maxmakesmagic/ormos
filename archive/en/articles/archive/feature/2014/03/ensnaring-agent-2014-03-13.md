@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220820063943/https://magic.wizards.com/en/articles/archive/feature/ensnaring-agent-2014-03-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ensnaring-agent-2014-03-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820063943id_/https://magic.wizards.com/en/articles/archive/feature/ensnaring-agent-2014-03-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-20 06:39:43+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "It doesn't take long after a big tournament for the masses to find a deck that is well-positioned against the field. I think today's deck might be it for Modern. Reminiscent of Gabriel Nassif's deck from the first Modern Pro Tour, MildyNZ's Tezzeret deck utilizes Ensnaring Bridge and Chalice of the Void to put the lockdown on opponents. Of the popular decks in the format,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-13"
+[_metadata_:title]:- "Ensnaring Agent"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-20 06:39:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820063943id_/https://magic.wizards.com/en/articles/archive/feature/ensnaring-agent-2014-03-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ensnaring-agent-2014-03-13"
 ---
 
 

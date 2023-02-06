@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211015202125/https://magic.wizards.com/en/articles/archive/feature/nova-scotia-blue-white-2008-11-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nova-scotia-blue-white-2008-11-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015202125id_/https://magic.wizards.com/en/articles/archive/feature/nova-scotia-blue-white-2008-11-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 20:21:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Brett Ripley's Blue-White Control Format: States 2008, 1st Place - Nova Scotia 4 Adarkar Wastes 4 Mutavault 4 Mystic Gate 6 Plains 6 Island 4 Mulldrifter 4 Reveillark 1 Mirror Entity 3 Knight-Captain of Eos 4 Sower of Temptation 1 Mistmeadow Witch 3 Kitchen Finks 2 Runed Halo 4 Wrath of God 2 Tidings 4 Mind Stone 4 Cryptic Command *2 Hallowed Burial *3 Glen"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-11-13"
+[_metadata_:title]:- "Nova Scotia Blue-White"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 20:21:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015202125id_/https://magic.wizards.com/en/articles/archive/feature/nova-scotia-blue-white-2008-11-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nova-scotia-blue-white-2008-11-13"
 ---
 
 

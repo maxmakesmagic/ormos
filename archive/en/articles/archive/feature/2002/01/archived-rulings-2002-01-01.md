@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627014652/https://magic.wizards.com/en/articles/archive/feature/archived-rulings-2002-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archived-rulings-2002-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627014652id_/https://magic.wizards.com/en/articles/archive/feature/archived-rulings-2002-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 01:46:52+00:00"
+[_metadata_:author]:- "Paul Barclay"
 [_metadata_:description]:- "Q: `What happens when a player has Transcendence in play, a False Cure has resolved, and the player with Transcendence loses 1 life? `My understanding is that the player with the Transcendence will lose the game. This would be due to either: 1. 'Mondo' life gain if the Transcendence stays in play. 2. 'Mondo' life lost if the Transcendence is removed from play too late.`--"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-01-01"
+[_metadata_:title]:- "Archived Rulings"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 01:46:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627014652id_/https://magic.wizards.com/en/articles/archive/feature/archived-rulings-2002-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archived-rulings-2002-01-01"
 ---
 
 

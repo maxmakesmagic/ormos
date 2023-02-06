@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220926003739/https://magic.wizards.com/en/articles/archive/feature/magic-online-holiday-celebration-2008-12-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-holiday-celebration-2008-12-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220926003739id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-holiday-celebration-2008-12-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-26 00:37:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As a thank you to our players, Wizards of the Coast will be running a series of special events and promotions during its 2008 Magic Online Holiday Celebration. The 2008 Magic Online Holiday Celebration will run between 10 AM PST/1800 UTC Friday December 19 and 10 AM PST/1800 UTC Monday January 5.Nix Tix Drafts!All drafts in the 8-player draft room will be Nix Tix events during"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-18"
+[_metadata_:title]:- "Magic Online Holiday Celebration"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-26 00:37:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220926003739id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-holiday-celebration-2008-12-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-holiday-celebration-2008-12-18"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503002230/https://magic.wizards.com/en/articles/archive/feature/betraying-secrets-prerelease-2005-01-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/betraying-secrets-prerelease-2005-01-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503002230id_/https://magic.wizards.com/en/articles/archive/feature/betraying-secrets-prerelease-2005-01-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 00:22:30+00:00"
+[_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "I was looking back through my author archives last week and I realized that I rarely get to play in as many PTQs as I used to during my Swimming with Sharks days. I used to play in upwards of four or five a season along with various Grand Prix Trials and cash tournaments. I still manage to squeak one or two out a season but with the coverage gig and other forces in my life"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-01-17"
+[_metadata_:title]:- "Betraying the Secrets of the Prerelease"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 00:22:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503002230id_/https://magic.wizards.com/en/articles/archive/feature/betraying-secrets-prerelease-2005-01-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/betraying-secrets-prerelease-2005-01-17"
 ---
 
 

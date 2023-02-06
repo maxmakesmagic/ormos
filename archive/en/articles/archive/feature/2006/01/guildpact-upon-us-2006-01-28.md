@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527121735/https://magic.wizards.com/en/articles/archive/feature/guildpact-upon-us-2006-01-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guildpact-upon-us-2006-01-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527121735id_/https://magic.wizards.com/en/articles/archive/feature/guildpact-upon-us-2006-01-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 12:17:35+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. Occasionally judges wonder what would happen if something happened at a prerelease. For people at the prerelease Saturday morning in Seattle, we"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-01-28"
+[_metadata_:title]:- "Guildpact is Upon Us"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 12:17:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527121735id_/https://magic.wizards.com/en/articles/archive/feature/guildpact-upon-us-2006-01-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guildpact-upon-us-2006-01-28"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170508225500/http://magic.wizards.com/en/articles/archive/feature/commanders-arsenal-2012-10-17)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commanders-arsenal-2012-10-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170508225500id_/http://magic.wizards.com/en/articles/archive/feature/commanders-arsenal-2012-10-17"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-08 22:55:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Command the Finest"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-17"
+[_metadata_:title]:- "Commander's Arsenal"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-08 22:55:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170508225500id_/http://magic.wizards.com/en/articles/archive/feature/commanders-arsenal-2012-10-17"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commanders-arsenal-2012-10-17"
 ---
 
 

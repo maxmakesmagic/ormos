@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160825015735/http://magic.wizards.com/en/articles/archive/feature/three-champions-crowned-2006-07-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/three-champions-crowned-2006-07-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160825015735id_/http://magic.wizards.com/en/articles/archive/feature/three-champions-crowned-2006-07-30"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-25 01:57:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Cheon Conquers All at U.S. NationalsMagic Weekend didn't disappoint as Paul Cheon won the 2006 U.S. National Championship. Joining him on the national team will be close friend and playtest partner Luis Scott-Vargas and Ben Lundquist. Congratulations also to Arthur Stewart, the 2006 Junior Super Series champion!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-07-30"
+[_metadata_:title]:- "Three Champions Crowned"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-25 01:57:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160825015735id_/http://magic.wizards.com/en/articles/archive/feature/three-champions-crowned-2006-07-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/three-champions-crowned-2006-07-30"
 ---
 
 

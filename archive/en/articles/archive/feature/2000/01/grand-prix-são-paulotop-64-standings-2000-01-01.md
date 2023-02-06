@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518163112/https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulotop-64-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulotop-64-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518163112id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulotop-64-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 16:31:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rank Name Country 1 Alvarenga, Rafael Assafi Brazil 2 Maioli, Douglas Argentina 3 Mao, Carlos Brazil 4 Shvartsman, Alex USA 5 Romao, Carlos Eduardo Yamave Brazil 6 Teixeira, Eduardo Simao Brazil 7 Bandeira, Fernando Moreira Brazil 8 Constanza, Rodrigo Jose Brazil 9 Mamczyc, Leandro Argentina 10 Sittoni, Delmar Santos Brazil 11 Assis, Raul Abreu Brazil 12 Ancelmo, Fabio Sousa"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-São PauloTop 64 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 16:31:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518163112id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulotop-64-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulotop-64-standings-2000-01-01"
 ---
 
 

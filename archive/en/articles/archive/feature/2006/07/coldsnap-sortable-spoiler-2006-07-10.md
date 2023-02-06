@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016101139/https://magic.wizards.com/en/articles/archive/feature/coldsnap-sortable-spoiler-2006-07-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coldsnap-sortable-spoiler-2006-07-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016101139id_/https://magic.wizards.com/en/articles/archive/feature/coldsnap-sortable-spoiler-2006-07-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 10:11:39+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for a set right here on the front page of magicthegathering.com. Here is the sortable spoiler list for Coldsnap. Enjoy! Launch the Coldsnap card list Or launch Coldsnap in Gatherer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-07-10"
+[_metadata_:title]:- "Coldsnap Sortable Spoiler"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 10:11:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016101139id_/https://magic.wizards.com/en/articles/archive/feature/coldsnap-sortable-spoiler-2006-07-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coldsnap-sortable-spoiler-2006-07-10"
 ---
 
 

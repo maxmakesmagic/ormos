@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520045536/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-2013-trials-2012-10-23-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-2013-trials-2012-10-23-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520045536id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-2013-trials-2012-10-23-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 04:55:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Yokohama Trials will be run at APAC/Japan WPN locations from December 7, 2012 to February 17, 2013. Each awards the winner a three-round bye to Grand Prix Yokohama. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-23"
+[_metadata_:title]:- "Grand Prix Yokohama 2013 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 04:55:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520045536id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-2013-trials-2012-10-23-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-2013-trials-2012-10-23-0"
 ---
 
 

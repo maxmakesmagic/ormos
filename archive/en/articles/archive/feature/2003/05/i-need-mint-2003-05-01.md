@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220813030221/https://magic.wizards.com/en/articles/archive/feature/i-need-mint-2003-05-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/i-need-mint-2003-05-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813030221id_/https://magic.wizards.com/en/articles/archive/feature/i-need-mint-2003-05-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 03:02:21+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Scourge previews! Woo-hoo! Party time! Dragon week! Rock on! Super keen! Creature enchantment! Woo-hmmmm . . . Perhaps Dragon Breath isn't the most exciting Scourge card I could have been handed. I've seen the set, and it might actually be the least exciting Scourge card. But it's still pretty neat. Dragon Breath has a lot going on for a 2-mana creature enchantment. It grants"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-05-01"
+[_metadata_:title]:- "I Need a Mint"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 03:02:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813030221id_/https://magic.wizards.com/en/articles/archive/feature/i-need-mint-2003-05-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/i-need-mint-2003-05-01"
 ---
 
 

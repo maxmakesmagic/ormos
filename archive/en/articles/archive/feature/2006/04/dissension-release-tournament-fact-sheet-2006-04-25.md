@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627021726/https://magic.wizards.com/en/articles/archive/feature/dissension-release-tournament-fact-sheet-2006-04-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dissension-release-tournament-fact-sheet-2006-04-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627021726id_/https://magic.wizards.com/en/articles/archive/feature/dissension-release-tournament-fact-sheet-2006-04-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 02:17:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "CountryDateName of the shopAddressContactEmailTelephoneChina5-May-06Henan ZhengzhouWei Erlu 23-4Zhao XueyanEmailChina5-May-06Fujian XiamenGulangyu Zhonghualu 2-201Chen ChunlinEmailChina5-May-06Liaoning ShenyangChangdejie 11-2 HaoZhang WeiminEmailChina5-May-06Heilongjiang HaerbinXuefulu 7 Hao Liu YangEmailChina5-May-06Guangzhou Yuexiu Qu Dezhengbei LuLi"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-04-25"
+[_metadata_:title]:- "Dissension Release Tournament Fact Sheet"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 02:17:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627021726id_/https://magic.wizards.com/en/articles/archive/feature/dissension-release-tournament-fact-sheet-2006-04-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dissension-release-tournament-fact-sheet-2006-04-25"
 ---
 
 

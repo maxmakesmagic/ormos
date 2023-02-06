@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161215224319/http://magic.wizards.com/en/articles/archive/feature/grand-prix-portland-event-information-2013-02-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-portland-event-information-2013-02-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161215224319id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-portland-event-information-2013-02-22"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-15 22:43:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Portland is brought to you by Cascade Games."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-02-22"
+[_metadata_:title]:- "Grand Prix Portland Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-15 22:43:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161215224319id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-portland-event-information-2013-02-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-portland-event-information-2013-02-22"
 ---
 
 

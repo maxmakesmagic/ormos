@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518111656/https://magic.wizards.com/en/articles/archive/feature/bloodghasts-borborygmos-2013-05-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bloodghasts-borborygmos-2013-05-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518111656id_/https://magic.wizards.com/en/articles/archive/feature/bloodghasts-borborygmos-2013-05-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 11:16:56+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Continuing from the theme of Life from the Loam and Faithless Looting as a shell, I want to discuss a Legacy deck I built last week that I'm particularly excited about. This deck uses Faithless Looting and Entomb to enable an extremely wide variety of graveyard shenanigans with Bloodghast and Lingering Souls fueling a variety of sacrifice costs. Specifically, Cabal Therapy,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-01"
+[_metadata_:title]:- "Bloodghasts for Borborygmos!"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 11:16:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518111656id_/https://magic.wizards.com/en/articles/archive/feature/bloodghasts-borborygmos-2013-05-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bloodghasts-borborygmos-2013-05-01"
 ---
 
 

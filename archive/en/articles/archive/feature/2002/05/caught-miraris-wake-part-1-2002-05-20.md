@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200815063640/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-1-2002-05-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-1-2002-05-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815063640id_/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-1-2002-05-20"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-15 06:36:40+00:00"
+[_metadata_:author]:- "Will McDermott"
 [_metadata_:description]:- "Part One: Breaking with TraditionHere we stand today, with Judgment, the third Odyssey block card set, about to come out, and the story of the Mirari's journeys across Otaria sparking debates on Magic: The Gathering story boards all over the Internet. But two years ago, the Mirari didn't even have a name and no one had ever heard of the continent of Otaria -- not even the people whose job it was to create, edit, and track the Magic story across the multiverse."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-05-20"
+[_metadata_:title]:- "Caught in the Mirari's Wake, Part 1"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-15 06:36:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815063640id_/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-1-2002-05-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-1-2002-05-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117022438/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-april-25-may-1-2009-05-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-april-25-may-1-2009-05-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117022438id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-april-25-may-1-2009-05-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:24:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "April 26-28: Sixth Edition is Released!Ten years ago, when the core set reached Classic Sixth Edition, it marked an important point in Magic history. Finally, Storm Cauldron was in the core set!Okay, so something a bit more significant also happened. Classic Sixth Edition brought with it the Sixth Edition Rules Change, which cleaned up the timing rules by introducing The Stack"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-01"
+[_metadata_:title]:- "This Week in Magic History: April 25-May 1"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:24:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117022438id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-april-25-may-1-2009-05-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-april-25-may-1-2009-05-01"
 ---
 
 

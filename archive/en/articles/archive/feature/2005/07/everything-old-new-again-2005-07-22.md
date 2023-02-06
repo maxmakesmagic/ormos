@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220810112544/https://magic.wizards.com/en/articles/archive/feature/everything-old-new-again-2005-07-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/everything-old-new-again-2005-07-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810112544id_/https://magic.wizards.com/en/articles/archive/feature/everything-old-new-again-2005-07-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-10 11:25:44+00:00"
+[_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "Every couple of years, Wizards of the Coast likes to shake up the Magic: The Gathering® world and bring some of our favorite cards back for a second look. When the new core set comes out, each of us finds something that brings back memories of when we first started playing the Magic card game. When Eighth Edition came out, I found some of the cards that I used to play when I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-07-22"
+[_metadata_:title]:- "Everything Old Is New Again"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-10 11:25:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810112544id_/https://magic.wizards.com/en/articles/archive/feature/everything-old-new-again-2005-07-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/everything-old-new-again-2005-07-22"
 ---
 
 

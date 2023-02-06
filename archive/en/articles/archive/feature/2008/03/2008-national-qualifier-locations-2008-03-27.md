@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018054243/https://magic.wizards.com/en/articles/archive/feature/2008-national-qualifier-locations-2008-03-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-national-qualifier-locations-2008-03-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018054243id_/https://magic.wizards.com/en/articles/archive/feature/2008-national-qualifier-locations-2008-03-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:42:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated 2008-06-26CountryCityDateLocationOrganiserWebsiteEmailPhoneGBBath06/15/08Beacon HallFrench ClosePeasedown St."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-03-27"
+[_metadata_:title]:- "2008 National Qualifier Locations"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:42:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018054243id_/https://magic.wizards.com/en/articles/archive/feature/2008-national-qualifier-locations-2008-03-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-national-qualifier-locations-2008-03-27"
 ---
 
 

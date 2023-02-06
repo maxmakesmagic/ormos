@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220626132932/https://magic.wizards.com/en/articles/archive/feature/worldwake-sortable-spoiler-2010-01-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwake-sortable-spoiler-2010-01-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626132932id_/https://magic.wizards.com/en/articles/archive/feature/worldwake-sortable-spoiler-2010-01-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 13:29:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "#NameCostTypeP/TRules TextFlavor TextRarityArtist1Admonition Angel3WWWCreature — Angel6/6FlyingLandfall — Whenever a land enters the battlefield under your control, you may exile target nonland permanent other than Admonition Angel.When Admonition Angel leaves the battlefield, return all cards exiled with it to the battlefield under their owners’ control. MSteve Argyle 2Apex"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-01-25"
+[_metadata_:title]:- "Worldwake Sortable Spoiler"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 13:29:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626132932id_/https://magic.wizards.com/en/articles/archive/feature/worldwake-sortable-spoiler-2010-01-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwake-sortable-spoiler-2010-01-25"
 ---
 
 

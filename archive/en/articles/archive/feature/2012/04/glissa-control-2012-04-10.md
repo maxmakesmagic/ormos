@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210912041225/https://magic.wizards.com/en/articles/archive/feature/glissa-control-2012-04-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/glissa-control-2012-04-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210912041225id_/https://magic.wizards.com/en/articles/archive/feature/glissa-control-2012-04-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-12 04:12:25+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The StarCityGames.com Open Series in Des Moines last weekend produced some great Magic action and decklists—including this one from Jeff Hoogland. Glissa, the Traitor is a card players have been trying to break since its release, and Hoogland made Standard deck builders everywhere a little happier by cruising into the Top 8 with a Glissa-fueled control deck!The core"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-10"
+[_metadata_:title]:- "Glissa Control"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-12 04:12:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210912041225id_/https://magic.wizards.com/en/articles/archive/feature/glissa-control-2012-04-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/glissa-control-2012-04-10"
 ---
 
 

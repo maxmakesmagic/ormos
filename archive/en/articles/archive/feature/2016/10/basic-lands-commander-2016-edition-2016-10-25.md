@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112003105/https://magic.wizards.com/en/articles/archive/feature/basic-lands-commander-2016-edition-2016-10-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/basic-lands-commander-2016-edition-2016-10-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112003105id_/https://magic.wizards.com/en/articles/archive/feature/basic-lands-commander-2016-edition-2016-10-25"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:31:05+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "The basic land cycles in Commander (2016 Edition) are truly sights to behold!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-10-25"
+[_metadata_:title]:- "The Basic Lands of Commander (2016 Edition)"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:31:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112003105id_/https://magic.wizards.com/en/articles/archive/feature/basic-lands-commander-2016-edition-2016-10-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/basic-lands-commander-2016-edition-2016-10-25"
 ---
 
 

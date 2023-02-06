@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211201210504/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2008-12-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2008-12-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201210504id_/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2008-12-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 21:05:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "White | Blue | Black | Red | Green | Multicolored | Colorless                                                                     Latest Developments Latest Developments  Latest Developments Michael Flores  Doug Beyer Doug Beyer  Kelly Digges Mark Rosewater  Prerelease Feature Customer Service Flamesrising.com Gaygamer.net GeekDad blog on Wired.com ManaNation.com MTG.DE MTGCa"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-02"
+[_metadata_:title]:- "Visual Spoiler"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 21:05:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201210504id_/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2008-12-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2008-12-02"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524170041/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-8-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-8-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524170041id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-8-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 17:00:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Tony Dobson vs. Brian Davis After day 1 there were just two players with perfect 7-0 records, and they met in a round 8 feature match. Tony Dobson has 3 Grand Prix Top 8's and a Top 8 at the Euro Championship to his credit, but he has never broken through on the Pro Tour. Most of the English players shared information and worked together to prepare for this tournament and the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Round 8 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 17:00:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524170041id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-8-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-8-feature-match-2000-01-01"
 ---
 
 

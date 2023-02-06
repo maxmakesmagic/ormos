@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201020035101/https://magic.wizards.com/en/articles/archive/feature/musings-history-magic-pro-tour-2009-06-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/musings-history-magic-pro-tour-2009-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201020035101id_/https://magic.wizards.com/en/articles/archive/feature/musings-history-magic-pro-tour-2009-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-20 03:51:01+00:00"
+[_metadata_:author]:- "Mark Justice"
 [_metadata_:description]:- "I first heard about the concept of the Pro Tour one autumn afternoon in 1995. Henry Stern and I were listening to someone from Wizards of the Coast spout nonsense about a paid professional circuit that would begin the following year with a large prize pool and tournaments spanning the globe. This all sounded too good to be true. After all, I'd only received a Hurloon Minotaur jacket and a cool life counter for winning Nationals that year, and taking third at Worlds netted me a box of The Dark boosters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-01"
+[_metadata_:title]:- "Musings on the History of the Magic Pro Tour"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-20 03:51:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201020035101id_/https://magic.wizards.com/en/articles/archive/feature/musings-history-magic-pro-tour-2009-06-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/musings-history-magic-pro-tour-2009-06-01"
 ---
 
 

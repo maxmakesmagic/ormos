@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025083128/https://magic.wizards.com/en/articles/archive/feature/adam-yurchick-state-champ-2008-10-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adam-yurchick-state-champ-2008-10-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025083128id_/https://magic.wizards.com/en/articles/archive/feature/adam-yurchick-state-champ-2008-10-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:31:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Adam Yurchick's Pickles Format: 2007 Ohio State Champion 2 Tolaria West 2 Urza's Factory 4 Dreadship Reef 4 Desert 16 Island 4 Vesuvan Shapeshifter 3 Brine Elemental 3 Teferi, Mage of Zhalfir 2 Venser, Shaper Savant 3 Sower of Temptation 4 Ancestral Vision 4 Rune Snag 3 Faerie Trickery 3 Cryptic Command 2 Remove Soul 1 Pact of Negation *4 Bottle Gnomes *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-10-17"
+[_metadata_:title]:- "Adam Yurchick, State Champ"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:31:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025083128id_/https://magic.wizards.com/en/articles/archive/feature/adam-yurchick-state-champ-2008-10-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adam-yurchick-state-champ-2008-10-17"
 ---
 
 

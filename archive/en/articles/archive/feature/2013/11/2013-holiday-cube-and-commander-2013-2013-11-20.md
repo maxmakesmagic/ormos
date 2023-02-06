@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220116104501/https://magic.wizards.com/en/articles/archive/feature/2013-holiday-cube-and-commander-2013-2013-11-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2013-holiday-cube-and-commander-2013-2013-11-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116104501id_/https://magic.wizards.com/en/articles/archive/feature/2013-holiday-cube-and-commander-2013-2013-11-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 10:45:01+00:00"
+[_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "Download Magic Online ''Tis the season for the Magic Online Holiday Cube! The fun starts on Wednesday, December 18, 2013, and runs through Wednesday, January 4, 2014. Paired with this year's Holiday Cube will be the Flashback Draft Mercadian Masques! Magic Online 2013 Holiday Cube START TIMES On demand after the downtime on Wednesday, December 12, until Friday, January 3, at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-20"
+[_metadata_:title]:- "2013 Holiday Cube and Commander 2013"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 10:45:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116104501id_/https://magic.wizards.com/en/articles/archive/feature/2013-holiday-cube-and-commander-2013-2013-11-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2013-holiday-cube-and-commander-2013-2013-11-20"
 ---
 
 

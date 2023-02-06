@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120153416/https://magic.wizards.com/en/articles/archive/feature/getting-monkey-my-chest-2006-07-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/getting-monkey-my-chest-2006-07-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120153416id_/https://magic.wizards.com/en/articles/archive/feature/getting-monkey-my-chest-2006-07-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 15:34:16+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to House of Cards! Before I get going, as the title suggests I have a monkey to get off my chest. I'm not sure how it got there, and I'm even less sure how I'm going remove it. These burdensome little simians are usually on my back. Maybe it's because I've been eating an inordinate amount of bananas lately, or perhaps it's because of my newly embarreled chest and my"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-07-26"
+[_metadata_:title]:- "Getting a Monkey Off My Chest"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 15:34:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120153416id_/https://magic.wizards.com/en/articles/archive/feature/getting-monkey-my-chest-2006-07-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/getting-monkey-my-chest-2006-07-26"
 ---
 
 

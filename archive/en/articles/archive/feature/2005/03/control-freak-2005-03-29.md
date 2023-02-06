@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170505063845/http://magic.wizards.com/en/articles/archive/feature/control-freak-2005-03-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/control-freak-2005-03-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170505063845id_/http://magic.wizards.com/en/articles/archive/feature/control-freak-2005-03-29"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-05 06:38:45+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Control: A subject near and dear to every supervillain's heart. Control, simply put, is power. Control is usurping someone else's free will and replacing it with your own will. If I tell you to give me your lunch money or I'll punch you in the face, that's control. If I put you in a cage, that's control. If I implant a Brain-O-Cise neuron override chip in the base of your neck, that's control."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-03-29"
+[_metadata_:title]:- "Control Freak"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-05 06:38:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170505063845id_/http://magic.wizards.com/en/articles/archive/feature/control-freak-2005-03-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/control-freak-2005-03-29"
 ---
 
 

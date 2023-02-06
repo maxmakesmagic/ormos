@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522171100/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93lyon-2010-trials-2010-02-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93lyon-2010-trials-2010-02-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522171100id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93lyon-2010-trials-2010-02-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:11:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format Sealed Deck Limited with Booster Draft Top 8 Deck lists are required Tournament Length Swiss rounds - 50 minutes per round Top 8 matches will have no time limit Number of Swiss rounds based on attendance according to the following chart: AttendanceSwiss rounds"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-15"
+[_metadata_:title]:- "Grand Prix–Lyon 2010 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:11:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522171100id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93lyon-2010-trials-2010-02-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93lyon-2010-trials-2010-02-15"
 ---
 
 

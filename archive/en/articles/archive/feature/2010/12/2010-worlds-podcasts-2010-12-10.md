@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128124032/https://magic.wizards.com/en/articles/archive/feature/2010-worlds-podcasts-2010-12-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-worlds-podcasts-2010-12-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128124032id_/https://magic.wizards.com/en/articles/archive/feature/2010-worlds-podcasts-2010-12-10"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 12:40:32+00:00"
+[_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Let Pro Tour Statisician Richard Hagon be your guide through the 2010 World Championships, the final Pro Tour of the 2010 season. If you're not a regular reader of event coverage, this is a great starting place to learn the top players and storylines that have shaped this season. With exclusive player interviews, analysis of deckbuilding strategies, explanations of formats and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-12-10"
+[_metadata_:title]:- "2010 Worlds Podcasts"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 12:40:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128124032id_/https://magic.wizards.com/en/articles/archive/feature/2010-worlds-podcasts-2010-12-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-worlds-podcasts-2010-12-10"
 ---
 
 

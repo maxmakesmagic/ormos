@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160531060918/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93new-jersey-2006-08-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93new-jersey-2006-08-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160531060918id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93new-jersey-2006-08-16"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-31 06:09:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring $25,000 in cash prizes and invitations to the Pro Tour for the top 16 finishers.Grand Prix—New Jersey is presented by Gray Matter Conventions, Inc."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-16"
+[_metadata_:title]:- "Grand Prix–New Jersey"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-31 06:09:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160531060918id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93new-jersey-2006-08-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93new-jersey-2006-08-16"
 ---
 
 

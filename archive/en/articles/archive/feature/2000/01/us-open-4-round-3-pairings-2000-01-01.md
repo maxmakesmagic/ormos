@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524145512/https://magic.wizards.com/en/articles/archive/feature/us-open-4-round-3-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-4-round-3-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524145512id_/https://magic.wizards.com/en/articles/archive/feature/us-open-4-round-3-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 14:55:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Accardi, Anthony ( 30) 2 22 Buck, Alex ( 21) 0 Au, Scott ( 47) 3 36 Martell, Tom ( 13) 3 Baumgartner, David ( 36) 2 30 Figueroa, Milton ( 70) 3 Buck, Alex ( 21) 0 22 Accardi, Anthony ( 30) 2 Buddensick, Dan ( 32) 2 23 Krouner, Ken ( 68) 2 Burn, Seth ( 65) 2 31 Hebert, Carl ( 61) 0 Duncan, Matt ( 52) 2 29 Landis, Scott ( 50) 3 Dunning, Laurie ( 77)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Open 4 Round 3 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 14:55:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524145512id_/https://magic.wizards.com/en/articles/archive/feature/us-open-4-round-3-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-4-round-3-pairings-2000-01-01"
 ---
 
 

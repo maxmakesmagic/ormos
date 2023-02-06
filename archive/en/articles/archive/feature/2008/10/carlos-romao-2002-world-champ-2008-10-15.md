@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112020028/https://magic.wizards.com/en/articles/archive/feature/carlos-romao-2002-world-champ-2008-10-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/carlos-romao-2002-world-champ-2008-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020028id_/https://magic.wizards.com/en/articles/archive/feature/carlos-romao-2002-world-champ-2008-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:00:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Carlos Romão's Blue-Black Psychatog Format: 2002 World Champion 2 Cephalid Coliseum 1 Darkwater Catacombs 10 Island 4 Salt Marsh 3 Swamp 4 Underground River 4 Nightscape Familiar 4 Psychatog 3 Chainer's Edict 3 Circular Logic 4 Counterspell 3 Cunning Wish 3 Deep Analysis 3 Fact or Fiction 3 Memory Lapse 4 Repulse 2 Upheaval *1 Coffin Purge *4 Duress *1 Fact or Fiction *1 Gainsay *3 Ghastly Demise"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-10-15"
+[_metadata_:title]:- "Carlos Romao, 2002 World Champ"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:00:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020028id_/https://magic.wizards.com/en/articles/archive/feature/carlos-romao-2002-world-champ-2008-10-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/carlos-romao-2002-world-champ-2008-10-15"
 ---
 
 

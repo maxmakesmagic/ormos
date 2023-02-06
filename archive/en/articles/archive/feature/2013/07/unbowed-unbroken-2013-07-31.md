@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024042839/https://magic.wizards.com/en/articles/archive/feature/unbowed-unbroken-2013-07-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unbowed-unbroken-2013-07-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024042839id_/https://magic.wizards.com/en/articles/archive/feature/unbowed-unbroken-2013-07-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:28:39+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "For this week's Commander deck, I went back to the drawing board. I thought of commanders that sounded fun and somehow came back with Ruric Thar. Just the idea of Ruric Thar running around (vigilantly) and punching anyone who casts a spell amused me, so I decided to take a whack at it. I do understand that playing Ruric runs the risk of drawing the ire of the table, but ask"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-31"
+[_metadata_:title]:- "Unbowed, Unbroken"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:28:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024042839id_/https://magic.wizards.com/en/articles/archive/feature/unbowed-unbroken-2013-07-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unbowed-unbroken-2013-07-31"
 ---
 
 

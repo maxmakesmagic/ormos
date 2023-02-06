@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024165713/https://magic.wizards.com/en/articles/archive/feature/green-blue-storm-ninjas-2012-06-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-blue-storm-ninjas-2012-06-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024165713id_/https://magic.wizards.com/en/articles/archive/feature/green-blue-storm-ninjas-2012-06-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 16:57:13+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Pauper is a format where restrictions breed creativity. The only cards legal are commons—but there are still plenty of exciting and innovative things going on. Take, for example, Magic Online competitor Largebrandon's Green-Blue Storm Ninjas deck! In a recent Daily Event he used this fun, kooky deck to achieve a 3–1 record, and it's worth giving a try!This deck kicks off with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-20"
+[_metadata_:title]:- "Green-Blue Storm Ninjas"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 16:57:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024165713id_/https://magic.wizards.com/en/articles/archive/feature/green-blue-storm-ninjas-2012-06-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-blue-storm-ninjas-2012-06-20"
 ---
 
 

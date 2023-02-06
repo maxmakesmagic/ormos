@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030072837/https://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-2005-02-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-2005-02-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030072837id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-2005-02-22"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:28:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Grand Prix—Minneapolis is presented by Legion EventsTournament Format And ScheduleThe format for Grand Prix–Minneapolis is Kamigawa Block Constructed. All DCI Constructed-format rules, Magic Floor Rules, and all subsequent updates will be enforced."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-02-22"
+[_metadata_:title]:- "Grand Prix - Minneapolis"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:28:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030072837id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-2005-02-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-2005-02-22"
 ---
 
 

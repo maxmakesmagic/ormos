@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118173825/https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-2014-event-information-2014-04-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-2014-event-information-2014-04-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118173825id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-2014-event-information-2014-04-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:38:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Washington D.C. is brought to you by TJ Collectibles.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information Facebook Event Official hashtag: #gpdc Date: June 27-29, 2014 Format: Limited - Theros Block Tournament Location Dulles Expo & Conference Center North Hall"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-04-22"
+[_metadata_:title]:- "Grand Prix Washington D.C. 2014 Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:38:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118173825id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-2014-event-information-2014-04-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-2014-event-information-2014-04-22"
 ---
 
 

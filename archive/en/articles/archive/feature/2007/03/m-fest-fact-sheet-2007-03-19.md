@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160817034703/http://magic.wizards.com/en/articles/archive/feature/m-fest-fact-sheet-2007-03-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/m-fest-fact-sheet-2007-03-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160817034703id_/http://magic.wizards.com/en/articles/archive/feature/m-fest-fact-sheet-2007-03-19"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-17 03:47:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; Updated 2008-08-07"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-03-19"
+[_metadata_:title]:- "M-fest Fact Sheet"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-17 03:47:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160817034703id_/http://magic.wizards.com/en/articles/archive/feature/m-fest-fact-sheet-2007-03-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/m-fest-fact-sheet-2007-03-19"
 ---
 
 

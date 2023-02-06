@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220703021827/https://magic.wizards.com/en/articles/archive/feature/states-esper-2012-10-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/states-esper-2012-10-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703021827id_/https://magic.wizards.com/en/articles/archive/feature/states-esper-2012-10-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 02:18:27+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Last weekend, while some of us were battling out Team Sealed in San Jose, the majority of North America was participating in the 2012's. With Return to Ravnica freshly introduced into the Standard format, a lot of people were looking forward to this weekend for inspiration as well as simply figuring out where things stood in Standard. All this week and most of next, we will be"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-17"
+[_metadata_:title]:- "The States of Esper"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 02:18:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703021827id_/https://magic.wizards.com/en/articles/archive/feature/states-esper-2012-10-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/states-esper-2012-10-17"
 ---
 
 

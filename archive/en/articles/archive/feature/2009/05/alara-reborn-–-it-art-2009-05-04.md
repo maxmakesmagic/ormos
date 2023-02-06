@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526053007/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-%E2%80%93-it-art-2009-05-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-%E2%80%93-it-art-2009-05-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526053007id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-%E2%80%93-it-art-2009-05-04"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 05:30:07+00:00"
+[_metadata_:author]:- "Alexis Janson"
 [_metadata_:description]:- "I had the distinct pleasure of being on both the design team and the development team for Alara Reborn. We took a collection of distinct concepts, and molded them into what I consider to be a polished work of art.Pieces of GoldOur first goal when we sat down to design Alara Reborn was to make a bunch of awesome gold cards. With that in mind, I present some random musings on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-04"
+[_metadata_:title]:- "Alara Reborn – But Is It Art?"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 05:30:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526053007id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-%E2%80%93-it-art-2009-05-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-%E2%80%93-it-art-2009-05-04"
 ---
 
 

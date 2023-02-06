@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210107180149/https://magic.wizards.com/en/articles/archive/feature/kaldheim-mechanics-2021-01-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kaldheim-mechanics-2021-01-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210107180149id_/https://magic.wizards.com/en/articles/archive/feature/kaldheim-mechanics-2021-01-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-07 18:01:49+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Take a look at the new and returning mechanics from the upcoming Kaldheim."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-01-07"
+[_metadata_:title]:- "Kaldheim Mechanics"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-07 18:01:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210107180149id_/https://magic.wizards.com/en/articles/archive/feature/kaldheim-mechanics-2021-01-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kaldheim-mechanics-2021-01-07"
 ---
 
 

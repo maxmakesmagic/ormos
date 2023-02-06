@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20191230120039/https://magic.wizards.com/en/articles/archive/feature/where-find-theros-beyond-death-previews-2019-12-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-theros-beyond-death-previews-2019-12-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191230120039id_/https://magic.wizards.com/en/articles/archive/feature/where-find-theros-beyond-death-previews-2019-12-13"
-[_metadata_:wayback_capture_timestamp]:- "2019-12-30 12:00:39+00:00"
+[_metadata_:author]:- "Kendall Pepple"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Theros Beyond Death, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-12-13"
+[_metadata_:title]:- "Where to Find Theros Beyond Death Previews"
+[_metadata_:wayback_capture_timestamp]:- "2019-12-30 12:00:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191230120039id_/https://magic.wizards.com/en/articles/archive/feature/where-find-theros-beyond-death-previews-2019-12-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-theros-beyond-death-previews-2019-12-13"
 ---
 
 

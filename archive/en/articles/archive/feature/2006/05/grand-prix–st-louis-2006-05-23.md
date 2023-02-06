@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812130745/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93st-louis-2006-05-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93st-louis-2006-05-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812130745id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93st-louis-2006-05-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 13:07:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.Tournament StructureThe structure for Grand Prix–St. Louis Trial tournaments will be modified Swiss-style, with the Top 8 players playing in a single-elimination for prizes and third-round byes.Tournament FormatThe format for Grand Prix–Richmond Trial tournaments is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-05-23"
+[_metadata_:title]:- "Grand Prix–St. Louis"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 13:07:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812130745id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93st-louis-2006-05-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93st-louis-2006-05-23"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518011339/https://magic.wizards.com/en/articles/archive/feature/2011-national-championship-invitations-2010-06-17-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-national-championship-invitations-2010-06-17-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518011339id_/https://magic.wizards.com/en/articles/archive/feature/2011-national-championship-invitations-2010-06-17-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 01:13:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Brazil Nationals Invitation list comprises the following:The current Brazil National Champion and members of the current Brazil national team (including alternate). Players from Brazil with Pro Tour Players Club level 2 or higher. Winners of invitations through National Qualifiers (including Last Chance National Qualifiers or `Grinders`) The Top 75 DCI-ranked players in the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-17"
+[_metadata_:title]:- "2011 National Championship Invitations"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 01:13:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518011339id_/https://magic.wizards.com/en/articles/archive/feature/2011-national-championship-invitations-2010-06-17-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-national-championship-invitations-2010-06-17-0"
 ---
 
 

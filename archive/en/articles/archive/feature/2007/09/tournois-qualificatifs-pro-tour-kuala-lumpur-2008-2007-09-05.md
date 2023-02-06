@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170905223025/http://magic.wizards.com/en/articles/archive/feature/tournois-qualificatifs-pro-tour-kuala-lumpur-2008-2007-09-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tournois-qualificatifs-pro-tour-kuala-lumpur-2008-2007-09-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170905223025id_/http://magic.wizards.com/en/articles/archive/feature/tournois-qualificatifs-pro-tour-kuala-lumpur-2008-2007-09-05"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-05 22:30:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Download now! (26.1 MB zip WMP) North America Europe Great Britain and Ireland"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-09-05"
+[_metadata_:title]:- "Tournois Qualificatifs Pro Tour Kuala Lumpur 2008"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-05 22:30:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170905223025id_/http://magic.wizards.com/en/articles/archive/feature/tournois-qualificatifs-pro-tour-kuala-lumpur-2008-2007-09-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tournois-qualificatifs-pro-tour-kuala-lumpur-2008-2007-09-05"
 ---
 
 

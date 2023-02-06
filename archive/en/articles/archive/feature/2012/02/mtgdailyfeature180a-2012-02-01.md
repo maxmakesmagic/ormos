@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190930053314/https://magic.wizards.com/en/articles/archive/feature/mtgdailyfeature180a-2012-02-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgdailyfeature180a-2012-02-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190930053314id_/https://magic.wizards.com/en/articles/archive/feature/mtgdailyfeature180a-2012-02-01"
-[_metadata_:wayback_capture_timestamp]:- "2019-09-30 05:33:14+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wizards of the Coast is entering the mobile space with Magic: The Gathering Toolbox, available now in the App Store on iPhone, and soon for iPad and Android. In my role on the Magic Digital R&D team, I led the design for this app and I'm here today to give you a much more comprehensive rundown of how awesome it can make your Magic experiences, both in-game and out."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-02-01"
+[_metadata_:title]:- "mtg_daily_feature_180a"
+[_metadata_:wayback_capture_timestamp]:- "2019-09-30 05:33:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190930053314id_/https://magic.wizards.com/en/articles/archive/feature/mtgdailyfeature180a-2012-02-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgdailyfeature180a-2012-02-01"
 ---
 
 

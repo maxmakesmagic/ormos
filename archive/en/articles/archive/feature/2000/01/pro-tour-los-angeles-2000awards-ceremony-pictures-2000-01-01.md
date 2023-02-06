@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118143839/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000awards-ceremony-pictures-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000awards-ceremony-pictures-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118143839id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000awards-ceremony-pictures-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:38:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Monitors placed throughout the Queen Mary showed Chris Benafel scooping up his cards at the end of the finals To get from the play area to the awards ceremony, the competitors had to run a gauntlet of reporters and well-wishers.  Virginia's Mike Long, fourth-place finisher California's Kurt Burgner, third-place finisher  Washington's Chris Benafel, finalst Mike Long gave each"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Awards Ceremony Pictures"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:38:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118143839id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000awards-ceremony-pictures-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000awards-ceremony-pictures-2000-01-01"
 ---
 
 

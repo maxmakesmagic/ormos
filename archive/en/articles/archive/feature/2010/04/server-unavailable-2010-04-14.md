@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160113072104/http://magic.wizards.com/en/articles/archive/feature/server-unavailable-2010-04-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/server-unavailable-2010-04-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160113072104id_/http://magic.wizards.com/en/articles/archive/feature/server-unavailable-2010-04-14"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-13 07:21:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "We are sorry for the inconvenience, but the new account creation process for Magic: The Gathering Online is currently unavailable. Please try again later. If this problem persists, please contact Wizards of the Coast Game Support. Thank you."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-14"
+[_metadata_:title]:- "Server is Unavailable"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-13 07:21:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160113072104id_/http://magic.wizards.com/en/articles/archive/feature/server-unavailable-2010-04-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/server-unavailable-2010-04-14"
 ---
 
 

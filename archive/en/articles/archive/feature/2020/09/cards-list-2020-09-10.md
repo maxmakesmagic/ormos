@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201128102618/https://magic.wizards.com/en/articles/archive/feature/cards-list-2020-09-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cards-list-2020-09-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201128102618id_/https://magic.wizards.com/en/articles/archive/feature/cards-list-2020-09-10"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-28 10:26:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What exactly is The List? Check out the 300 interesting cards from Magic's past we decided to include in Set Boosters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-09-10"
+[_metadata_:title]:- "Cards from The List"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-28 10:26:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201128102618id_/https://magic.wizards.com/en/articles/archive/feature/cards-list-2020-09-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cards-list-2020-09-10"
 ---
 
 

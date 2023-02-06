@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201205231437/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205231437id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:14:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "      Op-Match Rank Name Points Win% 1 Coolers 19 67.14 2 Pudge 19 62.70 3 Team Sourgirl 18 64.97 4 Hubbo 18 61.11"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix St. Louis Round 7 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:14:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205231437id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-standings-2000-01-01"
 ---
 
 

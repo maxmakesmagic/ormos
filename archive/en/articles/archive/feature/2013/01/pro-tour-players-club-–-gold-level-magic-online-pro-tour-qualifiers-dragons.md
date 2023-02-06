@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018201109/https://magic.wizards.com/en/articles/archive/feature/pro-tour-players-club-%E2%80%93-gold-level-magic-online-pro-tour-qualifiers-dragons)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-players-club-%E2%80%93-gold-level-magic-online-pro-tour-qualifiers-dragons"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018201109id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-players-club-%E2%80%93-gold-level-magic-online-pro-tour-qualifiers-dragons"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 20:11:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Open only to Gold-level Pro Tour Players Club members. Eligible players can earn an invitation to compete in the Pro Tour Dragon's Maze in San Diego Challenge. Pro Tour Dragon's Maze takes place May 17-19, 2013. Magic Online will host one (1) Gold-level Pro Tour Qualifier event on Saturday February 2, 2013 at 10:00 AM PDT (17:00 UTC). This tournament format will be Return to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-24"
+[_metadata_:title]:- "Pro Tour Players Club – Gold Level Magic Online Pro Tour Qualifiers: Dragon's Maze in San Diego"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 20:11:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018201109id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-players-club-%E2%80%93-gold-level-magic-online-pro-tour-qualifiers-dragons"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-players-club-%E2%80%93-gold-level-magic-online-pro-tour-qualifiers-dragons"
 ---
 
 

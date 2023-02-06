@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220807170500/https://magic.wizards.com/en/articles/archive/feature/midrange-evolves-2014-03-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/midrange-evolves-2014-03-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807170500id_/https://magic.wizards.com/en/articles/archive/feature/midrange-evolves-2014-03-21"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-07 17:05:00+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "With the Return to Ravnica shocklands in Standard, it also seems like the possible combinations of strategies is endless. First, we had some WB and BR Midrange decks, then those basically became Mono-Black Devotion. After that, Esper Humans showed the world the power of Whip of Erebos + Obzedat, Ghost Council. This deck is a kind of a mish-mash of all of them. Red gives you"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-21"
+[_metadata_:title]:- "Midrange Evolves"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-07 17:05:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807170500id_/https://magic.wizards.com/en/articles/archive/feature/midrange-evolves-2014-03-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/midrange-evolves-2014-03-21"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160528150628/http://magic.wizards.com/en/articles/archive/feature/new-phyrexia-wallpapers-2011-05-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/new-phyrexia-wallpapers-2011-05-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160528150628id_/http://magic.wizards.com/en/articles/archive/feature/new-phyrexia-wallpapers-2011-05-13"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-28 15:06:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off highlights from the Mirrodin Site. This week, we're going to take a trip into the past to show off all the New Phyrexia wallpapers you might have missed. If you like wallpapers, this is a good time to stock up!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-05-13"
+[_metadata_:title]:- "New Phyrexia Wallpapers"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-28 15:06:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160528150628id_/http://magic.wizards.com/en/articles/archive/feature/new-phyrexia-wallpapers-2011-05-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/new-phyrexia-wallpapers-2011-05-13"
 ---
 
 

@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030062719/https://magic.wizards.com/en/articles/archive/feature/round-3-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030062719id_/https://magic.wizards.com/en/articles/archive/feature/round-3-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:27:19+00:00"
 [_metadata_:description]:- "Rank Player Points Op.Win% 1 Casatti, Vagner W 9 66.66% 2 Pereira, Ricardo U 9 66.66% 3 Martins, Leopoldo M. 9 66.66% 4 Fuentes Poblete, Andres Robe 9 66.66%"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 3 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:27:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030062719id_/https://magic.wizards.com/en/articles/archive/feature/round-3-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-standings-2000-01-01"
 ---
 
 

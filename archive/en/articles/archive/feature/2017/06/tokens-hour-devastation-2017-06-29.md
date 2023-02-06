@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170629153244/http://magic.wizards.com/en/articles/archive/feature/tokens-hour-devastation-2017-06-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tokens-hour-devastation-2017-06-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170629153244id_/http://magic.wizards.com/en/articles/archive/feature/tokens-hour-devastation-2017-06-29"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-29 15:32:44+00:00"
+[_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Take a look at the tokens coming with Hour of Devastation!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-06-29"
+[_metadata_:title]:- "The Tokens of Hour of Devastation"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-29 15:32:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170629153244id_/http://magic.wizards.com/en/articles/archive/feature/tokens-hour-devastation-2017-06-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tokens-hour-devastation-2017-06-29"
 ---
 
 

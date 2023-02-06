@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021153245/https://magic.wizards.com/en/articles/archive/feature/masters-edition-2-champ-2008-10-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-edition-2-champ-2008-10-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021153245id_/https://magic.wizards.com/en/articles/archive/feature/masters-edition-2-champ-2008-10-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 15:32:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Izzvergg Format: Masters Edition 2 Draft 1 Dwarven Ruins 7 Mountain 7 Plains 1 Ruins of Trokair 2 Armored Griffin 1 Aysen Bureaucrats 1 Aysen Crusader 1 Combat Medic 2 Icatian Javelineers 2 Icatian Scout 2 Ironclaw Orcs 1 Kjeldoran Elite Guard 2 Royal Trooper 2 Death Spark 1 Incinerate 1 Lava Burst 1 Lodestone Bauble 3 Panic 1 Righteous Fury 1 Whirling"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-10-20"
+[_metadata_:title]:- "Masters Edition 2 Champ"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 15:32:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021153245id_/https://magic.wizards.com/en/articles/archive/feature/masters-edition-2-champ-2008-10-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-edition-2-champ-2008-10-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210512104948/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2005-2005-01-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2005-2005-01-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210512104948id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2005-2005-01-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-12 10:49:48+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your name and location, to us via this email form. We'll post a new question and answer each day. January 31, 2005 Q: `Is the guy that's missing in AWOL's picture the same guy with horns that's in Urza's Hot Tub?` A: From Mark Rosewater, Magic R&D: `Yes. I mean, if you were going"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-01-03"
+[_metadata_:title]:- "Ask Wizards - January, 2005"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-12 10:49:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210512104948id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2005-2005-01-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2005-2005-01-03"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429105045/https://magic.wizards.com/en/articles/archive/feature/eaters-worlds-2010-03-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eaters-worlds-2010-03-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429105045id_/https://magic.wizards.com/en/articles/archive/feature/eaters-worlds-2010-03-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 10:50:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Eaters of Worlds Each of the three colossal Eldrazi spawns its own `brood lineage.` The three brood lineages are composed of Eldrazi drones and other subordinate beings, each reflecting the image of its progenitor. Before they arose, the distant memory of each Eldrazi came to be worshipped as a triumvirate of gods by Zendikar's merfolk and kor races. Emrakul Art by Mark Tedin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-02"
+[_metadata_:title]:- "Eaters of Worlds"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 10:50:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429105045id_/https://magic.wizards.com/en/articles/archive/feature/eaters-worlds-2010-03-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eaters-worlds-2010-03-02"
 ---
 
 

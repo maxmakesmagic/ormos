@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120105036/https://magic.wizards.com/en/articles/archive/feature/golgari-minions-vs-boros-flame-2005-11-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/golgari-minions-vs-boros-flame-2005-11-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120105036id_/https://magic.wizards.com/en/articles/archive/feature/golgari-minions-vs-boros-flame-2005-11-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 10:50:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "We've already seen the key to Guild Golgari's strategy in Ravnica: plant zombies that never seem to die, Grave-Shell Scarab that do periodic Golgari Brownscale for recycling, elementals that Woodwraith Corrupter what little Dark Heart of the Wood Ravnica has left. But what's the Boros gameplan to deal with such corrupt strategies? What do those justice-minded warriors, led by"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-11-02"
+[_metadata_:title]:- "Golgari minions vs. Boros flame"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 10:50:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120105036id_/https://magic.wizards.com/en/articles/archive/feature/golgari-minions-vs-boros-flame-2005-11-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/golgari-minions-vs-boros-flame-2005-11-02"
 ---
 
 

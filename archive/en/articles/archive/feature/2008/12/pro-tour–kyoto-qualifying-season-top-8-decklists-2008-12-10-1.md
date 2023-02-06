@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028143956/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-1)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028143956id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-1"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 14:39:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Janet Bishop Format: 1st Place - Manitoba - Winnipeg - 11/29 7 Forest 4 Mountain 5 Swamp 1 Naya Panorama 1 Hellkite Overlord 2 Scavenger Drake 1 Shore Snapper 1 Skeletal Kathari 1 Tar Fiend 1 Bloodpyre Elemental 1 Rip-Clan Crasher 1 Algae Gharial 1 Cavern Thoctar 1 Court Archers 2 Cylian Elf 1 Druid of the Anima 1 Godtoucher 1 Obelisk of Naya 1 Blightning 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-10"
+[_metadata_:title]:- "Pro Tour–Kyoto Qualifying Season: Top 8 Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 14:39:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028143956id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-1"
 ---
 
 

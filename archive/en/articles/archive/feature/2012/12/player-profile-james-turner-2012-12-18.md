@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161221044746/http://magic.wizards.com/en/articles/archive/feature/player-profile-james-turner-2012-12-18)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/player-profile-james-turner-2012-12-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161221044746id_/http://magic.wizards.com/en/articles/archive/feature/player-profile-james-turner-2012-12-18"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-21 04:47:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; Getting to Know You&#13; &#13; &#13; &#13; &#13; &#13; &#13; Name:&#13; James Turner&#13; &#13; Age:&#13; 29"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-18"
+[_metadata_:title]:- "Player Profile: James Turner"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-21 04:47:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161221044746id_/http://magic.wizards.com/en/articles/archive/feature/player-profile-james-turner-2012-12-18"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/player-profile-james-turner-2012-12-18"
 ---
 
 

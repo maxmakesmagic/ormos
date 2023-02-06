@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812124553/https://magic.wizards.com/en/articles/archive/feature/gp-niigata-champ-2009-09-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp-niigata-champ-2009-09-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812124553id_/https://magic.wizards.com/en/articles/archive/feature/gp-niigata-champ-2009-09-08"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 12:45:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Tsuyoshi Ikeda's Blue-White Aggro Format: Magic 2010 Draft 9 Island 8 Plains 1 Alluring Siren 1 Griffin Sentinel 2 Illusionary Servant 1 Phantom Warrior 1 Rhox Pikemaster 1 Sage Owl 1 Snapping Drake 1 Soul Warden 1 Stormfront Pegasus 1 Wall of Faith 1 White Knight 2 Wind Drake 1 Cancel 1 Divination 2 Excommunicate 1 Mind Spring 2 Pacifism 1 Safe Passage 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-08"
+[_metadata_:title]:- "GP-Niigata Champ"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 12:45:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812124553id_/https://magic.wizards.com/en/articles/archive/feature/gp-niigata-champ-2009-09-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp-niigata-champ-2009-09-08"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016121338/https://magic.wizards.com/en/articles/archive/feature/odyssey-block-sealed-deck-tournament-vi-2010-03-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/odyssey-block-sealed-deck-tournament-vi-2010-03-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016121338id_/https://magic.wizards.com/en/articles/archive/feature/odyssey-block-sealed-deck-tournament-vi-2010-03-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 12:13:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "T he meek shall inherit the Earth. But not Dominaria. Odyssey focuses on two new mechanics designed to harness the power of your graveyard: Flashback and Threshold. Play with this classic block and compete for great prizes.ODYSSEY BLOCK SEALED DECK TOURNAMENT VISTART TIME: Saturday, March 27, 2010 11:00 AM PST / 19:00 UTC. LOCATION: Premier Events room. ENTRY FEE: 30 Event"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-23"
+[_metadata_:title]:- "Odyssey Block Sealed Deck Tournament VI"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 12:13:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016121338id_/https://magic.wizards.com/en/articles/archive/feature/odyssey-block-sealed-deck-tournament-vi-2010-03-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/odyssey-block-sealed-deck-tournament-vi-2010-03-23"
 ---
 
 

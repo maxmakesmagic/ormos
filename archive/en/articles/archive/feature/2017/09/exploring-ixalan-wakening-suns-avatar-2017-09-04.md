@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170906060421/http://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-wakening-suns-avatar-2017-09-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-wakening-suns-avatar-2017-09-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906060421id_/http://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-wakening-suns-avatar-2017-09-04"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-06 06:04:21+00:00"
+[_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Take a closer look at the process behind today's preview card—Wakening Sun's Avatar!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-09-04"
+[_metadata_:title]:- "Exploring Ixalan – Wakening Sun's Avatar"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-06 06:04:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906060421id_/http://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-wakening-suns-avatar-2017-09-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-wakening-suns-avatar-2017-09-04"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200918110805/https://magic.wizards.com/en/articles/archive/feature/saturday-school-83-2004-06-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-83-2004-06-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200918110805id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-83-2004-06-19"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-18 11:08:05+00:00"
+[_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at saturdayschool@horvik.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-06-19"
+[_metadata_:title]:- "Saturday School #83"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-18 11:08:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200918110805id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-83-2004-06-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-83-2004-06-19"
 ---
 
 

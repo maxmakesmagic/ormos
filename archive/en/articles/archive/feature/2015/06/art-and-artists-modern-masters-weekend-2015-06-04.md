@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160507065737/http://magic.wizards.com/en/articles/archive/feature/art-and-artists-modern-masters-weekend-2015-06-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/art-and-artists-modern-masters-weekend-2015-06-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160507065737id_/http://magic.wizards.com/en/articles/archive/feature/art-and-artists-modern-masters-weekend-2015-06-04"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-07 06:57:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Video features about and with some of the amazing Magic artists that were at GP Vegas for Modern Masters Weekend."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-06-04"
+[_metadata_:title]:- "Art and Artists on Modern Masters Weekend"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-07 06:57:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160507065737id_/http://magic.wizards.com/en/articles/archive/feature/art-and-artists-modern-masters-weekend-2015-06-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/art-and-artists-modern-masters-weekend-2015-06-04"
 ---
 
 

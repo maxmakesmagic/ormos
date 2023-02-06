@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018035712/https://magic.wizards.com/en/articles/archive/feature/die-hard-vengeance-2012-07-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/die-hard-vengeance-2012-07-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018035712id_/https://magic.wizards.com/en/articles/archive/feature/die-hard-vengeance-2012-07-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 03:57:12+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "We have had quite the invasion of white-black token strategies over the past few weeks here on Daily Decks, but today we are going to see that that is not the only thing white-black can pull off. Ever since the Delver decks evolved as a result of Restoration Angel, control is finding out that it does not just have to assume the typical blue-black form it had been. Over the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-16"
+[_metadata_:title]:- "Die Hard: To a Vengeance"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 03:57:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018035712id_/https://magic.wizards.com/en/articles/archive/feature/die-hard-vengeance-2012-07-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/die-hard-vengeance-2012-07-16"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018014506/https://magic.wizards.com/en/articles/archive/feature/temple-control-2013-11-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/temple-control-2013-11-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018014506id_/https://magic.wizards.com/en/articles/archive/feature/temple-control-2013-11-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 01:45:06+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "What do Arbor Colossus; Magma Jet; Elspeth, Sun's Champion; and Ashiok, Nightmare Weaver have in common? If you answered `they are all sweet,` well, that's correct. More importantly, though, they are all part of a Theros Block Constructed deck that went 4–0 in a recent Daily Event. I haven't seen Five-Color Control rear its head since the days of Vivid Creek, and it's pretty"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-14"
+[_metadata_:title]:- "Temple of Control"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 01:45:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018014506id_/https://magic.wizards.com/en/articles/archive/feature/temple-control-2013-11-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/temple-control-2013-11-14"
 ---
 
 

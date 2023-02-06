@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117020040/https://magic.wizards.com/en/articles/archive/feature/magic-community-labs-update-2010-06-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-community-labs-update-2010-06-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117020040id_/https://magic.wizards.com/en/articles/archive/feature/magic-community-labs-update-2010-06-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:00:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Last Monday, we announced Magic Community Labs, which is a community-led compilation of multiplayer formats, culminating in a new format to be played at a special event at Gen Con. As of this writing, the wiki has nine `Tested` formats, four `Not fully tested` formats, and one `Untested` format. Rather than get into the tested formats, we'd like to focus on the untested"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-11"
+[_metadata_:title]:- "Magic Community Labs Update"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:00:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117020040id_/https://magic.wizards.com/en/articles/archive/feature/magic-community-labs-update-2010-06-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-community-labs-update-2010-06-11"
 ---
 
 

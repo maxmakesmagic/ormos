@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200922015214/https://magic.wizards.com/en/articles/archive/feature/magic-prereleases-2004-09-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-prereleases-2004-09-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200922015214id_/https://magic.wizards.com/en/articles/archive/feature/magic-prereleases-2004-09-14"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-22 01:52:14+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Of all Magic tournaments, no kind is more near and dear to a casual player's heart than a Prerelease. Scheduled three times a year, these Prerelease tournaments allow participants to play with the brand new cards a week or two before they hit store shelves. Whereas an average PTQ attendance is about 100 players, it is not uncommon for a Prerelease to gather over 500! Some organizers do even better – Rob Dougherty in Boston consistently gets about a thousand people at his Prereleases!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-09-14"
+[_metadata_:title]:- "Magic Prereleases"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-22 01:52:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200922015214id_/https://magic.wizards.com/en/articles/archive/feature/magic-prereleases-2004-09-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-prereleases-2004-09-14"
 ---
 
 

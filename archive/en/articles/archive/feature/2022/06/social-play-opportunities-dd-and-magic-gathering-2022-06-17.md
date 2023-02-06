@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220617221218/https://magic.wizards.com/en/articles/archive/feature/social-play-opportunities-dd-and-magic-gathering-2022-06-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/social-play-opportunities-dd-and-magic-gathering-2022-06-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220617221218id_/https://magic.wizards.com/en/articles/archive/feature/social-play-opportunities-dd-and-magic-gathering-2022-06-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-17 22:12:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fan of D&D and interested in Magic (or vice versa!)? Here's what Wizards of the Coast staff members Greg Tito, Brandy Camel, and Ellie Rice had to say about Commander Legends: Battle for Baldur's Gate."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-06-17"
+[_metadata_:title]:- "Social Play Opportunities in D&D and Magic: The Gathering"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-17 22:12:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220617221218id_/https://magic.wizards.com/en/articles/archive/feature/social-play-opportunities-dd-and-magic-gathering-2022-06-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/social-play-opportunities-dd-and-magic-gathering-2022-06-17"
 ---
 
 

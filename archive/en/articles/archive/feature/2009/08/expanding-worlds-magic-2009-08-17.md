@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429025522/https://magic.wizards.com/en/articles/archive/feature/expanding-worlds-magic-2009-08-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/expanding-worlds-magic-2009-08-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429025522id_/https://magic.wizards.com/en/articles/archive/feature/expanding-worlds-magic-2009-08-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:55:22+00:00"
+[_metadata_:author]:- "Richard Garfield"
 [_metadata_:description]:- "Our original plan went like this. When Wizards of the Coast released Magic: The Gathering in the summer of 1993, we intended to sell the ten million cards we'd printed, and then design and sell Magic: The Gathering—Ice Age, the next release. Ice Age would add perhaps a hundred new cards and remove an equal number of old cards from The Gathering mix; the new set would probably"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-17"
+[_metadata_:title]:- "The Expanding Worlds of Magic"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:55:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429025522id_/https://magic.wizards.com/en/articles/archive/feature/expanding-worlds-magic-2009-08-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/expanding-worlds-magic-2009-08-17"
 ---
 
 

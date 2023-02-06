@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220123151346/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-13-2013-04-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-13-2013-04-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123151346id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-13-2013-04-09"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 15:13:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This is the biweekly audio podcast for DailyMTG.com. The Daily MTG Podcast is on iTunes! You can visit its page right here. Or, if you use a different podcast aggregator, you can point it directly at the RSS feed: http://www.wizards.com/dailymtgpodcast.xml. Send us your feedback, questions or ideas! Email DailyMTGCast@wizards.com Episode 13 - Rendered Silently: Trick, Tifa,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-09"
+[_metadata_:title]:- "DailyMTG.com Podcast #13"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 15:13:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123151346id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-13-2013-04-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-13-2013-04-09"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126171637/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-feature-jon-finkel-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-feature-jon-finkel-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126171637id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-feature-jon-finkel-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:16:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler No one at draft table 31 was happy when they sat down for the first draft of PT - LA 5. Seven of the eight players have significant Pro Tour experience: Jon Finkel, Worth Wollpert, John Yoo, Rich Frangiosa, and James Stroud have all had some success at this level of play and meanwhile Bruce Cowley and Mike Krzywicki aren't exactly strangers to the pro Tour. I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000First Draft Feature - Jon Finkel"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:16:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126171637id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-feature-jon-finkel-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000first-draft-feature-jon-finkel-2000-01-01"
 ---
 
 

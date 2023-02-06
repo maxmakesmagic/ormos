@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627051321/https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-table-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-table-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627051321id_/https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-table-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 05:13:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Opponent Qui quo qua * vs library of alessandria * Sing Along party * vs Iguane pelose * Tapa chilu * vs Tenebra * Pantere nere * vs Calvo's Legacy We win with win * vs Dirty arbouze * made in annecy * vs Fumetteria Gabriele * zyrberus vs os tralhos Vintara vs Altrove * suicideboard * vs 3,141596 * Viperin * vs To late team * Mwonvuli Gang vs Three K * Babar Team * vs"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 1 Pairings (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 05:13:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627051321id_/https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-table-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-table-2000-01-01-0"
 ---
 
 

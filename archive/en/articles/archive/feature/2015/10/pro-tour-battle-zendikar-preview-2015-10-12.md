@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151014050459/http://magic.wizards.com/en/articles/archive/feature/pro-tour-battle-zendikar-preview-2015-10-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-battle-zendikar-preview-2015-10-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151014050459id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-battle-zendikar-preview-2015-10-12"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-14 05:04:59+00:00"
+[_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "With the introduction of Battle for Zendikar plus changes to the Standard format, this is shaping up to be one exciting Pro Tour!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-10-12"
+[_metadata_:title]:- "Pro Tour Battle for Zendikar Preview"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-14 05:04:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151014050459id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-battle-zendikar-preview-2015-10-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-battle-zendikar-preview-2015-10-12"
 ---
 
 

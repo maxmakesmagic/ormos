@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526123353/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526123353id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:33:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Match Team Result Team WACHI-DE? *** AWARDED BYE *** T.F.Z. *** AWARDED BYE *** Team Wild *** AWARDED BYE *** Godzilla *** AWARDED BYE *** Poor Shark *** AWARDED BYE *** NEW WAVE *** AWARDED BYE *** 1 BALTAN 0-3 Night of Round 2 Team RYM 0-3 Team John Vintage 3 Team Guts 0-3 Team HIROSHI 4 Ray Force 1-1 KOI Dorw Bow 5 Team Dallak with Desuo 0-3 La Nagoya 6 BOM!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 2 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:33:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526123353id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-2-results-2000-01-01"
 ---
 
 

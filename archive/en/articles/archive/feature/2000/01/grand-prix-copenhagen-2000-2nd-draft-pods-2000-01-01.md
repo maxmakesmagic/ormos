@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522102258/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2nd-draft-pods-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2nd-draft-pods-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522102258id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2nd-draft-pods-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 10:22:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pod Seat Player Points 1 7 Sanders Jensen, Niels 28 3 Yeh, Gottlieb 27 4 Refsdal, Gunnar 27 6 Jorstedt, Mattias 26 5 Cedercrantz, Johan 25 1 Canu, Franck 25 2 Myrvig, Peter 25 8 Eskeland, Sigurd 25 2 2 B K Poulsen, Palle 25 4 Gysemans, Peter 25 1 Schreurs, Jos 24 8 Boeken, Noah 24 3 Osterberg, Richard 24 5 Van de Logt, Tom 24 7 Dam, Lars 24 6 Bastos, Frederico 23 3 1 Crnobori,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000 - 2nd draft pods"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 10:22:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522102258id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2nd-draft-pods-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2nd-draft-pods-2000-01-01"
 ---
 
 

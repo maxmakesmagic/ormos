@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160521204530/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-ethersworn-canonist-2008-09-26)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-ethersworn-canonist-2008-09-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160521204530id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-ethersworn-canonist-2008-09-26"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-21 20:45:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Izzy's Ethersworn Canonist from the upcoming Shards of Alara set. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-26"
+[_metadata_:title]:- "Wallpaper of the Week: Ethersworn Canonist"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-21 20:45:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160521204530id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-ethersworn-canonist-2008-09-26"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-ethersworn-canonist-2008-09-26"
 ---
 
 

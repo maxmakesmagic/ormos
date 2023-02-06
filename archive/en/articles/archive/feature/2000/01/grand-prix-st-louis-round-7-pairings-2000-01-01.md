@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201205231828/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205231828id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:18:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Points Team Points Team 14 Antarctica 15 J3 BLZ 13 Cacti 13 My Name is Fred 16 Coolers 15 Whatever 14 Dogma 13 Team Realm 15 Fungusaur 15"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix St. Louis Round 7 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:18:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205231828id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-pairings-2000-01-01"
 ---
 
 

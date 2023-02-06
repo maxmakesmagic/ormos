@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816163656/https://magic.wizards.com/en/articles/archive/feature/dryads-secrets-2013-08-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dryads-secrets-2013-08-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816163656id_/https://magic.wizards.com/en/articles/archive/feature/dryads-secrets-2013-08-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 16:36:56+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "One of the sweetest cards I've had the pleasure of playing with is Quirion Dryad, and I've played with it in formats ranging from Vintage to Standard, hitting most of the formats in between. If a good Dryad deck untaps with a Quirion Dryad in play, it usually spells doom for its opponent in a few short turns, growing Dryad to an unreasonably large number. Luckily for Dryad"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-08-13"
+[_metadata_:title]:- "The Dryad's Secrets"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 16:36:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816163656id_/https://magic.wizards.com/en/articles/archive/feature/dryads-secrets-2013-08-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dryads-secrets-2013-08-13"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170309081530/http://magic.wizards.com/en/articles/archive/feature/torment-art-gallery-2002-01-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/torment-art-gallery-2002-01-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309081530id_/http://magic.wizards.com/en/articles/archive/feature/torment-art-gallery-2002-01-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 08:15:30+00:00"
+[_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "Greetings! I started working here at Wizards of the Coast at just the right time – right before a groundbreaking new Magic expansion set gets released. I’m just as exited to show off all the aspects of Torment as you are to see them… so I present to you my art gallery. There won’t be much in the way of card text here – I’ll leave the in-depth analyses to our capable daily columnists. But I can show you some of the great artwork in the set in detail."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-01-14"
+[_metadata_:title]:- "Torment Art Gallery"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 08:15:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309081530id_/http://magic.wizards.com/en/articles/archive/feature/torment-art-gallery-2002-01-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/torment-art-gallery-2002-01-14"
 ---
 
 

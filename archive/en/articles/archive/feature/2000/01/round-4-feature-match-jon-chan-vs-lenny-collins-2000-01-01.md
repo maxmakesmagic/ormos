@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519125102/https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-jon-chan-vs-lenny-collins-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-jon-chan-vs-lenny-collins-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519125102id_/https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-jon-chan-vs-lenny-collins-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 12:51:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Liam Coltman Former Australian team member Lenny Collins was paired up with one of the hottest picks to make the 2000 Nationals team, Jon Chan. Although not so well-known overseas, Jon has always been a major participant in Sydney Magic tournaments and even participated in Pro Tour Chicago. Lenny Collins wins the coin toss and elects to draw. Game 1 Both players start out"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 4 Feature Match - Jon Chan vs. Lenny Collins"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 12:51:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519125102id_/https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-jon-chan-vs-lenny-collins-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-jon-chan-vs-lenny-collins-2000-01-01"
 ---
 
 

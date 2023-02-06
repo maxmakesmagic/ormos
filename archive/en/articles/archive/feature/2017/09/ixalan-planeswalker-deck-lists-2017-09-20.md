@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170929140745/https://magic.wizards.com/en/articles/archive/feature/ixalan-planeswalker-deck-lists-2017-09-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ixalan-planeswalker-deck-lists-2017-09-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170929140745id_/https://magic.wizards.com/en/articles/archive/feature/ixalan-planeswalker-deck-lists-2017-09-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-29 14:07:45+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Check out the full lists for the Ixalan Planeswalker Decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-09-20"
+[_metadata_:title]:- "Ixalan Planeswalker Deck Lists"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-29 14:07:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170929140745id_/https://magic.wizards.com/en/articles/archive/feature/ixalan-planeswalker-deck-lists-2017-09-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ixalan-planeswalker-deck-lists-2017-09-20"
 ---
 
 

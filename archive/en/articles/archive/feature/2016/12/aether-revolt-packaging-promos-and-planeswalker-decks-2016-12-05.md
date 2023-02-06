@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170216103318/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-packaging-promos-and-planeswalker-decks-2016-12-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-packaging-promos-and-planeswalker-decks-2016-12-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170216103318id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-packaging-promos-and-planeswalker-decks-2016-12-05"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-16 10:33:18+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Sneak a peek at the packaging, promos, and Planeswalker Decks that will be coming next month as Aether Revolt previews continue."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-12-05"
+[_metadata_:title]:- "Aether Revolt Packaging, Promos, and Planeswalker Decks"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-16 10:33:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170216103318id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-packaging-promos-and-planeswalker-decks-2016-12-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-packaging-promos-and-planeswalker-decks-2016-12-05"
 ---
 
 

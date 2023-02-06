@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526172718/https://magic.wizards.com/en/articles/archive/feature/pauper-green-post-2013-05-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pauper-green-post-2013-05-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526172718id_/https://magic.wizards.com/en/articles/archive/feature/pauper-green-post-2013-05-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 17:27:18+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Aggressive mono-green decks and Cloudpost decks have both been very popular in Pauper, but BUEDEVIL has combined the two into an aggressive mono-green ramp/land destruction Cloudpost deck. This deck is a clever metagame choice in a world where so many players are playing Cloudpost because it's so good at attacking their plan while furthering its own plan. Scattershot Archers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-14"
+[_metadata_:title]:- "Pauper Green Post"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 17:27:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526172718id_/https://magic.wizards.com/en/articles/archive/feature/pauper-green-post-2013-05-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pauper-green-post-2013-05-14"
 ---
 
 

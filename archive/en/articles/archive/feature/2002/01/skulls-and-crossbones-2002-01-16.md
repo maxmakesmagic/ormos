@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028222453/https://magic.wizards.com/en/articles/archive/feature/skulls-and-crossbones-2002-01-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/skulls-and-crossbones-2002-01-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028222453id_/https://magic.wizards.com/en/articles/archive/feature/skulls-and-crossbones-2002-01-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 22:24:53+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "There are five colors in Magic, and that fact forms the base of the intricate structure of this game we love. Every color has two enemies and two allies. Some of these rivalries have been stressed more than others: for instance, there are more protection from black creatures in Magic than protection from any other color. A majority of the most powerful color-specific hosers in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-01-16"
+[_metadata_:title]:- "Skulls and Crossbones"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 22:24:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028222453id_/https://magic.wizards.com/en/articles/archive/feature/skulls-and-crossbones-2002-01-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/skulls-and-crossbones-2002-01-16"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208235229/https://magic.wizards.com/en/articles/archive/feature/breaking-white-control-2004-12-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/breaking-white-control-2004-12-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208235229id_/https://magic.wizards.com/en/articles/archive/feature/breaking-white-control-2004-12-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 23:52:29+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "This is a very `Swimming with Sharks-ish` article that I wrote well before I took over this column. I emailed Scott Johns when he joined magicthegathering.com as Content Manager and he was interested in my working with him... This article was the result (and now I am a regular columnist). Besides being a good article in and of itself, you might know that I also write for some"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-12-29"
+[_metadata_:title]:- "Breaking White Control"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 23:52:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208235229id_/https://magic.wizards.com/en/articles/archive/feature/breaking-white-control-2004-12-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/breaking-white-control-2004-12-29"
 ---
 
 

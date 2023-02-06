@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170111171815/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-prerelease-primer-2017-01-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-prerelease-primer-2017-01-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170111171815id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-prerelease-primer-2017-01-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-11 17:18:15+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin has all the info you need to make the most of your Aether Revolt Prerelease!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-01-09"
+[_metadata_:title]:- "Aether Revolt Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-11 17:18:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170111171815id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-prerelease-primer-2017-01-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-prerelease-primer-2017-01-09"
 ---
 
 

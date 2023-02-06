@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220629012652/https://magic.wizards.com/en/articles/archive/feature/shards-alara-2008-07-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-alara-2008-07-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629012652id_/https://magic.wizards.com/en/articles/archive/feature/shards-alara-2008-07-29"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 01:26:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-29"
+[_metadata_:title]:- "Shards of Alara"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 01:26:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629012652id_/https://magic.wizards.com/en/articles/archive/feature/shards-alara-2008-07-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-alara-2008-07-29"
 ---
 
 

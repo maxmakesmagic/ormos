@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150911105059/http://magic.wizards.com/en/articles/archive/feature/greatest-show-earth-2013-07-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/greatest-show-earth-2013-07-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150911105059id_/http://magic.wizards.com/en/articles/archive/feature/greatest-show-earth-2013-07-29"
-[_metadata_:wayback_capture_timestamp]:- "2015-09-11 10:50:59+00:00"
+[_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "`It's big. Really, really big. No, bigger than that. Even bigger. Keep going. More. No, more. Look, we're talking Grand Prix and Invitationals for jewelry. It's big!` —Arna Kennerüd, Worlds Week Watcher"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-29"
+[_metadata_:title]:- "The Greatest Show On Earth"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-11 10:50:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150911105059id_/http://magic.wizards.com/en/articles/archive/feature/greatest-show-earth-2013-07-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/greatest-show-earth-2013-07-29"
 ---
 
 

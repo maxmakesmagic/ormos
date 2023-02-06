@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201022144709/https://magic.wizards.com/en/articles/archive/feature/staging-set-2008-01-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/staging-set-2008-01-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201022144709id_/https://magic.wizards.com/en/articles/archive/feature/staging-set-2008-01-02"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-22 14:47:09+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "This article was strange in structure and a little hard to read. But in a way, that fit its purpose perfectly: to illustrate my mixed-up mental states during a typical week of creative text work. Because of its weirdness and the amount it pulls back the curtain on the process of making the cards, I got more positive comments on this one than any other of my columns at the time. It also got some of the harshest negative comments, too: there's a lot of me-content mixed in with the Magic content, which I can understand isn't everyone's cup of tea."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-01-02"
+[_metadata_:title]:- "Staging the Set"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-22 14:47:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201022144709id_/https://magic.wizards.com/en/articles/archive/feature/staging-set-2008-01-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/staging-set-2008-01-02"
 ---
 
 

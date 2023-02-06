@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117155928/https://magic.wizards.com/en/articles/archive/feature/aggro-loam-2010-01-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-loam-2010-01-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117155928id_/https://magic.wizards.com/en/articles/archive/feature/aggro-loam-2010-01-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 15:59:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Pat McGregor's Aggro Loam Format: Legacy – StarCityGames.com Open 1 Forest 2 Mountain 1 Badlands 1 Bayou 3 Bloodstained Mire 4 Forgotten Cave 2 Taiga 4 Tranquil Thicket 4 Wasteland 4 Wooded Foothills 1 Volrath's Stronghold 4 Countryside Crusher 4 Dark Confidant 4 Tarmogoyf 1 Terravore 4 Chalice of the Void 2 Engineered Explosives 4 Mox Diamond 3 Seismic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-01-07"
+[_metadata_:title]:- "Aggro Loam"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 15:59:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117155928id_/https://magic.wizards.com/en/articles/archive/feature/aggro-loam-2010-01-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-loam-2010-01-07"
 ---
 
 

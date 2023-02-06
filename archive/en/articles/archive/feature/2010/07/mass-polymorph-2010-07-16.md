@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019205513/https://magic.wizards.com/en/articles/archive/feature/mass-polymorph-2010-07-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mass-polymorph-2010-07-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019205513id_/https://magic.wizards.com/en/articles/archive/feature/mass-polymorph-2010-07-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 20:55:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Mass Polymorph Format: Standard 4 Khalni Garden 4 Glacial Fortress 4 Celestial Colonnade 7 Plains 6 Island 1 Iona, Shield of Emeria 1 Emrakul, the Aeons Torn 1 Stormtide Leviathan 4 Jace, the Mind Sculptor 4 Elspeth, Knight-Errant 4 Mass Polymorph 4 Path to Exile 3 Oust 4 Mana Leak 4 Everflowing Chalice 1 See Beyond 4 Martial Coup [/decklist]Looking for a fun"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-16"
+[_metadata_:title]:- "Mass Polymorph"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 20:55:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019205513id_/https://magic.wizards.com/en/articles/archive/feature/mass-polymorph-2010-07-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mass-polymorph-2010-07-16"
 ---
 
 

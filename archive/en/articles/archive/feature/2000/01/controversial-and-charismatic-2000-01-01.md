@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170126110009/http://magic.wizards.com/en/articles/archive/feature/controversial-and-charismatic-2000-01-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/controversial-and-charismatic-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170126110009id_/http://magic.wizards.com/en/articles/archive/feature/controversial-and-charismatic-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-26 11:00:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Controversial and Charismatic"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-26 11:00:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170126110009id_/http://magic.wizards.com/en/articles/archive/feature/controversial-and-charismatic-2000-01-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/controversial-and-charismatic-2000-01-01"
 ---
 
 

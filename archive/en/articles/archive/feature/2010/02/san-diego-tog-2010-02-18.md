@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024191434/https://magic.wizards.com/en/articles/archive/feature/san-diego-tog-2010-02-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/san-diego-tog-2010-02-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024191434id_/https://magic.wizards.com/en/articles/archive/feature/san-diego-tog-2010-02-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 19:14:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Ryan Fuller's San Diego 'Tog Format: 2002 Standard 4 Cephalid Coliseum 9 Island 4 Salt Marsh 2 Swamp 4 Underground River 4 Psychatog 4 Counterspell 4 Fact or Fiction 2 Force Spike 1 Gainsay 4 Memory Lapse 4 Peek 4 Predict 3 Repulse 3 Undermine 4 Aether Burst *3 Disrupt *1 Divert *1 Force Spike *1 Gainsay *3 Hibernation *2 Lobotomy *4 Slay [/decklist] This"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-18"
+[_metadata_:title]:- "San Diego 'Tog"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 19:14:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024191434id_/https://magic.wizards.com/en/articles/archive/feature/san-diego-tog-2010-02-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/san-diego-tog-2010-02-18"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200815115718/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-demonic-2009-03-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-demonic-2009-03-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815115718id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-demonic-2009-03-06"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:57:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is two wallpapers! As a special preview of Duel Decks: Divine vs. Demonic, we're going to show you two of Magic's most demonic cards: Lord of the Pit (by Chippy) and Demonic Tutor (by Scott Chou)! Remember, you can get your hands on the actual cards with Duel Decks: Divine vs. Demonic hits stores on April 10!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-06"
+[_metadata_:title]:- "Wallpaper of the Week: Demonic"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:57:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815115718id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-demonic-2009-03-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-demonic-2009-03-06"
 ---
 
 

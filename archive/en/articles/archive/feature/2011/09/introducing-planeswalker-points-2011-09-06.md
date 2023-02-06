@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170424123556/http://magic.wizards.com/en/articles/archive/feature/introducing-planeswalker-points-2011-09-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/introducing-planeswalker-points-2011-09-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170424123556id_/http://magic.wizards.com/en/articles/archive/feature/introducing-planeswalker-points-2011-09-06"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-24 12:35:56+00:00"
+[_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "Organized Play events have always been a huge part of the Magic experience, and Wizards of the Coast has always used a single system to rate and rank players' success in sanctioned play—until now.As of today, we'll be using a new system called Planeswalker Points. But it's not just a new rating system. Planeswalker Points is designed to let all players, from casual to competitive to pro, track and show off how much they play—and win!—in Magic events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-06"
+[_metadata_:title]:- "Introducing Planeswalker Points:"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-24 12:35:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170424123556id_/http://magic.wizards.com/en/articles/archive/feature/introducing-planeswalker-points-2011-09-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/introducing-planeswalker-points-2011-09-06"
 ---
 
 

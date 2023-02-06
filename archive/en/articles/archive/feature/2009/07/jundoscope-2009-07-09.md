@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220812214150/https://magic.wizards.com/en/articles/archive/feature/jundoscope-2009-07-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jundoscope-2009-07-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812214150id_/https://magic.wizards.com/en/articles/archive/feature/jundoscope-2009-07-09"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 21:41:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Dev's Jund Format: Kaleidoscope 1 Bloodstained Mire 4 Exotic Orchard 2 Forest 4 Mountain 3 Overgrown Tomb 4 Savage Lands 3 Swamp 4 Windswept Heath 4 Anathemancer 4 Broodmate Dragon 4 Sprouting Thrinax 3 Hit // Run 3 Lavalanche 4 Maelstrom Pulse 3 Pure // Simple 2 Savage Twister 4 Terminate 4 Trace of Abundance *4 Blightning *4 Darkheart Sliver *1 Grave-Shell"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-09"
+[_metadata_:title]:- "Jundoscope"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 21:41:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812214150id_/https://magic.wizards.com/en/articles/archive/feature/jundoscope-2009-07-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jundoscope-2009-07-09"
 ---
 
 

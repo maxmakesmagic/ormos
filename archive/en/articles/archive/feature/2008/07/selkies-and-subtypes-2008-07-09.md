@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170417163536/http://magic.wizards.com/en/articles/archive/feature/selkies-and-subtypes-2008-07-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/selkies-and-subtypes-2008-07-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170417163536id_/http://magic.wizards.com/en/articles/archive/feature/selkies-and-subtypes-2008-07-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:35:36+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Hello again! Thanks once more to Jenna Helland for taking over last week. I'm back today to talk about folklore, but I actually want to refer you to my column two weeks ago during Merfolk Week entitled Merfolk Resurfaced. In it I say that Merfolk will likely see print again in some form in the future, and of course there are merrows in Eventide."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-09"
+[_metadata_:title]:- "Selkies and Subtypes"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:35:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170417163536id_/http://magic.wizards.com/en/articles/archive/feature/selkies-and-subtypes-2008-07-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/selkies-and-subtypes-2008-07-09"
 ---
 
 

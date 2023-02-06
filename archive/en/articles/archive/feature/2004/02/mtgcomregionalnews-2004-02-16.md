@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022133541/https://magic.wizards.com/en/articles/archive/feature/mtgcomregionalnews-2004-02-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgcomregionalnews-2004-02-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022133541id_/https://magic.wizards.com/en/articles/archive/feature/mtgcomregionalnews-2004-02-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 13:35:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Vous êtes un nouveau joueur ? Articles Divers La Magic Academy : des tonnes d'articles pour vous aider à débuter Lèveciel Le soleil se lève On s'équipe ? Lorwyn Les eaux tribales Les Champions d’Orprairie Élémentalisme Les Changelins Guide de survie en Lorwyn Articles divers Le making of d'Arabian Nights Quel joueur êtes-vous? Pourquoi ce nom ? Bibliothèque Interdite vous fait"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-02-16"
+[_metadata_:title]:- "mtgcom_regionalnews"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 13:35:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022133541id_/https://magic.wizards.com/en/articles/archive/feature/mtgcomregionalnews-2004-02-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgcomregionalnews-2004-02-16"
 ---
 
 

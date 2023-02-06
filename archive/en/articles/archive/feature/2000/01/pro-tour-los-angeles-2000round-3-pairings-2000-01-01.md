@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202020303/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-3-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-3-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202020303id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-3-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 02:03:03+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Abe, Kazufumi (145) 3 82 Krugler, Chris (193) 3 Alvarenga, Rafael (76) 3 14 Kushida, Yasumasa (96) 3 Anzorena, Pablo (15) 0 2 Witt, Alexander (128) 0 Auer, Jeffrey (104) 0 150 Knights, Douglas (281) 0 Azevedo, Pedro (199) 0 53 Simoncini, Stefano (290) 0 Bachmann, David (229) 3 72 Martin, Theron (271) 3 Baehr, Kevin (155) 3 74 Woods, Norman"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 3 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 02:03:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202020303id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-3-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-3-pairings-2000-01-01"
 ---
 
 

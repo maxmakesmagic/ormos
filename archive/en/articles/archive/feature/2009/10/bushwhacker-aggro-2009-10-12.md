@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023133446/https://magic.wizards.com/en/articles/archive/feature/bushwhacker-aggro-2009-10-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bushwhacker-aggro-2009-10-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023133446id_/https://magic.wizards.com/en/articles/archive/feature/bushwhacker-aggro-2009-10-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 13:34:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kelly Reid's Bushwhacker Aggro Format: Standard 4 Teetering Peaks 2 Marsh Flats 4 Scalding Tarn 4 Arid Mesa 5 Mountain 4 Plains 4 Goblin Guide 4 Elite Vanguard 1 Steppe Lynx 4 Ranger of Eos 4 Hellspark Elemental 4 Cerodon Yearling 4 Goblin Bushwhacker 4 Lightning Bolt 4 Burst Lightning 4 Harm's Way [/decklist]Looking for a fun, new aggressive strategy in the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-12"
+[_metadata_:title]:- "Bushwhacker Aggro"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 13:34:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023133446id_/https://magic.wizards.com/en/articles/archive/feature/bushwhacker-aggro-2009-10-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bushwhacker-aggro-2009-10-12"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170826134151/http://magic.wizards.com/en/articles/archive/feature/improving-your-game-skills-2006-06-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/improving-your-game-skills-2006-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170826134151id_/http://magic.wizards.com/en/articles/archive/feature/improving-your-game-skills-2006-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-26 13:41:51+00:00"
+[_metadata_:author]:- "Olivier Ruel"
 [_metadata_:description]:- "I’ve received a lot of emails from readers asking me what to do in order to become a better player. I'm going to try and answer that difficult question, based on my own experience. At first, have a look at this article I wrote a month ago which describes several ways to make you win more games without necessarily improving your skills."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-06-01"
+[_metadata_:title]:- "Improving your game-skills"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-26 13:41:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170826134151id_/http://magic.wizards.com/en/articles/archive/feature/improving-your-game-skills-2006-06-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/improving-your-game-skills-2006-06-01"
 ---
 
 

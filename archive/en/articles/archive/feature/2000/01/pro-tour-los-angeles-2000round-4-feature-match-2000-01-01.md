@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220126181632/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126181632id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:16:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Gab Tsang and Dave Humpherys are both highly respected players, but they found themselves struggling to stay in contention to make Day 2 with 1-2 records as they sat down to face off at the Feature Match tables. Humpherys drew two Waterfront Bouncers and a Coastal Piracy early in game 1. Those cards are pretty good. And Dave's Cloud Sprite was somewhat broken"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 4 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:16:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126181632id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-feature-match-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161230005130/http://magic.wizards.com/en/articles/archive/feature/highlander-singular-format-2007-03-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/highlander-singular-format-2007-03-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161230005130id_/http://magic.wizards.com/en/articles/archive/feature/highlander-singular-format-2007-03-12"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-30 00:51:30+00:00"
+[_metadata_:author]:- "Ron Vitale"
 [_metadata_:description]:- "Want to be let in on a secret? There's a little known Magic variant named Highlander that's fun, exciting and challenging. I stumbled across the Highlander variant of Magic back in 2005, learning that players in Europe had embraced the format and put up a fan site (www.highlandermagic.info) explaining the rules."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-03-12"
+[_metadata_:title]:- "Highlander: A Singular Format"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-30 00:51:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161230005130id_/http://magic.wizards.com/en/articles/archive/feature/highlander-singular-format-2007-03-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/highlander-singular-format-2007-03-12"
 ---
 
 

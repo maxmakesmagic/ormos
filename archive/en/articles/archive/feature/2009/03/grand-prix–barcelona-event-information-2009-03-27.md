@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220122084258/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93barcelona-event-information-2009-03-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93barcelona-event-information-2009-03-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122084258id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93barcelona-event-information-2009-03-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 08:42:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: May 23-24, 2009 Format: Standard Tournament LocationLa Farga Carrer de Barcelona 2 30175 L'Hospitalet - Barcelona, Spain 08 901Phone: 0034 932615200 Registration: 18€ Friday, May 22: 5:30 p.m. - 8 p.m. Saturday, May 23: 8 a.m. - 9:00 a.m. Get your free promo card by"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-27"
+[_metadata_:title]:- "Grand Prix–Barcelona Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 08:42:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122084258id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93barcelona-event-information-2009-03-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93barcelona-event-information-2009-03-27"
 ---
 
 

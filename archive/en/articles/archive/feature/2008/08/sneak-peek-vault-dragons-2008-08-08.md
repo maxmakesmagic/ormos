@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170530161111/http://magic.wizards.com/en/articles/archive/feature/sneak-peek-vault-dragons-2008-08-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sneak-peek-vault-dragons-2008-08-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170530161111id_/http://magic.wizards.com/en/articles/archive/feature/sneak-peek-vault-dragons-2008-08-08"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-30 16:11:11+00:00"
+[_metadata_:author]:- "Mark Purvis"
 [_metadata_:description]:- "Hello! My name is Mark Purvis, and I'm an associate brand manager for Magic. But I'm also a crazy completist collector of Magic cards, and I've been that way for over a decade."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-08"
+[_metadata_:title]:- "Sneak Peek: From the Vault: Dragons"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-30 16:11:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170530161111id_/http://magic.wizards.com/en/articles/archive/feature/sneak-peek-vault-dragons-2008-08-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sneak-peek-vault-dragons-2008-08-08"
 ---
 
 

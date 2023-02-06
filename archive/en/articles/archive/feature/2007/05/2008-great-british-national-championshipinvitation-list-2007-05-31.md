@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020142726/https://magic.wizards.com/en/articles/archive/feature/2008-great-british-national-championshipinvitation-list-2007-05-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-great-british-national-championshipinvitation-list-2007-05-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020142726id_/https://magic.wizards.com/en/articles/archive/feature/2008-great-british-national-championshipinvitation-list-2007-05-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:27:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated 2008-07-01QUICK LINKS  Fact Sheet Artist Profiles Public Events Tournament Schedule(PDF)  Format & Schedule Qualifier Fact Sheet Qualifier Locations   Invitations to 2008 Great British National Championship are awarded in the following manner: The 2007 National Champion. The 2007 National Team Member. The 2007 World Champion (if residing in that country). The 2007 Pro"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-05-31"
+[_metadata_:title]:- "2008 Great British National ChampionshipInvitation List"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:27:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020142726id_/https://magic.wizards.com/en/articles/archive/feature/2008-great-british-national-championshipinvitation-list-2007-05-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-great-british-national-championshipinvitation-list-2007-05-31"
 ---
 
 

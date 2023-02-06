@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021045901/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93bochum-2010-trials-2010-08-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93bochum-2010-trials-2010-08-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021045901id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93bochum-2010-trials-2010-08-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:59:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix–Bochum Trials will be run at WPN locations throughout Europe in the weeks leading up to the Grand Prix. Each offers at least 1 Third-Round bye to Grand Prix–Bochum. WPN Locations in the Bochum AreaEntry Fee Entry fee varies from location to location. Check with local organizer for specific information."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-04"
+[_metadata_:title]:- "Grand Prix–Bochum 2010 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:59:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021045901id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93bochum-2010-trials-2010-08-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93bochum-2010-trials-2010-08-04"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519174241/https://magic.wizards.com/en/articles/archive/feature/2010-national-championship-invitations-2010-06-17-3)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-national-championship-invitations-2010-06-17-3"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519174241id_/https://magic.wizards.com/en/articles/archive/feature/2010-national-championship-invitations-2010-06-17-3"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 17:42:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Peru Nationals Invitation list comprises the following: The current Peru National Champion and members of the current Peru national team (including alternate). Players from Peru with Pro Tour Players Club level 2 or higher. Winners of invitations through National Qualifiers. Winners of invitations through Peru National Open tournaments (“grinders”). The Top 35 DCI Total–ranked"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-17"
+[_metadata_:title]:- "2010 National Championship Invitations"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 17:42:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519174241id_/https://magic.wizards.com/en/articles/archive/feature/2010-national-championship-invitations-2010-06-17-3"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-national-championship-invitations-2010-06-17-3"
 ---
 
 

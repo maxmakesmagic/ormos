@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023025057/https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-event-information-2013-10-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-event-information-2013-10-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023025057id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-event-information-2013-10-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 02:50:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Prague is brought to you by Gordian Knot Games.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpprague Date: January 10-12, 2014 Format: Modern Tournament Location Fair Ground Holesovice Palace of Industry, Right Wing Areal Vystaviste 67"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-31"
+[_metadata_:title]:- "Grand Prix Prague Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 02:50:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023025057id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-event-information-2013-10-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-event-information-2013-10-31"
 ---
 
 

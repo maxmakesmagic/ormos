@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211017032052/https://magic.wizards.com/en/articles/archive/feature/deck-strategy-mini-guides-2009-10-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deck-strategy-mini-guides-2009-10-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017032052id_/https://magic.wizards.com/en/articles/archive/feature/deck-strategy-mini-guides-2009-10-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 03:20:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Core Game Decks Teeth of the Predator—Garruk Wildspeaker Hands of Flame—Chandra Nalaar Wings of Light—Elspeth Tirel Eyes of Shadow—Liliana Vess Thoughts of the Wind—Jace Beleren Claws of Vengeance—Ajani Goldmane Ears of the Elves—Nissa Revane Scales of Fury—Sarkhan Vol Expansion Pack 1 Decks Relics of Doom—Tezzeret the Seeker Mind of Void—Jace Beleren Cries of Rage—Sarkhan Vol"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-21"
+[_metadata_:title]:- "Deck Strategy Mini-Guides"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 03:20:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017032052id_/https://magic.wizards.com/en/articles/archive/feature/deck-strategy-mini-guides-2009-10-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deck-strategy-mini-guides-2009-10-21"
 ---
 
 

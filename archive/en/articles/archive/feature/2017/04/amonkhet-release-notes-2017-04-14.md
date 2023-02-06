@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170819155624/http://magic.wizards.com/en/articles/archive/feature/amonkhet-release-notes-2017-04-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/amonkhet-release-notes-2017-04-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170819155624id_/http://magic.wizards.com/en/articles/archive/feature/amonkhet-release-notes-2017-04-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-19 15:56:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-04-14"
+[_metadata_:title]:- "Amonkhet Release Notes"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-19 15:56:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170819155624id_/http://magic.wizards.com/en/articles/archive/feature/amonkhet-release-notes-2017-04-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/amonkhet-release-notes-2017-04-14"
 ---
 
 

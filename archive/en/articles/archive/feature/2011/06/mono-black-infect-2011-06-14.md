@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025164801/https://magic.wizards.com/en/articles/archive/feature/mono-black-infect-2011-06-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-infect-2011-06-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025164801id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-infect-2011-06-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 16:48:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Gaudenis Vidugiris's Mono-Black Infect Format: Scars of Mirrodin Block Constructed – Pro Tour Nagoya 4 Inkmoth Nexus 19 Swamp 4 Ichorclaw Myr 4 Phyrexian Crusader 4 Plague Stinger 4 Whispering Specter 3 Despise 4 Dismember 2 Gitaxian Probe 4 Mutagenic Growth 4 Piston Sledge 4 Virulent Wound *2 Go for the Throat *4 Grasp of Darkness *3 Marrow Shards *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-06-14"
+[_metadata_:title]:- "Mono-Black Infect"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 16:48:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025164801id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-infect-2011-06-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-infect-2011-06-14"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016192332/https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-trials-2004-07-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-trials-2004-07-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016192332id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-trials-2004-07-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:23:32+00:00"
+[_metadata_:author]:- "updated 9-23-04"
 [_metadata_:description]:- "Entry Fees: Varies by Location. Contact organizer for detailsTournament Structure: Mirrodin Block LimitedTournament format: Limited with a Top 8 Rochester DraftPrizes: At least 1 3rd round bye at each tournament, plus product prizes determined by the organizerStateCityEvent Date3-round byeLocationAddressContact phoneURLAlabamaMobile8/14/20041GroundZero6850 Moffett"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-07-23"
+[_metadata_:title]:- "Grand Prix - Austin Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:23:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016192332id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-trials-2004-07-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-trials-2004-07-23"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018021522/https://magic.wizards.com/en/articles/archive/feature/sao-paulo-kithkin-2009-06-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sao-paulo-kithkin-2009-06-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018021522id_/https://magic.wizards.com/en/articles/archive/feature/sao-paulo-kithkin-2009-06-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 02:15:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Daniel de Almeida Alves's Kithkin Format: Grand Prix-Sao Paulo 2 Mutavault 16 Plains 3 Rustic Clachan 4 Windbrisk Heights 3 Burrenton Forge-Tender 4 Cloudgoat Ranger 4 Figure of Destiny 4 Knight of Meadowgrain 4 Knight of the White Orchid 3 Ranger of Eos 1 Ajani Goldmane 4 Glorious Anthem 2 Path to Exile 4 Spectral Procession 2 Unmake *3 Aura of Silence *1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-22"
+[_metadata_:title]:- "Sao Paulo Kithkin"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 02:15:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018021522id_/https://magic.wizards.com/en/articles/archive/feature/sao-paulo-kithkin-2009-06-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sao-paulo-kithkin-2009-06-22"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211130153401/https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2004-10-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2004-10-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130153401id_/https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2004-10-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 15:34:01+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "I was going to write about Seshiro the Anointed this week. But, that will have to wait. After I placed 6th this weekend at the Wisconsin States event, Scott Johns wrote me a short little e-mail that derailed my other thought for this week’s column: Your deck from States looks great! Care to do an article on it for this week's column? :) Now, tell me, who could resist that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-10-27"
+[_metadata_:title]:- "Kiki-Jiki, Mirror Breaker"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 15:34:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130153401id_/https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2004-10-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-mirror-breaker-2004-10-27"
 ---
 
 

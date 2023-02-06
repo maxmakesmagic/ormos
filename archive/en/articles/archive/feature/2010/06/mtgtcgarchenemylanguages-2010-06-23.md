@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220627005331/https://magic.wizards.com/en/articles/archive/feature/mtgtcgarchenemylanguages-2010-06-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgtcgarchenemylanguages-2010-06-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627005331id_/https://magic.wizards.com/en/articles/archive/feature/mtgtcgarchenemylanguages-2010-06-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:53:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector NumberTitle(English)Title(Localized)TypeRulesTextFlavor TextArtist Credit 1All in Good TimeAlles zu seiner ZeitKomplottWenn du dieses Komplott schmiedest, erhältst du nach diesem Zug einen weiteren Zug. In diesem Zug können keine Komplotte geschmiedet werden.„Nimm dir etwas Zeit."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-23"
+[_metadata_:title]:- "mtg_tcg_archenemy_languages"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:53:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627005331id_/https://magic.wizards.com/en/articles/archive/feature/mtgtcgarchenemylanguages-2010-06-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgtcgarchenemylanguages-2010-06-23"
 ---
 
 

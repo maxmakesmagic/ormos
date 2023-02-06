@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220628192915/https://magic.wizards.com/en/articles/archive/feature/new-boros-hoodie-2013-03-15-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-boros-hoodie-2013-03-15-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628192915id_/https://magic.wizards.com/en/articles/archive/feature/new-boros-hoodie-2013-03-15-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-28 19:29:15+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "The Boros Legion captured my heart right away when we first came to Ravnica, and ever since then I have been a loyal soldier for the red and white. There is a new item up for sale on MTGMerch.com, and it is of course one I am very excited about! A new hoodie for what is clearly the best guild out there: Boros! Mouseover the image below to see the back of this sweet hoodie!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-15"
+[_metadata_:title]:- "New Boros Hoodie"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-28 19:29:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628192915id_/https://magic.wizards.com/en/articles/archive/feature/new-boros-hoodie-2013-03-15-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-boros-hoodie-2013-03-15-0"
 ---
 
 

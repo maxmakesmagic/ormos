@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023092217/https://magic.wizards.com/en/articles/archive/feature/selecting-tenth-edition-week-1-urza-block-lands-2006-06-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/selecting-tenth-edition-week-1-urza-block-lands-2006-06-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023092217id_/https://magic.wizards.com/en/articles/archive/feature/selecting-tenth-edition-week-1-urza-block-lands-2006-06-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 09:22:17+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-06-14"
+[_metadata_:title]:- "Selecting Tenth Edition Week 1 - Urza Block Lands"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 09:22:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023092217id_/https://magic.wizards.com/en/articles/archive/feature/selecting-tenth-edition-week-1-urza-block-lands-2006-06-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/selecting-tenth-edition-week-1-urza-block-lands-2006-06-14"
 ---
 
 

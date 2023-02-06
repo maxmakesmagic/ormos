@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520134316/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520134316id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 13:43:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Game Empire 15 64.00 2 Operation Mise 15 56.00 3 Marc's Brothers 13 58.67 4 Fifth Again 12 72.00 5 Your Move Games 12 72.00 6 Phenomene J 12 60.00 7 The Tank 12 57.33 8 CMU 12 54.67 9 Antarctica 12 50.67 10 Utrecht 12 50.67 11 Sugar Bus 12 49.33 12 Shop Adept 10 57.33 13 Shpadoinkle 10 57.33 14 Tongo Nation 10 56.00 15 ATM 10 56.00 16 Papa"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 5 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 13:43:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520134316id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-standings-2000-01-01"
 ---
 
 

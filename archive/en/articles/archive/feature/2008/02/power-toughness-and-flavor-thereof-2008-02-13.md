@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160501184853/http://magic.wizards.com/en/articles/archive/feature/power-toughness-and-flavor-thereof-2008-02-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/power-toughness-and-flavor-thereof-2008-02-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160501184853id_/http://magic.wizards.com/en/articles/archive/feature/power-toughness-and-flavor-thereof-2008-02-13"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-01 18:48:53+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Put X +1/+1 counters (heads) on Hydra. Each point of damage Hydra suffers destroys one head unless is spent."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-02-13"
+[_metadata_:title]:- "Power, Toughness, and the Flavor Thereof"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-01 18:48:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160501184853id_/http://magic.wizards.com/en/articles/archive/feature/power-toughness-and-flavor-thereof-2008-02-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/power-toughness-and-flavor-thereof-2008-02-13"
 ---
 
 

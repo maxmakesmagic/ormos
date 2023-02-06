@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208233901/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-3-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-3-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208233901id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-3-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 23:39:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Opponent Points Adkins, Johnny (1) 6 Wallis, Kelvis (329) 6 Adkins, Joshua (2) 4 Augustine, Brian (12) 4 Albright, Nathan (3) 0 Kipapa, Barney (148) 0 Anderson, Rhonda (5) 0 Kopcial, Timothy (153) 0 Angel, Greg (6) 6 Quirk, Kevin (252) 6 Ansley, Justin (7) 3 Jones, Ricky (137) 3 Armstrong, Herman (8) 3 Clinkenbeard, Adam (47) 3 Armstrong, Michael (9) 0 Williams,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Memphis 1999Day 1 Round 3 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 23:39:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208233901id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-3-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-3-pairings-2000-01-01"
 ---
 
 

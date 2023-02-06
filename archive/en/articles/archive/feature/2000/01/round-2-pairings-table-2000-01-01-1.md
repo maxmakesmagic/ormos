@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220702092043/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01-1)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702092043id_/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01-1"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:20:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPoints OpponentPointsSankenbunritsu3vsSouls of Rugerna3Suberikomi3vsLove and Hope3Team Rune Factory3vsTeam M.S.O3Circle Money Draft3vsTeam Work3Objects3vsPonkotsu Hiyori3Positive Thinking3vsChiban Dragon3Wiz Type Ing3vsKashimo Eyes3Go Renger3vsnombe.nom3No Future3vsATOK3Morisawa Juku3vsReckless Triskelion3Team ToDo3vsAibon3Daisiszi3vsFruits Basket3Team Pillage3vsMy Name is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 2 Pairings (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:20:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702092043id_/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-table-2000-01-01-1"
 ---
 
 

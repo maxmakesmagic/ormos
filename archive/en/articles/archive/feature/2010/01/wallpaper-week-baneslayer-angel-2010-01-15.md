@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170815184309/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-baneslayer-angel-2010-01-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-baneslayer-angel-2010-01-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170815184309id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-baneslayer-angel-2010-01-15"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-15 18:43:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper features Greg Staples's Baneslayer Angel art from Magic 2010. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-01-15"
+[_metadata_:title]:- "Wallpaper of the Week: Baneslayer Angel"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-15 18:43:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170815184309id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-baneslayer-angel-2010-01-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-baneslayer-angel-2010-01-15"
 ---
 
 

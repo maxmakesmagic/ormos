@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170821065716/http://magic.wizards.com/en/articles/archive/feature/designer%E2%80%99s-diary-%E2%80%93-phyrexia-vs-coalition-2010-03-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/designer%E2%80%99s-diary-%E2%80%93-phyrexia-vs-coalition-2010-03-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170821065716id_/http://magic.wizards.com/en/articles/archive/feature/designer%E2%80%99s-diary-%E2%80%93-phyrexia-vs-coalition-2010-03-15"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-21 06:57:16+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "his is a story all about how my life got flipped, turned upside down. How it became unmorphed, if you will. I’d like to take a minute, just sit right there, and I’ll tell you how I became the designer of an ancillary Magic: The Gathering product called Duel Decks: Phyrexia vs. the Coalition."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-03-15"
+[_metadata_:title]:- "Designer’s Diary – Phyrexia vs. the Coalition"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-21 06:57:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170821065716id_/http://magic.wizards.com/en/articles/archive/feature/designer%E2%80%99s-diary-%E2%80%93-phyrexia-vs-coalition-2010-03-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/designer%E2%80%99s-diary-%E2%80%93-phyrexia-vs-coalition-2010-03-15"
 ---
 
 

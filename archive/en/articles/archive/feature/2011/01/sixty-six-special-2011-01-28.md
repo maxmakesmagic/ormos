@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210114081808/https://magic.wizards.com/en/articles/archive/feature/sixty-six-special-2011-01-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sixty-six-special-2011-01-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210114081808id_/https://magic.wizards.com/en/articles/archive/feature/sixty-six-special-2011-01-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-14 08:18:08+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: James Zornes's Sixty-Six Special Format: Extended - Grand Prix Atlanta 2 Fire-Lit Thicket 3 Forest 5 Island 4 Misty Rainforest 9 Mountain 3 Terramorphic Expanse 4 Valakut, the Molten Pinnacle 2 Kitchen Finks 2 Broken Ambitions 4 Explore 1 Harrow 4 Lightning Bolt 4 Mana Leak 4 Manamorphose 4 Ponder 4 Prismatic Omen 4 Scapeshift 3 Treasure Hunt *4 Firespout *3 Naturalize *4 Negate *4 Volcanic Fallout"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-01-28"
+[_metadata_:title]:- "Sixty-Six Special"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-14 08:18:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210114081808id_/https://magic.wizards.com/en/articles/archive/feature/sixty-six-special-2011-01-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sixty-six-special-2011-01-28"
 ---
 
 

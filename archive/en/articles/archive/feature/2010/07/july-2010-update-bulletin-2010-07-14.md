@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170715010055/http://magic.wizards.com/en/articles/archive/feature/july-2010-update-bulletin-2010-07-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/july-2010-update-bulletin-2010-07-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170715010055id_/http://magic.wizards.com/en/articles/archive/feature/july-2010-update-bulletin-2010-07-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-15 01:00:55+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-14"
+[_metadata_:title]:- "July 2010 Update Bulletin"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-15 01:00:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170715010055id_/http://magic.wizards.com/en/articles/archive/feature/july-2010-update-bulletin-2010-07-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/july-2010-update-bulletin-2010-07-14"
 ---
 
 

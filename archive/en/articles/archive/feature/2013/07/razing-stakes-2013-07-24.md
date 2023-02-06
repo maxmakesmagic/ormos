@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170128013613/http://magic.wizards.com/en/articles/archive/feature/razing-stakes-2013-07-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/razing-stakes-2013-07-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170128013613id_/http://magic.wizards.com/en/articles/archive/feature/razing-stakes-2013-07-24"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-28 01:36:13+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Pauper is a very fun format . For those who haven't had the pleasure, the premise is simple: nothing with a higher rarity than common is legal. Granted, that means common in any set, so some cards sneak in that used to be uncommons or later became uncommons. I used to play quite a bit of Pauper on Magic Online, and I still peek my head in every now and then to see what the format looks like."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-24"
+[_metadata_:title]:- "Razing the Stakes"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-28 01:36:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170128013613id_/http://magic.wizards.com/en/articles/archive/feature/razing-stakes-2013-07-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/razing-stakes-2013-07-24"
 ---
 
 

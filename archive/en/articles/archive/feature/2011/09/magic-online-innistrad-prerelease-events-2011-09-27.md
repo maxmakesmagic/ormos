@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028062924/https://magic.wizards.com/en/articles/archive/feature/magic-online-innistrad-prerelease-events-2011-09-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-innistrad-prerelease-events-2011-09-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028062924id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-innistrad-prerelease-events-2011-09-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 06:29:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Horror Lurks Within Innistrad is a plane of menace and dread where every creature hides a darker aspect. Here, hedonistic vampires stalk the shadows to quench their thirst, and the full moon can transform a simple villager into a savage werewolf. Best to huddle inside, Planeswalker, lest the horrors of this world rend you limb from limb.Innistrad will be available in the Magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-09-27"
+[_metadata_:title]:- "Magic Online Innistrad Prerelease Events"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 06:29:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028062924id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-innistrad-prerelease-events-2011-09-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-innistrad-prerelease-events-2011-09-27"
 ---
 
 

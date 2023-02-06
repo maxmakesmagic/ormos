@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220630112420/https://magic.wizards.com/en/articles/archive/feature/round-6-standings-score-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-standings-score-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630112420id_/https://magic.wizards.com/en/articles/archive/feature/round-6-standings-score-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 11:24:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win%1The Ken Ho All-Stars1876.38%2Team Needs/Hotel Room *Amate1862.03%3AlphaBetaUnlimited.com/1669.44%4Team $20 Dolla Billz1666.11%5Family Games Center1665.27%6Team Bald Dummy1575.00%7Frog Eaters1575.00%8The Ancient Kavus1572.50%9Dynasty1566.66%10Just Concede1566.66%11The Hubbsucker Proxy1565.33%12Team Clasp1563.88%13A Little Too Sick1562.50%14Rug"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 6 Standings (by Score)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 11:24:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630112420id_/https://magic.wizards.com/en/articles/archive/feature/round-6-standings-score-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-standings-score-2000-01-01"
 ---
 
 

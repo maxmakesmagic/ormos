@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027094338/https://magic.wizards.com/en/articles/archive/feature/deadguy-red-2009-02-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deadguy-red-2009-02-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027094338id_/https://magic.wizards.com/en/articles/archive/feature/deadguy-red-2009-02-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:43:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Dave Price's Deadguy Red Format: Rath Block Constructed 16 Mountain 4 Wasteland 4 Canyon Wildcat 4 Fireslinger 4 Jackal Pup 4 Mogg Conscripts 4 Mogg Fanatic 4 Mogg Raider 2 Rathi Dragon 4 Cursed Scroll 4 Giant Strength 4 Kindle 2 Scalding Tongs *1 Apocalypse *2 Jinxed Idol *1 Rathi Dragon *2 Scalding Tongs *4 Shatter *4 Stone Rain *1 Torture Chamber"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-13"
+[_metadata_:title]:- "Deadguy Red"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:43:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027094338id_/https://magic.wizards.com/en/articles/archive/feature/deadguy-red-2009-02-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deadguy-red-2009-02-13"
 ---
 
 

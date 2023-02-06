@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029131859/https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-event-information-2012-07-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-event-information-2012-07-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029131859id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-event-information-2012-07-16"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 13:18:59+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-16"
+[_metadata_:title]:- "Grand Prix Taipei Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 13:18:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029131859id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-event-information-2012-07-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-event-information-2012-07-16"
 ---
 
 

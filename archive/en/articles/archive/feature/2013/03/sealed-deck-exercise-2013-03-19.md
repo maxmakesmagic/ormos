@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526015640/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-exercise-2013-03-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-exercise-2013-03-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526015640id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-exercise-2013-03-19"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 01:56:40+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "I've been looking for an opportunity to write a Limited decklist, and when I started researching this column, I found the Sealed Deck exercise posted on Thursday, March 14. I figure this is a good pool to write about, since many of you have probably already given it some thought. Gatecrash Sealed is not a balanced format. It takes an exceptional pool to want to play a deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-19"
+[_metadata_:title]:- "Sealed Deck Exercise"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 01:56:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526015640id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-exercise-2013-03-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-exercise-2013-03-19"
 ---
 
 

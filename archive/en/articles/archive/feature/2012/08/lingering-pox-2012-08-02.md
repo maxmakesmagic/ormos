@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220702214547/https://magic.wizards.com/en/articles/archive/feature/lingering-pox-2012-08-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lingering-pox-2012-08-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702214547id_/https://magic.wizards.com/en/articles/archive/feature/lingering-pox-2012-08-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 21:45:47+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Control, Aggro, Infect, Tokens, Commander—white and black tend to keep their distance from each other due to a difference in ideals, but recently, the white-black influx has invited all of the previously mentioned archetypes to adapt the odd-couple and use it to good effect. However, black and white have a much deeper history than just a few recent archetypes. Back in the days"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-02"
+[_metadata_:title]:- "Lingering Pox"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 21:45:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702214547id_/https://magic.wizards.com/en/articles/archive/feature/lingering-pox-2012-08-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lingering-pox-2012-08-02"
 ---
 
 

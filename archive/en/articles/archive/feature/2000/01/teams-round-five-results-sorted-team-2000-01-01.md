@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211203061907/https://magic.wizards.com/en/articles/archive/feature/teams-round-five-results-sorted-team-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-five-results-sorted-team-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203061907id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-five-results-sorted-team-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 06:19:07+00:00"
 [_metadata_:description]:- "Team Opponent Result Argentina England Won 4-0 Australia Denmark Won 4-0 Austria Norway Drew 2-2 Belgium Netherlands Lost 1-3 Brazil Israel Won 3-1 Canada United States Won 3-1 Chile China Drew 2-2 China Chile Drew 2-2 Czech Republic Sweden Won 2-1-1 Denmark Australia Lost 0-4 England Argentina Lost 0-4 Finland Japan Won 3-1 France Germany Lost 1-2-1 Germany France Won 2-1-1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Teams: Round Five Results Sorted By Team"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 06:19:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203061907id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-five-results-sorted-team-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-five-results-sorted-team-2000-01-01"
 ---
 
 

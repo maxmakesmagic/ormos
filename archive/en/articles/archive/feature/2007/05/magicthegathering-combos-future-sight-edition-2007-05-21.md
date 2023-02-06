@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112000447/https://magic.wizards.com/en/articles/archive/feature/magicthegathering-combos-future-sight-edition-2007-05-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magicthegathering-combos-future-sight-edition-2007-05-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112000447id_/https://magic.wizards.com/en/articles/archive/feature/magicthegathering-combos-future-sight-edition-2007-05-21"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:04:47+00:00"
+[_metadata_:author]:- "Mago"
 [_metadata_:description]:- "FLOOP!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-05-21"
+[_metadata_:title]:- "Magicthegathering. Combos: Future Sight Edition"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:04:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112000447id_/https://magic.wizards.com/en/articles/archive/feature/magicthegathering-combos-future-sight-edition-2007-05-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magicthegathering-combos-future-sight-edition-2007-05-21"
 ---
 
 

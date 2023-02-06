@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170429004321/http://magic.wizards.com/en/articles/archive/feature/war-attrition-2011-06-22)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/war-attrition-2011-06-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170429004321id_/http://magic.wizards.com/en/articles/archive/feature/war-attrition-2011-06-22"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-29 00:43:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: `War of Attrition` Event Deck Format: Standard 2 Dread Statuary 21 Plains 4 Elite Vanguard 1 Kemba, Kha Regent 2 Kor Duelist 4 Leonin Relic-Warder 4 Leonin Skyhunter 1 Mirran Crusader 4 Porcelain Legionnaire 1 Puresteel Paladin 2 Stoneforge Mystic 1 Apostle's Blessing 1 Bonehoard 1 Darksteel Axe 4 Flayer Husk 4 Journey to Nowhere 1 Sickleslicer 1 Skinwing 1 Sword of Vengeance *1 Apostle's Blessing *2 Arrest"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-06-22"
+[_metadata_:title]:- "War of Attrition"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-29 00:43:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170429004321id_/http://magic.wizards.com/en/articles/archive/feature/war-attrition-2011-06-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/war-attrition-2011-06-22"
 ---
 
 

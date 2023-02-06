@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030183717/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-quarter-final-niels-sanders-jensen-vs-peter)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-quarter-final-niels-sanders-jensen-vs-peter"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030183717id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-quarter-final-niels-sanders-jensen-vs-peter"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 18:37:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Both of these players are playing in their first GP top eight. Peter has drafted a U/W deck featuring a few rebels backed up with blue fliers and a few counter spells. Neils has drafted a R/U deck featuring three Flowstone Crushers and an Arc Mage along with blue fliers and utility cards like counter spells and a Withdraw."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000 - Quarter-Final Niels Sanders Jensen vs. Peter Gysemans"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 18:37:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030183717id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-quarter-final-niels-sanders-jensen-vs-peter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-quarter-final-niels-sanders-jensen-vs-peter"
 ---
 
 

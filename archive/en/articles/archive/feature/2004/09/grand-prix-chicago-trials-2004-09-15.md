@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020232504/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-trials-2004-09-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-trials-2004-09-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020232504id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-trials-2004-09-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 23:25:04+00:00"
+[_metadata_:author]:- "updated 11-22-04"
 [_metadata_:description]:- "StateCityEvent Date3-round byeLocationAddressContact phoneURLIllinoisChicago12/4/20041Pastimes Sports Cards, Comics & Games8478 Golf Rd847-470-9636WebsiteGeorgiaAtlanta11/27/20041T&T Toys3750 Venture Dr., Duluth770-729-9588WebsiteIowaRock Island10/16/20041Masonic Temple420 18th St.847-998-9816WebsiteMichiganGrand Rapids11/20/20041Outpost4263 Kalamazoo Ave.,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-09-15"
+[_metadata_:title]:- "Grand Prix - Chicago Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 23:25:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020232504id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-trials-2004-09-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-trials-2004-09-15"
 ---
 
 

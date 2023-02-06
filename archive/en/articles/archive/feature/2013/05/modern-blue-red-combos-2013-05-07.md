@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521200621/https://magic.wizards.com/en/articles/archive/feature/modern-blue-red-combos-2013-05-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-blue-red-combos-2013-05-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521200621id_/https://magic.wizards.com/en/articles/archive/feature/modern-blue-red-combos-2013-05-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:06:21+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "This is a raw sketch for a Modern deck that basically just mashes a bunch of combos together and hopes to hit any of them. The combos are: Hive Mind + Pact of the Titan (which can be found by Tolaria West); Possibility Storm + Tolaria West for Ornithopter, which casts Emrakul, the Aeons Torn; or Through the Breach + Emrakul, the Aeons Torn. Since all of these require a five-"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-07"
+[_metadata_:title]:- "Modern Blue-Red Combos"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:06:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521200621id_/https://magic.wizards.com/en/articles/archive/feature/modern-blue-red-combos-2013-05-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-blue-red-combos-2013-05-07"
 ---
 
 

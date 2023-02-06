@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028133317/https://magic.wizards.com/en/articles/archive/feature/yuuya-watanbes-gp-manila-winning-decklist-standard-2012-06-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/yuuya-watanbes-gp-manila-winning-decklist-standard-2012-06-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028133317id_/https://magic.wizards.com/en/articles/archive/feature/yuuya-watanbes-gp-manila-winning-decklist-standard-2012-06-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 13:33:17+00:00"
+[_metadata_:author]:- "Event Coverage Staff"
 [_metadata_:description]:- "Congratulations to Yuuya Watanabe, your Grand Prix Manila winner."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-18"
+[_metadata_:title]:- "Yuuya Watanbe's GP Manila Winning Decklist (Standard)"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 13:33:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028133317id_/https://magic.wizards.com/en/articles/archive/feature/yuuya-watanbes-gp-manila-winning-decklist-standard-2012-06-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/yuuya-watanbes-gp-manila-winning-decklist-standard-2012-06-18"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124115704/https://magic.wizards.com/en/articles/archive/feature/furystoken-2008-10-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/furystoken-2008-10-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124115704id_/https://magic.wizards.com/en/articles/archive/feature/furystoken-2008-10-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:57:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Robert Cash's Furystokens Format: Pro Tour Qualifier-Berlin, Lorwyn/Shadowmoor Block 4 Ancient Amphitheater 4 Fetid Heath 1 Plains 4 Reflecting Pool 2 Rugged Prairie 2 Swamp 3 Vivid Marsh 1 Vivid Meadow 4 Windbrisk Heights 4 Cloudgoat Ranger 4 Furystoke Giant 4 Kitchen Finks 4 Marsh Flitter 3 Shriekmaw 4 Bitterblossom 1 Cenn's Enlistment 4 Nameless Inversion"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-10-01"
+[_metadata_:title]:- "Furystoken"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:57:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124115704id_/https://magic.wizards.com/en/articles/archive/feature/furystoken-2008-10-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/furystoken-2008-10-01"
 ---
 
 

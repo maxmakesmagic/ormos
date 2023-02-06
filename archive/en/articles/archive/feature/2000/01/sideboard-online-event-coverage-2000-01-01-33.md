@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520130725/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-33)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-33"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520130725id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-33"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 13:07:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Winners Profiles 14 and under Division Rodney Burt Fifteen year old Rodney from Vancouver, Washington managed to qualify for the bracket just before crossing the age limit. A regular at `Eternal Elysium,` Rodney playtested a Necro deck for this tournament. He got the original idea from Brian Hacker's version, then modified it adding Nausea and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 13:07:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520130725id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-33"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-33"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220703060043/https://magic.wizards.com/en/articles/archive/feature/hunting-thragtusks-2012-11-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hunting-thragtusks-2012-11-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703060043id_/https://magic.wizards.com/en/articles/archive/feature/hunting-thragtusks-2012-11-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 06:00:43+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "As Standard continues to settle into place, we continue to see an influx of midrange strategies taking hold of the format. The range of these decks is certainly wide, but they are all slower than traditional aggro decks and faster than traditional control decks. This leaves a lot of cards and decks fighting for spots in the metagame, often knocking out other cards of similar"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-20"
+[_metadata_:title]:- "Hunting for Thragtusks"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 06:00:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703060043id_/https://magic.wizards.com/en/articles/archive/feature/hunting-thragtusks-2012-11-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hunting-thragtusks-2012-11-20"
 ---
 
 

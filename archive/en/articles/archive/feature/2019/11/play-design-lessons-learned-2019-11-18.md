@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210725064750/https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18?&partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18?&partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210725064750id_/https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18?&partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-25 06:47:50+00:00"
+[_metadata_:author]:- "Bryan Hawley"
 [_metadata_:description]:- "Bryan Hawley looks at Play Design's past, present, and future, and what they've learned along the way."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2019-11-18"
+[_metadata_:title]:- "Play Design Lessons Learned"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-25 06:47:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210725064750id_/https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18?&partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18?&partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm"
 ---
 
 

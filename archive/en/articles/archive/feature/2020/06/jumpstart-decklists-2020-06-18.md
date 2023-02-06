@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200701210746/https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18?bb)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18?bb"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200701210746id_/https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18?bb"
-[_metadata_:wayback_capture_timestamp]:- "2020-07-01 21:07:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Jumpstart features themed 20-card packs with up to four different decklists for some themes! Check back often as cards are previewed for more decklists."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-06-20"
+[_metadata_:title]:- "Jumpstart Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2020-07-01 21:07:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200701210746id_/https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18?bb"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18?bb"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160128031637/http://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-51)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-51"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160128031637id_/http://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-51"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-28 03:16:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "1999 JSS CHAMPIONSHIP - 14 AND UNDER DIVISION                          1999 JSS CHAMPIONSHIP - 14 AND UNDER DIVISION"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-28 03:16:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160128031637id_/http://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-51"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-51"
 ---
 
 

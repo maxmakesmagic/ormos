@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220630194112/https://magic.wizards.com/en/articles/archive/feature/clique-clique-pull-2012-10-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/clique-clique-pull-2012-10-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630194112id_/https://magic.wizards.com/en/articles/archive/feature/clique-clique-pull-2012-10-31"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 19:41:12+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "All this week it has been (and will continue to be) Azorius Week here at DailyMTG.com, and I figured it was about time we got involved as well! With Return to Ravnica, new metagames have developed in both Standard and Modern, and even Legacy has felt a little bit of the impact. Naturally, with Azorius being oneof the five guilds of Return to Ravnica, it has begun to flourish"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-31"
+[_metadata_:title]:- "Clique, Clique, Pull"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 19:41:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630194112id_/https://magic.wizards.com/en/articles/archive/feature/clique-clique-pull-2012-10-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/clique-clique-pull-2012-10-31"
 ---
 
 

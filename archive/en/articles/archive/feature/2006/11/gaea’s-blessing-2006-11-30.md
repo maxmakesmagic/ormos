@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170602074712/http://magic.wizards.com/en/articles/archive/feature/gaea%E2%80%99s-blessing-2006-11-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gaea%E2%80%99s-blessing-2006-11-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170602074712id_/http://magic.wizards.com/en/articles/archive/feature/gaea%E2%80%99s-blessing-2006-11-30"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-02 07:47:12+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Last week, I looked at all that could be accomplished with Locket of Yesterdays. Wizards has really outdone themselves with Time Spiral."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-30"
+[_metadata_:title]:- "Gaea’s Blessing"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-02 07:47:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170602074712id_/http://magic.wizards.com/en/articles/archive/feature/gaea%E2%80%99s-blessing-2006-11-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gaea%E2%80%99s-blessing-2006-11-30"
 ---
 
 

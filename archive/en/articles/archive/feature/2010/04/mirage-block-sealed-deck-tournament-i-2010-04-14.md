@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027190534/https://magic.wizards.com/en/articles/archive/feature/mirage-block-sealed-deck-tournament-i-2010-04-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirage-block-sealed-deck-tournament-i-2010-04-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027190534id_/https://magic.wizards.com/en/articles/archive/feature/mirage-block-sealed-deck-tournament-i-2010-04-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 19:05:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to Jamuraa, a land steeped in magical traditions that have existed for millennia. The northwest of the huge continent of Jamuraa is occupied by three nations: the militaristic kingdom of the Zhalfirins, the religious state of Femeref, and the trading province of the Suq'Ata empire..MIRAGE BLOCK SEALED DECK TOURNAMENT ISTART TIME: Sunday, May 2, 2010 11:00 AM PDT /"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-14"
+[_metadata_:title]:- "Mirage Block Sealed Deck Tournament I"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 19:05:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027190534id_/https://magic.wizards.com/en/articles/archive/feature/mirage-block-sealed-deck-tournament-i-2010-04-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirage-block-sealed-deck-tournament-i-2010-04-14"
 ---
 
 

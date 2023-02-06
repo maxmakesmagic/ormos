@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527024621/https://magic.wizards.com/en/articles/archive/feature/interview-elliot-fung-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/interview-elliot-fung-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527024621id_/https://magic.wizards.com/en/articles/archive/feature/interview-elliot-fung-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 02:46:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan After losing his first match to teammate Mike Turian, Fung felt he had made just a few mistakes. `I should have Mulliganed that last game. It was iffy, but it was a two land hand and it wasn't a very aggressive draw. With his Avalanche Riders, I never really found myself in the game. I just didn't want to risk that Mulligan.` After losing, he remains"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Interview with Elliot Fung"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 02:46:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527024621id_/https://magic.wizards.com/en/articles/archive/feature/interview-elliot-fung-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/interview-elliot-fung-2000-01-01"
 ---
 
 

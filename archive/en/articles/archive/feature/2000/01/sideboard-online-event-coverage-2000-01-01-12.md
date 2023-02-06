@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523084510/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523084510id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-12"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:45:10+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 2 Results - 15-17 Division Player Opponent Results Adams, Zach Goettel, Troy Lost, 0-2 Allen, Crispin Baker, Justin Lost, 0-2 Baker, Justin Allen, Crispin Won, 2-0 Brubaker, Jake Miller, Cameron Lost, 1-2 Cahir, Dan Turner, Justin Lost, 1-2 Carey, Joey Harrison, Chancey Lost, 0-2 Carpenter, Ryan McArthur, Stephen Lost, 0-2 Cooper, Geddes"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:45:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523084510id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-12"
 ---
 
 

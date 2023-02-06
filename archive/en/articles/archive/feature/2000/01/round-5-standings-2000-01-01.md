@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030065715/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030065715id_/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:57:15+00:00"
 [_metadata_:description]:- "Rank        Player        Points        Op.Win%    1  Saux, Rafaël A Le  15  80.00%  2  Andrade, Marcelo T  15  80.00%  3  Echeverria, José Luis J.l.e  15"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 5 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:57:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030065715id_/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-standings-2000-01-01"
 ---
 
 

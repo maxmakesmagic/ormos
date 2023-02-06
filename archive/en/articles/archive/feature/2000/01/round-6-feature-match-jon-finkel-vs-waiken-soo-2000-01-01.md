@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211127060809/https://magic.wizards.com/en/articles/archive/feature/round-6-feature-match-jon-finkel-vs-waiken-soo-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-feature-match-jon-finkel-vs-waiken-soo-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127060809id_/https://magic.wizards.com/en/articles/archive/feature/round-6-feature-match-jon-finkel-vs-waiken-soo-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 06:08:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler To draw or not to draw? That was the question facing Jon Finkel and Waiken Soo. They each had 5-0 records going into round 6 and a draw was clearly not the right thing to do within the context of Nationals, but a draw would ensure both players of a seat at the $20,000 Draft Challenge. The allure of a guaranteed prize somewhere between $1,000 and $8,000 was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 6 Feature Match - Jon Finkel vs. Waiken Soo"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 06:08:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127060809id_/https://magic.wizards.com/en/articles/archive/feature/round-6-feature-match-jon-finkel-vs-waiken-soo-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-feature-match-jon-finkel-vs-waiken-soo-2000-01-01"
 ---
 
 

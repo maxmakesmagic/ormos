@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160801082135/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-halloween-special-2004-2004-10-29)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-halloween-special-2004-2004-10-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160801082135id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-halloween-special-2004-2004-10-29"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-01 08:21:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; This week, in honor of Halloween, we have a special gift for you: THREE spooky desktop wallpapers, including one based on Puddnhead's creepy art for the Ninth Edition Grave Pact. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-10-29"
+[_metadata_:title]:- "Wallpaper of the Week: Halloween Special 2004"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-01 08:21:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160801082135id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-halloween-special-2004-2004-10-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-halloween-special-2004-2004-10-29"
 ---
 
 

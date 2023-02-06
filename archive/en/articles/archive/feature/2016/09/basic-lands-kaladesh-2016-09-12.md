@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112032452/https://magic.wizards.com/en/articles/archive/feature/basic-lands-kaladesh-2016-09-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/basic-lands-kaladesh-2016-09-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112032452id_/https://magic.wizards.com/en/articles/archive/feature/basic-lands-kaladesh-2016-09-12"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:24:52+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "The basic lands of Kaladesh are truly a sight to behold."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-09-12"
+[_metadata_:title]:- "The Basic Lands of Kaladesh"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:24:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112032452id_/https://magic.wizards.com/en/articles/archive/feature/basic-lands-kaladesh-2016-09-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/basic-lands-kaladesh-2016-09-12"
 ---
 
 

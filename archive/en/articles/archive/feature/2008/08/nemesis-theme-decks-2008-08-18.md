@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201111225621/https://magic.wizards.com/en/articles/archive/feature/nemesis-theme-decks-2008-08-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nemesis-theme-decks-2008-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111225621id_/https://magic.wizards.com/en/articles/archive/feature/nemesis-theme-decks-2008-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 22:56:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:title]:- "Nemesis Theme Decks"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 22:56:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111225621id_/https://magic.wizards.com/en/articles/archive/feature/nemesis-theme-decks-2008-08-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nemesis-theme-decks-2008-08-18"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026180018/https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-2011-trials-2011-07-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-2011-trials-2011-07-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026180018id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-2011-trials-2011-07-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 18:00:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Santiago Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers at least 1 three-round bye to Grand Prix Santiago. WPN Locations in the Santiago Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format Sealed Deck Limited with Booster Draft (or Sealed Deck) Top 8."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-07-19"
+[_metadata_:title]:- "Grand Prix Santiago 2011 Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 18:00:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026180018id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-2011-trials-2011-07-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-santiago-2011-trials-2011-07-19"
 ---
 
 

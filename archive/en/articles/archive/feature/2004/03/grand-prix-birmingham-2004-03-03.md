@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021092129/https://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-03-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-03-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021092129id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-03-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 09:21:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The following very special rates are available for early reservations HOLIDAY INN – BIRMINGHAM AIRPORT Coventry Rd, Birmingham B26 – 3QW Shuttle Bus to Airport/NEC Some Family Rooms Prices & availability Guaranteed at present BOOKING REFERENCE FOR SPECIAL RATES: Must Quote: TCC Single or Double Room/breakfast: £80-00 includes VAT/Service/Breakfast Some Family Rooms available"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-03-03"
+[_metadata_:title]:- "Grand Prix - Birmingham"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 09:21:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021092129id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-03-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-03-03"
 ---
 
 

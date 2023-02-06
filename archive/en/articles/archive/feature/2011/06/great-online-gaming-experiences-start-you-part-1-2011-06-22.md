@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520043139/https://magic.wizards.com/en/articles/archive/feature/great-online-gaming-experiences-start-you-part-1-2011-06-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-online-gaming-experiences-start-you-part-1-2011-06-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520043139id_/https://magic.wizards.com/en/articles/archive/feature/great-online-gaming-experiences-start-you-part-1-2011-06-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 04:31:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "At Wizards of the Coast, we know that great play experiences are an important part of having a strong Magic: The Gathering Online community. Our goal is to make sure Magic Online is a safe, friendly and fun environment for all of our players. That’s why over the next month, we’ll be running a series of articles with quick tips for protecting yourself and your account to ensure"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-06-22"
+[_metadata_:title]:- "Great Online Gaming Experiences Start With You! (Part 1)"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 04:31:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520043139id_/https://magic.wizards.com/en/articles/archive/feature/great-online-gaming-experiences-start-you-part-1-2011-06-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-online-gaming-experiences-start-you-part-1-2011-06-22"
 ---
 
 

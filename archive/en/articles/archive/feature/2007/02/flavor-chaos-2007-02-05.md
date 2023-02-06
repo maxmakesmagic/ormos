@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210122140736/https://magic.wizards.com/en/articles/archive/feature/flavor-chaos-2007-02-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flavor-chaos-2007-02-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122140736id_/https://magic.wizards.com/en/articles/archive/feature/flavor-chaos-2007-02-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-22 14:07:36+00:00"
+[_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "Tahngarth, Talruum Hero is a whiner. As a particularly strong, self-confident, and conceited member of the Talruum minotaur tribe, perhaps he is only acting as you’d expect."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-02-05"
+[_metadata_:title]:- "Flavor From the Chaos"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-22 14:07:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122140736id_/https://magic.wizards.com/en/articles/archive/feature/flavor-chaos-2007-02-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flavor-chaos-2007-02-05"
 ---
 
 

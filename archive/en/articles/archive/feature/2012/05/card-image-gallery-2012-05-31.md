@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170719222750/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-05-31)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-05-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170719222750id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-05-31"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-19 22:27:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to the Card Image Gallery for the Magic 2013 core set. Here you can see every Magic 2013 card. If you're looking for a specific card, use the Gatherer card search."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-31"
+[_metadata_:title]:- "Card Image Gallery"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-19 22:27:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170719222750id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-05-31"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-05-31"
 ---
 
 

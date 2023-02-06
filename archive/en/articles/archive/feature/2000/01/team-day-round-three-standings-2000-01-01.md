@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171031012710/https://magic.wizards.com/en/articles/archive/feature/team-day-round-three-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-day-round-three-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031012710id_/https://magic.wizards.com/en/articles/archive/feature/team-day-round-three-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 01:27:10+00:00"
 [_metadata_:description]:- "Rank Name Points Op-Match 1 United States 190 48.15% 2 Sweden 169 37.04% 3 Czech Republic 164 40.74% 4 Canada 161 44.44% 5 Netherlands"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Team Day: Round Three Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 01:27:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031012710id_/https://magic.wizards.com/en/articles/archive/feature/team-day-round-three-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-day-round-three-standings-2000-01-01"
 ---
 
 

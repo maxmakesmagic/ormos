@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518173025/https://magic.wizards.com/en/articles/archive/feature/2010-grand-prix-schedule-announced-2009-11-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-grand-prix-schedule-announced-2009-11-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518173025id_/https://magic.wizards.com/en/articles/archive/feature/2010-grand-prix-schedule-announced-2009-11-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:30:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Whether you're a Friday Night Magic regular or a big name on the Pro Tour, Grand Prix provide an opportunity to join the Magic community, earn big prizes, take home a cool foil card, and be a part of the biggest Magic festival in your area! The 2010 Grand Prix season features 18 stops across 12 different countries, highlighted by stops in Madrid, Kuala Lumpur, Sydney, Toronto,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-05"
+[_metadata_:title]:- "2010 Grand Prix Schedule Announced"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:30:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518173025id_/https://magic.wizards.com/en/articles/archive/feature/2010-grand-prix-schedule-announced-2009-11-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-grand-prix-schedule-announced-2009-11-05"
 ---
 
 

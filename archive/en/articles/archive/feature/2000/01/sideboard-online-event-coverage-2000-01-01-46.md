@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526111539/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-46)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-46"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526111539id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-46"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:15:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 4 Feature Match Marty Winnard vs Scott Lipp Winnard is playing Necro. His opponent Scott Lipp is playing one of many combo decks that showed up at this tournament. His almost mono-blue deck relies on Stroke of Genius and Yawgmoth's Will for card economy and Fireball for the kill. Lipp started off really well, casting Mox Diamond and a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Sideboard Online Event Coverage"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 11:15:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526111539id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-46"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-46"
 ---
 
 

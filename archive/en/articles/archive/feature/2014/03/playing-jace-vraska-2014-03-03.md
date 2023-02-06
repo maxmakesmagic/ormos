@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429152403/https://magic.wizards.com/en/articles/archive/feature/playing-jace-vraska-2014-03-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-jace-vraska-2014-03-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429152403id_/https://magic.wizards.com/en/articles/archive/feature/playing-jace-vraska-2014-03-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 15:24:03+00:00"
 [_metadata_:description]:- "Welcome to the feature article on the Jace vs. Vraska Duel Deck! Jace vs. Vraska is the second Duel Deck I worked on after doing some polish work on Heroes vs. Monsters. Duel Decks are one of the products that I have always enjoyed from Wizards of the Coast, and one I am honored to be involved in. I probably played a hundred plus games of Jace vs. Chandra, and was excited"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-03"
+[_metadata_:title]:- "Playing with Jace & Vraska"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 15:24:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429152403id_/https://magic.wizards.com/en/articles/archive/feature/playing-jace-vraska-2014-03-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-jace-vraska-2014-03-03"
 ---
 
 

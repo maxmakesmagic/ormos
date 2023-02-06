@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170628015006/http://magic.wizards.com/en/articles/archive/feature/imminent-doom-2017-06-27)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/imminent-doom-2017-06-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170628015006id_/http://magic.wizards.com/en/articles/archive/feature/imminent-doom-2017-06-27"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-28 01:50:06+00:00"
+[_metadata_:author]:- "Meghan Wolff"
 [_metadata_:description]:- "Meghan has an Hour of Devastation preview card that just won't stop escalating."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-06-27"
+[_metadata_:title]:- "Imminent Doom"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-28 01:50:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170628015006id_/http://magic.wizards.com/en/articles/archive/feature/imminent-doom-2017-06-27"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/imminent-doom-2017-06-27"
 ---
 
 

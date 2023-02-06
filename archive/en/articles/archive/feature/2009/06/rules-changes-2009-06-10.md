@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160326085753/http://magic.wizards.com/en/articles/archive/feature/rules-changes-2009-06-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rules-changes-2009-06-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160326085753id_/http://magic.wizards.com/en/articles/archive/feature/rules-changes-2009-06-10"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-26 08:57:53+00:00"
+[_metadata_:author]:- "Aaron Forsythe and Mark L. Gottlieb"
 [_metadata_:description]:- "For the complete detailed changes, read this more recent article!As we set out to create the forthcoming Magic 2010 core set—which is a completely new approach to the core set ideal, as announced earl"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-06-10"
+[_metadata_:title]:- "Rules Changes"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-26 08:57:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160326085753id_/http://magic.wizards.com/en/articles/archive/feature/rules-changes-2009-06-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rules-changes-2009-06-10"
 ---
 
 

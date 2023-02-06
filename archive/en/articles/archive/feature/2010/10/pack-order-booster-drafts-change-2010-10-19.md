@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201111235248/https://magic.wizards.com/en/articles/archive/feature/pack-order-booster-drafts-change-2010-10-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pack-order-booster-drafts-change-2010-10-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111235248id_/https://magic.wizards.com/en/articles/archive/feature/pack-order-booster-drafts-change-2010-10-19"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 23:52:48+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Beginning with Mirrodin Besieged, booster drafts will begin with the most recent set. This is a change from the current drafting order, which adds new sets to the end of the drafting order as they're released."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-10-19"
+[_metadata_:title]:- "Pack Order in Booster Drafts to Change"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 23:52:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111235248id_/https://magic.wizards.com/en/articles/archive/feature/pack-order-booster-drafts-change-2010-10-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pack-order-booster-drafts-change-2010-10-19"
 ---
 
 

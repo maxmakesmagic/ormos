@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170102200058/http://magic.wizards.com/en/articles/archive/feature/some-top-akroma-angel-wrath-decks-2006-06-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/some-top-akroma-angel-wrath-decks-2006-06-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170102200058id_/http://magic.wizards.com/en/articles/archive/feature/some-top-akroma-angel-wrath-decks-2006-06-15"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-02 20:00:58+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Welcome to Akroma Week from Swimming With Sharks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-06-15"
+[_metadata_:title]:- "Some Top Akroma, Angel of Wrath Decks"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-02 20:00:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170102200058id_/http://magic.wizards.com/en/articles/archive/feature/some-top-akroma-angel-wrath-decks-2006-06-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/some-top-akroma-angel-wrath-decks-2006-06-15"
 ---
 
 

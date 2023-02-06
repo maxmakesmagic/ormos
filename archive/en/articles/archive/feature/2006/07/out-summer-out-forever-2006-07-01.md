@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170719033956/http://magic.wizards.com/en/articles/archive/feature/out-summer-out-forever-2006-07-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/out-summer-out-forever-2006-07-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170719033956id_/http://magic.wizards.com/en/articles/archive/feature/out-summer-out-forever-2006-07-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-19 03:39:56+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "After almost two years - more than three and half when including Mr. Horvik's tutelage, Saturday School is closing its doors. Saturday won't be without its merits though; magicthegathering.com has a brand new series slated to pick up the weekend timeslot."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-07-01"
+[_metadata_:title]:- "Out For Summer, Out Forever"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-19 03:39:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170719033956id_/http://magic.wizards.com/en/articles/archive/feature/out-summer-out-forever-2006-07-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/out-summer-out-forever-2006-07-01"
 ---
 
 

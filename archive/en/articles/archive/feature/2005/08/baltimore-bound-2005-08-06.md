@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528033934/https://magic.wizards.com/en/articles/archive/feature/baltimore-bound-2005-08-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/baltimore-bound-2005-08-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528033934id_/https://magic.wizards.com/en/articles/archive/feature/baltimore-bound-2005-08-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:39:34+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. The Ninth Edition release weekend is behind us, and we have less than one week before US Nationals. Also at US Nationals is the Junior Super"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-08-06"
+[_metadata_:title]:- "Baltimore Bound"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:39:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528033934id_/https://magic.wizards.com/en/articles/archive/feature/baltimore-bound-2005-08-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/baltimore-bound-2005-08-06"
 ---
 
 

@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200923035257/https://magic.wizards.com/en/articles/archive/feature/honor-bound-part-1-2009-04-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/honor-bound-part-1-2009-04-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923035257id_/https://magic.wizards.com/en/articles/archive/feature/honor-bound-part-1-2009-04-23"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 03:52:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-23"
+[_metadata_:title]:- "Honor Bound, Part 1"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 03:52:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923035257id_/https://magic.wizards.com/en/articles/archive/feature/honor-bound-part-1-2009-04-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/honor-bound-part-1-2009-04-23"
 ---
 
 

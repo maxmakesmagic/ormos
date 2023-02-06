@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429030517/https://magic.wizards.com/en/articles/archive/feature/ninth-edition-theme-decks-2008-08-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ninth-edition-theme-decks-2008-08-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429030517id_/https://magic.wizards.com/en/articles/archive/feature/ninth-edition-theme-decks-2008-08-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:05:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Army of Justice Lofty Heights Dead Again World Aflame Custom Creatures (Back to Product Page) Army of Justice White magic is all about taking control of combat, and that's exactly what the `Army of Justice` deck lets you do. You can lock your opponent's biggest creatures out of the battle entirely, and then pick off the leftover smaller creatures that dare to fight you. Your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:title]:- "Ninth Edition Theme Decks"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:05:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429030517id_/https://magic.wizards.com/en/articles/archive/feature/ninth-edition-theme-decks-2008-08-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ninth-edition-theme-decks-2008-08-18"
 ---
 
 

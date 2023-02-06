@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502162028/https://magic.wizards.com/en/articles/archive/feature/gifts-ungiven-2009-09-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gifts-ungiven-2009-09-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502162028id_/https://magic.wizards.com/en/articles/archive/feature/gifts-ungiven-2009-09-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:20:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Gadiel Szleifer's Gifts Ungiven Format: Pro Tour–Philadelphia 9 Forest 1 Island 1 Okina, Temple to the Grandfathers 1 Plains 1 Shizo, Death's Storehouse 7 Swamp 4 Tendo Ice Bridge 1 Hana Kami 2 Ink-Eyes, Servant of Oni 2 Kokusho, the Evening Star 1 Meloku the Clouded Mirror 4 Sakura-Tribe Elder 2 Cranial Extraction 1 Ethereal Haze 4 Gifts Ungiven 3 Hideous"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-25"
+[_metadata_:title]:- "Gifts Ungiven"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:20:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502162028id_/https://magic.wizards.com/en/articles/archive/feature/gifts-ungiven-2009-09-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gifts-ungiven-2009-09-25"
 ---
 
 

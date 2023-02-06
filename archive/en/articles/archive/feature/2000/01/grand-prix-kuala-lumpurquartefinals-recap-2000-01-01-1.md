@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522091238/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01-1)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522091238id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01-1"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 09:12:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wei Ren Khoo vs. Tishen Tham This quarterfinal matched up two team-mates, but that doesn't mean they weren't prepared. Wei Ren Khoo brought an Enlightened WW deck with many Protection from Black creatures. Tishen Tham played a control Necropotence deck with Phyrexian Negators in it, probably for a faster kill against Necro-Donate. In his sideboard were Gloom, Spinning"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Kuala LumpurQuartefinals Recap"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 09:12:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522091238id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurquartefinals-recap-2000-01-01-1"
 ---
 
 

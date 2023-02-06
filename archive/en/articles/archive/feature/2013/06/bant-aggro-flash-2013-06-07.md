@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524092503/https://magic.wizards.com/en/articles/archive/feature/bant-aggro-flash-2013-06-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bant-aggro-flash-2013-06-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524092503id_/https://magic.wizards.com/en/articles/archive/feature/bant-aggro-flash-2013-06-07"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 09:25:03+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Gerry Thompson's really been helping me with my homework this week, and this is another sweet deck he directed my attention to (something he's always good for, really). This deck was piloted to a 4–0 finish by excellent deck builder Shouta Yasooka, yaya3 on Magic Online, so I assume he is at least largely responsible for the list, which takes Bant Flash in a much more"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-07"
+[_metadata_:title]:- "Bant Aggro Flash"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 09:25:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524092503id_/https://magic.wizards.com/en/articles/archive/feature/bant-aggro-flash-2013-06-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bant-aggro-flash-2013-06-07"
 ---
 
 

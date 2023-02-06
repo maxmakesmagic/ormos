@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210418072717/https://magic.wizards.com/en/articles/archive/feature/saturday-school-73-2004-04-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-73-2004-04-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418072717id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-73-2004-04-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 07:27:17+00:00"
+[_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at saturdayschool@horvik.com. He answers approximately 30 questions every week. Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. Darksteel Questions Q: Do the Pulses from Darksteel go to the graveyard before bouncing back to the player's hand or is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-04-10"
+[_metadata_:title]:- "Saturday School #73"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-18 07:27:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418072717id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-73-2004-04-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-73-2004-04-10"
 ---
 
 

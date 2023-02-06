@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024011927/https://magic.wizards.com/en/articles/archive/feature/ajani-goldmane-2008-07-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ajani-goldmane-2008-07-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024011927id_/https://magic.wizards.com/en/articles/archive/feature/ajani-goldmane-2008-07-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 01:19:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "1 | 2 | 3 Ajani Goldmane is a planeswalker who wields white magic. His specialty is magic of the purification of body and soul: spells that heal and strengthen his allies, and spells that evoke the inner, spiritual essence of others. Ajani Goldmane is torn between his leonin ferocity and his sense of justice. He was born as an outcast within his own family, an albino leonin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-25"
+[_metadata_:title]:- "Ajani Goldmane"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 01:19:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024011927id_/https://magic.wizards.com/en/articles/archive/feature/ajani-goldmane-2008-07-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ajani-goldmane-2008-07-25"
 ---
 
 

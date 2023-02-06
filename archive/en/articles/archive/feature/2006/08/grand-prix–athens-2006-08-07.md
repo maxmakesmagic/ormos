@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026194023/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93athens-2006-08-07)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93athens-2006-08-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026194023id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93athens-2006-08-07"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 19:40:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatSwiss Rounds: Sealed Deck, Top 8: Booster Draft Sealed Deck Product:1 Ravnica: City of Guilds Tournament Pack, 1 Guildpact boosters per player and 1 Dissension booster pack per player."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-08-07"
+[_metadata_:title]:- "Grand Prix–Athens"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 19:40:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026194023id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93athens-2006-08-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93athens-2006-08-07"
 ---
 
 

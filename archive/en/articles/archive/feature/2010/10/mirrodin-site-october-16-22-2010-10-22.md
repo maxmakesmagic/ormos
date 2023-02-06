@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117073953/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-16-22-2010-10-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-16-22-2010-10-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117073953id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-16-22-2010-10-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 07:39:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site. The reason we're doing this every week is that the Mirrodin Site has daily updates. That's right: every single day, at least one thing gets added to either the Mirrodin or Phyrexian side. Sure, sometimes they're short (for example, this Island update on the Phyrexian"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-10-22"
+[_metadata_:title]:- "On the Mirrodin Site: October 16-22"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 07:39:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117073953id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-16-22-2010-10-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-16-22-2010-10-22"
 ---
 
 

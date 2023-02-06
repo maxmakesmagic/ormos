@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200531083151/https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531083151id_/https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-31"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:31:51+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Hello! Coverage for the World Championship begins today! In case you missed it, here is our coverage schedule Arcana for both of the Worlds Week's tournaments. —Mike McArtor, copyeditor, DailyMTG.com"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-31"
+[_metadata_:title]:- "Worlds Week Schedule"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:31:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531083151id_/https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worlds-week-schedule-2013-07-31"
 ---
 
 

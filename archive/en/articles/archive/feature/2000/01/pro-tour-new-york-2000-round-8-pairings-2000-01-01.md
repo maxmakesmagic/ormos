@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124015209/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-8-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-8-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124015209id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-8-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 01:52:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Baker Justin (282) 16 8 Turning Travis G (293) 16 Blackwell Trevor (166) 14 23 Johansson Hans ( 78) 14 Bregoli Mike (214) 16 7 Eskeland Sigurd ( 10) 17 Brower Jeremy (224)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 8 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 01:52:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124015209id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-8-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-8-pairings-2000-01-01"
 ---
 
 

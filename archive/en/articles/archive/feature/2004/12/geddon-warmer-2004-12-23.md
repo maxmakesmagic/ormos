@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027094914/https://magic.wizards.com/en/articles/archive/feature/geddon-warmer-2004-12-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/geddon-warmer-2004-12-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027094914id_/https://magic.wizards.com/en/articles/archive/feature/geddon-warmer-2004-12-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:49:14+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "`Geddon Warmer` is probably my most popular column. It's also my meanest column. Could that be a coincidence? I continued to get mail on this one for months after it first appeared as people new to the website would stumble across it in the archives and their inner tormentor would be awakened. So it's perfect for the Christmas season! What could make you feel warmer and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-12-23"
+[_metadata_:title]:- "Geddon Warmer"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:49:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027094914id_/https://magic.wizards.com/en/articles/archive/feature/geddon-warmer-2004-12-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/geddon-warmer-2004-12-23"
 ---
 
 

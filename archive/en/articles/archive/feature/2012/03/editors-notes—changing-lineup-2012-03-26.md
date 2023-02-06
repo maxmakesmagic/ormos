@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201025144532/https://magic.wizards.com/en/articles/archive/feature/editors-notes%E2%80%94changing-lineup-2012-03-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/editors-notes%E2%80%94changing-lineup-2012-03-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025144532id_/https://magic.wizards.com/en/articles/archive/feature/editors-notes%E2%80%94changing-lineup-2012-03-26"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:45:32+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Change is inevitable. This week, you're going to begin seeing and hearing about some upcoming changes to DailyMTG.com. Normally, I'd let the writers spread the word themselves, but since we have a bit of a shuffle taking place, it seemed only fitting that I give you a rundown of what is happening."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-03-26"
+[_metadata_:title]:- "Editor's Notes—Changing the Lineup"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:45:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025144532id_/https://magic.wizards.com/en/articles/archive/feature/editors-notes%E2%80%94changing-lineup-2012-03-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/editors-notes%E2%80%94changing-lineup-2012-03-26"
 ---
 
 

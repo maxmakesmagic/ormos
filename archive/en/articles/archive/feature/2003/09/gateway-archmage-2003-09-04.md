@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025194132/https://magic.wizards.com/en/articles/archive/feature/gateway-archmage-2003-09-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gateway-archmage-2003-09-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025194132id_/https://magic.wizards.com/en/articles/archive/feature/gateway-archmage-2003-09-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 19:41:32+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Artifacts and enchantments are a lot alike. They both represent magical noncreature objects that just sit out on the board having some sort of effect. (Real specific, huh?) Artifacts just bridged much of the gap between the two card types with the introduction of Equipment in Mirrodin, a kind of local artifact. The only difference between Equipment cards and local enchantments"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-09-04"
+[_metadata_:title]:- "Gateway Archmage"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 19:41:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025194132id_/https://magic.wizards.com/en/articles/archive/feature/gateway-archmage-2003-09-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gateway-archmage-2003-09-04"
 ---
 
 

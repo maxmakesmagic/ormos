@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200326061528/https://magic.wizards.com/en/articles/archive/feature/its-time-magic-celebration-2012-09-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/its-time-magic-celebration-2012-09-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200326061528id_/https://magic.wizards.com/en/articles/archive/feature/its-time-magic-celebration-2012-09-06"
-[_metadata_:wayback_capture_timestamp]:- "2020-03-26 06:15:28+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Players new and old, around the world, will join together this weekend in an event that provides you with products and has no charge. Magic Celebration has become an annual event; this is the third year in a row to allow players to gather together and share in the joy of Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-06"
+[_metadata_:title]:- "It's Time For The Magic Celebration"
+[_metadata_:wayback_capture_timestamp]:- "2020-03-26 06:15:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200326061528id_/https://magic.wizards.com/en/articles/archive/feature/its-time-magic-celebration-2012-09-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/its-time-magic-celebration-2012-09-06"
 ---
 
 

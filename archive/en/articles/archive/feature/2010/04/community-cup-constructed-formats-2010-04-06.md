@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528170834/https://magic.wizards.com/en/articles/archive/feature/community-cup-constructed-formats-2010-04-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-cup-constructed-formats-2010-04-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528170834id_/https://magic.wizards.com/en/articles/archive/feature/community-cup-constructed-formats-2010-04-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 17:08:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As we work toward finalizing the Community Cup details, we wanted to announce the constructed formats as early as possible so you, the community at-large, could get your creative juices flowing. So without further ado, here they are: Commander – Unified Constructed* Standard – Unified Constructed***For the Commander – Unified Constructed tournament, each team must create eight"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-04-06"
+[_metadata_:title]:- "Community Cup Constructed Formats"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 17:08:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528170834id_/https://magic.wizards.com/en/articles/archive/feature/community-cup-constructed-formats-2010-04-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-cup-constructed-formats-2010-04-06"
 ---
 
 

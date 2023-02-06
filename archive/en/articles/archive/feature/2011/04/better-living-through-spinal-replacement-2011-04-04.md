@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200921133729/https://magic.wizards.com/en/articles/archive/feature/better-living-through-spinal-replacement-2011-04-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/better-living-through-spinal-replacement-2011-04-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921133729id_/https://magic.wizards.com/en/articles/archive/feature/better-living-through-spinal-replacement-2011-04-04"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-21 13:37:29+00:00"
+[_metadata_:author]:- "Mike Mikaelian"
 [_metadata_:description]:- "Before MagicTheGathering.com, there was ... TopDeck? No, not Mike Flores's Thursday column, Top Decks, but TopDeck Magazine, the successor magazine of the long-running Duelist."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-04-04"
+[_metadata_:title]:- "Better Living Through Spinal Replacement"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-21 13:37:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921133729id_/https://magic.wizards.com/en/articles/archive/feature/better-living-through-spinal-replacement-2011-04-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/better-living-through-spinal-replacement-2011-04-04"
 ---
 
 

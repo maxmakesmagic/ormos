@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023133052/https://magic.wizards.com/en/articles/archive/feature/heroic-red-2014-01-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/heroic-red-2014-01-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023133052id_/https://magic.wizards.com/en/articles/archive/feature/heroic-red-2014-01-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 13:30:52+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "As we celebrate the holidays, we're bringing you some of our favorite decks from throughout the year. Enjoy these fun flashbacks into last year’s favorites. Wizards of the Coast Staff I've lost to Dragon Mantle before, but not usually in Standard. When I played against Tom `The Boss` Ross on Magic Online, Dragon Mantle and Titan's Strength were cast, and I did in fact lose to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-01-02"
+[_metadata_:title]:- "Heroic Red"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 13:30:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023133052id_/https://magic.wizards.com/en/articles/archive/feature/heroic-red-2014-01-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/heroic-red-2014-01-02"
 ---
 
 

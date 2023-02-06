@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170402190535/http://magic.wizards.com/en/articles/archive/feature/gunslinger-matt-place-2009-10-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gunslinger-matt-place-2009-10-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170402190535id_/http://magic.wizards.com/en/articles/archive/feature/gunslinger-matt-place-2009-10-07"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-02 19:05:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "When a new set comes out, R&amp;D will often bring decks to events to show off the potential of the new cards. These aren't our best FFL decks per se, but instead a glimpse into what the set has to offer. Often these decks are intentionally un-streamlined, both to keep opponents guessing and to make the deck more fun to play for 10 straight hours!Matt Place was gunslinging at the Los Angeles, CA Prerelease:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-10-07"
+[_metadata_:title]:- "Gunslinger: Matt Place"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-02 19:05:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170402190535id_/http://magic.wizards.com/en/articles/archive/feature/gunslinger-matt-place-2009-10-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gunslinger-matt-place-2009-10-07"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119084130/https://magic.wizards.com/en/articles/archive/feature/turbo-sanity-grinding-2009-04-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/turbo-sanity-grinding-2009-04-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119084130id_/https://magic.wizards.com/en/articles/archive/feature/turbo-sanity-grinding-2009-04-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 08:41:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Bill Stark's Turbo Sanity Grinding Format: Standard 17 Island 3 Reliquary Tower 4 Shelldock Isle 4 Plumeveil 4 Howling Mine 4 Jace Beleren 4 Boomerang 4 Cryptic Command 4 Evacuation 4 Broken Ambitions 4 Sanity Grinding 4 Twincast *4 Remove Soul *4 Negate *4 Unsummon *3 Glen Elendra Archmage [/decklist] One of the surprise hits in Standard these days are decks"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-24"
+[_metadata_:title]:- "Turbo Sanity Grinding"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 08:41:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119084130id_/https://magic.wizards.com/en/articles/archive/feature/turbo-sanity-grinding-2009-04-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/turbo-sanity-grinding-2009-04-24"
 ---
 
 

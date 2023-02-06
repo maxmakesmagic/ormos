@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026075658/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-brazil-national-championship-invitation-list-2004-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-brazil-national-championship-invitation-list-2004-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026075658id_/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-brazil-national-championship-invitation-list-2004-05"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 07:56:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvite SourceCity AllisonAbeRatingMaringa - PR HugoAleixo MaurityNational QualifierRio de Janeiro RafaelAlvarengaRatingRio de Janeiro FernandoAlvesNational QualifierSão Paulo Burt LancasterAlves JuniorNational QualifierGoiania Igor RenatoAndrade SouzaNational QualifierAracaju João PauloAraujoRatingAtibaia-SP FelipeArchangeloNational QualifierSão Paulo HelioAugusto"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-05-25"
+[_metadata_:title]:- "2008 Magic: The Gathering Brazil National Championship Invitation List"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 07:56:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026075658id_/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-brazil-national-championship-invitation-list-2004-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-brazil-national-championship-invitation-list-2004-05"
 ---
 
 

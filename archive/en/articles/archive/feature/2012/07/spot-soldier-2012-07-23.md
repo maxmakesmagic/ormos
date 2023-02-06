@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200531090021/https://magic.wizards.com/en/articles/archive/feature/spot-soldier-2012-07-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/spot-soldier-2012-07-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531090021id_/https://magic.wizards.com/en/articles/archive/feature/spot-soldier-2012-07-23"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 09:00:21+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "It's Exalted Week! And you know what creature type sometimes has exalted in Magic 2013? Soldiers! How many of the following Soldiers from Magic 2013 and the history of Magic can you identify from their art? Click each piece of art to see what card it's from!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-23"
+[_metadata_:title]:- "Spot the Soldier"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 09:00:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531090021id_/https://magic.wizards.com/en/articles/archive/feature/spot-soldier-2012-07-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/spot-soldier-2012-07-23"
 ---
 
 

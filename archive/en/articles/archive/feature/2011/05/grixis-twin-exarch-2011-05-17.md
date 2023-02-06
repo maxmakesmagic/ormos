@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026032319/https://magic.wizards.com/en/articles/archive/feature/grixis-twin-exarch-2011-05-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grixis-twin-exarch-2011-05-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026032319id_/https://magic.wizards.com/en/articles/archive/feature/grixis-twin-exarch-2011-05-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 03:23:19+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Michael Strunk's Grixis Twin Exarch Format: Standard – StarCityGames.com Open in Orlando, FL 4 Island 2 Mountain 4 Blackcleave Cliffs 4 Creeping Tar Pit 4 Darkslick Shores 2 Halimar Depths 4 Scalding Tarn 3 Spellskite 1 Consecrated Sphinx 4 Deceiver Exarch 4 Splinter Twin 2 Dismember 2 Go for the Throat 2 Into the Roil 4 Mana Leak 3 Jace, the Mind Sculptor 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-05-17"
+[_metadata_:title]:- "Grixis Twin Exarch"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 03:23:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026032319id_/https://magic.wizards.com/en/articles/archive/feature/grixis-twin-exarch-2011-05-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grixis-twin-exarch-2011-05-17"
 ---
 
 

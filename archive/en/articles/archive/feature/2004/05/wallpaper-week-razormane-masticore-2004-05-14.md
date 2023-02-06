@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220625205557/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-razormane-masticore-2004-05-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-razormane-masticore-2004-05-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625205557id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-razormane-masticore-2004-05-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 20:55:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Jim Murray's Razormane Masticore from the upcoming Fifth Dawn set. Enjoy! this needs to be commented in after 5DN prerelease 1280x960 pixels 1024x768 pixels 800x600 pixels"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-05-14"
+[_metadata_:title]:- "Wallpaper of the Week: Razormane Masticore"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 20:55:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625205557id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-razormane-masticore-2004-05-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-razormane-masticore-2004-05-14"
 ---
 
 

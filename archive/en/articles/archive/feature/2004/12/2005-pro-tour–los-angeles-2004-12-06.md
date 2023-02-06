@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160909081530/http://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93los-angeles-2004-12-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93los-angeles-2004-12-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160909081530id_/http://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93los-angeles-2004-12-06"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-09 08:15:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; &#13; PREVIEWING LOS ANGELES&#13; &#13; Brian David-Marshall breaks down the field, looks at the top players and potential top deck archetypes for Pro Tour-Los Angeles, where Extended undergoes a massive facelift!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-12-06"
+[_metadata_:title]:- "2005 Pro Tour–Los Angeles"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-09 08:15:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160909081530id_/http://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93los-angeles-2004-12-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93los-angeles-2004-12-06"
 ---
 
 

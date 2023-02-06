@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170419184232/http://magic.wizards.com/en/articles/archive/feature/five-worlds-2008-09-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/five-worlds-2008-09-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170419184232id_/http://magic.wizards.com/en/articles/archive/feature/five-worlds-2008-09-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-19 18:42:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Coming September 3rd!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-01"
+[_metadata_:title]:- "Five Worlds"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-19 18:42:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170419184232id_/http://magic.wizards.com/en/articles/archive/feature/five-worlds-2008-09-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/five-worlds-2008-09-01"
 ---
 
 

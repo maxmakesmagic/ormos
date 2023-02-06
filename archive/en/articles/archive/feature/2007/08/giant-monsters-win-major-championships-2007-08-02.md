@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129022923/https://magic.wizards.com/en/articles/archive/feature/giant-monsters-win-major-championships-2007-08-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/giant-monsters-win-major-championships-2007-08-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129022923id_/https://magic.wizards.com/en/articles/archive/feature/giant-monsters-win-major-championships-2007-08-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 02:29:23+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "The Onslaught doesn't begin this week, but after seeing the finishes from both United States and Great Britain National Championships (and the Magic Scholarship Series!), my only impulse is to quote the Bard, (`the Bard` being onetime Grand Prix coverage prodigy Josh Bennett) and say that Giant Idiots Ruin Games.The most appropriate fit is of course the deck played by US"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-08-02"
+[_metadata_:title]:- "Giant Monsters Win Major Championships"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 02:29:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129022923id_/https://magic.wizards.com/en/articles/archive/feature/giant-monsters-win-major-championships-2007-08-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/giant-monsters-win-major-championships-2007-08-02"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429162933/https://magic.wizards.com/en/articles/archive/feature/vault-dragons-2008-08-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-dragons-2008-08-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429162933id_/https://magic.wizards.com/en/articles/archive/feature/vault-dragons-2008-08-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 16:29:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights Available in English world-wide August 29th and on Magic Online in September 2008. Includes 15 black-bordered premium foil dragon cards, each printed with a distinctive finish. 6 dragon cards feature new artwork. Features some of the most popular dragon cards from Magic’s 15-year history. Cards appearing in From the Vault: Dragons are legal in formats in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-11"
+[_metadata_:title]:- "From the Vault: Dragons"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 16:29:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429162933id_/https://magic.wizards.com/en/articles/archive/feature/vault-dragons-2008-08-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-dragons-2008-08-11"
 ---
 
 

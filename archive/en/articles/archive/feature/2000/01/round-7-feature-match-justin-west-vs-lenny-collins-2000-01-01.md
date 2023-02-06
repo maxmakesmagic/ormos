@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521214348/https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-justin-west-vs-lenny-collins-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-justin-west-vs-lenny-collins-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521214348id_/https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-justin-west-vs-lenny-collins-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 21:43:48+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Luke Hancock Justin West, ever noticeable in his Essendon Bombers beanie and Lenny Collins, a Pro Tour participant in PT:Chicago were chosen as the first separate feature match in the Standard portion of the tournament. Justin had decided to play a blue Pirates deck and Lenny had chosen Mike Long's Accelerated Blue deck from the US Nationals the day before. Both players"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 7 Feature Match - Justin West vs. Lenny Collins"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 21:43:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521214348id_/https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-justin-west-vs-lenny-collins-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-justin-west-vs-lenny-collins-2000-01-01"
 ---
 
 

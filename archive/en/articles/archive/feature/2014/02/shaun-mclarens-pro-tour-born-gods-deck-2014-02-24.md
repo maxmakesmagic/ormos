@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210614174948/https://magic.wizards.com/en/articles/archive/feature/shaun-mclarens-pro-tour-born-gods-deck-2014-02-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shaun-mclarens-pro-tour-born-gods-deck-2014-02-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210614174948id_/https://magic.wizards.com/en/articles/archive/feature/shaun-mclarens-pro-tour-born-gods-deck-2014-02-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-14 17:49:48+00:00"
+[_metadata_:author]:- "Event Coverage Staff"
 [_metadata_:description]:- "Congratulations to Shaun McLaren, Pro Tour Born of the Gods Champion! His W/U/R Control deck took down Jacob Wilson and his Pod deck in the finals of the tournament. You might know Shaun better by his Magic Online username: ArsenalMunch."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-02-24"
+[_metadata_:title]:- "Shaun McLaren's Pro Tour Born of the Gods Deck"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-14 17:49:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210614174948id_/https://magic.wizards.com/en/articles/archive/feature/shaun-mclarens-pro-tour-born-gods-deck-2014-02-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shaun-mclarens-pro-tour-born-gods-deck-2014-02-24"
 ---
 
 

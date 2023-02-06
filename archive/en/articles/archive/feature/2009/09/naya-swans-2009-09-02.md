@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220116113755/https://magic.wizards.com/en/articles/archive/feature/naya-swans-2009-09-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/naya-swans-2009-09-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116113755id_/https://magic.wizards.com/en/articles/archive/feature/naya-swans-2009-09-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:37:55+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Adrien Peudecoeur's Naya Swans Format: Standard 4 Jungle Shrine 5 Mountain 4 Mutavault 4 Plains 3 Reflecting Pool 4 Rugged Prairie 4 Baneslayer Angel 1 Magma Phoenix 4 Swans of Bryn Argoll 4 Ajani Vengeant 2 Banefire 4 Flame Javelin 3 Hallowed Burial 4 Intimidation Bolt 4 Lightning Bolt 3 Path to Exile 3 Volcanic Fallout *1 Banefire *2 Elspeth, Knight-Errant"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-02"
+[_metadata_:title]:- "Naya Swans"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:37:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116113755id_/https://magic.wizards.com/en/articles/archive/feature/naya-swans-2009-09-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/naya-swans-2009-09-02"
 ---
 
 

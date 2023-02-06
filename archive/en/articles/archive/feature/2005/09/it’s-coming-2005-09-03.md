@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520071133/https://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-coming-2005-09-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-coming-2005-09-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520071133id_/https://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-coming-2005-09-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 07:11:33+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Little glimpses of the city world known as Ravnica have been seen. And soon we'll be having full force previews right here on magicthegathering.com."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-09-03"
+[_metadata_:title]:- "It’s Coming"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 07:11:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520071133id_/https://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-coming-2005-09-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-coming-2005-09-03"
 ---
 
 

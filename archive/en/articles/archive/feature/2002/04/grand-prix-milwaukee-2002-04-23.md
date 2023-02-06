@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030173734/https://magic.wizards.com/en/articles/archive/feature/grand-prix-milwaukee-2002-04-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-milwaukee-2002-04-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030173734id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-milwaukee-2002-04-23"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 17:37:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.TOURNAMENT FORMAT AND SCHEDULE The format for Grand Prix-Milwaukee is Standard. All DCI Standard-format rules, Magic Floor Rules, and all subsequent updates will be enforced."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-04-23"
+[_metadata_:title]:- "Grand Prix - Milwaukee"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 17:37:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030173734id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-milwaukee-2002-04-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-milwaukee-2002-04-23"
 ---
 
 

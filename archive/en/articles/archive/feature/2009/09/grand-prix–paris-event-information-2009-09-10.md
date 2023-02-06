@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210125020811/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93paris-event-information-2009-09-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93paris-event-information-2009-09-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125020811id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93paris-event-information-2009-09-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-25 02:08:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Travel Information  Contact Information  Date: November 7-8, 2009 Format: Sealed Deck/Booster Draft"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-10"
+[_metadata_:title]:- "Grand Prix–Paris Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-25 02:08:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125020811id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93paris-event-information-2009-09-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93paris-event-information-2009-09-10"
 ---
 
 

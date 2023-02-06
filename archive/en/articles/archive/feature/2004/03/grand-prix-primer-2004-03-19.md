@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027214455/https://magic.wizards.com/en/articles/archive/feature/grand-prix-primer-2004-03-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-primer-2004-03-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027214455id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-primer-2004-03-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 21:44:55+00:00"
+[_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "Two major Magic events are looming on the immediate horizon. On the weekend of March 26th & 27th there will be Grand Prix tournaments in both Birmingham, England and Columbus, Ohio in the USA. The tournaments will each be Limited format using Mirrodin/Darksteel Sealed Deck cutting to Mirrodin/Darksteel booster draft."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-03-19"
+[_metadata_:title]:- "Grand Prix Primer"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 21:44:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027214455id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-primer-2004-03-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-primer-2004-03-19"
 ---
 
 

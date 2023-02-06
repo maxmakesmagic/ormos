@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524061546/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-5-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-5-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524061546id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-5-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 06:15:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Wong, Samson Siew Pui 15 80.0000 90.9091 73.8636 2/2/0/3 2 Aw-Yeong, Weng Kong 15 80.0000 83.3333 72.1154 2/2/0/3 3 Hew, Jun-Wei 15 73.3333 90.9091 62.1795 3/3/0/2 4 Tan, Poy Kok 15 70.0000 100.0000 67.2727 2/2/0/3 5 Nobushita, Jun 15 69.3333 76.9231 65.6410 5/5/0/0 6 Hwang, Chi-Chun 15 68.8889 100.0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Kuala LumpurRound 5 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 06:15:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524061546id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-5-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-5-standings-2000-01-01"
 ---
 
 

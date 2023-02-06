@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220807165806/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-byes-2004-08-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-byes-2004-08-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807165806id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-byes-2004-08-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-07 16:58:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "グランプリ横浜バイリスト Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3195028 2185014 117507 Rating used: Limited, August 18, 2004 Pro Point Standings Used: 2004 Pro Tour Seattle StandingTo find the number of byes you have for Grand Prix-Yokohama, go to the appropriate list below (sorted by last name): A-G H-N O-Z For questions about this page, please"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-24"
+[_metadata_:title]:- "Grand Prix Yokohama Byes"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-07 16:58:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807165806id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-byes-2004-08-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-byes-2004-08-24"
 ---
 
 

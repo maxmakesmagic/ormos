@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160707075049/http://magic.wizards.com/en/articles/archive/feature/top-50-blue-cards-2003-08-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/top-50-blue-cards-2003-08-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707075049id_/http://magic.wizards.com/en/articles/archive/feature/top-50-blue-cards-2003-08-15"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 07:50:49+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "What would Blue Week be without a Top 50 list from everyone's favorite MTG.com columnist and StarCityGames employee Ben Bleiweiss? My, it was awfully pretentious of me to not only refer to myself in first person, but to rank my writing talent ahead of the six weekly writers on this site. Then again, it was awfully pretentious of you to play blue, the color of rah-sha-sha and utter aristocratdom."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-08-15"
+[_metadata_:title]:- "The Top 50 Blue Cards"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 07:50:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707075049id_/http://magic.wizards.com/en/articles/archive/feature/top-50-blue-cards-2003-08-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/top-50-blue-cards-2003-08-15"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124045125/https://magic.wizards.com/en/articles/archive/feature/round-2-results-table-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-results-table-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124045125id_/https://magic.wizards.com/en/articles/archive/feature/round-2-results-table-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:51:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Result   Opponent Empty G's 120 vs. Sped Six Degrees of Kevin Bacon 210 vs. Never Was Egghead Games Inc. 210 vs. Black Dog Team Sports Bench 010 vs. 5280"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 2 Results (by Table)"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:51:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124045125id_/https://magic.wizards.com/en/articles/archive/feature/round-2-results-table-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-results-table-2000-01-01"
 ---
 
 

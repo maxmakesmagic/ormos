@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120182539/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120182539id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:25:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Alvarez Omar ( 42) 3 94 Suzuki Kazuho (197) 3 Amendolia Aaron (254) 3 125 Miller Patrick (143) 3 Angeli Alessio (210) 4 82 Konstanczer Andre ( 62) 4 Asquini Alessandro (220) 1 137 Manataras Pablo ( 67) 1 Assen Johan (238) 5 71 Rider Justin (107) 4 Au Yong Wai Kin ( 25) 6 43 Wescoe Craig (260) 6 Ayala Hermes (115) 6 25 Law Albertus ( 94) 6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 4 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:25:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120182539id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-pairings-2000-01-01"
 ---
 
 

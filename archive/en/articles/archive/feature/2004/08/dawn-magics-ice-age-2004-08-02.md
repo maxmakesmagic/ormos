@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170309075943/http://magic.wizards.com/en/articles/archive/feature/dawn-magics-ice-age-2004-08-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dawn-magics-ice-age-2004-08-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309075943id_/http://magic.wizards.com/en/articles/archive/feature/dawn-magics-ice-age-2004-08-02"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 07:59:43+00:00"
+[_metadata_:author]:- "Skaff Elias"
 [_metadata_:description]:- "This is the story of Magic's first expansion - Ice Age. Don't buy into the common misconception that Arabian Nights was Magic's first expansion merely because of its debut date! Ice Age was old before Arabian Nights was even conceived."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-02"
+[_metadata_:title]:- "The Dawn of Magic's Ice Age"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 07:59:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309075943id_/http://magic.wizards.com/en/articles/archive/feature/dawn-magics-ice-age-2004-08-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dawn-magics-ice-age-2004-08-02"
 ---
 
 

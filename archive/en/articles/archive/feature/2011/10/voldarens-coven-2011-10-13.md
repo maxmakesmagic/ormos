@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024015658/https://magic.wizards.com/en/articles/archive/feature/voldarens-coven-2011-10-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/voldarens-coven-2011-10-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024015658id_/https://magic.wizards.com/en/articles/archive/feature/voldarens-coven-2011-10-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 01:56:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Cassidy Silver unveiled this look at Olivia Voldaren for Commander in an article on TCGPlayer.com.[decklist] Title: Cassidy Silver's `Voldaren's Coven` Format: Commander 1 Blood Crypt 1 Bojuka Bog 1 Cabal Coffers 1 Command Tower 1 Deserted Temple 1 Dragonskull Summit 1 Evolving Wilds 1 Ghost Quarter 1 Graven Cairns 1 Lavaclaw Reaches 1 Molten Slagheap 8 Mountain 1 Phyrexian"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-10-13"
+[_metadata_:title]:- "Voldaren's Coven"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 01:56:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024015658id_/https://magic.wizards.com/en/articles/archive/feature/voldarens-coven-2011-10-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/voldarens-coven-2011-10-13"
 ---
 
 

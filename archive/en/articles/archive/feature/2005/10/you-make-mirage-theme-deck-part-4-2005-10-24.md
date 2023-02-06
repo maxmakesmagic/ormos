@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220808134203/https://magic.wizards.com/en/articles/archive/feature/you-make-mirage-theme-deck-part-4-2005-10-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-mirage-theme-deck-part-4-2005-10-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808134203id_/https://magic.wizards.com/en/articles/archive/feature/you-make-mirage-theme-deck-part-4-2005-10-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 13:42:03+00:00"
+[_metadata_:author]:- "Frank Gilson"
 [_metadata_:description]:- "Thank you all for your rare card votes! Our winners are Subterranean Spirit and Mist Dragon."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-10-24"
+[_metadata_:title]:- "You Make the Mirage Theme Deck - Part 4"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 13:42:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808134203id_/https://magic.wizards.com/en/articles/archive/feature/you-make-mirage-theme-deck-part-4-2005-10-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-mirage-theme-deck-part-4-2005-10-24"
 ---
 
 

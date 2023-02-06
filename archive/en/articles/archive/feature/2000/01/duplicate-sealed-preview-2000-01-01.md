@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029134327/https://magic.wizards.com/en/articles/archive/feature/duplicate-sealed-preview-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duplicate-sealed-preview-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029134327id_/https://magic.wizards.com/en/articles/archive/feature/duplicate-sealed-preview-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 13:43:27+00:00"
+[_metadata_:author]:- "Randy Buehler"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Duplicate Sealed Preview"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 13:43:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029134327id_/https://magic.wizards.com/en/articles/archive/feature/duplicate-sealed-preview-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duplicate-sealed-preview-2000-01-01"
 ---
 
 

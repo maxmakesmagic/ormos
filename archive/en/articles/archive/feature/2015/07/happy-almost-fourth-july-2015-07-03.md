@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150707095023/http://magic.wizards.com/en/articles/archive/feature/happy-almost-fourth-july-2015-07-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/happy-almost-fourth-july-2015-07-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150707095023id_/http://magic.wizards.com/en/articles/archive/feature/happy-almost-fourth-july-2015-07-03"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-07 09:50:23+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "To celebrate tomorrow's holiday, Blake presents a few treats from the team."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-07-03"
+[_metadata_:title]:- "Happy (Almost) Fourth of July!"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-07 09:50:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150707095023id_/http://magic.wizards.com/en/articles/archive/feature/happy-almost-fourth-july-2015-07-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/happy-almost-fourth-july-2015-07-03"
 ---
 
 

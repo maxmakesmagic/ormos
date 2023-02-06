@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210125000053/https://magic.wizards.com/en/articles/archive/feature/chaining-through-legacy-2014-03-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/chaining-through-legacy-2014-03-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125000053id_/https://magic.wizards.com/en/articles/archive/feature/chaining-through-legacy-2014-03-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-25 00:00:53+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Legacy is a great format with a breadth of options, depending on what you're trying to do. If you're looking to play a combo deck, there are seemingly endless options, ranging from the suicidal `Oops! All Spells` to something a little more resilient, like today's deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-20"
+[_metadata_:title]:- "Chaining Through Legacy"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-25 00:00:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125000053id_/https://magic.wizards.com/en/articles/archive/feature/chaining-through-legacy-2014-03-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/chaining-through-legacy-2014-03-20"
 ---
 
 

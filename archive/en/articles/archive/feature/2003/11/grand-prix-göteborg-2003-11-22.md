@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171031033434/https://magic.wizards.com/en/articles/archive/feature/grand-prix-g%C3%B6teborg-2003-11-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-g%C3%B6teborg-2003-11-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031033434id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-g%C3%B6teborg-2003-11-22"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 03:34:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour™ events.PRE-REGISTRATIONS You can now pre-register online for this exciting event! Note that pre-registration closes 7 days before the event. Sweden : Tel: +46-317.42.99.41"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-11-22"
+[_metadata_:title]:- "Grand Prix - Göteborg"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 03:34:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031033434id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-g%C3%B6teborg-2003-11-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-g%C3%B6teborg-2003-11-22"
 ---
 
 

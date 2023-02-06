@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211022202644/https://magic.wizards.com/en/articles/archive/feature/have-we-been-betrayed-drafting-aggression-betrayers-kamigawa-2005-03-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/have-we-been-betrayed-drafting-aggression-betrayers-kamigawa-2005-03-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022202644id_/https://magic.wizards.com/en/articles/archive/feature/have-we-been-betrayed-drafting-aggression-betrayers-kamigawa-2005-03-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 20:26:44+00:00"
+[_metadata_:author]:- "Matthew Vienneau"
 [_metadata_:description]:- "Aggression Back in December I wrote a fairly lengthy article demonstrating how aggression and tempo dominated the Champions of Kamigawa draft environment. The lack of effective removal and quality defensive creatures mixed with numerous finishers and efficient early attackers made for fast starts and even faster finishes if either player wasn't properly prepared. Having"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-03-14"
+[_metadata_:title]:- "Have We Been Betrayed? Drafting Aggression in Betrayers of Kamigawa"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 20:26:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022202644id_/https://magic.wizards.com/en/articles/archive/feature/have-we-been-betrayed-drafting-aggression-betrayers-kamigawa-2005-03-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/have-we-been-betrayed-drafting-aggression-betrayers-kamigawa-2005-03-14"
 ---
 
 

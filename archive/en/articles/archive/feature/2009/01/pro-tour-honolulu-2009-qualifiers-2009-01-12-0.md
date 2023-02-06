@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220125074125/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-12-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-12-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125074125id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-12-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 07:41:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Australia and New ZealandJanuary-April 2009 Please note – Dates and venues may occasionally be subject to change. Please contact the Tournament Organizer to confirm."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-01-12"
+[_metadata_:title]:- "Pro Tour Honolulu 2009 - Qualifiers"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 07:41:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125074125id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-12-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-12-0"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521025950/https://magic.wizards.com/en/articles/archive/feature/los-limited-lynchpin-2009-02-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/los-limited-lynchpin-2009-02-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521025950id_/https://magic.wizards.com/en/articles/archive/feature/los-limited-lynchpin-2009-02-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 02:59:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Dominic Lo's Draft Format: Grand Prix-Auckland 5 Forest 6 Island 1 Jungle Shrine 5 Plains 1 Akrasan Squire 1 Cloudheath Drake 1 Dawnray Archer 1 Elvish Visionary 2 Guardians of Akrasa 1 Jhessian Infiltrator 1 Kathari Screecher 1 Knight of the Skyward Eye 1 Naya Battlemage 1 Rhox Charger 1 Rhox War Monk 2 Steward of Valeron 1 Waveskimmer Aven 1 Bant Charm 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-16"
+[_metadata_:title]:- "Lo's Limited Lynchpin"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 02:59:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521025950id_/https://magic.wizards.com/en/articles/archive/feature/los-limited-lynchpin-2009-02-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/los-limited-lynchpin-2009-02-16"
 ---
 
 

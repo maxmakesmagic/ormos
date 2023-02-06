@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160519004444/http://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-lets-start-very-beginning-2010-11-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-lets-start-very-beginning-2010-11-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160519004444id_/http://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-lets-start-very-beginning-2010-11-10"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-19 00:44:44+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Design Challenge #1 – `Common Ground`For your design test, you created a world. For all of the Design Challenges you are going to work within that world. Everything you've done so far has just been a warm-up to get a feeling for your world. Starting with this challenge you are going to build the world from the ground up. Please think of anything you've done prior to this as experimental homework. Other than the basic premise of your world you are under no obligation to do anything you've suggested so far."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-11-10"
+[_metadata_:title]:- "GDS2, Episode 1: `Let's Start at the Very Beginning`"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-19 00:44:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160519004444id_/http://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-lets-start-very-beginning-2010-11-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-lets-start-very-beginning-2010-11-10"
 ---
 
 

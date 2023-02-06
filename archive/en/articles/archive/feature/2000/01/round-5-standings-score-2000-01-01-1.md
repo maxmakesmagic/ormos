@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220629173134/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-score-2000-01-01-1)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-standings-score-2000-01-01-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629173134id_/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-score-2000-01-01-1"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 17:31:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 www.alphabetaunlimited.com 15 80.00% 2 Team 25:17 15 68.00% 3 Yanitetsu 15 66.66% 4 Potato Peach 15 60.00% 5 Susiyan 15 58.66% 6 NISIKI 15 58.66% 7 Scrambled Steak 15 57.33% 8 Regneva 13 68.00% 9 DERAPIN 13 65.33% 10 DEFENCER Minor 13 54.66% 11 Team Apprentice 13 54.66% 12 ATOK 13 52.00% 13 Team PPB 13 52.00% 14 Dekiru-Kana?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 5 Standings (by Score)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 17:31:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629173134id_/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-score-2000-01-01-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-standings-score-2000-01-01-1"
 ---
 
 

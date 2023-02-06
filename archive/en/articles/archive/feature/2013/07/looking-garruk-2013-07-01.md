@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429130338/https://magic.wizards.com/en/articles/archive/feature/looking-garruk-2013-07-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/looking-garruk-2013-07-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429130338id_/https://magic.wizards.com/en/articles/archive/feature/looking-garruk-2013-07-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 13:03:38+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Garruk was first introduced to us in Lorwyn, along with the other four original Planeswalker cards. Since that time, we've followed him across several planes and adventures, including a double-faced iteration from Innistrad. As revealed last week, he's in Magic 2014—Core Set in his latest iteration: Garruk, Caller of Beasts. For this version, we reached out to Karl Kopinski"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-01"
+[_metadata_:title]:- "Looking at Garruk"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 13:03:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429130338id_/https://magic.wizards.com/en/articles/archive/feature/looking-garruk-2013-07-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/looking-garruk-2013-07-01"
 ---
 
 

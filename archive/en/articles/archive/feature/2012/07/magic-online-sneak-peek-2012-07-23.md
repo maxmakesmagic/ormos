@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119162424/https://magic.wizards.com/en/articles/archive/feature/magic-online-sneak-peek-2012-07-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-sneak-peek-2012-07-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119162424id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-sneak-peek-2012-07-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 16:24:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As we announced recently, the new Magic Online is in its limited time Sneak Peek! You can download the new game client until July 25, 2012, and check it out. What’s your favorite new feature? What can be improved? What other features do you still want? All of your feedback is important, so after playing on the new version, please share your thoughts using this brief survey and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-23"
+[_metadata_:title]:- "Magic Online Sneak Peek"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 16:24:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119162424id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-sneak-peek-2012-07-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-sneak-peek-2012-07-23"
 ---
 
 

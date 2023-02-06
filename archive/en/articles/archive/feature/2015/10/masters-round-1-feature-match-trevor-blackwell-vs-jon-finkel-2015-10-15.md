@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160707135754/http://magic.wizards.com/en/articles/archive/feature/masters-round-1-feature-match-trevor-blackwell-vs-jon-finkel-2015-10-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-round-1-feature-match-trevor-blackwell-vs-jon-finkel-2015-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707135754id_/http://magic.wizards.com/en/articles/archive/feature/masters-round-1-feature-match-trevor-blackwell-vs-jon-finkel-2015-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:57:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Michael Aten This feature match pits the current U.S. and World Champion and the consensus best player in the game, Jon Finkel, against the winner of this summer's booster draft Masters tournament as well as last year's PTLA and the world's top-rated limited player, Trevor Blackwell. With two of the world's best competing in the first round, there's a lot at stake; because of the prize distribution of the Masters tournament, this is essentially a $2,000+ ante match."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:title]:- "Masters Round 1 Feature Match: Trevor Blackwell vs. Jon Finkel"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:57:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707135754id_/http://magic.wizards.com/en/articles/archive/feature/masters-round-1-feature-match-trevor-blackwell-vs-jon-finkel-2015-10-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-round-1-feature-match-trevor-blackwell-vs-jon-finkel-2015-10-15"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220527200801/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-14-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-14-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527200801id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-14-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 20:08:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 McCord Scott 38 69.03 2 Marks John 36 69.74 3 Jensen III, William (Q) 35 73.16 4 Roderer, Dave (1700) 35 67.61 5 Van Cleave, Trey (Q) 34 68.55 6 Fitch, Britt (1700) 34 67.67 7 Swan, Brad (1700) 34 63.76 8 Bernat Michael 33 69.87 9 Rose, Kyle (Q) 33 65.73 10 Humpherys, David (Q) 33 63.10 11 Dougherty, Robert (Q) 31 70.44 12 Bush Michelle 31"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 14 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 20:08:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527200801id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-14-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-14-standings-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210502175003/https://magic.wizards.com/en/articles/archive/feature/mile-high-midrange-2012-08-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mile-high-midrange-2012-08-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502175003id_/https://magic.wizards.com/en/articles/archive/feature/mile-high-midrange-2012-08-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 17:50:03+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Standard seemed to be solved. There were Delver decks, decks that used to play Delver, Birthing Pod decks, Ramp decks, and the occasional undead deck would crawl out of the grave for a Top 8. Sure, some fringe decks filled things out, but the metagame seemed pretty stable. But Michael Lee showed a different side of Standard this past weekend at the StarCityGames Open in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-29"
+[_metadata_:title]:- "Mile-High Midrange"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 17:50:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502175003id_/https://magic.wizards.com/en/articles/archive/feature/mile-high-midrange-2012-08-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mile-high-midrange-2012-08-29"
 ---
 
 

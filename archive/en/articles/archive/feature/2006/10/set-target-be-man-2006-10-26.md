@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208034840/https://magic.wizards.com/en/articles/archive/feature/set-target-be-man-2006-10-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/set-target-be-man-2006-10-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208034840id_/https://magic.wizards.com/en/articles/archive/feature/set-target-be-man-2006-10-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 03:48:40+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Champs is this weekend. I know, I know. Some Champs tournaments were actually last weekend, but for this article's purposes, let's just go with `Champs is this weekend.` For most players, Champs is not just the opportunity to defend their local turf and swing big for bragging rights... It's the first chance to play with Time Spiral in sanctioned Standard. Most years, players"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-10-26"
+[_metadata_:title]:- "Set the Target. Be the Man."
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 03:48:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208034840id_/https://magic.wizards.com/en/articles/archive/feature/set-target-be-man-2006-10-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/set-target-be-man-2006-10-26"
 ---
 
 

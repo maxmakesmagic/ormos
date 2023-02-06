@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028062510/https://magic.wizards.com/en/articles/archive/feature/birthing-new-archetype-2014-01-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/birthing-new-archetype-2014-01-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028062510id_/https://magic.wizards.com/en/articles/archive/feature/birthing-new-archetype-2014-01-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 06:25:10+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "There might be a lot of Mono-Blue and Mono-Black in Standard right now, but there are also plenty of hidden gems. Did you ever imagine that Molten Birth was one of them? We've seen some Naya decks making a splash in Standard in the hands of Brad Nelson and Willy Edel, but G0D_L1k3's deck is whole new animal. The deck might come out of the gates slowly, but its damage potential"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-01-23"
+[_metadata_:title]:- "Birthing a New Archetype"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 06:25:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028062510id_/https://magic.wizards.com/en/articles/archive/feature/birthing-new-archetype-2014-01-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/birthing-new-archetype-2014-01-23"
 ---
 
 

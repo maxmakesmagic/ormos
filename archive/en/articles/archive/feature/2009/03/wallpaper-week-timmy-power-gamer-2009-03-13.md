@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220703091424/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-timmy-power-gamer-2009-03-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-timmy-power-gamer-2009-03-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703091424id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-timmy-power-gamer-2009-03-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 09:14:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "It's Timmy Week, so what could be more appropriate? This week's desktop wallpaper is Edward P. Beard Jr.'s Timmy, Power Gamer from the Unglued set. Enjoy. Regular (1280x960 pixels) Widescreen (2560x1600 pixels) iPhone (320x480 pixels)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-13"
+[_metadata_:title]:- "Wallpaper of the Week: Timmy, Power Gamer"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 09:14:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703091424id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-timmy-power-gamer-2009-03-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-timmy-power-gamer-2009-03-13"
 ---
 
 

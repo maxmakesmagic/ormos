@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161111162111/http://magic.wizards.com/en/articles/archive/feature/unique-store-floor-2013-04-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/unique-store-floor-2013-04-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161111162111id_/http://magic.wizards.com/en/articles/archive/feature/unique-store-floor-2013-04-08"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-11 16:21:11+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "&#13; Our fans do all sorts of awesome things, but sometimes we find out about the awesome things our stores do. Check out what California store owner Kyle Fehr did in his store, The Game Hub.&#13; That... looks... awesome."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-08"
+[_metadata_:title]:- "A Unique Store Floor"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-11 16:21:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161111162111id_/http://magic.wizards.com/en/articles/archive/feature/unique-store-floor-2013-04-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/unique-store-floor-2013-04-08"
 ---
 
 

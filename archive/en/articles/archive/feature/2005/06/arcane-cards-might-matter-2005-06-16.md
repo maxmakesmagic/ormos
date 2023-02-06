@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170630180655/http://magic.wizards.com/en/articles/archive/feature/arcane-cards-might-matter-2005-06-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/arcane-cards-might-matter-2005-06-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170630180655id_/http://magic.wizards.com/en/articles/archive/feature/arcane-cards-might-matter-2005-06-16"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-30 18:06:55+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "It's Arcane Week, so I thought I'd switch gears a little and, rather than focusing on principles or decks, go over the cards that drive those principles and make up those decks… the Arcane cards specifically. I'm going to split the cards up into a couple of different groups, based on how the cards operate. No, I'm not going to focus on inconsistent versions of Raze; hopefully I won't miss anything important."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-06-16"
+[_metadata_:title]:- "Arcane Cards that Might Matter"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-30 18:06:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170630180655id_/http://magic.wizards.com/en/articles/archive/feature/arcane-cards-might-matter-2005-06-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/arcane-cards-might-matter-2005-06-16"
 ---
 
 

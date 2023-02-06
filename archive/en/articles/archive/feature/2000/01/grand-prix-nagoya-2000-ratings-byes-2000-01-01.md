@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523184454/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-ratings-byes-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-ratings-byes-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523184454id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-ratings-byes-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 18:44:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Byes Rating Team Name Country  2 1888 Your Move Games United States  2 1881 Black Ops France  2 1828 Team Game Empire United States  2 1791 Team Antarctica United States  2 1776 Thl United States  2 1767 Team CCC Germany  2 1766 Urban Housing United States  2 1758 Operation Mise United States  2 1755 The Tank United States  2 1753 Tongo Nation United States  2 1744 Team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Nagoya 2000 Ratings Byes"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 18:44:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523184454id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-ratings-byes-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-ratings-byes-2000-01-01"
 ---
 
 

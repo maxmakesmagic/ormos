@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170828150118/http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170828150118id_/http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-28 15:01:18+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Matt explains the new rules coming with Ixalan."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-08-28"
+[_metadata_:title]:- "Ixalan Mechanics"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-28 15:01:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170828150118id_/http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics"
 ---
 
 

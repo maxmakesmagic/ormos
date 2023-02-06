@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429042449/https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-mechanics-2011-01-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-mechanics-2011-01-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429042449id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-mechanics-2011-01-10"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:24:49+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "/magic/tcg/article.aspx?x=mtg/tcg/mirrodinbesieged/mechanics Battle Cry Metalcraft Living Weapon Infect `Poisoned` Proliferate The metal plane of Mirrodin is now a world at war. The insidious influence of Phyrexia has been incubating for years within the plane's mana core. In Scars of Mirrodin, the people of Mirrodin began to suspect something was wrong with their world as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-01-10"
+[_metadata_:title]:- "Mirrodin Besieged Mechanics"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:24:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429042449id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-mechanics-2011-01-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-mechanics-2011-01-10"
 ---
 
 

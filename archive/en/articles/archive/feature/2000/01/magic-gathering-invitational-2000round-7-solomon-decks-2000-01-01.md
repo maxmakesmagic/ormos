@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161117155524/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-decks-2000-01-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-decks-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161117155524id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-decks-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-17 15:55:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; Dave Price&#13; &#13; &#13; Main deck:&#13; Astrolabe&#13; Helm of Obedience&#13; Crenellated Wall&#13; Phantom Monster&#13; Cloud Djinn&#13; Bull Hippo&#13; Blanchwood Treefolk&#13; Sacred Mesa&#13; Arrest&#13; Humble&#13; Disenchant&#13; Wild Aesthir&#13; Heavy Ballista&#13; Staunch Defenders&#13; Dark Banishing&#13; Maggot Therapy&#13; Massacre&#13; Deepwood Ghoul&#13; Knight of Dusk&#13; Undertaker&#13; Darkling Stalker&#13; Necrosavant&#13; 7 Swamp&#13; 6 Plains&#13; 2 Forest&#13; 2 Island&#13; &#13; Sideboard:&#13; Dark Maze&#13; Mind Games&#13; Coastal Piracy&#13; Archivist&#13; Seasinger&#13; Forbid&#13; Fireblast&#13; Flare&#13; Armor of Thorns&#13; Elvish Archers&#13; Darkwatch Elves&#13; Mogg Flunkies&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 7 Solomon Decks"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-17 15:55:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161117155524id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-decks-2000-01-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-decks-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016054911/https://magic.wizards.com/en/articles/archive/feature/summer-magicstore-challenge-finals-2006-07-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magicstore-challenge-finals-2006-07-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016054911id_/https://magic.wizards.com/en/articles/archive/feature/summer-magicstore-challenge-finals-2006-07-24"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 05:49:11+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated 2007-09-06Store Challenge FinalTournament LocationHilton Birmingham MetropoleNational Exhibition CentreBirminghamB40 1PPwww.hilton.co.uk/birminghammetTournament ScheduleOctober 20, 2007: Registration from 9:00 A.M – 10:00 A.M. Tournament begins at 10:45 A.M.Entry FeeFREE. Invitation only.InvitationsStore ChampionsChallenge Series Points (5+ points ="
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-07-24"
+[_metadata_:title]:- "Summer of MagicStore Challenge Finals"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 05:49:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016054911id_/https://magic.wizards.com/en/articles/archive/feature/summer-magicstore-challenge-finals-2006-07-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magicstore-challenge-finals-2006-07-24"
 ---
 
 

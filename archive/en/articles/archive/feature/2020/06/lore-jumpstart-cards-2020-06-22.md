@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210615004542/https://magic.wizards.com/en/articles/archive/feature/lore-jumpstart-cards-2020-06-22?mc_cid=1ce4b9387c&mc_eid=e7a85b704d)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lore-jumpstart-cards-2020-06-22?mc_cid=1ce4b9387c&mc_eid=e7a85b704d"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210615004542id_/https://magic.wizards.com/en/articles/archive/feature/lore-jumpstart-cards-2020-06-22?mc_cid=1ce4b9387c&mc_eid=e7a85b704d"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-15 00:45:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Jumpstart doesn't have a story, per se. But that doesn't mean there aren't cards full of lore, and you can learn all about those new cards here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-06-22"
+[_metadata_:title]:- "The Lore of Jumpstart on the Cards"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-15 00:45:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210615004542id_/https://magic.wizards.com/en/articles/archive/feature/lore-jumpstart-cards-2020-06-22?mc_cid=1ce4b9387c&mc_eid=e7a85b704d"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lore-jumpstart-cards-2020-06-22?mc_cid=1ce4b9387c&mc_eid=e7a85b704d"
 ---
 
 

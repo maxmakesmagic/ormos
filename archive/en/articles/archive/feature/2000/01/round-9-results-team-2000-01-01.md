@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220707042530/https://magic.wizards.com/en/articles/archive/feature/round-9-results-team-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-results-team-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707042530id_/https://magic.wizards.com/en/articles/archive/feature/round-9-results-team-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 04:25:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentA Little Too SickWon 3-0vsTeam ClaspAlphaBetaUnlimited.com/Lost 0-3vsTeam $20 Dolla BillzTeam FleesWon 2-1vsMadam FishnutDynastyDrew 1-1vsThe Ken Ho All-StarsFamily Games CenterLost 1-2vsRug DoctorsFrog EatersLost 1-2vsHuey Brock and LindeGrape ApesLost 0-3vsThanks Craig and SethHuey Brock and LindeWon 2-1vsFrog EatersJust ConcedeWon 3-0vsTeam Bald"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 9 Results (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 04:25:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707042530id_/https://magic.wizards.com/en/articles/archive/feature/round-9-results-team-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-results-team-2000-01-01"
 ---
 
 

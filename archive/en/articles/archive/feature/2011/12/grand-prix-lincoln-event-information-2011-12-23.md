@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211015220213/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lincoln-event-information-2011-12-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-lincoln-event-information-2011-12-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015220213id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lincoln-event-information-2011-12-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 22:02:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Facebook Event Official hashtag: #gplincoln Date: February 18-19, 2012Format: ModernTournament Location Lancaster Event Center Lincoln Room 4100 N. 84th Street Lincoln, NE 68507 Registration: $40 Friday, February 17: Noon – 9 p.m. Saturday, February 18: 7 a.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-12-23"
+[_metadata_:title]:- "Grand Prix Lincoln Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 22:02:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015220213id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lincoln-event-information-2011-12-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-lincoln-event-information-2011-12-23"
 ---
 
 

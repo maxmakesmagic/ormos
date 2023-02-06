@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200531084523/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-11-2013-03-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-11-2013-03-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531084523id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-11-2013-03-19"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:45:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This is the biweekly audio podcast for DailyMTG.com. Intro music by Bern Menth. The Daily MTG Podcast is on iTunes! You can visit its page right here. Or, if you use a different podcast aggregator, you can point it directly at the RSS feed: http://www.wizards.com/dailymtgpodcast.xml."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-19"
+[_metadata_:title]:- "DailyMTG.com Podcast #11"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:45:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531084523id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-11-2013-03-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-11-2013-03-19"
 ---
 
 

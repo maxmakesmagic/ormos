@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180926155224/https://magic.wizards.com/en/articles/archive/feature/guilds-ravnica-prerelease-primer-2018-09-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guilds-ravnica-prerelease-primer-2018-09-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180926155224id_/https://magic.wizards.com/en/articles/archive/feature/guilds-ravnica-prerelease-primer-2018-09-24"
-[_metadata_:wayback_capture_timestamp]:- "2018-09-26 15:52:24+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Everything you need to know about Guilds of Ravnica Prerelease in one handy guide!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-09-24"
+[_metadata_:title]:- "Guilds of Ravnica Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2018-09-26 15:52:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180926155224id_/https://magic.wizards.com/en/articles/archive/feature/guilds-ravnica-prerelease-primer-2018-09-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guilds-ravnica-prerelease-primer-2018-09-24"
 ---
 
 

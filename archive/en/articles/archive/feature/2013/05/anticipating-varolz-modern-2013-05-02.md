@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020211544/https://magic.wizards.com/en/articles/archive/feature/anticipating-varolz-modern-2013-05-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/anticipating-varolz-modern-2013-05-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020211544id_/https://magic.wizards.com/en/articles/archive/feature/anticipating-varolz-modern-2013-05-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 21:15:44+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Recently, osmanozguney finished 3–1 in a Modern Daily event with a black-green aggro deck with Death's Shadow that used Dark Confidant, Overgrown Tomb, fetch lands, Putrid Leech, Thoughtseize, and Dismember to pay life to make it big early in the game. While this is a relatively interesting strategy in Modern, in that it isn't all over, a 3–1 finish with a Tarmogoyf and Dark"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-02"
+[_metadata_:title]:- "Anticipating Varolz in Modern"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 21:15:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020211544id_/https://magic.wizards.com/en/articles/archive/feature/anticipating-varolz-modern-2013-05-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/anticipating-varolz-modern-2013-05-02"
 ---
 
 

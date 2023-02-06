@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519133742/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-12-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-12-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519133742id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-12-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:37:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Opponent Points Brackett, Derek - 1700 (21) 22 Price, David (246) 22 Bradley, James G. (23) 24 Chapella, Gustavo (41) 24 Brice, Ernest (25) 22 Carpenter, Ryan (36) 22 Buehler, Randy (31) 21 Wescoe, Craig (339) 21 Burt, Jarod - 1700 (33) 22 George, Brent - 1700 (84) 22 Cain, Joseph (35) 24 Senhouse, Christopher (278) 24 Carpenter, Ryan (36) 22 Brice, Ernest (25)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Memphis 1999Day 2 Round 12 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:37:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519133742id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-12-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-12-pairings-2000-01-01"
 ---
 
 

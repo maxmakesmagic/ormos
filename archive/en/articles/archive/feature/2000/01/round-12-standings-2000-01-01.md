@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190605022425/https://magic.wizards.com/en/articles/archive/feature/round-12-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-12-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022425id_/https://magic.wizards.com/en/articles/archive/feature/round-12-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:24:25+00:00"
 [_metadata_:description]:- "Rank Player Points Op.Win% 1 Svaldi, Guilherme Dei 31 73.21% 2 Martins - ama, Leopoldo M. 31 70.81% 3 Shvartsman, Alex 31 69.97% 4 Inacio - ama, Eliton 31 61.46%"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 12 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:24:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022425id_/https://magic.wizards.com/en/articles/archive/feature/round-12-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-12-standings-2000-01-01"
 ---
 
 

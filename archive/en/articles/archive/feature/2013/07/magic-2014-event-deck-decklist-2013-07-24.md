@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170116235237/http://magic.wizards.com/en/articles/archive/feature/magic-2014-event-deck-decklist-2013-07-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-2014-event-deck-decklist-2013-07-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170116235237id_/http://magic.wizards.com/en/articles/archive/feature/magic-2014-event-deck-decklist-2013-07-24"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-16 23:52:37+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "&#13; With the release of Magic 2014 comes a new Event Deck. This one is called `Rush of the Wild.`&#13; &#13; With your horde of warriors, shamans, and wild beasts, your goal is to put your opponents on the back foot, then smash through their defenses. This deck lets you take the offensive, dominating the battle and denying your enemy time to execute a strategy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-24"
+[_metadata_:title]:- "Magic 2014 Event Deck Decklist"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-16 23:52:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170116235237id_/http://magic.wizards.com/en/articles/archive/feature/magic-2014-event-deck-decklist-2013-07-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-2014-event-deck-decklist-2013-07-24"
 ---
 
 

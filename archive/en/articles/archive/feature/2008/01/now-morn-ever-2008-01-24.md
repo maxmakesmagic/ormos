@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121202335/https://magic.wizards.com/en/articles/archive/feature/now-morn-ever-2008-01-24)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/now-morn-ever-2008-01-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121202335id_/https://magic.wizards.com/en/articles/archive/feature/now-morn-ever-2008-01-24"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 20:23:35+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to Limbo Week, the only week of the year where lowering the bar is a sign of success! This is one of those weeks between official previews and the actual release of the set where the columnists play party games on a carnival cruise ship as we drift through the first circle of Hell. You'd think after having been through this several times before that I would be used to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-01-24"
+[_metadata_:title]:- "Now Morn Ever"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 20:23:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121202335id_/https://magic.wizards.com/en/articles/archive/feature/now-morn-ever-2008-01-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/now-morn-ever-2008-01-24"
 ---
 
 

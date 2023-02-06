@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220629061636/https://magic.wizards.com/en/articles/archive/feature/round-9-results-player-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-results-player-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629061636id_/https://magic.wizards.com/en/articles/archive/feature/round-9-results-player-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 06:16:36+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentAbsolute *Lost 1-2vswww.alphabetaunlimited.comCircle Money DraftLost 1-2vsFire BeatDekiru-Kana?Won 2-1vsDERAPINDERAPINLost 1-2vsDekiru-Kana?Fire BeatWon 2-1vsCircle Money DraftLoafing GiantsDrew 1-1-1vsPotato PeachMagic SquareWon 3-0vsNISIKI *NISIKI *Lost 0-3vsMagic SquareP-KiesLost 0-2-1vsTeam Apprentice *Poor SharkWon 2-1vsYaburonPotato PeachDrew"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 9 Results (by Player)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 06:16:36+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629061636id_/https://magic.wizards.com/en/articles/archive/feature/round-9-results-player-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-results-player-2000-01-01"
 ---
 
 

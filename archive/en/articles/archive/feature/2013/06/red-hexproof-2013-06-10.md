@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519000114/https://magic.wizards.com/en/articles/archive/feature/red-hexproof-2013-06-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-hexproof-2013-06-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519000114id_/https://magic.wizards.com/en/articles/archive/feature/red-hexproof-2013-06-10"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 00:01:14+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Last month Mike Flores championed a deck designed by Anthony Lowry, which is similar to Bant Hexproof, but with Red instead of Green. Lately, I've been very impressed by Bant Hexproof, which makes me think it's worth looking into the alternatives. The biggest draw to red is Boros Charm, which is outstanding in the deck, offering both huge damage potential with an enchanted"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-10"
+[_metadata_:title]:- "Red Hexproof"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 00:01:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519000114id_/https://magic.wizards.com/en/articles/archive/feature/red-hexproof-2013-06-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-hexproof-2013-06-10"
 ---
 
 

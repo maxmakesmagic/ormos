@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018013319/https://magic.wizards.com/en/articles/archive/feature/grand-prix-charleston-winner-2012-11-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-charleston-winner-2012-11-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018013319id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-charleston-winner-2012-11-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 01:33:19+00:00"
+[_metadata_:author]:- "Event Coverage Staff"
 [_metadata_:description]:- "Congratulations to Jon Bolding, your Grand Prix Charleston champion. You can find complete coverage of Grand Prix Charleston on the official event coverage page."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-19"
+[_metadata_:title]:- "Grand Prix Charleston Winner"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 01:33:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018013319id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-charleston-winner-2012-11-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-charleston-winner-2012-11-19"
 ---
 
 

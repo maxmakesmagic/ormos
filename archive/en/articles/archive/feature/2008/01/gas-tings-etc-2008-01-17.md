@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220119083327/https://magic.wizards.com/en/articles/archive/feature/gas-tings-etc-2008-01-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gas-tings-etc-2008-01-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119083327id_/https://magic.wizards.com/en/articles/archive/feature/gas-tings-etc-2008-01-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 08:33:27+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to Morningtide Preview Week, Part II: This Time It's Later in the Year. I hope you've been enjoying the previews so far. Last week, I talked about, um, something that had nothing to do with prowling, reinforcing, kinshipping, or any other aspect of Morningtide. Well, no need to worry about missing out on a fancy and/or schmancy preview card this time. Instead of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-01-17"
+[_metadata_:title]:- "Gas, 'Tings, Etc."
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 08:33:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119083327id_/https://magic.wizards.com/en/articles/archive/feature/gas-tings-etc-2008-01-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gas-tings-etc-2008-01-17"
 ---
 
 

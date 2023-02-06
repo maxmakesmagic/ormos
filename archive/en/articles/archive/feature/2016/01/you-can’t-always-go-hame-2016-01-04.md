@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160106015047/http://magic.wizards.com/en/articles/archive/feature/you-can%E2%80%99t-always-go-hame-2016-01-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/you-can%E2%80%99t-always-go-hame-2016-01-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160106015047id_/http://magic.wizards.com/en/articles/archive/feature/you-can%E2%80%99t-always-go-hame-2016-01-04"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-06 01:50:47+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Coastal Tower, we knew ye well."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-01-04"
+[_metadata_:title]:- "You Can’t Always Go Hame"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-06 01:50:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160106015047id_/http://magic.wizards.com/en/articles/archive/feature/you-can%E2%80%99t-always-go-hame-2016-01-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/you-can%E2%80%99t-always-go-hame-2016-01-04"
 ---
 
 

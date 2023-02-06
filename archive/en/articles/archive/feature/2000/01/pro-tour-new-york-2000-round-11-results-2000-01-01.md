@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120173418/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120173418id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:34:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Baker Justin Lo Moro Raffaele Lost, 0-2 Blackwell Trevor Kettil Mattias Lost, 1-2 Bregoli Mike Ruel Olivier Won, 2-1 Brower Jeremy Davis Kevin Lost, 0-2 Budde Kai Fiore Stefano Won, 2-1 Bui Lucien Parker Brock Won, 2-1 Chapin Patrick Ikeda Tsuyoshi Lost, 0-1-1 Comer Alan Globus Mark Lost, 0-2 Coppage Thomas Hager Jason Won, 2-0 Cornelissen Kamiel Ziegler"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 11 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:34:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120173418id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-results-2000-01-01"
 ---
 
 

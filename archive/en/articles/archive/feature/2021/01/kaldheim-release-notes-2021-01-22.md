@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210122161249/https://magic.wizards.com/en/articles/archive/feature/kaldheim-release-notes-2021-01-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kaldheim-release-notes-2021-01-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122161249id_/https://magic.wizards.com/en/articles/archive/feature/kaldheim-release-notes-2021-01-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-22 16:12:49+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2021-01-22"
+[_metadata_:title]:- "Kaldheim Release Notes"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-22 16:12:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122161249id_/https://magic.wizards.com/en/articles/archive/feature/kaldheim-release-notes-2021-01-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kaldheim-release-notes-2021-01-22"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160707140333/http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-dirk-baberowski-vs-trey-van-cleave-2015-10-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-dirk-baberowski-vs-trey-van-cleave-2015-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140333id_/http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-dirk-baberowski-vs-trey-van-cleave-2015-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:03:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Scott Wills The Master Series was down to the final eight and everyone knew that a lot was on the line. In addition to the thousands of dollars up for stake in each match, all of the players who were still in contention knew that they were just three match wins away from achieving the title of the very first Master Series Champion."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:title]:- "Masters Round 3 Feature Match: Dirk Baberowski vs. Trey Van Cleave"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:03:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140333id_/http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-dirk-baberowski-vs-trey-van-cleave-2015-10-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-dirk-baberowski-vs-trey-van-cleave-2015-10-15"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525153733/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-event-information-2010-07-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-event-information-2010-07-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525153733id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-event-information-2010-07-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 15:37:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Date: August 28-29, 2010Format: Magic 2011 Sealed Deck / Booster DraftTournament Location Göteborg Convention Centre Mässans Gata 20 box 5184 SE-402 26 Gothenburg SwedenRegistration: SEK 350 Friday, August 27: Registration 17:30 – 20:00 Saturday, August 28:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-01"
+[_metadata_:title]:- "Grand Prix–Gothenburg Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 15:37:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525153733id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-event-information-2010-07-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93gothenburg-event-information-2010-07-01"
 ---
 
 

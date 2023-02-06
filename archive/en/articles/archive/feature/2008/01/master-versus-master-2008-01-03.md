@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211130183102/https://magic.wizards.com/en/articles/archive/feature/master-versus-master-2008-01-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/master-versus-master-2008-01-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130183102id_/https://magic.wizards.com/en/articles/archive/feature/master-versus-master-2008-01-03"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 18:31:02+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "I was out to a celebratory dinner a few weeks ago with the Dragonstorm team of Pat Chapin, Gabriel Nassif, and Mark Herberholz while they were in New York for Worlds (Plataforma obviously). As you might imagine, these meals are just an excuse to spend time together talking about how awesome Magic is, how much we love Magic, etc. At some point I mentioned that the best match I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-01-03"
+[_metadata_:title]:- "Master versus Master"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 18:31:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130183102id_/https://magic.wizards.com/en/articles/archive/feature/master-versus-master-2008-01-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/master-versus-master-2008-01-03"
 ---
 
 

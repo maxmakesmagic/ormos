@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220613175230/https://magic.wizards.com/en/articles/archive/feature/where-find-double-masters-2022-previews-2022-06-13?utm_campaign=Double-Masters-2022&utm_source=TWITTER&utm_medium=social&utm_content=7107790873)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-double-masters-2022-previews-2022-06-13?utm_campaign=Double-Masters-2022&utm_source=TWITTER&utm_medium=social&utm_content=7107790873"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220613175230id_/https://magic.wizards.com/en/articles/archive/feature/where-find-double-masters-2022-previews-2022-06-13?utm_campaign=Double-Masters-2022&utm_source=TWITTER&utm_medium=social&utm_content=7107790873"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-13 17:52:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Get ready for double the excitement with Double Masters 2022 previews!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-06-13"
+[_metadata_:title]:- "Where to Find Double Masters 2022 Previews"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-13 17:52:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220613175230id_/https://magic.wizards.com/en/articles/archive/feature/where-find-double-masters-2022-previews-2022-06-13?utm_campaign=Double-Masters-2022&utm_source=TWITTER&utm_medium=social&utm_content=7107790873"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-double-masters-2022-previews-2022-06-13?utm_campaign=Double-Masters-2022&utm_source=TWITTER&utm_medium=social&utm_content=7107790873"
 ---
 
 

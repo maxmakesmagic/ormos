@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150914170144/http://magic.wizards.com/en/articles/archive/feature/community-cup-approacheth-2015-09-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/community-cup-approacheth-2015-09-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150914170144id_/http://magic.wizards.com/en/articles/archive/feature/community-cup-approacheth-2015-09-14"
-[_metadata_:wayback_capture_timestamp]:- "2015-09-14 17:01:44+00:00"
+[_metadata_:author]:- "Michael Yichao"
 [_metadata_:description]:- "It's time for the annual Community Cup! What kinds of strange events will we see as the Community Team squares off against the Wizards Team?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-09-14"
+[_metadata_:title]:- "Community Cup Approacheth!"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-14 17:01:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150914170144id_/http://magic.wizards.com/en/articles/archive/feature/community-cup-approacheth-2015-09-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/community-cup-approacheth-2015-09-14"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124145432/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-september-13-17-2010-10-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-september-13-17-2010-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124145432id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-september-13-17-2010-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 14:54:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site.Field ReportsWhen the Mirrodin Site launched, it contained field reports from three characters: Ria of Bladehold, Farris of the Anvil, and Kessla of Temple Might. Recently, one character's story received another chapter:Farris of the Anvil's story, part 2 Two new"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-10-15"
+[_metadata_:title]:- "On the Mirrodin Site: September 13-17"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 14:54:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124145432id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-september-13-17-2010-10-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-september-13-17-2010-10-15"
 ---
 
 

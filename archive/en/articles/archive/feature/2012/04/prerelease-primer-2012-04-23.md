@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160812135110/http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-04-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-04-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160812135110id_/http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-04-23"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-12 13:51:10+00:00"
+[_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "We are now just scant days away from the Avacyn Restored Prerelease weekend. While I can't tell you what's in the Helvault, I can tell you that if you want to find out, your best bet is to be among the throngs of players zipping off to their local games stores for the tournament that will reveal all."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-23"
+[_metadata_:title]:- "Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-12 13:51:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160812135110id_/http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-04-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-04-23"
 ---
 
 

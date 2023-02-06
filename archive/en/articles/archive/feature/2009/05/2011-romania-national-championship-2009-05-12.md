@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024124123/https://magic.wizards.com/en/articles/archive/feature/2011-romania-national-championship-2009-05-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-romania-national-championship-2009-05-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024124123id_/https://magic.wizards.com/en/articles/archive/feature/2011-romania-national-championship-2009-05-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 12:41:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 20 August 2011Location: CODECS, str. Agricultori, nr. 37-39, sect. 2City: BucharestCountry: Romania The Magic: the Gathering Romania Championship is open to all citizens or permanent residents of Romania. Contact information Email: contact@gamesstop.roTelephone: 0372776206Website: www.gamesstop.ro Format Standard and Booster Draft 3 Magic 2012 booster packs will be used"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-12"
+[_metadata_:title]:- "2011 Romania National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 12:41:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024124123id_/https://magic.wizards.com/en/articles/archive/feature/2011-romania-national-championship-2009-05-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-romania-national-championship-2009-05-12"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170629040454/http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-01-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-01-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170629040454id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-01-16"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-29 04:04:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour™ events.  For some great rates on hotel rooms Click Here  Win a trip to the Grand Prix in Germany  ...and many other Magic prizes!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-01-16"
+[_metadata_:title]:- "Grand Prix - Birmingham"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-29 04:04:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170629040454id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-01-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-01-16"
 ---
 
 

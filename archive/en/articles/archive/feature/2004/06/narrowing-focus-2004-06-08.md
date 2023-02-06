@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220124170737/https://magic.wizards.com/en/articles/archive/feature/narrowing-focus-2004-06-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/narrowing-focus-2004-06-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124170737id_/https://magic.wizards.com/en/articles/archive/feature/narrowing-focus-2004-06-08"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 17:07:37+00:00"
+[_metadata_:author]:- "Chad Ellis"
 [_metadata_:description]:- "This week we're going to follow what will probably be a pattern going forward. After a couple of articles that take a broad look at a subject, I'll follow up with a more detailed look at some part of it. Having talked about trading last week and the multiplayer casual room before that, this week we're going to look at the player-run `/join auction` room and multiplayer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-06-08"
+[_metadata_:title]:- "Narrowing the Focus"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 17:07:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124170737id_/https://magic.wizards.com/en/articles/archive/feature/narrowing-focus-2004-06-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/narrowing-focus-2004-06-08"
 ---
 
 

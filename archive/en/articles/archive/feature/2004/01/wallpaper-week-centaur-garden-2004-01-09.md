@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220628220335/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-centaur-garden-2004-01-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-centaur-garden-2004-01-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628220335id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-centaur-garden-2004-01-09"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-28 22:03:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is John Avon's Centaur Garden from Odyssey. Enjoy. 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-01-09"
+[_metadata_:title]:- "Wallpaper of the Week: Centaur Garden"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-28 22:03:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628220335id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-centaur-garden-2004-01-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-centaur-garden-2004-01-09"
 ---
 
 

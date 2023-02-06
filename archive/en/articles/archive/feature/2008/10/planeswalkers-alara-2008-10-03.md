@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150317235915/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-alara-2008-10-03)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-alara-2008-10-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150317235915id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-alara-2008-10-03"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-17 23:59:15+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Planeswalkers of Alara Planeswalkers, those precious few who can traverse the planes of the Multiverse, have seen the potential of Alara. Four reside there now, including two who were born right there among the shards of Alara, and whose planeswalker spark has only recently ignited."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-10-03"
+[_metadata_:title]:- "Planeswalkers of Alara"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-17 23:59:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150317235915id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-alara-2008-10-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-alara-2008-10-03"
 ---
 
 

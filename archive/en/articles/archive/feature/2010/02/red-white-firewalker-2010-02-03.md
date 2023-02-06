@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220808135033/https://magic.wizards.com/en/articles/archive/feature/red-white-firewalker-2010-02-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-white-firewalker-2010-02-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808135033id_/https://magic.wizards.com/en/articles/archive/feature/red-white-firewalker-2010-02-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 13:50:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All this week at Daily Decks, we're featuring fresh deck lists played by Wizards of the Coast R&D members at various Worldwake Regional Prereleases."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-03"
+[_metadata_:title]:- "Red-White Firewalker"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 13:50:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808135033id_/https://magic.wizards.com/en/articles/archive/feature/red-white-firewalker-2010-02-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-white-firewalker-2010-02-03"
 ---
 
 

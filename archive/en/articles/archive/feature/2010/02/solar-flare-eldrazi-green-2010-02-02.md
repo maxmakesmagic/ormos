@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220810121543/https://magic.wizards.com/en/articles/archive/feature/solar-flare-eldrazi-green-2010-02-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/solar-flare-eldrazi-green-2010-02-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810121543id_/https://magic.wizards.com/en/articles/archive/feature/solar-flare-eldrazi-green-2010-02-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-10 12:15:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All this week at Daily Decks, we're featuring fresh deck lists played by Wizards of the Coast R&D members at various Worldwake Regional Prereleases."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-02"
+[_metadata_:title]:- "Solar Flare & Eldrazi Green"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-10 12:15:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810121543id_/https://magic.wizards.com/en/articles/archive/feature/solar-flare-eldrazi-green-2010-02-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/solar-flare-eldrazi-green-2010-02-02"
 ---
 
 

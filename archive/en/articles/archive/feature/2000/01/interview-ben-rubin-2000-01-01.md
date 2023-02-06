@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525110348/https://magic.wizards.com/en/articles/archive/feature/interview-ben-rubin-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/interview-ben-rubin-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525110348id_/https://magic.wizards.com/en/articles/archive/feature/interview-ben-rubin-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 11:03:48+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Name: Ben Rubin Age: 17 Home: San Fransisco Ben Rubin has four PT top 8 finishes to his credit, two of them this year. Unfortunately, Ben was in an accident Thursday night that saw him get prematurely eliminated from the National Championship picture. We sat down with Ben to talk about the accident, how he's feeling, and who he sees doing well this weekend. Well, first of all,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Interview with Ben Rubin"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 11:03:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525110348id_/https://magic.wizards.com/en/articles/archive/feature/interview-ben-rubin-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/interview-ben-rubin-2000-01-01"
 ---
 
 

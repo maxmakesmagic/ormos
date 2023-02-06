@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20190713114958/https://magic.wizards.com/en/articles/archive/feature/product-shots-2013-06-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-shots-2013-06-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190713114958id_/https://magic.wizards.com/en/articles/archive/feature/product-shots-2013-06-04"
-[_metadata_:wayback_capture_timestamp]:- "2019-07-13 11:49:58+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Magic 2014 is coming up next month, and here's a little sneak peek with a look at just what its packaging will look like! Your first chance to look at and play with a lot of new cards from Magic 2014 Core Set will be the upcoming Magic 2014—Duels of the Planeswalkers. We'll be going into previews for the set in a month for the first week of July and it will be on sale starting July 19, 2013!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-06-04"
+[_metadata_:title]:- "Product Shots"
+[_metadata_:wayback_capture_timestamp]:- "2019-07-13 11:49:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190713114958id_/https://magic.wizards.com/en/articles/archive/feature/product-shots-2013-06-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-shots-2013-06-04"
 ---
 
 

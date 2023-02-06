@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220706111819/https://magic.wizards.com/en/articles/archive/feature/card-day-november-2012-2012-11-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-november-2012-2012-11-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706111819id_/https://magic.wizards.com/en/articles/archive/feature/card-day-november-2012-2012-11-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 11:18:19+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Iname as One – Saviors of Kamigawa rare. Iname as One is a combination of Iname, Death Aspect and Iname, Life Aspect from Champions of Kamigawa: the casting cost, power, and toughness are all literally the sum of the other two cards. But the ability was new! Svogthos, the Restless Tomb – Ravnica: City of Guilds uncommon. Svogthos was once an Orzhov cathedral, but the Golgari"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-11-01"
+[_metadata_:title]:- "Card of the Day - November, 2012"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 11:18:19+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706111819id_/https://magic.wizards.com/en/articles/archive/feature/card-day-november-2012-2012-11-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-november-2012-2012-11-01"
 ---
 
 

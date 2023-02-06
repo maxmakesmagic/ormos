@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170311160026/http://magic.wizards.com/en/articles/archive/feature/dragons-mazes-strength-selesnya-decklist-2013-05-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-mazes-strength-selesnya-decklist-2013-05-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170311160026id_/http://magic.wizards.com/en/articles/archive/feature/dragons-mazes-strength-selesnya-decklist-2013-05-07"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-11 16:00:26+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "&#13; Starting with Dragon's Maze we are producing one Event Deck for each new set. This one is called `Strength of Selensya` and it is awesome."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-05-07"
+[_metadata_:title]:- "Dragon's Maze's Strength of Selesnya Decklist"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-11 16:00:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170311160026id_/http://magic.wizards.com/en/articles/archive/feature/dragons-mazes-strength-selesnya-decklist-2013-05-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-mazes-strength-selesnya-decklist-2013-05-07"
 ---
 
 

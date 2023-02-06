@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112021553/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112021553id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:15:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Take a look at the full lists for the Aether Revolt Planeswalker Decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-01-11"
+[_metadata_:title]:- "Aether Revolt Planeswalker Deck Lists"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:15:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112021553id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11"
 ---
 
 

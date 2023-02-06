@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220630150034/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-team-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-team-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630150034id_/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-team-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 15:00:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPoints OpponentPoints 3,141596 *0vsmyleniens gold *0 Absolute Samuels0 * AWARDED BYE *  Accellerated Vares8 Volante3vssuicideboard *3 AlphaBetaUnlimited.com0 * AWARDED BYE *  Black-Ops0 * AWARDED BYE *  Bologna Demolition Team0 * AWARDED BYE *  Burning Bern3vsSilvani3 Calvo destiny3vsLast minute *1 CAP games Team *3vsAngstschreeuw3 Cosmopolitan0 * AWARDED BYE *  Dech'team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 2 Pairings (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 15:00:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630150034id_/https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-team-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-pairings-team-2000-01-01-0"
 ---
 
 

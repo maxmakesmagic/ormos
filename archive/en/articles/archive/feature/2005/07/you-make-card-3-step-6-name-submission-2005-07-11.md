@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170330211110/http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-6-name-submission-2005-07-11)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-6-name-submission-2005-07-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330211110id_/http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-6-name-submission-2005-07-11"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-30 21:11:10+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "The first You Make the Card was a Forgotten Ancient. The second was a Crucible of Worlds."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-07-11"
+[_metadata_:title]:- "You Make the Card 3 Step 6 - Name Submission"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-30 21:11:10+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330211110id_/http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-6-name-submission-2005-07-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/you-make-card-3-step-6-name-submission-2005-07-11"
 ---
 
 

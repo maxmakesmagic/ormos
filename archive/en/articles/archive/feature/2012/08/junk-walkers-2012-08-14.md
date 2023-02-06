@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016093520/https://magic.wizards.com/en/articles/archive/feature/junk-walkers-2012-08-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/junk-walkers-2012-08-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016093520id_/https://magic.wizards.com/en/articles/archive/feature/junk-walkers-2012-08-14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 09:35:20+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Planeswalkers have lent themselves to interesting strategies ever since they were printed. They have such a unique impact on the game and survive so many sweepers that there are a lot of ways to abuse them. One of the popular strategies for Planeswalkers has always been to team a bunch of them up and try to get multiple going at the same time. Each Planeswalker has an ability"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-08-14"
+[_metadata_:title]:- "Junk Walkers"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 09:35:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016093520id_/https://magic.wizards.com/en/articles/archive/feature/junk-walkers-2012-08-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/junk-walkers-2012-08-14"
 ---
 
 

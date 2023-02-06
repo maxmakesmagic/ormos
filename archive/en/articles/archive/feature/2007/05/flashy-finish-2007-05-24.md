@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20161105200100/http://magic.wizards.com/en/articles/archive/feature/flashy-finish-2007-05-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/flashy-finish-2007-05-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161105200100id_/http://magic.wizards.com/en/articles/archive/feature/flashy-finish-2007-05-24"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-05 20:01:00+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "I must say that I was surprised by the lack of Hulk Flash decks in the Top 8 of Grand Prix–Columbus 2007. I know that there were three copies, more than any other archetype (there were five singletons), but I thought that if the metagame made any sense that there would be eight Flash decks in the Top 8—It's that much better than every other deck in the format."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-05-24"
+[_metadata_:title]:- "Flashy Finish"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-05 20:01:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161105200100id_/http://magic.wizards.com/en/articles/archive/feature/flashy-finish-2007-05-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/flashy-finish-2007-05-24"
 ---
 
 

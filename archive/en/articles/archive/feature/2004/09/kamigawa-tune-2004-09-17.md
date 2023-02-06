@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112023801/https://magic.wizards.com/en/articles/archive/feature/kamigawa-tune-2004-09-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-tune-2004-09-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023801id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-tune-2004-09-17"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:38:01+00:00"
+[_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "On Wednesday afternoon, we, as a department, did our first draft with real Champions of Kamigawa cards. We had one full box to work with, so we sat twelve people around the table and passed out the packs. I drafted blue-red, and ended up going 1-2. Mark Gottlieb (yes, him) went 3-0. How. Embarrassing."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-09-17"
+[_metadata_:title]:- "Kamigawa Tune-up"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:38:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023801id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-tune-2004-09-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-tune-2004-09-17"
 ---
 
 

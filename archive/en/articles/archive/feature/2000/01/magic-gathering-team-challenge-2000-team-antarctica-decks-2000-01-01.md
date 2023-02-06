@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120183830/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-team-challenge-2000-team-antarctica-decks-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-team-challenge-2000-team-antarctica-decks-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120183830id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-team-challenge-2000-team-antarctica-decks-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:38:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "DAN O'MAHONEY-SCHWARTZ 7 Plains 10 Swamp 1 Afterlife 1 Devout Witness 1 Fresh Volunteers 1 Ramosian Lieutenant 1 Ramosian Rally 1 Thermal Glider 1 Cateran Brute 2 Cateran Persuader 1 Misshapen Fiend 1 Primeval Shambler 2 Snuff Out 1 Strongarm Thug 2 Vendetta 1 Plague Witch 1 Rathi Fiend 1 Rathi Intimidator 2 Spineless Thug 2 Seal of Cleansing SIDEBOARD 2 Mind Swords 1 Sivvi's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Magic: The Gathering Team Challenge 2000 Team Antarctica Decks"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:38:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120183830id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-team-challenge-2000-team-antarctica-decks-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-team-challenge-2000-team-antarctica-decks-2000-01-01"
 ---
 
 

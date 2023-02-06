@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220526120324/https://magic.wizards.com/en/articles/archive/feature/costa-rica-2013-04-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/costa-rica-2013-04-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526120324id_/https://magic.wizards.com/en/articles/archive/feature/costa-rica-2013-04-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:03:24+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Fernando Solorzano secured his spot on the Costa Rican national team by winning his WMCQ with the Brad Nelson–designed update of The Aristocrats called Act 2. Act 2 turns the aggressive midrange strategy of The Aristocrats into much more of a combo/aggro deck. It often tries to win by killing the opponent with Blasphemous Act because of a combination of Boros Reckoners and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-04-11"
+[_metadata_:title]:- "Costa Rica"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:03:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526120324id_/https://magic.wizards.com/en/articles/archive/feature/costa-rica-2013-04-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/costa-rica-2013-04-11"
 ---
 
 

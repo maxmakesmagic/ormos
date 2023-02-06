@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200902204918/https://magic.wizards.com/en/articles/archive/feature/core-set-2021-prerelease-primer-2020-06-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-set-2021-prerelease-primer-2020-06-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200902204918id_/https://magic.wizards.com/en/articles/archive/feature/core-set-2021-prerelease-primer-2020-06-22"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-02 20:49:18+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin has all the information you need to get the full experience of the Core Set 2021 Prerelease!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2020-06-22"
+[_metadata_:title]:- "Core Set 2021 Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-02 20:49:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200902204918id_/https://magic.wizards.com/en/articles/archive/feature/core-set-2021-prerelease-primer-2020-06-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-set-2021-prerelease-primer-2020-06-22"
 ---
 
 

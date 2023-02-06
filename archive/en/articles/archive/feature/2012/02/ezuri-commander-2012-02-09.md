@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160609143255/http://magic.wizards.com/en/articles/archive/feature/ezuri-commander-2012-02-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ezuri-commander-2012-02-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160609143255id_/http://magic.wizards.com/en/articles/archive/feature/ezuri-commander-2012-02-09"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-09 14:32:55+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Elves are many Magic players' favorite tribe, but their fragility traditionally keeps them out of the Commander arena. Nothing makes the life of an elf harder than countless board sweepers and accelerated monsters thrown down by five other players! Still, that didn't stop Commander deck doctor Sean McKeown. When a reader wrote in with an Ezuri Commander deck, Sean was up for the challenge."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-02-09"
+[_metadata_:title]:- "Ezuri Commander"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-09 14:32:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160609143255id_/http://magic.wizards.com/en/articles/archive/feature/ezuri-commander-2012-02-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ezuri-commander-2012-02-09"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200928132435/https://magic.wizards.com/en/articles/archive/feature/we%E2%80%99re-see-rimewind-2006-07-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/we%E2%80%99re-see-rimewind-2006-07-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200928132435id_/https://magic.wizards.com/en/articles/archive/feature/we%E2%80%99re-see-rimewind-2006-07-20"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-28 13:24:35+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "A young girl, displaced by natural disaster, travels by song and golden path towards the legendary metropolis of a faraway magician (just don't look behind the curtain). Her traveling companions: an unfortunate pooch, from home, doesn‘t count; local retinue: a tin man, armed with an axe; a coward; someone quite flammable, yearning for a brain. This, altogether, is Darksteel."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-07-20"
+[_metadata_:title]:- "We’re Off to See the Rimewind"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-28 13:24:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200928132435id_/https://magic.wizards.com/en/articles/archive/feature/we%E2%80%99re-see-rimewind-2006-07-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/we%E2%80%99re-see-rimewind-2006-07-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523185034/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurtop-9-16-decks-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurtop-9-16-decks-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523185034id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurtop-9-16-decks-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 18:50:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "9) JUN-WEI HEW (Singapore) CREATURES (1) 1 Morphling SPELLS (37) 4 Dark Ritual 4 Demonic Consultation 4 Donate 4 Duress 1 Firestorm 4 Force of Will 2 Hoodwink 4 Illusions of Grandeur 3 Mana Vault 4 Necropotence 3 Vampiric Tutor LAND (22) 4 Badlands 4 Gemstone Mine 1 Island 5 Swamp 4 Underground River 4 Underground Sea SIDEBOARD 2 Contagion 1 Firestorm 1 Gloom 2 Hydroblast 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Kuala LumpurTop 9-16 Decks"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 18:50:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523185034id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurtop-9-16-decks-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurtop-9-16-decks-2000-01-01"
 ---
 
 

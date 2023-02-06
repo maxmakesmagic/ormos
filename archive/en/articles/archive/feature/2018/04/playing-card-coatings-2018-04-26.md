@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180426144337/https://magic.wizards.com/en/articles/archive/feature/playing-card-coatings-2018-04-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-card-coatings-2018-04-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180426144337id_/https://magic.wizards.com/en/articles/archive/feature/playing-card-coatings-2018-04-26"
-[_metadata_:wayback_capture_timestamp]:- "2018-04-26 14:43:37+00:00"
+[_metadata_:author]:- "Tom Wänerstrand"
 [_metadata_:description]:- "Learn about the recent changes we've made to our card-coating process, and the reasoning behind them."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-04-26"
+[_metadata_:title]:- "Playing Card Coatings"
+[_metadata_:wayback_capture_timestamp]:- "2018-04-26 14:43:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180426144337id_/https://magic.wizards.com/en/articles/archive/feature/playing-card-coatings-2018-04-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-card-coatings-2018-04-26"
 ---
 
 

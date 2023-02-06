@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220629153229/https://magic.wizards.com/en/articles/archive/feature/forger-welder-spy-2012-10-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/forger-welder-spy-2012-10-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629153229id_/https://magic.wizards.com/en/articles/archive/feature/forger-welder-spy-2012-10-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 15:32:29+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "About seven years ago, I first made the journey into competitive Magic. Naturally, you might think I went to some PTQ and busted out my Standard deck, or possibly even a Grand Prix, but you would be wrong. Before I ever even thought about traveling to a Grand Prix, I began by slinging Quirion Dryad and Brainstorm in Vintage. Vintage might seem like a daunting format to get"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-10-03"
+[_metadata_:title]:- "Forger, Welder, Spy"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 15:32:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629153229id_/https://magic.wizards.com/en/articles/archive/feature/forger-welder-spy-2012-10-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/forger-welder-spy-2012-10-03"
 ---
 
 

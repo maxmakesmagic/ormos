@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210321223015/https://magic.wizards.com/en/articles/archive/feature/mindslicer-2005-07-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mindslicer-2005-07-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210321223015id_/https://magic.wizards.com/en/articles/archive/feature/mindslicer-2005-07-27"
-[_metadata_:wayback_capture_timestamp]:- "2021-03-21 22:30:15+00:00"
+[_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "We are smack dab in the middle of Core Set Week. I, for one, am incredibly pleased with 9th Edition. Somewhere in the long, long past I wrote an article about a theoretical set that would include some of the cards with the most character. My set didn't include any cards that were strictly bad, though it did include some cards that were only good in narrow circumstances (my"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-07-27"
+[_metadata_:title]:- "Mindslicer"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-21 22:30:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210321223015id_/https://magic.wizards.com/en/articles/archive/feature/mindslicer-2005-07-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mindslicer-2005-07-27"
 ---
 
 

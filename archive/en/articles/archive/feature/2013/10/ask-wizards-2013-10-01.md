@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220116105241/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-10-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-10-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116105241id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-10-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 10:52:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ask Wizards is a weekly feature that allows you to ask us questions! If you'd like to submit your question please email it to AskWizards@wizards.com. We aren't able to answer every question we receive but if your question is good then it might show up in the coming weeks! Q: With Warden of Evos Isle on the battlefield, can I bestow Celestial Archon for 1 less colorless mana"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-10-01"
+[_metadata_:title]:- "Ask Wizards"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 10:52:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116105241id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-10-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2013-10-01"
 ---
 
 

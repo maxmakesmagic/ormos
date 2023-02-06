@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211015210922/https://magic.wizards.com/en/articles/archive/feature/checking-block-constructed-2013-03-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/checking-block-constructed-2013-03-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015210922id_/https://magic.wizards.com/en/articles/archive/feature/checking-block-constructed-2013-03-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:09:22+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "I think it's safe to say that Sphinx's Revelation is still the defining card of Return to Ravnica Block Constructed. At a glance, it looked to me like straight white-blue was the most popular Sphinx's Revelation deck, but it's not hard to find someone playing white, blue, and any third color. Sphinx's Revelation should win any game in which the opponent doesn't have it and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-06"
+[_metadata_:title]:- "Checking in on Block Constructed"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:09:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015210922id_/https://magic.wizards.com/en/articles/archive/feature/checking-block-constructed-2013-03-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/checking-block-constructed-2013-03-06"
 ---
 
 

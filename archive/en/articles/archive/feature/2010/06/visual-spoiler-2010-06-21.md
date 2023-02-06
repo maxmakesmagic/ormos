@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211201073025/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2010-06-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2010-06-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201073025id_/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2010-06-21"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 07:30:25+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "White | Blue | Black | Red | Green | Artifacts and Lands | ALL CARDS  White | Blue | Black | Red | Green | Artifacts and Lands | ALL CARDS"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-21"
+[_metadata_:title]:- "Visual Spoiler"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 07:30:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201073025id_/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2010-06-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2010-06-21"
 ---
 
 

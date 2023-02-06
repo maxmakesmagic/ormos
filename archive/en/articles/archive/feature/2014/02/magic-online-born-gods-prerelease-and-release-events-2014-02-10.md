@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160609001834/http://magic.wizards.com/en/articles/archive/feature/magic-online-born-gods-prerelease-and-release-events-2014-02-10)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-born-gods-prerelease-and-release-events-2014-02-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160609001834id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-born-gods-prerelease-and-release-events-2014-02-10"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-09 00:18:34+00:00"
+[_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-02-10"
+[_metadata_:title]:- "Magic Online Born of the Gods Prerelease and Release Events"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-09 00:18:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160609001834id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-born-gods-prerelease-and-release-events-2014-02-10"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-born-gods-prerelease-and-release-events-2014-02-10"
 ---
 
 

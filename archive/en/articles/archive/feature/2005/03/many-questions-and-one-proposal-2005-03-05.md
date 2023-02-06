@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220813032323/https://magic.wizards.com/en/articles/archive/feature/many-questions-and-one-proposal-2005-03-05)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/many-questions-and-one-proposal-2005-03-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813032323id_/https://magic.wizards.com/en/articles/archive/feature/many-questions-and-one-proposal-2005-03-05"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 03:23:23+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Ah, the smell of a fresh new format. In case you didn't hear, Standard is getting a facelift to the tune of no more Arcbound Ravager, Disciple"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-03-05"
+[_metadata_:title]:- "Many Questions and One Proposal"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 03:23:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813032323id_/https://magic.wizards.com/en/articles/archive/feature/many-questions-and-one-proposal-2005-03-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/many-questions-and-one-proposal-2005-03-05"
 ---
 
 

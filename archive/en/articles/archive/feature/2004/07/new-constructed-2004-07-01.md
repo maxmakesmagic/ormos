@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201111164638/https://magic.wizards.com/en/articles/archive/feature/new-constructed-2004-07-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-constructed-2004-07-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111164638id_/https://magic.wizards.com/en/articles/archive/feature/new-constructed-2004-07-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 16:46:38+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "This is a very exciting week for constructed Magic fans. The evil Skullclamp is gone, Fifth Dawn is legal for tournament play, and there were not one but two major events offering up the latest winning decks in both Standard and Block formats. This week we've got a ton of deck lists and one of the worst Bad Plays I've seen in a while. Enjoy!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-07-01"
+[_metadata_:title]:- "The New Constructed"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 16:46:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111164638id_/https://magic.wizards.com/en/articles/archive/feature/new-constructed-2004-07-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-constructed-2004-07-01"
 ---
 
 

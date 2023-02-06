@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171029151238/https://magic.wizards.com/en/articles/archive/feature/grand-prix-oklahoma-city-event-information-2013-07-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-oklahoma-city-event-information-2013-07-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029151238id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-oklahoma-city-event-information-2013-07-27"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 15:12:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Oklahoma City is brought to you by Legion Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-27"
+[_metadata_:title]:- "Grand Prix Oklahoma City Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 15:12:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029151238id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-oklahoma-city-event-information-2013-07-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-oklahoma-city-event-information-2013-07-27"
 ---
 
 

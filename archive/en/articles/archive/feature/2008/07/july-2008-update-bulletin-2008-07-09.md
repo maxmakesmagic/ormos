@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170708024730/http://magic.wizards.com/en/articles/archive/feature/july-2008-update-bulletin-2008-07-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/july-2008-update-bulletin-2008-07-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170708024730id_/http://magic.wizards.com/en/articles/archive/feature/july-2008-update-bulletin-2008-07-09"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-08 02:47:30+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "It's that time again! Each time a Prerelease rolls around, we implement updates to the Comprehensive Rules and the Oracle card database.  These updates happen only when a new set is released, so corrections or improvements that have come to our attention over the past few months are being implemented now. In addition, some rules changes are necessary to make the new cards work."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-09"
+[_metadata_:title]:- "July 2008 Update Bulletin"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-08 02:47:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170708024730id_/http://magic.wizards.com/en/articles/archive/feature/july-2008-update-bulletin-2008-07-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/july-2008-update-bulletin-2008-07-09"
 ---
 
 

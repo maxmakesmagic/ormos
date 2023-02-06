@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200815112037/https://magic.wizards.com/en/articles/archive/feature/2009-magic-world-championships-tournament-format-2009-05-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-magic-world-championships-tournament-format-2009-05-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815112037id_/https://magic.wizards.com/en/articles/archive/feature/2009-magic-world-championships-tournament-format-2009-05-04"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:20:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-04"
+[_metadata_:title]:- "2009 Magic World Championships Tournament Format"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:20:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815112037id_/https://magic.wizards.com/en/articles/archive/feature/2009-magic-world-championships-tournament-format-2009-05-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-magic-world-championships-tournament-format-2009-05-04"
 ---
 
 

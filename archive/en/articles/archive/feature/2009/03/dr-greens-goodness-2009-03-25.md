@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027093515/https://magic.wizards.com/en/articles/archive/feature/dr-greens-goodness-2009-03-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dr-greens-goodness-2009-03-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027093515id_/https://magic.wizards.com/en/articles/archive/feature/dr-greens-goodness-2009-03-25"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:35:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Dr. Green's Dr."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-25"
+[_metadata_:title]:- "Dr. Green's Goodness"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:35:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027093515id_/https://magic.wizards.com/en/articles/archive/feature/dr-greens-goodness-2009-03-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dr-greens-goodness-2009-03-25"
 ---
 
 

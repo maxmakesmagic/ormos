@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208215101/https://magic.wizards.com/en/articles/archive/feature/memories-snow-covered-swampwalk-2004-12-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/memories-snow-covered-swampwalk-2004-12-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208215101id_/https://magic.wizards.com/en/articles/archive/feature/memories-snow-covered-swampwalk-2004-12-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 21:51:01+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "I came into Swimming with Sharks during Ice Age week. Even though this article isn't a very `Swimming with Sharks` flavored example, my first column is also my favorite so far. I love old Magic and this article gave me an opportunity to reminisce. Okay, okay. The real reason is that Erik Lauer emailed me after Googling himself, finding this thing. This article originally"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-12-22"
+[_metadata_:title]:- "Memories of Snow-covered Swampwalk"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 21:51:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208215101id_/https://magic.wizards.com/en/articles/archive/feature/memories-snow-covered-swampwalk-2004-12-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/memories-snow-covered-swampwalk-2004-12-22"
 ---
 
 

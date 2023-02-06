@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429204707/https://magic.wizards.com/en/articles/archive/feature/endrek-sahr-master-breeder-2006-11-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/endrek-sahr-master-breeder-2006-11-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429204707id_/https://magic.wizards.com/en/articles/archive/feature/endrek-sahr-master-breeder-2006-11-06"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:47:07+00:00"
+[_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "`Jam-packed with ideas.` Those were the very first words I wrote for magicthegathering.com, back in 2002. My first gig here was writing the periodic Single Card Strategy feature (before its weekly run under Adrian Sullivan), so I'm thrilled at the opportunity to give it another whirl today. Back then, I was generally assigned an uncommon card that had a lot of interesting"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-06"
+[_metadata_:title]:- "Endrek Sahr, Master Breeder"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:47:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429204707id_/https://magic.wizards.com/en/articles/archive/feature/endrek-sahr-master-breeder-2006-11-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/endrek-sahr-master-breeder-2006-11-06"
 ---
 
 

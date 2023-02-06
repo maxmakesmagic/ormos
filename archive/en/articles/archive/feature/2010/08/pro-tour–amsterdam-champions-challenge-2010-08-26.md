@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210615010151/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-champions-challenge-2010-08-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-champions-challenge-2010-08-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210615010151id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-champions-challenge-2010-08-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-15 01:01:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The following Pro Tour Hall of Famers and members of Wizards of the Coast R&D will be at Pro Tour–Amsterdam in the Champions Challenge area. Bring a deck and face off against them across multiple formats to win cool prizes! Mark Gottlieb, Advanced Developer, Magic R&D I am, rather inexplicably, the newest, freshest face on the Magic Development team. Previously, I served as"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-26"
+[_metadata_:title]:- "Pro Tour–Amsterdam Champions Challenge"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-15 01:01:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210615010151id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-champions-challenge-2010-08-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93amsterdam-champions-challenge-2010-08-26"
 ---
 
 

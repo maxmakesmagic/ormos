@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180209194705/https://magic.wizards.com/en/articles/archive/feature/2007-vintage-year-review-2007-12-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-vintage-year-review-2007-12-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180209194705id_/https://magic.wizards.com/en/articles/archive/feature/2007-vintage-year-review-2007-12-10"
-[_metadata_:wayback_capture_timestamp]:- "2018-02-09 19:47:05+00:00"
+[_metadata_:author]:- "Stephen Menendian"
 [_metadata_:description]:- "You've probably heard the saying `time flies when you're having fun.` The opposite is also true."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-12-10"
+[_metadata_:title]:- "The 2007 Vintage Year in Review"
+[_metadata_:wayback_capture_timestamp]:- "2018-02-09 19:47:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180209194705id_/https://magic.wizards.com/en/articles/archive/feature/2007-vintage-year-review-2007-12-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-vintage-year-review-2007-12-10"
 ---
 
 

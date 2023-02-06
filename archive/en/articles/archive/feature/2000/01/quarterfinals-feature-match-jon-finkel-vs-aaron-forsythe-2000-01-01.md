@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520094821/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-jon-finkel-vs-aaron-forsythe-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-jon-finkel-vs-aaron-forsythe-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520094821id_/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-jon-finkel-vs-aaron-forsythe-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 09:48:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Michael Flores This quarterfinal match of the 2000 US National Championships pitted former PT Champ Jon Finkel against Aaron Forsythe of Pittsburgh, PA. While Finkel is considered one of the best players in the world, Forsythe is a longtime veteran, and a member of a productive Pittsburgh-based playtest group that produced former PT greats Randy Buehler and Erik Lauer, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Quarterfinals Feature Match - Jon Finkel vs. Aaron Forsythe"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 09:48:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520094821id_/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-jon-finkel-vs-aaron-forsythe-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-jon-finkel-vs-aaron-forsythe-2000-01-01"
 ---
 
 

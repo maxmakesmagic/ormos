@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160413140641/http://magic.wizards.com/en/articles/archive/feature/irish-vampires-2010-08-23)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/irish-vampires-2010-08-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160413140641id_/http://magic.wizards.com/en/articles/archive/feature/irish-vampires-2010-08-23"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-13 14:06:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Simon Carmichael's Irish Vampires"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-23"
+[_metadata_:title]:- "Irish Vampires"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-13 14:06:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160413140641id_/http://magic.wizards.com/en/articles/archive/feature/irish-vampires-2010-08-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/irish-vampires-2010-08-23"
 ---
 
 

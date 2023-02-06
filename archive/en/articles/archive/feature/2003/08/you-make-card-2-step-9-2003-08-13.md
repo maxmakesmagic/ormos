@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503044012/https://magic.wizards.com/en/articles/archive/feature/you-make-card-2-step-9-2003-08-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-card-2-step-9-2003-08-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503044012id_/https://magic.wizards.com/en/articles/archive/feature/you-make-card-2-step-9-2003-08-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:40:12+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "After a long delay with the mechanics, “You Make The Card 2” has picked up speed. Last week we asked you to select a card concept."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-08-13"
+[_metadata_:title]:- "You Make The Card 2 - Step 9"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:40:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503044012id_/https://magic.wizards.com/en/articles/archive/feature/you-make-card-2-step-9-2003-08-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-card-2-step-9-2003-08-13"
 ---
 
 

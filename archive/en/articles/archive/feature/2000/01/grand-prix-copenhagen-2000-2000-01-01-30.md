@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220518192457/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518192457id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 19:24:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 2 Pairings per player Player 1 Points Table Player 2 Points Aasboe, Torgeir (373) 3 12 Norres, Albert ( 27) 3 Alves, Carlos (374) 3 25 Pettifer, Philip (193) 3 Andersen, Klaus ( 42) 3 15 Westin, Andreas (367) 3 Andersson, Karolina (380) 0 113 Larsen, Michael (275) 3 Andersson, Thomas ( 87) 3 85 Oberauer, Florian (165) 3 Angelin, Marcus (210) 3 *** Awarded Bye *** Apollo,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix Copenhagen 2000"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 19:24:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518192457id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-30"
 ---
 
 

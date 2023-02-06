@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211209023533/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorsgreen-2008-07-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorsgreen-2008-07-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209023533id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorsgreen-2008-07-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 02:35:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The teeming forests overflow with green mana, the pulse of nature. Green magic is about growth, life, and brute force. When a green mage fights, massive creatures crash through the undergrowth, animals enlarge to gargantuan size, and wounds close before blood spills onto the ground. Strength, ferocity, and life: These are the values that sustain the green mage. Green mages"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-15"
+[_metadata_:title]:- "mtgrelaunch_fivecolors_green"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 02:35:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209023533id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorsgreen-2008-07-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorsgreen-2008-07-15"
 ---
 
 

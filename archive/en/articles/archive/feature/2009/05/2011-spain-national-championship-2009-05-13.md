@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211024201215/https://magic.wizards.com/en/articles/archive/feature/2011-spain-national-championship-2009-05-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-spain-national-championship-2009-05-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024201215id_/https://magic.wizards.com/en/articles/archive/feature/2011-spain-national-championship-2009-05-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 20:12:15+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fecha: 12-15 de agosto 2011Localización: Llotja de Sant JordiDirección: Plaza de España (Calle de Espanya) 1, Alcoy (Alicante) – España (Mapa) Elegibilidad El Campeonato Nacional Español de Magic: The Gathering es un torneo al que se accede por invitación, abierto a ciudadanos o residentes permanentes en España que han conseguido un invitación al torneo gracias al ránking de"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-13"
+[_metadata_:title]:- "2011 Spain National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 20:12:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024201215id_/https://magic.wizards.com/en/articles/archive/feature/2011-spain-national-championship-2009-05-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-spain-national-championship-2009-05-13"
 ---
 
 

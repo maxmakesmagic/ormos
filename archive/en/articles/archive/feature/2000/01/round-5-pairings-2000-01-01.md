@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030030618/https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030030618id_/https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:06:18+00:00"
 [_metadata_:description]:- "Table Player Points   Opponent Points 1 Svaldi, Guilherme Dei 12 vs. Poplawski, Eduardo K 12 2 Bandeira, Fernando M 12 vs. Feitosa, Bruno 12 3 Souza Araujo, Tiago Fernando 12"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 5 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:06:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030030618id_/https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-2000-01-01"
 ---
 
 

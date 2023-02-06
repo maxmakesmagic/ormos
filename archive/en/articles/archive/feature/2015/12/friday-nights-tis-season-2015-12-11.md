@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151214145825/http://magic.wizards.com/en/articles/archive/feature/friday-nights-tis-season-2015-12-11)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-tis-season-2015-12-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151214145825id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-tis-season-2015-12-11"
-[_metadata_:wayback_capture_timestamp]:- "2015-12-14 14:58:25+00:00"
+[_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "Luck comes Alex's way as Magic Christmas Land is upon us."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-12-11"
+[_metadata_:title]:- "Friday Nights—'Tis the Season"
+[_metadata_:wayback_capture_timestamp]:- "2015-12-14 14:58:25+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151214145825id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-tis-season-2015-12-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-tis-season-2015-12-11"
 ---
 
 

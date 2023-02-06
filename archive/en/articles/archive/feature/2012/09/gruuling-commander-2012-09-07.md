@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170319122151/http://magic.wizards.com/en/articles/archive/feature/gruuling-commander-2012-09-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gruuling-commander-2012-09-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170319122151id_/http://magic.wizards.com/en/articles/archive/feature/gruuling-commander-2012-09-07"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-19 12:21:51+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Time Spiral was a set that was all about flashbacks. Sure, they came literally, but they also came on many of the cards, referencing old favorites and connecting corny inside jokes. I loved the set, both for its awesome Limited environment as well as all the references I was able to enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-07"
+[_metadata_:title]:- "Gruuling Commander"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-19 12:21:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170319122151id_/http://magic.wizards.com/en/articles/archive/feature/gruuling-commander-2012-09-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gruuling-commander-2012-09-07"
 ---
 
 

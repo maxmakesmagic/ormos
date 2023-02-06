@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160815122554/http://magic.wizards.com/en/articles/archive/feature/turbo-depths-2013-12-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/turbo-depths-2013-12-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160815122554id_/http://magic.wizards.com/en/articles/archive/feature/turbo-depths-2013-12-12"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-15 12:25:54+00:00"
+[_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-12-12"
+[_metadata_:title]:- "Turbo-Depths"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-15 12:25:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160815122554id_/http://magic.wizards.com/en/articles/archive/feature/turbo-depths-2013-12-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/turbo-depths-2013-12-12"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429031809/https://magic.wizards.com/en/articles/archive/feature/shauku-and-sidar-2008-11-12)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shauku-and-sidar-2008-11-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429031809id_/https://magic.wizards.com/en/articles/archive/feature/shauku-and-sidar-2008-11-12"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:18:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Let's take a look at a card from the past: Shauku, Endbringer from Mirage. Notice anything different about these two images? Yes, one's in English and one's in German. Well spotted. Anything else? Well, if you don't read both English and German, it's a little tricky. Mouse over the image to see the difference. As you can see (if you moused over the image like you were supposed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-11-12"
+[_metadata_:title]:- "Shauku and Sidar"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:18:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429031809id_/https://magic.wizards.com/en/articles/archive/feature/shauku-and-sidar-2008-11-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shauku-and-sidar-2008-11-12"
 ---
 
 

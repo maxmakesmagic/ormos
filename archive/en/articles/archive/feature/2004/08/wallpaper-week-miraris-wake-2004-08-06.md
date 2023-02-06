@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160331054741/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-miraris-wake-2004-08-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-miraris-wake-2004-08-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160331054741id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-miraris-wake-2004-08-06"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-31 05:47:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is David Martin's Mirari's Wake from the Judgment set. Enjoy!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-06"
+[_metadata_:title]:- "Wallpaper of the Week: Mirari's Wake"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-31 05:47:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160331054741id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-miraris-wake-2004-08-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-miraris-wake-2004-08-06"
 ---
 
 

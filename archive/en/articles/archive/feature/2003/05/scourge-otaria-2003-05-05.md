@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160831204108/http://magic.wizards.com/en/articles/archive/feature/scourge-otaria-2003-05-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scourge-otaria-2003-05-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160831204108id_/http://magic.wizards.com/en/articles/archive/feature/scourge-otaria-2003-05-05"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-31 20:41:08+00:00"
+[_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "The world of Dominaria has been the home base of the Magic game ever since its earliest days. Shiv, Llanowar, Lat-Nam . . . All of these names are well known and well loved. Prepare to leave it all behind. As you know from previous articles, the Scourge set will be the last expansion to take place on Dominaria for a while. After this, you'll be seeing whole new worlds, with entirely new inhabitants, which I think is pretty exciting."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-05-05"
+[_metadata_:title]:- "Scourge of Otaria"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-31 20:41:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160831204108id_/http://magic.wizards.com/en/articles/archive/feature/scourge-otaria-2003-05-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scourge-otaria-2003-05-05"
 ---
 
 

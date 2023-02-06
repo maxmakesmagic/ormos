@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170720164737/http://magic.wizards.com/en/articles/archive/feature/titan-ramp-2010-09-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/titan-ramp-2010-09-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170720164737id_/http://magic.wizards.com/en/articles/archive/feature/titan-ramp-2010-09-21"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-20 16:47:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: skizzik_cn's Titan Ramp Format: Standard 2 Evolving Wilds 6 Forest 12 Mountain 2 Raging Ravine 2 Terramorphic Expanse 4 Valakut, the Molten Pinnacle 4 Avenger of Zendikar 3 Oracle of Mul Daya 4 Primeval Titan 4 Cultivate 2 Explore 3 Harrow 4 Khalni Heart Expedition 4 Lightning Bolt 4 Rampant Growth *2 Autumn's Veil *3 Obstinate Baloth *1 Pyroclasm *3 Ricochet Trap *3 Summoning Trap *3 Volcanic Fallout"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-09-21"
+[_metadata_:title]:- "Titan Ramp"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-20 16:47:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170720164737id_/http://magic.wizards.com/en/articles/archive/feature/titan-ramp-2010-09-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/titan-ramp-2010-09-21"
 ---
 
 

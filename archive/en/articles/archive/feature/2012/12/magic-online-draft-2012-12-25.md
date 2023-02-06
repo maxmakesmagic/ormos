@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200808183340/https://magic.wizards.com/en/articles/archive/feature/magic-online-draft-2012-12-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-draft-2012-12-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200808183340id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-draft-2012-12-25"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-08 18:33:40+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "All this week we're featuring recent successful decks from Magic Online. Today's Daily Deck was piloted by tomy_vercety, who won a PTQ. See more at the `Draft` article. If you'd like to compete in a Magic Online PTQ as well, download Magic Online today!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-12-25"
+[_metadata_:title]:- "Magic Online Draft"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-08 18:33:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200808183340id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-draft-2012-12-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-draft-2012-12-25"
 ---
 
 

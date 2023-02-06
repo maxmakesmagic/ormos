@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200528034846/https://magic.wizards.com/en/articles/archive/feature/springsummer-schedule-features-barcelona-pro-tour-thirteen-grand-prix-2011)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/springsummer-schedule-features-barcelona-pro-tour-thirteen-grand-prix-2011"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200528034846id_/https://magic.wizards.com/en/articles/archive/feature/springsummer-schedule-features-barcelona-pro-tour-thirteen-grand-prix-2011"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-28 03:48:46+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Four continents and ten different countries highlight the premier play schedule for April through August of 2012, featuring the second Pro Tour of the season and thirteen Grand Prix."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-12-07"
+[_metadata_:title]:- "Spring/Summer Schedule Features Barcelona Pro Tour, Thirteen Grand Prix"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-28 03:48:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200528034846id_/https://magic.wizards.com/en/articles/archive/feature/springsummer-schedule-features-barcelona-pro-tour-thirteen-grand-prix-2011"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/springsummer-schedule-features-barcelona-pro-tour-thirteen-grand-prix-2011"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150405021652/http://magic.wizards.com/en/articles/archive/feature/un-pro-tour-2015-04-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/un-pro-tour-2015-04-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150405021652id_/http://magic.wizards.com/en/articles/archive/feature/un-pro-tour-2015-04-01"
-[_metadata_:wayback_capture_timestamp]:- "2015-04-05 02:16:52+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Mark Rosenbergwater"
 [_metadata_:description]:- "Unleash your inner Bad Ass at the Un-Pro Tour April 1–3, 2016."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-04-01"
+[_metadata_:title]:- "The Un-Pro Tour!"
+[_metadata_:wayback_capture_timestamp]:- "2015-04-05 02:16:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150405021652id_/http://magic.wizards.com/en/articles/archive/feature/un-pro-tour-2015-04-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/un-pro-tour-2015-04-01"
 ---
 
 

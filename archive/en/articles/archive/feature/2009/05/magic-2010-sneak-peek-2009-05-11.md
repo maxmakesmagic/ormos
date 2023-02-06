@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220528034016/https://magic.wizards.com/en/articles/archive/feature/magic-2010-sneak-peek-2009-05-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2010-sneak-peek-2009-05-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528034016id_/https://magic.wizards.com/en/articles/archive/feature/magic-2010-sneak-peek-2009-05-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:40:16+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "In February, as you might recall, Aaron Forsythe announced Magic 2010, short for Magic: The Gathering 2010 core set, due out this summer. Unlike previous core sets, almost half of the cards in Magic 2010 will be all-new cards—cards like this one, which Aaron showed you in his article: So Magic 2010 isn't like previous core sets. Because of that, it's going to get a rollout"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-11"
+[_metadata_:title]:- "Magic 2010 Sneak Peek"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:40:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528034016id_/https://magic.wizards.com/en/articles/archive/feature/magic-2010-sneak-peek-2009-05-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2010-sneak-peek-2009-05-11"
 ---
 
 

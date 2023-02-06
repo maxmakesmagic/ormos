@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220813143911/https://magic.wizards.com/en/articles/archive/feature/state-standard-2006-11-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/state-standard-2006-11-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813143911id_/https://magic.wizards.com/en/articles/archive/feature/state-standard-2006-11-08"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 14:39:11+00:00"
+[_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "For me, the most memorable thing about the 2006 West Virginia State Championship was the realization that once we cut to the top eight, we had eight distinctly different decks. This is a stark contrast to many times in Magic's history when one or two decks dominated the environment. I keep thinking back to Grand Prix Detroit, which was Onslaught block Constructed. Every deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-08"
+[_metadata_:title]:- "State of Standard"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 14:39:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813143911id_/https://magic.wizards.com/en/articles/archive/feature/state-standard-2006-11-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/state-standard-2006-11-08"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118063446/https://magic.wizards.com/en/articles/archive/feature/first-bits-standard-2006-11-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-bits-standard-2006-11-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118063446id_/https://magic.wizards.com/en/articles/archive/feature/first-bits-standard-2006-11-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 06:34:46+00:00"
+[_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Last week the first Constructed Premier Event started again, after their short break during the Time Spiral release events. Naturally, today I will cover these first online Standard tournaments. Curious how the online players are abusing the new Time Spiral cards? Here is the metagame chart, based on 10 premier events (#850892 – #852721). You can click on a deck name to go to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-11-22"
+[_metadata_:title]:- "The First Bits of Standard"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 06:34:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118063446id_/https://magic.wizards.com/en/articles/archive/feature/first-bits-standard-2006-11-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-bits-standard-2006-11-22"
 ---
 
 

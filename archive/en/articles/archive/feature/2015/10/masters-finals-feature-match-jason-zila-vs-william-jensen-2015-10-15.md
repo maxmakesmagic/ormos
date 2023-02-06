@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160707140634/http://magic.wizards.com/en/articles/archive/feature/masters-finals-feature-match-jason-zila-vs-william-jensen-2015-10-15)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-finals-feature-match-jason-zila-vs-william-jensen-2015-10-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140634id_/http://magic.wizards.com/en/articles/archive/feature/masters-finals-feature-match-jason-zila-vs-william-jensen-2015-10-15"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:06:34+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Keith Anderson There was a definite sense of predetermination leading up to this game. Jason Zila had already played against three Survival decks in the Masters, and had won all the games comfortably. No one expected anything but a win for Zila."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:title]:- "Masters Finals Feature Match: Jason Zila vs. William Jensen"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:06:34+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140634id_/http://magic.wizards.com/en/articles/archive/feature/masters-finals-feature-match-jason-zila-vs-william-jensen-2015-10-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-finals-feature-match-jason-zila-vs-william-jensen-2015-10-15"
 ---
 
 

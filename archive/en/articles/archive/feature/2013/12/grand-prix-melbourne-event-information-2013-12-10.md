@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118153739/https://magic.wizards.com/en/articles/archive/feature/grand-prix-melbourne-event-information-2013-12-10)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-melbourne-event-information-2013-12-10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118153739id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-melbourne-event-information-2013-12-10"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:37:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Melbourne is brought to you by Top Deck Events.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpmelb Date: February 28-March 2, 2014 Format: Standard Tournament Location Melbourne Park Function Center Batman Avenue Melbourne VIC 3000 Click"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-12-10"
+[_metadata_:title]:- "Grand Prix Melbourne Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:37:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118153739id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-melbourne-event-information-2013-12-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-melbourne-event-information-2013-12-10"
 ---
 
 

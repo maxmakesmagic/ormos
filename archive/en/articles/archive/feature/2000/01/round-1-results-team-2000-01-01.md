@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220701075932/https://magic.wizards.com/en/articles/archive/feature/round-1-results-team-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-results-team-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701075932id_/https://magic.wizards.com/en/articles/archive/feature/round-1-results-team-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 07:59:32+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult Opponent#I MagicLost 1-2vsSweet Jeebus#realgangstasLost 1-2vsShaolin Sword$30 Cab FareWon 3-0vsHighlanders$42 Ticket * Awarded Bye *100 Super Good Fun Time * Awarded Bye *3 for FlinchingWon 2-1vsRighteous Babe3 StoogesWon 3-0vsKa-Tet3 White Boys from the StixWon 2-0vsTeam Acme Smackdown3 X ThreatLost 0-3vsLeft Cheek Sneak5 Ways Worse than Portent * Awarded Bye"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Round 1 Results (by Team)"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 07:59:32+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701075932id_/https://magic.wizards.com/en/articles/archive/feature/round-1-results-team-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-results-team-2000-01-01"
 ---
 
 

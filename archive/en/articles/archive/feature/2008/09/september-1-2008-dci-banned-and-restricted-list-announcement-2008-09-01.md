@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170709034258/http://magic.wizards.com/en/articles/archive/feature/september-1-2008-dci-banned-and-restricted-list-announcement-2008-09-01)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/september-1-2008-dci-banned-and-restricted-list-announcement-2008-09-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170709034258id_/http://magic.wizards.com/en/articles/archive/feature/september-1-2008-dci-banned-and-restricted-list-announcement-2008-09-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-09 03:42:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Announcement Date: September 1, 2008Effective Date: September 20, 2008Magic Online Effective Date: September 17, 2008ExtendedSensei's Divining Top is bannedLegacyTime Vault is banned*"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-09-01"
+[_metadata_:title]:- "September 1 2008 DCI Banned and Restricted List Announcement"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-09 03:42:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170709034258id_/http://magic.wizards.com/en/articles/archive/feature/september-1-2008-dci-banned-and-restricted-list-announcement-2008-09-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/september-1-2008-dci-banned-and-restricted-list-announcement-2008-09-01"
 ---
 
 

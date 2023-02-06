@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524070409/https://magic.wizards.com/en/articles/archive/feature/magic-online-2015-core-set-prerelease-and-release-events-2014-06-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-2015-core-set-prerelease-and-release-events-2014-06-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524070409id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-2015-core-set-prerelease-and-release-events-2014-06-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:04:09+00:00"
+[_metadata_:author]:- "David Whitfield"
 [_metadata_:description]:- "Download Magic Online  Magic Online 2015 Core Set Prerelease and Release Key Dates Prerelease Begins: Time DateOn-Sale: Time DateRelease Events End: Time DateRedemption Guarantee: Time DateRedemption Cutoff: Time Date All times are PDT (for UTC, add 7 hours)  Hunt Bigger Game Push yourself to the limit with Magic: The Gathering, the world’s premier trading card game. Customize"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-06-23"
+[_metadata_:title]:- "Magic Online 2015 Core Set Prerelease and Release Events!"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:04:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524070409id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-2015-core-set-prerelease-and-release-events-2014-06-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-2015-core-set-prerelease-and-release-events-2014-06-23"
 ---
 
 

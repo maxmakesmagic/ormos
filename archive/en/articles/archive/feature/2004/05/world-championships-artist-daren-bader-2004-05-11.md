@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025044159/https://magic.wizards.com/en/articles/archive/feature/world-championships-artist-daren-bader-2004-05-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-championships-artist-daren-bader-2004-05-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025044159id_/https://magic.wizards.com/en/articles/archive/feature/world-championships-artist-daren-bader-2004-05-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 04:41:59+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Daren Bader's CardsCard NameCard Set Kavu MaulerApocalypseBog GnarrApocalypseGlade GnarrApocalypseMystic SnakeApocalypseGreater HarvesterDarksteelSpire GolemDarksteelTalon of PainDarksteelSkull of OrmEighth EditionMirri, Cat WarriorExodusStanding TroopsExodusAvenging DruidExodusRabid WolverinesExodusRavenous BaboonsExodusSchool of PiranhaExodusOath of DruidsExodusAcquireFifth"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-05-11"
+[_metadata_:title]:- "World Championships Artist: Daren Bader"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 04:41:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025044159id_/https://magic.wizards.com/en/articles/archive/feature/world-championships-artist-daren-bader-2004-05-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-championships-artist-daren-bader-2004-05-11"
 ---
 
 

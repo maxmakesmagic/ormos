@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170126105623/http://magic.wizards.com/en/articles/archive/feature/modern-poison-2012-03-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-poison-2012-03-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170126105623id_/http://magic.wizards.com/en/articles/archive/feature/modern-poison-2012-03-28"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-26 10:56:23+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The Blazing Shoal poison deck was one of the most dominant decks of Pro Tour Philadelphia, resulting in a ban of Blazing Shoal immediately following the tournament. Dedicated poison decks have stayed relatively quiet in Modern, until now! Magic Online player Black_Generation piloted a poison deck to 10th place in a recent Magic Online PTQ, throwing poison right back into the mix!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-03-28"
+[_metadata_:title]:- "Modern Poison"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-26 10:56:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170126105623id_/http://magic.wizards.com/en/articles/archive/feature/modern-poison-2012-03-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-poison-2012-03-28"
 ---
 
 

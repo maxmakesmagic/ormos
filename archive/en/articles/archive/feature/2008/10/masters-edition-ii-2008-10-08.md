@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211207221239/https://magic.wizards.com/en/articles/archive/feature/masters-edition-ii-2008-10-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-edition-ii-2008-10-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207221239id_/https://magic.wizards.com/en/articles/archive/feature/masters-edition-ii-2008-10-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 22:12:39+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights Available only on Magic Online, Masters Edition II features 245 cards with randomly-inserted premium cards and goes on sale for a limited time beginning September 22 at a price of $3.99 per booster pack. The cards are legal in the Classic format and any format that uses Classic to define card legality. It is available only in online booster packs and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-10-08"
+[_metadata_:title]:- "Masters Edition II"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 22:12:39+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207221239id_/https://magic.wizards.com/en/articles/archive/feature/masters-edition-ii-2008-10-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-edition-ii-2008-10-08"
 ---
 
 

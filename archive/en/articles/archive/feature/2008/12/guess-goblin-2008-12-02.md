@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429083837/https://magic.wizards.com/en/articles/archive/feature/guess-goblin-2008-12-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guess-goblin-2008-12-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429083837id_/https://magic.wizards.com/en/articles/archive/feature/guess-goblin-2008-12-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:38:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Jund Week wouldn't be Jund Week if we didn't take a look at the cornerstone of the Jund food chain: the lowly goblin! Goblins are all over the multiverse, and their appearance changes from plane to plane. How many of these goblins from Magic's past and present can you identify?     Dragon's Herald"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-02"
+[_metadata_:title]:- "Guess the Goblin!"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:38:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429083837id_/https://magic.wizards.com/en/articles/archive/feature/guess-goblin-2008-12-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guess-goblin-2008-12-02"
 ---
 
 

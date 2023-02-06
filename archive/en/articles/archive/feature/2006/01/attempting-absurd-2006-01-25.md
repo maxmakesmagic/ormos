@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118205854/https://magic.wizards.com/en/articles/archive/feature/attempting-absurd-2006-01-25)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/attempting-absurd-2006-01-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118205854id_/https://magic.wizards.com/en/articles/archive/feature/attempting-absurd-2006-01-25"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:58:54+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Howdy, Johnnies and Johnettes! I have been informed that there is a guy named Ted Knutson editing the site now. Yeah, I'd never heard of him either. He seems to be doing an okay job, despite the fact that he obviously doesn't know the difference between the Castor canadensis, or American beaver, and Procavia capensis, the Cape hyrax from South Africa. Sheesh! Who doesn't know"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-01-25"
+[_metadata_:title]:- "Attempting the Absurd"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:58:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118205854id_/https://magic.wizards.com/en/articles/archive/feature/attempting-absurd-2006-01-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/attempting-absurd-2006-01-25"
 ---
 
 

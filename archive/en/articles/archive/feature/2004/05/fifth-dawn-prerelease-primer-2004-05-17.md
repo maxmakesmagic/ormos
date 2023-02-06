@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160331043043/http://magic.wizards.com/en/articles/archive/feature/fifth-dawn-prerelease-primer-2004-05-17)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fifth-dawn-prerelease-primer-2004-05-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160331043043id_/http://magic.wizards.com/en/articles/archive/feature/fifth-dawn-prerelease-primer-2004-05-17"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-31 04:30:43+00:00"
+[_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "Fifth Dawn is rising this weekend but only for a select group of players at special events being held all around the world. Don't worry. There is plenty of room to accommodate everyone and I am here to give you all the details you need to count yourself among those players."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-05-17"
+[_metadata_:title]:- "Fifth Dawn Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-31 04:30:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160331043043id_/http://magic.wizards.com/en/articles/archive/feature/fifth-dawn-prerelease-primer-2004-05-17"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fifth-dawn-prerelease-primer-2004-05-17"
 ---
 
 

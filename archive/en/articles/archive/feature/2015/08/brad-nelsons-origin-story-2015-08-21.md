@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200528014118/https://magic.wizards.com/en/articles/archive/feature/brad-nelsons-origin-story-2015-08-21)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brad-nelsons-origin-story-2015-08-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200528014118id_/https://magic.wizards.com/en/articles/archive/feature/brad-nelsons-origin-story-2015-08-21"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-28 01:41:18+00:00"
+[_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Brad Nelson's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-08-21"
+[_metadata_:title]:- "Brad Nelson's Origin Story"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-28 01:41:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200528014118id_/https://magic.wizards.com/en/articles/archive/feature/brad-nelsons-origin-story-2015-08-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brad-nelsons-origin-story-2015-08-21"
 ---
 
 

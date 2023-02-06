@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170413144023/http://magic.wizards.com/en/articles/archive/feature/tokens-amonkhet-2017-04-13)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tokens-amonkhet-2017-04-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170413144023id_/http://magic.wizards.com/en/articles/archive/feature/tokens-amonkhet-2017-04-13"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-13 14:40:23+00:00"
+[_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Amonkhet has more tokens than any set ever, and it's time to showcase them all!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2017-04-13"
+[_metadata_:title]:- "The Tokens of Amonkhet"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-13 14:40:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170413144023id_/http://magic.wizards.com/en/articles/archive/feature/tokens-amonkhet-2017-04-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tokens-amonkhet-2017-04-13"
 ---
 
 

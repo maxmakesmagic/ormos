@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018100128/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-event-information-2012-05-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-event-information-2012-05-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018100128id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-event-information-2012-05-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 10:01:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "開催日：２０１２年６月２３〜２４日 フォーマット：モダン 会場： パシフィコ横浜・ホールＡ 神奈川県横浜市西区みなとみらい1-1-1 受付: ６月２２日（金）：16:00-20:00, ¥3000 ６月２３日（土）：08:00-09:00, ¥3500  クイックリンクトーナメントスケジュール バイ情報 併催イベント サイン会情報 会場情報 連絡先 公式ツイッターハッシュタグ： #gpyoko 本戦の参加者に限定イラスト違いフォイルの《ゴブリンの先達/Goblin Guide》が贈られます。（数に限りがありますので、無くなり次第配布は終了となります。）"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-15"
+[_metadata_:title]:- "Grand Prix Yokohama Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 10:01:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018100128id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-event-information-2012-05-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-event-information-2012-05-15"
 ---
 
 

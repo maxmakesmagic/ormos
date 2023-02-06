@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211021222026/https://magic.wizards.com/en/articles/archive/feature/blastminer-red-2009-02-04)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blastminer-red-2009-02-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021222026id_/https://magic.wizards.com/en/articles/archive/feature/blastminer-red-2009-02-04"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 22:20:26+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Adrian Sullivan's Blastminer Red Format: PTQ Honolulu 3 Blinkmoth Nexus 4 Great Furnace 1 Keldon Megaliths 11 Mountain 4 Blistering Firecat 3 Dwarven Blastminer 4 Figure of Destiny 4 Magus of the Moon 4 Mogg Fanatic 4 Chrome Mox 4 Incinerate 4 Magma Jet 4 Molten Rain 3 Shrapnel Blast 2 Smash to Smithereens 1 Umezawa's Jitte *3 Boil *3 Dead // Gone *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-02-04"
+[_metadata_:title]:- "Blastminer Red"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 22:20:26+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021222026id_/https://magic.wizards.com/en/articles/archive/feature/blastminer-red-2009-02-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blastminer-red-2009-02-04"
 ---
 
 

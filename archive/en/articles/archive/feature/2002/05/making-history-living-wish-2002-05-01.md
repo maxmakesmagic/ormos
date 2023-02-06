@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517140913/https://magic.wizards.com/en/articles/archive/feature/making-history-living-wish-2002-05-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/making-history-living-wish-2002-05-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517140913id_/https://magic.wizards.com/en/articles/archive/feature/making-history-living-wish-2002-05-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 14:09:13+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "This week, I have the distinct pleasure of discussing a card that will influence every constructed format in Magic for the years to come. I'm not engaging in false modesty at all with this column, because Living Wish will change the way you play Magic. The Wishes in general take a normally non-interactive piece of the game (the sideboard), and make it into a fifteen-card"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-05-01"
+[_metadata_:title]:- "Making History with Living Wish"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 14:09:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517140913id_/https://magic.wizards.com/en/articles/archive/feature/making-history-living-wish-2002-05-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/making-history-living-wish-2002-05-01"
 ---
 
 

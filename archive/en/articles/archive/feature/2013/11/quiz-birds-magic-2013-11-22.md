@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220625140406/https://magic.wizards.com/en/articles/archive/feature/quiz-birds-magic-2013-11-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quiz-birds-magic-2013-11-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625140406id_/https://magic.wizards.com/en/articles/archive/feature/quiz-birds-magic-2013-11-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 14:04:06+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Next week is a holiday here in the States called `Thanksgiving,` which centers around gathering together with friends and family, often with a meal that features turkey as the main course. So, today, we are going to have a quiz about Birds in Magic. The Mistform Ultimus Disclaimer Every time I do one of these quizzes I inevitably get emails and tweets saying how I forget about"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-11-22"
+[_metadata_:title]:- "Quiz: Birds in Magic"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 14:04:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625140406id_/https://magic.wizards.com/en/articles/archive/feature/quiz-birds-magic-2013-11-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quiz-birds-magic-2013-11-22"
 ---
 
 

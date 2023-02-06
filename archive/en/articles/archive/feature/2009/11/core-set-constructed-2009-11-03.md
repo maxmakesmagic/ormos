@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220819170801/https://magic.wizards.com/en/articles/archive/feature/core-set-constructed-2009-11-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-set-constructed-2009-11-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819170801id_/https://magic.wizards.com/en/articles/archive/feature/core-set-constructed-2009-11-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 17:08:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: cpage01's Core Control Format: Core Set Constructed 4 Adarkar Wastes 2 Coastal Tower 4 Faerie Conclave 3 Glacial Fortress 8 Island 5 Plains 1 Arcanis the Omnipotent 4 Baneslayer Angel 2 Concentrate 3 Condemn 4 Counterspell 1 Disenchant 4 Jace Beleren 4 Mana Leak 4 Negate 2 Opportunity 2 Pithing Needle 3 Wrath of God *1 Condemn *3 Disenchant *3 Flashfreeze *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-03"
+[_metadata_:title]:- "Core Set Constructed"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 17:08:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819170801id_/https://magic.wizards.com/en/articles/archive/feature/core-set-constructed-2009-11-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-set-constructed-2009-11-03"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20221002122828/https://magic.wizards.com/en/articles/archive/feature/archives-exiled-2009-08-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archives-exiled-2009-08-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221002122828id_/https://magic.wizards.com/en/articles/archive/feature/archives-exiled-2009-08-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-10-02 12:28:28+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "Here in our little corner of the Pit, the Magic web team has a full archive of The Duelist, the print magazine that kept Magic players up-to-date in the days of yore. Although we've reprinted articles from its pages now and then, the vast majority of that information remains in, well, exile.Looking through the oldest Duelist issues, it's fascinating (at least for those who"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-17"
+[_metadata_:title]:- "From the Archives: Exiled"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-02 12:28:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221002122828id_/https://magic.wizards.com/en/articles/archive/feature/archives-exiled-2009-08-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archives-exiled-2009-08-17"
 ---
 
 

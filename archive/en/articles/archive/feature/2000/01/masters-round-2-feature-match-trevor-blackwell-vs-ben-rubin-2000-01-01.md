@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220629003122/https://magic.wizards.com/en/articles/archive/feature/masters-round-2-feature-match-trevor-blackwell-vs-ben-rubin-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-round-2-feature-match-trevor-blackwell-vs-ben-rubin-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629003122id_/https://magic.wizards.com/en/articles/archive/feature/masters-round-2-feature-match-trevor-blackwell-vs-ben-rubin-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 00:31:22+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff Ben Rubin is a seasoned Pro Tour vet despite an entire year with no Top 8's. He started his career with a 2nd place finish at PTLA3, and duplicated that feat at the 1998 Worlds. Recently, he's been Top 4 at PT London and PTNY3, and his team won Team GP Pittsburgh. Trevor Blackwell won the Masters Draft Challenge, and was the winner of PTLA 1999. Ben is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Masters Round 2 Feature Match: Trevor Blackwell vs. Ben Rubin"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 00:31:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629003122id_/https://magic.wizards.com/en/articles/archive/feature/masters-round-2-feature-match-trevor-blackwell-vs-ben-rubin-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-round-2-feature-match-trevor-blackwell-vs-ben-rubin-2000-01-01"
 ---
 
 

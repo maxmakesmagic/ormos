@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170509050406/http://magic.wizards.com/en/articles/archive/feature/blue-black-infect-2011-03-31)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-black-infect-2011-03-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170509050406id_/http://magic.wizards.com/en/articles/archive/feature/blue-black-infect-2011-03-31"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-09 05:04:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Marc Garcia Freixa's Blue-Black Infect Format: Standard – Grand Prix Barcelona 4 Creeping Tar Pit 4 Darkslick Shores 4 Drowned Catacomb 3 Inkmoth Nexus 3 Island 3 Swamp 2 Tectonic Edge 4 Phyrexian Crusader 2 Skithiryx, the Blight Dragon 2 Contagion Clasp 1 Deprive 2 Disfigure 4 Doom Blade 2 Duress 4 Inquisition of Kozilek 4 Jace, the Mind Sculptor 4 Mana Leak 4 Preordain 1 Stoic Rebuttal 3 Tumble Magnet"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-03-31"
+[_metadata_:title]:- "Blue-Black Infect"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-09 05:04:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170509050406id_/http://magic.wizards.com/en/articles/archive/feature/blue-black-infect-2011-03-31"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-black-infect-2011-03-31"
 ---
 
 

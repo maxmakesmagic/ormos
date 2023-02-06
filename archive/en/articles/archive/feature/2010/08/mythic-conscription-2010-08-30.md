@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160302052200/http://magic.wizards.com/en/articles/archive/feature/mythic-conscription-2010-08-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mythic-conscription-2010-08-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160302052200id_/http://magic.wizards.com/en/articles/archive/feature/mythic-conscription-2010-08-30"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-02 05:22:00+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Josh Utter-Leyton's Mythic Conscription"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-30"
+[_metadata_:title]:- "Mythic Conscription"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-02 05:22:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160302052200id_/http://magic.wizards.com/en/articles/archive/feature/mythic-conscription-2010-08-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mythic-conscription-2010-08-30"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018052623/https://magic.wizards.com/en/articles/archive/feature/grape%C2%B7shot-ho%C2%B7mun%C2%B7cu%C2%B7lus-i%C2%B7chor%C2%B7id-2002-02-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grape%C2%B7shot-ho%C2%B7mun%C2%B7cu%C2%B7lus-i%C2%B7chor%C2%B7id-2002-02-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018052623id_/https://magic.wizards.com/en/articles/archive/feature/grape%C2%B7shot-ho%C2%B7mun%C2%B7cu%C2%B7lus-i%C2%B7chor%C2%B7id-2002-02-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:26:23+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "grape·shot From Merriam-Webster Online: Function: noun Date: 1747 1 : an antipersonnel weapon consisting of a cluster of small iron balls shot from a cannonho·mun·cu·lus From Merriam-Webster Online: Function: noun Inflected Form(s): plural ho·mun·cu·li Etymology: Latin, diminutive of homin-, homo human being Date: 1656 1 : a little man : manikin 2 : a miniature adult that in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-02-08"
+[_metadata_:title]:- "grape·shot, ho·mun·cu·lus, I·chor·id"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:26:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018052623id_/https://magic.wizards.com/en/articles/archive/feature/grape%C2%B7shot-ho%C2%B7mun%C2%B7cu%C2%B7lus-i%C2%B7chor%C2%B7id-2002-02-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grape%C2%B7shot-ho%C2%B7mun%C2%B7cu%C2%B7lus-i%C2%B7chor%C2%B7id-2002-02-08"
 ---
 
 

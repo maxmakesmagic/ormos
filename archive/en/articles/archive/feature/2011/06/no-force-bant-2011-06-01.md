@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025013224/https://magic.wizards.com/en/articles/archive/feature/no-force-bant-2011-06-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/no-force-bant-2011-06-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025013224id_/https://magic.wizards.com/en/articles/archive/feature/no-force-bant-2011-06-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 01:32:24+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: James Rynkiewicz's No-Force Bant Format: Legacy – Champion, Grand Prix Providence 2011 1 Dryad Arbor 1 Forest 1 Karakas 1 Maze of Ith 4 Misty Rainforest 2 Savannah 3 Tropical Island 2 Tundra 3 Wasteland 4 Windswept Heath 1 Birds of Paradise 3 Knight of the Reliquary 3 Noble Hierarch 2 Qasali Pridemage 2 Stoneforge Mystic 1 Tarmogoyf 2 Vendilion Clique 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-06-01"
+[_metadata_:title]:- "No-Force Bant"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 01:32:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025013224id_/https://magic.wizards.com/en/articles/archive/feature/no-force-bant-2011-06-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/no-force-bant-2011-06-01"
 ---
 
 

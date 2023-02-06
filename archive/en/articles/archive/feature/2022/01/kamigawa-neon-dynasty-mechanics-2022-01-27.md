@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220127174122/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-mechanics-2022-01-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-mechanics-2022-01-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127174122id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-mechanics-2022-01-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 17:41:22+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Get ready to reconfigure your play with these new and returning mechanics in Kamigawa: Neon Dynasty."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2022-01-27"
+[_metadata_:title]:- "Kamigawa: Neon Dynasty Mechanics"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 17:41:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127174122id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-mechanics-2022-01-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-mechanics-2022-01-27"
 ---
 
 

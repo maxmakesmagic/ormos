@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211018084529/https://magic.wizards.com/en/articles/archive/feature/magic-onlines-festival-old-limited-sealed-2013-03-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-onlines-festival-old-limited-sealed-2013-03-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018084529id_/https://magic.wizards.com/en/articles/archive/feature/magic-onlines-festival-old-limited-sealed-2013-03-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 08:45:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Added: Additional Event TimesMagic R&D is constantly developing new formats and testing them within the confines of the pit at Wizards HQ. They are offering a peek inside the testing process with a chance to try out a new format: 10 assorted booster packs from throughout Magic Online’s history, called the Festival Of Old Limited Sealed! The Festival Of Old Limited Sealed is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-03-28"
+[_metadata_:title]:- "Magic Online's Festival Of Old Limited Sealed"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 08:45:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018084529id_/https://magic.wizards.com/en/articles/archive/feature/magic-onlines-festival-old-limited-sealed-2013-03-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-onlines-festival-old-limited-sealed-2013-03-28"
 ---
 
 

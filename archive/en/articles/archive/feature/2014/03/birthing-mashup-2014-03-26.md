@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220817225756/https://magic.wizards.com/en/articles/archive/feature/birthing-mashup-2014-03-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/birthing-mashup-2014-03-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817225756id_/https://magic.wizards.com/en/articles/archive/feature/birthing-mashup-2014-03-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-17 22:57:56+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Many would say that the advantage of playing Kiki Pod over Melira Pod is the ability to combo quickly. However, Melira Pod is generally considered the version with the best ability to grind people out. The best Pod deck is likely one that can capitalize on having the best of both worlds. Today's deck, or rather a tuned version of it, could be that deck. The first thing you"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-26"
+[_metadata_:title]:- "Birthing a Mashup"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-17 22:57:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817225756id_/https://magic.wizards.com/en/articles/archive/feature/birthing-mashup-2014-03-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/birthing-mashup-2014-03-26"
 ---
 
 

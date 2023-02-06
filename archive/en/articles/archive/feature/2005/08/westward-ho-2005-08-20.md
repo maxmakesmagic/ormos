@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524032451/https://magic.wizards.com/en/articles/archive/feature/westward-ho-2005-08-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/westward-ho-2005-08-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524032451id_/https://magic.wizards.com/en/articles/archive/feature/westward-ho-2005-08-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 03:24:51+00:00"
+[_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. Another US Nationals is behind us (along with several other countries' Nationals as well). Antonino De Rosa will be taking Neil Reeves and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-08-20"
+[_metadata_:title]:- "Westward Ho"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 03:24:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524032451id_/https://magic.wizards.com/en/articles/archive/feature/westward-ho-2005-08-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/westward-ho-2005-08-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211023155322/https://magic.wizards.com/en/articles/archive/feature/bane-standard-2014-03-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bane-standard-2014-03-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023155322id_/https://magic.wizards.com/en/articles/archive/feature/bane-standard-2014-03-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:53:22+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "If you've been playing Mono-Black Devotion in Standard, chances are you've been getting beaten up by RG Monsters lately. As it turns out, Xenagos, God of Revels is incredibly powerful. Thankfully, the good people on Magic Online have found an answer—Lifebane Zombie. Aside from Stormbreath Dragon, Lifebane Zombie hits any of the major non-Planeswalker threats if you're on the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-18"
+[_metadata_:title]:- "The Bane of Standard"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:53:22+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023155322id_/https://magic.wizards.com/en/articles/archive/feature/bane-standard-2014-03-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bane-standard-2014-03-18"
 ---
 
 

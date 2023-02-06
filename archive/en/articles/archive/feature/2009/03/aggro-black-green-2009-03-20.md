@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220809142702/https://magic.wizards.com/en/articles/archive/feature/aggro-black-green-2009-03-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-black-green-2009-03-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809142702id_/https://magic.wizards.com/en/articles/archive/feature/aggro-black-green-2009-03-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 14:27:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Paul Rietzl's Aggro Black-Green Format: Grand Prix-Chicago 4 Bayou 4 Bloodstained Mire 4 Polluted Delta 6 Swamp 4 Wasteland 2 Dark Confidant 4 Hypnotic Specter 4 Nantuko Shade 4 Tarmogoyf 2 Tombstalker 4 Dark Ritual 1 Diabolic Edict 2 Duress 4 Hymn to Tourach 4 Sinkhole 2 Snuff Out 4 Thoughtseize 1 Umezawa's Jitte *1 Choke *1 Diabolic Edict *1 Dodecapod *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-03-20"
+[_metadata_:title]:- "Aggro Black-Green"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 14:27:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809142702id_/https://magic.wizards.com/en/articles/archive/feature/aggro-black-green-2009-03-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-black-green-2009-03-20"
 ---
 
 

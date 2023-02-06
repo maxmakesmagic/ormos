@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816194559/https://magic.wizards.com/en/articles/archive/feature/regionals-primer-2004-04-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/regionals-primer-2004-04-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816194559id_/https://magic.wizards.com/en/articles/archive/feature/regionals-primer-2004-04-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 19:45:59+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Regionals is the greatest opportunity to play Standard most of us get all year. Sure, there are Nationals and Worlds where the format is played at a much higher level – but Regionals is the most important and largest Standard event that is open to the public. Most of the people who are reading this article plan on attending, so I will do my best to update you on what are the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-04-23"
+[_metadata_:title]:- "The Regionals Primer"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 19:45:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816194559id_/https://magic.wizards.com/en/articles/archive/feature/regionals-primer-2004-04-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/regionals-primer-2004-04-23"
 ---
 
 

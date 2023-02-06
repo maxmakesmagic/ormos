@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027132206/https://magic.wizards.com/en/articles/archive/feature/what-more-can-i-tell-you-2008-12-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-more-can-i-tell-you-2008-12-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027132206id_/https://magic.wizards.com/en/articles/archive/feature/what-more-can-i-tell-you-2008-12-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 13:22:06+00:00"
+[_metadata_:author]:- "Sean Fletcher"
 [_metadata_:description]:- "Hello, and welcome to `Best Of` Week, 2008 edition, here on magicthegathering.com. Wizards of the Coast offices are closed for the holidays, so this week and next week we'll be bringing you some of the best that this year had to offer.First on the docket is this excellent Shadowmoor design article by Sean Fletcher. Sean doesn't work in R&D but managed to land a spot on the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-22"
+[_metadata_:title]:- "What More Can I Tell You?"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 13:22:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027132206id_/https://magic.wizards.com/en/articles/archive/feature/what-more-can-i-tell-you-2008-12-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-more-can-i-tell-you-2008-12-22"
 ---
 
 

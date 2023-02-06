@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170718171747/http://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-design-challenge-elimination-2010-11-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-design-challenge-elimination-2010-11-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170718171747id_/http://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-design-challenge-elimination-2010-11-24"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-18 17:17:47+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "*/ One of the hardest parts of the GDS is that each Design Challenge I have to eliminate a candidate. After today, there will only be seven designers remaining. I will list each designer's name. If you click on it you will see whether they are in or out. Candidates that are in will have a green CONTINUE PLAYING. The candidate that is eliminated will have a red GAME OVER."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-11-24"
+[_metadata_:title]:- "GDS2, Episode 1 Design Challenge Elimination"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-18 17:17:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170718171747id_/http://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-design-challenge-elimination-2010-11-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-design-challenge-elimination-2010-11-24"
 ---
 
 

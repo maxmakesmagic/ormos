@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151107212246/http://magic.wizards.com/en/articles/archive/feature/you-make-card-step-22-2002-09-24)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/you-make-card-step-22-2002-09-24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151107212246id_/http://magic.wizards.com/en/articles/archive/feature/you-make-card-step-22-2002-09-24"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-07 21:22:46+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Well, the votes are in and no one name managed to run off with the victory. This means that the top three vote-getters will have a runoff to see what Mr. Babycakes will officially be called. Those names are: (in alphabetical order)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-09-24"
+[_metadata_:title]:- "You Make The Card - Step 22"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-07 21:22:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151107212246id_/http://magic.wizards.com/en/articles/archive/feature/you-make-card-step-22-2002-09-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/you-make-card-step-22-2002-09-24"
 ---
 
 

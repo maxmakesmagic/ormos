@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211206024952/https://magic.wizards.com/en/articles/archive/feature/attack-quirky-common-2002-06-13)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/attack-quirky-common-2002-06-13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206024952id_/https://magic.wizards.com/en/articles/archive/feature/attack-quirky-common-2002-06-13"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 02:49:52+00:00"
+[_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Three weeks ago, I announced the end of the “Building Blocks” series because of what I perceived as a lack of interest. A couple passionate folks wrote in defense of Building Blocks. A few others wrote to pontificate on why interest might be low, confirming some of my own thoughts. Still no negative mail on the topic, but still relatively little of it. In the end, I remained"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-06-13"
+[_metadata_:title]:- "Attack of the Quirky Common"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 02:49:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206024952id_/https://magic.wizards.com/en/articles/archive/feature/attack-quirky-common-2002-06-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/attack-quirky-common-2002-06-13"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220524162351/https://magic.wizards.com/en/articles/archive/feature/jon-finkel-us-national-champion-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jon-finkel-us-national-champion-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524162351id_/https://magic.wizards.com/en/articles/archive/feature/jon-finkel-us-national-champion-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:23:51+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan Sideboard: So, going into the Top 8, did you have any worries about your chances? Finkel: I felt like my match against Aaron [Forsythe] was close to 50/50. I always feel that I have a slight edge when I'm playing someone, but I think that people can tend to overvalue their own play skill. I felt that the key was Hernandez and Long. I felt that I beat"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Jon Finkel - U.S National Champion"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:23:51+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524162351id_/https://magic.wizards.com/en/articles/archive/feature/jon-finkel-us-national-champion-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jon-finkel-us-national-champion-2000-01-01"
 ---
 
 

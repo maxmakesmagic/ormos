@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160105230235/http://magic.wizards.com/en/articles/archive/feature/zendikar-forests-and-wallpaper-week-2009-08-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zendikar-forests-and-wallpaper-week-2009-08-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160105230235id_/http://magic.wizards.com/en/articles/archive/feature/zendikar-forests-and-wallpaper-week-2009-08-14"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-05 23:02:35+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "If you're just getting here, you should know that we've been showing off some of the Zendikar basic lands this week. We showed Plains on Monday, Islands on Tuesday, Swamps on Wednesday, and Mountains on Thursday. Today, of course, is Forests."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-08-14"
+[_metadata_:title]:- "Zendikar Forests (and Wallpaper of the Week!)"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-05 23:02:35+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160105230235id_/http://magic.wizards.com/en/articles/archive/feature/zendikar-forests-and-wallpaper-week-2009-08-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zendikar-forests-and-wallpaper-week-2009-08-14"
 ---
 
 

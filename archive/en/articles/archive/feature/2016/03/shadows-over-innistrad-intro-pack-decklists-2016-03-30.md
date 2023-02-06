@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160402053903/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-intro-pack-decklists-2016-03-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-intro-pack-decklists-2016-03-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160402053903id_/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-intro-pack-decklists-2016-03-30"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-02 05:39:03+00:00"
+[_metadata_:author]:- "Katie Allison"
 [_metadata_:description]:- "Katie has all the details on the Intro Packs that will arrive with Shadows over Innistrad."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-03-30"
+[_metadata_:title]:- "Shadows over Innistrad Intro Pack Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-02 05:39:03+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160402053903id_/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-intro-pack-decklists-2016-03-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-intro-pack-decklists-2016-03-30"
 ---
 
 

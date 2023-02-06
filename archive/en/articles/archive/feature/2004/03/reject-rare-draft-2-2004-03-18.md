@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210429134518/https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2-2004-03-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2-2004-03-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429134518id_/https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2-2004-03-18"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 13:45:18+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Last week, I ran the fifth Reject Rare Draft held at Wizards of the Coast. What the Okk is a Reject Rare Draft? It's my favorite Magic format of all time—a fantastical realm where Timmy, Johnny, and Spike all stand on (sorta) equal footing. For the story of the origins of the RRD, a description of how I run it here, and tales of last year's zany antics, click here. Don't feel"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-03-18"
+[_metadata_:title]:- "Reject Rare Draft 2"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 13:45:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429134518id_/https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2-2004-03-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2-2004-03-18"
 ---
 
 

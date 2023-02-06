@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220928035218/https://magic.wizards.com/en/articles/archive/feature/australian-national-championship-faq-2003-01-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-national-championship-faq-2003-01-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220928035218id_/https://magic.wizards.com/en/articles/archive/feature/australian-national-championship-faq-2003-01-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-28 03:52:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Invitation ListWhat is the date for the Australian National Championship?July 19 – 20, 2008Where is the Australian National Championship going to be held?Rydges Lakeside London Circuit Canberra City ACT 2600 How can I play in the Australian National Championship?The 2008 Australian National Championship is a closed event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-01-22"
+[_metadata_:title]:- "Australian National Championship FAQ"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-28 03:52:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220928035218id_/https://magic.wizards.com/en/articles/archive/feature/australian-national-championship-faq-2003-01-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-national-championship-faq-2003-01-22"
 ---
 
 

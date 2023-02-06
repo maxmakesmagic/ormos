@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220522204337/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-1)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-1"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522204337id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-1"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:43:37+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "NameLocationCityPhoneLegenda2-B Bogatirskaya st.Kiev80444613161Fortressst.Sevastopolskaya 114aSimferopol380652493541 Arrival6/1 Lva Tolstogo st.Chernovtsi0372223515Mages GuildKharkovskih Divizij 15/1Harkov505989148Intelectstr. Marazlievskaya 34aOdessa380482637287Dungeon177-B Krasnodarskaya st. ap.10.Harkov05727116410Spellscape ul. Kosmonavtov 7"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-06-27"
+[_metadata_:title]:- "Summer of Magic"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:43:37+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522204337id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-1"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220529080646/https://magic.wizards.com/en/articles/archive/feature/weekend-doubleheader-2004-04-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/weekend-doubleheader-2004-04-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529080646id_/https://magic.wizards.com/en/articles/archive/feature/weekend-doubleheader-2004-04-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 08:06:46+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Grand Prix Columbus and BirminghamI've been a little busy, but I hear there were a couple of Grand Prix this last weekend, one in Columbus, Ohio; and one in Birmingham, England."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-04-01"
+[_metadata_:title]:- "Weekend Doubleheader"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 08:06:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529080646id_/https://magic.wizards.com/en/articles/archive/feature/weekend-doubleheader-2004-04-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/weekend-doubleheader-2004-04-01"
 ---
 
 

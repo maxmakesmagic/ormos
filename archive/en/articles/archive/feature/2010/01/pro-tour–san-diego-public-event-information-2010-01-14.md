@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220626232654/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-public-event-information-2010-01-14)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-public-event-information-2010-01-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626232654id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-public-event-information-2010-01-14"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 23:26:54+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pro Tour–San Diego Fact Sheet Weekend-Long Public Events Weekend-long Public Events have no specific start time. Registration for these events is continuously open and each event will start once the appropriate number of players has registered (Subject to space and judge availability). Public Events are available during the following hours: Registration Opens: 9:00 AM each day"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-01-14"
+[_metadata_:title]:- "Pro Tour–San Diego Public Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 23:26:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626232654id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-public-event-information-2010-01-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-public-event-information-2010-01-14"
 ---
 
 

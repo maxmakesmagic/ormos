@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208063341/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208063341id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 06:33:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Table No. Player Res No."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 2 Results"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 06:33:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208063341id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-2-results-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210321063908/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-2012-06-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-2012-06-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210321063908id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-2012-06-11"
-[_metadata_:wayback_capture_timestamp]:- "2021-03-21 06:39:08+00:00"
+[_metadata_:author]:- "Max McCall"
 [_metadata_:description]:- "Hi! I'm Max McCall. I've worked on the digital side of Magic R&D for a little over a year now, and Duels of the Planeswalkers 2013 was one of my first projects when I got to Wizards. Now I finally get to talk to everyone about it! And there's a lot to say: Duels is more awesome than two grocery bags stuffed full of awesome and duct-taped together. Let's get"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-11"
+[_metadata_:title]:- "Duels of the Planeswalkers 2013"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-21 06:39:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210321063908id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-2012-06-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2013-2012-06-11"
 ---
 
 

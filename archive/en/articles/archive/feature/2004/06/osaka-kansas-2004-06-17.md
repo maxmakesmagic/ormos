@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180228213024/https://magic.wizards.com/en/articles/archive/feature/osaka-kansas-2004-06-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/osaka-kansas-2004-06-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180228213024id_/https://magic.wizards.com/en/articles/archive/feature/osaka-kansas-2004-06-17"
-[_metadata_:wayback_capture_timestamp]:- "2018-02-28 21:30:24+00:00"
+[_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Over the last several years, the Japanese tournament scene has becoming more and more of an influence on world's metagame. The results from Japan Nationals (held last weekend) are no exception - Japanese players managed to surprise us by producing a few unexpected results in what had been considered a very stagnant format."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-06-17"
+[_metadata_:title]:- "From Osaka to Kansas"
+[_metadata_:wayback_capture_timestamp]:- "2018-02-28 21:30:24+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180228213024id_/https://magic.wizards.com/en/articles/archive/feature/osaka-kansas-2004-06-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/osaka-kansas-2004-06-17"
 ---
 
 

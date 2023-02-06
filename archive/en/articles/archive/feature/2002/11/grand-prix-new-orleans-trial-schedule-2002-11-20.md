@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211019163245/https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-orleans-trial-schedule-2002-11-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-orleans-trial-schedule-2002-11-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019163245id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-orleans-trial-schedule-2002-11-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 16:32:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee: Varies by location. Contact organizer for detailsTournament Structure: Modified SwissTournament Format: ExtendedPrizes: At least 1 third-round bye at each tournament, plus product prizes determined by organizer.StateCityDateByesLocationAddressContact PhoneWebsite AlabamaMobile12/7/20021groundZero comics and games6850 Moffett Rd.251-645-8712Website ArkansasLittle"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-11-20"
+[_metadata_:title]:- "Grand Prix - New Orleans Trial Schedule"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 16:32:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019163245id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-orleans-trial-schedule-2002-11-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-orleans-trial-schedule-2002-11-20"
 ---
 
 

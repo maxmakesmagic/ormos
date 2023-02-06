@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118205221/https://magic.wizards.com/en/articles/archive/feature/magic-2011-product-section-2010-06-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2011-product-section-2010-06-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118205221id_/https://magic.wizards.com/en/articles/archive/feature/magic-2011-product-section-2010-06-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:52:21+00:00"
+[_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "The Magic 2011 Product Section is here, and it contains an unprecedented eighty-nine cards from the upcoming set! And over the next couple of weeks, more and more cards will be revealed until you can see every single card there.But there's also Magic 2011 wallpapers and set information. It's everything you need to know about the next core set as we count down to the Magic 2011"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-06-23"
+[_metadata_:title]:- "Magic 2011 Product Section"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:52:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118205221id_/https://magic.wizards.com/en/articles/archive/feature/magic-2011-product-section-2010-06-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2011-product-section-2010-06-23"
 ---
 
 

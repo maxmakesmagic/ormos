@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027061253/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-trials-2004-12-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-trials-2004-12-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027061253id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-trials-2004-12-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 06:12:53+00:00"
+[_metadata_:author]:- "updated 2-7-05"
 [_metadata_:description]:- "StateCityEvent Date3-round byeLocationAddressContact phoneURLIllinoisChicago2/12/20051Pastimes8478 Golf Rd847-470-9636WebsiteMontanaMissoula2/5/20051Muse Comics2100 Stephens #107406-543-9944GeorgiaAtlanta2/12/20051The War Room2055-G Beaver Ruin Rd.770-729-9588WebsiteMissouriSt. Louis2/5/20051The Fantasy Shop2426 W. Clay847-998-9816WebsiteOregonCoos Bay1/30/20051His Junk/Her"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-12-20"
+[_metadata_:title]:- "Grand Prix - Seattle Trials"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 06:12:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027061253id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-trials-2004-12-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-trials-2004-12-20"
 ---
 
 

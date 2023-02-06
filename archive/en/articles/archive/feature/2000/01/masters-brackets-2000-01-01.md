@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220702210506/https://magic.wizards.com/en/articles/archive/feature/masters-brackets-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-brackets-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702210506id_/https://magic.wizards.com/en/articles/archive/feature/masters-brackets-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 21:05:06+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff Finals brackets Semi-finals Jason Zila Sigurd Eskeland Trey Van Cleave William Jensen Finals Jason Zila William Jensen Champion William Jensen Semi-finals brackets 1st Rnd. 1) Kai Budde Jason Zila 16) Mark Le Pine Tony Dobson 8) Ben Rubin Gary Wise 9) Trevor Blackwell Jon Finkel 2nd Rnd. Jason Zila Tony Dobson Ben Rubin Trevor Blackwell Quarterfinals Jason"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Masters Brackets"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 21:05:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702210506id_/https://magic.wizards.com/en/articles/archive/feature/masters-brackets-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-brackets-2000-01-01"
 ---
 
 

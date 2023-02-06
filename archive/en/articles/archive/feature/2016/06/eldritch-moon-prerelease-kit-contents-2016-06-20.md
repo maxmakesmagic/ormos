@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160622022350/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-prerelease-kit-contents-2016-06-20)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-prerelease-kit-contents-2016-06-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160622022350id_/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-prerelease-kit-contents-2016-06-20"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-22 02:23:50+00:00"
+[_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "We're only a few weeks from Eldritch Moon Prereleases, and Blake is here to show off all the goodies you can look forward to."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-06-20"
+[_metadata_:title]:- "Eldritch Moon Prerelease Kit Contents"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-22 02:23:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160622022350id_/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-prerelease-kit-contents-2016-06-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-prerelease-kit-contents-2016-06-20"
 ---
 
 

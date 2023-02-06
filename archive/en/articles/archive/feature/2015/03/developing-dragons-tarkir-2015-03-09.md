@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150309144954/http://magic.wizards.com/en/articles/archive/feature/developing-dragons-tarkir-2015-03-09)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/developing-dragons-tarkir-2015-03-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150309144954id_/http://magic.wizards.com/en/articles/archive/feature/developing-dragons-tarkir-2015-03-09"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-09 14:49:54+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Dave Humpherys"
 [_metadata_:description]:- "Hitting the optimal number of Dragons in Dragons of Tarkir."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-03-09"
+[_metadata_:title]:- "Developing Dragons of Tarkir"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-09 14:49:54+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150309144954id_/http://magic.wizards.com/en/articles/archive/feature/developing-dragons-tarkir-2015-03-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/developing-dragons-tarkir-2015-03-09"
 ---
 
 

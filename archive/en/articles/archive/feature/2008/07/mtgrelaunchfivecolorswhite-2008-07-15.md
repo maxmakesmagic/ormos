@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211130133257/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorswhite-2008-07-15)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorswhite-2008-07-15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130133257id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorswhite-2008-07-15"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 13:32:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "White mana comes from sprawling plains, sunlit savannahs, and windswept meadows. In Magic, white is the color of law, order, and structure. White magic heals and protects and is often a force for justice and honor. When a white mage fights, legions of troops thunder across the battlefield with their banners held high. Enemy hordes are routed outside the gates of a castle. When"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-07-15"
+[_metadata_:title]:- "mtgrelaunch_fivecolors_white"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 13:32:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130133257id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorswhite-2008-07-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorswhite-2008-07-15"
 ---
 
 

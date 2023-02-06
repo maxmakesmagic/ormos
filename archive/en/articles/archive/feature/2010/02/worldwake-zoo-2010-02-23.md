@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117173042/https://magic.wizards.com/en/articles/archive/feature/worldwake-zoo-2010-02-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwake-zoo-2010-02-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117173042id_/https://magic.wizards.com/en/articles/archive/feature/worldwake-zoo-2010-02-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 17:30:42+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Patrick Cox’s Worldwake Zoo Format: Extended - Grand Prix–Oakland 4 Arid Mesa 1 Forest 1 Hallowed Fountain 4 Misty Rainforest 1 Plains 1 Sacred Foundry 4 Scalding Tarn 1 Steam Vents 1 Stomping Ground 2 Temple Garden 1 Treetop Village 1 Verdant Catacombs 4 Kird Ape 3 Knight of the Reliquary 4 Loam Lion 3 Qasali Pridemage 2 Ranger of Eos 4 Tarmogoyf 4 Wild"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-23"
+[_metadata_:title]:- "Worldwake Zoo"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 17:30:42+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117173042id_/https://magic.wizards.com/en/articles/archive/feature/worldwake-zoo-2010-02-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwake-zoo-2010-02-23"
 ---
 
 

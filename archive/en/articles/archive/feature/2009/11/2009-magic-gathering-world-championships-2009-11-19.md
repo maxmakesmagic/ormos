@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210921150702/https://magic.wizards.com/en/articles/archive/feature/2009-magic-gathering-world-championships-2009-11-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-magic-gathering-world-championships-2009-11-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210921150702id_/https://magic.wizards.com/en/articles/archive/feature/2009-magic-gathering-world-championships-2009-11-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-21 15:07:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "CONTENTSTournament Information Public Events Hall Attractions Travel Information The Road to Worlds World Championships History Live Coverage of the 2009 World Championships The 2009 Magic: The Gathering World Championships is the culmination of the Magic year. Players from more than 50 countries will come together in Rome, Italy for the pinnacle of international Magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-11-19"
+[_metadata_:title]:- "2009 Magic: The Gathering World Championships"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-21 15:07:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210921150702id_/https://magic.wizards.com/en/articles/archive/feature/2009-magic-gathering-world-championships-2009-11-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-magic-gathering-world-championships-2009-11-19"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170330205916/http://magic.wizards.com/en/articles/archive/feature/emrakuls-vengeance-2014-01-21)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/emrakuls-vengeance-2014-01-21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330205916id_/http://magic.wizards.com/en/articles/archive/feature/emrakuls-vengeance-2014-01-21"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-30 20:59:16+00:00"
+[_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Prolific streamer Jan van der Vegt has typically done pretty well in European Grand Prix scene. While he typically plays something safe like Jund, he showed up with a masterpiece to Grand Prix Prague. On the first turn I saw him play, he exiled a Simian Spirit Guide to cast a turn-one Sylvan Caryatid. What on earth was he playing?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-01-21"
+[_metadata_:title]:- "Emrakul's Vengeance"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-30 20:59:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330205916id_/http://magic.wizards.com/en/articles/archive/feature/emrakuls-vengeance-2014-01-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/emrakuls-vengeance-2014-01-21"
 ---
 
 

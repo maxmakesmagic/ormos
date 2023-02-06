@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211026015717/https://magic.wizards.com/en/articles/archive/feature/where-have-all-creatures-gone-2013-12-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-have-all-creatures-gone-2013-12-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026015717id_/https://magic.wizards.com/en/articles/archive/feature/where-have-all-creatures-gone-2013-12-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 01:57:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Where have all the creatures gone? In the Magic Online Constructed Player of the Year event, Thommo made Top 8 with this Standard deck that has no creatures in the main deck! How does the deck even win then? Okay, okay, technically it can animate Mutavault, make Soldier tokens with Elspeth, or even use Jace's ultimate to find a creature in the opponent's deck. And there's some"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-12-20"
+[_metadata_:title]:- "Where Have All the Creatures Gone?"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 01:57:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026015717id_/https://magic.wizards.com/en/articles/archive/feature/where-have-all-creatures-gone-2013-12-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-have-all-creatures-gone-2013-12-20"
 ---
 
 

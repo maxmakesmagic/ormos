@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170417163908/http://magic.wizards.com/en/articles/archive/feature/look-zendikar-2009-09-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/look-zendikar-2009-09-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170417163908id_/http://magic.wizards.com/en/articles/archive/feature/look-zendikar-2009-09-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:39:08+00:00"
+[_metadata_:author]:- "Jeremy Jarvis"
 [_metadata_:description]:- "Zendikar. What the hell is going on here?! Well, visually, I can answer that."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-09-14"
+[_metadata_:title]:- "The Look of Zendikar"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:39:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170417163908id_/http://magic.wizards.com/en/articles/archive/feature/look-zendikar-2009-09-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/look-zendikar-2009-09-14"
 ---
 
 

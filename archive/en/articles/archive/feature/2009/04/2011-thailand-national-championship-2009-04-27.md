@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520040233/https://magic.wizards.com/en/articles/archive/feature/2011-thailand-national-championship-2009-04-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-thailand-national-championship-2009-04-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520040233id_/https://magic.wizards.com/en/articles/archive/feature/2011-thailand-national-championship-2009-04-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 04:02:33+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvitation Source VeerapatSirilertvorakul2010 National Team vitayaTitaratanaporn2010 National Team KampanartWiriyaampon2010 National Team KampanartWiriyaampon2010 National Champion pongsirihiranyasiriTop 75 Country rating MongkolTecharattanaprasertTop 75 Country rating AkarawatJirawatanakulTop 75 Country rating SeangchakSattabanasukTop 75 Country rating"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:title]:- "2011 Thailand National Championship"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 04:02:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520040233id_/https://magic.wizards.com/en/articles/archive/feature/2011-thailand-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-thailand-national-championship-2009-04-27"
 ---
 
 

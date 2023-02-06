@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211127143950/https://magic.wizards.com/en/articles/archive/feature/product-information-2013-01-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2013-01-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127143950id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2013-01-28"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 14:39:50+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Set Information The Magic 2014 Core Set features 249 black-bordered cards, including randomly inserted premium versions of all cards in the set. The Magic 2014 Core Set is available in booster packs, intro packs, and fat packs. Set Name: The Magic 2014 Core Set Number of Cards: 249 Twitter Hashtag: #MTGM14 Complete Magic 2014 Core Set Credits Magic 2014 FAQ (or download as"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-28"
+[_metadata_:title]:- "The Product Information"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 14:39:50+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127143950id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2013-01-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2013-01-28"
 ---
 
 

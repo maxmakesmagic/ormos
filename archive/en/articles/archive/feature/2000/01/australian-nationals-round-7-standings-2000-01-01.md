@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525014504/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525014504id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 01:45:04+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Hong, Craig 19 61.3379 86.6667 57.6679 7/6/1/0 2 Coltman, Dane 18 59.1837 66.6667 60.4385 7/6/0/0 3 Corney, Andrew 18 57.1429 86.6667 52.6786 7/6/0/0 4 West, Justin 18 56.4626 68.4211 55.9907 7/6/0/0 5 Turner, Daniel 18 55.7823 85.7143 52.4012 7/6/0/0 6 Bow, Frankle 16 51.8141 66.6667 51.1512 7/5/1/0 7"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Australian Nationals Round 7 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 01:45:04+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525014504id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-7-standings-2000-01-01"
 ---
 
 

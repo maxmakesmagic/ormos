@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220121053846/https://magic.wizards.com/en/articles/archive/feature/faerie-tales-2006-12-06)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/faerie-tales-2006-12-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121053846id_/https://magic.wizards.com/en/articles/archive/feature/faerie-tales-2006-12-06"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 05:38:46+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "… and then I woke up. That was weird. I don't know where I was last week. Someone suggested that I must've had a terrible bump on the head and that I wasn't really gone. But I did leave you, Johnnies - that's just the trouble. And I tried to get back for days and days. It wasn't a dream - it was a place. And JMS - and Adrian - and Randy - and BDM – and, uh, BDM were there."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-12-06"
+[_metadata_:title]:- "Faerie Tales"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 05:38:46+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121053846id_/https://magic.wizards.com/en/articles/archive/feature/faerie-tales-2006-12-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/faerie-tales-2006-12-06"
 ---
 
 

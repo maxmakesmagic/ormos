@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220521035907/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-17-2)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-17-2"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521035907id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-17-2"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 03:59:07+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Alex Kim Format: 1st Place - Tennessee - Memphis - 12/12 6 Forest 5 Mountain 5 Plains 1 Jungle Shrine 1 Naya Panorama 1 Battlegrace Angel 1 Knight of the Skyward Eye 1 Sunseed Nurturer 1 Welkin Guide 2 Rakeclaw Gargantuan 1 Vithian Stinger 1 Rip-Clan Crasher 1 Steward of Valeron 1 Court Archers 1 Elvish Visionary 1 Jungle Weaver 1 Mosstodon 1 Naya Battlemage"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-17"
+[_metadata_:title]:- "Pro Tour–Kyoto Qualifying Season: Top 8 Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 03:59:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521035907id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-17-2"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-17-2"
 ---
 
 

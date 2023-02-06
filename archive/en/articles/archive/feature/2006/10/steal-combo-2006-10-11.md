@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220128052131/https://magic.wizards.com/en/articles/archive/feature/steal-combo-2006-10-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/steal-combo-2006-10-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128052131id_/https://magic.wizards.com/en/articles/archive/feature/steal-combo-2006-10-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 05:21:31+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "`Last week featured what was probably my most controversial article ever.`Welcome, Lesser and Greater Johnnies! Before I dig deep, peel back the layers, and expose the real amazing and fun combos, I’d like to clear up a little misunderstanding. Last week featured what was probably my most controversial article ever. I didn’t try to ruin Magic, or nerf your favourite colour, or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2006-10-11"
+[_metadata_:title]:- "Steal this Combo"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 05:21:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128052131id_/https://magic.wizards.com/en/articles/archive/feature/steal-combo-2006-10-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/steal-combo-2006-10-11"
 ---
 
 

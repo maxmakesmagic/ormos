@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171030063716/https://magic.wizards.com/en/articles/archive/feature/final-standings-2000-01-01-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-standings-2000-01-01-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030063716id_/https://magic.wizards.com/en/articles/archive/feature/final-standings-2000-01-01-0"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:37:16+00:00"
 [_metadata_:description]:- "Rank Player Winnings Pro Points 1 Svaldi, Guilherme Dei $2,400 6 2 Shvartsman, Alex $1,700 5 3 Ruel, Antoine $1,200 4 4 Martins - ama, Leopoldo M. $1,000 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Final Standings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 06:37:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030063716id_/https://magic.wizards.com/en/articles/archive/feature/final-standings-2000-01-01-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-standings-2000-01-01-0"
 ---
 
 

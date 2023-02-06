@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201202041327/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-stalking-bloodsucker-2003-08-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-stalking-bloodsucker-2003-08-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201202041327id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-stalking-bloodsucker-2003-08-22"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-02 04:13:27+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Each week, we'll be offering a free desktop wallpaper using some cool Magic card art. Any card past or present is fair game, and we don't care how playable the card is, just that it has a great illustration. This week's offering is the Odyssey Vampire Stalking Bloodsucker by Greg Staples."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-08-22"
+[_metadata_:title]:- "Wallpaper of the Week: Stalking Bloodsucker"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-02 04:13:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201202041327id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-stalking-bloodsucker-2003-08-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-stalking-bloodsucker-2003-08-22"
 ---
 
 

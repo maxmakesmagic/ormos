@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220525100456/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-7-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-7-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525100456id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-7-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:04:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Lieberman, Alex 19 63.2653 76.4706 61.9633 7/6/1/0 2 Benafel, Chris 19 55.1020 80.0000 55.8672 7/6/1/0 3 Finkel, Jon 18 68.7075 81.2500 63.1176 7/6/0/0 4 Hernandez, Frank 18 63.6054 68.4211 58.0174 7/6/0/0 5 Frangiosa, Rich 18 58.7755 72.2222 56.9043 7/6/0/0 6 Tautic, Ray 18 57.1429 70.5882 54.3033"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "US Nationals 2000 Round 7 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:04:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525100456id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-7-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-7-standings-2000-01-01"
 ---
 
 

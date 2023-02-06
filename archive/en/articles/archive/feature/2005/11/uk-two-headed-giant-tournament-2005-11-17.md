@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211025140506/https://magic.wizards.com/en/articles/archive/feature/uk-two-headed-giant-tournament-2005-11-17)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/uk-two-headed-giant-tournament-2005-11-17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025140506id_/https://magic.wizards.com/en/articles/archive/feature/uk-two-headed-giant-tournament-2005-11-17"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 14:05:06+00:00"
+[_metadata_:author]:- "Simon Russell"
 [_metadata_:description]:- "Store NameDate Of EventCity LocationCountryContact Info4th DimensionTBCDublinIreland+353 868 159 058Archeron10th DecemberHullEngland01482 221011Area 51TBCBristolEngland0117 9244655Asylum11th DecemberAberdeenEngland01224 574637Bishop Games10th DecemberCoventryEngland02476 634555Black Keep Games10th DecemberTruroEngland01872 320002Cardiff Games11th DecemberCardiffWales029"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-11-17"
+[_metadata_:title]:- "UK Two-Headed Giant Tournament"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 14:05:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025140506id_/https://magic.wizards.com/en/articles/archive/feature/uk-two-headed-giant-tournament-2005-11-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/uk-two-headed-giant-tournament-2005-11-17"
 ---
 
 

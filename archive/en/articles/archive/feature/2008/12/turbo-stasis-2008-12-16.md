@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160308145031/http://magic.wizards.com/en/articles/archive/feature/turbo-stasis-2008-12-16)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/turbo-stasis-2008-12-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160308145031id_/http://magic.wizards.com/en/articles/archive/feature/turbo-stasis-2008-12-16"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-08 14:50:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Matt Place's Turbo Stasis"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-16"
+[_metadata_:title]:- "Turbo Stasis"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-08 14:50:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160308145031id_/http://magic.wizards.com/en/articles/archive/feature/turbo-stasis-2008-12-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/turbo-stasis-2008-12-16"
 ---
 
 

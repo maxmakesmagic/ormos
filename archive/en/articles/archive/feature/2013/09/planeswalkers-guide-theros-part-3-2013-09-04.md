@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150510171631/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-theros-part-3-2013-09-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-theros-part-3-2013-09-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150510171631id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-theros-part-3-2013-09-04"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-10 17:16:31+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "The Magic Creative Team"
 [_metadata_:description]:- " "
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-09-04"
+[_metadata_:title]:- "Planeswalker's Guide to Theros, Part 3"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-10 17:16:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150510171631id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-theros-part-3-2013-09-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-theros-part-3-2013-09-04"
 ---
 
 

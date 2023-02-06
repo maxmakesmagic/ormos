@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201205232847/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205232847id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:28:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Results Team Antarctica 1-1 Dogma Backstreetboys 3-0 Time 2 Scrub BattleZone 0-3 Crocodile Hunters Beat Squad 0-3 Josh Napper Fan Club Bolting Souls 3-0 Untitled Cacti 3-0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix St. Louis Round 6 Results"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:28:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205232847id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-results-2000-01-01"
 ---
 
 

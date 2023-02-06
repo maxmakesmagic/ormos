@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220520070144/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-11-feature-match-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-11-feature-match-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520070144id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-11-feature-match-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 07:01:44+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Zvi Mowshowitz Khoo Wei Ren vs. Scott Thong If nothing else, they're not playing Necro-Donate. Khoo Wei Ren was playing Enlightened WW, and Scott Thong was playing Burn with Furnace of Rath. Many Sligh decks now have Seal of Fire and Shock now. This can be dangerous when they can't be used as creature removal, but they're excellent when playing against decks full of small"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Grand Prix-Kuala LumpurRound 11 Feature Match"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 07:01:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520070144id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-11-feature-match-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-11-feature-match-2000-01-01"
 ---
 
 

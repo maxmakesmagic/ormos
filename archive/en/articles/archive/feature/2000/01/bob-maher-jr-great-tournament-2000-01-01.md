@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211128122711/https://magic.wizards.com/en/articles/archive/feature/bob-maher-jr-great-tournament-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bob-maher-jr-great-tournament-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128122711id_/https://magic.wizards.com/en/articles/archive/feature/bob-maher-jr-great-tournament-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:27:11+00:00"
+[_metadata_:author]:- "Kim Eikefet"
 [_metadata_:description]:- "Bob Maher, Jr. was really satisfied about the 2000 World Championship. By winning the semifinals, Bob became the 2000 Pro Tour Player of the Year, and even though he lost in the finals, he was very happy for the winner, Jon Finkel. `Jon deserves it. He has had a hell of a year,` Maher says. The 22 year old player from Madison, Wisconsin hasn't had a bad season either. First he"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Bob Maher, Jr. A Great Tournament"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:27:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128122711id_/https://magic.wizards.com/en/articles/archive/feature/bob-maher-jr-great-tournament-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bob-maher-jr-great-tournament-2000-01-01"
 ---
 
 

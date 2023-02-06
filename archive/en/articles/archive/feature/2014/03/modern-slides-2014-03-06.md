@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170612034455/http://magic.wizards.com/en/articles/archive/feature/modern-slides-2014-03-06)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-slides-2014-03-06"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170612034455id_/http://magic.wizards.com/en/articles/archive/feature/modern-slides-2014-03-06"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-12 03:44:55+00:00"
+[_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Just two weeks ago I was in sunny Valencia for Pro Tour Born of the Gods, I can remember it like it was just... a few weeks ago. At the Pro Tour we got a look at Modern and the many competitive archetypes and decks that make up the format, with Shaun McLaren winning it all with his RWU Control deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-03-06"
+[_metadata_:title]:- "Modern Slides"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-12 03:44:55+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170612034455id_/http://magic.wizards.com/en/articles/archive/feature/modern-slides-2014-03-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-slides-2014-03-06"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211204111428/https://magic.wizards.com/en/articles/archive/feature/champions-first-impressions-2004-09-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/champions-first-impressions-2004-09-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204111428id_/https://magic.wizards.com/en/articles/archive/feature/champions-first-impressions-2004-09-22"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 11:14:28+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Now even though we magicthegathering.com columnists get to do preview cards such as Time Stop, Nezumi Shortfang, and Heartbeat of Spring, we don't necessarily get to see the entire set ahead of time. This was not always the case, though. Back when I was doing articles like my Fledgling Dragon preview and Ravenous Baloth preview for the Sideboard (now part of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-09-22"
+[_metadata_:title]:- "Champions: First Impressions"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 11:14:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204111428id_/https://magic.wizards.com/en/articles/archive/feature/champions-first-impressions-2004-09-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/champions-first-impressions-2004-09-22"
 ---
 
 

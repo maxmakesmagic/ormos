@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220120061753/https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93venice-2002-10-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93venice-2002-10-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120061753id_/https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93venice-2002-10-29"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 06:17:53+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Come join Wizards of the Coast for our next Pro Tour stop in Venice This information will help you to prepare now to attend in March. Pro Tour-Venice will be held March 20-23, 2003.Where and How to Qualify Tournament Location Hotel information Mandatory Registration Format Prize Payout Artists Side Events Player Contact Invitation List Masters Series and Masters Gateway"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-10-29"
+[_metadata_:title]:- "2003 Pro Tour–Venice"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 06:17:53+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120061753id_/https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93venice-2002-10-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2003-pro-tour%E2%80%93venice-2002-10-29"
 ---
 
 

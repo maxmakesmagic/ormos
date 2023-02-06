@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201111222711/https://magic.wizards.com/en/articles/archive/feature/spectral-bant-2012-03-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/spectral-bant-2012-03-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111222711id_/https://magic.wizards.com/en/articles/archive/feature/spectral-bant-2012-03-20"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 22:27:11+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "At the Legacy Starcitygames.com Open Series in Sacramento this past weekend, Philip Contreras put several unassuming pieces together to create a deck unlike anything Legacy players were used to. A green-white-blue beatdown deck featuring auras alongside vicious creatures to enchant, Philip carved the way for a brand new deck to go all the way to 1st place. The deck makes good use of efficient green acceleration, blue disruption, and... Spectral Flight?!?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-03-20"
+[_metadata_:title]:- "Spectral Bant"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 22:27:11+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111222711id_/https://magic.wizards.com/en/articles/archive/feature/spectral-bant-2012-03-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/spectral-bant-2012-03-20"
 ---
 
 

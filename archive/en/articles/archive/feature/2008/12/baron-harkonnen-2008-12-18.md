@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170818031038/http://magic.wizards.com/en/articles/archive/feature/baron-harkonnen-2008-12-18)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/baron-harkonnen-2008-12-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818031038id_/http://magic.wizards.com/en/articles/archive/feature/baron-harkonnen-2008-12-18"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-18 03:10:38+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Gaudenis Vidugiris's Baron Harkonnen Format: Pro Tour-Yokohama 2007 4 Terramorphic Expanse 4 Dreadship Reef 12 Island 3 Swamp 1 Forest 2 Urborg, Tomb of Yawgmoth 1 Urza's Factory 1 Draining Whelk 2 Teferi, Mage of Zhalfir 2 Vesuvan Shapeshifter 1 Brine Elemental 4 Mystical Teachings 4 Careful Consideration 1 Cancel 1 Spell Burst 1 Haunting Hymn 1 Funeral Charm 1 Strangling Soot 1 Sudden Death 2 Tendrils of Corruption"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-12-18"
+[_metadata_:title]:- "Baron Harkonnen"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-18 03:10:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818031038id_/http://magic.wizards.com/en/articles/archive/feature/baron-harkonnen-2008-12-18"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/baron-harkonnen-2008-12-18"
 ---
 
 

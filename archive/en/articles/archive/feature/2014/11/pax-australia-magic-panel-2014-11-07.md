@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20141109183513/http://magic.wizards.com/en/articles/archive/feature/pax-australia-magic-panel-2014-11-07)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pax-australia-magic-panel-2014-11-07"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141109183513id_/http://magic.wizards.com/en/articles/archive/feature/pax-australia-magic-panel-2014-11-07"
-[_metadata_:wayback_capture_timestamp]:- "2014-11-09 18:35:13+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:description]:- "Director of R&D Aaron Forsythe talks Magic at PAX Australia."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-11-07"
+[_metadata_:title]:- "PAX Australia Magic Panel"
+[_metadata_:wayback_capture_timestamp]:- "2014-11-09 18:35:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141109183513id_/http://magic.wizards.com/en/articles/archive/feature/pax-australia-magic-panel-2014-11-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pax-australia-magic-panel-2014-11-07"
 ---
 
 

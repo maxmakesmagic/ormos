@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220123194047/https://magic.wizards.com/en/articles/archive/feature/grand-prix-leipzig-2005-02-18)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-leipzig-2005-02-18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123194047id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-leipzig-2005-02-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 19:40:47+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Win a trip to Grand Prix Lisbon ...and many other Magic prizes! At Grand Prix Leipzig fill out the voucher* that you'll find at the DCI booth and deposit it in the designated box before"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-02-18"
+[_metadata_:title]:- "Grand Prix - Leipzig"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 19:40:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123194047id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-leipzig-2005-02-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-leipzig-2005-02-18"
 ---
 
 

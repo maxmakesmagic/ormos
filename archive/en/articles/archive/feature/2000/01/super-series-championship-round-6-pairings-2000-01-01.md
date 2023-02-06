@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202062413/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202062413id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 06:24:13+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Adam, Felix (210) 9 50 Ames, Steve (61) 9 Altermara, Chase (212) 9 35 Johnson, Philip (14) 9 Ames, David (157) 9 43 Sandler, Noah (146) 9 Ames, Steve (61) 9 50 Adam, Felix (210) 9 Anderson, Eddie (15) 12 6 Tracy, Sean (51) 12 Anderson, Will (184) 9 48 Mead, Hank (135) 9 Ash, Kevin (101) 6 61 Pline, Gary (118) 6 Aune, Eirik (167) 9 39 Chu,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Super Series Championship Round 6 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 06:24:13+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202062413id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-6-pairings-2000-01-01"
 ---
 
 

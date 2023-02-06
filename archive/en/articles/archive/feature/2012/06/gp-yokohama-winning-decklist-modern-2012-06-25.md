@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170709163428/http://magic.wizards.com/en/articles/archive/feature/gp-yokohama-winning-decklist-modern-2012-06-25)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gp-yokohama-winning-decklist-modern-2012-06-25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170709163428id_/http://magic.wizards.com/en/articles/archive/feature/gp-yokohama-winning-decklist-modern-2012-06-25"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-09 16:34:28+00:00"
+[_metadata_:author]:- "Event Coverage Staff"
 [_metadata_:description]:- "Here is Jyun'ichi Miyajima's Grand Prix Yokohama 2012 Winning Deck!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-06-25"
+[_metadata_:title]:- "GP Yokohama Winning Decklist (Modern)"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-09 16:34:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170709163428id_/http://magic.wizards.com/en/articles/archive/feature/gp-yokohama-winning-decklist-modern-2012-06-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gp-yokohama-winning-decklist-modern-2012-06-25"
 ---
 
 

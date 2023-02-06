@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160317133943/http://magic.wizards.com/en/articles/archive/feature/product-information-2013-01-08)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/product-information-2013-01-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160317133943id_/http://magic.wizards.com/en/articles/archive/feature/product-information-2013-01-08"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-17 13:39:43+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-08"
+[_metadata_:title]:- "Product Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-17 13:39:43+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160317133943id_/http://magic.wizards.com/en/articles/archive/feature/product-information-2013-01-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/product-information-2013-01-08"
 ---
 
 

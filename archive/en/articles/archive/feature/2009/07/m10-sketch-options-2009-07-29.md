@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211128215330/https://magic.wizards.com/en/articles/archive/feature/m10-sketch-options-2009-07-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/m10-sketch-options-2009-07-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128215330id_/https://magic.wizards.com/en/articles/archive/feature/m10-sketch-options-2009-07-29"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 21:53:30+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Here at Magic Arcana, we often show you sketches of card art before they're finalized—a fascinating glimpse into the Magic art process. But much like card text, it's deceptive to think of a card's art going through an unbroken, inevitable progression from sketch to paint to card. At any number of steps, art concept writers, art directors, and the artists themselves made"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-29"
+[_metadata_:title]:- "M10 Sketch Options"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 21:53:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128215330id_/https://magic.wizards.com/en/articles/archive/feature/m10-sketch-options-2009-07-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/m10-sketch-options-2009-07-29"
 ---
 
 

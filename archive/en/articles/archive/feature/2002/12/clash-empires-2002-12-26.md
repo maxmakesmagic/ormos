@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210503043517/https://magic.wizards.com/en/articles/archive/feature/clash-empires-2002-12-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/clash-empires-2002-12-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503043517id_/https://magic.wizards.com/en/articles/archive/feature/clash-empires-2002-12-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:35:17+00:00"
+[_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "I had been really struggling with how to make a deckbuilding column relevant for Flavor Text Week when Aaron suggested I might want to write something about Fallen Empires. The set had previously only been on the fringe of my consciousness, but I fell in love when pouring over the cards. This article produced a flood of positive email, showing me that a healthy portion of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-12-26"
+[_metadata_:title]:- "Clash of the Empires"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:35:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503043517id_/https://magic.wizards.com/en/articles/archive/feature/clash-empires-2002-12-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/clash-empires-2002-12-26"
 ---
 
 

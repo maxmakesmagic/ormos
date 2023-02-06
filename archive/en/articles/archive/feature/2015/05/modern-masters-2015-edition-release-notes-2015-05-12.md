@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150514164027/http://magic.wizards.com/en/articles/archive/feature/modern-masters-2015-edition-release-notes-2015-05-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-masters-2015-edition-release-notes-2015-05-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150514164027id_/http://magic.wizards.com/en/articles/archive/feature/modern-masters-2015-edition-release-notes-2015-05-12"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-14 16:40:27+00:00"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Modern Masters 2015 Edition Release Notes Compiled by Matt Tabak, with contributions from Laurie Cheers, Carsten Haese, Eli Shiffrin, Zoe Stephenson, and Thijs van Ommen Document last modified April 10, 2015"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-05-12"
+[_metadata_:title]:- "Modern Masters 2015 Edition Release Notes"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-14 16:40:27+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150514164027id_/http://magic.wizards.com/en/articles/archive/feature/modern-masters-2015-edition-release-notes-2015-05-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-masters-2015-edition-release-notes-2015-05-12"
 ---
 
 

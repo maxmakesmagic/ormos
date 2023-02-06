@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171101023344/https://magic.wizards.com/en/articles/archive/feature/teams-round-four-team-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-four-team-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171101023344id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-four-team-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-01 02:33:44+00:00"
 [_metadata_:description]:- "Match Team Points   Team Points 1 United States 210 vs. Canada 179 2 Germany 176 vs. France 174 3 Sweden 171 vs. Czech Republic 170"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Teams Round Four Team Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-01 02:33:44+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171101023344id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-four-team-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-four-team-pairings-2000-01-01"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220117023005/https://magic.wizards.com/en/articles/archive/feature/something-quite-palette-able-2008-05-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/something-quite-palette-able-2008-05-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117023005id_/https://magic.wizards.com/en/articles/archive/feature/something-quite-palette-able-2008-05-08"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:30:05+00:00"
+[_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Howdy, all. Now that Shadowmoor is very much out in the world, even appearing as far afield as Jean-Claude Van Damme's hometown, I guess it's time to start talking about some of the set's combo potential. Oh, wait, we've been doing that for weeks already, and for good reason. As I've mentioned before, Shadowmoor ranks very highly on the Johnny scale that I probably made up at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-05-08"
+[_metadata_:title]:- "Something Quite Palette-able"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:30:05+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117023005id_/https://magic.wizards.com/en/articles/archive/feature/something-quite-palette-able-2008-05-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/something-quite-palette-able-2008-05-08"
 ---
 
 

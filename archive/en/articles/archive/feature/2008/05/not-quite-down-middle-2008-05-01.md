@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211201214333/https://magic.wizards.com/en/articles/archive/feature/not-quite-down-middle-2008-05-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/not-quite-down-middle-2008-05-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201214333id_/https://magic.wizards.com/en/articles/archive/feature/not-quite-down-middle-2008-05-01"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 21:43:33+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "So where do we begin? The beginning of course! The first really legitimate victory for a hybrid mana cost belongs to Katsu Mori and his Selesnya Guildmages. Of the first crop of hybrid mana cards, Selesnya Guildmage was the first, and I think ended up in first position, ultimately, as well. Selesnya Guildmage was a one-man army. It was the kind of card you could peel in a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-05-01"
+[_metadata_:title]:- "Not Quite Down the Middle"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 21:43:33+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201214333id_/https://magic.wizards.com/en/articles/archive/feature/not-quite-down-middle-2008-05-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/not-quite-down-middle-2008-05-01"
 ---
 
 

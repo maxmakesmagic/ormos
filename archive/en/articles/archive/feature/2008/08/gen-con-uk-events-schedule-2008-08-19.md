@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211028143212/https://magic.wizards.com/en/articles/archive/feature/gen-con-uk-events-schedule-2008-08-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gen-con-uk-events-schedule-2008-08-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028143212id_/https://magic.wizards.com/en/articles/archive/feature/gen-con-uk-events-schedule-2008-08-19"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 14:32:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated 2008-08-21Thursday, August 28 | Friday, August 29 | Saturday, August 30 | Sunday, August 312008 Legacy Championship2008 Legacy Championship comprises a number of rounds according to the table below, followed by a Top 8 single-elimination Playoff.Number of Players Number of Rounds 8 – 16 4 17 – 32 5 33 - 64 6 65+ 7 Grand Prix Trial - ParisTrials for individual-format"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-19"
+[_metadata_:title]:- "Gen Con UK Events Schedule"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 14:32:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028143212id_/https://magic.wizards.com/en/articles/archive/feature/gen-con-uk-events-schedule-2008-08-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gen-con-uk-events-schedule-2008-08-19"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20150822015714/http://magic.wizards.com/en/articles/archive/feature/yuuya-watanabes-origin-story-2015-08-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/yuuya-watanabes-origin-story-2015-08-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150822015714id_/http://magic.wizards.com/en/articles/archive/feature/yuuya-watanabes-origin-story-2015-08-19"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-22 01:57:14+00:00"
+[_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Yuuya Watanabe's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2015-08-19"
+[_metadata_:title]:- "Yuuya Watanabe's Origin Story"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-22 01:57:14+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150822015714id_/http://magic.wizards.com/en/articles/archive/feature/yuuya-watanabes-origin-story-2015-08-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/yuuya-watanabes-origin-story-2015-08-19"
 ---
 
 

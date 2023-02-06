@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220808233118/https://magic.wizards.com/en/articles/archive/feature/nature-and-nurture-2002-10-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nature-and-nurture-2002-10-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808233118id_/https://magic.wizards.com/en/articles/archive/feature/nature-and-nurture-2002-10-23"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 23:31:18+00:00"
+[_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "When I first began writing for MagicTheGathering.com back in January, Mark and Aaron sent me an email detailing the first few columns we’d be producing. They all centered on Torment previews, and therefore the color black."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2002-10-23"
+[_metadata_:title]:- "Nature and Nurture"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 23:31:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808233118id_/https://magic.wizards.com/en/articles/archive/feature/nature-and-nurture-2002-10-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nature-and-nurture-2002-10-23"
 ---
 
 

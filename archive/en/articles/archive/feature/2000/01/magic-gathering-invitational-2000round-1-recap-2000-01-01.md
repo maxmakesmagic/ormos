@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519131509/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-1-recap-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-1-recap-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519131509id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-1-recap-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:15:09+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Round 1 was full of improbable situations and unimaginable plays. It doesn't really make sense to follow one match in this format so I tried my best to collect as many bizarre anecdotes as I could. The Germans took on the Deadguys in an interesting pair of matches. Dave Price did his best to kill Dirk Baberowski with Swamp Mosquito, but Dirk drew a timely"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 1 Recap"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:15:09+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519131509id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-1-recap-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-1-recap-2000-01-01"
 ---
 
 

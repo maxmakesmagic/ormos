@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118161759/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-23-29-2010-10-29)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-23-29-2010-10-29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118161759id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-23-29-2010-10-29"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:17:59+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site. The biggest development of the week was not actually on the site itself, but on the Facebook pages that represent the Mirran and Phyrexian factions. Each faction got a recruitment video designed to lure you (yes, you!) to its side. Go to the Mirran Faction Page and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-10-29"
+[_metadata_:title]:- "On the Mirrodin Site: October 23-29"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:17:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118161759id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-23-29-2010-10-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-october-23-29-2010-10-29"
 ---
 
 

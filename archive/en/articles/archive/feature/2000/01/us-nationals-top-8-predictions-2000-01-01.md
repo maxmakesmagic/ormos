@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220523062512/https://magic.wizards.com/en/articles/archive/feature/us-nationals-top-8-predictions-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-top-8-predictions-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523062512id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-top-8-predictions-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 06:25:12+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan The eight competitors playing off for a spot on the U.S. Nationals Team have a lot of collective experience. Four of the Top Eight have experience in the finals of Pro-Tours, and three of those left were part of Pittsburgh's Team CMU, one of the most influential teams in Pro-Tour history. With an eclectic collection of decks, personalities, and experience,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "U.S. Nationals Top 8 Predictions."
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 06:25:12+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523062512id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-top-8-predictions-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-top-8-predictions-2000-01-01"
 ---
 
 

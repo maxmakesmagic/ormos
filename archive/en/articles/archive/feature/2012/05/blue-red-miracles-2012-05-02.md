@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170906154430/http://magic.wizards.com/en/articles/archive/feature/blue-red-miracles-2012-05-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-red-miracles-2012-05-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906154430id_/http://magic.wizards.com/en/articles/archive/feature/blue-red-miracles-2012-05-02"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-06 15:44:30+00:00"
+[_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The Avacyn Restored Prerelease happened last weekend, and Wizards of the Coast R&D members were at stores around the United States—myself included! I headed out to Active Imagination in Albuquerque, New Mexico, with a bag well-stocked with decks. One exciting, fun, and powerful deck I brought with me was an update of the Blue-Red Burn Control deck I wrote about last week—and gave a few tweaks for the Prerelease!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-05-02"
+[_metadata_:title]:- "Blue-Red Miracles"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-06 15:44:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906154430id_/http://magic.wizards.com/en/articles/archive/feature/blue-red-miracles-2012-05-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-red-miracles-2012-05-02"
 ---
 
 

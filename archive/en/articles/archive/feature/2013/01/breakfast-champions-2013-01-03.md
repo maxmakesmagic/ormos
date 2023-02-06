@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220714012118/https://magic.wizards.com/en/articles/archive/feature/breakfast-champions-2013-01-03)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/breakfast-champions-2013-01-03"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220714012118id_/https://magic.wizards.com/en/articles/archive/feature/breakfast-champions-2013-01-03"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-14 01:21:18+00:00"
+[_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Yesterday, I wrote about Yuuya Watanabe and Jund in the 2012 Magic Players Championship. I indicated that wasn't the last we'd see of either the player or the deck, and, in fact, at the very next Pro Tour, we almost witnessed a repeat performance by the same player and deck. Ultimately, though, he was defeated in the finals by Stanislav Cifka playing a Second Sunrise–based"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-03"
+[_metadata_:title]:- "Breakfast of Champions"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-14 01:21:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220714012118id_/https://magic.wizards.com/en/articles/archive/feature/breakfast-champions-2013-01-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/breakfast-champions-2013-01-03"
 ---
 
 

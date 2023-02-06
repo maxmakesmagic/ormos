@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20180309190941/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-finalist-jay-treat-2018-03-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-finalist-jay-treat-2018-03-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180309190941id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-finalist-jay-treat-2018-03-09"
-[_metadata_:wayback_capture_timestamp]:- "2018-03-09 19:09:41+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Take a look at the design test from Great Designer Search 3 finalist Jay Treat!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2018-03-09"
+[_metadata_:title]:- "Great Designer Search 3 Finalist – Jay Treat"
+[_metadata_:wayback_capture_timestamp]:- "2018-03-09 19:09:41+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180309190941id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-finalist-jay-treat-2018-03-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-finalist-jay-treat-2018-03-09"
 ---
 
 

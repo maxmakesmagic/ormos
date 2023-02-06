@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124032018/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-13-results-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-13-results-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124032018id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-13-results-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:20:18+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Baker Justin Valkyser Stephan J Lost, 0-2 Blackwell Trevor McCord Scott Won, 2-1 Bregoli Mike Rubin Ben Won, 2-0 Brower Jeremy Levy Raphael Won, 2-0 Budde Kai Linde Matt Lost, 0-2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-New York 2000 Round 13 Results"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:20:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124032018id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-13-results-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-13-results-2000-01-01"
 ---
 
 

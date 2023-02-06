@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519064758/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-7-standings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-7-standings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519064758id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-7-standings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:47:58+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Davis, Brian 21 60.5442 82.3529 54.9440 7/7/0/0 2 Dobson, Tony 21 59.1837 73.6842 54.5295 7/7/0/0 3 Hron, Mike 19 66.6667 76.4706 58.8224 7/6/1/0 4 Refsdal, Thomas 18 68.0272 75.0000 60.1587 7/6/0/0 5 Baberowski, Dirk 18 68.0272 60.0000 62.2926 7/6/0/0 6 Krzywicki, Mike 18 64.6259 70.5882 61.0485"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Pro Tour-Chicago 1999Day 1 Round 7 Standings"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:47:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519064758id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-7-standings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-7-standings-2000-01-01"
 ---
 
 

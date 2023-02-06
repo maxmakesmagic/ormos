@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170809120317/http://magic.wizards.com/en/articles/archive/feature/green-white-blue-allies-2010-02-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/green-white-blue-allies-2010-02-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170809120317id_/http://magic.wizards.com/en/articles/archive/feature/green-white-blue-allies-2010-02-04"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-09 12:03:17+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All this week at Daily Decks, we're featuring fresh deck lists played by Wizards of the Coast R&D members at various Worldwake Regional Prereleases. Here's what Dave Guskin played at the Seattle, Washington event:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-02-04"
+[_metadata_:title]:- "Green-White-Blue Allies"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-09 12:03:17+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170809120317id_/http://magic.wizards.com/en/articles/archive/feature/green-white-blue-allies-2010-02-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/green-white-blue-allies-2010-02-04"
 ---
 
 

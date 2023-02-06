@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220519002420/https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-event-information-2013-07-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-event-information-2013-07-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519002420id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-event-information-2013-07-16"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 00:24:20+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Brisbane is brought to you by Top Deck Events.  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpbrisbane Date: October 4-6, 2013 Format: Modern Tournament Location Brisbane Convention and Exhibition Centre Mezzanine Level, Meeting Rooms M3 and M4 Cnr Merivale and Glenelg"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-07-16"
+[_metadata_:title]:- "Grand Prix Brisbane Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 00:24:20+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519002420id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-event-information-2013-07-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-event-information-2013-07-16"
 ---
 
 

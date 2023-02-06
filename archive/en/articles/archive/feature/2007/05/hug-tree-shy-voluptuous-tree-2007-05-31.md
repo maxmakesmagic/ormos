@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211128125406/https://magic.wizards.com/en/articles/archive/feature/hug-tree-shy-voluptuous-tree-2007-05-31)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hug-tree-shy-voluptuous-tree-2007-05-31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128125406id_/https://magic.wizards.com/en/articles/archive/feature/hug-tree-shy-voluptuous-tree-2007-05-31"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:54:06+00:00"
+[_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "In Greek mythology, the dryad is a kind of female tree spirit, specifically the nymph of an oak tree. Like the awe-inspiring Pegasus and fearsome Cyclops, the reclusive dryad has found a home in the greater pantheon of fantasy and myth. Dryads are a common feature of C.S. Lewis's Narnian landscape, and the heir to the throne of the West weds a queen of dryad descent in David"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-05-31"
+[_metadata_:title]:- "Hug a Tree... a Shy, Voluptuous, Tree..."
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:54:06+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128125406id_/https://magic.wizards.com/en/articles/archive/feature/hug-tree-shy-voluptuous-tree-2007-05-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hug-tree-shy-voluptuous-tree-2007-05-31"
 ---
 
 

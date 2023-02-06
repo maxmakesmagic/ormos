@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160728155423/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-update-bulletin-comprehensive-rules-changes-2016-07-28)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-update-bulletin-comprehensive-rules-changes-2016-07-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160728155423id_/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-update-bulletin-comprehensive-rules-changes-2016-07-28"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-28 15:54:23+00:00"
+[_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Comprehensive Rules Changes&#13; &#13; 201.3&#13; &#13; We reorganized this rule that includes information on how to legally name a card. One notable addition is that you can choose the name of a combined meld pair, such as [autocard]Chittering Host[/autocard].&#13; &#13; 202.3&#13; &#13; We added a rule explaining how to calculate the converted mana cost of a melded permanent. Specifically, you consider the combined mana costs of the front faces and calculate accordingly.&#13; &#13; 401.4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2016-07-28"
+[_metadata_:title]:- "Eldritch Moon Update Bulletin—Comprehensive Rules Changes"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-28 15:54:23+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160728155423id_/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-update-bulletin-comprehensive-rules-changes-2016-07-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-update-bulletin-comprehensive-rules-changes-2016-07-28"
 ---
 
 

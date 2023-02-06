@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220818112252/https://magic.wizards.com/en/articles/archive/feature/paupfinity-2009-05-19)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/paupfinity-2009-05-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818112252id_/https://magic.wizards.com/en/articles/archive/feature/paupfinity-2009-05-19"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 11:22:52+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Sarcasto's Pauper Affinity Format: Magic Online Pauper 4 Darksteel Citadel 4 Great Furnace 4 Seat of the Synod 4 Vault of Whispers 4 Disciple of the Vault 4 Frogmite 2 Krark-Clan Shaman 4 Myr Enforcer 4 Somber Hoverguard 4 Chromatic Sphere 4 Chromatic Star 4 Lotus Petal 3 Pyrite Spellbomb 4 Rush of Knowledge 3 Springleaf Drum 4 Thoughtcast *2 Circle of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-19"
+[_metadata_:title]:- "Paupfinity"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 11:22:52+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818112252id_/https://magic.wizards.com/en/articles/archive/feature/paupfinity-2009-05-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/paupfinity-2009-05-19"
 ---
 
 

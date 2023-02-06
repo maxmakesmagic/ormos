@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816005440/https://magic.wizards.com/en/articles/archive/feature/aussie-elves-2009-07-28)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aussie-elves-2009-07-28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816005440id_/https://magic.wizards.com/en/articles/archive/feature/aussie-elves-2009-07-28"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 00:54:40+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jamie Mackintosh's Elves Format: Standard 8 Forest 1 Plains 4 Sunpetal Grove 2 Windbrisk Heights 4 Wooded Bastion 1 Burrenton Forge-Tender 1 Cloudthresher 4 Devoted Druid 4 Elvish Archdruid 4 Elvish Visionary 4 Heritage Druid 4 Llanowar Elves 1 Mirror Entity 4 Nettle Sentinel 4 Ranger of Eos 4 Regal Force 2 Manamorphose 4 Primal Command *3 Burrenton"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-07-28"
+[_metadata_:title]:- "Aussie Elves"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 00:54:40+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816005440id_/https://magic.wizards.com/en/articles/archive/feature/aussie-elves-2009-07-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aussie-elves-2009-07-28"
 ---
 
 

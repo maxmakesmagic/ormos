@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220118173630/https://magic.wizards.com/en/articles/archive/feature/big-parties-2004-06-22)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/big-parties-2004-06-22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118173630id_/https://magic.wizards.com/en/articles/archive/feature/big-parties-2004-06-22"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:36:30+00:00"
+[_metadata_:author]:- "Chad Ellis"
 [_metadata_:description]:- "It's getting harder to keep thinking of article titles that reflect this week's content but which don't let Zinger and the rest of the forum junkies guess what I'm writing about!This time we're talking about two parties -- or events worthy of a party. A week and a half ago, MTGO celebrated the return of premier events with a “Welcome Back” celebration full of events with extra"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-06-22"
+[_metadata_:title]:- "Big Parties"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:36:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118173630id_/https://magic.wizards.com/en/articles/archive/feature/big-parties-2004-06-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/big-parties-2004-06-22"
 ---
 
 

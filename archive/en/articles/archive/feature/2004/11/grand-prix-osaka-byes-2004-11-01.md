@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220816010628/https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-byes-2004-11-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-byes-2004-11-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816010628id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-byes-2004-11-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 01:06:28+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "グランプリ大阪バイリストByes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points(combined total) 2170060 1165020 Rating used: Team Limited, October 20, 2004 Pro Point Standings Used: Worlds 2004To find the number of ratings byes your team has for Grand Prix-Osaka, go to the appropriate list below (sorted by team name): A-O P-Z For questions about this page,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-01"
+[_metadata_:title]:- "Grand Prix Osaka Byes"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 01:06:28+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816010628id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-byes-2004-11-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-byes-2004-11-01"
 ---
 
 

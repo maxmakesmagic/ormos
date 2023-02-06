@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20210116175718/https://magic.wizards.com/en/articles/archive/feature/you-had-me-helvault-2012-04-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-had-me-helvault-2012-04-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116175718id_/https://magic.wizards.com/en/articles/archive/feature/you-had-me-helvault-2012-04-02"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-16 17:57:18+00:00"
+[_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "It's Helvault Week, so we're going to be talking all about a big hunk of silver and what it's going to mean to the world of Innistrad. Some are going to be talking about this:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-04-02"
+[_metadata_:title]:- "You Had Me At Helvault"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-16 17:57:18+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116175718id_/https://magic.wizards.com/en/articles/archive/feature/you-had-me-helvault-2012-04-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-had-me-helvault-2012-04-02"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170424122445/http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-fact-sheet-2007-12-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-fact-sheet-2007-12-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170424122445id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-fact-sheet-2007-12-04"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-24 12:24:45+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; &#13; &#13; 31st May &amp; 1st June&#13; Format: Block ConstructedTournament Location:NEC BirminghamPavilion 1BirminghamUKwebsite&#13;  &#13;  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-12-04"
+[_metadata_:title]:- "Grand Prix Birmingham Fact Sheet"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-24 12:24:45+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170424122445id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-fact-sheet-2007-12-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-fact-sheet-2007-12-04"
 ---
 
 

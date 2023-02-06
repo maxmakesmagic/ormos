@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211208013402/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-2009-05-08)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-2009-05-08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208013402id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-2009-05-08"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 01:34:02+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Chris Rahn's mural from the Alara Reborn Fat Pack. Enjoy. Regular (1280x960 pixels) Widescreen (2560x1600 pixels) iPhone (320x480 pixels)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-05-08"
+[_metadata_:title]:- "Wallpaper of the Week"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 01:34:02+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208013402id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-2009-05-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-2009-05-08"
 ---
 
 

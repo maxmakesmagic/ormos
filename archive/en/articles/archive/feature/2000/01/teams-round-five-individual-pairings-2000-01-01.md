@@ -2,12 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171031060921/https://magic.wizards.com/en/articles/archive/feature/teams-round-five-individual-pairings-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-five-individual-pairings-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031060921id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-five-individual-pairings-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 06:09:21+00:00"
 [_metadata_:description]:- "Table Player Player 1 Finkel, Jon (USA) Fuller, Ryan (CAN) 2 Benafel, Chris (USA) Evans, Murray (CAN) 3 Hernandez, Frank (USA) Tsang, Gabriel (CAN) 4 Forsythe, Aaron (USA) Lau, Sam (CAN) 5 Konstanczer, Andre (GER)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Teams Round Five Individual Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 06:09:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031060921id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-five-individual-pairings-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-five-individual-pairings-2000-01-01"
 ---
 
 

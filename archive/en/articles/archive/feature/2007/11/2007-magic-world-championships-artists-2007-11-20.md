@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211020205601/https://magic.wizards.com/en/articles/archive/feature/2007-magic-world-championships-artists-2007-11-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-magic-world-championships-artists-2007-11-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020205601id_/https://magic.wizards.com/en/articles/archive/feature/2007-magic-world-championships-artists-2007-11-20"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 20:56:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "These four top Magic artists will be at the 2007 World Championships. Aleksi Briclot Where did you grow up? I grew up in the east of France, then moved to the center of the state for my art studies. I now live in Paris. How did you get into the industry? It's a matter of dedication, hard work, and will. I studied in an art school and got my first illustrations jobs. I worked"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2007-11-20"
+[_metadata_:title]:- "2007 Magic World Championships Artists"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 20:56:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020205601id_/https://magic.wizards.com/en/articles/archive/feature/2007-magic-world-championships-artists-2007-11-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-magic-world-championships-artists-2007-11-20"
 ---
 
 

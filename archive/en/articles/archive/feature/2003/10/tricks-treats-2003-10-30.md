@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160430162059/http://magic.wizards.com/en/articles/archive/feature/tricks-treats-2003-10-30)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tricks-treats-2003-10-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160430162059id_/http://magic.wizards.com/en/articles/archive/feature/tricks-treats-2003-10-30"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-30 16:20:59+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Boo."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-10-30"
+[_metadata_:title]:- "Tricks &amp; Treats"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-30 16:20:59+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160430162059id_/http://magic.wizards.com/en/articles/archive/feature/tricks-treats-2003-10-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tricks-treats-2003-10-30"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211016213148/https://magic.wizards.com/en/articles/archive/feature/9th-edition-release-events-2005-09-16)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/9th-edition-release-events-2005-09-16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016213148id_/https://magic.wizards.com/en/articles/archive/feature/9th-edition-release-events-2005-09-16"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 21:31:48+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Country CodeDateStoreAddressCityZipPhone NumberRU24/09/2005AmberDzersinskogo 9 corp 2Arkhangelsk1630008182285134RU25/09/2005Swamp CryptLenina, 65Barnaul65606579132331331RU25/09/2005RuneRepin's str., 16/61Bryansk  RU25/09/2005Club `Fonarik`Kalinina., st 100Cheboksary +79103952240RU24/09/2005AvalonGagarina 35Ekaterinburg62000073433480474RU25/09/2005Mox MalachiteMalysheva st."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-09-16"
+[_metadata_:title]:- "9th Edition Release Events"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 21:31:48+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016213148id_/https://magic.wizards.com/en/articles/archive/feature/9th-edition-release-events-2005-09-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/9th-edition-release-events-2005-09-16"
 ---
 
 

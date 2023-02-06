@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160424124030/http://magic.wizards.com/en/articles/archive/feature/sorcerers-apprentice-2010-07-12)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sorcerers-apprentice-2010-07-12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160424124030id_/http://magic.wizards.com/en/articles/archive/feature/sorcerers-apprentice-2010-07-12"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-24 12:40:30+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "On July 14, the Disney movie The Sorcerer's Apprentice will be released into the world. And it's going to have a Magic tie-in!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-07-12"
+[_metadata_:title]:- "The Sorcerer's Apprentice"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-24 12:40:30+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160424124030id_/http://magic.wizards.com/en/articles/archive/feature/sorcerers-apprentice-2010-07-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sorcerers-apprentice-2010-07-12"
 ---
 
 

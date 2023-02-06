@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211129032729/https://magic.wizards.com/en/articles/archive/feature/mirage-theme-decks-2008-08-18-0)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirage-theme-decks-2008-08-18-0"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129032729id_/https://magic.wizards.com/en/articles/archive/feature/mirage-theme-decks-2008-08-18-0"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 03:27:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Burning Sky Jungle Jam Night Terrors Ride Like the Wind (Back to Product Page) Burning Sky The `Burning Sky` deck was constructed by the readers of MagicTheGathering.com through a series of online polls. The result of the `You Make the Mirage Theme Deck` campaign is a deck filled with deception, aggression, power, and guile. The forces of an angry earth are at your command."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:title]:- "Mirage Theme Decks"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 03:27:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129032729id_/https://magic.wizards.com/en/articles/archive/feature/mirage-theme-decks-2008-08-18-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirage-theme-decks-2008-08-18-0"
 ---
 
 

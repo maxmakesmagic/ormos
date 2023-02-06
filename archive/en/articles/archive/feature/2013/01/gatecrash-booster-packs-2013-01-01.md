@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20200805202707/https://magic.wizards.com/en/articles/archive/feature/gatecrash-booster-packs-2013-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gatecrash-booster-packs-2013-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805202707id_/https://magic.wizards.com/en/articles/archive/feature/gatecrash-booster-packs-2013-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 20:27:07+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "It's the first day of the year and we're already deep into Gatecrash previews. Let's keep the momentum going with a look at the booster packs! There are five Gatecrash booster packs, so it seems like a safe guess that the five guilds of Gatecrash will be represented. This one is Dimir!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2013-01-01"
+[_metadata_:title]:- "Gatecrash Booster Packs"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 20:27:07+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805202707id_/https://magic.wizards.com/en/articles/archive/feature/gatecrash-booster-packs-2013-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gatecrash-booster-packs-2013-01-01"
 ---
 
 

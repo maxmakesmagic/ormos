@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171124050031/https://magic.wizards.com/en/articles/archive/feature/masters-round-4-feature-match-jason-zila-vs-sigurd-eskeland-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-round-4-feature-match-jason-zila-vs-sigurd-eskeland-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124050031id_/https://magic.wizards.com/en/articles/archive/feature/masters-round-4-feature-match-jason-zila-vs-sigurd-eskeland-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 05:00:31+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff Game 1 Eskeland gets to go first this game, but has to mulligan his opening hand. He plays an Island to start, and Zila plays Treetop Village. Sigurd then draws Brainstorm and casts it, which gets him the green land he needed. He then casts Birds of Paradise, and ends his turn. Zila draws, and plays a Tropical Island. Eskeland untaps and draws, playing Survival of the Fittest, which Zila Mana Leaks. Zila plays a Wasteland and ends his turn."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Masters Round 4 Feature Match: Jason Zila vs. Sigurd Eskeland"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 05:00:31+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124050031id_/https://magic.wizards.com/en/articles/archive/feature/masters-round-4-feature-match-jason-zila-vs-sigurd-eskeland-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-round-4-feature-match-jason-zila-vs-sigurd-eskeland-2000-01-01"
 ---
 
 

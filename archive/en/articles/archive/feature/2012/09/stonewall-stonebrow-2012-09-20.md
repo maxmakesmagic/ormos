@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220705064647/https://magic.wizards.com/en/articles/archive/feature/stonewall-stonebrow-2012-09-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/stonewall-stonebrow-2012-09-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705064647id_/https://magic.wizards.com/en/articles/archive/feature/stonewall-stonebrow-2012-09-20"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 06:46:47+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Every—or should I say, most—Thursday here at Daily Decks, we like to take a look into the world of Commander. Despite being a relatively young format compared to Legacy or Standard, there is a huge following for it and therefore there is a lot of information to be had. One trend that we have seen recently are commanders who are played mostly for their color scheme or raw power"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-20"
+[_metadata_:title]:- "Stonewall Stonebrow"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 06:46:47+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705064647id_/https://magic.wizards.com/en/articles/archive/feature/stonewall-stonebrow-2012-09-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/stonewall-stonebrow-2012-09-20"
 ---
 
 

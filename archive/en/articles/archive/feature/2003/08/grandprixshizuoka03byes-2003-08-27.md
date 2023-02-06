@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220809052729/https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03byes-2003-08-27)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03byes-2003-08-27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809052729id_/https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03byes-2003-08-27"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 05:27:29+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3195028 2185014 117507 Rating used: Limited, August 20, 2003 Pro Point Standings Used: 2003 World ChampionshipsTo find the number of byes you have for Grand Prix-Shizuoka, go to the appropriate list below (sorted by last name): A-B C-D E-G H-J K-L M-N O-R S T-V W-Z For questions about this page,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2003-08-27"
+[_metadata_:title]:- "grandprix_shizuoka03_byes"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 05:27:29+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809052729id_/https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03byes-2003-08-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03byes-2003-08-27"
 ---
 
 

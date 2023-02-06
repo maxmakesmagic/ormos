@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220517100521/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-2000-fact-sheet-2000-01-01)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-2000-fact-sheet-2000-01-01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517100521id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-2000-fact-sheet-2000-01-01"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 10:05:21+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations on qualifying for Magic: The Gathering® Junior Super Series Championship. This information will help you to prepare now to attend in June. What and Where: The 2000 Magic: The Gathering JSS Championship will be held at Disney's Wide World of Sports™ Fieldhouse, June 9 - 11, 2000. Total scholarship prize to be awarded is $50,000. Disney Sports Reservations, the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:title]:- "Super Series Championship 2000 Fact Sheet"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 10:05:21+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517100521id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-2000-fact-sheet-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-2000-fact-sheet-2000-01-01"
 ---
 
 

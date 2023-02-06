@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211203132100/https://magic.wizards.com/en/articles/archive/feature/intotheaether-keeps-it-simple-2004-10-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intotheaether-keeps-it-simple-2004-10-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203132100id_/https://magic.wizards.com/en/articles/archive/feature/intotheaether-keeps-it-simple-2004-10-26"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 13:21:00+00:00"
+[_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Something exciting is happening this weekend. But first... Remember Hygglo's Tribal Wars deck based on Battlemages that I crowed about a couple of weeks ago? Well, playing against that deck reminded me how much I love Planeshift's Battlemages specifically and, more generally, the kicker mechanic. As people who already know my deckbuilding proclivities, I love utility and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-10-26"
+[_metadata_:title]:- "IntoTheAether Keeps It Simple"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 13:21:00+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203132100id_/https://magic.wizards.com/en/articles/archive/feature/intotheaether-keeps-it-simple-2004-10-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intotheaether-keeps-it-simple-2004-10-26"
 ---
 
 

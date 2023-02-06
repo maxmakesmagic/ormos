@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160110191508/http://magic.wizards.com/en/articles/archive/feature/plots-span-centuries-2010-08-19)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/plots-span-centuries-2010-08-19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160110191508id_/http://magic.wizards.com/en/articles/archive/feature/plots-span-centuries-2010-08-19"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-10 19:15:08+00:00"
+[_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Yyou know all about Archenemy, right? After all, you have Gatherer available. And you can see all 45 schemes at any time! Well, there are a few more schemes. Promotional schemes, if you will. And we're going to show one of them to you right ... now."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2010-08-19"
+[_metadata_:title]:- "Plots That Span Centuries"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-10 19:15:08+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160110191508id_/http://magic.wizards.com/en/articles/archive/feature/plots-span-centuries-2010-08-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/plots-span-centuries-2010-08-19"
 ---
 
 

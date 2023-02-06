@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211027112916/https://magic.wizards.com/en/articles/archive/feature/runechanter-blue-2012-01-09)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/runechanter-blue-2012-01-09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027112916id_/https://magic.wizards.com/en/articles/archive/feature/runechanter-blue-2012-01-09"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 11:29:16+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "New blue beatdown decks continue to appear in Standard, each one carrying a new trick up its sleeve. In a recent Magic Online Premier Event, Remotepoet cruised to first with a white-blue beatdown deck featuring the splashy Innistrad equipment Runechanter's Pike! All of the instants and sorceries in the deck quickly pile up to increase the Pike's power, and the deck even"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-01-09"
+[_metadata_:title]:- "Runechanter Blue"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 11:29:16+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027112916id_/https://magic.wizards.com/en/articles/archive/feature/runechanter-blue-2012-01-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/runechanter-blue-2012-01-09"
 ---
 
 

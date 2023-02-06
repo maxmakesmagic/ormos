@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20151124095949/http://magic.wizards.com/en/articles/archive/feature/teysa-tokens-2012-07-05)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/teysa-tokens-2012-07-05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151124095949id_/http://magic.wizards.com/en/articles/archive/feature/teysa-tokens-2012-07-05"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-24 09:59:49+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Welcome back! Despite the last few days being decks that performed well at recent tournaments, Daily Decks isn't just about competitive Magic. Every once in a while, we like to have some fun too! Commander is the most popular casual format on the planet, and even though I don't get as much time to play it as I would like, I can still appreciate a good list when I see one!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-05"
+[_metadata_:title]:- "Teysa Tokens"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-24 09:59:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151124095949id_/http://magic.wizards.com/en/articles/archive/feature/teysa-tokens-2012-07-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/teysa-tokens-2012-07-05"
 ---
 
 

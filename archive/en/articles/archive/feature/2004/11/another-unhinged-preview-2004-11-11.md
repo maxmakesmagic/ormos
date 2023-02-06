@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112032749/https://magic.wizards.com/en/articles/archive/feature/another-unhinged-preview-2004-11-11)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/another-unhinged-preview-2004-11-11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112032749id_/https://magic.wizards.com/en/articles/archive/feature/another-unhinged-preview-2004-11-11"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:27:49+00:00"
+[_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "How would you fine folks like an Unhinged preview card today? You wouldn't? OK, on to Plan B."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-11-11"
+[_metadata_:title]:- "Yet Another Unhinged Preview"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:27:49+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112032749id_/https://magic.wizards.com/en/articles/archive/feature/another-unhinged-preview-2004-11-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/another-unhinged-preview-2004-11-11"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20160114184156/http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-07-02)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-07-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160114184156id_/http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-07-02"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-14 18:41:56+00:00"
+[_metadata_:author]:- "Mike McArtor"
 [_metadata_:description]:- "Hey! Are you excited for Magic 2013?What? I can't hear you. Let's try this again. Are you excited for M13!?Okay good."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-07-02"
+[_metadata_:title]:- "Prerelease Primer"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-14 18:41:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160114184156id_/http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-07-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-07-02"
 ---
 
 

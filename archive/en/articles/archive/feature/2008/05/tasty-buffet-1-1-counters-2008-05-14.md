@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170405224058/http://magic.wizards.com/en/articles/archive/feature/tasty-buffet-1-1-counters-2008-05-14)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tasty-buffet-1-1-counters-2008-05-14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170405224058id_/http://magic.wizards.com/en/articles/archive/feature/tasty-buffet-1-1-counters-2008-05-14"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-05 22:40:58+00:00"
+[_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "First off, I want to thank Great Designer Ken Nagle for filling in for me last week. I was off enjoying sunny Italy with my girlfriend (and actually, due to some web-warped time dilation effects, as you read this, I will still be in Europe). Thanks for covering for me Vorthos style, Ken! +Theme/+Theme When you sit down at the laptop, there's always that first paragraph of the theme week when you're like:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2008-05-14"
+[_metadata_:title]:- "A Tasty Buffet of -1/-1 Counters"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-05 22:40:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170405224058id_/http://magic.wizards.com/en/articles/archive/feature/tasty-buffet-1-1-counters-2008-05-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tasty-buffet-1-1-counters-2008-05-14"
 ---
 
 

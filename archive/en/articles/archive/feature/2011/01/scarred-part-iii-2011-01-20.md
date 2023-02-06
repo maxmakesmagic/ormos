@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20171123204056/https://magic.wizards.com/en/articles/archive/feature/scarred-part-iii-2011-01-20)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scarred-part-iii-2011-01-20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123204056id_/https://magic.wizards.com/en/articles/archive/feature/scarred-part-iii-2011-01-20"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 20:40:56+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2011-01-20"
+[_metadata_:title]:- "Scarred, Part III"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 20:40:56+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123204056id_/https://magic.wizards.com/en/articles/archive/feature/scarred-part-iii-2011-01-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scarred-part-iii-2011-01-20"
 ---
 
 

@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20211202014857/https://magic.wizards.com/en/articles/archive/feature/intro-packs-2014-04-23)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intro-packs-2014-04-23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202014857id_/https://magic.wizards.com/en/articles/archive/feature/intro-packs-2014-04-23"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 01:48:57+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Mortals of Myth Fates Foreseen Pantheon's Power Voracious Rage The Wilds and the Deep Mortals of Myth Assemble a mighty army of heroic Soldiers and Warriors, and power them up with spells that unlock their potential. Your opponent will be put to the test in combat by creatures that could become gigantic at a moment's notice. The `Mortals of Myth` deck focuses on getting lots"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2014-04-23"
+[_metadata_:title]:- "Intro Packs"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 01:48:57+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202014857id_/https://magic.wizards.com/en/articles/archive/feature/intro-packs-2014-04-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intro-packs-2014-04-23"
 ---
 
 

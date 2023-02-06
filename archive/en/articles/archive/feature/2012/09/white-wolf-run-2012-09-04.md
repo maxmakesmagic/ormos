@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20170405232915/http://magic.wizards.com/en/articles/archive/feature/white-wolf-run-2012-09-04)
 
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/white-wolf-run-2012-09-04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170405232915id_/http://magic.wizards.com/en/articles/archive/feature/white-wolf-run-2012-09-04"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-05 23:29:15+00:00"
+[_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "With the recent release of Magic 2013, Standard has seen a few key shifts in the metagame. Specifically, Wolf Run decks turned to blue for the power of Temporal Mastery and Frost Titan. Traditional Wolf Run in its red-green shell still exists, of course, but outside of that, most other Wolf Run variants have lost popularity or faded out completely."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2012-09-04"
+[_metadata_:title]:- "The White Wolf-(run)"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-05 23:29:15+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170405232915id_/http://magic.wizards.com/en/articles/archive/feature/white-wolf-run-2012-09-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/white-wolf-run-2012-09-04"
 ---
 
 

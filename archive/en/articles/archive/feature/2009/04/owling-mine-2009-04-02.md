@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20220809044901/https://magic.wizards.com/en/articles/archive/feature/owling-mine-2009-04-02)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/owling-mine-2009-04-02"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809044901id_/https://magic.wizards.com/en/articles/archive/feature/owling-mine-2009-04-02"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 04:49:01+00:00"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: 30to1's Mine Combo Format: Magic Online Standard 4 Cascade Bluffs 4 Crumbling Necropolis 1 Graven Cairns 9 Island 3 Reflecting Pool 3 Sulfurous Springs 2 Kederekt Parasite 3 Swans of Bryn Argoll 3 Broken Ambitions 3 Cryptic Command 3 Howling Mine 2 Incendiary Command 3 Jace Beleren 2 Megrim 2 Negate 4 Ponder 2 Pyroclasm 3 Remove Soul 2 Seismic Assault 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2009-04-02"
+[_metadata_:title]:- "Owling Mine"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 04:49:01+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809044901id_/https://magic.wizards.com/en/articles/archive/feature/owling-mine-2009-04-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/owling-mine-2009-04-02"
 ---
 
 

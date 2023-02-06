@@ -2,12 +2,14 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201111224238/https://magic.wizards.com/en/articles/archive/feature/green-thumb-black-heart-2005-10-26)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-thumb-black-heart-2005-10-26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111224238id_/https://magic.wizards.com/en/articles/archive/feature/green-thumb-black-heart-2005-10-26"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 22:42:38+00:00"
+[_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "As we discovered in `Digging Into The Conclave`, the Selesnyans throw us a little color pie curveball with their not-so-Green-White message of cult-like. The Golgari are not so shifty. They take their piece of color pie and happily gobble it up sans whipped cream or utensils. Green and Black overlap nicely in the cycle of life and death, and this is the playground of the Golgari."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2005-10-26"
+[_metadata_:title]:- "Green Thumb, Black Heart"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 22:42:38+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111224238id_/https://magic.wizards.com/en/articles/archive/feature/green-thumb-black-heart-2005-10-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-thumb-black-heart-2005-10-26"
 ---
 
 

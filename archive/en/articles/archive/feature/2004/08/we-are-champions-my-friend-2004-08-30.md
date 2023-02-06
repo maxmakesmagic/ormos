@@ -2,11 +2,13 @@
 ---
 [Link to Wayback Machine](https://web.archive.org/web/20201112030858/https://magic.wizards.com/en/articles/archive/feature/we-are-champions-my-friend-2004-08-30)
 
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/we-are-champions-my-friend-2004-08-30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030858id_/https://magic.wizards.com/en/articles/archive/feature/we-are-champions-my-friend-2004-08-30"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:08:58+00:00"
+[_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:publish_date]:- "2004-08-30"
+[_metadata_:title]:- "We Are the Champions, My Friend"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:08:58+00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030858id_/https://magic.wizards.com/en/articles/archive/feature/we-are-champions-my-friend-2004-08-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/we-are-champions-my-friend-2004-08-30"
 ---
 
 
