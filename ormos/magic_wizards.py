@@ -12,11 +12,8 @@ from urllib.parse import urlparse, unquote
 
 from bs4 import BeautifulSoup
 from markdownify import MarkdownConverter
-from pony import orm
-import requests
-from requests.adapters import HTTPAdapter, Retry
 
-from ormos.imagecache import db, ImageUrl, ImageCache
+from ormos.imagecache import db, ImageCache
 
 log = logging.getLogger(__name__)
 
@@ -154,7 +151,20 @@ class MagicWizardsConverterSingle:
         # URL-unquote the path, and remove any slashes from the
         # front or end.
         noleading = unquote(parts.path.strip("/"))
-        path = Path("archive", f"{noleading}.md")
+
+        # At this point we can try and extract the path from the URL.
+        m = re.match(r'^(.*?)([^/]+-(\d{4})-(\d{2})-(\d{2}))$', noleading)
+        if m:
+            path = Path("archive",
+                        m.group(1),
+                        m.group(3),
+                        m.group(4),
+                        f"{m.group(2)}.md")
+
+            self.metadata["publish_date"] = f"{m.group(3)}-{m.group(4)}-{m.group(5)}"
+        else:
+            path = Path("archive", f"{noleading}.md")
+
         log.debug("[%s] Generated path: %s", self.identifier, path)
         parent = path.parent
         os.makedirs(parent, exist_ok=True)
