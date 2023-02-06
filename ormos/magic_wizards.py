@@ -153,7 +153,7 @@ class MagicWizardsConverterSingle:
         noleading = unquote(parts.path.strip("/"))
 
         # At this point we can try and extract the path from the URL.
-        m = re.match(r'^(.*?)([^/]+-(\d{4})-(\d{2})-(\d{2}))$', noleading)
+        m = re.match(r'^(.*?)([^/]+-(\d{4})-(\d{2})-(\d{2})(:?-\d)?)$', noleading)
         if m:
             path = Path("archive",
                         m.group(1),
