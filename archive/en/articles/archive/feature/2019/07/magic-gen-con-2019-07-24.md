@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Magic is bringing a lot to the table for Gen Con 2019, and you won't want to miss a second!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1457996"
 [_metadata_:publish_date]:- "2019-07-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic at Gen Con 2019"
-[_metadata_:wayback_capture_timestamp]:- "2019-07-25 21:27:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-07-25 21:27:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190725212702id_/https://magic.wizards.com/en/articles/archive/feature/magic-gen-con-2019-07-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gen-con-2019-07-24"
 ---

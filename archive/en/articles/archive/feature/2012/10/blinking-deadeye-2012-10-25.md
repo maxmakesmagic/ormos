@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "One of my favorite cards of all time is Momentary Blink. The card was extremely versatile in its uses, seeing play with just about every enters-the-battlefield creature in the formats it belonged to. One of the reasons Momentary Blink was so cool was that it offered multiple uses of the effect, which was all Blink decks wanted to do. With Avacyn Restored, we saw a lot of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665686"
 [_metadata_:publish_date]:- "2012-10-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Blinking With a Deadeye"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 22:51:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 22:51:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701225152id_/https://magic.wizards.com/en/articles/archive/feature/blinking-deadeye-2012-10-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blinking-deadeye-2012-10-25"
 ---

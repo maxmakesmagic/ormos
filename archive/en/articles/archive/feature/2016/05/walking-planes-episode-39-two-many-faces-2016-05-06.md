@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Nathan Holt and Shawn Kornhauser"
 [_metadata_:description]:- "Walking the Planes covers the action and creativity of Pro Tour Shadows over Innistrad!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1020906"
 [_metadata_:publish_date]:- "2016-05-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Walking the Planes, Episode 39: `Two Many Faces`"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-08 23:52:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-08 23:52:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160508235252id_/http://magic.wizards.com/en/articles/archive/feature/walking-planes-episode-39-two-many-faces-2016-05-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/walking-planes-episode-39-two-many-faces-2016-05-06"
 ---

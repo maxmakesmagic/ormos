@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Take a closer look at the process behind one of today's preview cards—Raptor Hatchling!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1200921"
 [_metadata_:publish_date]:- "2017-09-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Exploring Ixalan – Raptor Hatchling"
-[_metadata_:wayback_capture_timestamp]:- "2018-10-27 19:57:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-10-27 19:57:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181027195758id_/https://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-raptor-hatchling-2017-09-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-raptor-hatchling-2017-09-07"
 ---

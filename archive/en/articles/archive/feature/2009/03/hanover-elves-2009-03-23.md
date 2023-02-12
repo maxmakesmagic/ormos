@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Lino Burgold's Elves Format: Grand Prix-Hanover 3 Forest 3 Gilt-Leaf Palace 2 Horizon Canopy 1 Overgrown Tomb 1 Pendelhaven 1 Temple Garden 3 Windswept Heath 3 Wooded Foothills 4 Birchlore Rangers 4 Elvish Visionary 4 Heritage Druid 4 Llanowar Elves 1 Mirror Entity 4 Nettle Sentinel 1 Regal Force 1 Viridian Shaman 4 Wirewood Hivemaster 4 Wirewood Symbiote 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668046"
 [_metadata_:publish_date]:- "2009-03-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Hanover Elves"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:07:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:07:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116110717id_/https://magic.wizards.com/en/articles/archive/feature/hanover-elves-2009-03-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hanover-elves-2009-03-23"
 ---

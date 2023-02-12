@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "グランプリ・サンフランシスコトライアル大会の案内 Grand Prix–San Francisco Trials Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Tournament Structure The structure for Grand Prix–San Francisco Trial tournaments will be modified Swiss-style, with the Top 8 players playing in a single-elimination for prizes and third-round byes. Tournament"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635941"
 [_metadata_:publish_date]:- "2007-06-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–San Francisco"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 10:37:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 10:37:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119103730id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93san-francisco-2007-06-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93san-francisco-2007-06-11"
 ---

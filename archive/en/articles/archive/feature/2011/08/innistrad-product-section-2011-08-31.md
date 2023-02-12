@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As should be clear by now, we are immersed in the Innistrad preview season. New Innistrad cards are popping up every day! And you can see them in the Innistrad Product Section!It's not just card previews, though. It's also got an exciting look into The World of Innistrad. And there's a brand-new wallpaper that comes complete with a brand-new card preview. Okay, so there are a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680936"
 [_metadata_:publish_date]:- "2011-08-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Innistrad Product Section"
-[_metadata_:wayback_capture_timestamp]:- "2022-10-04 00:18:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-04 00:18:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221004001836id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-product-section-2011-08-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-product-section-2011-08-31"
 ---

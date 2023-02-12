@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "LOCATION Uoion Mall Amarin Hall Fl.4 Amarin Plaza Bangkok Chilom Bangkok Thailand TOURNAMENT The 2008 Thailand National Championship is open by invitation only. Invitations are extended to qualified players who meet the eligibility requirements."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733436"
 [_metadata_:publish_date]:- "2004-05-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2008 Magic: The Gathering Thailand National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-08 19:45:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-08 19:45:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160908194541id_/http://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-thailand-national-championship-2004-05-18"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-thailand-national-championship-2004-05-18"
 ---

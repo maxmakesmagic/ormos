@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210629155124/https://magic.wizards.com/en/articles/archive/feature/behind-scenes-booster-fun-adventures-forgotten-realms-2021-06-29)
+[Link to Wayback Machine](https://web.archive.org/web/20210801093649/https://magic.wizards.com/en/articles/archive/feature/behind-scenes-booster-fun-adventures-forgotten-realms-2021-06-29)
 
 [_metadata_:author]:- "Clayton Kroh"
 [_metadata_:description]:- "Magic: The Gathering pays homage to Dungeons & Dragons with Booster Fun variants from Adventures in the Forgotten Realms."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1547622"
 [_metadata_:publish_date]:- "2021-06-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Behind the Scenes of Booster Fun for Adventures in the Forgotten Realms"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-29 15:51:24+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210629155124id_/https://magic.wizards.com/en/articles/archive/feature/behind-scenes-booster-fun-adventures-forgotten-realms-2021-06-29"
+[_metadata_:wayback_capture_timestamp]:- "2021-08-01 09:36:49"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210801093649id_/https://magic.wizards.com/en/articles/archive/feature/behind-scenes-booster-fun-adventures-forgotten-realms-2021-06-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/behind-scenes-booster-fun-adventures-forgotten-realms-2021-06-29"
 ---
 
@@ -102,7 +104,7 @@ Part of the visual impact of the rulebook card treatment is that simplicity, but
 Selecting artists to match this aesthetic was a no-brainer in some cases. "I hired D&D artists that did these drawings from way back," said Tom. "Jeff Dee, Diesel Laforce, and Russ Nicholson all did it back in the day! So cool to work with these artists."
 
 
-Newer artists, too, were tapped to create art in the classic style. "I brought on others that did this cool style naturally. (And thanks to Bree Heiss for taking on the second wave of these commissions!) Justine Mara Anderson, along with newer names to *Magic* like Pedro Potier, Phil Stone, and Justine Jones" were among the rulebook card treatment artists. *Secret Lair* series fans will recognize Justine Jones from [the Kaleidoscope Killers drop](https://admin.magic.wizards.com/en/articles/archive/news/secret-lair-recap-2019-11-25#kaleidoscopekillers).
+Newer artists, too, were tapped to create art in the classic style. "I brought on others that did this cool style naturally. (And thanks to Bree Heiss for taking on the second wave of these commissions!) Justine Mara Anderson, along with newer names to *Magic* like Pedro Potier, Phil Stone, and Justine Jones" were among the rulebook card treatment artists. *Secret Lair* series fans will recognize Justine Jones from [the Kaleidoscope Killers drop](https://magic.wizards.com/en/articles/archive/news/secret-lair-recap-2019-11-25#kaleidoscopekillers).
 
 
 A Wash of Color
@@ -155,7 +157,7 @@ These module card treatments feature all-new artwork from some of the best-known
 "It's a bit of time machine effect," said Tom. "Larry Elmore's was the first fantasy art I'd ever seen (on *Dragonlance* novels). I stared at those covers for a long time in my youth.
 
 
-"I made a wish list with the help of other D&D fans and reached out to the artists. It was surreal talking with many of them. Getting Erol Outs on the project was a dream also. Brian Snoddy, Tony DiTerlizzi, Jeff Easley, Ralph Horsley, Adam Rex, Chase Stone, and Wayne Reynolds—all so good. All the artists were delighted to be working on the first *Magic* set themed after D&D, and I was delighted commissioning all of them and seeing their work coming to life!"
+"I made a wish list with the help of other D&D fans and reached out to the artists. It was surreal talking with many of them. Getting Erol Otus on the project was a dream also. Brian Snoddy, Tony DiTerlizzi, Jeff Easley, Ralph Horsley, Adam Rex, Chase Stone, and Wayne Reynolds—all so good. All the artists were delighted to be working on the first *Magic* set themed after D&D, and I was delighted commissioning all of them and seeing their work coming to life!"
 
 
 With artists selected, art descriptions were sent—"thanks to Annie Sardelis for perfect art descriptions," said Tom—and the team had the enviable experience of watching amazing artwork come together for the set.

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "As we celebrate the holidays, we're bringing you some of our favorite decks from throughout the year. Enjoy these fun flashbacks into last year’s favorites. Wizards of the Coast Staff Gerry Thompson's really been helping me with my homework this week, and this is another sweet deck he directed my attention to (something he's always good for, really)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667386"
 [_metadata_:publish_date]:- "2013-12-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Bant Aggro Flash"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 13:33:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 13:33:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125133338id_/https://magic.wizards.com/en/articles/archive/feature/bant-aggro-flash-2013-12-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bant-aggro-flash-2013-12-24"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "DailyMTG.com is taking Memorial Day off. See you tomorrow!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "391041"
 [_metadata_:publish_date]:- "2015-05-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Happy Memorial Day!"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-28 21:46:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-28 21:46:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150528214611id_/http://magic.wizards.com/en/articles/archive/feature/happy-memorial-day-2015-05-25"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/happy-memorial-day-2015-05-25"
 ---

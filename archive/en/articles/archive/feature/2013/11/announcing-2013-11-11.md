@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112020304/https://magic.wizards.com/en/articles/archive/feature/announcing-2013-11-11)
+[Link to Wayback Machine](https://web.archive.org/web/20220630071647/https://magic.wizards.com/en/articles/archive/feature/announcing-2013-11-11)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- " "
+[_metadata_:description]:- "Set Name Journey into Nyx Block Set 3 of 3 in the Theros block Number of Cards 165 Prerelease Events April 26-27, 2014 Release Date May 2, 2014 Launch Weekend May 2-4, 2014 Game Day May 24-25, 2014 Magic Online Prerelease Events May 9-12, 2014 Magic Online Release Date May 12, 2014 Magic Online Release Events May 12-28, 2014 Pro Tour Journey into Nyx May 16-18, 2014 Pro Tour"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "650601"
 [_metadata_:publish_date]:- "2013-11-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:03:04+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020304id_/https://magic.wizards.com/en/articles/archive/feature/announcing-2013-11-11"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 07:16:47"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630071647id_/https://magic.wizards.com/en/articles/archive/feature/announcing-2013-11-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-2013-11-11"
 ---
 
@@ -26,7 +28,7 @@ Announcing
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

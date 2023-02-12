@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Nicolas Labarre and Terry Tsang both came into today 6-1 and drafting on table 1. They also each split their first two matches today so this match was crucial to their top 8 chances. Neither player wanted to pick up a 3rd loss this early. Labarre opened a Two-Headed Dragon and then got passed Wave of Reckoning, so his colors were set right away. Tsang wanted"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950536"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 10 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 09:36:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 09:36:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128093609id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-10-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-10-feature-match-2000-01-01"
 ---

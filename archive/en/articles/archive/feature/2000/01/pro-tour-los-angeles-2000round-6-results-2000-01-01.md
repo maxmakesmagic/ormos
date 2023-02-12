@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Abe, Kazufumi (145) Kornblith, Charles (3) 1-2 Alvarenga, Rafael (76) Lefranc, Florent (95) 2-0 Anzorena, Pablo (15) Azevedo, Pedro (199) 1-0 Auer, Jeffrey (104) Bregoli, Mike (248) 0-2 Azevedo, Pedro (199) Anzorena, Pablo (15) 0-1 Bachmann, David (229) Dunham, Kory (170) 2-0 Baehr, Kevin (155) *** BYE *** Benefel, Chris (163) McNeill, Dan (133) 1-2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950501"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 6 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:02:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:02:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118150254id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-6-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-6-results-2000-01-01"
 ---

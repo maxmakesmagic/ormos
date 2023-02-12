@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729476"
 [_metadata_:publish_date]:- "2011-09-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix San Diego Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-01 02:55:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-01 02:55:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171101025530id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-event-information-2011-09-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-event-information-2011-09-16"
 ---

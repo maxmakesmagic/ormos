@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "It worked! It worked! The time machine worked! Now I'll have more time to write my column each week! Since the deadlines are now further apart… aw, nuts. Stupid temporal mechanics."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613176"
 [_metadata_:publish_date]:- "2005-03-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shifting Days"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-25 20:39:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-25 20:39:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170425203952id_/http://magic.wizards.com/en/articles/archive/feature/shifting-days-2005-03-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shifting-days-2005-03-22"
 ---

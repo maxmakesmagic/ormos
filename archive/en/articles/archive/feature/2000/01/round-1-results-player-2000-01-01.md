@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentA.S.K.Lost 1-2vsSORAAAAWon 3-0vsJAKUROABCCDrew 1-1-1vsCrimsonAbsoluteWon 2-1vsAscalon PlusAibonWon 2-1vsNaibu BunretsuAin't afraid to dieWon 2-1vsMana CharmerAir OrangeWon 2-1vsYasagure BrothersAkebono OyakatanhoizaWon 3-0vsYumenomatayumeAkko ni OmakaseWon 3-0vsOrcish Spirit GuideAll time 6000yenWon 3-0vsNew TypeAncestral MemoriesWon 3-0vsHit and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "807051"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1 Results (by Player)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 00:35:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 00:35:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629003503id_/https://magic.wizards.com/en/articles/archive/feature/round-1-results-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-results-player-2000-01-01"
 ---

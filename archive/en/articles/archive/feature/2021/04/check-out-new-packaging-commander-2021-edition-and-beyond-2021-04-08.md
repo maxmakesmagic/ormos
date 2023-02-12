@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210417230136/https://magic.wizards.com/en/articles/archive/feature/check-out-new-packaging-commander-2021-edition-and-beyond-2021-04-08)
+[Link to Wayback Machine](https://web.archive.org/web/20210430165427/https://magic.wizards.com/en/articles/archive/feature/check-out-new-packaging-commander-2021-edition-and-beyond-2021-04-08)
 
 [_metadata_:author]:- "Adam Styborski"
 [_metadata_:description]:- "The latest Commander decks come in new, reduced plastic packaging. It's awesome—and just our first step."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1532913"
 [_metadata_:publish_date]:- "2021-04-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Check Out the New Packaging for Commander (2021 Edition) and Beyond"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-17 23:01:36+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210417230136id_/https://magic.wizards.com/en/articles/archive/feature/check-out-new-packaging-commander-2021-edition-and-beyond-2021-04-08"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-30 16:54:27"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210430165427id_/https://magic.wizards.com/en/articles/archive/feature/check-out-new-packaging-commander-2021-edition-and-beyond-2021-04-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/check-out-new-packaging-commander-2021-edition-and-beyond-2021-04-08"
 ---
 

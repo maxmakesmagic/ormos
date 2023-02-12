@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Kim Eikefet"
 [_metadata_:description]:- "Match Coverage"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "960241"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Team Finals Aaron Forsythe (USA) vs Sam Lau (Canada)"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 20:09:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 20:09:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030200908id_/https://magic.wizards.com/en/articles/archive/feature/team-finals-aaron-forsythe-usa-vs-sam-lau-canada-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-finals-aaron-forsythe-usa-vs-sam-lau-canada-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Date: January 21-23, 2011 Format: Extended Tournament Location Hilton Atlanta 255 Courtland Street, NE Atlanta, GA 30303 Registration: $40 Friday, January 21: Registration 1 p.m. - 9 p.m. Saturday, January 22: Registration 7:30 a.m. - 9:30 a.m. Get your free"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728081"
 [_metadata_:publish_date]:- "2010-12-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Atlanta Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 13:00:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 13:00:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521130032id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlanta-event-information-2010-12-16-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlanta-event-information-2010-12-16-0"
 ---

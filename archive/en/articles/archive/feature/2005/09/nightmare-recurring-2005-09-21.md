@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Zvi Mowshowitz"
 [_metadata_:description]:- "One of the cards most feared by the blue decks of old was Disrupting Scepter. It might not cripple them right away, but in the long run a Scepter that got past their defenses often went on to win the entire game as they drew useless counter after useless counter until their hand had been stripped down to nothing. Those blue decks are gone, but the principle remains."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624501"
 [_metadata_:publish_date]:- "2005-09-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Nightmare Recurring"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-28 06:23:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-28 06:23:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170628062358id_/http://magic.wizards.com/en/articles/archive/feature/nightmare-recurring-2005-09-21"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/nightmare-recurring-2005-09-21"
 ---

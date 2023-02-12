@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Province of Kessig The province of Kessig consists of rolling farmlands surrounded by grasping fingers of dense, dark woods. The woods hide werewolves, geists, and other monstrous threats, while the farmlands support a hardscrabble rural livelihood for Kessig's humans. Kessigers are self-reliant, pragmatic, and plainspoken. They rely on their no-nonsense faith in Avacyn"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "698126"
 [_metadata_:publish_date]:- "2011-09-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The World of Innistrad"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 04:29:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 04:29:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208042919id_/https://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-09-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-09-21"
 ---

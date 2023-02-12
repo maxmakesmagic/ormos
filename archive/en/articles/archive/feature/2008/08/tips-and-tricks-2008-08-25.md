@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Looking for a quick refresher on Magic: The Gathering rules or a new trick to spring on your next opponent? Browse this page for up-to-date information from the most recent Magic sets."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "704756"
 [_metadata_:publish_date]:- "2008-08-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tips and Tricks"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 23:31:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 23:31:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018233122id_/https://magic.wizards.com/en/articles/archive/feature/tips-and-tricks-2008-08-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tips-and-tricks-2008-08-25"
 ---

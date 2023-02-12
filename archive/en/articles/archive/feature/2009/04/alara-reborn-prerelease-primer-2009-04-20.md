@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220526020910/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-primer-2009-04-20)
+[Link to Wayback Machine](https://web.archive.org/web/20210501165404/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-primer-2009-04-20)
 
 [_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "Multicolour sets, we thought we knew you. After Invasion block and Ravnica block, and then the novel colour reworking in Shadowmoor block, I thought I had got the hang of all the different ways of laying out a sealed deck around. Now, in the same way that Legions got us doing our creature/spell splits a little differently, Alara Reborn is fast approaching, with all gold, all"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683581"
 [_metadata_:publish_date]:- "2009-04-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Alara Reborn Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 02:09:10+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526020910id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-primer-2009-04-20"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-01 16:54:04"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501165404id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-primer-2009-04-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-primer-2009-04-20"
 ---
 
@@ -89,9 +91,9 @@ I would recommend splitting cards into the colour combinations that they fall in
 Conveniently, you have more working in your favour than just discipline to get playable draws in this new, reborn version of Alara. We've seen cycling throughout the block, and with the final version in the mix, there is a variation on it that has a lot of potential to ensure that you can be drawing smoothly and easily into action every game.
 
 ![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/features/35_cardCycling.jpg)  
-Cycling is one of those abilities that even before talk of [Astral Slide](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) and Lighning Rift is an absolute winner. It might seem that ditching a card in your hand for a random one from the top of your deck is a little chancy, but it does wonders for ensuring that you draw your best spells and have the mana to play them. 
+Cycling is one of those abilities that even before talk of [Astral Slide](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) and Lighning Rift is an absolute winner. It might seem that ditching a card in your hand for a random one from the top of your deck is a little chancy, but it does wonders for ensuring that you draw your best spells and have the mana to play them. 
 
-This is the first time that we've seen hybrid mana on cycling, and barring the temporal anomalies of [Street Wraith](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Street+Wraith) and [Edge of Autumn](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Edge+of+Autumn), that makes this card the easiest card to cycle we've ever seen. With access to either blue or white mana, it can be discarded at instant speed to be replaced by the top card of your deck. Given that I have run [Angelsong](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angelsong) and [Savage Hunger](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Savage+Hunger) in decks basically to cycle with at the cost of ![](https://web.archive.org/web/20161225105850im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless2.gif), this is an exciting start for my preview card.
+This is the first time that we've seen hybrid mana on cycling, and barring the temporal anomalies of [Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Street+Wraith) and [Edge of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Edge+of+Autumn), that makes this card the easiest card to cycle we've ever seen. With access to either blue or white mana, it can be discarded at instant speed to be replaced by the top card of your deck. Given that I have run [Angelsong](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angelsong) and [Savage Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Savage+Hunger) in decks basically to cycle with at the cost of ![](https://web.archive.org/web/20161225105850im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless2.gif), this is an exciting start for my preview card.
 
 ![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/features/35_cyclingCards.jpg)  
 So part one seems pretty interesting. We have a cycling card with a bargain-basement cycling cost. Crucially, in a set full of gold cards, suddenly there are things that we can do for just one mana (one of the areas that seemed a little up in the air when first we heard about the approaching gold rush). How does the rest stack up, though? Check it out.

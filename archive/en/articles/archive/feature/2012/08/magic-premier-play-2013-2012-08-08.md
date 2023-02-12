@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Helene Bergeot"
 [_metadata_:description]:- "As the qualifier season for Pro Tour Gatecrash kicks off in a few weeks, we wanted to take the time to give you an overview of next year's plans for Magic Premier Play.Let's start with the Pro Tour locations. The Pro Tour visits two new cities in 2013 and returns to a city that has always been a favorite among the players. Pro Tour Gatecrash will be held in Montreal, Quebec,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681681"
 [_metadata_:publish_date]:- "2012-08-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Premier Play in 2013"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-24 15:55:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-24 15:55:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220924155555id_/https://magic.wizards.com/en/articles/archive/feature/magic-premier-play-2013-2012-08-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-premier-play-2013-2012-08-08"
 ---

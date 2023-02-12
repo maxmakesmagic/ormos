@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Katsuhiro Mori Format: Standard - Japan National Championship 2010 2 Arid Mesa 15 Mountain 4 Scalding Tarn 4 Teetering Peaks 4 Ball Lightning 4 Goblin Guide 4 Hell's Thunder 4 Hellspark Elemental 2 Kargan Dragonlord 3 Burst Lightning 3 Earthquake 4 Lightning Bolt 2 Quenchable Fire 4 Searing Blaze 1 Staggershock *2 Basilisk Collar *4 Cunning Sparkmage *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669896"
 [_metadata_:publish_date]:- "2010-07-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Japan Nat’l Champ"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 12:03:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 12:03:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019120300id_/https://magic.wizards.com/en/articles/archive/feature/japan-nat%E2%80%99l-champ-2010-07-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/japan-nat%E2%80%99l-champ-2010-07-09"
 ---

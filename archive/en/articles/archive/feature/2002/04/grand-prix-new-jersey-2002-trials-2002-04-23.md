@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee: Varies by location. Contact organizer for detailsTournament Structure: Modified SwissTournament Format: 3-person Team LimitedPrizes: At least 1 second-round bye at each tournament, plus product prizes determined by organizer. State/ProvinceCityDate2-Round ByesLocationAddressPhoneWebsite CaliforniaLos Angeles06/15/021Costa Mesa Womens Club610 W."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735491"
 [_metadata_:publish_date]:- "2002-04-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - New Jersey 2002 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:22:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:22:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026132239id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-jersey-2002-trials-2002-04-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-jersey-2002-trials-2002-04-23"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Adrian Sullivan     Grand Prix-Memphis 1999 Top 8              "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953161"
 [_metadata_:publish_date]:- "2015-12-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Memphis 1999Top 8 Decks"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-07 03:43:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-07 03:43:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160107034313id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999top-8-decks-2015-12-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999top-8-decks-2015-12-16"
 ---

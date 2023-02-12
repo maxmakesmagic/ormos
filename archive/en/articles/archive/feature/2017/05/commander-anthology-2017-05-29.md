@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Commander Anthology mixes four classic decks in a way that offers a surprisingly balanced self-contained Commander experience."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1159226"
 [_metadata_:publish_date]:- "2017-05-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander Anthology"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-31 02:45:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-31 02:45:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170531024527id_/http://magic.wizards.com/en/articles/archive/feature/commander-anthology-2017-05-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-anthology-2017-05-29"
 ---

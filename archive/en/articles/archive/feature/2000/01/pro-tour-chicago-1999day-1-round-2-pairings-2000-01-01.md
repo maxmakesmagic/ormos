@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Aguiar, Rui (343) 3 44 Urban, Matt (63) 3 Alcantara, Jomar (317) 0 136 Dick, Alexander (99) 0 Allen, Crispin (143) 1 89 Aw, Yuen (262) 1 Allen, Dustin (144) 3 23 Krakower, Gary (3) 3 Allison, Jerry (124) 3 62 Dobson, Tony (201) 3 Anderson, Adam (313) 0 116 Quinn, Daniel (128) 0 Anderson, Alex (4) 3 57 Hidaka, Ayumi (93) 3 Arevalos, Francisco"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950906"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Day 1 Round 2 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 17:50:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 17:50:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127175007id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-2-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-2-pairings-2000-01-01"
 ---

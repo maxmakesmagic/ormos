@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Jaime Jones's Uril, the Miststalker from Alara Reborn (as seen on the Visual Spoiler). Enjoy. Regular (1280x960 pixels) Widescreen (2560x1600 pixels) iPhone (320x480 pixels)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653586"
 [_metadata_:publish_date]:- "2009-04-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Uril, the Miststalker"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 20:53:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 20:53:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204205310id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-uril-miststalker-2009-04-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-uril-miststalker-2009-04-24"
 ---

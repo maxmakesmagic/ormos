@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "One project I had percolating for this column at some point this summer was to do what I was calling a “big links” piece, where I would compile a sort of “one-stop shop” of handy links for Magic Online-related stuff. Unfortunately my time writing this column is coming to an end and I'm not going to have time to do the full-blown version, but I did put together some handy links"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620351"
 [_metadata_:publish_date]:- "2006-08-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Handy Links"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 08:36:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 08:36:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118083618id_/https://magic.wizards.com/en/articles/archive/feature/handy-links-2006-08-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/handy-links-2006-08-03"
 ---

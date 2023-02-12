@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Abe, Kazufumi (145) 3 112 Hon Ming, Au Yeung (175) 3 Alvarenga, Rafael (76) 9 1 Van de Logt, Tom (117) 9 Anzorena, Pablo (15) 3 144 Rank, Derek (28) 3 Auer, Jeffrey (104) 6 84 Bulthaud, Sean (314) 6 Azevedo, Pedro (199) 3 95 Pikula, Chris (313) 3 Bachmann, David (229) 4 73 Shiwaku, Tsuyoshi (169) 4 Baehr, Kevin (155) 4 145 Bock, Daniel (265)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950471"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 5 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:08:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:08:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126180820id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-pairings-2000-01-01"
 ---

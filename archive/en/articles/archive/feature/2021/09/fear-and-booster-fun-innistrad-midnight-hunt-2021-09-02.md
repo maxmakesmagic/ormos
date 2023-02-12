@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Clayton Kroh"
 [_metadata_:description]:- "Where does one find inspiration for new horror card treatments on one of Magic's most popular planes?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1555602"
 [_metadata_:publish_date]:- "2021-09-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fear and Booster Fun in Innistrad: Midnight Hunt"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-02 20:01:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-02 20:01:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210902200114id_/https://magic.wizards.com/en/articles/archive/feature/fear-and-booster-fun-innistrad-midnight-hunt-2021-09-02?fbclid=IwAR1cai7_Qx93vVbpJddnaCuC3-Emh3wVvrso3DD4gQDf1v9XycItNvolDww"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fear-and-booster-fun-innistrad-midnight-hunt-2021-09-02?fbclid=IwAR1cai7_Qx93vVbpJddnaCuC3-Emh3wVvrso3DD4gQDf1v9XycItNvolDww"
 ---

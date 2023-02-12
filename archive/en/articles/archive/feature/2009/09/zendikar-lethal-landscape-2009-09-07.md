@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Welcome to Zendikar previews! Today is Labor Day here in the States, and ordinarily that means I'd be introducing a reposting of last week's article for you to read while the web team is off having barbecues and enjoying what little sunshine we can get here in Seattle."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683916"
 [_metadata_:publish_date]:- "2009-09-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Zendikar, the Lethal Landscape"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-28 15:03:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-28 15:03:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160528150308id_/http://magic.wizards.com/en/articles/archive/feature/zendikar-lethal-landscape-2009-09-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/zendikar-lethal-landscape-2009-09-07"
 ---

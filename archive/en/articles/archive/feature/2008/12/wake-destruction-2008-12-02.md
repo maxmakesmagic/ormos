@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Daniel Zink's Mirari's Wake Control"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671086"
 [_metadata_:publish_date]:- "2008-12-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wake of Destruction"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:27:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:27:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414012713id_/http://magic.wizards.com/en/articles/archive/feature/wake-destruction-2008-12-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wake-destruction-2008-12-02"
 ---

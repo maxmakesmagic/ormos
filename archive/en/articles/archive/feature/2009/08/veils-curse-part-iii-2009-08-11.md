@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "629101"
 [_metadata_:publish_date]:- "2009-08-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Veil's Curse, Part III"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-10 00:25:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-10 00:25:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160310002516id_/http://magic.wizards.com/en/articles/archive/feature/veils-curse-part-iii-2009-08-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/veils-curse-part-iii-2009-08-11"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "This week's questions cover a range of confusing cards--from Nurturing Licid to Serra Avatar to Spelljack to Glarecaster. Send your rules questions in to ask@wizards.com, and Rune will answer as many as he can!General / Older Cards QuestionsQ: I was wondering what is meant by `floating` lands when you play Upheaval. How can you do something like that without some kind of a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622081"
 [_metadata_:publish_date]:- "2002-11-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #6"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 02:19:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 02:19:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118021935id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-6-2002-11-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-6-2002-11-30"
 ---

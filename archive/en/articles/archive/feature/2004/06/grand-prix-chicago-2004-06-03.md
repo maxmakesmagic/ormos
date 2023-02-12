@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Grand Prix—Chicago is presented by Pastimes & Moy Events"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734646"
 [_metadata_:publish_date]:- "2004-06-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Chicago"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 02:31:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 02:31:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031023110id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2004-06-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-2004-06-03"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Devin Low"
 [_metadata_:description]:- "This is the article text."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "642406"
 [_metadata_:publish_date]:- "2008-07-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "When Mana Symbols Attack!"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-22 14:03:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-22 14:03:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160222140308id_/http://magic.wizards.com/en/articles/archive/feature/when-mana-symbols-attack-2008-07-30"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/when-mana-symbols-attack-2008-07-30"
 ---

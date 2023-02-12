@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "There aren't that many demons in Magic. Back when I first started playing, no one really owned a huge amount of cards, and so it was exciting when people played a big rare. I had seen a Shivan Dragon or two in my time, and I thought that was big, but I hadn't seen anything yet. One day, I was playing with some friends when out came the Lord of the Pit.It was huge. It was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613371"
 [_metadata_:publish_date]:- "2004-07-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Promise of Power"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 02:26:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 02:26:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813022614id_/https://magic.wizards.com/en/articles/archive/feature/promise-power-2004-07-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/promise-power-2004-07-07"
 ---

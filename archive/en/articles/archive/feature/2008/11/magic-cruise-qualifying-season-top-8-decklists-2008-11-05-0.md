@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Robin Chestnut Format: Standard 4 Spinerock Knoll 4 Mutavault 16 Mountain 4 Flamekin Harbinger 4 Smokebraider 4 Incandescent Soulstoke 4 Nova Chaser 4 Thunderblust 2 Stigma Lasher 1 Fulminator Mage 1 Spitebellows 4 Incinerate 4 Flame Javelin 4 Soul's Fire *3 Shock *4 Guttural Response *3 Spitebellows *3 Fulminator Mage *2 Ashenmoor Gouger [/decklist]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "726566"
 [_metadata_:publish_date]:- "2008-11-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Cruise Qualifying Season: Top 8 Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 13:40:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 13:40:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502134017id_/https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-11-05-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-11-05-0"
 ---

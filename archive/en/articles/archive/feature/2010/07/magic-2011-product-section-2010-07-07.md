@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "Hey! It's the Wednesday before the Magic 2011 Prerelease! So how would you like to see the entire set today? That was a rhetorical question. It was intended as a way to seamlessly transition into the news that every card is now visible in the Magic 2011 Product Section!Before you rush off, remember that there's also a new wallpaper. And the Magic 2011 Prerelease on July 10-11."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684356"
 [_metadata_:publish_date]:- "2010-07-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic 2011 Product Section"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 15:26:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 15:26:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119152605id_/https://magic.wizards.com/en/articles/archive/feature/magic-2011-product-section-2010-07-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2011-product-section-2010-07-07"
 ---

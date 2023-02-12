@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "After a set comes out, we typically give one of its designers a chance to tell the story of being on the design team. And typically, that one designer was present for enough of the design to give a good, all-around look at how that set came to be.Shards of Alara design, however, was anything but typical. As Mark Rosewater said, once the three-color idea solidified, design lead Bill Rose assembled no fewer than fifteen people on five teams, one for each of the five three-color shards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684151"
 [_metadata_:publish_date]:- "2008-10-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Five Teams Share One Fate"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-21 13:42:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-21 13:42:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921134246id_/https://magic.wizards.com/en/articles/archive/feature/five-teams-share-one-fate-2008-10-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/five-teams-share-one-fate-2008-10-13"
 ---

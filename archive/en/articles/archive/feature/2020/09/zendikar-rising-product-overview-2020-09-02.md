@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ari Zirulnik"
 [_metadata_:description]:- "There are tons of products available for the upcoming Zendikar Rising, and Ari has all the info right here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1508920"
 [_metadata_:publish_date]:- "2020-09-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Zendikar Rising Product Overview"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-13 18:56:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-13 18:56:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200913185618id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-product-overview-2020-09-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-product-overview-2020-09-02"
 ---

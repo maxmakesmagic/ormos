@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200920152208/https://magic.wizards.com/en/articles/archive/feature/arctic-blast-past-2006-07-03)
+[Link to Wayback Machine](https://web.archive.org/web/20210429043846/https://magic.wizards.com/en/articles/archive/feature/arctic-blast-past-2006-07-03)
 
 [_metadata_:author]:- "Brian David-Marshall"
-[_metadata_:description]:- "AN ARCTIC BLAST! IN JUNE NEW CARD SET TO BE A HOT NUMBER AT CANADIAN COMPETITION"
+[_metadata_:description]:- "AN ARCTIC BLAST! IN JUNE NEW CARD SET TO BE A HOT NUMBER AT CANADIAN COMPETITION Renton, Wash. (April 25, 1995) -- Alongside Canada's inaugural National Magic: The Gathering(tm) tournament in Toronto this June, the world premier of cards from the next Magic expansion, Ice Age(tm), will sizzle. Wizards of the Coast, Inc., the publisher of the trading card phenomenon Magic, is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632801"
 [_metadata_:publish_date]:- "2006-07-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "An Arctic Blast From the Past"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-20 15:22:08+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200920152208id_/https://magic.wizards.com/en/articles/archive/feature/arctic-blast-past-2006-07-03"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:38:46"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429043846id_/https://magic.wizards.com/en/articles/archive/feature/arctic-blast-past-2006-07-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/arctic-blast-past-2006-07-03"
 ---
 

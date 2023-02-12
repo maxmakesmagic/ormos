@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FinishNameWinnings1William Jensen$25,0002Jason Zila$15,0003-4Sigurd Eskeland$10,0003-4Trey Van Cleave$10,0005-8Ben Rubin$6,5005-8Warren Marsh$6,5005-8Dirk Baberowski$6,5005-8Bob Maher, Jr.$6,5009-16Tony"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805421"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Final Standings"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:03:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:03:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140300id_/http://magic.wizards.com/en/articles/archive/feature/final-standings-2015-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/final-standings-2015-10-15"
 ---

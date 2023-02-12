@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Time to look at the Intro Packs for Dragon's Maze! Yesterday we got to see all the Dragon's Maze promos and tokens; today we get to see the five new Intro Packs featuring five of the set's maze runners. Inside each of these packs is a ready-to-play sixty-card deck with a foil premium rare (the one you see pictured) and two sealed fifteen-card Dragon's Maze booster packs, as well as a insert with the deck's strategy and a Magic `learn to play` guide."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648776"
 [_metadata_:publish_date]:- "2013-04-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dragon's Maze Intro Packs"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:42:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:42:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531084209id_/https://magic.wizards.com/en/articles/archive/feature/dragons-maze-intro-packs-2013-04-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dragons-maze-intro-packs-2013-04-12"
 ---

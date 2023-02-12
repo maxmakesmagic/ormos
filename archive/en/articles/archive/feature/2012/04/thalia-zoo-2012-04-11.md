@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Modern PTQs might have come to a halt for this season, but that doesn't mean the format is showing any sign of slowing down! Magic Online is still pushing the robust new metagame ahead with a constant stream of tournaments. One older deck that has appeared out of the woodwork recently? Zoo!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672286"
 [_metadata_:publish_date]:- "2012-04-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Thalia Zoo"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-05 04:08:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-05 04:08:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170705040819id_/http://magic.wizards.com/en/articles/archive/feature/thalia-zoo-2012-04-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/thalia-zoo-2012-04-11"
 ---

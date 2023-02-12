@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "Wow. It's been a long time. This was the column I first wrote for this site – or any site for that matter other than the occasional promo piece for a Neutral Ground/Your Move Games Grudge Match. The column appeared every three or four weeks back in the very early days of magicthegathering.com. I would feature a classic deck list and then update it with modern cards. For this updated version of the column – and with the induction ceremony at Worlds looming later this week -- I chose a deck with a Hall of Fame pedigree."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "617781"
 [_metadata_:publish_date]:- "2006-11-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Deconstructing Stasis"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-08 14:53:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-08 14:53:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160308145304id_/http://magic.wizards.com/en/articles/archive/feature/deconstructing-stasis-2006-11-28-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/deconstructing-stasis-2006-11-28-0"
 ---

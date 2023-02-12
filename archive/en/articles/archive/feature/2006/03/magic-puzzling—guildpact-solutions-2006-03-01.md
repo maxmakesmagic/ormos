@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jeff Till"
 [_metadata_:description]:- "Here are the solutions to Monday's Magic: The Puzzling puzzles."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632551"
 [_metadata_:publish_date]:- "2006-03-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Puzzling—Guildpact Solutions"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 13:29:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 13:29:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923132935id_/https://magic.wizards.com/en/articles/archive/feature/magic-puzzling%E2%80%94guildpact-solutions-2006-03-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-puzzling%E2%80%94guildpact-solutions-2006-03-01"
 ---

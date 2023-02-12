@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff Game 1 Eskeland gets to go first this game, but has to mulligan his opening hand. He plays an Island to start, and Zila plays Treetop Village. Sigurd then draws Brainstorm and casts it, which gets him the green land he needed. He then casts Birds of Paradise, and ends his turn. Zila draws, and plays a Tropical Island. Eskeland untaps and draws, playing Survival of the Fittest, which Zila Mana Leaks. Zila plays a Wasteland and ends his turn."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805431"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Masters Round 4 Feature Match: Jason Zila vs. Sigurd Eskeland"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:06:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:06:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140639id_/http://magic.wizards.com/en/articles/archive/feature/masters-round-4-feature-match-jason-zila-vs-sigurd-eskeland-2015-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-round-4-feature-match-jason-zila-vs-sigurd-eskeland-2015-10-15"
 ---

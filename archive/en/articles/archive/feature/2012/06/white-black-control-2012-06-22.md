@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Standard is full of powerful control elements—and it turns out you don't even need access to blue to use them all! Magic Online player AliEnWaRe_ built up a black control deck that touched a little white for some extra board sweepers, took it into a Daily Event, and finished with a 3–1 record. The primary kill condition? Sorin's Vengeance! Let's take a look.It turns out that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665206"
 [_metadata_:publish_date]:- "2012-06-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "White-Black Control"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 10:40:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 10:40:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705104048id_/https://magic.wizards.com/en/articles/archive/feature/white-black-control-2012-06-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-black-control-2012-06-22"
 ---

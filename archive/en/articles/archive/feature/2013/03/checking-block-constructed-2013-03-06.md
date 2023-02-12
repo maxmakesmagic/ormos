@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211015210922/https://magic.wizards.com/en/articles/archive/feature/checking-block-constructed-2013-03-06)
+[Link to Wayback Machine](https://web.archive.org/web/20220817072528/https://magic.wizards.com/en/articles/archive/feature/checking-block-constructed-2013-03-06)
 
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "I think it's safe to say that Sphinx's Revelation is still the defining card of Return to Ravnica Block Constructed. At a glance, it looked to me like straight white-blue was the most popular Sphinx's Revelation deck, but it's not hard to find someone playing white, blue, and any third color. Sphinx's Revelation should win any game in which the opponent doesn't have it and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666211"
 [_metadata_:publish_date]:- "2013-03-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Checking in on Block Constructed"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:09:22+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015210922id_/https://magic.wizards.com/en/articles/archive/feature/checking-block-constructed-2013-03-06"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-17 07:25:28"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817072528id_/https://magic.wizards.com/en/articles/archive/feature/checking-block-constructed-2013-03-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/checking-block-constructed-2013-03-06"
 ---
 
@@ -481,7 +483,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (21)
+##### Common (25)
 
 
 
@@ -513,17 +515,17 @@ OverviewColorCostRarity
 [Centaur Healer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCentaur%5D+%5BHealer%5D)
 
 
+4
+[Lyev Skyknight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLyev%5D+%5BSkyknight%5D)
+
+
 3
 [Cancel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
 
 
 
-##### Uncommon (17)
+##### Uncommon (13)
 
-
-
-4
-[Lyev Skyknight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLyev%5D+%5BSkyknight%5D)
 
 
 2

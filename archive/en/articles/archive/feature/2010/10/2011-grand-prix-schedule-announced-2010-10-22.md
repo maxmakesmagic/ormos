@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210417182016/https://magic.wizards.com/en/articles/archive/feature/2011-grand-prix-schedule-announced-2010-10-22)
+[Link to Wayback Machine](https://web.archive.org/web/20220705154418/https://magic.wizards.com/en/articles/archive/feature/2011-grand-prix-schedule-announced-2010-10-22)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wizards of the Coast is excited to announce the 2011 Grand Prix schedule, featuring 20 events across 13 different countries.The first combined Grand Prix and Pro Tour at Magic Weekend Paris highlights the season, along with a return to China and Latin America and events in always-popular Kobe, Singapore, Amsterdam, Montreal, and San Diego. Formats will include six Standard,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604801"
 [_metadata_:publish_date]:- "2010-10-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Grand Prix Schedule Announced"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-17 18:20:16+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210417182016id_/https://magic.wizards.com/en/articles/archive/feature/2011-grand-prix-schedule-announced-2010-10-22"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 15:44:18"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705154418id_/https://magic.wizards.com/en/articles/archive/feature/2011-grand-prix-schedule-announced-2010-10-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-grand-prix-schedule-announced-2010-10-22"
 ---
 
@@ -49,7 +51,7 @@ The spring and early summer Grand Prix slate offers up six more amazing stops. D
 
 The last set of Grand Prix in 2011 is the biggest, with nine events from August to November. Highlighting the late-season schedule are trips to Shanghai, China and Santiago, Chile. Grand Prix in Amsterdam, Pittsburgh, Montreal, Milan, Brisbane, Hiroshima, and San Diego round out the 2011 season. For those looking to include **Magic** Weekends in their Grand Prix travel schedule, Pittsburgh is the weekend before **Magic** Weekend Philadelphia and San Diego is the weekend before the 2011 World Championships at **Magic** Weekend San Francisco. These nine events provide invitations to the first Pro Tour of the 2012 season.
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feature113a_card.jpg)*Yours for participating, while supplies last*Along with the excitement and big prizes of the Grand Prix, each of these weekends features all types of **Magic** activity. From Pro Tour Qualifiers and other major public events down to 8-person pick-up drafts, it's non-stop **Magic** when a Grand Prix comes to your town. You can also meet prominent **Magic** artists at each Grand Prix and have them sign your cards for an unforgettable memento of your tournament experience. Plus, every participant in each Grand Prix receives a special foil promotional [Maelstrom Pulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Maelstrom+Pulse) (while supplies last).
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feature113a_card.jpg)*Yours for participating, while supplies last*Along with the excitement and big prizes of the Grand Prix, each of these weekends features all types of **Magic** activity. From Pro Tour Qualifiers and other major public events down to 8-person pick-up drafts, it's non-stop **Magic** when a Grand Prix comes to your town. You can also meet prominent **Magic** artists at each Grand Prix and have them sign your cards for an unforgettable memento of your tournament experience. Plus, every participant in each Grand Prix receives a special foil promotional [Maelstrom Pulse](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Maelstrom+Pulse) (while supplies last).
 
 If you're looking for a leg up on the competition, be sure to check out Grand Prix Trials held at local WPN locations leading up to a Grand Prix. These tournaments provide three-round byes for specific Grand Prix to top finishers and are run in the months prior to each Grand Prix. Become a part of the Pro Tour community by joining the [Pro Tour Facebook](http://www.facebook.com/MagicProTour) group and share your experiences traveling the world playing **Magic** with your friends.
 

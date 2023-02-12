@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Akaike You Format: 2008 Japan Nationals 22 Snow-Covered Mountain 2 Keldon Megaliths 4 Demigod of Revenge 4 Blood Knight 4 Magus of the Scroll 4 Figure of Destiny 4 Ashenmoor Gouger 4 Boggart Ram-Gang 4 Incinerate 4 Skred 4 Flame Javelin *3 Manabarbs *3 Greater Gargadon *3 Sulfur Elemental *3 Faerie Macabre *2 Sulfurous Blast *1 Unwilling Recruit [/decklist]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672576"
 [_metadata_:publish_date]:- "2008-09-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2008 Japan Nationals Standard Decklists (A-K)"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:40:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:40:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027204027id_/https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-k-2008-09-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-japan-nationals-standard-decklists-k-2008-09-24"
 ---

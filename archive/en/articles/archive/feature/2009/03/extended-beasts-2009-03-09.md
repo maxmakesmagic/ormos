@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Corbett Gray's Beasts Format: Pro Tour Qualifier-Honolulu 1 Blood Crypt 4 Contested Cliffs 2 Forest 1 Mountain 1 Murmuring Bosk 1 Overgrown Tomb 1 Plains 2 Stomping Ground 1 Swamp 1 Temple Garden 4 Windswept Heath 4 Wooded Foothills 2 Birds of Paradise 2 Birds of Paradise 2 Chameleon Colossus 2 Indrik Stomphowler 4 Noble Hierarch 4 Ravenous Baloth 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667486"
 [_metadata_:publish_date]:- "2009-03-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Extended Beasts"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 18:42:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 18:42:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016184206id_/https://magic.wizards.com/en/articles/archive/feature/extended-beasts-2009-03-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extended-beasts-2009-03-09"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Globus"
 [_metadata_:description]:- "I have been waiting for the release of Magic 2012 for a year now, and it is now just about upon us! I can't wait to show you what a great set this will be. But first, let me introduce me and my team.Mark Globus (lead)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680731"
 [_metadata_:publish_date]:- "2011-06-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Many Heads of Magic 2012"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:05:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:05:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030501id_/https://magic.wizards.com/en/articles/archive/feature/many-heads-magic-2012-2011-06-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/many-heads-magic-2012-2011-06-27"
 ---

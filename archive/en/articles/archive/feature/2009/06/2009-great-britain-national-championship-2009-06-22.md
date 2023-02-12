@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Invitation List NameQualified TotalQualified CompositeQualified Event Randle, JonathanTotal RatingComposite RatingNational Champion Murray, StephenTotal RatingComposite RatingNational Team Kyriazis, Ioannis National Team Davies, Russ National Team Mcintyre, Graeme f.Total RatingComposite RatingDundee Gardner, DanielTotal RatingComposite RatingIpswich Edwards, MickTotal"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730146"
 [_metadata_:publish_date]:- "2009-06-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2009 Great Britain National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 10:09:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 10:09:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528100921id_/https://magic.wizards.com/en/articles/archive/feature/2009-great-britain-national-championship-2009-06-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-great-britain-national-championship-2009-06-22"
 ---

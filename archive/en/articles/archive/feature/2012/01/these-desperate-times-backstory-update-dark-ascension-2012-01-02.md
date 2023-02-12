@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "What do you tell yourself when bad becomes worse?Art by Jason ChanHow do you hold onto hope when your worst fears turn out to have been a mere overture for what is to come?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681236"
 [_metadata_:publish_date]:- "2012-01-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "In These Desperate Times: A Backstory Update for Dark Ascension"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:59:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:59:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805195946id_/https://magic.wizards.com/en/articles/archive/feature/these-desperate-times-backstory-update-dark-ascension-2012-01-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/these-desperate-times-backstory-update-dark-ascension-2012-01-02"
 ---

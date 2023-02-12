@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "The eerie gloom of Shadowmoor is now upon us, and I thought it would be an excellent opportunity to resurrect `Milk and Cookies,` Matt Cavotta's series of interviews with the artists of Magic. The single most important part of conveying the change from eternal-midsummer Lorwyn to eternal-dusk Shadowmoor was the tone of the art. An artist who started his work with Magic during"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622776"
 [_metadata_:publish_date]:- "2008-04-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Milk and Cookies with Jesper Ejsing"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 18:22:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 18:22:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429182248id_/https://magic.wizards.com/en/articles/archive/feature/milk-and-cookies-jesper-ejsing-2008-04-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/milk-and-cookies-jesper-ejsing-2008-04-23"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Legacy and Vintage players, mark your calendars. The 2014 Eternal Weekend is scheduled for October 24–26 in Philadelphia.Top Deck Games will once again be running Eternal Weekend. The Legacy Championship will be on Saturday, October 25, and the Vintage Championship will be on Sunday, October 26. Each event features more than $10,000 in prizes.The event will take place at the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687056"
 [_metadata_:publish_date]:- "2014-03-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2014 Eternal Weekend Set for October"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 16:56:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 16:56:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527165633id_/https://magic.wizards.com/en/articles/archive/feature/2014-eternal-weekend-set-october-2014-03-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2014-eternal-weekend-set-october-2014-03-05"
 ---

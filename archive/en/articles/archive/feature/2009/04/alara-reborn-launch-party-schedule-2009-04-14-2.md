@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "GermanyWorldwide Fact Sheet DateCityVenueAddressPostal Code 4/25/2009MoersHeadquarter Comics & SpieleJosefstr. 27 2947441 4/30/2009KölnHiveworldMauritiussteinweg 9650676 4/30/2009BerlinFUNtainment Game Center BerlinRevaler Str.110243 4/30/2009BndeArtefaktBahnhofstrae 3332257 4/30/2009AhlenUtopiaIm Khl 759227 4/30/2009OberurselWebsiteNassauer Str. 861440 4/30/2009FrankfurtJK"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "704471"
 [_metadata_:publish_date]:- "2009-04-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Alara Reborn Launch Party Schedule"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 02:21:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 02:21:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021022157id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-launch-party-schedule-2009-04-14-2"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-launch-party-schedule-2009-04-14-2"
 ---

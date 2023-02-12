@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Toshiki Tsukamoto vs. Dave Williams The match started with banter as the players realized that four years earlier, Chris Benafel had sold a mint Alpha black lotus to Toshiki Tsukamoto. Game 1 Tsukamoto's bid for an early Cavern Harpy was foiled when Williams Terminated the Stormscape Apprentice that had been marked for gating. After a Williams Vicious Kavu traded with a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806681"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 4: Team Fire Beat vs. Team AlphaBetaUnlimited.com"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 21:15:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 21:15:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701211542id_/https://magic.wizards.com/en/articles/archive/feature/round-4-team-fire-beat-vs-team-alphabetaunlimitedcom-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-team-fire-beat-vs-team-alphabetaunlimitedcom-2000-01-01"
 ---

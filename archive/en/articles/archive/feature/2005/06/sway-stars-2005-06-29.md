@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Every week, I get a lot of e-mail from readers. Some of my favorites have been responses to some of the older Reader Challenges that someone felt deserved another look. Other times, a reader will send in a great insight on a card I just covered. Theodere Perperidis had a fantastic suggestion for a Tooth and Nail deck using Twincast: include an Uyo! Now, if your opponent casts Tooth and Nail, you can Twincast it, retrieving Uyo (and whatever else you might like)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613931"
 [_metadata_:publish_date]:- "2005-06-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sway of the Stars"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-22 14:43:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-22 14:43:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160822144337id_/http://magic.wizards.com/en/articles/archive/feature/sway-stars-2005-06-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sway-stars-2005-06-29"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 4 Pairings - 14 and under Division Player Points Table Opponent Points Allen Dustin (17) 0 27 Bizub Marc (39) 0 Altemara Chase (10) 6 10 Percopo Joseph (34) 6 Anderson Adam (2) 6 5 Dyke Eric (19) 6 Bailyn Jonathan (33) 3 25 dela Cruz Jimmy (30) 0 Basile Sebastian (52) 3 21 Mcpherson Ryan (47) 3 Behlen Andrew (3) 9 1 Landers Mark (40) 9"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953251"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 04:15:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 04:15:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524041539id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-43"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-43"
 ---

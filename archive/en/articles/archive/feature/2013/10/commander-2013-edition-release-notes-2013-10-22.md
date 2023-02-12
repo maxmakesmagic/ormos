@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112023752/https://magic.wizards.com/en/articles/archive/feature/commander-2013-edition-release-notes-2013-10-22)
+[Link to Wayback Machine](https://web.archive.org/web/20190531110904/https://magic.wizards.com/en/articles/archive/feature/commander-2013-edition-release-notes-2013-10-22)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic: The Gathering Commander (2013 Edition) Release Notes Compiled by Matt Tabak, with contributions from Laurie Cheers, Carsten Haese, Eli Shiffrin, Zoe Stephenson, and Thijs van Ommen Document last modified September 26, 2013"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "342271"
 [_metadata_:publish_date]:- "2013-10-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander 2013 Edition Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:37:52+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023752id_/https://magic.wizards.com/en/articles/archive/feature/commander-2013-edition-release-notes-2013-10-22"
+[_metadata_:wayback_capture_timestamp]:- "2019-05-31 11:09:04"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190531110904id_/https://magic.wizards.com/en/articles/archive/feature/commander-2013-edition-release-notes-2013-10-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2013-edition-release-notes-2013-10-22"
 ---
 

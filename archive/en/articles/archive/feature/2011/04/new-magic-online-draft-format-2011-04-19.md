@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Originally released as two separate draft formats, Zendikar Block and Rise of the Eldrazi were never meant to be played together…until now! Starting after the downtime this Wednesday, you will be able to play Zendikar Block and Rise of the Eldrazi draft queues in the 8-Player Draft room. In addition, ZEN Block + ROE 64-Player Premier Drafts will be scheduled over the weekend"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687336"
 [_metadata_:publish_date]:- "2011-04-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "New Magic Online Draft Format"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 06:34:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 06:34:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024063458id_/https://magic.wizards.com/en/articles/archive/feature/new-magic-online-draft-format-2011-04-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-magic-online-draft-format-2011-04-19"
 ---

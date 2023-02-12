@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Taipei is brought to you by Play! Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727546"
 [_metadata_:publish_date]:- "2014-05-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Taipei 2014 Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 03:54:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 03:54:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927035436id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-2014-event-information-2014-05-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-2014-event-information-2014-05-12"
 ---

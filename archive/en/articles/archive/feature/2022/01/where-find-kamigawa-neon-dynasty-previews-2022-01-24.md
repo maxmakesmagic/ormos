@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220126140923/https://magic.wizards.com/en/articles/archive/feature/where-find-kamigawa-neon-dynasty-previews-2022-01-24?utm_campaign=Kamigawa%3A-Neon-Dynasty&utm_source=TWITTER&utm_medium=social&utm_content=6251022064)
+[Link to Wayback Machine](https://web.archive.org/web/20220125101311/https://magic.wizards.com/en/articles/archive/feature/where-find-kamigawa-neon-dynasty-previews-2022-01-24?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Kamigawa: Neon Dynasty, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1570661"
 [_metadata_:publish_date]:- "2022-01-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Kamigawa: Neon Dynasty Previews"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 14:09:23+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126140923id_/https://magic.wizards.com/en/articles/archive/feature/where-find-kamigawa-neon-dynasty-previews-2022-01-24?utm_campaign=Kamigawa%3A-Neon-Dynasty&utm_source=TWITTER&utm_medium=social&utm_content=6251022064"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-kamigawa-neon-dynasty-previews-2022-01-24?utm_campaign=Kamigawa%3A-Neon-Dynasty&utm_source=TWITTER&utm_medium=social&utm_content=6251022064"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 10:13:11"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125101311id_/https://magic.wizards.com/en/articles/archive/feature/where-find-kamigawa-neon-dynasty-previews-2022-01-24?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-kamigawa-neon-dynasty-previews-2022-01-24?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 
@@ -129,8 +131,7 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 
 * [@mtgjp Twitter](https://twitter.com/mtgjp)
 * [@wizards\_magic Twitter](https://twitter.com/wizards_magic)
-* [Aksiz](https://aksiz.com/)
-* [Beartai](https://www.beartai.com/)
+* [Amanz](https://amanz.my/)
 * [CalebDMTG](https://twitter.com/CalebDMTG)
 * [Chen Long Chung](https://twitter.com/chenlongchung)
 * [Comic Book Resources](https://www.cbr.com/)
@@ -140,15 +141,16 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 * [GamerBraves](https://www.gamerbraves.com/)
 * [GeekCulture](https://geekculture.co/)
 * [IDN Times](https://www.idntimes.com/tech/games)
+* [IGN SEA](https://sea.ign.com/)
 * [Kenji Egashira](https://twitter.com/NumotTheNummy)
-* [Kompas](https://www.kompas.com/)
-* [Pokde](https://pokde.net/)
-* [Shopee Shop](https://shopee.sg/wizardsofthecoast)
+* [KotakGame](http://www.kotakgame.com/)
+* [Lowyat](https://www.lowyat.net/gaming/)
+* [Shopee Shop](https://www.facebook.com/yosukecosplay)
 * [Spirit Channell](https://www.facebook.com/SpiritChannell)
+* [Venus and Mercury League (VML)](https://twitter.com/VMLMTG)
 * [TeferiMagic](https://twitter.com/teferimagic)
 * [TVMovie](https://www.tvmovie.de/gaming)
 * [Ungeek](https://www.ungeek.ph/)
-* [Venus and Mercury League (VML)](https://twitter.com/VMLMTG)
 * [Yahoo Esports News Singapore](https://sg.news.yahoo.com/esports/)
 
 **February 1**
@@ -213,32 +215,24 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 
 * [@wizards\_magic Instagram](https://www.instagram.com/wizards_magic/)
 * [AkibaGamers](https://www.akibagamers.it/)
-* [L'antre des jeux](https://www.facebook.com/LAntre-des-Jeux-2008171619230902)
 * [Bajo](https://twitter.com/bajo)
 * [Benjamin Wheeler](https://twitter.com/BWheelerMTG)
 * [Blackneto\_](https://twitter.com/Blackneto_)
-* [Check Point - Gallarate](https://www.facebook.com/checkpoint.gallarate.fumetteria)
 * [Commander Rules Committee](https://twitter.com/mtgcommander)
 * [Crokeyz](https://twitter.com/Crokeyz)
 * [Crunchyroll](https://www.crunchyroll.com/)
 * [Game Informer](https://www.gameinformer.com/)
-* [Games Academy - Manicomix - Brescia](https://www.instagram.com/gamesacademy_brescia/)
-* [Geek Retreat - Glasgow](https://www.facebook.com/GeekRetreatGlasgow)
-* [Geek Retreat Middlesbrough](https://www.facebook.com/GeekRetreatMiddlesbrough)
-* [La Guilde (Witry les Reims)](https://www.facebook.com/laguildejeux)
-* [Júpiter Ciudad Real](https://instagram.com/jupiterciudadreal)
 * [*Magic: The Gathering* Brasil YouTube channel](https://www.youtube.com/channel/UCrwOIvg-wjYD_g-HzNxUTBg)
 * [*Magic: The Gathering* Español YouTube channel](https://www.youtube.com/channel/UC5sGCIdBQcSelD7wpM-0-2g)
 * [Mangaka96](https://www.youtube.com/channel/UCo8HsSKKHu5wP7PCVUHuzMQ)
-* [Oyun Mühendisi Cafe](https://www.instagram.com/pegasusoyuncak/)
 * [r/MagicTCG Subreddit](https://www.reddit.com/r/magicTCG/)
 * [Rebell Son](https://twitter.com/SonRebell)
 * [Riley Knight](https://twitter.com/rlyknght)
 * [Screen Rant](https://screenrant.com/)
-* [Sortileges Le Mans](https://www.facebook.com/sortilegeslemans)
 * [Tomohappy](https://www.youtube.com/channel/UCs9qQmAfeQzd1PuuwgHV_hw)
 * [Weekly MTG](https://www.twitch.tv/magic)
 * [wizardsmtgjp YouTube](https://www.youtube.com/c/wizardsmtgjp/)
+* [WPN](https://wpn.wizards.com/en)
 
 *Kamigawa: Neon Dynasty* Commander Previews
 -------------------------------------------

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Coming Up: PT SeattlePT Boston '03 Champions, The BrockafellarsThe Team Pro Tour is coming up, as the Circuit returns home to Seattle. Once upon a time all World Championships were held there as it is in the back yard of Renton, WA where the Wizards of the Coast offices are located. Worlds took off for the road and Seattle has only had a single Grand Prix since then."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "614236"
 [_metadata_:publish_date]:- "2004-07-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "PT Seattle Preview and More Standard Decks"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 22:12:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 22:12:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526221231id_/https://magic.wizards.com/en/articles/archive/feature/pt-seattle-preview-and-more-standard-decks-2004-07-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pt-seattle-preview-and-more-standard-decks-2004-07-08"
 ---

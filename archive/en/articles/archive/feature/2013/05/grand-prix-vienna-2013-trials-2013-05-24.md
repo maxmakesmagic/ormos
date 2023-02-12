@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Vienna Trials will be run at North and Latin America WPN locations from September 14, 2013 to November 17, 2013. Each awards the winner a two-round bye to Grand Prix Vienna. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729756"
 [_metadata_:publish_date]:- "2013-05-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Vienna 2013 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:51:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:51:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523085148id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-2013-trials-2013-05-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-2013-trials-2013-05-24"
 ---

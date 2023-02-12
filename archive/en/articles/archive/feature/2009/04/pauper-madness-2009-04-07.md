@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: BryTheFryGuy's Pauper Martyr Format: Magic Online Pauper 4 Barren Moor 4 Orzhov Basilica 4 Secluded Steppe 3 Snow-Covered Plains 5 Snow-Covered Swamp 4 Terramorphic Expanse 4 Children of Korlis 4 Guardian of the Guildpact 4 Martyr of Sands 2 Shrieking Grotesque 4 Castigate 1 Cenn's Enlistment 1 Disturbed Burial 2 Evincar's Justice 4 Faith's Fetters 4 Grim"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668146"
 [_metadata_:publish_date]:- "2009-04-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pauper Madness"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 13:53:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 13:53:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808135306id_/https://magic.wizards.com/en/articles/archive/feature/pauper-madness-2009-04-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pauper-madness-2009-04-07"
 ---

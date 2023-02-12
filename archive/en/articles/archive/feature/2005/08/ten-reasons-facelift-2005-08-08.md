@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "If you're reading this, you've already seen that magicthegathering.com has had a facelift. Unlike facelifts that happen to actual faces, however, it's considered appropriate to comment on this one. I mean it's not like your Aunt Bee got her nose done, and you have to avoid staring and keep the conversation polite. It's magicthegathering.com. It's where you go to find out"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632021"
 [_metadata_:publish_date]:- "2005-08-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ten Reasons for a Facelift"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:07:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:07:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429030730id_/https://magic.wizards.com/en/articles/archive/feature/ten-reasons-facelift-2005-08-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ten-reasons-facelift-2005-08-08"
 ---

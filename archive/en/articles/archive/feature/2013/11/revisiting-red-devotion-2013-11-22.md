@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667266"
 [_metadata_:publish_date]:- "2013-11-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Revisiting Red Devotion"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-01 13:18:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-01 13:18:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170201131812id_/http://magic.wizards.com/en/articles/archive/feature/revisiting-red-devotion-2013-11-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/revisiting-red-devotion-2013-11-22"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "703951"
 [_metadata_:publish_date]:- "2012-08-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Return to Ravnica"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 08:36:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 08:36:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024083626id_/https://magic.wizards.com/en/articles/archive/feature/return-ravnica-2012-08-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/return-ravnica-2012-08-25"
 ---

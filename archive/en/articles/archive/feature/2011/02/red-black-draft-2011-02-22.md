@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Gaudenis Vidugiris's Red-Black Draft Format: Draft – Winner, Grand Prix Denver 8 Mountain 9 Swamp 1 Precursor Golem 1 Perilous Myr 1 Moriok Reaver 1 Fume Spitter 1 Carnifex Demon 1 Bleak Coven Vampires 1 Blade-Tribe Berserkers 1 Vulshok Heartstoker 1 Wall of Tanglecord 1 Dross Ripper 1 Lumengrid Gargoyle 1 Peace Strider 1 Phyrexian Revoker 1 Phyrexian Rager 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670721"
 [_metadata_:publish_date]:- "2011-02-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Red-Black Draft"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 14:21:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 14:21:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027142158id_/https://magic.wizards.com/en/articles/archive/feature/red-black-draft-2011-02-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-black-draft-2011-02-22"
 ---

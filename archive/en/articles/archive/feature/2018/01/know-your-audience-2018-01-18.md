@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Not every product we release is intended for every Magic player. It's important that we recognize the proper audience for each set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1252056"
 [_metadata_:publish_date]:- "2018-01-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Know Your Audience"
-[_metadata_:wayback_capture_timestamp]:- "2018-01-18 16:10:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-01-18 16:10:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180118161027id_/https://magic.wizards.com/en/articles/archive/feature/know-your-audience-2018-01-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/know-your-audience-2018-01-18"
 ---

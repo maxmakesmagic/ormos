@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Phyrexian Mana Colored Artifacts Golems Living Weapon  Proliferate Infect and `Poisoned` Metalcraft In Mirrodin Besieged, the metal world of Mirrodin descended into all-out war, a pitched battle for the future of the entire plane. On one side stood the noble Mirrans, shining defenders of a unique way of life. On the other side lurked the insidious Phyrexians, reborn from the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "700991"
 [_metadata_:publish_date]:- "2011-04-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 04:34:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 04:34:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502043442id_/https://magic.wizards.com/en/articles/archive/feature/mechanics-2011-04-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mechanics-2011-04-18"
 ---

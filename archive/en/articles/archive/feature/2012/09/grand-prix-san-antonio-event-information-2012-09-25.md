@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Official hashtag: #gpsanant (please do not use #gpsa) Date: November 24-25, 2012Format: StandardTournament Location San Antonio Convention Center 200 E Market St Ballroom A San Antonio, Texas 78205 Map Registration: $40 Friday, November 23: 4 p.m.- 9 p.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729461"
 [_metadata_:publish_date]:- "2012-09-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix San Antonio Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:15:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:15:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503041552id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-antonio-event-information-2012-09-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-antonio-event-information-2012-09-25"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvitation Source FrankHsieh2010 National Team Tzu ChingKuo2010 National Team Chung-ChiTu2010 National Team TsaiCheng-Lun2010 Alternate Tzu ChingKuo2010 National Champion ChiangNienTop 75 Country rating Pi HsiangYuTop 75 Country rating Tzu ChingKuoTop 75 Country rating ChangFang JungTop 75 Country rating LeeJim TimTop 75 Country rating DavidYehTop 75 Country rating"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730416"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Chinese Taipei National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 04:29:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 04:29:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516042946id_/https://magic.wizards.com/en/articles/archive/feature/2011-chinese-taipei-national-championship-2009-04-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-chinese-taipei-national-championship-2009-04-27"
 ---

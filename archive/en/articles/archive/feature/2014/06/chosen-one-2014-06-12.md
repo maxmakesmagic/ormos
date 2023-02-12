@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220816113009/https://magic.wizards.com/en/articles/archive/feature/chosen-one-2014-06-12)
+[Link to Wayback Machine](https://web.archive.org/web/20211016221008/https://magic.wizards.com/en/articles/archive/feature/chosen-one-2014-06-12)
 
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "In this Latest Developments article, Sam Stoddard talked about how core sets contain cards that hint at what is coming in future blocks. One such `plant` card in Magic 2014 is Ajani's Chosen, who can be quite powerful once the full Theros block is unleashed upon it. The core synergy with Ajani's Chosen comes from the removal suite, Banishing Light and Detention Sphere. These"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668071"
 [_metadata_:publish_date]:- "2014-06-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Chosen One"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 11:30:09+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816113009id_/https://magic.wizards.com/en/articles/archive/feature/chosen-one-2014-06-12"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 22:10:08"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016221008id_/https://magic.wizards.com/en/articles/archive/feature/chosen-one-2014-06-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/chosen-one-2014-06-12"
 ---
 
@@ -425,7 +427,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (19)
+##### Common (15)
 
 
 
@@ -437,17 +439,17 @@ OverviewColorCostRarity
 [Keening Apparition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKeening%5D+%5BApparition%5D)
 
 
-4
-[Lyev Skyknight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLyev%5D+%5BSkyknight%5D)
-
-
 3
 [Banishing Light](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanishing%5D+%5BLight%5D)
 
 
 
-##### Uncommon (4)
+##### Uncommon (8)
 
+
+
+4
+[Lyev Skyknight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLyev%5D+%5BSkyknight%5D)
 
 
 1

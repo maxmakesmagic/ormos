@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Richard Garfield"
 [_metadata_:description]:- "You Really Can't Win Them All(originally printed in Duelist #19, October 1997)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680061"
 [_metadata_:publish_date]:- "2010-11-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Lost in the Shuffle: Luck and Games"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-12 11:53:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-12 11:53:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170812115336id_/http://magic.wizards.com/en/articles/archive/feature/lost-shuffle-luck-and-games-2010-11-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lost-shuffle-luck-and-games-2010-11-29"
 ---

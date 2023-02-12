@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Champs is the first major tournament -- series of tournaments around the world, really -- showcasing a Standard that includes Champions of Kamigawa. That means that Champs is your first shot at dueling with the new Legendary Creatures, bashing from the first turn with the Hound of Konda, and summoning the most dangerous Dragons since Rith ruled the sky. You can try out new"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627236"
 [_metadata_:publish_date]:- "2004-10-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Preparing for Champs"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-30 01:46:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-30 01:46:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210430014618id_/https://magic.wizards.com/en/articles/archive/feature/preparing-champs-2004-10-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/preparing-champs-2004-10-20"
 ---

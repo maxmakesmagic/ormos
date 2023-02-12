@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Terisiare, the island continent that was home to the Brothers’ War and the Ice Age, is in a state of rebirth known as the Thaw. The icy shell that encased the continent is melting away. Most of the inhabitants of Terisiare rejoice as the ice gives way to warmth and the rebirth of the land. But, in this time of great change, there are some who see it as a time to angle for"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687701"
 [_metadata_:publish_date]:- "2010-06-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Coldsnap Sealed Deck Tournament I"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 07:52:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 07:52:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018075214id_/https://magic.wizards.com/en/articles/archive/feature/coldsnap-sealed-deck-tournament-i-2010-06-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coldsnap-sealed-deck-tournament-i-2010-06-16"
 ---

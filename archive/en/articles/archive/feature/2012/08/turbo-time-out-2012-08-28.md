@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Prevent all damage that would be dealt this turn. The phrase sounds innocent enough. We aren't just preventing damage done to ourselves, or to our creatures, but to everyone! How much nobler a goal is there than that? Well, most of the time, Fog is noble, whether it is preventing a lethal Overrun from connecting or it's keeping a fast draw in check while you crawl toward the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665461"
 [_metadata_:publish_date]:- "2012-08-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Turbo Time-Out"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 21:09:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 21:09:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702210914id_/https://magic.wizards.com/en/articles/archive/feature/turbo-time-out-2012-08-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/turbo-time-out-2012-08-28"
 ---

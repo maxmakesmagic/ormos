@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Nico Christiansen, champion of Grand Prix Quebec City. Check out the complete event coverage right here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666171"
 [_metadata_:publish_date]:- "2013-02-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Quebec City Winning Decklist"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-04 23:17:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-04 23:17:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170704231745id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-quebec-city-winning-decklist-2013-02-25"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-quebec-city-winning-decklist-2013-02-25"
 ---

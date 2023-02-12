@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Anthony Alongi"
 [_metadata_:description]:- "For all the details on the upcoming Mirrodin Prerelease events, click here. I've mentioned in Serious Fun before how much I like team sealed format. It's as close as tournaments get to casual play – and it gets pretty close, indeed. Entering an event as a team automatically means you have comrades on your side, and that your individual goals are not as important as the team's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630726"
 [_metadata_:publish_date]:- "2003-09-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Prerelease First"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 03:13:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 03:13:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019031347id_/https://magic.wizards.com/en/articles/archive/feature/prerelease-first-2003-09-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prerelease-first-2003-09-13"
 ---

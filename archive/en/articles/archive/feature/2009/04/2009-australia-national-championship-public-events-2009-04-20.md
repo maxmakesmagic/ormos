@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "July 17th, 18th and 19th Rydges Lakeside, London Circuit, Canberra This flyer lists the public-entry events that will be on offer as Ancillary Events at the 2009 Australian National Championships for Magic: the Gathering. The event program features a wide and varied selection of activities, including formal Qualifiers (for both the National Championships themselves, and a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729966"
 [_metadata_:publish_date]:- "2009-04-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2009 Australia National Championship Public Events"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 23:35:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 23:35:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521233505id_/https://magic.wizards.com/en/articles/archive/feature/2009-australia-national-championship-public-events-2009-04-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-australia-national-championship-public-events-2009-04-20"
 ---

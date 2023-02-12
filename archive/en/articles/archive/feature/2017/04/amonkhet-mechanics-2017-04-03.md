@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210802132856/https://magic.wizards.com/en/articles/archive/feature/amonkhet-mechanics-2017-04-03)
+[Link to Wayback Machine](https://web.archive.org/web/20170403144321/http://magic.wizards.com/en/articles/archive/feature/amonkhet-mechanics-2017-04-03)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Matt explains the new and returning mechanics in Amonkhet."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1132421"
 [_metadata_:publish_date]:- "2017-04-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Amonkhet Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2021-08-02 13:28:56+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210802132856id_/https://magic.wizards.com/en/articles/archive/feature/amonkhet-mechanics-2017-04-03"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/amonkhet-mechanics-2017-04-03"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-03 14:43:21"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170403144321id_/http://magic.wizards.com/en/articles/archive/feature/amonkhet-mechanics-2017-04-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/amonkhet-mechanics-2017-04-03"
 ---
 
 
@@ -32,7 +34,7 @@ By Matt Tabak
 
 
 
-Senior editor. Game designer. Writer. Bon vivant. Matt wears many hats inside Magic R&D, but they're hard to see as he's so tall.
+Matt Tabak is the reigning, defending, and undisputed rules manager for Magic: The Gathering, Kaijudo, and Duel Masters. Matt Tabak is Gruul. Matt Tabak tries to laugh, think, and cry every day. Matt Tabak is hungry. Matt Tabak doesn't want you to sass him. Matt Tabak loves puppies.
  
 
 
@@ -153,7 +155,7 @@ Would it surprise you to learn that a world obsessed with death has mastered sev
 Because *Amonkhet* has -1/-1 counters running around, you won't see any cards in the set feature +1/+1 counters. But there are plenty of cards in Standard and other formats that do include +1/+1 counters, so you should know what happens when -1/-1 counters and +1/+1 counters meet. In short: total annihilation! If a creature (or any permanent, technically) ever has +1/+1 counters and -1/-1 counters on it, they cancel each other out and are removed in pairs. For example, if a creature has four +1/+1 counters on it receives two -1/-1 counters, the end result is a creature with two +1/+1 counters.
 
 
-This means that if you have a [Rishkar, Peema Renegade](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rishkar%2C+Peema+Renegade) in play with a +1/+1 counter on it, and you play this toothy beast:
+This means that if you have a [Rishkar, Peema Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rishkar%2C+Peema+Renegade) in play with a +1/+1 counter on it, and you play this toothy beast:
 
 
 ![](https://media.wizards.com/2017/dw466ytu5_akh/en_SjfDxouH7k.png)
@@ -172,7 +174,7 @@ On Amonkhet, initiates earn Cartouches as a record of their deeds and accomplish
 ![](https://media.wizards.com/2017/dw466ytu5_akh/en_1onFb1U6d2.png)
 
 
-From a rules perspective, the Cartouche subtype is fairly unremarkable. But we wouldn't add an Enchantment subtype unless something cared about them. You now know that everything leads up to the five trials. Including this article, as it happens. Face the trials!
+From a rules perspective, the Cartouche subtype is fairly unremarkable. But we wouldn't add an Aura subtype unless something cared about them. You now know that everything leads up to the five trials. Including this article, as it happens. Face the trials!
 
 
 ![](https://media.wizards.com/2017/dw466ytu5_akh/en_ifZVn707E2.png)

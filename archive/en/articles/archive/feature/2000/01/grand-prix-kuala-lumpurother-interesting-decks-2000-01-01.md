@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "STASIS: KELVIN YEW TECK HOON - Finished 20th CREATURES (2) 2 Morphling SPELLS (36) 2 Annul 2 Boomerang 3 Brainstorm 4 Counterspell 2 Ensnare 4 Force of Will 2 Force Spike 4 Gush 4 Impulse 2 Rescue 4 Stasis 1 Stroke of Genius 2 Thwart LAND (22) 22 Island SIDEBOARD 1 Annul 3 Back to Basics 3 Chill 3 Hydroblast 1 Misdirection 2 Powder Keg 2 Propaganda FISH: CHI-CHUNG HWANG -"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952651"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Kuala LumpurOther Interesting Decks"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:21:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:21:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523092105id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurother-interesting-decks-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurother-interesting-decks-2000-01-01"
 ---

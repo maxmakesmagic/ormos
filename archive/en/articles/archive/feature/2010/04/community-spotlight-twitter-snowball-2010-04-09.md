@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What would a deck designed by Twitter look like? Would it have 140 cards in it? Would it get a disproportionate amount of news coverage while some people refused to play it on general principle? Would people retweet it? Is it possible that the metaphor of `Twitter deck` has already been stretched beyond the breaking point? Let's start over. With one card."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "600706"
 [_metadata_:publish_date]:- "2010-04-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Community Spotlight: Twitter Snowball"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-26 22:54:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-26 22:54:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170626225421id_/http://magic.wizards.com/en/articles/archive/feature/community-spotlight-twitter-snowball-2010-04-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/community-spotlight-twitter-snowball-2010-04-09"
 ---

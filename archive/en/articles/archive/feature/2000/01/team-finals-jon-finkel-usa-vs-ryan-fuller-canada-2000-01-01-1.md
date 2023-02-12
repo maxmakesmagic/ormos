@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Kim Eikefet"
 [_metadata_:description]:- "Match Coverage  Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "960261"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Team Finals Jon Finkel (USA) vs. Ryan Fuller (Canada)"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 06:09:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 06:09:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031060932id_/https://magic.wizards.com/en/articles/archive/feature/team-finals-jon-finkel-usa-vs-ryan-fuller-canada-2000-01-01-1"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-finals-jon-finkel-usa-vs-ryan-fuller-canada-2000-01-01-1"
 ---

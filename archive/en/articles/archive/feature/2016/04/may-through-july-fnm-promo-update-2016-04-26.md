@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Katie Allison"
 [_metadata_:description]:- "Katie unveils the promo cards heading to an FNM near you in the coming months."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1018821"
 [_metadata_:publish_date]:- "2016-04-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "May through July FNM Promo Update"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-28 19:11:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-28 19:11:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160428191148id_/http://magic.wizards.com/en/articles/archive/feature/may-through-july-fnm-promo-update-2016-04-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/may-through-july-fnm-promo-update-2016-04-26"
 ---

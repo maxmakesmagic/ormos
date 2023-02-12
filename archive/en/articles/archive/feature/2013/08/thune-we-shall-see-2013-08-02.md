@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "In a recent article, Carrie Oliver posted the decklist that won the first post-Magic 2014 Standard event she played in. While Carrie did not emerge victorious with BW tokens, going 3–3, she did report back on an interesting-looking GW deck. The deck uses mana acceleration to ramp into a parade of threats, starting with Scavenging Ooze and going all the way up to Angel of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666821"
 [_metadata_:publish_date]:- "2013-08-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Thune We Shall See"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 21:47:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 21:47:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521214746id_/https://magic.wizards.com/en/articles/archive/feature/thune-we-shall-see-2013-08-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/thune-we-shall-see-2013-08-02"
 ---

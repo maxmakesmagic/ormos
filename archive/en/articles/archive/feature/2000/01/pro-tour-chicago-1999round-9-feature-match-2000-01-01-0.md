@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Jakub Slemr vs. Gary Wise (5-2-1) Things got a little silly in round nine as teammates Jakub Slemr and Gary Wise met at 5-2-1. Playing the identical `Suicide Brown` tinker deck, Slemr and Wise, who will be roommates at the Magic Invitational, were part of a team agreement that no one on the team would sideboard against any other. Wise won the toss and elected to play, while Slemr mulliganed a hand containing two land but three Voltaic Keys, and no Grim Monoliths or Mana Vaults."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951116"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Round 9 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:54:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:54:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124035434id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-9-feature-match-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-9-feature-match-2000-01-01-0"
 ---

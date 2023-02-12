@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 13-14, August 2011Event Location: SMX Convention Centre Meeting room 7-9Address: Seashell Drive Mall of Asia Complex, Pasay City, 1300, Philippines Eligibility The Magic: the Gathering Philippines National Championship is an invitation-only event, open to citizens or permanent residents of Philippines who have won an invitation to Nationals through DCI ratings or from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730316"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Philippines National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 12:36:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 12:36:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021123630id_/https://magic.wizards.com/en/articles/archive/feature/2011-philippines-national-championship-2009-04-27-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-philippines-national-championship-2009-04-27-0"
 ---

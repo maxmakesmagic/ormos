@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Well, not really, but the Slippery Bogle deck has made the transition to Pauper. Pauper is a popular Magic Online format in which players can only play cards that have been printed as commons at some point. The popular decks in this format include Infect-based aggro, Storm-based combo, aggressive blue decks with a lot of counterspells, a variety of single-color creature decks,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666021"
 [_metadata_:publish_date]:- "2013-01-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Bogles in All Formats!"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:31:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:31:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520213123id_/https://magic.wizards.com/en/articles/archive/feature/bogles-all-formats-2013-01-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bogles-all-formats-2013-01-17"
 ---

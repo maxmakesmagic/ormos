@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Jeremy Dezani on winning Pro Tour Theros![decklist] Title: Jérémy Dezani Mono-blue Devotion Format: Standard – Top 8 Pro Tour 3 Mutavault 21 Island 4 Judge's Familiar 4 Cloudfin Raptor 4 Frostburn Weird 4 Tidebinder Mage 2 Omenspeaker 4 Nightveil Specter 4 Thassa, God of the Sea 4 Master of Waves 1 Disperse 2 Cyclonic Rift 1 Bident of Thassa 2 Jace,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667106"
 [_metadata_:publish_date]:- "2013-10-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Theros Winning Deck"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 16:58:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 16:58:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808165803id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-theros-winning-deck-2013-10-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-theros-winning-deck-2013-10-14"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "JudgeLevelKazuhiro Wakatsuki3Ryo Suzuoki3Takashi Aida3Takefumi Ichinohe3Akio Sugaya2Atsushi Uotsu2Makoto Obayashi2Masanori Hosotani2Ryuji Ohashi2Takao Yamazaki2Takeshi Miyasaka2Yoshiya Shindo2Yusuke Morimoto2Taro Kageyama1Yu Kanazawa1Yuki Murakami1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806686"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Yokohama Judge List"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 11:28:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 11:28:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626112806id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-judge-list-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-judge-list-2000-01-01"
 ---

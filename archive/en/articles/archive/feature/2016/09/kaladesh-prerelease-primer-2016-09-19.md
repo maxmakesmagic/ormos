@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin has all the info you need to make the most of your Kaladesh Prerelease!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1063901"
 [_metadata_:publish_date]:- "2016-09-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Kaladesh Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-19 17:36:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-19 17:36:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160919173650id_/http://magic.wizards.com/en/articles/archive/feature/kaladesh-prerelease-primer-2016-09-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/kaladesh-prerelease-primer-2016-09-19"
 ---

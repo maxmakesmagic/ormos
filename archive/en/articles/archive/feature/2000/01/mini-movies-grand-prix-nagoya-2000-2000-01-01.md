@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[view] Team Bunny leaves the tournament area after round 1. (135k MPEG) [view] The lengthy artist signing line for Randy Gallegos. (392k MPEG) [view] A view from the Grand Prix stage. (328k MPEG) [view] Round two of competition. (536k MPEG) [view] The 7th and final round of competition for Saturday. (1.3M MPEG) [view] Team New Wave in action. (1.4M MPEG) [view] Team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952471"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mini-Movies from Grand Prix-Nagoya 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:35:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:35:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518173503id_/https://magic.wizards.com/en/articles/archive/feature/mini-movies-grand-prix-nagoya-2000-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mini-movies-grand-prix-nagoya-2000-2000-01-01"
 ---

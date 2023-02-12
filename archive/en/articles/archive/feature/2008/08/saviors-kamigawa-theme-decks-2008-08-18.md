@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Critical Mass Soratami's Wisdom Spirit Flames Truth Seekers (Back to Product Page) Critical Mass When playing with the Saviors of Kamigawa set, having more cards in hand than your opponent is more important than ever. Some decks try to get ahead with little tricks to draw a card here or there. The `Critical Mass` deck takes a more direct approach: Just smash your opponent's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "706701"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saviors of Kamigawa Theme Decks"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 04:31:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 04:31:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017043129id_/https://magic.wizards.com/en/articles/archive/feature/saviors-kamigawa-theme-decks-2008-08-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saviors-kamigawa-theme-decks-2008-08-18"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights Scars of Mirrodin is the first set in the Scars of Mirrodin block. The set features 249 black bordered cards, including randomly inserted premium versions of all cards in the set. It will be available in intro packs, booster packs and fat packs. The set introduces new mechanics including: Metalcraft, Infect, and Proliferate. New Planeswalker cards are"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "706756"
 [_metadata_:publish_date]:- "2010-05-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Scars of Mirrodin"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:34:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:34:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024043411id_/https://magic.wizards.com/en/articles/archive/feature/scars-mirrodin-2010-05-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scars-mirrodin-2010-05-18"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Which of the five clan banners will you choose to raise at the Khans of Tarkir Prerelease?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "266166"
 [_metadata_:publish_date]:- "2014-09-15"
+[_metadata_:source]:- "div-main"
 [_metadata_:title]:- "Khans of Tarkir Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2014-09-18 04:09:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-09-18 04:09:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20140918040949id_/http://magic.wizards.com/en/articles/archive/feature/khans-tarkir-prerelease-primer-2014-09-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/khans-tarkir-prerelease-primer-2014-09-15"
 ---

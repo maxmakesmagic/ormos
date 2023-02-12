@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Earlier this season, I finished 9th at Grand Prix Charleston with Green-White Humans. In the weeks that followed, Rakdos decks with four copies of Knight of Infamy became popular, and it became much more difficult to win with small white creatures. Today, I found a deck that plays much the same kind of game as the Green-White Humans deck, but incorporates more green creatures"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666001"
 [_metadata_:publish_date]:- "2013-01-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Huge Monsters"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 18:36:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 18:36:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520183632id_/https://magic.wizards.com/en/articles/archive/feature/huge-monsters-2013-01-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/huge-monsters-2013-01-11"
 ---

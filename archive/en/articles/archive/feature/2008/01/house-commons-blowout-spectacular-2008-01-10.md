@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome back, folks! I hope everyone enjoyed the holidays, or as I like to call them, Shovel-apalooza. You see, in Toronto where I live, we had something like 35 centimetres of snow unceremoniously dumped on us. Worse, it seemed like every stop on my holiday tour of duty had been blanketed by more and more snow with less and less ceremony."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620586"
 [_metadata_:publish_date]:- "2008-01-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "House of Commons Blowout Spectacular!!!"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-04 19:14:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-04 19:14:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170404191438id_/http://magic.wizards.com/en/articles/archive/feature/house-commons-blowout-spectacular-2008-01-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/house-commons-blowout-spectacular-2008-01-10"
 ---

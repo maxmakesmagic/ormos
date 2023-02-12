@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "I would have preferred to go through my entire career as Director of Magic R&D without ever having to ban a card in Standard. Sadly, that was not to be."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353586"
 [_metadata_:publish_date]:- "2011-06-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Standard Bannings Explained"
-[_metadata_:wayback_capture_timestamp]:- "2015-04-28 22:25:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-04-28 22:25:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150428222505id_/http://magic.wizards.com/en/articles/archive/feature/standard-bannings-explained-2011-06-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/standard-bannings-explained-2011-06-20"
 ---

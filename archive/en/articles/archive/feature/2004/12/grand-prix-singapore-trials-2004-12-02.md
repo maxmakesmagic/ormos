@@ -5,9 +5,11 @@
 [_metadata_:author]:- "updated 12-2-04"
 [_metadata_:description]:- "CountryDateCityVenueContact Hong Kong6-Feb-05Hong KongGame Center, 14/F, Pico Towerianhelio@hotmail.com Hong Kong6-Mar-05Hong KongGame Center, 14/F, Pico Towerianhelio@hotmail.com Hong Kong27-Feb-05Hong KongLeague Castleleaguecastle@hotmail.com South Korea2-Jan-05SeoulDobong Public Hallzikuin@hanmail.net South Korea6-Feb-05SeoulDobong Public Hallzikuin@hanmail.net South"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736171"
 [_metadata_:publish_date]:- "2004-12-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Singapore Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 10:37:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 10:37:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819103735id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-singapore-trials-2004-12-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-singapore-trials-2004-12-02"
 ---

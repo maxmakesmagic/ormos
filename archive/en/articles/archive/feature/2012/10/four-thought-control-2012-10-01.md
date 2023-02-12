@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Last week, we mentioned something about a StarCityGames Invitational going on. The tournament is a large, independent series with a lot of cool prizes on the line, including a lot of cash for those lucky enough to enjoy it. The tournament was large enough that plenty of people went into the tank and came out with some crazy concoctions, despite the format being so close to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665596"
 [_metadata_:publish_date]:- "2012-10-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Four-Thought Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 19:28:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 19:28:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026192843id_/https://magic.wizards.com/en/articles/archive/feature/four-thought-control-2012-10-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/four-thought-control-2012-10-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The resourceful players of team StarCityGames Blue put forth a gigantic effort for Pro Tour Avacyn Restored. The team was full of many up-and-comers trying to prove their worth, including Joshua Cho. Despite it being his first Pro Tour, Cho remained unrattled and made it all the way to the Top 8 with the team's exciting Naya deck!One of the most-played cards this past weekend"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672436"
 [_metadata_:publish_date]:- "2012-05-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "SCG Blue's Naya"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 09:27:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 09:27:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026092720id_/https://magic.wizards.com/en/articles/archive/feature/scg-blues-naya-2012-05-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scg-blues-naya-2012-05-18"
 ---

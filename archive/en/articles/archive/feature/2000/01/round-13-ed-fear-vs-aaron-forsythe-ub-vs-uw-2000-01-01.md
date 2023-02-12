@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "962251"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 13: Ed Fear vs. Aaron Forsythe U/B vs. U/W"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 12:26:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 12:26:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127122638id_/https://magic.wizards.com/en/articles/archive/feature/round-13-ed-fear-vs-aaron-forsythe-ub-vs-uw-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-13-ed-fear-vs-aaron-forsythe-ub-vs-uw-2000-01-01"
 ---

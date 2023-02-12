@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ken Nagle"
 [_metadata_:description]:- "The interwoven design and creative elements at work in Fate Reforged."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "321031"
 [_metadata_:publish_date]:- "2014-12-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Designing Your Fate"
-[_metadata_:wayback_capture_timestamp]:- "2014-12-30 15:02:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-12-30 15:02:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141230150251id_/http://magic.wizards.com/en/articles/archive/feature/designing-your-fate-2014-12-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/designing-your-fate-2014-12-29"
 ---

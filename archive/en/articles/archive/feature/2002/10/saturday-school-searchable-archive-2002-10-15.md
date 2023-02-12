@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "`Saturday School` was a weekly column on magicthegathering.com where readers could send in rules questions and have them answered by the judge writing the column. Saturday School has since been discontinued and is no longer supported on the site. Got a rules question? Post it on the Rules Q&A Forum and you should have an answer shortly!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641996"
 [_metadata_:publish_date]:- "2002-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School Searchable Archive"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-01 04:32:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-01 04:32:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501043209id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-searchable-archive-2002-10-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-searchable-archive-2002-10-15"
 ---

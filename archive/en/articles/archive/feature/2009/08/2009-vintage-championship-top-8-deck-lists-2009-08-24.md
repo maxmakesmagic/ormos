@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160505235457/http://magic.wizards.com/en/articles/archive/feature/2009-vintage-championship-top-8-deck-lists-2009-08-24)
+[Link to Wayback Machine](https://web.archive.org/web/20211023085944/https://magic.wizards.com/en/articles/archive/feature/2009-vintage-championship-top-8-deck-lists-2009-08-24)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Itou Hiromichi"
+[_metadata_:description]:- "[decklist] Title: Itou Hiromichi Format: 1st place, 2009 Vintage Championship 1 Library of Alexandria 1 Tolarian Academy 2 Island 2 Volcanic Island 4 Underground Sea 1 Swamp 2 Flooded Strand 3 Polluted Delta 1 Inkwell Leviathan 4 Dark Confidant 1 Magus of the Unseen 1 Ancestral Recall 1 Black Lotus 1 Mox Emerald 1 Mox Jet 1 Mox Pearl 1 Mox Ruby 1 Mox Sapphire 1 Tinker 1 Time"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683891"
 [_metadata_:publish_date]:- "2009-08-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2009 Vintage Championship Top 8 Deck Lists"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-05 23:54:57+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160505235457id_/http://magic.wizards.com/en/articles/archive/feature/2009-vintage-championship-top-8-deck-lists-2009-08-24"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2009-vintage-championship-top-8-deck-lists-2009-08-24"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 08:59:44"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023085944id_/https://magic.wizards.com/en/articles/archive/feature/2009-vintage-championship-top-8-deck-lists-2009-08-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-vintage-championship-top-8-deck-lists-2009-08-24"
 ---
 
 
@@ -26,8 +28,9 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
+
 
 
 
@@ -54,7 +57,9 @@ By Wizards of the Coast
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -79,7 +84,7 @@ OverviewColorCostRarity
 
 
 1
-[Tezzeret the Seeker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5Bthe%5D+%5BSeeker%5D)
+[Tezzeret the Seeker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5Bthe%5D+%5BSeeker%5D)
 
 
 
@@ -88,15 +93,15 @@ OverviewColorCostRarity
 
 
 1
-[Inkwell Leviathan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
+[Inkwell Leviathan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 1
-[Magus of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+[Magus of the Unseen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
 
 
 
@@ -105,23 +110,23 @@ OverviewColorCostRarity
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 
@@ -130,59 +135,59 @@ OverviewColorCostRarity
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 4
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 1
-[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 1
-[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
+[Hurkyl's Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
 
 
 1
-[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
+[Chain of Vapor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
 
 
 1
-[Rack and Ruin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRack%5D+%5Band%5D+%5BRuin%5D)
+[Rack and Ruin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRack%5D+%5Band%5D+%5BRuin%5D)
 
 
 1
-[Darkblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
+[Darkblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
 
 
 
@@ -191,47 +196,47 @@ OverviewColorCostRarity
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
 
 
 2
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 
@@ -240,35 +245,35 @@ OverviewColorCostRarity
 
 
 1
-[Library of Alexandria](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BAlexandria%5D)
+[Library of Alexandria](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BAlexandria%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 2
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 4
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 1
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 3
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 60 Cards 
@@ -279,39 +284,39 @@ OverviewColorCostRarity
 
 
 1
-[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
+[Hurkyl's Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
 
 
 1
-[Rack and Ruin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRack%5D+%5Band%5D+%5BRuin%5D)
+[Rack and Ruin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRack%5D+%5Band%5D+%5BRuin%5D)
 
 
 1
-[Darkblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
+[Darkblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
 
 
 2
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 1
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
 
 
 2
-[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
+[Pyroclasm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
 
 
 2
-[Arcane Laboratory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
+[Arcane Laboratory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
 
 
 
@@ -321,75 +326,75 @@ OverviewColorCostRarity
 
 
 1
-[Inkwell Leviathan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
+[Inkwell Leviathan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
 
 
 1
-[Magus of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+[Magus of the Unseen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 1
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 4
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 1
-[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 1
-[Tezzeret the Seeker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5Bthe%5D+%5BSeeker%5D)
+[Tezzeret the Seeker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5Bthe%5D+%5BSeeker%5D)
 
 
 2
-[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
+[Hurkyl's Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
 
 
 1
-[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
+[Chain of Vapor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
 
 
 2
-[Arcane Laboratory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
+[Arcane Laboratory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
 
 
 
@@ -398,27 +403,27 @@ OverviewColorCostRarity
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 2
-[Darkblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
+[Darkblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
 
 
 4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 
@@ -427,19 +432,19 @@ OverviewColorCostRarity
 
 
 2
-[Rack and Ruin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRack%5D+%5Band%5D+%5BRuin%5D)
+[Rack and Ruin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRack%5D+%5Band%5D+%5BRuin%5D)
 
 
 2
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 1
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 2
-[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
+[Pyroclasm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
 
 
 
@@ -448,83 +453,83 @@ OverviewColorCostRarity
 
 
 1
-[Library of Alexandria](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BAlexandria%5D)
+[Library of Alexandria](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BAlexandria%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 2
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 4
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 1
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 3
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
 
 
 2
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
 
 
 75 Cards 
@@ -536,47 +541,47 @@ OverviewColorCostRarity
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 1
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
 
 
 1
-[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
+[Chain of Vapor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
 
 
 2
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 2
-[Darkblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
+[Darkblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
 
 
 2
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 1
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 
@@ -585,43 +590,43 @@ OverviewColorCostRarity
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 1
-[Magus of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+[Magus of the Unseen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 1
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 4
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 2
-[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
+[Hurkyl's Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
 
 
 2
-[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
+[Pyroclasm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
 
 
 
@@ -630,27 +635,27 @@ OverviewColorCostRarity
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
 
 
 2
-[Rack and Ruin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRack%5D+%5Band%5D+%5BRuin%5D)
+[Rack and Ruin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRack%5D+%5Band%5D+%5BRuin%5D)
 
 
 1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
 
 
 2
-[Arcane Laboratory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
+[Arcane Laboratory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
 
 
 
@@ -659,11 +664,11 @@ OverviewColorCostRarity
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 
@@ -672,15 +677,15 @@ OverviewColorCostRarity
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 1
-[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 1
-[Tezzeret the Seeker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5Bthe%5D+%5BSeeker%5D)
+[Tezzeret the Seeker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5Bthe%5D+%5BSeeker%5D)
 
 
 
@@ -689,222 +694,222 @@ OverviewColorCostRarity
 
 
 1
-[Inkwell Leviathan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
+[Inkwell Leviathan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
 
 
 52 Cards 
 
 
 
-##### Common (11)
+##### Common (21)
 
 
 
 2
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 1
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
-
-
-
-##### Uncommon (16)
-
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
-
-
-1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
-
-
-1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
-
-
-1
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
-
-
-1
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
-
-
-1
-[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
-
-
-2
-[Rack and Ruin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRack%5D+%5Band%5D+%5BRuin%5D)
-
-
-2
-[Darkblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
-
-
-2
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
-
-
-2
-[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
-
-
-2
-[Arcane Laboratory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
-
-
-
-##### Rare (26)
-
-
-
-1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
-
-
-2
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 4
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 1
-[Inkwell Leviathan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
-
-
-1
-[Magus of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
-
-
-1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
-
-
-1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
-
-
-1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
-
-
-1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
-
-
-1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+
+##### Uncommon (17)
+
 
 
 1
-[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+
+
+1
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+
+
+1
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+
+
+1
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+
+
+1
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+
+
+1
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+
+
+1
+[Chain of Vapor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
 
 
 2
-[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
+[Rack and Ruin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRack%5D+%5Band%5D+%5BRuin%5D)
+
+
+2
+[Darkblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
+
+
+2
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+
+
+2
+[Pyroclasm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
+
+
+2
+[Arcane Laboratory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
+
+
+
+##### Rare (11)
+
+
+
+2
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
-
-
-
-##### Mythic (22)
-
+[Inkwell Leviathan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
 
 
 1
-[Library of Alexandria](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BAlexandria%5D)
+[Magus of the Unseen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Hurkyl's Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
+
+
+
+##### Mythic (26)
+
+
+
+1
+[Library of Alexandria](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BAlexandria%5D)
+
+
+1
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+
+
+2
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 3
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+
+
+1
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+
+
+1
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 4
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 1
-[Tezzeret the Seeker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5Bthe%5D+%5BSeeker%5D)
+[Tezzeret the Seeker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5Bthe%5D+%5BSeeker%5D)
 
 
 2
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+
+
+1
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
 
 
 75 Cards 
@@ -912,7 +917,8 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Library+of+Alexandria)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Library+of+Alexandria)
+
 
 
 
@@ -936,6 +942,7 @@ OverviewColorCostRarity
 
 
 
+
 #### Colin Wu
 
 
@@ -946,7 +953,9 @@ OverviewColorCostRarity
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -971,11 +980,11 @@ OverviewColorCostRarity
 
 
 1
-[Platinum Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlatinum%5D+%5BAngel%5D)
+[Platinum Angel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlatinum%5D+%5BAngel%5D)
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 
@@ -984,35 +993,35 @@ OverviewColorCostRarity
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 1
-[Tendrils of Agony](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
+[Tendrils of Agony](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
 
 
 1
-[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+[Empty the Warrens](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
 
 
 
@@ -1021,59 +1030,59 @@ OverviewColorCostRarity
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 4
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 1
-[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+[Rebuild](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
 
 
 2
-[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
+[Hurkyl's Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
 
 
 1
-[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
+[Chain of Vapor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
 
 
 1
-[Intuition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
+[Intuition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
 
 
 1
-[Darkblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
+[Darkblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
 
 
 
@@ -1082,47 +1091,47 @@ OverviewColorCostRarity
 
 
 1
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 
@@ -1131,27 +1140,27 @@ OverviewColorCostRarity
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 3
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 2
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 3
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 61 Cards 
@@ -1162,27 +1171,27 @@ OverviewColorCostRarity
 
 
 4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 2
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 1
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 2
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
 
 
 2
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 2
@@ -1190,77 +1199,73 @@ Unknown Cards
 
 
 1
-[Helm of Obedience](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
+[Helm of Obedience](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
 
 
 
 
-##### Blue (24)
+##### Blue (22)
 
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 4
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 1
-[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+[Rebuild](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
 
 
 2
-[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
+[Hurkyl's Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
 
 
 1
-[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
+[Chain of Vapor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
 
 
 1
-[Intuition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
-
-
-2
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+[Intuition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
 
 
 
@@ -1269,48 +1274,52 @@ Unknown Cards
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 1
-[Tendrils of Agony](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
+[Tendrils of Agony](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
 
 
 1
-[Darkblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
+[Darkblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
 
 
 4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 2
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 
-##### Red (3)
+##### Red (5)
 
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 1
-[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+[Empty the Warrens](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+
+
+2
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
 
 
 
@@ -1319,87 +1328,87 @@ Unknown Cards
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 3
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 2
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 3
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 1
-[Platinum Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlatinum%5D+%5BAngel%5D)
+[Platinum Angel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlatinum%5D+%5BAngel%5D)
 
 
 1
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 2
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 1
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 2
@@ -1407,19 +1416,10 @@ Unknown Cards
 
 
 1
-[Helm of Obedience](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
+[Helm of Obedience](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
 
 
 76 Cards 
-
-
-
-#####  (2)
-
-
-
-2
-Unknown Cards
 
 
 
@@ -1428,59 +1428,59 @@ Unknown Cards
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 1
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 1
-[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
+[Chain of Vapor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
 
 
 1
-[Darkblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
+[Darkblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 2
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 2
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 
@@ -1489,31 +1489,31 @@ Unknown Cards
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 4
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 2
-[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
+[Hurkyl's Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
 
 
 2
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
 
 
 
@@ -1522,19 +1522,19 @@ Unknown Cards
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 1
-[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+[Rebuild](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
 
 
 1
-[Intuition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
+[Intuition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
 
 
 
@@ -1543,27 +1543,27 @@ Unknown Cards
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
 
 
 1
-[Tendrils of Agony](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
+[Tendrils of Agony](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
 
 
 1
-[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+[Empty the Warrens](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
 
 
 4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 1
-[Helm of Obedience](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
+[Helm of Obedience](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
 
 
 
@@ -1572,7 +1572,7 @@ Unknown Cards
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 
@@ -1581,67 +1581,83 @@ Unknown Cards
 
 
 1
-[Platinum Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlatinum%5D+%5BAngel%5D)
+[Platinum Angel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlatinum%5D+%5BAngel%5D)
 
 
-52 Cards 
+50 Cards 
 
 
 
-##### Common (20)
+##### Common (30)
 
 
 
 3
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+4
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 1
-[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+[Empty the Warrens](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+
+
+1
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+
+
+1
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+
+
+4
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 2
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 2
@@ -1654,153 +1670,137 @@ Unknown Cards
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 1
-[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
+[Rebuild](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
 
 
 1
-[Tendrils of Agony](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
+[Chain of Vapor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
 
 
 1
-[Darkblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
+[Darkblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 2
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
 
 
 
-##### Rare (28)
+##### Rare (14)
 
 
 
 3
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 2
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
-
-
-1
-[Platinum Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlatinum%5D+%5BAngel%5D)
-
-
-1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
-
-
-1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
-
-
-1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
-
-
-1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
-
-
-4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
 
 
 2
-[Hurkyl's Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
+[Hurkyl's Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHurkyl%5D+%5BRecall%5D)
 
 
 1
-[Intuition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
+[Tendrils of Agony](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Intuition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
-
-
-1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
-
-
-4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 2
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 1
-[Helm of Obedience](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
+[Helm of Obedience](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
 
 
 
-##### Mythic (17)
+##### Mythic (21)
 
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+1
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+
+
+1
+[Platinum Angel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlatinum%5D+%5BAngel%5D)
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+
+
+1
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+
+
+1
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 4
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 1
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 76 Cards 
@@ -1808,7 +1808,8 @@ Unknown Cards
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Polluted+Delta)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Polluted+Delta)
+
 
 
 
@@ -1832,6 +1833,7 @@ Unknown Cards
 
 
 
+
 #### Brian DeMars
 
 
@@ -1842,7 +1844,9 @@ Unknown Cards
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -1867,11 +1871,11 @@ OverviewColorCostRarity
 
 
 2
-[Goblin Welder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
+[Goblin Welder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
 
 
 1
-[Inkwell Leviathan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
+[Inkwell Leviathan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
 
 
 
@@ -1880,47 +1884,47 @@ OverviewColorCostRarity
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 1
-[Wheel of Fortune](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWheel%5D+%5Bof%5D+%5BFortune%5D)
+[Wheel of Fortune](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWheel%5D+%5Bof%5D+%5BFortune%5D)
 
 
 1
-[Regrowth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRegrowth%5D)
+[Regrowth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRegrowth%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 1
-[Transmute Artifact](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransmute%5D+%5BArtifact%5D)
+[Transmute Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransmute%5D+%5BArtifact%5D)
 
 
 1
-[Windfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D)
+[Windfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D)
 
 
 1
-[Timetwister](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimetwister%5D)
+[Timetwister](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimetwister%5D)
 
 
 1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
 
 
 
@@ -1929,55 +1933,55 @@ OverviewColorCostRarity
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 2
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 2
-[Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
+[Impulse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
 
 
 1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
 
 
 1
-[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
 
 
 1
-[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+[Rebuild](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 
@@ -1986,55 +1990,55 @@ OverviewColorCostRarity
 
 
 1
-[Memory Jar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
+[Memory Jar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 2
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 
@@ -2043,35 +2047,35 @@ OverviewColorCostRarity
 
 
 3
-[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 1
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 2
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 1
-[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+[Tropical Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 2
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 60 Cards 
@@ -2082,125 +2086,121 @@ OverviewColorCostRarity
 
 
 1
-[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+[Naturalize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
 
 
 2
-[Ingot Chewer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
+[Ingot Chewer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
 
 
 1
-[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
+[Pyroclasm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
 
 
 1
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 1
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 1
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 2
-[Yixlid Jailer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
+[Yixlid Jailer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
 
 
 1
-[Helm of Obedience](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
+[Helm of Obedience](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
 
 
 2
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 3
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 
 
-##### Blue (23)
+##### Blue (22)
 
 
 
 1
-[Inkwell Leviathan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
+[Inkwell Leviathan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 2
-[Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
+[Impulse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
 
 
 1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 1
-[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Transmute Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransmute%5D+%5BArtifact%5D)
 
 
 1
-[Transmute Artifact](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransmute%5D+%5BArtifact%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Windfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D)
 
 
 1
-[Windfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D)
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
 
 
 1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+[Timetwister](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimetwister%5D)
 
 
 1
-[Timetwister](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimetwister%5D)
+[Rebuild](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
 
 
 1
-[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
-
-
-1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
 
 
 
@@ -2209,56 +2209,60 @@ OverviewColorCostRarity
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 2
-[Yixlid Jailer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
+[Yixlid Jailer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
 
 
 3
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 
-##### Red (10)
+##### Red (11)
 
 
 
 2
-[Goblin Welder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
+[Goblin Welder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
 
 
 2
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 1
-[Wheel of Fortune](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWheel%5D+%5Bof%5D+%5BFortune%5D)
+[Wheel of Fortune](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWheel%5D+%5Bof%5D+%5BFortune%5D)
+
+
+1
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
 
 
 2
-[Ingot Chewer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
+[Ingot Chewer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
 
 
 1
-[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
+[Pyroclasm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
 
 
 1
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 1
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 
@@ -2267,11 +2271,11 @@ OverviewColorCostRarity
 
 
 1
-[Regrowth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRegrowth%5D)
+[Regrowth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRegrowth%5D)
 
 
 1
-[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+[Naturalize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
 
 
 
@@ -2280,99 +2284,99 @@ OverviewColorCostRarity
 
 
 3
-[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 1
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 2
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 1
-[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+[Tropical Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 2
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 1
-[Memory Jar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
+[Memory Jar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 2
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 1
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 1
-[Helm of Obedience](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
+[Helm of Obedience](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
 
 
 2
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 75 Cards 
@@ -2384,51 +2388,51 @@ OverviewColorCostRarity
 
 
 2
-[Goblin Welder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
+[Goblin Welder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 2
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
 
 
 1
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 1
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 1
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 
@@ -2437,51 +2441,51 @@ OverviewColorCostRarity
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 2
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 1
-[Regrowth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRegrowth%5D)
+[Regrowth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRegrowth%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 2
-[Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
+[Impulse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
 
 
 1
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Transmute Artifact](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransmute%5D+%5BArtifact%5D)
+[Transmute Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransmute%5D+%5BArtifact%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 1
-[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+[Naturalize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
 
 
 1
-[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
+[Pyroclasm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
 
 
 2
-[Yixlid Jailer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
+[Yixlid Jailer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
 
 
 
@@ -2490,31 +2494,31 @@ OverviewColorCostRarity
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 1
-[Wheel of Fortune](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWheel%5D+%5Bof%5D+%5BFortune%5D)
+[Wheel of Fortune](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWheel%5D+%5Bof%5D+%5BFortune%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 1
-[Windfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D)
+[Windfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D)
 
 
 1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
 
 
 1
-[Timetwister](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimetwister%5D)
+[Timetwister](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimetwister%5D)
 
 
 1
-[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+[Rebuild](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
 
 
 
@@ -2523,19 +2527,19 @@ OverviewColorCostRarity
 
 
 1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Helm of Obedience](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
+[Helm of Obedience](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
 
 
 3
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 
@@ -2544,19 +2548,19 @@ OverviewColorCostRarity
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 1
-[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 1
-[Memory Jar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
+[Memory Jar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
 
 
 2
-[Ingot Chewer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
+[Ingot Chewer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
 
 
 
@@ -2565,71 +2569,91 @@ OverviewColorCostRarity
 
 
 1
-[Inkwell Leviathan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
+[Inkwell Leviathan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
 
 
 51 Cards 
 
 
 
-##### Common (17)
+##### Common (27)
 
 
 
 1
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
-1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
-
-
-2
-[Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
-
-
-1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
-
-
-1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
-
-
-1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
-
-
-1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
-
-
-1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
-
-
-1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
-
-
-1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
-
-
-1
-[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+4
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 2
-[Ingot Chewer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
+[Impulse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
 
 
 1
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+
+
+1
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+1
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+
+
+1
+[Timetwister](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimetwister%5D)
+
+
+1
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+1
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+
+
+1
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+
+
+1
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+
+
+1
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+
+
+1
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+
+
+1
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+
+
+1
+[Naturalize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+
+
+2
+[Ingot Chewer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
+
+
+1
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+3
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 
@@ -2638,185 +2662,165 @@ OverviewColorCostRarity
 
 
 1
-[Fire // Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 1
-[Transmute Artifact](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransmute%5D+%5BArtifact%5D)
+[Fire // Ice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFire%5D+%5B&%5D+%5BIce%5D)
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Windfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D)
+[Windfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D)
 
 
 1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
 
 
 1
-[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+[Rebuild](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 2
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
 
 
 1
-[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
+[Pyroclasm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
 
 
 1
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 2
-[Yixlid Jailer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
+[Yixlid Jailer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
 
 
 2
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 
-##### Rare (31)
+##### Rare (18)
 
 
 
 3
-[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 2
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 2
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 1
-[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
-
-
-1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tropical Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
 
 
 2
-[Goblin Welder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
+[Goblin Welder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
 
 
 1
-[Inkwell Leviathan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
+[Inkwell Leviathan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkwell%5D+%5BLeviathan%5D)
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Regrowth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRegrowth%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
 
 
 1
-[Regrowth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRegrowth%5D)
-
-
-4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+[Transmute Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransmute%5D+%5BArtifact%5D)
 
 
 1
-[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 1
-[Timetwister](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimetwister%5D)
+[Helm of Obedience](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
+
+
+
+##### Mythic (14)
+
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
-
-
-1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
-
-
-1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
-
-
-1
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
-
-
-1
-[Helm of Obedience](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BObedience%5D)
-
-
-3
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
-
-
-
-##### Mythic (11)
-
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 2
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 1
-[Wheel of Fortune](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWheel%5D+%5Bof%5D+%5BFortune%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Wheel of Fortune](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWheel%5D+%5Bof%5D+%5BFortune%5D)
 
 
 1
-[Memory Jar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Memory Jar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
+
+
+1
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+
+
+1
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 75 Cards 
@@ -2824,7 +2828,8 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=City+of+Brass)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=City+of+Brass)
+
 
 
 
@@ -2848,6 +2853,7 @@ OverviewColorCostRarity
 
 
 
+
 #### Brandon Jones
 
 
@@ -2858,7 +2864,9 @@ OverviewColorCostRarity
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -2883,23 +2891,23 @@ OverviewColorCostRarity
 
 
 4
-[Goblin Welder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
+[Goblin Welder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
 
 
 1
-[Karn, Silver Golem](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
+[Karn, Silver Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
 
 
 1
-[Sundering Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
+[Sundering Titan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
 
 
 1
-[Razormane Masticore](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRazormane%5D+%5BMasticore%5D)
+[Razormane Masticore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRazormane%5D+%5BMasticore%5D)
 
 
 1
-[Triskelion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
+[Triskelion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
 
 
 
@@ -2908,11 +2916,11 @@ OverviewColorCostRarity
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 
@@ -2921,19 +2929,19 @@ OverviewColorCostRarity
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Crop Rotation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrop%5D+%5BRotation%5D)
+[Crop Rotation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrop%5D+%5BRotation%5D)
 
 
 2
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 
@@ -2942,75 +2950,75 @@ OverviewColorCostRarity
 
 
 4
-[Tangle Wire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
+[Tangle Wire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
 
 
 4
-[Sphere of Resistance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
+[Sphere of Resistance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
 
 
 1
-[Memory Jar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
+[Memory Jar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 2
-[Uba Mask](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUba%5D+%5BMask%5D)
+[Uba Mask](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUba%5D+%5BMask%5D)
 
 
 1
-[Smokestack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
+[Smokestack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
 
 
 1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+[Powder Keg](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 3
-[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Chalice of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 2
-[Crucible of Worlds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
+[Crucible of Worlds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
 
 
 
@@ -3019,35 +3027,35 @@ OverviewColorCostRarity
 
 
 3
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
 4
-[Mishra's Workshop](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
+[Mishra's Workshop](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
 
 
 1
-[Bazaar of Baghdad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBazaar%5D+%5Bof%5D+%5BBaghdad%5D)
+[Bazaar of Baghdad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBazaar%5D+%5Bof%5D+%5BBaghdad%5D)
 
 
 1
-[Barbarian Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarbarian%5D+%5BRing%5D)
+[Barbarian Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarbarian%5D+%5BRing%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 4
-[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 2
-[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 60 Cards 
@@ -3058,39 +3066,39 @@ OverviewColorCostRarity
 
 
 1
-[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+[Powder Keg](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
 
 
 2
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 2
-[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D)
+[Ensnaring Bridge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D)
 
 
 1
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 1
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 1
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
 
 
 
@@ -3100,11 +3108,11 @@ OverviewColorCostRarity
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 
@@ -3113,15 +3121,15 @@ OverviewColorCostRarity
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 
@@ -3130,19 +3138,19 @@ OverviewColorCostRarity
 
 
 4
-[Goblin Welder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
+[Goblin Welder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
 
 
 4
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 1
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 
@@ -3151,7 +3159,7 @@ OverviewColorCostRarity
 
 
 1
-[Crop Rotation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrop%5D+%5BRotation%5D)
+[Crop Rotation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrop%5D+%5BRotation%5D)
 
 
 
@@ -3160,139 +3168,139 @@ OverviewColorCostRarity
 
 
 3
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
 4
-[Mishra's Workshop](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
+[Mishra's Workshop](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
 
 
 1
-[Bazaar of Baghdad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBazaar%5D+%5Bof%5D+%5BBaghdad%5D)
+[Bazaar of Baghdad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBazaar%5D+%5Bof%5D+%5BBaghdad%5D)
 
 
 1
-[Barbarian Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarbarian%5D+%5BRing%5D)
+[Barbarian Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarbarian%5D+%5BRing%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 4
-[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 2
-[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 1
-[Karn, Silver Golem](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
+[Karn, Silver Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
 
 
 1
-[Sundering Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
+[Sundering Titan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
 
 
 1
-[Razormane Masticore](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRazormane%5D+%5BMasticore%5D)
+[Razormane Masticore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRazormane%5D+%5BMasticore%5D)
 
 
 1
-[Triskelion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
+[Triskelion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
 
 
 4
-[Tangle Wire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
+[Tangle Wire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
 
 
 4
-[Sphere of Resistance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
+[Sphere of Resistance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
 
 
 1
-[Memory Jar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
+[Memory Jar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 2
-[Uba Mask](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUba%5D+%5BMask%5D)
+[Uba Mask](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUba%5D+%5BMask%5D)
 
 
 1
-[Smokestack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
+[Smokestack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
 
 
 1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 2
-[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+[Powder Keg](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 3
-[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Chalice of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 2
-[Crucible of Worlds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
+[Crucible of Worlds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
 
 
 2
-[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D)
+[Ensnaring Bridge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D)
 
 
 1
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 1
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
 
 
 75 Cards 
@@ -3304,39 +3312,39 @@ OverviewColorCostRarity
 
 
 4
-[Goblin Welder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
+[Goblin Welder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
 
 
 1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 1
-[Crop Rotation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrop%5D+%5BRotation%5D)
+[Crop Rotation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrop%5D+%5BRotation%5D)
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 1
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 1
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
 
 
 
@@ -3345,23 +3353,23 @@ OverviewColorCostRarity
 
 
 4
-[Sphere of Resistance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
+[Sphere of Resistance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 2
-[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+[Powder Keg](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
 
 
 4
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 
@@ -3370,23 +3378,23 @@ OverviewColorCostRarity
 
 
 4
-[Tangle Wire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
+[Tangle Wire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
 
 
 1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
 
 
 2
-[Crucible of Worlds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
+[Crucible of Worlds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
 
 
 2
-[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D)
+[Ensnaring Bridge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D)
 
 
 
@@ -3395,15 +3403,15 @@ OverviewColorCostRarity
 
 
 2
-[Uba Mask](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUba%5D+%5BMask%5D)
+[Uba Mask](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUba%5D+%5BMask%5D)
 
 
 1
-[Smokestack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
+[Smokestack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
 
 
 4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 
@@ -3412,15 +3420,15 @@ OverviewColorCostRarity
 
 
 1
-[Karn, Silver Golem](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
+[Karn, Silver Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
 
 
 1
-[Razormane Masticore](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRazormane%5D+%5BMasticore%5D)
+[Razormane Masticore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRazormane%5D+%5BMasticore%5D)
 
 
 1
-[Memory Jar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
+[Memory Jar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
 
 
 
@@ -3429,7 +3437,7 @@ OverviewColorCostRarity
 
 
 1
-[Triskelion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
+[Triskelion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
 
 
 
@@ -3438,47 +3446,63 @@ OverviewColorCostRarity
 
 
 1
-[Sundering Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
+[Sundering Titan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
 
 
 47 Cards 
 
 
 
-##### Common (15)
+##### Common (24)
 
 
 
 4
-[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Crop Rotation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrop%5D+%5BRotation%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+
+
+1
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+
+
+1
+[Crop Rotation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrop%5D+%5BRotation%5D)
+
+
+3
+[Chalice of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 4
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+
+
+4
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 
@@ -3487,157 +3511,141 @@ OverviewColorCostRarity
 
 
 1
-[Barbarian Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarbarian%5D+%5BRing%5D)
+[Barbarian Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarbarian%5D+%5BRing%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 1
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 1
-[Voltaic Key](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
+[Voltaic Key](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoltaic%5D+%5BKey%5D)
 
 
 
-##### Rare (35)
+##### Rare (19)
 
-
-
-1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 2
-[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 4
-[Goblin Welder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
+[Goblin Welder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWelder%5D)
 
 
 1
-[Karn, Silver Golem](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
+[Karn, Silver Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
 
 
 1
-[Razormane Masticore](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRazormane%5D+%5BMasticore%5D)
+[Sundering Titan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
 
 
 1
-[Triskelion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
+[Razormane Masticore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRazormane%5D+%5BMasticore%5D)
+
+
+1
+[Triskelion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
 
 
 4
-[Sphere of Resistance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
-
-
-1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
-
-
-1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
-
-
-1
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Sphere of Resistance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
 
 
 2
-[Uba Mask](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUba%5D+%5BMask%5D)
-
-
-1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
-
-
-1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Uba Mask](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUba%5D+%5BMask%5D)
 
 
 2
-[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+[Powder Keg](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
-
-
-3
-[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
-
-
-2
-[Crucible of Worlds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
-
-
-4
-[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
-
-
-2
-[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 
-##### Mythic (19)
+##### Mythic (26)
 
 
 
 3
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
 4
-[Mishra's Workshop](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
+[Mishra's Workshop](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
 
 
 1
-[Bazaar of Baghdad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBazaar%5D+%5Bof%5D+%5BBaghdad%5D)
+[Bazaar of Baghdad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBazaar%5D+%5Bof%5D+%5BBaghdad%5D)
 
 
 1
-[Sundering Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 4
-[Tangle Wire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
+[Tangle Wire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
 
 
 1
-[Memory Jar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
+[Memory Jar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BJar%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 1
-[Smokestack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 1
-[Tinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+[Smokestack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
 
 
 1
-[Time Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
+
+
+1
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+
+
+1
+[Tinker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTinker%5D)
+
+
+2
+[Crucible of Worlds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
+
+
+2
+[Ensnaring Bridge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D)
+
+
+1
+[Time Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BVault%5D)
 
 
 75 Cards 
@@ -3645,7 +3653,8 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wasteland)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wasteland)
+
 
 
 
@@ -3669,6 +3678,7 @@ OverviewColorCostRarity
 
 
 
+
 #### Devon Ducommun
 
 
@@ -3679,7 +3689,9 @@ OverviewColorCostRarity
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -3704,19 +3716,19 @@ OverviewColorCostRarity
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 2
-[Tombstalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
+[Tombstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
 
 
 4
-[Dimir Cutpurse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCutpurse%5D)
+[Dimir Cutpurse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCutpurse%5D)
 
 
 
@@ -3725,23 +3737,23 @@ OverviewColorCostRarity
 
 
 3
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 3
-[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
 
 
 4
-[Hymn to Tourach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
+[Hymn to Tourach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 
@@ -3750,11 +3762,11 @@ OverviewColorCostRarity
 
 
 4
-[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+[Dark Ritual](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
 
 
 3
-[Diabolic Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
+[Diabolic Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
 
 
 
@@ -3763,31 +3775,31 @@ OverviewColorCostRarity
 
 
 4
-[Null Rod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
+[Null Rod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 
@@ -3796,31 +3808,31 @@ OverviewColorCostRarity
 
 
 4
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 3
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 3
-[Bayou](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
+[Bayou](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
 
 
 1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
 1
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 61 Cards 
@@ -3831,31 +3843,31 @@ OverviewColorCostRarity
 
 
 3
-[Energy Flux](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnergy%5D+%5BFlux%5D)
+[Energy Flux](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnergy%5D+%5BFlux%5D)
 
 
 3
-[Smother](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
+[Smother](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
 
 
 3
-[Krosan Grip](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGrip%5D)
+[Krosan Grip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGrip%5D)
 
 
 2
-[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
 
 
 2
-[Yixlid Jailer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
+[Yixlid Jailer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
 
 
 1
-[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 1
-[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+[Oxidize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
 
 
 
@@ -3865,11 +3877,11 @@ OverviewColorCostRarity
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 3
-[Energy Flux](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnergy%5D+%5BFlux%5D)
+[Energy Flux](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnergy%5D+%5BFlux%5D)
 
 
 
@@ -3878,47 +3890,47 @@ OverviewColorCostRarity
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 2
-[Tombstalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
+[Tombstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
 
 
 3
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 4
-[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+[Dark Ritual](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
 
 
 3
-[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
 
 
 4
-[Hymn to Tourach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
+[Hymn to Tourach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
 
 
 3
-[Diabolic Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
+[Diabolic Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 3
-[Smother](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
+[Smother](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
 
 
 2
-[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
 
 
 2
-[Yixlid Jailer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
+[Yixlid Jailer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
 
 
 
@@ -3927,19 +3939,19 @@ OverviewColorCostRarity
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 3
-[Krosan Grip](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGrip%5D)
+[Krosan Grip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGrip%5D)
 
 
 1
-[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 1
-[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+[Oxidize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
 
 
 
@@ -3948,7 +3960,7 @@ OverviewColorCostRarity
 
 
 4
-[Dimir Cutpurse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCutpurse%5D)
+[Dimir Cutpurse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCutpurse%5D)
 
 
 
@@ -3957,59 +3969,59 @@ OverviewColorCostRarity
 
 
 4
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 3
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 3
-[Bayou](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
+[Bayou](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
 
 
 1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
 1
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Null Rod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
+[Null Rod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 76 Cards 
@@ -4021,23 +4033,23 @@ OverviewColorCostRarity
 
 
 3
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 4
-[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+[Dark Ritual](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
 
 
 3
-[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
 
 
 2
-[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
 
 
 1
-[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+[Oxidize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
 
 
 
@@ -4046,43 +4058,43 @@ OverviewColorCostRarity
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 4
-[Hymn to Tourach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
+[Hymn to Tourach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
 
 
 4
-[Null Rod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
+[Null Rod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
 
 
 3
-[Diabolic Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
+[Diabolic Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 3
-[Smother](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
+[Smother](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
 
 
 2
-[Yixlid Jailer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
+[Yixlid Jailer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
 
 
 1
-[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 
@@ -4091,15 +4103,15 @@ OverviewColorCostRarity
 
 
 4
-[Dimir Cutpurse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCutpurse%5D)
+[Dimir Cutpurse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCutpurse%5D)
 
 
 3
-[Energy Flux](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnergy%5D+%5BFlux%5D)
+[Energy Flux](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnergy%5D+%5BFlux%5D)
 
 
 3
-[Krosan Grip](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGrip%5D)
+[Krosan Grip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGrip%5D)
 
 
 
@@ -4108,51 +4120,63 @@ OverviewColorCostRarity
 
 
 2
-[Tombstalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
+[Tombstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
 
 
 52 Cards 
 
 
 
-##### Common (16)
+##### Common (18)
 
 
 
 1
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 3
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
-
-
-4
-[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 3
-[Diabolic Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Diabolic Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+
+
+1
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+
+
+1
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+
+
+1
+[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 
@@ -4161,105 +4185,93 @@ OverviewColorCostRarity
 
 
 4
-[Hymn to Tourach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
+[Hymn to Tourach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
 
 
 3
-[Energy Flux](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnergy%5D+%5BFlux%5D)
+[Energy Flux](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnergy%5D+%5BFlux%5D)
 
 
 3
-[Smother](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
+[Smother](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
 
 
 3
-[Krosan Grip](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGrip%5D)
+[Krosan Grip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGrip%5D)
 
 
 2
-[Yixlid Jailer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
+[Yixlid Jailer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYixlid%5D+%5BJailer%5D)
 
 
 1
-[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+[Oxidize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
 
 
 
-##### Rare (25)
+##### Rare (22)
 
 
 
 3
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 3
-[Bayou](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
+[Bayou](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
 
 
 2
-[Tombstalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
+[Tombstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
 
 
 4
-[Dimir Cutpurse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCutpurse%5D)
-
-
-3
-[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+[Dimir Cutpurse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCutpurse%5D)
 
 
 4
-[Null Rod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
+[Dark Ritual](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
 
 
-1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
-
-
-1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
-
-
-1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
-
-
-1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+4
+[Null Rod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
 
 
 2
-[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
 
 
 
-##### Mythic (19)
+##### Mythic (20)
 
 
 
 4
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+
+
+1
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 76 Cards 
@@ -4267,7 +4279,8 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wasteland)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wasteland)
+
 
 
 
@@ -4291,6 +4304,7 @@ OverviewColorCostRarity
 
 
 
+
 #### Jesse Speers
 
 
@@ -4301,7 +4315,9 @@ OverviewColorCostRarity
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -4326,11 +4342,11 @@ OverviewColorCostRarity
 
 
 3
-[Painter's Servant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPainter%5D+%5BServant%5D)
+[Painter's Servant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPainter%5D+%5BServant%5D)
 
 
 2
-[Trinket Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D)
+[Trinket Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D)
 
 
 
@@ -4339,23 +4355,23 @@ OverviewColorCostRarity
 
 
 1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 
@@ -4364,43 +4380,43 @@ OverviewColorCostRarity
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
 
 
 1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 3
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 3
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 
@@ -4409,51 +4425,51 @@ OverviewColorCostRarity
 
 
 2
-[Grindstone](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrindstone%5D)
+[Grindstone](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrindstone%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 1
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 1
-[Engineered Explosives](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BExplosives%5D)
+[Engineered Explosives](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BExplosives%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
 
 
 
@@ -4462,7 +4478,7 @@ OverviewColorCostRarity
 
 
 4
-[Mystic Remora](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BRemora%5D)
+[Mystic Remora](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BRemora%5D)
 
 
 
@@ -4471,27 +4487,27 @@ OverviewColorCostRarity
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 3
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 3
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 2
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 60 Cards 
@@ -4502,35 +4518,35 @@ OverviewColorCostRarity
 
 
 1
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 3
-[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+[Tropical Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 2
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 1
-[Ingot Chewer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
+[Ingot Chewer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
 
 
 2
-[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
 
 
 1
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 
@@ -4540,59 +4556,59 @@ OverviewColorCostRarity
 
 
 2
-[Trinket Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D)
+[Trinket Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D)
 
 
 1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
 
 
 1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 4
-[Mystic Remora](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BRemora%5D)
+[Mystic Remora](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BRemora%5D)
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 3
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 2
-[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
 
 
 
@@ -4601,11 +4617,11 @@ OverviewColorCostRarity
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 
@@ -4614,19 +4630,19 @@ OverviewColorCostRarity
 
 
 3
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 2
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 1
-[Ingot Chewer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
+[Ingot Chewer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
 
 
 
@@ -4635,7 +4651,7 @@ OverviewColorCostRarity
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 
@@ -4644,91 +4660,91 @@ OverviewColorCostRarity
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 3
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 3
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 2
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 3
-[Painter's Servant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPainter%5D+%5BServant%5D)
+[Painter's Servant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPainter%5D+%5BServant%5D)
 
 
 2
-[Grindstone](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrindstone%5D)
+[Grindstone](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrindstone%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 2
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 1
-[Engineered Explosives](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BExplosives%5D)
+[Engineered Explosives](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BExplosives%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
 
 
 3
-[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+[Tropical Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 1
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 75 Cards 
@@ -4740,51 +4756,51 @@ OverviewColorCostRarity
 
 
 1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
 
 
 1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 4
-[Mystic Remora](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BRemora%5D)
+[Mystic Remora](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BRemora%5D)
 
 
 3
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 2
-[Grindstone](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrindstone%5D)
+[Grindstone](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrindstone%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 1
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 
@@ -4793,35 +4809,35 @@ OverviewColorCostRarity
 
 
 3
-[Painter's Servant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPainter%5D+%5BServant%5D)
+[Painter's Servant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPainter%5D+%5BServant%5D)
 
 
 1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 3
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 2
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 2
-[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
 
 
 
@@ -4830,15 +4846,15 @@ OverviewColorCostRarity
 
 
 2
-[Trinket Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D)
+[Trinket Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D)
 
 
 1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
 
 
 
@@ -4847,11 +4863,11 @@ OverviewColorCostRarity
 
 
 1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 
@@ -4860,206 +4876,206 @@ OverviewColorCostRarity
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 1
-[Ingot Chewer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
+[Ingot Chewer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
 
 
 47 Cards 
 
 
 
-##### Common (18)
+##### Common (24)
 
 
 
 3
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
-
-
-1
-[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
-
-
-1
-[Ancestral Recall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
-
-
-1
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
-
-
-1
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+[Trinket Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Ancestral Recall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncestral%5D+%5BRecall%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
-
-
-1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
-
-
-2
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
-
-
-1
-[Ingot Chewer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
-
-
-2
-[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
-
-
-
-##### Uncommon (16)
-
-
-
-2
-[Trinket Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D)
-
-
-1
-[Thirst for Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
-
-
-1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Brainstorm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 4
-[Mystic Remora](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BRemora%5D)
-
-
-3
-[Red Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
-
-
-1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 2
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
 1
-[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+[Time Walk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
-
-
-
-##### Rare (23)
-
-
-
-3
-[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+
+
+1
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+
+
+1
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+
+
+1
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+
+
+1
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 2
-[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
-
-
-3
-[Painter's Servant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPainter%5D+%5BServant%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 1
-[Gifts Ungiven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+[Ingot Chewer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIngot%5D+%5BChewer%5D)
+
+
+
+##### Uncommon (17)
+
+
+
+1
+[Merchant Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
+
+
+1
+[Thirst for Knowledge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D)
+
+
+1
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
-
-
-1
-[Time Walk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5BWalk%5D)
-
-
-1
-[Demonic Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
-
-
-1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
-
-
-1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
-
-
-1
-[Engineered Explosives](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BExplosives%5D)
+[Mystic Remora](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BRemora%5D)
 
 
 3
-[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+[Red Elemental Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D)
 
 
 1
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+
+
+2
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+
+
+1
+[Lotus Petal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+
+
+1
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
 
 
 
-##### Mythic (18)
+##### Rare (14)
+
+
+
+3
+[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+
+
+2
+[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+
+
+3
+[Painter's Servant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPainter%5D+%5BServant%5D)
+
+
+1
+[Gifts Ungiven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D)
+
+
+1
+[Engineered Explosives](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BExplosives%5D)
+
+
+3
+[Tropical Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+
+
+1
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+
+
+
+##### Mythic (20)
 
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 1
-[Mystical Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+
+
+1
+[Mystical Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BTutor%5D)
 
 
 3
-[Mana Drain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
+[Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
 
 
 2
-[Grindstone](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrindstone%5D)
+[Grindstone](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrindstone%5D)
 
 
 1
-[Yawgmoth's Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+[Demonic Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BTutor%5D)
 
 
 1
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Yawgmoth's Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BWill%5D)
+
+
+1
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 75 Cards 
@@ -5067,7 +5083,8 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Polluted+Delta)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Polluted+Delta)
+
 
 
 
@@ -5091,6 +5108,7 @@ OverviewColorCostRarity
 
 
 
+
 #### Mark Trogdon
 
 
@@ -5101,7 +5119,9 @@ OverviewColorCostRarity
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -5126,19 +5146,19 @@ OverviewColorCostRarity
 
 
 4
-[Metalworker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D)
+[Metalworker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D)
 
 
 3
-[Karn, Silver Golem](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
+[Karn, Silver Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
 
 
 2
-[Arcbound Ravager](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
+[Arcbound Ravager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
 
 
 3
-[Triskelion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
+[Triskelion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
 
 
 
@@ -5147,67 +5167,67 @@ OverviewColorCostRarity
 
 
 4
-[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Chalice of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 4
-[Sphere of Resistance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
+[Sphere of Resistance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
 
 
 3
-[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThorn%5D+%5Bof%5D+%5BAmethyst%5D)
+[Thorn of Amethyst](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThorn%5D+%5Bof%5D+%5BAmethyst%5D)
 
 
 3
-[Staff of Domination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D)
+[Staff of Domination](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D)
 
 
 4
-[Smokestack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
+[Smokestack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
 
 
 1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
 
 
 2
-[Crucible of Worlds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
+[Crucible of Worlds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 
@@ -5216,27 +5236,27 @@ OverviewColorCostRarity
 
 
 4
-[Mishra's Workshop](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
+[Mishra's Workshop](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
 
 
 4
-[Mishra's Factory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BFactory%5D)
+[Mishra's Factory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BFactory%5D)
 
 
 4
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 4
-[Ancient Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
+[Ancient Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
 
 
 1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
 60 Cards 
@@ -5247,31 +5267,31 @@ OverviewColorCostRarity
 
 
 1
-[Triskelion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
+[Triskelion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
 
 
 1
-[Crucible of Worlds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
+[Crucible of Worlds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
 
 
 3
-[Jester's Cap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJester%5D+%5BCap%5D)
+[Jester's Cap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJester%5D+%5BCap%5D)
 
 
 4
-[Tangle Wire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
+[Tangle Wire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
 
 
 1
-[Gaea's Blessing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
+[Gaea's Blessing](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
 
 
 4
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 1
-[Sculpting Steel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSculpting%5D+%5BSteel%5D)
+[Sculpting Steel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSculpting%5D+%5BSteel%5D)
 
 
 
@@ -5281,7 +5301,7 @@ OverviewColorCostRarity
 
 
 1
-[Gaea's Blessing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
+[Gaea's Blessing](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
 
 
 
@@ -5290,123 +5310,123 @@ OverviewColorCostRarity
 
 
 4
-[Mishra's Workshop](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
+[Mishra's Workshop](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
 
 
 4
-[Mishra's Factory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BFactory%5D)
+[Mishra's Factory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BFactory%5D)
 
 
 4
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 4
-[Ancient Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
+[Ancient Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
 
 
 1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
 4
-[Metalworker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D)
+[Metalworker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D)
 
 
 3
-[Karn, Silver Golem](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
+[Karn, Silver Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
 
 
 2
-[Arcbound Ravager](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
+[Arcbound Ravager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
 
 
 4
-[Triskelion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
+[Triskelion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
 
 
 4
-[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Chalice of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 4
-[Sphere of Resistance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
+[Sphere of Resistance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
 
 
 3
-[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThorn%5D+%5Bof%5D+%5BAmethyst%5D)
+[Thorn of Amethyst](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThorn%5D+%5Bof%5D+%5BAmethyst%5D)
 
 
 3
-[Staff of Domination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D)
+[Staff of Domination](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D)
 
 
 4
-[Smokestack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
+[Smokestack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
 
 
 1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
 
 
 3
-[Crucible of Worlds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
+[Crucible of Worlds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 3
-[Jester's Cap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJester%5D+%5BCap%5D)
+[Jester's Cap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJester%5D+%5BCap%5D)
 
 
 4
-[Tangle Wire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
+[Tangle Wire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
 
 
 4
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 1
-[Sculpting Steel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSculpting%5D+%5BSteel%5D)
+[Sculpting Steel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSculpting%5D+%5BSteel%5D)
 
 
 75 Cards 
@@ -5418,15 +5438,15 @@ OverviewColorCostRarity
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 4
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 
@@ -5435,19 +5455,19 @@ OverviewColorCostRarity
 
 
 2
-[Arcbound Ravager](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
+[Arcbound Ravager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
 
 
 4
-[Sphere of Resistance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
+[Sphere of Resistance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
 
 
 3
-[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThorn%5D+%5Bof%5D+%5BAmethyst%5D)
+[Thorn of Amethyst](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThorn%5D+%5Bof%5D+%5BAmethyst%5D)
 
 
 1
-[Gaea's Blessing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
+[Gaea's Blessing](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
 
 
 
@@ -5456,27 +5476,27 @@ OverviewColorCostRarity
 
 
 4
-[Metalworker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D)
+[Metalworker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D)
 
 
 3
-[Staff of Domination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D)
+[Staff of Domination](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D)
 
 
 1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
 
 
 3
-[Crucible of Worlds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
+[Crucible of Worlds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
 
 
 4
-[Tangle Wire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
+[Tangle Wire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
 
 
 1
-[Sculpting Steel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSculpting%5D+%5BSteel%5D)
+[Sculpting Steel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSculpting%5D+%5BSteel%5D)
 
 
 
@@ -5485,11 +5505,11 @@ OverviewColorCostRarity
 
 
 4
-[Smokestack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
+[Smokestack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
 
 
 3
-[Jester's Cap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJester%5D+%5BCap%5D)
+[Jester's Cap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJester%5D+%5BCap%5D)
 
 
 
@@ -5498,7 +5518,7 @@ OverviewColorCostRarity
 
 
 3
-[Karn, Silver Golem](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
+[Karn, Silver Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
 
 
 
@@ -5507,31 +5527,43 @@ OverviewColorCostRarity
 
 
 4
-[Triskelion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
+[Triskelion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
 
 
 46 Cards 
 
 
 
-##### Common (4)
+##### Common (10)
 
 
 
-1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
-
-
-1
-[Mox Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+4
+[Chalice of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 1
-[Mox Sapphire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+
+
+1
+[Mox Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BJet%5D)
+
+
+1
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+
+
+1
+[Mox Ruby](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
+
+
+1
+[Mox Sapphire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BSapphire%5D)
 
 
 
@@ -5540,121 +5572,109 @@ OverviewColorCostRarity
 
 
 4
-[Mishra's Factory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BFactory%5D)
+[Mishra's Factory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BFactory%5D)
 
 
 1
-[Sol Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
+[Sol Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSol%5D+%5BRing%5D)
 
 
 1
-[Gaea's Blessing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
+[Gaea's Blessing](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
 
 
 4
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 
-##### Rare (36)
+##### Rare (25)
 
-
-
-1
-[Tolarian Academy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
 
 
 4
-[Metalworker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D)
+[Metalworker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D)
 
 
 3
-[Karn, Silver Golem](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
+[Karn, Silver Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5BSilver%5D+%5BGolem%5D)
 
 
 2
-[Arcbound Ravager](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
+[Arcbound Ravager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
 
 
 4
-[Triskelion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
+[Triskelion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTriskelion%5D)
 
 
 4
-[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
-
-
-4
-[Sphere of Resistance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
+[Sphere of Resistance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphere%5D+%5Bof%5D+%5BResistance%5D)
 
 
 3
-[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThorn%5D+%5Bof%5D+%5BAmethyst%5D)
+[Thorn of Amethyst](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThorn%5D+%5Bof%5D+%5BAmethyst%5D)
 
 
 3
-[Staff of Domination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D)
+[Staff of Domination](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D)
 
 
 1
-[Trinisphère](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisph%C3%A8re%5D)
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+
+
+1
+[Sculpting Steel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSculpting%5D+%5BSteel%5D)
+
+
+
+##### Mythic (30)
+
+
+
+4
+[Mishra's Workshop](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
+
+
+4
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+
+
+1
+[Tolarian Academy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTolarian%5D+%5BAcademy%5D)
+
+
+4
+[Ancient Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
+
+
+1
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+
+
+4
+[Smokestack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
+
+
+1
+[Trinisphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D)
 
 
 3
-[Crucible of Worlds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
+[Crucible of Worlds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrucible%5D+%5Bof%5D+%5BWorlds%5D)
 
 
 1
-[Mana Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
-
-
-1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
-
-
-1
-[Mox Ruby](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BRuby%5D)
-
-
-1
-[Sculpting Steel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSculpting%5D+%5BSteel%5D)
-
-
-
-##### Mythic (25)
-
-
-
-4
-[Mishra's Workshop](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BWorkshop%5D)
-
-
-4
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
-
-
-4
-[Ancient Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
-
-
-1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
-
-
-4
-[Smokestack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmokestack%5D)
-
-
-1
-[Mana Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
+[Mana Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BCrypt%5D)
 
 
 3
-[Jester's Cap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJester%5D+%5BCap%5D)
+[Jester's Cap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJester%5D+%5BCap%5D)
 
 
 4
-[Tangle Wire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
+[Tangle Wire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTangle%5D+%5BWire%5D)
 
 
 75 Cards 
@@ -5662,7 +5682,8 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mishra%27s+Workshop)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mishra%27s+Workshop)
+
 
 
 
@@ -5686,6 +5707,7 @@ OverviewColorCostRarity
 
 
 
+
 #### John Donovan
 
 
@@ -5696,7 +5718,9 @@ OverviewColorCostRarity
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -5721,39 +5745,39 @@ OverviewColorCostRarity
 
 
 3
-[Gaddock Teeg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
+[Gaddock Teeg](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
 
 
 2
-[Heartwood Storyteller](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartwood%5D+%5BStoryteller%5D)
+[Heartwood Storyteller](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartwood%5D+%5BStoryteller%5D)
 
 
 2
-[Vexing Shusher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVexing%5D+%5BShusher%5D)
+[Vexing Shusher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVexing%5D+%5BShusher%5D)
 
 
 2
-[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
+[Ethersworn Canonist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 4
-[Aven Mindcensor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D)
+[Aven Mindcensor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D)
 
 
 4
-[Qasali Pridemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D)
+[Qasali Pridemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D)
 
 
 3
-[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+[Kataki, War's Wage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
 
 
 3
-[Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BSpirit%5D+%5BGuide%5D)
+[Elvish Spirit Guide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BSpirit%5D+%5BGuide%5D)
 
 
 
@@ -5762,7 +5786,7 @@ OverviewColorCostRarity
 
 
 2
-[Enlightened Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnlightened%5D+%5BTutor%5D)
+[Enlightened Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnlightened%5D+%5BTutor%5D)
 
 
 
@@ -5771,19 +5795,19 @@ OverviewColorCostRarity
 
 
 3
-[Null Rod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
+[Null Rod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 
@@ -5792,11 +5816,11 @@ OverviewColorCostRarity
 
 
 2
-[Choke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
+[Choke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
 
 
 1
-[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 
@@ -5805,35 +5829,35 @@ OverviewColorCostRarity
 
 
 2
-[Horizon Canopy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorizon%5D+%5BCanopy%5D)
+[Horizon Canopy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorizon%5D+%5BCanopy%5D)
 
 
 3
-[Savannah](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
+[Savannah](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
 
 
 1
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 3
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
 4
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
 
 
 4
-[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
 
 
 60 Cards 
@@ -5844,31 +5868,31 @@ OverviewColorCostRarity
 
 
 2
-[Vexing Shusher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVexing%5D+%5BShusher%5D)
+[Vexing Shusher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVexing%5D+%5BShusher%5D)
 
 
 2
-[Choke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
+[Choke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
 
 
 1
-[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 2
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 4
-[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 3
-[Tariff](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTariff%5D)
+[Tariff](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTariff%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 
@@ -5878,27 +5902,27 @@ OverviewColorCostRarity
 
 
 2
-[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
+[Ethersworn Canonist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
 
 
 4
-[Aven Mindcensor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D)
+[Aven Mindcensor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D)
 
 
 3
-[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+[Kataki, War's Wage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
 
 
 2
-[Enlightened Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnlightened%5D+%5BTutor%5D)
+[Enlightened Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnlightened%5D+%5BTutor%5D)
 
 
 4
-[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 3
-[Tariff](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTariff%5D)
+[Tariff](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTariff%5D)
 
 
 
@@ -5907,23 +5931,23 @@ OverviewColorCostRarity
 
 
 2
-[Heartwood Storyteller](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartwood%5D+%5BStoryteller%5D)
+[Heartwood Storyteller](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartwood%5D+%5BStoryteller%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 3
-[Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BSpirit%5D+%5BGuide%5D)
+[Elvish Spirit Guide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BSpirit%5D+%5BGuide%5D)
 
 
 4
-[Choke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
+[Choke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
 
 
 2
-[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 
@@ -5932,15 +5956,15 @@ OverviewColorCostRarity
 
 
 3
-[Gaddock Teeg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
+[Gaddock Teeg](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
 
 
 4
-[Vexing Shusher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVexing%5D+%5BShusher%5D)
+[Vexing Shusher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVexing%5D+%5BShusher%5D)
 
 
 4
-[Qasali Pridemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D)
+[Qasali Pridemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D)
 
 
 
@@ -5949,59 +5973,59 @@ OverviewColorCostRarity
 
 
 2
-[Horizon Canopy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorizon%5D+%5BCanopy%5D)
+[Horizon Canopy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorizon%5D+%5BCanopy%5D)
 
 
 3
-[Savannah](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
+[Savannah](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
 
 
 1
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 3
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
 4
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
 
 
 4
-[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
 
 
 3
-[Null Rod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
+[Null Rod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 2
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 75 Cards 
@@ -6013,15 +6037,15 @@ OverviewColorCostRarity
 
 
 2
-[Enlightened Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnlightened%5D+%5BTutor%5D)
+[Enlightened Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnlightened%5D+%5BTutor%5D)
 
 
 4
-[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 
@@ -6030,39 +6054,39 @@ OverviewColorCostRarity
 
 
 3
-[Gaddock Teeg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
+[Gaddock Teeg](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
 
 
 4
-[Vexing Shusher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVexing%5D+%5BShusher%5D)
+[Vexing Shusher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVexing%5D+%5BShusher%5D)
 
 
 2
-[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
+[Ethersworn Canonist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 4
-[Qasali Pridemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D)
+[Qasali Pridemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D)
 
 
 3
-[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+[Kataki, War's Wage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
 
 
 3
-[Null Rod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
+[Null Rod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
 
 
 2
-[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 3
-[Tariff](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTariff%5D)
+[Tariff](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTariff%5D)
 
 
 
@@ -6071,125 +6095,125 @@ OverviewColorCostRarity
 
 
 2
-[Heartwood Storyteller](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartwood%5D+%5BStoryteller%5D)
+[Heartwood Storyteller](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartwood%5D+%5BStoryteller%5D)
 
 
 4
-[Aven Mindcensor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D)
+[Aven Mindcensor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D)
 
 
 3
-[Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BSpirit%5D+%5BGuide%5D)
+[Elvish Spirit Guide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BSpirit%5D+%5BGuide%5D)
 
 
 4
-[Choke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
+[Choke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
 
 
 48 Cards 
 
 
 
-##### Common (12)
+##### Common (17)
 
 
 
 1
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 3
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Qasali Pridemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D)
+[Qasali Pridemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D)
+
+
+4
+[Choke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
 
 
 1
-[Mox Pearl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
+[Mox Pearl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BPearl%5D)
 
 
 1
-[Black Lotus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
-
-
-2
-[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
-
-
-
-##### Uncommon (20)
-
-
-
-4
-[Aven Mindcensor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D)
-
-
-3
-[Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BSpirit%5D+%5BGuide%5D)
-
-
-2
-[Enlightened Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnlightened%5D+%5BTutor%5D)
-
-
-4
-[Choke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
-
-
-2
-[Tormod's Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
-
-
-4
-[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Mox Emerald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
 
 
 1
-[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
-
-
-
-##### Rare (24)
-
-
-
-3
-[Savannah](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
-
-
-3
-[Gaddock Teeg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
+[Black Lotus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BLotus%5D)
 
 
 2
-[Heartwood Storyteller](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartwood%5D+%5BStoryteller%5D)
+[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+
+
+
+##### Uncommon (16)
+
 
 
 4
-[Vexing Shusher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVexing%5D+%5BShusher%5D)
+[Aven Mindcensor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D)
+
+
+3
+[Elvish Spirit Guide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BSpirit%5D+%5BGuide%5D)
 
 
 2
-[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
+[Enlightened Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnlightened%5D+%5BTutor%5D)
 
 
-3
-[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+2
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
 
 
-3
-[Null Rod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
+4
+[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 1
-[Mox Emerald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BEmerald%5D)
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
+
+
+
+##### Rare (23)
+
 
 
 3
-[Tariff](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTariff%5D)
+[Savannah](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
+
+
+3
+[Gaddock Teeg](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
+
+
+2
+[Heartwood Storyteller](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartwood%5D+%5BStoryteller%5D)
+
+
+4
+[Vexing Shusher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVexing%5D+%5BShusher%5D)
+
+
+2
+[Ethersworn Canonist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
+
+
+3
+[Kataki, War's Wage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+
+
+3
+[Null Rod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNull%5D+%5BRod%5D)
+
+
+3
+[Tariff](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTariff%5D)
 
 
 
@@ -6198,27 +6222,27 @@ OverviewColorCostRarity
 
 
 2
-[Horizon Canopy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorizon%5D+%5BCanopy%5D)
+[Horizon Canopy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorizon%5D+%5BCanopy%5D)
 
 
 1
-[Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
+[Strip Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
 4
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
 
 
 4
-[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 75 Cards 
@@ -6226,7 +6250,8 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Horizon+Canopy)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Horizon+Canopy)
+
 
 
 

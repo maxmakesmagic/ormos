@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Atlanta Trials will be run at North and Latin America WPN locations from March 1, 2014 to May 11, 2014. Each awards the winner a two-round bye to Grand Prix Atlanta. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728096"
 [_metadata_:publish_date]:- "2014-01-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Atlanta 2014 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:37:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:37:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118163722id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlanta-2014-trials-2014-01-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlanta-2014-trials-2014-01-17"
 ---

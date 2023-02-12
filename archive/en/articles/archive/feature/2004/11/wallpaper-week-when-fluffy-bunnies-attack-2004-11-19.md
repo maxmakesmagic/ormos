@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Ray Lago's When Fluffy Bunnies Attack from Unhinged, which releases TODAY! Enjoy. 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "607801"
 [_metadata_:publish_date]:- "2004-11-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: When Fluffy Bunnies Attack"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 20:39:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 20:39:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706203923id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-when-fluffy-bunnies-attack-2004-11-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-when-fluffy-bunnies-attack-2004-11-19"
 ---

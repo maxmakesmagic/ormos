@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Play the Game, See the World Download now! (26.1 MB zip WMP) North America Europe Latin America Asia Japan Australia and New Zealand Great Britain and Ireland France Pro Tour–Valencia Invitation List Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Tournament Structure The structure for Pro Tour–Valencia Qualifier"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641686"
 [_metadata_:publish_date]:- "2007-05-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tournois Qualificatifs Pro Tour Valencia 07"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 09:57:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 09:57:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207095722id_/https://magic.wizards.com/en/articles/archive/feature/tournois-qualificatifs-pro-tour-valencia-07-2007-05-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tournois-qualificatifs-pro-tour-valencia-07-2007-05-23"
 ---

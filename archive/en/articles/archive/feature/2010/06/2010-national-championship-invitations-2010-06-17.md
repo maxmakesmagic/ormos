@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Bolivia Nationals Invitation list comprises the following: The current Bolivia National Champion and members of the current Bolivia national team (including alternate). Players from Bolivia with Pro Tour Players Club level 2 or higher. Winners of invitations through National Qualifiers. Winners of invitations through Bolivia National Open tournaments (`grinders`). The Top 20"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730001"
 [_metadata_:publish_date]:- "2010-06-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2010 National Championship Invitations"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 08:07:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 08:07:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528080728id_/https://magic.wizards.com/en/articles/archive/feature/2010-national-championship-invitations-2010-06-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-national-championship-invitations-2010-06-17"
 ---

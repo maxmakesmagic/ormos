@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "It may come as no surprise that I like value, and how better to get value than to turn every creature into a natural two-for-one (without even accounting for the fact that most of them are also two-for-ones in their own right)? The appropriately-named Lord_Rakdos on TCGPlayer put up a nice-looking list, although it is strangely light on Demons. There are two main themes to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666976"
 [_metadata_:publish_date]:- "2013-09-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Trolling the Graveyard"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 18:39:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 18:39:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024183939id_/https://magic.wizards.com/en/articles/archive/feature/trolling-graveyard-2013-09-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/trolling-graveyard-2013-09-11"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "Calvo's Destiny: Enrico Russo Mauro Corti Massimo GuarinoLast Minute: Piero Lombardi Umberto Bosco Andrea MarongioCalvo's Destiny is a team of fabled Italian trash-talkers that always seem to create a hilarious game to watch. As the round progressed a few Italian played wandered to the Feature Match area to see what all the racket was about. It was an extremely funny round to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806171"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 2 Feature Match: Calvo's Destiny vs. Last Minute"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 20:56:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 20:56:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524205652id_/https://magic.wizards.com/en/articles/archive/feature/round-2-feature-match-calvos-destiny-vs-last-minute-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-feature-match-calvos-destiny-vs-last-minute-2000-01-01"
 ---

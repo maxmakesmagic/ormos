@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Jon Finkel Divides   Jon Finkel Gary Wise Coastal Piracy Ivory Mask Forbid Maggot Therapy Time Elemental Deranged Hermit Red Elemental Blast Bull Hippo Pack #2 - Gary Wise Divides   Jon Finkel Gary Wise Lawbringer Flare Suq'Ata Firewalker Wild Aesthir Gerrard's Wisdom Mind Harness Sanctum Custodian Jungle Wurm Pack #3 - Jon Finkel Divides   Jon Finkel Gary Wise"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949871"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 7 Solomon SelectionsJon Finkel vs. Gary Wise"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 18:27:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 18:27:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519182718id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionsjon-finkel-vs"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionsjon-finkel-vs"
 ---

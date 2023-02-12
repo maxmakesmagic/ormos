@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Planeswalkers of Alara Planeswalkers, those precious few who can traverse the planes of the Multiverse, have seen the potential of Alara. Four reside there now, including two who were born right there among the shards of Alara, and whose planeswalker spark has only recently ignited. Ajani. The Nacatl leonin called Ajani is a native of the Naya shard. He was always something of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "707096"
 [_metadata_:publish_date]:- "2008-09-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalkers of Alara"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 08:17:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 08:17:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022081728id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-alara-2008-09-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-alara-2008-09-23"
 ---

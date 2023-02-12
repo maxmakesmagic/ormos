@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20161123073656/http://magic.wizards.com/en/articles/archive/feature/magic-holiday-gift-guide-and-holiday-buy-box-promotion-2016-11-21)
+[Link to Wayback Machine](https://web.archive.org/web/20161202110334/http://magic.wizards.com/en/articles/archive/feature/magic-holiday-gift-guide-and-holiday-buy-box-promotion-2016-11-21?utm_source=sem&utm_campaign=gifts-gamer&utm_medium=ad&utm_content=gifts-gamer)
 
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "It can be difficult to buy gifts for the gamers in your life, so we've grouped together gift ideas for whoever you might be shopping for."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1103481"
 [_metadata_:publish_date]:- "2016-11-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Holiday Gift Guide and Holiday Buy-a-Box Promotion"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-23 07:36:56+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161123073656id_/http://magic.wizards.com/en/articles/archive/feature/magic-holiday-gift-guide-and-holiday-buy-box-promotion-2016-11-21"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-holiday-gift-guide-and-holiday-buy-box-promotion-2016-11-21"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-02 11:03:34"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161202110334id_/http://magic.wizards.com/en/articles/archive/feature/magic-holiday-gift-guide-and-holiday-buy-box-promotion-2016-11-21?utm_source=sem&utm_campaign=gifts-gamer&utm_medium=ad&utm_content=gifts-gamer"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-holiday-gift-guide-and-holiday-buy-box-promotion-2016-11-21?utm_source=sem&utm_campaign=gifts-gamer&utm_medium=ad&utm_content=gifts-gamer"
 ---
 
 
@@ -310,7 +312,7 @@ It says it right on the box. Need a gift? This is definitely a good choice. It's
   
 Find Now !
   
-<https://www.google.com/maps/d/u/0/embed?mid=1TpLSCpEuCAo2aCbeZ07s2_GZOxA>
+<https://www.google.com/maps/d/u/0/embed?mid=1yxQFe4SXCdxzPN22AMBj3LMZkBg>
  
 
 

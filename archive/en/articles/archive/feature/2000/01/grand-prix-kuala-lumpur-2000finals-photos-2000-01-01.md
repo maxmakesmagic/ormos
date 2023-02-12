@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952696"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Kuala Lumpur 2000Finals Photos"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:49:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:49:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528034945id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-2000finals-photos-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-2000finals-photos-2000-01-01"
 ---

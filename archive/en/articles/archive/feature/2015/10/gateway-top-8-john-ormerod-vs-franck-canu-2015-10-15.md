@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Mark Wraith The Gateway Tournament had reached the last eight and both of these players needed to win only two more matches to qualify for the Masters Series."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805561"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gateway Top 8: John Ormerod vs. Franck Canu"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:11:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:11:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707141134id_/http://magic.wizards.com/en/articles/archive/feature/gateway-top-8-john-ormerod-vs-franck-canu-2015-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gateway-top-8-john-ormerod-vs-franck-canu-2015-10-15"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Merfolk Seastalkers – Zendikar uncommon. The real reason Merfolk Seastalkers doesn't tap flying creatures is due to concerns about balance and gameplay. But it's more fun to pretend it's because the merfolk are somehow creating a very localized Flood. Eternal Witness – Fifth Dawn uncommon. According to Aaron Forsythe (in an article from 2004), Eternal Witness was created"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664666"
 [_metadata_:publish_date]:- "2011-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - September, 2011"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 02:12:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 02:12:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812021241id_/https://magic.wizards.com/en/articles/archive/feature/card-day-september-2011-2011-09-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-september-2011-2011-09-01"
 ---

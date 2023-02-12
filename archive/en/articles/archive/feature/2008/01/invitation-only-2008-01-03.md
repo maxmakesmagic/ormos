@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Before the Storyteller ballot was even a twinkle in someone's eye, I was recapping my experiences at the Magic Invitational. Sure, it was for `What If?` Week, meaning it didn't actually happen, but writing this report was still great fun. I'm especially proud of the fact that my made-up MoK Standard format is a similar but narrower version of the Choose Your Own Standard"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620581"
 [_metadata_:publish_date]:- "2008-01-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "By Invitation Only"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 14:53:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 14:53:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122145347id_/https://magic.wizards.com/en/articles/archive/feature/invitation-only-2008-01-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/invitation-only-2008-01-03"
 ---

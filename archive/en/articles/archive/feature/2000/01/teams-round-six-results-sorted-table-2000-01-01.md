@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Match Team Opponent Result 1 United States Czech Republic Lost 1-2-1 2 Canada Germany Drew 1-1-2 3 Netherlands France Won 3-1 4 Finland Sweden Won 4-0 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "960981"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Teams: Round Six Results Sorted By Table"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 01:18:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 01:18:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031011806id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-six-results-sorted-table-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-six-results-sorted-table-2000-01-01"
 ---

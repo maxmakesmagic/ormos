@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211115163537/https://magic.wizards.com/en/articles/archive/feature/innistrad-double-feature-product-overview-2021-11-15)
+[Link to Wayback Machine](https://web.archive.org/web/20220122000639/https://magic.wizards.com/en/articles/archive/feature/innistrad-double-feature-product-overview-2021-11-15?utm_campaign=Crimson-Vow&utm_source=TWITTER&utm_medium=social&utm_content=6233933106)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "If you're in love with Innistrad, good news: Innistrad: Double Feature is coming to you at your local game store!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1569034"
 [_metadata_:publish_date]:- "2021-11-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Innistrad: Double Feature Product Overview"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-15 16:35:37+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211115163537id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-double-feature-product-overview-2021-11-15"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-double-feature-product-overview-2021-11-15"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 00:06:39"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122000639id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-double-feature-product-overview-2021-11-15?utm_campaign=Crimson-Vow&utm_source=TWITTER&utm_medium=social&utm_content=6233933106"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-double-feature-product-overview-2021-11-15?utm_campaign=Crimson-Vow&utm_source=TWITTER&utm_medium=social&utm_content=6233933106"
 ---
 
 
@@ -100,7 +102,7 @@ Card Lists for *Innistrad: Double Feature*
 ==========================================
 
 
-Check out the *Innistrad: Double Feature* card image gallery to see all the cards in their beautiful black-and-white artwork. Below you'll find the breakdowns of cards returning from *Innistrad: Midnight Hunt* and *Innistrad: Crimson Vow*.
+Check out the [*Innistrad: Double Feature* card image gallery](https://magic.wizards.com/en/articles/archive/card-image-gallery/innistrad-double-feature) to see all the cards in their beautiful black-and-white artwork. Below you'll find the breakdowns of cards returning from *Innistrad: Midnight Hunt* and *Innistrad: Crimson Vow*.
 
 
 

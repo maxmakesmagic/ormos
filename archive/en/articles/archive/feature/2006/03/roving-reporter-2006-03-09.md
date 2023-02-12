@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "There was so much going on over the week that caught my interest, between the Standard Pro Tour in Hawaii and all the Guildpact release action, that for this week I decided to put on my virtual reporter's hat and see what people have to say about a variety of topics. First, let's check in with rabble-rouser Ken Krouner, who's taken a break from release events to learn a few"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620151"
 [_metadata_:publish_date]:- "2006-03-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Roving Reporter"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 10:08:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 10:08:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124100820id_/https://magic.wizards.com/en/articles/archive/feature/roving-reporter-2006-03-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/roving-reporter-2006-03-09"
 ---

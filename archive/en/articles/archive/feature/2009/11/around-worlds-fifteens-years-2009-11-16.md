@@ -1,14 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170818133946/http://magic.wizards.com/en/articles/archive/feature/around-worlds-fifteens-years-2009-11-16)
+[Link to Wayback Machine](https://web.archive.org/web/20220118073524/https://magic.wizards.com/en/articles/archive/feature/around-worlds-fifteens-years-2009-11-16)
 
 [_metadata_:author]:- "Mark Rosewater"
+[_metadata_:description]:- "Welcome to Worlds Week! That's Worlds as in the Magic: The Gathering World Championships. We are celebrating the World Championships because later this week the sixteenth one will be held in Rome, Italy. This Worlds is a bittersweet one for me as it breaks my streak. Up until this week, I was the only person on Earth to have attended every single Magic: The Gathering World"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657281"
 [_metadata_:publish_date]:- "2009-11-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Around the Worlds in Fifteens Years"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-18 13:39:46+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818133946id_/http://magic.wizards.com/en/articles/archive/feature/around-worlds-fifteens-years-2009-11-16"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/around-worlds-fifteens-years-2009-11-16"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 07:35:24"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118073524id_/https://magic.wizards.com/en/articles/archive/feature/around-worlds-fifteens-years-2009-11-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/around-worlds-fifteens-years-2009-11-16"
 ---
 
 
@@ -91,7 +94,7 @@ This Worlds was a rough one, but it showed the potential of what the event could
 **Continents to Have a World Champion:** 3 (Australia, Europe, North America)
 
 
-This Worlds is most famous for being held at Wizards Corporate Headquarters (our last building, across the street from where we are now) in Renton. The Finals are famous for Mark Justice making a crazy double [Demonic Consultation](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonic+Consultation) play that blew up in his face and, many commentators believe, put him enough on tilt that he lost the match. Also at this event, the American team (including current R&D developer Matt Place) won the team event for the second year in a row but almost lost to an impressive Czech Republic team lead by a player named Jakub Slemr that would go on to win Worlds a years later.
+This Worlds is most famous for being held at Wizards Corporate Headquarters (our last building, across the street from where we are now) in Renton. The Finals are famous for Mark Justice making a crazy double [Demonic Consultation](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonic+Consultation) play that blew up in his face and, many commentators believe, put him enough on tilt that he lost the match. Also at this event, the American team (including current R&D developer Matt Place) won the team event for the second year in a row but almost lost to an impressive Czech Republic team lead by a player named Jakub Slemr that would go on to win Worlds a years later.
 
 
 
@@ -309,7 +312,7 @@ Trivia question: What **Magic** title has been held by more members of R&D than 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/mm/mm65_pic5.jpg) *Tom Van de Logt, Alex Borteh, Antoine Ruel, and Andrea Santin.*
-Worlds returns to North America, but this time to the country of Canada. I'll be honest, I don't have any great memories from this Worlds. I do remember watching Jon Finkel miss making Top 8 because he lost on his 50/50 [Cursed Scroll](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cursed+Scroll) pull three times in a row. I remember the Americans pulling out their sixth team win, this time against the Norway team led by future Hall of Famer Nicolai Herzog. Dutch player Tom Van de Logt pulled off a win in a very impressive Top 8 including three (well, three that we know of) future Hall of Famers (Antoine Ruel, Tommi Hovi, and future R&D membe, Mike Turian; somehow Mike didn't manage to be on the winning U.S. team).
+Worlds returns to North America, but this time to the country of Canada. I'll be honest, I don't have any great memories from this Worlds. I do remember watching Jon Finkel miss making Top 8 because he lost on his 50/50 [Cursed Scroll](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cursed+Scroll) pull three times in a row. I remember the Americans pulling out their sixth team win, this time against the Norway team led by future Hall of Famer Nicolai Herzog. Dutch player Tom Van de Logt pulled off a win in a very impressive Top 8 including three (well, three that we know of) future Hall of Famers (Antoine Ruel, Tommi Hovi, and future R&D membe, Mike Turian; somehow Mike didn't manage to be on the winning U.S. team).
 
 
 [**2002 World Championships**](http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/worlds02)  
@@ -381,7 +384,7 @@ But the Japanese didn't win everything. Yes, there was one event there that day 
 Aaron quickly won his match while Richard quickly lost his. I was still in Game 1 when I was informed that it was all "up to me." I lost the first game. I had a great draw the second game and won it, although I dragged the game ten or more turns than necessary playing not to lose rather than playing to win. It all came down to the final game. I took a mulligan, trading in a slow seven-card hand for a much faster six-card hand. Aaron told me later that it was an important but subtle mulligan to take.
 
 
-The third game came down to a single play by my opponent. He was able to go get a creature card out of his deck and chose to get a [Maro](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Maro) even though he didn't yet have the second [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) to play it. My best guess was that he was going for style points trying to beat me with my namesake. I was able to take advantage of this hiccup to take control of the game and win. As I explained later, I believe that it was a game that literally only I could have won, because if my opponent had simply gotten a creature he could have played right away, my deck would have lost. It was his desire to beat me with [Maro](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Maro) that gave me the opening I needed to win. I don't play competitively much so it was nice to for once to "win one for the team." (For more on this match-up including Aaron's take on it and our deck lists, click [here](/en/articles/archive/latest-developments/beating-japan-and-pointing-results-2005-12-16-0).)
+The third game came down to a single play by my opponent. He was able to go get a creature card out of his deck and chose to get a [Maro](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Maro) even though he didn't yet have the second [Forest](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) to play it. My best guess was that he was going for style points trying to beat me with my namesake. I was able to take advantage of this hiccup to take control of the game and win. As I explained later, I believe that it was a game that literally only I could have won, because if my opponent had simply gotten a creature he could have played right away, my deck would have lost. It was his desire to beat me with [Maro](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Maro) that gave me the opening I needed to win. I don't play competitively much so it was nice to for once to "win one for the team." (For more on this match-up including Aaron's take on it and our deck lists, click [here](/en/articles/archive/latest-developments/beating-japan-and-pointing-results-2005-12-16-0).)
 
 
 [**2006 World Championships**](/en/events/coverage/mihara-dutch-crowned-world-champions)  
@@ -411,28 +414,28 @@ Budde had his Worlds, Finkel has his Worlds. The Worlds in Paris seemed destined
 
  
 
-Sometimes the big story is the Finals, and sometimes it's another match that walks away as the "it" match of the tournament. Uri Peleg from Israel walked way the champion but it was the Semifinal match between Gabriel Nassif and Patrick Chapin that was the match of the event. The key moment was an [Ignite Memories](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ignite+Memories) with four copies aimed at Nassif, who was at 9 life. That meant that five times, Nassif would reveal a random card from his hand and take damage equal to that card's converted mana cost. Thanks to storm, Chapin would get five chances to do a combined 9 damage.
+Sometimes the big story is the Finals, and sometimes it's another match that walks away as the "it" match of the tournament. Uri Peleg from Israel walked way the champion but it was the Semifinal match between Gabriel Nassif and Patrick Chapin that was the match of the event. The key moment was an [Ignite Memories](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ignite+Memories) with four copies aimed at Nassif, who was at 9 life. That meant that five times, Nassif would reveal a random card from his hand and take damage equal to that card's converted mana cost. Thanks to storm, Chapin would get five chances to do a combined 9 damage.
 
 
-First card: [Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grapeshot). Drop to 7  
+First card: [Grapeshot](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grapeshot). Drop to 7  
 
-Second Card: [Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grapeshot). Drop to 5.  
+Second Card: [Grapeshot](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grapeshot). Drop to 5.  
 
-Third card: [Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grapeshot). Drop to 3.
+Third card: [Grapeshot](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grapeshot). Drop to 3.
 
 
 Nassif now has only 3 life left and Chapin gets to pick two more times.
 
 
-Fourth card: [Rite of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rite+of+Flame). Drop to 2.  
+Fourth card: [Rite of Flame](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rite+of+Flame). Drop to 2.  
 
-Fifth card: [Rite of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rite+of+Flame). Drop to 1! Nassif survives!
+Fifth card: [Rite of Flame](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rite+of+Flame). Drop to 1! Nassif survives!
 
 
 Nassif went on to win the game, but Chapin took the match.
 
 
-I didn't get to witness this match, though, because I was busy having my personal favorite memory of the event. I don't want to take the space here to spell it all out as I did so very elegantly in a previous column ([Seeing the](/en/articles/archive/making-magic/seeing-forest-treefolk-2007-12-17-0) [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) for the Treefolk). The story involves attacking with a 27,648/27,642 creature and gaining 55,296 life.
+I didn't get to witness this match, though, because I was busy having my personal favorite memory of the event. I don't want to take the space here to spell it all out as I did so very elegantly in a previous column ([Seeing the](/en/articles/archive/making-magic/seeing-forest-treefolk-2007-12-17-0) [Forest](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) for the Treefolk). The story involves attacking with a 27,648/27,642 creature and gaining 55,296 life.
 
 
 [**2008 World Championships**](/en/articles/archive/event-coverage/japanese-coverage-2008-magic-world-championships-2008-12-11)  

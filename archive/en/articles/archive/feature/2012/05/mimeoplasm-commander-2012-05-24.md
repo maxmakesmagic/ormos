@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Commander progenitor and Judge Emeritus Sheldon Menery writes a column on StarCityGames.com where he details his Commander decks. One of the most popular commanders out there is The Mimeoplasm, and Sheldon recently took the opportunity to share his build and how an average game might play out. This take on the green-blue-black commander isn't as focused on quickly killing the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672456"
 [_metadata_:publish_date]:- "2012-05-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mimeoplasm Commander"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-30 04:00:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-30 04:00:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210430040031id_/https://magic.wizards.com/en/articles/archive/feature/mimeoplasm-commander-2012-05-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mimeoplasm-commander-2012-05-24"
 ---

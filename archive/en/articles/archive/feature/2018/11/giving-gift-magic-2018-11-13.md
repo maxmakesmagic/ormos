@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Styborski"
 [_metadata_:description]:- "Finding the right Magic gift for all of your friends and family is easy with this helpful guide."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1358816"
 [_metadata_:publish_date]:- "2018-11-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Giving the Gift of Magic in 2018"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-08 12:18:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-08 12:18:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201108121828id_/https://magic.wizards.com/en/articles/archive/feature/giving-gift-magic-2018-11-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/giving-gift-magic-2018-11-13"
 ---

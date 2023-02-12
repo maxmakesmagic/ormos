@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Sarkhan Vol is a planeswalker who can wield both red and green magic. His specialty is draconic shamanism: spells that summon dragons and evoke the rage and passion of dragonkind. Sarkhan Vol comes from a plane where territorial warlords vie against each other in unending, brutal war. On this plane, dragons have long since been hunted to extinction for sport and glory. Sarkhan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "637596"
 [_metadata_:publish_date]:- "2008-09-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sarkhan Vol"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 06:09:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 06:09:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022060932id_/https://magic.wizards.com/en/articles/archive/feature/sarkhan-vol-2008-09-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sarkhan-vol-2008-09-23"
 ---

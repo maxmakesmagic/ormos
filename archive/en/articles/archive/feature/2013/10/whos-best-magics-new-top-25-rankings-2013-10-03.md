@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Greg Collins"
 [_metadata_:description]:- "In Magic, calling something `the best` is a statement loaded with challenges. What's the best card? Every argument is situational when talking about cards and a given metagame. Who's the best player? A player coming off a Platinum season might miss the cut at the next Pro Tour. How does that rate against a mid-tier pro who keeps earning a handful of Pro Points at every event?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353316"
 [_metadata_:publish_date]:- "2013-10-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Who's the Best? Magic's New Top 25 Rankings"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 00:40:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 00:40:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204004049id_/https://magic.wizards.com/en/articles/archive/feature/whos-best-magics-new-top-25-rankings-2013-10-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whos-best-magics-new-top-25-rankings-2013-10-03"
 ---

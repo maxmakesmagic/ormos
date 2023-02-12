@@ -5,9 +5,11 @@
 [_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "It's time to start brewing new decks in the post-rotation Standard!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1016856"
 [_metadata_:publish_date]:- "2016-04-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Friday Nights: Nonstandard Rotation"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-18 03:35:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-18 03:35:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160418033521id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-nonstandard-rotation-2016-04-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-nonstandard-rotation-2016-04-15"
 ---

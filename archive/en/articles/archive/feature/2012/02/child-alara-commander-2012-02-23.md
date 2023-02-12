@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Sometimes a Commander deck serves as an extension of its creator's creativity, a way to show off the intricacies of one particular legendary creature or an expression of a theme. Other times, it can simply be a collection of awesome cards designed to smash face! In this case, it's the latter."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672101"
 [_metadata_:publish_date]:- "2012-02-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Child of Alara Commander"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-06 22:55:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-06 22:55:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161206225521id_/http://magic.wizards.com/en/articles/archive/feature/child-alara-commander-2012-02-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/child-alara-commander-2012-02-23"
 ---

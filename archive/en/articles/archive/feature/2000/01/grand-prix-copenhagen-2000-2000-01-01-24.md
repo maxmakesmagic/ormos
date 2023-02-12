@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 4 Feature match Alex Shvartsman vs. Brian Hacker This match-up pits two of the travelling Americans against each other, Hacker is 3-0 with two byes and a match win and Shvartsman is playing his first duel after three rounds of byes. Alex is not very confident in his deck and will rely on winning early as he does not have many bombs. Both players are playing three colour"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951801"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 18:19:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 18:19:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520181932id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-24"
 ---

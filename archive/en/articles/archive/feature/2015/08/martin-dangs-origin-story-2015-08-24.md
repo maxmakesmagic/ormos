@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Martin Dang's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "524131"
 [_metadata_:publish_date]:- "2015-08-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Martin Dang's Origin Story"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-28 03:45:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-28 03:45:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150828034531id_/http://magic.wizards.com/en/articles/archive/feature/martin-dangs-origin-story-2015-08-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/martin-dangs-origin-story-2015-08-24"
 ---

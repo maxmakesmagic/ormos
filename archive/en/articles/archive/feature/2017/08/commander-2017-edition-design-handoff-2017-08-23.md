@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112000309/https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23)
+[Link to Wayback Machine](https://web.archive.org/web/20170823162740/http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "If you've ever wanted to see what a set looks like when a design team hands it over to development, here's your chance!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1197931"
 [_metadata_:publish_date]:- "2017-08-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander (2017 Edition) Design Handoff"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:03:09+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112000309id_/https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-23 16:27:40"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170823162740id_/http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23"
 ---
 
 

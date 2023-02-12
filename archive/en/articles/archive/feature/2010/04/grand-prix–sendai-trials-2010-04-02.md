@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with the local organizer for specific information.Format The format for all Grand Prix–Sendai 2010 Trial tournaments is Standard Constructed. Deck lists are required. Tournament Length Each round in the Swiss portion of the tournament will be 50 minutes. The number of Swiss rounds will be determined based on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729581"
 [_metadata_:publish_date]:- "2010-04-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Sendai Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 16:32:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 16:32:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520163241id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sendai-trials-2010-04-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93sendai-trials-2010-04-02"
 ---

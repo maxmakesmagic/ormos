@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220808144430/https://magic.wizards.com/en/articles/archive/feature/block-control-2009-02-05)
+[Link to Wayback Machine](https://web.archive.org/web/20211023061547/https://magic.wizards.com/en/articles/archive/feature/block-control-2009-02-05)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: TuSaisPas's Block Control Format: Magic Online 4 Arcane Sanctum 4 Crumbling Necropolis 1 Forest 1 Island 3 Jungle Shrine 2 Mountain 1 Plains 4 Savage Lands 4 Seaside Citadel 1 Swamp 3 Broodmate Dragon 2 Caldera Hellion 4 Druid of the Anima 3 Ajani Vengeant 2 Bant Charm 1 Cancel 3 Cruel Ultimatum 3 Elspeth, Knight-Errant 2 Esper Charm 2 Jund Charm 1 Kiss of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666251"
 [_metadata_:publish_date]:- "2009-02-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Block Control"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 14:44:30+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808144430id_/https://magic.wizards.com/en/articles/archive/feature/block-control-2009-02-05"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 06:15:47"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023061547id_/https://magic.wizards.com/en/articles/archive/feature/block-control-2009-02-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/block-control-2009-02-05"
 ---
 
@@ -494,7 +496,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (19)
+##### Common (16)
 
 
 
@@ -530,12 +532,8 @@ OverviewColorCostRarity
 [Magma Spray](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
 
 
-3
-[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
-
-
-##### Uncommon (39)
+##### Uncommon (42)
 
 
 
@@ -585,6 +583,10 @@ OverviewColorCostRarity
 
 3
 [Blightning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlightning%5D)
+
+
+3
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
 
 

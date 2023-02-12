@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 713,141596 * 6 49.3333% 10Absolute Samuels 18 65.5093% 20Accellerated Vares8 Volante 12 70.0000% 66Agifalw 6 54.1667% 3AlphaBetaUnlimited.com 21 64.8148% 73Altrove * 6 48.1481% 21Amsterdam 12 67.3958% 1Angstschreeuw 24 63.2937% 56Asani * 9 42.7778% 23Babar Team 12 55.5556% 36Birds of paradise 10 56.4815% 5Black-Ops 19 68.2870% 11Bologna Demolition Team 18"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806256"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 8 Standings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-28 08:30:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-28 08:30:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628083024id_/https://magic.wizards.com/en/articles/archive/feature/round-8-standings-team-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-standings-team-2000-01-01-0"
 ---

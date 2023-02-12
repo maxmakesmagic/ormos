@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Andrew Hanson Format: 1st Place - New Mexico - Albuquerque - 11/29 2 Swamp 6 Forest 5 Mountain 1 Plains 2 Jund Panorama 1 Naya Panorama 1 Savage Lands 1 Welkin Guide 1 Hissing Iguanar 1 Incurable Ogre 1 Jund Battlemage 1 Thunder-Thrash Elder 1 Cavern Thoctar 2 Druid of the Anima 2 Elvish Visionary 1 Jungle Weaver 1 Mosstodon 1 Topan Ascetic 1 Blood Cultist 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "726761"
 [_metadata_:publish_date]:- "2008-12-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Kyoto Qualifying Season: Top 8 Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 10:21:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 10:21:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523102153id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-5"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-5"
 ---

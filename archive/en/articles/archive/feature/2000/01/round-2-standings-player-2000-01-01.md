@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win%260A.S.K."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "807011"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 2 Standings (by Player)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:20:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:20:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702092054id_/https://magic.wizards.com/en/articles/archive/feature/round-2-standings-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-standings-player-2000-01-01"
 ---

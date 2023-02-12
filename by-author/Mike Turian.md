@@ -21,7 +21,7 @@
 * [Introducing Double Masters VIP Edition](/archive/en/articles/archive/feature/2020/07/introducing-double-masters-vip-edition-2020-07-17.md) - 2020-07-17
 * [Collecting Zendikar Rising](/archive/en/articles/archive/feature/2020/09/collecting-zendikar-rising-2020-09-01.md) - 2020-09-01
 * [Collecting Kaldheim](/archive/en/articles/archive/feature/2020/12/collecting-kaldheim-2020-12-17.md) - 2020-12-17
-* [Collecting Kaldheim](/archive/en/articles/archive/feature/2021/01/collecting-kaldheim-2021-01-07.md) - 2020-12-17
+* [Collecting Kaldheim](/archive/en/articles/archive/feature/2021/01/collecting-kaldheim-2021-01-07.md) - 2021-01-07
 * [Collecting Strixhaven: School of Mages](/archive/en/articles/archive/feature/2021/03/collecting-strixhaven-school-mages-2021-03-25.md) - 2021-03-25
 * [Collecting Modern Horizons 2](/archive/en/articles/archive/feature/2021/05/collecting-modern-horizons-2-2021-05-21.md) - 2021-05-21
 * [Modern Horizons 2 Product Overview](/archive/en/articles/archive/feature/2021/05/modern-horizons-2-product-overview-2021-05-21.md) - 2021-05-21

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Hisaya Tanaka's Stretcherator Format: Extended 1 Academy Ruins 1 Ancient Den 1 Breeding Pool 4 Cloudpost 2 Flooded Strand 4 Hallowed Fountain 4 Island 1 Plains 2 Seat of the Synod 2 Vesuva 2 Solemn Simulacrum 1 Triskelion 1 Chalice of the Void 3 Chrome Mox 3 Cryptic Command 1 Engineered Explosives 1 Ensnaring Bridge 1 Future Sight 3 Mind Stone 1 Mindslaver 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668221"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Stretcherator"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 19:29:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 19:29:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026192939id_/https://magic.wizards.com/en/articles/archive/feature/stretcherator-2009-04-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/stretcherator-2009-04-27"
 ---

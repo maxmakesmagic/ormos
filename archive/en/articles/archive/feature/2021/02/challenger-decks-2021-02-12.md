@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210225150726/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2021-02-12?src=q05_cig)
+[Link to Wayback Machine](https://web.archive.org/web/20210310165844/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2021-02-12?src=q05_cig&fbclid=IwAR18a0UOcfCHQnBcIP33kosiEllOHm1Ifybi4C7lggolkCWdXF_yccYIZ4g)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Take a look at the decklists and strategies in the latest Challenger Deck release!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1528159"
 [_metadata_:publish_date]:- "2021-02-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Challenger Decks 2021"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-25 15:07:26+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210225150726id_/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2021-02-12?src=q05_cig"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2021-02-12?src=q05_cig"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-10 16:58:44"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210310165844id_/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2021-02-12?src=q05_cig&fbclid=IwAR18a0UOcfCHQnBcIP33kosiEllOHm1Ifybi4C7lggolkCWdXF_yccYIZ4g"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2021-02-12?src=q05_cig&fbclid=IwAR18a0UOcfCHQnBcIP33kosiEllOHm1Ifybi4C7lggolkCWdXF_yccYIZ4g"
 ---
 
 
@@ -26,7 +28,7 @@ Challenger Decks 2021
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 
@@ -39,7 +41,10 @@ By Wizards of the Coast
 
 
 
-Arriving March 26, the latest Challenger Decks release brings updated approaches to start playing Standard with strategies ready to succeed.
+***Note: Due to production issues, Challenger Decks 2021 release date has been moved to April 2.***
+
+
+Arriving April 2, the latest Challenger Decks release brings updated approaches to start playing Standard with strategies ready to succeed.
 
 
 Four different 75-card decks—each featuring a different strategy—are ready to play out of the box wherever the Standard challenge awaits. Each Challenger Deck comes with a complete 60-card main deck and a 15-card sideboard, plus five double-sided tokens that you'll want to have on hand when you head into battle.
@@ -491,7 +496,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (32)
+##### Common (36)
 
 
 
@@ -523,12 +528,16 @@ OverviewColorCostRarity
 [Omen of the Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOmen%5D+%5Bof%5D+%5Bthe%5D+%5BSea%5D)
 
 
+4
+[Banishing Light](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanishing%5D+%5BLight%5D)
+
+
 2
 [Essence Scatter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D)
 
 
 
-##### Uncommon (21)
+##### Uncommon (17)
 
 
 
@@ -546,10 +555,6 @@ OverviewColorCostRarity
 
 4
 [The Birth of Meletis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThe%5D+%5BBirth%5D+%5Bof%5D+%5BMeletis%5D)
-
-
-4
-[Banishing Light](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanishing%5D+%5BLight%5D)
 
 
 4
@@ -2289,7 +2294,7 @@ Turn Over
 Turn Over
 
 
-2021's Challenger Decks release on March 26, 2021. The Standard showdowns await!
+2021's Challenger Decks release on April 2, 2021. The Standard showdowns await!
 
 
 

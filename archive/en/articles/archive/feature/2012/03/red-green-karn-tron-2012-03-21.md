@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Pro Tour Hollywood winner and 2009 US National champion Charles Gindy has played quite a few format-changing decks in his time, and his latest foray into Modern is already beginning to revolutionize the metagame! Looking to make a return to the Pro Tour stage, the Florida native won a PTQ last weekend using an innovative Red-Green Urzatron deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672206"
 [_metadata_:publish_date]:- "2012-03-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Red-Green Karn Tron"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-06 18:54:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-06 18:54:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210506185424id_/https://magic.wizards.com/en/articles/archive/feature/red-green-karn-tron-2012-03-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-green-karn-tron-2012-03-21"
 ---

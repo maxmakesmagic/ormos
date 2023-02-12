@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "It is time! Time, specifically, to get in the mood for the Magic 2012 Core Set preview season! It officially starts on Monday, which means today is when we post the Magic 2012 Minisite. Hooray! It's got the Mechanics article (which you may have read already, but some people probably haven't), a new wallpaper every week, complete product information, and, of course, the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680726"
 [_metadata_:publish_date]:- "2011-06-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic 2012 Core Set Minisite"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:58:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:58:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429035812id_/https://magic.wizards.com/en/articles/archive/feature/magic-2012-core-set-minisite-2011-06-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2012-core-set-minisite-2011-06-22"
 ---

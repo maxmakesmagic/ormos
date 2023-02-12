@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Dave Williams and Stephan Valkyser both apologized to each other before their match about the terrible cards they were about to play! Neither player seemed happy about the way the draft went this morning and both lost last round. Williams was particularly depressed about his chances after passing Cho-Arrim Bruiser to Valkyser (who sat on his right during the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950661"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 9 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:51:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:51:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126185114id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-9-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-9-feature-match-2000-01-01"
 ---

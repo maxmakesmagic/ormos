@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Opponent Points Adkins, Johnny (1) 6 Rose, Timothy (263) 6 Anderson, Rhonda (5) 6 Crenshaw, Bedford (50) 6 Armstrong, Herman (8) 9 Karthauser, Zach (140) 9 Armstrong, Michael (9) 6 Thomas, Jon (313) 6"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953076"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Memphis 1999Day 1 Round 6 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 12:08:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 12:08:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123120853id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-6-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-6-pairings-2000-01-01"
 ---

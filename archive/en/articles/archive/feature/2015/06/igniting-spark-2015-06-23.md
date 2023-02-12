@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Shawn Main"
 [_metadata_:description]:- "Shawn reflects on the creative processes and mechanics used to reinvigorate storytelling in Magic Origins."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "406141"
 [_metadata_:publish_date]:- "2015-06-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Igniting the Spark"
-[_metadata_:wayback_capture_timestamp]:- "2015-06-25 20:21:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-06-25 20:21:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150625202150id_/http://magic.wizards.com/en/articles/archive/feature/igniting-spark-2015-06-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/igniting-spark-2015-06-23"
 ---

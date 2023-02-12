@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Chad Meyer's Skred Red Format: 2007 State Championships 1st Place - Nebraska 14 Snow-Covered Mountain 4 Mouth of Ronom 4 Scrying Sheets 4 Phyrexian Ironfoot 4 Martyr of Ashes 4 Stuffy Doll 2 Disintegrate 4 Chandra Nalaar 4 Molten Disaster 4 Dead // Gone 4 Skred 4 Coldsteel Heart 4 Incinerate *4 Blood Knight *4 Dodecapod *3 Pithing Needle *3 Detritivore *1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669346"
 [_metadata_:publish_date]:- "2008-10-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Chad Meyer, State Champ"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 17:26:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 17:26:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025172600id_/https://magic.wizards.com/en/articles/archive/feature/chad-meyer-state-champ-2008-10-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/chad-meyer-state-champ-2008-10-16"
 ---

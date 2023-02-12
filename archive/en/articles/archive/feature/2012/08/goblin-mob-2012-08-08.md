@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "When I began playing Magic, Eighth Edition had just hit shelves and Onslaught block was dominating Constructed. As a new player, this was a pretty exciting time, as the tribal mechanic was an easy one to both understand and connect with. With my new-found love for the game, I quickly adopted a group of Goblins to steer me to victory. The deck was both fun and fast and helped cement my self-image as a Magic player."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665386"
 [_metadata_:publish_date]:- "2012-08-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Goblin Mob"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-03 03:59:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-03 03:59:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170803035925id_/http://magic.wizards.com/en/articles/archive/feature/goblin-mob-2012-08-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/goblin-mob-2012-08-08"
 ---

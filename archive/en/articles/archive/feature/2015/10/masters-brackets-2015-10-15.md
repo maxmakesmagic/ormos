@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; by Sideboard Staff&#13; &#13; Finals brackets&#13; &#13; Semi-finals  Jason Zila  Sigurd Eskeland  Trey Van Cleave  William Jensen"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805596"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Masters Brackets"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:57:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:57:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707135743id_/http://magic.wizards.com/en/articles/archive/feature/masters-brackets-2015-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-brackets-2015-10-15"
 ---

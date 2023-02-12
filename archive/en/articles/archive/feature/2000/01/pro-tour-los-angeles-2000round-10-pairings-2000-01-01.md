@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Bachmann, David (229) 19 48 Fujita, Tsuyoshi (204) 19 Benefel, Chris (163) 20 31 Shinkins, Stewart (70) 20 Benefield, Kevin (234) 13 3 Bernabeu, Jesus (143) 13 Bernabeu, Jesus (143) 13 3 Benefield, Kevin (234) 13 Blackwell, Trevor (298) 24 8 Burgner, Kurt (173) 27 Boeken, Noah (129) 18 43 Kastle, Darwin (260) 19 Bulthaud, Sean (314) 18 41"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950541"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 10 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:08:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:08:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126170835id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-10-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-10-pairings-2000-01-01"
 ---

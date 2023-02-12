@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "USA vs. Canada   Jon Finkel (USA) def. Ryan Fuller (Canada) 2-0 Murray Evans (Canada) def. Chris Benafel (UAS) 2-1 Gab Tsang (Canada) def. Frank Hernandez (USA) 2-1 Aaron Forsythe (USA) def. Sam Lau (Canada) 2-0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "960896"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Team Finals Results"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-24 16:13:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-24 16:13:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160524161307id_/http://magic.wizards.com/en/articles/archive/feature/team-finals-results-2000-01-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/team-finals-results-2000-01-01"
 ---

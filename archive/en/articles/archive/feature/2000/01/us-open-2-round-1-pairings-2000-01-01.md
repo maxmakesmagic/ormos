@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Table Opponent Aden, Eli ( 66) *** BYE *** Aldrich, Steven ( 95) *** BYE *** Allen, Ross ( 31) *** BYE *** Anderson, Brett (122) *** BYE *** Antene, J."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949651"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Open 2 Round 1 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 19:26:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 19:26:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525192608id_/https://magic.wizards.com/en/articles/archive/feature/us-open-2-round-1-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-2-round-1-pairings-2000-01-01"
 ---

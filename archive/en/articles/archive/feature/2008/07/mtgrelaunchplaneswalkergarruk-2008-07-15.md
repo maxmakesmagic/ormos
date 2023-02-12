@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Garruk Wildspeaker is a planeswalker who wields green magic. His specialty is creature magic: spells that coax abundant mana from the land, summon wild beasts, and unleash the ferocity and power of his summoned creatures. Garruk is a hunter to the core, a planeswalking predator whose hunting ground is the entire Multiverse. Gripped with a need to test his might and resolve"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "935826"
 [_metadata_:publish_date]:- "2008-07-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "mtgrelaunch_planeswalker_garruk"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 09:05:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 09:05:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129090556id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkergarruk-2008-07-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkergarruk-2008-07-15"
 ---

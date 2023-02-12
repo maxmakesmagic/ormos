@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210609030632/https://magic.wizards.com/en/articles/archive/feature/announcing-mtgo-buddy-2013-04-01)
+[Link to Wayback Machine](https://web.archive.org/web/20210622104640/https://magic.wizards.com/en/articles/archive/feature/announcing-mtgo-buddy-2013-04-01)
 
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Today, I’m super excited to announce a new project from Wizards of the Coast’s digital studio: Magic Online Buddy featuring everybody's new Magic friend: Planey! With the work being done on the Magic Online Wide Beta, it was suggested that as a way to help players get better at Magic we could utilize groundbreaking technology creating a helpful avatar. Let’s say you’re"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648651"
 [_metadata_:publish_date]:- "2013-04-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing MTGO Buddy!"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-09 03:06:32+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210609030632id_/https://magic.wizards.com/en/articles/archive/feature/announcing-mtgo-buddy-2013-04-01"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-22 10:46:40"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210622104640id_/https://magic.wizards.com/en/articles/archive/feature/announcing-mtgo-buddy-2013-04-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-mtgo-buddy-2013-04-01"
 ---
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ari Zirulnik"
 [_metadata_:description]:- "Ari walks us through the legendary creatures of Zendikar Rising and includes accompanying backstory for each."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1509153"
 [_metadata_:publish_date]:- "2020-09-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Legends of Zendikar Rising"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-21 09:27:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-21 09:27:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921092711id_/https://magic.wizards.com/en/articles/archive/feature/legends-zendikar-rising-2020-09-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legends-zendikar-rising-2020-09-15"
 ---

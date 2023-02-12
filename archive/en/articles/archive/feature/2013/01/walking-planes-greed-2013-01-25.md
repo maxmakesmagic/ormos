@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Nathan Holt and Shawn Kornhauser"
 [_metadata_:description]:- "What does it mean to be a `greedy` Magic player? Walking the Planes finds out at Grand Prix Atlantic City. We also meet Josh (a real card shark), catch up with retired Wizards R&D member Zac Hill, and talk to the one and only Reid Duke about his illustrious career in competitive Magic. Plus, there's a scene that our producer describes as `Terrence Malick meets Jersey Shore!`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682186"
 [_metadata_:publish_date]:- "2013-01-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Walking the Planes: Greed"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 14:00:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 14:00:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502140000id_/https://magic.wizards.com/en/articles/archive/feature/walking-planes-greed-2013-01-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/walking-planes-greed-2013-01-25"
 ---

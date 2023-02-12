@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "TCGPlayer.com Commander columnist Cassidy Silver has been looking for an opportunity to break out a deck full of fat creatures. The perfect commander for the job? Mayael the Anima! Set with a list of some of the largest creatures in the game, Cassidy pared that down to end up with his top choices."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672346"
 [_metadata_:publish_date]:- "2012-04-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mayael Commander"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-06 15:36:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-06 15:36:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170906153621id_/http://magic.wizards.com/en/articles/archive/feature/mayael-commander-2012-04-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mayael-commander-2012-04-26"
 ---

@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170703104900/http://magic.wizards.com/en/articles/archive/feature/2011-russian-federation-national-championship-2009-04-27)
+[Link to Wayback Machine](https://web.archive.org/web/20211024175100/https://magic.wizards.com/en/articles/archive/feature/2011-russian-federation-national-championship-2009-04-27)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Date: 24-26 June 2011Event Location: CDK MAIAddress: Dubosekovskaya Street, 4, Moscow, Russian Federation  Eligibility The Magic: the Gathering Russian Federation National Championship is an invitation-only event, open to citizens or permanent residents of Russian Federation who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers."
+[_metadata_:description]:- "Date: 24-26 June 2011Event Location: CDK MAIAddress: Dubosekovskaya Street, 4, Moscow, Russian Federation Eligibility The Magic: the Gathering Russian Federation National Championship is an invitation-only event, open to citizens or permanent residents of Russian Federation who have won an invitation to Nationals through DCI ratings or from qualifying events such as National"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730351"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Russian Federation National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-03 10:49:00+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170703104900id_/http://magic.wizards.com/en/articles/archive/feature/2011-russian-federation-national-championship-2009-04-27"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2011-russian-federation-national-championship-2009-04-27"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 17:51:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024175100id_/https://magic.wizards.com/en/articles/archive/feature/2011-russian-federation-national-championship-2009-04-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-russian-federation-national-championship-2009-04-27"
 ---
 
 
@@ -26,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Death's Shadow decks keeping grabbing my attention, mainly because of how cool the namesake card is. Earlier, I took a look at a Modern Death's Shadow list, but today we've graduated to using the full twenty years of Magic cards, instead of the decade Modern spans. The main engine that drives the Death's Shadow train is still Phyrexian mana, with Gitaxian Probe and Dismember"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667286"
 [_metadata_:publish_date]:- "2013-11-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shadowing Legacy"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 15:20:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 15:20:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117152047id_/https://magic.wizards.com/en/articles/archive/feature/shadowing-legacy-2013-11-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shadowing-legacy-2013-11-28"
 ---

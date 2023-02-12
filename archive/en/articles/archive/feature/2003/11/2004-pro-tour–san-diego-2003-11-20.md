@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Come join Wizards of the Coast for our next Pro Tour stop in San Diego. This information will help you to prepare now to attend in May. Pro Tour-San Diego will be held May 14-May 16, 2004 at the San Diego Convention Center."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733731"
 [_metadata_:publish_date]:- "2003-11-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2004 Pro Tour–San Diego"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 09:46:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 09:46:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018094652id_/https://magic.wizards.com/en/articles/archive/feature/2004-pro-tour%E2%80%93san-diego-2003-11-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2004-pro-tour%E2%80%93san-diego-2003-11-20"
 ---

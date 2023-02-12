@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "At the Starcitygames.com Open Series in Atlanta this past weekend, Manny Orellana brought an update on an old classic to the table: Mono Black Control. The fan favorite archetype has been trying to make a resurgence for years , and it looks like now might be the time!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671921"
 [_metadata_:publish_date]:- "2012-01-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mono Black Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 22:02:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 22:02:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016220202id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-control-2012-01-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-control-2012-01-10"
 ---

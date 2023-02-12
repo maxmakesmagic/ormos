@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Larkin John 15 66.6667 2 Gordon Mark 15 64 3 Cornelissen Kamiel 15 62.6667 4 Davis Kevin 15 60 5 Ziegler Eric 15 58.6667 6 Walker Stewart 15 58.6667 7 Budde Kai 15 52 8 Hager Jason 13 65.3333 9 Hirabayashi Kazuya 13 58.6667 10 Hovi Tommi 13 57.3333 11 Ruel Olivier 13 56 12 Levy Raphael 13 45.3333 13 Edbury Richard 12 72 14 Thompson Mike 12"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950221"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 5 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:08:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:08:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124020803id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-5-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-5-standings-2000-01-01"
 ---

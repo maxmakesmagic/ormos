@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Australian National Championship is an invitation-only event, open to citizens or foreign players resident in Australia from Jan 1st 2011. Invitations are awarded based on the following criteria:2010 Australian Worlds TeamAdam Witton (Australian Champion) Jeremy Neeman Ian Wood The Alternate member of the 2010 Australian National Team Edwin Jones Top"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729961"
 [_metadata_:publish_date]:- "2009-04-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 National Championship Invitations"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:05:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:05:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120000530id_/https://magic.wizards.com/en/articles/archive/feature/2011-national-championship-invitations-2009-04-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-national-championship-invitations-2009-04-06"
 ---

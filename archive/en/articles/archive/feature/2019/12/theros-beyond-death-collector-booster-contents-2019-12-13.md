@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Collector Boosters return with Theros Beyond Death (with a slightly tweaked formula). Blake has all the details you need to know here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1492552"
 [_metadata_:publish_date]:- "2019-12-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Theros Beyond Death Collector Booster Contents"
-[_metadata_:wayback_capture_timestamp]:- "2019-12-17 19:46:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-12-17 19:46:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191217194642id_/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-collector-booster-contents-2019-12-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-collector-booster-contents-2019-12-13"
 ---

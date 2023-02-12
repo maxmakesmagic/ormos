@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201128115659/https://magic.wizards.com/en/articles/archive/feature/2011-canada-national-championship-2009-05-06)
+[Link to Wayback Machine](https://web.archive.org/web/20160912221708/http://magic.wizards.com/en/articles/archive/feature/2011-canada-national-championship-2009-05-06)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Date: August 20-21, 2011Event Location: Hilton Toronto Hotel & Suites – Mississauga BallroomAddress: 5875 Airport Rd., Mississauga ON, Canada Eligibility The Magic: the Gathering Canada National Championship is an invitation-only event, open to citizens or permanent residents of Canada who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers."
+[_metadata_:description]:- "&#13; Date: August 20-21, 2011Event Location: Hilton Toronto Hotel &amp; Suites – Mississauga BallroomAddress: 5875 Airport Rd., Mississauga ON, Canada&#13; &#13; Eligibility&#13; &#13; The Magic: the Gathering Canada National Championship is an invitation-only event, open to citizens or permanent residents of Canada who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727436"
 [_metadata_:publish_date]:- "2009-05-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Canada National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-28 11:56:59+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201128115659id_/https://magic.wizards.com/en/articles/archive/feature/2011-canada-national-championship-2009-05-06"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-canada-national-championship-2009-05-06"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-12 22:17:08"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160912221708id_/http://magic.wizards.com/en/articles/archive/feature/2011-canada-national-championship-2009-05-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2011-canada-national-championship-2009-05-06"
 ---
 
 

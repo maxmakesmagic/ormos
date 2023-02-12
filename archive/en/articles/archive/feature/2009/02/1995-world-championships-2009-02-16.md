@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "As you may know, the Pro Tour began in 1996. But before the Pro Tour, there were World Championships, starting in 1994. The first one was one by Zak Dolan, and we've covered it extensively, reprinting Duelist articles and showing never-before-seen pictures. But for some reason, the second World Championship always gets forgotten. Until now! It took place in August 1995 at the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "292576"
 [_metadata_:publish_date]:- "2009-02-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "1995 World Championships"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 12:45:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 12:45:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813124558id_/https://magic.wizards.com/en/articles/archive/feature/1995-world-championships-2009-02-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/1995-world-championships-2009-02-16"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "You know when you have the beginnings of an idea but it isn't quite finished? You just sort of sit and chew on it for a while, looking for the missing pieces to finish it out. That's what today's Arcana was for a few weeks. For my own Facebook header I find myself often leaning towards text on images, whether humorous or inspirational. So I began wondering if there was a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648981"
 [_metadata_:publish_date]:- "2013-05-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Captivating Covers"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 14:48:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 14:48:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626144834id_/https://magic.wizards.com/en/articles/archive/feature/captivating-covers-2013-05-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/captivating-covers-2013-05-09"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "707646"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Torment Theme Decks"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-02 02:07:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-02 02:07:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170302020710id_/http://magic.wizards.com/en/articles/archive/feature/torment-theme-decks-2008-08-18"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/torment-theme-decks-2008-08-18"
 ---

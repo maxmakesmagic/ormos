@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Garruk Wildspeaker"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "696751"
 [_metadata_:publish_date]:- "2009-11-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Garruk vs. Liliana Theme Decks"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-30 15:54:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-30 15:54:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160430155448id_/http://magic.wizards.com/en/articles/archive/feature/garruk-vs-liliana-theme-decks-2009-11-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/garruk-vs-liliana-theme-decks-2009-11-02"
 ---

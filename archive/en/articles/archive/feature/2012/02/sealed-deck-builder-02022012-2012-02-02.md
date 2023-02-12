@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Garret Bright"
 [_metadata_:description]:- "Hello, I’m Garret and I built you something that I think is pretty neat. I'm excited to present the first ever Sealed Deck Builder activity!Each Thursday, we’ll have a new pool of cards for you to build a 40 card deck. To coincide with the release of Dark Ascesion on February 3, this sealed pool is made up of 3 Innistrad and 3 Dark Ascension booster packs! Just like at last"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "644976"
 [_metadata_:publish_date]:- "2012-02-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sealed Deck Builder: 02/02/2012"
-[_metadata_:wayback_capture_timestamp]:- "2022-10-01 17:54:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-01 17:54:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221001175401id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-02022012-2012-02-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-02022012-2012-02-02"
 ---

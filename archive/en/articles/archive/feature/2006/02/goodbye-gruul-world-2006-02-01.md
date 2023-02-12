@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to Gruul Week, the most Gruul-ing week of the year! What's that? Mark Rosewater already used that one? Dang it! Sorry, folks. You have my sincere apologies for re-subjecting you to this kind of, er, Gruul and unusual pun-ishment. (Save some of those groans for later – you'll need 'em.) This week is a bit of a milestone for me: my first theme week! What, you may ask,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "621191"
 [_metadata_:publish_date]:- "2006-02-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Goodbye, Gruul World"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 13:33:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 13:33:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119133310id_/https://magic.wizards.com/en/articles/archive/feature/goodbye-gruul-world-2006-02-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/goodbye-gruul-world-2006-02-01"
 ---

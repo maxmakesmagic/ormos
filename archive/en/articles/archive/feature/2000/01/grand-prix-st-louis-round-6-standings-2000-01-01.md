@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "      Op-Match Rank Name Points Win% 1 Team Sourgirl 18 63.89 2 Coolers 16 66.67 3 Pudge 16 61.11 4 Tight Club 15 76.39"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952096"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Round 6 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:16:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:16:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124041639id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-6-standings-2000-01-01"
 ---

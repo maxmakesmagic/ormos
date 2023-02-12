@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210225223741/https://magic.wizards.com/en/articles/archive/feature/where-find-time-spiral-remastered-previews-2021-02-25)
+[Link to Wayback Machine](https://web.archive.org/web/20210225225433/https://magic.wizards.com/en/articles/archive/feature/where-find-time-spiral-remastered-previews-2021-02-25?dd)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Time Spiral Remastered, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1528355"
 [_metadata_:publish_date]:- "2021-02-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Time Spiral Remastered Previews"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-25 22:37:41+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210225223741id_/https://magic.wizards.com/en/articles/archive/feature/where-find-time-spiral-remastered-previews-2021-02-25"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-time-spiral-remastered-previews-2021-02-25"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-25 22:54:33"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210225225433id_/https://magic.wizards.com/en/articles/archive/feature/where-find-time-spiral-remastered-previews-2021-02-25?dd"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-time-spiral-remastered-previews-2021-02-25?dd"
 ---
 
 
@@ -57,7 +59,7 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 **February 25**
 
 
-* [After Office TTV](https://twitter.com/afterttv?lang=en)
+* [After Office TTV](https://twitter.com/AfterTtv/status/1365057724753596421)
 * [AutumnLily](https://twitter.com/AutumnLilyMTG/status/1364993127833026564)
 * [Cassius Marsh](https://twitter.com/KingCash_7191)
 * [DailyMTG](https://magic.wizards.com/en/articles/archive/card-preview/its-time-time-spiral-remastered-2021-02-25)

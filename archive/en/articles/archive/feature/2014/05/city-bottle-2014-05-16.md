@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Starting with Vintage Masters, City in a Bottle joins Magic Online. When it was originally printed, it specifically only recognized cards printed in Arabian Nights. It now reads like this: The new rules only care about cards originally printed in Arabian Nights, and it no longer cares about what the actual expansion symbol on the card is. The following lists were compiled to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "707721"
 [_metadata_:publish_date]:- "2014-05-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "City in a Bottle"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:27:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:27:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523212740id_/https://magic.wizards.com/en/articles/archive/feature/city-bottle-2014-05-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/city-bottle-2014-05-16"
 ---

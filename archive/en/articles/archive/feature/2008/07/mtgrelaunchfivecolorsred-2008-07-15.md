@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Red mana flows from rugged mountain ranges, rocky crags, and the fiery heart of volcanoes. Red magic is about fury and passion. When a red mage fights, lightning arcs across the blood-red sky, lava erupts from the earth, and flash fires consume the land. Red mages can channel their wild emotions to raze a city or to harness flames into deadly weapons. Freedom, fire, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "935786"
 [_metadata_:publish_date]:- "2008-07-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "mtgrelaunch_fivecolors_red"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 18:53:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 18:53:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206185353id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorsred-2008-07-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchfivecolorsred-2008-07-15"
 ---

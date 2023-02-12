@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112021553/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11)
+[Link to Wayback Machine](https://web.archive.org/web/20220929041855/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Take a look at the full lists for the Aether Revolt Planeswalker Decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1109696"
 [_metadata_:publish_date]:- "2017-01-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aether Revolt Planeswalker Deck Lists"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:15:53+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112021553id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-29 04:18:55"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220929041855id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11"
 ---
 
@@ -26,7 +28,7 @@ Aether Revolt Planeswalker Deck Lists
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 
@@ -46,7 +48,7 @@ You can check out the [exclusive cards found in these decks here](http://magic.w
 
 
 
-![Ajani, Valiant Protector](https://media.wizards.com/2016/images/daily/cardart_AER_PW_Ajani-Valiant-Protector.jpg)[Ajani, Valiant Protector](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ajani%2C+Valiant+Protector) | Art by [Anna Steinbauer](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Anna+Steinbauer%22%5d)
+![Ajani, Valiant Protector](https://media.wizards.com/2016/images/daily/cardart_AER_PW_Ajani-Valiant-Protector.jpg)[Ajani, Valiant Protector](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ajani%2C+Valiant+Protector) | Art by [Anna Steinbauer](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Anna+Steinbauer%22%5d)
 
 
 
@@ -90,7 +92,7 @@ OverviewColorCostRarity
 
 
 1
-[Ajani, Valiant Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BValiant%5D+%5BProtector%5D)
+[Ajani, Valiant Protector](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BValiant%5D+%5BProtector%5D)
 
 
 
@@ -99,51 +101,51 @@ OverviewColorCostRarity
 
 
 2
-[Narnam Renegade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarnam%5D+%5BRenegade%5D)
+[Narnam Renegade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarnam%5D+%5BRenegade%5D)
 
 
 2
-[Verdant Automaton](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BAutomaton%5D)
+[Verdant Automaton](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BAutomaton%5D)
 
 
 3
-[Ajani's Comrade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BComrade%5D)
+[Ajani's Comrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BComrade%5D)
 
 
 3
-[Audacious Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAudacious%5D+%5BInfiltrator%5D)
+[Audacious Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAudacious%5D+%5BInfiltrator%5D)
 
 
 1
-[Ghirapur Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhirapur%5D+%5BGuide%5D)
+[Ghirapur Guide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhirapur%5D+%5BGuide%5D)
 
 
 2
-[Silkweaver Elite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkweaver%5D+%5BElite%5D)
+[Silkweaver Elite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkweaver%5D+%5BElite%5D)
 
 
 1
-[Deadeye Harpooner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BHarpooner%5D)
+[Deadeye Harpooner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BHarpooner%5D)
 
 
 1
-[Solemn Recruit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BRecruit%5D)
+[Solemn Recruit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BRecruit%5D)
 
 
 2
-[Armorcraft Judge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmorcraft%5D+%5BJudge%5D)
+[Armorcraft Judge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmorcraft%5D+%5BJudge%5D)
 
 
 2
-[Lifecraft Cavalry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifecraft%5D+%5BCavalry%5D)
+[Lifecraft Cavalry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifecraft%5D+%5BCavalry%5D)
 
 
 1
-[Ridgescale Tusker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRidgescale%5D+%5BTusker%5D)
+[Ridgescale Tusker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRidgescale%5D+%5BTusker%5D)
 
 
 1
-[Airdrop Aeronauts](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAirdrop%5D+%5BAeronauts%5D)
+[Airdrop Aeronauts](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAirdrop%5D+%5BAeronauts%5D)
 
 
 
@@ -152,15 +154,15 @@ OverviewColorCostRarity
 
 
 1
-[Prey Upon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrey%5D+%5BUpon%5D)
+[Prey Upon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrey%5D+%5BUpon%5D)
 
 
 4
-[Inspiring Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BRoar%5D)
+[Inspiring Roar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BRoar%5D)
 
 
 1
-[Engineered Might](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BMight%5D)
+[Engineered Might](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BMight%5D)
 
 
 
@@ -169,7 +171,7 @@ OverviewColorCostRarity
 
 
 1
-[Natural Obsolescence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNatural%5D+%5BObsolescence%5D)
+[Natural Obsolescence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNatural%5D+%5BObsolescence%5D)
 
 
 
@@ -178,11 +180,11 @@ OverviewColorCostRarity
 
 
 3
-[Renegade Map](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D)
+[Renegade Map](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D)
 
 
 1
-[Daredevil Dragster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaredevil%5D+%5BDragster%5D)
+[Daredevil Dragster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaredevil%5D+%5BDragster%5D)
 
 
 
@@ -191,15 +193,15 @@ OverviewColorCostRarity
 
 
 2
-[Unbridled Growth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnbridled%5D+%5BGrowth%5D)
+[Unbridled Growth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnbridled%5D+%5BGrowth%5D)
 
 
 2
-[Ajani's Aid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BAid%5D)
+[Ajani's Aid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BAid%5D)
 
 
 1
-[Aid from the Cowl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAid%5D+%5Bfrom%5D+%5Bthe%5D+%5BCowl%5D)
+[Aid from the Cowl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAid%5D+%5Bfrom%5D+%5Bthe%5D+%5BCowl%5D)
 
 
 
@@ -208,15 +210,15 @@ OverviewColorCostRarity
 
 
 4
-[Tranquil Expanse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BExpanse%5D)
+[Tranquil Expanse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BExpanse%5D)
 
 
 9
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 9
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 60 Cards 
@@ -228,23 +230,23 @@ OverviewColorCostRarity
 
 
 3
-[Audacious Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAudacious%5D+%5BInfiltrator%5D)
+[Audacious Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAudacious%5D+%5BInfiltrator%5D)
 
 
 1
-[Deadeye Harpooner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BHarpooner%5D)
+[Deadeye Harpooner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BHarpooner%5D)
 
 
 1
-[Solemn Recruit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BRecruit%5D)
+[Solemn Recruit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BRecruit%5D)
 
 
 1
-[Airdrop Aeronauts](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAirdrop%5D+%5BAeronauts%5D)
+[Airdrop Aeronauts](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAirdrop%5D+%5BAeronauts%5D)
 
 
 4
-[Inspiring Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BRoar%5D)
+[Inspiring Roar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BRoar%5D)
 
 
 
@@ -253,47 +255,47 @@ OverviewColorCostRarity
 
 
 2
-[Narnam Renegade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarnam%5D+%5BRenegade%5D)
+[Narnam Renegade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarnam%5D+%5BRenegade%5D)
 
 
 3
-[Ajani's Comrade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BComrade%5D)
+[Ajani's Comrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BComrade%5D)
 
 
 1
-[Ghirapur Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhirapur%5D+%5BGuide%5D)
+[Ghirapur Guide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhirapur%5D+%5BGuide%5D)
 
 
 2
-[Silkweaver Elite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkweaver%5D+%5BElite%5D)
+[Silkweaver Elite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkweaver%5D+%5BElite%5D)
 
 
 2
-[Armorcraft Judge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmorcraft%5D+%5BJudge%5D)
+[Armorcraft Judge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmorcraft%5D+%5BJudge%5D)
 
 
 2
-[Lifecraft Cavalry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifecraft%5D+%5BCavalry%5D)
+[Lifecraft Cavalry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifecraft%5D+%5BCavalry%5D)
 
 
 1
-[Ridgescale Tusker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRidgescale%5D+%5BTusker%5D)
+[Ridgescale Tusker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRidgescale%5D+%5BTusker%5D)
 
 
 1
-[Prey Upon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrey%5D+%5BUpon%5D)
+[Prey Upon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrey%5D+%5BUpon%5D)
 
 
 2
-[Unbridled Growth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnbridled%5D+%5BGrowth%5D)
+[Unbridled Growth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnbridled%5D+%5BGrowth%5D)
 
 
 1
-[Natural Obsolescence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNatural%5D+%5BObsolescence%5D)
+[Natural Obsolescence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNatural%5D+%5BObsolescence%5D)
 
 
 1
-[Aid from the Cowl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAid%5D+%5Bfrom%5D+%5Bthe%5D+%5BCowl%5D)
+[Aid from the Cowl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAid%5D+%5Bfrom%5D+%5Bthe%5D+%5BCowl%5D)
 
 
 
@@ -302,15 +304,15 @@ OverviewColorCostRarity
 
 
 1
-[Ajani, Valiant Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BValiant%5D+%5BProtector%5D)
+[Ajani, Valiant Protector](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BValiant%5D+%5BProtector%5D)
 
 
 2
-[Ajani's Aid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BAid%5D)
+[Ajani's Aid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BAid%5D)
 
 
 1
-[Engineered Might](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BMight%5D)
+[Engineered Might](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BMight%5D)
 
 
 
@@ -319,27 +321,27 @@ OverviewColorCostRarity
 
 
 2
-[Verdant Automaton](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BAutomaton%5D)
+[Verdant Automaton](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BAutomaton%5D)
 
 
 3
-[Renegade Map](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D)
+[Renegade Map](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D)
 
 
 1
-[Daredevil Dragster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaredevil%5D+%5BDragster%5D)
+[Daredevil Dragster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaredevil%5D+%5BDragster%5D)
 
 
 4
-[Tranquil Expanse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BExpanse%5D)
+[Tranquil Expanse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BExpanse%5D)
 
 
 9
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 9
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 60 Cards 
@@ -351,19 +353,19 @@ OverviewColorCostRarity
 
 
 2
-[Narnam Renegade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarnam%5D+%5BRenegade%5D)
+[Narnam Renegade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarnam%5D+%5BRenegade%5D)
 
 
 3
-[Renegade Map](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D)
+[Renegade Map](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D)
 
 
 1
-[Prey Upon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrey%5D+%5BUpon%5D)
+[Prey Upon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrey%5D+%5BUpon%5D)
 
 
 2
-[Unbridled Growth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnbridled%5D+%5BGrowth%5D)
+[Unbridled Growth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnbridled%5D+%5BGrowth%5D)
 
 
 
@@ -372,19 +374,19 @@ OverviewColorCostRarity
 
 
 2
-[Verdant Automaton](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BAutomaton%5D)
+[Verdant Automaton](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BAutomaton%5D)
 
 
 3
-[Ajani's Comrade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BComrade%5D)
+[Ajani's Comrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BComrade%5D)
 
 
 3
-[Audacious Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAudacious%5D+%5BInfiltrator%5D)
+[Audacious Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAudacious%5D+%5BInfiltrator%5D)
 
 
 1
-[Natural Obsolescence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNatural%5D+%5BObsolescence%5D)
+[Natural Obsolescence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNatural%5D+%5BObsolescence%5D)
 
 
 
@@ -393,23 +395,23 @@ OverviewColorCostRarity
 
 
 1
-[Ghirapur Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhirapur%5D+%5BGuide%5D)
+[Ghirapur Guide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhirapur%5D+%5BGuide%5D)
 
 
 2
-[Silkweaver Elite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkweaver%5D+%5BElite%5D)
+[Silkweaver Elite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkweaver%5D+%5BElite%5D)
 
 
 1
-[Deadeye Harpooner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BHarpooner%5D)
+[Deadeye Harpooner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BHarpooner%5D)
 
 
 1
-[Solemn Recruit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BRecruit%5D)
+[Solemn Recruit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BRecruit%5D)
 
 
 1
-[Daredevil Dragster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaredevil%5D+%5BDragster%5D)
+[Daredevil Dragster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaredevil%5D+%5BDragster%5D)
 
 
 
@@ -418,15 +420,15 @@ OverviewColorCostRarity
 
 
 2
-[Armorcraft Judge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmorcraft%5D+%5BJudge%5D)
+[Armorcraft Judge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmorcraft%5D+%5BJudge%5D)
 
 
 4
-[Inspiring Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BRoar%5D)
+[Inspiring Roar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BRoar%5D)
 
 
 2
-[Ajani's Aid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BAid%5D)
+[Ajani's Aid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BAid%5D)
 
 
 
@@ -435,23 +437,23 @@ OverviewColorCostRarity
 
 
 2
-[Lifecraft Cavalry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifecraft%5D+%5BCavalry%5D)
+[Lifecraft Cavalry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifecraft%5D+%5BCavalry%5D)
 
 
 1
-[Ridgescale Tusker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRidgescale%5D+%5BTusker%5D)
+[Ridgescale Tusker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRidgescale%5D+%5BTusker%5D)
 
 
 1
-[Airdrop Aeronauts](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAirdrop%5D+%5BAeronauts%5D)
+[Airdrop Aeronauts](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAirdrop%5D+%5BAeronauts%5D)
 
 
 1
-[Aid from the Cowl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAid%5D+%5Bfrom%5D+%5Bthe%5D+%5BCowl%5D)
+[Aid from the Cowl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAid%5D+%5Bfrom%5D+%5Bthe%5D+%5BCowl%5D)
 
 
 1
-[Engineered Might](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BMight%5D)
+[Engineered Might](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BMight%5D)
 
 
 
@@ -460,7 +462,7 @@ OverviewColorCostRarity
 
 
 1
-[Ajani, Valiant Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BValiant%5D+%5BProtector%5D)
+[Ajani, Valiant Protector](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BValiant%5D+%5BProtector%5D)
 
 
 38 Cards 
@@ -472,47 +474,47 @@ OverviewColorCostRarity
 
 
 2
-[Verdant Automaton](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BAutomaton%5D)
+[Verdant Automaton](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BAutomaton%5D)
 
 
 3
-[Audacious Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAudacious%5D+%5BInfiltrator%5D)
+[Audacious Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAudacious%5D+%5BInfiltrator%5D)
 
 
 2
-[Silkweaver Elite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkweaver%5D+%5BElite%5D)
+[Silkweaver Elite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkweaver%5D+%5BElite%5D)
 
 
 2
-[Lifecraft Cavalry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifecraft%5D+%5BCavalry%5D)
+[Lifecraft Cavalry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifecraft%5D+%5BCavalry%5D)
 
 
 3
-[Renegade Map](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D)
+[Renegade Map](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D)
 
 
 1
-[Prey Upon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrey%5D+%5BUpon%5D)
+[Prey Upon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrey%5D+%5BUpon%5D)
 
 
 2
-[Unbridled Growth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnbridled%5D+%5BGrowth%5D)
+[Unbridled Growth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnbridled%5D+%5BGrowth%5D)
 
 
 1
-[Natural Obsolescence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNatural%5D+%5BObsolescence%5D)
+[Natural Obsolescence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNatural%5D+%5BObsolescence%5D)
 
 
 4
-[Inspiring Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BRoar%5D)
+[Inspiring Roar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BRoar%5D)
 
 
 9
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 9
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 
@@ -521,43 +523,43 @@ OverviewColorCostRarity
 
 
 2
-[Narnam Renegade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarnam%5D+%5BRenegade%5D)
+[Narnam Renegade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarnam%5D+%5BRenegade%5D)
 
 
 3
-[Ajani's Comrade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BComrade%5D)
+[Ajani's Comrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BComrade%5D)
 
 
 1
-[Ghirapur Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhirapur%5D+%5BGuide%5D)
+[Ghirapur Guide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhirapur%5D+%5BGuide%5D)
 
 
 1
-[Deadeye Harpooner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BHarpooner%5D)
+[Deadeye Harpooner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BHarpooner%5D)
 
 
 2
-[Armorcraft Judge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmorcraft%5D+%5BJudge%5D)
+[Armorcraft Judge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmorcraft%5D+%5BJudge%5D)
 
 
 1
-[Ridgescale Tusker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRidgescale%5D+%5BTusker%5D)
+[Ridgescale Tusker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRidgescale%5D+%5BTusker%5D)
 
 
 1
-[Airdrop Aeronauts](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAirdrop%5D+%5BAeronauts%5D)
+[Airdrop Aeronauts](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAirdrop%5D+%5BAeronauts%5D)
 
 
 1
-[Daredevil Dragster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaredevil%5D+%5BDragster%5D)
+[Daredevil Dragster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaredevil%5D+%5BDragster%5D)
 
 
 1
-[Engineered Might](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BMight%5D)
+[Engineered Might](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BMight%5D)
 
 
 4
-[Tranquil Expanse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BExpanse%5D)
+[Tranquil Expanse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BExpanse%5D)
 
 
 
@@ -566,15 +568,15 @@ OverviewColorCostRarity
 
 
 1
-[Solemn Recruit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BRecruit%5D)
+[Solemn Recruit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BRecruit%5D)
 
 
 2
-[Ajani's Aid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BAid%5D)
+[Ajani's Aid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BAid%5D)
 
 
 1
-[Aid from the Cowl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAid%5D+%5Bfrom%5D+%5Bthe%5D+%5BCowl%5D)
+[Aid from the Cowl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAid%5D+%5Bfrom%5D+%5Bthe%5D+%5BCowl%5D)
 
 
 
@@ -583,7 +585,7 @@ OverviewColorCostRarity
 
 
 1
-[Ajani, Valiant Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BValiant%5D+%5BProtector%5D)
+[Ajani, Valiant Protector](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BValiant%5D+%5BProtector%5D)
 
 
 60 Cards 
@@ -591,7 +593,7 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ajani%2C+Valiant+Protector)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ajani%2C+Valiant+Protector)
 
 
 
@@ -610,7 +612,7 @@ OverviewColorCostRarity
 
 
 
-![Tezzeret, Master of Metal](https://media.wizards.com/2016/images/daily/cardart_AER_PW_Tezzeret-Master-of-Metal.jpg)[Tezzeret, Master of Metal](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tezzeret%2C+Master+of+Metal) | Art by [Tyler Jacobson](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Tyler+Jacobson%22%5d)
+![Tezzeret, Master of Metal](https://media.wizards.com/2016/images/daily/cardart_AER_PW_Tezzeret-Master-of-Metal.jpg)[Tezzeret, Master of Metal](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tezzeret%2C+Master+of+Metal) | Art by [Tyler Jacobson](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Tyler+Jacobson%22%5d)
 
 
 
@@ -654,7 +656,7 @@ OverviewColorCostRarity
 
 
 1
-[Tezzeret, Master of Metal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret,%5D+%5BMaster%5D+%5Bof%5D+%5BMetal%5D)
+[Tezzeret, Master of Metal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret,%5D+%5BMaster%5D+%5Bof%5D+%5BMetal%5D)
 
 
 
@@ -663,59 +665,59 @@ OverviewColorCostRarity
 
 
 1
-[Ornithopter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
 
 
 2
-[Augmenting Automaton](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugmenting%5D+%5BAutomaton%5D)
+[Augmenting Automaton](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugmenting%5D+%5BAutomaton%5D)
 
 
 1
-[Merchant's Dockhand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BDockhand%5D)
+[Merchant's Dockhand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BDockhand%5D)
 
 
 2
-[Dhund Operative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDhund%5D+%5BOperative%5D)
+[Dhund Operative](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDhund%5D+%5BOperative%5D)
 
 
 3
-[Tezzeret's Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BSimulacrum%5D)
+[Tezzeret's Simulacrum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BSimulacrum%5D)
 
 
 1
-[Dukhara Peafowl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDukhara%5D+%5BPeafowl%5D)
+[Dukhara Peafowl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDukhara%5D+%5BPeafowl%5D)
 
 
 1
-[Treasure Keeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BKeeper%5D)
+[Treasure Keeper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BKeeper%5D)
 
 
 1
-[Quicksmith Spy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQuicksmith%5D+%5BSpy%5D)
+[Quicksmith Spy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQuicksmith%5D+%5BSpy%5D)
 
 
 1
-[Foundry Assembler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BAssembler%5D)
+[Foundry Assembler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BAssembler%5D)
 
 
 2
-[Bastion Inventor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D)
+[Bastion Inventor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D)
 
 
 2
-[Wind-Kin Raiders](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWind-Kin%5D+%5BRaiders%5D)
+[Wind-Kin Raiders](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWind-Kin%5D+%5BRaiders%5D)
 
 
 1
-[Ironclad Revolutionary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIronclad%5D+%5BRevolutionary%5D)
+[Ironclad Revolutionary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIronclad%5D+%5BRevolutionary%5D)
 
 
 1
-[Barricade Breaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarricade%5D+%5BBreaker%5D)
+[Barricade Breaker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarricade%5D+%5BBreaker%5D)
 
 
 1
-[Fen Hauler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFen%5D+%5BHauler%5D)
+[Fen Hauler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFen%5D+%5BHauler%5D)
 
 
 
@@ -724,11 +726,11 @@ OverviewColorCostRarity
 
 
 1
-[Reverse Engineer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D)
+[Reverse Engineer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D)
 
 
 2
-[Tezzeret's Betrayal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BBetrayal%5D)
+[Tezzeret's Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BBetrayal%5D)
 
 
 
@@ -737,7 +739,7 @@ OverviewColorCostRarity
 
 
 1
-[Essence Extraction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BExtraction%5D)
+[Essence Extraction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BExtraction%5D)
 
 
 
@@ -746,15 +748,15 @@ OverviewColorCostRarity
 
 
 2
-[Universal Solvent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUniversal%5D+%5BSolvent%5D)
+[Universal Solvent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUniversal%5D+%5BSolvent%5D)
 
 
 4
-[Pendulum of Patterns](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendulum%5D+%5Bof%5D+%5BPatterns%5D)
+[Pendulum of Patterns](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendulum%5D+%5Bof%5D+%5BPatterns%5D)
 
 
 2
-[Implement of Examination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImplement%5D+%5Bof%5D+%5BExamination%5D)
+[Implement of Examination](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImplement%5D+%5Bof%5D+%5BExamination%5D)
 
 
 
@@ -763,7 +765,7 @@ OverviewColorCostRarity
 
 
 2
-[Tezzeret's Touch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BTouch%5D)
+[Tezzeret's Touch](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BTouch%5D)
 
 
 
@@ -772,15 +774,15 @@ OverviewColorCostRarity
 
 
 4
-[Submerged Boneyard](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSubmerged%5D+%5BBoneyard%5D)
+[Submerged Boneyard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSubmerged%5D+%5BBoneyard%5D)
 
 
 11
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 10
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 60 Cards 
@@ -792,19 +794,19 @@ OverviewColorCostRarity
 
 
 1
-[Quicksmith Spy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQuicksmith%5D+%5BSpy%5D)
+[Quicksmith Spy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQuicksmith%5D+%5BSpy%5D)
 
 
 2
-[Bastion Inventor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D)
+[Bastion Inventor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D)
 
 
 2
-[Wind-Kin Raiders](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWind-Kin%5D+%5BRaiders%5D)
+[Wind-Kin Raiders](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWind-Kin%5D+%5BRaiders%5D)
 
 
 1
-[Reverse Engineer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D)
+[Reverse Engineer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D)
 
 
 
@@ -813,19 +815,19 @@ OverviewColorCostRarity
 
 
 2
-[Dhund Operative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDhund%5D+%5BOperative%5D)
+[Dhund Operative](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDhund%5D+%5BOperative%5D)
 
 
 1
-[Ironclad Revolutionary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIronclad%5D+%5BRevolutionary%5D)
+[Ironclad Revolutionary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIronclad%5D+%5BRevolutionary%5D)
 
 
 1
-[Fen Hauler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFen%5D+%5BHauler%5D)
+[Fen Hauler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFen%5D+%5BHauler%5D)
 
 
 1
-[Essence Extraction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BExtraction%5D)
+[Essence Extraction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BExtraction%5D)
 
 
 
@@ -834,15 +836,15 @@ OverviewColorCostRarity
 
 
 1
-[Tezzeret, Master of Metal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret,%5D+%5BMaster%5D+%5Bof%5D+%5BMetal%5D)
+[Tezzeret, Master of Metal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret,%5D+%5BMaster%5D+%5Bof%5D+%5BMetal%5D)
 
 
 2
-[Tezzeret's Touch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BTouch%5D)
+[Tezzeret's Touch](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BTouch%5D)
 
 
 2
-[Tezzeret's Betrayal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BBetrayal%5D)
+[Tezzeret's Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BBetrayal%5D)
 
 
 
@@ -851,59 +853,59 @@ OverviewColorCostRarity
 
 
 1
-[Ornithopter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
 
 
 2
-[Augmenting Automaton](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugmenting%5D+%5BAutomaton%5D)
+[Augmenting Automaton](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugmenting%5D+%5BAutomaton%5D)
 
 
 1
-[Merchant's Dockhand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BDockhand%5D)
+[Merchant's Dockhand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BDockhand%5D)
 
 
 3
-[Tezzeret's Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BSimulacrum%5D)
+[Tezzeret's Simulacrum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BSimulacrum%5D)
 
 
 1
-[Dukhara Peafowl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDukhara%5D+%5BPeafowl%5D)
+[Dukhara Peafowl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDukhara%5D+%5BPeafowl%5D)
 
 
 1
-[Treasure Keeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BKeeper%5D)
+[Treasure Keeper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BKeeper%5D)
 
 
 1
-[Foundry Assembler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BAssembler%5D)
+[Foundry Assembler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BAssembler%5D)
 
 
 1
-[Barricade Breaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarricade%5D+%5BBreaker%5D)
+[Barricade Breaker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarricade%5D+%5BBreaker%5D)
 
 
 2
-[Universal Solvent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUniversal%5D+%5BSolvent%5D)
+[Universal Solvent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUniversal%5D+%5BSolvent%5D)
 
 
 4
-[Pendulum of Patterns](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendulum%5D+%5Bof%5D+%5BPatterns%5D)
+[Pendulum of Patterns](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendulum%5D+%5Bof%5D+%5BPatterns%5D)
 
 
 2
-[Implement of Examination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImplement%5D+%5Bof%5D+%5BExamination%5D)
+[Implement of Examination](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImplement%5D+%5Bof%5D+%5BExamination%5D)
 
 
 4
-[Submerged Boneyard](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSubmerged%5D+%5BBoneyard%5D)
+[Submerged Boneyard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSubmerged%5D+%5BBoneyard%5D)
 
 
 11
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 10
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 60 Cards 
@@ -915,15 +917,15 @@ OverviewColorCostRarity
 
 
 2
-[Augmenting Automaton](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugmenting%5D+%5BAutomaton%5D)
+[Augmenting Automaton](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugmenting%5D+%5BAutomaton%5D)
 
 
 1
-[Merchant's Dockhand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BDockhand%5D)
+[Merchant's Dockhand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BDockhand%5D)
 
 
 2
-[Universal Solvent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUniversal%5D+%5BSolvent%5D)
+[Universal Solvent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUniversal%5D+%5BSolvent%5D)
 
 
 
@@ -932,11 +934,11 @@ OverviewColorCostRarity
 
 
 2
-[Dhund Operative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDhund%5D+%5BOperative%5D)
+[Dhund Operative](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDhund%5D+%5BOperative%5D)
 
 
 4
-[Pendulum of Patterns](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendulum%5D+%5Bof%5D+%5BPatterns%5D)
+[Pendulum of Patterns](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendulum%5D+%5Bof%5D+%5BPatterns%5D)
 
 
 
@@ -945,19 +947,19 @@ OverviewColorCostRarity
 
 
 3
-[Tezzeret's Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BSimulacrum%5D)
+[Tezzeret's Simulacrum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BSimulacrum%5D)
 
 
 2
-[Implement of Examination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImplement%5D+%5Bof%5D+%5BExamination%5D)
+[Implement of Examination](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImplement%5D+%5Bof%5D+%5BExamination%5D)
 
 
 1
-[Essence Extraction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BExtraction%5D)
+[Essence Extraction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BExtraction%5D)
 
 
 2
-[Tezzeret's Touch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BTouch%5D)
+[Tezzeret's Touch](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BTouch%5D)
 
 
 
@@ -966,15 +968,15 @@ OverviewColorCostRarity
 
 
 1
-[Dukhara Peafowl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDukhara%5D+%5BPeafowl%5D)
+[Dukhara Peafowl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDukhara%5D+%5BPeafowl%5D)
 
 
 1
-[Treasure Keeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BKeeper%5D)
+[Treasure Keeper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BKeeper%5D)
 
 
 1
-[Quicksmith Spy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQuicksmith%5D+%5BSpy%5D)
+[Quicksmith Spy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQuicksmith%5D+%5BSpy%5D)
 
 
 
@@ -983,15 +985,15 @@ OverviewColorCostRarity
 
 
 1
-[Foundry Assembler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BAssembler%5D)
+[Foundry Assembler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BAssembler%5D)
 
 
 1
-[Reverse Engineer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D)
+[Reverse Engineer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D)
 
 
 2
-[Tezzeret's Betrayal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BBetrayal%5D)
+[Tezzeret's Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BBetrayal%5D)
 
 
 
@@ -1000,19 +1002,19 @@ OverviewColorCostRarity
 
 
 1
-[Tezzeret, Master of Metal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret,%5D+%5BMaster%5D+%5Bof%5D+%5BMetal%5D)
+[Tezzeret, Master of Metal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret,%5D+%5BMaster%5D+%5Bof%5D+%5BMetal%5D)
 
 
 2
-[Bastion Inventor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D)
+[Bastion Inventor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D)
 
 
 2
-[Wind-Kin Raiders](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWind-Kin%5D+%5BRaiders%5D)
+[Wind-Kin Raiders](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWind-Kin%5D+%5BRaiders%5D)
 
 
 1
-[Ironclad Revolutionary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIronclad%5D+%5BRevolutionary%5D)
+[Ironclad Revolutionary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIronclad%5D+%5BRevolutionary%5D)
 
 
 
@@ -1021,11 +1023,11 @@ OverviewColorCostRarity
 
 
 1
-[Barricade Breaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarricade%5D+%5BBreaker%5D)
+[Barricade Breaker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarricade%5D+%5BBreaker%5D)
 
 
 1
-[Fen Hauler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFen%5D+%5BHauler%5D)
+[Fen Hauler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFen%5D+%5BHauler%5D)
 
 
 34 Cards 
@@ -1037,47 +1039,47 @@ OverviewColorCostRarity
 
 
 2
-[Augmenting Automaton](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugmenting%5D+%5BAutomaton%5D)
+[Augmenting Automaton](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugmenting%5D+%5BAutomaton%5D)
 
 
 2
-[Dhund Operative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDhund%5D+%5BOperative%5D)
+[Dhund Operative](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDhund%5D+%5BOperative%5D)
 
 
 1
-[Dukhara Peafowl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDukhara%5D+%5BPeafowl%5D)
+[Dukhara Peafowl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDukhara%5D+%5BPeafowl%5D)
 
 
 1
-[Foundry Assembler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BAssembler%5D)
+[Foundry Assembler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BAssembler%5D)
 
 
 2
-[Bastion Inventor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D)
+[Bastion Inventor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D)
 
 
 1
-[Fen Hauler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFen%5D+%5BHauler%5D)
+[Fen Hauler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFen%5D+%5BHauler%5D)
 
 
 2
-[Universal Solvent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUniversal%5D+%5BSolvent%5D)
+[Universal Solvent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUniversal%5D+%5BSolvent%5D)
 
 
 4
-[Pendulum of Patterns](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendulum%5D+%5Bof%5D+%5BPatterns%5D)
+[Pendulum of Patterns](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendulum%5D+%5Bof%5D+%5BPatterns%5D)
 
 
 2
-[Implement of Examination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImplement%5D+%5Bof%5D+%5BExamination%5D)
+[Implement of Examination](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImplement%5D+%5Bof%5D+%5BExamination%5D)
 
 
 11
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 10
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 
@@ -1086,43 +1088,43 @@ OverviewColorCostRarity
 
 
 1
-[Ornithopter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
 
 
 3
-[Tezzeret's Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BSimulacrum%5D)
+[Tezzeret's Simulacrum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BSimulacrum%5D)
 
 
 1
-[Treasure Keeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BKeeper%5D)
+[Treasure Keeper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BKeeper%5D)
 
 
 2
-[Wind-Kin Raiders](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWind-Kin%5D+%5BRaiders%5D)
+[Wind-Kin Raiders](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWind-Kin%5D+%5BRaiders%5D)
 
 
 1
-[Ironclad Revolutionary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIronclad%5D+%5BRevolutionary%5D)
+[Ironclad Revolutionary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIronclad%5D+%5BRevolutionary%5D)
 
 
 1
-[Barricade Breaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarricade%5D+%5BBreaker%5D)
+[Barricade Breaker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarricade%5D+%5BBreaker%5D)
 
 
 1
-[Essence Extraction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BExtraction%5D)
+[Essence Extraction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BExtraction%5D)
 
 
 2
-[Tezzeret's Touch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BTouch%5D)
+[Tezzeret's Touch](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BTouch%5D)
 
 
 1
-[Reverse Engineer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D)
+[Reverse Engineer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D)
 
 
 4
-[Submerged Boneyard](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSubmerged%5D+%5BBoneyard%5D)
+[Submerged Boneyard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSubmerged%5D+%5BBoneyard%5D)
 
 
 
@@ -1131,15 +1133,15 @@ OverviewColorCostRarity
 
 
 1
-[Merchant's Dockhand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BDockhand%5D)
+[Merchant's Dockhand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BDockhand%5D)
 
 
 1
-[Quicksmith Spy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQuicksmith%5D+%5BSpy%5D)
+[Quicksmith Spy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQuicksmith%5D+%5BSpy%5D)
 
 
 2
-[Tezzeret's Betrayal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BBetrayal%5D)
+[Tezzeret's Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret%5D+%5BBetrayal%5D)
 
 
 
@@ -1148,7 +1150,7 @@ OverviewColorCostRarity
 
 
 1
-[Tezzeret, Master of Metal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret,%5D+%5BMaster%5D+%5Bof%5D+%5BMetal%5D)
+[Tezzeret, Master of Metal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTezzeret,%5D+%5BMaster%5D+%5Bof%5D+%5BMetal%5D)
 
 
 60 Cards 
@@ -1156,7 +1158,7 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Tezzeret%2C+Master+of+Metal)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Tezzeret%2C+Master+of+Metal)
 
 
 

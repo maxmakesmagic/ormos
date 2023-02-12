@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee The entry fee for all Grand Prix—Kobe Trial tournaments in Japan is ¥1,000. (The entry fee was previously incorrectly announced as ¥2,000.) Format The format for all Grand Prix—Kobe Trial tournaments is Lorwyn-Shadowmoor Block Constructed. For information on this format, please refer to the DCI™ Universal Tournament Rule and Magic Floor Rules documents on the DCI"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635291"
 [_metadata_:publish_date]:- "2008-04-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Kobe Trial List"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 18:59:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 18:59:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019185912id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kobe-trial-list-2008-04-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kobe-trial-list-2008-04-29"
 ---

@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170715105723/http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93honolulu-2006-01-03)
+[Link to Wayback Machine](https://web.archive.org/web/20170811122933/http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93honolulu-2006-01-03)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "HAWAII CONVENTION CENTER MARCH 3-5, 2006  Play the Game, See the World"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733661"
 [_metadata_:publish_date]:- "2006-01-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2006 Pro Tour–Honolulu"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-15 10:57:23+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170715105723id_/http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93honolulu-2006-01-03"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-11 12:29:33"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811122933id_/http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93honolulu-2006-01-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93honolulu-2006-01-03"
 ---
 

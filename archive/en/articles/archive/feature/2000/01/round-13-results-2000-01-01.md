@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Table Player Result   Opponent 1 Svaldi, Guilherme Dei Drew 0-0-3 vs. Martins - ama, Leopoldo M. 2 Shvartsman, Alex Won 2-0 vs. Inacio - ama, Eliton 3 Gunther - ama, Raphael F. Drew 0-0-3 vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "959701"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 13 Results"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 02:01:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 02:01:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030020111id_/https://magic.wizards.com/en/articles/archive/feature/round-13-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-13-results-2000-01-01"
 ---

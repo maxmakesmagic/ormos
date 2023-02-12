@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "`Death by Orcish Pummel.`Last Thursday, I found, hiding in a battered white longbox in my basement, a Fallen Empires Orcish Captain with those words written on it. `Death by Orcish Pummel,` it said, `Kobolds will have revenge.` Beneath that was the signature of my brother."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632756"
 [_metadata_:publish_date]:- "2002-04-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Customizing Your Collection"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-15 14:19:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-15 14:19:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170115141940id_/http://magic.wizards.com/en/articles/archive/feature/customizing-your-collection-2002-04-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/customizing-your-collection-2002-04-16"
 ---

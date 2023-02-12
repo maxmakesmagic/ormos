@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler It's time to see if Rebels can swim. The four feature match tables for round 11 included 6 Rising Waters decks. It was a Mogg Squad theme round with 2 mirror matchups and 2 Squad members taking on Rebel decks. Ben Rubin and Sigurd Eskeland were 1st and 2nd in the overall standings before they faced off against each other. Rubin is looking to join the elite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950096"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 11 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 15:52:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 15:52:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521155236id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-11-feature-match-2000-01-01"
 ---

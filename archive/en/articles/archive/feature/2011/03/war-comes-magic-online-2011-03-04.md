@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Choose Your Side! You've probably heard that mantra many times recently, especially leading up to the Mirrodin Besieged release. If you haven't, where have you been?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687036"
 [_metadata_:publish_date]:- "2011-03-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "War Comes to Magic Online!"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:25:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:25:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429042503id_/https://magic.wizards.com/en/articles/archive/feature/war-comes-magic-online-2011-03-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/war-comes-magic-online-2011-03-04"
 ---

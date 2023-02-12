@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Rank Name Winnings 261 Afanasenko Dmitry (RUS)   250 Alejos Franz (VEN)   228 Alves Jhonathan (VEN)   100 Ang Jun Yang (SNG)   232 Areliusarson Arelius (ISL)  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "961191"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Final Standings Sorted by Player"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 02:52:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 02:52:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031025207id_/https://magic.wizards.com/en/articles/archive/feature/final-standings-sorted-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-standings-sorted-player-2000-01-01"
 ---

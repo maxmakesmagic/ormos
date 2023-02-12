@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210918131436/https://magic.wizards.com/en/articles/archive/feature/coming-home-flavor-2012-06-25)
+[Link to Wayback Machine](https://web.archive.org/web/20200805193444/https://magic.wizards.com/en/articles/archive/feature/coming-home-flavor-2012-06-25)
 
 [_metadata_:author]:- "Doug Beyer"
-[_metadata_:description]:- "One of Magic's most crucial strengths is its elasticity. We get to push the game in weird directions, let it build in scale and expand in complexity, urge it to wander off to some uncharted nook of the possibility space. But then, after that block-long walkabout, it's able to snap back to its center again. Magic finds its way home, restoring itself to a state of classic game"
+[_metadata_:description]:- "One of Magic's most crucial strengths is its elasticity. We get to push the game in weird directions, let it build in scale and expand in complexity, urge it to wander off to some uncharted nook of the possibility space. But then, after that block-long walkabout, it's able to snap back to its center again. Magic finds its way home, restoring itself to a state of classic game play and resonant fantasy mainstays that people can recognize and identify with."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681591"
 [_metadata_:publish_date]:- "2012-06-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- ": Coming Home to Flavor"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-18 13:14:36+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210918131436id_/https://magic.wizards.com/en/articles/archive/feature/coming-home-flavor-2012-06-25"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:34:44"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805193444id_/https://magic.wizards.com/en/articles/archive/feature/coming-home-flavor-2012-06-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coming-home-flavor-2012-06-25"
 ---
 
@@ -120,7 +122,7 @@ You'll even find a powerful exalted land, Cathedral of War. The Cathedral is a g
 
 Our goal was to fill the set with new stuff that nevertheless felt like classic **Magic** cards. The core set should be a homecoming, a return to the pleasing home base. Again and again we relied on flavor to make the set feel like something you remember while actually being all-new.
 
-Instead of the [Angel's Feather](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angel%27s+Feather) artifact cycle from many, many past core sets, ***Magic** 2013* instead sports a cycle of magic rings. Each ring is a piece of Equipment that works best when worn by a creature of a given color. They're fun and can be powerful, especially in decks that have a heavy concentration of creatures in one color. We had been trying to find designs for a cycle of artifact rings since M11 and I think we finally nailed it.
+Instead of the [Angel's Feather](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angel%27s+Feather) artifact cycle from many, many past core sets, ***Magic** 2013* instead sports a cycle of magic rings. Each ring is a piece of Equipment that works best when worn by a creature of a given color. They're fun and can be powerful, especially in decks that have a heavy concentration of creatures in one color. We had been trying to find designs for a cycle of artifact rings since M11 and I think we finally nailed it.
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feature201a_asswklx48r.jpg)  
 
@@ -129,14 +131,14 @@ Instead of the [Angel's Feather](https://gatherer.wizards.com/Pages/Card/Details
 | --- | --- |
 |  |  |
 
-There are two new Planeswalker cards in ***Magic** 2013*. After Sorin and Gideon shook things up in M12, Liliana and Ajani come raging back to the core lineup with two new designs in M13. Ajani, Caller of the Pride, rings up at a sleek three mana and shows off his specialty of supporting and enhancing his allies. Liliana of the Dark Realms focuses on Lily's connection to her mana bonds, specifically calling out the power of necromantic [Swamp](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp)s. Those two join the Jace, Chandra, and Garruk from ***Magic** 2012* to round out the core five Planeswalkers.
+There are two new Planeswalker cards in ***Magic** 2013*. After Sorin and Gideon shook things up in M12, Liliana and Ajani come raging back to the core lineup with two new designs in M13. Ajani, Caller of the Pride, rings up at a sleek three mana and shows off his specialty of supporting and enhancing his allies. Liliana of the Dark Realms focuses on Lily's connection to her mana bonds, specifically calling out the power of necromantic [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp)s. Those two join the Jace, Chandra, and Garruk from ***Magic** 2012* to round out the core five Planeswalkers.
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feature201a_7qxuvynqyh.jpg)  
 Then there's the army of one-off designs that are meant to evoke flavorful connections to classic fantasy and fun game play. I'm proud of my team's efforts to engineer so many little cardboard soldiers of Vorthos that they could fuel many, many flavor articles.
 
 **Thoughtful Reprints**
 
-Like every core set, there are plenty of goodies beyond just those major themes and new cards. ***Magic** 2013* also has a host of spicy reprints from **Magic**'s past. If you've never enchanted a [Vampire Nighthawk](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampire+Nighthawk) with [Rancor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rancor), let me tell you: first, that it's fun, and second, that you can do it all within a game of ***Magic** 2013* sealed deck. 
+Like every core set, there are plenty of goodies beyond just those major themes and new cards. ***Magic** 2013* also has a host of spicy reprints from **Magic**'s past. If you've never enchanted a [Vampire Nighthawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampire+Nighthawk) with [Rancor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rancor), let me tell you: first, that it's fun, and second, that you can do it all within a game of ***Magic** 2013* sealed deck. 
 
 An underappreciated skill in **Magic** design is selecting reprints from **Magic**'s past to cohere both flavorfully and mechanically with their newly designed brethren. I think we chose a fleet of reprints that feel different from past core sets, yet make sense as a first experience for a new player and a homecoming experience for a returning player.
 
@@ -166,7 +168,7 @@ This particular character was controversial, not only because he would mean addi
 We brought the elder dragon Planeswalker Nicol Bolas to the core set for a few reasons. The pace of story in a trading card game can be slow compared to books or movies or TV shows. We basically get one new plot point every three months, as a new set comes out. Bolas hadn't appeared in person since *Alara* block, and I felt it was important that he show his face from time to time to remind the do-gooders who's still plying his schemes in the background. His presence in the core set sends a message—this guy is important and dangerous. The shadow of Lord Bolas looms large and ominous over M13. In fact, you can see Bolas's horns on the packaging of ***Magic** 2013* boxes.
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feature201a_m13.jpg)  
-One thing we haven't seen a lot of in **Magic** is Bolas's minions. We know he makes personal appearances around the Multiverse as needed, making demands of those who serve him and blithely devastating the minds of those who don't. We've even seen a couple of Planeswalkers who have come to work for Bolas's side in [Sarkhan the Mad](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sarkhan+the+Mad) and [Tezzeret, Agent of Bolas](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tezzeret%2C+Agent+of+Bolas). But we rarely get to see those humble henchcreatures who are doing his dirty work, taking their marching orders from the big dragon, implementing the minute, ground-level details of Bolas's master plan.
+One thing we haven't seen a lot of in **Magic** is Bolas's minions. We know he makes personal appearances around the Multiverse as needed, making demands of those who serve him and blithely devastating the minds of those who don't. We've even seen a couple of Planeswalkers who have come to work for Bolas's side in [Sarkhan the Mad](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sarkhan+the+Mad) and [Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tezzeret%2C+Agent+of+Bolas). But we rarely get to see those humble henchcreatures who are doing his dirty work, taking their marching orders from the big dragon, implementing the minute, ground-level details of Bolas's master plan.
 
 In ***Magic** 2013*, we do.
 
@@ -185,14 +187,14 @@ In blue and red are two of Bolas's dirty-work-doers. Each in their own way, thes
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/tcg/products/m13/55hhijww7n_en.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feature201a_4kqzhmv9ci.jpg)Disciple of Bolas | Art by [Slawomir Maniak](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Slawomir+Maniak%22%5D)
 
-Survival and power: two of Bolas's favorite things. This third and final minion also helps Lord Bolas build up magics while helping him survive long enough to win a controlling endgame. Disciple of Bolas can be particularly nasty when you already have [Nicol Bolas, Planeswalker](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nicol+Bolas%2C+Planeswalker) on the battlefield, as you can steal one of your opponent's creatures with Bolas's ability, cast Disciple of Bolas once you have your new minion, and then fatally plunder the stolen creature's mind for its knowledge.
+Survival and power: two of Bolas's favorite things. This third and final minion also helps Lord Bolas build up magics while helping him survive long enough to win a controlling endgame. Disciple of Bolas can be particularly nasty when you already have [Nicol Bolas, Planeswalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nicol+Bolas%2C+Planeswalker) on the battlefield, as you can steal one of your opponent's creatures with Bolas's ability, cast Disciple of Bolas once you have your new minion, and then fatally plunder the stolen creature's mind for its knowledge.
 
 Finally, there's one more card themed to this dark dragon:
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/tcg/products/m13/0vavuv5epa_en.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feature201a_s6zqiu56by.jpg)Gem of Becoming | Art by [Jack Wang](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22FIRST+LAST%22%5D)
 
-If there's anything else that Nicol Bolas requires, it's mana. The Gem of Becoming is one of Bolas's mana artifacts that help him manage his countless mana bonds. The name calls back to the [Pools of Becoming](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pools+of+Becoming), a location on his personal Meditation Plane (a location we've seen before in *Planechase*).
+If there's anything else that Nicol Bolas requires, it's mana. The Gem of Becoming is one of Bolas's mana artifacts that help him manage his countless mana bonds. The name calls back to the [Pools of Becoming](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pools+of+Becoming), a location on his personal Meditation Plane (a location we've seen before in *Planechase*).
 
 ![Pools of Becoming](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Pools+of+Becoming)  
 Gather these Gems of Becoming to help you fix your draconic tri-colored mana dilemma—again, it's all about survival and power for Bolas. If you live the longest, learn the most magic, and forge the most mana bonds, you will become invincible.

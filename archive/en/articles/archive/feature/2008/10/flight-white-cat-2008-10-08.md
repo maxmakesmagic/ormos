@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Brady Dommermuth"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "325941"
 [_metadata_:publish_date]:- "2008-10-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Flight of the White Cat"
-[_metadata_:wayback_capture_timestamp]:- "2015-02-15 10:24:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-02-15 10:24:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150215102417id_/http://magic.wizards.com/en/articles/archive/feature/flight-white-cat-2008-10-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/flight-white-cat-2008-10-08"
 ---

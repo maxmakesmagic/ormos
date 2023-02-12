@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "DateInvitation OriginCityName15-Jun-032003 National ChampionPhilippinesCamangon, Gerald C 15-Jun-032003 National TeamPhilippinesProfeta, Francis Robert M 15-Jun-032003 National TeamPhilippinesBatac, Michael Tom Agrauio 15-Jun-03Top 4 2003 NationalsPhilippinesOrtega, Dominic Teotico 2-May-04Top 8 Regional ChampionshipsQuezon CityJamir, Joselito Alberto2-May-04Top 8 Regional"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733296"
 [_metadata_:publish_date]:- "2004-06-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2004 Magic: The Gathering Philippine National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 05:41:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 05:41:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021054129id_/https://magic.wizards.com/en/articles/archive/feature/2004-magic-gathering-philippine-national-championship-2004-06-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2004-magic-gathering-philippine-national-championship-2004-06-03"
 ---

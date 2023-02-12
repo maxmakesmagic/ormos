@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As announced in Ryan Spain's latest article, the Wide Beta for the new Magic Online started today, September 4, at 10:00 AM PDT. If you participated in the previous Sneak Peek, you can just launch that version of Magic Online and it will update automatically. If you have not tried the new game client yet, just visit the download page to get started. Since the Sneak Peek, we"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688101"
 [_metadata_:publish_date]:- "2012-09-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wide Beta for New Magic Online Client has Started!"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 21:58:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 21:58:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203215827id_/https://magic.wizards.com/en/articles/archive/feature/wide-beta-new-magic-online-client-has-started-2012-09-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wide-beta-new-magic-online-client-has-started-2012-09-04"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "We interrupt your regularly scheduled column for a walk down the icy path down of Kjeld's memory lane. Once upon a time, specifically when Ice Age was released, there was no Swimming with Sharks. In fact, there were no Magic: the Gathering content websites at all! There were, however, still Magic tournaments, where players were perhaps even more cutthroat and competitive than"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627776"
 [_metadata_:publish_date]:- "2004-08-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Clone 1 Headline Change"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 19:21:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 19:21:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129192105id_/https://magic.wizards.com/en/articles/archive/feature/clone-1-headline-change-2004-08-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/clone-1-headline-change-2004-08-04"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Stephen Menendian"
 [_metadata_:description]:- "And so we return and begin again. That's the opening line of Grant Morrison's brilliant opus The Invisibles, (move over, Watchmen!) to symbolize the cyclical nature of reality, something that is especially noticeable when the reader settles down for a second helping. It also captures my state of mind as I look back on the storylines that defined Vintage Magic at the end of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681701"
 [_metadata_:publish_date]:- "2009-01-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The 2008 Vintage Year in Review"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-13 02:25:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-13 02:25:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210513022508id_/https://magic.wizards.com/en/articles/archive/feature/2008-vintage-year-review-2009-01-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-vintage-year-review-2009-01-12"
 ---

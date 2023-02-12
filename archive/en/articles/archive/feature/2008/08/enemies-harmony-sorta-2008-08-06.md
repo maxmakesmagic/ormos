@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Back in June I talked about Allies in Conflict. Today's article could have been called Enemies Really in Conflict—because if there are conflicts of value judgments between allied colors, the conflicts between enemy colors are even more dire. But that's old news. Green hates black. Blue hates red. The color wheel, and the flavor of the game as a whole, thrives on this tension. It's an automatic conflict-generator. We know this."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "623061"
 [_metadata_:publish_date]:- "2008-08-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Enemies in Harmony... Sorta"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-25 08:18:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-25 08:18:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160225081857id_/http://magic.wizards.com/en/articles/archive/feature/enemies-harmony-sorta-2008-08-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/enemies-harmony-sorta-2008-08-06"
 ---

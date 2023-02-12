@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "It's time to return to the adventures of Koth of the Hammer; Venser, the Sojourner; and Elspeth Tirel! Venser and Koth are trekking through the Mephidross, while Elspeth has an encounter with one of the Vulshok. Follow all the action in Scarred, Part II!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680341"
 [_metadata_:publish_date]:- "2011-01-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Scarred, Part II"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 01:22:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 01:22:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118012232id_/https://magic.wizards.com/en/articles/archive/feature/scarred-part-ii-2011-01-13-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scarred-part-ii-2011-01-13-0"
 ---

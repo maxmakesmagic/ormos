@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "May 23-25, 2008: Gindy Puts Name in Lights Charles Gindy, welcome to Hollywood...a land where dreams come true and stars are made. The 22-year-old American, who has been playing Magic for half his life, became Tinseltown’s latest break-out performer when he swept Jan Ruess in the Pro Tour–Hollywood finals."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "599526"
 [_metadata_:publish_date]:- "2009-05-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: May 23-29"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 09:15:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 09:15:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125091508id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-may-23-29-2009-05-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-may-23-29-2009-05-29"
 ---

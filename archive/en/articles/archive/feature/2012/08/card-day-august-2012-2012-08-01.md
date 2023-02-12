@@ -1,13 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112003332/https://magic.wizards.com/en/articles/archive/feature/card-day-august-2012-2012-08-01)
+[Link to Wayback Machine](https://web.archive.org/web/20210429055636/https://magic.wizards.com/en/articles/archive/feature/card-day-august-2012-2012-08-01)
 
 [_metadata_:author]:- "Monty Ashley"
+[_metadata_:description]:- "Korozda Guildmage – Return to Ravnica uncommon. The guildmages return in Return to Ravnica, but this time they're all new names and new mechanics. Also, you'll see that these guildmages don't have hybrid mana, and instead require one of each of the guild's mana colors. Colloquially they were sometimes called gold-mages in R&D. Izzet Charm – Return to Ravnica uncommon. Charms"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664641"
 [_metadata_:publish_date]:- "2012-08-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - August, 2012"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:33:32+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112003332id_/https://magic.wizards.com/en/articles/archive/feature/card-day-august-2012-2012-08-01"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 05:56:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429055636id_/https://magic.wizards.com/en/articles/archive/feature/card-day-august-2012-2012-08-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-august-2012-2012-08-01"
 ---
 

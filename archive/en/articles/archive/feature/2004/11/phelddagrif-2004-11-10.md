@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "You might not have known this, but the original card Phelddagrif from Alliances is an anagram for Magic's creator. Rearrange the letters that make up the name of that goofy purple hippo, and you get:“Garfield PhD”"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627426"
 [_metadata_:publish_date]:- "2004-11-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Phelddagrif"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-05 12:04:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-05 12:04:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170505120404id_/http://magic.wizards.com/en/articles/archive/feature/phelddagrif-2004-11-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/phelddagrif-2004-11-10"
 ---

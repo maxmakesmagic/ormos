@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ken Nagle"
 [_metadata_:description]:- "Lead designer Ken Nagle takes you on a video tour of Worldwake, discussing how the new set ties in with Zendikar's themes while exploring new territory.."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684146"
 [_metadata_:publish_date]:- "2010-02-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Worldwake: A Video Tour"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-21 02:23:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-21 02:23:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170321022347id_/http://magic.wizards.com/en/articles/archive/feature/worldwake-video-tour-2010-02-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/worldwake-video-tour-2010-02-26"
 ---

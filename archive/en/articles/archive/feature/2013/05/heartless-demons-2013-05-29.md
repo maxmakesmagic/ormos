@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "I'm on a bit of a reader submission kick this week because I just realized that my emails had been redirected to an account I hadn't been watching (which I'd requested, but it happened much later than I thought) and I hadn't noticed because I'd been so busy testing for Pro Tour Dragon's Maze (so if you wrote me and never got a reply, that might be why)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666561"
 [_metadata_:publish_date]:- "2013-05-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Heartless Demons"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-29 02:53:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-29 02:53:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161129025346id_/http://magic.wizards.com/en/articles/archive/feature/heartless-demons-2013-05-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/heartless-demons-2013-05-29"
 ---

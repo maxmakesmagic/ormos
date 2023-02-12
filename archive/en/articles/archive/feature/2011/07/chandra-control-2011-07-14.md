@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Elmo the Elk's Chandra Control Format: Standard 22 Mountain 4 Furyborn Hellkite 4 Inferno Titan 2 Emrakul, the Aeons Torn 4 Chandra, the Firebrand 4 Koth of the Hammer 4 Burst Lightning 4 Lightning Bolt 4 Volt Charge 4 Geosurge 4 Tezzeret's Gambit [/decklist]With the new Chandra, the Firebrand available with the printing of Magic 2012, players around the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671271"
 [_metadata_:publish_date]:- "2011-07-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Chandra Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 06:24:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 06:24:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021062459id_/https://magic.wizards.com/en/articles/archive/feature/chandra-control-2011-07-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/chandra-control-2011-07-14"
 ---

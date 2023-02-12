@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Welcome, my son. Welcome to the machine. Where have you been? It's all right—we know where you've been…I can't even contemplate Machine Week without getting a Pink Floyd tune stuck in my head. That's the worst song on one of the best albums of all time, which is a weird thing to be. But classic rock concept albums have very little to do with artifact-heavy combo decks, so I'll"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628636"
 [_metadata_:publish_date]:- "2004-05-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Welcome to the Machine"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-07 09:31:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-07 09:31:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210707093140id_/https://magic.wizards.com/en/articles/archive/feature/welcome-machine-2004-05-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/welcome-machine-2004-05-27"
 ---

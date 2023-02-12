@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Some commentators talk about `the metagame` in the same breath that they use for words like the environment or a format. Sadly, metagame is not a string of syllables so lightly used. The metagame is more than just an understanding of what archetypes to expect at the next Standard tournament or the ability to predict what sideboard cards your most hated opponent will bring in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628031"
 [_metadata_:publish_date]:- "2005-06-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Try Not to Get Wrecked"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 02:06:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 02:06:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128020652id_/https://magic.wizards.com/en/articles/archive/feature/try-not-get-wrecked-2005-06-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/try-not-get-wrecked-2005-06-09"
 ---

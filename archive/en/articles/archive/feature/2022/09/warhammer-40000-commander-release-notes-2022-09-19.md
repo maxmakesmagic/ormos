@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jess Dunks"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1605756"
 [_metadata_:publish_date]:- "2022-09-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Warhammer 40,000 Commander Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-19 15:02:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-19 15:02:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220919150220id_/https://magic.wizards.com/en/articles/archive/feature/warhammer-40000-commander-release-notes-2022-09-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/warhammer-40000-commander-release-notes-2022-09-19"
 ---

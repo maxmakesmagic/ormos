@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events. Tournament Format And Schedule The format for Grand Prix–Taipei is Kamigawa Block Constructed. All DCI Constructed-format rules, Magic Floor Rules, and all subsequent updates will be enforced."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736271"
 [_metadata_:publish_date]:- "2005-04-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Taipei"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 12:05:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 12:05:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024120508id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-2005-04-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-2005-04-13"
 ---

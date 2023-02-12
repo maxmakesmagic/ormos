@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Corbin Hosler"
 [_metadata_:description]:- "Some players are drawn into Magic by the powerful spells and colossal creatures. Others, like Corbin, are captivated by endless the puzzle."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1258431"
 [_metadata_:publish_date]:- "2018-03-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Promising Beginning"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 07:14:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 07:14:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531071437id_/https://magic.wizards.com/en/articles/archive/feature/promising-beginning-2018-03-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/promising-beginning-2018-03-07"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654196"
 [_metadata_:publish_date]:- "2011-09-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Scary Stories, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-24 12:49:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-24 12:49:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160424124933id_/http://magic.wizards.com/en/articles/archive/feature/scary-stories-part-1-2011-09-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scary-stories-part-1-2011-09-19"
 ---

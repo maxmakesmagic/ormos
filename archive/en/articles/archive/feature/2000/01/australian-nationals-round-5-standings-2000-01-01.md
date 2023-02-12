@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220529022425/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-5-standings-2000-01-01)
+[Link to Wayback Machine](https://web.archive.org/web/20171124041953/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-5-standings-2000-01-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Turner, Daniel 15 49.3333 100.0000 50.7226 5/5/0/0 2 Coltman, Dane 15 49.3333 71.4286 52.2222 5/5/0/0 3 Hong, Craig 13 61.3333 81.8182 58.6511 5/4/1/0 4 Brebach, Kim 13 52.0000 75.0000 51.7063 5/4/1/0 5 Chan, Jonathan 12 72.0000 75.0000 64.5965 5/4/0/0 6 MacDonald, Andrew 12 61.3333 69.2308 57.1911"
+[_metadata_:description]:- "      Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Turner, Daniel 15 49.3333 100.0000 50.7226 5/5/0/0 2 Coltman, Dane 15"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948741"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals Round 5 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 02:24:25+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529022425id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-5-standings-2000-01-01"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:19:53"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124041953id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-5-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-5-standings-2000-01-01"
 ---
 
@@ -26,7 +28,7 @@ Australian Nationals Round 5 Standings
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

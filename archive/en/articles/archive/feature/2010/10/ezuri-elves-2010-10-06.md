@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Daily Deck List [decklist] Title: Michael Lapine's Ezuri Elves Format: Standard 8 Forest 4 Misty Rainforest 3 Oran-Rief, the Vastwood 4 Tectonic Edge 4 Verdant Catacombs 4 Arbor Elf 4 Elvish Archdruid 3 Ezuri, Renegade Leader 4 Leatherback Baloth 4 Llanowar Elves 4 Lotus Cobra 3 Nissa's Chosen 3 Garruk Wildspeaker 3 Nissa Revane 3 Eldrazi Monument 2 Genesis Wave *1 Eldrazi"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "594666"
 [_metadata_:publish_date]:- "2010-10-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ezuri Elves"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-29 12:58:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-29 12:58:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129125857id_/https://magic.wizards.com/en/articles/archive/feature/ezuri-elves-2010-10-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ezuri-elves-2010-10-06"
 ---

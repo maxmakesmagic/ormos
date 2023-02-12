@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210618114128/https://magic.wizards.com/en/articles/archive/feature/and-carnage-shall-follow-2010-03-01)
+[Link to Wayback Machine](https://web.archive.org/web/20160924052838/http://magic.wizards.com/en/articles/archive/feature/and-carnage-shall-follow-2010-03-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "The Forgotten Foe Art by Chippy The Eldrazi were colossal predators that roamed the Æther, devouring the mana and life energy of any plane they encountered, leaving lifeless husks in their wake. Recognizing the danger to countless planes, a trio of planeswalkers of old lured the Eldrazi to the mana-rich world of Zendikar, trapping them in material form and confining them on"
+[_metadata_:description]:- "The Forgotten Foe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "706136"
 [_metadata_:publish_date]:- "2010-03-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "And Carnage Shall Follow"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-18 11:41:28+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210618114128id_/https://magic.wizards.com/en/articles/archive/feature/and-carnage-shall-follow-2010-03-01"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/and-carnage-shall-follow-2010-03-01"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-24 05:28:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160924052838id_/http://magic.wizards.com/en/articles/archive/feature/and-carnage-shall-follow-2010-03-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/and-carnage-shall-follow-2010-03-01"
 ---
 
 
@@ -26,7 +28,7 @@ And Carnage Shall Follow
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

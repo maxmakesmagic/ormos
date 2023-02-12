@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Kelly Digges"
 [_metadata_:description]:- "It's a familiar scene: you settle into your seat, get comfortable, lean your head against the glass, and watch as the landscape drops silently away or rolls serenely past your window. You sigh, surrendering to the inexorable illogic of stationary motion, and one thought suffuses your being as you sink drowsily into a book or a nap:Boring!In the movies and on TV, these long"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604161"
 [_metadata_:publish_date]:- "2010-07-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic in Motion"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 11:40:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 11:40:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701114018id_/https://magic.wizards.com/en/articles/archive/feature/magic-motion-2010-07-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-motion-2010-07-26"
 ---

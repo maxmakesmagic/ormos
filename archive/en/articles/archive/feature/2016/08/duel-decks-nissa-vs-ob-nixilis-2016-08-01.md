@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Katie Allison"
 [_metadata_:description]:- "It's important to see both sides of a conflict—especially if that means casting more planeswalkers!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1049046"
 [_metadata_:publish_date]:- "2016-08-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Duel Decks: Nissa vs. Ob Nixilis"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-03 18:34:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-03 18:34:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160803183436id_/http://magic.wizards.com/en/articles/archive/feature/duel-decks-nissa-vs-ob-nixilis-2016-08-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duel-decks-nissa-vs-ob-nixilis-2016-08-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jeremy Blair"
 [_metadata_:description]:- "The Stillmoon Cavalier rears up on his dark horse as he mounts his attack from the playmat placed haphazardly under an assortment of cardboard piles strewn about my dining room table. The mp3 player in the corner randomly constructs a soundtrack and provides a rhythm for my work. The phone rings. I don't pick up. There are groupings of cards by color and some assembled by"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681171"
 [_metadata_:publish_date]:- "2008-12-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Behind the Curve"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-25 23:50:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-25 23:50:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220925235006id_/https://magic.wizards.com/en/articles/archive/feature/behind-curve-2008-12-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/behind-curve-2008-12-15"
 ---

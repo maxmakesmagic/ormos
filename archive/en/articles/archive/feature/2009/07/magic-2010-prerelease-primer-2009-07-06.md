@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "Why do you play Magic? The question is simple enough, but I'm sure that there isn't one answer that would be correct for everybody. Even just for me, there are a lot of individual elements that come together to make Magic such a big part of who I am and what I do. For me, the number-one reason that I play is because it's fun. If I'm not having fun playing Magic, then I really don't feel like I have a reason to play."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683781"
 [_metadata_:publish_date]:- "2009-07-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic 2010 Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:19:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:19:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414011901id_/http://magic.wizards.com/en/articles/archive/feature/magic-2010-prerelease-primer-2009-07-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-2010-prerelease-primer-2009-07-06"
 ---

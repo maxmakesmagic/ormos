@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: August 8-9, 2009 Format: Sealed Deck/Booster Draft Tournament LocationBrighton CentreKings RoadBrighton, U.K. BN1 2GRPhone: 44 01273 292671 Registration: £30 Thursday, August 6: 10 a.m. – 10 p.m. Friday, August 7: 10 a.m. – 10 p.m. Saturday, August 8: 8 a.m. - 9:00 a.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634886"
 [_metadata_:publish_date]:- "2009-03-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Brighton Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:10:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:10:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026001026id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93brighton-event-information-2009-03-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93brighton-event-information-2009-03-03"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "I joined the Magic creative team in R&D a little over two years ago, mainly to write creative text (card names and flavor text). I had been part of the Magic web team for about six years before that, doing writing of another kind (writing code under the hood of magicthegathering.com)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "623026"
 [_metadata_:publish_date]:- "2008-07-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Concepting Eventide, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:41:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:41:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429024145id_/https://magic.wizards.com/en/articles/archive/feature/concepting-eventide-part-1-2008-07-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/concepting-eventide-part-1-2008-07-16"
 ---

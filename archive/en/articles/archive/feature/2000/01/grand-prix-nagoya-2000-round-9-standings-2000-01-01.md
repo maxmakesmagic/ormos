@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Godzilla 27 68.75 2 UNLUCKY'S 24 59.76 3 Team Iwamoto 22 65.20 4 NEW WAVE 22 65.00 5 Masato Club 22 63.04 6 Trickster 22 55.85 7 NAGOYAN 21 68.92 8 Executioners 20 66.60 9 Ray Force 20 63.39 10 WACHI-DE? 19 76.04 11 Poor Shark 19 67.57 12 Team Masato 19 61.52 13 Long Thinking NEO Alpha 19 61.38 14 T.F.Z. 19 61.04 15 Team Imabiki 18 70.67 16"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952291"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 9 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 04:19:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 04:19:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526041922id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-9-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-9-standings-2000-01-01"
 ---

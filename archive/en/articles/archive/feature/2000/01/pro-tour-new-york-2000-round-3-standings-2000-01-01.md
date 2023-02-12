@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Ikeda Tsuyoshi 9 66.6667 2 Keffer Philip 9 59.2593 3 Marks Jason 9 59.2593 4 Thompson Mike 9 59.2593 5 Gordon Mark 9 59.2593 6 Means Jason 9 55.5556 7 Wong Nicholas 9 55.5556 8 Marcus Fred 9 55.5556 9 Rose Kyle 9 55.5556 10 Rumsey Michael 9 55.5556 11 Moungey Jason 9 55.5556 12 Ross Edward 9 55.5556 13 Davis Kevin 9 55.5556 14 Dobson Tony 9"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950266"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 3 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:23:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:23:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526122320id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-3-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-3-standings-2000-01-01"
 ---

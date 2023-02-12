@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "David Williams vs. Tomomi Otsuka To start the Finals, head judge Takashi Aida introduced each of the six competitors to applause from the crowd. It was a little muted as David Williams had stepped away from the table to freshen up, and everybody was waiting. He got a big, if somewhat sarcastic, round of applause when he showed up and things could finally start. Otsuka is just"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806536"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Finals: Poor Shark vs. www.AlphaBetaUnlimited.com"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 16:08:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 16:08:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630160849id_/https://magic.wizards.com/en/articles/archive/feature/finals-poor-shark-vs-wwwalphabetaunlimitedcom-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-poor-shark-vs-wwwalphabetaunlimitedcom-2000-01-01"
 ---

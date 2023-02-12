@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Oracle Changes&#13; &#13; Casting spells as though they have flash&#13; &#13; We're shifting the templating on effects that allow you to cast something as though it had flash. These effects will refer to `spells.` By contrast, text that allows you to cast a card you wouldn't otherwise be able to (say, because it's exiled) will refer to `cards.` See the Comprehensive Rules portion of this article for more information."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1048716"
 [_metadata_:publish_date]:- "2016-07-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Eldritch Moon Update Bulletin—Oracle Text"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-28 15:54:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-28 15:54:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160728155425id_/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-update-bulletin-oracle-text-2016-07-28"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-update-bulletin-oracle-text-2016-07-28"
 ---

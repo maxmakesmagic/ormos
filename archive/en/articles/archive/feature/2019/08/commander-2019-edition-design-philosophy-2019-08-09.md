@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201107225914/https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-design-philosophy-2019-08-09)
+[Link to Wayback Machine](https://web.archive.org/web/20220917202046/https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-design-philosophy-2019-08-09)
 
 [_metadata_:author]:- "Glenn Jones"
 [_metadata_:description]:- "Glenn explains the philosophy working behind the scenes to bring Commander (2019 Edition) to life."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1458836"
 [_metadata_:publish_date]:- "2019-08-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander (2019 Edition) Design Philosophy"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-07 22:59:14+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201107225914id_/https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-design-philosophy-2019-08-09"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-17 20:20:46"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220917202046id_/https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-design-philosophy-2019-08-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-design-philosophy-2019-08-09"
 ---
 
@@ -124,7 +126,7 @@ The second is the multiplayer environment. Commander is complicated! Even if our
 That said, I wouldn't expect to see the banding-themed deck anytime soon. Complexity is a tool, but it's not a goal unto itself.
 
 
-The third is deck building. The strength of these fixed decks varies year-to-year, because they're balanced against one another, but we try to make sure they have the basic tools of the format, like [sweepers](http://magic.wizards.com/en/articles/archive/top-decks/what-expect-pro-tour-hour-devastation-2017-07-25#sweeper), haymakers, mana fixing, etc. However, we leave room to improve them because upgrading your own deck for your metagame is an important part of Commander. Similarly, the cards and interactions available out of the box demonstrate what we consider an optimal social experience, especially for newcomers. Every playgroup is different, so if your table doesn't mind [Brine Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brine+Elemental), by all means, add it to the morph deck and salt your foes to taste!
+The third is deck building. The strength of these fixed decks varies year-to-year, because they're balanced against one another, but we try to make sure they have the basic tools of the format, like [sweepers](http://magic.wizards.com/en/articles/archive/top-decks/what-expect-pro-tour-hour-devastation-2017-07-25#sweeper), haymakers, mana fixing, etc. However, we leave room to improve them because upgrading your own deck for your metagame is an important part of Commander. Similarly, the cards and interactions available out of the box demonstrate what we consider an optimal social experience, especially for newcomers. Every playgroup is different, so if your table doesn't mind [Brine Elemental](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brine+Elemental), by all means, add it to the morph deck and salt your foes to taste!
 
 
 **2. Inspire New Decks**
@@ -168,7 +170,7 @@ The burden of spawning new decks falls primarily on our legends, giving new card
 Take Sevinne's Reclamation. This card uses our mechanical theme to show Sevinne seeking relics, but it's also white card advantage that can even ramp mana under the right circumstances—it's got tons of angles. It's a particularly great fit in mono-white decks, which face many obstacles for multiplayer viability. Ideally, every color combination feels viable, and we try to include a card or two in each product to bolster mono-white decks while staying true to white's color pie.
 
 
-When certain cards and strategies are too popular or frustrating, we try to add more answers to the format. Effects like [Cyclonic Rift](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cyclonic+Rift) and commanders with hexproof are two classic examples. Mandate of Peace and Leadership Vacuum, respectively, are both uniquely suited to handle those problems and more. You're getting two solutions for the price of one with Leadership Vacuum, as it's also an efficient way to disrupt partners.
+When certain cards and strategies are too popular or frustrating, we try to add more answers to the format. Effects like [Cyclonic Rift](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cyclonic+Rift) and commanders with hexproof are two classic examples. Mandate of Peace and Leadership Vacuum, respectively, are both uniquely suited to handle those problems and more. You're getting two solutions for the price of one with Leadership Vacuum, as it's also an efficient way to disrupt partners.
 
 
 ![Mandate of Peace](https://media.wizards.com/2019/c19/en_VJeT4IUWCR.png)![Leadership Vacuum](https://media.wizards.com/2019/c19/en_6zvQiMSsc4.png)

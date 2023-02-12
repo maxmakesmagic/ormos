@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210802111038/https://magic.wizards.com/en/articles/archive/feature/and-mtg-arena-2019-01-31)
+[Link to Wayback Machine](https://web.archive.org/web/20210429021216/https://magic.wizards.com/en/articles/archive/feature/and-mtg-arena-2019-01-31)
 
 [_metadata_:author]:- "Aaron Forsythe and Chris Clay"
 [_metadata_:description]:- "Aaron and Chris discuss how the concept of `and` defines the relationship between digital and tabletop Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1395161"
 [_metadata_:publish_date]:- "2019-01-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The `And` of MTG Arena"
-[_metadata_:wayback_capture_timestamp]:- "2021-08-02 11:10:38+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210802111038id_/https://magic.wizards.com/en/articles/archive/feature/and-mtg-arena-2019-01-31"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:12:16"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429021216id_/https://magic.wizards.com/en/articles/archive/feature/and-mtg-arena-2019-01-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/and-mtg-arena-2019-01-31"
 ---
 
@@ -91,7 +93,7 @@ We didn't start with the goal of creating this new format we're calling Arena St
 Will the no-sideboarding metagame be different from the traditional one we're all used to? We certainly hope so! As I said before, *MTG Arena* is meant to be an additional way to play, and *Magic* is at its best when each experience is different in its own way with new puzzles to solve. I look forward to all the additional content that cracking the no-sideboarding metagame will add to the already robust traditional metagame content out there. I've seen some really cool lists pop up already, and we're just getting started!
 
 
-Our desires for different decks and metagames has led the TCG Design Studio to start exploring how to support all forms of play with the cards we put in our sets. We think that more cards like [Knight of Autumn](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knight+of+Autumn), [Ravager Wurm](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ravager+Wurm), and [Bedevil](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bedevil) should help lower the number of "unwinnable" matchups in Arena Standard; meanwhile, we'll continue to make traditional sideboard cards like [Cindervines](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cindervines), [Unmoored Ego](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unmoored+Ego), and [Citywide Bust](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Citywide+Bust) that can find homes in tabletop sideboards.
+Our desires for different decks and metagames has led the TCG Design Studio to start exploring how to support all forms of play with the cards we put in our sets. We think that more cards like [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knight+of+Autumn), [Ravager Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ravager+Wurm), and [Bedevil](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bedevil) should help lower the number of "unwinnable" matchups in Arena Standard; meanwhile, we'll continue to make traditional sideboard cards like [Cindervines](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cindervines), [Unmoored Ego](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unmoored+Ego), and [Citywide Bust](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Citywide+Bust) that can find homes in tabletop sideboards.
 
 
 Design doesn't have the decades of iteration with Arena Standard as it does with tabletop's sideboarding version, so there will be some learnings as we go. Just in case something goes haywire, I'll mention here that we can maintain separate Banned Lists for the two versions of Standard, and *MTG Arena* will be able to enforce the proper list based on which mode you are enjoying. As always, we'll be carefully monitoring the metagame data to make sure the experience we're hoping for is actually the one you get.

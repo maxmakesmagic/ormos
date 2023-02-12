@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "I have never seen such a warm, feel-good community vibe as I did when I ran my `2-2-all Emperor` experiment. It still ranks as three of my most fun days of Magic ever. People really seemed to feel liberated from the 1-1-1 lock that existed for the online Emperor world, a lock which I think has drifted back into place since my article. I still get people online asking me to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626256"
 [_metadata_:publish_date]:- "2004-12-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "IntoTheAether Has No Clothes"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 23:04:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 23:04:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129230403id_/https://magic.wizards.com/en/articles/archive/feature/intotheaether-has-no-clothes-2004-12-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intotheaether-has-no-clothes-2004-12-28"
 ---

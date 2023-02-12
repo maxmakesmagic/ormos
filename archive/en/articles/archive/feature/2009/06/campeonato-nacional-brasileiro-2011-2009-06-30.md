@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211024022801/https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-brasileiro-2011-2009-06-30)
+[Link to Wayback Machine](https://web.archive.org/web/20160927002241/http://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-brasileiro-2011-2009-06-30)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Data: 17 e 18 de Setembro de 2011Local: Devir LivrariaEndereço: R."
+[_metadata_:description]:- "Data: 17 e 18 de Setembro de 2011Local: Devir LivrariaEndereço: R. Teodureto Souto, 624 Cambuci, São Paulo, BrasilQualificaçãoO Campeonato Nacional Brasileiro de Magic: the Gathering é um evento aberto apenas aos jogadores convidados, sejam eles cidadãos ou residentes no Brasil que receberam um convite para participar do Nacional em função de sua colocação no ranking ou a partir de classificação em eventos como os Classificatórios para o Nacional."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730021"
 [_metadata_:publish_date]:- "2009-06-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Campeonato Nacional Brasileiro 2011"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 02:28:01+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024022801id_/https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-brasileiro-2011-2009-06-30"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-brasileiro-2011-2009-06-30"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 00:22:41"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927002241id_/http://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-brasileiro-2011-2009-06-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/campeonato-nacional-brasileiro-2011-2009-06-30"
 ---
 
 
@@ -26,7 +28,7 @@ Campeonato Nacional Brasileiro 2011
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

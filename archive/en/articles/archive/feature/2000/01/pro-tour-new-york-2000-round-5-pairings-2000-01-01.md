@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Alvarez Omar ( 42) 6 58 Rivera Tim (136) 6 Amendolia Aaron (254) 6 78 Johanneson Johan ( 80) 6 Angeli Alessio (210) 4 106 Osaka Yusuke ( 38) 4 Assen Johan (238) 5 102 Sorino Roger ( 54) 5 Au Yong Wai Kin ( 25) 6 93 Sagol Omar ( 41) 6 Ayala Hermes (115) 6 63 Hustad James (215) 6 Baberowski Dirk ( 9) 6 95 Watson DeQuan A (114) 6 Bachmann David (231)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950231"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 5 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:20:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:20:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124022001id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-5-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-5-pairings-2000-01-01"
 ---

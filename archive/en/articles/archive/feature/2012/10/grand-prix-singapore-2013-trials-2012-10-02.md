@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Singapore Trials will be run at APAC/Japan WPN locations from October 20 to December 30, 2012. Each awards the winner a three-round bye to Grand Prix Singapore.Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the individual store running the event. Possible"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729651"
 [_metadata_:publish_date]:- "2012-10-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Singapore 2013 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 18:35:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 18:35:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519183509id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-singapore-2013-trials-2012-10-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-singapore-2013-trials-2012-10-02"
 ---

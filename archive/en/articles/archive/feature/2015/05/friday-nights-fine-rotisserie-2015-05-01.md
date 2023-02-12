@@ -5,9 +5,11 @@
 [_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "Mono-Red? Khans Block Rotisserie Draft? `Gred and Reen`!?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "381931"
 [_metadata_:publish_date]:- "2015-05-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Friday Nights: A Fine Rotisserie"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-03 20:54:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-03 20:54:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150503205446id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-fine-rotisserie-2015-05-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-fine-rotisserie-2015-05-01"
 ---

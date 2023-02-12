@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112004452/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06)
+[Link to Wayback Machine](https://web.archive.org/web/20170816042508/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1108861"
 [_metadata_:publish_date]:- "2017-01-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aether Revolt Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:44:52+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112004452id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-16 04:25:08"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816042508id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06"
 ---
 
 

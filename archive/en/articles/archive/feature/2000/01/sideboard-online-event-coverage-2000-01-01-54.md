@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Semifinals Feature Match Matt Hiemstra vs. Scott Lipp Matt Hiemstra's first turn was a standard Mountain and Jackal Pup. Scott Lipp started somewhat faster, with two Mox Diamonds (discarding two Islands), two Grim Monoliths, and a Voltaic Key on his first turn. Hiemstra was taken aback, but went on the offensive, attacking on his third turn"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953206"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 09:07:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 09:07:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517090752id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-54"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-54"
 ---

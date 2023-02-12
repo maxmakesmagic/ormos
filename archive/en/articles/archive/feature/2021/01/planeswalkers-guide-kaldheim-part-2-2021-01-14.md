@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210122083805/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kaldheim-part-2-2021-01-14?h)
+[Link to Wayback Machine](https://web.archive.org/web/20210114161220/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kaldheim-part-2-2021-01-14)
 
 [_metadata_:author]:- "Ari Zirulnik and Jenna Helland"
 [_metadata_:description]:- "Ari and Jenna guide readers through the remaining nine realms of Kaldheim in Part 2 of the Planeswalker's Guide."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1522064"
 [_metadata_:publish_date]:- "2021-01-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalker's Guide to Kaldheim, Part 2"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-22 08:38:05+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122083805id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kaldheim-part-2-2021-01-14?h"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kaldheim-part-2-2021-01-14?h"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-14 16:12:20"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210114161220id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kaldheim-part-2-2021-01-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-kaldheim-part-2-2021-01-14"
 ---
 
 

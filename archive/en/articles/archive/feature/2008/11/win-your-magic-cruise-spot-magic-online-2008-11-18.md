@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Game in the Gulf – Magic Online Championship is an exciting, one-time opportunity to win one of the most interesting Magic: The Gathering experiences of the year, a five-day cruise in the Gulf of Mexico. Game in the Gulf: A Magical Cruise, presented by Legion Events and Gamer Adventures, is a premier event offering players the unique opportunity to play Magic: The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680591"
 [_metadata_:publish_date]:- "2008-11-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Win Your Magic Cruise Spot on Magic Online!"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-25 06:13:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-25 06:13:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220925061355id_/https://magic.wizards.com/en/articles/archive/feature/win-your-magic-cruise-spot-magic-online-2008-11-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/win-your-magic-cruise-spot-magic-online-2008-11-18"
 ---

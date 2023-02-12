@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jonathan Albert Format: 123 - U.S. National Championships 2008 4 Snow-Covered Island 4 Secluded Glen 4 Underground River 3 River of Tears 2 Sunken Ruins 4 Mutavault 2 Faerie Conclave 2 Pendelhaven 4 Mistbind Clique 4 Spellstutter Sprite 4 Scion of Oona 3 Vendilion Clique 4 Ancestral Vision 4 Bitterblossom 4 Rune Snag 4 Cryptic Command 4 Terror *3 Damnation *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "599136"
 [_metadata_:publish_date]:- "2008-09-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2008 U.S. Nationals Standard Decklists (A-G)"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 08:29:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 08:29:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206082924id_/https://magic.wizards.com/en/articles/archive/feature/2008-us-nationals-standard-decklists-g-2008-09-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-us-nationals-standard-decklists-g-2008-09-10"
 ---

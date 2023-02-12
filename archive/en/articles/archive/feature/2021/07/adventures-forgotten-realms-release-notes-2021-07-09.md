@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210713022619/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-release-notes-2021-07-09)
+[Link to Wayback Machine](https://web.archive.org/web/20210724003236/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-release-notes-2021-07-09)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1547812"
 [_metadata_:publish_date]:- "2021-07-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Adventures in the Forgotten Realms Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-13 02:26:19+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210713022619id_/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-release-notes-2021-07-09"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-24 00:32:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210724003236id_/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-release-notes-2021-07-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-release-notes-2021-07-09"
 ---
 
@@ -46,11 +48,11 @@ Document last modified July 4, 2021
 
 
 **PDF Download Links:**  
-[English](http://media.wizards.com/2021/downloads/AFR_Release_Notes/EN_MTGAFR_ReleaseNotes_07042021.pdf) | [中國話,漢語;中文](http://media.wizards.com/2021/downloads/AFR_Release_Notes/CT_MTGAFR_ReleaseNotes_07092021.pdf) | [中国话,汉语;中文](http://media.wizards.com/2021/downloads/AFR_Release_Notes/CS_MTGAFR_ReleaseNotes_07092021.pdf) | [Français](http://media.wizards.com/2021/downloads/AFR_Release_Notes/FR_MTGAFR_ReleaseNotes_06032021.pdf) | [Deutsch](http://media.wizards.com/2021/downloads/AFR_Release_Notes/DE_MTGAFR_ReleaseNotes_07062021.pdf)  
-[Italiano](http://media.wizards.com/2021/downloads/AFR_Release_Notes/IT_MTGAFR_ReleaseNotes_06032021.pdf) | [한글](http://media.wizards.com/2021/downloads/AFR_Release_Notes/KR_MTGAFR_ReleaseNotes_07092021.pdf) | [Português](http://media.wizards.com/2021/downloads/AFR_Release_Notes/PT_MTGAFR_ReleaseNotes_07092021.pdf) | [русский язык](http://media.wizards.com/2021/downloads/AFR_Release_Notes/RU_MTGAFR_ReleaseNotes_06032021.pdf) | [Español](http://media.wizards.com/2021/downloads/AFR_Release_Notes/SP_MTGAFR_ReleaseNotes_06032021.pdf) | [日本語](http://media.wizards.com/2021/downloads/AFR_Release_Notes/JP_MTGAFR_ReleaseNotes_07092021.pdf)
+[English](http://media.wizards.com/2021/downloads/AFR_Release_Notes/EN_MTGAFR_ReleaseNotes_07042021.pdf) | [中國話,漢語;中文](http://media.wizards.com/2021/downloads/AFR_Release_Notes/CT_MTGAFR_ReleaseNotes_07132021.pdf) | [中国话,汉语;中文](http://media.wizards.com/2021/downloads/AFR_Release_Notes/CS_MTGAFR_ReleaseNotes_07132021.pdf) | [Français](http://media.wizards.com/2021/downloads/AFR_Release_Notes/FR_MTGAFR_ReleaseNotes_06032021.pdf) | [Deutsch](http://media.wizards.com/2021/downloads/AFR_Release_Notes/DE_MTGAFR_ReleaseNotes_07062021.pdf)  
+[Italiano](http://media.wizards.com/2021/downloads/AFR_Release_Notes/IT_MTGAFR_ReleaseNotes_06032021.pdf) | [한글](http://media.wizards.com/2021/downloads/AFR_Release_Notes/KR_MTGAFR_ReleaseNotes_07092021.pdf) | [Português](http://media.wizards.com/2021/downloads/AFR_Release_Notes/PT_MTGAFR_ReleaseNotes_07092021.pdf) | [русский язык](http://media.wizards.com/2021/downloads/AFR_Release_Notes/RU_MTGAFR_ReleaseNotes_06032021.pdf) | [Español](http://media.wizards.com/2021/downloads/AFR_Release_Notes/SP_MTGAFR_ReleaseNotes_06032021.pdf) | [日本語](http://media.wizards.com/2021/downloads/AFR_Release_Notes/JP_MTGAFR_ReleaseNotes_20210716.pdf)
 
 
-The Release Notes include information concerning the release of a new *Magic: The Gathering* set, as well as a collection of clarifications and rulings involving that set's cards. It's intended to make playing with the new cards more fun by clearing up the common misconceptions and confusion inevitably caused by new mechanics and interactions. As future sets are released, updates to the *Magic* rules may cause some of this information to become outdated. Go to [**Magic.Wizards.com/Rules**](http://magic.wizards.com/rules) to find the most up-to-date rules.
+The Release Notes include information concerning the release of a new *Magic: The Gathering* set, as well as a collection of clarifications and rulings involving that set's cards. It's intended to make playing with the new cards more fun by clearing up the common misconceptions and confusion inevitably caused by new mechanics and interactions. As future sets are released, updates to the *Magic* rules may cause some of this information to become outdated. Go to [Magic.Wizards.com/Rules](http://magic.wizards.com/rules) to find the most up-to-date rules.
 
 
 The "General Notes" section includes release information and explains the mechanics and concepts in the set.
@@ -80,13 +82,13 @@ Cards found in *Adventures in Forgotten Realms* draft boosters and theme booster
 There are 62 new cards printed in the *Adventures in the Forgotten Realms* Commander Decks. These cards are legal for play in the Commander, Vintage, and Legacy formats. They aren't legal for play in the Standard, Pioneer, or Modern formats. These cards are numbered 1–62 and have printed set code AFC. The other cards in these decks are legal for play in any format that already allows those cards; that is, appearing in these decks doesn't change a card's legality in any format. Those returning cards are numbered 63–331 and have printed set code AFC.
 
 
-Go to [**Magic.Wizards.com/Formats**](http://magic.wizards.com/formats) for a complete list of formats and their permitted card sets and banned lists.
+Go to [Magic.Wizards.com/Formats](http://magic.wizards.com/formats) for a complete list of formats and their permitted card sets and banned lists.
 
 
-Go to [**Magic.Wizards.com/Commander**](http://magic.wizards.com/Commander) for more information on the Commander variant.
+Go to [Magic.Wizards.com/Commander](http://magic.wizards.com/Commander) for more information on the Commander variant.
 
 
-Go to [**Locator.Wizards.com**](http://locator.wizards.com/) to find an event or store near you.
+Go to [Locator.Wizards.com](http://locator.wizards.com/) to find an event or store near you.
 
 
 
@@ -282,7 +284,7 @@ Target creature gains double strike until end of turn.
 When you roll a natural 20, return Critical Hit from your graveyard to your hand. *(A natural 20 is a roll that displays 20 on the die.)*
 
 
-In *Adventures in the Forgotten Realms*, we introduce dice-rolling to black-bordered *Magic* for the first time. Many cards instruct you to roll dice and then tell you what to do based on the outcome. Some cards have abilities that trigger whenever you roll dice or whenever you roll a certain result. Some other cards modify die rolls.
+In *Adventures in the Forgotten Realms*, we introduce dice rolling to black-bordered *Magic* for the first time. Many cards instruct you to roll dice and then tell you what to do based on the outcome. Some cards have abilities that trigger whenever you roll dice or whenever you roll a certain result. Some other cards modify die rolls.
 
 
 * Each die is identified by the number of faces it has. For example, a d20 is a twenty-sided die. Each die must have equally likely outcomes and the roll must be fair. Although physical dice are recommended, digital substitutes are allowed, provided they have the same number of equally likely outcomes as specified in the original roll instruction.
@@ -490,8 +492,8 @@ Whenever you cast a legendary spell, exile the top two cards of your library. Yo
 
 
 * If you control multiple Bard Classes, legendary creatures you control enter the battlefield with that many additional +1/+1 counters.
-* Unlike most abilities that reduce the costs of spells, Bard Class's Level 2 ability cannot be applied to generic mana costs. For example, a spell that costs {2}{G} to cast would instead cost {2} to cast.
-* If you do not play the cards exiled with Bard Classes Level 3 ability on the turn they are exiled, they will remain exiled indefinitely and cannot be played on a later turn.
+* Unlike most abilities that reduce the costs of spells, Bard Class's level 2 ability cannot be applied to generic mana costs. For example, a spell that costs {2}{G} to cast would instead cost {2} to cast.
+* If you do not play the cards exiled with Bard Class's level 3 ability on the turn they are exiled, they will remain exiled indefinitely and cannot be played on a later turn.
 * If you exile a modal double-faced card this way, you may cast either face of that card.
 
 
@@ -563,7 +565,7 @@ Double strike
 * Phasing out doesn't cause any "leaves the battlefield" abilities to trigger. Similarly, phasing in won't cause any "enters the battlefield" abilities to trigger.
 * Any continuous effects with a "for as long as" duration, such as that of Mind Flayer, ignore phased-out objects. If ignoring those objects causes the effect's conditions to no longer be met, the duration will expire.
 * Choices made for permanents as they entered the battlefield are remembered when they phase in.
-* If an opponent gains control of your Blink Dog, activates its Teleport ability, and the duration of the control-change effect expires before it phases in, Blink Dog phases in under your control as that opponent's next untap step begins. If they leave the game before their next untap step, Blink Dog phases in as the next untap step begins after their turn would have begun.
+* If an opponent gains control of your Blink Dog, activates its teleport ability, and the duration of the control-change effect expires before it phases in, Blink Dog phases in under your control as that opponent's next untap step begins. If they leave the game before their next untap step, Blink Dog phases in as the next untap step begins after their turn would have begun.
 
 
 
@@ -4066,7 +4068,7 @@ If a creature you control attacking would cause a triggered ability of a permane
 
 ---
 
-Magic: The Gathering, Magic, Adventures in the Forgotten Realms, Dungeons & Dragons, Strixhaven: School of Mages, Kaldheim, Zendikar, Eldraine, Theros, and Ikoria, are trademarks of Wizards of the Coast LLC in the USA and other countries. ©2021 Wizards.
+*Magic: The Gathering*, *Magic*, *Adventures in the Forgotten Realms*, *Dungeons & Dragons*, *Strixhaven: School of Mages*, *Kaldheim*, *Zendikar*, *Eldraine*, *Theros*, and *Ikoria* are trademarks of Wizards of the Coast LLC in the USA and other countries. ©2021 Wizards.
 
 
 

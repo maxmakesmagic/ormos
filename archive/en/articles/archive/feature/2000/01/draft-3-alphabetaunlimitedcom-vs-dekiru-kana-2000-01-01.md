@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Half of the Top 8 from Pro Tour Tokyo was represented in a single feature draft when AlphaBetaUnlimited.com faced Dekiru-Kana?, home of Tokyo Finalist Tsuyoshi Fujita, GP Kyoto Top 8er Nakamura Hirobumi, and former Japanese National Champion Masayuki Higashino 2B picked a Pyre Zombie, giving a Benalish Trapper to 3B and a Nomadic Elf to Ryan Fuller. 3B's pack gave him a Probe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806601"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Draft 3: AlphaBetaUnlimited.com vs. Dekiru-Kana?"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 16:14:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 16:14:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701161452id_/https://magic.wizards.com/en/articles/archive/feature/draft-3-alphabetaunlimitedcom-vs-dekiru-kana-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-3-alphabetaunlimitedcom-vs-dekiru-kana-2000-01-01"
 ---

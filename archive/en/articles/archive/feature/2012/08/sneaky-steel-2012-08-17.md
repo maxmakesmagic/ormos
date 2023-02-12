@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "If you have read a couple of Magic strategy articles, or watched a few interviews at a Pro Tour, you have probably heard people mention this thing called a metagame. Now, technically, metagame is a made up word when used in the context that we do, but aren't all words? What it comes to mean in our little world, though, is simply `the existing decks, ideas, and strategies that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665426"
 [_metadata_:publish_date]:- "2012-08-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sneaky Steel"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 10:29:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 10:29:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023102937id_/https://magic.wizards.com/en/articles/archive/feature/sneaky-steel-2012-08-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sneaky-steel-2012-08-17"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This week's wallpaper features Scott Chou's Mishra's Factory artwork from Elspeth vs. Tezzeret, which goes on sale today. Enjoy. 1024x768 pixels 1280x960 pixels 1280x1024 pixels 2560x1600 pixels 320x480 pixels (iPhone) See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "656491"
 [_metadata_:publish_date]:- "2010-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Mishra's Factory"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:59:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:59:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525095908id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mishras-factory-2010-09-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mishras-factory-2010-09-03"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Steve Sadin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "315400"
 [_metadata_:publish_date]:- "2011-09-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: It Ain't Easy Drafting Green"
-[_metadata_:wayback_capture_timestamp]:- "2015-09-11 20:51:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-11 20:51:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150911205134id_/http://magic.wizards.com/en/articles/archive/feature/feature-it-aint-easy-drafting-green-2011-09-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-it-aint-easy-drafting-green-2011-09-03"
 ---

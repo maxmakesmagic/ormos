@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "This is it. After this, Online Tech comes to an end. I am leaving, mainly in order to focus on finishing up my graduate degree. I want take a moment to thank all of my fans and loyal readers. I am glad I have been able to contribute with metagame updates and deck technology in the last year, and I hope you enjoyed it. With that out of the way I still have today's final column"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624746"
 [_metadata_:publish_date]:- "2007-09-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Final Analysis"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 12:07:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 12:07:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502120754id_/https://magic.wizards.com/en/articles/archive/feature/final-analysis-2007-09-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-analysis-2007-09-26"
 ---

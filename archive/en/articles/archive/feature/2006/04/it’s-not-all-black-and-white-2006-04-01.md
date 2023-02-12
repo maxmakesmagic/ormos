@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625431"
 [_metadata_:publish_date]:- "2006-04-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "It’s Not All Black and White"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-12 17:45:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-12 17:45:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161012174541id_/http://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-not-all-black-and-white-2006-04-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-not-all-black-and-white-2006-04-01"
 ---

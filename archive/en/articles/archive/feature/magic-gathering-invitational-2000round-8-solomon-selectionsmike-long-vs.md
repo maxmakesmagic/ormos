@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Mike Long Divides  Mike Long Darwin Kastle Icatian Phalanx Meteor Shower Giant Tortoise Repentance Abduction Fissure Anaba Shaman Ball Lightning Pack #2 - Darwin Kastle Divides  Mike Long Darwin Kastle Rhox Shaman en-Kor Blue Elemental Blast Barbed Sextant Bounty Hunter Spitting Earth Havoc Curiosity Pack #3 - Mike Long Divides  Mike Long Darwin Kastle Soul Feast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949931"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 8 Solomon SelectionsMike Long vs. Darwin Kastle"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:05:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:05:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524070505id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsmike-long-vs"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsmike-long-vs"
 ---

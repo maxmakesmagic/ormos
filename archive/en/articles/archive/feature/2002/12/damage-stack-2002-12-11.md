@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "To say that I underestimated the response I'd get to my column `Thanksgiving in Dominia` is an understatement. Over 150 emails came pouring in from all corners of the world. Some people had just started playing Magic this year. Some had only played Magic Online. Others had been with the game since the Alpha set, while still others began with Revised Edition, quit, and then came back. But they all had one thing in common:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "615766"
 [_metadata_:publish_date]:- "2002-12-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Damage on the Stack"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-03 18:25:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-03 18:25:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170403182545id_/http://magic.wizards.com/en/articles/archive/feature/damage-stack-2002-12-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/damage-stack-2002-12-11"
 ---

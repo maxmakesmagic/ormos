@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210605105357/https://magic.wizards.com/en/articles/archive/feature/updating-list-modern-horizons-2-2021-06-04?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20210604143213/https://magic.wizards.com/en/articles/archive/feature/updating-list-modern-horizons-2-2021-06-04)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Check out our latest updates to The List, 300 interesting cards from Magic's past that can be found in Modern Horizons 2 Set Boosters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1541918"
 [_metadata_:publish_date]:- "2021-06-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Updating The List for Modern Horizons 2"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-05 10:53:57+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210605105357id_/https://magic.wizards.com/en/articles/archive/feature/updating-list-modern-horizons-2-2021-06-04?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/updating-list-modern-horizons-2-2021-06-04?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-04 14:32:13"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210604143213id_/https://magic.wizards.com/en/articles/archive/feature/updating-list-modern-horizons-2-2021-06-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/updating-list-modern-horizons-2-2021-06-04"
 ---
 
 

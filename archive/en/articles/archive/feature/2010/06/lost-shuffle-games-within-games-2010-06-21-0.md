@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Richard Garfield"
 [_metadata_:description]:- "Long ago, in the time before time, there was The Duelist, a monthly magazine about Magic and gaming that was the predecessor to this very site. And in The Duelist, Richard Garfield, creator of Magic, wrote a near-monthly column called Lost in the Shuffle, which we've already archived some of here. Dr."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684321"
 [_metadata_:publish_date]:- "2010-06-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Lost in the Shuffle: Games Within Games"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-16 04:06:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-16 04:06:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160916040635id_/http://magic.wizards.com/en/articles/archive/feature/lost-shuffle-games-within-games-2010-06-21-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lost-shuffle-games-within-games-2010-06-21-0"
 ---

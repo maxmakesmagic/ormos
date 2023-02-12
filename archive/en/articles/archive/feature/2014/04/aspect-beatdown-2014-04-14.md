@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "I've heard some rumblings of Mono-Green Aggro decks with the potential to compete against the big boys of Standard, but I was skeptical. After all, there are problematic cards like Supreme Verdict around, but they don't always have it. Even if they do, you can kill them on turn three with a great draw. Barring that, you have Gods, Boon Satyr, and Experiment One to give you"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667826"
 [_metadata_:publish_date]:- "2014-04-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aspect of Beatdown"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 06:32:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 06:32:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816063222id_/https://magic.wizards.com/en/articles/archive/feature/aspect-beatdown-2014-04-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aspect-beatdown-2014-04-14"
 ---

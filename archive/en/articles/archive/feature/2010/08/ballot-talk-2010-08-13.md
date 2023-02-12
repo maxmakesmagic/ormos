@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Tom Jenkot"
 [_metadata_:description]:- "The 2010 Pro Tour Hall of Fame ballot went out two weeks ago. Who will join the likes of Kai Budde, Mike Turian, Zvi Mowshowitz, John Finkel, and a dozen others voted the best competitive Magic players in the world? No one knows. But a few people have some ideas.Without giving away who he was voting for, Daily MTG writer Brian David-Marshall wrote anoverview of the entire"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "601226"
 [_metadata_:publish_date]:- "2010-08-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ballot Talk"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 03:42:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 03:42:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117034222id_/https://magic.wizards.com/en/articles/archive/feature/ballot-talk-2010-08-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ballot-talk-2010-08-13"
 ---

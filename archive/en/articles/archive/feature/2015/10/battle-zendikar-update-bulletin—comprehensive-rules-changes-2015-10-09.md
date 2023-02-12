@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112010041/https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-update-bulletin%E2%80%94comprehensive-rules-changes-2015-10-09)
+[Link to Wayback Machine](https://web.archive.org/web/20151022082517/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-update-bulletin%E2%80%94comprehensive-rules-changes-2015-10-09)
 
-[_metadata_:description]:- "What are the Comprehensive Rules? Magic is complicated. No, really. When you have more than 13,000 interchangeable game pieces, you get some freaky interactions. The Comprehensive Rules cover everything the game has ever come up with, from basic game play structure, to every keyword ever, to entire pages dedicated to single bizarre cards (hello, [autocard]Karn Liberated[/autocard]!)."
+[_metadata_:description]:- "What are the Comprehensive Rules? Magic is complicated. No, really. When you have more than 13,000 interchangeable game pieces, you get some freaky interactions. The Comprehensive Rules cover everything the game has ever come up with, from basic game play structure, to every keyword ever, to entire pages dedicated to single bizarre cards (hello, Karn Liberated!)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733811"
 [_metadata_:publish_date]:- "2015-10-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battle for Zendikar Update Bulletin—Comprehensive Rules Changes"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:00:41+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112010041id_/https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-update-bulletin%E2%80%94comprehensive-rules-changes-2015-10-09"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-update-bulletin%E2%80%94comprehensive-rules-changes-2015-10-09"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-22 08:25:17"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151022082517id_/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-update-bulletin%E2%80%94comprehensive-rules-changes-2015-10-09"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-update-bulletin%E2%80%94comprehensive-rules-changes-2015-10-09"
 ---
 
 
@@ -19,7 +21,6 @@ Battle for Zendikar Update Bulletin—Comprehensive Rules Changes
 
  Posted in **Feature**
  on October 9, 2015 
-
 
 
 
@@ -99,7 +100,7 @@ Subsequent rules were renumbered.
 ![](https://media.wizards.com/2015/images/daily/cardart_BFZ-Evolving-Wilds.jpg)
 
 
-[Evolving Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Evolving+Wilds) | Art by [Izzy](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Izzy%22%5D)
+[Evolving Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Evolving+Wilds) | Art by [Izzy](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+[%22Izzy%22])
 
 
 **601.2 and 601.2e**

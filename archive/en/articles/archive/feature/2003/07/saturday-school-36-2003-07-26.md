@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Editor's Note: Rune had a couple weeks off while I was on leave. But fear not; we're back on our normal schedule now. –AaronSend your rules questions to level 4 judge Rune Horvik at ask@wizards.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Beginner"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622236"
 [_metadata_:publish_date]:- "2003-07-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #36"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 17:16:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 17:16:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124171623id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-36-2003-07-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-36-2003-07-26"
 ---

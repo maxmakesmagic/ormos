@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Richmond is brought to you by StarCityGames.com."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729391"
 [_metadata_:publish_date]:- "2014-01-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Richmond Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 05:09:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 05:09:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927050940id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-event-information-2014-01-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-richmond-event-information-2014-01-15"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Innistrad Wallpaper 1 1024x768 pixels1280x960 pixels20 H.M. Ava.7191280x1024 pixels2560x1600 pixels640x960 pixels (iPhone)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "697726"
 [_metadata_:publish_date]:- "2011-08-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpapers"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 17:35:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 17:35:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127173521id_/https://magic.wizards.com/en/articles/archive/feature/wallpapers-2011-08-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpapers-2011-08-31"
 ---

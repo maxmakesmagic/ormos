@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Here in the United States we're observing the national holiday of Memorial Day, and the office at Wizards of the Coast is closed. We'll be back with new columns tomorrow, Tuesday, May 29. In the meantime, since Planechase (2012 Edition) releases this coming Friday (June 1), we went back into the archives to share Mark Rosewater's article about the original Planechase published"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "655266"
 [_metadata_:publish_date]:- "2012-05-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planechasing Your Dream"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:28:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:28:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502052831id_/https://magic.wizards.com/en/articles/archive/feature/planechasing-your-dream-2012-05-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planechasing-your-dream-2012-05-28"
 ---

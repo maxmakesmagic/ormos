@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Points Team Points Team 20 Antarctica 21 Your Move Games 16 Cacti 15 Team Panakia 20 Coolers 18 Hubbo 20 Dogma 20 Pudge 18 Fungusaur 16"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952056"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Round 9 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 22:59:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 22:59:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205225924id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-9-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-9-pairings-2000-01-01"
 ---

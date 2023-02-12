@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805566"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gateway Top 8: Tony Dobson vs. Noah Weil"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:03:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:03:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140320id_/http://magic.wizards.com/en/articles/archive/feature/gateway-top-8-tony-dobson-vs-noah-weil-2015-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gateway-top-8-tony-dobson-vs-noah-weil-2015-10-15"
 ---

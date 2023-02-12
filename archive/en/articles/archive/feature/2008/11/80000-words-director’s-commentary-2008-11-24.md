@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210418203456/https://magic.wizards.com/en/articles/archive/feature/80000-words-director%E2%80%99s-commentary-2008-11-24)
+[Link to Wayback Machine](https://web.archive.org/web/20211130093514/https://magic.wizards.com/en/articles/archive/feature/80000-words-director%E2%80%99s-commentary-2008-11-24)
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "On August 7, 2006, Making Magic featured one of my most popular columns of all time. In it, I took the readers on an eighty-picture tour of Wizards of the Coast. The only words in the column were scribbled on two small white boards that I carried around with me. This, of course, means that one of my most popular columns of all time also had my smallest word count ever. On a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653506"
 [_metadata_:publish_date]:- "2008-11-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "80,000 Words (with Director’s Commentary)"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 20:34:56+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418203456id_/https://magic.wizards.com/en/articles/archive/feature/80000-words-director%E2%80%99s-commentary-2008-11-24"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 09:35:14"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130093514id_/https://magic.wizards.com/en/articles/archive/feature/80000-words-director%E2%80%99s-commentary-2008-11-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/80000-words-director%E2%80%99s-commentary-2008-11-24"
 ---
 
@@ -200,7 +202,7 @@ I really wanted to have a light tone to the tour, so I had a couple of shots lik
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/making/mr240_16.jpg)
 
 
-Let me start by saying, yes this is [Shivan Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Dragon). It was originally created to hang in the very first Wizards of the Coast Tournament Center. Back in the day, Wizards tried getting into the retail business and the Tournament Center was our first big outing of the idea. The 1997 World Championships were held there. (The 1996 World Championships were held at the old building.)
+Let me start by saying, yes this is [Shivan Dragon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Dragon). It was originally created to hang in the very first Wizards of the Coast Tournament Center. Back in the day, Wizards tried getting into the retail business and the Tournament Center was our first big outing of the idea. The 1997 World Championships were held there. (The 1996 World Championships were held at the old building.)
 
 
 Anyway, the Shivan Dragon was made for the Tournament Center. When it closed, the statue was moved to our corporate headquarters. There's actually [a cool **Magic** Arcana](/en/articles/archive/wotc-dragon-moves-2005-10-17) about us moving it across the street. This is the first of a number of photos that prove that I suck at displaying facial emotions. That's supposed to be fear. By the way, if you can't tell, the Shivan Dragon is hung from the ceiling so it hangs in the air.
@@ -250,7 +252,7 @@ As I mentioned earlier, Wizards is on three floors—the second, third, and four
 * large trash cans and recycling bins
 * a "free" table (I'll also explain this one when we get to the appropriate photo)
 
-The tricky bit about this picture was that I wanted to show the [Goblin Rock Sled](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Rock+Sled) statue along with the kitchen. This is where the "I crouch down and am only barely in the picture" tech came from.
+The tricky bit about this picture was that I wanted to show the [Goblin Rock Sled](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Rock+Sled) statue along with the kitchen. This is where the "I crouch down and am only barely in the picture" tech came from.
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/making/mr240_21.jpg)
@@ -377,7 +379,7 @@ One of my goals with this column was to let people put faces with names. Scott o
 We sure do seem to have a lot of **Magic** statues at the corporate office. The answer to this is that almost all of them were made for our retail stores back when we had Wizards of the Coast branded game stores. When they shut down, many of the statues were brought back to the office (in addition to numerous non-**Magic** statues such as Star Wars—you'll see a few before the tour is over).
 
 
-The giant card in the Jester's left hand (this statue, for those who don't know, is from the art of *Ice* *Age*'s [Jester's Cap](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jester%27s+Cap)) was part of a series of oversized cards that Organized Play used to give out as prizes many years ago. Numerous R&D members, myself included, had a league many years ago where we played with giant decks. Getting enough land proved to be the biggest challenge.
+The giant card in the Jester's left hand (this statue, for those who don't know, is from the art of *Ice* *Age*'s [Jester's Cap](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jester%27s+Cap)) was part of a series of oversized cards that Organized Play used to give out as prizes many years ago. Numerous R&D members, myself included, had a league many years ago where we played with giant decks. Getting enough land proved to be the biggest challenge.
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/making/mr240_31.jpg)

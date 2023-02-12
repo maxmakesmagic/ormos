@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentA.S.K.Drew 1-1-1vsStay CoolAAAWon 2-1vsSTABCCWon 2-1vsNanten-BabatenAbsoluteWon 3-0vsAsian PapillonAibonLost 1-2vsWizard's BrainAin't afraid to dieWon 2-0-1vsDuel MachineAir OrangeWon 3-0vsSouls of RugernaAkebono OyakatanhoizaLost 0-2-1vsMMR alphaAkko ni OmakaseLost 0-3vsRikarinAll time 6000yenWon 3-0vsMKGAncestral MemoriesWon 2-1vsReckless"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806931"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 5 Results (by Player)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 22:55:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 22:55:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630225544id_/https://magic.wizards.com/en/articles/archive/feature/round-5-results-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-results-player-2000-01-01"
 ---

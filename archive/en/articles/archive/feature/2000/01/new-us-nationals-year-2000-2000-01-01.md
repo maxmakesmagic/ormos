@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan The U.S. Nationals begins every year the same way - with hopeful competitors trying to qualify for a chance to play in the National Championship in a series of Open Tournaments, called `the Meatgrinders` by the players. While U.S. Nationals opened the same way this year, there were a number of major changes. In previous years, the country's largest gaming"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949506"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A New U.S. Nationals for the Year 2000"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 09:37:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 09:37:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128093714id_/https://magic.wizards.com/en/articles/archive/feature/new-us-nationals-year-2000-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-us-nationals-year-2000-2000-01-01"
 ---

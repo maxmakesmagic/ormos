@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3195028 2185014 117507 Rating used: Limited, December 18, 2002 Pro Point Standings Used: 2002 Pro Tour HoustonTo find the number of byes you have for Grand Prix-Kyoto, go to the appropriate list below (sorted by last name): A-B C-D E-G H-J K-L M-N O-R S T-V W-Z For questions about this page,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735101"
 [_metadata_:publish_date]:- "2002-12-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Kyoto Byes"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 01:13:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 01:13:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026011352id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kyoto-byes-2002-12-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kyoto-byes-2002-12-20"
 ---

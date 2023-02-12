@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Adam, Felix Maurey, Tyler Won, 2-1 Ames, David Norton, Douglas Lost, 0-2 Anderson, Eddie Percopo, Joe Lost, 0-2 Ash, Kevin Carroll, Brendan Won, 2-1 Aune, Eirik Tidd, David Won, 2-1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948876"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Super Series Championship Round 7 Results"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-03 14:28:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-03 14:28:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200803142831id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-7-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-7-results-2000-01-01"
 ---

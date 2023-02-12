@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chad Ellis"
 [_metadata_:description]:- "Rob Dougherty, 2nd Place - PT Houston ‘02The other day I spoke with Rob Dougherty about preparing for the upcoming MD5 block constructed PTQ season. One very nice side effect of writing this column is that Wizards of the Coast provided me with a “super” account with four of every card. (No, I'm not allowed to trade with it, so don't ask!) While I'm not able to enter any events"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620481"
 [_metadata_:publish_date]:- "2004-06-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "On Again Off Again"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 10:42:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 10:42:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123104257id_/https://magic.wizards.com/en/articles/archive/feature/again-again-2004-06-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/again-again-2004-06-29"
 ---

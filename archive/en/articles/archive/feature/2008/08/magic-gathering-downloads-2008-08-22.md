@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Want to explore the worlds of Magic: The Gathering outside the printed word? Enjoy our video, audio, and visual downloads right here! Wallpapers Decorate your computer with the latest images from the game. Visit the Wallpapers Archive here. Sample Wallpaper: Bogardan Hellkite 1280x1024 pixels 1024x768 pixels 800x600 pixels Video From the basics of the game all the way to the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635166"
 [_metadata_:publish_date]:- "2008-08-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Downloads"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 06:44:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 06:44:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026064429id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-downloads-2008-08-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-downloads-2008-08-22"
 ---

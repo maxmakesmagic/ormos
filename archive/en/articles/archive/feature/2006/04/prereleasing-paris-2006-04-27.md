@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Olivier Ruel"
 [_metadata_:description]:- "Welcome to GP Paris! Err… no wait, to the Paris Prerelease of DissensionI played a prerelease in Moscow and another one in Tokyo in 2005, but it’s been a long time since I last played one in Paris. The huge crowd waiting to register was the first good surprise. Of course the tournament wouldn't start early, but as there would be another prerelease in Paris suburbs on Sunday,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "610001"
 [_metadata_:publish_date]:- "2006-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Prereleasing in Paris"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:58:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:58:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021045822id_/https://magic.wizards.com/en/articles/archive/feature/prereleasing-paris-2006-04-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prereleasing-paris-2006-04-27"
 ---

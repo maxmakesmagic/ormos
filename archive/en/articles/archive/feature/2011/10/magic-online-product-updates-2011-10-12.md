@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Kiritz"
 [_metadata_:description]:- "With Innistrad lurking just around the corner (available in the Magic Online Store on October 17), the Zendikar Block - which includes the Zendikar, Worldwake, and Rise of the Eldrazi sets - is no longer available for purchase following our October 12 downtime. We will also make a few additional changes to the Magic Online product lineup starting Wednesday, October 19.First,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688276"
 [_metadata_:publish_date]:- "2011-10-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Product Updates"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 15:10:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 15:10:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528151012id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-product-updates-2011-10-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-product-updates-2011-10-12"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Points Team Points Team 6 3 Aces 6 Fungusaur 9 Antarctica 9 Josh Napper Fan Club 6 Backstreetboys 7 Tighttanic 6 BattleZone 6 The Right Brothers 6 Beat Squad"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952136"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Round 4 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 22:08:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 22:08:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205220837id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-4-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-4-pairings-2000-01-01"
 ---

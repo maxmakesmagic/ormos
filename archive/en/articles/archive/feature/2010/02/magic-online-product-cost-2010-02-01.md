@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Your payment total:$9.99 (plus tax)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633286"
 [_metadata_:publish_date]:- "2010-02-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Product Cost"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 21:36:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 21:36:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023213642id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-product-cost-2010-02-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-product-cost-2010-02-01"
 ---

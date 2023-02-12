@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: BryTheFryGuy's Singleton Elves Format: Magic Online Singleton 1 Bloodstained Mire 14 Forest 1 Gilt-Leaf Palace 1 Golgari Rot Farm 1 Llanowar Wastes 1 Mishra's Factory 1 Murmuring Bosk 1 Mutavault 1 Overgrown Tomb 1 Pendelhaven 1 Polluted Delta 1 Sapseep Forest 1 Swamp 1 Tranquil Thicket 1 Treetop Village 1 Twilight Mire 1 Volrath's Stronghold 1 Wasteland 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668526"
 [_metadata_:publish_date]:- "2009-07-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Singleton Elves"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 00:23:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 00:23:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819002330id_/https://magic.wizards.com/en/articles/archive/feature/singleton-elves-2009-07-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/singleton-elves-2009-07-10"
 ---

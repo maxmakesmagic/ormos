@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Thanks to tournament organizer Barrat Moy for the decklists.[decklist] Title: Pat McGregor Format: 1st Place - Iowa - Des Moines - 11/15 4 Forest 5 Mountain 6 Swamp 1 Crumbling Necropolis 1 Jungle Shrine 1 Blood Cultist 1 Goblin Deathraiders 2 Corpse Connoisseur 2 Fleshbag Marauder 1 Grixis Battlemage 1 Undead Leotau 1 Scourge Devil 1 Thorn-Thrash Viashino 1 Rip-Clan Crasher 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "726896"
 [_metadata_:publish_date]:- "2008-11-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Kyoto Qualifying Season: Top 8 Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 23:50:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 23:50:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021235024id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-11-17-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-11-17-0"
 ---

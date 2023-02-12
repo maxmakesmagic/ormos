@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "DateInvitation OriginCityName 12-May-022002 National ChampionTaipeiKuo, Tzu-Ching 12-May-022002 National TeamTaipeiWeng, Chen Yu 12-May-022002 National TeamTaipeiTsai, Mng Yi (Miller) 12-May-02Top 4 2002 NationalsTaipeiTamber, Tobey 29-Mar-03Top 8 Nationals QualifierTainanHuang, Andy 29-Mar-03Top 8 Nationals QualifierTainanZen, Hsieh X 29-Mar-03Top 8 Nationals"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733426"
 [_metadata_:publish_date]:- "2003-05-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2003 Magic: The Gathering Chinese Taipei National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 11:19:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 11:19:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027111942id_/https://magic.wizards.com/en/articles/archive/feature/2003-magic-gathering-chinese-taipei-national-championship-2003-05-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2003-magic-gathering-chinese-taipei-national-championship-2003-05-16"
 ---

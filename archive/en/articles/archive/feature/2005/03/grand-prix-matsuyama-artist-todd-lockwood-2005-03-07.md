@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Todd LockwoodCard NameCard Set Blinding Angel8EDRushwood Dryad8EDAngel of LightStarter 1999Goblin CommandoStarter 1999Azusa, Lost but SeekingChampions of KamigawaImi StatueChampions of KamigawaLeonin Den-GuardMirrodinLeonin ElderMirrodinPower ConduitMirrodinTaj-Nar SwordsmithMirrodinElvish PathcutterOnslaughtKavu TitanInvasionCrypt AngelInvationBlinding"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735251"
 [_metadata_:publish_date]:- "2005-03-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Matsuyama Artist: Todd Lockwood"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 06:52:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 06:52:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026065246id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-matsuyama-artist-todd-lockwood-2005-03-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-matsuyama-artist-todd-lockwood-2005-03-07"
 ---

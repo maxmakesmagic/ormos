@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Atlanta Trials will be run at WPN locations from April 21 to June 17, 2012. Each awards the winner a three-round bye to Grand Prix Atlanta.WPN Locations in the Atlanta, Georgia Area Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the individual store running"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728091"
 [_metadata_:publish_date]:- "2012-04-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Atlanta 2012 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:48:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:48:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018054817id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlanta-2012-trials-2012-04-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlanta-2012-trials-2012-04-02"
 ---

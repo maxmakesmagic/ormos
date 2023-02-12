@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Decklists are the heart and soul of Magic data on the Internet; they provide the mortar for all those cardboard bricks you find in booster packs. But in a way, a list of cards isn't enough. Just from the decklist, you don't really get a sense of how the deck plays, how it implements a plan, how it wins. To get the real feel of a deck, you have to shuffle it up, draw seven, and start seeing possibilities.  That's why I'm proud to introduce magicthegathering.com's new Sample Hand Generator."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632241"
 [_metadata_:publish_date]:- "2005-11-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Introducing the Sample Hand Generator"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-27 11:54:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-27 11:54:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160727115448id_/http://magic.wizards.com/en/articles/archive/feature/introducing-sample-hand-generator-2005-11-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/introducing-sample-hand-generator-2005-11-09"
 ---

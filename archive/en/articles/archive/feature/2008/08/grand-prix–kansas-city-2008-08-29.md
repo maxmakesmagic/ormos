@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635146"
 [_metadata_:publish_date]:- "2008-08-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Kansas City"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-23 23:08:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-23 23:08:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170323230828id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kansas-city-2008-08-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kansas-city-2008-08-29"
 ---

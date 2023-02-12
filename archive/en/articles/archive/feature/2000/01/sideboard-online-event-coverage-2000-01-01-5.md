@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 4 Results - 15-17 Division Player Opponent Results Adams, Zach Harrison, Chancey Lost, 0-2 Allen, Crispin Mason, Eric Won, 2-1 Baker, Justin Slapak, Mark Won, 2-1 Brubaker, Jake Wescoe, Craig Lost, 1-2 Cahir, Dan Green, Jordan Draw, 1-1 Carey, Joey Leone, Paul Lost, 1-2 Carpenter, Ryan Fears, Adam Won, 2-0 Cooper, Geddes Morgan, William"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953406"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 08:27:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 08:27:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520082703id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-5"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-5"
 ---

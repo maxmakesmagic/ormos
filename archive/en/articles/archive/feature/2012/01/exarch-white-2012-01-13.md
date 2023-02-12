@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TCGPlayer.com columnist Justin Vizaro is all about putting spins on established archetypes. This week, he looked at the white-blue Moorland Haunt deck in Standard and puts his own spin on it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671936"
 [_metadata_:publish_date]:- "2012-01-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Exarch White"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 20:37:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 20:37:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025203750id_/https://magic.wizards.com/en/articles/archive/feature/exarch-white-2012-01-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/exarch-white-2012-01-13"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is perfectly suited for Mana Fixing Week: From Conflux, it's Mark Zug's Noble Hierarch,. Enjoy. Regular (1280x960 pixels) Widescreen (2560x1600 pixels) iPhone (320x480 pixels)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "652831"
 [_metadata_:publish_date]:- "2009-03-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Noble Hierarch"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 18:36:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 18:36:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130183616id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-noble-hierarch-2009-03-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-noble-hierarch-2009-03-27"
 ---

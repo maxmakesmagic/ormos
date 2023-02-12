@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Puerto Rico Nationals Invitation list comprises the following: The current Puerto Rico National Champion and members of the current Puerto Rico national team (including alternate). Players from Puerto Rico with Pro Tour Players Club level 2 or higher. Winners of invitations through National Qualifiers. Winners of invitations through Puerto Rico National Open tournaments"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730336"
 [_metadata_:publish_date]:- "2010-06-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2010 National Championship Invitations"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 04:30:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 04:30:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523043047id_/https://magic.wizards.com/en/articles/archive/feature/2010-national-championship-invitations-2010-06-17-4"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-national-championship-invitations-2010-06-17-4"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "NameLocationCityPhoneLand of Magic - igraonicaFrankopanska 22Zagreb385916130262AlmusViktora Cara Emina 9Rijeka385916130262MZ CentarPavlinska 6Varazdin385916130262Dom MladihHrvatske drzavnosti 10Koprivnica385916130262Gradska cetvrt `Sijenjak`Sijenjak 133Osijek385916130262Dom IzvidjacaNazorova 2Vinkovci385916130262Vatrogasni domSplitska bb Djakovo385916130262Klub mladeži Crvenog"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "709006"
 [_metadata_:publish_date]:- "2003-06-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Summer of Magic"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:32:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:32:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520213243id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-6"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-6"
 ---

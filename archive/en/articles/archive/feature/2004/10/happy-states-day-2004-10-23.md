@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. Welcome to Saturday School on States Day (or Province, Island, Territory Day for our buddies in the UK, Ireland, Australia, and New Zealand). I'll be in Seattle on States Day, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624811"
 [_metadata_:publish_date]:- "2004-10-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Happy States Day!"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 12:05:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 12:05:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811120533id_/https://magic.wizards.com/en/articles/archive/feature/happy-states-day-2004-10-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/happy-states-day-2004-10-23"
 ---

@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20180914124540/https://magic.wizards.com/en/articles/archive/feature/battlebond-release-notes-2018-06-01?t=)
+[Link to Wayback Machine](https://web.archive.org/web/20180604164428/https://magic.wizards.com/en/articles/archive/feature/battlebond-release-notes-2018-06-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1292206"
 [_metadata_:publish_date]:- "2018-06-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battlebond Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2018-09-14 12:45:40+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180914124540id_/https://magic.wizards.com/en/articles/archive/feature/battlebond-release-notes-2018-06-01?t="
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battlebond-release-notes-2018-06-01?t="
+[_metadata_:wayback_capture_timestamp]:- "2018-06-04 16:44:28"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180604164428id_/https://magic.wizards.com/en/articles/archive/feature/battlebond-release-notes-2018-06-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battlebond-release-notes-2018-06-01"
 ---
 
 
@@ -49,7 +51,7 @@ Document last modified March 1, 2018.
 [English](http://media.wizards.com/2018/downloads/BBD_Release_Notes/EN_MTGBBD_ReleaseNotes.docx) | [中国话,汉语;中文](http://media.wizards.com/2018/downloads/BBD_Release_Notes/CS_MTGBBD_ReleaseNotes.docx) | [日本語](http://media.wizards.com/2018/downloads/BBD_Release_Notes/JP_MTGBBD_ReleaseNotes.docx)
 
 
-The Release Notes include information concerning the release of a new *Magic: The Gathering* set, as well as a collection of clarifications and rulings involving that set's cards. It's intended to make playing with the new cards more fun by clearing up the common misconceptions and confusion inevitably caused by new mechanics and interactions. As future sets are released, updates to the *Magic* rules may cause some of this information to become outdated. If you can't find the answer you're looking for here, please contact us at [https://magic-support.wizards.com](https://magic-support.wizards.com/).
+The Release Notes include information concerning the release of a new *Magic: The Gathering* set, as well as a collection of clarifications and rulings involving that set's cards. It's intended to make playing with the new cards more fun by clearing up the common misconceptions and confusion inevitably caused by new mechanics and interactions. As future sets are released, updates to the *Magic* rules may cause some of this information to become outdated. If you can't find the answer you're looking for here, please contact us at [Wizards.com/CustomerService](http://www.wizards.com/CustomerService).
 
 
 The "General Notes" section includes release information and explains the mechanics and concepts in the set.

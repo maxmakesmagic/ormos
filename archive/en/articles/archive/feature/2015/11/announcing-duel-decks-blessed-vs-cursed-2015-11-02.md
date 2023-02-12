@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20151117071017/http://magic.wizards.com/en/articles/archive/feature/announcing-duel-decks-blessed-vs-cursed-2015-11-02)
+[Link to Wayback Machine](https://web.archive.org/web/20151119011601/http://magic.wizards.com/en/articles/archive/feature/announcing-duel-decks-blessed-vs-cursed-2015-11-02)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Holy Warriors Unite Against the Unquiet Dead"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "821251"
 [_metadata_:publish_date]:- "2015-11-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing Duel Decks: Blessed vs. Cursed"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-17 07:10:17+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151117071017id_/http://magic.wizards.com/en/articles/archive/feature/announcing-duel-decks-blessed-vs-cursed-2015-11-02"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-19 01:16:01"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151119011601id_/http://magic.wizards.com/en/articles/archive/feature/announcing-duel-decks-blessed-vs-cursed-2015-11-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/announcing-duel-decks-blessed-vs-cursed-2015-11-02"
 ---
 

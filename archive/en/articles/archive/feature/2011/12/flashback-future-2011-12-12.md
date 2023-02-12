@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13; Finally, we get to Flashback Week. I had this whole column all prepared. I was going to rerun my column from the original Flashback Week and then add in a whole article's worth of comments about the article. What could be more fun than flashbacking my own flashback column? Turns out there was one problem with the idea, one I didn't realize until I sat down to write it: I never wrote a flashback column."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654431"
 [_metadata_:publish_date]:- "2011-12-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Flashback to the Future"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-13 20:57:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-13 20:57:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170313205734id_/http://magic.wizards.com/en/articles/archive/feature/flashback-future-2011-12-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/flashback-future-2011-12-12"
 ---

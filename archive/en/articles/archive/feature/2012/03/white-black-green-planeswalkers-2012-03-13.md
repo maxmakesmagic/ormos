@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Last weekend, at the StarCityGames.com Open Series in Dallas, planeswalkers showed up in Standard in a big way. David Palmer brought an entourage of planeswalkers along with him, playing a total of fifteen in his deck! Making it all the way to the finals, Palmer's three-color deck fits in all the best planeswalkers in its colors and has some of the most powerful control elements in the format to protect them."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672171"
 [_metadata_:publish_date]:- "2012-03-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "White-Black-Green Planeswalkers"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-08 20:42:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-08 20:42:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170508204234id_/http://magic.wizards.com/en/articles/archive/feature/white-black-green-planeswalkers-2012-03-13"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/white-black-green-planeswalkers-2012-03-13"
 ---

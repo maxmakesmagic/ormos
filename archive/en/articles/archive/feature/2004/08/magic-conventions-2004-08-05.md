@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Summer is here, and that means convention season for gamers. From huge gatherings like Origins and Gen Con to smaller conventions like DexCon, to one-day events organized by local fans, there is plenty to keep a gamer busy in these hot months. New games rely on the larger conventions to generate interest. They hope that the most avid gamers will be excited by the new product"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638406"
 [_metadata_:publish_date]:- "2004-08-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic At Conventions"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 12:57:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 12:57:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021125716id_/https://magic.wizards.com/en/articles/archive/feature/magic-conventions-2004-08-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-conventions-2004-08-05"
 ---

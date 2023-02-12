@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Derek Mortimer's Erhnam and Burn 'Em Format: 1996 Northwest Regionals 9 Forest 4 Karplusan Forest 9 Mountain 4 Elvish Archers 4 Erhnam Djinn 1 Fyndhorn Elves 4 Llanowar Elves 2 Lhurgoyf 3 Tinder Wall 3 Dragon Whelp 2 Orcish Lumberjack 2 Sylvan Library 2 Fireball 4 Incinerate 3 Jokulhaups 4 Lightning Bolt *3 Tranquility *4 Whirling Dervish *2 Anarchy *1 Detonate *3 Red Elemental Blast *2 Shatter"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670386"
 [_metadata_:publish_date]:- "2010-11-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Erhnam and Burn 'Em"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-16 12:45:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-16 12:45:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116124554id_/https://magic.wizards.com/en/articles/archive/feature/erhnam-and-burn-em-2010-11-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/erhnam-and-burn-em-2010-11-16"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "All this week we're featuring recent successful decks from Magic Online. Today's Daily Deck was piloted by Evel_Knievel, who took it to a 4–0 finish at a recent Daily Event. See more at the `Modern` article. If you'd like to compete in a Daily Event as well, download Magic Online today!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665906"
 [_metadata_:publish_date]:- "2012-12-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Modern"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 00:35:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 00:35:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630003555id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-modern-2012-12-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-modern-2012-12-19"
 ---

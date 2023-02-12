@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657001"
 [_metadata_:publish_date]:- "2009-03-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Designing For Timmy"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-05 06:49:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-05 06:49:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170505064954id_/http://magic.wizards.com/en/articles/archive/feature/designing-timmy-2009-03-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/designing-timmy-2009-03-09"
 ---

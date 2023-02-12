@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Bachmann, David (229) Woods, Norman (46) 2-0 Benefel, Chris (163) Justice, Anthony (123) 2-1 Benefield, Kevin (234) Ibamoto, Masami (241) 2-1 Bernabeu, Jesus (143) Cass, Matt (318) 2-0 Blackwell, Trevor (298) Labarre, Nicolas (19) 1-0 Boeken, Noah (129) McKenna, Tim (142) 2-0 Bulthaud, Sean (314) Franzen, Johan (185) 0-2 Burgner, Kurt (173) Ljones,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950566"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 11 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:05:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:05:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126180533id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-11-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-11-results-2000-01-01"
 ---

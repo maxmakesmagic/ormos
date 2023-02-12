@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Nick Slind Format: 1st Place - Oregon - Portland - 12/6 7 Forest 5 Mountain 5 Plains 1 Akrasan Squire 1 Rockcaster Platoon 2 Rakeclaw Gargantuan 2 Vithian Stinger 1 Rip-Clan Crasher 1 Algae Gharial 1 Druid of the Anima 1 Drumhunter 1 Mosstodon 1 Naya Battlemage 1 Spearbreaker Behemoth 2 Wild Nacatl 1 Sigil of Distinction 1 Sigil Blessing 1 Savage Hunger 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "726796"
 [_metadata_:publish_date]:- "2008-12-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Kyoto Qualifying Season: Top 8 Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 01:18:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 01:18:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520011837id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-8"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-8"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "updated 9-10-04"
 [_metadata_:description]:- "Australia/New Zealand VenueDateAddressLocationPost CodeStatePhoneContactMega Games Trader4-SepShop 26/27 Top Ryde Shopping Centre, 2 Devlin St Ryde2112NSW(02) 9808 1911Manuel StamatakisCard Heaven4-SepLevel 1, 103-105 Chapel StreetWindsor3181VIC(03) 9521 1020Bronwyn BrucePhantom Zone Wollongong5-SepLevel 1, 201 Crown Street Wollongong2500NSW(02) 4228 7393Michael"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734321"
 [_metadata_:publish_date]:- "2004-08-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Brisbane Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:59:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:59:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027205935id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-trials-2004-08-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-trials-2004-08-20"
 ---

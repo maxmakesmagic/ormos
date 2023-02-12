@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: David Daniel's Meddling Mage Control Format: Regionals 2009 4 Adarkar Wastes 4 Faerie Conclave 6 Island 4 Mutavault 4 Mystic Gate 2 Plains 4 Meddling Mage 4 Sower of Temptation 3 Vendilion Clique 1 Austere Command 4 Broken Ambitions 4 Cryptic Command 3 Negate 4 Path to Exile 4 Peek 2 Remove Soul 3 Wrath of God *2 Austere Command *4 Burrenton Forge-Tender *1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668386"
 [_metadata_:publish_date]:- "2009-06-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Meddling Mage Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 06:31:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 06:31:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026063131id_/https://magic.wizards.com/en/articles/archive/feature/meddling-mage-control-2009-06-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/meddling-mage-control-2009-06-05"
 ---

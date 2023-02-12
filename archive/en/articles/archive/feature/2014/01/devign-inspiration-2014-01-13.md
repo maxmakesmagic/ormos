@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Tom LaPille"
 [_metadata_:description]:- "I was the lead developer for Born of the Gods. It feels strange to type that, as it's been a long time since I wrote a development article. Before I started working on Born of the Gods, though, it had been a little while since I worked on a Magic set. I love Magic, though, and it feels good to be home.  Before we get into the meat of the article, let's talk about the Born of the Gods development team."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683211"
 [_metadata_:publish_date]:- "2014-01-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Devign Inspiration"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-01 02:26:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-01 02:26:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201101022619id_/https://magic.wizards.com/en/articles/archive/feature/devign-inspiration-2014-01-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/devign-inspiration-2014-01-13"
 ---

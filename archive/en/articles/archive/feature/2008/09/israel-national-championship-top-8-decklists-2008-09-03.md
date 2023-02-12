@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Asaf Shomer's Seismic Swans Format: Champion 4 Vivid Creek 3 Vivid Marsh 4 Reflecting Pool 4 Gemstone Mine 4 Shivan Reef 4 Dakmor Salvage 4 Graven Cairns 3 Vendilion Clique 4 Swans of Bryn Argoll 4 Ponder 3 Telling Time 4 Seismic Assault 2 Gaea's Blessing 4 Thoughtseize 1 Pact of Negation 4 Lotus Bloom 4 Beseech the Queen *3 Imp's Mischief *2 Firespout *1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646046"
 [_metadata_:publish_date]:- "2008-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Israel National Championship Top 8 Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:33:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:33:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818173304id_/https://magic.wizards.com/en/articles/archive/feature/israel-national-championship-top-8-decklists-2008-09-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/israel-national-championship-top-8-decklists-2008-09-03"
 ---

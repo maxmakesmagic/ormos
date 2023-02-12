@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations, you've found Jace Beleren. As part of a special Conflux promotion, find all five hidden symbols on the Magic web site, each corresponding to a specific planeswalker. Print one of these forms, write down the names of all five hidden planeswalkers in the lines provided, and bring it to a participating store by February 28th, 2009 to receive a free planeswalker"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "636756"
 [_metadata_:publish_date]:- "2009-01-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Jace Beleren"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 21:55:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 21:55:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028215527id_/https://magic.wizards.com/en/articles/archive/feature/jace-beleren-2009-01-26-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jace-beleren-2009-01-26-0"
 ---

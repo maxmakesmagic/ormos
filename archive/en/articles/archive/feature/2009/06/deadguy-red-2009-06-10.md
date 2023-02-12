@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Dave Price's Deadguy Red Format: U.S. Nationals 1997 4 Dwarven Ruins 18 Mountain 4 Goblin Vandal 2 Viashino Sandstalker 4 Ball Lightning 2 Dwarven Soldier 3 Goblin Digging Team 4 Ironclaw Orcs 4 Lava Hounds 3 Kaervek's Torch 4 Fireblast 4 Hammer of Bogardan 4 Incinerate *4 Straw Golem *4 Anarchy *4 Detonate *3 Pyrokinesis"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668401"
 [_metadata_:publish_date]:- "2009-06-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Deadguy Red"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:38:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:38:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170417163858id_/http://magic.wizards.com/en/articles/archive/feature/deadguy-red-2009-06-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/deadguy-red-2009-06-10"
 ---

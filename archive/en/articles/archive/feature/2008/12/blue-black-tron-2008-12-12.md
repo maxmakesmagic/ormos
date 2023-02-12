@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: TuSaisPas's Blue-Black Tron Format: Extended 1 Academy Ruins 1 Island 3 Polluted Delta 1 Swamp 2 Tolaria West 4 Urza's Mine 4 Urza's Power Plant 4 Urza's Tower 3 Watery Grave 2 Sundering Titan 1 Triskelion 4 Chalice of the Void 3 Chrome Mox 4 Condescend 1 Crucible of Worlds 2 Damnation 4 Dimir Signet 1 Engineered Explosives 3 Gifts Ungiven 2 Mindslaver 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671521"
 [_metadata_:publish_date]:- "2008-12-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Blue-Black Tron"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 13:05:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 13:05:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017130530id_/https://magic.wizards.com/en/articles/archive/feature/blue-black-tron-2008-12-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-black-tron-2008-12-12"
 ---

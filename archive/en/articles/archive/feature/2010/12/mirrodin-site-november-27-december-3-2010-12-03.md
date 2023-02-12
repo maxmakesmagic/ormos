@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site.We'll start with the Mirrans this time, as that's where most of the action has been. There's wallpaper for Hero of Bladehold, Titan Forge, and Contested War Zone, all of which are cards that haven't been seen yet. And the Phyrexian side has preview art for Consecrated"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "601666"
 [_metadata_:publish_date]:- "2010-12-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "On the Mirrodin Site: November 27-December 3"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 18:16:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 18:16:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121181609id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-november-27-december-3-2010-12-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-november-27-december-3-2010-12-03"
 ---

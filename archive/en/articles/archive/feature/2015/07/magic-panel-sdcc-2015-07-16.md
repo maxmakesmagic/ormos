@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Last weekend Magic hosted a panel at San Diego Comic-Con featuring discussino of Magic Origins, the future of Magic storytelling, and some choice art and story call-outs. "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "426321"
 [_metadata_:publish_date]:- "2015-07-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Panel at SDCC"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-18 20:57:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-18 20:57:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150718205738id_/http://magic.wizards.com/en/articles/archive/feature/magic-panel-sdcc-2015-07-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-panel-sdcc-2015-07-16"
 ---

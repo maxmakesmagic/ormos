@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Let Pro Tour Statisician Richard Hagon be your guide through Magic Weekend Nagoya, home of the second Pro Tour of the 2011 season. If you're not a regular reader of event coverage, this is a great starting place to learn the top players and storylines that have shaped this season. With exclusive player interviews, analysis of deckbuilding strategies, explanations of formats"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688846"
 [_metadata_:publish_date]:- "2011-06-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Podcasting from Magic Weekend Nagoya"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 05:59:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 05:59:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022055938id_/https://magic.wizards.com/en/articles/archive/feature/podcasting-magic-weekend-nagoya-2011-06-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/podcasting-magic-weekend-nagoya-2011-06-10"
 ---

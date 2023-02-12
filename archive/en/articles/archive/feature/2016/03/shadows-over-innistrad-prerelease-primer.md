@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The Shadows over Innistrad Prerelease looms nearer, and Gavin has the information you need to help solve the mystery!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "995496"
 [_metadata_:publish_date]:- "2016-03-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shadows over Innistrad Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-31 03:27:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-31 03:27:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160331032703id_/http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-prerelease-primer"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-prerelease-primer"
 ---

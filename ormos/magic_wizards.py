@@ -8,71 +8,56 @@ import os
 from pathlib import Path
 import re
 import sys
-from typing import List, Optional
+from typing import Generator, List, Optional
 from urllib.parse import urlparse, unquote
 
 from bs4 import BeautifulSoup, Tag
 from markdownify import MarkdownConverter
 
-from ormos.imagecache import db, ImageCache
+from ormos.database import DistinctPage, db, Scraped, orm
+from ormos.imagecache import ImageCache
 
 log = logging.getLogger(__name__)
 
 
 class MagicWizardsConverterSingle:
     def __init__(
-        self, path: Path, identifier: str, image_cache: Optional[ImageCache] = None
+        self,
+        scraped: Scraped,
+        identifier: str,
+        image_cache: Optional[ImageCache] = None,
     ):
-        self.path = path
+        self.scraped = scraped
         self.identifier = identifier
         self.cache = {}
         self.image_cache = image_cache if image_cache else ImageCache()
         self.date = None
         self.title = None
 
-        # Within this path there should be two files:
-        # - an HTML file containing the content
-        # - and a JSON file containing Wayback metadata
-        html_files = [f for f in self.path.iterdir() if f.suffix == ".html"]
-        json_files = [f for f in self.path.iterdir() if f.suffix == ".json"]
-        log.debug("Paths: html %s json %s", html_files, json_files)
-
-        if not html_files or not json_files:
-            raise Exception("Expected both HTML and JSON")
-
-        self.html_path = html_files[0]
-        self.json_path = json_files[0]
-
-        # Read in the JSON file.
-        with open(self.json_path, "rb") as f:
-            wayback_data = json.load(f)
-        self.url = wayback_data["record"]["url"]
-        self.raw_url = wayback_data["record"]["raw_url"]
-        self.view_url = wayback_data["record"]["view_url"]
+        self.url = self.scraped.url
+        self.raw_url = self.scraped.raw_url
+        self.view_url = self.scraped.view_url
 
         # Read in the HTML file
-        with open(self.html_path, "rb") as f:
-            self.soup = BeautifulSoup(f, "html.parser")
+        self.soup = BeautifulSoup(self.scraped.html_content, "html.parser")
 
         # Start a metadata dictionary, which can be added to.
         self.metadata = {
             "wayback_url": self.url,
             "wayback_raw_url": self.raw_url,
-            "wayback_capture_timestamp": wayback_data["record"]["time"],
+            "wayback_capture_timestamp": str(self.scraped.time),
         }
 
         # Calculate the wayback prefix for images
-        m = re.match(
-            r"^(https://web.archive.org/web/[^/]+)", wayback_data["record"]["view_url"]
-        )
+        m = re.match(r"^(https://web.archive.org/web/[^/]+)", self.view_url)
         if m:
             self.image_prefix = f"{m.group(1)}im_"
             log.debug("[%s] Wayback prefix is %s", self.identifier, self.image_prefix)
         else:
             self.image_prefix = None
 
-    def _main_content(self, path: Path) -> Optional[Tag]:
-        log.info("[%s] Processing HTML path: %s", self.identifier, path)
+    def _main_content(self) -> Optional[Tag]:
+        log.debug("[%s] Processing HTML", self.identifier)
 
         # Store off some metadata if it exists.
         for tag in self.soup.find_all("meta"):
@@ -92,25 +77,52 @@ class MagicWizardsConverterSingle:
         if self.title:
             self.metadata["title"] = self.title
 
+        for tag in self.soup.find_all("link"):
+            rel = tag.get("rel", None)
+            href = tag.get("href", None)
+            if "shortlink" in rel and href:
+                if "node" in href:
+                    self.metadata["node"] = href.rsplit("/", 1)[1]
+
         # Content can be in one of several places.
+        # Try each of them in turn!
         #
-        # <div id="main-content">
-        # <div id="main">
         main_content = self.soup.find("div", id="main-content")
         if main_content:
+            self.metadata["source"] = "div-main-content"
             return main_content
 
         # Try another tag
         main_content = self.soup.find("div", id="main")
         if main_content:
+            self.metadata["source"] = "div-main"
             return main_content
 
-        # If here, this is probably not an article.
-        if self.soup.find("article"):
-            raise Exception("Found an <article> not inside content")
+        # If there's an article, just use that.
+        main_content = self.soup.find("article")
+        if main_content:
+            self.metadata["source"] = "article"
+            return main_content
 
-        # Assume not an article. Check later.
-        log.error("[%s] Not an article", self.identifier)
+        # If the title doesn't start with "Article" (as it's probably
+        # "Article Archives" or "ARTICLES") then capture the content
+        # from block-system-main
+        if self.title and not self.title.lower().startswith("article"):
+            main_content = self.soup.find("div", id="block-system-main")
+            if main_content:
+                log.debug(
+                    "[%s] Allowing article with title %s", self.identifier, self.title
+                )
+                self.metadata["source"] = "div-block-system-main"
+                return main_content
+
+        # Assume not an article. Check later from logs.
+        log.error(
+            "[%s] Not an article:\n- URL: %s\n- Title: %s",
+            self.identifier,
+            self.url,
+            self.title,
+        )
         return None
 
     def _store_data_from_soup(self, main_content: Tag):
@@ -157,8 +169,8 @@ class MagicWizardsConverterSingle:
             self.metadata["author"] = author_text
 
     # Converts HTML content into Markdown content
-    def process_html(self, path: Path) -> Optional[str]:
-        main_content = self._main_content(path)
+    def process_html(self) -> Optional[str]:
+        main_content = self._main_content()
         if not main_content:
             # Failed to find main content
             return None
@@ -276,7 +288,7 @@ class MagicWizardsConverterSingle:
 
     def process(self):
         # Process the HTML into Markdown
-        markdown = self.process_html(self.html_path)
+        markdown = self.process_html()
         if markdown:
             # Calculate the archive path
             archive_path = self.generate_path(self.url)
@@ -302,50 +314,36 @@ class MagicWizardsConverterSingle:
 
 
 class MagicWizardsConverterMany:
-    SEARCH_TERM_BASE = "magic_wizards_com"
+    SEARCH_TERM_BASE = "magic.wizards.com"
 
-    def __init__(self, path: Path, search_term: Optional[str] = None):
+    def __init__(self, search_term: Optional[str] = None):
         self.search_term = search_term if search_term else self.SEARCH_TERM_BASE
-        self.path = path
-        self.cache_path = Path(f"{self.search_term}.json")
         self.image_cache = ImageCache()
 
-    def get_dirs(self) -> List[Path]:
-        if not self.cache_path.exists():
-            directories = []  # type: List[Path]
-            for index, listing in enumerate(self.path.iterdir()):
-                if self.search_term in listing.name:
-                    to_process = self.path / listing
-                    log.debug("[%d] Adding listing %s", index, to_process)
-                    directories.append(to_process)
-            with open(self.cache_path, "w", encoding="utf-8") as f:
-                json.dump([d.as_posix() for d in directories], f)
-        else:
-            with open(self.cache_path, "rb") as f:
-                directory_paths = json.load(f)
-                directories = [Path(d) for d in directory_paths]
-
-        return directories
-
     def process(self):
-        log.info("Starting search")
-        directories_to_process = self.get_dirs()
-        total = len(directories_to_process)
-        log.info("Processing %d entries", total)
+        with orm.db_session:
+            if self.search_term:
+                items = orm.select(
+                    s for s in DistinctPage if self.search_term in s.url
+                )  # type: Generator[DistinctPage]
+            else:
+                items = orm.select(
+                    s for s in DistinctPage
+                )  # type: Generator[DistinctPage]
+            total = items.count()
 
-        for index, directory in enumerate(directories_to_process):
-            log.debug("[%d/%d] Processing %s", index + 1, total, directory)
-            # Just pick a directory out of the subfolder for now
-            for content_dir in directory.iterdir():
-                content_full = directory / content_dir
-                if content_full.is_dir():
-                    # At least one content directory! Process it.
-                    log.info("[%d/%d] Processing %s", index + 1, total, content_full)
+            log.info("Processing %d entries", total)
+            for index, distinctpage in enumerate(items):
+                log.info("[%d/%d] Processing %s", index + 1, total, distinctpage)
+                try:
                     single = MagicWizardsConverterSingle(
-                        content_full, f"{index+1}/{total}", image_cache=self.image_cache
+                        distinctpage.scraped,
+                        f"{index+1}/{total}",
+                        image_cache=self.image_cache,
                     )
                     single.process()
-                    break
+                except Exception as e:
+                    log.exception("Failed processing")
 
 
 if __name__ == "__main__":
@@ -359,10 +357,15 @@ if __name__ == "__main__":
     filehandler.setFormatter(
         logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s")
     )
-
+    errorhandler = logging.FileHandler(filename="magic_wizards_errors.log", mode="w")
+    errorhandler.setLevel(logging.ERROR)
+    errorhandler.setFormatter(
+        logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s")
+    )
     root_logger = logging.getLogger()
     root_logger.addHandler(streamhandler)
     root_logger.addHandler(filehandler)
+    root_logger.addHandler(errorhandler)
     root_logger.setLevel(logging.DEBUG)
 
     logging.getLogger("requests").setLevel(logging.WARNING)
@@ -375,29 +378,9 @@ if __name__ == "__main__":
     db.generate_mapping(create_tables=True)
 
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--content",
-        type=lambda p: Path(p).absolute(),
-        help="Directory with all previously scraped content",
-    )
-    parser.add_argument(
-        "--single",
-        type=lambda p: Path(p).absolute(),
-        help="Path to directory containing HTML+JSON files",
-    )
     parser.add_argument("--searchterm", help="override default search term")
 
     args = parser.parse_args()
 
-    if args.content and not args.content.exists():
-        raise Exception("Content folder does not exist!")
-
-    if args.single and not args.single.exists():
-        raise Exception("Single content folder does not exist!")
-
-    if args.content:
-        converter = MagicWizardsConverterMany(args.content, search_term=args.searchterm)
-        converter.process()
-    elif args.single:
-        converter = MagicWizardsConverterSingle(args.single, "1/1")
-        converter.process()
+    converter = MagicWizardsConverterMany(search_term=args.searchterm)
+    converter.process()

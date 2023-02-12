@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; */"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638071"
 [_metadata_:publish_date]:- "2008-08-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "PATH OF THE PLANESWALKER 2 GRAPHIC ANTHOLOGY ON SALE NOW"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-22 17:55:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-22 17:55:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160622175522id_/http://magic.wizards.com/en/articles/archive/feature/path-planeswalker-2-graphic-anthology-sale-now-2008-08-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/path-planeswalker-2-graphic-anthology-sale-now-2008-08-05"
 ---

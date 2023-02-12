@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "YOU MUST CLICK I DO NOT ACCEPT OR I ACCEPT AT THE BOTTOM OF THIS AGREEMENT TO CONTINUE.PLEASE READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY AND IN ITS ENTIRETY BEFORE ACCEPTING THIS AGREEMENT AND USING THIS POLL ON THE Wizards of the Coast, Inc. (`Wizards`) SITE."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "642301"
 [_metadata_:publish_date]:- "2003-03-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "You Make The Card 2 - Mechanic Submission Agreement"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 11:36:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 11:36:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026113649id_/https://magic.wizards.com/en/articles/archive/feature/you-make-card-2-mechanic-submission-agreement-2003-03-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-card-2-mechanic-submission-agreement-2003-03-17"
 ---

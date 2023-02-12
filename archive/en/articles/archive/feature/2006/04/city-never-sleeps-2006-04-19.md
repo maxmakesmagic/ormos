@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "Thanks to everyone who wrote in about my last couple of articles. I am still looking for more input so I can make my articles better for you. If you have any thoughts about what you read here, or what you would like to see, please send them to Bunny_MAXX[at]yahoo.com. I created this email address specifically to get your insight, and am always happy to hear what you say, good"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638316"
 [_metadata_:publish_date]:- "2006-04-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The City That Never Sleeps"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 14:10:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 14:10:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808141049id_/https://magic.wizards.com/en/articles/archive/feature/city-never-sleeps-2006-04-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/city-never-sleeps-2006-04-19"
 ---

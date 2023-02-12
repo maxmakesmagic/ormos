@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "Ihe t's time for the final update to the Worldwake Product Section! There's the final new puzzle! The final new setting preview! And there's the Visual Spoiler, an archive of all preview cards that have been officially released. Have you missed any cards? Here's one we showed on the @dailymtg Twitter feed yesterday: That card, along with other cards that have been previewed,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684116"
 [_metadata_:publish_date]:- "2010-01-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Worldwake Product Section"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 04:59:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 04:59:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025045945id_/https://magic.wizards.com/en/articles/archive/feature/worldwake-product-section-2010-01-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwake-product-section-2010-01-27"
 ---

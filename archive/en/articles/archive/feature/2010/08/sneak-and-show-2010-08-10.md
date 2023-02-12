@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Korey Age's Sneak and Show Format: Legacy – Grand Prix–Columbus 3 Ancient Tomb 2 Island 4 Misty Rainforest 1 Mountain 4 Scalding Tarn 4 Volcanic Island 4 Emrakul, the Aeons Torn 4 Woodfall Primus 4 Brainstorm 4 Daze 1 Echoing Truth 4 Force of Will 3 Lotus Petal 4 Ponder 3 Seething Song 4 Show and Tell 4 Sneak Attack 2 Spell Pierce 1 Wipe Away *3 Blood Moon *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670016"
 [_metadata_:publish_date]:- "2010-08-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sneak and Show"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-06 13:10:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-06 13:10:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210506131023id_/https://magic.wizards.com/en/articles/archive/feature/sneak-and-show-2010-08-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sneak-and-show-2010-08-10"
 ---

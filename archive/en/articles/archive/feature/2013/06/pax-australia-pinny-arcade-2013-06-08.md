@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "At PAX East this year, the folks over at Penny Arcade introduced `Pinny Arcade` which is their pin trading program at their conventions. We were proud to be among the first batch of pins created, with a Mike Krahulik drawn Chandra head."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649276"
 [_metadata_:publish_date]:- "2013-06-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "PAX Australia Pinny Arcade"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:33:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:33:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531083313id_/https://magic.wizards.com/en/articles/archive/feature/pax-australia-pinny-arcade-2013-06-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pax-australia-pinny-arcade-2013-06-08"
 ---

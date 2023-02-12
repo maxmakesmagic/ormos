@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Ninja Week. Right. Is this some kind of sick joke, Scott? Rub my nose in it, huh? I guess I can't blame you. And I guess I deserve it. But if I'm going to be taunted like this, then I'm not going to toe the company line. You, the reader, come to me because you know I shovel what no one else will: Pure, military-grade truth. Everyone else is swimming in a heated, Olympic-size pool of propaganda. Or should I call it Rosewaterganda? The spin doctors at Wizards of the Coast put Mother Theresa's spin doctors to shame."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613111"
 [_metadata_:publish_date]:- "2005-02-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Day the Ninjas Fell"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-18 16:56:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-18 16:56:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170118165620id_/http://magic.wizards.com/en/articles/archive/feature/day-ninjas-fell-2005-02-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/day-ninjas-fell-2005-02-03"
 ---

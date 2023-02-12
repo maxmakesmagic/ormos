@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Corney, Andrew 28 59.3364 71.4286 55.2374 12/9/1/0 2 West, Justin 28 59.0774 65.6250 56.7789 12/9/1/0 3 Seck, T."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948601"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals Round 12 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:41:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:41:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525104123id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-12-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-12-standings-2000-01-01"
 ---

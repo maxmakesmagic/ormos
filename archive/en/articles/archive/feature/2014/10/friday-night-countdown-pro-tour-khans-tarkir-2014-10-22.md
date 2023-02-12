@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Video recap of Pro Tour Khans of Tarkir by Rich Hagon and Brian David-Marshall."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "289961"
 [_metadata_:publish_date]:- "2014-10-22"
+[_metadata_:source]:- "div-main"
 [_metadata_:title]:- "Friday Night Countdown: Pro Tour Khans of Tarkir"
-[_metadata_:wayback_capture_timestamp]:- "2014-10-24 14:39:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-10-24 14:39:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141024143945id_/http://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-khans-tarkir-2014-10-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-khans-tarkir-2014-10-22"
 ---

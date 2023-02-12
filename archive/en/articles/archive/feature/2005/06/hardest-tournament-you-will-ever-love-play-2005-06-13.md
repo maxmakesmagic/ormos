@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "Now that Pro Tour Philadelphia is in the books, we are over half way through the 2004–2005 Pro Tour season. That means that the Magic: The Gathering® World Championship is not too far away. If you are one of the professional Magic players enjoying the benefits of the new Pro Players Club, then you probably already have your invite locked up, but if you aren’t already qualified"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638091"
 [_metadata_:publish_date]:- "2005-06-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Hardest Tournament You Will Ever Love To Play In"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 15:21:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 15:21:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819152120id_/https://magic.wizards.com/en/articles/archive/feature/hardest-tournament-you-will-ever-love-play-2005-06-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hardest-tournament-you-will-ever-love-play-2005-06-13"
 ---

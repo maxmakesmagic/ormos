@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee The entry fee for all Pro Tour—San Diego Qualifier tournaments in Japan is ¥7,000. Format The format for all Pro Tour—San Diego Qualifiers tournaments is Two-Headed Giant Limited (Sealed Deck + Booster Draft playoffs). For information on this format, please refer to the DCI™ Universal Tournament Rule and Magic Floor Rules documents on the DCI Document Center."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641106"
 [_metadata_:publish_date]:- "2007-02-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-San Diego 07 Qualifiers"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:23:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:23:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027202320id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-07-qualifiers-2007-02-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-san-diego-07-qualifiers-2007-02-21"
 ---

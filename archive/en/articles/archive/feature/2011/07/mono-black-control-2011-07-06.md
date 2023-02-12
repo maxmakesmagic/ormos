@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Li Meng's Mono-Black Control Format: Standard – China Nationals 2011 25 Swamp 4 Gatekeeper of Malakir 1 Grave Titan 3 Phyrexian Obliterator 4 Vampire Nighthawk 4 Vault Skirge 1 Wurmcoil Engine 2 Despise 2 Dismember 3 Go for the Throat 4 Inquisition of Kozilek 3 Lashwrithe 1 Liliana Vess 3 Sign in Blood *2 Black Sun's Zenith *2 Duress *1 Hex Parasite *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671236"
 [_metadata_:publish_date]:- "2011-07-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mono-Black Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-16 06:47:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-16 06:47:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210416064712id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-control-2011-07-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-control-2011-07-06"
 ---

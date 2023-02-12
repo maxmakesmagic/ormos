@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732156"
 [_metadata_:publish_date]:- "2007-04-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "U.S. Regional Championships 2009"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-18 10:42:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-18 10:42:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160418104241id_/http://magic.wizards.com/en/articles/archive/feature/us-regional-championships-2009-2007-04-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/us-regional-championships-2009-2007-04-12"
 ---

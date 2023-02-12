@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "rk postCard NameCard Set Thorn ElementalEighth EditionUrza's ArmorEighth EditionLeshrac's RiteSeventh EditionThorn ElementalSeventh EditionWorshipSeventh EditionAbyssal HorrorStarter 1999Shrieking SpecterStarter 1999Thorn ElementalStarter 1999Veteran CavalierStarter 1999Ayumi, the Last VisitorSaviors of KamigawaSakashima the ImpostorSaviors of KamigawaOre GorgerChampions of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735531"
 [_metadata_:publish_date]:- "2005-06-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Niigata Artist - rk post"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 07:29:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 07:29:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208072939id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-niigata-artist-rk-post-2005-06-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-niigata-artist-rk-post-2005-06-27"
 ---

@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210207184717/https://magic.wizards.com/en/articles/archive/feature/blinky%E2%80%99s-revenge-2005-09-08)
+[Link to Wayback Machine](https://web.archive.org/web/20170716125419/http://magic.wizards.com/en/articles/archive/feature/blinky%E2%80%99s-revenge-2005-09-08)
 
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "When I first started competing in PTQs, a foe that was all too common on the opposite side of the table was this annoying creature named Blinking Spirit."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628176"
 [_metadata_:publish_date]:- "2005-09-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Blinky’s Revenge"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-07 18:47:17+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207184717id_/https://magic.wizards.com/en/articles/archive/feature/blinky%E2%80%99s-revenge-2005-09-08"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blinky%E2%80%99s-revenge-2005-09-08"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-16 12:54:19"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170716125419id_/http://magic.wizards.com/en/articles/archive/feature/blinky%E2%80%99s-revenge-2005-09-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blinky%E2%80%99s-revenge-2005-09-08"
 ---
 
 

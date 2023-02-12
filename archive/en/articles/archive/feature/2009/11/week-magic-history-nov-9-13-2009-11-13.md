@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "November 8-10Justin Gary defeated Your Move Games teammate and future Hall of Famer Rob Dougherty in the Finals to become the Pro Tour–Houston champion. In the fifth and deciding game, Gary, unable to win via his deck's usual Oath of Druids plan, tapped eight mana to cast a 12/12 flying Cognivore the fair way. Shortly thereafter, Rob was extending the hand.Pro Tour–Houston was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "600176"
 [_metadata_:publish_date]:- "2009-11-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: Nov 9-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 07:04:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 07:04:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117070459id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-nov-9-13-2009-11-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-nov-9-13-2009-11-13"
 ---

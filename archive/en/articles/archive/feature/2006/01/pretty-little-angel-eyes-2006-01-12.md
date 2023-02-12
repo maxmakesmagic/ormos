@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; The current issue of InQuest Gamer shows off Angel of Despair, a splashy new Orzhov creature you'll see in booster packs of Guildpact. We recommend you check out the magazine for the full text and art of Angel of Despair!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "597346"
 [_metadata_:publish_date]:- "2006-01-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pretty Little Angel Eyes"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-17 19:27:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-17 19:27:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170117192743id_/http://magic.wizards.com/en/articles/archive/feature/pretty-little-angel-eyes-2006-01-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pretty-little-angel-eyes-2006-01-12"
 ---

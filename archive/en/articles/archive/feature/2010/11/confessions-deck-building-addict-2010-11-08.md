@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Kelly Digges"
 [_metadata_:description]:- "Hi. I'm Kelly, and I'm addicted to deck building.I only really play two kinds of Magic, although since they're immensely variable ways of playing, I never get bored with them. The first is Limited—Sealed Deck, Draft, and two-player Winston Draft, which is hugely variable depending on which packs you open and what comes out of them. The other is the hundred-card singleton EDH"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604996"
 [_metadata_:publish_date]:- "2010-11-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Confessions of a Deck-Building Addict"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 18:47:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 18:47:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629184714id_/https://magic.wizards.com/en/articles/archive/feature/confessions-deck-building-addict-2010-11-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/confessions-deck-building-addict-2010-11-08"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Mike Flores' Control Black is being played by four Pro Tour champions and Flores himself. In the first round Flores was the only one to win with the deck. He insists that everyone else misplays his creation. It'll be interesting to see how these players do over the course of the next five rounds. Jon Finkel is one of the PT winners who chose to run Flores"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949226"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 8 Feature Match - Jon Finkel vs. Zvi Mowshowitz"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 05:16:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 05:16:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523051623id_/https://magic.wizards.com/en/articles/archive/feature/round-8-feature-match-jon-finkel-vs-zvi-mowshowitz-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-feature-match-jon-finkel-vs-zvi-mowshowitz-2000-01-01"
 ---

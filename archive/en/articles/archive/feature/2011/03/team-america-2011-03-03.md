@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Daniel Signorini's Team America Format: Legacy – StarCityGames.com Open in Washington, DC 1 Bayou 1 Misty Rainforest 4 Polluted Delta 2 Tropical Island 4 Underground Sea 4 Verdant Catacombs 4 Wasteland 4 Tarmogoyf 4 Tombstalker 2 Engineered Explosives 1 Sylvan Library 4 Brainstorm 4 Daze 4 Force of Will 2 Go for the Throat 2 Predict 2 Snuff Out 4 Stifle 3 Hymn to Tourach 4 Ponder *1 Engineered Explosives"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670756"
 [_metadata_:publish_date]:- "2011-03-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Team America"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-21 19:29:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-21 19:29:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170321192938id_/http://magic.wizards.com/en/articles/archive/feature/team-america-2011-03-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/team-america-2011-03-03"
 ---

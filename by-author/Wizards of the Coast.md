@@ -1206,7 +1206,6 @@
 * [MagicTheGathering.Com Author Archive - Del Laugel](/archive/en/articles/archive/feature/2002/04/magicthegatheringcom-author-archive-del-laugel-2002-04-05.md) - 2002-04-05
 * [na·cre, jo·kul·haups, La·qua·tus](/archive/en/articles/archive/feature/2002/04/na·cre-jo·kul·haups-la·qua·tus-2002-04-05.md) - 2002-04-05
 * [Grand Prix Welcome](/archive/en/articles/archive/feature/2002/04/grand-prix-welcome-2002-04-17.md) - 2002-04-17
-* [Grand Prix Schedule](/archive/en/articles/archive/feature/2002/04/grand-prix-schedule-2002-04-18.md) - 2002-04-18
 * [Skitgubbe Rules](/archive/en/articles/archive/feature/2002/04/skitgubbe-rules-2002-04-19-0.md) - 2002-04-19
 * [Skitgubbe Rules](/archive/en/articles/archive/feature/2002/04/skitgubbe-rules-2002-04-19.md) - 2002-04-19
 * [Grand Prix Byes (Pro Tour-Honolulu)](/archive/en/articles/archive/feature/2002/04/grand-prix-byes-pro-tour-honolulu-2002-04-22-0.md) - 2002-04-22
@@ -1280,8 +1279,6 @@
 * [Grand Prix Philadelphia Byes](/archive/en/articles/archive/feature/2002/08/grand-prix-philadelphia-byes-2002-08-29.md) - 2002-08-29
 * [Grand Prix Utsunomiya Byes](/archive/en/articles/archive/feature/2002/08/grand-prix-utsunomiya-byes-2002-08-29.md) - 2002-08-29
 * [Grand Prix - Melbourne](/archive/en/articles/archive/feature/2002/09/grand-prix-melbourne-2002-09-03.md) - 2002-09-03
-* [2002 Grand Prix Copenhagen](/archive/en/articles/archive/feature/2002/09/2002-grand-prix-copenhagen-2002-09-11.md) - 2002-09-11
-* [2003 Pro Tour–Chicago](/archive/en/articles/archive/feature/2002/09/2003-pro-tour–chicago-2002-09-11.md) - 2002-09-11
 * [Grand Prix - Los Angeles Trial Schedule](/archive/en/articles/archive/feature/2002/09/grand-prix-los-angeles-trial-schedule-2002-09-19.md) - 2002-09-19
 * [Onslaught Frequently Asked Questions](/archive/en/articles/archive/feature/2002/09/onslaught-frequently-asked-questions-2002-09-25.md) - 2002-09-25
 * [2008 Champs](/archive/en/articles/archive/feature/2002/09/2008-champs-2002-09-29.md) - 2002-09-29
@@ -1296,7 +1293,6 @@
 * [Grand Prix Hiroshima Byes](/archive/en/articles/archive/feature/2002/10/grand-prix-hiroshima-byes-2002-10-24.md) - 2002-10-24
 * [Grand Prix New Orleans Byes](/archive/en/articles/archive/feature/2002/10/grand-prix-new-orleans-byes-2002-10-26.md) - 2002-10-26
 * [Grand Prix Reims Byes](/archive/en/articles/archive/feature/2002/10/grand-prix-reims-byes-2002-10-26.md) - 2002-10-26
-* [2003 Pro Tour–Venice](/archive/en/articles/archive/feature/2002/10/2003-pro-tour–venice-2002-10-29.md) - 2002-10-29
 * [Member Tournament List](/archive/en/articles/archive/feature/2002/10/member-tournament-list-2002-10-29.md) - 2002-10-29
 * [events_magic_jss](/archive/en/articles/archive/feature/2002/11/eventsmagicjss-2002-11-04.md) - 2002-11-04
 * [2010 National Qualifiers](/archive/en/articles/archive/feature/2002/11/2010-national-qualifiers-2002-11-12.md) - 2002-11-12
@@ -1318,7 +1314,6 @@
 * [Grand Prix - Sevilla](/archive/en/articles/archive/feature/2003/01/grand-prix-sevilla-2003-01-13.md) - 2003-01-13
 * [Australian National Championship FAQ](/archive/en/articles/archive/feature/2003/01/australian-national-championship-faq-2003-01-22.md) - 2003-01-22
 * [Legions Frequently Asked Questions](/archive/en/articles/archive/feature/2003/02/legions-frequently-asked-questions-2003-02-03.md) - 2003-02-03
-* [2003 Pro Tour–Yokohama](/archive/en/articles/archive/feature/2003/02/2003-pro-tour–yokohama-2003-02-04.md) - 2003-02-04
 * [MagicTheGathering.Com Author Archive - MagicTheGathering.Com Staff](/archive/en/articles/archive/feature/2003/02/magicthegatheringcom-author-archive-magicthegatheringcom-staff-2003-02-06.md) - 2003-02-06
 * [New Zealand National Championship FAQ](/archive/en/articles/archive/feature/2003/02/new-zealand-national-championship-faq-2003-02-10.md) - 2003-02-10
 * [Play Statistics](/archive/en/articles/archive/feature/2003/02/play-statistics-2003-02-10.md) - 2003-02-10
@@ -1346,7 +1341,6 @@
 * [Grand Prix - London](/archive/en/articles/archive/feature/2003/04/grand-prix-london-2003-04-30.md) - 2003-04-30
 * [Grand Prix Bangkok Byes](/archive/en/articles/archive/feature/2003/04/grand-prix-bangkok-byes-2003-04-30.md) - 2003-04-30
 * [Grand Prix Detroit Byes](/archive/en/articles/archive/feature/2003/04/grand-prix-detroit-byes-2003-04-30.md) - 2003-04-30
-* [2003 Pro Tour–Boston](/archive/en/articles/archive/feature/2003/05/2003-pro-tour–boston-2003-05-03.md) - 2003-05-03
 * [Grand Prix - Atlanta](/archive/en/articles/archive/feature/2003/05/grand-prix-atlanta-2003-05-08.md) - 2003-05-08
 * [Scourge desktop wallpapers](/archive/en/articles/archive/feature/2003/05/scourge-desktop-wallpapers-2003-05-08.md) - 2003-05-08
 * [2003 Magic: The Gathering Chinese Taipei National Championship](/archive/en/articles/archive/feature/2003/05/2003-magic-gathering-chinese-taipei-national-championship-2003-05-16.md) - 2003-05-16
@@ -1373,7 +1367,6 @@
 * [Summer of Magic](/archive/en/articles/archive/feature/2003/06/summer-magic-2003-06-27-3.md) - 2003-06-27
 * [Summer of Magic](/archive/en/articles/archive/feature/2003/06/summer-magic-2003-06-27-4.md) - 2003-06-27
 * [Summer of Magic](/archive/en/articles/archive/feature/2003/06/summer-magic-2003-06-27.md) - 2003-06-27
-* [2003 Pro Tour–New Orleans](/archive/en/articles/archive/feature/2003/07/2003-pro-tour–new-orleans-2003-07-09.md) - 2003-07-09
 * [Grand Prix - Sydney](/archive/en/articles/archive/feature/2003/07/grand-prix-sydney-2003-07-12.md) - 2003-07-12
 * [Grand Prix - Sydney Trial Schedule](/archive/en/articles/archive/feature/2003/07/grand-prix-sydney-trial-schedule-2003-07-18.md) - 2003-07-18
 * [Grand Prix Yokohama Artist: Matthew Wilson and Ron Spencer](/archive/en/articles/archive/feature/2003/07/grand-prix-yokohama-artist-matthew-wilson-and-ron-spencer-2003-07-30.md) - 2003-07-30
@@ -1436,7 +1429,6 @@
 * [Wallpaper of the Week: Force of Will](/archive/en/articles/archive/feature/2004/01/wallpaper-week-force-will-2004-01-30.md) - 2004-01-30
 * [Wallpaper of the Week: B.F.M. (Big Furry Monster)](/archive/en/articles/archive/feature/2004/02/wallpaper-week-bfm-big-furry-monster-2004-02-06.md) - 2004-02-06
 * [Wallpaper of the Week: Dauthi Warlord](/archive/en/articles/archive/feature/2004/02/wallpaper-week-dauthi-warlord-2004-02-13.md) - 2004-02-13
-* [mtgcom_regionalnews](/archive/en/articles/archive/feature/2004/02/mtgcomregionalnews-2004-02-16.md) - 2004-02-16
 * [Grand Prix - Birmingham](/archive/en/articles/archive/feature/2004/02/grand-prix-birmingham-2004-02-18.md) - 2004-02-18
 * [Wallpaper of the Week: Copper-Leaf Angel](/archive/en/articles/archive/feature/2004/02/wallpaper-week-copper-leaf-angel-2004-02-20.md) - 2004-02-20
 * [Grand Prix - New Jersey](/archive/en/articles/archive/feature/2004/02/grand-prix-new-jersey-2004-02-23.md) - 2004-02-23
@@ -1551,8 +1543,6 @@
 * [Wallpaper of the Week: Phyrexian Colossus](/archive/en/articles/archive/feature/2004/11/wallpaper-week-phyrexian-colossus-2004-11-26.md) - 2004-11-26
 * [Grand Prix - Singapore](/archive/en/articles/archive/feature/2004/12/grand-prix-singapore-2004-12-02.md) - 2004-12-02
 * [Wallpaper of the Week: Pegasus Stampede](/archive/en/articles/archive/feature/2004/12/wallpaper-week-pegasus-stampede-2004-12-03.md) - 2004-12-03
-* [2005 Pro Tour–Los Angeles](/archive/en/articles/archive/feature/2004/12/2005-pro-tour–los-angeles-2004-12-06.md) - 2004-12-06
-* [2005 Pro Tour–Philadelphia](/archive/en/articles/archive/feature/2004/12/2005-pro-tour–philadelphia-2004-12-06.md) - 2004-12-06
 * [Grand Prix - Osaka](/archive/en/articles/archive/feature/2004/12/grand-prix-osaka-2004-12-10.md) - 2004-12-10
 * [Grand Prix Osaka Artist - Nottsuo](/archive/en/articles/archive/feature/2004/12/grand-prix-osaka-artist-nottsuo-2004-12-10.md) - 2004-12-10
 * [Wallpaper of the Week: Argothian Wurm](/archive/en/articles/archive/feature/2004/12/wallpaper-week-argothian-wurm-2004-12-10.md) - 2004-12-10
@@ -1704,7 +1694,6 @@
 * [Grand Prix–St. Louis](/archive/en/articles/archive/feature/2006/05/grand-prix–st-louis-2006-05-23.md) - 2006-05-23
 * [Magic: The Gathering Pro Tour Sweepstakes Entry Form](/archive/en/articles/archive/feature/2006/05/magic-gathering-pro-tour-sweepstakes-entry-form-2006-05-24.md) - 2006-05-24
 * [Grand Prix–Phoenix](/archive/en/articles/archive/feature/2006/05/grand-prix–phoenix-2006-05-26.md) - 2006-05-26
-* [2007 US National Championship](/archive/en/articles/archive/feature/2006/05/2007-us-national-championship-2006-05-30.md) - 2006-05-30
 * [Grand Prix - Toulouse](/archive/en/articles/archive/feature/2006/05/grand-prix-toulouse-2006-05-30.md) - 2006-05-30
 * [Grand Prix - Malmö](/archive/en/articles/archive/feature/2006/06/grand-prix-malmö-2006-06-01.md) - 2006-06-01
 * [Grand Prix–Hiroshima](/archive/en/articles/archive/feature/2006/06/grand-prix–hiroshima-2006-06-07.md) - 2006-06-07
@@ -1714,12 +1703,10 @@
 * [Grand Prix–Phoenix](/archive/en/articles/archive/feature/2006/07/grand-prix–phoenix-2006-07-07.md) - 2006-07-07
 * [Release Tournament Fact Sheet](/archive/en/articles/archive/feature/2006/07/release-tournament-fact-sheet-2006-07-10.md) - 2006-07-10
 * [2006 Magic: The GatheringEnglish NationalsLast Chance Qualifiers and Side Events](/archive/en/articles/archive/feature/2006/07/2006-magic-gatheringenglish-nationalslast-chance-qualifiers-and-side-events.md) - 2006-07-13
-* [Summer of MagicStore Challenge Finals](/archive/en/articles/archive/feature/2006/07/summer-magicstore-challenge-finals-2006-07-24.md) - 2006-07-24
 * [Three Champions Crowned](/archive/en/articles/archive/feature/2006/07/three-champions-crowned-2006-07-30.md) - 2006-07-30
 * [Ask the Pro: August](/archive/en/articles/archive/feature/2006/07/ask-pro-august-2006-07-31.md) - 2006-07-31
 * [2006 Scottish Nationals](/archive/en/articles/archive/feature/2006/08/2006-scottish-nationals-2006-08-03.md) - 2006-08-03
 * [2006 Welsh Nationals](/archive/en/articles/archive/feature/2006/08/2006-welsh-nationals-2006-08-03.md) - 2006-08-03
-* [2006 South African Nationals](/archive/en/articles/archive/feature/2006/08/2006-south-african-nationals-2006-08-07.md) - 2006-08-07
 * [Grand Prix–Athens](/archive/en/articles/archive/feature/2006/08/grand-prix–athens-2006-08-07.md) - 2006-08-07
 * [Grand Prix–New Jersey](/archive/en/articles/archive/feature/2006/08/grand-prix–new-jersey-2006-08-16.md) - 2006-08-16
 * [2006 Magic: The Gathering World Championships](/archive/en/articles/archive/feature/2006/08/2006-magic-gathering-world-championships-2006-08-22.md) - 2006-08-22
@@ -1772,7 +1759,6 @@
 * [2006 Magic: The Gathering World Championships](/archive/en/articles/archive/feature/2007/03/2006-magic-gathering-world-championships-2007-03-20.md) - 2007-03-20
 * [M-fest Feeder Tournament Locations](/archive/en/articles/archive/feature/2007/03/m-fest-feeder-tournament-locations-2007-03-22.md) - 2007-03-22
 * [M-fest Feeder Tournaments](/archive/en/articles/archive/feature/2007/03/m-fest-feeder-tournaments-2007-03-22.md) - 2007-03-22
-* [FAQ for Two-Headed Giant Pro Tour Qualifiers (PTQ) 2007](/archive/en/articles/archive/feature/2007/03/faq-two-headed-giant-pro-tour-qualifiers-ptq-2007-2007-03-27.md) - 2007-03-27
 * [Magic City Championships Finals Fact Sheet](/archive/en/articles/archive/feature/2007/03/magic-city-championships-finals-fact-sheet-2007-03-28.md) - 2007-03-28
 * [Ask the Pro: April](/archive/en/articles/archive/feature/2007/04/ask-pro-april-2007-04-01.md) - 2007-04-01
 * [2007 Junior Series Events - Season 1](/archive/en/articles/archive/feature/2007/04/2007-junior-series-events-season-1-2007-04-05.md) - 2007-04-05
@@ -1790,7 +1776,6 @@
 * [2007 Irish National ChampionshipInvitation List](/archive/en/articles/archive/feature/2007/06/2007-irish-national-championshipinvitation-list-2007-06-04.md) - 2007-06-04
 * [Grand Prix–San Francisco](/archive/en/articles/archive/feature/2007/06/grand-prix–san-francisco-2007-06-11.md) - 2007-06-11
 * [Magic Weekend Fact Sheet](/archive/en/articles/archive/feature/2007/06/magic-weekend-fact-sheet-2007-06-14.md) - 2007-06-14
-* [Dream Jobs Open Now](/archive/en/articles/archive/feature/2007/06/dream-jobs-open-now-2007-06-20.md) - 2007-06-20
 * [2008 Irish National ChampionshipFormat and Schedule](/archive/en/articles/archive/feature/2007/06/2008-irish-national-championshipformat-and-schedule-2007-06-21.md) - 2007-06-21
 * [Tournament Information](/archive/en/articles/archive/feature/2007/06/tournament-information-2007-06-27.md) - 2007-06-27
 * [2007 Magic World Championships Tournament Format](/archive/en/articles/archive/feature/2007/07/2007-magic-world-championships-tournament-format-2007-07-13.md) - 2007-07-13
@@ -4584,7 +4569,6 @@
 * [Draft Simulator: 1/21/2013](/archive/en/articles/archive/feature/2013/01/draft-simulator-1212013-2013-01-21.md) - 2013-01-21
 * [Frequently Asked Questions](/archive/en/articles/archive/feature/2013/01/frequently-asked-questions-2013-01-21.md) - 2013-01-21
 * [Grand Prix Québec City Event Information](/archive/en/articles/archive/feature/2013/01/grand-prix-québec-city-event-information-2013-01-21.md) - 2013-01-21
-* [Grand Prix Strasbourg Event Information](/archive/en/articles/archive/feature/2013/01/grand-prix-strasbourg-event-information-2013-01-21.md) - 2013-01-21
 * [DailyMTG.com Podcast #8](/archive/en/articles/archive/feature/2013/01/dailymtgcom-podcast-8-2013-01-22.md) - 2013-01-22
 * [Wallpaper of the Week: Gideon, Champion of Justice](/archive/en/articles/archive/feature/2013/01/wallpaper-week-gideon-champion-justice-2013-01-23.md) - 2013-01-23
 * [Pro Tour Players Club – Gold Level Magic Online Pro Tour Qualifiers: Dragon's Maze in San Diego](/archive/en/articles/archive/feature/2013/01/pro-tour-players-club-–-gold-level-magic-online-pro-tour-qualifiers-dragons.md) - 2013-01-24
@@ -4612,7 +4596,6 @@
 * [DailyMTG.com Podcast #10](/archive/en/articles/archive/feature/2013/02/dailymtgcom-podcast-10-2013-02-19.md) - 2013-02-19
 * [Sealed Deck Builder: 2/21/2013](/archive/en/articles/archive/feature/2013/02/sealed-deck-builder-2212013-2013-02-21.md) - 2013-02-21
 * [Decks of the Week: 2/22/2013](/archive/en/articles/archive/feature/2013/02/decks-week-2222013-2013-02-22.md) - 2013-02-22
-* [Grand Prix Portland Event Information](/archive/en/articles/archive/feature/2013/02/grand-prix-portland-event-information-2013-02-22.md) - 2013-02-22
 * [Draft Simulator: 2/25/2013](/archive/en/articles/archive/feature/2013/02/draft-simulator-2252013-2013-02-25.md) - 2013-02-25
 * [Grand Prix Quebec City Winning Decklist](/archive/en/articles/archive/feature/2013/02/grand-prix-quebec-city-winning-decklist-2013-02-25.md) - 2013-02-25
 * [Ask Wizards](/archive/en/articles/archive/feature/2013/02/ask-wizards-2013-02-26.md) - 2013-02-26
@@ -4666,7 +4649,7 @@
 * [DailyMTG.com Podcast #13](/archive/en/articles/archive/feature/2013/04/dailymtgcom-podcast-13-2013-04-09.md) - 2013-04-09
 * [Sealed Deck Builder: 4/11/2013](/archive/en/articles/archive/feature/2013/04/sealed-deck-builder-4112013-2013-04-11.md) - 2013-04-11
 * [World Magic Cup Qualifiers: Top 8 Standard Decklists](/archive/en/articles/archive/feature/2013/04/world-magic-cup-qualifiers-top-8-standard-decklists-2013-04-11.md) - 2013-04-11
-* [Changes to Banned & Restricted Announcements](/archive/en/articles/archive/feature/2013/04/changes-banned-restricted-announcements-2013-04-12.md) - 2013-04-12
+* [Changes to Banned &amp; Restricted Announcements](/archive/en/articles/archive/feature/2013/04/changes-banned-restricted-announcements-2013-04-12.md) - 2013-04-12
 * [Decks of the Week: 4/12/2013](/archive/en/articles/archive/feature/2013/04/decks-week-4122013-2013-04-12.md) - 2013-04-12
 * [Grand Prix Kansas City Event Information](/archive/en/articles/archive/feature/2013/04/grand-prix-kansas-city-event-information-2013-04-12.md) - 2013-04-12
 * [Draft Simulator: 4/15/2013](/archive/en/articles/archive/feature/2013/04/draft-simulator-4152013-2013-04-15.md) - 2013-04-15
@@ -4707,7 +4690,6 @@
 * [Pro Tour Dragon's Maze Winning Decklist](/archive/en/articles/archive/feature/2013/05/pro-tour-dragons-maze-winning-decklist-2013-05-20.md) - 2013-05-20
 * [Ask Wizards](/archive/en/articles/archive/feature/2013/05/ask-wizards-2013-05-21.md) - 2013-05-21
 * [Dustin Ochoa's Pro Tour Decklist](/archive/en/articles/archive/feature/2013/05/dustin-ochoas-pro-tour-decklist-2013-05-21.md) - 2013-05-21
-* [Grand Prix Bangkok Event Information](/archive/en/articles/archive/feature/2013/05/grand-prix-bangkok-event-information-2013-05-23.md) - 2013-05-23
 * [Grand Prix Hong Kong 2013 Trials](/archive/en/articles/archive/feature/2013/05/grand-prix-hong-kong-2013-trials-2013-05-23.md) - 2013-05-23
 * [Grand Prix Louisville 2013 Trials](/archive/en/articles/archive/feature/2013/05/grand-prix-louisville-2013-trials-2013-05-23.md) - 2013-05-23
 * [Decks of the Week: 5/24/2013](/archive/en/articles/archive/feature/2013/05/decks-week-5242013-2013-05-24.md) - 2013-05-24
@@ -4792,7 +4774,6 @@
 * [Grand Prix Warsaw 2013 Winning Decklist](/archive/en/articles/archive/feature/2013/08/grand-prix-warsaw-2013-winning-decklist-2013-08-12.md) - 2013-08-12
 * [Pro Tour Theros Event Information](/archive/en/articles/archive/feature/2013/08/pro-tour-theros-event-information-2013-08-12.md) - 2013-08-12
 * [Ask Wizards](/archive/en/articles/archive/feature/2013/08/ask-wizards-2013-08-13.md) - 2013-08-13
-* [Grand Prix Hong Kong Event Information](/archive/en/articles/archive/feature/2013/08/grand-prix-hong-kong-event-information-2013-08-14.md) - 2013-08-14
 * [Sealed Deck Builder: 8/15/2013](/archive/en/articles/archive/feature/2013/08/sealed-deck-builder-8152013-2013-08-15.md) - 2013-08-15
 * [Decks of the Week: 8/16/2013](/archive/en/articles/archive/feature/2013/08/decks-week-8162013-2013-08-16.md) - 2013-08-16
 * [Grand Prix Valencia Event Information](/archive/en/articles/archive/feature/2013/08/grand-prix-valencia-event-information-2013-08-16.md) - 2013-08-16
@@ -5043,7 +5024,6 @@
 * [Draft Simulator: 4/21/2014](/archive/en/articles/archive/feature/2014/04/draft-simulator-4212014-2014-04-21.md) - 2014-04-21
 * [Ask Wizards](/archive/en/articles/archive/feature/2014/04/ask-wizards-2014-04-22.md) - 2014-04-22
 * [Grand Prix Boston-Worcester 2014 Event Information](/archive/en/articles/archive/feature/2014/04/grand-prix-boston-worcester-2014-event-information-2014-04-22.md) - 2014-04-22
-* [Grand Prix Milan 2014 Event Information](/archive/en/articles/archive/feature/2014/04/grand-prix-milan-2014-event-information-2014-04-22.md) - 2014-04-22
 * [Grand Prix Washington D.C. 2014 Event Information](/archive/en/articles/archive/feature/2014/04/grand-prix-washington-dc-2014-event-information-2014-04-22.md) - 2014-04-22
 * [Intro Packs](/archive/en/articles/archive/feature/2014/04/intro-packs-2014-04-23.md) - 2014-04-23
 * [Journey into Nyx Release Notes](/archive/en/articles/archive/feature/2014/04/journey-nyx-release-notes-2014-04-23.md) - 2014-04-23
@@ -5171,8 +5151,8 @@
 * [Grand Prix-Memphis 1999Top 8 Decks](/archive/en/articles/archive/feature/2015/12/grand-prix-memphis-1999top-8-decks-2015-12-16.md) - 2015-12-16
 * [Super Series Championship Round 3 Standings](/archive/en/articles/archive/feature/2015/12/super-series-championship-round-3-standings-2015-12-16.md) - 2015-12-16
 * [International Magic Survey](/archive/en/articles/archive/feature/2016/01/international-magic-survey-2016-01-27.md) - 2016-01-27
+* [Christopher Rush](/archive/en/articles/archive/feature/2016/02/christopher-rush-2016-02-11.md) - 2016-02-11
 * [Wayne England](/archive/en/articles/archive/feature/2016/02/wayne-england-2016-02-11.md) - 2016-02-11
-* [Christopher Rush](/archive/en/articles/archive/feature/2016/02/christopher-rush-2016-02-11.md) - 2016-02-12
 * [Shadows over Innistrad Weekend Experience Recap](/archive/en/articles/archive/feature/2016/03/shadows-over-innistrad-weekend-experience-recap-2016-03-08.md) - 2016-03-08
 * [Shadows over Innistrad Art—Week 1](/archive/en/articles/archive/feature/2016/03/shadows-over-innistrad-art—week-1-2016-03-18.md) - 2016-03-18
 * [Shadows over Innistrad Art—Week 2](/archive/en/articles/archive/feature/2016/03/shadows-over-innistrad-art-week-2-2016-03-25.md) - 2016-03-25
@@ -5243,6 +5223,7 @@
 * [War of the Spark: Forsaken](/archive/en/articles/archive/feature/2019/10/war-spark-forsaken-2019-10-09.md) - 2019-10-09
 * [Mystery Booster Playtest Card Artists](/archive/en/articles/archive/feature/2019/11/mystery-booster-playtest-card-artists-2019-11-11.md) - 2019-11-11
 * [Mystery Booster Release Notes](/archive/en/articles/archive/feature/2019/11/mystery-booster-release-notes-2019-11-11.md) - 2019-11-11
+* [2019 Holiday Promo Card](/archive/en/articles/archive/feature/2019/11/2019-holiday-promo-card-2019-11-21.md) - 2019-11-21
 * [The Theros Beyond Death Story on Cards](/archive/en/articles/archive/feature/2019/12/theros-beyond-death-story-cards-2019-12-16.md) - 2019-12-16
 * [Theros Beyond Death Story Summary](/archive/en/articles/archive/feature/2020/01/theros-beyond-death-story-summary-2020-01-10.md) - 2020-01-10
 * [Where to Find Ikoria and C20 Previews](/archive/en/articles/archive/feature/2020/03/where-find-ikoria-and-c20-previews-2020-03-31.md) - 2020-03-31
@@ -5268,7 +5249,6 @@
 * [Where to Find Modern Horizons 2 Previews](/archive/en/articles/archive/feature/2021/05/where-find-modern-horizons-2-previews-2021-05-18.md) - 2021-05-18
 * [Where to Find Modern Horizons 2 Previews](/archive/en/articles/archive/feature/2021/05/where-find-modern-horizons-2-previews-2021-05-19.md) - 2021-05-19
 * [Updating The List for Modern Horizons 2](/archive/en/articles/archive/feature/2021/06/updating-list-modern-horizons-2-2021-06-04.md) - 2021-06-04
-* [Where to Find Adventures in the Forgotten Realms Previews](/archive/en/articles/archive/feature/2021/06/where-find-adventures-forgotten-realms-previews-2021-06-23.md) - 2021-06-23
 * [Updating The List for Adventures in the Forgotten Realms](/archive/en/articles/archive/feature/2021/07/updating-list-adventures-forgotten-realms-2021-07-06.md) - 2021-07-06
 * [Adventures in the Forgotten Realms Release Notes](/archive/en/articles/archive/feature/2021/07/adventures-forgotten-realms-release-notes-2021-07-09.md) - 2021-07-12
 * [Where to Find Jumpstart: Historic Horizons Previews](/archive/en/articles/archive/feature/2021/07/where-find-jumpstart-historic-horizons-previews-2021-07-26.md) - 2021-07-26

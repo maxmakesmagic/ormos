@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Today's list combines Pauper, Tron lands, and five colors of spells, which neatly explains why I chose to feature it. As much as I enjoyed playing Cloudpost, the format is better off without it, and assembling the set of Urza lands is hard enough that it won't be quite as oppressive to the format as a whole."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667321"
 [_metadata_:publish_date]:- "2013-12-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Five-Color PauperTron"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 04:03:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 04:03:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309040351id_/http://magic.wizards.com/en/articles/archive/feature/five-color-paupertron-2013-12-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/five-color-paupertron-2013-12-06"
 ---

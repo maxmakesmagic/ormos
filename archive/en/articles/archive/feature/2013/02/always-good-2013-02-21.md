@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "I write all the decks for each week during the previous week. Right now, I'm on a plane on my way to Pro Tour Gatecrash in Montreal. Earlier this week, Zac Hill helped us prepare and suggested a deck that contained one main-deck Appetite for Brains. In the Facebook message where he suggested it, he wrote `(Always good!)` after the card in the decklist. Appetite for Brains is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666166"
 [_metadata_:publish_date]:- "2013-02-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Always Good!"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 00:14:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 00:14:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517001415id_/https://magic.wizards.com/en/articles/archive/feature/always-good-2013-02-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/always-good-2013-02-21"
 ---

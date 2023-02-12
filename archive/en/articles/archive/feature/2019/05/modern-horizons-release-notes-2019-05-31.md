@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1422331"
 [_metadata_:publish_date]:- "2019-05-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Modern Horizons Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2019-06-13 12:28:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-06-13 12:28:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190613122822id_/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-release-notes-2019-05-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-horizons-release-notes-2019-05-31"
 ---

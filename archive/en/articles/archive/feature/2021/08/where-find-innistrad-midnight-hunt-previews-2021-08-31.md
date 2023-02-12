@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210831143615/https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-midnight-hunt-previews-2021-08-31)
+[Link to Wayback Machine](https://web.archive.org/web/20210901130000/https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-midnight-hunt-previews-2021-08-31?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Innistrad: Midnight Hunt, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1555598"
 [_metadata_:publish_date]:- "2021-08-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Innistrad: Midnight Hunt Previews"
-[_metadata_:wayback_capture_timestamp]:- "2021-08-31 14:36:15+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210831143615id_/https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-midnight-hunt-previews-2021-08-31"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-midnight-hunt-previews-2021-08-31"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-01 13:00:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210901130000id_/https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-midnight-hunt-previews-2021-08-31?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-midnight-hunt-previews-2021-08-31?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 
@@ -123,7 +125,7 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 
 
 * [Clintus](https://twitter.com/Clintus)
-* [GLHF](file:///C:/Users/pepplek/OneDrive%20-%20Hasbro%20Inc/Documents/2021/Week%2035/Where%20TF/youtube.com/channel/UC3xWgtukXNLwPDdJvR_YcEg)
+* [Good Luck High Five](https://www.goodluckhighfive.com/)
 * [ManaCurves](https://twitter.com/manacurves)
 * [MPL and Rivals Gauntlets Broadcast](https://www.twitch.tv/magic)
 * [Mr. Panda](https://twitter.com/mrpandamtg)
@@ -239,6 +241,16 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 * [StarCityGames](https://starcitygames.com/)
 * [The Vorthos Cast](https://twitter.com/TheVorthosCast)
 * [Weekly MTG](https://www.twitch.tv/magic)
+
+*Innistrad: Midnight Hunt* Commander Decks
+------------------------------------------
+
+
+**September 13**
+
+
+* [Commander VS](https://www.youtube.com/channel/UCmX7sQ4uz_Jx45ztKGrWT-g)
+* [Command Zone](https://www.youtube.com/c/TheCommandZonePodcast)
 
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 6 Standings - 14 and under Division  Op-Match Rank Name Points Win% 1 Landers Mark 15 62.96 2 Hiemstra Aaron 15 53.70 3 Dyke Eric 15 48.33 4 Burt Rodney 14 62.96 5 Hartman Nick 14 62.04 6 Lipp Scott 14 58.52 7 Behlen Andrew 14 56.48 8 Winnard Marty 13 55.56 9 Mcbee Sean 13 50.00 10 Davis Brian 12 56.48 11 Cunningham Jeff 12 55.56 12 Blair"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953321"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 15:52:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 15:52:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519155249id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-26"
 ---

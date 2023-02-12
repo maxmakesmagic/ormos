@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: David Kirchner's Bloodbraid Red Format: Top 8, German National Qualifier 4 Auntie's Hovel 4 Fire-Lit Thicket 3 Graven Cairns 3 Karplusan Forest 2 Mountain 4 Savage Lands 2 Spinerock Knoll 2 Sulfurous Springs 4 Anathemancer 4 Bloodbraid Elf 4 Boggart Ram-Gang 4 Figure of Destiny 4 Goblin Outlander 2 Shriekmaw 4 Incinerate 2 Terminate 4 Blightning 4 Maelstrom"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668301"
 [_metadata_:publish_date]:- "2009-05-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Bloodbraid Red"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 04:09:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 04:09:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023040954id_/https://magic.wizards.com/en/articles/archive/feature/bloodbraid-red-2009-05-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bloodbraid-red-2009-05-15"
 ---

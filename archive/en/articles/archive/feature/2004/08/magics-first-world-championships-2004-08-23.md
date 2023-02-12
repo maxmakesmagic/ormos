@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Ten years ago, the first Magic: the Gathering World Championship was held at GenCon '94. It was the biggest Magic tournament yet: 512 people filled a hall and played Single-Elimination for three days until a single player stood above them all: Zak Dolan became the first World Champion of Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "290781"
 [_metadata_:publish_date]:- "2004-08-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic's First World Championships"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-29 20:19:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-29 20:19:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150529201944id_/http://magic.wizards.com/en/articles/archive/feature/magics-first-world-championships-2004-08-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magics-first-world-championships-2004-08-23"
 ---

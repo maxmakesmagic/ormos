@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220829205732/https://magic.wizards.com/en/articles/archive/feature/collecting-dominaria-united-2022-08-18)
+[Link to Wayback Machine](https://web.archive.org/web/20220818171427/https://magic.wizards.com/en/articles/archive/feature/collecting-dominaria-united-2022-08-18)
 
 [_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "From Jumpstart to Collector Boosters and more, here's everything you can find with Dominaria United!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1599327"
 [_metadata_:publish_date]:- "2022-08-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Collecting Dominaria United"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-29 20:57:32+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220829205732id_/https://magic.wizards.com/en/articles/archive/feature/collecting-dominaria-united-2022-08-18"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:14:27"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818171427id_/https://magic.wizards.com/en/articles/archive/feature/collecting-dominaria-united-2022-08-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-dominaria-united-2022-08-18"
 ---
 

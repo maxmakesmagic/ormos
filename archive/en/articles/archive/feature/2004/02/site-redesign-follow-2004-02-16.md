@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "I'd like to start off by congratulating the magicthegathering.com writers for a great first week of content. I'm a voracious Magic content devourer myself; I'm as happy as anyone that we've doubled the number of weekday columns (and that Ask Wizards, Magic Arcana and Card of the Day are smoothly back to daily updates again, thanks to the organizational powers of one Mr. Scott Johns). I'm proud to work for such a strong source for Magic information. So, like, go us."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630921"
 [_metadata_:publish_date]:- "2004-02-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Site Redesign Follow-Up"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-25 13:57:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-25 13:57:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025135736id_/https://magic.wizards.com/en/articles/archive/feature/site-redesign-follow-2004-02-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/site-redesign-follow-2004-02-16"
 ---

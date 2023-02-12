@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210418202338/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18)
+[Link to Wayback Machine](https://web.archive.org/web/20190319204711/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18)
 
 [_metadata_:author]:- "Donald Smith"
 [_metadata_:description]:- "Lead designer Donald Smith Jr. reveals the decklists for the upcoming Challenger Decks and explains the thought process behind each deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1397901"
 [_metadata_:publish_date]:- "2019-03-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Challenger Decks 2019"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 20:23:38+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418202338id_/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18"
+[_metadata_:wayback_capture_timestamp]:- "2019-03-19 20:47:11"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190319204711id_/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18"
 ---
 
@@ -66,7 +68,6 @@ One of the biggest reasons for the success of last year's Challenger Decks is th
 
 
 
-
 #### United Assault
 
 
@@ -77,9 +78,7 @@ One of the biggest reasons for the success of last year's Challenger Decks is th
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -391,16 +390,12 @@ OverviewColorCostRarity
 
 
 
-##### Common (30)
+##### Common (26)
 
 
 
 4
 [Healer's Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHealer%5D+%5BHawk%5D)
-
-
-4
-[Ajani's Pridemate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BPridemate%5D)
 
 
 21
@@ -412,7 +407,7 @@ OverviewColorCostRarity
 
 
 
-##### Uncommon (34)
+##### Uncommon (38)
 
 
 
@@ -426,6 +421,10 @@ OverviewColorCostRarity
 
 4
 [Skymarcher Aspirant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkymarcher%5D+%5BAspirant%5D)
+
+
+4
+[Ajani's Pridemate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BPridemate%5D)
 
 
 4
@@ -531,7 +530,6 @@ If you're looking to modify the deck, [Tithe Taker](http://gatherer.wizards.com/
 
 
 
-
 #### Lightning Aggro
 
 
@@ -542,9 +540,7 @@ If you're looking to modify the deck, [Tithe Taker](http://gatherer.wizards.com/
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -833,7 +829,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (41)
+##### Common (42)
 
 
 
@@ -850,6 +846,10 @@ OverviewColorCostRarity
 
 
 4
+[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+
+
+4
 [Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
 
 
@@ -857,17 +857,9 @@ OverviewColorCostRarity
 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=459997)
 
 
-3
-[Fiery Cannonade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BCannonade%5D)
 
+##### Uncommon (21)
 
-
-##### Uncommon (22)
-
-
-
-4
-[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
 
 
 2
@@ -888,6 +880,10 @@ OverviewColorCostRarity
 
 4
 [Diamond Mare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiamond%5D+%5BMare%5D)
+
+
+3
+[Fiery Cannonade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BCannonade%5D)
 
 
 
@@ -962,7 +958,6 @@ If you're looking to try out different cards for this burn deck, I recommend Lig
 
 
 
-
 #### Deadly Discovery
 
 
@@ -973,9 +968,7 @@ If you're looking to try out different cards for this burn deck, I recommend Lig
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -1269,7 +1262,7 @@ OverviewColorCostRarity
 
 
 
-##### 2 (22)
+##### 2 (20)
 
 
 
@@ -1283,10 +1276,6 @@ OverviewColorCostRarity
 
 4
 [Seekers' Squire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeekers'%5D+%5BSquire%5D)
-
-
-2
-[Find // Finality](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFind%5D+%5B&%5D+%5BFinality%5D)
 
 
 4
@@ -1353,7 +1342,7 @@ OverviewColorCostRarity
 
 
 
-##### 6 (1)
+##### 6 (3)
 
 
 
@@ -1361,11 +1350,15 @@ OverviewColorCostRarity
 [Vraska, Relic Seeker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVraska,%5D+%5BRelic%5D+%5BSeeker%5D)
 
 
+2
+[Find // Finality](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFind%5D+%5B&%5D+%5BFinality%5D)
+
+
 52 Cards 
 
 
 
-##### Common (26)
+##### Common (28)
 
 
 
@@ -1385,8 +1378,8 @@ OverviewColorCostRarity
 [Llanowar Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
 
 
-2
-[Reclamation Sage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclamation%5D+%5BSage%5D)
+4
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 2
@@ -1394,7 +1387,7 @@ OverviewColorCostRarity
 
 
 
-##### Uncommon (39)
+##### Uncommon (37)
 
 
 
@@ -1438,12 +1431,12 @@ OverviewColorCostRarity
 [Cast Down](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCast%5D+%5BDown%5D)
 
 
-4
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
-
-
 3
 [Golden Demise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolden%5D+%5BDemise%5D)
+
+
+2
+[Reclamation Sage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclamation%5D+%5BSage%5D)
 
 
 2
@@ -1451,16 +1444,12 @@ OverviewColorCostRarity
 
 
 
-##### Rare (9)
+##### Rare (8)
 
 
 
 2
 [Woodland Cemetery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
-
-
-1
-[Overgrown Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
 
 
 2
@@ -1476,8 +1465,12 @@ OverviewColorCostRarity
 
 
 
-##### Mythic (1)
+##### Mythic (2)
 
+
+
+1
+[Overgrown Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
 
 
 1
@@ -1526,7 +1519,6 @@ This is the most open-ended deck in terms of how you can modify it. Some of thes
 
 
 
-
 #### Arcane Tempo
 
 
@@ -1537,9 +1529,7 @@ This is the most open-ended deck in terms of how you can modify it. Some of thes
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -1916,7 +1906,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (37)
+##### Common (45)
 
 
 
@@ -1937,7 +1927,15 @@ OverviewColorCostRarity
 
 
 4
+[Opt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
+
+
+4
 [Radical Idea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadical%5D+%5BIdea%5D)
+
+
+4
+[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
 
 
 2
@@ -1949,7 +1947,7 @@ OverviewColorCostRarity
 
 
 3
-[Fiery Cannonade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BCannonade%5D)
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
 
 
 2
@@ -1961,7 +1959,7 @@ OverviewColorCostRarity
 
 
 
-##### Uncommon (27)
+##### Uncommon (19)
 
 
 
@@ -1971,14 +1969,6 @@ OverviewColorCostRarity
 
 2
 [Murmuring Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurmuring%5D+%5BMystic%5D)
-
-
-4
-[Opt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
-
-
-4
-[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
 
 
 4
@@ -1994,7 +1984,7 @@ OverviewColorCostRarity
 
 
 3
-[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+[Fiery Cannonade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BCannonade%5D)
 
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Antarctica Sugar Bus Won, 2-0-1 ATM Shop Adept Lost, 1-2 Brown Bomber Pat Chapin and Dinosaurs, Won, 2-0 CCC ECA Won, 2-1 CMU Your Move Games Lost, 1-2 ECA CCC Lost, 1-2 Fifth Again Neutral Ground Detroit Lost, 1-2 Fu-Ku-Ra-Mi THL Lost, 1-2 Game Empire Marc's Brothers Won, 2-0 Goblin Gate Utrecht Won, 2-1 Lost in Spain Matrix Lost, 1-2 Marc's Brothers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951401"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 2 Round 7 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 18:42:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 18:42:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517184200id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-7-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-7-results-2000-01-01"
 ---

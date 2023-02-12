@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Chapman, Eric 19 64.6259 68.4211 57.5684 7/6/1/0 2 Bryant, Justin 19 64.2857 65.0000 58.2061 7/6/1/0 3 Cassidy, Jonathan 19 61.9048 72.2222 56.1096 7/6/1/0 4 Wiegand, Jon 18 64.5578 76.4706 57.6545 7/6/0/0 5 Coisson, Ryan 18 62.1769 72.2222 55.2824 7/6/0/0 6 Tracy, Sean 18 60.1361 72.2222 57.6023"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948956"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Super Series Championship Round 7 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 10:49:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 10:49:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518104959id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-7-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-7-standings-2000-01-01"
 ---

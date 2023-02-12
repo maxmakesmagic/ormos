@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734531"
 [_metadata_:publish_date]:- "2002-04-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix February-March 2004 Season"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-20 21:58:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-20 21:58:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200920215844id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-february-march-2004-season-2002-04-22-5"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-february-march-2004-season-2002-04-22-5"
 ---

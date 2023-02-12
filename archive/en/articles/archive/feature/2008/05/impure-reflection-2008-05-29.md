@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Evil Chris Millar"
 [_metadata_:description]:- "Apparently, it's Evil Twin Week on whatever site this is. Not that I care. I'm not that well-versed in your game of swords and sorcery. I don't even have a suitable costume. To be honest, I prefer more skill-intensive, less luck-based games, like pin the tail on the donkey. Then why am I here? As I sit in my home office [prison cell –CM], I'm wondering the same thing. To make"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620816"
 [_metadata_:publish_date]:- "2008-05-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Impure Reflection"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 20:20:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 20:20:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126202031id_/https://magic.wizards.com/en/articles/archive/feature/impure-reflection-2008-05-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/impure-reflection-2008-05-29"
 ---

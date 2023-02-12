@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Akbar, David ( 60) 12 13 Gallitz, Donald (146) 12 Allen, Dustin ( 36) 4 64 Speelman, Brian ( 24) 4 Armstrong, Herman ( 88) 7 50 Dubois, Dan ( 19) 7 Aubertin, Justin ( 3) 9 46 Hager, Lucas (109) 9 Beckmon, Jon ( 15) 10 27 Hines, Frank (144) 10 Benafel, Chris ( 50) 16 2 Humpherys, David (107) 16 Bhattacharyya, Sayan ( 39) 13 9 Frayman, Igor ( 52) 13"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949286"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Nationals 2000 Round 7 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:57:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:57:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523085756id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-7-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-7-pairings-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Originally printed in Alpha, Nevinyrral's Disk was one of the stars of early Magic. Once players got past the initial distress that they might be blowing their own things up, they found more and better ways to exploit its symmetrical nature."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627176"
 [_metadata_:publish_date]:- "2006-09-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Larry Niven’s Nephew"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-01 00:39:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-01 00:39:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210201003924id_/https://magic.wizards.com/en/articles/archive/feature/larry-niven%E2%80%99s-nephew-2006-09-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/larry-niven%E2%80%99s-nephew-2006-09-14"
 ---

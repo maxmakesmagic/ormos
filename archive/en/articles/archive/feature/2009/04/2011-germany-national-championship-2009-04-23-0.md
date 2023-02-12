@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "First Last Reason David Adolph Ludwigsburg Benjamin Aithaj-Kaddour Maintal Torsten Anders Dresden Lovis Anderson Rating Dirk Baberowski Pro Club Edris Bakhtari Maintal Marcel Bauche Hamburg Philipp Baum Nürnberg Martin Baumert Rating Jonas Bayer Karlsruhe Bertram Beckmann Dortmund Martin Bisterfeld Rating Marco Blume Rating Aaron Boehmler Rating Sebastian Born Düsseldorf"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730141"
 [_metadata_:publish_date]:- "2009-04-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Germany National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 10:55:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 10:55:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018105552id_/https://magic.wizards.com/en/articles/archive/feature/2011-germany-national-championship-2009-04-23-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-germany-national-championship-2009-04-23-0"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Daniel Zink Dave Humpherys Wolfgang Eder Peer Kröger   (Back to Product Page)  Daniel Zink Daniel Zink's white-blue-green `Wake` deck is a control deck at heart. Once the powerful enchantment Mirari's Wake is in play, the deck produces more mana, draws more cards, counters more spells, and makes more Soldiers than opponents can possibly handle."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "647226"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "World Champion Decks 2003 Theme Decks"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 02:16:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 02:16:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703021626id_/https://magic.wizards.com/en/articles/archive/feature/world-champion-decks-2003-theme-decks-2008-08-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-champion-decks-2003-theme-decks-2008-08-18"
 ---

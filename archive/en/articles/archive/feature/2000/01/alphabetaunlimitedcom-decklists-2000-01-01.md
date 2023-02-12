@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sideboard Staff"
 [_metadata_:description]:- "[decklist] Title: Noah Boeken 1 Geothermal Crevice 7 Mountain 1 Sulfur Vent 8 Swamp 1 Caldera Kavu 1 Firebrand Ranger 1 Kavu Recluse 1 Lava Zombie 1 Plague Spitter 1 Shivan Zombie 1 Viashino Grappler 1 Bog Down 1 Hypnotic Cloud 2 Recover 1 Scorching Lava 2 Singe 2 Sinister Strength 1 Zap [/decklist] [decklist] Title: Chris Benafel 7 Island 3 Plains 1 Salt Marsh 6 Swamp 1 Cavern Harpy 1 Disciple of Kangee"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806066"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "AlphaBetaUnlimited.com Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 21:11:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 21:11:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123211146id_/https://magic.wizards.com/en/articles/archive/feature/alphabetaunlimitedcom-decklists-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alphabetaunlimitedcom-decklists-2000-01-01"
 ---

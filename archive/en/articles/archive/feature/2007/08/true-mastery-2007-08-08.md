@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Welcome to Old Favorites Week! This week is dedicated to reprints and other old favorites, and linking that to Magic Online wasn't hard. As you may have heard, on September 10 Masters Edition will go on sale. Masters Edition is a Magic Online only set containing some of the greatest cards from Magic's past. All 195 cards in the set have appeared in pre-Mirage Magic sets and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624611"
 [_metadata_:publish_date]:- "2007-08-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "True Mastery"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:45:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:45:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429124558id_/https://magic.wizards.com/en/articles/archive/feature/true-mastery-2007-08-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/true-mastery-2007-08-08"
 ---

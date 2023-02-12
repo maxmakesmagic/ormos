@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[view] Tournament Organizer Mike Guptil relaxes after a long day. [view] The ever vigilant Dan Gray keeps a careful eye on the semi-final drafts. [view] Our Move Games was in with a win while Team Sourgirl wanted to play the role of spoilers. It all came down to the match between Mike Bregoli and Mike Bernat. Bregoli was up 1-0 as time was running out and it looked like he was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952216"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Photo Coverage of Grand Prix-St. Louis 2000"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 21:25:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 21:25:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129212507id_/https://magic.wizards.com/en/articles/archive/feature/photo-coverage-grand-prix-st-louis-2000-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/photo-coverage-grand-prix-st-louis-2000-2000-01-01"
 ---

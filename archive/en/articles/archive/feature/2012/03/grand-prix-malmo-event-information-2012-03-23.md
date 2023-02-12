@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Official hashtag: #gpmalmo Date: May 19-20, 2012 Format: Avacyn Restored Sealed Deck / Booster Draft Tournament Location MALMÖ ARENA Hyllie Stationstorg 4 Malmö Sweden Registration: SEK 400 Friday, May 18: 14.00 – 22.30 Saturday, May 19: 08.00 – 09.00 Entrance"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728901"
 [_metadata_:publish_date]:- "2012-03-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Malmo Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 06:40:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 06:40:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126064037id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-malmo-event-information-2012-03-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-malmo-event-information-2012-03-23"
 ---

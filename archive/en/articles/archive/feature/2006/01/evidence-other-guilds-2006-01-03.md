@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magicthegathering.com is running `best of` content during the holidays, and will return with new content January 4, 2006. This Magic Arcana originally ran November 15, 2005. Boros, Dimir, Golgari, Selesnya. Since the Ravnica set focuses on these four guilds, we've heard all about them. But the other guilds are a relative mystery. However, since Ravnica the plane is full of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "597631"
 [_metadata_:publish_date]:- "2006-01-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Evidence of the Other Guilds"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 12:57:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 12:57:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121125708id_/https://magic.wizards.com/en/articles/archive/feature/evidence-other-guilds-2006-01-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/evidence-other-guilds-2006-01-03"
 ---

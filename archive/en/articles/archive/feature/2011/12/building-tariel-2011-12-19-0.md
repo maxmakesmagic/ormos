@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220930195305/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0)
+[Link to Wayback Machine](https://web.archive.org/web/20170816193732/http://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0)
 
 [_metadata_:author]:- "Mark Purvis"
-[_metadata_:description]:- "Here at Daily MTG, we use the last two weeks of each year to bring back our favorite articles from the year and give our writers (and staff!) a break for the holidays.If you're a regular reader, you know that our website tells you all kinds of things about what we do to make Magic, from design to development to Constructed playtesting to world building to art concepting to"
+[_metadata_:description]:- "Here at Daily MTG, we use the last two weeks of each year to bring back our favorite articles from the year and give our writers (and staff!) a break for the holidays.If you're a regular reader, you know that our website tells you all kinds of things about what we do to make Magic, from design to development to Constructed playtesting to world building to art concepting to sketch tweaking to flavor text writing to... you get the idea."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681206"
 [_metadata_:publish_date]:- "2011-12-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Building Tariel"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-30 19:53:05+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220930195305id_/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-16 19:37:32"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816193732id_/http://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
 ---
 
 
@@ -26,7 +28,7 @@ Building Tariel
 
 
 
-![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By Mark Purvis
 
 
@@ -43,7 +45,7 @@ By Mark Purvis
 
 *If you're a regular reader, you know that our website tells you all kinds of things about what we do to make **Magic**, from design to development to Constructed playtesting to world building to art concepting to sketch tweaking to flavor text writing to... you get the idea.*
 
-*In this article, senior brand manager and moonlight designer/developer Mark Purvis does one better: He follows one card—[Tariel, the Reckoner](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tariel%2C+the+Reckoner)—through the ENTIRE process, from initial design, through development and creative, and all the way to being localized into various languages, physically printed, stuck in a box, and shipped to your local store. Along the way, he shares all kinds of interesting stuff about how Tariel and the rest of the* **Magic: The Gathering** Commander *cards came to be.*
+*In this article, senior brand manager and moonlight designer/developer Mark Purvis does one better: He follows one card—[Tariel, the Reckoner](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tariel%2C+the+Reckoner)—through the ENTIRE process, from initial design, through development and creative, and all the way to being localized into various languages, physically printed, stuck in a box, and shipped to your local store. Along the way, he shares all kinds of interesting stuff about how Tariel and the rest of the* **Magic: The Gathering** Commander *cards came to be.*
 
 ***DailyMTG.com** will be back with all-new content starting Monday, January 2—our tenth anniversary!—and* Dark Ascension *previews kick into gear on the following Monday, January 9.*
 
@@ -72,7 +74,7 @@ We may be Wizards, and we are definitely working with **Magic**, but that's not 
 
 ### Design
 
-I'll start the story of Tariel where these articles usually begin: in design. This design was a long process, and for the first few weeks I floundered, searching for my deck's theme. I knew what my three "wedge" colors were and that [Oros, the Avenger](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oros%2C+the+Avenger) was my legendary Dragon, but there are a lot of directions you can take with white-black-red, and Oros's ability isn't an easy one to effectively build around for multiplayer games. I learned a lot in the early stages of design, even though most of my work was ultimately thrown out. (This is not unusual in **Magic** design.) Eventually I settled in on a theme that I loved, centered on big flying monsters: Angels, Demons, and Dragons.
+I'll start the story of Tariel where these articles usually begin: in design. This design was a long process, and for the first few weeks I floundered, searching for my deck's theme. I knew what my three "wedge" colors were and that [Oros, the Avenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oros%2C+the+Avenger) was my legendary Dragon, but there are a lot of directions you can take with white-black-red, and Oros's ability isn't an easy one to effectively build around for multiplayer games. I learned a lot in the early stages of design, even though most of my work was ultimately thrown out. (This is not unusual in **Magic** design.) Eventually I settled in on a theme that I loved, centered on big flying monsters: Angels, Demons, and Dragons.
 
 Our lead designer Ken Nagle helped me hone the theme with an idea for the ability on the primary commander who would make the theme of the deck work well, and my primary commander, Kaalia of the Vast, was created. With Kaalia and Oros in place, that left one slot for the alternate wedge Commander. (What does Kaalia do? Check out [mtgcommander.net](http://mtgcommander.net/) on Thursday to find out!)
 
@@ -107,7 +109,7 @@ Brady came up with the card concepts, which get turned into art descriptions for
 > 
 > 
 
-**Magic** Art director Jeremy Jarvis chose artist Wayne Reynolds to create Tariel's look. Wayne Reynolds is one of the most renowned artist in fantasy gaming and has been making memorable **Magic** cards for many years (among my favorites are [Ajani Vengeant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ajani+Vengeant), [Ashling the Pilgrim](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ashling+the+Pilgrim), and [Ink-Eyes, Servant of Oni](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ink-Eyes%2C+Servant+of+Oni)).
+**Magic** Art director Jeremy Jarvis chose artist Wayne Reynolds to create Tariel's look. Wayne Reynolds is one of the most renowned artist in fantasy gaming and has been making memorable **Magic** cards for many years (among my favorites are [Ajani Vengeant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ajani+Vengeant), [Ashling the Pilgrim](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ashling+the+Pilgrim), and [Ink-Eyes, Servant of Oni](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ink-Eyes%2C+Servant+of+Oni)).
 
 The process of painting a piece of card art is a long one, and in that time Wayne did an amazing job of giving Tariel personality and identity. He also did something that we rarely see: he painted her image out beyond the card frame. Here's a snapshot of the original painting.
 

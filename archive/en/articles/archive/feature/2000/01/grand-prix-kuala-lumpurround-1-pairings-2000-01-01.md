@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Table Opponent Abdul Jalal, Abdul Halim Bin (114) 105 Zahedi, Fariz Zain ( 66) Abdul Wahab, Mohammad Nazim (143) 130 Lim, Hao Zhi ( 97) Ahmad Kamal, Ahmad Omar ( 55) 71 Low, Weng Woh Joseph (151) Ahmad, Ahmad (282) 32 Jansen, Jansen ( 38) Ahmad, Wan Hafiz Wan (142) 118 Gan, Kok Seng Victor (204) Amzar, Hazwan (263) 53 Wee, Pang Ming (100) Ang, Jun Yang (120) *** Awarded"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952491"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Kuala LumpurRound 1 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 16:37:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 16:37:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516163755id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-1-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-1-pairings-2000-01-01"
 ---

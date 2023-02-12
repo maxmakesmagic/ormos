@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Rank Player Points Op.Win% 1 Andreatta, Vagner 3 33.33% 2 Gambin, Lucas Adams 3 33.33% 3 Presas, Joaquim F 3 33.33% 4 Chore, Pedro H 3 33.33% 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "959831"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:25:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:25:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022546id_/https://magic.wizards.com/en/articles/archive/feature/round-1-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-standings-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-MatchPL-DuelOp-DuelMatches RankNamePointsWin%Win%Win%P/W/D/B 1Hon Ming, Au Yeung 2173.809593.333367.88254/4/0/3 2Oca, Allan 2168.027288.888962.07177/7/0/0 3Alfar, Nikki 1968.952481.250062.70305/4/1/2 4Lirag, Rafael 1961.111172.222255.18856/5/1/1 5MANIEGO, BUTCH 1956.507981.250055.19057/6/1/0 6YOUS, LIN 1872.619086.666766.41534/3/0/3 7Tantingco, Happy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952921"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Manila 1999Day 1 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 12:01:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 12:01:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520120150id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-1999day-1-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-1999day-1-standings-2000-01-01"
 ---

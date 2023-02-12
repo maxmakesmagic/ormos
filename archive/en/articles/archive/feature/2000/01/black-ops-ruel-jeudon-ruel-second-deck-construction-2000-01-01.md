@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "When anyone talks about Team play in Magic they have to mention Black Ops. The French team, composed by the Ruel brothers (Antoine and Olivier) and Florent Jeudon, is without doubt one of the best in the business. Their day didn't start in the best way: so far they have only played one round, thanks to their two byes, and they lost that round. Thus they were both eager and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806161"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Black Ops (Ruel, Jeudon, Ruel) second deck construction"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 22:28:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 22:28:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524222840id_/https://magic.wizards.com/en/articles/archive/feature/black-ops-ruel-jeudon-ruel-second-deck-construction-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/black-ops-ruel-jeudon-ruel-second-deck-construction-2000-01-01"
 ---

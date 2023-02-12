@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Hello everyone! It's a pleasure to be bringing you the latest brews and technology from the various formats throughout Magic, but first I'd like to highlight the best decks from 2013. The devotion mechanic from Theros has already begun to make a splash in Modern, but the first time we really got to see devotion in action was at Pro Tour Theros, which was Standard. The Top 8"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667441"
 [_metadata_:publish_date]:- "2014-01-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Best of 2013: Mastering Blue"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-30 04:01:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-30 04:01:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220930040156id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-mastering-blue-2014-01-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-mastering-blue-2014-01-06"
 ---

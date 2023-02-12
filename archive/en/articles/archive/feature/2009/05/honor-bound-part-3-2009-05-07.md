@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628801"
 [_metadata_:publish_date]:- "2009-05-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Honor Bound, Part 3"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-21 12:37:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-21 12:37:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921123741id_/https://magic.wizards.com/en/articles/archive/feature/honor-bound-part-3-2009-05-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/honor-bound-part-3-2009-05-07"
 ---

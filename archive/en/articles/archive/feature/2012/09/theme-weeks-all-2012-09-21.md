@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Hello from the editor's chair! It's like the captain's chair but more comfy and more prone to poor posture. I floated the idea earlier this week that I was thinking about sharing the theme week schedule for DailyMTG.com, with the intent of allowing our awesome community to participate in the fun. Up until now, theme weeks have largely been kept secret until they hit"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688156"
 [_metadata_:publish_date]:- "2012-09-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Theme Weeks For All!"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 08:48:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 08:48:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028084859id_/https://magic.wizards.com/en/articles/archive/feature/theme-weeks-all-2012-09-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theme-weeks-all-2012-09-21"
 ---

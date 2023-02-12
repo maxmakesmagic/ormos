@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Last year's inaugural Community Cup event was a smashing good time and a hard fought competition between the Community Team and the Wizards of the Coast Team. With the cries of `Multiball!!!` echoing the halls of the Wizards of the Coast corporate office, the Community Team eked out a victory and brought glory -- and a free Momir Basic tournament -- back to the MTGO players."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687341"
 [_metadata_:publish_date]:- "2010-04-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2010 Community Cup Invitees Announced!"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 08:29:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 08:29:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519082933id_/https://magic.wizards.com/en/articles/archive/feature/2010-community-cup-invitees-announced-2010-04-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-community-cup-invitees-announced-2010-04-20"
 ---

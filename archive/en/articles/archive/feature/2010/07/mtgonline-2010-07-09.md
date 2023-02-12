@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "There's only one thing happening this weekend in the Magic Community, and it's the Magic 2011 Prerelease!But for the sake of argument, let's say you want to know what's going on in the world of Magic Online. Well, have you been to www.mtgonline.com? It's got lots of fascinating information, like upcoming tournaments (there's a Ravnica Block Sealed tournament on July 17 that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "601066"
 [_metadata_:publish_date]:- "2010-07-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "MTGOnline"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 20:17:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 20:17:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126201750id_/https://magic.wizards.com/en/articles/archive/feature/mtgonline-2010-07-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgonline-2010-07-09"
 ---

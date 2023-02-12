@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211020194806/https://magic.wizards.com/en/articles/archive/feature/absence-color-2014-05-23)
+[Link to Wayback Machine](https://web.archive.org/web/20220808042218/https://magic.wizards.com/en/articles/archive/feature/absence-color-2014-05-23)
 
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "Legacy is a format where you can thrive without things that are generally considered to be basic needs for most decks. Some decks win without creatures (such as Storm Combo). Some decks win without lands (such as Manaless Dredge). This deck wins without colors. All-artifact decks are commonly referred to as MUD decks because artifacts printed before Eighth Edition looked like"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667991"
 [_metadata_:publish_date]:- "2014-05-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Absence of Color"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 19:48:06+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020194806id_/https://magic.wizards.com/en/articles/archive/feature/absence-color-2014-05-23"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 04:22:18"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808042218id_/https://magic.wizards.com/en/articles/archive/feature/absence-color-2014-05-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/absence-color-2014-05-23"
 ---
 

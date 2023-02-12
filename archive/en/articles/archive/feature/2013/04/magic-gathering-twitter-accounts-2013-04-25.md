@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The only official Twitter account for Magic: The Gathering!The official pan-European account for the world's premier trading card game."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "708716"
 [_metadata_:publish_date]:- "2013-04-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Twitter Accounts"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-26 22:51:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-26 22:51:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170626225113id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-twitter-accounts-2013-04-25"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-twitter-accounts-2013-04-25"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Hall of Famer Frank Karsten recently tweeted this deck he built, and I think it's a cool enough deck to share with everyone. Or maybe I just can't ignore a Doomed Traveler deck. (Not just a deck with Doomed Traveler, but a deck that's based on playing all the different Doomed Travelers.) Frank built a GW Aggro deck that's so good against Supreme Verdict he decided it should"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666636"
 [_metadata_:publish_date]:- "2013-06-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Surviving the Rapture"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 00:19:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 00:19:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520001928id_/https://magic.wizards.com/en/articles/archive/feature/surviving-rapture-2013-06-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/surviving-rapture-2013-06-18"
 ---

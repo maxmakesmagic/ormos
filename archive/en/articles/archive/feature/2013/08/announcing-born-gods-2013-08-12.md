@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210207070452/https://magic.wizards.com/en/articles/archive/feature/announcing-born-gods-2013-08-12)
+[Link to Wayback Machine](https://web.archive.org/web/20210429040044/https://magic.wizards.com/en/articles/archive/feature/announcing-born-gods-2013-08-12)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "    Set Name  Born of the Gods"
+[_metadata_:description]:- "Set Name Born of the Gods Block Set 2 of 3 in the Theros block Number of Cards 165 Prerelease Events February 1-2, 2014 Release Date February 7, 2014 Launch Weekend February 7-9, 2014 Game Day March 1-2, 2014  Magic Online Prerelease Events February 14-17, 2014 Magic Online Release Date February 17, 2014 Magic Online Release Events February 17-March 5, 2014  Pro Tour Born of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649736"
 [_metadata_:publish_date]:- "2013-08-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing Born of the Gods"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-07 07:04:52+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207070452id_/https://magic.wizards.com/en/articles/archive/feature/announcing-born-gods-2013-08-12"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:00:44"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040044id_/https://magic.wizards.com/en/articles/archive/feature/announcing-born-gods-2013-08-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-born-gods-2013-08-12"
 ---
 
@@ -26,7 +28,7 @@ Announcing Born of the Gods
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

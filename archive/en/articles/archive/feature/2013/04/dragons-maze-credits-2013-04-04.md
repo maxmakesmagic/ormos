@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Original Magic Game Design: Richard Garfield Initial Concept and Game Design: Alexis Janson (lead), Dan Emmons, Aaron Forsythe, Erik Lauer, Shawn Main, and Mark Rosewater Final Game Design and Development: Zac Hill (lead), Mark Globus, Mark L."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "696516"
 [_metadata_:publish_date]:- "2013-04-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dragon's Maze Credits"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:54:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:54:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128125441id_/https://magic.wizards.com/en/articles/archive/feature/dragons-maze-credits-2013-04-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dragons-maze-credits-2013-04-04"
 ---

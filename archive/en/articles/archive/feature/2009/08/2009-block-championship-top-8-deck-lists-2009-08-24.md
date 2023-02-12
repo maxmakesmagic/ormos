@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Brian Kowal Format: 1st place, 2009 Block Championship 4 Exotic Orchard 4 Jungle Shrine 4 Savage Lands 2 Rupture Spire 1 Arcane Sanctum 5 Swamp 4 Mountain 2 Forest 4 Putrid Leech 4 Sprouting Thrinax 4 Bloodbraid Elf 2 Enlisted Wurm 4 Broodmate Dragon 3 Celestial Purge 4 Blightning 3 Maelstrom Pulse 2 Ajani Vengeant 4 Bituminous Blast *3 Infest *3 Path to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683886"
 [_metadata_:publish_date]:- "2009-08-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2009 Block Championship Top 8 Deck Lists"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:49:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:49:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516214926id_/https://magic.wizards.com/en/articles/archive/feature/2009-block-championship-top-8-deck-lists-2009-08-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-block-championship-top-8-deck-lists-2009-08-24"
 ---

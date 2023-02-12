@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Compiled by Matt Tabak, with contributions from Laurie Cheers, Carsten Haese, Eli Shiffrin, Zoe Stephenson, and Thijs van Ommen Document last modified December 10, 2013"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633751"
 [_metadata_:publish_date]:- "2014-01-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-14 02:49:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-14 02:49:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160714024948id_/http://magic.wizards.com/en/articles/archive/feature/release-notes-2014-01-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/release-notes-2014-01-22"
 ---

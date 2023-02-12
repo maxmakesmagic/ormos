@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Themistoklis Panagiotaras's Planeswalkers!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670316"
 [_metadata_:publish_date]:- "2008-11-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalkers!"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 08:37:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 08:37:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020083712id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-2008-11-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-2008-11-11"
 ---

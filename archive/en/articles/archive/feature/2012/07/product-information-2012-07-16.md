@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "706026"
 [_metadata_:publish_date]:- "2012-07-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Product Information"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-17 13:57:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-17 13:57:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160317135711id_/http://magic.wizards.com/en/articles/archive/feature/product-information-2012-07-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/product-information-2012-07-16"
 ---

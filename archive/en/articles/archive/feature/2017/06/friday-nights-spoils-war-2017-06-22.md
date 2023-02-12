@@ -5,9 +5,11 @@
 [_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "The crew sets up an Hour of Devastation war room to monitor the previews of the new set—and has a preview of their own."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1164846"
 [_metadata_:publish_date]:- "2017-06-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Friday Nights: Spoils of War"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-23 13:01:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-23 13:01:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170623130134id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-spoils-war-2017-06-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-spoils-war-2017-06-22"
 ---

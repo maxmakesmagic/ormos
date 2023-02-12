@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "A Word About Unhinged So far we've been very good about letting my esteemed colleague Mr. Rosewater go crazy only once every half-dozen or so years. And boy, does he ever have a soft spot for silver-bordered land. Meanwhile, some of us have to keep the rest of Magic from being overrun with questions about stacking shoes and if adding cheeseburger to your belly pool is a mana"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624891"
 [_metadata_:publish_date]:- "2004-12-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "An Update on the UNH Truce, and Questions Questions Questions"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 15:43:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 15:43:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813154350id_/https://magic.wizards.com/en/articles/archive/feature/update-unh-truce-and-questions-questions-questions-2004-12-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/update-unh-truce-and-questions-questions-questions-2004-12-04"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657386"
 [_metadata_:publish_date]:- "2010-03-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "On the Rise, Part I"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-10 15:35:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-10 15:35:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170610153530id_/http://magic.wizards.com/en/articles/archive/feature/rise-part-i-2010-03-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rise-part-i-2010-03-29"
 ---

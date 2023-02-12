@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fiend of the Shadows – Dark Ascension rare. From the Dark Ascension FAQ: Playing a card exiled with Fiend of the Shadows follows all the normal rules for playing that card. You must pay its costs, and you must follow all timing restrictions, for example. You may only play the card, meaning play it as a land or cast it as a spell. It's not in your hand. You can't discard it,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664426"
 [_metadata_:publish_date]:- "2012-01-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - January, 2012"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 13:23:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 13:23:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625132345id_/https://magic.wizards.com/en/articles/archive/feature/card-day-january-2012-2012-01-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-january-2012-2012-01-02"
 ---

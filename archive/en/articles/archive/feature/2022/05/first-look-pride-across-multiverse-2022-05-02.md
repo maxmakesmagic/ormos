@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220502151103/https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02)
+[Link to Wayback Machine](https://web.archive.org/web/20220503010817/https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02?utm_campaign=Secret-Lair-Drop-Series&utm_source=TWITTER&utm_medium=social&utm_content=6902016937%22,)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wizards of the Coast teams up with The Trevor Project to celebrate Pride!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1586543"
 [_metadata_:publish_date]:- "2022-05-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A First Look: Pride Across the Multiverse"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-02 15:11:03+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220502151103id_/https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-03 01:08:17"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220503010817id_/https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02?utm_campaign=Secret-Lair-Drop-Series&utm_source=TWITTER&utm_medium=social&utm_content=6902016937%22,"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02?utm_campaign=Secret-Lair-Drop-Series&utm_source=TWITTER&utm_medium=social&utm_content=6902016937%22,"
 ---
 
 
@@ -102,7 +104,7 @@ What's in the Drop?
 \*Inclusive of local VAT
 
 
-Each card in this drop was illustrated by an LGBTQIA2S+ artist, bringing their own unique creative styles and lived experiences. This set will be available for preorder on May 4 and arrive in a unique rainbow foil box. Here's a quick look, and we'll have more coming in June:
+Each card in this drop was illustrated by an LGBTQIA2S+ artist, bringing their own unique creative styles and lived experiences. This set will be available for preorder on May 4 and arrive in a unique rainbow foil box. Here's a quick look:
 
 
 ![Heartbeat of Spring](https://media.wizards.com/2022/images/daily/en_C42uWnYz7u.png)
@@ -156,7 +158,10 @@ Can't get enough of the artwork? Each *Secret Lair* Pride purchase also includes
 ![Arena Art Sleeves](https://media.wizards.com/2022/images/daily/pGGKVEmL59.png)
 
 
-This *Secret Lair* drop represents the cumulative effort of so many LGBTQIA2S+ employees who poured their hearts into this drop. We hope that you will love this as much as we do!
+This *Secret Lair* drop represents the cumulative effort of so many LGBTQIA2S+ employees who poured their hearts into this drop.
+
+
+We hope that you will love this as much as we do, and look forward to sharing more ways we're celebrating the LGBTQIA2S+ community in the coming weeks!
 
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Game 1, Nobushita vs. Williams Nobushita won the die roll and chose to play first, but cast nothing on the first two turns. He made up for it on turn three though, summoning Noble Panther. Williams got a Cavern Harpy into play, but chose not to block Noble Panther as he needed his mana to develop. Williams used Mourning to slow down a Kavu Recluse, but Nobushita cast Strength"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806546"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Semifinals: FireBeat vs. www.AlphaBetaUnlimited.com"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 08:24:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 08:24:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702082413id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-firebeat-vs-wwwalphabetaunlimitedcom-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-firebeat-vs-wwwalphabetaunlimitedcom-2000-01-01"
 ---

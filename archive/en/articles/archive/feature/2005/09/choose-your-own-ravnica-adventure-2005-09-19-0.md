@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210122124424/https://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19-0)
+[Link to Wayback Machine](https://web.archive.org/web/20220518131940/https://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19-0)
 
 [_metadata_:author]:- "Brian David-Marshall"
-[_metadata_:description]:- "My original plan for this primer was to create a “Choose Your Own Adventure” format to walk you through the process of attending this weekend's Ravnica Prerelease events."
+[_metadata_:description]:- "My original plan for this primer was to create a “Choose Your Own Adventure” format to walk you through the process of attending this weekend's Ravnica Prerelease events. As I started to lay it out it became apparent to me that it was not going to be as easy I as I originally had hoped. The problem stems from having such a wide variety of ways to experience the event. Players"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632131"
 [_metadata_:publish_date]:- "2005-09-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Choose Your Own Ravnica Adventure"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-22 12:44:24+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122124424id_/https://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19-0"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 13:19:40"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518131940id_/https://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19-0"
 ---
 
@@ -97,7 +99,7 @@ Please don't do this.
 
 If you must…if there is one card you just can't cut…you can play 41. I have done it myself more times than I care to admit. Please don't play more than that though. I know you want to have fun with your cards but it is no fun to have crummy draws and not see your very best cards. If you want help figuring out what your very best cards are I suggest you take a stroll through [Scott Wills' most enlightening archives](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/authorarchive&author=ScottWills) and see what guidelines he has used when evaluating new sets in the past. The cards may be different but the same rules generally apply. 
 
-As far as building your deck there are a couple of rough guidelines that you always fall back on. I have no idea how many colors to tell you to play. Normally I encourage people to stick to two colors as close as possible. If necessary a third color can be splashed for removal. But, I have no clue if that applies to this format or not since this is a multi-color set. I'm guessing that three-color decks will be much more common than in “normal” sets, and that from the likes of what we've seen so far of *Ravnica*, I'd guess that there will be a lot of color-helping available to make that work. I like to play 17 or 18 mana sources. You can go down as low as sixteen lands provided you have some kind of mana creatures or [Wild Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Growth) effects to make up for the shortfall (at, typically, at least a 2 per land removed ratio), but remember that the more color requirements your deck has, the harder it is to cheat on your number of mana sources. Of the 22 cards remaining in the deck I like to have about 17 of them be creatures with the remainder dedicated to removal, card drawing, and counter magic. But, as I mentioned, those are general guidelines to say the least. Each set has its own peculiar twists and this set seems to have them in spades. Play it by ear, play enough mana, and have fun. 
+As far as building your deck there are a couple of rough guidelines that you always fall back on. I have no idea how many colors to tell you to play. Normally I encourage people to stick to two colors as close as possible. If necessary a third color can be splashed for removal. But, I have no clue if that applies to this format or not since this is a multi-color set. I'm guessing that three-color decks will be much more common than in “normal” sets, and that from the likes of what we've seen so far of *Ravnica*, I'd guess that there will be a lot of color-helping available to make that work. I like to play 17 or 18 mana sources. You can go down as low as sixteen lands provided you have some kind of mana creatures or [Wild Growth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Growth) effects to make up for the shortfall (at, typically, at least a 2 per land removed ratio), but remember that the more color requirements your deck has, the harder it is to cheat on your number of mana sources. Of the 22 cards remaining in the deck I like to have about 17 of them be creatures with the remainder dedicated to removal, card drawing, and counter magic. But, as I mentioned, those are general guidelines to say the least. Each set has its own peculiar twists and this set seems to have them in spades. Play it by ear, play enough mana, and have fun. 
 
 ### Quick Checklist of Things to Bring
 

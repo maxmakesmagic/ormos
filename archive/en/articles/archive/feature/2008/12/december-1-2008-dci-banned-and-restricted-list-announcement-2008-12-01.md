@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Please note: This announcement has been changed since it was originally posted. Kokusho, the Evening Star has been added to the Commander banned list, and Crop Rotation has been removed from the Prismatic banned list. Announcement Date: December 1, 2008Effective Date: December 20, 2008Magic Online Effective Date: December 10, 2008"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681056"
 [_metadata_:publish_date]:- "2008-12-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "December 1 2008 DCI Banned and Restricted List Announcement"
-[_metadata_:wayback_capture_timestamp]:- "2015-12-27 07:45:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-12-27 07:45:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151227074556id_/http://magic.wizards.com/en/articles/archive/feature/december-1-2008-dci-banned-and-restricted-list-announcement-2008-12-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/december-1-2008-dci-banned-and-restricted-list-announcement-2008-12-01"
 ---

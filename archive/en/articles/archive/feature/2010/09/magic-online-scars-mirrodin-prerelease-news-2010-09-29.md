@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Return to the metal plane of Mirrodin and experience the newest Magic: The Gathering expansion before it goes on sale… and now prereleases start earlier than ever before! All Scars of Mirrodin prerelease players will also earn a Wurmcoil Engine prerelease card! The Scars of Mirrodin prerelease will feature three separate parts: Sealed Swiss Flights, Booster Draft Flights, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688221"
 [_metadata_:publish_date]:- "2010-09-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Scars of Mirrodin Prerelease News"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 01:49:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 01:49:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517014953id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-scars-mirrodin-prerelease-news-2010-09-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-scars-mirrodin-prerelease-news-2010-09-29"
 ---

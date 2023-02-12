@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gordon Culp"
 [_metadata_:description]:- "Summary The Magic 2012 Core Set release broke Magic Online’s concurrent user and activity records, continuing a pattern that began with the M10 release. The new client project continues to progress rapidly. Our current infrastructure project is a server upgrade that is bundled with an update to our eCommerce services.New Client The new client UI is up and running in a closed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688246"
 [_metadata_:publish_date]:- "2011-10-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Development Update Q3 2011"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 20:18:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 20:18:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523201825id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q3-2011-2011-10-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q3-2011-2011-10-04"
 ---

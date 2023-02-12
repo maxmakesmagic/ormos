@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Michael G. Ryan"
 [_metadata_:description]:- "As the flying ship Weatherlight leaves Dominaria behind, bound for the dark plane of Rath, Magic players will themselves roaring between these two very different worlds. Tempest, the stand-alone release this fall, will introduce players to a wealth of clever new mechanics, surprising twists to the fate of the Weatherlight crew, and an imaginative new world environment. The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680741"
 [_metadata_:publish_date]:- "2008-11-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tempest on the Horizon"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:21:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:21:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429042157id_/https://magic.wizards.com/en/articles/archive/feature/tempest-horizon-2008-11-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tempest-horizon-2008-11-24"
 ---

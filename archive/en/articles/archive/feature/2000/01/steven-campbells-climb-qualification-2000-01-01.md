@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Luke Hancock Steven Campbell is probably the most accomplished player in this year's Australian Nationals Meatgrinders. He has been playing Magic: the Gathering since early August 1994 and has placed 12th at the 1998 APAC Championships and won the 1997 Lasseters Indoor Challenge featuring some of Australia's best players. He is attempting to qualify through the Meatgrinder"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948836"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Steven Campbell's Climb to Qualification"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 06:54:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 06:54:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127065408id_/https://magic.wizards.com/en/articles/archive/feature/steven-campbells-climb-qualification-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/steven-campbells-climb-qualification-2000-01-01"
 ---

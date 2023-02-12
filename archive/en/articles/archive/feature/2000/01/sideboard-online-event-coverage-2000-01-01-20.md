@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 2 Results - 14 and under Division Player Opponent Results Allen Dustin Hadlock Justin Lost, 1-2 Alpert Justin Garner Greg Lost, 1-2 Altemara Chase Lamberd Clinton Won, 2-0 Anderson Adam Zappelli Joey Lost, 0-2 Bailyn Jonathan Chapman Eric Lost, 0-2 Basile Sebastian Winnard Marty Lost, 0-2 Behlen Andrew Engelken David Won, 2-0 Bizub Marc"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953271"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 06:01:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 06:01:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517060125id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-20"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamOpponent5280vsSpastik Monkees#realgangstasvsShaolin Sword$42 Ticket* AWARDED BYE *100 Super Good Fun Time* AWARDED BYE *3 for FlinchingvsRighteous Babe3 White Boys from the StixvsTeam Acme Smackdown5 Ways Worse than Portent* AWARDED BYE *A Few Good Menvswww.teamacademy.comA Little Too Sick* AWARDED BYE *Airtight* AWARDED BYE *AlphaBetaUnlimited.com/* AWARDED BYE"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806041"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1 Pairings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-28 00:38:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-28 00:38:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628003810id_/https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-team-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-team-2000-01-01"
 ---

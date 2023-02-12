@@ -68,7 +68,7 @@
 * [Kaldheim Release Notes](/archive/en/articles/archive/feature/2021/01/kaldheim-release-notes-2021-01-22.md) - 2021-01-22
 * [Strixhaven: School of Mages Mechanics](/archive/en/articles/archive/feature/2021/03/strixhaven-school-mages-mechanics-2021-03-25.md) - 2021-03-25
 * [Adventures in the Forgotten Realms Mechanics](/archive/en/articles/archive/feature/2021/06/adventures-forgotten-realms-mechanics-2021-06-24.md) - 2021-06-24
-* [Adventures in the Forgotten Realms Mechanics](/archive/en/articles/archive/feature/2021/06/adventures-forgotten-realms-mechanics-2021-06-29.md) - 2021-06-29
+* [Adventures in the Forgotten Realms Mechanics](/archive/en/articles/archive/feature/2021/06/adventures-forgotten-realms-mechanics-2021-06-29.md) - 2021-06-24
 * [Adventures in the Forgotten Realms Mechanics](/archive/en/articles/archive/feature/2021/07/adventures-forgotten-realms-mechanics-2021-07-30.md) - 2021-06-29
 * [Adventures in the Forgotten Realms Mechanics](/archive/en/articles/archive/feature/2021/07/adventures-forgotten-realms-mechanics-2021-07-02.md) - 2021-07-02
 * [Innistrad: Midnight Hunt Mechanics](/archive/en/articles/archive/feature/2021/09/innistrad-midnight-hunt-mechanics-2021-09-02.md) - 2021-09-02

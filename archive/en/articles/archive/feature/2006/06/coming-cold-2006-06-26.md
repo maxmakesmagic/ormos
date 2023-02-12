@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201128033437/https://magic.wizards.com/en/articles/archive/feature/coming-cold-2006-06-26)
+[Link to Wayback Machine](https://web.archive.org/web/20210429043845/https://magic.wizards.com/en/articles/archive/feature/coming-cold-2006-06-26)
 
 [_metadata_:author]:- "Rei Nakazawa"
-[_metadata_:description]:- "You remember the kid in your class who reminded the teacher that homework was due, ruining things for everyone else? The continent of Terisire has someone like that, except he wants to bring back the Ice Age that everyone worked so hard to banish."
+[_metadata_:description]:- "You remember the kid in your class who reminded the teacher that homework was due, ruining things for everyone else? The continent of Terisire has someone like that, except he wants to bring back the Ice Age that everyone worked so hard to banish. Coldsnap, the newest Magic set, is also one of the most unusual sets ever seen. Creatively, it harkens back to a time long past,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632781"
 [_metadata_:publish_date]:- "2006-06-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Coming in from the Cold"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-28 03:34:37+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201128033437id_/https://magic.wizards.com/en/articles/archive/feature/coming-cold-2006-06-26"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:38:45"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429043845id_/https://magic.wizards.com/en/articles/archive/feature/coming-cold-2006-06-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coming-cold-2006-06-26"
 ---
 

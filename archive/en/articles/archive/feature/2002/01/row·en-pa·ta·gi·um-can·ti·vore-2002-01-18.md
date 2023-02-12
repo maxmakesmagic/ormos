@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "row·en From Merriam-Webster Online:Function: noun 1 : a second-growth cropEtymology: Middle English rowein, from (assumed) Old North French rewain; akin to Old French regaïn aftermath, from re- + gaïn aftermath, of Germanic origin; akin to Old High German weida pasture, weidanOn to hunt for food Date: 15th centurypa·ta·gi·um From Merriam-Webster Online:Function: noun Inflected"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "637076"
 [_metadata_:publish_date]:- "2002-01-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "row·en, pa·ta·gi·um, Can·ti·vore"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 08:44:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 08:44:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018084415id_/https://magic.wizards.com/en/articles/archive/feature/row%C2%B7en-pa%C2%B7ta%C2%B7gi%C2%B7um-can%C2%B7ti%C2%B7vore-2002-01-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/row%C2%B7en-pa%C2%B7ta%C2%B7gi%C2%B7um-can%C2%B7ti%C2%B7vore-2002-01-18"
 ---

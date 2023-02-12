@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Steve O'Mahoney-Schwartz vs. Alan Comer Round seven saw the day close with Steve O'Mahoney-Schwartz with Forbidian taking on Alan Comer and his `Suicide Brown` Tinker deck, with both at 5-1, each was playing for position toward the top eight. OMS won the coin toss and chose to play, opening with a Thawing Glacier, and an island, not enough to stop Comer playing a Mana Vault"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950996"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Round 7 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 04:40:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 04:40:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518044020id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-7-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-7-feature-match-2000-01-01"
 ---

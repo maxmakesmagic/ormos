@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Kim Eikefet"
 [_metadata_:description]:- "Match Coverage  Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "960161"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "World Championship Finals Jon Finkel (USA) vs. Bob Maher, Jr. (USA)"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-22 08:22:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-22 08:22:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170522082251id_/http://magic.wizards.com/en/articles/archive/feature/world-championship-finals-jon-finkel-usa-vs-bob-maher-jr-usa-2000-01-01-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/world-championship-finals-jon-finkel-usa-vs-bob-maher-jr-usa-2000-01-01-0"
 ---

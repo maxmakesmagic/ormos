@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Gary Wise In a match pitting the top two archetypes in the environment against one another, the Mogg Squad's Sigurd Eskeland, a long time pro player playing in his long-awaited first Top 8 squared off against independent player Travis Turning, playing in just his third pro tournament."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950011"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Quarterfinal Recap"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 02:33:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 02:33:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518023315id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-quarterfinal-recap-2000-01-01"
 ---

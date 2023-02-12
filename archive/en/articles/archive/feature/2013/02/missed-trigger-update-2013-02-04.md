@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Hi everyone! Every time a new set is released, the Magic rules manager (that's me!) writes an article called the `Update Bulletin.` It's a heads-up about all the Oracle and Comprehensive Rules changes that will be implemented with the new set. Historically, tournament rules haven't been included in this article because we tend to change them less often and in less interesting"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "342041"
 [_metadata_:publish_date]:- "2013-02-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Missed Trigger Update"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 00:17:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 00:17:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202001706id_/https://magic.wizards.com/en/articles/archive/feature/missed-trigger-update-2013-02-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/missed-trigger-update-2013-02-04"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[view] AlphaBetaUnlimited.com: Champions! [view] AlphaBetaUnlimited.com: Champions! [view] AlphaBetaUnlimited.com: Champions! [view] Poor Shark's Masahiko Morita in the finals of Grand Prix Yokohama. [view] AlphaBetaUnlimited.com's David Williams in the finals [view] AlphaBetaUnlimited.com's Chris Benafel in the finals [view] Poor Shark's Tomomi Otsuka in the finals [view]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "807076"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2001 Grand Prix Yokohama"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 21:07:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 21:07:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701210728id_/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-yokohama-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-yokohama-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Like so many other Magic players, I find that there are certain cards that I just can't get enough of. Your favorite Magic cards have a lot in common with your favorite kinds of food. One dish I can't seem to stop ordering is Pad Thai. No matter what, it seems like if I'm in a Thai restaurant, I order Pad Thai, even if someone tries to get me to order something else. On the other end of the spectrum, I can't help it, but I love hot dogs. A good hot dog is just a fantastic guilty pleasure for me."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613326"
 [_metadata_:publish_date]:- "2004-06-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Trade Routes"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-26 22:38:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-26 22:38:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170326223824id_/http://magic.wizards.com/en/articles/archive/feature/trade-routes-2004-06-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/trade-routes-2004-06-16"
 ---

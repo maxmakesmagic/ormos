@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "First came Champions of Kamigawa, and it was indeed filled with all sorts of champions. Eight-and-a-Half-Tails is a champ. Meloku the Clouded Mirror is a champ. Seshiro the Anointed; Kumano, Master Yamabushi; and Kiku, Night's Flower are champions all. Next will come Saviors of Kamigawa (translation for our British friends who have no idea what I'm talking about: Saviours of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613196"
 [_metadata_:publish_date]:- "2005-04-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Betrayer of Kamigawa"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 15:37:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 15:37:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816153731id_/https://magic.wizards.com/en/articles/archive/feature/betrayer-kamigawa-2005-04-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/betrayer-kamigawa-2005-04-05"
 ---

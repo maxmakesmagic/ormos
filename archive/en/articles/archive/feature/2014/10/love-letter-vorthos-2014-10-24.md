@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Commander (2014 Edition) design and development."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "290586"
 [_metadata_:publish_date]:- "2014-10-24"
+[_metadata_:source]:- "div-main"
 [_metadata_:title]:- "A Love Letter to Vorthos"
-[_metadata_:wayback_capture_timestamp]:- "2014-10-25 16:49:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-10-25 16:49:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141025164957id_/http://magic.wizards.com/en/articles/archive/feature/love-letter-vorthos-2014-10-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/love-letter-vorthos-2014-10-24"
 ---

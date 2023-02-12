@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Elvish Predation Boggart Feast Kithkin Militia Merrow Riverways Elementals' Path (Back to Product Page) Elvish Predation The Elves are coming out of the woodwork! When you pilot the “Elvish Predation” deck, you’re in control of a massive Elf-producing force. Not only are all twenty-eight creatures in the deck Elves, but many of them, such as Lys Alana Huntmaster and Nath of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "698386"
 [_metadata_:publish_date]:- "2008-08-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Lorwyn Alt Theme Decks"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:43:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:43:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128124338id_/https://magic.wizards.com/en/articles/archive/feature/lorwyn-alt-theme-decks-2008-08-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lorwyn-alt-theme-decks-2008-08-14"
 ---

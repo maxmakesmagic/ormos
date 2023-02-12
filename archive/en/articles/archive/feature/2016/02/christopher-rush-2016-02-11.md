@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170123193558/http://magic.wizards.com/en/articles/archive/feature/christopher-rush-2016-02-11)
+[Link to Wayback Machine](https://web.archive.org/web/20160212171327/http://magic.wizards.com/en/articles/archive/feature/christopher-rush-2016-02-11)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Christopher Rush's legacy will live on through the joy he brought to friends and fans around the world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
-[_metadata_:publish_date]:- "2016-02-12"
+[_metadata_:node]:- "985206"
+[_metadata_:publish_date]:- "2016-02-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Christopher Rush"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-23 19:35:58+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170123193558id_/http://magic.wizards.com/en/articles/archive/feature/christopher-rush-2016-02-11"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-12 17:13:27"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160212171327id_/http://magic.wizards.com/en/articles/archive/feature/christopher-rush-2016-02-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/christopher-rush-2016-02-11"
 ---
 
@@ -19,7 +21,7 @@ Christopher Rush
 
 
  Posted in **Feature**
- on February 12, 2016 
+ on February 11, 2016 
 
 
 
@@ -42,7 +44,7 @@ By Wizards of the Coast
 Magic *lost one of its pioneers yesterday with the passing of Christopher Rush. Christopher was an important member of the Wizards of the Coast family, and his comic book–inspired style helped create the look and feel of* Magic: The Gathering *from the very beginning. His work has appeared on many of the most powerful and memorable cards in the game's history, inspiring countless artists, players, and fans. His laughter will always be missed, but the joy he brought to the game will live on with smiling players around the world.*
 
 
-*It is a very sad day for Wizards of the Coast. We’ve collected some stories and memories of Chris and his contributions to the game, [click here](https://www.gofundme.com/3fcekht8) if you would like to contribute to the Christopher Rush GoFundMe* *Memorial Fund​*
+*It is a very a sad day for Wizards of the Coast. We've collected some stories and memories of Chris and his contributions to the game, and are talking through other ways to celebrate his life with the* Magic *community this year.*
 
 
 

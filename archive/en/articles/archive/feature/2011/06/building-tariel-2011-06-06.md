@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112005747/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-06-06)
+[Link to Wayback Machine](https://web.archive.org/web/20210429072224/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-06-06)
 
 [_metadata_:author]:- "Mark Purvis"
-[_metadata_:description]:- "The Commander format is amazing. It's done some things that few other formats have ever done—not only did it spring from the fan community, but it creates fan communities as well, all over the world."
+[_metadata_:description]:- "The Commander format is amazing. It's done some things that few other formats have ever done—not only did it spring from the fan community, but it creates fan communities as well, all over the world. Over Memorial Day weekend, I whisked my family away from Seattle to an entirely different country on vacation, and while we were shopping in a local market, a hip little"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680696"
 [_metadata_:publish_date]:- "2011-06-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Building Tariel"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:57:47+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112005747id_/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-06-06"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 07:22:24"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429072224id_/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-06-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-06-06"
 ---
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Josh Weinundy's Legacy Reanimator Format: Legacy – Winner, StarCityGames.com Open in Indianapolis 2 Island 2 Swamp 2 Bloodstained Mire 4 Misty Rainforest 2 Polluted Delta 4 Underground Sea 1 Urborg, Tomb of Yawgmoth 1 Sphinx of the Steel Wind 1 Angel of Despair 1 Empyrial Archangel 1 Elesh Norn, Grand Cenobite 3 Jin-Gitaxias, Core Augur 4 Animate Dead 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671611"
 [_metadata_:publish_date]:- "2011-10-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Legacy Reanimator"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-06 21:09:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-06 21:09:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210506210936id_/https://magic.wizards.com/en/articles/archive/feature/legacy-reanimator-2011-10-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-reanimator-2011-10-10"
 ---

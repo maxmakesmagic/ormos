@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Dave Price and Trevor Blackwell met in a battle of Pro Tour LA champs. Price won LA-3 while Blackwell took LA-5 a few months ago. Price had an amazing draft. He first picked a Stinging Barrier, but he saw no quality blue cards in his next 6 packs. The 8th pack he drafted from still had a Maggot Therapy in it so he decided to take it and see what happened. His"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949416"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1 Feature Match - Dave Price vs. Trevor Blackwell"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 04:59:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 04:59:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205045920id_/https://magic.wizards.com/en/articles/archive/feature/round-1-feature-match-dave-price-vs-trevor-blackwell-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-feature-match-dave-price-vs-trevor-blackwell-2000-01-01"
 ---

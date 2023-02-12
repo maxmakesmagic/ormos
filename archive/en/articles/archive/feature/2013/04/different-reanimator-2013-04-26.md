@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Junk Reanimator has become the dominant deck in Standard, and it's well known enough that I wouldn't write about it, so I've become used to seeing Unburial Rites and skimming past to the next deck. Matsumoto Yuuki has taken his deck in a different direction, though. His use of a red splash for Faithless Looting and Huntmaster of the Fells, which he can return with Angel of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666431"
 [_metadata_:publish_date]:- "2013-04-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Different Reanimator"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:58:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:58:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520215856id_/https://magic.wizards.com/en/articles/archive/feature/different-reanimator-2013-04-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/different-reanimator-2013-04-26"
 ---

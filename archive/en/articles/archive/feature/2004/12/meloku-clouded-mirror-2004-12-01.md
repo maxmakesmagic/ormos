@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "This last week I've been pretty sick, but not so sick that I couldn't find time to draft a bit. When it comes to Magic, it is always a good idea to stay versatile. Playing in a draft or sealed deck can sometimes give you great ideas for a new deck. Conversely, playing a game of Standard or Extended can sometimes fuel the fire for your limited skills. For those of us in the writing game, all of the above can help us with ideas of what we will next right about."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613606"
 [_metadata_:publish_date]:- "2004-12-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Meloku the Clouded Mirror"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-20 02:52:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-20 02:52:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170120025231id_/http://magic.wizards.com/en/articles/archive/feature/meloku-clouded-mirror-2004-12-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/meloku-clouded-mirror-2004-12-01"
 ---

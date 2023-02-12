@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Worth Wollpert"
 [_metadata_:description]:- "&#13; Match Coverage&#13; &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "962611"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1: Gary Wise vs. Stephan Valkyser Baby Hermit vs. Baby Hermit"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 08:41:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 08:41:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927084125id_/http://magic.wizards.com/en/articles/archive/feature/round-1-gary-wise-vs-stephan-valkyser-baby-hermit-vs-baby-hermit-2000-01-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/round-1-gary-wise-vs-stephan-valkyser-baby-hermit-vs-baby-hermit-2000-01-01"
 ---

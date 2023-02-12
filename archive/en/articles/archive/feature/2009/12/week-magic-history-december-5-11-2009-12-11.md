@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "December 6-9, 2005: Historic Wins for Peleg, Swiss at Worlds Celebrating history and making history … that's Worlds 2007 for you. Israel's Uri Peleg wrote the first major chapter in his nation's Magic book by defeating Patrick Chapin of the United States to become the 2007 World Champion. Peleg blazed a trail for his country when he became the first player from Israel to make"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "600276"
 [_metadata_:publish_date]:- "2009-12-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: December 5-11"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 21:34:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 21:34:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120213401id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-december-5-11-2009-12-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-december-5-11-2009-12-11"
 ---

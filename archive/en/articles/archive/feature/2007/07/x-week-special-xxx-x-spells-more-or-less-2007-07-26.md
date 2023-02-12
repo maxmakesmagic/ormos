@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "I greatly enjoy the break from theory and PTQ Top 8 analyses that usually drives forth the relentless engine of Swimming With Sharks presented with the odd theme week. This one is X Week, which editor Kelly Digges described to his typewriter-jockeying minions as `... dedicated to all things X: X spells, Tenth Edition (which will have just released), the letter X, the variable"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627476"
 [_metadata_:publish_date]:- "2007-07-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "X-Week Special: XXX X Spells, More or Less"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 17:04:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 17:04:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202170443id_/https://magic.wizards.com/en/articles/archive/feature/x-week-special-xxx-x-spells-more-or-less-2007-07-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/x-week-special-xxx-x-spells-more-or-less-2007-07-26"
 ---

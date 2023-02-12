@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Normally here at Daily Decks, we get to feature cool new decklists on the scene made by fellow players and deck builders. With such a large and active community, there is usually plenty of ideas to talk about and showcase. Today is a little different for us, though, and it quite frankly feels a little weird, but cool new lists are not to be hidden from the world! Today, rather"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665841"
 [_metadata_:publish_date]:- "2012-12-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Buy One; Get One Free!"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:48:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:48:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027204806id_/https://magic.wizards.com/en/articles/archive/feature/buy-one-get-one-free-2012-12-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/buy-one-get-one-free-2012-12-03"
 ---

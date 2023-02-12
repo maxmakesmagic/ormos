@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ari Marmell"
 [_metadata_:description]:- "Agents of Artifice e-BookYou can purchase Agents of Artifice as an e-book from the following websites:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638676"
 [_metadata_:publish_date]:- "2010-03-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Agents of Artifice"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-16 00:50:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-16 00:50:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160316005024id_/http://magic.wizards.com/en/articles/archive/feature/agents-artifice-2010-03-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/agents-artifice-2010-03-19"
 ---

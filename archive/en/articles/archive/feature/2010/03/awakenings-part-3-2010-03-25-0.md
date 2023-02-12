@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The final installment of Awakenings has come, and that means the plot's really starting to heat up. Or that could just be the natural result of Chandra facing off against a Form of the Dragon-ed Sarkhan Vol. Don't miss it!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684201"
 [_metadata_:publish_date]:- "2010-03-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Awakenings, Part 3"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 06:24:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 06:24:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523062414id_/https://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25-0"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "Saletta Team:Ivan Curina of Team BabarGiuseppe Amante Fabio Borello Maurizio Almondo Babar Team: Ivan Curina Massimo Varrone Ezio Valenti Two curious facts about this match: on one side, Babar Team, we have three Pro Tour players led by the first-ever Italian Champion Ivan Curina and on the other side a team of judges with two Level Three judges and a Level Two judge. A"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806176"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1 Feature Match: Saletta vs. Babar"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 23:06:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 23:06:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524230615id_/https://magic.wizards.com/en/articles/archive/feature/round-1-feature-match-saletta-vs-babar-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-feature-match-saletta-vs-babar-2000-01-01"
 ---

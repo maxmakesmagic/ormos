@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Hello. My name is Mark Rosewater. Besides being the head designer for Magic: The Gathering®, I am also the lead designer of Ravnica. So who better than me to convince you to attend the Ravnica Prerelease? And what better format than the age-old Top Ten list? Before I begin, I should admit that I don’t think I need ten reasons. In fact, using ten makes me feel a little greedy,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638166"
 [_metadata_:publish_date]:- "2005-09-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The 10 Ten Reasons You Should Attend the Ravnica Prerelease"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 14:04:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 14:04:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027140452id_/https://magic.wizards.com/en/articles/archive/feature/10-ten-reasons-you-should-attend-ravnica-prerelease-2005-09-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/10-ten-reasons-you-should-attend-ravnica-prerelease-2005-09-21"
 ---

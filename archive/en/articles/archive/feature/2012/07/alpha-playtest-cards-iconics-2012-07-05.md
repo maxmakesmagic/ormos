@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112022139/https://magic.wizards.com/en/articles/archive/feature/alpha-playtest-cards-iconics-2012-07-05)
+[Link to Wayback Machine](https://web.archive.org/web/20160531060238/http://magic.wizards.com/en/articles/archive/feature/alpha-playtest-cards-iconics-2012-07-05)
 
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Before Magic went on sale, it was playtested with cards made with clip art. We've shown them several times:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646246"
 [_metadata_:publish_date]:- "2012-07-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Alpha Playtest Cards: Iconics"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:21:39+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112022139id_/https://magic.wizards.com/en/articles/archive/feature/alpha-playtest-cards-iconics-2012-07-05"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alpha-playtest-cards-iconics-2012-07-05"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-31 06:02:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160531060238id_/http://magic.wizards.com/en/articles/archive/feature/alpha-playtest-cards-iconics-2012-07-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/alpha-playtest-cards-iconics-2012-07-05"
 ---
 
 
@@ -26,7 +28,7 @@ Alpha Playtest Cards: Iconics
 
 
 
-![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By Monty Ashley
 
 

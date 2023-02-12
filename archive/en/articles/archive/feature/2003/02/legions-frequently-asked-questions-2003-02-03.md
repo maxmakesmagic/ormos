@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Compiled by Paul Barclay, David DeLaney, and Jeff JordanThis FAQ has two sections, each of which serves a different purpose."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634641"
 [_metadata_:publish_date]:- "2003-02-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Legions Frequently Asked Questions"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-26 16:37:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-26 16:37:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200926163736id_/https://magic.wizards.com/en/articles/archive/feature/legions-frequently-asked-questions-2003-02-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legions-frequently-asked-questions-2003-02-03"
 ---

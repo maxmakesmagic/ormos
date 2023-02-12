@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "The history behind this famous archetype that continues to influence the game."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353781"
 [_metadata_:publish_date]:- "2006-11-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Deconstructing Stasis"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-25 08:15:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-25 08:15:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170825081517id_/http://magic.wizards.com/en/articles/archive/feature/deconstructing-stasis-2006-11-28"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/deconstructing-stasis-2006-11-28"
 ---

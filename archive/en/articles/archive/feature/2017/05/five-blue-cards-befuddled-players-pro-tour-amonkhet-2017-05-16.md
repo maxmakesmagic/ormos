@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Corbin Hosler"
 [_metadata_:description]:- "Blue mages played mind games all weekend during Pro Amonkhet with these five masterfully mischievous cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1156946"
 [_metadata_:publish_date]:- "2017-05-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Five Blue Cards that Befuddled Players at Pro Tour Amonkhet"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-19 01:48:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-19 01:48:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170519014850id_/http://magic.wizards.com/en/articles/archive/feature/five-blue-cards-befuddled-players-pro-tour-amonkhet-2017-05-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/five-blue-cards-befuddled-players-pro-tour-amonkhet-2017-05-16"
 ---

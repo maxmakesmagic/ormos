@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Aaron Wayne's Legacy Tempo Format: Legacy 1 Island 2 Plains 4 Flooded Strand 4 Tundra 3 Wasteland 3 Windswept Heath 2 Jötun Grunt 4 Fathom Seer 2 Knight of the White Orchid 4 Mother of Runes 4 Serra Avenger 4 Weathered Wayfarer 3 Aether Vial 4 Brainstorm 3 Daze 4 Force of Will 2 Spell Pierce 4 Swords to Plowshares 3 Umezawa's Jitte *1 Jötun Grunt *1 Relic of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669231"
 [_metadata_:publish_date]:- "2010-01-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Legacy Tempo"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 04:45:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 04:45:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819044523id_/https://magic.wizards.com/en/articles/archive/feature/legacy-tempo-2010-01-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-tempo-2010-01-21"
 ---

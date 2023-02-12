@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TODateVenueAddress 1Address 2Phone EmailRussell Alphey1/20/2007RMITStudent CafeteriaMelbourne0401 994 352ralphey@mtgmelb.comRussell Alphey1/21/2007RMITStudent CafeteriaMelbourne0401 994 352ralphey@mtgmelb.comLee Copus1/20/2007The Irish Club11 Carrington Street, AdelaideAdelaide0412 909 582infinity@chariot.net.auLee Copus1/21/2007The Irish Club11 Carrington Street,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "639786"
 [_metadata_:publish_date]:- "2007-01-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planar Chaos Worldwide Prerelease Locations"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:12:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:12:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503071227id_/https://magic.wizards.com/en/articles/archive/feature/planar-chaos-worldwide-prerelease-locations-2007-01-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planar-chaos-worldwide-prerelease-locations-2007-01-12"
 ---

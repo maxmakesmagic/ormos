@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights Mirrodin Besieged is the second set in the Scars of Mirrodin block. The set features 155 black-bordered cards, including randomly inserted premium versions of all cards in the set. It will be available in intro packs, booster packs, and fat packs. The set introduces new mechanics including battle cry and living weapon. A new Planeswalker card is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "700596"
 [_metadata_:publish_date]:- "2010-11-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mirrodin Besieged"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 12:36:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 12:36:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127123633id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-2010-11-03-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-besieged-2010-11-03-0"
 ---

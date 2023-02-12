@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Wizards of the Coast is out of the office for the Thanksgiving holiday, and will return with new articles beginning Monday, 11/29. In case you missed it, what follows is the article that ran in this slot last week. In the meantime, we'll still be running new content in Card of the Day, Magic Arcana, and Ask Wizards. Have a great weekend! Scott Johns, magicthegathering.com"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "612991"
 [_metadata_:publish_date]:- "2004-11-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Doctor Strangewombat"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 20:02:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 20:02:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819200206id_/https://magic.wizards.com/en/articles/archive/feature/doctor-strangewombat-2004-11-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/doctor-strangewombat-2004-11-25"
 ---

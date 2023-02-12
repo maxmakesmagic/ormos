@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Updated 2-4-2004"
 [_metadata_:description]:- "StatusOrganizerCityDateDCI#First NameLast NameDLQJody GodardAlbuquerque12/27/2003PROJeff WilliamsOrlando12/27/200379432464TerrenceIhmPROChristopher ScanlonSalt Lake City12/27/200379019308anthonyconsilvioPROKen SomervilleBoise1/3/200480737046BrianPlumbPROMichael GuptilDetroit1/3/200430753239DanCatoPRODan GrayLos Angeles1/3/20041331277BrandonCurranPROKarl"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735636"
 [_metadata_:publish_date]:- "2004-01-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Oakland Trial Byes"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 15:51:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 15:51:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816155140id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-trial-byes-2004-01-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-oakland-trial-byes-2004-01-15"
 ---

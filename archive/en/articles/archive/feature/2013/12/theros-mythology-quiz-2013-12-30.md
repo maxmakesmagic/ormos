@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "During the holiday rerun weeks, we are presenting some of the year's most popular Arcana articles. It was a challenge to narrow down to just ten, so we hope you enjoy this look back into 2013! —DailyMTG Staff Hello and welcome to another Arcana quiz! This quiz focuses on Theros and its top-down mythology influences. To do well on this quiz you should be up to date on the cards"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "651166"
 [_metadata_:publish_date]:- "2013-12-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Theros Mythology Quiz"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 21:51:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 21:51:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022215145id_/https://magic.wizards.com/en/articles/archive/feature/theros-mythology-quiz-2013-12-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-mythology-quiz-2013-12-30"
 ---

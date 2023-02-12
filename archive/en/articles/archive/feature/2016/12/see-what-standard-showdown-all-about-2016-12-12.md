@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Maria Bartholdi"
 [_metadata_:description]:- "Maria visits a Standard Showdown and shows you what the experience is all about: friends, fun, and opening a sweet, sweet Masterpiece."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1106676"
 [_metadata_:publish_date]:- "2016-12-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "See What the Standard Showdown Is All About"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-12 17:17:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-12 17:17:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161212171726id_/http://magic.wizards.com/en/articles/archive/feature/see-what-standard-showdown-all-about-2016-12-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/see-what-standard-showdown-all-about-2016-12-12"
 ---

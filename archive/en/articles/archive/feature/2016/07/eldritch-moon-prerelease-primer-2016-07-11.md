@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The Eldritch Moon Prerelease fast approaches, and Gavin has the information you need to take on the darkness!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1033396"
 [_metadata_:publish_date]:- "2016-07-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Eldritch Moon Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-12 20:24:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-12 20:24:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160712202458id_/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-prerelease-primer-2016-07-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-prerelease-primer-2016-07-11"
 ---

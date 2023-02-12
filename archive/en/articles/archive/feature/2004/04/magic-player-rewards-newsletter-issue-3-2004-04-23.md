@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Volume 1 - Issue 3Welcome to Regionalsby Brian David-MarshallThere has been a lot of discussion on the various Magic websites—including Magicthegathering.com—about the decks you should be playing with or preparing against for North American Regional Championships. The decks have been dissected and the format distilled down to its essential elements but little has been written"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "637666"
 [_metadata_:publish_date]:- "2004-04-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Player Rewards Newsletter Issue 3"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 09:41:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 09:41:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023094153id_/https://magic.wizards.com/en/articles/archive/feature/magic-player-rewards-newsletter-issue-3-2004-04-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-player-rewards-newsletter-issue-3-2004-04-23"
 ---

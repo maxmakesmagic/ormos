@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Mexico City Trials will be run at Latin America WPN locations from November 23, 2013 to January 31, 2014. Each awards the winner a two-round bye to Grand Prix Mexico City. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728986"
 [_metadata_:publish_date]:- "2013-09-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Mexico City 2014 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:39:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:39:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118173909id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-mexico-city-2014-trials-2013-09-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-mexico-city-2014-trials-2013-09-14"
 ---

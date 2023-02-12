@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Helene Bergeot"
 [_metadata_:description]:- "We are very excited to announce the 2014 Grand Prix schedule, and with it an increased prize payout structure. The growth in attendance at Grand Prix around the world demonstrates the ever-increasing appetite for players to have a competitive arena in which to test their skills. With forty-six Grand Prix across twenty-one countries and a variety of formats, this slate of events does just that."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "347041"
 [_metadata_:publish_date]:- "2013-09-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "More Grand Prix, More Prize Money Coming in 2014"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-06 22:01:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-06 22:01:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160806220147id_/http://magic.wizards.com/en/articles/archive/feature/more-grand-prix-more-prize-money-coming-2014-2013-09-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/more-grand-prix-more-prize-money-coming-2014-2013-09-05"
 ---

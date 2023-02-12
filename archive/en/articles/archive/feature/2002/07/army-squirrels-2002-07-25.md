@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170808041228/http://magic.wizards.com/en/articles/archive/feature/army-squirrels-2002-07-25)
+[Link to Wayback Machine](https://web.archive.org/web/20170104234115/http://magic.wizards.com/en/articles/archive/feature/army-squirrels-2002-07-25)
 
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "You all can at least partially blame me for Squirrel Week. When Mark and Aaron asked me to submit an audition piece for this column, I was allowed to choose any deckbuilding topic using Odyssey, the newest set at the time. I chose--you guessed it--Squirrels, and ever since the two of them have plotted Squirrel Week. It would have happened eventually anyway, because Mark is the one sneaking Squirrels into Magic (something I didn't know when I wrote my audition . . . go Lady Luck!), but I kind of egged him on."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625931"
 [_metadata_:publish_date]:- "2002-07-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "An Army of Squirrels"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-08 04:12:28+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170808041228id_/http://magic.wizards.com/en/articles/archive/feature/army-squirrels-2002-07-25"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-04 23:41:15"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170104234115id_/http://magic.wizards.com/en/articles/archive/feature/army-squirrels-2002-07-25"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/army-squirrels-2002-07-25"
 ---
 

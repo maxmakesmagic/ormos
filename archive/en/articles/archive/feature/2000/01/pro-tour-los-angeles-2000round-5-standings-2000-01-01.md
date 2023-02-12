@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Tsang, Terry 15 65.3333 100.0000 61.9441 5/5/0/0 2 Harkonen, Jarno 15 64.0000 90.9091 55.9091 5/5/0/0 3 Boeken, Noah 15 58.6667 76.9231 54.5804 5/5/0/0 4 Blackwell, Trevor 15 57.3333 81.8182 58.2584 5/5/0/0 5 Burgner, Kurt 15 54.6667 83.3333 52.0280 5/5/0/0 6 Ljones, Christer 15 49.3333 71.4286 53.3333"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950481"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 5 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:07:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:07:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126180746id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-standings-2000-01-01"
 ---

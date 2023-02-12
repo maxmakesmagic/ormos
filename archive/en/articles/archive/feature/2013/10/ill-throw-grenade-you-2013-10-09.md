@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "When I first started playing in PTQs, back in the days of Onslaught Block Constructed, Goblins was definitely the boogeyman. The Goblin tribe was the fastest and most resilient of them all, and figuring out how to beat a tide of Goblin Piledrivers, Goblin Warchiefs, and Siege-Gang Commanders was first and foremost on everyone's list, both in Block and Standard. It's been some"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667086"
 [_metadata_:publish_date]:- "2013-10-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "I'll Throw a Grenade for You"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 16:02:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 16:02:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813160239id_/https://magic.wizards.com/en/articles/archive/feature/ill-throw-grenade-you-2013-10-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ill-throw-grenade-you-2013-10-09"
 ---

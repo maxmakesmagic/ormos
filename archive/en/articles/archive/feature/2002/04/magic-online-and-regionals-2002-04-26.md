@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Michael Dove"
 [_metadata_:description]:- "What’s up? My name is Mike Dove. I’ve been playing Magic since the tail end of Alpha, which is almost the beginning of time. I used to be good: I, along with former Pro Tour champions Matt Place and Mike Long, was one of the original players of the now-infamous Turbo-Stasis deck. The three of us all piloted that deck to the Top 8 at US Nationals in 1996, and I followed up that performance with a Top 32 at Worlds."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633446"
 [_metadata_:publish_date]:- "2002-04-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online and Regionals"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 19:43:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 19:43:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309194334id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-and-regionals-2002-04-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-and-regionals-2002-04-26"
 ---

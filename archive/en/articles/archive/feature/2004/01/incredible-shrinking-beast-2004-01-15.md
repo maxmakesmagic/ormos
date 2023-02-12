@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "First the card, then the witty banter:Introducing… Karstoderm!What is a Karstoderm? A cross between a Slippery Karst and a Blastoderm… oh, that’s terrible.Introducing… Karstoderm!The first green creature with a horrific skin ailment, this creature has a debilitating allergy to metal… ick.Introducing… Karstoderm!Green clearly hates artifacts. But green is also generous, so now"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628521"
 [_metadata_:publish_date]:- "2004-01-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Incredible Shrinking Beast"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 10:43:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 10:43:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204104336id_/https://magic.wizards.com/en/articles/archive/feature/incredible-shrinking-beast-2004-01-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/incredible-shrinking-beast-2004-01-15"
 ---

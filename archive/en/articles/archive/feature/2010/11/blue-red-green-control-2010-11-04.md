@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Dan Jordan's Blue-Red-Green Control Format: Standard - 1st Place - Starcitygames.com Open Series–Charlotte, NC 3 Forest 5 Island 2 Mountain 3 Copperline Gorge 2 Halimar Depths 4 Misty Rainforest 4 Raging Ravine 4 Scalding Tarn 1 Avenger of Zendikar 3 Frost Titan 4 Lotus Cobra 3 Oracle of Mul Daya 1 Volition Reins 1 Deprive 4 Lightning Bolt 4 Mana Leak 4 Jace,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670341"
 [_metadata_:publish_date]:- "2010-11-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Blue-Red-Green Control"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:13:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:13:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120001357id_/https://magic.wizards.com/en/articles/archive/feature/blue-red-green-control-2010-11-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-red-green-control-2010-11-04"
 ---

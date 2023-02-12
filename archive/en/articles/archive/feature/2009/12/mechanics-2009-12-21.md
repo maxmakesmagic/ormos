@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The world of Zendikar is about to get a lot more interesting. The plane's already tumultuous landscape has been whipped into a frenzy by its wild and unpredictable mana, and that makes it an even more exciting—and dangerous—place to visit.  What deadly perils await you as Zendikar gives way to Worldwake? Let's take a look."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "707886"
 [_metadata_:publish_date]:- "2009-12-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-22 22:55:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-22 22:55:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122225559id_/https://magic.wizards.com/en/articles/archive/feature/mechanics-2009-12-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mechanics-2009-12-21"
 ---

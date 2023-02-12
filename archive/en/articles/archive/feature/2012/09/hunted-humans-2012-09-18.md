@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "In Magic, we all grow familiar with certain color combinations and what they typically do. For example, if I told you we were going to discuss blue-black today, your mind would probably go straight to some type of control deck. Black has provided removal while blue has provided card advantage and counterspells for years. Similarly, red-white would evoke some sort of aggro deck. Well, for green-white, while the exact confines of the colors have changed over time, we still always think of some sort of creature-based strategy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665546"
 [_metadata_:publish_date]:- "2012-09-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Hunted Humans"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-18 20:44:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-18 20:44:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160318204453id_/http://magic.wizards.com/en/articles/archive/feature/hunted-humans-2012-09-18"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/hunted-humans-2012-09-18"
 ---

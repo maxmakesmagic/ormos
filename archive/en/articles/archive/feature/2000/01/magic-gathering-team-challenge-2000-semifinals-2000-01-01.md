@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler The top four teams in the world squared off against each other Saturday night with $30,000 in prize money at stake. Team Antarctica (comprised of Jon Finkel, Steve O'Mahoney-Schwartz, and Dan O'Mahoney-Schwartz) took on reigning Team Pro Tour champions Team Your Move Games (Darwin Kastle, Dave Humpherys, and Rob Dougherty). The teams had met once before, in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949991"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Team Challenge 2000 Semifinals"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 19:42:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 19:42:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202194255id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-team-challenge-2000-semifinals-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-team-challenge-2000-semifinals-2000-01-01"
 ---

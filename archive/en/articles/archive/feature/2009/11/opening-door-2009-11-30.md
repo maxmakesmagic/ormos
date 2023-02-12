@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Kelly Digges"
 [_metadata_:description]:- "Imagine you're standing in a room.There are some paintings on the walls, books on the shelves, a place to sit. It's a cozy little room, and you'd be quite content to stay there a while. The room also has several exits, each of which leads into another room, much like—but not exactly like—this one, with different books, different wallpaper, perhaps other people to chat with or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684036"
 [_metadata_:publish_date]:- "2009-11-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Opening the Door"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 13:46:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 13:46:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024134633id_/https://magic.wizards.com/en/articles/archive/feature/opening-door-2009-11-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/opening-door-2009-11-30"
 ---

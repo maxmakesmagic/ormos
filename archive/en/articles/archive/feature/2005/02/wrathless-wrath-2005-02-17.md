@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Last week, my column was about mistakes. The message I was trying to get across was “Don't sweat the small stuff.” If you notice an error, well, now you know about it. Isn't that the only person who really needs to know? You know to ignore it, or what the right thing to do is. Why do I bring this up again? Because that column had three mistakes in it, and I got a ton of mail"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613136"
 [_metadata_:publish_date]:- "2005-02-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wrathless Wrath"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 17:25:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 17:25:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429172515id_/https://magic.wizards.com/en/articles/archive/feature/wrathless-wrath-2005-02-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wrathless-wrath-2005-02-17"
 ---

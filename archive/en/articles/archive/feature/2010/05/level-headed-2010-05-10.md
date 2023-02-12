@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "It's Level Up Week here at magicthegathering.com. This week will be dedicated to exploring and discussing the level up mechanic from Rise of the Eldrazi. During previews, I spent a little bit of time talking about how Brian Tinsman and his design team decided to use the level up mechanic, so today I was hoping to use levelers to explore a part of design and development that I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657421"
 [_metadata_:publish_date]:- "2010-05-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Level Headed"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:36:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:36:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502053621id_/https://magic.wizards.com/en/articles/archive/feature/level-headed-2010-05-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/level-headed-2010-05-10"
 ---

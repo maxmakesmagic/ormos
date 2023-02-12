@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "The new and returning mechanics of Tarkir."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "320696"
 [_metadata_:publish_date]:- "2014-12-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mechanics of Fate Reforged"
-[_metadata_:wayback_capture_timestamp]:- "2014-12-31 16:41:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-12-31 16:41:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141231164121id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-fate-reforged-2014-12-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-fate-reforged-2014-12-29"
 ---

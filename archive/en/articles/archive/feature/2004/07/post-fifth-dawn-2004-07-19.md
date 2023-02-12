@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Every time a new expansion set becomes legal in constructed, it shifts the metagame and re-shuffles the power level among archetypes. This constant flux is what makes Magic so much fun. Usually big sets like Odyssey or Mirrodin affect the metagame in a profound way, while smaller sets like Judgment or Darksteel have relatively minor impact upon the metagame. Fifth Dawn is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638396"
 [_metadata_:publish_date]:- "2004-07-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Post Fifth Dawn"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 21:33:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 21:33:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816213307id_/https://magic.wizards.com/en/articles/archive/feature/post-fifth-dawn-2004-07-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/post-fifth-dawn-2004-07-19"
 ---

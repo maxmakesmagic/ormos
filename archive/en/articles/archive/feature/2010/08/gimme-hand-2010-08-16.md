@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "652661"
 [_metadata_:publish_date]:- "2010-08-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gimme a Hand"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-24 16:47:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-24 16:47:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170324164717id_/http://magic.wizards.com/en/articles/archive/feature/gimme-hand-2010-08-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gimme-hand-2010-08-16"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Each week, the crew of CMDR Decks over on GatheringMagic.com puts out an article featuring a new Commander deck and a complete video review of that deck. This week, the focus is on the classic elder dragon Nicol Bolas!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672236"
 [_metadata_:publish_date]:- "2012-03-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Nicol Bolas Commander"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-07 11:00:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-07 11:00:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170307110059id_/http://magic.wizards.com/en/articles/archive/feature/nicol-bolas-commander-2012-03-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/nicol-bolas-commander-2012-03-29"
 ---

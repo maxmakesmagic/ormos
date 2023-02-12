@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights For the first time ever, the Mercadian Masques expansion includes randomly inserted foil-finished premium cards and premium basic lands—now you can compete with an all-premium deck!  Game Features When Mercenary and Rebel cards hit the table, you can search through your deck for others every turn. Can you say `uninvited guests`? And the new Spellshapers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "700441"
 [_metadata_:publish_date]:- "2008-08-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mercadian Masques"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:14:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:14:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429031442id_/https://magic.wizards.com/en/articles/archive/feature/mercadian-masques-2008-08-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mercadian-masques-2008-08-11"
 ---

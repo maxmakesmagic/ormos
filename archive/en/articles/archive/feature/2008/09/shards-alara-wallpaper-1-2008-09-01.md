@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Coming September 3rd!Shards of Alara Wallpaper 1 800x600 1024x768 1280x1024"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "707286"
 [_metadata_:publish_date]:- "2008-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shards of Alara Wallpaper 1"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 11:50:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 11:50:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523115009id_/https://magic.wizards.com/en/articles/archive/feature/shards-alara-wallpaper-1-2008-09-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-alara-wallpaper-1-2008-09-01"
 ---

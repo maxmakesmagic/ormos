@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "NameLocationCityPhonedezingof centerdezingof 12tel-aviv36852841Lev HamifratzHamifratz mallHaifa36852841stadium sportsachoza 98raanana36852841coolmoosereut mallreut36852841eshkol paischativat banim 3herztelia36852841Matnas Fani KaplanKlauzner st. 15Beer-Sheva36852841"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "709016"
 [_metadata_:publish_date]:- "2003-06-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Summer of Magic"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 06:51:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 06:51:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524065125id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-8"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-8"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Table Player Result   Opponent 1 Svaldi, Guilherme Dei Lost 0-2 vs. Shvartsman, Alex 2 Hino, Celso M Lost 0-2 vs. Martins - ama, Leopoldo M. 3 Ruel, Antoine Lost 1-2 vs. Nascimento - ama, Rodrigo A"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "959716"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 11 Results"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:42:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:42:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030034222id_/https://magic.wizards.com/en/articles/archive/feature/round-11-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-11-results-2000-01-01"
 ---

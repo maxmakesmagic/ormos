@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Robert Baranowski"
 [_metadata_:description]:- "When I first started playing Magic, I had enough cards to fill a single (Revised edition) deck box. Most of my friends were the same; we played with all of the cards we owned every time we sat down because we didn’t have enough cards to make more than one deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634341"
 [_metadata_:publish_date]:- "2002-06-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Peasant Magic"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-11 19:16:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-11 19:16:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170211191648id_/http://magic.wizards.com/en/articles/archive/feature/peasant-magic-2002-06-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/peasant-magic-2002-06-12"
 ---

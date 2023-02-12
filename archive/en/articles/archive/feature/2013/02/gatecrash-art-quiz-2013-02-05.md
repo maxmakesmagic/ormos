@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Now that Gatecrash is on shelves, it's time to see if you can recognize cards just from the background details. Let's go!   After you guess, click the images above to see the full art Soul Ransom | Art by Steve Argyle  Rubblehulk | Art by Raymond Swanland  Crypt Ghast | Art by Chris Rahn  Crocanura | Art by Jack Wang  Shattering Blow | Art by Steve Prescott"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648231"
 [_metadata_:publish_date]:- "2013-02-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gatecrash Art Quiz"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 04:07:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 04:07:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703040725id_/https://magic.wizards.com/en/articles/archive/feature/gatecrash-art-quiz-2013-02-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gatecrash-art-quiz-2013-02-05"
 ---

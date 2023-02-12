@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Baker Justin (282) 23 24 Shvartsman Alex (266) 23 Blackwell Trevor (166) 29 6 Hron Mike (205) 28 Bregoli Mike (214) 31 1 Larkin John (268) 32 Brower Jeremy (224) 24 20 Wise Gary (183) 24 Budde Kai (179) 22 28 Ross Edward (277) 22 Bui Lucien (154) 26 13 Devenport David (105) 26 Chapin Patrick (252) 21 35 Walker Stewart ( 63) 21 Comer Alan ( 17) 27"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950041"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 14 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:18:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:18:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120181858id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-14-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-14-pairings-2000-01-01"
 ---

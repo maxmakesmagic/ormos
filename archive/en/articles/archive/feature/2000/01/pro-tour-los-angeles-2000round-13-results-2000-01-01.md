@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Bachmann, David (229) Lo Moro, Raffaele (249) 0-2 Benefel, Chris (163) Blackwell, Trevor (298) 0-2 Benefield, Kevin (234) Vitkovsky, Michal (80) 2-0 Bernabeu, Jesus (143) Page, Nick (43) 2-1 Blackwell, Trevor (298) Benefel, Chris (163) 2-0 Boeken, Noah (129) Hubble, Bryan (135) 0-2 Bulthaud, Sean (314) Leiher, Peter (23) 2-1 Burgner, Kurt (173) Ekebom,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950606"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 13 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:35:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 13:35:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118133554id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-13-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-13-results-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Marcin Staciwa on winning Grand Prix Vienna! [decklist] Title: Marcin Staciwa Format: Grand Prix Vienna - Top 8 4 Mutavault 1 Nykthos, Shrine to Nyx 20 Island 4 Nightveil Specter 4 Judge's Familiar 4 Tidebinder Mage 4 Master of Waves 4 Cloudfin Raptor 4 Thassa, God of the Sea 4 Frostburn Weird 2 Cyclonic Rift 1 Rapid Hybridization 2 Bident of Thassa 2 Jace,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667296"
 [_metadata_:publish_date]:- "2013-12-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Vienna 2013 Winning Deck"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 12:20:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 12:20:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016122051id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-2013-winning-deck-2013-12-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-2013-winning-deck-2013-12-02"
 ---

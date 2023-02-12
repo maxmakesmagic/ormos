@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan Casey McCarrel's storybook rise to Nationals has been the talk of the tournament, but his opponent Ped Bun is no stranger to Magic circles. Designer of the Oath of Druids deck that Maher took to Top 8 in GP Kansas City and victories in GP Seattle and Pro-Tour Chicago 3, Bun's deckbuilding skills have always been innovative and interesting. McCarrel had"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949401"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 3 Feature Match - Ped Bun vs. Casey McCarrel"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 19:03:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 19:03:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201190310id_/https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-ped-bun-vs-casey-mccarrel-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-ped-bun-vs-casey-mccarrel-2000-01-01"
 ---

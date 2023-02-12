@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Michael Yichao"
 [_metadata_:description]:- "It's almost time to take an oath and jump into battle, so know your options and get ready for some epic action!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "963176"
 [_metadata_:publish_date]:- "2016-01-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Oath of the Gatewatch Approaches!"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-11 01:36:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-11 01:36:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160111013648id_/http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-approaches-2016-01-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-approaches-2016-01-07"
 ---

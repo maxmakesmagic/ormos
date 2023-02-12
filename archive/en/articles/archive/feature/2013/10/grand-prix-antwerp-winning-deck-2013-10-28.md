@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Patrick Dickmann on winning Grand Prix Antwerp![decklist] Title: Patrick Dickmann - Splinter Twin Format: Grand Prix Antwerp 2013 – Modern 4 Scalding Tarn 4 Misty Rainforest 4 Sulfur Falls 3 Steam Vents 1 Breeding Pool 3 Island 1 Mountain 2 Tectonic Edge 1 Desolate Lighthouse 4 Snapcaster Mage 4 Pestermite 2 Deceiver Exarch 2 Grim Lavamancer 2 Vendilion"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667161"
 [_metadata_:publish_date]:- "2013-10-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Antwerp Winning Deck"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 14:07:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 14:07:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021140726id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-antwerp-winning-deck-2013-10-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-antwerp-winning-deck-2013-10-28"
 ---

@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210917172310/https://magic.wizards.com/en/articles/archive/feature/barrel-fun-2005-05-17)
+[Link to Wayback Machine](https://web.archive.org/web/20211017005152/https://magic.wizards.com/en/articles/archive/feature/barrel-fun-2005-05-17)
 
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Barrels are funny. It's a comedy fact. Has there ever been a barrel that wasn't humorous in some way? The least funny example I can think of is going over Niagara Falls in a barrel, and that's hysterical! When the rich guy in a cartoon becomes suddenly destitute, he's pictured wearing a barrel. Something simple is described as being easier than shooting fish in a barrel, a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613261"
 [_metadata_:publish_date]:- "2005-05-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Barrel of Fun"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-17 17:23:10+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210917172310id_/https://magic.wizards.com/en/articles/archive/feature/barrel-fun-2005-05-17"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 00:51:52"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017005152id_/https://magic.wizards.com/en/articles/archive/feature/barrel-fun-2005-05-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/barrel-fun-2005-05-17"
 ---
 

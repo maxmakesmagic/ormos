@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "1. JON FINKEL CREATURES (9) 2 Phyrexian Negator 3 Skittering Skirge 1 Thrashing Wumpus 2 Skittering Horror 1 Stromgald Cabal SPELLS (28) 4 Dark Ritual 4 Duress 1 Engineered Plague 1 Eradicate 1 Massacre 1 Perish 1 Persecute 1 Stupor 2 Unmask 4 Vampiric Tutor 4 Vicious Hunger 4 Yawgmoth's Will LAND (23) 4 Rishadan Port 2 Dust Bowl 2 Spawning Pool 15 Swamp SIDEBOARD 2 Engineered Plague 1 Eradicate 1 Massacre 1 Perish 2 Phyrexian Negator 1 Phyrexian Processor 1 Powder Keg 2 Rapid Decay 1 Stromgald Cabal 1 Stupor 1 Thran Lens 1 Unmask 2. CHRIS BENAFEL"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949161"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Nationals 2000 Top 8 Standard Decks"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-03 16:58:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-03 16:58:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160503165826id_/http://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-top-8-standard-decks-2000-01-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-top-8-standard-decks-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "With each new set comes a new bundle of awesome promo cards available for you to collect and play with! Let's dive into what Theros brings to the table! Prerelease Promos The five Intro-Pack rares again are mirrored in the special premium foil promos, check these beauties out!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649936"
 [_metadata_:publish_date]:- "2013-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Theros Promos"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-30 06:04:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-30 06:04:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160430060408id_/http://magic.wizards.com/en/articles/archive/feature/theros-promos-2013-09-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/theros-promos-2013-09-03"
 ---

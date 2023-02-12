@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "It's been long enough since we've seen Squadron Hawks carrying Swords that I was legitimately surprised to see such a deck among Daily Event lists on Magic Online. This isn't exactly the UW list that dominated Standard for so long, as it's got an additional color, but the Squadron Hawk-Sword combo is still alive and well. The main thrust of this deck's strategy is to disrupt"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666971"
 [_metadata_:publish_date]:- "2013-09-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Return of the Hawk"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 13:20:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 13:20:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125132004id_/https://magic.wizards.com/en/articles/archive/feature/return-hawk-2013-09-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/return-hawk-2013-09-10"
 ---

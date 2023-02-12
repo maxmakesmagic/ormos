@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This week's wallpaper features Michael Komarck's Odric, Master Tactician from the Magic 2013 set. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646101"
 [_metadata_:publish_date]:- "2012-06-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Odric, Master Tactician"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-07 17:50:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-07 17:50:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160407175013id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-odric-master-tactician-2012-06-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-odric-master-tactician-2012-06-22"
 ---

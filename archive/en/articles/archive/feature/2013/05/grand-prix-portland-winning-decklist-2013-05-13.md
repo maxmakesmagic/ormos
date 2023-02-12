@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Sam Pardee, champion of Grand Prix Portland. Check out the complete event coverage right here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666496"
 [_metadata_:publish_date]:- "2013-05-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Portland Winning Decklist"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:13:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:13:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521201328id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-portland-winning-decklist-2013-05-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-portland-winning-decklist-2013-05-13"
 ---

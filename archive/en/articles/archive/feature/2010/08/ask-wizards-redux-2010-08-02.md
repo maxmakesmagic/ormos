@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "When we discontinued Ask Wizards as a daily feature, we mentioned that it would return from time to time. Subsequent low question volume has made that a difficult commitment to keep, but after a solicitation in Community Spotlight, we've got a nice big crop of questions and answers just in time for Feedback Week.If you want to see more Ask Wizards, click the `Respond` link"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604186"
 [_metadata_:publish_date]:- "2010-08-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ask Wizards Redux"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 19:33:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 19:33:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701193355id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-redux-2010-08-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-redux-2010-08-02"
 ---

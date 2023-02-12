@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The summer of high-level tournament Magic continues this weekend with Grand Prix–Columbus and Italy's National Championship.Fresh off the burst of Standard deck techs that came out of last weekend's triple-Nationals action, what do the top Italian players have in store? Will the French Blue-white Control decks come to the fore, or will Red-green Ramp from Australia be the deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604171"
 [_metadata_:publish_date]:- "2010-07-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Double-Dip Weekend with Grand Prix, Nationals"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 03:04:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 03:04:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703030412id_/https://magic.wizards.com/en/articles/archive/feature/double-dip-weekend-grand-prix-nationals-2010-07-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/double-dip-weekend-grand-prix-nationals-2010-07-31"
 ---

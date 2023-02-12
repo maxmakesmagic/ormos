@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Time to do some hanging out with people from Wizards! Next week we'll have not one, but two awesome opportunities for you to tune in and talk to people here! Magic Online Q&A When: Wednesday, April 24, 2013 - 2:30-3:30pm PTWho: Ryan Spain, Chris Kiritz, and Sean Gibbons (host)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648826"
 [_metadata_:publish_date]:- "2013-04-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dragon's Maze & MTGO Hangouts"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:41:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:41:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531084133id_/https://magic.wizards.com/en/articles/archive/feature/dragons-maze-mtgo-hangouts-2013-04-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dragons-maze-mtgo-hangouts-2013-04-18"
 ---

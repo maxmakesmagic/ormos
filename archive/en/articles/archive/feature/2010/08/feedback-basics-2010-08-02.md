@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "652616"
 [_metadata_:publish_date]:- "2010-08-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feedback To Basics"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-08 11:19:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-08 11:19:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160408111952id_/http://magic.wizards.com/en/articles/archive/feature/feedback-basics-2010-08-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feedback-basics-2010-08-02"
 ---

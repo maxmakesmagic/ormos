@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "While I was covering a feature match at Grand Prix - Milwaukee, a spectator came up to the table. He commented that he had brought his son to play at the event, and had never really seen Magic: The Gathering being played before and it looked interesting. He then looked down at the table, saw an Elephant token on the board (made from a Call of the Herd), and asked, “What's a token?”"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "615461"
 [_metadata_:publish_date]:- "2002-05-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Crash Course in Token-Makers"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-17 05:00:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-17 05:00:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170617050050id_/http://magic.wizards.com/en/articles/archive/feature/crash-course-token-makers-2002-05-29-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/crash-course-token-makers-2002-05-29-0"
 ---

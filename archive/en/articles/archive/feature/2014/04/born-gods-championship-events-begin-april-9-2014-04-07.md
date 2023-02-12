@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20161220192743/http://magic.wizards.com/en/articles/archive/feature/born-gods-championship-events-begin-april-9-2014-04-07)
+[Link to Wayback Machine](https://web.archive.org/web/20220520022304/https://magic.wizards.com/en/articles/archive/feature/born-gods-championship-events-begin-april-9-2014-04-07)
 
 [_metadata_:author]:- "Mike Turian"
-[_metadata_:description]:- "&#13;"
+[_metadata_:description]:- "Championship Event Dates  Standard Qualifiers: April 9 - 15  Standard Championship: April 20  Limited Qualifiers: April 16 - 22  Limited Championship: April 27  Download Magic Online We're just two days away from the start of the Magic Online Born of the Gods Championship! There will be two Born of the Gods champions, one for Limited and one for Standard. Events kick off on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "658726"
 [_metadata_:publish_date]:- "2014-04-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Born of the Gods Championship Events Begin April 9!"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-20 19:27:43+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161220192743id_/http://magic.wizards.com/en/articles/archive/feature/born-gods-championship-events-begin-april-9-2014-04-07"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/born-gods-championship-events-begin-april-9-2014-04-07"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 02:23:04"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520022304id_/https://magic.wizards.com/en/articles/archive/feature/born-gods-championship-events-begin-april-9-2014-04-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/born-gods-championship-events-begin-april-9-2014-04-07"
 ---
 
 
@@ -77,10 +79,10 @@ There will be two *Born of the Gods*  champions, one for Limited and one for Sta
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/digital/magiconline/card_promo_fatedconflagration.png)  
-[Fated Conflagration](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration)  
+[Fated Conflagration](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration)  
 
 Promo Card
-UPDATE!  We added a participation prize for both Qualifier and Championship events. All players who participate in Standard or Limited Qualifier events will receive a regular promo version of [Fated Conflagration](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration). All players who participate in a Standard or Limited Championship events will receive a premium promo version of [Fated Conflagration](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration)!
+UPDATE!  We added a participation prize for both Qualifier and Championship events. All players who participate in Standard or Limited Qualifier events will receive a regular promo version of [Fated Conflagration](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration). All players who participate in a Standard or Limited Championship events will receive a premium promo version of [Fated Conflagration](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration)!
 
 
 As we did with [the *Theros*  winners](/en/articles/archive/magic-online/theros-championship-winners-2014-01-27), we will celebrate our *Born of the Gods*  champions with a winners' page featuring their winning decks and highlights from the matches following the last Championship event!
@@ -134,7 +136,7 @@ Standard *Born of the Gods* Championship Qualifiers Details
  Invitation to *Born of the Gods*  Standard Championship | 2 |
 | 3 | 5 *Born of the Gods* booster packs | 0 |
 
-**ADDITIONAL PRIZE:** All participants in this event will receive a regular promo version of [Fated Conflagration](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration). |
+**ADDITIONAL PRIZE:** All participants in this event will receive a regular promo version of [Fated Conflagration](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration). |
 
 
 
@@ -177,7 +179,7 @@ Standard *Born of the Gods* Championship Details
 | 9th-32nd | 15 *Born of the Gods*  booster packs | 0 |
 | 33rd-128th | 5 *Born of the Gods*  booster packs | 0 |
 
-**ADDITIONAL PRIZE:** All participants in this event will receive a premium promo version of [Fated Conflagration](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration). |
+**ADDITIONAL PRIZE:** All participants in this event will receive a premium promo version of [Fated Conflagration](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration). |
 
 
 
@@ -224,7 +226,7 @@ Limited *Born of the Gods* Championship Qualifiers Details
  Invitation to *Born of the Gods*  Limited Championship | 2 |
 | 3 | 8 *Born of the Gods* booster packs | 0 |
 
-**ADDITIONAL PRIZE:** All participants in this event will receive a regular promo version of [Fated Conflagration](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration). |
+**ADDITIONAL PRIZE:** All participants in this event will receive a regular promo version of [Fated Conflagration](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration). |
 
 
 
@@ -267,7 +269,7 @@ Limited *Born of the Gods* Championship Details
 | 9th-32nd | 15 *Born of the Gods*  booster packs | 0 |
 | 33rd-128th | 5 *Born of the Gods*  booster packs | 0 |
 
-**ADDITIONAL PRIZE:** All participants in this event will receive a premium promo version of [Fated Conflagration](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration). |
+**ADDITIONAL PRIZE:** All participants in this event will receive a premium promo version of [Fated Conflagration](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fated+Conflagration). |
 
 
 

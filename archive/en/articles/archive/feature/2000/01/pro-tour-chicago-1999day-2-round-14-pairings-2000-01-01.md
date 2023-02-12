@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Baberowski, Dirk (120) 30 4 Valkyser, Stephan (133) 30 Benezech, Lionel (318) 22 29 Schneiders, Felix (152) 23 Bernat, Michael (283) 25 19 Maier, Gero (202) 25 Bingen, Sturla (116) 19 41 Romero, Ellis (29) 19 Budde, Kai (320) 22 30 Heilfron, Kenneth (50) 22 Burgner, Kurt (335) 27 13 Gallitz, Donald (216) 27 Burn, Seth (312) 21 34 Price,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951086"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Day 2 Round 14 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 18:53:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 18:53:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127185358id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-14-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-14-pairings-2000-01-01"
 ---

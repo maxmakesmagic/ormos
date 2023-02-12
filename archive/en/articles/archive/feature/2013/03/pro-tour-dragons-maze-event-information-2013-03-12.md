@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "San Diego Concourse Golden Hall San Diego, California May 17-19, 2013 Quick LinksViewer Information Player Information Live Coverage of Pro Tour Dragon's Maze Sunny San Diego is the host city for the final Pro Tour of the 2012-13 season, featuring the debut of the new Dragon's Maze set on the premier-play stage. The top players from around the world will be in San Diego to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729866"
 [_metadata_:publish_date]:- "2013-03-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Dragon's Maze Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 05:00:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 05:00:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520050046id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-dragons-maze-event-information-2013-03-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-dragons-maze-event-information-2013-03-12"
 ---

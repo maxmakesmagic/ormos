@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Rui Oliveira Dawton Possato We just had a Possato brother and now he get the second one. He is playing a very strange deck for Extended: Rebels. At first it might seem a wacky idea but with a 7-1 record so far we figured we better have a look and see what he is up to."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "958626"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 9: Dawton Possato vs. Sergio Martins"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 08:30:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 08:30:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030083009id_/https://magic.wizards.com/en/articles/archive/feature/round-9-dawton-possato-vs-sergio-martins-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-dawton-possato-vs-sergio-martins-2000-01-01"
 ---

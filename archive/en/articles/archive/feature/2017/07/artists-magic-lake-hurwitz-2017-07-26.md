@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170728030229/http://magic.wizards.com/en/articles/archive/feature/artists-magic-lake-hurwitz-2017-07-26)
+[Link to Wayback Machine](https://web.archive.org/web/20210430042104/https://magic.wizards.com/en/articles/archive/feature/artists-magic-lake-hurwitz-2017-07-26)
 
 [_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Nicholas continues his artist profiles with Lake Hurwitz, one of the newer artists (but a long-time player) of Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1183191"
 [_metadata_:publish_date]:- "2017-07-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Artists of Magic: Lake Hurwitz"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-28 03:02:29+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170728030229id_/http://magic.wizards.com/en/articles/archive/feature/artists-magic-lake-hurwitz-2017-07-26"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/artists-magic-lake-hurwitz-2017-07-26"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-30 04:21:04"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210430042104id_/https://magic.wizards.com/en/articles/archive/feature/artists-magic-lake-hurwitz-2017-07-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/artists-magic-lake-hurwitz-2017-07-26"
 ---
 
 

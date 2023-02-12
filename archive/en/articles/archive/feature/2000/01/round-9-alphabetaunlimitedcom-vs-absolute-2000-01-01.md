@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Ryan Fuller vs. Hiroto Takaya After going 8-0 on Day 1, ABU led the pack as the only undefeated team, but Absolute was hot on their heels at 7-1. By the time any of the other games on the table had seen a land played, Fuller had already seen his Kavu Aggressor die, leaving him a Nomadic Elf, while Hiroto had an Island, a Plains, a Forest, and a Mountain out, a very impressive"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806626"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 9: AlphaBetaUnlimited.com vs. Absolute"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 19:40:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 19:40:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626194001id_/https://magic.wizards.com/en/articles/archive/feature/round-9-alphabetaunlimitedcom-vs-absolute-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-alphabetaunlimitedcom-vs-absolute-2000-01-01"
 ---

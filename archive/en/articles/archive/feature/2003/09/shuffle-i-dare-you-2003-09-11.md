@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "One of the perks of preview weeks is that I get to write those grandiose paragraphs that always come right before showing off the new card. They paint an historical picture, creating a context that demonstrates how smoothly the new card fits into the Magic universe. And they're so, so cheesy. Here comes one now . . .Watch me do this with a straight face."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613591"
 [_metadata_:publish_date]:- "2003-09-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shuffle! I Dare You!"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-22 06:12:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-22 06:12:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161222061202id_/http://magic.wizards.com/en/articles/archive/feature/shuffle-i-dare-you-2003-09-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shuffle-i-dare-you-2003-09-11"
 ---

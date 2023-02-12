@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Bob Maher vs. Tsuyoshi Fujita This round Bob Maher faced Tsuyoshi Fujita, the highest ranked Japanese player at Worlds. Bob Maher was playing the deck that won him a Pro Tour and a Grand Prix, Oath of Druids, with Seal of Cleansing and Ancient Hydra from Nemesis replacing Shard Phoenix and Aura of Silence. Tsuyoshi went first and mulliganed. He played first turn Flood Plain,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952601"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Kuala LumpurRound 8 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 13:41:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 13:41:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520134117id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-8-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-8-feature-match-2000-01-01"
 ---

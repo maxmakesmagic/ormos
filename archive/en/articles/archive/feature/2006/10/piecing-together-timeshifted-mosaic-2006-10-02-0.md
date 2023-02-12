@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "`Aaron, why don’t you take a crack at a list of old cards to bring back?`  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633076"
 [_metadata_:publish_date]:- "2006-10-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Piecing Together the Timeshifted Mosaic"
-[_metadata_:wayback_capture_timestamp]:- "2019-08-23 22:14:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-08-23 22:14:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190823221421id_/https://magic.wizards.com/en/articles/archive/feature/piecing-together-timeshifted-mosaic-2006-10-02-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/piecing-together-timeshifted-mosaic-2006-10-02-0"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Although there were no Premier tournaments this weekend, the North American Challenge finals held in Milford, MA certainly felt like a Grand Prix. With about $10,000 in prize money, professional-looking t-shirts, feature matches and a highly experienced judging staff, it really made the players feel they were competing in a very high class tournament.All this is a far cry from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "614171"
 [_metadata_:publish_date]:- "2004-06-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "North American Challenge"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 16:50:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 16:50:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526165015id_/https://magic.wizards.com/en/articles/archive/feature/north-american-challenge-2004-06-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/north-american-challenge-2004-06-10"
 ---

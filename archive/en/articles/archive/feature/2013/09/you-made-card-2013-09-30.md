@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ethan Fleischer"
 [_metadata_:description]:- "It's been a lot of work, but we've finally come to the end of the road with You Make the Card 4! The votes for the final card name have been tallied, and the finished painting has been sent to Wizards of the Coast by Matt Stewart. But here I am, nattering on, when you want to see your card! This is merely a mock-up. The final card will look somewhat different, as it will be"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353311"
 [_metadata_:publish_date]:- "2013-09-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "You Made the Card!"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 05:29:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 05:29:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205052909id_/https://magic.wizards.com/en/articles/archive/feature/you-made-card-2013-09-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-made-card-2013-09-30"
 ---

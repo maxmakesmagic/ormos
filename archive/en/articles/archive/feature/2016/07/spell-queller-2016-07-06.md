@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Quinn Murphy"
 [_metadata_:description]:- "Spirits have a lot going for them on Innistrad, and Quinn's preview card adds another tempo play to their arsenal."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1033201"
 [_metadata_:publish_date]:- "2016-07-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Spell Queller"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-08 20:28:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-08 20:28:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160708202822id_/http://magic.wizards.com/en/articles/archive/feature/spell-queller-2016-07-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/spell-queller-2016-07-06"
 ---

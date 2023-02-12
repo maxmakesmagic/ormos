@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Eli Shiffrin"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1497111"
 [_metadata_:publish_date]:- "2020-04-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ikoria: Lair of Behemoths and Commander (2020 Edition) Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2020-04-16 08:15:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-04-16 08:15:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200416081524id_/https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-and-commander-2020-edition-release-notes-2020-04-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-and-commander-2020-edition-release-notes-2020-04-10"
 ---

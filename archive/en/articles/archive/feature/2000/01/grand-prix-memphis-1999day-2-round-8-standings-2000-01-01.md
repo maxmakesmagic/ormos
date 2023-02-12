@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Turning, Travis - 1700 24 67.18 2 Heffern, Mike 22 73.45 3 Pacheco, Marc - 1700 22 72.30 4 Price, David 22 70.93 5 Wescoe, Craig 21 76.67 6 Heiss, Nathan 21 74.13 7 Sullivan, Adrian 21 73.51 8 Rauseo, Matt 21 71.68 9 Pustilnik, Michael 21 69.64 10 Chapella, Gustavo 21 64.54 11 Brice, Ernest 21 64.29 12 Wright, Randy 21 63.62 13 Markstrom,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953136"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Memphis 1999Day 2 Round 8 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 02:51:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 02:51:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529025117id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-8-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-2-round-8-standings-2000-01-01"
 ---

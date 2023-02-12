@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211023025240/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-south-korea-national-championship-2008-05-15)
+[Link to Wayback Machine](https://web.archive.org/web/20160908192835/http://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-south-korea-national-championship-2008-05-15)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "LOCATION Dobong Public Hall Conference Room. 303Chang-Dong Dobong-Gu Seoul, Korea (South)TOURNAMENT The 2008 S.Korea National Championship is open by invitation only. Invitations are extended to qualified players who meet the eligibility requirements.ELIGIBILITY The 2008 S.Korea National Championship is open only to those DCITM members in good standing who are citizens or have"
+[_metadata_:description]:- "LOCATION Dobong Public Hall Conference Room. 303Chang-Dong Dobong-Gu Seoul, Korea (South)TOURNAMENT The 2008 S.Korea National Championship is open by invitation only. Invitations are extended to qualified players who meet the eligibility requirements."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733396"
 [_metadata_:publish_date]:- "2008-05-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2008 Magic: The Gathering South Korea National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 02:52:40+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023025240id_/https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-south-korea-national-championship-2008-05-15"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-south-korea-national-championship-2008-05-15"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-08 19:28:35"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160908192835id_/http://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-south-korea-national-championship-2008-05-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2008-magic-gathering-south-korea-national-championship-2008-05-15"
 ---
 
 
@@ -26,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

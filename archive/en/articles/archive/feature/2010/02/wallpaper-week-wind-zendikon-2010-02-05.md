@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper features Vincent Proce's Wind Zendikon art from Worldwake. Enjoy. 1024x768 pixels 1280x960 pixels 1280x1024 pixels 2560x1600 pixels 320x480 pixels (iPhone) See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "655011"
 [_metadata_:publish_date]:- "2010-02-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Wind Zendikon"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 14:10:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 14:10:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202141048id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-wind-zendikon-2010-02-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-wind-zendikon-2010-02-05"
 ---

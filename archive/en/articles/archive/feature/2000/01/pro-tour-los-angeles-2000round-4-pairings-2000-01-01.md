@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Abe, Kazufumi (145) 3 69 Crosby, Joseph (12) 4 Alvarenga, Rafael (76) 6 56 Azevedo, Pedro (199) 3 Anzorena, Pablo (15) 0 83 Cornelissen, Stijn (130) 4 Auer, Jeffrey (104) 3 153 Tee, Andrew (153) 3 Azevedo, Pedro (199) 3 56 Alvarenga, Rafael (76) 6 Bachmann, David (229) 3 52 Wallach, Kenneth (125) 2 Baehr, Kevin (155) 4 117 Prawdzik,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950446"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 4 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 16:59:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 16:59:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126165931id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-pairings-2000-01-01"
 ---

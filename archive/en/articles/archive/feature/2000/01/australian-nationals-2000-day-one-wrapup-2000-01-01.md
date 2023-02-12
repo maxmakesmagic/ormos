@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff Eighty-three of Australia's finest players braved the cold weather to vie for a spot on the National Team. Drafting Prophecy for the first time meant that player's skills would be tested to the limit. Dane Coltman's return to form after taking a break from Magic for a couple of months worked in his favor. Dane had the only 6-0 record for the day. Relative"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948691"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals 2000 Day One Wrapup"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 02:25:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 02:25:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517022517id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-2000-day-one-wrapup-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-2000-day-one-wrapup-2000-01-01"
 ---

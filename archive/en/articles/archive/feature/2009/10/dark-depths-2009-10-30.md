@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Paulo Vitor Damo da Rosa's Dark Depths Format: Extended 4 Dark Depths 1 Ghost Quarter 4 River of Tears 4 Sunken Ruins 1 Swamp 4 Tolaria West 2 Underground River 4 Urborg, Tomb of Yawgmoth 4 Dark Confidant 4 Vampire Hexmage 3 Vendilion Clique 3 Beseech the Queen 4 Chalice of the Void 4 Chrome Mox 3 Engineered Explosives 4 Muddle the Mixture 3 Repeal 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668966"
 [_metadata_:publish_date]:- "2009-10-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dark Depths"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 16:34:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 16:34:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819163450id_/https://magic.wizards.com/en/articles/archive/feature/dark-depths-2009-10-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dark-depths-2009-10-30"
 ---

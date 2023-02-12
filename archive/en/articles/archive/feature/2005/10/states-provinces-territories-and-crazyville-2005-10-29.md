@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625271"
 [_metadata_:publish_date]:- "2005-10-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "States, Provinces, Territories, and Crazyville"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-30 08:35:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-30 08:35:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160930083551id_/http://magic.wizards.com/en/articles/archive/feature/states-provinces-territories-and-crazyville-2005-10-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/states-provinces-territories-and-crazyville-2005-10-29"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Jeremy Brower vs. David Weitz Jay Elarar vs. David Price  Bob Maher vs. Alex Shvartsman Tim Kariel vs. Mike Hron  Alex Shvartsman (GP Tours Champion) Bob Maher (GP Chicago Champion)  Jay Elarar (1998 Junior Champion) Jay Elarar (from Vancouver, British Columbia, Canada)  David Price (PT - LA 98 Champion) Mike Hron [ 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 ]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952891"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Seattle 2000Photo Coverage - Quarterfinals"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:41:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:41:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516214104id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-quarterfinals-2000-01-01-1"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-quarterfinals-2000-01-01-1"
 ---

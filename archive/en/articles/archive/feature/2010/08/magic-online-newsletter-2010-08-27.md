@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic Online is fun. That's a bold statement but we stand behind it. There's Magic happening any time of the day or night, and it looks like this weekend is no exception. There are premier events in formats from Magic 2011 Sealed to Standard, Extended, and even Classic!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "601281"
 [_metadata_:publish_date]:- "2010-08-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Magic Online Newsletter"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-13 06:33:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-13 06:33:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170713063343id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-newsletter-2010-08-27"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-newsletter-2010-08-27"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Official hashtag: #gpman Date: April 21-22, 2012 Format: Innistrad / Dark Ascension Sealed Deck / Booster Draft Tournament Location Manchester Central Petersfield Manchester M2 3GX United Kingdom Registration: £35 Friday, April 20: 14.00 – 22.30 Saturday,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728911"
 [_metadata_:publish_date]:- "2012-03-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Manchester Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 07:50:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 07:50:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518075044id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-manchester-event-information-2012-03-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-manchester-event-information-2012-03-13"
 ---

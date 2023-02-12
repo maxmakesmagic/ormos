@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 1 Pairings per player Player 1 Table Player 2 Aasboe, Torgeir (373) 107 Holmes, Simon (208) Alves, Carlos (374) 90 Sundberg, Sam (357) Andersen, Klaus ( 42) 88 Boedker Roerdam, Lars (204) Andersson, Karolina (380) 63 Nobari, Poya (313) Andersson, Thomas ( 87) *** Awarded Bye *** Angelin, Marcus (210) *** Awarded Bye *** Apollo, Kristoffer (164) *** Awarded Bye *** Appel,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951656"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:31:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:31:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520213113id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-52"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-52"
 ---

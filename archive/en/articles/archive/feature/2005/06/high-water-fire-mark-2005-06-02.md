@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "One of the elements of deck design that is talked about almost not at all, despite being a key element of multiple tournament winning designs, is the idea of choosing your creatures based on the format's high-water mark. Typically we focus on only two elements of creature efficiency: power-to-mana cost ratio and the arbitrary notion of whether or not a creature has a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628026"
 [_metadata_:publish_date]:- "2005-06-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "High-Water Fire Mark"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-17 17:08:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-17 17:08:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210917170849id_/https://magic.wizards.com/en/articles/archive/feature/high-water-fire-mark-2005-06-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/high-water-fire-mark-2005-06-02"
 ---

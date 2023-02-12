@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TableTeamPointsOpponentPoints1The Ken Ho All-Stars18vsTeam Needs/Hotel Room *Amate182Family Games Center16vsAlphaBetaUnlimited.com/163Team $20 Dolla Billz16vsThanks Craig and Seth154528015vsFrog Eaters155Team Flees15vsRug Doctors156The Ancient Kavus15vsJust Concede157Dynasty15vsTeam 0-3 Lunch *Amateur*158Huey Brock and Linde15vsThe O-men159Team Bald Dummy15vsTeam Clasp1510Ride"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805866"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 7 Pairings (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 16:18:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 16:18:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627161840id_/https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-table-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-table-2000-01-01"
 ---

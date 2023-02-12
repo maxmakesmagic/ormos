@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Owen Turtenwald's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "522516"
 [_metadata_:publish_date]:- "2015-08-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Owen Turtenwald's Origin Story"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-22 18:12:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-22 18:12:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150822181225id_/http://magic.wizards.com/en/articles/archive/feature/owen-turtenwalds-origin-story-2015-08-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/owen-turtenwalds-origin-story-2015-08-20"
 ---

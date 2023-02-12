@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jeremy Jarvis"
 [_metadata_:description]:- "Tenth Edition showcases some pretty fancy creative footwork, from within Magic Creative and our intimidatingly talented stable of freelance Magic illustrators. I thought it would be fun to show you all a peek behind the curtains at how we got from concept to sketch, to final art. Its always a blast to see how a talented artist solves a visual problem, especially tough or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "292741"
 [_metadata_:publish_date]:- "2007-07-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "We're Bringin' Crazy Back"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 22:14:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 22:14:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429221450id_/https://magic.wizards.com/en/articles/archive/feature/were-bringin-crazy-back-2007-07-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/were-bringin-crazy-back-2007-07-30"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "A review of all the Oracle and Comprehensive Rules changes that come with a new set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "267046"
 [_metadata_:publish_date]:- "2014-09-17"
+[_metadata_:source]:- "div-main"
 [_metadata_:title]:- "Khans of Tarkir Update Bulletin"
-[_metadata_:wayback_capture_timestamp]:- "2014-09-20 19:56:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-09-20 19:56:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20140920195639id_/http://magic.wizards.com/en/articles/archive/feature/khans-tarkir-update-bulletin-2014-09-17"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/khans-tarkir-update-bulletin-2014-09-17"
 ---

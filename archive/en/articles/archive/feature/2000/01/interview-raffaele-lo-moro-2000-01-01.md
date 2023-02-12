@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "Raffaele Lo MoroRaffaele Lo Moro: The byes ruined us! Sideboard Staff: Care to explain?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806126"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Interview: Raffaele Lo Moro"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 22:07:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 22:07:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123220723id_/https://magic.wizards.com/en/articles/archive/feature/interview-raffaele-lo-moro-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/interview-raffaele-lo-moro-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team New Wave prepares for the finals. Team Masato Club prepares for the finals. Team New Wave is all smiles. Alex Shvartsman wins 2-0 versus Tadayoshi Komiya. Trevor Blackwell wins 2-0 versus Jun Nobushita. Matsuo Goro won the first game against Nick Wong, then stopped (when the other two New Wave players won their matches) while Nick Wong was winning game two. Team New Wave"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952231"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Finals Report - Grand Prix-Nagoya"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 21:16:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 21:16:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522211611id_/https://magic.wizards.com/en/articles/archive/feature/finals-report-grand-prix-nagoya-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-report-grand-prix-nagoya-2000-01-01"
 ---

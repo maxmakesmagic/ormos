@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Beijing is brought to you by Play! Events China."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728176"
 [_metadata_:publish_date]:- "2014-01-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Beijing Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-23 04:04:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-23 04:04:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160923040439id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-beijing-event-information-2014-01-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-beijing-event-information-2014-01-15"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chad Ellis"
 [_metadata_:description]:- "This week we present the nominees for the first MTGO Community Award. In true award-show tradition, however, I'm going to make you wait a bit. First, a look back at last week's bug list and discussion of Fifth Dawn's (then) upcoming launch. I checked back in with Alan to see how the Fifth Dawn launch went from his end. He was pretty confident about seeing a lower level of bugs"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620396"
 [_metadata_:publish_date]:- "2004-07-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Envelope Please"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 11:35:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 11:35:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126113524id_/https://magic.wizards.com/en/articles/archive/feature/envelope-please-2004-07-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/envelope-please-2004-07-20"
 ---

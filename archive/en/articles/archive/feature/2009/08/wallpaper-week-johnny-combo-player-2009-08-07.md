@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "It's Johnny Week, so this week's desktop wallpaper features Kensuke Okabayashi's Johnny, Combo Player art from Unhinged. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654096"
 [_metadata_:publish_date]:- "2009-08-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Johnny, Combo Player"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 13:53:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 13:53:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923135317id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-johnny-combo-player-2009-08-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-johnny-combo-player-2009-08-07"
 ---

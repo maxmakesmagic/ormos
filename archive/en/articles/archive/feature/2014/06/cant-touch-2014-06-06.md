@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "Hexproof is a powerful weapon against decks loaded with spot removal. As it turns out, one of the strongest decks, Black Devotion, is full of targeted removal spells looking to trade cards. A deck full of hexproof creatures can take away the primary game plan of Black Devotion decks by not giving them any targets for their Hero's Downfalls. Gladecover Scout, Witchstalker, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668051"
 [_metadata_:publish_date]:- "2014-06-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Can't Touch This"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 15:32:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 15:32:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017153227id_/https://magic.wizards.com/en/articles/archive/feature/cant-touch-2014-06-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cant-touch-2014-06-06"
 ---

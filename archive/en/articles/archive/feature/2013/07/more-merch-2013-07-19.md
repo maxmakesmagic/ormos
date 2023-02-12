@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Our partners over at Araca, the folks behind MTGMerch.com have a new promotion going on where, if you go to the website and fill out a feedback form, you will be entered into a drawing for a $50 gift certificate to use on MTGMerch.com! Click here to fill out their feedback form. But wait, that's not all! There are a bunch of new shirts coming out that I just have to show you:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649586"
 [_metadata_:publish_date]:- "2013-07-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "More Merch"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:32:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:32:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531083232id_/https://magic.wizards.com/en/articles/archive/feature/more-merch-2013-07-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/more-merch-2013-07-19"
 ---

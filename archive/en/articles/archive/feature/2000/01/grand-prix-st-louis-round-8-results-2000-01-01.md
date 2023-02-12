@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Results Team Antarctica 3-0 Cacti Cacti 0-3 Antarctica Coolers 1-1 Pudge Dogma 3-0 Team Sourgirl Fungusaur 3-0 My Name is Fred Hubbo 0-3 Your Move Games"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952051"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Round 8 Results"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:16:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:16:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205231621id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-8-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-8-results-2000-01-01"
 ---

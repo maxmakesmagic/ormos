@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Announcement Date: September 18, 2009Effective Date: October 1, 2009LegacyDream Halls is no longer bannedEntomb is no longer bannedMetalworker is no longer bannedStandard, Extended, Vintage, Shards of Alara Block Constructed No changesChanges to Magic Online–only formats are now announced monthly in the Magic Online Group Blog.For an explanation of this announcement, read the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683946"
 [_metadata_:publish_date]:- "2009-09-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "September 18 2009 DCI Banned & Restricted List Announcement"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 00:35:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 00:35:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023003509id_/https://magic.wizards.com/en/articles/archive/feature/september-18-2009-dci-banned-restricted-list-announcement-2009-09-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/september-18-2009-dci-banned-restricted-list-announcement-2009-09-18"
 ---

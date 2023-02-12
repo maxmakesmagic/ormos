@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Mooney"
 [_metadata_:description]:- "Come with us as we explore Eldraine, its five realms, and its citizens and creatures."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1491986"
 [_metadata_:publish_date]:- "2019-10-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalkers Guide to Eldraine"
-[_metadata_:wayback_capture_timestamp]:- "2019-10-31 16:11:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-10-31 16:11:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191031161124id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-eldraine-2019-10-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-eldraine-2019-10-31"
 ---

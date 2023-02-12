@@ -5,9 +5,11 @@
 [_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "LoadingReadyRun goes mono-decent at Grand Prix Vancouver"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "351511"
 [_metadata_:publish_date]:- "2015-03-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Friday Nights at Grand Prix Vancouver"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-08 11:59:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-08 11:59:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150308115903id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-grand-prix-vancouver-2015-03-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-grand-prix-vancouver-2015-03-06"
 ---

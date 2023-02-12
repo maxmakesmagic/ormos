@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Stoddard"
 [_metadata_:description]:- "It's Boros Week, and the Boros Legion wants you!... to play it in Modern. While traditionally a deck that has existed just on the fringes of competitiveness in the format, the recent updates to the banned and restricted list for Modern of Bloodbraid Elf and Seething Song, combined with the added goodies in Gatecrash, may just give the deck the extra oomph needed to start"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666091"
 [_metadata_:publish_date]:- "2013-02-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Justice of the Legion"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:07:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:07:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524160702id_/https://magic.wizards.com/en/articles/archive/feature/justice-legion-2013-02-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/justice-legion-2013-02-04"
 ---

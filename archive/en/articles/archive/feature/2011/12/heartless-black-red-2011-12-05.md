@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The quirky Innistrad rare Heartless Summoning pops up in Standard decklists here and there, but usually it appears alongside green fatties or blue control elements. User Octop on Magic Online bucked this trend entirely, running a black-red take on the enchantment. Powering out Solemn Simulacrum, Olivia Voldaren, and even Bloodgift Demon, Octop cruised this deck all the way to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671821"
 [_metadata_:publish_date]:- "2011-12-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Heartless Black-Red"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 02:52:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 02:52:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023025229id_/https://magic.wizards.com/en/articles/archive/feature/heartless-black-red-2011-12-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/heartless-black-red-2011-12-05"
 ---

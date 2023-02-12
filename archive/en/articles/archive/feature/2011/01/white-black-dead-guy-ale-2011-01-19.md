@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Ricky Wen's White-Black Dead Guy Ale Format: Legacy - 4th Place - StarCityGames.com Open–San Jose 3 Plains 5 Swamp 4 Marsh Flats 4 Scrubland 4 Wasteland 1 Karakas 1 Urborg, Tomb of Yawgmoth 4 Tidehollow Sculler 4 Dark Confidant 4 Mother of Runes 4 Stoneforge Mystic 4 Vampire Nighthawk 1 Sword of Fire and Ice 1 Sword of Light and Shadow 1 Diabolic Edict 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670586"
 [_metadata_:publish_date]:- "2011-01-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "White-Black Dead Guy Ale"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 13:22:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 13:22:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016132245id_/https://magic.wizards.com/en/articles/archive/feature/white-black-dead-guy-ale-2011-01-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-black-dead-guy-ale-2011-01-19"
 ---

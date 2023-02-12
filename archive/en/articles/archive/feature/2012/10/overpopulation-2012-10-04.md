@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "It's Selesyna Week here on DailyMTG.com, and around the Magic universe, many authors and websites have taken on the theme. So, despite my reputation of going against the crowd, I figured a few nods to Selesyna were appropriate. Luckily, with the release of Return to Ravnica comes the release of a whole new batch of legendary creatures. More legendary creatures means more"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665611"
 [_metadata_:publish_date]:- "2012-10-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Overpopulation"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 09:59:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 09:59:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020095950id_/https://magic.wizards.com/en/articles/archive/feature/overpopulation-2012-10-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/overpopulation-2012-10-04"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic Online Championship Series Season 5 LCQs will offer the opportunity for all Magic Online users that have earned at least 10 QPs but not yet qualified for the Season 5 Championship to qualify.Each player who has earned 10-14 QPs by the end of Season 5 will be allowed to enter any and/or all of the scheduled LCQ tournaments."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657901"
 [_metadata_:publish_date]:- "2009-07-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Championship Series -- Season 5 Last Chance Qualifiers"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 04:05:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 04:05:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118040507id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-season-5-last-chance-qualifiers-2009-07-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-season-5-last-chance-qualifiers-2009-07-30"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Event Coverage Staff"
 [_metadata_:description]:- "Congratulations to Vidianto Wijaya, your Grand Prix Denver champion. You can find complete coverage of Grand Prix Denver on the official event coverage page."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665981"
 [_metadata_:publish_date]:- "2013-01-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Denver Winner"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 18:50:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 18:50:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527185037id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-winner-2013-01-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-denver-winner-2013-01-07"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Alvarez Omar Derdak Christoph Won, 2-0 Amendolia Aaron Globus Mark Lost, 0-2 Angeli Alessio Itadani Eisaku Drew, 1-1-1 Asquini Alessandro Favale Christian Lost, 0-2 Assen Johan Herzog, Nicolai Drew, 1-1 Au Yong Wai Kin Snepvangers Abraham Lost, 0-1 Ayala Hermes Juhnke Ingmar Won, 2-0 Baberowski Dirk Matousek Pavel Won, 2-1 Bachmann David Tsang Gabe Won,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950306"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 1 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:21:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:21:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120182114id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-1-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-1-results-2000-01-01"
 ---

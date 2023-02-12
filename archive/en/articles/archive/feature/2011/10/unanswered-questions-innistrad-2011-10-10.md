@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Today I'm trying out a new subcolumn. Usually with every set there are questions that come up. I try to answer as many as I can with my column, but some questions fall through the cracks or require additional comments as the questions are in response to my answer of a different question. Unanswered Questions is a catch-all feature where I answer the most asked but unanswered questions. Today's questions are obviously about the set that's just come out, Innistrad."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654256"
 [_metadata_:publish_date]:- "2011-10-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Unanswered Questions: Innistrad"
-[_metadata_:wayback_capture_timestamp]:- "2018-01-26 00:07:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-01-26 00:07:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180126000719id_/https://magic.wizards.com/en/articles/archive/feature/unanswered-questions-innistrad-2011-10-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unanswered-questions-innistrad-2011-10-10"
 ---

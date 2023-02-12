@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 3 Pairings - 14 and under Division Player Points Table Opponent Points Allen Dustin (17) 0 24 Grandon Kevin (37) 0 Alpert Justin (35) 0 23 Blatnick Brandon (7) 0 Altemara Chase (10) 6 5 Hartman Nick (45) 6 Anderson Adam (2) 3 18 Cunningham Jeff (26) 3 Bailyn Jonathan (33) 0 28 Bizub Marc (39) 0 Basile Sebastian (52) 3 17 Percopo Joseph"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953246"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 23:29:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 23:29:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130232900id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-44"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-44"
 ---

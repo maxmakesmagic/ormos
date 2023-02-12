@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Here in the United States the Wizards offices are closed as we celebrate the 4th of July, our independence day. In American notation we write the date of July 4 as 7/4, which also happens to be a somewhat reasonable power/toughness. Let's see what a Gatherer search yields...            I remember casting Ashen Monstrosity a few times during Kamigawa block and even before that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649456"
 [_metadata_:publish_date]:- "2013-07-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fourth of July"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 10:32:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 10:32:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705103212id_/https://magic.wizards.com/en/articles/archive/feature/fourth-july-2013-07-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fourth-july-2013-07-04"
 ---

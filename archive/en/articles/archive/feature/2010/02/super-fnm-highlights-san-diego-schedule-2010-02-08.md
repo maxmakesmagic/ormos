@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Got the winter blues? Are you looking for the next time you can sling spells all weekend with reckless abandon? Then get yourself to sunny San Diego on February 18-21 to experience all the Pro Tour has to offer! Invitations to future Pro Tours, cash prizes, iPods, Revised dual lands, foil sets of all Standard-legal cards, Amazon Kindles, selected pieces of Power 9 .... These"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "658716"
 [_metadata_:publish_date]:- "2010-02-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Super FNM Highlights San Diego Schedule"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 05:04:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 05:04:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522050434id_/https://magic.wizards.com/en/articles/archive/feature/super-fnm-highlights-san-diego-schedule-2010-02-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-fnm-highlights-san-diego-schedule-2010-02-08"
 ---

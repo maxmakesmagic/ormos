@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Vampires! Can you identify them on sight? Let's find out!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "655066"
 [_metadata_:publish_date]:- "2010-02-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Visualizing Vampires"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-25 20:34:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-25 20:34:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025203442id_/https://magic.wizards.com/en/articles/archive/feature/visualizing-vampires-2010-02-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/visualizing-vampires-2010-02-18"
 ---

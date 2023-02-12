@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This week's wallpaper features Jason Chan's Knight Exemplar artwork from Magic 2011. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "656536"
 [_metadata_:publish_date]:- "2010-09-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Knight Exemplar"
-[_metadata_:wayback_capture_timestamp]:- "2019-11-08 19:00:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-11-08 19:00:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191108190036id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-knight-exemplar-2010-09-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-knight-exemplar-2010-09-10"
 ---

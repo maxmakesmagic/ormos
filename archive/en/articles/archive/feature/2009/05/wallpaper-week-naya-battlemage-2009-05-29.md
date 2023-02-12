@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; People enjoyed their look at Steve Argyle's process so much that there was a positive outcry to have Naya Battlemage as this week's desktop wallpaper. And who are we to argue?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653776"
 [_metadata_:publish_date]:- "2009-05-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Naya Battlemage"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-07 21:33:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-07 21:33:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170407213316id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-naya-battlemage-2009-05-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-naya-battlemage-2009-05-29"
 ---

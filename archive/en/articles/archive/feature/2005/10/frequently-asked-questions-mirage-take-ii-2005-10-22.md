@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Magic's rules (and those regarding Mirage in particular) have changed quite a bit since Mirage first came out way back in late 1996. With that in mind, we thought it would be fun as part of our informal week of “repurposed” Mirage content to let retired Rules Manager and itinerant Level 4 judge John Carter have a go at the original FAQ posted for the set, with the benefit of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625266"
 [_metadata_:publish_date]:- "2005-10-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Frequently Asked Questions for Mirage: Take II"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:10:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:10:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521201059id_/https://magic.wizards.com/en/articles/archive/feature/frequently-asked-questions-mirage-take-ii-2005-10-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/frequently-asked-questions-mirage-take-ii-2005-10-22"
 ---

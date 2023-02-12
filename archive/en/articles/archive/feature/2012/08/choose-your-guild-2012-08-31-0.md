@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210422003502/https://magic.wizards.com/en/articles/archive/feature/choose-your-guild-2012-08-31-0)
+[Link to Wayback Machine](https://web.archive.org/web/20200522091904/https://magic.wizards.com/en/articles/archive/feature/choose-your-guild-2012-08-31-0)
 
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "PlaneswalkerPoints.com now lets you officially join any one of Ravnica's ten guilds! In July we launched achievements and badges for Planeswalker Points to give you a way to earn individual achievements and share your successes. Now we're expanding on the individual achievement functionality by adding new Ravnica-specific individual achievements and Ravnica guild achievements!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681726"
 [_metadata_:publish_date]:- "2012-08-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Choose your Guild!"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-22 00:35:02+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210422003502id_/https://magic.wizards.com/en/articles/archive/feature/choose-your-guild-2012-08-31-0"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-22 09:19:04"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200522091904id_/https://magic.wizards.com/en/articles/archive/feature/choose-your-guild-2012-08-31-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/choose-your-guild-2012-08-31-0"
 ---
 

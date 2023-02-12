@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Kiritz"
 [_metadata_:description]:- "Download Magic Online  Hey all you Magic Online players. It's time for another update on the Wide Beta and our other ongoing feature work. It's been a couple months since my holiday article, so I want to share where we are. Rapid Release As we mentioned before, we're working with an external team to update the basic infrastructure of the Wide Beta client and make it lighter on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687126"
 [_metadata_:publish_date]:- "2014-03-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wide Beta Update"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 21:37:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 21:37:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019213711id_/https://magic.wizards.com/en/articles/archive/feature/wide-beta-update-2014-03-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wide-beta-update-2014-03-10"
 ---

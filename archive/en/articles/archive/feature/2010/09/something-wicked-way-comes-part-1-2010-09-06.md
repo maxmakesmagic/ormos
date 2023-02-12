@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "652786"
 [_metadata_:publish_date]:- "2010-09-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Something Wicked This Way Comes, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-02 15:45:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-02 15:45:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160902154506id_/http://magic.wizards.com/en/articles/archive/feature/something-wicked-way-comes-part-1-2010-09-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/something-wicked-way-comes-part-1-2010-09-06"
 ---

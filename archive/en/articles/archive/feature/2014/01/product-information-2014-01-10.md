@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Set Information Born of the Gods features 165 black-bordered cards, including randomly inserted premium versions of all cards in the set. Born of the Gods is available in booster packs, intro packs, and fat packs. Set Name: Born of the Gods Number of Cards: 165 Twitter Hashtag: #MTGBNG Complete Born of the Gods Credits Born of the Gods Mechanics Born of the Gods FAQ (or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646801"
 [_metadata_:publish_date]:- "2014-01-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Product Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 14:39:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 14:39:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021143904id_/https://magic.wizards.com/en/articles/archive/feature/product-information-2014-01-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/product-information-2014-01-10"
 ---

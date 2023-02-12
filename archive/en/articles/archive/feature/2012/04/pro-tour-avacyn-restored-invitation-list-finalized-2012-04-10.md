@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As the calendar turns to April, the invitation list for Pro Tour Avacyn Restored has been finalized. A total of 434 players are invited to Barcelona to battle in the Innistrad-Avacyn Restored Block Constructed and Avacyn Restored Booster Draft formats on May 11–13.The title of Pro Tour Avacyn Restored champion isn't the only major achievement on the line that weekend."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681431"
 [_metadata_:publish_date]:- "2012-04-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Avacyn Restored Invitation List Finalized"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-30 09:00:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-30 09:00:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220930090056id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-avacyn-restored-invitation-list-finalized-2012-04-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-avacyn-restored-invitation-list-finalized-2012-04-10"
 ---

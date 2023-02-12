@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Guillaume Wafo-Tapa's Teachings Control Format: Pro Tour-Yokohama 2007 1 Academy Ruins 4 Dreadship Reef 10 Island 1 Molten Slagheap 1 Swamp 4 Terramorphic Expanse 4 Urborg, Tomb of Yawgmoth 1 Urza's Factory 2 Aeon Chronicler 2 Draining Whelk 2 Teferi, Mage of Zhalfir 1 Triskelavus 4 Cancel 4 Careful Consideration 4 Damnation 1 Haunting Hymn 3 Mystical"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667206"
 [_metadata_:publish_date]:- "2009-03-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Guillaume Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 01:14:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 01:14:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024011451id_/https://magic.wizards.com/en/articles/archive/feature/guillaume-control-2009-03-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guillaume-control-2009-03-02"
 ---

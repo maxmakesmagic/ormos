@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Invitations to Pro Tour Return to Ravnica are awarded in the following manner: The winner of each Pro Tour Return to Ravnica Qualifier (including Magic Online Pro Tour Qualifiers). The Top 4 finishing players from each Grand Prix that awards invitations to Pro Tour Return to Ravnica . The Top 25 finishing players from Pro Tour Avacyn Restored 2012. The four team members from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641516"
 [_metadata_:publish_date]:- "2012-05-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Invitation List for Pro Tour Return to Ravnica 2012"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 08:04:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 08:04:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016080400id_/https://magic.wizards.com/en/articles/archive/feature/invitation-list-pro-tour-return-ravnica-2012-2012-05-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/invitation-list-pro-tour-return-ravnica-2012-2012-05-24"
 ---

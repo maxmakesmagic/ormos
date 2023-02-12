@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Hello, and welcome to another installment of Online Tech. Today I will do the usual Time Spiral Block Constructed metagame roundup, and then I will analyze Block deck matchups. I found eight Block Premier Events on Magic Online last week, and I compiled the Top 8 results in the following table. The method I use to rank archetypes is the following. For a normal tournament, I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624596"
 [_metadata_:publish_date]:- "2007-08-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Block, with Everything"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 16:36:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 16:36:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808163612id_/https://magic.wizards.com/en/articles/archive/feature/block-everything-2007-08-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/block-everything-2007-08-01"
 ---

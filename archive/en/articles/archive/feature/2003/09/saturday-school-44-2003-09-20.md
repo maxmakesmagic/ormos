@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at ask@wizards.com. He answers approximately 30 questions every week. Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. Beginner Questions Q: If I have no creatures can I still play Skulltap? --Jamie Pacris, N Vancouver, Canada A: No, you can't. If"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622281"
 [_metadata_:publish_date]:- "2003-09-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #44"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 13:52:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 13:52:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429135256id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-44-2003-09-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-44-2003-09-20"
 ---

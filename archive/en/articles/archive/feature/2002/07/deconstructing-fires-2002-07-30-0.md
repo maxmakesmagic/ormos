@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "Do you remember when tournament Magic was dominated by a multicolor card with a converted mana cost of 3? No, I'm not talking about the Psychatog deck at last week's Friday Night Magic! I'm talking about `Fires.` You know Fires . . . as in Fires of Yavimaya? A 1GR enchantment fromInvasion? All of your creatures get haste? Sacrifice Fires to give target creature +2/+2?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634441"
 [_metadata_:publish_date]:- "2002-07-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Deconstructing Fires"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-27 12:19:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-27 12:19:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170427121953id_/http://magic.wizards.com/en/articles/archive/feature/deconstructing-fires-2002-07-30-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/deconstructing-fires-2002-07-30-0"
 ---

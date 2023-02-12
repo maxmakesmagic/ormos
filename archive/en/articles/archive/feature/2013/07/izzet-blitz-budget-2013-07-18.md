@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Constructed can often be hard to get cards for, so to combat that I'm taking a look at Travis Woo's latest Standard deck, Izzet Blitz. In this article, he talks about a budget version of the deck he's been playing, which you can assemble pretty easily."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666756"
 [_metadata_:publish_date]:- "2013-07-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Izzet Blitz on a Budget"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-18 15:25:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-18 15:25:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318152506id_/http://magic.wizards.com/en/articles/archive/feature/izzet-blitz-budget-2013-07-18"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/izzet-blitz-budget-2013-07-18"
 ---

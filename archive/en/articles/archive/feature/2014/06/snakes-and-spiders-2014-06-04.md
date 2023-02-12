@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "Theros Block is sprinkled with cards that interact with your graveyard. Cards like Commune with the Gods and Nyx Weaver help fill your graveyard. Nighthowler and Pharika, God of Affliction are more powerful as your graveyard grows in size."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668036"
 [_metadata_:publish_date]:- "2014-06-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Snakes and Spiders"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-28 06:26:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-28 06:26:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160828062605id_/http://magic.wizards.com/en/articles/archive/feature/snakes-and-spiders-2014-06-04"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/snakes-and-spiders-2014-06-04"
 ---

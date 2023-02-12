@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Mono-Black Control (dubbed Excalibur by Paul Rietzl) took down Grand Prix Albuquerque in the hands of Owen Turtenwald, with Paul Rietzl, Joseph Nix, and Todd Anderson also making Top 8, but it failed to repeat its performance at Grand Prix Vienna. Instead, Andreas Ganz made Top 16 with an interesting take on Mono-Black, now with less mono and more white cards. Andreas kept the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667346"
 [_metadata_:publish_date]:- "2013-12-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Orzhov Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:32:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:32:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016193238id_/https://magic.wizards.com/en/articles/archive/feature/orzhov-control-2013-12-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/orzhov-control-2013-12-13"
 ---

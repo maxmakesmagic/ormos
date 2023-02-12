@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Ali Aintrazi's Blue-Black Control Format: Standard – Winner, 2011 US National Championship 4 Creeping Tar Pit 4 Darkslick Shores 4 Drowned Catacomb 4 Island 1 Mystifying Maze 5 Swamp 4 Tectonic Edge 2 Consecrated Sphinx 2 Grave Titan 3 Solemn Simulacrum 1 Black Sun's Zenith 1 Consume the Meek 1 Despise 1 Dismember 3 Doom Blade 1 Go for the Throat 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671371"
 [_metadata_:publish_date]:- "2011-08-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 US National Champ"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 11:37:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 11:37:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024113749id_/https://magic.wizards.com/en/articles/archive/feature/2011-us-national-champ-2011-08-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-us-national-champ-2011-08-09"
 ---

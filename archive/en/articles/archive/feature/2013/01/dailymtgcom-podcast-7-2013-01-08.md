@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This is the biweekly audio podcast for DailyMTG.com. Intro music by Bern Menth. The Daily MTG Podcast is now on iTunes! You can visit its page right here. Or, if you use a different podcast aggregator, you can point it directly at the RSS feed: http://www.wizards.com/dailymtgpodcast.xml."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "596726"
 [_metadata_:publish_date]:- "2013-01-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "DailyMTG.com Podcast #7"
-[_metadata_:wayback_capture_timestamp]:- "2019-10-19 03:38:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-10-19 03:38:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191019033817id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-7-2013-01-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-7-2013-01-08"
 ---

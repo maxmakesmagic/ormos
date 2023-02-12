@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "First NameLast NameRatingByesColeAbernathy18121MattAbrams20573JooAbreu19242RuiAbreu18691MarkAcheson18091AlessandroAcquaviva18721TakatsuguAdachi18361MichaelAdami18071KevinAdamowicz18551ScottAdamowicz18151PeterAdams19102WesleyAddison18051Juan CarlosAdebo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734381"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "allthearticles-mtg_grandprix_byes_20060419a-apac_data"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 01:27:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 01:27:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020012718id_/https://magic.wizards.com/en/articles/archive/feature/allthearticles-mtggrandprixbyes20060419a-apacdata-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/allthearticles-mtggrandprixbyes20060419a-apacdata-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 11 Standings  Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Yeh, Gottlieb 30 70,6169 82,6087 68,9464 8/7/0/3 2 Refsdal, Gunnar 30 68,6688 74,0741 64,9461 8/7/0/3 3 Sanders Jensen, Niels 28 73,7013 86,3636 69,9801 8/6/1/3 4 Eskeland, Sigurd 28 69,2641 78,2609 66,8608 8/6/1/3 5 Cedercrantz, Johan 28 63,7037 76,9231 61,5459 9/7/1/2 6 Gysemans,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951711"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 03:37:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 03:37:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527033725id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-53"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-53"
 ---

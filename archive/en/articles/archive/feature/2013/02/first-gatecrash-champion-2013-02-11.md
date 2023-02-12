@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Unfortunately, complications kept me from writing this feature for a week, but they've been resolved and I should be back for the next few months. This meant that I couldn't feature this deck until now, but I still feel like I would be remiss in my duties if I didn't honor the first big tournament winner using Gatecrash with recognition in this feature. I've been a bit"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666116"
 [_metadata_:publish_date]:- "2013-02-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The First Gatecrash Champion"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 08:40:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 08:40:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519084017id_/https://magic.wizards.com/en/articles/archive/feature/first-gatecrash-champion-2013-02-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-gatecrash-champion-2013-02-11"
 ---

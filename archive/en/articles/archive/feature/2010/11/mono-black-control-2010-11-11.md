@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jos Morales's Mono-Black Control Format: Standard - Game Day 18 Swamp 4 Tectonic Edge 4 Verdant Catacombs 3 Abyssal Persecutor 2 Grave Titan 2 Skinrender 1 Consume the Meek 3 Consuming Vapors 4 Doom Blade 3 Duress 4 Inquisition of Kozilek 2 Liliana Vess 1 Memoricide 3 Mimic Vat 3 Ratchet Bomb 3 Sign in Blood *2 Consume the Meek *1 Duress *2 Grasp of Darkness"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670366"
 [_metadata_:publish_date]:- "2010-11-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mono-Black Control"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:52:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:52:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124115209id_/https://magic.wizards.com/en/articles/archive/feature/mono-black-control-2010-11-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-black-control-2010-11-11"
 ---

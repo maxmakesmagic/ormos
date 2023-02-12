@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Dave Guskin"
 [_metadata_:description]:- "This is the only surviving record of the journey of four Wizards of the Coast and their travels through the multiverse, searching for the most ridiculous, fun, exciting and interesting planes while continually reworking their own tools and spell repertoires. The last time these intrepid travelers were seen was near Tazeem, in the wondrous, dangerous plane of Zendikar"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683901"
 [_metadata_:publish_date]:- "2009-08-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Talk the Talk, 'Walk the 'Walk"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 12:51:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 12:51:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516125103id_/https://magic.wizards.com/en/articles/archive/feature/talk-talk-walk-walk-2009-08-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/talk-talk-walk-walk-2009-08-31"
 ---

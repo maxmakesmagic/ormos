@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentSankenbunritsu030vs.Souls of RugernaSuberikomi120vs.Love and HopeTeam Rune Factory210vs.Team M.S.OCircle Money Draft210vs.Team WorkObjects210vs.Ponkotsu HiyoriPositive Thinking030vs.Chiban DragonWis Type Ing210vs.Kashimo EyesGo Renger210vs.nombe.nomNo Future030vs.ATOKMorisawa Juku120vs.Reckless TriskelionTeam ToDo210vs.AibonDaisiszi201vs.Fruits BasketTeam"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "807026"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 2 Results (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 18:20:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 18:20:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626182006id_/https://magic.wizards.com/en/articles/archive/feature/round-2-results-table-2000-01-01-1"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-results-table-2000-01-01-1"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Josh Bennett"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "314192"
 [_metadata_:publish_date]:- "2012-05-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: Planeswalkers in Innistrad Block Constructed"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-17 13:52:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-17 13:52:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151017135209id_/http://magic.wizards.com/en/articles/archive/feature/feature-planeswalkers-innistrad-block-constructed-2012-05-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-planeswalkers-innistrad-block-constructed-2012-05-11"
 ---

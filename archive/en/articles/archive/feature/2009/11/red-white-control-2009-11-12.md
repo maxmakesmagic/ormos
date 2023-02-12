@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Maverick Kimman's Red-White Control Format: Standard 4 Arid Mesa 13 Mountain 4 Naya Panorama 2 Plains 4 Valakut, the Molten Pinnacle 3 Ajani Vengeant 4 Armillary Sphere 2 Banefire 4 Burst Lightning 4 Chandra Nalaar 4 Day of Judgment 2 Earthquake 2 Lavaball Trap 4 Lightning Bolt 4 Path to Exile *1 Ajani Vengeant *4 Celestial Purge *4 Goblin Ruinblaster *1 Lavaball Trap *2 Martial Coup *3 Volcanic Fallout"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669011"
 [_metadata_:publish_date]:- "2009-11-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Red-White Control"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-30 03:35:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-30 03:35:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330033536id_/http://magic.wizards.com/en/articles/archive/feature/red-white-control-2009-11-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/red-white-control-2009-11-12"
 ---

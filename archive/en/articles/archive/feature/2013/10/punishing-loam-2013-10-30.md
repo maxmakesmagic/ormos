@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I've been liking hybrid decks recently, and particularly ones that combine the Life from the Loam engine with other themes and/or colors. Maybe it's that I like the combination of two good things, or that I really like casting Life from the Loam, or possibly both. Either way, today I'm taking a look at a deck that lands somewhere on the Life from the Loam to Maverick spectrum,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667171"
 [_metadata_:publish_date]:- "2013-10-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Punishing Loam"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 16:50:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 16:50:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816165029id_/https://magic.wizards.com/en/articles/archive/feature/punishing-loam-2013-10-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/punishing-loam-2013-10-30"
 ---

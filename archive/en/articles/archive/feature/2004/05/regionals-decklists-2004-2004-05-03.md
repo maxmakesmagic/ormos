@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "Southern California [decklist] Title: Christopher Bilinski Format: Southern California Regional 1st Place 4 Frogmite 4 Myr Enforcer 4 Disciple of the Vault 4 Arcbound Ravager 4 Arcbound Worker 4 Skullclamp 4 Welding Jar 4 Shrapnel Blast 4 Thoughtcast 4 Pyrite Spellbomb 2 Oxidize 4 Glimmervoid 4 Seat of the Synod 3 Tree of Tales 3 Vault of Whispers 4 Great Furnace *1 Oxidize *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624886"
 [_metadata_:publish_date]:- "2004-05-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Regionals Decklists 2004"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-10 12:14:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-10 12:14:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810121445id_/https://magic.wizards.com/en/articles/archive/feature/regionals-decklists-2004-2004-05-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/regionals-decklists-2004-2004-05-03"
 ---

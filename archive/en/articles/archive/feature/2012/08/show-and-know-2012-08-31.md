@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "I don't know if any name has officially been given to today's deck, but I hope that one sticks! Last weekend, while nearly 1,900 players were slinging Rancors and Unsummons over in Boston, a pair of Constructed tournaments were going on in Denver. We have showed you a Standard deck already this week, but I figured it was time to show some love to Legacy as well. With the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665481"
 [_metadata_:publish_date]:- "2012-08-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Show and Know"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 14:28:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 14:28:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702142851id_/https://magic.wizards.com/en/articles/archive/feature/show-and-know-2012-08-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/show-and-know-2012-08-31"
 ---

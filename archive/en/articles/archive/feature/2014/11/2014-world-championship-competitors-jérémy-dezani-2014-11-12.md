@@ -1,20 +1,18 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20141203222415/http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12)
+[Link to Wayback Machine](https://web.archive.org/web/20150515030023/http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12)
 
+[_metadata_:author]:- "Mike Rosenberg"
+[_metadata_:description]:- "For a year filled with memorable finishes, breakout performances from emerging regions on the professional Magic scene, and the development of modern stars, there is one country that stands out when thinking about the 2013-2014 Premier Play season. That country, without question, is France."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "310556"
 [_metadata_:publish_date]:- "2014-11-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2014 World Championship Competitors: Jérémy Dezani"
-[_metadata_:wayback_capture_timestamp]:- "2014-12-03 22:24:15+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141203222415id_/http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-15 03:00:23"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150515030023id_/http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12"
 ---
-
-
-
-
-
-### 2014 WORLDS WEEK
 
 
 2014 World Championship Competitors: Jérémy Dezani
@@ -22,26 +20,28 @@
 
 
 
+ Posted in **Feature**
+ on November 12, 2014 
+
+
+
+
+
+
 ![](https://media.magic.wizards.com/styles/auth_small/public/images/person/n2KoE-g2_bigger.jpeg)
-
-Mike Rosenberg
-
-Mike Rosenberg is a writer and gamer and has been part of the Magic text coverage team since 2011. These days, he spends less time globetrotting around the world for Grand Prix and more time in Renton, WA, working as the organized play content specialist for Wizards of the Coast.
+By Mike Rosenberg
 
 
-November 12, 2014
- 
+
+
+ Mike Rosenberg is a writer and gamer and has been part of the Magic text coverage team since 2011. He joined Wizards as organized play’s content specialist in June 2014. 
 
 
 
 
 
 
-
-
-
-
-![](https://media.magic.wizards.com/JeremyDezani_Stats_2014WC_0.png)
+![](http://media.wizards.com/2014/images/daily/JeremyDezani_Stats_2014WC.png)
 
 
 For a year filled with memorable finishes, breakout performances from emerging regions on the professional *Magic* scene, and the development of modern stars, there is one country that stands out when thinking about the 2013-2014 Premier Play season.
@@ -88,21 +88,6 @@ And in just a few short weeks, we'll see if the best from the 2013-2014 season w
 **Watch the [2014 World Championship](http://magic.wizards.com/en/content/fact-sheet-2014-magic-world-championship) live from Nice, France on December 2, 3, and 7 on [Twitch.TV/Magic](http://Twitch.TV/Magic) starting at 9 a.m. Local time/12 a.m. PT/3 a.m. ET/8 a.m. GMT**
 
 [Click here to see the 2014 World Championship Competitors](http://magic.wizards.com/en/content/2014-magic-world-championship-competitors)
-[Feature](/en/section/feature)[Event](/en/tags/event)
-
-
-
-
-
- 
- 
-
-
-
-
-  
-
-
 
 
 

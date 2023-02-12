@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20180330114103/https://magic.wizards.com/en/articles/archive/feature/brief-history-event-decks-2013-02-14)
+[Link to Wayback Machine](https://web.archive.org/web/20180808014716/https://magic.wizards.com/en/articles/archive/feature/brief-history-event-decks-2013-02-14)
 
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "We've had Event Decks for a few years now, so you could be forgiven for losing track of some of them. You could be, that is, unless you read this Arcana, which will catch you back up through February 2013. Each Event Deck is Standard-legal when it's released, and it's designed to be competitive at Friday Night Magic. This means that the decks pull cards from the entire Standard environment as it stood when the deck was released."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648331"
 [_metadata_:publish_date]:- "2013-02-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Brief History of Event Decks"
-[_metadata_:wayback_capture_timestamp]:- "2018-03-30 11:41:03+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180330114103id_/https://magic.wizards.com/en/articles/archive/feature/brief-history-event-decks-2013-02-14"
+[_metadata_:wayback_capture_timestamp]:- "2018-08-08 01:47:16"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180808014716id_/https://magic.wizards.com/en/articles/archive/feature/brief-history-event-decks-2013-02-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brief-history-event-decks-2013-02-14"
 ---
 

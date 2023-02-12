@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Head Judge Mike Guptil (Level 4 Judge - USA) Tournament Manager Jeff Donais ( Level 5 Judge - Wizards)  Mark Rosewater (Level 4 Judge - Wizards) Cyril Grillon ( Level 4 Judge - Wizards)  Chris Covington (Level 3 Judge - USA) Juan del Compare (Level 3 Judge - Argentina)  Michael Feuell (Level 3 Judge - USA) Collin Jackson (Level 3 Judge - USA)  Torsten John (Level 3 Judge -"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951471"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Judge Staff"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 17:38:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 17:38:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127173833id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcjudge-staff-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcjudge-staff-2000-01-01"
 ---

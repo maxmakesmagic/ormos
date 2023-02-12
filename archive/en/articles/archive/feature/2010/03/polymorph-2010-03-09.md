@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Tim Sussino's Polymorph Format: Standard – Pro Tour–San Diego 2010 1 Arid Mesa 4 Halimar Depths 7 Island 1 Misty Rainforest 7 Mountain 4 Scalding Tarn 2 Iona, Shield of Emeria 1 Chandra Nalaar 4 Dragon Fodder 4 Goblin Assault 4 Into the Roil 3 Jace, the Mind Sculptor 4 Lightning Bolt 4 Negate 3 Polymorph 4 Ponder 3 Treasure Hunt *3 Calcite Snapper *3 Dragon's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669421"
 [_metadata_:publish_date]:- "2010-03-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Polymorph"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 00:40:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 00:40:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018004051id_/https://magic.wizards.com/en/articles/archive/feature/polymorph-2010-03-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/polymorph-2010-03-09"
 ---

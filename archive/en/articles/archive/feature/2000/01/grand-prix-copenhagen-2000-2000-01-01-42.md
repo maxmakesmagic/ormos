@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 13 Standings  Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Yeh, Gottlieb 34 71,3187 75,8621 67,4268 10/8/1/3 2 Sanders Jensen, Niels 32 70,9657 78,5714 66,1738 10/7/2/3 3 Refsdal, Gunnar 32 70,1099 66,6667 66,1342 10/7/2/3 4 Canu, Franck 31 70,0366 76,1905 66,0833 10/7/1/3 5 Van de Logt, Tom 31 67,3715 71,1111 62,2013 11/7/4/2 6 Boeken, Noah"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951756"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 19:07:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 19:07:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516190727id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-42"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-42"
 ---

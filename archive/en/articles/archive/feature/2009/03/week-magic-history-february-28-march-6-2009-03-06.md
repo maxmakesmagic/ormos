@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "March 3-5, 2006: Mark Herberholz wins Pro Tour–Honolulu! Now that Pro Tour–Kyoto is over, it's time to think about Standard Pro Tours of years past. In 2006, Honolulu was the site of Mark Herberholz's Gruul-fueled victory as he piloted a deck crafted at the now-legendary Beach House. But that's not all that happened at Honolulu. Last weekend, Gabriel Nassif had possibly the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "598576"
 [_metadata_:publish_date]:- "2009-03-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: February 28-March 6"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 18:37:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 18:37:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122183732id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-february-28-march-6-2009-03-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-february-28-march-6-2009-03-06"
 ---

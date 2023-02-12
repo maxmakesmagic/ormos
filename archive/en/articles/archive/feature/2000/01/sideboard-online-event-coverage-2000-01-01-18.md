@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 4 Results - 14 and under Division Player Results Opponent Allen Dustin Bizub Marc Won, 2-0 Altemara Chase Percopo Joseph Won, 2-0 Anderson Adam Dyke Eric Lost, 1-2 Bailyn Jonathan dela Cruz Jimmy Lost, 0-2 Basile Sebastian Mcpherson Ryan Lost, 0-2 Behlen Andrew Landers Mark Won, 2-1 Bizub Marc Allen Dustin Lost, 0-2 Blair James Hutchison"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953281"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 13:58:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 13:58:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517135805id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-18"
 ---

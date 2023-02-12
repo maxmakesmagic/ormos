@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring $30,000 in cash prizes, invitations to the Pro Tour™ for the top 16 finishers, and exclusive foil promo cards for participants.Grand Prix—San Francisco is presented by Matchplay EventsTournament LocationParkside Hall 180 Park Ave.San Jose, CA"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635966"
 [_metadata_:publish_date]:- "2007-05-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–San Francisco"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 03:15:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 03:15:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023031521id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93san-francisco-2007-05-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93san-francisco-2007-05-10"
 ---

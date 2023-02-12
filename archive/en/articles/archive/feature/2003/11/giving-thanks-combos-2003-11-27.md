@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Happy Thanksgiving everyone! I’m lucky enough to get the Thanksgiving column this year, and I plan on making it count. Who knows when Thanksgiving will fall on a Thursday again? (Though, to be honest, what I’m most looking forward to is the day my column appears on Easter. I’ve got some extra-special treats I’ve been saving up for that one!)I’ve got plenty of things to be"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613701"
 [_metadata_:publish_date]:- "2003-11-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Giving Thanks for Combos"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 22:48:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 22:48:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123224845id_/https://magic.wizards.com/en/articles/archive/feature/giving-thanks-combos-2003-11-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/giving-thanks-combos-2003-11-27"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Open only to Gold-level Pro Tour Players Club members. Eligible players can earn an invitation to compete in the Pro Tour Gatecrash in Montreal Challenge. Pro Tour Gatecrash takes place February 15-17, 2013."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "640501"
 [_metadata_:publish_date]:- "2012-11-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Players Club – Gold Level Magic Online Pro Tour Qualifiers: Gatecrash in Montreal"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-06 22:09:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-06 22:09:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160806220903id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-players-club-%E2%80%93-gold-level-magic-online-pro-tour-qualifiers"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-players-club-%E2%80%93-gold-level-magic-online-pro-tour-qualifiers"
 ---

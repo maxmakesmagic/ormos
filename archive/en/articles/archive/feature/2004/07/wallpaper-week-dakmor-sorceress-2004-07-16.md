@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Matthew D. Wilson's Dakmor Sorceress from the Portal Second Age set. Enjoy! 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "607176"
 [_metadata_:publish_date]:- "2004-07-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Dakmor Sorceress"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 00:35:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 00:35:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022003504id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dakmor-sorceress-2004-07-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dakmor-sorceress-2004-07-16"
 ---

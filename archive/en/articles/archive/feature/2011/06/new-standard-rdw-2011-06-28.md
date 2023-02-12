@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Korey Age's Red Deck Wins Format: Standard (before and after July 1, 2011) – Pro Tour Qualifier in Louisville, KY 4 Arid Mesa 8 Mountain 4 Scalding Tarn 4 Teetering Peaks 4 Ember Hauler 4 Furnace Scamp 4 Goblin Guide 4 Spikeshot Elder 4 Arc Trail 4 Flame Slash 4 Lightning Bolt 4 Searing Blaze 4 Shrine of Burning Rage 4 Staggershock *2 Act of Aggression *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671211"
 [_metadata_:publish_date]:- "2011-06-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "New Standard RDW"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 06:41:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 06:41:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021064154id_/https://magic.wizards.com/en/articles/archive/feature/new-standard-rdw-2011-06-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-standard-rdw-2011-06-28"
 ---

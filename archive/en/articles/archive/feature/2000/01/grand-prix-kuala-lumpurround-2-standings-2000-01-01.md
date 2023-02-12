@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Wee, Pang Ming 6 50.0000 100.0000 58.3333 2/2/0/0 2 Au Yong, Wai Kin 6 50.0000 100.0000 53.3333 2/2/0/0 3 Law, Albertus Hui Chin 6 50.0000 100.0000 50.0000 1/1/0/1 4 Lim, Hao Zhi 6 50.0000 100.0000 50.0000 2/2/0/0 5 Tai, Anthony 6 50.0000 100.0000 50.0000 2/2/0/0 6 Hong, How Tuan Michael 6 50.0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952506"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Kuala LumpurRound 2 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:22:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:22:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519062220id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-2-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-2-standings-2000-01-01"
 ---

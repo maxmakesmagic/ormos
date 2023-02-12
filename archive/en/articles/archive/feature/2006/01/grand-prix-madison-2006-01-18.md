@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Grand Prix—Madison is presented by Legion Events"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735206"
 [_metadata_:publish_date]:- "2006-01-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Madison"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 02:08:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 02:08:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030020836id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-madison-2006-01-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-madison-2006-01-18"
 ---

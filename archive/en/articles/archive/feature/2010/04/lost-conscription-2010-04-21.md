@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Mons Johnson's Lost Conscription Format: Standard with Rise of the Eldrazi 2 Arcane Sanctum 1 Island 1 Swamp 2 Oran-Rief, the Vastwood 3 Misty Rainforest 3 Forest 4 Ancient Ziggurat 3 Verdant Catacombs 4 Stirring Wildwood 4 Vengevine 2 Wolfbriar Elemental 3 Knight of the Reliquary 4 Noble Hierarch 3 Sovereigns of Lost Alara 4 Lotus Cobra 3 Omnath, Locus of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669591"
 [_metadata_:publish_date]:- "2010-04-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Lost Conscription"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 17:28:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 17:28:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021172843id_/https://magic.wizards.com/en/articles/archive/feature/lost-conscription-2010-04-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lost-conscription-2010-04-21"
 ---

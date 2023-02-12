@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Zvi Mowshowitz Divides  Zvi Mowshowitz Steve O'Mahoney-Schwartz Coastal Piracy Maggot Therapy Ivory Mask Red Elemental Blast Forbid Deranged Hermit Time Elemental Bull Hippo Pack #2 - Steve O'Mahoney-Schwartz Divides  Zvi Mowshowitz Steve O'Mahoney-Schwartz Lawbringer Flare Suq'Ata Firewalker Wild Aesthir Gerrard's Wisdom Mind Harness Jungle Wurm Sanctum Custodian"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949881"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 7 Solomon SelectionsZvi Mowshowitz vs. Steven O'Mahoney-Schwartz"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 03:26:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 03:26:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529032609id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionszvi-mowshowitz"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionszvi-mowshowitz"
 ---

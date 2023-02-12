@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "5 & 6 May 2007 Format: Sealed DeckTournament Location:Scandic Infra CityKanalvägen 10UPPLANDS VÄSBY (Stockhölm) SE 194-61Sweden    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730506"
 [_metadata_:publish_date]:- "2007-03-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tournament Fact Sheet"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-28 02:39:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-28 02:39:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160228023922id_/http://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-03-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tournament-fact-sheet-2007-03-19"
 ---

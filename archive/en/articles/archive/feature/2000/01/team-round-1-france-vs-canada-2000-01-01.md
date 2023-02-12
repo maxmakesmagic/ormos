@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Tom Guevin"
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "962156"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Team Round 1: France vs. Canada"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 11:18:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 11:18:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128111825id_/https://magic.wizards.com/en/articles/archive/feature/team-round-1-france-vs-canada-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-round-1-france-vs-canada-2000-01-01"
 ---

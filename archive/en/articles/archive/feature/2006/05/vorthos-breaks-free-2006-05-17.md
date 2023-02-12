@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "Vorthos Mandelbrot is a passionate young apprentice wizard. He approaches his studies and his magework with focus and zeal, but most of all, with panache. For it is not promise of power that motivates him, it is the artistry and inherent beauty of magic; the hidden symmetries, the wondrous coincidences, the sound, the smell, the very taste of it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626666"
 [_metadata_:publish_date]:- "2006-05-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Vorthos Breaks Free"
-[_metadata_:wayback_capture_timestamp]:- "2019-08-12 22:16:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-08-12 22:16:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190812221632id_/https://magic.wizards.com/en/articles/archive/feature/vorthos-breaks-free-2006-05-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vorthos-breaks-free-2006-05-17"
 ---

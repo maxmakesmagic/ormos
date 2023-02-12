@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 713,141596 * 6 49.3333% 11Absolute Samuels 18 69.3122% 21Accellerated Vares8 Volante 12 70.0000% 66Agifalw 6 54.1667% 3AlphaBetaUnlimited.com 22 66.9312% 73Altrove * 6 48.1481% 18Amsterdam 15 66.7593% 1Angstschreeuw 25 64.3519% 56Asani * 9 42.7778% 23Babar Team 12 55.5556% 36Birds of paradise 10 56.4815% 9Black-Ops 19 67.7249% 7Bologna Demolition Team 21"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806226"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 9 Standings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 03:58:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 03:58:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703035830id_/https://magic.wizards.com/en/articles/archive/feature/round-9-standings-team-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-standings-team-2000-01-01-0"
 ---

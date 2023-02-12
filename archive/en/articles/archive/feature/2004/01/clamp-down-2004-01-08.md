@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112020105/https://magic.wizards.com/en/articles/archive/feature/clamp-down-2004-01-08)
+[Link to Wayback Machine](https://web.archive.org/web/20170811123750/http://magic.wizards.com/en/articles/archive/feature/clamp-down-2004-01-08)
 
 [_metadata_:author]:- "Mark Gottlieb"
 [_metadata_:description]:- "It's hard to pinpoint the brokenest card in Darksteel. I mean, have you seen the set? (Don't answer that.) There are so many crazy and/or huge and/or undercosted and/or unkillable and/or otherwise cool cards that it's hard to believe the best one of all just might be an innocuous 1-mana uncommon Equipment. But it might be. Time will tell."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628516"
 [_metadata_:publish_date]:- "2004-01-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Clamp Down"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:01:05+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020105id_/https://magic.wizards.com/en/articles/archive/feature/clamp-down-2004-01-08"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/clamp-down-2004-01-08"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-11 12:37:50"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811123750id_/http://magic.wizards.com/en/articles/archive/feature/clamp-down-2004-01-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/clamp-down-2004-01-08"
 ---
 
 
@@ -58,7 +60,6 @@ You don't need a nontapping creature like [Yotian Soldier](http://gatherer.wizar
 
 
 
-
 #### Any Blocks?
 
 
@@ -69,9 +70,7 @@ You don't need a nontapping creature like [Yotian Soldier](http://gatherer.wizar
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -327,12 +326,16 @@ OverviewColorCostRarity
 
 
 
-##### Common (43)
+##### Common (50)
 
 
 
 20
 [Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Forgotten Cave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BCave%5D)
 
 
 3
@@ -359,6 +362,10 @@ OverviewColorCostRarity
 [Shock Troops](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D+%5BTroops%5D)
 
 
+3
+[Spikeshot Goblin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpikeshot%5D+%5BGoblin%5D)
+
+
 2
 [Bonesplitter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonesplitter%5D)
 
@@ -368,20 +375,12 @@ OverviewColorCostRarity
 
 
 
-##### Uncommon (17)
+##### Uncommon (10)
 
-
-
-4
-[Forgotten Cave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BCave%5D)
 
 
 2
 [Slith Firewalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlith%5D+%5BFirewalker%5D)
-
-
-3
-[Spikeshot Goblin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpikeshot%5D+%5BGoblin%5D)
 
 
 2
@@ -443,7 +442,6 @@ That's what you've got now. When you equip a 1-toughness creature with Skullclam
 
 
 
-
 #### ElfClamp
 
 
@@ -454,9 +452,7 @@ That's what you've got now. When you equip a 1-toughness creature with Skullclam
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -717,12 +713,20 @@ OverviewColorCostRarity
 
 
 
-##### Common (30)
+##### Common (36)
 
 
 
 18
 [Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
+
+
+2
+[Fierce Empath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFierce%5D+%5BEmpath%5D)
 
 
 4
@@ -738,12 +742,8 @@ OverviewColorCostRarity
 
 
 
-##### Uncommon (21)
+##### Uncommon (15)
 
-
-
-4
-[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
 
 
 2
@@ -752,10 +752,6 @@ OverviewColorCostRarity
 
 4
 [Elvish Scrapper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BScrapper%5D)
-
-
-2
-[Fierce Empath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFierce%5D+%5BEmpath%5D)
 
 
 3

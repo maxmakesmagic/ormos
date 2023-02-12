@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "697876"
 [_metadata_:publish_date]:- "2011-08-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Innistrad Wallpapers"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 15:12:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 15:12:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127151228id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-wallpapers-2011-08-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-wallpapers-2011-08-29"
 ---

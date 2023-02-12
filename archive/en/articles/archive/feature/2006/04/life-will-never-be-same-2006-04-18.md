@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Klauk"
 [_metadata_:description]:- "Dissension will soon flood into game and hobby stores worldwide. Previews have been pouring out all week on the main magicthegathering.com website, and this new set looks like it is going to be taking fans everywhere by storm. If the few cards I have seen so far are any indication of the surge of great things that will flow from within the ranks of this third and final set,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638311"
 [_metadata_:publish_date]:- "2006-04-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Life Will Never Be The Same"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:20:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:20:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021002057id_/https://magic.wizards.com/en/articles/archive/feature/life-will-never-be-same-2006-04-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/life-will-never-be-same-2006-04-18"
 ---

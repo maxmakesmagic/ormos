@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Charles Morrison's Cannon Control Format: Standard - 3rd Place - 2010 State Championships, Indiana 6 Island 5 Plains 2 Seachrome Coast 4 Celestial Colonnade 4 Glacial Fortress 4 Tectonic Edge 3 Baneslayer Angel 2 Trinket Mage 2 Sun Titan 3 Day of Judgment 4 All Is Dust 2 Lux Cannon 2 Brittle Effigy 3 Ratchet Bomb 2 Jace, the Mind Sculptor 1 Jace Beleren 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670256"
 [_metadata_:publish_date]:- "2010-10-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Cannon Control"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 11:24:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 11:24:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125112441id_/https://magic.wizards.com/en/articles/archive/feature/cannon-control-2010-10-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cannon-control-2010-10-14"
 ---

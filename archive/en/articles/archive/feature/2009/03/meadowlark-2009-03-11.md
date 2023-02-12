@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Ken Yukuhiro's Mistmeadow Witch/Reveillark Format: Pro Tour-Kyoto 2 Adarkar Wastes 1 Brushland 2 Flooded Grove 1 Forest 3 Island 3 Mystic Gate 4 Reflecting Pool 4 Seaside Citadel 2 Vivid Creek 1 Wooded Bastion 1 Yavimaya Coast 4 Bloom Tender 3 Glen Elendra Archmage 4 Mistmeadow Witch 4 Mulldrifter 4 Reveillark 2 Seedborn Muse 2 Sower of Temptation 3 Condemn 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667596"
 [_metadata_:publish_date]:- "2009-03-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "MeadowLark"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 19:41:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 19:41:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819194115id_/https://magic.wizards.com/en/articles/archive/feature/meadowlark-2009-03-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/meadowlark-2009-03-11"
 ---

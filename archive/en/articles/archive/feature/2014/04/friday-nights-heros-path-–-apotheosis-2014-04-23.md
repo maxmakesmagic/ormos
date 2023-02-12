@@ -5,9 +5,11 @@
 [_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "Kathleen and Cam mope while Alex and Graham talk about the new cards from Journey into Nyx. The Oracle of Theros talks to Kathleen. And then it's time for the Prerelease, where nobody plays their usual colors. Talk about this series on Twitter with the #FridayNightsMTG hashtag and be sure to follow @loadingreadyrun! Watch all the previous episodes on our Friday Nights YouTube"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "163086"
 [_metadata_:publish_date]:- "2014-04-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Friday Nights: Hero's Path – `The Apotheosis`"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 22:35:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 22:35:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701223522id_/https://magic.wizards.com/en/articles/archive/feature/friday-nights-heros-path-%E2%80%93-apotheosis-2014-04-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/friday-nights-heros-path-%E2%80%93-apotheosis-2014-04-23"
 ---

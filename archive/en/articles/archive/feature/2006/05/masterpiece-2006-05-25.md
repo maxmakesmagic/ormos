@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "I know that many of you are looking for our annual Regional Championships breakdown, but we here at magicthegathering.com are still waiting to hear from a Tournament Organizer or two (or ten...). Rather than cram this week, I decided to wait a bit and get the broadest look at the qualifying decks that we are reasonably able to get. Look for the breakdown of all (or at least"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628456"
 [_metadata_:publish_date]:- "2006-05-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Masterpiece"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 08:59:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 08:59:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205085907id_/https://magic.wizards.com/en/articles/archive/feature/masterpiece-2006-05-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masterpiece-2006-05-25"
 ---

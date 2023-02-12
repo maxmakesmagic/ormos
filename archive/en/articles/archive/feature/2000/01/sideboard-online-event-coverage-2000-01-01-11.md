@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 1 Results - 15-17 Division Player Opponent Results Adams, Zach Freneau, Philip Lost, 1-2 Allen, Crispin Spica, Joe Lost, 0-2 Baker, Justin Del Rosario, Derek Lost, 0-2 Brubaker, Jake Slapak, Mark Lost, 0-2 Cahir, Dan Moats, Josh Won, 2-0 Carey, Joey Wachter, Toby Lost, 1-2 Carpenter, Ryan Krugler, Christian Won, 2-1 Cooper, Geddes Myers,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953391"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 20:01:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 20:01:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518200158id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-11"
 ---

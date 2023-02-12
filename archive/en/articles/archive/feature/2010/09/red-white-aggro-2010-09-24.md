@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Asmodeius's Red-White Aggro Format: Standard 4 Arid Mesa 4 Marsh Flats 5 Mountain 6 Plains 4 Scalding Tarn 1 Terramorphic Expanse 1 Goblin Bushwhacker 4 Goblin Guide 2 Kor Skyfisher 4 Plated Geopede 2 Ranger of Eos 4 Steppe Lynx 3 Stoneforge Mystic 1 Adventuring Gear 2 Ajani Vengeant 1 Basilisk Collar 2 Earthquake 2 Elspeth, Knight-Errant 3 Lightning Bolt 3 Path to Exile 1 Sigil of Distinction 1 Staggershock"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670191"
 [_metadata_:publish_date]:- "2010-09-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Red-White Aggro"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-28 23:02:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-28 23:02:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170328230220id_/http://magic.wizards.com/en/articles/archive/feature/red-white-aggro-2010-09-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/red-white-aggro-2010-09-24"
 ---

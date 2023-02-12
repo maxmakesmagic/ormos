@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "2005 Scottish National Qualifiers2005 Scottish Nationals Invite ListTournament Date The 2005 Scottish National Championship will be held on Saturday 27th & Sunday 28th August 2005, with additional ancillary events, including Last Chance Qualifier on Friday 26th August 2005. Tournament Location The 2005 Scottish National Championship venue is: Queens Hotel, Leonard Street,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733341"
 [_metadata_:publish_date]:- "2004-03-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2005 Scottish Nationals Fact Sheet"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 08:26:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 08:26:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019082634id_/https://magic.wizards.com/en/articles/archive/feature/2005-scottish-nationals-fact-sheet-2004-03-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2005-scottish-nationals-fact-sheet-2004-03-31"
 ---

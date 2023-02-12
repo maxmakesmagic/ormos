@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: October 10-11, 2009 Format: Sealed Deck / Booster Draft Day 2 Tournament Location Melbourne Park Function Centre Park and Skyline Rooms, Rod Laver Arena cnr Batman Avenue and Olympic Blvd Melbourne AustraliaLocation Map Registration: AUD $45 (AUD $40 Early-bird"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635491"
 [_metadata_:publish_date]:- "2009-07-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Melbourne Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 17:40:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 17:40:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018174000id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93melbourne-event-information-2009-07-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93melbourne-event-information-2009-07-24"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Yesterday, we looked at a decklist that that featured poison as its kill mechanism, but that is not the only way to approach infect these days. We noted that maybe the Wild Defiance list needed a little work around the edges to truly be a threat to win tournaments, but sometimes, it is a small twist on a popular archetype that grabs people's attention. For months, Delver of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665271"
 [_metadata_:publish_date]:- "2012-07-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Double Trouble"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 13:53:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 13:53:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706135333id_/https://magic.wizards.com/en/articles/archive/feature/double-trouble-2012-07-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/double-trouble-2012-07-10"
 ---

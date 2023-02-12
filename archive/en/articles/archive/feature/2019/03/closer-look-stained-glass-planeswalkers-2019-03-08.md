@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112024532/https://magic.wizards.com/en/articles/archive/feature/closer-look-stained-glass-planeswalkers-2019-03-08?fbclid=IwAR0ME19bh5C0By1hOJ-8UXC7nbQVQQFSbjYe5zH0LFKhEGXK7Rccpfs7Vhw)
+[Link to Wayback Machine](https://web.archive.org/web/20201107230131/https://magic.wizards.com/en/articles/archive/feature/closer-look-stained-glass-planeswalkers-2019-03-08?fbclid=IwAR2MbYsO5guS3MDZJIoo8gziW5DXPeUj8tVtXOnojKW018sSZ8cQS0BMQjU)
 
 [_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "You may have seen these beautiful stained-glass Planeswalkers in the WAR teaser, but you may not have guessed all 36 characters would be in the set!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1397446"
 [_metadata_:publish_date]:- "2019-03-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Closer Look at the Stained-Glass Planeswalkers"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:45:32+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112024532id_/https://magic.wizards.com/en/articles/archive/feature/closer-look-stained-glass-planeswalkers-2019-03-08?fbclid=IwAR0ME19bh5C0By1hOJ-8UXC7nbQVQQFSbjYe5zH0LFKhEGXK7Rccpfs7Vhw"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/closer-look-stained-glass-planeswalkers-2019-03-08?fbclid=IwAR0ME19bh5C0By1hOJ-8UXC7nbQVQQFSbjYe5zH0LFKhEGXK7Rccpfs7Vhw"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-07 23:01:31"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201107230131id_/https://magic.wizards.com/en/articles/archive/feature/closer-look-stained-glass-planeswalkers-2019-03-08?fbclid=IwAR2MbYsO5guS3MDZJIoo8gziW5DXPeUj8tVtXOnojKW018sSZ8cQS0BMQjU"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/closer-look-stained-glass-planeswalkers-2019-03-08?fbclid=IwAR2MbYsO5guS3MDZJIoo8gziW5DXPeUj8tVtXOnojKW018sSZ8cQS0BMQjU"
 ---
 
 

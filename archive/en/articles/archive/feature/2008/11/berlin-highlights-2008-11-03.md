@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pro Tour–Berlin has been won by Luis Scott-Vargas, one of three Americans to win a Pro Tour this season, and player of one of six Elves! Decks in the Top 8. If you missed the action, here's your chance to catch up! Crack reporters Brian David-Marshall and Randy Buehler were on the scene all weekend long, and their video coverage is just the thing. Tournament Center Video"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653346"
 [_metadata_:publish_date]:- "2008-11-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Berlin Highlights"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 12:09:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 12:09:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129120951id_/https://magic.wizards.com/en/articles/archive/feature/berlin-highlights-2008-11-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/berlin-highlights-2008-11-03"
 ---

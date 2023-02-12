@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Owen Turtenwald Format: 1 Tolarian Academy 1 Flooded Strand 4 Misty Rainforest 1 Polluted Delta 1 Scalding Tarn 1 Forest 1 Island 2 Tropical Island 3 Underground Sea 1 Volcanic Island 4 Dark Confidant 3 Trygon Predator 1 Inkwell Leviathan 3 Jace, the Mind Sculptor 4 Force of Will 4 Spell Pierce 3 Thoughtseize 2 Mana Drain 1 Demonic Tutor 1 Merchant Scroll 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604266"
 [_metadata_:publish_date]:- "2010-08-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Vintage Championships Lists"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 00:08:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 00:08:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701000803id_/https://magic.wizards.com/en/articles/archive/feature/vintage-championships-lists-2010-08-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vintage-championships-lists-2010-08-16"
 ---

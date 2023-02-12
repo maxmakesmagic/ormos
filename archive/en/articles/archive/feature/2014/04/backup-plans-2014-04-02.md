@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "I don't think it's unfair to say that Patrick Dickmann's `Tempo Splinter Twin` resembles Shouta Yasooka's Eternal Command, just with the Splinter Twin combo spliced in. Following Pro Tour Born of the Gods and Grand Prix Richmond, Dickmann's deck was widely considered one of the best decks in the format, if not the best. The running joke was that Dickmann's deck rarely comboed,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667781"
 [_metadata_:publish_date]:- "2014-04-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Backup Plans"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 08:15:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 08:15:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028081538id_/https://magic.wizards.com/en/articles/archive/feature/backup-plans-2014-04-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/backup-plans-2014-04-02"
 ---

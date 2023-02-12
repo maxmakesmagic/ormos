@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Points Team Points Team 17 Antarctica 16 Cacti 16 Cacti 17 Antarctica 19 Coolers 19 Pudge 17 Dogma 18 Team Sourgirl 15 Fungusaur 13"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952076"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Round 8 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:39:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:39:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124033951id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-8-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-8-pairings-2000-01-01"
 ---

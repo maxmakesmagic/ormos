@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Here's a secret: I hated the Urza sets while they were legal in Standard. In fact, I can barely stand them now. Oh sure, Urza's Saga, Urza's Legacy, and Urza's Destiny introduced cards I use often, such as Exploration, Iron Maiden, Smokestack, Mother of Runes, the `Ghitu Encampment,` Argothian Enchantress, Plow Under, Chimeric Staff, and even Imaginary Pet. The list is quite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625936"
 [_metadata_:publish_date]:- "2002-08-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Extending Urza"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 06:33:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 06:33:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206063332id_/https://magic.wizards.com/en/articles/archive/feature/extending-urza-2002-08-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extending-urza-2002-08-01"
 ---

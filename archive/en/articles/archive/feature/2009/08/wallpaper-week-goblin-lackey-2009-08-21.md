@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; In honor of Exiled Week, this week's desktop wallpaper features Christopher Moeller's Goblin Lackey art from From the Vault: Exiled. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654166"
 [_metadata_:publish_date]:- "2009-08-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Goblin Lackey"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-01 08:21:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-01 08:21:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160801082131id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-goblin-lackey-2009-08-21"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-goblin-lackey-2009-08-21"
 ---

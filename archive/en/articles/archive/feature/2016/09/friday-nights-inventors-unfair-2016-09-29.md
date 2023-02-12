@@ -5,9 +5,11 @@
 [_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "Kathleen subscribes Cameron to Servo Facts while Graham tries to put on an Inventors' Fair."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1080706"
 [_metadata_:publish_date]:- "2016-09-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Friday Nights: `Inventors' Unfair`"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-02 18:35:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-02 18:35:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161002183528id_/http://magic.wizards.com/en/articles/archive/feature/friday-nights-inventors-unfair-2016-09-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-nights-inventors-unfair-2016-09-29"
 ---

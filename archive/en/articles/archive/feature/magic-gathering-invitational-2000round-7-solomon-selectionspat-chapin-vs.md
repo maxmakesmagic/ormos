@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Pat Chapin Divides      Pat Chapin Brian Hacker Coastal Piracy Forbid Ivory Mask Maggot Therapy Time Elemental Deranged Hermit Red Elemental Blast Bull Hippo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949866"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 7 Solomon SelectionsPat Chapin vs. Brian Hacker"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 19:35:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 19:35:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123193519id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionspat-chapin-vs"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionspat-chapin-vs"
 ---

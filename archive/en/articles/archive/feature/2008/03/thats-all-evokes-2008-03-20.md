@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Howdy, all. Welcome to the Penultimate Pre-Preview Week Week! It promises to be a great time for those who prefer their preview cards to be a fortnight away, as well as for those who like the word `penultimate.` There's something for everybody. It also happens to be the last non-theme week before Shadowmoor officially hits the columnsphere, so in order to keep things focused I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620691"
 [_metadata_:publish_date]:- "2008-03-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "That's All, Evokes!"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 12:57:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 12:57:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123125716id_/https://magic.wizards.com/en/articles/archive/feature/thats-all-evokes-2008-03-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/thats-all-evokes-2008-03-20"
 ---

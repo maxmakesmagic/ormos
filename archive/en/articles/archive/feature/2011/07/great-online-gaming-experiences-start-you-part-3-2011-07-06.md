@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Last week, we focused on scams and ways to avoid becoming a victim (see Part 2 of this series). This week, we’re presenting tips on making sure you’re well-informed about trading. Anything Done Outside the Game Is Unenforceable Only purchases made from the Magic Online store are supported by Wizards of the Coast. Any other agreements you make with players outside of the Magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687806"
 [_metadata_:publish_date]:- "2011-07-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Great Online Gaming Experiences Start With You! (Part 3)"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 22:22:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 22:22:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528222251id_/https://magic.wizards.com/en/articles/archive/feature/great-online-gaming-experiences-start-you-part-3-2011-07-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-online-gaming-experiences-start-you-part-3-2011-07-06"
 ---

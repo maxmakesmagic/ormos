@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20191113074643/https://magic.wizards.com/en/articles/archive/feature/planeswalker-tournament-2019-04-10?utm_source=share&utm_medium=ios_app)
+[Link to Wayback Machine](https://web.archive.org/web/20190410155645/https://magic.wizards.com/en/articles/archive/feature/planeswalker-tournament-2019-04-10)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Think you know how the Planeswalkers in War of the Spark will shake out in bracketed competition? Prove it, and take them all home in foil!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1399616"
 [_metadata_:publish_date]:- "2019-04-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Planeswalker Tournament"
-[_metadata_:wayback_capture_timestamp]:- "2019-11-13 07:46:43+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191113074643id_/https://magic.wizards.com/en/articles/archive/feature/planeswalker-tournament-2019-04-10?utm_source=share&utm_medium=ios_app"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalker-tournament-2019-04-10?utm_source=share&utm_medium=ios_app"
+[_metadata_:wayback_capture_timestamp]:- "2019-04-10 15:56:45"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190410155645id_/https://magic.wizards.com/en/articles/archive/feature/planeswalker-tournament-2019-04-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalker-tournament-2019-04-10"
 ---
 
 
@@ -46,9 +48,9 @@ Do you like walking the Planes? Do you consider yourself a Planes . . . walker? 
 
 
 
-[![](https://media.magic.wizards.com/MTGA_BannerAd_PlayNow-850x90.jpg)![](https://media.magic.wizards.com/MTGA_BannerAd_PlayNow-300x90.jpg)![](https://media.magic.wizards.com/MTGA_BannerAd_PlayNow-748x90.jpg)](https://magic.wizards.com/en/mtgarena?inline)
+[![](https://web.archive.org/web/20190409193140im_/https://edit.magic.wizards.com/sites/mtg/files/50For50_WAR_Arena_850x90_3.jpg)![](https://web.archive.org/web/20190409193140im_/https://edit.magic.wizards.com/sites/mtg/files/50For50_WAR_Arena_300x90_3.jpg)![](https://web.archive.org/web/20190409193140im_/https://edit.magic.wizards.com/sites/mtg/files/50For50_WAR_Arena_748x90_3.jpg)](https://magic.wizards.com/en/content/war-spark-preorder?inline)
 
-We are proud to announce the Planeswalker Tournament! We have seeded these 36 Planeswalkers into a bracket using the most advanced algorithm in the Multiverse, and we want you to vote on them! But before you vote, be sure to download the bracket (available in [.pdf](http://media.wizards.com/2019/downloads/WAR_PW-Bracket/WAR_PW-Bracket_DL.pdf) and [.png](http://media.wizards.com/2019/downloads/WAR_PW-Bracket/WAR_PW-Bracket-PNG.png) formats) and fill it out. Because those who (somehow) get a perfect bracket will receive a **foil set of all 36 planeswalkers in *War of the Spark*!** Win, and you'll slide into your next Friday Night *Magic* as the coolest person there, sunglasses indoors and all.
+We are proud to announce the Planeswalker Tournament! We have seeded these 36 Planeswalkers into a bracket using the most advanced algorithm in the Multiverse, and we want you to vote on them! But before you vote, be sure to download the bracket (available in [.pdf](http://media.wizards.com/2019/downloads/WAR_PW-Bracket/WAR_PW-Bracket_DL_v2.pdf) and [.png](http://media.wizards.com/2019/downloads/WAR_PW-Bracket/WAR_PW-Bracket-PNG.png) formats) and fill it out. Because those who (somehow) get a perfect bracket will receive a **foil set of all 36 planeswalkers in *War of the Spark*!** Win, and you'll slide into your next Friday Night *Magic* as the coolest person there, sunglasses indoors and all.
 
 
 You have until Friday, April 12, to fill out your bracket and submit it to [**MagicCommunityTeam@Wizards.com**](mailto:MagicCommunityTeam@Wizards.com). But be sure to have both a Wizards Account in good standing as well as an Organized Play Account. One bracket per person, naturally. Also, read all the [legal stuff](https://forums.mtgarena.com/forums/threads/54548) before entering so there are no surprises.

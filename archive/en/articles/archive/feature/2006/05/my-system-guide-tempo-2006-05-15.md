@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Scott Johns"
 [_metadata_:description]:- "Between playing this game since the days of Arabian Nights and Antiquities, competing with the world's best for many years on the Pro Tour, and also being the editor or producer for a Magic website for something like seven years now between Mindripper, Brainburst, and magicthegathering.com, I think it's safe to say I've read a lot of strategy articles on Magic. The best have"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "292441"
 [_metadata_:publish_date]:- "2006-05-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "My System - A Guide to Tempo"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 13:20:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 13:20:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020132051id_/https://magic.wizards.com/en/articles/archive/feature/my-system-guide-tempo-2006-05-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-system-guide-tempo-2006-05-15"
 ---

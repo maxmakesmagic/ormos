@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220128102231/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-product-overview-2022-01-27?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20220127180601/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-product-overview-2022-01-27)
 
 [_metadata_:author]:- "Harless Snyder"
 [_metadata_:description]:- "All the ways you can open the latest Magic cards and more in Kamigawa: Neon Dynasty!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1570755"
 [_metadata_:publish_date]:- "2022-01-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Kamigawa: Neon Dynasty Product Overview"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 10:22:31+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128102231id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-product-overview-2022-01-27?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-product-overview-2022-01-27?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 18:06:01"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127180601id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-product-overview-2022-01-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-product-overview-2022-01-27"
 ---
 
 

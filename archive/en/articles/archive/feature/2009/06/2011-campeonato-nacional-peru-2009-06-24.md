@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fecha: 28 de agosto de 2011Ubicación:Game Zone, La Alameda Hacienda Club, Av. Jose Pardo 399 MirafloresCiudad: LimaPaís: Peru El Campeonato Nacional de Peru de Magic: The Gathering está abierto a todos los ciudadanos y residentes permanentes del Peru.Información de Contacto Email: caenrato@gmail.comTelefono: 511 2554585Website: www.gamezone.com.pe FormatoEstándar y Booster"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730306"
 [_metadata_:publish_date]:- "2009-06-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Campeonato Nacional Peru"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 16:25:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 16:25:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525162534id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-peru-2009-06-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-peru-2009-06-24"
 ---

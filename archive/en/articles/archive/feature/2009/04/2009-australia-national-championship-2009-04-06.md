@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: July 18 - 19Event Location: Rydges LakesideAddress: London Circuit Canberra City ACT 2600 The Magic: The Gathering Australia National Championship is an invitation-only event, open to citizens or foreign players resident in Australia from Jan 1st 2009 who have won an invitation to Nationals through DCI Ratings or from qualifying events such as Regional or City"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729956"
 [_metadata_:publish_date]:- "2009-04-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2009 Australia National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:24:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:24:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525102428id_/https://magic.wizards.com/en/articles/archive/feature/2009-australia-national-championship-2009-04-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-australia-national-championship-2009-04-06"
 ---

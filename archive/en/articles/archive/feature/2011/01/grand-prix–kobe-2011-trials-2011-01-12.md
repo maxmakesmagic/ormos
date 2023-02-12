@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix—Kobe Trials will be run throughout Japan in the weeks leading up to the Grand Prix. Each offers at least 1 Third-Round bye to Grand Prix—Kobe.Entry FeeEntry fee varies from location to location. Check with the local organizer for specific information.FormatThe format for all Grand Prix—Kobe 2010 Trial tournaments is Extended Constructed. Deck lists are required."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728676"
 [_metadata_:publish_date]:- "2011-01-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Kobe 2011 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 10:18:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 10:18:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022101802id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kobe-2011-trials-2011-01-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kobe-2011-trials-2011-01-12"
 ---

@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112030707/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02)
+[Link to Wayback Machine](https://web.archive.org/web/20190731002658/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Matt explains the new and returning mechanics distinct to Aether Revolt."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1107941"
 [_metadata_:publish_date]:- "2017-01-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aether Revolt Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:07:07+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030707id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02"
+[_metadata_:wayback_capture_timestamp]:- "2019-07-31 00:26:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190731002658id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02"
 ---
 
@@ -120,6 +122,9 @@ The Consulate would like to gently remind you that compliance is the easiest way
 
 
 ![](https://media.wizards.com/2016/c1lRLirbrl_AER/en_zCWzKajA59.png)
+
+
+Big gulp, indeed.
 
 
 Take a Stand

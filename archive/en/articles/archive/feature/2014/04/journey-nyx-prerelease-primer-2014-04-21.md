@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike McArtor"
 [_metadata_:description]:- "Elspeth Tirel, knight errant, sun's champion, and all-around awesome Planeswalker, led the humans of Theros to a great victory over Mogis's trampling horde of minotaurs. Her reward? Banishment. Exile. But Elspeth is a hero, and a great one at that, so when the sun god Heliod called upon her, she answered... Resoundingly."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "162856"
 [_metadata_:publish_date]:- "2014-04-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Journey into Nyx Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-28 16:23:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-28 16:23:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170628162345id_/http://magic.wizards.com/en/articles/archive/feature/journey-nyx-prerelease-primer-2014-04-21"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/journey-nyx-prerelease-primer-2014-04-21"
 ---

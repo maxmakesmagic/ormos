@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Worth Wollpert"
 [_metadata_:description]:- "Hi everyone! It's been a while since I've written any kind of major update regarding MTGO, and I wanted to let you all know that there are some pretty exciting features returning to MTGO in the very near future."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681271"
 [_metadata_:publish_date]:- "2008-12-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Redemption, Replays, Free Trial Server and more!"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-13 08:31:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-13 08:31:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160113083150id_/http://magic.wizards.com/en/articles/archive/feature/redemption-replays-free-trial-server-and-more-2008-12-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/redemption-replays-free-trial-server-and-more-2008-12-15"
 ---

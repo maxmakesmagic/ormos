@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee: Varies by location. Contact organizer for detailsTournament Structure: Modified SwissTournament Format: Limited with Top 8 Rochester DraftPrizes: At least 1 third-round bye at each tournament, plus product prizes determined by organizer.State/ProvinceCityDateByesLocationAddressPhoneWebsite AlaskaAnchorage11/16/20021Bosco's Spenard2606 Spenard Rd.907-244-0853Website"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735191"
 [_metadata_:publish_date]:- "2002-09-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Los Angeles Trial Schedule"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 19:35:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 19:35:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025193551id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-trial-schedule-2002-09-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-los-angeles-trial-schedule-2002-09-19"
 ---

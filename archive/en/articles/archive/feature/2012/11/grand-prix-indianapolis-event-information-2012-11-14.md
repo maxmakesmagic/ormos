@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Indianapolis is brought to you by Pastimes.  Tournament Schedule  Tournament Byes  Side Events  Pastimes VIP Program  Artist Information  Travel Information  Contact Information  Official hashtag: #gpindy Date: December 22-23, 2012 Format: Return to Ravnica Sealed Deck and Booster Draft Tournament Location Indiana Convention Center & Lucas Oil Stadium"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728596"
 [_metadata_:publish_date]:- "2012-11-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Indianapolis Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 07:27:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 07:27:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525072713id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-indianapolis-event-information-2012-11-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-indianapolis-event-information-2012-11-14"
 ---

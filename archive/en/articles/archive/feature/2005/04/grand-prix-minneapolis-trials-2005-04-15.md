@@ -5,9 +5,11 @@
 [_metadata_:author]:- "updated 7-1-05"
 [_metadata_:description]:- "Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.Tournament StructureThe structure for Grand Prix–Minneapolis Trial tournaments will be modified Swiss-style, with the Top 8 players playing in a single-elimination for prizes and third-round byes.Tournament FormatThe format for Grand Prix–Minneapolis Trial tournaments is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735386"
 [_metadata_:publish_date]:- "2005-04-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Minneapolis Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 01:25:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 01:25:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028012544id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-trials-2005-04-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-trials-2005-04-15"
 ---

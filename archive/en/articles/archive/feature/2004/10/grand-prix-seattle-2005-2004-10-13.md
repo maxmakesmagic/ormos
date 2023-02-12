@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FOR INFORMATION ABOUT GRAND PRIX SEATTLE-TACOMA 2012, CLICK HEREThe Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Grand Prix—Seattle is presented by Cascade Games"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736021"
 [_metadata_:publish_date]:- "2004-10-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Seattle 2005"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 18:52:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 18:52:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029185238id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2005-2004-10-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2005-2004-10-13"
 ---

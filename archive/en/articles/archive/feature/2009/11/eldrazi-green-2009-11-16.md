@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kali Anderson's Eldrazi Green Format: Standard 20 Forest 4 Oran-Rief, the Vastwood 3 Ant Queen 4 Elvish Archdruid 4 Elvish Visionary 3 Great Sable Stag 4 Llanowar Elves 2 Master of the Wild Hunt 4 Nissa's Chosen 2 Noble Hierarch 3 Eldrazi Monument 3 Garruk Wildspeaker 4 Nissa Revane *1 Eldrazi Monument *3 Pithing Needle *4 Acidic Slime *1 Great Sable Stag *1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669026"
 [_metadata_:publish_date]:- "2009-11-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Eldrazi Green"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 15:13:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 15:13:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813151342id_/https://magic.wizards.com/en/articles/archive/feature/eldrazi-green-2009-11-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eldrazi-green-2009-11-16"
 ---

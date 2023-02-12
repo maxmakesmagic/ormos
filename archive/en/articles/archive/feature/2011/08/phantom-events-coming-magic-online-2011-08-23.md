@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Kiritz"
 [_metadata_:description]:- "Magic Online is constantly looking for ways to improve the game experience for players of all skill levels. While we have many offerings that appeal to more experienced players, such as the Magic Online Championship Series, classic product sealed deck events, and the 4-round Daily Events, we are still trying to find ways for newer players to learn the ins and outs of both the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687991"
 [_metadata_:publish_date]:- "2011-08-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Phantom Events Coming to Magic Online"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:08:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:08:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124110850id_/https://magic.wizards.com/en/articles/archive/feature/phantom-events-coming-magic-online-2011-08-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/phantom-events-coming-magic-online-2011-08-23"
 ---

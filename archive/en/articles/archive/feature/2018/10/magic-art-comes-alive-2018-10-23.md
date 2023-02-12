@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Corbin Hosler"
 [_metadata_:description]:- "Magic art transports us to worlds throughout the Multiverse and ignites our imaginations. It brings the game to life."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1356136"
 [_metadata_:publish_date]:- "2018-10-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Art Comes Alive"
-[_metadata_:wayback_capture_timestamp]:- "2018-10-27 10:58:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-10-27 10:58:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181027105826id_/https://magic.wizards.com/en/articles/archive/feature/magic-art-comes-alive-2018-10-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-art-comes-alive-2018-10-23"
 ---

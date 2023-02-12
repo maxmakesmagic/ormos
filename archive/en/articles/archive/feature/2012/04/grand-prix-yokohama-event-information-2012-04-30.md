@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727641"
 [_metadata_:publish_date]:- "2012-04-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Yokohama Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 13:57:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 13:57:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030135755id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-event-information-2012-04-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-event-information-2012-04-30"
 ---

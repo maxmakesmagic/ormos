@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653071"
 [_metadata_:publish_date]:- "2008-11-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Design Seminar: The 10 Mental Locks"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-30 07:55:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-30 07:55:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170730075547id_/http://magic.wizards.com/en/articles/archive/feature/design-seminar-10-mental-locks-2008-11-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/design-seminar-10-mental-locks-2008-11-10"
 ---

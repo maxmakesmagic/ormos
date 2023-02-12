@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Olivier Ruel 7 Mountain 7 Plains 4 Swamp 1 Puffer Extract 1 Ballista Squad 1 Charm Peddler 1 Devout Witness 1 Disenchant 1 Jhovall Queen 1 Revered Elder 1 Steadfast Guard 1 Thermal Glider 1 Blaster Mage 3 Kyren Sniper 1 Lightning Hounds 1 Magistrate's Veto 1 Thunderclap 1 Warmonger 2 Seal of Doom 1 Defiant Falcon 1 Voice of Truth 1 Flowstone Crusher SIDEBOARD 1 Tooth of Ramos"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950361"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Team Challenge 2000 Team Black Ops Decks"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:37:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:37:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120183731id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-team-challenge-2000-team-black-ops-decks-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-team-challenge-2000-team-black-ops-decks-2000-01-01"
 ---

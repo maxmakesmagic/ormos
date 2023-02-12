@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657116"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "An Outside View"
-[_metadata_:wayback_capture_timestamp]:- "2020-04-21 03:02:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-04-21 03:02:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200421030229id_/https://magic.wizards.com/en/articles/archive/feature/outside-view-2009-04-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/outside-view-2009-04-27"
 ---

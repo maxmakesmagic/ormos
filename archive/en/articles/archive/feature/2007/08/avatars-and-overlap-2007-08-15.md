@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "I was highly surprised by the amount of responses I got after mentioning the old Shandalar game in last week's installment. Apparently, there are still many players out there who loved that game and who started playing again last week. Despite the mediocre AI, it was so much fun to make crazy decks and to constantly scrounge for new cards. It was easy to get addicted and waste a whole week on that game."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624631"
 [_metadata_:publish_date]:- "2007-08-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Of Avatars and Overlap"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-31 11:26:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-31 11:26:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170131112640id_/http://magic.wizards.com/en/articles/archive/feature/avatars-and-overlap-2007-08-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/avatars-and-overlap-2007-08-15"
 ---

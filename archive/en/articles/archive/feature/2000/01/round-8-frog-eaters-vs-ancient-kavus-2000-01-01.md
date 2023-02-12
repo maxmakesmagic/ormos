@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "Frog Eaters vs. The Ancient KavusA little over a year ago, no one had any idea who Antoine and Olivier Ruel were. Then, as members of French national team champs `Black Ops`, then stunned the field at the very first Masters series by upsetting Antarctica and winning the event. Black Ops also won Grand Prix Cannes and each Ruel brother claimed an individual Limited Grand Prix"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805656"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 8: Frog Eaters vs. The Ancient Kavus"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 01:44:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 01:44:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625014421id_/https://magic.wizards.com/en/articles/archive/feature/round-8-frog-eaters-vs-ancient-kavus-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-frog-eaters-vs-ancient-kavus-2000-01-01"
 ---

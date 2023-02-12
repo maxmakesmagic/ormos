@@ -5,9 +5,11 @@
 [_metadata_:author]:- "David Sutcliffe"
 [_metadata_:description]:- "Pro Tour Philadelphia is upon us, and a bright new dawn awaits as the Modern format is given its first real shakedown by the best players in the world. A new format can often be confusing, especially for people who are just tuning in and haven't spent the last two weeks hothousing the best decks and strategies. We'll start you off with a primer on just what Modern means, and what sort of decks and cards you can expect to be reading about over this Magic Weekend. What Is Modern, Anyway?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "315351"
 [_metadata_:publish_date]:- "2011-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: A Modern Primer"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-04 17:56:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-04 17:56:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151004175653id_/http://magic.wizards.com/en/articles/archive/feature/feature-modern-primer-2011-09-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-modern-primer-2011-09-02"
 ---

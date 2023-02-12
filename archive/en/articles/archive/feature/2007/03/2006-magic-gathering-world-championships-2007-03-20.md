@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Complete Coverage of the 2006 Magic World ChampionshipsThe City of Lights, Paris truly is one of the world's greatest cities and will serve as the host for the 2006 World Championships. Art, architecture, culture, and cuisine all stimulate the senses as visitors discover the essence of France."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732311"
 [_metadata_:publish_date]:- "2007-03-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2006 Magic: The Gathering World Championships"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 23:32:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 23:32:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805233222id_/https://magic.wizards.com/en/articles/archive/feature/2006-magic-gathering-world-championships-2007-03-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-magic-gathering-world-championships-2007-03-20"
 ---

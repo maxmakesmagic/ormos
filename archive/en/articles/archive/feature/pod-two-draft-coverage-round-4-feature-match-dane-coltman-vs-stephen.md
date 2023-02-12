@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Liam Coltman & Luke Hancock Dane Coltman (better known as Buffsta) is a returning National Team member and placed 22nd at last years World Championships while Stephen Campbell was the first person to qualify through this year's meatgrinders. They were seated next to each other at seats 1 and 8 at the top table during Pod 2. Other 'name' players on the table included Jonathan Chan, Lenny Collins and Justin Muir."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948711"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pod Two Draft Coverage & Round 4 Feature Match - Dane Coltman vs. Stephen Campbell"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:49:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:49:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030074928id_/https://magic.wizards.com/en/articles/archive/feature/pod-two-draft-coverage-round-4-feature-match-dane-coltman-vs-stephen"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pod-two-draft-coverage-round-4-feature-match-dane-coltman-vs-stephen"
 ---

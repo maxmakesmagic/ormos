@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 www.alphabetaunlimited.com 24 73.61% 2 Potato Peach 21 71.00% 3 Susiyan 21 62.82% 4 Scrambled Steak 21 62.50% 5 Loafing Giants 21 62.42% 6 Absolute 21 58.12% 7 Dekiru-Kana?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806836"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 8 Standings (by Score)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 07:42:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 07:42:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629074226id_/https://magic.wizards.com/en/articles/archive/feature/round-8-standings-score-2000-01-01-1"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-standings-score-2000-01-01-1"
 ---

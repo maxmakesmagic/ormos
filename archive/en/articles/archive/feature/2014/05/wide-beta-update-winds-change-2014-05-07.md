@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Greetings Magic Online players. With several major projects scheduled for delivery in 2014, including the Magic Online Wide Beta rollout and Leagues, as well as Vintage Masters and our normal card-set release schedule, we're excited about what the year has in store."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "163961"
 [_metadata_:publish_date]:- "2014-05-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wide Beta Update: Winds of Change"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-08 08:48:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-08 08:48:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160308084832id_/http://magic.wizards.com/en/articles/archive/feature/wide-beta-update-winds-change-2014-05-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wide-beta-update-winds-change-2014-05-07"
 ---

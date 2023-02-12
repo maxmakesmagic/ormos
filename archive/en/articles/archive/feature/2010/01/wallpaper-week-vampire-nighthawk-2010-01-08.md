@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; This week's desktop wallpaper features Jason Chan's Vampire Nighthawk art from Zendikar. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654856"
 [_metadata_:publish_date]:- "2010-01-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Vampire Nighthawk"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-27 18:49:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-27 18:49:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170327184945id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-vampire-nighthawk-2010-01-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-vampire-nighthawk-2010-01-08"
 ---

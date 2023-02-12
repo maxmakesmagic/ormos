@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Vienna is brought to you by Gordian Knot Games Ltd."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727456"
 [_metadata_:publish_date]:- "2014-02-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Vienna Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:55:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:55:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112015509id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-event-information-2014-02-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-event-information-2014-02-20"
 ---

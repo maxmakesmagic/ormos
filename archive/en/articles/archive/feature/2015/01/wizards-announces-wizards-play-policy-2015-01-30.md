@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Starting February 6, Wizards team members and family members will be able to interact more closely with the community by being eligible to participate in some Magic organized play events as well as some events on Magic Online."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "342746"
 [_metadata_:publish_date]:- "2015-01-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wizards Announces Wizards Play Policy"
-[_metadata_:wayback_capture_timestamp]:- "2015-02-02 03:17:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-02-02 03:17:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150202031749id_/http://magic.wizards.com/en/articles/archive/feature/wizards-announces-wizards-play-policy-2015-01-30"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wizards-announces-wizards-play-policy-2015-01-30"
 ---

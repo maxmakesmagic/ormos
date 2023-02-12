@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome, Johnnies, to Timeshifted Week II! It’s just like the first Timeshifted Week, but with a bigger budget, no plot, and the questionable use of anatomically correct costumes. The last time we explored this theme, I took the opportunity to build a whole bunch of decks around Tim, everyone’s favourite sorcerer prodigy. Since I’m such a fountain of ideas, a veritable geyser,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "621391"
 [_metadata_:publish_date]:- "2007-01-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Chaos on a Plane"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 07:15:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 07:15:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118071545id_/https://magic.wizards.com/en/articles/archive/feature/chaos-plane-2007-01-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/chaos-plane-2007-01-31"
 ---

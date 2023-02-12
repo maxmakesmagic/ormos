@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Markshall Rosewater"
 [_metadata_:description]:- "What is a `Nuts and Bolts Spike`? What's the best exploit target? Markshall answers these and other questions!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "372281"
 [_metadata_:publish_date]:- "2015-04-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Rose-Colored Glasses, Part 1 of 4"
-[_metadata_:wayback_capture_timestamp]:- "2015-04-05 02:16:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-04-05 02:16:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150405021646id_/http://magic.wizards.com/en/articles/archive/feature/rose-colored-glasses-part-1-4-2015-04-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rose-colored-glasses-part-1-4-2015-04-01"
 ---

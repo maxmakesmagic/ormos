@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Bachmann, David (229) 25 41 Long, Mike (307) 25 Benefel, Chris (163) 26 21 Selden, Brian (268) 25 Benefield, Kevin (234) 16 34 Konstanczer, Andre (304) 16 Bernabeu, Jesus (143) 19 2 Komanicky, Vladimir (238) 19 Blackwell, Trevor (298) 28 46 Burgner, Kurt (173) 28 Boeken, Noah (129) 21 18 Labarre, Nicolas (19) 21 Bulthaud, Sean (314) 21 32"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950581"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 12 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 16:16:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 16:16:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201161634id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-12-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-12-pairings-2000-01-01"
 ---

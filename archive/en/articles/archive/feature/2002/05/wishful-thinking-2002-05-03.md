@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Paul Barclay"
 [_metadata_:description]:- "The five Judgment Wishes are some of the most exciting cards to come out in a long time, but they also look to be among the most confusing. Most of confusion stems from the fact that Wishes work in a slightly different way depending on whether you're playing in a DCI-sanctioned tournament or not."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633821"
 [_metadata_:publish_date]:- "2002-05-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wishful Thinking"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 13:31:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 13:31:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923133153id_/https://magic.wizards.com/en/articles/archive/feature/wishful-thinking-2002-05-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wishful-thinking-2002-05-03"
 ---

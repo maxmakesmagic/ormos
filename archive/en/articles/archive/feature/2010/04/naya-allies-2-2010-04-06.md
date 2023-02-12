@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Toolundertow's Naya Allies Format: Standard 4 Ancient Ziggurat 4 Arid Mesa 2 Forest 4 Jungle Shrine 3 Mountain 4 Plains 3 Sunpetal Grove 4 Akoum Battlesinger 4 Bloodbraid Elf 1 Goblin Bushwhacker 4 Hada Freeblade 4 Kabira Evangel 4 Kazandu Blademaster 2 Ondu Cleric 4 Oran-Rief Survivalist 2 Ranger of Eos 3 Talus Paladin 4 Violent Outburst *4 Dauntless Escort"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669531"
 [_metadata_:publish_date]:- "2010-04-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Naya Allies 2"
-[_metadata_:wayback_capture_timestamp]:- "2021-08-16 11:19:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-08-16 11:19:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210816111915id_/https://magic.wizards.com/en/articles/archive/feature/naya-allies-2-2010-04-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/naya-allies-2-2010-04-06"
 ---

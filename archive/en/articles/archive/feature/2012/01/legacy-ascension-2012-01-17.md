@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fun-loving deck builder Adam Prosak is at it again! At the StarCityGames.com Open Series in Atlanta two weekends ago, Adam brought a Pyromancer Ascension deck to the Legacy tables. Once Pyromancer's Ascension has two counters, a Manamorphose and two Regrowths means you can draw any number of cards. Even if you don't draw the cards needed for the Regrowth plan, the package of Lightning Bolt and Fire // Ice can burn out your oppoents quickly once Ascension is active."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671946"
 [_metadata_:publish_date]:- "2012-01-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Legacy Ascension"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-17 11:11:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-17 11:11:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170717111129id_/http://magic.wizards.com/en/articles/archive/feature/legacy-ascension-2012-01-17"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/legacy-ascension-2012-01-17"
 ---

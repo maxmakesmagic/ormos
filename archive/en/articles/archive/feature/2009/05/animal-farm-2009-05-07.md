@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170717111528/http://magic.wizards.com/en/articles/archive/feature/animal-farm-2009-05-07)
+[Link to Wayback Machine](https://web.archive.org/web/20170816163509/http://magic.wizards.com/en/articles/archive/feature/animal-farm-2009-05-07)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Darwin Kastle's Animal Farm Format: U.S. Nationals 2001 6 Forest 4 Rishadan Port 4 Shivan Oasis 4 Sulfurous Springs 4 Karplusan Forest 2 Brushland 4 Birds of Paradise 4 Utopia Tree 4 Thornscape Familiar 4 Thornscape Battlemage 4 Thunderscape Battlemage 4 Flametongue Kavu 4 Blastoderm 4 Kavu Titan 4 Shivan Wurm *3 Duress *4 Urza's Rage *4 Chimeric Idol *4 Yavimaya Barbarian [/decklist]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668266"
 [_metadata_:publish_date]:- "2009-05-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Animal Farm"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-17 11:15:28+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170717111528id_/http://magic.wizards.com/en/articles/archive/feature/animal-farm-2009-05-07"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-16 16:35:09"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816163509id_/http://magic.wizards.com/en/articles/archive/feature/animal-farm-2009-05-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/animal-farm-2009-05-07"
 ---
 

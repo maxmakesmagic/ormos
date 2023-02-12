@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPointsOpponentPointsA.S.K.6vsStay Cool6AAA9vsST9ABCC7vsNanten-Babaten7Absolute9vsAsian Papillon9Aibon9vsWizard's Brain9Ain't afraid to die6vsDuel Machine6Air Orange6vsSouls of Rugerna6Akebono Oyakatanhoiza3vsMMR alpha3Akko ni Omakase7vsRikarin7All time 6000yen6vsMKG6Ancestral Memories6vsReckless Triskelion6Apocalypse3vsPonkotsu Hiyori3Army of Serra4vsGunjack4Ascalon"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806941"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 5 Pairings (by Player)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:41:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:41:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702094107id_/https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-player-2000-01-01"
 ---

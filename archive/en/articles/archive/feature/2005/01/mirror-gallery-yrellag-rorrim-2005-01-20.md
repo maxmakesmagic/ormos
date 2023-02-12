@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "In preparation for my Betrayers of Kamigawa preview card, I'd like to take a trip over a year backwards in time. Mirrodin was the fresh-faced new set and Randy Buehler was still writing the Latest Developments column now helmed by Aaron Forsythe. Randy took the opportunity to share the story of how hard it was to find a good wording for Krark's Thumb."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613076"
 [_metadata_:publish_date]:- "2005-01-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mirror Gallery yrellaG rorriM"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 21:20:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 21:20:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025212056id_/https://magic.wizards.com/en/articles/archive/feature/mirror-gallery-yrellag-rorrim-2005-01-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirror-gallery-yrellag-rorrim-2005-01-20"
 ---

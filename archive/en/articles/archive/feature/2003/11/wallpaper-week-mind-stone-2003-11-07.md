@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Adam Rex's amazing Mind Stone from Weatherlight. Enjoy. 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "606131"
 [_metadata_:publish_date]:- "2003-11-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Mind Stone"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 20:48:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 20:48:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706204850id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mind-stone-2003-11-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mind-stone-2003-11-07"
 ---

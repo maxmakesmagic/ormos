@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210519004340/https://magic.wizards.com/en/articles/archive/feature/where-find-modern-horizons-2-previews-2021-05-18)
+[Link to Wayback Machine](https://web.archive.org/web/20210519094109/https://magic.wizards.com/en/articles/archive/feature/where-find-modern-horizons-2-previews-2021-05-18?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Modern Horizons 2, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1541976"
 [_metadata_:publish_date]:- "2021-05-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Modern Horizons 2 Previews"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-19 00:43:40+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210519004340id_/https://magic.wizards.com/en/articles/archive/feature/where-find-modern-horizons-2-previews-2021-05-18"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-modern-horizons-2-previews-2021-05-18"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-19 09:41:09"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210519094109id_/https://magic.wizards.com/en/articles/archive/feature/where-find-modern-horizons-2-previews-2021-05-18?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-modern-horizons-2-previews-2021-05-18?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 
@@ -162,7 +164,7 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 * [Migucheras](https://twitter.com/migucheras)
 * [MTG Español YouTube](https://www.youtube.com/channel/UC5sGCIdBQcSelD7wpM-0-2g)
 * [Nopi](https://www.twitch.tv/nopi__)
-* [PixieKittie](https://www.twitch.tv/pixiekittie)
+* [Pixie Kitten](https://twitter.com/PKP_Magic)
 * [Pleasant Kenobi](https://twitter.com/PleasantKenobi)
 * [Scryfall](https://scryfall.com/)
 * [Shintaro Ishimura](https://twitter.com/si1114?lang=en)

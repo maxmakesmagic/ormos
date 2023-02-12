@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "Download Magic Online   It's less than a month until Magic Online"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687046"
 [_metadata_:publish_date]:- "2014-03-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "MOCS 2013 Championship to Feature Cube Draft; Magic Online Cube begins March 19"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-20 19:34:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-20 19:34:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161220193442id_/http://magic.wizards.com/en/articles/archive/feature/mocs-2013-championship-feature-cube-draft-magic-online-cube-begins-march-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mocs-2013-championship-feature-cube-draft-magic-online-cube-begins-march-19"
 ---

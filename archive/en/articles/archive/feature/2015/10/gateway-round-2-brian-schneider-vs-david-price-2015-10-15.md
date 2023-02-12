@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff Brian Schneider is a well liked and respected player who has been away from Magic for a while. He takes he game less seriously these days, but is still definitely a force to be reckoned with. David Price has also been having a quiet period of late, he was the winner of Pro Tour LA back in 1998."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805571"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gateway Round 2: Brian Schneider vs. David Price"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:06:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:06:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140629id_/http://magic.wizards.com/en/articles/archive/feature/gateway-round-2-brian-schneider-vs-david-price-2015-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gateway-round-2-brian-schneider-vs-david-price-2015-10-15"
 ---

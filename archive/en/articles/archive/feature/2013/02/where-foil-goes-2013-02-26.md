@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "&#13; Let's say you have a foil Gideon, Champion of Justice. It looks like this, right?&#13; &#13; &#13; &#13; &#13;  &#13; &#13; Well, no. Not really. Because the foiling process is applied differently on different parts of the card. Some parts are shiny and some parts aren't. See foiling treatment below."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648416"
 [_metadata_:publish_date]:- "2013-02-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where the Foil Goes"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-19 18:29:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-19 18:29:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161019182948id_/http://magic.wizards.com/en/articles/archive/feature/where-foil-goes-2013-02-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/where-foil-goes-2013-02-26"
 ---

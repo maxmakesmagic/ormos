@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624986"
 [_metadata_:publish_date]:- "2005-02-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Year of the Rising Sun"
-[_metadata_:wayback_capture_timestamp]:- "2019-03-27 00:35:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-03-27 00:35:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190327003531id_/https://magic.wizards.com/en/articles/archive/feature/year-rising-sun-2005-02-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/year-rising-sun-2005-02-12"
 ---

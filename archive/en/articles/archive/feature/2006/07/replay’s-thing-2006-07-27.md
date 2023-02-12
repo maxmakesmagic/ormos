@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "Something occurred to me as I was watching replays to gather information on the recent 4x Premier Events for this week's recaps—while Magic Online replays are constantly referred to by lots of Magic writers, some people may not be aware of how to utilize this incredibly useful and fun feature of Magic Online. The grizzled veterans of the game can skip down a few paragraphs to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620331"
 [_metadata_:publish_date]:- "2006-07-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Replay’s the Thing"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 15:01:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 15:01:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125150123id_/https://magic.wizards.com/en/articles/archive/feature/replay%E2%80%99s-thing-2006-07-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/replay%E2%80%99s-thing-2006-07-27"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Abueg John (331) Stowe Jason (383) Al-Doory Aziz (206) Farrell Michael (316) Allen Chris (436) Christman Jason (415) Allen Crispin (571) Pisano Robert (197) Allen Tim (442) Derosa Antonio (274) Amendolia Aaron (320) Krouner Ken (123) Anders Dorian (295) O'Mahoney-Schwartz Daniel (584) Anderson Alex (420) Meeson David (423) Anderson Dan (137) Rodriguez Dave"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952746"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 4 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 12:05:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 12:05:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529120520id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-4-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-4-pairings-2000-01-01"
 ---

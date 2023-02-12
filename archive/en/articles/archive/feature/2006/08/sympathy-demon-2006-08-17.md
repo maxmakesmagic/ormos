@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "It is Rakdos week – finally. You know, this is the sort of treatment I would have expected for the Gruul. But the Rakdos? They're so much fun—it seems like we would have put the spotlight on them a lot sooner. Oh yeah, nobody thinks they're the hoot that they really are. In fact, not only have the magicthegathering.com brass misread the Demon Cult, but the entire city of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626776"
 [_metadata_:publish_date]:- "2006-08-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sympathy for the Demon"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:15:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:15:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201528id_/https://magic.wizards.com/en/articles/archive/feature/sympathy-demon-2006-08-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sympathy-demon-2006-08-17"
 ---

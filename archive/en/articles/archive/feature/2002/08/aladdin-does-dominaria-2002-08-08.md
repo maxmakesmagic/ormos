@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Sometimes I wonder what Magic might be like if it had followed the example set by Arabian Nights. That is, what would happen if Magic didn't have its own unique world? What if, after Arabian Nights, we opened up booster packs from sets like `The Hobbit,` `Alice in Wonderland,` or the `Odyssey`? What if we were discussing the `Grimm's Fairy Tales` or `Dragonlance` blocks? After"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625941"
 [_metadata_:publish_date]:- "2002-08-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aladdin Does Dominaria"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 23:27:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 23:27:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127232713id_/https://magic.wizards.com/en/articles/archive/feature/aladdin-does-dominaria-2002-08-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aladdin-does-dominaria-2002-08-08"
 ---

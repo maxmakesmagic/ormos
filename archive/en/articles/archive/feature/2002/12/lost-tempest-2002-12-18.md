@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "Many people wrote last week correctly guessing (from my Shakespeare quote) that this would be Tempest Week here at MagicTheGathering.com. Others expressed concern about me quitting Magic. Well, I’m happy to report that it’s the former and not the latter—for now (more on this later).Ah, Tempest."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "615776"
 [_metadata_:publish_date]:- "2002-12-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Lost in the Tempest"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 15:35:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 15:35:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815153516id_/https://magic.wizards.com/en/articles/archive/feature/lost-tempest-2002-12-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lost-tempest-2002-12-18"
 ---

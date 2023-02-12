@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "To get a feel for the Masques/Nemesis/Prophecy sealed deck format, I obtained all 380 deck lists from day 1 to run a small statistical analysis. As is always the case, the data took a day to enter and just a few minutes to analyze. With luck, it will take more than ten seconds to absorb completely. So much work, so much time, all to arrive at a few easily digestible"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951961"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000 - Day 1 statistics"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 16:27:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 16:27:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528162726id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-day-1-statistics-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-day-1-statistics-2000-01-01"
 ---

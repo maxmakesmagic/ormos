@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic: The Gathering is a game of nearly infinite possibilities and card combinations. One of the most exciting parts of the game is when you discover two or more cards that interact in a way that opens up those possibilities. This page lists a few of those card combinations from the most recent sets."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "704506"
 [_metadata_:publish_date]:- "2008-08-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Combos"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-14 00:57:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-14 00:57:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414005738id_/http://magic.wizards.com/en/articles/archive/feature/magic-combos-2008-08-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-combos-2008-08-08"
 ---

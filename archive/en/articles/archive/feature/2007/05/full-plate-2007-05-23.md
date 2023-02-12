@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Welcome back to Online Tech! Today I have a lot of different topics in store for you. I will start by covering the online Tribal Wars 4x Premier Event. Then I will zoom in on Standard, show a new blue-red storm deck, and talk about the impact of Future Sight on Standard. I will also discuss my Grand Prix–Strasbourg experience shortly. And I'll finish by announcing the Future"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624426"
 [_metadata_:publish_date]:- "2007-05-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Full Plate"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 18:41:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 18:41:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816184129id_/https://magic.wizards.com/en/articles/archive/feature/full-plate-2007-05-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/full-plate-2007-05-23"
 ---

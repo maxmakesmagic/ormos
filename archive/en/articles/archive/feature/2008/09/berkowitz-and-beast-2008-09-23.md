@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jordan Berkowitz's BEASTS! Format: Pro Tour-Venice 2003, Onslaught Block Constructed 4 Contested Cliffs 6 Forest 3 Forgotten Cave 5 Mountain 4 Tranquil Thicket 4 Wooded Foothills 4 Avarax 2 Barkhide Mauler 4 Canopy Crawler 4 Krosan Tusker 4 Ravenous Baloth 4 Tephraderm 4 Thoughtbound Primoc 4 Wirewood Elf 4 Shock *4 Broodhatch Nantuko *4 Gempalm Incinerator"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668471"
 [_metadata_:publish_date]:- "2008-09-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Berkowitz and the Beast"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-17 20:21:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-17 20:21:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817202131id_/https://magic.wizards.com/en/articles/archive/feature/berkowitz-and-beast-2008-09-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/berkowitz-and-beast-2008-09-23"
 ---

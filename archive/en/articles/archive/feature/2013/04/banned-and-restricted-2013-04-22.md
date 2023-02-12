@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210225151128/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22)
+[Link to Wayback Machine](https://web.archive.org/web/20150428224107/http://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22)
 
 [_metadata_:author]:- "Erik Lauer"
-[_metadata_:description]:- "May 3, 2013, DCI Banned & Restricted List Announcement Announcement Date: April 22, 2013 Effective Date: May 3, 2013 Magic Online Effective Date: May 13, 2013 Modern Second Sunrise is banned. Vintage Regrowth is unrestricted. Standard, Extended, Legacy No changes Changes to Magic Online–only formats are now announced monthly in the Magic Online Community Group blog . For the"
+[_metadata_:description]:- "May 3, 2013, DCI Banned & Restricted List Announcement  Announcement Date: April 22, 2013Effective Date: May 3, 2013Magic Online Effective Date: May 13, 2013"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353351"
 [_metadata_:publish_date]:- "2013-04-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Banned and Restricted"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-25 15:11:28+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210225151128id_/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22"
+[_metadata_:wayback_capture_timestamp]:- "2015-04-28 22:41:07"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150428224107id_/http://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22"
 ---
 
 
@@ -38,21 +40,19 @@ Erik Lauer is a senior game designer who works on final game design and developm
 
 
 
-
 **May 3, 2013, DCI Banned & Restricted List Announcement** 
 
 
 **Announcement Date:** April 22, 2013  
-**Effective Date:** May 3, 2013  
-**Magic Online Effective Date:** May 13, 2013
+
 
 
 **Modern**   
-Second Sunrise is banned.
+
 
 
 **Vintage**   
-Regrowth is unrestricted.
+
 
 
 **Standard, Extended, Legacy**   

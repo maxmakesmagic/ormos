@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "*/ You know, here on Daily Decks, we tend to showcase a lot of the crazy and the kooky. Maybe it's just what I enjoy as a player, or maybe those decks just really are cooler, but we must remember that Magic is a game where ultimately, you can win or lose. And sometimes, oftentimes, the best way to end up with a W next to your name is to cut the frills and get down to business."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665301"
 [_metadata_:publish_date]:- "2012-07-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Now That's What I Call Grixis!"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-02 22:04:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-02 22:04:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502220436id_/http://magic.wizards.com/en/articles/archive/feature/now-thats-what-i-call-grixis-2012-07-18"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/now-thats-what-i-call-grixis-2012-07-18"
 ---

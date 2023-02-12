@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210503051509/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ikoria-2020-04-02?as)
+[Link to Wayback Machine](https://web.archive.org/web/20200520004253/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ikoria-2020-04-02)
 
 [_metadata_:author]:- "Chris Mooney"
 [_metadata_:description]:- "Take a trip with Vivien Reid through the mysterious and monstrous land of Ikoria."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1496963"
 [_metadata_:publish_date]:- "2020-04-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalker's Guide to Ikoria"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 05:15:09+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503051509id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ikoria-2020-04-02?as"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ikoria-2020-04-02?as"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-20 00:42:53"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200520004253id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ikoria-2020-04-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ikoria-2020-04-02"
 ---
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Hello and welcome back to Online Tech! Today I will cover the Time Spiral Block Constructed format. I will go over the online metagame as it has evolved since Pro Tour–Yokohama, and I will discuss my own deck choice for the Pro Tour. I played a black-based control deck, which I would consider to be a solid, fun deck choice for your Block tournaments. Just for clarification and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624376"
 [_metadata_:publish_date]:- "2007-05-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Around the Block"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 10:05:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 10:05:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815100529id_/https://magic.wizards.com/en/articles/archive/feature/around-block-2007-05-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/around-block-2007-05-02"
 ---

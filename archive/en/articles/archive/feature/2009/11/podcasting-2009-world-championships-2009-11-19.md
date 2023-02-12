@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Let Richard Hagon be your guide through the 2009 World Championships, the crowning event of the 2009 season. If you're not a regular reader of event coverage, this is a great starting place to learn the top players and storylines that have shaped this season. With exclusive player interviews, analysis of deckbuilding strategies, explanations of formats and the PT season, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688816"
 [_metadata_:publish_date]:- "2009-11-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Podcasting from the 2009 World Championships"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-29 02:50:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-29 02:50:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210929025030id_/https://magic.wizards.com/en/articles/archive/feature/podcasting-2009-world-championships-2009-11-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/podcasting-2009-world-championships-2009-11-19"
 ---

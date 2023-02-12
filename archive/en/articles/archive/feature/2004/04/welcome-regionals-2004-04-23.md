@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "There has been a lot of discussion on the various Magic websites—including magicthegathering.com—about the decks you should be playing with or preparing against for North American Regional Championships. The decks have been dissected and the format distilled down to its essential elements but little has been written about the tournaments themselves. I am sure that many of you"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638281"
 [_metadata_:publish_date]:- "2004-04-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Welcome to Regionals"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 11:55:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 11:55:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018115511id_/https://magic.wizards.com/en/articles/archive/feature/welcome-regionals-2004-04-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/welcome-regionals-2004-04-23"
 ---

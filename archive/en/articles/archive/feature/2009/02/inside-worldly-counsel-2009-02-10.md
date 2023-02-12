@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ah, new sets. A fertile ground of Arcana topics, you might think. And you'd be right, too! Since it's Domain Week, let's start with Worldly Counsel, shall we? Nice work by Matt Cavotta, right? But there's more than meets the eye. Start your journey of discovery! We're going to start with these clouds up here. Notice anything odd about them? Isolate the chunk on the left! (or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648886"
 [_metadata_:publish_date]:- "2009-02-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Inside Worldly Counsel"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:58:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 09:58:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027095843id_/https://magic.wizards.com/en/articles/archive/feature/inside-worldly-counsel-2009-02-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/inside-worldly-counsel-2009-02-10"
 ---

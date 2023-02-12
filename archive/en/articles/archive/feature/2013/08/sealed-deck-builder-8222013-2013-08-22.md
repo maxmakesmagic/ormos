@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Daily Activity  Welcome back to the Magic: The Gathering Sealed Deck Builder! This week, we feature a sealed pool with 6 Magic 2014 Core Set boosters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "597916"
 [_metadata_:publish_date]:- "2013-08-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sealed Deck Builder: 8/22/2013"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-07 01:39:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-07 01:39:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207013946id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-8222013-2013-08-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-8222013-2013-08-22"
 ---

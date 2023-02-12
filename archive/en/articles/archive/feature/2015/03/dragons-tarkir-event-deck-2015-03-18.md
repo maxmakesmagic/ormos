@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Large creatures, burn spells, powerful three-color cards, and tricks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "355611"
 [_metadata_:publish_date]:- "2015-03-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dragons of Tarkir Event Deck"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-21 00:03:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-21 00:03:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150321000334id_/http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-event-deck-2015-03-18"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-event-deck-2015-03-18"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "With Return to Ravnica putting both Rakdos and Golgari on display, it was not difficult to figure out that Zombies—Jund, BR, or BG—was going to be pretty good in the new metagame. We have taken a look at the Jund variety already and black-red has been the standard for quite awhile. But while the rumors of black-green have swirled around, we really have not had a good example"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665696"
 [_metadata_:publish_date]:- "2012-10-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Undead Grass is Always Greener"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 10:05:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 10:05:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117100537id_/https://magic.wizards.com/en/articles/archive/feature/undead-grass-always-greener-2012-10-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/undead-grass-always-greener-2012-10-26"
 ---

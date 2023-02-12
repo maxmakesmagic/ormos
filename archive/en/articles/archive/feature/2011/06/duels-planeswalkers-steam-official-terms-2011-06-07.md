@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Please click your region: US | EU The Magic: The Gathering - Duels of the Planeswalkers Campaign (`Campaign`) is a Campaign offered by Wizards of the Coast LLC. (`Wizards` or `Sponsor`). The Campaign starts on June 30, 2010 and ends December 31, 2010. Who Will We Reward? It's easy for you to receive a Gift. First, you must be eligible."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632996"
 [_metadata_:publish_date]:- "2011-06-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Duels of the Planeswalkers Steam Official Terms"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 06:15:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 06:15:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020061546id_/https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-steam-official-terms-2011-06-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-steam-official-terms-2011-06-07"
 ---

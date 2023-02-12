@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Yann Massicard's Doran Format: Grand Prix-Seattle 2 Brushland 3 Forest 4 Llanowar Wastes 4 Murmuring Bosk 1 Plains 3 Treetop Village 4 Wooded Bastion 3 Dauntless Escort 4 Doran, the Siege Tower 3 Gaddock Teeg 4 Knotvine Paladin 4 Noble Hierarch 3 Qasali Pridemage 4 Treefolk Harbinger 4 Wilt-Leaf Liege 1 Behemoth Sledge 4 Maelstrom Pulse 1 Nameless Inversion 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668391"
 [_metadata_:publish_date]:- "2009-06-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Massicard's Doran"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 07:32:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 07:32:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816073244id_/https://magic.wizards.com/en/articles/archive/feature/massicards-doran-2009-06-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/massicards-doran-2009-06-08"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Paul Jordan"
 [_metadata_:description]:- "The United States have a new champion, and one that would make Dave Price proud. While Michael Jacob grabbed the headline, there were 217 other players fighting through the 17 rounds. We'll be diving into the specifics on how each Constructed deck performed. In another week or so I hope to be able to provide some numbers from the Limited portion of the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "610756"
 [_metadata_:publish_date]:- "2008-08-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Nationals Post-Mortem"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 16:06:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 16:06:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020160622id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-post-mortem-2008-08-08-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-post-mortem-2008-08-08-0"
 ---

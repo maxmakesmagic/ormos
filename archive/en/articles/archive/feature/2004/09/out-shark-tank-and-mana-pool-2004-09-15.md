@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "There are a couple of changes this week. The first, and perhaps most obvious, is a change in format. We are breaking from the usual Swimming with Sharks to preview a card that is pretty interesting, has a lot of possibility, will generate a good deal of general interest... but will probably not see main deck play at the next PTQ. Arcbound Ravager this is not -- AND THANK GOD"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628266"
 [_metadata_:publish_date]:- "2004-09-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Out of the Shark Tank and Into the Mana Pool"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:55:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:55:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503075526id_/https://magic.wizards.com/en/articles/archive/feature/out-shark-tank-and-mana-pool-2004-09-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/out-shark-tank-and-mana-pool-2004-09-15"
 ---

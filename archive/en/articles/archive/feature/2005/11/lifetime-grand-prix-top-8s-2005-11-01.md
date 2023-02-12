@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated 6/30/2014Top 8s by event Note: For team events, a top-four place is considered making a Top 8 for the individual team members."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736206"
 [_metadata_:publish_date]:- "2005-11-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Lifetime Grand Prix Top 8s"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 16:31:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 16:31:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815163100id_/https://magic.wizards.com/en/articles/archive/feature/lifetime-grand-prix-top-8s-2005-11-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lifetime-grand-prix-top-8s-2005-11-01"
 ---

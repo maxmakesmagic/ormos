@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654521"
 [_metadata_:publish_date]:- "2012-01-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dancing in the Dark Ascension, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2019-07-06 05:28:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-07-06 05:28:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190706052819id_/https://magic.wizards.com/en/articles/archive/feature/dancing-dark-ascension-part-1-2012-01-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dancing-dark-ascension-part-1-2012-01-09"
 ---

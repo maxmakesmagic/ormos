@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "More than 700 people sent Onslaught-only decks to me for Deck Challenge 3. I'll pause a moment so that number can sink in, because it really impresses me.There is no way on this green Earth that I can properly summarize 700 deck submissions. Moreover, the sheer variety and creativity of the submissions surpassed the first two Challenges, which is saying quite a bit. Picking"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626006"
 [_metadata_:publish_date]:- "2002-10-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "An Onslaught of Decks"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 18:56:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 18:56:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201185633id_/https://magic.wizards.com/en/articles/archive/feature/onslaught-decks-2002-10-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/onslaught-decks-2002-10-17"
 ---

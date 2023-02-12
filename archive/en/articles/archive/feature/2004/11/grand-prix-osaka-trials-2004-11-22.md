@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "グランプリ大阪の案内 The following applies to trials held in Japan. The entry fee for each trial is ¥6,000 (includes sealed deck). Winners of each trial will be awarded a 2-round bye at Grand Prix—Osaka. Additional byes may be awarded based on attendance. Japanese language Champions of Kamigawa booster pack prizes will be awarded at each trial as follows: 1st place—36 packs; 2nd"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735756"
 [_metadata_:publish_date]:- "2004-11-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Osaka Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-07 21:55:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-07 21:55:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807215556id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-trials-2004-11-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-trials-2004-11-22"
 ---

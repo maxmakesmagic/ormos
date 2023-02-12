@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Caleb Durward's White-Black Format: Legacy – StarCityGames.com Open in Louisville, KY 1 Plains 2 Swamp 3 Bloodstained Mire 1 Fetid Heath 4 Marsh Flats 4 Scrubland 3 Wasteland 1 Urborg, Tomb of Yawgmoth 4 Dark Confidant 3 Gatekeeper of Malakir 2 Mirran Crusader 3 Phyrexian Obliterator 4 Stoneforge Mystic 2 Chrome Mox 1 Sensei's Divining Top 1 Sword of Fire and Ice 3 Dark Ritual 4 Swords to Plowshares 2 Umezawa's Jitte"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671101"
 [_metadata_:publish_date]:- "2011-05-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "White-Black Discard"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-21 04:41:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-21 04:41:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170621044133id_/http://magic.wizards.com/en/articles/archive/feature/white-black-discard-2011-05-31"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/white-black-discard-2011-05-31"
 ---

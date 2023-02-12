@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20221014143210/https://magic.wizards.com/en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20)
+[Link to Wayback Machine](https://web.archive.org/web/20221019055326/https://magic.wizards.com/en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20)
 
 [_metadata_:author]:- "Mike Turian and Adam Styborski"
 [_metadata_:description]:- "From Box Topper shock lands to a twist on The List and galaxy foils, a vast universe of cards awaits you in Unfinity!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1605784"
 [_metadata_:publish_date]:- "2022-09-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "(Almost) Everything to Know About Unfinity Boosters!"
-[_metadata_:wayback_capture_timestamp]:- "2022-10-14 14:32:10+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221014143210id_/https://magic.wizards.com/en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-19 05:53:26"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221019055326id_/https://magic.wizards.com/en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20"
 ---
 

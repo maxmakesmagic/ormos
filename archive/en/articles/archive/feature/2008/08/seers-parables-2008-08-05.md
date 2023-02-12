@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "SeerThe seer sat before me, Wrapped gently in smoke and satin. A small smile in purple-painted lips Peeked out from under her silk veil. Her crystal on the table before her Swam in an inner light That set my heart pattering. `What is it you want to know?` she asked. I swallowed the rock in my throat. `Tell me, O seer, how will the world end?`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "623066"
 [_metadata_:publish_date]:- "2008-08-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Seer's Parables"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-25 06:09:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-25 06:09:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160225060917id_/http://magic.wizards.com/en/articles/archive/feature/seers-parables-2008-08-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/seers-parables-2008-08-05"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Bachmann, David (229) Konstanczer, Andre (304) 2-0 Benefel, Chris (163) Pustilnik, Michael (217) 2-1 Benefield, Kevin (234) Weitz, David (223) 0-2 Bernabeu, Jesus (143) Ibamoto, Masami (241) 1-2 Blackwell, Trevor (298) McKenna, Tim (142) 2-0 Boeken, Noah (129) Tsang, Terry (182) 1-2 Bulthaud, Sean (314) Inselman, Seth (20) 2-0 Burgner, Kurt (173) Kastle,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950651"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 8 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:06:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:06:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118140615id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-results-2000-01-01"
 ---

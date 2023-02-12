@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "Equinox and eternal night cards! Werewolf creatures! Innistrad: Midnight Hunt is filled with beautiful cards to collect."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1555635"
 [_metadata_:publish_date]:- "2021-09-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Collecting Innistrad: Midnight Hunt"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 09:53:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 09:53:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122095312id_/https://magic.wizards.com/en/articles/archive/feature/collecting-innistrad-midnight-hunt-2021-09-02?fbclid=IwAR1HaebaZykfhYaLEmq_QfBsOry8B0dUjylBZKJ37K7EMKxUQ-NQGi61qfA"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-innistrad-midnight-hunt-2021-09-02?fbclid=IwAR1HaebaZykfhYaLEmq_QfBsOry8B0dUjylBZKJ37K7EMKxUQ-NQGi61qfA"
 ---

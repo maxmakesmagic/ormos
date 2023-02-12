@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Jennifer Robles"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682051"
 [_metadata_:publish_date]:- "2012-12-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The LPS and Creating Play Groups"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-23 01:19:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-23 01:19:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170523011955id_/http://magic.wizards.com/en/articles/archive/feature/lps-and-creating-play-groups-2012-12-11-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lps-and-creating-play-groups-2012-12-11-0"
 ---

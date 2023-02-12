@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Let it be known that, if you put up a successful result with a Battle of Wits list, and I manage to stumble upon it in the vast world of the Internet, chances are you will be appearing in this very column soon thereafter. I have already told my story of Battle of Wits before, but I am far from the only lover of the card. Battle of Wits seems to stir up the brewer inside of us"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665416"
 [_metadata_:publish_date]:- "2012-08-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battle Pod"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 23:37:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 23:37:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627233705id_/https://magic.wizards.com/en/articles/archive/feature/battle-pod-2012-08-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-pod-2012-08-16"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Zac Hill's Fauna Shaman Format: Standard 1 Sejiri Steppe 1 Jungle Shrine 1 Evolving Wilds 4 Arid Mesa 3 Misty Rainforest 6 Forest 2 Mountain 2 Plains 2 Stirring Wildwood 1 Raging Ravine 2 Sunpetal Grove 4 Fauna Shaman 4 Squadron Hawk 4 Noble Hierarch 1 Birds of Paradise 1 Scute Mob 1 Obstinate Baloth 1 Stoneforge Mystic 2 Lotus Cobra 1 Cunning Sparkmage 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669906"
 [_metadata_:publish_date]:- "2010-07-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fauna Shaman"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 19:02:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 19:02:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022190249id_/https://magic.wizards.com/en/articles/archive/feature/fauna-shaman-2010-07-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fauna-shaman-2010-07-13"
 ---

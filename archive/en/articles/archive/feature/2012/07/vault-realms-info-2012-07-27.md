@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "As we announced here (and reminded people at San Diego Comic-Con), From the Vault: Realms will be released on August 31, 2012 with an MSRP of $34.99. It will contain fifteen powerful lands from the history of Magic. And here's a look at the box!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646441"
 [_metadata_:publish_date]:- "2012-07-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "From the Vault: Realms Info"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-25 11:35:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-25 11:35:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125113554id_/https://magic.wizards.com/en/articles/archive/feature/vault-realms-info-2012-07-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vault-realms-info-2012-07-27"
 ---

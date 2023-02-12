@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to (16) Owen Turtenwald on winning Grand Prix Albuquerque! [decklist] Title: Owen Turtenwald Format: Grand Prix Albuquerque - Top 8 Standard 4 Mutavault 3 Temple of Deceit 19 Swamp 4 Pack Rat 4 Nightveil Specter 1 Erebos, God of the Dead 4 Desecration Demon 4 Gray Merchant of Asphodel 4 Hero's Downfall 4 Thoughtseize 2 Devour Flesh 2 Ultimate Price 1 Doom Blade"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667271"
 [_metadata_:publish_date]:- "2013-11-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Albuquerque 2013 Winning Deck"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 01:36:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 01:36:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816013659id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-albuquerque-2013-winning-deck-2013-11-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-albuquerque-2013-winning-deck-2013-11-25"
 ---

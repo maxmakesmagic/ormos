@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Bilbao Trials will be run at European WPN locations from October 27, 2012 to January 6, 2013. Each awards the winner a three-round bye to Grand Prix Bilbao.Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the individual store running the event. Possible"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728206"
 [_metadata_:publish_date]:- "2012-10-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Bilbao 2013 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 12:04:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 12:04:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516120425id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-bilbao-2013-trials-2012-10-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-bilbao-2013-trials-2012-10-02"
 ---

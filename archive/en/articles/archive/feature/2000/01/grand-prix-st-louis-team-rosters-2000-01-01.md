@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Name Byes Name Seed 3 Aces 2 Forsythe, Jared A 3 Aces 2 Manning, James B 3 Aces 2 Forsythe, Jonathan C Antarctica 2 O'Mahoney-Schwartz, Daniel A"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952181"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Team Rosters"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 22:37:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 22:37:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205223756id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-team-rosters-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-team-rosters-2000-01-01"
 ---

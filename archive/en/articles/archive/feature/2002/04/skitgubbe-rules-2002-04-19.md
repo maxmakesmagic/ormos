@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Equipment: An ordinary deck of 52 playing cards.Object: The last person to get rid of his or her cards in Phase 2 must make a goat noise. The object is to avoid being this person.Setup: Shuffle the deck and set aside a single card face down. Deal 3 cards to each player and put the rest face down in the middle. The dealer is chosen randomly for the first round; for all other rounds, the dealer is the loser of the previous round."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634696"
 [_metadata_:publish_date]:- "2002-04-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Skitgubbe Rules"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-06 15:39:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-06 15:39:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160806153910id_/http://magic.wizards.com/en/articles/archive/feature/skitgubbe-rules-2002-04-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/skitgubbe-rules-2002-04-19"
 ---

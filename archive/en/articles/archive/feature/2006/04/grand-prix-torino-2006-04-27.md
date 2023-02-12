@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Win a trip to Grand Prix Toulouse ...and many other Magic prizes! At Grand Prix Torino fill out the voucher* that you'll find at the registration desk and deposit it in the designated box"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736296"
 [_metadata_:publish_date]:- "2006-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Torino"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-10 11:12:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-10 11:12:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810111248id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-torino-2006-04-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-torino-2006-04-27"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvitation SourceRegional DateRegional CityRegional Country GiancarloArbulú2008 National Championn/an/an/a GiancarloArbulú2008 National Teamn/an/an/a CarlosHonores Wong2008 National Teamn/an/an/a AntonioVargas2008 National Teamn/an/an/a JimmySam2008 Alternaten/an/an/a GiancarloArbulúPro Club 2+n/an/an/a AntonioVargasPro Club 2+n/an/an/a FrankCaceres RoblesTop 35"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730296"
 [_metadata_:publish_date]:- "2009-06-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2009 Campeonato Nacional Peru"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:17:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:17:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024041745id_/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-peru-2009-06-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-peru-2009-06-24"
 ---

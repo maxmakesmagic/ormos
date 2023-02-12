@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160504141659/http://magic.wizards.com/en/articles/archive/feature/checking-out-nykthos-2013-09-24)
+[Link to Wayback Machine](https://web.archive.org/web/20210429062422/https://magic.wizards.com/en/articles/archive/feature/checking-out-nykthos-2013-09-24)
 
 [_metadata_:author]:- "Trick Jarrett"
-[_metadata_:description]:- "*/"
+[_metadata_:description]:- "This week's Friday Night Magic is going to be awesome. Theros hits the shelves and you can take part in the second phase of the Hero's Path! At your store you'll find a slightly altered poster of Nykthos, Shrine to Nyx, and it is in the alteration that you'll have to seek the aid of the gods of Theros for help on your quest. The art in Theros is truly stunning and this card is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "650136"
 [_metadata_:publish_date]:- "2013-09-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Checking Out Nykthos"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-04 14:16:59+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160504141659id_/http://magic.wizards.com/en/articles/archive/feature/checking-out-nykthos-2013-09-24"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/checking-out-nykthos-2013-09-24"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:24:22"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429062422id_/https://magic.wizards.com/en/articles/archive/feature/checking-out-nykthos-2013-09-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/checking-out-nykthos-2013-09-24"
 ---
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Welcome to Scry Week! This week on Swimming With Sharks we will be exploring scry, which is one of my favorite keyword abilities in the game. If you've been reading my articles for any amount of time, you know that Visions, with its Impulses and Man-o'-Wars (relatively unexciting but also inexpensive spells), has long been my favorite set, and that I love to puzzle every last"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627406"
 [_metadata_:publish_date]:- "2007-05-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "If at First You Don't TD, Scry, Scry Again"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 10:12:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 10:12:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130101223id_/https://magic.wizards.com/en/articles/archive/feature/if-first-you-dont-td-scry-scry-again-2007-05-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/if-first-you-dont-td-scry-scry-again-2007-05-17"
 ---

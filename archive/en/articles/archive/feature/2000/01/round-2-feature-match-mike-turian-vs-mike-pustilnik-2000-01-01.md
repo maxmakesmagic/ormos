@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan As the round began, Mark Rosewater stopped by to make a prediction on the winner: `I think a Mike will win.` Mark's prediction isn't actually as much of a joke as you might think. With both players have very strong decks and a large history of Pro-Tour experience, it would be hard to chose a winner. Turian's White/Black deck had a lot of cards that would let"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949406"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 2 Feature Match - Mike Turian vs. Mike Pustilnik"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 11:26:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 11:26:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525112639id_/https://magic.wizards.com/en/articles/archive/feature/round-2-feature-match-mike-turian-vs-mike-pustilnik-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-feature-match-mike-turian-vs-mike-pustilnik-2000-01-01"
 ---

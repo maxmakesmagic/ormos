@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200528024100/https://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-paulo-vitor-damo-da-rosa-2014-11-05)
+[Link to Wayback Machine](https://web.archive.org/web/20200531075849/https://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-paulo-vitor-damo-da-rosa-2014-11-05)
 
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "If you followed Pro Tour and Grand Prix coverage from 2006-2012, there is no doubt that you may have seen footage or read an article that talks about a Top 8 featuring Paulo Vitor Damo da Rosa."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "296526"
 [_metadata_:publish_date]:- "2014-11-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2014 World Championship Competitors: Paulo Vitor Damo da Rosa"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-28 02:41:00+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200528024100id_/https://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-paulo-vitor-damo-da-rosa-2014-11-05"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 07:58:49"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531075849id_/https://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-paulo-vitor-damo-da-rosa-2014-11-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-paulo-vitor-damo-da-rosa-2014-11-05"
 ---
 

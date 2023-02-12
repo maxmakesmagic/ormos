@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Josh Utter-Leyton's Counter Cat Format: Modern – Pro Tour Philadelphia 4 Arid Mesa 1 Dryad Arbor 1 Forest 1 Hallowed Fountain 1 Horizon Canopy 2 Marsh Flats 4 Misty Rainforest 1 Plains 1 Sacred Foundry 1 Scalding Tarn 1 Steam Vents 2 Stomping Ground 1 Tectonic Edge 1 Temple Garden 1 Gaddock Teeg 4 Knight of the Reliquary 4 Noble Hierarch 1 Qasali Pridemage 4 Tarmogoyf 4 Wild Nacatl 3 Bant Charm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671496"
 [_metadata_:publish_date]:- "2011-09-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Counter Cat"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-25 16:56:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-25 16:56:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170425165618id_/http://magic.wizards.com/en/articles/archive/feature/counter-cat-2011-09-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/counter-cat-2011-09-12"
 ---

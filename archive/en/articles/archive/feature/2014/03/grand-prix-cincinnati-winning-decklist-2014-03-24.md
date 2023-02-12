@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Kyle Boggemes, champion of Grand Prix Cincinnati![decklist] Title: Kyle Boggemes Format: Grand Prix Cincinnati 2014 Champion – Standard 4 Temple of Silence 4 Temple of Deceit 4 Temple of Enlightenment 2 Mutavault 2 Plains 5 Island 4 Hallowed Fountain 1 Godless Shrine 1 Watery Grave 1 Ætherling 4 Dissolve 2 Doom Blade 4 Sphinx's Revelation 4 Supreme Verdict 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667741"
 [_metadata_:publish_date]:- "2014-03-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Cincinnati Winning Decklist"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 02:48:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 02:48:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811024806id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-cincinnati-winning-decklist-2014-03-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-cincinnati-winning-decklist-2014-03-24"
 ---

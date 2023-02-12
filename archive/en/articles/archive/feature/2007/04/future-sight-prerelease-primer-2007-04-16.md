@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "I have been kind of disappointed with my email service for the past couple of weeks. Messages have been getting to me hours, days, and even weeks after people send them. After it caused me to miss a drafternoon at Neutral Ground, I was even considering switching to another service. Then it all started to even out. I started getting emails from hours, days, and even weeks into"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633416"
 [_metadata_:publish_date]:- "2007-04-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Future Sight Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 00:02:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-18 00:02:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418000227id_/https://magic.wizards.com/en/articles/archive/feature/future-sight-prerelease-primer-2007-04-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/future-sight-prerelease-primer-2007-04-16"
 ---

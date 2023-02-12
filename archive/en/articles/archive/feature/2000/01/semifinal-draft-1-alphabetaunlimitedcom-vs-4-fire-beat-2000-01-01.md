@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "ABU is one of two teams of pro players that traveled to Japan in search of fame, fortune and pro points. They dominated the Swiss portion of the tournament and are now ready for the final matches. ABU won the Team Masters tournament in Tokyo. Substituting for Noah Boeken is David Williams."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806571"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Semifinal Draft: (1) AlphaBetaUnlimited.com vs. (4) Fire Beat"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 21:11:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 21:11:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123211150id_/https://magic.wizards.com/en/articles/archive/feature/semifinal-draft-1-alphabetaunlimitedcom-vs-4-fire-beat-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinal-draft-1-alphabetaunlimitedcom-vs-4-fire-beat-2000-01-01"
 ---

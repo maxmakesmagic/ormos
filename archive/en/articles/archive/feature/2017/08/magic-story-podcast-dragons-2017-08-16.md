@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen and Alison Luhrs"
 [_metadata_:description]:- "Blake and Alison sit down to chat about the most iconic tribe in Commander (2017 Edition)—Dragons!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1186331"
 [_metadata_:publish_date]:- "2017-08-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Story Podcast: Dragons"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-18 20:51:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-18 20:51:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818205109id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-dragons-2017-08-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-dragons-2017-08-16"
 ---

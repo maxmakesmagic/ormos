@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 8 Feature match Daniel O'Mahoney Schwartz vs. Patrick Mello Both players were reasonalby happy with the way the draft went and agree that there seemed to be a fair distribution of first picks for most people at the table. Dan's deck is U/B and has a good range of blue Prophecy cards, the best of which is no doubt Alex, Zephyr Mage. Patrick's deck is B/G also has his bomb"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951891"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:19:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:19:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519131956id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-5"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-5"
 ---

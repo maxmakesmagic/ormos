@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "697021"
 [_metadata_:publish_date]:- "2012-08-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "House Dimir"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-14 06:38:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-14 06:38:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170714063859id_/http://magic.wizards.com/en/articles/archive/feature/house-dimir-2012-08-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/house-dimir-2012-08-20"
 ---

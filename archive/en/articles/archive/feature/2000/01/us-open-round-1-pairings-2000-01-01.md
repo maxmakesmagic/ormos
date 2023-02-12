@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Table Accardi, Anthony ( 30) *** BYE *** Allen, Chris ( 13) Duggan, Travis ( 37) 82 Allen, Dustin ( 19) Spright, Patrick ( 54) 9 Ally, Arit (149) *** BYE *** Anderson, Brett (160) Jarvis, Steve ( 86) 58 Anderson, Rhonda ( 91) York, Kenny (109) 81 Antene, J. Kip ( 6) Haslar, Michael ( 76) 15 Atwood, Aaron ( 95) Cromwell, Tommy (210) 14 Au, Scott ( 46) Malka, Sol"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949691"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Open Round 1 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 05:50:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 05:50:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523055002id_/https://magic.wizards.com/en/articles/archive/feature/us-open-round-1-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-round-1-pairings-2000-01-01"
 ---

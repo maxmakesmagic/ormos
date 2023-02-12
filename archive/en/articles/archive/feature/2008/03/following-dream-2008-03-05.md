@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622576"
 [_metadata_:publish_date]:- "2008-03-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Following a Dream"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-17 06:16:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-17 06:16:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160917061605id_/http://magic.wizards.com/en/articles/archive/feature/following-dream-2008-03-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/following-dream-2008-03-05"
 ---

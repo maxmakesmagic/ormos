@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211018184230/https://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93prague-2005-12-20)
+[Link to Wayback Machine](https://web.archive.org/web/20160927042834/http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93prague-2005-12-20)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "SAZKA ARENA Preview Find out the top stories heading into the Pro Tour by reading Brian David-Marshall's musically themed Prague Playlist. Olivier's Corner Get to know the Pro Tour from the insights of Road Warrior and Level 6 Mage Olivier Ruel. Three times a week, he'll be sharing interviews and analysis right here. Updates: Every Tuesday, Thursday, and Saturday Play the"
+[_metadata_:description]:- "&#13; SAZKA ARENA&#13; &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733716"
 [_metadata_:publish_date]:- "2005-12-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2006 Pro Tour–Prague"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:42:30+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018184230id_/https://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93prague-2005-12-20"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93prague-2005-12-20"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 04:28:34"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927042834id_/http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93prague-2005-12-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93prague-2005-12-20"
 ---
 
 
@@ -26,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

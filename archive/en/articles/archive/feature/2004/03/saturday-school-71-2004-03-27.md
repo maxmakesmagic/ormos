@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at saturdayschool@horvik.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.ClarificationLast week, I answered a question about artifact lands being destroyed by an opponent's Akroma's Vengeance, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "621971"
 [_metadata_:publish_date]:- "2004-03-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #71"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 12:38:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 12:38:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121123845id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-71-2004-03-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-71-2004-03-27"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Black Wrath! Green Ball Lightning! Red Akroma! I'm pretty sure that Aaron is previewing a Purple Horseshoe (Crab). Maybe (definitely) not. O, what odds-enhancing trinkets Planar Chaos brings with it!My preview card hasn't done anything indecent to the colour pie. What it does is in the colour it's always been in. You might've seen its granddad somewhere before, like on various"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "621356"
 [_metadata_:publish_date]:- "2007-01-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wash, Rinse, Retether"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:16:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:16:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120001606id_/https://magic.wizards.com/en/articles/archive/feature/wash-rinse-retether-2007-01-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wash-rinse-retether-2007-01-10"
 ---

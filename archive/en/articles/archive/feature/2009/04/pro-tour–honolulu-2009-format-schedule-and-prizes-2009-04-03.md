@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document.FormatShards of Alara Block Constructed and Booster Draft 1 Shards of Alara, 1 Conflux, and 1 Alara Reborn boosters will be used for drafting Deck lists are required Check www.thedci.com for Block Constructed and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "640666"
 [_metadata_:publish_date]:- "2009-04-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Honolulu 2009 Format, Schedule, and Prizes"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 16:49:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 16:49:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024164922id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93honolulu-2009-format-schedule-and-prizes-2009-04-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93honolulu-2009-format-schedule-and-prizes-2009-04-03"
 ---

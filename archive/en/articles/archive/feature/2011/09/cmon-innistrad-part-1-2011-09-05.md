@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112021515/https://magic.wizards.com/en/articles/archive/feature/cmon-innistrad-part-1-2011-09-05)
+[Link to Wayback Machine](https://web.archive.org/web/20170816180448/http://magic.wizards.com/en/articles/archive/feature/cmon-innistrad-part-1-2011-09-05)
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654106"
 [_metadata_:publish_date]:- "2011-09-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "C'mon Innistrad, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:15:15+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112021515id_/https://magic.wizards.com/en/articles/archive/feature/cmon-innistrad-part-1-2011-09-05"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cmon-innistrad-part-1-2011-09-05"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-16 18:04:48"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816180448id_/http://magic.wizards.com/en/articles/archive/feature/cmon-innistrad-part-1-2011-09-05"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cmon-innistrad-part-1-2011-09-05"
 ---
 
 

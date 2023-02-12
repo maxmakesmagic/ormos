@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Result of Match: Godzilla wins 3-0. View a mini-movie of Godzilla vs. Nagoyan.  Team Nagoyan prepares to battle Team Nagoyan is begins the match.  Team Godzilla drafts against Team Nagoyan (round 9). David Williams is happy about his drafting selections."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952271"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Godzilla vs. Team Nagoyan - Round 9"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 04:36:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 04:36:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516043611id_/https://magic.wizards.com/en/articles/archive/feature/godzilla-vs-team-nagoyan-round-9-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/godzilla-vs-team-nagoyan-round-9-2000-01-01"
 ---

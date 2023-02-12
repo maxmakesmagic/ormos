@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; by Sideboard Staff"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805536"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Interesting Decks from the Gateway Tournament"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-05 13:23:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-05 13:23:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160705132314id_/http://magic.wizards.com/en/articles/archive/feature/interesting-decks-gateway-tournament-2015-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/interesting-decks-gateway-tournament-2015-10-15"
 ---

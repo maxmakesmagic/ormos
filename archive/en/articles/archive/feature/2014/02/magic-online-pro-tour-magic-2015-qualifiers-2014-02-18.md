@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mike Turian"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "658796"
 [_metadata_:publish_date]:- "2014-02-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Pro Tour Magic 2015 Qualifiers"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:15:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:15:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531081540id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-pro-tour-magic-2015-qualifiers-2014-02-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-pro-tour-magic-2015-qualifiers-2014-02-18"
 ---

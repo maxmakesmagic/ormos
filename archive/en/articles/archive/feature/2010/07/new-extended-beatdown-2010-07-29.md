@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Naemen's New Extended Beatdown Format: Extended on Magic Online 3 Arid Mesa 13 Mountain 2 Scalding Tarn 3 Smoldering Spires 4 Figure of Destiny 4 Goblin Guide 4 Keldon Marauders 4 Burst Lightning 4 Flame Javelin 4 Incinerate 4 Lightning Bolt 4 Rift Bolt 4 Searing Blaze 3 Shard Volley *4 Faerie Macabre *4 Ghostfire *3 Magus of the Moon *4 Volcanic Fallout"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669971"
 [_metadata_:publish_date]:- "2010-07-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "New Extended Beatdown"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 15:56:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 15:56:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017155644id_/https://magic.wizards.com/en/articles/archive/feature/new-extended-beatdown-2010-07-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-extended-beatdown-2010-07-29"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Announcement Date: December 19, 2008Effective Date: January 1, 2009Standard, Extended, Legacy, Vintage, Block, Two-Headed Giant Constructed No changesMagic Online Formats No changes"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681281"
 [_metadata_:publish_date]:- "2008-12-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "December 19 2008 DCI Banned and Restricted List Announcement"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-12 08:15:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-12 08:15:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170112081532id_/http://magic.wizards.com/en/articles/archive/feature/december-19-2008-dci-banned-and-restricted-list-announcement-2008-12-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/december-19-2008-dci-banned-and-restricted-list-announcement-2008-12-19"
 ---

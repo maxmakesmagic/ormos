@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "How can the gamer inside us evolve into something greater?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "292146"
 [_metadata_:publish_date]:- "2014-10-28"
+[_metadata_:source]:- "div-main"
 [_metadata_:title]:- "Walking the Planes Episode #28: Metamorphoses"
-[_metadata_:wayback_capture_timestamp]:- "2014-10-31 01:13:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-10-31 01:13:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141031011301id_/http://magic.wizards.com/en/articles/archive/feature/walking-planes-episode-28-metamorphoses-2014-10-28"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/walking-planes-episode-28-metamorphoses-2014-10-28"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "You peered into its depths prior to the release of Eventide, and now the Orb of Insight has returned for Shards of Alara! If you've never utilized the Orb before, you needn't fear, as it's relatively simple to use. Simply type in a word (or number) and the Orb will tell you how many times it appears on Shards of Alara cards. Flavor text isn't counted, and you can enter any"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681556"
 [_metadata_:publish_date]:- "2008-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shards of Alara Orb of Insight"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 08:08:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 08:08:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121080847id_/https://magic.wizards.com/en/articles/archive/feature/shards-alara-orb-insight-2008-09-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-alara-orb-insight-2008-09-01"
 ---

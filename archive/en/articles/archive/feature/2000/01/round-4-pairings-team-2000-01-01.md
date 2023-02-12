@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPointsOpponentPoints52806vsAustihaibing6#I Magic3vsThe Flagbearers3$42 Ticket9vsFamily Games Center93 Stooges6vsScoop65 Ways Worse than Portent9vsThe Tails9A Few Good Men7vsTable 456A Little Too Sick6vsVodalian War Machine6AlphaBetaUnlimited.com/26vswww.teamacademy.com6Azz Izz3vsSweet Jeebus3Bags9vsAntarctica9Big Dogs6vsEmpty G's6Breaking Waves6vsTeam Acme"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805951"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 4 Pairings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-04 05:14:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-04 05:14:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704051414id_/https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-team-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-pairings-team-2000-01-01"
 ---

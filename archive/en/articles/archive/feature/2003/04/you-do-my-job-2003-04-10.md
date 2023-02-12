@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Hiya! I've been reading my mail, and I've gotta say that you folks are great — you're as bonkers as I am. I respect that. I've learned a lot from my correspondence. For example, I learned that Katie, a 12-year-old British girl, has a friend Samantha who thinks I'm `pretty cute.` Right on!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613376"
 [_metadata_:publish_date]:- "2003-04-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "You Do My Job"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 14:54:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 14:54:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818145452id_/https://magic.wizards.com/en/articles/archive/feature/you-do-my-job-2003-04-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-do-my-job-2003-04-10"
 ---

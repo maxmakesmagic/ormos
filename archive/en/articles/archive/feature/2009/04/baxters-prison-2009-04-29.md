@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211023225457/https://magic.wizards.com/en/articles/archive/feature/baxters-prison-2009-04-29)
+[Link to Wayback Machine](https://web.archive.org/web/20220816000727/https://magic.wizards.com/en/articles/archive/feature/baxters-prison-2009-04-29)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: George Baxter's Prison Format: Early Standard 3 Adarkar Wastes 4 Brushland 1 City of Brass 1 Forest 3 Mishra's Factory 7 Plains 4 Strip Mine 1 Deadly Insect 3 Aeolipile 2 Armageddon 1 Balance 1 Black Vise 2 Disenchant 3 Divine Offering 4 Fellwar Stone 4 Icy Manipulator 1 Land Tax 4 Serrated Arrows 4 Swords to Plowshares 1 Sylvan Library 2 Titania's Song 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668231"
 [_metadata_:publish_date]:- "2009-04-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Baxter's Prison"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 22:54:57+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023225457id_/https://magic.wizards.com/en/articles/archive/feature/baxters-prison-2009-04-29"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 00:07:27"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816000727id_/https://magic.wizards.com/en/articles/archive/feature/baxters-prison-2009-04-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/baxters-prison-2009-04-29"
 ---
 
@@ -498,7 +500,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (28)
+##### Common (25)
 
 
 
@@ -528,10 +530,6 @@ OverviewColorCostRarity
 
 4
 [Serrated Arrows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerrated%5D+%5BArrows%5D)
-
-
-3
-[Wrath of God](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
 
 
 3
@@ -572,7 +570,7 @@ OverviewColorCostRarity
 
 
 
-##### Rare (19)
+##### Rare (22)
 
 
 
@@ -598,6 +596,10 @@ OverviewColorCostRarity
 
 4
 [Winter Orb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinter%5D+%5BOrb%5D)
+
+
+3
+[Wrath of God](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
 
 
 1

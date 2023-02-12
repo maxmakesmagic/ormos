@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "During the holiday rerun weeks, we are presenting some of the year's most popular Arcana articles. It was a challenge to narrow down to just ten, so we hope you enjoy this look back into 2013! —DailyMTG Staff Let's talk about Thespian's Stage. As you may already know, `thespian` is a highfalutin' word for `actor,` and the card shows two actors, well, acting: Thespian's Stage |"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "651121"
 [_metadata_:publish_date]:- "2013-12-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Who's on the Stage?"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:43:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:43:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502004347id_/https://magic.wizards.com/en/articles/archive/feature/whos-stage-2013-12-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whos-stage-2013-12-23"
 ---

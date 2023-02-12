@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sideboard Staff"
 [_metadata_:description]:- "[decklist] Title: Kurt Burgner (USA) — Sligh Format: 4 Wasteland 3 Rishadan Port 10 Mountain 3 Cursed Scroll 4 Pillage 3 Price of Progress 4 Jackal Pup 4 Mogg Fanatic 2 Ball Lightning 2 Viashino Sandstalker 4 Incinerate 4 Fireblast 2 Shock 2 Seal of Fire 2 Hammer of Bogardan 1 Ghitu Encampment *3 Bottle Gnomes *1 Dwarven Miner *2 Ruination *4 Pyroblast *3 Pyrokinesis *2 Anarchy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805541"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Masters Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-07 17:54:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-07 17:54:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207175426id_/https://magic.wizards.com/en/articles/archive/feature/masters-decklists-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-decklists-2000-01-01"
 ---

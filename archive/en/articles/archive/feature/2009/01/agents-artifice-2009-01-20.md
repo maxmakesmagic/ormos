@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ari Marmell"
 [_metadata_:description]:- "Review by David Craddock, Fantasy Book Critic Marmell's successful application of breakneck character and plot development results in an excellent narrative that is equal parts truth and deception. Readers experience events for the first time right along with the protagonist at a smooth pace that never falters. Readers learn along with the protagonist, allowing events to build"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638691"
 [_metadata_:publish_date]:- "2009-01-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Agents of Artifice"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 12:37:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 12:37:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521123736id_/https://magic.wizards.com/en/articles/archive/feature/agents-artifice-2009-01-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/agents-artifice-2009-01-20"
 ---

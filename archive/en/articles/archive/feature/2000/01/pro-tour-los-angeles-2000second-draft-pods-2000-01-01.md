@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pod Seat Name Points 1 1 McKenna, Tim 12 7 Tsang, Terry 12 5 Harkonen, Jarno 12 2 Seville, Scott 12 4 Boeken, Noah 12 3 Jocumsen, Bjorn 12 6 Herzog, Nicolai 12 8 Pustilnik, Michael 12 2 3 Liao, Yuhkong 12 4 Cunniff, Raphael 12 1 Blackwell, Trevor 12 8 Rumsey, Michael 12 6 Long, Mike 12 2 Ljones, Christer 12 7 D'Tela, Sceadeau 12 5 Burgner, Kurt 12 3 2 Thompson, Mike 12 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950696"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Second Draft Pods"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:42:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:42:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118144226id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000second-draft-pods-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000second-draft-pods-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Greetings, Earthlings and/or beef and/or mutton! Summer is almost over in my neck of the woods. We're into the infamous “Dog Days of August,” which is fine place to be if you're a dog, I suspect, but it's not so great for human beings. Just below my neck of the woods, somewhere around, say, the collarbone, a cold front has moved in."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "621116"
 [_metadata_:publish_date]:- "2006-08-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Rarely Good in Space"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 10:12:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 10:12:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127101218id_/https://magic.wizards.com/en/articles/archive/feature/rarely-good-space-2006-08-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rarely-good-space-2006-08-23"
 ---

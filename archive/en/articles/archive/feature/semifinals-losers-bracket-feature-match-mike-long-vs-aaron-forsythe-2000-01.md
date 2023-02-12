@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan In one of Mike Long's biggest matches this year, he plays New CMU member Aaron Forsythe with one player knocked out of the running for the U.S. National Team. This is an important honor for Mike, who has more experience in the Top 8 of this tournament than any other player in the room. The winner here will be playing in Worlds for the United States. The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949111"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Semifinals (Loser's Bracket) Feature Match - Mike Long vs. Aaron Forsythe"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 14:34:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 14:34:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519143406id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-losers-bracket-feature-match-mike-long-vs-aaron-forsythe-2000-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-losers-bracket-feature-match-mike-long-vs-aaron-forsythe-2000-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Christopher Ferris"
 [_metadata_:description]:- "In 1995, Wizards of the Coast released Homelands, an expansion that took place on the world of Ulgrotha. But the design of Homelands goes back even further than that, as this article recounts—all the way to April of 1994, less than a year after the game came out."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680821"
 [_metadata_:publish_date]:- "2011-08-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Homelands: The Making of a Magic Expansion"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-24 07:45:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-24 07:45:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160424074508id_/http://magic.wizards.com/en/articles/archive/feature/homelands-making-magic-expansion-2011-08-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/homelands-making-magic-expansion-2011-08-22"
 ---

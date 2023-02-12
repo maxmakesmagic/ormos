@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 Potato Peach 6 50.00% 2 Siki (Kanagawa) 6 50.00% 3 Chiban Dragon 6 50.00% 4 P-Kies 6 50.00% 5 Mropaganda 6 50.00% 6 Wizard's Brain 6 50.00% 7 Ancestral Memories 6 50.00% 8 Dekiru-Kana?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "807016"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 2 Standings (by Score)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:45:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:45:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702094511id_/https://magic.wizards.com/en/articles/archive/feature/round-2-standings-score-2000-01-01-1"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-standings-score-2000-01-01-1"
 ---

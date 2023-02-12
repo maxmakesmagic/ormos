@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; &#13; Daily Activity&#13; &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "599236"
 [_metadata_:publish_date]:- "2014-06-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sealed Deck Builder: 6/12/2014"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-21 00:49:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-21 00:49:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161221004949id_/http://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-6122014-2014-06-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-6122014-2014-06-12"
 ---

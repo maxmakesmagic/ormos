@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wizards of the Coast is back for a seventh epic year of Extra Life in support of the Children's Miracle Network Hospitals!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1355571"
 [_metadata_:publish_date]:- "2018-10-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Inspiring Minds Unite for Extra Life!"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 07:06:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 07:06:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531070644id_/https://magic.wizards.com/en/articles/archive/feature/inspiring-minds-unite-extra-life-2018-10-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/inspiring-minds-unite-extra-life-2018-10-16"
 ---

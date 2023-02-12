@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic Online Cube is back…and this time it will be around for a full week. Clear your calendar and make time to play with some of the most powerful cards from Magic's history in this awesome draft format. This time around, the Magic Online Cube will have Time Spiral block prizes! In addition, when you have had your fill of the Cube (or after it ends on May 9), we will have"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687361"
 [_metadata_:publish_date]:- "2012-04-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Magic Online Cube Returns!"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:19:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:19:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523081943id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-cube-returns-2012-04-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-cube-returns-2012-04-24"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jeff Donais"
 [_metadata_:description]:- "Prereleases have always been some of my favorite tournaments. They combine all the elements that are great about Magic. You get the excitement of competition, the discovery of opening new cards, and the community feeling with a huge group of players that are all sharing this cool experience with you."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632301"
 [_metadata_:publish_date]:- "2002-01-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Torment Prerelease"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-26 13:29:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-26 13:29:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201026132919id_/https://magic.wizards.com/en/articles/archive/feature/torment-prerelease-2002-01-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/torment-prerelease-2002-01-10"
 ---

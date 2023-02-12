@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; Let's talk about Beebles! You are, of course, familiar with the adorable little guys that appeared in Urza's Legacy's Bouncing Beebles and Urza's Destiny's Bubbling Beebles:&#13; &#13; Ah, but do you know where they came from? The answer might surprise you, so let's take a trip all the way back to February 1998 and the cover of Duelist #22."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653936"
 [_metadata_:publish_date]:- "2009-07-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A History of the Beeble"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-24 19:51:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-24 19:51:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170124195108id_/http://magic.wizards.com/en/articles/archive/feature/history-beeble-2009-07-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/history-beeble-2009-07-01"
 ---

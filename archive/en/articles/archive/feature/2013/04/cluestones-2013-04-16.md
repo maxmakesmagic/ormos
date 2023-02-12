@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210618130521/https://magic.wizards.com/en/articles/archive/feature/cluestones-2013-04-16)
+[Link to Wayback Machine](https://web.archive.org/web/20210207123110/https://magic.wizards.com/en/articles/archive/feature/cluestones-2013-04-16)
 
 [_metadata_:author]:- "Trick Jarrett"
-[_metadata_:description]:- "With Dragon's Maze we introduce a new cycle of guild mana fixing: the Cluestones. A Ravnican might think of the Cluestones as an `in case of emergency break glass,` providing useful magic to the members of their guild. In the first Ravnica block, we had the Signets: Then in Return to Ravnica and Gatecrash we were given the Keyrunes: And now we have the Cluestones: All ten are"
+[_metadata_:description]:- "With Dragon's Maze we introduce a new cycle of guild mana fixing: the Cluestones. A Ravnican might think of the Cluestones as an `in case of emergency break glass,` providing useful magic to the members of their guild. In the first Ravnica block, we had the Signets:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648801"
 [_metadata_:publish_date]:- "2013-04-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Cluestones"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-18 13:05:21+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210618130521id_/https://magic.wizards.com/en/articles/archive/feature/cluestones-2013-04-16"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-07 12:31:10"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207123110id_/https://magic.wizards.com/en/articles/archive/feature/cluestones-2013-04-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cluestones-2013-04-16"
 ---
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 6 Results Table Player 1 Result Player 2 Vammen, Jakob *** BYE *** 1 Boeken, Noah 0-2-0 Sanders Jensen, Niels 2 Ruel, Antoine 2-0-0 Maher, Bob 3 Cieslikowski, Marcin 02/01/00 Jocumsen, Bjorn 4 Wall, Mike 0-2-0 Dall Jensen, Thomas 5 Van de Logt, Tom 02/01/00 Bernhardt, Falk 6 Yeh, Gottlieb 01/02/00 Osterberg, Richard 7 Canu, Franck 1-0-0 Franzen, Johan 8 Eskeland, Sigurd"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951861"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 13:33:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 13:33:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516133345id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-13"
 ---

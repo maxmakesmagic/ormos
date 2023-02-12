@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "As we celebrate the holidays, we're bringing you some of our favorite decks from throughout the year. Enjoy these fun flashbacks into last year’s favorites. Wizards of the Coast Staff Black/White decks based around lifelink are something I try to build as each new set comes out. With Magic 2014, I think there’s a chance I might finally have the cards to do it, thanks to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667406"
 [_metadata_:publish_date]:- "2013-12-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Path of Vizkopa"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 19:05:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 19:05:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812190555id_/https://magic.wizards.com/en/articles/archive/feature/path-vizkopa-2013-12-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/path-vizkopa-2013-12-30"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Updated 8-3-05"
 [_metadata_:description]:- "First NameLast NameCityDateNathanBramlettGarden City7/10/2005JasonMartelButler7/24/2005MichaelBurtonDelaware7/17/2005TristanEnrightTwin Falls7/30/2005VincentWolekClermont7/9/2005ChrisProchakBurnaby7/23/2005JamesTepperBrighton7/23/2005KarlBriemAtlanta7/16/2005MatthewHellingSouix Falls7/23/2005JoshuaClaytorLouisville7/24/2005RijalSt."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736191"
 [_metadata_:publish_date]:- "2005-08-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Salt Lake City Trial Byes"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 16:49:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 16:49:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809164911id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-trial-byes-2005-08-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-trial-byes-2005-08-08"
 ---

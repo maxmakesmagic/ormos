@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: tallandskinnyman's Bant Format: Magic Online Classic 2 Breeding Pool 4 Flooded Strand 1 Forest 1 Island 1 Plains 2 Savannah 3 Tundra 4 Windswept Heath 2 Jenara, Asura of War 3 Meddling Mage 4 Noble Hierarch 4 Rhox War Monk 1 Sower of Temptation 4 Tarmogoyf 2 Bant Charm 4 Brainstorm 3 Counterspell 4 Daze 2 Disrupt 4 Force of Will 3 Swords to Plowshares 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668511"
 [_metadata_:publish_date]:- "2009-07-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Bant Classic"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 21:27:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 21:27:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025212710id_/https://magic.wizards.com/en/articles/archive/feature/bant-classic-2009-07-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bant-classic-2009-07-08"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Claws of an Ancient Evil Nicol Bolas was once one of the most powerful planeswalkers in the Multiverse. But with the healing of the time rifts on Dominaria, the nature of the planeswalker spark changed. Now mortal with his power diminished, Bolas schemes to restore himself to his former glory, and he sees the shards of Alara as the means to that end. Using his minions to sow"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "650681"
 [_metadata_:publish_date]:- "2009-01-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Claws of an Ancient Evil"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 12:14:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 12:14:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702121444id_/https://magic.wizards.com/en/articles/archive/feature/claws-ancient-evil-2009-01-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/claws-ancient-evil-2009-01-13"
 ---

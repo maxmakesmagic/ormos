@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Worth Wollpert"
 [_metadata_:description]:- "Update 05/28/2014:  Worth Wollpert has a new article on the status of PTQs and MOCS play, with additional information on Magic Online  MOCS Appreciation Events. Hello everyone,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687136"
 [_metadata_:publish_date]:- "2014-03-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Important Announcement: Changes to MTGO PTQ and MOCS schedules"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-20 13:51:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-20 13:51:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161220135118id_/http://magic.wizards.com/en/articles/archive/feature/important-announcement-changes-mtgo-ptq-and-mocs-schedules-2014-03-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/important-announcement-changes-mtgo-ptq-and-mocs-schedules-2014-03-11"
 ---

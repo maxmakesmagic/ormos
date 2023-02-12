@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160728144758/http://magic.wizards.com/en/articles/archive/feature/changing-planes-2012-05-21)
+[Link to Wayback Machine](https://web.archive.org/web/20220524041611/https://magic.wizards.com/en/articles/archive/feature/changing-planes-2012-05-21)
 
 [_metadata_:author]:- "Mark Rosewater"
-[_metadata_:description]:- "&#13;"
+[_metadata_:description]:- "Welcome to Planechase 2012 Preview Week. This week we'll be talking about the new Planechase set. Our feature today by Mark Gottlieb is going to be talking about how the set got put together, so I thought I'd take a different tack with my column today. I'm going to explore why Magic as a game needs so many different worlds. Don't worry, I'm still going to introduce the design"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "655226"
 [_metadata_:publish_date]:- "2012-05-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Changing Planes"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-28 14:47:58+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160728144758id_/http://magic.wizards.com/en/articles/archive/feature/changing-planes-2012-05-21"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/changing-planes-2012-05-21"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 04:16:11"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524041611id_/https://magic.wizards.com/en/articles/archive/feature/changing-planes-2012-05-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/changing-planes-2012-05-21"
 ---
 
 
@@ -49,7 +51,7 @@ Welcome to *Planechase 2012* Preview Week. This week we'll be talking about the 
 So let's start at the very beginning. When making a game, (in this case I'm talking specifically about a physical game as opposed to a video game), what do most game makers do? They build one world. Why? Because part of what you want to do when creating a game is to build a home for it. I often talk about how flavor is key to making your design sing, because flavor helps anchor what you're doing.
 
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/mm/mm196_mae.jpg)[The Maelstrom](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=The+Maelstrom) | Art by [James Paick](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22James+Paick%22%5D)
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/mm/mm196_mae.jpg)[The Maelstrom](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=The+Maelstrom) | Art by [James Paick](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22James+Paick%22%5D)
 
 
 In communication school (Boston University's College of Communication, to be exact), I learned an important lesson about communication. People don't really absorb a new piece of information until they find a way to connect it to their own personal life. It's why news shows always talk about the local person involved in the world event. It's why magazines take pictures of "real" people for the photos in the story. It's why writers use metaphors.
@@ -80,7 +82,7 @@ Now, **Magic** seems to throw this caution to the wind. Most years, we go to a b
 **Magic** is an ever-changing game. Why is that? Because when you're about exploration, the only way to keep that going is to force players to constantly explore. We do that mechanically by shifting what the key mechanics are. Last year, infect and metalcraft were core to the game. Earlier in this block, the game was about double-faced cards, tribal interactions, and the graveyard. *Avacyn Restored* has shifted the game again to care about miracles and soulbond.
 
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/mm/mm196_pan.jpg)[Panopticon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Panopticon) | Art by [John Avon](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22John+Avon%22%5D)
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/mm/mm196_pan.jpg)[Panopticon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Panopticon) | Art by [John Avon](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22John+Avon%22%5D)
 
 
 The problem is that shifting mechanics doesn't lend itself well to always being in the same world. Yes, a world can make small shifts, but fundamentally, if you are going to tie the mechanics of the world to the creative and you constantly reinvent the mechanics, you have to be able to start anew.
@@ -95,7 +97,7 @@ The reason the world has to shift every year is because the game shifts every ye
 I think the best example to explain this is *Zendikar*. *Zendikar* block started because I was interested in exploring what we could do mechanically with land. What happened if we created a block where you cared more about lands than normal. I didn't know what that meant other than I felt that mechanics revolving around land was a design space we hadn't tapped as deeply as others.
 
 
-![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/mm/mm196_min.jpg)[Minamo](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Minamo) | Art by [Charles Urbach](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Charles+Urbach%22%5D)
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/mm/mm196_min.jpg)[Minamo](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Minamo) | Art by [Charles Urbach](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Charles+Urbach%22%5D)
 
 
 The design team began by exploring what land could do. That eventually led us to landfall, which led us to bringing back kicker. At that point, I went to the creative team and said, "Here's where my team is mechanically. This is what we want to do. What kind of a world does this make sense in?"
@@ -213,7 +215,7 @@ Let's start by introducing you to a plane card. This one from a plane most of yo
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/mm/mm196_z2bpcuph6s.jpg)Selesnya Loft Garden | Art by [Martina Pilcerova](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Martina+Pilcerova%22%5D)
 
 
-Many of you might recognize this mechanic. It's a card I claimed was quite fun ([here](http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/mm/81) and [here](http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/mm/82)) and also picked as the best design of *Ravnica* block ([here](/en/node/654741)). Yes, this plane is [Doubling Season](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Doubling+Season), set, of course, on the very plane the card came from in the first place. What can you do with a [Doubling Season](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Doubling+Season) plane? As [Doubling Season](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Doubling+Season) proved, a *lot* of things.
+Many of you might recognize this mechanic. It's a card I claimed was quite fun ([here](http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/mm/81) and [here](http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/mm/82)) and also picked as the best design of *Ravnica* block ([here](/en/node/654741)). Yes, this plane is [Doubling Season](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Doubling+Season), set, of course, on the very plane the card came from in the first place. What can you do with a [Doubling Season](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Doubling+Season) plane? As [Doubling Season](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Doubling+Season) proved, a *lot* of things.
 
 
 Here's an idea of what you might be able to do with it in *Planechase 2012*:

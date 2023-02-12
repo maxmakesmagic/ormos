@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Strixhaven: School of Mages and Commander (2021 Edition), right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1532702"
 [_metadata_:publish_date]:- "2021-03-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Strixhaven and C21 Previews"
-[_metadata_:wayback_capture_timestamp]:- "2021-03-24 14:37:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-24 14:37:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210324143729id_/https://magic.wizards.com/en/articles/archive/feature/where-find-strixhaven-and-c21-previews-2021-03-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-strixhaven-and-c21-previews-2021-03-24"
 ---

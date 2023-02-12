@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220120073810/https://magic.wizards.com/en/articles/archive/feature/announcing-alara-reborn-2008-10-20)
+[Link to Wayback Machine](https://web.archive.org/web/20210816134458/https://magic.wizards.com/en/articles/archive/feature/announcing-alara-reborn-2008-10-20)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic's April 2009 small set, code-named `Scissors`, is called Alara Reborn. The birth of one world. The death of five."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653256"
 [_metadata_:publish_date]:- "2008-10-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing Alara Reborn"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 07:38:10+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120073810id_/https://magic.wizards.com/en/articles/archive/feature/announcing-alara-reborn-2008-10-20"
+[_metadata_:wayback_capture_timestamp]:- "2021-08-16 13:44:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210816134458id_/https://magic.wizards.com/en/articles/archive/feature/announcing-alara-reborn-2008-10-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-alara-reborn-2008-10-20"
 ---
 

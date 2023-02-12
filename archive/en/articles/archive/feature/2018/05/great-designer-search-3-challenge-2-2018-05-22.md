@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "The submissions for Challenge #2 have been judged, and the Great Designer Search 3 journey has come to close for another contestant."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1287551"
 [_metadata_:publish_date]:- "2018-05-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Great Designer Search 3 – Challenge #2"
-[_metadata_:wayback_capture_timestamp]:- "2018-05-22 16:04:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-05-22 16:04:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180522160411id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-challenge-2-2018-05-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-challenge-2-2018-05-22"
 ---

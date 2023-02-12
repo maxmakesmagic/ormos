@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Looking for an easy pathway into Standard? TCGplayer.com writer Justin Vizaro wrote an article about budget-friendly decks in Standard, include this Bounce-Delver deck. If you're looking for an entryway into Standard, try building something like this![decklist] Title: Justin Vizaro's Bounce-Delver Format: Standard 23 Island 4 Aether Adept 4 Azure Mage 4 Delver of Secrets 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671756"
 [_metadata_:publish_date]:- "2011-11-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Bounce-Delver"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 00:26:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 00:26:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020002613id_/https://magic.wizards.com/en/articles/archive/feature/bounce-delver-2011-11-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bounce-delver-2011-11-15"
 ---

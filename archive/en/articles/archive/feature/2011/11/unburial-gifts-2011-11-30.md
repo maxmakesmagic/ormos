@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "ChannelFireball.com writer Alexander Shearer went to Worlds to play in side events and unveiled a new Modern deck with some powerful interactions. Alexander is no stranger to Gifts Ungiven decks, and his familiarity let him exploit a loophole in the way it works. You can choose to find only two cards with Gifts Ungiven, and then your opponent must choose to put those two cards"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671806"
 [_metadata_:publish_date]:- "2011-11-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Unburial Gifts"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 11:13:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 11:13:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025111354id_/https://magic.wizards.com/en/articles/archive/feature/unburial-gifts-2011-11-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unburial-gifts-2011-11-30"
 ---

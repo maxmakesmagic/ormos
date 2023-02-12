@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "I thought long and hard for a few seconds about whether or not to do another Home Runs article for Coldsnap. I am now sensitive to the Magic fanbase outside of the U.S. that does not quite understand the baseball analogies I sometimes make. The deciding factor for me was the recent worldwide broadcast of World Cup soccer/futbol. The way I see it, World Cup is a time for the world to gang up on the U.S. and kick them around the place. Apparently, this is what transpired, again, this World Cup."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626766"
 [_metadata_:publish_date]:- "2006-08-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Boys of Winter"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-28 12:49:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-28 12:49:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210128124910id_/https://magic.wizards.com/en/articles/archive/feature/boys-winter-2006-08-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/boys-winter-2006-08-02"
 ---

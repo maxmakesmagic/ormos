@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "June, 1995: The Ice Age Comes to MagicReleased in June 1995, Ice Age was the most anticipated set of that year."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "599551"
 [_metadata_:publish_date]:- "2009-06-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: May 30-June 5"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-24 07:49:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-24 07:49:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160424074933id_/http://magic.wizards.com/en/articles/archive/feature/week-magic-history-may-30-june-5-2009-06-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/week-magic-history-may-30-june-5-2009-06-05"
 ---

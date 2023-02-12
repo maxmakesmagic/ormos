@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "As an occasional feature here at DailyMTG.com, we collect your questions about Magic, the R&D process, and life at Wizards and pose them to members of Magic R&D. Ever wanted to know how and why two artists sometimes work on the same card, if R&D considers the storm mechanic inherently broken, or whether Sphinx of Uthuun and Rune-Scarred Demon were originally part of a cycle? Then read on!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680811"
 [_metadata_:publish_date]:- "2011-08-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Revenge of Ask Wizards"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-16 18:31:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-16 18:31:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116183121id_/https://magic.wizards.com/en/articles/archive/feature/revenge-ask-wizards-2011-08-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/revenge-ask-wizards-2011-08-15"
 ---

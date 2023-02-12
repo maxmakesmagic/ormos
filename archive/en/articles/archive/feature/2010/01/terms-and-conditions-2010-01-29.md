@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "MAGIC: THE GATHERING ONLINE® GAME (`GAME`) USER AGREEMENT AND SOFTWARE LICENSE (`LICENSE`)UPDATED January 27, 2010PLEASE READ THE FOLLOWING CAREFULLY AND IN ITS ENTIRETY. THIS LICENSE DESCRIBES THE TERMS ON WHICH WIZARDS OF THE COAST LLC (`WIZARDS`) OFFERS YOU ACCESS TO AN ACCOUNT TO PLAY THE GAME. BY CLICKING `I ACCEPT` AT THE BOTTOM OF THIS LICENSE, YOU ACCEPT ALL TERMS OF"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633361"
 [_metadata_:publish_date]:- "2010-01-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Terms and Conditions"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:50:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:50:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018055058id_/https://magic.wizards.com/en/articles/archive/feature/terms-and-conditions-2010-01-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/terms-and-conditions-2010-01-29"
 ---

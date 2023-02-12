@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pod Player Points 1 Van de Logt, Tom 21 Eskeland, Sigurd 21 Canu, Franck 21 Sanders Jensen, Niels 21 Angelin, Marcus 19 Jorstedt, Mattias 19 Monsen, Haakon R 19 Dall Jensen, Thomas 18 2 Osterberg, Richard 18 Shvartsman, Alex 18 Yeh, Gottlieb 18 Minton, Patrick 18 Ruel, Antoine 18 Boeken, Noah 18 Levy, Raphael 18 Franzen, Johan 18 3 Elfgren, Bertil 18 Sochon, Michael 18"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951621"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000 - 1st draft pods"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 16:43:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 16:43:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516164304id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-1st-draft-pods-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-1st-draft-pods-2000-01-01"
 ---

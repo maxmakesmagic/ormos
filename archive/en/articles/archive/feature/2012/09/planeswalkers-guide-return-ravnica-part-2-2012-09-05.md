@@ -5,9 +5,11 @@
 [_metadata_:author]:- "The Magic Creative Team"
 [_metadata_:description]:- "&#13; &#13; &#13;  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353451"
 [_metadata_:publish_date]:- "2012-09-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalker's Guide to Return to Ravnica: Part 2"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-19 11:01:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-19 11:01:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161019110104id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-return-ravnica-part-2-2012-09-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-return-ravnica-part-2-2012-09-05"
 ---

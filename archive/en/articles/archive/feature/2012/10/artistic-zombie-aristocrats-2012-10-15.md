@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220528151308/https://magic.wizards.com/en/articles/archive/feature/artistic-zombie-aristocrats-2012-10-15)
+[Link to Wayback Machine](https://web.archive.org/web/20211015234833/https://magic.wizards.com/en/articles/archive/feature/artistic-zombie-aristocrats-2012-10-15)
 
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Well that was a mouthful, now wasn't it? For the past few months in Standard, we have seen an uprising (or rising, depending on your desired amount of zombie-themed lingo) of various Zombie strategies in Standard. There was a pretty big debate over whether blue or red was the best complement to black, which was widely agreed upon as the primary color. Geralf's Messenger wants"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665646"
 [_metadata_:publish_date]:- "2012-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Artistic Zombie Aristocrats"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 15:13:08+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528151308id_/https://magic.wizards.com/en/articles/archive/feature/artistic-zombie-aristocrats-2012-10-15"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 23:48:33"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015234833id_/https://magic.wizards.com/en/articles/archive/feature/artistic-zombie-aristocrats-2012-10-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/artistic-zombie-aristocrats-2012-10-15"
 ---
 

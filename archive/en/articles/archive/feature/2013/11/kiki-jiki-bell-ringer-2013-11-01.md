@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "If you were wondering why Martin Juza and Stanislav Cifka bought a box of Innistrad boosters the morning of GP Antwerp, this deck is the answer. They needed Village Bell-Ringers, and it turned out that dealers had neglected to bring such a powerful Modern staple. Their deck is an interesting take on Splinter Twin, completely eschewing blue for white, using Village Bell-Ringer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667181"
 [_metadata_:publish_date]:- "2013-11-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Kiki-Jiki, Bell-Ringer"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:31:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:31:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818173142id_/https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-bell-ringer-2013-11-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kiki-jiki-bell-ringer-2013-11-01"
 ---

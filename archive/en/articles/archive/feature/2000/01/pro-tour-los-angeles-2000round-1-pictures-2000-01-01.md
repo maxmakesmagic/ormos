@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In a feature match, Mark LePine defeated Brian Davis, 2-1 In a feature match, Peter Leiher defeated Alex Shvartsman, 2-0  Jon Finkel rode his white weenies to a 2-0 win in round one Terry Tsang defeated David Humpherys 2-0 in round one.  We don't know what to say about this picture, except that we like clown noses. Head Judge Dan Grey help adjudicate a disagreement.  Jeff"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950801"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 1 Pictures"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:55:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:55:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118145525id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-pictures-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-pictures-2000-01-01"
 ---

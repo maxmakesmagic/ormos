@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Editor's Note: Unlike the other columns on the site, Saturday School is a bit tougher to find articles for rerun weeks. However, one of the things that makes individual articles that Carter has done stand out are the fun questions and answers he occasionally includes. More than any other Saturday School article this year, this one prompted an avalanche of reader email saying how funny they'd found the proposal question at the end, so I don't think it's any surprise that both Carter and I thought this would be a fun one to bring back."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625326"
 [_metadata_:publish_date]:- "2005-12-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Many Questions and One Proposal"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-01 05:47:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-01 05:47:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160601054717id_/http://magic.wizards.com/en/articles/archive/feature/many-questions-and-one-proposal-2005-12-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/many-questions-and-one-proposal-2005-12-24"
 ---

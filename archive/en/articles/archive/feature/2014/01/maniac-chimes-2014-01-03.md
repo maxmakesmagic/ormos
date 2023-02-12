@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "As we celebrate the holidays, we're bringing you some of our favorite decks from throughout the year. Enjoy these fun flashbacks into last year’s favorites. Wizards of the Coast Staff I'm going to try to post roughly one reader submission per week. This week's deck was sent to me by Francisco Jose Ronquillo Marroquin of Guatemala. This is a blue-black control deck that wins"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667436"
 [_metadata_:publish_date]:- "2014-01-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Maniac Chimes"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 07:09:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 07:09:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816070911id_/https://magic.wizards.com/en/articles/archive/feature/maniac-chimes-2014-01-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/maniac-chimes-2014-01-03"
 ---

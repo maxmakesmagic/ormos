@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; */"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "696476"
 [_metadata_:publish_date]:- "2013-04-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Image Gallery"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-20 06:11:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-20 06:11:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160820061131id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-04-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-04-08"
 ---

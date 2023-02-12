@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Table Opponent Akbar, David ( 60) 64 Moungey, Jason ( 85) Allen, Dustin ( 36) 35 Mitchell, Alex ( 68) Armstrong, Herman ( 88) 6 Leiher, Peter (147) Aubertin, Justin ( 3) 4 Carson, Adam ( 98) Beckmon, Jon ( 15) 56 Raether, Donald (128) Benafel, Chris ( 50) 22 Ho, Ken ( 27) Bhattacharyya, Sayan ( 39) 69 Lytle, Josh ( 54) Bigos, Kyle ( 21) 47 Turian, Michael (152)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949381"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Nationals 2000 Round 4 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:16:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:16:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523211619id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-4-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-4-pairings-2000-01-01"
 ---

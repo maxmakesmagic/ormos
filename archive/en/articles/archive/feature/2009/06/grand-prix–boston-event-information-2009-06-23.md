@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Date: August 1-2, 2009Format: Magic 2010 Sealed Deck / Booster Draft Day 2Tournament Location Hynes Convention Center 900 Boylston Street Boston, MA 02115Registration: $40 Friday, July 31: 2 p.m. – 11 p.m. Saturday, August 1: 7 a.m. – 9 a.m.Get your free promo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634881"
 [_metadata_:publish_date]:- "2009-06-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Boston Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 11:07:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 11:07:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502110736id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93boston-event-information-2009-06-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93boston-event-information-2009-06-23"
 ---

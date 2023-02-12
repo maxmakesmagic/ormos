@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "#NameCostTypeP/TRules TextFlavor TextRarityArtist1Aegis Angel4WWCreature — Angel5/5FlyingWhen Aegis Angel enters the battlefield, another target permanent is indestructible for as long as you control Aegis Angel. (Effects that say “destroy” don’t destroy that permanent. An indestructible creature can’t be destroyed by damage.) RAleksi Briclot 2Alabaster Mage1WCreature — Human"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "647011"
 [_metadata_:publish_date]:- "2011-07-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic 2012 Sortable Spoiler"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 07:07:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 07:07:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208070748id_/https://magic.wizards.com/en/articles/archive/feature/magic-2012-sortable-spoiler-2011-07-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2012-sortable-spoiler-2011-07-07"
 ---

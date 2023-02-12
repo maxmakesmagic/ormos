@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult Opponent3,141596 *Won 3-0vsmyleniens gold *Absolute Samuels * Awarded Bye *Accellerated Vares8 VolanteWon 2-1vssuicideboard *AgifalwWon 2-1vsKavu Furetts *AlphaBetaUnlimited.com * Awarded Bye *Altrove *Won 2-1vsWe win with win *AmsterdamWon 2-0-1vsFuretto team *AngstschreeuwWon 2-1vsCAP games Team *Asani *Lost 0-3vsLa 139 *Babar Team *Lost 0-3vstrash AAABirds of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806446"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 2 Results (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 01:49:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 01:49:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626014951id_/https://magic.wizards.com/en/articles/archive/feature/round-2-results-team-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-results-team-2000-01-01-0"
 ---

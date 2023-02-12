@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170630094723/http://magic.wizards.com/en/articles/archive/feature/balthor-commander-2012-04-19)
+[Link to Wayback Machine](https://web.archive.org/web/20170730214430/http://magic.wizards.com/en/articles/archive/feature/balthor-commander-2012-04-19)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Judgment legend Balthor the Defiled has risen yet again to lead another deck into the fray! This time, it's a Commander deck featured on the GatheringMagic.com video series CMDR Decks. Balthor is a reasonably popular black Commander, but the unique twist on this deck separates it from other iterations: Relentless Rats!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672321"
 [_metadata_:publish_date]:- "2012-04-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Balthor Commander"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-30 09:47:23+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170630094723id_/http://magic.wizards.com/en/articles/archive/feature/balthor-commander-2012-04-19"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-30 21:44:30"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170730214430id_/http://magic.wizards.com/en/articles/archive/feature/balthor-commander-2012-04-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/balthor-commander-2012-04-19"
 ---
 
@@ -73,18 +75,16 @@ If Relentless rats in Commander sounds fun to you, then you won't want to miss t
 
 
 
-
-
-[Decklist](#none)
-[Stats](#none)
-[Sample Hand](#none)
+[Реестр колоды](#none)
+[Статистика](#none)
+[Пример руки](#none)
 
 
 
 
 
-Sort by:
-OverviewColorCostRarity
+Сортировка по
+СтандартнаяЦветСтоимостьРедкость
 
 
 
@@ -102,7 +102,7 @@ OverviewColorCostRarity
 
 
 
-##### Creature (43)
+##### Существо (43)
 
 
 
@@ -143,7 +143,7 @@ OverviewColorCostRarity
 
 
 
-##### Sorcery (6)
+##### Волшебство (6)
 
 
 
@@ -172,7 +172,7 @@ OverviewColorCostRarity
 
 
 
-##### Artifact (12)
+##### Артефакт (12)
 
 
 
@@ -225,7 +225,7 @@ OverviewColorCostRarity
 
 
 
-##### Enchantment (1)
+##### Чары (1)
 
 
 
@@ -234,7 +234,7 @@ OverviewColorCostRarity
 
 
 
-##### Land (36)
+##### Земля (36)
 
 
 
@@ -262,11 +262,11 @@ OverviewColorCostRarity
 [Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
-100 Cards 
+100 Карт(а) 
 
 
 
-##### Black (48)
+##### Черный (48)
 
 
 
@@ -327,7 +327,7 @@ OverviewColorCostRarity
 
 
 
-##### Colorless (52)
+##### Бесцветная (52)
 
 
 
@@ -419,7 +419,7 @@ OverviewColorCostRarity
 [Thrumming Stone](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThrumming%5D+%5BStone%5D)
 
 
-100 Cards 
+100 Карт(а) 
 
 
 
@@ -573,11 +573,11 @@ OverviewColorCostRarity
 [All Is Dust](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D)
 
 
-63 Cards 
+63 Карт(а) 
 
 
 
-##### Common (32)
+##### Обычная (32)
 
 
 
@@ -590,7 +590,7 @@ OverviewColorCostRarity
 
 
 
-##### Uncommon (44)
+##### Необычная (44)
 
 
 
@@ -635,7 +635,7 @@ OverviewColorCostRarity
 
 
 
-##### Rare (18)
+##### Редкая (18)
 
 
 
@@ -712,7 +712,7 @@ OverviewColorCostRarity
 
 
 
-##### Mythic (6)
+##### Раритетная (6)
 
 
 
@@ -740,7 +740,7 @@ OverviewColorCostRarity
 [Sorin Markov](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin%5D+%5BMarkov%5D)
 
 
-100 Cards 
+100 Карт(а) 
 
 
 

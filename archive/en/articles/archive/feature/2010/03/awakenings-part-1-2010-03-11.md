@@ -1,13 +1,15 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210614181044/https://magic.wizards.com/en/articles/archive/feature/awakenings-part-1-2010-03-11)
+[Link to Wayback Machine](https://web.archive.org/web/20210429054016/https://magic.wizards.com/en/articles/archive/feature/awakenings-part-1-2010-03-11)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "629366"
 [_metadata_:publish_date]:- "2010-03-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Awakenings, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-14 18:10:44+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210614181044id_/https://magic.wizards.com/en/articles/archive/feature/awakenings-part-1-2010-03-11"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 05:40:16"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429054016id_/https://magic.wizards.com/en/articles/archive/feature/awakenings-part-1-2010-03-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/awakenings-part-1-2010-03-11"
 ---
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Humpherys took a 2nd pick Lunge instead of Thermal Glider, Intimidation, Arrest, or Cho-Manno's Blessing in an effort to send clear signals to Casey. Casey did take one of the 3 good white cards (he elected for Thermal Glider), but he kept dipping into other colors for a while. Humpherys took 3rd pick Spidersilk Armor and then with his 4th pick he took Groundskeeper over Vine"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949321"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Draft 2 Feature - Dave Humpherys and Casey McCarrel"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 02:28:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 02:28:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520022823id_/https://magic.wizards.com/en/articles/archive/feature/draft-2-feature-dave-humpherys-and-casey-mccarrel-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-2-feature-dave-humpherys-and-casey-mccarrel-2000-01-01"
 ---

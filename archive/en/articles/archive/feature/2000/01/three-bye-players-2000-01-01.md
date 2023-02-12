@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Rui Oliveira"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "959141"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Three-Bye Players"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 04:30:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 04:30:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030043017id_/https://magic.wizards.com/en/articles/archive/feature/three-bye-players-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/three-bye-players-2000-01-01"
 ---

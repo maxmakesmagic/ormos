@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Gifts of the Gods Inspiration- Struck Death's Beginning Forged in Battle Insatiable Hunger (Back to Product Page) Gifts of the Gods With the `Gifts of the Gods` deck, use your versatile enchantment creatures to either deploy a large force or power up one mighty creature to topple your opponents. Bestow is an ability found on some enchantment creatures that allows you to cast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646741"
 [_metadata_:publish_date]:- "2014-01-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Born of the Gods Intro Packs"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 02:05:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 02:05:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027020512id_/https://magic.wizards.com/en/articles/archive/feature/intro-packs-2014-01-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intro-packs-2014-01-30"
 ---

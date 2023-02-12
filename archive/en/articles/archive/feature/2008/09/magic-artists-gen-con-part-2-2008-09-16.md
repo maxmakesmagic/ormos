@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Following yesterday's collection of Magic artists at Gen Con, we have... more artists at Gen Con! Steve Belledin Steve Prescott and Jeremy Jarvis Randy Gallegos Michael Phillippi Jeremy Jarvis and Wayne Reynolds Jim Pavalec Jeff Easley Chuck Lukacs April Lee"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653031"
 [_metadata_:publish_date]:- "2008-09-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Artists at Gen Con, Part 2"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:08:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:08:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429080802id_/https://magic.wizards.com/en/articles/archive/feature/magic-artists-gen-con-part-2-2008-09-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-artists-gen-con-part-2-2008-09-16"
 ---

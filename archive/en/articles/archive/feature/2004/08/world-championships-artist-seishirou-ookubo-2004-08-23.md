@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "A resident of Nagoya, Japan, Seishirou Ookubo is known throughout both the Japanese Magic playing community as well as the artist community for his spectacular 3D card art, which has to be seen to be believed. Taking 5-6 cards, Seishirou turns a flat piece of cardboard into a breathtaking layered piece of art. When asked how he started making them, he had this to say:`I first"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732676"
 [_metadata_:publish_date]:- "2004-08-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "World Championships Artist: Seishirou Ookubo"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 17:55:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 17:55:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021175504id_/https://magic.wizards.com/en/articles/archive/feature/world-championships-artist-seishirou-ookubo-2004-08-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-championships-artist-seishirou-ookubo-2004-08-23"
 ---

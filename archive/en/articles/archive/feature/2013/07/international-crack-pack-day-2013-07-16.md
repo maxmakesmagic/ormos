@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "&#13; Twenty years ago, at a convention in Wisconsin, gamers gathered at GenCon and opened the very first packs of Magic: The Gathering. Twenty years ago, very first new pack smell from Magic cards was unleashed upon the world!&#13; &#13; We've kept our twentieth anniversary celebrations fairly low-key, but with so much going on we've touched on it from to time. Such as sharing the Usenet post by Peter Adkison twenty years to the day after it was posted."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649541"
 [_metadata_:publish_date]:- "2013-07-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "International Crack-a-Pack Day"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-20 09:39:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-20 09:39:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170320093926id_/http://magic.wizards.com/en/articles/archive/feature/international-crack-pack-day-2013-07-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/international-crack-pack-day-2013-07-16"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; */"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "656286"
 [_metadata_:publish_date]:- "2012-01-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The World of Dark Ascension"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-07 06:34:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-07 06:34:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160807063435id_/http://magic.wizards.com/en/articles/archive/feature/world-dark-ascension-2012-01-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/world-dark-ascension-2012-01-11"
 ---

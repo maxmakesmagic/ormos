@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "There are two new items hitting MTGMerch.com today, including a new Ral Zarek t-shirt and a keychain!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649046"
 [_metadata_:publish_date]:- "2013-05-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "New MTG Merch!"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-05 01:16:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-05 01:16:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170405011642id_/http://magic.wizards.com/en/articles/archive/feature/new-mtg-merch-2013-05-17"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/new-mtg-merch-2013-05-17"
 ---

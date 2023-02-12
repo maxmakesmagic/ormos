@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Adam, Felix (210) 12 35 Maurey, Tyler (125) 12 Ames, David (157) 9 38 Norton, Douglas (163) 9 Anderson, Eddie (15) 12 16 Percopo, Joe (90) 12 Ash, Kevin (101) 9 54 Carroll, Brendan (69) 7 Aune, Eirik (167) 12 18 Tidd, David (110) 12 Barbeau, Alex (20) 9 42 Klein, Alexander (160) 9 Benjamin, Matt (177) 3 62 Carnavale, Dylan (77) 3 Blatnick,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948961"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Super Series Championship Round 7 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:28:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 16:28:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524162809id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-7-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-7-pairings-2000-01-01"
 ---

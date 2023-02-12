@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jeremy Jarvis"
 [_metadata_:description]:- "Innistrad is a plane of misty hills, autumnal color, canopied forest, overcast days, and deadly nights. I'm going to take you on a guided journey down the twisty path that led us here visually."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680941"
 [_metadata_:publish_date]:- "2011-09-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Creating the Art of Innistrad"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-06 15:27:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-06 15:27:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161106152715id_/http://magic.wizards.com/en/articles/archive/feature/creating-art-innistrad-2011-09-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/creating-art-innistrad-2011-09-05"
 ---

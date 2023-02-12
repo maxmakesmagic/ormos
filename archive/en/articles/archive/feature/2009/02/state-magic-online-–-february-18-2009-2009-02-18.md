@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Worth Wollpert"
 [_metadata_:description]:- "Hi everyone. It's been a while since we've communicated our broader plans for the program in a forum like this, so I and a bunch of others thought it was time to update everyone on what we're currently working on, and what the plans are for the rest of the year. Gordon sent me a long list of his notes that he was considering posting (and of course we talk daily), and rather"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682981"
 [_metadata_:publish_date]:- "2009-02-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "State of Magic Online – February 18, 2009"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 13:12:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 13:12:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021131203id_/https://magic.wizards.com/en/articles/archive/feature/state-magic-online-%E2%80%93-february-18-2009-2009-02-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/state-magic-online-%E2%80%93-february-18-2009-2009-02-18"
 ---

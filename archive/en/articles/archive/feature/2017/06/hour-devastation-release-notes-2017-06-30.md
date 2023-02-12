@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1165726"
 [_metadata_:publish_date]:- "2017-06-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Hour of Devastation Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-30 14:51:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-30 14:51:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170630145126id_/http://magic.wizards.com/en/articles/archive/feature/hour-devastation-release-notes-2017-06-30"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/hour-devastation-release-notes-2017-06-30"
 ---

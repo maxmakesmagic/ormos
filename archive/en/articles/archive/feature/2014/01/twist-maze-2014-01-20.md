@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Lots of people asked, so I'm here to present it in all its glory—Jon Louck's Maze's End deck from the R&D Challenge. Jon decided to spice it up and play his deck singleton style with the exception of Maze's End and Guildgates. There are some absurd situations that can come up when you're playing a singleton deck, as you never know what you're going to draw next. Will you be"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667496"
 [_metadata_:publish_date]:- "2014-01-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Twist in the Maze"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 20:25:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 20:25:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819202504id_/https://magic.wizards.com/en/articles/archive/feature/twist-maze-2014-01-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/twist-maze-2014-01-20"
 ---

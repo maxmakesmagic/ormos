@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "MIKE LONG - Rath Cycle 4 Mana Leak 4 Diabolic Edict 4 Hammerhead Shark 4 Legacy's Allure 4 Counterspell 4 Intuition 4 Forbid 3 Dominating Licid 1 Scroll Rack 2 Lobotomy 2 Thalakos Drifters 1 Volrath's Stronghold 4 Rootwater Depths 4 Stalking Stones 3 Swamp 12 Island SIDEBOARD 4 Wasteland 1 Volrath's Stronghold 4 Dark Banishing 2 Lobotomy 2 Capsize 2 Dismiss DAVID PRICE - Ice"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949736"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Block Party Decks"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 00:08:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 00:08:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202000841id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000block-party-decks-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000block-party-decks-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Rich looks ahead to what will and may be in store as Pro Tour Dragons of Tarkir takes flight in Brussels this weekend!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "374431"
 [_metadata_:publish_date]:- "2015-04-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Dragons of Tarkir Preview"
-[_metadata_:wayback_capture_timestamp]:- "2015-04-09 01:12:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-04-09 01:12:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150409011204id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-dragons-tarkir-preview-2015-04-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-dragons-tarkir-preview-2015-04-06"
 ---

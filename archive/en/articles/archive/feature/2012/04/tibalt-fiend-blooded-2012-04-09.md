@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "326586"
 [_metadata_:publish_date]:- "2012-04-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tibalt, the Fiend-Blooded"
-[_metadata_:wayback_capture_timestamp]:- "2015-01-23 06:05:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-01-23 06:05:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150123060537id_/http://magic.wizards.com/en/articles/archive/feature/tibalt-fiend-blooded-2012-04-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/tibalt-fiend-blooded-2012-04-09"
 ---

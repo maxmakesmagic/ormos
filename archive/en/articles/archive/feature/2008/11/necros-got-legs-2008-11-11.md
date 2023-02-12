@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "When Masters Edition 2 hit Magic Online, everyone's first choice for an avatar was, of course, Necropotence. But that presented certain difficulties. For one thing, Magic Online avatars show damage, so they normally wear away to a skeleton as the owner loses life points. But how do you do that with a skull? The decision was finally to show the skull itself wearing away: But"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653386"
 [_metadata_:publish_date]:- "2008-11-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Necro's Got Legs!"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:23:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:23:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429022331id_/https://magic.wizards.com/en/articles/archive/feature/necros-got-legs-2008-11-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/necros-got-legs-2008-11-11"
 ---

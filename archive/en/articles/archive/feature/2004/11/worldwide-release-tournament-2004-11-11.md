@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Simon Russell"
 [_metadata_:description]:- "Attend one of the following events listed below and get an exclusive release foil promo card. Tournament StructureSealed Deck – All players will receive 5 Unhinged booster packs from the Organizer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732226"
 [_metadata_:publish_date]:- "2004-11-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Worldwide Release Tournament"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:54:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 20:54:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027205420id_/https://magic.wizards.com/en/articles/archive/feature/worldwide-release-tournament-2004-11-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwide-release-tournament-2004-11-11"
 ---

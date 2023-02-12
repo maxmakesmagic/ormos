@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Portland is brought to you by Cascade Games and ChannelFireball.com.  Live Video Stream Information  Tournament Schedule  Side Events  Artist Information  Travel Information  Contact Information  Facebook Event  Official hashtag: #gpportland Date: August 7-10, 2014 Format: Magic 2015 Team Sealed Deck Tournament Location Oregon Convention Center 777 NE"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729326"
 [_metadata_:publish_date]:- "2014-05-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Portland Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:33:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:33:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118163327id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-portland-event-information-2014-05-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-portland-event-information-2014-05-06"
 ---

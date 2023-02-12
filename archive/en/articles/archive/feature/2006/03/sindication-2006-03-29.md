@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Wow, Orzhov Week already? It seems like only eight weeks ago that it was Gruul Week. How time flies. The Black and White Guild (which may or may not be Red all over), the Orzhov Syndicate is in a battle to the death with the Selesnya Conclave for least pun-friendly of all of the Guildpact signatories. Okay, throw in the Azorius Senate and make it a triangle. What I'm trying to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620746"
 [_metadata_:publish_date]:- "2006-03-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "In Sindication"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 19:44:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 19:44:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121194405id_/https://magic.wizards.com/en/articles/archive/feature/sindication-2006-03-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sindication-2006-03-29"
 ---

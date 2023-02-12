@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Rank Name Points Op-Match 1 Hothow Dominik (ger) 40 62.31% 2 Summersberger Helmut (AUT) 40 61.94% 3 Finkel Jon (USA) 40 60.55% 4 Klauser Benedikt (AUT) 40 59.07%"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "961321"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round Seventeen Standings Sorted By Score"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-01 02:06:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-01 02:06:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171101020658id_/https://magic.wizards.com/en/articles/archive/feature/round-seventeen-standings-sorted-score-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-seventeen-standings-sorted-score-2000-01-01"
 ---

@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220116222136/https://magic.wizards.com/en/articles/archive/feature/behind-scenes-creating-world-kamigawa-2004-09-06)
+[Link to Wayback Machine](https://web.archive.org/web/20170731154736/http://magic.wizards.com/en/articles/archive/feature/behind-scenes-creating-world-kamigawa-2004-09-06)
 
 [_metadata_:author]:- "Jeremy Cranford"
 [_metadata_:description]:- "It was the winter of 2003, and after much debate R&D’s creative group agreed to explore a new plane for Magic’s upcoming expansion code-named `Earth.` I knew the game designers were going to bring back Legends, and there was a lot of buzz to explore a realm similar to what was done with Arabian Nights."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "631246"
 [_metadata_:publish_date]:- "2004-09-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Behind the Scenes: Creating the World of Kamigawa"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 22:21:36+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116222136id_/https://magic.wizards.com/en/articles/archive/feature/behind-scenes-creating-world-kamigawa-2004-09-06"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/behind-scenes-creating-world-kamigawa-2004-09-06"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-31 15:47:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170731154736id_/http://magic.wizards.com/en/articles/archive/feature/behind-scenes-creating-world-kamigawa-2004-09-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/behind-scenes-creating-world-kamigawa-2004-09-06"
 ---
 
 

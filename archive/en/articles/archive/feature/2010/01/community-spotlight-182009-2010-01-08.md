@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to the new Community Spotlight! This space has been filled by This Week in Magic History for just under a year, and that means that if we don't change it up, we'll have to start repeating ourselves. So from now on, we'll be taking a look at interesting conversations, discussions, and debates in various parts of the Magic community. Here we go!December 26: Star City"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "600341"
 [_metadata_:publish_date]:- "2010-01-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Community Spotlight: 1/8/2009"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 10:58:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 10:58:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116105847id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-182009-2010-01-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-182009-2010-01-08"
 ---

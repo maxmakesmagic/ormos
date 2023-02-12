@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "629541"
 [_metadata_:publish_date]:- "2010-04-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Enter the Eldrazi, Part 3"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 05:47:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 05:47:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429054717id_/https://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-part-3-2010-04-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enter-eldrazi-part-3-2010-04-22"
 ---

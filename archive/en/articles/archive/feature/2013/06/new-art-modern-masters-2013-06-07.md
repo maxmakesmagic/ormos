@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "&#13; Whenever a new set comes out, it releases a veritable treasure trove of new art into Magic. The vast majority of those are pieces on new cards with only occasional new art pieces on reprinted cards. With Modern Masters we have a bunch of cards with completely new art, as well as a handful of cards with art never before put in booster packs (such as art from promos, From the Vault, or other places.)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649271"
 [_metadata_:publish_date]:- "2013-06-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "New Art in Modern Masters"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-21 02:32:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-21 02:32:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170321023255id_/http://magic.wizards.com/en/articles/archive/feature/new-art-modern-masters-2013-06-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/new-art-modern-masters-2013-06-07"
 ---

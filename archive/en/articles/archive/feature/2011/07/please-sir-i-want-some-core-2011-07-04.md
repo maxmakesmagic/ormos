@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653811"
 [_metadata_:publish_date]:- "2011-07-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Please Sir, I Want Some Core"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-25 17:02:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-25 17:02:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025170223id_/https://magic.wizards.com/en/articles/archive/feature/please-sir-i-want-some-core-2011-07-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/please-sir-i-want-some-core-2011-07-04"
 ---

@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "Gotta Catch Kai:AlphaBetaUnlimited's Ryan FullerAlex Shvartsman Zvi Mowshowitz Mike Pustilnikwww.alphabetaunlimited.com Ryan Fuller Chris Benafel Noah BoekenAfter a long and comical, discussion about who had what to play in what seats the two teams managed to sit down and start the round. These six players are without doubt among the best in the world and their title lists"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806166"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 3 Feature Match: Gotta Catch Kai vs. www.AlphaBetaUnlimited.com"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 22:21:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 22:21:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524222103id_/https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-gotta-catch-kai-vs-wwwalphabetaunlimitedcom-2000-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-feature-match-gotta-catch-kai-vs-wwwalphabetaunlimitedcom-2000-01"
 ---

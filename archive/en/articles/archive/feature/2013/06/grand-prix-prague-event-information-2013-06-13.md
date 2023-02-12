@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Prague is brought to you by Dazzle Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729341"
 [_metadata_:publish_date]:- "2013-06-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Prague Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 13:21:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 13:21:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031132154id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-event-information-2013-06-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-event-information-2013-06-13"
 ---

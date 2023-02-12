@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "If you're new to Magic or looking for a refresher on the basic rules, check out the Learn to Play page."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682091"
 [_metadata_:publish_date]:- "2012-12-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-19 21:28:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-19 21:28:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160119212836id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-2012-12-31"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-2012-12-31"
 ---

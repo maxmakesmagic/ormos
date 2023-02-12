@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210622112552/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-core-set-2013-01-07)
+[Link to Wayback Machine](https://web.archive.org/web/20201111174211/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-core-set-2013-01-07)
 
 [_metadata_:author]:- "Monty Ashley"
-[_metadata_:description]:- "Ignite Your Spark  Set Name Magic 2014 Core Set Number of Cards 249 Prerelease Events July 13-14, 2013 Release Date July 19, 2013 Magic Online Release Date July 29, 2013 Game Day August 10-11, 2013 Three-Letter Abbreviation M14 Twitter Hashtag #MTGM14 Initial Concept and Game Design Mark Globus (lead), Tom LaPille, Adam Lee, Shawn Main, and Ken Troop Final Game Design and"
+[_metadata_:description]:- "Ignite Your Spark"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "647941"
 [_metadata_:publish_date]:- "2013-01-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing the Magic 2014 Core Set"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-22 11:25:52+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210622112552id_/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-core-set-2013-01-07"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 17:42:11"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111174211id_/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-core-set-2013-01-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-core-set-2013-01-07"
 ---
 

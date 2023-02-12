@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "It's Planechase week, which we are interpreting to mean `anything to do with Planeswalkers is fair game`. So we're going to jump in Time Machine and shoot back to the days of Apocalypse! How many of the planeswalkers on the Planeswalker's cards can you name? (And no looking at the flavor text!)     It's Commodore Guff, seen here on the right side of Diversionary Tactics!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654216"
 [_metadata_:publish_date]:- "2009-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Who's That Planeswalker?"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 15:32:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 15:32:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429153214id_/https://magic.wizards.com/en/articles/archive/feature/whos-planeswalker-2009-09-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whos-planeswalker-2009-09-03"
 ---

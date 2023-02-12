@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Constructed-format portion of Pro Tour Philadelphia, previously scheduled to be Extended, has been changed to Modern. The new format will be used for ten rounds of Swiss play and the Top 8."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680806"
 [_metadata_:publish_date]:- "2011-08-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Philadelphia Format Change"
-[_metadata_:wayback_capture_timestamp]:- "2020-04-24 22:09:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-04-24 22:09:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200424220928id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-philadelphia-format-change-2011-08-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-philadelphia-format-change-2011-08-12"
 ---

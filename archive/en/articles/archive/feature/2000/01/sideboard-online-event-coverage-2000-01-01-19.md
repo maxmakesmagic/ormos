@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 3 Results - 14 and under Division Player Opponent Results Allen Dustin Grandon Kevin Lost, 1-2 Alpert Justin Blatnick Brandon Lost, 1-2 Altemara Chase Hartman Nick Lost, 1-2 Anderson Adam Cunningham Jeff Won, 2-1 Bailyn Jonathan Bizub Marc Won, 2-1 Basile Sebastian Percopo Joseph Lost, 0-2 Behlen Andrew Zappelli Joey Won, 2-1 Bizub Marc"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953276"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 02:24:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 02:24:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529022457id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-19"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Blake sits down with Alison Luhrs and Kelly Digges to answer a slew of fan questions."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1158481"
 [_metadata_:publish_date]:- "2017-05-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Story Podcast: Alison Luhrs and Kelly Digges"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-27 02:30:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-27 02:30:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170527023022id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-alison-luhrs-and-kelly-digges-2017-05-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-alison-luhrs-and-kelly-digges-2017-05-24"
 ---

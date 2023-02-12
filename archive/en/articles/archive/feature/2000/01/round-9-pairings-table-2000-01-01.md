@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TableTeamPointsOpponentPoints1The Ken Ho All-Stars24vsDynasty212The Ancient Kavus21vsThe Hubbsucker Proxy213Team Needs/Hotel Room *Amate21vsYour Move Games204Family Games Center19vsRug Doctors195Alp"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805806"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 9 Pairings (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-26 21:09:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-26 21:09:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160426210951id_/http://magic.wizards.com/en/articles/archive/feature/round-9-pairings-table-2000-01-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/round-9-pairings-table-2000-01-01"
 ---

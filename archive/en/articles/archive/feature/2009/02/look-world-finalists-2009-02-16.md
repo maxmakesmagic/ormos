@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Seattle, Wash.—Anyone within earshot of the finals of the 1995 Magic: The Gathering World Championships might have noticed something slightly peculiar—the championship duel between the two finalists was conducted in French. Since both Switzerland's Alexander Blumke and France's Marc Hernandez were from French-speaking countries, they had asked permission to hold their games in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682731"
 [_metadata_:publish_date]:- "2009-02-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Look at the World Finalists"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 05:35:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 05:35:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503053527id_/https://magic.wizards.com/en/articles/archive/feature/look-world-finalists-2009-02-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/look-world-finalists-2009-02-16"
 ---

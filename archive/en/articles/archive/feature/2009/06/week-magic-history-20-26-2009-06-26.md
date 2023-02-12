@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "June 18-20, 2004: Craig Krempels Wins US National Championship In what would prove to be Skullclamp's swan song in Standard, Krempels ran the CMU/Togit Elf and Nail deck through Alex Melnikow and William Postlethewait, before defeating Bill Stead in the finals. Krempels left Kansas City with the National Championship, a spot on the US team at 2004's World Championships, and a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "599641"
 [_metadata_:publish_date]:- "2009-06-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: 20-26"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 17:54:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 17:54:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122175434id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-20-26-2009-06-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-20-26-2009-06-26"
 ---

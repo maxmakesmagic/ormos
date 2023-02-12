@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jennifer Robles"
 [_metadata_:description]:- "I don't expect you to have heard of me. I'm Jennifer `Tifa` Meyen, founder and organizer for the Lady Planeswalkers Society, assistant brand manager for Magic, and a cohost on the DailyMTG.com Podcast with Trick Jarrett and Michael Robles. As I have a Creative Writing degree, I'm pretty excited for the opportunity to write my first article for you and I hope it's not the last."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353386"
 [_metadata_:publish_date]:- "2012-12-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The LPS and Creating Play Groups"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-26 23:51:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-26 23:51:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211126235130id_/https://magic.wizards.com/en/articles/archive/feature/lps-and-creating-play-groups-2012-12-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lps-and-creating-play-groups-2012-12-11"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Surrounded by spectators, the teams with the highest star value faced off. Each team has two Pro Tour winners, and the last two Players of the Year are represented. Pro Tour Chicago champion Dirk Baberowski (W/B) is facing Pro Tour New York 1998 winner Jon Finkel (B/G). 1999 World Champion Kai Budde (R/U) is facing Pro Tour New York 1999 winner Steven O'Mahoney-Schwartz (B/U)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951431"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 2 Round 9 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 05:38:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 05:38:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521053814id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-9-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-9-feature-match-2000-01-01"
 ---

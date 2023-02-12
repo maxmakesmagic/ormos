@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 6 August 2011Location: Shopping Center Solaris, Estonia pst. 9City: TallinnCountry: EstoniaThe Magic: the Gathering Estonia Championship is open to all citizens or permanent residents of Estonia.Contact informationEmail: kaupo@procard.eeTelephone: +37256702568Website: www.maagia.netFormatStandard and Booster Draft 3 Magic 2012 booster packs will be used for drafting Deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730121"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Estonia National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 00:57:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 00:57:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524005748id_/https://magic.wizards.com/en/articles/archive/feature/2011-estonia-national-championship-2009-04-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-estonia-national-championship-2009-04-27"
 ---

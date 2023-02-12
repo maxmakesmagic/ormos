@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211027142256/https://magic.wizards.com/en/articles/archive/feature/building-guilds-house-dimir-2018-10-19)
+[Link to Wayback Machine](https://web.archive.org/web/20210429090909/https://magic.wizards.com/en/articles/archive/feature/building-guilds-house-dimir-2018-10-19)
 
 [_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "Each guild on Ravnica has its own style, history, and personality, all fleshed out and solidified in our internal world guide."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1355711"
 [_metadata_:publish_date]:- "2018-10-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Building the Guilds – House Dimir"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 14:22:56+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027142256id_/https://magic.wizards.com/en/articles/archive/feature/building-guilds-house-dimir-2018-10-19"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 09:09:09"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429090909id_/https://magic.wizards.com/en/articles/archive/feature/building-guilds-house-dimir-2018-10-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-guilds-house-dimir-2018-10-19"
 ---
 

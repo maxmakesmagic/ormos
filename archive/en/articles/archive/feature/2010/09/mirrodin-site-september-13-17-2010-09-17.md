@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to `On the Mirrodin Site,` where we'll show off some of the week's highlights from the Mirrodin Site. This site is going to have a lot of content, so if you fall behind, just stop by here for the scoop."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "601366"
 [_metadata_:publish_date]:- "2010-09-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "On the Mirrodin Site: September 13-17"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-17 19:41:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-17 19:41:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170317194134id_/http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-september-13-17-2010-09-17"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-september-13-17-2010-09-17"
 ---

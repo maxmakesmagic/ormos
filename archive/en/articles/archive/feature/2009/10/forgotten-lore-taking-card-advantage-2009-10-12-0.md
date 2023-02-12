@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian Weissman"
 [_metadata_:description]:- "In the early days of tournament Magic, Brian Weissman popularized a control deck that people called `The Weissman Deck,` or, more often, just `The Deck`—a name that should give you an idea of just how dominant and influential it became."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683986"
 [_metadata_:publish_date]:- "2009-10-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Forgotten Lore: Taking Card Advantage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 18:48:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 18:48:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520184816id_/https://magic.wizards.com/en/articles/archive/feature/forgotten-lore-taking-card-advantage-2009-10-12-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/forgotten-lore-taking-card-advantage-2009-10-12-0"
 ---

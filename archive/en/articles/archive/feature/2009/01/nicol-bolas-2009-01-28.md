@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Planeswalker. Elder Dragon. Tyrant of Worlds. Nicol Bolas is one of the oldest known beings in the Multiverse—he has lived for many millennia. His malevolence is matched only by his boundless intellect. Nicol Bolas has survived multiple wars, cataclysms, and rivalries: the dragon war that left only five of the elders alive, the destruction of his Madaran Empire on Dominaria at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "637431"
 [_metadata_:publish_date]:- "2009-01-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Nicol Bolas"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-25 15:06:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-25 15:06:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210225150655id_/https://magic.wizards.com/en/articles/archive/feature/nicol-bolas-2009-01-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nicol-bolas-2009-01-28"
 ---

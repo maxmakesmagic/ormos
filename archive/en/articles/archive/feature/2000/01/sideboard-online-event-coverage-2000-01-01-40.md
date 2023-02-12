@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 1 Results - 14 and under Division Player Opponent Results Allen Dustin Wandrey Steven Lost, 0-2 Alpert Justin Behlen Andrew Lost, 0-2 Altemara Chase Carroll Brendan Won, 2-1 Anderson Adam Flynn Kyle Won, 2-1 Bailyn Jonathan Mcpherson Ryan Lost, 1-2 Basile Sebastian Watson Chris Won, 2-0 Behlen Andrew Alpert Justin Won, 2-0 Bizub Marc Hall"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953266"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 05:31:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 05:31:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522053146id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-40"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-40"
 ---

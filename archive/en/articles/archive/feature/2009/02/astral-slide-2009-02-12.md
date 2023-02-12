@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: FFfreaksgrandmother's Slide Format: Extended 1 Flagstones of Trokair 3 Forgotten Cave 1 Ghost Quarter 2 Sacred Foundry 4 Secluded Steppe 3 Snow-Covered Forest 1 Snow-Covered Mountain 2 Snow-Covered Plains 1 Stomping Ground 1 Temple Garden 4 Tranquil Thicket 2 Windswept Heath 2 Wooded Foothills 2 Cloudthresher 3 Kitchen Finks 3 Loxodon Hierarch 4 Astral Slide"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666541"
 [_metadata_:publish_date]:- "2009-02-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Astral Slide"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 15:45:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 15:45:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527154559id_/https://magic.wizards.com/en/articles/archive/feature/astral-slide-2009-02-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/astral-slide-2009-02-12"
 ---

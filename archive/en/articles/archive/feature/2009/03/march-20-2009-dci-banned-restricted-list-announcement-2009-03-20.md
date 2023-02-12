@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Announcement Date: March 20, 2009Effective Date: April 1, 2009Magic Online Effective Date: April 8, 2009Standard, Extended, Legacy, Vintage, Shards of Alara Block Constructed No changesMagic Online FormatsVanguard Avatar Changes Reaper King Was: -1 card, -5 life Now: -2 cards, -5 life Change: -1 card, +0 lifeNekrataal Was: +0 cards, -4 life Now: -1 card, -4 life Change: -1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683556"
 [_metadata_:publish_date]:- "2009-03-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "March 20, 2009 DCI Banned & Restricted List Announcement"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 17:12:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 17:12:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027171227id_/https://magic.wizards.com/en/articles/archive/feature/march-20-2009-dci-banned-restricted-list-announcement-2009-03-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/march-20-2009-dci-banned-restricted-list-announcement-2009-03-20"
 ---

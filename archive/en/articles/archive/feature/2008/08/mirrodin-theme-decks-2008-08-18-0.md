@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Bait and Bludgeon Little Bashers Wicked Big Sacrificial Bam (Back to Product Page) Bait and Bludgeon The `Bait & Bludgeon` deck shows your opponents the value of affinity, one of the new Mirrodin mechanics. Cards with affinity for artifacts cost {1} less to play for each artifact you control. Affinity doesn't affect the colored mana required, but with enough artifacts in play,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "700491"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mirrodin Theme Decks"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 00:39:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 00:39:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129003913id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-theme-decks-2008-08-18-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-theme-decks-2008-08-18-0"
 ---

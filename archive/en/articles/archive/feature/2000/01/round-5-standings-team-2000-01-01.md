@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win%121#I Magic 6 45.33% 98#realgangstas 6 62.50%135$30 Cab Fare 3 58.33% 47$42 Ticket 9 72.22% 76100 Super Good Fun Time 9 53.33%1413 for Flinching 3 55.55% 883 Stooges 7"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805901"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 5 Standings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:27:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:27:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124032702id_/https://magic.wizards.com/en/articles/archive/feature/round-5-standings-team-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-standings-team-2000-01-01"
 ---

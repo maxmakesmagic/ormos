@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "Another fantastic year in the books... Are you tired of hearing me say that yet? Because I'm certainly not tired of saying it. You all turned up in record numbers to all kinds of events, and you made the sets we released in 2012 the most popular of all time."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682146"
 [_metadata_:publish_date]:- "2013-01-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "From the Director's Chair: 2012"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-20 10:08:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-20 10:08:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171120100848id_/https://magic.wizards.com/en/articles/archive/feature/directors-chair-2012-2013-01-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/directors-chair-2012-2013-01-02"
 ---

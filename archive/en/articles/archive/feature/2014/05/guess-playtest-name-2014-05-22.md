@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "The newest Magic set, Conspiracy, introduces a lot of awesome new cards into our favorite game. It also has some of my favorite playtest names ever. Let's take a quick quiz and see which card had which playtest name. This isn't a quiz that you will know the answer, this is just a guess and see if you are right. So don't feel bad if you miss a few!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "652491"
 [_metadata_:publish_date]:- "2014-05-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Guess the Playtest Name"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 15:32:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 15:32:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201153252id_/https://magic.wizards.com/en/articles/archive/feature/guess-playtest-name-2014-05-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guess-playtest-name-2014-05-22"
 ---

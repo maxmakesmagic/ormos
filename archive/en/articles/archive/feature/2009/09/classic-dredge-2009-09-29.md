@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: ZeroUnlimited's Classic Dredge Format: Magic Online Classic 4 Bazaar of Baghdad 4 City of Brass 4 Petrified Field 1 Angel of Despair 2 Flame-Kin Zealot 4 Golgari Grave-Troll 4 Golgari Thug 4 Ichorid 4 Narcomoeba 4 Stinkweed Imp 2 Breakthrough 4 Bridge from Below 4 Cabal Therapy 3 Dread Return 4 Emerald Charm 4 Leyline of the Void 4 Serum Powder *4 Ancient"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668831"
 [_metadata_:publish_date]:- "2009-09-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Classic Dredge"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 23:57:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 23:57:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121235700id_/https://magic.wizards.com/en/articles/archive/feature/classic-dredge-2009-09-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/classic-dredge-2009-09-29"
 ---

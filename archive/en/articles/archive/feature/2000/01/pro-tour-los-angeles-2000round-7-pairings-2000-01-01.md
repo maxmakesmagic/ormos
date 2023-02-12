@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Abe, Kazufumi (145) 3 *** BYE *** Alvarenga, Rafael (76) 12 94 Olivieri, Nicolas (176) 13 Anzorena, Pablo (15) 6 109 Pikula, Chris (313) 6 Azevedo, Pedro (199) 3 52 Ragull, Guillem (131) 6 Bachmann, David (229) 10 20 Cornelissen, Stijn (130) 10 Benefel, Chris (163) 11 49 Hernandez, Marc (22) 13 Benefield, Kevin (234) 12 6 Weitz, David (223)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950516"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 7 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:12:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 15:12:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118151257id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-7-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-7-pairings-2000-01-01"
 ---

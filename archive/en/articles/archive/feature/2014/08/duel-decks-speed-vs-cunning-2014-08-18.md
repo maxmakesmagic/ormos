@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Showing you everything at once from the new Duel Decks: Speed vs. Cunning."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "259971"
 [_metadata_:publish_date]:- "2014-08-18"
+[_metadata_:source]:- "div-main"
 [_metadata_:title]:- "Duel Decks: Speed vs. Cunning"
-[_metadata_:wayback_capture_timestamp]:- "2014-08-20 04:12:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-08-20 04:12:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20140820041226id_/http://magic.wizards.com/en/articles/archive/feature/duel-decks-speed-vs-cunning-2014-08-18"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duel-decks-speed-vs-cunning-2014-08-18"
 ---

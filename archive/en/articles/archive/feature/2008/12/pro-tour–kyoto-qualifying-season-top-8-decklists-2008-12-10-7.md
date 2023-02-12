@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Joseph Lee Format: 1st Place - Arizona - Phoenix - 12/6 6 Forest 2 Mountain 7 Plains 1 Jund Panorama 1 Savage Lands 1 Court Archers 2 Akrasan Squire 1 Ranger of Eos 2 Sigiled Paladin 1 Welkin Guide 2 Qasali Ambusher 1 Mosstodon 2 Topan Ascetic 2 Wild Nacatl 1 Angelsong 1 Excommunicate 1 Resounding Silence 2 Naya Charm 1 Resounding Thunder 1 Lush Growth 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "726791"
 [_metadata_:publish_date]:- "2008-12-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Kyoto Qualifying Season: Top 8 Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 11:25:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 11:25:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019112554id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-7"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-10-7"
 ---

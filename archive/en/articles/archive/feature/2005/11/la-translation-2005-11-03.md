@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "At the time of this writing, Pro Tour-Los Angeles has been over for less than 24 hours. Meanwhile, for the first time in recent memory, we are in the midst of a Constructed PTQ format that is exactly the same as the format of the aforementioned Pro Tour. If you're interested in picking up a Blue Envelope for Honolulu, sit back and pay attention: not only are we breaking ground"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628241"
 [_metadata_:publish_date]:- "2005-11-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "L.A. in Translation"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 06:51:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 06:51:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206065151id_/https://magic.wizards.com/en/articles/archive/feature/la-translation-2005-11-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/la-translation-2005-11-03"
 ---

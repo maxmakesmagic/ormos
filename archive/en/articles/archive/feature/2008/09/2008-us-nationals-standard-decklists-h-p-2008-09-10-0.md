@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: David Hafter Format: 137 - U.S. National Championships 2008 4 Treetop Village 4 Grove of the Burnwillows 10 Snow-Covered Forest 1 Snow-Covered Mountain 3 Mouth of Ronom 2 Highland Weald 3 Cloudthresher 4 Kitchen Finks 1 Grim Poppet 4 Wall of Roots 4 Chameleon Colossus 4 Skred 4 Firespout 4 Into the North 2 Primal Command 2 Edge of Autumn 4 Harmonize *4 Magus"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "599146"
 [_metadata_:publish_date]:- "2008-09-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2008 U.S. Nationals Standard Decklists (H-P)"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 00:34:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 00:34:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117003401id_/https://magic.wizards.com/en/articles/archive/feature/2008-us-nationals-standard-decklists-h-p-2008-09-10-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-us-nationals-standard-decklists-h-p-2008-09-10-0"
 ---

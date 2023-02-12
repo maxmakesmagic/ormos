@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Previews are nearly over, but Blake still has a few goodies left to show off."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1033246"
 [_metadata_:publish_date]:- "2016-07-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Eldritch Moon Tokens and Promo Cards"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 15:21:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 15:21:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707152106id_/http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-tokens-and-promo-cards-2016-07-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-tokens-and-promo-cards-2016-07-07"
 ---

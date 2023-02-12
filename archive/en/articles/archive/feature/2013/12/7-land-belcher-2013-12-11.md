@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112020408/https://magic.wizards.com/en/articles/archive/feature/7-land-belcher-2013-12-11)
+[Link to Wayback Machine](https://web.archive.org/web/20170630085132/http://magic.wizards.com/en/articles/archive/feature/7-land-belcher-2013-12-11)
 
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667336"
 [_metadata_:publish_date]:- "2013-12-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "7-Land Belcher"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:04:08+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020408id_/https://magic.wizards.com/en/articles/archive/feature/7-land-belcher-2013-12-11"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/7-land-belcher-2013-12-11"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-30 08:51:32"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170630085132id_/http://magic.wizards.com/en/articles/archive/feature/7-land-belcher-2013-12-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/7-land-belcher-2013-12-11"
 ---
 
 
@@ -54,7 +56,6 @@ This is one of the most unique Modern decks I've seen, and I wish anyone playing
 
 
 
-
 #### YQM's 7-Land Belcher
 
 
@@ -65,9 +66,7 @@ This is one of the most unique Modern decks I've seen, and I wish anyone playing
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -456,8 +455,12 @@ OverviewColorCostRarity
 
 
 
-##### Common (34)
+##### Common (47)
 
+
+
+6
+[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BForest%5D)
 
 
 4
@@ -466,6 +469,10 @@ OverviewColorCostRarity
 
 4
 [Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+
+
+3
+[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimian%5D+%5BSpirit%5D+%5BGuide%5D)
 
 
 3
@@ -492,6 +499,10 @@ OverviewColorCostRarity
 [Into the North](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInto%5D+%5Bthe%5D+%5BNorth%5D)
 
 
+4
+[Utopia Sprawl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BSprawl%5D)
+
+
 3
 [Nature's Claim](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNature%5D+%5BClaim%5D)
 
@@ -501,12 +512,8 @@ OverviewColorCostRarity
 
 
 
-##### Uncommon (14)
+##### Uncommon (7)
 
-
-
-3
-[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimian%5D+%5BSpirit%5D+%5BGuide%5D)
 
 
 4
@@ -517,25 +524,13 @@ OverviewColorCostRarity
 [Fabricate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D)
 
 
-4
-[Utopia Sprawl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BSprawl%5D)
-
-
 1
 [Autumn's Veil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAutumn%5D+%5BVeil%5D)
 
 
 
-##### Rare (27)
+##### Rare (20)
 
-
-
-6
-[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BForest%5D)
-
-
-1
-[Breeding Pool](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
 
 
 4
@@ -564,6 +559,15 @@ OverviewColorCostRarity
 
 2
 [Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellskite%5D)
+
+
+
+##### Mythic (1)
+
+
+
+1
+[Breeding Pool](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
 
 
 75 Cards 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Vjeran Horvat on becoming champion of Grand Prix Prague!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667466"
 [_metadata_:publish_date]:- "2014-01-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Prague Winning Decklist"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 13:33:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 13:33:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024133334id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-winning-decklist-2014-01-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-prague-winning-decklist-2014-01-13"
 ---

@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220122171839/https://magic.wizards.com/en/articles/archive/feature/autumn-schedule-features-seattle-pro-tour-fourteen-grand-prix-2012-02-10)
+[Link to Wayback Machine](https://web.archive.org/web/20201111224637/https://magic.wizards.com/en/articles/archive/feature/autumn-schedule-features-seattle-pro-tour-fourteen-grand-prix-2012-02-10)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "The massive 2012 Grand Prix schedule concludes with trips to ten different countries from September to December, including a rare visit to Moscow and the first Grand Prix in Costa Rica. That brings the total Grand Prix to be run in 2012 to an astounding 42 events across the globe. To help kick off `Hook` block this fall, the Pro Tour returns to the birthplace of Magic for the"
+[_metadata_:description]:- "The massive 2012 Grand Prix schedule concludes with trips to ten different countries from September to December, including a rare visit to Moscow and the first Grand Prix in Costa Rica. That brings the total Grand Prix to be run in 2012 to an astounding 42 events across the globe."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "658741"
 [_metadata_:publish_date]:- "2012-02-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Autumn Schedule Features Seattle Pro Tour, Fourteen Grand Prix"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 17:18:39+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122171839id_/https://magic.wizards.com/en/articles/archive/feature/autumn-schedule-features-seattle-pro-tour-fourteen-grand-prix-2012-02-10"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 22:46:37"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111224637id_/https://magic.wizards.com/en/articles/archive/feature/autumn-schedule-features-seattle-pro-tour-fourteen-grand-prix-2012-02-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/autumn-schedule-features-seattle-pro-tour-fourteen-grand-prix-2012-02-10"
 ---
 
@@ -26,7 +28,7 @@ Autumn Schedule Features Seattle Pro Tour, Fourteen Grand Prix
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

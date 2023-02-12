@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Are you ready to experience nonstop Magic with thousands of players? Grab your cards and make plans to attend Magic Weekend.Wizards of the Coast is excited to announce the Magic Weekend schedule for 2011. With stops in Paris, Nagoya, Philadelphia, and San Francisco, Magic Weekend is the place to be if you're a Magic fan. Play in tons of Magic tournaments and events for every"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688041"
 [_metadata_:publish_date]:- "2010-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Weekend Coming in 2011"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:53:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:53:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522175302id_/https://magic.wizards.com/en/articles/archive/feature/magic-weekend-coming-2011-2010-09-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-weekend-coming-2011-2010-09-01"
 ---

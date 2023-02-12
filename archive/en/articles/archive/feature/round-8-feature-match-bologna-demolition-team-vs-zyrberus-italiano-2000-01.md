@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Luca Chiera"
 [_metadata_:description]:- "Bologna Demolition TeamNel secondo draft pod la la piu' blasonata delle quattro squadre italiane partecipanti al secondo giorno, i Bologna Demolition Team (Andrea Paselli, Alessandro Betti, Norberto Giusti) si trovano a giocare contro il team svizzero degli Ziberus (Andreas Muller, Tommi Lindgren, Roger Leu)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806106"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 8 Feature Match: Bologna Demolition Team vs. Zyrberus (in Italiano)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 17:54:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 17:54:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625175424id_/https://magic.wizards.com/en/articles/archive/feature/round-8-feature-match-bologna-demolition-team-vs-zyrberus-italiano-2000-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-feature-match-bologna-demolition-team-vs-zyrberus-italiano-2000-01"
 ---

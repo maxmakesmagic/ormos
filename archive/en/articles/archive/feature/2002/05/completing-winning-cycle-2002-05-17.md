@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Wizards’ R&D has long wanted to make the game even more diverse by introducing new ways to defeat your opponent. However, printing cards that say “you win the game” is tricky business. Make the card too good and you can unbalance the game. Make it too weak, and it will join the ranks of Pale Moon and Purelace in your cat’s litter box.When a decision to publish such a card was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634271"
 [_metadata_:publish_date]:- "2002-05-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Completing the Winning Cycle"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 15:12:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 15:12:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018151239id_/https://magic.wizards.com/en/articles/archive/feature/completing-winning-cycle-2002-05-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/completing-winning-cycle-2002-05-17"
 ---

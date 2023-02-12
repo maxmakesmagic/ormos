@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220816095951/https://magic.wizards.com/en/articles/archive/feature/ascending-next-level-2014-01-30)
+[Link to Wayback Machine](https://web.archive.org/web/20211017004152/https://magic.wizards.com/en/articles/archive/feature/ascending-next-level-2014-01-30)
 
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "I've always been fascinated by any sort of hybridization between decks. Even though the strategic implications are huge, I'm more satisfied knowing that something clever is occurring. In this instance, we have the best of both worlds. On the surface, we have a Pyromancer Ascension control deck that resembles the Standard version from years ago, but it clearly draws on the RWU"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667536"
 [_metadata_:publish_date]:- "2014-01-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ascending to the Next Level"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 09:59:51+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816095951id_/https://magic.wizards.com/en/articles/archive/feature/ascending-next-level-2014-01-30"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 00:41:52"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017004152id_/https://magic.wizards.com/en/articles/archive/feature/ascending-next-level-2014-01-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ascending-next-level-2014-01-30"
 ---
 
@@ -459,7 +461,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (22)
+##### Common (20)
 
 
 
@@ -491,17 +493,9 @@ OverviewColorCostRarity
 [Pestermite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPestermite%5D)
 
 
-2
-[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
+##### Uncommon (13)
 
-
-##### Uncommon (15)
-
-
-
-4
-[Lightning Bolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
 
 
 4
@@ -516,8 +510,12 @@ OverviewColorCostRarity
 [Deceiver Exarch](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeceiver%5D+%5BExarch%5D)
 
 
+2
+[Relic of Progenitus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D)
 
-##### Rare (37)
+
+
+##### Rare (41)
 
 
 
@@ -563,6 +561,10 @@ OverviewColorCostRarity
 
 3
 [Electrolyze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrolyze%5D)
+
+
+4
+[Lightning Bolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
 
 
 4

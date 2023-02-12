@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- " "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "659651"
 [_metadata_:publish_date]:- "2015-09-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "ROUND 13 PAIRINGS"
-[_metadata_:wayback_capture_timestamp]:- "2015-09-19 23:22:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-19 23:22:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150919232246id_/http://magic.wizards.com/en/articles/archive/feature/round-13-pairings-2015-09-13"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/round-13-pairings-2015-09-13"
 ---

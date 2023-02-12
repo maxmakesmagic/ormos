@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "I spent most of my time testing for Pro Tour Dragon's Maze trying to build decks that used cipher—either Hidden Strings, Whispering Madness, or both. The Whispering Madness deck felt close, but the removal in Block just wasn't quite good enough. In Standard, access to better mana and cheaper removal offers a lot of new options, and the combo is definitely outstanding once it gets going."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666546"
 [_metadata_:publish_date]:- "2013-05-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Whispering Thief"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-01 07:07:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-01 07:07:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170301070758id_/http://magic.wizards.com/en/articles/archive/feature/whispering-thief-2013-05-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/whispering-thief-2013-05-24"
 ---

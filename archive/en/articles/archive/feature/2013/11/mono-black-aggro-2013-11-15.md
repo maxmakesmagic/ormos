@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667236"
 [_metadata_:publish_date]:- "2013-11-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mono-Black Aggro"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-26 04:25:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-26 04:25:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161126042510id_/http://magic.wizards.com/en/articles/archive/feature/mono-black-aggro-2013-11-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-black-aggro-2013-11-15"
 ---

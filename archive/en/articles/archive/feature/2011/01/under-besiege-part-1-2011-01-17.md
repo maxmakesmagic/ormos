@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653211"
 [_metadata_:publish_date]:- "2011-01-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Under Besiege, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-20 14:57:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-20 14:57:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160620145734id_/http://magic.wizards.com/en/articles/archive/feature/under-besiege-part-1-2011-01-17"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/under-besiege-part-1-2011-01-17"
 ---

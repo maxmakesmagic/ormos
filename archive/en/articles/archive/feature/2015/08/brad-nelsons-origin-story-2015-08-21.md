@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200528014118/https://magic.wizards.com/en/articles/archive/feature/brad-nelsons-origin-story-2015-08-21)
+[Link to Wayback Machine](https://web.archive.org/web/20150826085317/http://magic.wizards.com/en/articles/archive/feature/brad-nelsons-origin-story-2015-08-21)
 
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Brad Nelson's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "523381"
 [_metadata_:publish_date]:- "2015-08-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Brad Nelson's Origin Story"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-28 01:41:18+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200528014118id_/https://magic.wizards.com/en/articles/archive/feature/brad-nelsons-origin-story-2015-08-21"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brad-nelsons-origin-story-2015-08-21"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-26 08:53:17"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150826085317id_/http://magic.wizards.com/en/articles/archive/feature/brad-nelsons-origin-story-2015-08-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/brad-nelsons-origin-story-2015-08-21"
 ---
 
 
@@ -38,7 +40,6 @@ By Mike Rosenberg
 
 
 
-
 A titan of *Magic Online*'s earlier days and now a titan of professional *Magic* in general, former Player of the Year Brad Nelson has built a tremendous career in the game.
 
 
@@ -46,7 +47,7 @@ Originally more recognized by his *Magic Online* username "FFFreak," Nelson is n
 
 
 ![](https://media.wizards.com/2015/events/2015wc/2015wc_nelson.jpg)  
-*2015 World Championship Competitor Brad Nelson*
+
 
 
 However, Nelson's beginnings with *Magic* go even before his ascension toward one of *Magic Online*'s most feared players.

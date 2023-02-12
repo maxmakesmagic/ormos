@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "  Junior Super Series Championship  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953286"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-02 14:17:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-02 14:17:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170602141707id_/http://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-17"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-17"
 ---

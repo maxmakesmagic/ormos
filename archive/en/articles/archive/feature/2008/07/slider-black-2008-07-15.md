@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "640511"
 [_metadata_:publish_date]:- "2008-07-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Slider Black"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 11:53:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 11:53:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021115322id_/https://magic.wizards.com/en/articles/archive/feature/slider-black-2008-07-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/slider-black-2008-07-15"
 ---

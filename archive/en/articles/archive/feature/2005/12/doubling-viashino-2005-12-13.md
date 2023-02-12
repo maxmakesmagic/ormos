@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The original art description for Doubling Season called for the art to depict a double batch of viashino instead of saprolings. The artist, Wayne Reynolds, duly created this initial sketch:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "597546"
 [_metadata_:publish_date]:- "2005-12-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Doubling Viashino"
-[_metadata_:wayback_capture_timestamp]:- "2019-10-29 22:04:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-10-29 22:04:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191029220445id_/https://magic.wizards.com/en/articles/archive/feature/doubling-viashino-2005-12-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/doubling-viashino-2005-12-13"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Marcello Calvetta's Caw-Blade Format: Standard 4 Celestial Colonnade 4 Glacial Fortress 4 Inkmoth Nexus 4 Island 3 Plains 4 Seachrome Coast 4 Tectonic Edge 1 Mirran Crusader 3 Spellskite 4 Squadron Hawk 3 Dismember 2 Gideon Jura 2 Into the Roil 3 Jace Beleren 4 Mana Leak 4 Preordain 3 Spell Pierce 3 Sword of Feast and Famine 2 Timely Reinforcements *2 Day of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671361"
 [_metadata_:publish_date]:- "2011-08-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Italy National Champs"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 12:00:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 12:00:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024120055id_/https://magic.wizards.com/en/articles/archive/feature/italy-national-champs-2011-08-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/italy-national-champs-2011-08-05"
 ---

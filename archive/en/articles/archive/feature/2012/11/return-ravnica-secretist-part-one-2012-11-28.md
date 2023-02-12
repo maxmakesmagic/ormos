@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Magic fans, fantasy readers, and Internet happeners-by: Hi. I'm a writer and worldbuilder forMagic: The Gathering and, as some of you may know, a former columnist on this very site."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353411"
 [_metadata_:publish_date]:- "2012-11-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Return to Ravnica: The Secretist, Part One"
-[_metadata_:wayback_capture_timestamp]:- "2015-04-01 07:14:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-04-01 07:14:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150401071429id_/http://magic.wizards.com/en/articles/archive/feature/return-ravnica-secretist-part-one-2012-11-28"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/return-ravnica-secretist-part-one-2012-11-28"
 ---

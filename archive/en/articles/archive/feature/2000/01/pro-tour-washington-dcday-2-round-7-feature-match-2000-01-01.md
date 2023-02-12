@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The feature match is Team CMU vs. Team Your Move Games Mike Turian (R/G) vs. Rob Dougherty (R/G) Randy Buehler (U) vs. David Humpherys (U/W) Erik Lauer (B/W) vs. Darwin Kastle (B/W)  Team CMU  Team Your Move Games  Rob Dougherty mulliganed to begin game one, while Mike Turian started quickly.  In the second seat, Randy Beuhler started with a Raven Familiar and two Snaps,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951391"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 2 Round 7 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 08:32:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 08:32:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516083228id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-7-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-7-feature-match-2000-01-01"
 ---

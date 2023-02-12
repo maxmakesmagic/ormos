@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "The stage is set for the start of the 2015 Magic World Championship. Rich explains the finer points of this, the most dramatic of finales."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "524401"
 [_metadata_:publish_date]:- "2015-08-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "World Championship Preview"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-28 03:45:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-28 03:45:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150828034545id_/http://magic.wizards.com/en/articles/archive/feature/world-championship-preview-2015-08-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/world-championship-preview-2015-08-24"
 ---

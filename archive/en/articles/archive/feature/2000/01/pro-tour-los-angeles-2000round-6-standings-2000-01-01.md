@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Tsang, Terry 18 62.9630 92.3077 61.0119 6/6/0/0 2 Burgner, Kurt 18 59.2593 85.7143 54.7863 6/6/0/0 3 Ljones, Christer 18 55.5556 75.0000 56.3095 6/6/0/0 4 McKenna, Tim 16 62.0370 68.7500 58.6033 6/5/1/0 5 Kastle, Darwin 16 56.6667 84.6154 53.7241 6/5/1/0 6 D'Tela, Sceadeau 16 54.6296 73.3333 53.2680"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950506"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 6 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 10:39:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 10:39:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205103959id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-6-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-6-standings-2000-01-01"
 ---

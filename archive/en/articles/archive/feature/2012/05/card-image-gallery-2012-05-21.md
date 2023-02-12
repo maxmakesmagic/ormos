@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to the Card Image Gallery for Planechase (2012 Edition). This is a constantly updated archive of every preview card for Planechase (2012 Edition), so check back often for updates!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "701746"
 [_metadata_:publish_date]:- "2012-05-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Image Gallery"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 14:17:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 14:17:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207141728id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-05-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-05-21"
 ---

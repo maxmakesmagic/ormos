@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Pro Tour Hall of Famer Brian Kibler, your Pro Tour Dark Ascension champion. Kibler and his Wolf Run Ramp deck defeated Paulo Vitor Damo da Rosa in a five-game final to earn him his second Pro Tour title. In the semifinals, Kibler played one of the most memorable matches in Magic history when he beat Pro Tour Hall of Famer Jon Finkel in five incredibly tense"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672056"
 [_metadata_:publish_date]:- "2012-02-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Dark Ascension Winner"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 20:43:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 20:43:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502204325id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-dark-ascension-winner-2012-02-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-dark-ascension-winner-2012-02-13"
 ---

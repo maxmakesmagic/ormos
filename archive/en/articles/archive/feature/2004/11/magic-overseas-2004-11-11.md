@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Upon its release, Magic almost immediately became an international phenomenon. After it was originally introduced at Gen Con in 1993, small groups took the cards back to Canada and the United Kingdom. It did not take very long at all for this highly addictive hobby to find its way across dozens of borders and into the lives of fans worldwide. Magic’s early days saw it spread"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "637781"
 [_metadata_:publish_date]:- "2004-11-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Overseas"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:12:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:12:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429081253id_/https://magic.wizards.com/en/articles/archive/feature/magic-overseas-2004-11-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-overseas-2004-11-11"
 ---

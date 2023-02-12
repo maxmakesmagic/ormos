@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "UKWorldwide Fact Sheet DateCountryCityVenueAddressPostal CodeContact 4/26/2009Great BritainAldershotThe Games ShopThe Games ShopGU11 1DZ 4/25/2009Great BritainAltrinchamThe Gaming Crypt14 Lloyd StreetWA14 2DEEmail 4/26/2009Great BritainAltrinchamThe Gaming Crypt14 Lloyd StreetWA14 2DEEmail 4/26/2009Great BritainBarnstapleThe Battlezone59 Boutport StreetEX31 1SH 4/26/2009Great"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "702451"
 [_metadata_:publish_date]:- "2009-03-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Alara Reborn Prerelease Schedule"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 04:06:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 04:06:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208040637id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31-2"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-prerelease-schedule-2009-03-31-2"
 ---

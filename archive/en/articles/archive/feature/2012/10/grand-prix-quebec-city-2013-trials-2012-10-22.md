@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Quebec City Trials will be run at North America WPN locations from December 1, 2012 to February 10, 2013. Each awards the winner a three-round bye to Grand Prix Quebec City. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729381"
 [_metadata_:publish_date]:- "2012-10-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Quebec City 2013 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 21:06:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 21:06:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502210648id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-quebec-city-2013-trials-2012-10-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-quebec-city-2013-trials-2012-10-22"
 ---

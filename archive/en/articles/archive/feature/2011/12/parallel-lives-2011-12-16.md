@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "At the StarCityGames.com Invitational this past weekend, Jonathan Job showcased an exciting new Standard deck featuring Parallel Lives! Duplicating everything from Golem tokens to Mimic Vat tokens, the enchantment works overtime in this strategy. Check it out, and bring it to your Friday Night Magic tournament tonight!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671871"
 [_metadata_:publish_date]:- "2011-12-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Parallel Lives"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-17 19:37:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-17 19:37:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170317193734id_/http://magic.wizards.com/en/articles/archive/feature/parallel-lives-2011-12-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/parallel-lives-2011-12-16"
 ---

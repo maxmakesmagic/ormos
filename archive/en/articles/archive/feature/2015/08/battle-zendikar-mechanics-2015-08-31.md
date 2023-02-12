@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160830232253/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31)
+[Link to Wayback Machine](https://web.archive.org/web/20150906110117/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "The new and returning mechanics of Battle for Zendikar."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "538896"
 [_metadata_:publish_date]:- "2015-08-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battle for Zendikar Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-30 23:22:53+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160830232253id_/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-06 11:01:17"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150906110117id_/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31"
 ---
 

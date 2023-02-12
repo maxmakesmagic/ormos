@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win%1Team Bald Dummy966.66%2$42 Ticket966.66%3Team $20 Dolla Billz966.66%4Antarctica966.66%5The Ancient Kavus966.66%6Just Concede966.66%7Dynasty966.66%8The Ken Ho All-Stars966.66%9Frog Eaters966.66%10European Alliance966.66%115 Ways Worse than Portent966.66%12Shinku Hoboken966.66%13Family Games Center966.66%14AlphaBetaUnlimited.com/966.66%15Potato"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805966"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 3 Standings (by Score)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 12:18:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 12:18:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627121810id_/https://magic.wizards.com/en/articles/archive/feature/round-3-standings-score-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-standings-score-2000-01-01"
 ---

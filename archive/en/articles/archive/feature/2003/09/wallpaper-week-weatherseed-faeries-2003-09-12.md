@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is the Urza's Legacy flyer Weatherseed Faeries by Don Hazeltine. Enjoy. 1024x768 800x600 See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "605951"
 [_metadata_:publish_date]:- "2003-09-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Weatherseed Faeries"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 13:04:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 13:04:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625130455id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-weatherseed-faeries-2003-09-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-weatherseed-faeries-2003-09-12"
 ---

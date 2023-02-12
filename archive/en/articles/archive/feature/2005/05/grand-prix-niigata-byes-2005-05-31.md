@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rating used: Constructed, May 11th, 2005Pro Point Standings Used: Magic the Gathering Pro Players Club."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735541"
 [_metadata_:publish_date]:- "2005-05-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Niigata Byes"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 02:20:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 02:20:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024022025id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-niigata-byes-2005-05-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-niigata-byes-2005-05-31"
 ---

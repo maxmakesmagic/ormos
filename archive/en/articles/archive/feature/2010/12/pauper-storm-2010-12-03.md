@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: The_Raging_Flump's Pauper Storm Format: Pauper Challenge - Magic Online Event 2 Azorius Chancery 3 Dimir Aqueduct 4 Evolving Wilds 6 Snow-Covered Island 2 Snow-Covered Plains 1 Snow-Covered Swamp 4 Terramorphic Expanse 4 Cloud of Faeries 1 Mnemonic Wall 4 Mulldrifter 4 Nightscape Familiar 4 Sunscape Familiar 4 Compulsive Research 4 Deep Analysis 3 Foresee 4 Frantic Search 3 Snap 3 Temporal Fissure *4 Galina's Knight"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670446"
 [_metadata_:publish_date]:- "2010-12-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pauper Storm"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-15 18:46:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-15 18:46:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170815184648id_/http://magic.wizards.com/en/articles/archive/feature/pauper-storm-2010-12-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pauper-storm-2010-12-03"
 ---

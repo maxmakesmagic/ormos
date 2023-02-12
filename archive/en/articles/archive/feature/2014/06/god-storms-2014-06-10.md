@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "Purphoros demands devotion to red. As it turns out, so do many of the other gods on Theros. Keranos, God of Storms also takes advantage of devotion to red, giving a red devotion deck a heavy incentive to find as many red mana symbols on permanents as possible. This deck accommodates the need for red mana symbols with many different color-intense cards. Ash Zealot, Burning-Tree"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668061"
 [_metadata_:publish_date]:- "2014-06-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The God of Storms"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 15:33:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 15:33:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819153328id_/https://magic.wizards.com/en/articles/archive/feature/god-storms-2014-06-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/god-storms-2014-06-10"
 ---

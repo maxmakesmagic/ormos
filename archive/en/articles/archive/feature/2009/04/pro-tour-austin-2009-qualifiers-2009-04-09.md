@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "North AmericaMay-August 2009 StateCityEvent dateInvitationsLocationAddressContact phoneURL AlabamaMobile6/6/20091University of AlabamaStudent Center Ballroom 251- 610-8052 Website AlabamaBirmingham8/22/20091Coffee Stop & Game Shop310 1st Ave., East, Oneonta251- 610-8052 Website AlaskaAnchorage5/17/20091Waynes World of Collectibles1921 W."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "640076"
 [_metadata_:publish_date]:- "2009-04-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Austin 2009 - Qualifiers"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 00:14:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 00:14:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025001407id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-austin-2009-qualifiers-2009-04-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-austin-2009-qualifiers-2009-04-09"
 ---

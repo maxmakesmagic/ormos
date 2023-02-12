@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Kuala Lumpur is brought to you by Play! Events.  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpkl Date: January 24-26, 2014 Format: Theros Sealed Deck and Booster Draft Tournament Location Sunway Pyramid Convention Centre Pyramid 2 and 3 Persiaran Lagoon, Bandar Sunway"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728741"
 [_metadata_:publish_date]:- "2013-12-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Kuala Lumpur Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 16:28:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 16:28:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018162808id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-event-information-2013-12-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpur-event-information-2013-12-07"
 ---

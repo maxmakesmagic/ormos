@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13; Welcome to Duels of the Planeswalkers 2013 Preview Week. This week, we'll be discussing the latest incarnation of the Magic video game. I'm going to introduce the design team, talk about the challenges of putting out a variation on the same game every year, and show you a couple of preview cards that appear in both Duels of the Planeswalkers 2013 and Magic 2013. Sound good? Well then, let's get started."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "655371"
 [_metadata_:publish_date]:- "2012-06-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Duel's Paradise"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-30 19:44:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-30 19:44:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161130194433id_/http://magic.wizards.com/en/articles/archive/feature/duels-paradise-2012-06-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duels-paradise-2012-06-11"
 ---

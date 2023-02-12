@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Danny Ecker's Summoning Trap Format: Standard – Pro Tour–San Diego 1 Celestial Colonnade 4 Forest 1 Glacial Fortress 2 Island 4 Misty Rainforest 2 Plains 4 Seaside Citadel 1 Sejiri Steppe 3 Stirring Wildwood 1 Sunpetal Grove 2 Verdant Catacombs 4 Baneslayer Angel 4 Iona, Shield of Emeria 4 Knight of the Reliquary 4 Lotus Cobra 4 Noble Hierarch 3 Rhox War Monk"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669381"
 [_metadata_:publish_date]:- "2010-03-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Summoning Trap"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 07:22:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 07:22:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815072246id_/https://magic.wizards.com/en/articles/archive/feature/summoning-trap-2010-03-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summoning-trap-2010-03-01"
 ---

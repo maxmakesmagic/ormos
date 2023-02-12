@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Table Opponent Adams, Joel ( 15) 30 Karp, Hugh ( 51) Ansell, Robert ( 31) 20 Chieng, Willie ( 55) Bandas, Jim ( 80) 39 Edwards, Daniel ( 2) Barlow, Russell ( 19) 13 Kwan, Chris ( 61) Bow, Frankle ( 83) 12 Hamilton, Berren ( 62) Bray, Jonathan ( 70) 18 Gordon, Andrew ( 28) Brebach, Kim ( 32) 3 Fung, Kerry ( 59) Brugman, John ( 41) 26 Ward, Sam ( 34) Campbell, Stephen ("
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948781"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals Round 3 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:40:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:40:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520214010id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-pairings-2000-01-01"
 ---

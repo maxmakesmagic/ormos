@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off highlights from the Mirrodin Site. For months, Mirran and Phyrexian characters have been providing field reports about the progress of the war. This week, we're going to share the entire story from one of the reports: Unctus of the Synod."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "643341"
 [_metadata_:publish_date]:- "2011-05-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "On the Mirrodin Site: Unctus of the Synod"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-10 14:40:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-10 14:40:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160410144031id_/http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-unctus-synod-2011-05-27"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-unctus-synod-2011-05-27"
 ---

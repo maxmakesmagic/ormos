@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Kai Budde Divides   Kai Budde Nicolai Herzog Time Elemental Ivory Mask Forbid Coastal Piracy Maggot Therapy Red Elemental Blast Deranged Hermit Bull Hippo Pack #2 - Nicolai Herzog Divides   Kai Budde Nicolai Herzog Flare Wild Aesthir Suq'Ata Firewalker Lawbringer Mind Harness Gerrard's Wisdom Jungle Wurm Sanctum Custodian Pack #3 - Kai Budde Divides   Kai Budde"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949861"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 7 Solomon SelectionsKai Budde vs. Nicolai Herzog"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:01:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:01:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521200126id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionskai-budde-vs"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionskai-budde-vs"
 ---

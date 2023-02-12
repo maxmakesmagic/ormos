@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "I haven’t done bone fide reader mailbag column yet, and it seems like the time to do so is now, between APC Week and the weeks leading up to the Onslaught previews. All questions and comments from readers are real. Away we go! THE DRAFT BOX Dozens of people wrote in about the Big Draft Box. Some players are trying to make their own, others have variants already, and still more"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "615586"
 [_metadata_:publish_date]:- "2002-08-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Readers Respond"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 10:46:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 10:46:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026104641id_/https://magic.wizards.com/en/articles/archive/feature/readers-respond-2002-08-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/readers-respond-2002-08-28"
 ---

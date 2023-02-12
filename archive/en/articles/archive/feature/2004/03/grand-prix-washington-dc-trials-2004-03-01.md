@@ -5,9 +5,11 @@
 [_metadata_:author]:- "updated 3-25-04"
 [_metadata_:description]:- "Entry fee: Varies by location. Contact organizer for details Tournament structure: Team Limited Tournament format: Sealed Deck with Rochester finals Prizes: At least 1 2nd round bye at each tournament, plus product prizes determined by OrganizerStateCityDate2 round ByeLocationAddressContact PhoneWebsiteNew YorkBrooklyn4/4/20041Kings Games1724 East 12th"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734781"
 [_metadata_:publish_date]:- "2004-03-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Washington D.C. Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 00:20:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 00:20:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027002032id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-trials-2004-03-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-trials-2004-03-01"
 ---

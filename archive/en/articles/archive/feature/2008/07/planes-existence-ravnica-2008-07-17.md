@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Having survived more than a few cataclysms over the last few millennia, its shattered remains of forests and buildings punctuate a desolate landscape. But the damage inflicted on the plane at the center of the Multiverse is more than skin deep. Strange storms and shimmerings pass over the land, sometimes bringing with them flashes of Dominaria’s ancient past. It’s as though"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "642461"
 [_metadata_:publish_date]:- "2008-07-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planes of Existence: Ravnica"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:59:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:59:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021045945id_/https://magic.wizards.com/en/articles/archive/feature/planes-existence-ravnica-2008-07-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planes-existence-ravnica-2008-07-17"
 ---

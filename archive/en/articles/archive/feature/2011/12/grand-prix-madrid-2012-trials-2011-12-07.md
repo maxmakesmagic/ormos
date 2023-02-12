@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Madrid Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers the winner a three-round bye to Grand Prix Madrid.WPN Locations in the Madrid Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information.Format The format for each Grand Prix Trial chosen by the individual store"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728886"
 [_metadata_:publish_date]:- "2011-12-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Madrid 2012 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:39:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 04:39:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021043928id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-madrid-2012-trials-2011-12-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-madrid-2012-trials-2011-12-07"
 ---

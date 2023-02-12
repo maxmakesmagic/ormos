@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Kiritz"
 [_metadata_:description]:- "The importance of the release, the contents of last week's update, and what to expect."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "252671"
 [_metadata_:publish_date]:- "2014-07-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online: New Beginnings"
-[_metadata_:wayback_capture_timestamp]:- "2014-12-22 23:38:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-12-22 23:38:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141222233826id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-new-beginnings-2014-07-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-new-beginnings-2014-07-16"
 ---

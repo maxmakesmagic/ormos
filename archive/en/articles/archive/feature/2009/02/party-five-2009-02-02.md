@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "In honor of Conflux's release, I've decided to write a column dedicated to a little mini-theme in the set. Conflux only has five cards that fit into this category but that is more than any other set has ever had. What is the theme? Click here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "656731"
 [_metadata_:publish_date]:- "2009-02-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Party of Five"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-22 14:03:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-22 14:03:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160222140303id_/http://magic.wizards.com/en/articles/archive/feature/party-five-2009-02-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/party-five-2009-02-02"
 ---

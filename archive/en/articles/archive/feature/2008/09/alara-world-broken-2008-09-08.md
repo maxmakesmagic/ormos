@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Welcome to the official Shards of Alara previews on magicthegathering.com! I know my fellow R&D members and columnists have been busting at the seams, stuffed so full of secrets that our raggedy coverings could barely hold it all in.Now we can finally unleash it all. Feels good.Ready? Art by Raymond Swanland`I believe now that Alara was once a single, huge plane. How it"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683486"
 [_metadata_:publish_date]:- "2008-09-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Alara, a World Broken"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 09:37:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 09:37:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207093726id_/https://magic.wizards.com/en/articles/archive/feature/alara-world-broken-2008-09-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-world-broken-2008-09-08"
 ---

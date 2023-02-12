@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Alvarez Omar Marler Hsiung Won, 2-0 Amendolia Aaron Shvartsman Alex Lost, 0-2 Angeli Alessio Cargilo Shane Lost, 1-2 Assen Johan Peretti Jean Paul Won, 2-0 Au Yong Wai Kin Copeman Will Lost, 1-2 Baberowski Dirk Tsang Terry Won, 2-1 Bachmann David Meinecke Holger Lost, 0-2 Baker Justin Ho Lan Won, 2-1 Basarowich Christian Marsh Warren Lost, 0-2 Bastos"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950211"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 6 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 16:40:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 16:40:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120164026id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-6-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-6-results-2000-01-01"
 ---

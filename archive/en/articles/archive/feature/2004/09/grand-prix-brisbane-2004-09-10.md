@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.TOURNAMENT FORMAT AND SCHEDULE The format for Grand Prix - Brisbane is Champion of Kamigawa block Limited, with Day 2 Rochester Draft. All DCI Limited rules, Magic Floor Rules will be enforced."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734311"
 [_metadata_:publish_date]:- "2004-09-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Brisbane"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-20 21:01:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-20 21:01:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201020210146id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-2004-09-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-brisbane-2004-09-10"
 ---

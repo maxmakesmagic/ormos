@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "A while back, in an article called Spelling it Out, we tried to find the answer to the question, “What is a spell?” I think the article does a pretty good job in zeroing in on something that seems pretty darn huge. If you have not read it already, it might be a good idea to jump back and skim it before continuing on. Today we’re going to explore a question that seems like it’s less hairy: what is an enchantment? (Ah, but little is as it seems.)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627091"
 [_metadata_:publish_date]:- "2007-06-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Enchant Words"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 11:52:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 11:52:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923115253id_/https://magic.wizards.com/en/articles/archive/feature/enchant-words-2007-06-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchant-words-2007-06-28"
 ---

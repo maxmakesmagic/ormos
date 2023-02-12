@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "We have seen a lot of interesting stuff happen in Standard over the past few weeks. Reanimator has proven to be viable and versatile—and not just sporting a single viable archetypebut, rather, many of them. Aggro decks seem to be healthy, with green-white, black-red, and mono-red all enjoying success. And control is viable, albeit tricky to master, with decks like Bant,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665881"
 [_metadata_:publish_date]:- "2012-12-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Burning Command"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 19:46:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 19:46:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706194633id_/https://magic.wizards.com/en/articles/archive/feature/burning-command-2012-12-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/burning-command-2012-12-12"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Thanks to excellent researcher Gerry Thompson for pointing me to today's deck. `Mono-Brown` is an old name for decks that play almost entirely artifacts, since the old artifact border was brown. Perhaps now I should call it `Mono-Silver.`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666591"
 [_metadata_:publish_date]:- "2013-06-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mono-Brown Urzatron"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-06 15:53:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-06 15:53:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170106155355id_/http://magic.wizards.com/en/articles/archive/feature/mono-brown-urzatron-2013-06-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-brown-urzatron-2013-06-06"
 ---

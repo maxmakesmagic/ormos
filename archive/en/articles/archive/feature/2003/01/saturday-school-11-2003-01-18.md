@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Send your questions to Rune at ask@wizards.com.If you don't see an answer to your question here, try our Searchable Rules Database.Beginner QuestionsQ: If I can't use Wild Mongrel's ability with an empty hand, why can I use Slate of Ancestry with an empty hand? A: Slate of Ancestry has `discard your hand` in the cost. This means `discard all the cards in your hand`. It doesn't"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622106"
 [_metadata_:publish_date]:- "2003-01-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #11"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 01:52:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 01:52:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127015238id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-11-2003-01-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-11-2003-01-18"
 ---

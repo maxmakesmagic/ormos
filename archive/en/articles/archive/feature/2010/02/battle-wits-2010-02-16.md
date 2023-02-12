@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Conley Woods' Battle of Wits Format: Extended 4 Tolaria West 4 Horizon Canopy 1 Mikokoro, Center of the Sea 1 Academy Ruins 4 Ghost Quarter 2 Tectonic Edge 2 Bojuka Bog 4 Misty Rainforest 4 Marsh Flats 4 Verdant Catacombs 4 Watery Grave 4 Godless Shrine 4 Hallowed Fountain 4 Temple Garden 4 Overgrown Tomb 4 Breeding Pool 1 Urborg, Tomb of Yawgmoth 1 Seat of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669331"
 [_metadata_:publish_date]:- "2010-02-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battle of Wits"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 06:17:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 06:17:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819061753id_/https://magic.wizards.com/en/articles/archive/feature/battle-wits-2010-02-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-wits-2010-02-16"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "StarCityGames.com writer Sean McKeown tackles his readers' Commander decks each week, proposing tweaks and modifications to fit their requests. In his most recent article, he goes over a Rubinia Soulsinger Commander deck, narrowing its focus and trying out some new cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672181"
 [_metadata_:publish_date]:- "2012-03-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Rubinia Commander"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-12 10:43:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-12 10:43:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170312104321id_/http://magic.wizards.com/en/articles/archive/feature/rubinia-commander-2012-03-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rubinia-commander-2012-03-15"
 ---

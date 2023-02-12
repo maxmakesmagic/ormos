@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Tournament Format And ScheduleThe format for Grand Prix–Manila is Ravnica Block Limited, with day 2 Booster Draft. All DCI Limited-format rules, Magic Floor Rules, and all subsequent updates will be enforced."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735241"
 [_metadata_:publish_date]:- "2006-01-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Manila"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 07:18:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 07:18:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927071824id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-2006-01-27"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-2006-01-27"
 ---

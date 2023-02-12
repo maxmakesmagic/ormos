@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665641"
 [_metadata_:publish_date]:- "2012-10-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Karn's Legacy"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-29 12:09:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-29 12:09:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170829120934id_/http://magic.wizards.com/en/articles/archive/feature/karns-legacy-2012-10-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/karns-legacy-2012-10-12"
 ---

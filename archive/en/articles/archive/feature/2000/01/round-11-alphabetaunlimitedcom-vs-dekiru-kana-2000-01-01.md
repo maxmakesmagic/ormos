@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Ryan Fuller vs. Masayuki Higashino Ryan Fuller, described by some as the `hottest player on the Pro Tour,` had to face dual Shivan Zombies with his green-white deck when former Japanese National Champion Masayuki Higashino got a quick start in the last swiss round of Grand Prix Yokohama. It's probably not relevant, but both of these players are known for constantly wearing"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806586"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 11: AlphaBetaUnlimited.com vs. Dekiru-Kana?"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:01:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:01:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702090108id_/https://magic.wizards.com/en/articles/archive/feature/round-11-alphabetaunlimitedcom-vs-dekiru-kana-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-11-alphabetaunlimitedcom-vs-dekiru-kana-2000-01-01"
 ---

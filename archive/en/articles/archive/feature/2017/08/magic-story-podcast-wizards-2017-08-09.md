@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen and Alison Luhrs"
 [_metadata_:description]:- "Blake and Alison continue exploring the tribes of Commander (2017 Edition), this week focusing on Wizards!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1185671"
 [_metadata_:publish_date]:- "2017-08-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Story Podcast: Wizards"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-12 00:42:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-12 00:42:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170812004245id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-wizards-2017-08-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-wizards-2017-08-09"
 ---

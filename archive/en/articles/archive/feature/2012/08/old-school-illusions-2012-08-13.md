@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Think back. Back before Restoration Angel and Talrand, Sky Summoner started making the cut into Delver lists. Back before Lingering Souls had people jumping at the gun to splash black in those very same lists. Back before Porcelain Legionnaire was a debate in Delver. Back before white, Moorland Haunt, or Snapcaster Mage were even a consideration for the deck, mostly because"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665401"
 [_metadata_:publish_date]:- "2012-08-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Old-School Illusions"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 20:39:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 20:39:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703203940id_/https://magic.wizards.com/en/articles/archive/feature/old-school-illusions-2012-08-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/old-school-illusions-2012-08-13"
 ---

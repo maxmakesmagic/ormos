@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "White | Blue | Black | Red | Green | Multicolored | Colorless                                           >                                                                        Latest Developments Mike Flores  Doug Beyer Cartes de Combate Cartes de C"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "707241"
 [_metadata_:publish_date]:- "2008-08-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Visual Spoiler"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 22:19:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 22:19:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028221939id_/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2008-08-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2008-08-19"
 ---

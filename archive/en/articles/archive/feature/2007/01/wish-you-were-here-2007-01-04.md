@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "... Oh, there you are!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627276"
 [_metadata_:publish_date]:- "2007-01-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wish You Were Here..."
-[_metadata_:wayback_capture_timestamp]:- "2017-05-11 19:24:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-11 19:24:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170511192417id_/http://magic.wizards.com/en/articles/archive/feature/wish-you-were-here-2007-01-04"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wish-you-were-here-2007-01-04"
 ---

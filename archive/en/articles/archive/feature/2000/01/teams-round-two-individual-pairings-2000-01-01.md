@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Table Player Player 1 Finkel, Jon (USA) Barrado, Carlos (ESP) 2 Benafel, Chris (USA) Herms Pont, Roc (ESP) 3 Hernandez, Frank (USA) Vila, Ferran (ESP) 4 Forsythe, Aaron (USA) Llopis Martinez, Francisco (ESP) 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "960756"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Teams Round Two Individual Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 21:23:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 21:23:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030212314id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-two-individual-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-two-individual-pairings-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Finkel, Jon 27 65.0000 79.1667 60.6431 10/9/0/0 2 Benafel, Chris 25 61.9259 77.2727 58.5003 10/8/1/0 3 Rose, Kyle 25 58.9101 73.9130 56.5499 10/8/1/0 4 Hernandez, Frank 24 59.9259 68.0000 56.3671 10/8/0/0 5 Mowshowitz, Zvi 24 58.6667 66.6667 56.0791 10/8/0/0 6 Pustilnik, Michael 24 56.0000 70.8333"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949216"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Nationals 2000 Round 10 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:21:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 20:21:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521202127id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-10-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-10-standings-2000-01-01"
 ---

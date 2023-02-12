@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler The 16 Invitational competitors chose to play 12 different decks in the Block Party format. 8 players are playing Rath cycle decks (with 5 different archetypes represented). There are also 5 different Urza's block decks getting played. meanwhile 2 players are running Mirage block's Ertog and Dave Price is running Al-Ice Necro. Jon Finkel had been planning to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949801"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 4 Recap"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 04:17:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 04:17:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516041753id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-4-recap-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-4-recap-2000-01-01"
 ---

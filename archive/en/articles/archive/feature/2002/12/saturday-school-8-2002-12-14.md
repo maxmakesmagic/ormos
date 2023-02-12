@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Comment on last week's columnThere was a question last week involving Glacial Chasm. The person asking the question indicated that he got himself down to –35 life with it in play. First, you can't pay the upkeep with life you don't have. Second, Glacial Chasm only prevents damage, it does not prevent loss of life, and it doesn't keep you alive if you're at zero life or less."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622091"
 [_metadata_:publish_date]:- "2002-12-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #8"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 07:44:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 07:44:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121074437id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-8-2002-12-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-8-2002-12-14"
 ---

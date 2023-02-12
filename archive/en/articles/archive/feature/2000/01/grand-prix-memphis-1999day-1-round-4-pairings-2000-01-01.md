@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Opponent Points Adkins, Johnny (1) 6 George, Brent (84) 6 Adkins, Joshua (2) 4 Tatum, Jeff (308) 3 Anderson, Rhonda (5) 0 Mink, Jamie (191) 0 Angel, Greg (6) 6 Moore, Robert (194) 6 Ansley, Justin (7) 3 O'Brien, Jason (209) 3 Armstrong, Herman (8) 6 Franks, Zach (80) 6 Armstrong, Michael (9) 3 Young, Deke (353) 3 Arnold, David (10) 9 Hooper, Geoff (116) 9"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953056"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Memphis 1999Day 1 Round 4 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 03:40:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 03:40:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529034059id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-4-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-4-pairings-2000-01-01"
 ---

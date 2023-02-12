@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document. Pro Tour RegistrationTime: 6 p.m. - 9 p.m., Wednesday, February 9 Location: Espace Champerret 6 rue Jean Oestreicher 75017 Paris France Note: This registration period is only for players participating in the main"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729911"
 [_metadata_:publish_date]:- "2010-11-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Paris 2011 Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 18:18:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 18:18:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503181822id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-paris-2011-event-information-2010-11-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-paris-2011-event-information-2010-11-24"
 ---

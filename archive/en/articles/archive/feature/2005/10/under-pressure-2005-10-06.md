@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "Beep, Beep, Beep, Beep, Beep…Morning. Time to wake up and face the world. No, let’s snooze for just 10 more minutes.…Beep, Beep, Beep…10 more minutes. That is all I need, really……Beep, Beep, Beep, Beep…I don’t want to go to work. Come on. Wait, this is my day off, why is the alarm going off anyway? Time to go back to bed.…Ring, Ring, Ring, Ring.Who would call me before noon on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638171"
 [_metadata_:publish_date]:- "2005-10-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Under Pressure"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 19:21:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 19:21:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814192155id_/https://magic.wizards.com/en/articles/archive/feature/under-pressure-2005-10-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/under-pressure-2005-10-06"
 ---

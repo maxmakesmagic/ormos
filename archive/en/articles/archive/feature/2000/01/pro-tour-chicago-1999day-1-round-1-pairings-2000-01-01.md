@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Table Opponent Aguiar, Rui (343) 123 Peschta, Christian (325) Alcantara, Jomar (317) 124 Meinecke, Holger (134) Allen, Crispin (143) 50 Behlen, Andrew (14) Allen, Dustin (144) 160 Llopis, Paco (211) Allison, Jerry (124) 90 Hacker, Brian (186) Anderson, Adam (313) 52 Arevalos, Francisco (77) Anderson, Alex (4) 2 Whitmont, Morgan (311) Arevalos, Francisco (77) 52"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950886"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Day 1 Round 1 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:29:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:29:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525102930id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-1-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-1-pairings-2000-01-01"
 ---

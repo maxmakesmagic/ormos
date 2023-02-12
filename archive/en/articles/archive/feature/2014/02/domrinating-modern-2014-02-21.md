@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Despite Modern being a relatively powerful format, it's often the fair-looking decks that perform well. Ghor-Clan Rampager, Flinthoof Boar, and Thundermaw Hellkite have made appearances in various decks, but so far not in the same deck. Presenting a steady stream of large threats has done well against the grindy BG decks of the format, especially with Chandra, Pyromaster and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667626"
 [_metadata_:publish_date]:- "2014-02-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Domrinating Modern"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:21:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 00:21:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021002143id_/https://magic.wizards.com/en/articles/archive/feature/domrinating-modern-2014-02-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/domrinating-modern-2014-02-21"
 ---

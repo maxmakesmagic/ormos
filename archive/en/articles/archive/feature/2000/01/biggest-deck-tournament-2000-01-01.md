@@ -1,13 +1,15 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112023352/https://magic.wizards.com/en/articles/archive/feature/biggest-deck-tournament-2000-01-01)
+[Link to Wayback Machine](https://web.archive.org/web/20210429092600/https://magic.wizards.com/en/articles/archive/feature/biggest-deck-tournament-2000-01-01)
 
-[_metadata_:description]:- "Rui Oliveira"
+[_metadata_:description]:- "Rui Oliveira The deck, and player, that are the talk of the tournament The last thing you expect from a player who earned his three byes through ranking is to bring a wacky deck to an Extended tournament. Well, Paulo Rosa did just that. When he approached the Head Judge to find out how he could register a deck with more than two hundred cards in the tiny registration sheet the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "959246"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Biggest Deck in the Tournament"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:33:52+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023352id_/https://magic.wizards.com/en/articles/archive/feature/biggest-deck-tournament-2000-01-01"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 09:26:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429092600id_/https://magic.wizards.com/en/articles/archive/feature/biggest-deck-tournament-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/biggest-deck-tournament-2000-01-01"
 ---
 
@@ -931,7 +933,7 @@ COP: Green
 
 
 
-##### Common (125)
+##### Common (121)
 
 
 
@@ -964,10 +966,6 @@ Grassland
 
 
 4
-[Opt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
-
-
-4
 [Accumulated Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAccumulated%5D+%5BKnowledge%5D)
 
 
@@ -992,7 +990,7 @@ COP: Red
 
 
 4
-[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 4
@@ -1036,7 +1034,7 @@ COP: Green
 
 
 
-##### Uncommon (55)
+##### Uncommon (51)
 
 
 
@@ -1053,7 +1051,7 @@ COP: Green
 
 
 4
-[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Opt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
 
 
 4
@@ -1074,10 +1072,6 @@ COP: Green
 
 2
 [Light of Day](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BDay%5D)
-
-
-4
-[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
 4
@@ -1109,7 +1103,7 @@ COP: Green
 
 
 
-##### Rare (70)
+##### Rare (78)
 
 
 
@@ -1157,6 +1151,10 @@ COP: Green
 [Academy Rector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcademy%5D+%5BRector%5D)
 
 
+4
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+
+
 1
 [Sacred Ground](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BGround%5D)
 
@@ -1175,6 +1173,10 @@ COP: Green
 
 4
 [Tithe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTithe%5D)
+
+
+4
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
 
 
 4

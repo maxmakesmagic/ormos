@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In what he was hoping would be a triumphant return to the Pro Tour, Tom Guevin showed some rust in the second draft of the day. Sitting down at the 2-1 table, Tom ,who has been practicing on Netdraft for the last few weeks, had trouble commiting to color, the result being a mediocre deck. Tom's opening pack offered him a difficult choice: Shoock Troops, Thermal Glider or"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949326"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Draft 2 Feature - Tom Guevin"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 02:03:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 02:03:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529020327id_/https://magic.wizards.com/en/articles/archive/feature/draft-2-feature-tom-guevin-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-2-feature-tom-guevin-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentA.S.K.Won 2-1vsMakashitaAAAWon 2-1vsChicago MiracleABCCLost 0-3vsTeam ScarecrowAbsoluteLost 1-2vsPotato PeachAibonWon 2-1vsYopparai-TaiAin't afraid to dieLost 0-3vsMagic SquareAir Orange"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806991"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 3 Results (by Player)"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 14:02:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 14:02:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123140212id_/https://magic.wizards.com/en/articles/archive/feature/round-3-results-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-results-player-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Geneva Palexpo February 9-11, 2007 Play the Game, See the World Wondering about life on the Pro Tour? Watch as some of the game's best players from past and present talk about the role the Pro Tour has played in their lives. Download now! (26.1 MB zip WMP)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "640531"
 [_metadata_:publish_date]:- "2006-12-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Geneva 2007"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-04 09:04:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-04 09:04:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170904090448id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93geneva-2007-2006-12-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93geneva-2007-2006-12-22"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Coltman, Dane 18 53.7037 75.0000 56.1111 6/6/0/0 2 Hong, Craig 16 56.4815 84.6154 55.4976 6/5/1/0 3 MacDonald, Andrew 15 57.4074 68.7500 55.5495 6/5/0/0 4 Collins, Lenny 15 56.4815 75.0000 55.7204 6/5/0/0 5 Turner, Daniel 15 55.5556 83.3333 53.9825 6/5/0/0 6 Corney, Andrew 15 53.7037 84.6154 49.2857"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948726"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals Round 6 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 23:11:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 23:11:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522231119id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-6-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-6-standings-2000-01-01"
 ---

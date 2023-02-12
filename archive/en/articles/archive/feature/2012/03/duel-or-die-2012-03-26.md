@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Gottlieb"
 [_metadata_:description]:- "Hello to everyone in Internetlandia! I haven't written anything for the Magic website in many a moon. Let's just say I was on an... extended vacation. But my parole officer is encouraging me to make a `good-faith attempt to re-enter society` (whatever that means), so here I am, back at my old stomping grounds. Today I'll be taking you behind the scenes of the creation of Duel"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353521"
 [_metadata_:publish_date]:- "2012-03-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Duel or Die"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 04:36:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 04:36:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209043629id_/https://magic.wizards.com/en/articles/archive/feature/duel-or-die-2012-03-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duel-or-die-2012-03-26"
 ---

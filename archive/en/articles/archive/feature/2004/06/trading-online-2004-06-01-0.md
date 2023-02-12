@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chad Ellis"
 [_metadata_:description]:- "Ever since Wizards of the Coast first assumed that no player would have access to four of every rare (thus reducing the importance of card balance), Magic players have been trading. Whether it's friends going through binders, professional dealers making markets in singles and sets, or just Benzo (for whom the deck was named) trading and selling any non-Black cards for tournament entry fees (since, after all, “More Swamps means more death!”), trading is as much a part of Magic as deck construction and playing."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620441"
 [_metadata_:publish_date]:- "2004-06-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Trading Online"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-04 13:46:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-04 13:46:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170904134612id_/http://magic.wizards.com/en/articles/archive/feature/trading-online-2004-06-01-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/trading-online-2004-06-01-0"
 ---

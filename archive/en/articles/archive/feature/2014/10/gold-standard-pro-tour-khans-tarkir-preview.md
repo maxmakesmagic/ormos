@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "At look at Pro Tour Khans of Tarkir before the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "285831"
 [_metadata_:publish_date]:- "2014-10-07"
+[_metadata_:source]:- "div-main"
 [_metadata_:title]:- "Setting the Gold Standard: A Pro Tour Khans of Tarkir Preview"
-[_metadata_:wayback_capture_timestamp]:- "2014-10-09 10:59:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-10-09 10:59:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141009105935id_/http://magic.wizards.com/en/articles/archive/feature/gold-standard-pro-tour-khans-tarkir-preview"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gold-standard-pro-tour-khans-tarkir-preview"
 ---

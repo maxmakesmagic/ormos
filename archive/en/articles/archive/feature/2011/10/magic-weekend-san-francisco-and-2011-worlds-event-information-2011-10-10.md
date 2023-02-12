@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "INFORMATIONPublic Events&#13; Main Event Information&#13; Hall Attractions&#13; Travel Information&#13; The Road to Worlds&#13; World Championships History&#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732281"
 [_metadata_:publish_date]:- "2011-10-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Weekend San Francisco and 2011 Worlds Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-08 07:16:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-08 07:16:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161008071641id_/http://magic.wizards.com/en/articles/archive/feature/magic-weekend-san-francisco-and-2011-worlds-event-information-2011-10-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-weekend-san-francisco-and-2011-worlds-event-information-2011-10-10"
 ---

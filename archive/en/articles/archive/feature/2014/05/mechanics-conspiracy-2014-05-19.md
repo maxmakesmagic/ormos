@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Table of Contents&#13; &#13; Conspiracy Draft &#13; &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "164721"
 [_metadata_:publish_date]:- "2014-05-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mechanics of Conspiracy"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 07:23:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 07:23:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707072328id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-conspiracy-2014-05-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-conspiracy-2014-05-19"
 ---

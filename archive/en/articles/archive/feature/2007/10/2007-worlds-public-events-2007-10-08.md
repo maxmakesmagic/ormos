@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Daily Events (Thursday – Sunday) Photo courtesy Toyota of ManhattanWin a Car!!All events marked with the word Vroom! are qualifying events for the `Win a Car` tournament held on Sunday Morning at 9am. Individual events qualify the top 2 players, 2HG events qualify the top 2 teams (4 players each total)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732256"
 [_metadata_:publish_date]:- "2007-10-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2007 Worlds Public Events"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 22:37:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 22:37:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026223715id_/https://magic.wizards.com/en/articles/archive/feature/2007-worlds-public-events-2007-10-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-worlds-public-events-2007-10-08"
 ---

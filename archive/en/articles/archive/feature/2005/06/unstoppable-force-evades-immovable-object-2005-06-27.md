@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "Every Friday in July, the DCI® is going to give players all around the world a chance to get a creature so powerful that it was one of the first cards ever banned in the Extended format. This card, which first appeared in Alpha, was at one time considered too powerful for Constructed play. Aside from being a 5/3 creature for only 4 mana, it also has a rather unique evasion"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638096"
 [_metadata_:publish_date]:- "2005-06-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Unstoppable Force Evades Immovable Object"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 11:48:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 11:48:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812114824id_/https://magic.wizards.com/en/articles/archive/feature/unstoppable-force-evades-immovable-object-2005-06-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unstoppable-force-evades-immovable-object-2005-06-27"
 ---

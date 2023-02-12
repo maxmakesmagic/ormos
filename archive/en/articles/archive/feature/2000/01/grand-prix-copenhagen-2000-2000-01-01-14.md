@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 6 Standings  Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Sanders Jensen, Niels 18 77,7778 100,0000 69,9634 3/3/0/3 2 Dall Jensen, Thomas 18 75,0000 92,3077 68,7879 4/4/0/2 3 Canu, Franck 18 74,0741 100,0000 69,7192 3/3/0/3 4 Ruel, Antoine 18 74,0741 100,0000 67,7656 3/3/0/3 5 Eskeland, Sigurd 18 72,2222 85,7143 67,5214 3/3/0/3 6 Osterberg,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951866"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 00:47:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 00:47:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524004723id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-14"
 ---

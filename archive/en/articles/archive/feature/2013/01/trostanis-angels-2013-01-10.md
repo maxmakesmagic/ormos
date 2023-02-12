@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "As Friday approaches, it becomes time to scour Magic Online results for sweet decks to play at Friday Night Magic. Toward the end of a season, it can be hard to find something new to surprise the competition with, but when you're out of ideas, there's almost always someone doing something cool on Magic Online."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665996"
 [_metadata_:publish_date]:- "2013-01-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Trostani's Angels"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-04 23:15:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-04 23:15:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170704231516id_/http://magic.wizards.com/en/articles/archive/feature/trostanis-angels-2013-01-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/trostanis-angels-2013-01-10"
 ---

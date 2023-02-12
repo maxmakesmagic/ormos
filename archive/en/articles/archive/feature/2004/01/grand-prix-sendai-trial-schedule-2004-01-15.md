@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "English | 日本語 Date City Venue Address Player Contact 2004/02/08 Tokyo Zenriren Building 1-36-4 Yoyogi, Shibuya-ku, Tokyo-to ron.foster@wizards.com 2004/02/08 Matsuyama Matsuyama Municipal Center Hori-no-uchi, Matsuyama-shi, Ehime-ken ron.foster@wizards.com 2004/02/15 Osaka Yodogawa Municipal Center 2-1-5 Nonaka-minami, Yodogawa-ku, Osaka-shi, Osaka-fu ron.foster@wizards.com"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736076"
 [_metadata_:publish_date]:- "2004-01-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Sendai Trial Schedule"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 10:56:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 10:56:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811105637id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sendai-trial-schedule-2004-01-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sendai-trial-schedule-2004-01-15"
 ---

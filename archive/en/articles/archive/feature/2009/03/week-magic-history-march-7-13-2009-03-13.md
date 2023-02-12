@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "March 11-13, 2005: Team Nova Takes Pro Tour–Atlanta! Pro Tour–Kyoto wasn't Gabriel Nassif's first Pro Tour win. He (and teammates David Rood and Gab Tsang) won Pro Tour–Atlanta in 2005. Most pros expressed no surprise at Nova's victory. Between the rock-solid reputations of the two Gabs and the ample team experience of Rood, they had everything working in their favor. In fact,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "598841"
 [_metadata_:publish_date]:- "2009-03-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: March 7-13"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 00:44:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 00:44:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118004404id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-march-7-13-2009-03-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-march-7-13-2009-03-13"
 ---

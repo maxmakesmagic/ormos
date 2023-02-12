@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "You know that one guy who really makes the party get wild? Everybody likes him because he's always in a good mood, and that good mood is infectious. He makes everybody laugh and feel good about themselves. He might bring a parrot to the party, or a bongo drum, or a cask of exotic wine from a distant paradise. He manages to find that one guy who is the party-pooper and make"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627006"
 [_metadata_:publish_date]:- "2007-04-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Life of the Party"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:14:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:14:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201434id_/https://magic.wizards.com/en/articles/archive/feature/life-party-2007-04-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/life-party-2007-04-12"
 ---

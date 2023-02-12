@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112032248/https://magic.wizards.com/en/articles/archive/feature/%E2%80%94core-set-promos-tokens-2013-06-25)
+[Link to Wayback Machine](https://web.archive.org/web/20210502134735/https://magic.wizards.com/en/articles/archive/feature/%E2%80%94core-set-promos-tokens-2013-06-25)
 
 [_metadata_:author]:- "Trick Jarrett"
-[_metadata_:description]:- "The Magic 2014—Core Set preview week is just around the corner. With Magic 2014—Duels of the Planeswalkers releasing tomorrow I figure it is about time to give you the run down of what promos and tokens are coming up. Let's dive into the promo cards because there are a few surprises in there! First up are the three promos in the Magic 2014—Duels of the Planeswalkers promotional booster packs. Read the original arcana we announced them in to learn more."
+[_metadata_:description]:- "The Magic 2014—Core Set preview week is just around the corner. With Magic 2014—Duels of the Planeswalkers releasing tomorrow I figure it is about time to give you the run down of what promos and tokens are coming up. Let's dive into the promo cards because there are a few surprises in there! First up are the three promos in the Magic 2014—Duels of the Planeswalkers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649381"
 [_metadata_:publish_date]:- "2013-06-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "—Core Set Promos & Tokens"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:22:48+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112032248id_/https://magic.wizards.com/en/articles/archive/feature/%E2%80%94core-set-promos-tokens-2013-06-25"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 13:47:35"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502134735id_/https://magic.wizards.com/en/articles/archive/feature/%E2%80%94core-set-promos-tokens-2013-06-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/%E2%80%94core-set-promos-tokens-2013-06-25"
 ---
 

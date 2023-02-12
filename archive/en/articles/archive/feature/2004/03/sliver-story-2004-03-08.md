@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "How they fit into Magic's storyline."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "341176"
 [_metadata_:publish_date]:- "2004-03-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Sliver Story"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-14 13:54:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-14 13:54:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160214135408id_/http://magic.wizards.com/en/articles/archive/feature/sliver-story-2004-03-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sliver-story-2004-03-08"
 ---

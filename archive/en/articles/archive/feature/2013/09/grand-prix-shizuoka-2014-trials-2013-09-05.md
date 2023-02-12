@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Shizuoka Trials will be run at Japan and Asia Pacific WPN locations from September 28, 2013 to December 8, 2013. Each awards the winner a two-round bye to Grand Prix Shizuoka. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729616"
 [_metadata_:publish_date]:- "2013-09-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Shizuoka 2014 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 22:11:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 22:11:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526221156id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-shizuoka-2014-trials-2013-09-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-shizuoka-2014-trials-2013-09-05"
 ---

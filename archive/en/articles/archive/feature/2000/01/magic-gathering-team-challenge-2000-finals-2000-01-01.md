@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Gary Wise In the finals of the richest twelve man tourney in the history of Magic the Gathering, David felled Goliath as the French team, Black Ops defeated the heavily favored Team Antarctica two matches to one. In the first of three pairings, Jon Finkel, the world's top player, met his match in the form of twenty year old Antoine Ruel. In the first game, Finkel, playing"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949971"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Team Challenge 2000 Finals"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:28:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:28:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120182817id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-team-challenge-2000-finals-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-team-challenge-2000-finals-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Nobushita, Jun 21 71.7687 77.7778 66.0889 7/7/0/0 2 Hew, Jun-Wei 21 68.5714 93.3333 62.4510 5/5/0/2 3 Hon, Derik 19 62.2449 72.2222 62.6195 7/6/1/0 4 Phang, Ben Neng 19 61.2245 76.4706 61.1139 7/6/1/0 5 Aw-Yeong, Weng Kwong 18 79.7619 75.0000 69.6788 4/3/0/3 6 Tan, Poy Kok 18 76.7857 86.6667 69.0781"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952596"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Kuala LumpurRound 7 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 16:03:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 16:03:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523160334id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-7-standings-2000-01-01"
 ---

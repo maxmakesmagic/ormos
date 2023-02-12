@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "One of the great things about Legacy is that the limits of Magic are often pushed to its extremes. This dredge deck is an example of this—it has no lands or other mana sources whatsoever!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667911"
 [_metadata_:publish_date]:- "2014-05-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Who Needs Lands?"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-28 06:25:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-28 06:25:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161128062510id_/http://magic.wizards.com/en/articles/archive/feature/who-needs-lands-2014-05-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/who-needs-lands-2014-05-06"
 ---

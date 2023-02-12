@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to (22) Owen Turtenwald on winning Grand Prix Washington D.C.!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667241"
 [_metadata_:publish_date]:- "2013-11-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Washington D.C. Winning Deck"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:20:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:20:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531082021id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-winning-deck-2013-11-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-winning-deck-2013-11-18"
 ---

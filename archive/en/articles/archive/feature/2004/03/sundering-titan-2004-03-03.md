@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Sitting here in Kobe makes it harder to focus on what is important in life. It's easy to go out on the town and have some sushi with the likes of Nate Heiss. Such auspicious company does make it hard to focus on what to write about, however. I stole some computer time away from fellow Sideboard reporters and checked out the forums to see if any of you had thoughts about what I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613571"
 [_metadata_:publish_date]:- "2004-03-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sundering Titan"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 16:27:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 16:27:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808162742id_/https://magic.wizards.com/en/articles/archive/feature/sundering-titan-2004-03-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sundering-titan-2004-03-03"
 ---

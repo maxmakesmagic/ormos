@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Grand Prix Anaheim was our second chance to see the Innistrad block on display, and although miracles won the Pro Tour, the Grand Prix metagame was still quite broad. On TCGPlayer.com, Steve Guillerm explores his deck for the event and then discusses the process for converting from Block to Standard. Here is an excerpt of his article, and the new Standard deck. Whenever you're"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672506"
 [_metadata_:publish_date]:- "2012-06-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Arcane Melee in Standard"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 21:38:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 21:38:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021213854id_/https://magic.wizards.com/en/articles/archive/feature/arcane-melee-standard-2012-06-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/arcane-melee-standard-2012-06-06"
 ---

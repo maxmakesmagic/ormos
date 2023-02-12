@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Previews are done and the full set is public, you can go check it out in the Magic 2014 Card Image Gallery. This weekend, July 13-14, 2013, is the Prerelease for the new set, and in case this is the first Prerelease for you - here are a few good things to know."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649481"
 [_metadata_:publish_date]:- "2013-07-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic 2014 Prerelease!"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-13 08:27:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-13 08:27:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160113082756id_/http://magic.wizards.com/en/articles/archive/feature/magic-2014-prerelease-2013-07-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-2014-prerelease-2013-07-08"
 ---

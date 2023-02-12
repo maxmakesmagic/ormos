@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210618045328/https://magic.wizards.com/en/articles/archive/feature/building-guild-kits-2018-11-01)
+[Link to Wayback Machine](https://web.archive.org/web/20211024150316/https://magic.wizards.com/en/articles/archive/feature/building-guild-kits-2018-11-01)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "A huge amount of work went into creating the Ravnica Guild Kits, as Gavin explains in this look behind the scenes at Product Architecture."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1357636"
 [_metadata_:publish_date]:- "2018-11-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Building the Guild Kits"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-18 04:53:28+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210618045328id_/https://magic.wizards.com/en/articles/archive/feature/building-guild-kits-2018-11-01"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 15:03:16"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024150316id_/https://magic.wizards.com/en/articles/archive/feature/building-guild-kits-2018-11-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-guild-kits-2018-11-01"
 ---
 
@@ -151,19 +153,19 @@ Team Kit
 While this product is amazing and I share the vision of it, I really can't take the credit for the fantastic job here. Once we decided this is what we wanted to do, we spun up a three-person team to tackle it.
 
 
-Ken Nagle, longtime *Magic* designer and casual deck builder extraordinaire led the team. He was joined by fellow product architect Mark Heggen and new-to-design Kyle O'Neill.
+Ken Nagle, longtime *Magic* designer and casual deck builder extraordinaire led the team. He was joined by fellow product architect Mark Heggen and new-to-design Harper O'Neill.
 
 
-I was especially excited to see Kyle working on the team: Kyle doesn't work in R&D, but for these more casual-focused products, I love being able to pull in somebody from outside the department. And Kyle was an excellent fit. In addition to doing some light on-the-fringes design work like hole filling and coming in for playtests, he's a senior WPN retail relationship development specialist, which means he interfaces with stores and tries to manifest their feedback into reality. That was perfect for working on the next in this Annex line of products.
+I was especially excited to see Harper working on the team: Harper doesn't work in R&D, but for these more casual-focused products, I love being able to pull in somebody from outside the department. And Harper was an excellent fit. In addition to doing some light on-the-fringes design work like hole filling and coming in for playtests, she's a senior WPN retail relationship development specialist, which means she interfaces with stores and tries to manifest their feedback into reality. That was perfect for working on the next in this Annex line of products.
 
 
-Perhaps most to the point, though, is he's a Cube aficionado and loves curating that experience, including building and maintaining a Ravnica cube!
+Perhaps most to the point, though, is she's a Cube aficionado and loves curating that experience, including building and maintaining a Ravnica cube!
 
 
-Kyle knew these sets inside and out, which gave him a huge leg up on creating these decks. It's also so fitting for him since he really started playing competitively around *Ravnica: City of Guilds*, joined Wizards at *Return to Ravnica*, and then got to work on this project. Who knows—at this rate, maybe he'll be on the full set team for whenever we do Ravnica next!
+Harper knew these sets inside and out, which gave her a huge leg up on creating these decks. It's also so fitting for her since she really started playing competitively around *Ravnica: City of Guilds*, joined Wizards at *Return to Ravnica*, and then got to work on this project. Who knows—at this rate, maybe he'll be on the full set team for whenever we do Ravnica next!
 
 
-The team met and divvied up the decks, much like how *Commander* development works where different designers focus on certain decks. Of these five, Ken took Selesnya and Izzet, Kyle took Dimir and Golgari, and Mark took Boros. And then they were off to the races.
+The team met and divvied up the decks, much like how *Commander* development works where different designers focus on certain decks. Of these five, Ken took Selesnya and Izzet, Harper took Dimir and Golgari, and Mark took Boros. And then they were off to the races.
 
 
 Ken had a clear vision: he wanted these to be a smorgasbord of everything each guild had to offer across every Ravnica set. For example, it was important to him that all the mechanics were there. And even as playtesters suggested they cut mechanics like transmute (tutoring in a fixed-deck product is tricky) or radiance (the not-flavorful-or-that-exciting Boros mechanic from original *Ravnica*), Ken made sure to keep at least one card from each of that guild's mechanics in its appropriate deck.
@@ -179,7 +181,7 @@ Fine-Tuning
 Like any experience with out-of-the-box decks, the end goal is to create an awesome "biodome"—meaning that if you play one of these decks against any others in the series, it should be a fun matchup. All ten of the Guild Kits—those for both *Guilds of Ravnica* and *Ravnica Allegiance*—needed to play well against one another. And, of course, offer everything you would expect from the guilds!
 
 
-We work on products so far in advance that, often, notes get lost to the ebb of time; as one product ends, another begins, something new to focus on. But Kyle, ever enthusiastic, kept pretty good notes on his part of the process. I asked him to compile some information from those notes and send over any interesting behind-the-scenes snippets. And, well, rather than me tell you, I'll share with you what he sent to me! Take a look!
+We work on products so far in advance that, often, notes get lost to the ebb of time; as one product ends, another begins, something new to focus on. But Harper, ever enthusiastic, kept pretty good notes on her part of the process. I asked her to compile some information from those notes and send over any interesting behind-the-scenes snippets. And, well, rather than me tell you, I'll share with you what she sent to me! Take a look!
 
 
 

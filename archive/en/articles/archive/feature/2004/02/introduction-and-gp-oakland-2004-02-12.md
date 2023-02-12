@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Welcome to Week In ReviewWelcome to the new magicthegathering.com and also to my column, Week in Review! For readers that may not be familiar with the old Sideboard.com site, Week In Review was a weekly column to cover all the latest developments in the Magic community and tournament scene. Over the course of the last three years I’ve written over 100 installments."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "614066"
 [_metadata_:publish_date]:- "2004-02-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Introduction and GP Oakland"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 00:58:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 00:58:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527005817id_/https://magic.wizards.com/en/articles/archive/feature/introduction-and-gp-oakland-2004-02-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introduction-and-gp-oakland-2004-02-12"
 ---

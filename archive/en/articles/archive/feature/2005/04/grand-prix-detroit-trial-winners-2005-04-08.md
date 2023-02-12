@@ -5,9 +5,11 @@
 [_metadata_:author]:- "updated 4-20-05"
 [_metadata_:description]:- "CityDateOrganizerFirstLastAmes3/5/2005Brian WoerthKyleMechlerChicago3/5/2005Alan HochmanAaronHauptmannGrand Rapids3/5/2005Barratt MoyPeterJesualeKansas City3/5/2005Steve FerrellJamesKneeceLincoln3/5/2005Merlin HayeszackwolffMacon3/5/2005Anthony EdwardsMichaelFerraraBrooklyn3/6/2005Alex ShvartsmanromanbrodskyPittsburgh3/6/2005Michael GuptilMichaelPatnikSeattle3/6/2005Timothy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734826"
 [_metadata_:publish_date]:- "2005-04-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Detroit Trial Winners"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 11:22:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 11:22:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025112215id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-trial-winners-2005-04-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-detroit-trial-winners-2005-04-08"
 ---

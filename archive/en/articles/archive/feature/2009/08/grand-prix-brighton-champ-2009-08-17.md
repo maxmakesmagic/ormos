@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Olivier Ruel's Grand Prix-Brighton Champ Format: Magic 2010 Draft 7 Mountain 10 Swamp 1 Terramorphic Expanse 1 Child of Night 1 Dragon Whelp 1 Dread Warlock 1 Drudge Skeletons 1 Goblin Piker 1 Howling Banshee 1 Inferno Elemental 1 Nightmare 1 Siege-Gang Commander 1 Vampire Aristocrat 1 Viashino Spearhunter 1 Wall of Fire 1 Weakness 1 Consume Spirit 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668666"
 [_metadata_:publish_date]:- "2009-08-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Brighton Champ"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 09:41:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 09:41:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812094142id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-brighton-champ-2009-08-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-brighton-champ-2009-08-17"
 ---

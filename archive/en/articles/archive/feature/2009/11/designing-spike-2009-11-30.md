@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657291"
 [_metadata_:publish_date]:- "2009-11-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Designing for Spike"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-05 06:41:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-05 06:41:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170505064137id_/http://magic.wizards.com/en/articles/archive/feature/designing-spike-2009-11-30"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/designing-spike-2009-11-30"
 ---

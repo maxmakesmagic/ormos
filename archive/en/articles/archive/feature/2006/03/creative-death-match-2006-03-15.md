@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome again to Swap Week! This week I get to put on my Vorthos hat, rattle my saber, twirl my thin mustache, and rally the spirits of all you Magic-flavour Musketeers. How will I do this, you ask? I have to confess that I was completely stumped. What do I know about Magic flavour? If some of my email is to be believed, I can barely tell the different between flavour text and rules text. Unlike regular Taste the Magic columnist Matt Cavotta, I'm not a first-name basis with any gods, or cult members, or dragons."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620521"
 [_metadata_:publish_date]:- "2006-03-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Creative Death Match"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-14 13:26:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-14 13:26:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170314132643id_/http://magic.wizards.com/en/articles/archive/feature/creative-death-match-2006-03-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/creative-death-match-2006-03-15"
 ---

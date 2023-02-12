@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Lee Sharpe"
 [_metadata_:description]:- "Events on Magic Online are getting better, and now there are more choices than ever before!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "826241"
 [_metadata_:publish_date]:- "2015-11-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "State of Magic Online Events"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-14 07:00:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-14 07:00:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151114070018id_/http://magic.wizards.com/en/articles/archive/feature/state-magic-online-events-2015-11-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/state-magic-online-events-2015-11-12"
 ---

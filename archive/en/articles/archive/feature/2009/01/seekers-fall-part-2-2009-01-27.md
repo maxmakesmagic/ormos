@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628161"
 [_metadata_:publish_date]:- "2009-01-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Seeker's Fall Part 2"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-28 12:35:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-28 12:35:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160928123512id_/http://magic.wizards.com/en/articles/archive/feature/seekers-fall-part-2-2009-01-27"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/seekers-fall-part-2-2009-01-27"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Jake Lehmkuhl's Soul Sisters"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670116"
 [_metadata_:publish_date]:- "2010-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Soul Sisters"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-05 03:15:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-05 03:15:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160405031532id_/http://magic.wizards.com/en/articles/archive/feature/soul-sisters-2010-09-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/soul-sisters-2010-09-03"
 ---

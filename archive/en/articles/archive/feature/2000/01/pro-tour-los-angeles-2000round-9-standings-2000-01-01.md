@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "      Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Burgner, Kurt 27 63.9918 90.0000 58.2174 9/9/0/0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950676"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 9 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:36:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:36:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124033651id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-9-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-9-standings-2000-01-01"
 ---

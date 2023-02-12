@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 09/03/2005 – 09/04/2005Address: SD UKF (former hotel “Nitra”)Address: Slančikovej 1Zip: 949 01City: NitraCountry: Slovakia Contact info: gianni@ksnr.sk Format: 2 day Nationals, `Split Format/ Balanced Time`Entry fee: 900 SKKDoors open at: 9:00 a.m. Additional info: start 10:00 a.m. additional info on www.mtg.sk (section “turnaje”) parking place, accomodation, food on the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733376"
 [_metadata_:publish_date]:- "2005-08-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "National Championship Slovakia 2005"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 11:35:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 11:35:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019113533id_/https://magic.wizards.com/en/articles/archive/feature/national-championship-slovakia-2005-2005-08-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/national-championship-slovakia-2005-2005-08-18"
 ---

@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200411151854/https://magic.wizards.com/en/articles/archive/feature/building-better-magic-set-2017-09-27)
+[Link to Wayback Machine](https://web.archive.org/web/20180406162856/https://magic.wizards.com/en/articles/archive/feature/building-better-magic-set-2017-09-27)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin takes a closer look at the team maintaining Magic's foundation and building toward the future."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1221381"
 [_metadata_:publish_date]:- "2017-09-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Building a Better Magic Set"
-[_metadata_:wayback_capture_timestamp]:- "2020-04-11 15:18:54+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200411151854id_/https://magic.wizards.com/en/articles/archive/feature/building-better-magic-set-2017-09-27"
+[_metadata_:wayback_capture_timestamp]:- "2018-04-06 16:28:56"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180406162856id_/https://magic.wizards.com/en/articles/archive/feature/building-better-magic-set-2017-09-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-better-magic-set-2017-09-27"
 ---
 

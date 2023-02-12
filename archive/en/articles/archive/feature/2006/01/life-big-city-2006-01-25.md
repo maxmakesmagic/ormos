@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "As I write these very words, Guildpact prereleases are being set up all around the globe. I am excited to get the set out there, as it was the first one on which I was the lone steward of card names and flavor text. But, lots and lots of hard work went into making Ravnica the whopper that it is, and I am not yet ready to fully turn the spotlight on Guildpact (we'll get that next week, when I force you to eat Gruul)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626546"
 [_metadata_:publish_date]:- "2006-01-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Life in the Big City"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 03:39:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 03:39:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923033949id_/https://magic.wizards.com/en/articles/archive/feature/life-big-city-2006-01-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/life-big-city-2006-01-25"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "Download Magic Online   April is going to be a treat for Flashback Draft fans, as we'll be offering opportunities to revisit some great Magic block favorites."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687211"
 [_metadata_:publish_date]:- "2014-03-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Flashback April!"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-20 19:37:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-20 19:37:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161220193730id_/http://magic.wizards.com/en/articles/archive/feature/flashback-april-2014-03-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/flashback-april-2014-03-24"
 ---

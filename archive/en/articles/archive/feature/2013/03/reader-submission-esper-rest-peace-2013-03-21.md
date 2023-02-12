@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "This is the email Keegan Kennedy sent me that I'll be working with today:I came up with this original deck when I watched the latest Grand Prix and saw how much people rely on the graveyard. Not even just the Reanimators, but all control decks use flashbacks constantly. It got me thinking about using Rest in Peace offensively. This deck is an Esper control deck with Rest in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666276"
 [_metadata_:publish_date]:- "2013-03-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Reader Submission: Esper Rest in Peace"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 18:03:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 18:03:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020180313id_/https://magic.wizards.com/en/articles/archive/feature/reader-submission-esper-rest-peace-2013-03-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reader-submission-esper-rest-peace-2013-03-21"
 ---

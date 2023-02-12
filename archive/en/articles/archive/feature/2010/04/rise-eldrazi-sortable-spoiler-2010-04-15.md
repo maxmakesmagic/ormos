@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "#NameCostTypeP/TRules TextFlavor TextRarityArtist1All Is Dust7Tribal Sorcery — Eldrazi Each player sacrifices all colored permanents he or she controls.`The emergence of the Eldrazi isn’t necessarily a bad thing, as long as you’ve already lived a fulfilling and complete life without regrets.`—Javad Nasrin, Ondu relic hunterMJason Felix 2Artisan of Kozilek9Creature —"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "647031"
 [_metadata_:publish_date]:- "2010-04-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Rise of the Eldrazi Sortable Spoiler"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 23:56:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 23:56:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626235634id_/https://magic.wizards.com/en/articles/archive/feature/rise-eldrazi-sortable-spoiler-2010-04-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rise-eldrazi-sortable-spoiler-2010-04-15"
 ---

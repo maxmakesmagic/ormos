@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "For a change, I'm going to step away from Constructed decks for a week and tell the tale of a casual draft format. It is, in fact, my absolute favorite Magic format, filled with unlikely events, bizarre plays, gasps of shock, and peals of laughter. Welcome to the Reject Rare Draft. The BeginningBack when I lived in New York City and our Wednesday columnist Brian David-Marshall"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613436"
 [_metadata_:publish_date]:- "2003-05-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Reject Rare Draft"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-03 08:50:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-03 08:50:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211103085057id_/https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2003-05-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reject-rare-draft-2003-05-22"
 ---

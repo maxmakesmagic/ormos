@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Well because of the holidays I've fallen a little behind on showing you all the upcoming Friday Night Magic promos, so it's high time I catch up! As always, here's what you already should have known: January 2014 This is what you can get if you go to your local FNM tonight!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "651496"
 [_metadata_:publish_date]:- "2014-01-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "March & April's FNM Promos"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:09:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:09:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112010901id_/https://magic.wizards.com/en/articles/archive/feature/march-aprils-fnm-promos-2014-01-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/march-aprils-fnm-promos-2014-01-31"
 ---

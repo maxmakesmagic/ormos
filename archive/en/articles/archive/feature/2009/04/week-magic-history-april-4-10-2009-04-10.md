@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "April 4-10: A History of ArcanasWe'll level with you: not much happened this week in Magic history. So instead of telling you all about the 2001 Mexico National Championships (which was won by Francisco Barboza Garcia, if you're curious), we're going to show you a selection of our favorite Magic Arcanas that showed up during this week. Ready? Go!April 8, 2002: Ice Age Plains"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "599331"
 [_metadata_:publish_date]:- "2009-04-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: April 4-10"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 16:04:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 16:04:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124160429id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-april-4-10-2009-04-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-april-4-10-2009-04-10"
 ---

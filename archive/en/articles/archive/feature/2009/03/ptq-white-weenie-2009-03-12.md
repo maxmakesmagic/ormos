@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Andrew Wagner's White Weenie Format: Pro Tour Qualifier-Honolulu 4 Mutavault 1 Eiganjo Castle 15 Plains 4 Figure of Destiny 4 Burrenton Forge-Tender 3 Isamaru, Hound of Konda 4 Ethersworn Canonist 2 Kataki, War's Wage 4 Kitchen Finks 4 Wilt-Leaf Liege 4 Spectral Procession 4 Path to Exile 2 Oblivion Ring 3 Umezawa's Jitte 2 Chrome Mox *2 Rule of Law *2 Jötun"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667651"
 [_metadata_:publish_date]:- "2009-03-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "PTQ White Weenie"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 18:30:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 18:30:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026183044id_/https://magic.wizards.com/en/articles/archive/feature/ptq-white-weenie-2009-03-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ptq-white-weenie-2009-03-12"
 ---

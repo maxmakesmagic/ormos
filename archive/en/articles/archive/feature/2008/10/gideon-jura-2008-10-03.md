@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Gideon Jura is a planeswalker who wields white magic. Unlike most planeswalkers, Gideon doesn’t hesitate to enter combat. He also practices hieromancy, the magic of holy justice."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "637066"
 [_metadata_:publish_date]:- "2008-10-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gideon Jura"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-06 00:06:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-06 00:06:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160506000617id_/http://magic.wizards.com/en/articles/archive/feature/gideon-jura-2008-10-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gideon-jura-2008-10-03"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Alvarez Omar Suzuki Kazuho Won, 2-0 Amendolia Aaron Miller Patrick Won, 2-1 Angeli Alessio Konstanczer Andre Lost, 1-2 Asquini Alessandro Manataras Pablo Lost, 0-2 Assen Johan Rider Justin Lost, 0-2 Au Yong Wai Kin Wescoe Craig Lost, 0-1 Ayala Hermes Law Albertus Lost, 1-2 Baberowski Dirk Phillips Jr."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950241"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 4 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 20:15:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 20:15:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527201525id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-4-results-2000-01-01"
 ---

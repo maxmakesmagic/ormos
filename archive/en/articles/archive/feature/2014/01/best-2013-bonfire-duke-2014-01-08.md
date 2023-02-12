@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Jund has been the scourge of Constructed formats for years. You either love it or hate it, and Reid Duke is definitely the former. With a win at the Magic Online Championship with the same deck, albeit in a different format, Reid is no stranger to the archetype. For a while, Reid dabbled in other Thragtusk-based decks, but it was a return to his old favorite that gave him his"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667451"
 [_metadata_:publish_date]:- "2014-01-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Best of 2013: Bonfire of the Duke"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 20:21:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 20:21:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812202123id_/https://magic.wizards.com/en/articles/archive/feature/best-2013-bonfire-duke-2014-01-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/best-2013-bonfire-duke-2014-01-08"
 ---

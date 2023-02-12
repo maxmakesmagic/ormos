@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112003038/https://magic.wizards.com/en/articles/archive/feature/1995-world-championship-top-4-decks-2009-02-16)
+[Link to Wayback Machine](https://web.archive.org/web/20170514014155/http://magic.wizards.com/en/articles/archive/feature/1995-world-championship-top-4-decks-2009-02-16)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Note: we don't have complete records of the decklists from 1995. Here's what we were able to piece together from various sources, including a post on Usenet from Henry Stern"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682746"
 [_metadata_:publish_date]:- "2009-02-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "1995 World Championship Top 4 Decks"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:30:38+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112003038id_/https://magic.wizards.com/en/articles/archive/feature/1995-world-championship-top-4-decks-2009-02-16"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/1995-world-championship-top-4-decks-2009-02-16"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-14 01:41:55"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170514014155id_/http://magic.wizards.com/en/articles/archive/feature/1995-world-championship-top-4-decks-2009-02-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/1995-world-championship-top-4-decks-2009-02-16"
 ---
 
 
@@ -50,7 +52,6 @@ And here are the three decks we're sure of!
 
 
 
-
 #### Alexander Blumke's Rack Control
 
 
@@ -61,9 +62,7 @@ And here are the three decks we're sure of!
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -576,7 +575,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (30)
+##### Common (34)
 
 
 
@@ -601,11 +600,15 @@ OverviewColorCostRarity
 
 
 1
-[Mind Twist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BTwist%5D)
+[Pestilence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPestilence%5D)
 
 
 2
 [Terror](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerror%5D)
+
+
+1
+[Power Sink](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPower%5D+%5BSink%5D)
 
 
 3
@@ -613,11 +616,19 @@ OverviewColorCostRarity
 
 
 1
+[Circle of Protection: Black](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BBlack%5D)
+
+
+2
+[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
+
+
+1
 [Prismatic Ward](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrismatic%5D+%5BWard%5D)
 
 
 
-##### Uncommon (24)
+##### Uncommon (22)
 
 
 
@@ -633,20 +644,16 @@ OverviewColorCostRarity
 [Icy Manipulator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIcy%5D+%5BManipulator%5D)
 
 
+2
+[Zuran Orb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZuran%5D+%5BOrb%5D)
+
+
 3
 [Dance of the Dead](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDance%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
 
 
 4
 [Hymn to Tourach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
-
-
-1
-[Pestilence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPestilence%5D)
-
-
-1
-[Power Sink](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPower%5D+%5BSink%5D)
 
 
 1
@@ -662,19 +669,15 @@ OverviewColorCostRarity
 
 
 1
-[Circle of Protection: Black](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BBlack%5D)
-
-
-2
-[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
-
-
-1
 [Blue Elemental Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlue%5D+%5BElemental%5D+%5BBlast%5D)
 
 
+1
+[Sleight of Mind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSleight%5D+%5Bof%5D+%5BMind%5D)
 
-##### Rare (18)
+
+
+##### Rare (20)
 
 
 
@@ -702,6 +705,14 @@ OverviewColorCostRarity
 [Disrupting Scepter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisrupting%5D+%5BScepter%5D)
 
 
+1
+[Mind Twist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BTwist%5D)
+
+
+2
+[Land Tax](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLand%5D+%5BTax%5D)
+
+
 2
 [Stromgald Cabal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStromgald%5D+%5BCabal%5D)
 
@@ -714,12 +725,8 @@ OverviewColorCostRarity
 [Magical Hack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagical%5D+%5BHack%5D)
 
 
-1
-[Sleight of Mind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSleight%5D+%5Bof%5D+%5BMind%5D)
 
-
-
-##### Mythic (6)
+##### Mythic (2)
 
 
 
@@ -727,16 +734,8 @@ OverviewColorCostRarity
 [Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
-2
-[Zuran Orb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZuran%5D+%5BOrb%5D)
-
-
 1
 [Balance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBalance%5D)
-
-
-2
-[Land Tax](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLand%5D+%5BTax%5D)
 
 
 78 Cards 
@@ -768,7 +767,6 @@ OverviewColorCostRarity
 
 
 
-
 #### Marc Hernandez
 
 
@@ -779,9 +777,7 @@ OverviewColorCostRarity
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -1159,7 +1155,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (23)
+##### Common (22)
 
 
 
@@ -1171,16 +1167,16 @@ OverviewColorCostRarity
 [Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
+2
+[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
+
+
 3
 [Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
 
 
-3
-[Wrath of God](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
 
-
-
-##### Uncommon (21)
+##### Uncommon (27)
 
 
 
@@ -1188,12 +1184,12 @@ OverviewColorCostRarity
 [Ruins of Trokair](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuins%5D+%5Bof%5D+%5BTrokair%5D)
 
 
-2
-[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
-
-
 3
 [Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+
+
+4
+[Black Vise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BVise%5D)
 
 
 3
@@ -1208,6 +1204,10 @@ OverviewColorCostRarity
 [Ivory Tower](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIvory%5D+%5BTower%5D)
 
 
+3
+[Zuran Orb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZuran%5D+%5BOrb%5D)
+
+
 2
 [Fireball](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireball%5D)
 
@@ -1220,8 +1220,12 @@ OverviewColorCostRarity
 [Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
 
 
+1
+[Sleight of Mind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSleight%5D+%5Bof%5D+%5BMind%5D)
 
-##### Rare (16)
+
+
+##### Rare (17)
 
 
 
@@ -1231,6 +1235,10 @@ OverviewColorCostRarity
 
 2
 [Island Sanctuary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D+%5BSanctuary%5D)
+
+
+2
+[Land Tax](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLand%5D+%5BTax%5D)
 
 
 4
@@ -1245,12 +1253,8 @@ OverviewColorCostRarity
 [Winter Orb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinter%5D+%5BOrb%5D)
 
 
-1
-[Sleight of Mind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSleight%5D+%5Bof%5D+%5BMind%5D)
 
-
-
-##### Mythic (17)
+##### Mythic (11)
 
 
 
@@ -1266,16 +1270,8 @@ OverviewColorCostRarity
 [Balance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBalance%5D)
 
 
-2
-[Land Tax](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLand%5D+%5BTax%5D)
-
-
-4
-[Black Vise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BVise%5D)
-
-
 3
-[Zuran Orb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZuran%5D+%5BOrb%5D)
+[Wrath of God](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
 
 
 77 Cards 
@@ -1307,7 +1303,6 @@ OverviewColorCostRarity
 
 
 
-
 #### Henry Stern
 
 
@@ -1318,9 +1313,7 @@ OverviewColorCostRarity
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -1751,12 +1744,16 @@ OverviewColorCostRarity
 
 
 
-##### Uncommon (13)
+##### Uncommon (23)
 
 
 
 2
 [Dwarven Ruins](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BRuins%5D)
+
+
+3
+[Zuran Orb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZuran%5D+%5BOrb%5D)
 
 
 4
@@ -1767,12 +1764,20 @@ OverviewColorCostRarity
 [Fireball](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireball%5D)
 
 
+4
+[Black Vise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BVise%5D)
+
+
 3
 [Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroclasm%5D)
 
 
+3
+[Anarchy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchy%5D)
 
-##### Rare (16)
+
+
+##### Rare (13)
 
 
 
@@ -1796,12 +1801,8 @@ OverviewColorCostRarity
 [Lhurgoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLhurgoyf%5D)
 
 
-3
-[Anarchy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchy%5D)
 
-
-
-##### Mythic (12)
+##### Mythic (5)
 
 
 
@@ -1809,16 +1810,8 @@ OverviewColorCostRarity
 [Strip Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrip%5D+%5BMine%5D)
 
 
-3
-[Zuran Orb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZuran%5D+%5BOrb%5D)
-
-
 1
 [Channel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChannel%5D)
-
-
-4
-[Black Vise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlack%5D+%5BVise%5D)
 
 
 78 Cards 

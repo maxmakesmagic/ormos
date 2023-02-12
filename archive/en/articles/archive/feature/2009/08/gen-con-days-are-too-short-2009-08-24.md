@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Nate Price"
 [_metadata_:description]:- "Hi there, everybody! It's me, Nate Price: part-time coverage reporter for magicthegathering.com, full-time gamer. If you regularly check the Pro Tour and Grand Prix coverage here on the site, it's possible you've seen my name before. If not (which is far more likely), let me introduce myself."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683881"
 [_metadata_:publish_date]:- "2009-08-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gen Con: The Days Are Too Short"
-[_metadata_:wayback_capture_timestamp]:- "2019-12-11 13:43:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-12-11 13:43:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191211134353id_/https://magic.wizards.com/en/articles/archive/feature/gen-con-days-are-too-short-2009-08-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gen-con-days-are-too-short-2009-08-24"
 ---

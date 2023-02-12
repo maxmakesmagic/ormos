@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Paul Jordan"
 [_metadata_:description]:- "New formats are like new relationships. Every new deck idea you think of has the potential to be a lifelong mate. Every small card interaction could change the way you look at the format. You swoon over sideboards and ogle mythic rares. You might even reminisce about decks of past and think, `Hey, why don't I give that deck a call? We had a good thing going back then.` And of course, there are plenty of fish in the proverbial new format metagame sea."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681051"
 [_metadata_:publish_date]:- "2011-09-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "PT Philly Modern Metagame Breakdown"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:02:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:02:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020233id_/https://magic.wizards.com/en/articles/archive/feature/pt-philly-modern-metagame-breakdown-2011-09-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pt-philly-modern-metagame-breakdown-2011-09-08"
 ---

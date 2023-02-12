@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210805102055/https://magic.wizards.com/en/articles/archive/feature/azorius-senate-2012-08-20)
+[Link to Wayback Machine](https://web.archive.org/web/20160715103138/http://magic.wizards.com/en/articles/archive/feature/azorius-senate-2012-08-20)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Azorius Senate My Law. My Judgment. My Guild. Also known as the High Judges, the Azorius Senate is Ravnica’s ostensible government. The guild considers itself to be the mediator and controller of all other guilds’ activities, even though most of its countless decrees are largely ignored. The Azorius Senate does wield real power, and other guilds are aware that if the Azorius"
+[_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "696906"
 [_metadata_:publish_date]:- "2012-08-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Azorius Senate"
-[_metadata_:wayback_capture_timestamp]:- "2021-08-05 10:20:55+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210805102055id_/https://magic.wizards.com/en/articles/archive/feature/azorius-senate-2012-08-20"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/azorius-senate-2012-08-20"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-15 10:31:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160715103138id_/http://magic.wizards.com/en/articles/archive/feature/azorius-senate-2012-08-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/azorius-senate-2012-08-20"
 ---
 
 
@@ -26,7 +28,7 @@ Azorius Senate
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

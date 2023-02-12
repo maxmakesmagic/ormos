@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This week's wallpaper features Jung Park's Destructive Force artwork from Magic 2011. Enjoy. 1024x768 pixels 1280x960 pixels 1280x1024 pixels 2560x1600 pixels 320x480 pixels (iPhone) See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "656326"
 [_metadata_:publish_date]:- "2010-08-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Destructive Force"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 02:24:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 02:24:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519022421id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-destructive-force-2010-08-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-destructive-force-2010-08-20"
 ---

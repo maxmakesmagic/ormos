@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Currently in his first semester as a graduate student at Stanford University, Zak Dolan has had an eventful year. At GenCon this August, Zak beat Bertrand Lestreé, the French National champion, in the finals of the Magic: the Gathering World Title tournament. Here he discusses his introduction to the game and the development of the strategies that built a world-champion deck. On The Road To The World Title by Zak Dolan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "631221"
 [_metadata_:publish_date]:- "2004-08-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "On The Road To The World Title"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-25 06:11:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-25 06:11:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170725061154id_/http://magic.wizards.com/en/articles/archive/feature/road-world-title-2004-08-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/road-world-title-2004-08-23"
 ---

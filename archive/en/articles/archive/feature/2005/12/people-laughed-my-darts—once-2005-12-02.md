@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John H. Klauk"
 [_metadata_:description]:- "In what can only be described as a most savage twist of events, the great minds behind Magic: The Gathering® Online have decided that now is the time to release the Mirage™ card set online. Mirage goes on sale for Magic: The Gathering Online starting December 5, 2005. Almost 10 years after its initial paper release, players will once again get to feel the joys of cracking open"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638231"
 [_metadata_:publish_date]:- "2005-12-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "People Laughed At My Darts—Once"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 14:16:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 14:16:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811141610id_/https://magic.wizards.com/en/articles/archive/feature/people-laughed-my-darts%E2%80%94once-2005-12-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/people-laughed-my-darts%E2%80%94once-2005-12-02"
 ---

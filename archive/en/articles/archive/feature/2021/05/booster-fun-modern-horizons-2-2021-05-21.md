@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210521192812/https://magic.wizards.com/en/articles/archive/feature/booster-fun-modern-horizons-2-2021-05-21)
+[Link to Wayback Machine](https://web.archive.org/web/20210831123522/https://magic.wizards.com/en/articles/archive/feature/booster-fun-modern-horizons-2-2021-05-21)
 
 [_metadata_:author]:- "Clayton Kroh"
 [_metadata_:description]:- "There's a lot that goes into card treatments, and the Modern Horizons 2 team takes us behind-the-scenes for a look at the process!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1541998"
 [_metadata_:publish_date]:- "2021-05-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Booster Fun of Modern Horizons 2"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-21 19:28:12+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210521192812id_/https://magic.wizards.com/en/articles/archive/feature/booster-fun-modern-horizons-2-2021-05-21"
+[_metadata_:wayback_capture_timestamp]:- "2021-08-31 12:35:22"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210831123522id_/https://magic.wizards.com/en/articles/archive/feature/booster-fun-modern-horizons-2-2021-05-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/booster-fun-modern-horizons-2-2021-05-21"
 ---
 
@@ -32,11 +34,14 @@ By Clayton Kroh
 
 
 
- Clay is a video game industry veteran, fiction writer, and orchid grower (so many orchids). He writes and edits for DailyMTG and has contributed creative content to Magic: The Gathering. 
+ Clay is a content strategist, writer, and editor. He's a content editor and writer for DailyMTG, and has contributed creative work for *Magic: The Gathering *sets. On the side, he writes science fiction, fantasy, horror, and romance.** 
 
 
 
 
+
+
+***Editor's Note:** A previous version of this article had used "etched foil" and "foil-etched" when referring to how traditional foil treatment works for retro frame cards. This has been clarified.*
 
 
 When you have a set like *Modern Horizons 2*, nostalgia plays a big role, and this set includes new ways of looking at the familiar. Where the new meets the nostalgic is where the Art team gets to have some fun in *Modern Horizons 2* using card treatments*.*
@@ -122,6 +127,17 @@ In late 2020, *Commander Legends* introduced players to the foil-etched card tre
 For *Modern Horizons* 2, there are 153 foil-etched cards to be discovered in Collector Booster packs, including basic lands, new-to-Modern reprints, retro frame cards, and *Modern Horizons* cards with the retro frame treatment. The combination of traditional foil and foil-etched treatments with the new frames opens new dimensions to explore in visual quality, coolness, and collectability.
 
 
+Before we move on to the next treatment, take a look at this foil-etched basic land and foil-etched retro frame Rishadan Dockhand:
+
+
+
+> 
+> And now a look at the Foil Etched version of Rishadan Dockhand in its Retro frame! Regular and Traditional Foil versions of Retro Frame MH2 cards can be found in all boosters, but this Foil Etched treatment is exclusive to Collector Boosters. [pic.twitter.com/OtCR2IrQ3u](https://t.co/OtCR2IrQ3u)
+> 
+> 
+> — Magic: The Gathering (@wizards\_magic) [May 24, 2021](https://twitter.com/wizards_magic/status/1396923884889202690?ref_src=twsrc%5Etfw)
+
+
 Borderless and Extended-Art Treatments
 --------------------------------------
 
@@ -169,7 +185,7 @@ Retro artwork is from a different era, so bringing it forward for a modern set h
 "*Magic* frames have come a long way from the retro stylings," said Daniel. "Trying to shove things back into that box can be troublesome."
 
 
-The foil-etching process also presented an interesting twist when dealing with older cards. During the foiling process, there is what's called a white under-print plate, or simply a WUP. Specific elements of the card are under-printed with different values of white ink to create the visual textures within the frame and illustration. In the early days of *Magic*, we didn't have custom WUP treatments for artwork, so on foil-etched retro frame cards, the foil effects don't show inside the art box itself.
+Traditional foil retro frame cards also presented an interesting twist when dealing with older cards. During the foiling process, there is what's called a white under-print plate, or simply a WUP. Specific elements of the card are under-printed with different values of white ink to create the visual textures within the frame and illustration. In the early days of *Magic*, we didn't have custom WUP treatments for artwork, so on traditional foil retro frame cards, the foil effects don't show inside the art box itself. (Foil-etched treatment will be visible over the entire frame and art of the card for foil-etched retro frame cards.)
 
 
 (If you want to learn more about this process, check out Tom Wänerstrand's article on [how we build cards](https://magic.wizards.com/en/articles/archive/feature/building-card-2018-06-29).)
@@ -222,6 +238,20 @@ Sketch card treatments aren't just for players; they hold meaning for team membe
 
 
 "What else could you ask for?"
+
+
+Where Can I Find These Treatments?
+==================================
+
+
+
+
+
+[![](https://media.magic.wizards.com/mh2-where-to-find_1_v4.jpg)](https://media.magic.wizards.com/mh2-where-to-find_1_v4.jpg)
+[![](https://media.magic.wizards.com/mh2-where-to-find_2_v3.jpg)](https://media.magic.wizards.com/mh2-where-to-find_2_v3.jpg)
+[![](https://media.magic.wizards.com/mh2-where-to-find_3_v4.jpg)](https://media.magic.wizards.com/mh2-where-to-find_3_v4.jpg)
+
+[![](https://media.magic.wizards.com/mh2-where-to-find_1_v4.jpg)](#)  [![](https://media.magic.wizards.com/mh2-where-to-find_2_v3.jpg)](#)  [![](https://media.magic.wizards.com/mh2-where-to-find_3_v4.jpg)](#)
 
 
 

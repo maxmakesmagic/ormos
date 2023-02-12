@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic players have contributed to the creation of more than just Forgotten Ancient and Crucible of Worlds. And we don't just mean the Dark Confidant of Magic Invitational winners, either. Other elegant mechanics, submitted via You Make the Card and the Magic Invitational, have made their way onto cards without even being chosen as the winner. For example, the Ravnica card"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "597726"
 [_metadata_:publish_date]:- "2005-11-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "An Elegant Idea is an Elegant Idea"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 07:21:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 07:21:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126072124id_/https://magic.wizards.com/en/articles/archive/feature/elegant-idea-elegant-idea-2005-11-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/elegant-idea-elegant-idea-2005-11-09"
 ---

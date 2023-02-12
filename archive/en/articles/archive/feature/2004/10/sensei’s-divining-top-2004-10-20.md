@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613541"
 [_metadata_:publish_date]:- "2004-10-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sensei’s Divining Top"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-27 14:40:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-27 14:40:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170427144029id_/http://magic.wizards.com/en/articles/archive/feature/sensei%E2%80%99s-divining-top-2004-10-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sensei%E2%80%99s-divining-top-2004-10-20"
 ---

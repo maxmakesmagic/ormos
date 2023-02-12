@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210601034209/https://magic.wizards.com/en/articles/archive/feature/battle-wits-2012-07-30)
+[Link to Wayback Machine](https://web.archive.org/web/20170609144204/http://magic.wizards.com/en/articles/archive/feature/battle-wits-2012-07-30)
 
 [_metadata_:author]:- "Conley Woods"
-[_metadata_:description]:- "It was four or five years ago now. The setting was a Denver PTQ. The format was Extended and Dredge was the best deck by a mile. Turn-two kills were commonplace and the format was very unforgiving. Meanwhile, with a deck reaching 250 cards high sat a kid playing on the verge of a Top 8. The deck featured just about every cool card of the format, from Pernicious Deed to"
+[_metadata_:description]:- "It was four or five years ago now. The setting was a Denver PTQ. The format was Extended and Dredge was the best deck by a mile. Turn-two kills were commonplace and the format was very unforgiving. Meanwhile, with a deck reaching 250 cards high sat a kid playing on the verge of a Top 8. The deck featured just about every cool card of the format, from Pernicious Deed to Enduring Ideal, and was a blast to play."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665346"
 [_metadata_:publish_date]:- "2012-07-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battle of Wits"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-01 03:42:09+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210601034209id_/https://magic.wizards.com/en/articles/archive/feature/battle-wits-2012-07-30"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-wits-2012-07-30"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-09 14:42:04"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170609144204id_/http://magic.wizards.com/en/articles/archive/feature/battle-wits-2012-07-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/battle-wits-2012-07-30"
 ---
 
 
@@ -52,7 +54,6 @@ Oh, and if you couldn't pick up on my excitement around a potentially tournament
 
 
 
-
 #### Nolan Blackwelder's Battle of Wits
 
 
@@ -63,9 +64,7 @@ Oh, and if you couldn't pick up on my excitement around a potentially tournament
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -898,15 +897,15 @@ OverviewColorCostRarity
 
 
 4
-[Restoration Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRestoration%5D+%5BAngel%5D)
-
-
-4
 [Trinket Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D)
 
 
 4
-[Dismember](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D)
+[Doom Blade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+4
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 4
@@ -914,11 +913,11 @@ OverviewColorCostRarity
 
 
 4
-[Lingering Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLingering%5D+%5BSouls%5D)
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 4
-[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
 
 
 4
@@ -959,11 +958,11 @@ OverviewColorCostRarity
 
 
 4
-[Dissipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D)
+[Dismember](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D)
 
 
 4
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Dissipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D)
 
 
 1
@@ -975,11 +974,11 @@ OverviewColorCostRarity
 
 
 4
-[Midnight Haunting](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMidnight%5D+%5BHaunting%5D)
+[Lingering Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLingering%5D+%5BSouls%5D)
 
 
 4
-[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+[Midnight Haunting](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMidnight%5D+%5BHaunting%5D)
 
 
 4
@@ -999,8 +998,16 @@ OverviewColorCostRarity
 
 
 
-##### Rare (53)
+##### Rare (65)
 
+
+
+4
+[Cavern of Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavern%5D+%5Bof%5D+%5BSouls%5D)
+
+
+4
+[Darkslick Shores](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkslick%5D+%5BShores%5D)
 
 
 4
@@ -1020,6 +1027,10 @@ OverviewColorCostRarity
 
 
 4
+[Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
+
+
+4
 [Blade Splicer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlade%5D+%5BSplicer%5D)
 
 
@@ -1036,6 +1047,10 @@ OverviewColorCostRarity
 
 
 4
+[Restoration Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRestoration%5D+%5BAngel%5D)
+
+
+4
 [Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D)
 
 
@@ -1047,16 +1062,16 @@ OverviewColorCostRarity
 [Chimeric Mass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChimeric%5D+%5BMass%5D)
 
 
-4
-[Doom Blade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
-
-
 1
 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
 
 
 4
 [Increasing Ambition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncreasing%5D+%5BAmbition%5D)
+
+
+3
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
 
 
 1
@@ -1067,25 +1082,9 @@ OverviewColorCostRarity
 [Surgical Extraction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurgical%5D+%5BExtraction%5D)
 
 
-3
-[Terminus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerminus%5D)
 
+##### Mythic (35)
 
-
-##### Mythic (47)
-
-
-
-4
-[Cavern of Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavern%5D+%5Bof%5D+%5BSouls%5D)
-
-
-4
-[Darkslick Shores](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkslick%5D+%5BShores%5D)
-
-
-4
-[Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
 
 
 4
@@ -1129,7 +1128,7 @@ OverviewColorCostRarity
 
 
 3
-[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+[Terminus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerminus%5D)
 
 
 256 Cards 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "If you decide to build a deck around the Judgment sorcery Grizzly Fate, I suggest you do the following:Sit down at your friend’s dining room table, shuffling your green-sleeved deck and waiting for him to feed you. When he finally sits down, calmly hand him a folded slip of paper that says the following:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625866"
 [_metadata_:publish_date]:- "2002-05-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Right to Bear Arms"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-23 23:08:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-23 23:08:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170323230833id_/http://magic.wizards.com/en/articles/archive/feature/right-bear-arms-2002-05-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/right-bear-arms-2002-05-16"
 ---

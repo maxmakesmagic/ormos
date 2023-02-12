@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Bachmann, David (229) Fujita, Tsuyoshi (204) 2-1 Benefel, Chris (163) Shinkins, Stewart (70) 1-0 Benefield, Kevin (234) Bernabeu, Jesus (143) 1-2 Bernabeu, Jesus (143) Benefield, Kevin (234) 2-1 Blackwell, Trevor (298) Burgner, Kurt (173) 1-1 Boeken, Noah (129) Kastle, Darwin (260) 1-2 Bulthaud, Sean (314) Van de Logt, Tom (117) 2-0 Burgner, Kurt (173)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950546"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 10 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:59:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:59:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126185959id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-10-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-10-results-2000-01-01"
 ---

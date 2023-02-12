@@ -5,9 +5,11 @@
 [_metadata_:author]:- "The Magic Creative Team"
 [_metadata_:description]:- " "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353331"
 [_metadata_:publish_date]:- "2013-08-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalker's Guide to Theros, Part 2"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-28 19:32:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-28 19:32:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150328193202id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-theros-part-2-2013-08-28"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-theros-part-2-2013-08-28"
 ---

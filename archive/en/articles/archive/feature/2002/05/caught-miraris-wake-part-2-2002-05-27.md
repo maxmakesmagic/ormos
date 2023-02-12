@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200815042151/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-2-2002-05-27)
+[Link to Wayback Machine](https://web.archive.org/web/20211026074212/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-2-2002-05-27)
 
 [_metadata_:author]:- "Will McDermott"
-[_metadata_:description]:- "Part Two: A New World OrderWelcome back to our behind-the-scenes look at the Odyssey Cycle author summit. In part one, I discussed the break from the old Weatherlight storyline and the brainstorming session that created Laquatus, Kamahl, and the Mirari plotline."
+[_metadata_:description]:- "Part Two: A New World OrderWelcome back to our behind-the-scenes look at the Odyssey Cycle author summit. In part one, I discussed the break from the old Weatherlight storyline and the brainstorming session that created Laquatus, Kamahl, and the Mirari plotline. In this article, I will go into greater detail about how we landed on Otaria, where the political factions on the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634301"
 [_metadata_:publish_date]:- "2002-05-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Caught in the Mirari's Wake, Part 2"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-15 04:21:51+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815042151id_/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-2-2002-05-27"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 07:42:12"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026074212id_/https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-2-2002-05-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/caught-miraris-wake-part-2-2002-05-27"
 ---
 
@@ -69,7 +71,7 @@ The other part of Otarian life that was left more or less up to the author summi
 
 One thing we all agreed upon was that it was time to give some of the old staple races a break. Every **Magic** set for years had included elves and goblins. We had a brand new continent to explore, and we felt it was time to let some of the other races get a chance to roam Dominaria again. Daneen and I had just recently finished "The Lady of the Mountain," our short story for [*The Myths of Magic* anthology](http://archive.wizards.com/catalog/product.asp?tsr21529), which detailed the dwarven creation myth. We lobbied hard for dwarves to replace goblins, at least for the time being. (My belief is that the Pardic dwarves have all but obliterated the pesky little buggers.)
 
-But the most interesting brainstorming discussion surrounded the flying creatures that Vance wanted to use for the Order in his *Odyssey* plotline. "The aven were a natural development for a white race," says Vance. "Birds to me are either doves or vultures. The idea of races cast out of higher planes with many unable to fly was engaging. Also, since I have a phobia about large birds (tracing back to a chicken incident), I use them quite often." We all liked the idea of militant, bird men terrorizing the plains, but we knew we needed to stay away from [Flying Men](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flying+Men), which was a blue card from the *Arabian Nights* set. Vance's more birdlike avens were perfect because white flyers are often raptors of one sort or another.
+But the most interesting brainstorming discussion surrounded the flying creatures that Vance wanted to use for the Order in his *Odyssey* plotline. "The aven were a natural development for a white race," says Vance. "Birds to me are either doves or vultures. The idea of races cast out of higher planes with many unable to fly was engaging. Also, since I have a phobia about large birds (tracing back to a chicken incident), I use them quite often." We all liked the idea of militant, bird men terrorizing the plains, but we knew we needed to stay away from [Flying Men](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flying+Men), which was a blue card from the *Arabian Nights* set. Vance's more birdlike avens were perfect because white flyers are often raptors of one sort or another.
 
 
 

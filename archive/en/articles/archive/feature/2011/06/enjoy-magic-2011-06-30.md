@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "1024x768 pixels1280x960 pixels1280x1024 pixels2560x1600 pixels320x480 pixels (iPhone) 1024x768 pixels1280x960 pixels1280x1024 pixels2560x1600 pixels640x960 pixels (iPhone)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "696616"
 [_metadata_:publish_date]:- "2011-06-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Enjoy Magic"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 16:36:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 16:36:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208163650id_/https://magic.wizards.com/en/articles/archive/feature/enjoy-magic-2011-06-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enjoy-magic-2011-06-30"
 ---

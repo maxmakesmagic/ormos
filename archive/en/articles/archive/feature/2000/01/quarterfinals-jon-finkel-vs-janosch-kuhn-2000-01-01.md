@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "962081"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Quarterfinals Jon Finkel vs. Janosch Kuhn"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 23:08:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 23:08:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203230845id_/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-jon-finkel-vs-janosch-kuhn-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quarterfinals-jon-finkel-vs-janosch-kuhn-2000-01-01"
 ---

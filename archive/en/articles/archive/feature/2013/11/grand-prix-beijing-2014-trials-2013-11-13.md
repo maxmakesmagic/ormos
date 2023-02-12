@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Beijing Trials will be run at Asia Pacific WPN locations from January 4, 2014 to March 16, 2014. Each awards the winner a two-round bye to Grand Prix Beijing. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event. Possible"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728186"
 [_metadata_:publish_date]:- "2013-11-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Beijing 2014 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 07:46:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 07:46:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201074636id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-beijing-2014-trials-2013-11-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-beijing-2014-trials-2013-11-13"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Guadalajara is brought to you by Grupo Necrotower."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728541"
 [_metadata_:publish_date]:- "2013-03-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Guadalajara Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 06:00:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 06:00:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031060054id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-guadalajara-event-information-2013-03-29-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-guadalajara-event-information-2013-03-29-0"
 ---

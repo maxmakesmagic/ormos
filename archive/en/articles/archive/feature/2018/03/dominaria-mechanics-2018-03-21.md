@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Matt explains the new mechanics coming with Dominaria."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1264766"
 [_metadata_:publish_date]:- "2018-03-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dominaria Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2018-03-21 14:56:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-03-21 14:56:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180321145631id_/https://magic.wizards.com/en/articles/archive/feature/dominaria-mechanics-2018-03-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominaria-mechanics-2018-03-21"
 ---

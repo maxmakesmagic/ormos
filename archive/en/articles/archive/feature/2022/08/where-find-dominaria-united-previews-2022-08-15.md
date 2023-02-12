@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Dominaria United, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1599277"
 [_metadata_:publish_date]:- "2022-08-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Dominaria United Previews"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 15:05:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 15:05:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815150553id_/https://magic.wizards.com/en/articles/archive/feature/where-find-dominaria-united-previews-2022-08-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-dominaria-united-previews-2022-08-15"
 ---

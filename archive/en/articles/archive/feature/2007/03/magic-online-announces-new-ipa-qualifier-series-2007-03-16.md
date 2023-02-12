@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Justin Ziran"
 [_metadata_:description]:- "How does playing with and competing for Invasion/Planeshift/Apocalypse on Wizards' dime sound? On April 7 and April 8, hundreds of Magic Online players in two different championship events will be doing exactly that! Over the next two weeks, Magic Online will be hosting a series of sixty-four IPA Qualifier events, featuring both Limited and Constructed formats."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633331"
 [_metadata_:publish_date]:- "2007-03-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Announces New IPA Qualifier Series"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 01:40:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 01:40:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017014021id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-announces-new-ipa-qualifier-series-2007-03-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-announces-new-ipa-qualifier-series-2007-03-16"
 ---

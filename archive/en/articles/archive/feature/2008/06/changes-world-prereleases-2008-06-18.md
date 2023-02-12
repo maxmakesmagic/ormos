@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This is truly a year of changes for Magic: The Gathering. Following on the early June announcement regarding the changes to the TCG and publishing offerings and the first outline of the Wizards Play Network, we present the new plan for Prerelease tournaments beginning with Shards of Alara, the set to be released on October 3, 2008."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "610656"
 [_metadata_:publish_date]:- "2008-06-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Changes in the World of Prereleases"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 14:03:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 14:03:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923140320id_/https://magic.wizards.com/en/articles/archive/feature/changes-world-prereleases-2008-06-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/changes-world-prereleases-2008-06-18"
 ---

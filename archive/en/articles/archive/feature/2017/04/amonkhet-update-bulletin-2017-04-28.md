@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210802122939/https://magic.wizards.com/en/articles/archive/feature/amonkhet-update-bulletin-2017-04-28)
+[Link to Wayback Machine](https://web.archive.org/web/20170726123053/http://magic.wizards.com/en/articles/archive/feature/amonkhet-update-bulletin-2017-04-28)
 
 [_metadata_:author]:- "Eli Shiffrin"
 [_metadata_:description]:- "A review of all the Oracle and Comprehensive Rules changes that come with a new set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1153576"
 [_metadata_:publish_date]:- "2017-04-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Amonkhet Update Bulletin"
-[_metadata_:wayback_capture_timestamp]:- "2021-08-02 12:29:39+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210802122939id_/https://magic.wizards.com/en/articles/archive/feature/amonkhet-update-bulletin-2017-04-28"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/amonkhet-update-bulletin-2017-04-28"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-26 12:30:53"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170726123053id_/http://magic.wizards.com/en/articles/archive/feature/amonkhet-update-bulletin-2017-04-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/amonkhet-update-bulletin-2017-04-28"
 ---
 
 

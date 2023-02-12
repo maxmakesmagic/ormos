@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Constructed Premier Events have resumed on Magic Online as you read this, so it’s time to find good decks for Standard with Planar Chaos. In the last months, we saw that Standard was dominated by Dralnu du Louvre, Dragonstorm, Mono Green Aggro, U/G Scryb&Force, Angelfire, and U/W Tron. Dralnu du Louvre in particular appeared to be the most popular deck. What changes will"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624271"
 [_metadata_:publish_date]:- "2007-03-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Musings On The New Standard"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 16:20:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 16:20:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813162045id_/https://magic.wizards.com/en/articles/archive/feature/musings-new-standard-2007-03-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/musings-new-standard-2007-03-14"
 ---

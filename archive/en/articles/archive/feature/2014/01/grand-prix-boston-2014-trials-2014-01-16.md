@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Boston Trials will be run at North and Latin America WPN locations from May 3, 2014 to July 13, 2014. Each awards the winner a two-round bye to Grand Prix Boston. Entry Fee Entry fee varies from location to location. Check with local organizer for specific information. Format The format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728251"
 [_metadata_:publish_date]:- "2014-01-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Boston 2014 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 15:06:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 15:06:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021150606id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-boston-2014-trials-2014-01-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-boston-2014-trials-2014-01-16"
 ---

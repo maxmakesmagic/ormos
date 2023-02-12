@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "709051"
 [_metadata_:publish_date]:- "2003-06-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Summer of Magic"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-21 08:16:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-21 08:16:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170621081603id_/http://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-1"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-1"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jeff Till"
 [_metadata_:description]:- "Welcome to Magic: the Puzzling, Guildpact edition. Once again we'll explore some possibilities that turn traditional games of Magic on their sides. However, I have heard that it's also The Izzet week on magicthegathering.com. I suppose it would make sense to build some puzzles based on that particular guild. If only The Izzet had anything to do with puzzles, or weird"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632541"
 [_metadata_:publish_date]:- "2006-02-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Puzzling—Guildpact"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 20:57:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 20:57:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022205733id_/https://magic.wizards.com/en/articles/archive/feature/magic-puzzling%E2%80%94guildpact-2006-02-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-puzzling%E2%80%94guildpact-2006-02-27"
 ---

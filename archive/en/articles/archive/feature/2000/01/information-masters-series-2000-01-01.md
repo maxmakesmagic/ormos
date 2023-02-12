@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; by Sideboard Staff&#13; &#13; The Masters Series is a program designed to highlight the best Magic players in the world and bring them together in a single tournament with a large cash prize. The total prize for each Masters Series event is $150,000. ESPN plans to televise the finals from each Masters tournament.&#13; &#13; The first Masters Series tournament will be held in conjunction with Pro Tour New York (September 28 - October 1, 2000). The format for this Masters tournament will be Extended Constructed."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805591"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Information on the Masters Series"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-24 12:43:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-24 12:43:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170424124304id_/http://magic.wizards.com/en/articles/archive/feature/information-masters-series-2000-01-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/information-masters-series-2000-01-01"
 ---

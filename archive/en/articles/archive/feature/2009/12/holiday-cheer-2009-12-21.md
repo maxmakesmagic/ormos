@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "`Ho, ho, ho! Midgets! Er—Readers! You have all heard the rumors—Kris Kringle is out with a mysterious back injury. Sources very close to Borborygmos's social club confirm that this is true. That is why I, Borborygmos, will be delivering the presents this year! I have Elves. I have toys. I have snow. I even have a sleigh! I know when you are sleeping, when you are awake, when"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669151"
 [_metadata_:publish_date]:- "2009-12-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Holiday Cheer"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 01:53:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 01:53:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816015312id_/https://magic.wizards.com/en/articles/archive/feature/holiday-cheer-2009-12-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/holiday-cheer-2009-12-21"
 ---

@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200805202131/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-i-2009-09-07)
+[Link to Wayback Machine](https://web.archive.org/web/20210125001352/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-i-2009-09-07)
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Zendikar previews! Today is Labor Day here in the States, and ordinarily that means I'd be introducing a reposting of last week's article for you to read while the web team is off having barbecues and enjoying what little sunshine we can get here in Seattle."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657226"
 [_metadata_:publish_date]:- "2009-09-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Achieving Zendikar, Part I"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 20:21:31+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805202131id_/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-i-2009-09-07"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-25 00:13:52"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125001352id_/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-i-2009-09-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-i-2009-09-07"
 ---
 

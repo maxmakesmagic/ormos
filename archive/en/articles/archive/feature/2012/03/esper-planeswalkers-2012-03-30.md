@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "At the StarCityGames.com Invitational event last weekend, numerous notable pros battled it out in both Standard and Legacy. Magic deck builder Shaheen Soorani brought a new take on the old Solar Flare archetype: Esper Planeswalkers. Carrying him all the way to 3rd place, Soorani's new deck is shaping up to be a major force in Standard."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672246"
 [_metadata_:publish_date]:- "2012-03-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Esper Planeswalkers"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-16 00:38:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-16 00:38:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170316003841id_/http://magic.wizards.com/en/articles/archive/feature/esper-planeswalkers-2012-03-30"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/esper-planeswalkers-2012-03-30"
 ---

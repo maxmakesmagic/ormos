@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Download - PC"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "631251"
 [_metadata_:publish_date]:- "2011-09-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Duels of the Planeswalkers 2012 Expansion 1"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-15 09:17:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-15 09:17:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170815091751id_/http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2012-expansion-1-2011-09-13"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duels-planeswalkers-2012-expansion-1-2011-09-13"
 ---

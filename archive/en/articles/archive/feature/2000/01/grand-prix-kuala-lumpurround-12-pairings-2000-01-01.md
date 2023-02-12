@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Ang, Jun Yang (120) 22 12 Hoh, Derik ( 79) 22 Au Yong, Wai Kin ( 56) 25 5 Phang, Ben Neng (187) 25 Aw-Yeong, Weng Kwong (134) 21 20 Tsukamoto, Toshiki (257) 21 Chai, Royce Ming Huang (174) 24 9 Len, Jim ( 37) 24 Chan, Sam Soon (106) 22 13 Yii, Terh Kuen ( 71) 22 Chew, Wilson Choon Gee ( 21) 16 29 Chin, Yung Han ( 78) 16 Chin, Yung Han ( 78) 16 29"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952576"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Kuala LumpurRound 12 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 21:50:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 21:50:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128215018id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-12-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-12-pairings-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "I write all the decks for each week during the previous week. Right now, I'm on a plane on my way to Pro Tour Gatecrash in Montreal. There's a good chance that Standard will look fairly different when you read this than it did when I wrote it, but this week I'm going to feature a variety of decks I considered playing for Pro Tour Gatecrash—or decks that teammates played."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666151"
 [_metadata_:publish_date]:- "2013-02-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "My Pro Tour Gatecrash Deck"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:04:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:04:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024040449id_/https://magic.wizards.com/en/articles/archive/feature/my-pro-tour-gatecrash-deck-2013-02-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-pro-tour-gatecrash-deck-2013-02-19"
 ---

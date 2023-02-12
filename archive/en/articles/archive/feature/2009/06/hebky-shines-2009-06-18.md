@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Michal Hebky's Shards of Alara Draft Format: Pro Tour–Honolulu 5 Forest 5 Island 4 Plains 1 Seaside Citadel 1 Aven Squire 1 Aven Trailblazer 1 Court Homunculus 1 Dawnray Archer 1 Deft Duelist 1 Enlisted Wurm 2 Esper Cormorants 2 Ethercaste Knight 1 Guardians of Akrasa 1 Kathari Screecher 1 Messenger Falcons 1 Naya Hushblade 1 Valeron Outlander 2 Waveskimmer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668441"
 [_metadata_:publish_date]:- "2009-06-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Hebky Shines"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 15:08:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 15:08:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818150847id_/https://magic.wizards.com/en/articles/archive/feature/hebky-shines-2009-06-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hebky-shines-2009-06-18"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Happy holidays from magicthegathering.com! It's that time of year again—a time for family and feasting, for reflection and repose ... and for the only two weeks each year when the Daily MTG staff lets any of those things overshadow the all-consuming goal of bringing you exclusive Magic articles, activities, decks, announcements, and inside information every single weekday. But"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "600306"
 [_metadata_:publish_date]:- "2009-12-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Happy Holidays!"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 10:51:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 10:51:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120105150id_/https://magic.wizards.com/en/articles/archive/feature/happy-holidays-2009-12-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/happy-holidays-2009-12-21"
 ---

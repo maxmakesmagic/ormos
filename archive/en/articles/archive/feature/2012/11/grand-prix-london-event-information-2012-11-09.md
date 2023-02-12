@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix London is brought to you by Gordian Knot Games.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gplondon Date: February 8-10, 2013 Format: Gatecrash Sealed Deck and Booster Draft Tournament Location ExCel London Newham, London E16 1XL (For"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728811"
 [_metadata_:publish_date]:- "2012-11-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix London Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:13:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:13:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503041342id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-london-event-information-2012-11-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-london-event-information-2012-11-09"
 ---

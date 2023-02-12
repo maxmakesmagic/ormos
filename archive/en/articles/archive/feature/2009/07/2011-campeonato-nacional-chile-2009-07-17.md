@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Fecha: 30 y 31 de Julio de 2011Ubicación Nombre: Hotel GaleriaUbicación Direción: San Antonio 65Ciudad: SantiagoPaís: ChileElegibilidadEl Campeonato Nacional de Chile de Magic: The Gathering es un evento por invitación, abierto a todos los ciudadanos o residentes permanentes de Chile que reciban invitaciones al Nacional a través de los puntajes DCI o clasificando en eventos"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730041"
 [_metadata_:publish_date]:- "2009-07-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Campeonato Nacional Chile"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 03:48:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 03:48:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016034836id_/https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-chile-2009-07-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-campeonato-nacional-chile-2009-07-17"
 ---

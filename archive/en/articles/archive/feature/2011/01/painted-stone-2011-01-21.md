@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Nicholas Spagnolo's Painted Stone Format: Legacy - Top 16 - StarCityGames.com–San Jose 3 Great Furnace 4 Seat of the Synod 1 Island 3 Ancient Tomb 2 City of Traitors 1 Flooded Strand 4 Scalding Tarn 4 Volcanic Island 4 Painter's Servant 4 Goblin Welder 2 Trinket Mage 4 Grindstone 3 Lion's Eye Diamond 4 Sensei's Divining Top 4 Brainstorm 4 Force of Will 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670601"
 [_metadata_:publish_date]:- "2011-01-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Painted Stone"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 09:49:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 09:49:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814094937id_/https://magic.wizards.com/en/articles/archive/feature/painted-stone-2011-01-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/painted-stone-2011-01-21"
 ---

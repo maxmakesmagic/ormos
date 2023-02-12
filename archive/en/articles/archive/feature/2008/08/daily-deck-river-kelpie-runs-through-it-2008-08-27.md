@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Conley Woods’s A River Kelpie Runs Through It Format: 6 Island 4 Mutavault 4 Secluded Glen 4 Sunken Ruins 7 Swamp 4 Mulldrifter 2 Puppeteer Clique 3 River Kelpie 4 Shriekmaw 4 Soul Snuffers 4 Cryptic Command 4 Makeshift Mannequin 2 Profane Command 4 Raven's Crime 4 Snakeform *2 Festercreep *1 Oona, Queen of the Fae *1 Puppeteer Clique *3 Sower of Temptation *1 Syphon Life *4 Thoughtseize *3 Unmake"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668346"
 [_metadata_:publish_date]:- "2008-08-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Daily Deck: A River (Kelpie) Runs Through It"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-25 20:37:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-25 20:37:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170425203758id_/http://magic.wizards.com/en/articles/archive/feature/daily-deck-river-kelpie-runs-through-it-2008-08-27"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/daily-deck-river-kelpie-runs-through-it-2008-08-27"
 ---

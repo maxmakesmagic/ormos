@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210122135233/https://magic.wizards.com/en/articles/archive/feature/2008-world-championships-invitation-list-2008-09-03)
+[Link to Wayback Machine](https://web.archive.org/web/20190713153535/https://magic.wizards.com/en/articles/archive/feature/2008-world-championships-invitation-list-2008-09-03)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Invitations to the 2008 World Championships are awarded in the following manner:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732446"
 [_metadata_:publish_date]:- "2008-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2008 World Championships Invitation List"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-22 13:52:33+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122135233id_/https://magic.wizards.com/en/articles/archive/feature/2008-world-championships-invitation-list-2008-09-03"
+[_metadata_:wayback_capture_timestamp]:- "2019-07-13 15:35:35"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190713153535id_/https://magic.wizards.com/en/articles/archive/feature/2008-world-championships-invitation-list-2008-09-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-world-championships-invitation-list-2008-09-03"
 ---
 

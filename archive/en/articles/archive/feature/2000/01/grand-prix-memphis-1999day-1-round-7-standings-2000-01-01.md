@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rank Name Points Win% 1 Pacheco, Marc 21 71.75 2 Rauseo, Matt 21 70.24 3 Price, David 21 70.00 4 Turning, Travis 21 68.65 5 Heffern, Mike 19 74.40 6 Jafari, David 19 73.81 7 Cain, Joseph 18 83.33 8 O'Mahoney-Schwartz, Steve 18 79.76 9 Heiss, Nathan 18 76.57 10 Wescoe, Craig 18 74.86 11 Sullivan, Adrian 18 74.29 12 Senhouse, Christopher 18 70.24 13 Pustilnik, Michael 18 70.24"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953091"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Memphis 1999Day 1 Round 7 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:17:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 03:17:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528031720id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-7-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-7-standings-2000-01-01"
 ---

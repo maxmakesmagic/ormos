@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Paul Jordan"
 [_metadata_:description]:- "Another Pro Tour is in the books, this time seeing one of the game's current and arguably all-time stars claiming his first crown. While Paulo Vitor Damo da Rosa's 40-card deck was the last one standing, it was 60-card decks that did the heavy lifting in propelling him and others to the Sunday draft table. We're going to take a look at some of the decks in the Zendikar Block"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684301"
 [_metadata_:publish_date]:- "2010-06-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–San Juan Metagame Breakdown"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 01:36:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 01:36:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503013629id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-metagame-breakdown-2010-06-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-metagame-breakdown-2010-06-07"
 ---

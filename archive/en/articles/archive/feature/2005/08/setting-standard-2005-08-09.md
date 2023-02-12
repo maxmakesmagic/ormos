@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Bill Rose"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "292041"
 [_metadata_:publish_date]:- "2005-08-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Setting the Standard"
-[_metadata_:wayback_capture_timestamp]:- "2015-06-02 20:46:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-06-02 20:46:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150602204617id_/http://magic.wizards.com/en/articles/archive/feature/setting-standard-2005-08-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/setting-standard-2005-08-09"
 ---

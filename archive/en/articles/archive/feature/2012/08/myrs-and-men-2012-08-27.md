@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Last week, we took a look at a mono-blue Grand Architect deck that put the three-drop to good use, pumping up the team and speeding up Equipment. But as we mentioned then, Grand Architect has quite a few uses. While that list had a few artifacts in it, they were certainly not the focus of the list. So what would something like that look like? Artifact-based Architect lists"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665456"
 [_metadata_:publish_date]:- "2012-08-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Of Myrs and Men"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 14:04:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 14:04:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027140419id_/https://magic.wizards.com/en/articles/archive/feature/myrs-and-men-2012-08-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/myrs-and-men-2012-08-27"
 ---

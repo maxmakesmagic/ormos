@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The players in the StarCityGames.com Open Series consistently bring new decks to the forefront of the Standard scene, and this week is no exception. Ben Bowman brought a deck packed with crazy interactions you wouldn't normally expect to sit right next to each other. It's part Wolf Run Ramp, part Heartless Summoning, and part Glissa Control. When you add them together, you end"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672336"
 [_metadata_:publish_date]:- "2012-04-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Lich Run Ramp"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:25:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 04:25:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024042550id_/https://magic.wizards.com/en/articles/archive/feature/lich-run-ramp-2012-04-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lich-run-ramp-2012-04-24"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult Opponent#I MagicWon 3-0vsThe Flagbearers#realgangstasLost 0-3vsCollector's Corner$30 Cab FareLost 1-2vsTeam Salmon$42 TicketLost 1-2vsFamily Games Center100 Super Good Fun TimeLost 1-2vsSean Connery & the Cosmic Dw3 StoogesDrew 1-1vsScoop3 White Boys from the StixLost 0-3vswww.5color.com3 X ThreatLost 0-3vsHannah's Games5 Ways Worse than PortentLost 0-3vsThe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805941"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 4 Results (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:31:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 09:31:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702093142id_/https://magic.wizards.com/en/articles/archive/feature/round-4-results-team-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-results-team-2000-01-01"
 ---

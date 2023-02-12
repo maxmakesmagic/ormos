@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200907051010/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-mechanics-2020-09-01)
+[Link to Wayback Machine](https://web.archive.org/web/20210919160832/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-mechanics-2020-09-01?marocom)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Check out all the mechanics from the upcoming Zendikar Rising, some returning and some new."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1508901"
 [_metadata_:publish_date]:- "2020-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Zendikar Rising Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-07 05:10:10+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200907051010id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-mechanics-2020-09-01"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-mechanics-2020-09-01"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-19 16:08:32"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210919160832id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-mechanics-2020-09-01?marocom"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-mechanics-2020-09-01?marocom"
 ---
 
 
@@ -81,6 +83,9 @@ Party
 =====
 
 
+<https://www.youtube.com/embed/uyBNh7uunEI>
+
+
 Paaaaaaaaarty! That's it. That's the intro.
 
 
@@ -110,6 +115,9 @@ If you find yourself in a situation where you could count your party different w
 
 Kicker
 ======
+
+
+<https://www.youtube.com/embed/VOTbJpfbCbY>
 
 
 The party mechanic will have your whole tribe questing, while you kick it with a fan-favorite returning mechanic: kicker.

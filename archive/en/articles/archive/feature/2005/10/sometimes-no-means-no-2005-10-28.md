@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "Over the many years Magic: The Gathering® has been around, there have been a lot of variations on Counterspell. Beginning with Alpha, the ability to thwart your opponent’s plays has been critical to the success of blue mages. The original three cards that would let you shut down your opponent’s spells were Spell Blast, Power Sink, and Counterspell. Since then, every new Magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638201"
 [_metadata_:publish_date]:- "2005-10-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sometimes No Means No"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 03:59:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 03:59:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814035901id_/https://magic.wizards.com/en/articles/archive/feature/sometimes-no-means-no-2005-10-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sometimes-no-means-no-2005-10-28"
 ---

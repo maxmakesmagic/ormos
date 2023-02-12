@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Going into the last round, Christer Ljones of Norway and Kurt Burgner of California were two of the remaining 3 undefeated and untied players. Norway is having an amazing Pro Tour so far. Going into round 7 five of the 8 Norwegian player sin the field had already clinched day 2 and a 6th was playing for it in the last round. Norway has been a power at the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950511"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 7 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:38:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:38:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126173826id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-7-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-7-feature-match-2000-01-01"
 ---

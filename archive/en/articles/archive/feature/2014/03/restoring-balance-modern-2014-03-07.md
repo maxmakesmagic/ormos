@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Restore Balance has made a splash at every single Modern Pro Tour but tends to get overshadowed by the other combo decks in the format. As Alfonso Barcelona Cabeza has shown us, Restore Balance got a great card from Theros—Thassa, God of the Sea. Thassa is in the sweet spot for Restore Balance at three mana. The deck uses cascade cards like Ardent Plea and Violent Outburst to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667681"
 [_metadata_:publish_date]:- "2014-03-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Restoring Balance to Modern"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 21:34:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 21:34:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812213432id_/https://magic.wizards.com/en/articles/archive/feature/restoring-balance-modern-2014-03-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/restoring-balance-modern-2014-03-07"
 ---

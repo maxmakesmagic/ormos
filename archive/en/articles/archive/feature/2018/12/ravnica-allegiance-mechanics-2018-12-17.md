@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Matt reveals the new and returning mechanics coming with Ravnica Allegiance!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1376206"
 [_metadata_:publish_date]:- "2018-12-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ravnica Allegiance Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2018-12-17 21:30:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-12-17 21:30:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181217213048id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-mechanics-2018-12-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-mechanics-2018-12-17"
 ---

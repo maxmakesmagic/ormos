@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Matthew Wilson's Tethered Griffin from Urza's Destiny. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "606506"
 [_metadata_:publish_date]:- "2004-02-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Tethered Griffin"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 11:25:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 11:25:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027112537id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-tethered-griffin-2004-02-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-tethered-griffin-2004-02-27"
 ---

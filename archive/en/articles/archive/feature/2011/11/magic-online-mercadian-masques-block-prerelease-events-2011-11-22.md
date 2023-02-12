@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "F ollow the crew of the Weatherlight as they crash-land on the plane of Mercadia. After becoming entangled in the intrigues and conflict of Mercadia City, Gerrard and the crew uncover a Phyrexian plot to invade Dominaria. Time is of the essence as the heroes race to repair their ship and stop the destruction of Dominaria. The Mercadian Masques, Nemesis, and Prophecy sets come"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688551"
 [_metadata_:publish_date]:- "2011-11-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Mercadian Masques Block Prerelease Events"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:46:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:46:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023154620id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-mercadian-masques-block-prerelease-events-2011-11-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-mercadian-masques-block-prerelease-events-2011-11-22"
 ---

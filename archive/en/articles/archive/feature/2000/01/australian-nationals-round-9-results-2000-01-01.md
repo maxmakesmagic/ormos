@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Table No. Player Res No. Player 1 82 Hong, Craig 0-2-0 8 West, Justin 2 83 Bow, Frankie 0-2-0 56 Seck, T."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948651"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals Round 9 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:33:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:33:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522173308id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-9-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-9-results-2000-01-01"
 ---

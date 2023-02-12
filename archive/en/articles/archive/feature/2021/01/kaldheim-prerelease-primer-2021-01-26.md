@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin has all your need-to-know info for the upcoming Kaldheim Prerelease right here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1522221"
 [_metadata_:publish_date]:- "2021-01-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Kaldheim Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-26 21:03:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-26 21:03:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210126210324id_/https://magic.wizards.com/en/articles/archive/feature/kaldheim-prerelease-primer-2021-01-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kaldheim-prerelease-primer-2021-01-26"
 ---

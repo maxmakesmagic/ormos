@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "  Junior Super Series Championship   Round 1 Feature Match Jacob Dunning vs Jay Elarar"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953176"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-14 04:35:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-14 04:35:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160514043504id_/http://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-35"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-35"
 ---

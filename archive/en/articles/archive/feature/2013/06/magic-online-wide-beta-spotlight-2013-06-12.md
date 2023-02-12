@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "You might remember that a few weeks ago we were going to run the Magic Online Wide Beta Spotlight. We decided to reschedule it to allow our developers more time to address some issues in the client. Well now it's back, and it's today after we return from the standard downtime for Magic Online. From the point when we return from downtime to 10:00am PDT on Thursday, June 13,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649296"
 [_metadata_:publish_date]:- "2013-06-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Wide Beta Spotlight"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:23:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:23:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429022325id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-spotlight-2013-06-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-wide-beta-spotlight-2013-06-12"
 ---

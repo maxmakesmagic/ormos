@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Anyone but Stephen Colbert's BEARS! Format: Just for fun 8 Plains 12 Forest 4 Knight Errant 4 Glory Seeker 4 Fresh Volunteers 4 Cylian Elf 4 Woodland Changeling 4 Grizzly Bears 4 Balduvian Bears 4 Barbary Apes 4 Forest Bear 4 Bear Cub [/decklist]Shards of Alara sees a return of one of Magic's most favorite creatures: Grizzly Bears! Of course, a quick review"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668961"
 [_metadata_:publish_date]:- "2008-10-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Stephen Colbert’s Worst Nightmare"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-17 19:43:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-17 19:43:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817194351id_/https://magic.wizards.com/en/articles/archive/feature/stephen-colbert%E2%80%99s-worst-nightmare-2008-10-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/stephen-colbert%E2%80%99s-worst-nightmare-2008-10-06"
 ---

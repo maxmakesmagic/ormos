@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "First, we borrow from the message boards for a clarification from last week: It should also be noted that JudgeCast is offered on MTGCast as well as Mananation. In fact, MTGCast has links to all the podcasts we mentioned. So there you go.The letter C! omics! On the web!Naturally, we're going to start with our own Planeswalker comics. These are written by the Magic Creative Team, so they're canonical. And they're painted by real Magic artists."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "600506"
 [_metadata_:publish_date]:- "2010-02-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Community Spotlight: Webcomics"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-22 17:35:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-22 17:35:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160622173520id_/http://magic.wizards.com/en/articles/archive/feature/community-spotlight-webcomics-2010-02-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/community-spotlight-webcomics-2010-02-19"
 ---

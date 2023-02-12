@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Volume 1 - Issue 2Welcome to the second issue of the Magic Player Rewards Newsletter. The main purpose of this letter is to help keep you informed about upcoming Magic Organized Play events and programs. We will commission articles on what our various formats and events are to make it easier for you to participate in them. We will post pertinent DCI announcements here for your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "637646"
 [_metadata_:publish_date]:- "2004-04-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Player Rewards Newsletter Issue 2"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 19:38:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 19:38:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020193824id_/https://magic.wizards.com/en/articles/archive/feature/magic-player-rewards-newsletter-issue-2-2004-04-19-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-player-rewards-newsletter-issue-2-2004-04-19-0"
 ---

@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220930072520/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynastys-booster-fun-lights-it-2022-01-27?utm_source=MTGNexus&utm_medium=SetPreviews)
+[Link to Wayback Machine](https://web.archive.org/web/20220127180543/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynastys-booster-fun-lights-it-2022-01-27)
 
 [_metadata_:author]:- "Clayton Kroh"
 [_metadata_:description]:- "With Japanese-inspired artwork, Ninja and Samurai treatments, and lots more, Booster Fun dazzles in Magic's newest set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1570737"
 [_metadata_:publish_date]:- "2022-01-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Kamigawa: Neon Dynasty's Booster Fun Lights It Up"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-30 07:25:20+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220930072520id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynastys-booster-fun-lights-it-2022-01-27?utm_source=MTGNexus&utm_medium=SetPreviews"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynastys-booster-fun-lights-it-2022-01-27?utm_source=MTGNexus&utm_medium=SetPreviews"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 18:05:43"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127180543id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynastys-booster-fun-lights-it-2022-01-27"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynastys-booster-fun-lights-it-2022-01-27"
 ---
 
 
@@ -63,7 +65,7 @@ Favorites from set to set, borderless and extended-art cards can be found in *Ka
 ![The Reality Chip extended-art variant](https://media.wizards.com/2021/neo/en_y91ThJEML9.png)![Atsushi, the Blazing Sky extended-art variant](https://media.wizards.com/2021/neo/en_J4ZU3B6pFr.png)
 
 
-And borderless cards? "As always, we like to throw some borderless favorites into the set as well," said Daniel. "With *Kamigawa: Neon Dynasty*, we leaned on not only exciting cycles, but sets of cards that connect to the previous setting. The Dragons returning was decided on fairly early in game design as something fans of the plane would want to see."
+And borderless cards? "As always, we like to throw some borderless favorites into the set as well," said Daniel. "With *Kamigawa: Neon Dynasty*, we leaned on not only exciting cycles, but sets of cards that connect to the previous setting. The Dragons returning was decided on fairly early in game design as something fans of the Plane would want to see."
 
 
 ![Kairi, the Swirling Sky borderless variant](https://media.wizards.com/2021/neo/en_HdMDodFXlo.png)![Atsushi, the Blazing Sky borderless variant](https://media.wizards.com/2021/neo/en_iiXFEZZfo7.png)

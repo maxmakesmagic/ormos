@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Greetings! Today I have the usual Standard roundup and a lowdown of the Vanguard format in store for you.This week, I have made a change to the table I always use to show you the 20 most popular Standard decks as seen on the Magic Online Premier Events last week. In the third column, instead of showing the change in rank, I will now show the change in popularity. The change in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624761"
 [_metadata_:publish_date]:- "2006-10-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "My BabyKiller, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-16 22:33:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-16 22:33:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210216223324id_/https://magic.wizards.com/en/articles/archive/feature/my-babykiller-part-1-2006-10-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-babykiller-part-1-2006-10-04"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "Welcome to the Worldwake Prerelease Primer. While Worldwake won't be on sale until February 5, the follow-up to Zendikar is first properly unveiled at tournaments around the globe this weekend. Here, everyone gets a chance to play with the new cards for the first time, in Sealed Deck and Draft play, as a first taste of the set before it goes on sale."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684111"
 [_metadata_:publish_date]:- "2010-01-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Worldwake Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-21 12:33:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-21 12:33:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921123320id_/https://magic.wizards.com/en/articles/archive/feature/worldwake-prerelease-primer-2010-01-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwake-prerelease-primer-2010-01-25"
 ---

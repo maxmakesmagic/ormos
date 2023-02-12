@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "      Op-Match Rank Name Points Win% 1 Rubin Ben 27 58.6667 2 Eskeland Sigurd 26 63.8413 3 Larkin John 25 66.1429 4 Turning Travis G 25"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950141"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 10 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 16:30:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 16:30:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123163023id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-10-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-10-standings-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Gael Bailly-Maitre's Black-Green Elves Format: Pro Tour–Kyoto 4 Brushland 1 Forest 4 Gilt-Leaf Palace 2 Llanowar Wastes 4 Murmuring Bosk 4 Treetop Village 3 Wooded Bastion 2 Chameleon Colossus 4 Doran, the Siege Tower 4 Gaddock Teeg 2 Kitchen Finks 4 Noble Hierarch 2 Ranger of Eos 1 Scattershot Archer 4 Treefolk Harbinger 4 Wilt-Leaf Liege 4 Wren's Run"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667371"
 [_metadata_:publish_date]:- "2009-03-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Kyoto Elves"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 09:36:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 09:36:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016093616id_/https://magic.wizards.com/en/articles/archive/feature/kyoto-elves-2009-03-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kyoto-elves-2009-03-05"
 ---

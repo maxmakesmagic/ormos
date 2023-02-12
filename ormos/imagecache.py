@@ -3,19 +3,14 @@ import re
 from typing import Generator, Optional
 from urllib.parse import unquote
 
-from pony import orm
 import requests
 from requests.adapters import HTTPAdapter, Retry
 import wayback
 
-db = orm.Database()
+# Import database items
+from .database import orm, ImageUrl, db
+
 log = logging.getLogger(__name__)
-
-
-class ImageUrl(db.Entity):
-    input_url = orm.Required(str, unique=True, max_len=384)
-    output_url = orm.Required(str, max_len=384)
-    strategy = orm.Required(str)
 
 
 class ImageCache:
@@ -175,7 +170,7 @@ class ImageCache:
             results = self.client.search(url)  # type: Generator[wayback.CdxRecord]
             # get the raw URLs from the records
             raw_urls = [result.raw_url for result in results]
-            for (index, raw_url) in enumerate(raw_urls):
+            for index, raw_url in enumerate(raw_urls):
                 loop_id = f"{identifier}:{index+1}/{len(raw_urls)}"
                 log.debug("[%s] Found wayback URL: %s", loop_id, raw_url)
                 test_url = self.image_url(raw_url, identifier)

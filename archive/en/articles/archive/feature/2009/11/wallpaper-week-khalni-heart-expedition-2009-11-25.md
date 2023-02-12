@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper features Jason Chan's Khalni Heart Expedition art from Zendikar. Enjoy. 1024x768 pixels 1280x960 pixels 1280x1024 pixels 2560x1600 pixels 320x480 pixels (iPhone) See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654636"
 [_metadata_:publish_date]:- "2009-11-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Khalni Heart Expedition"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 22:46:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 22:46:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130224658id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-khalni-heart-expedition-2009-11-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-khalni-heart-expedition-2009-11-25"
 ---

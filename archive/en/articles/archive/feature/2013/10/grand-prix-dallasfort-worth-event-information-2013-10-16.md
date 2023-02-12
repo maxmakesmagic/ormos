@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Dallas/Fort Worth is brought to you by Legion Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728416"
 [_metadata_:publish_date]:- "2013-10-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Dallas/Fort Worth Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 19:35:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 19:35:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029193543id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-dallasfort-worth-event-information-2013-10-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-dallasfort-worth-event-information-2013-10-16"
 ---

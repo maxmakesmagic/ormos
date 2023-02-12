@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "With every new Magic set, the game's inner gears get tuned up, whether card-based rules text, comprehensive rules updates, or tournament procedure changes. These updates, combined with the introduction of a new set, creates a period of change that is daunting for new players."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682471"
 [_metadata_:publish_date]:- "2013-04-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dragon's Maze Rules Updates"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 17:06:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 17:06:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923170658id_/https://magic.wizards.com/en/articles/archive/feature/dragons-maze-rules-updates-2013-04-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dragons-maze-rules-updates-2013-04-22"
 ---

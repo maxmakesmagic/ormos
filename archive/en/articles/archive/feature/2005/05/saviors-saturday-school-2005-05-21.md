@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Like most every Magic judge I know, I love prerelease weekends. How cool is it that three times a year the Magic community gets together to have"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625121"
 [_metadata_:publish_date]:- "2005-05-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saviors of Saturday School"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:23:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:23:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519132318id_/https://magic.wizards.com/en/articles/archive/feature/saviors-saturday-school-2005-05-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saviors-saturday-school-2005-05-21"
 ---

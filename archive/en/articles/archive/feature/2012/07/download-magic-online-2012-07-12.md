@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "http://www.wizards.com/magic/digital/magiconline.aspx?x=mtg/digital/magiconline/download"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633356"
 [_metadata_:publish_date]:- "2012-07-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Download Magic Online"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-15 12:03:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-15 12:03:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815120311id_/https://magic.wizards.com/en/articles/archive/feature/download-magic-online-2012-07-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/download-magic-online-2012-07-12"
 ---

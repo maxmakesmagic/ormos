@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Even though Grand Prix Albuquerque featured a full seven devotion decks in the Top 8, devotion to white was nowhere to be found. That angers Heliod, and he demands tribute, or at the very least a little recognition here and there. Luckily, Dennis Bogdanov has a list that's sufficiently devoted to the God of the Sun, and Heliod rewarded Dennis with a Grand Prix Trial win as"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667331"
 [_metadata_:publish_date]:- "2013-12-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Renewed Devotion to White"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 05:31:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 05:31:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117053155id_/https://magic.wizards.com/en/articles/archive/feature/renewed-devotion-white-2013-12-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/renewed-devotion-white-2013-12-10"
 ---

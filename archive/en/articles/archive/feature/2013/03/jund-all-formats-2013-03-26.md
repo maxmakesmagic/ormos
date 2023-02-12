@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Last time I wrote about Return to Ravnica Block Constructed , I mentioned that the WBR midrange deck was basically that format's Jund. Well, that's still true, but on March 18, Gui_BR won a Block Constructed Premier Event with Aggro Jund, and now the format has a popular Jund-colored deck in addition to a popular deck that has a Jund-style strategy.The strategy of this Block"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666291"
 [_metadata_:publish_date]:- "2013-03-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Jund in All Formats"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 17:36:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 17:36:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526173630id_/https://magic.wizards.com/en/articles/archive/feature/jund-all-formats-2013-03-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/jund-all-formats-2013-03-26"
 ---

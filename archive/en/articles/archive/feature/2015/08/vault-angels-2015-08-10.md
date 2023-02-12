@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Trick unveils the cards inside From the Vault: Angels."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "452291"
 [_metadata_:publish_date]:- "2015-08-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "From the Vault: Angels"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-10 20:24:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-10 20:24:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150810202442id_/http://magic.wizards.com/en/articles/archive/feature/vault-angels-2015-08-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/vault-angels-2015-08-10"
 ---

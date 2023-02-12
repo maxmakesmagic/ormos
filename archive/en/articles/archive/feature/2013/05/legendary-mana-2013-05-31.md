@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Before the new legendary rules were announced, I'd been thinking about building a Glimpse of Nature/Beck combo deck in Legacy that took advantage of all the zero-mana artifact creatures in the format. The rules change happened to be just about the best thing that could happen to the deck I'd been thinking about, which relied heavily on both Mox Opal and Gaea's Cradle, two of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666571"
 [_metadata_:publish_date]:- "2013-05-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Legendary Mana"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:24:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:24:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118202429id_/https://magic.wizards.com/en/articles/archive/feature/legendary-mana-2013-05-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legendary-mana-2013-05-31"
 ---

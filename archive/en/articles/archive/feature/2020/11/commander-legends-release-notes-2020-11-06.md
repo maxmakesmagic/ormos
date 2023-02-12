@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201107110136/https://magic.wizards.com/en/articles/archive/feature/commander-legends-release-notes-2020-11-06?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20201106160437/https://magic.wizards.com/en/articles/archive/feature/commander-legends-release-notes-2020-11-06)
 
 [_metadata_:author]:- "Eli Shiffrin"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1515726"
 [_metadata_:publish_date]:- "2020-11-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander Legends Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-07 11:01:36+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201107110136id_/https://magic.wizards.com/en/articles/archive/feature/commander-legends-release-notes-2020-11-06?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-legends-release-notes-2020-11-06?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-06 16:04:37"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201106160437id_/https://magic.wizards.com/en/articles/archive/feature/commander-legends-release-notes-2020-11-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-legends-release-notes-2020-11-06"
 ---
 
 

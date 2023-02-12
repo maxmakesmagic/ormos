@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This year Magic: The Gathering reaches its 10th year. To celebrate this, numerous events and promotions will be organized throughout the year and we want YOU to be part of this celebration!How? …. Just watch out for the “Summer of Magic” organized in a store near you!The Summer of Magic is: 2 weekends of fun to enjoy the most memorable cards of the past 1 weekend to celebrate"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "708746"
 [_metadata_:publish_date]:- "2003-06-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Summer of Magic"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 08:24:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 08:24:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119082446id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-09"
 ---

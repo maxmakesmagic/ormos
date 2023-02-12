@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112032749/https://magic.wizards.com/en/articles/archive/feature/another-unhinged-preview-2004-11-11)
+[Link to Wayback Machine](https://web.archive.org/web/20211019094738/https://magic.wizards.com/en/articles/archive/feature/another-unhinged-preview-2004-11-11)
 
 [_metadata_:author]:- "Mark L. Gottlieb"
-[_metadata_:description]:- "How would you fine folks like an Unhinged preview card today? You wouldn't? OK, on to Plan B."
+[_metadata_:description]:- "How would you fine folks like an Unhinged preview card today? You wouldn't? OK, on to Plan B.Although overshadowed by its media darling cousins the kangaroo and the koala, the wombat is one wicked cool marsupial. Notoriously shy, this critter (which is closer to being a living teddy bear than any other animal on earth) lives in burrows and is nocturnal. Talk about avoiding the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "612971"
 [_metadata_:publish_date]:- "2004-11-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Yet Another Unhinged Preview"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:27:49+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112032749id_/https://magic.wizards.com/en/articles/archive/feature/another-unhinged-preview-2004-11-11"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 09:47:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019094738id_/https://magic.wizards.com/en/articles/archive/feature/another-unhinged-preview-2004-11-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/another-unhinged-preview-2004-11-11"
 ---
 
@@ -50,7 +52,7 @@ What's that? You *do* want an *Unhinged* preview card? My bad. Today's number is
 
 Here's the whole card:
 
-![Yet Another Aether Vortex](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Yet+Another+Aether+Vortex)Ri-i-i-i-i-i-i-ght. When it says that permanents on top of your library are in play, that's exactly what it means. If the top card of your library is a Forest, you can tap it for ![](https://web.archive.org/web/20220123123600im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif), you can sacrifice it to [Lithatog](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lithatog), and your opponent can [Stone Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stone+Rain) it. If the top card of your library is a creature, you can attack with it, block with it, play its abilities, or have it get [Terror](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terror)ed. If the top card of your library is a local enchantment, state-based effects put it into your graveyard immediately since it's in play without being attached to a permanent.
+![Yet Another Aether Vortex](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Yet+Another+Aether+Vortex)Ri-i-i-i-i-i-i-ght. When it says that permanents on top of your library are in play, that's exactly what it means. If the top card of your library is a Forest, you can tap it for ![](https://web.archive.org/web/20220123123600im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif), you can sacrifice it to [Lithatog](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lithatog), and your opponent can [Stone Rain](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stone+Rain) it. If the top card of your library is a creature, you can attack with it, block with it, play its abilities, or have it get [Terror](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terror)ed. If the top card of your library is a local enchantment, state-based effects put it into your graveyard immediately since it's in play without being attached to a permanent.
 
 More rules? When the top card of your library moves to a different zone (you drew it, you sacrificed it, it got destroyed, whatever), its leaves-play abilities will trigger. However, the new card that's revealed as the top card of your library does *not* trigger comes-into-play effects. Why? Because the FAQ (coming next week) says so.
 
@@ -59,7 +61,7 @@ Even more rules? Let's discuss what happens when a card with an “as this card 
 
 OK, OK, I'll answer your questions. 
 
-* If you put a card on top of your library via [Vampiric Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampiric+Tutor) or [Reclaim](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reclaim), it still doesn't trigger comes-into-play abilities.
+* If you put a card on top of your library via [Vampiric Tutor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampiric+Tutor) or [Reclaim](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reclaim), it still doesn't trigger comes-into-play abilities.
 * "This card comes into play tapped," "as this card comes into play, choose a color" and "this card comes into play with counters" abilities all don't work.
 * If you want to sacrifice "any number of permanents," you can't eat a chunk off the top of your library. You can only sacrifice the card on top.
 * If an Equipment is on top of your library, you can pay the equip cost to move it onto a creature. But it's still on top of your library. Don't ask me how. I just write what Rosewater tells me. In fact, if you have any questions about how this dumb card works, don't send them to me. Send them to Mark Rosewater. He loves Unhinged questions. Each one makes him stronger...
@@ -72,11 +74,11 @@ OK, OK, I'll answer your questions.
 | --- |
 | Draco*Hi there.* |
 
-Yeah, yeah. Unfinished *Unhinged* unbusiness. Look, this card is broken beyond all belief. It lets you shirk the cost, comes-into-play drawback, and summoning sickness of any ridiculous creature you want. Take away the randomness inherent in dealing with the top of your library and you can do some very unfair things. For example, play Yet Another Aether Vortex. Next turn, play [Worldly Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Worldly+Tutor) to put [Draco](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Draco) on top of your library, attack with it (it has haste, remember), then play [Erratic Explosion](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion).
+Yeah, yeah. Unfinished *Unhinged* unbusiness. Look, this card is broken beyond all belief. It lets you shirk the cost, comes-into-play drawback, and summoning sickness of any ridiculous creature you want. Take away the randomness inherent in dealing with the top of your library and you can do some very unfair things. For example, play Yet Another Aether Vortex. Next turn, play [Worldly Tutor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Worldly+Tutor) to put [Draco](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Draco) on top of your library, attack with it (it has haste, remember), then play [Erratic Explosion](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion).
 
-[Draco](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Draco) might not be good enough, though. It's only a 9/9 flying creature. It needs trample. As long as you're not worried about comes-into-play effects, [Eater of Days](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eater+of+Days) is a fine choice. [Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Enlightened+Tutor), [Vampiric Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampiric+Tutor), and [Worldly Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Worldly+Tutor) can all find it and put it into play. (YAAV makes your Tutors better to play during your main phase than at the end of your opponent's turn. Heaven forfend you *draw* your fatties.) After you eventually perform the unfortunate act of drawing [Eater of Days](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eater+of+Days) or [Serra Avatar](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Avatar) or [Nicol Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nicol+Bolas), you can put it right back into play by activating [Penance](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Penance). [Penance](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Penance)! Concerned that there might not be a black or red damage source for you to choose? No worries—you can choose Yet Another Aether Vortex itself. That thing might damage you! It's a crazy *Unhinged* card; there's no telling what kind of shenanigans it'll pull! The rules let you choose any red permanent as a potential damage source, so why start playing fair now?
+[Draco](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Draco) might not be good enough, though. It's only a 9/9 flying creature. It needs trample. As long as you're not worried about comes-into-play effects, [Eater of Days](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eater+of+Days) is a fine choice. [Enlightened Tutor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Enlightened+Tutor), [Vampiric Tutor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampiric+Tutor), and [Worldly Tutor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Worldly+Tutor) can all find it and put it into play. (YAAV makes your Tutors better to play during your main phase than at the end of your opponent's turn. Heaven forfend you *draw* your fatties.) After you eventually perform the unfortunate act of drawing [Eater of Days](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eater+of+Days) or [Serra Avatar](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Avatar) or [Nicol Bolas](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nicol+Bolas), you can put it right back into play by activating [Penance](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Penance). [Penance](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Penance)! Concerned that there might not be a black or red damage source for you to choose? No worries—you can choose Yet Another Aether Vortex itself. That thing might damage you! It's a crazy *Unhinged* card; there's no telling what kind of shenanigans it'll pull! The rules let you choose any red permanent as a potential damage source, so why start playing fair now?
 
-Let's take a different tack. How about a four-card infinite loop of Yet Another Aether Vortex, [Mortuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mortuary), [Hair-Strung Koto](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hair-Strung+Koto), and a creature on top of your library? 
+Let's take a different tack. How about a four-card infinite loop of Yet Another Aether Vortex, [Mortuary](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mortuary), [Hair-Strung Koto](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hair-Strung+Koto), and a creature on top of your library? 
 
 
 
@@ -84,9 +86,9 @@ Let's take a different tack. How about a four-card infinite loop of Yet Another 
 | --- | --- |
 | Mortuary | Hair-Strung Koto |
 
-You tap the creature on top of your library to activate the Koto's ability, targeting yourself. You put the now-tapped creature from your library into your graveyard. [Mortuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mortuary) triggers, putting that card right back on top of your library… *untapped*. And let the fun begin! There are a zillion choices to exploit this loop. [Ember-Fist Zubera](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ember-Fist+Zubera) will escalate into lethal damage quickly. [Wormfang Manta](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wormfang+Manta) will generate infinite turns, [Cathodion](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cathodion) will generate infinite mana, [Anodet Lurker](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anodet+Lurker) will generate infinite life, and [Symbiotic Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Symbiotic+Wurm) will generate infinite creatures. There are plenty of other fine choices. For example, you may have heard of [Kokusho, the Evening Star](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kokusho%2C+the+Evening+Star) by now. Of course, that loop is more complex than the loop of Yet Another Aether Vortex, [Mortuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mortuary), [Altar of Dementia](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Altar+of+Dementia), and any creature. Now the Altar is your victory condition and your creature doesn't actually have to do anything other than have power greater than 0 (sorry, [Ornithopter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ornithopter)).
+You tap the creature on top of your library to activate the Koto's ability, targeting yourself. You put the now-tapped creature from your library into your graveyard. [Mortuary](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mortuary) triggers, putting that card right back on top of your library… *untapped*. And let the fun begin! There are a zillion choices to exploit this loop. [Ember-Fist Zubera](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ember-Fist+Zubera) will escalate into lethal damage quickly. [Wormfang Manta](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wormfang+Manta) will generate infinite turns, [Cathodion](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cathodion) will generate infinite mana, [Anodet Lurker](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anodet+Lurker) will generate infinite life, and [Symbiotic Wurm](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Symbiotic+Wurm) will generate infinite creatures. There are plenty of other fine choices. For example, you may have heard of [Kokusho, the Evening Star](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kokusho%2C+the+Evening+Star) by now. Of course, that loop is more complex than the loop of Yet Another Aether Vortex, [Mortuary](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mortuary), [Altar of Dementia](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Altar+of+Dementia), and any creature. Now the Altar is your victory condition and your creature doesn't actually have to do anything other than have power greater than 0 (sorry, [Ornithopter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ornithopter)).
 
-And then there are the support cards. Manipulating the top of a player's library now affects the game state, so [Soothsaying](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soothsaying) and [Sensei's Divining Top](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sensei%27s+Divining+Top) can be MVPs. Cards like [Lithatog](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lithatog) or [Troubled Healer](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Troubled+Healer) let you rid the top of your library of lands. [Millstone](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) gets rid of nasty surprises on top of your opponent's deck. [Reclaim](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reclaim) is good. [Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reinforcements) may be better. The combo of [Library of Leng](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Library+of+Leng) with [Unfulfilled Desires](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unfulfilled+Desires) (with Yet Another Aether Vortex and certain creatures) can get goofy. If you can generate life and mana this way, you can go infinite; otherwise, you just get a bunch of leaves-play effects.
+And then there are the support cards. Manipulating the top of a player's library now affects the game state, so [Soothsaying](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soothsaying) and [Sensei's Divining Top](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sensei%27s+Divining+Top) can be MVPs. Cards like [Lithatog](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lithatog) or [Troubled Healer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Troubled+Healer) let you rid the top of your library of lands. [Millstone](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) gets rid of nasty surprises on top of your opponent's deck. [Reclaim](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reclaim) is good. [Reinforcements](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reinforcements) may be better. The combo of [Library of Leng](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Library+of+Leng) with [Unfulfilled Desires](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unfulfilled+Desires) (with Yet Another Aether Vortex and certain creatures) can get goofy. If you can generate life and mana this way, you can go infinite; otherwise, you just get a bunch of leaves-play effects.
 
 One last thing that I certainly don't want to forget is the mating ritual of the wombat, because it's the funniest damn thing I've ever seen. For roly-poly animals with short, stubby legs, wombats run surprisingly fast. The rarely seen wombat mating dance involves the male chasing the female in circles and figure eights (obviously the female is in on the plan or she'd run in a straight line) while I crack up at the absurd spectacle. If you can imagine two of these things running in circles, rest assured that it's even funnier than you think it is. When the male has had enough dancing, he bites the female on the thigh, whereupon she immediately flops over onto her side and the propagation of the species commences. I just felt you all needed to know that.
 
@@ -135,35 +137,35 @@ OverviewColorCostRarity
 
 
 1
-[Darksteel Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D)
+[Darksteel Colossus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D)
 
 
 1
-[Draco](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraco%5D)
+[Draco](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraco%5D)
 
 
 2
-[Krosan Cloudscraper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
+[Krosan Cloudscraper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
 
 
 2
-[Lithatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLithatog%5D)
+[Lithatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLithatog%5D)
 
 
 2
-[Penumbra Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenumbra%5D+%5BWurm%5D)
+[Penumbra Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenumbra%5D+%5BWurm%5D)
 
 
 4
-[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
 
 
 1
-[Serra Avatar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
+[Serra Avatar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
 
 
 4
-[Symbiotic Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
+[Symbiotic Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
 
 
 
@@ -172,11 +174,11 @@ OverviewColorCostRarity
 
 
 4
-[Erratic Explosion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErratic%5D+%5BExplosion%5D)
+[Erratic Explosion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErratic%5D+%5BExplosion%5D)
 
 
 1
-[Sylvan Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BTutor%5D)
+[Sylvan Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BTutor%5D)
 
 
 
@@ -185,11 +187,11 @@ OverviewColorCostRarity
 
 
 2
-[Reclaim](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclaim%5D)
+[Reclaim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclaim%5D)
 
 
 4
-[Worldly Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWorldly%5D+%5BTutor%5D)
+[Worldly Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWorldly%5D+%5BTutor%5D)
 
 
 
@@ -198,7 +200,7 @@ OverviewColorCostRarity
 
 
 4
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 
@@ -207,31 +209,31 @@ OverviewColorCostRarity
 
 
 5
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 6
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 2
-[Archaeological Dig](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArchaeological%5D+%5BDig%5D)
+[Archaeological Dig](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArchaeological%5D+%5BDig%5D)
 
 
 2
-[Crystal Vein](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystal%5D+%5BVein%5D)
+[Crystal Vein](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystal%5D+%5BVein%5D)
 
 
 4
-[Karplusan Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
+[Karplusan Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
 
 
 1
-[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+[Undiscovered Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
 
 
 
@@ -252,7 +254,7 @@ Yet Another Aether Vortex
 
 
 1
-[Serra Avatar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
+[Serra Avatar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
 
 
 
@@ -261,7 +263,7 @@ Yet Another Aether Vortex
 
 
 4
-[Erratic Explosion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErratic%5D+%5BExplosion%5D)
+[Erratic Explosion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErratic%5D+%5BExplosion%5D)
 
 
 
@@ -270,31 +272,31 @@ Yet Another Aether Vortex
 
 
 2
-[Krosan Cloudscraper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
+[Krosan Cloudscraper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
 
 
 2
-[Penumbra Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenumbra%5D+%5BWurm%5D)
+[Penumbra Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenumbra%5D+%5BWurm%5D)
 
 
 4
-[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
 
 
 4
-[Symbiotic Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
+[Symbiotic Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
 
 
 2
-[Reclaim](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclaim%5D)
+[Reclaim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclaim%5D)
 
 
 1
-[Sylvan Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BTutor%5D)
+[Sylvan Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BTutor%5D)
 
 
 4
-[Worldly Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWorldly%5D+%5BTutor%5D)
+[Worldly Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWorldly%5D+%5BTutor%5D)
 
 
 
@@ -303,7 +305,7 @@ Yet Another Aether Vortex
 
 
 2
-[Lithatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLithatog%5D)
+[Lithatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLithatog%5D)
 
 
 
@@ -312,43 +314,43 @@ Yet Another Aether Vortex
 
 
 5
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 6
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 2
-[Archaeological Dig](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArchaeological%5D+%5BDig%5D)
+[Archaeological Dig](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArchaeological%5D+%5BDig%5D)
 
 
 2
-[Crystal Vein](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystal%5D+%5BVein%5D)
+[Crystal Vein](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystal%5D+%5BVein%5D)
 
 
 4
-[Karplusan Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
+[Karplusan Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
 
 
 1
-[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+[Undiscovered Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
 
 
 1
-[Darksteel Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D)
+[Darksteel Colossus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D)
 
 
 1
-[Draco](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraco%5D)
+[Draco](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraco%5D)
 
 
 4
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 4
@@ -364,19 +366,19 @@ Yet Another Aether Vortex
 
 
 2
-[Reclaim](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclaim%5D)
+[Reclaim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclaim%5D)
 
 
 4
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 1
-[Sylvan Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BTutor%5D)
+[Sylvan Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BTutor%5D)
 
 
 4
-[Worldly Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWorldly%5D+%5BTutor%5D)
+[Worldly Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWorldly%5D+%5BTutor%5D)
 
 
 
@@ -385,7 +387,7 @@ Yet Another Aether Vortex
 
 
 4
-[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
 
 
 
@@ -394,11 +396,11 @@ Yet Another Aether Vortex
 
 
 2
-[Lithatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLithatog%5D)
+[Lithatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLithatog%5D)
 
 
 4
-[Erratic Explosion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErratic%5D+%5BExplosion%5D)
+[Erratic Explosion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErratic%5D+%5BExplosion%5D)
 
 
 
@@ -407,11 +409,11 @@ Yet Another Aether Vortex
 
 
 2
-[Penumbra Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenumbra%5D+%5BWurm%5D)
+[Penumbra Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenumbra%5D+%5BWurm%5D)
 
 
 1
-[Serra Avatar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
+[Serra Avatar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
 
 
 
@@ -420,7 +422,7 @@ Yet Another Aether Vortex
 
 
 4
-[Symbiotic Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
+[Symbiotic Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
 
 
 
@@ -429,7 +431,7 @@ Yet Another Aether Vortex
 
 
 2
-[Krosan Cloudscraper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
+[Krosan Cloudscraper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
 
 
 
@@ -438,7 +440,7 @@ Yet Another Aether Vortex
 
 
 1
-[Darksteel Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D)
+[Darksteel Colossus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D)
 
 
 
@@ -447,7 +449,7 @@ Yet Another Aether Vortex
 
 
 1
-[Draco](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraco%5D)
+[Draco](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraco%5D)
 
 
 32 Cards 
@@ -459,27 +461,27 @@ Yet Another Aether Vortex
 
 
 5
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 6
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 2
-[Krosan Cloudscraper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
+[Krosan Cloudscraper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
 
 
 4
-[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
 
 
 4
-[Erratic Explosion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErratic%5D+%5BExplosion%5D)
+[Erratic Explosion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErratic%5D+%5BExplosion%5D)
 
 
 2
-[Reclaim](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclaim%5D)
+[Reclaim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclaim%5D)
 
 
 4
@@ -487,53 +489,53 @@ Yet Another Aether Vortex
 
 
 
-##### Uncommon (17)
+##### Uncommon (13)
 
 
 
 2
-[Archaeological Dig](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArchaeological%5D+%5BDig%5D)
+[Archaeological Dig](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArchaeological%5D+%5BDig%5D)
 
 
 2
-[Crystal Vein](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystal%5D+%5BVein%5D)
+[Crystal Vein](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystal%5D+%5BVein%5D)
 
 
 2
-[Lithatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLithatog%5D)
+[Lithatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLithatog%5D)
 
 
 2
-[Penumbra Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenumbra%5D+%5BWurm%5D)
+[Penumbra Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenumbra%5D+%5BWurm%5D)
 
 
 4
-[Symbiotic Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
+[Symbiotic Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
 
 
 1
-[Sylvan Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BTutor%5D)
-
-
-4
-[Worldly Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWorldly%5D+%5BTutor%5D)
+[Sylvan Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BTutor%5D)
 
 
 
-##### Rare (6)
+##### Rare (10)
 
 
 
 4
-[Karplusan Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
+[Karplusan Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
 
 
 1
-[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+[Undiscovered Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
 
 
 1
-[Draco](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraco%5D)
+[Draco](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraco%5D)
+
+
+4
+[Worldly Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWorldly%5D+%5BTutor%5D)
 
 
 
@@ -542,19 +544,19 @@ Yet Another Aether Vortex
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
 
 
 1
-[Darksteel Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D)
+[Darksteel Colossus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D)
 
 
 1
-[Serra Avatar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
+[Serra Avatar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
 
 
 4
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 60 Cards 
@@ -562,7 +564,7 @@ Yet Another Aether Vortex
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
 
 
 
@@ -624,23 +626,23 @@ OverviewColorCostRarity
 
 
 1
-[Bloodfire Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodfire%5D+%5BColossus%5D)
+[Bloodfire Colossus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodfire%5D+%5BColossus%5D)
 
 
 4
-[Ember-Fist Zubera](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmber-Fist%5D+%5BZubera%5D)
+[Ember-Fist Zubera](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmber-Fist%5D+%5BZubera%5D)
 
 
 2
-[Kokusho, the Evening Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D)
+[Kokusho, the Evening Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D)
 
 
 2
-[Vengeful Dead](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVengeful%5D+%5BDead%5D)
+[Vengeful Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVengeful%5D+%5BDead%5D)
 
 
 1
-[Wormfang Manta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWormfang%5D+%5BManta%5D)
+[Wormfang Manta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWormfang%5D+%5BManta%5D)
 
 
 
@@ -649,11 +651,11 @@ OverviewColorCostRarity
 
 
 3
-[Insidious Dreams](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInsidious%5D+%5BDreams%5D)
+[Insidious Dreams](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInsidious%5D+%5BDreams%5D)
 
 
 4
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 
@@ -662,15 +664,15 @@ OverviewColorCostRarity
 
 
 3
-[Altar of Dementia](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5Bof%5D+%5BDementia%5D)
+[Altar of Dementia](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5Bof%5D+%5BDementia%5D)
 
 
 2
-[Library of Leng](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BLeng%5D)
+[Library of Leng](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BLeng%5D)
 
 
 3
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 
@@ -679,15 +681,15 @@ OverviewColorCostRarity
 
 
 2
-[Compulsion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsion%5D)
+[Compulsion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsion%5D)
 
 
 3
-[Mortuary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMortuary%5D)
+[Mortuary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMortuary%5D)
 
 
 2
-[Unfulfilled Desires](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnfulfilled%5D+%5BDesires%5D)
+[Unfulfilled Desires](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnfulfilled%5D+%5BDesires%5D)
 
 
 
@@ -696,47 +698,47 @@ OverviewColorCostRarity
 
 
 2
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 4
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 3
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 1
-[Crosis's Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrosis%5D+%5BCatacombs%5D)
+[Crosis's Catacombs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrosis%5D+%5BCatacombs%5D)
 
 
 2
-[Darkwater Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
+[Darkwater Catacombs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
 
 
 2
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 2
-[Shadowblood Ridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowblood%5D+%5BRidge%5D)
+[Shadowblood Ridge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowblood%5D+%5BRidge%5D)
 
 
 2
-[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+[Shivan Reef](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
 
 
 2
-[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+[Sulfurous Springs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
 
 
 2
-[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+[Underground River](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
 
 
 
@@ -757,11 +759,11 @@ Yet Another Aether Vortex
 
 
 1
-[Wormfang Manta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWormfang%5D+%5BManta%5D)
+[Wormfang Manta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWormfang%5D+%5BManta%5D)
 
 
 2
-[Compulsion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsion%5D)
+[Compulsion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsion%5D)
 
 
 
@@ -770,23 +772,23 @@ Yet Another Aether Vortex
 
 
 2
-[Kokusho, the Evening Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D)
+[Kokusho, the Evening Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D)
 
 
 2
-[Vengeful Dead](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVengeful%5D+%5BDead%5D)
+[Vengeful Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVengeful%5D+%5BDead%5D)
 
 
 3
-[Insidious Dreams](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInsidious%5D+%5BDreams%5D)
+[Insidious Dreams](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInsidious%5D+%5BDreams%5D)
 
 
 3
-[Mortuary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMortuary%5D)
+[Mortuary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMortuary%5D)
 
 
 4
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 
@@ -795,11 +797,11 @@ Yet Another Aether Vortex
 
 
 1
-[Bloodfire Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodfire%5D+%5BColossus%5D)
+[Bloodfire Colossus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodfire%5D+%5BColossus%5D)
 
 
 4
-[Ember-Fist Zubera](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmber-Fist%5D+%5BZubera%5D)
+[Ember-Fist Zubera](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmber-Fist%5D+%5BZubera%5D)
 
 
 
@@ -808,7 +810,7 @@ Yet Another Aether Vortex
 
 
 2
-[Unfulfilled Desires](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnfulfilled%5D+%5BDesires%5D)
+[Unfulfilled Desires](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnfulfilled%5D+%5BDesires%5D)
 
 
 
@@ -817,59 +819,59 @@ Yet Another Aether Vortex
 
 
 2
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 4
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 3
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 1
-[Crosis's Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrosis%5D+%5BCatacombs%5D)
+[Crosis's Catacombs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrosis%5D+%5BCatacombs%5D)
 
 
 2
-[Darkwater Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
+[Darkwater Catacombs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
 
 
 2
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 2
-[Shadowblood Ridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowblood%5D+%5BRidge%5D)
+[Shadowblood Ridge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowblood%5D+%5BRidge%5D)
 
 
 2
-[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+[Shivan Reef](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
 
 
 2
-[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+[Sulfurous Springs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
 
 
 2
-[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+[Underground River](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
 
 
 3
-[Altar of Dementia](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5Bof%5D+%5BDementia%5D)
+[Altar of Dementia](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5Bof%5D+%5BDementia%5D)
 
 
 2
-[Library of Leng](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BLeng%5D)
+[Library of Leng](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BLeng%5D)
 
 
 3
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 4
@@ -885,15 +887,15 @@ Yet Another Aether Vortex
 
 
 2
-[Library of Leng](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BLeng%5D)
+[Library of Leng](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BLeng%5D)
 
 
 3
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 4
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 
@@ -902,15 +904,15 @@ Yet Another Aether Vortex
 
 
 4
-[Ember-Fist Zubera](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmber-Fist%5D+%5BZubera%5D)
+[Ember-Fist Zubera](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmber-Fist%5D+%5BZubera%5D)
 
 
 3
-[Altar of Dementia](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5Bof%5D+%5BDementia%5D)
+[Altar of Dementia](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5Bof%5D+%5BDementia%5D)
 
 
 2
-[Compulsion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsion%5D)
+[Compulsion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsion%5D)
 
 
 
@@ -919,7 +921,7 @@ Yet Another Aether Vortex
 
 
 2
-[Unfulfilled Desires](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnfulfilled%5D+%5BDesires%5D)
+[Unfulfilled Desires](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnfulfilled%5D+%5BDesires%5D)
 
 
 
@@ -928,15 +930,15 @@ Yet Another Aether Vortex
 
 
 2
-[Vengeful Dead](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVengeful%5D+%5BDead%5D)
+[Vengeful Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVengeful%5D+%5BDead%5D)
 
 
 3
-[Insidious Dreams](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInsidious%5D+%5BDreams%5D)
+[Insidious Dreams](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInsidious%5D+%5BDreams%5D)
 
 
 3
-[Mortuary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMortuary%5D)
+[Mortuary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMortuary%5D)
 
 
 
@@ -945,7 +947,7 @@ Yet Another Aether Vortex
 
 
 2
-[Kokusho, the Evening Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D)
+[Kokusho, the Evening Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D)
 
 
 
@@ -954,7 +956,7 @@ Yet Another Aether Vortex
 
 
 1
-[Wormfang Manta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWormfang%5D+%5BManta%5D)
+[Wormfang Manta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWormfang%5D+%5BManta%5D)
 
 
 
@@ -963,7 +965,7 @@ Yet Another Aether Vortex
 
 
 1
-[Bloodfire Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodfire%5D+%5BColossus%5D)
+[Bloodfire Colossus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodfire%5D+%5BColossus%5D)
 
 
 32 Cards 
@@ -975,27 +977,27 @@ Yet Another Aether Vortex
 
 
 2
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 4
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 3
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 4
-[Ember-Fist Zubera](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmber-Fist%5D+%5BZubera%5D)
+[Ember-Fist Zubera](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmber-Fist%5D+%5BZubera%5D)
 
 
 2
-[Vengeful Dead](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVengeful%5D+%5BDead%5D)
+[Vengeful Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVengeful%5D+%5BDead%5D)
 
 
 2
-[Library of Leng](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BLeng%5D)
+[Library of Leng](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLibrary%5D+%5Bof%5D+%5BLeng%5D)
 
 
 4
@@ -1008,85 +1010,85 @@ Yet Another Aether Vortex
 
 
 1
-[Crosis's Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrosis%5D+%5BCatacombs%5D)
+[Crosis's Catacombs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrosis%5D+%5BCatacombs%5D)
 
 
 2
-[Compulsion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsion%5D)
+[Compulsion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsion%5D)
 
 
 
-##### Rare (29)
+##### Rare (25)
 
 
 
 2
-[Darkwater Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
+[Darkwater Catacombs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
 
 
 2
-[Shadowblood Ridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowblood%5D+%5BRidge%5D)
+[Shadowblood Ridge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowblood%5D+%5BRidge%5D)
 
 
 2
-[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+[Shivan Reef](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
 
 
 2
-[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+[Sulfurous Springs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
 
 
 2
-[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+[Underground River](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
 
 
 1
-[Bloodfire Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodfire%5D+%5BColossus%5D)
+[Bloodfire Colossus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodfire%5D+%5BColossus%5D)
 
 
 2
-[Kokusho, the Evening Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D)
+[Kokusho, the Evening Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D)
 
 
 1
-[Wormfang Manta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWormfang%5D+%5BManta%5D)
+[Wormfang Manta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWormfang%5D+%5BManta%5D)
 
 
 3
-[Altar of Dementia](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5Bof%5D+%5BDementia%5D)
+[Altar of Dementia](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5Bof%5D+%5BDementia%5D)
 
 
 3
-[Insidious Dreams](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInsidious%5D+%5BDreams%5D)
+[Insidious Dreams](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInsidious%5D+%5BDreams%5D)
 
 
 3
-[Mortuary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMortuary%5D)
+[Mortuary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMortuary%5D)
 
 
 2
-[Unfulfilled Desires](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnfulfilled%5D+%5BDesires%5D)
+[Unfulfilled Desires](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnfulfilled%5D+%5BDesires%5D)
+
+
+
+##### Mythic (11)
+
+
+
+2
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+3
+[Sensei's Divining Top](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
 
 
 4
-[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
-
-
-
-##### Mythic (7)
-
-
-
-2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
-
-
-2
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
-
-
-3
-[Sensei's Divining Top](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BDivining%5D+%5BTop%5D)
+[Vampiric Tutor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
 
 
 60 Cards 
@@ -1094,7 +1096,7 @@ Yet Another Aether Vortex
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
 
 
 

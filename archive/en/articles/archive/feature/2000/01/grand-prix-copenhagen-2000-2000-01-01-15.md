@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- ">Round 6 Pairings per player Player 1 Points Table Player 2 Points Aasboe, Torgeir (373) 9 90 Toft, Per ( 93) 9 Alves, Carlos (374) 7 114 Debard, Michael (123) 7 Andersen, Klaus ( 42) 6 133 Krummel, Christian (285) 6 Andersson, Karolina (380) 6 131 Lehnert, Heiko (290) 6 Andersson, Thomas ( 87) 15 9 Mukka, Daniel ( 35) 13 Angelin, Marcus (210) 13 11 Pech, Rene (190) 13 Apollo,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951851"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 11:36:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 11:36:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520113623id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-15"
 ---

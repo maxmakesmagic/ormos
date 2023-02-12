@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Hanna, Ship's Navigator is a classic Commander general. Early on in Commander's history, many players latched onto Hanna because of the exciting effect her ability has on game play and the numerous decks that could be built around her. Artifacts and enchantments are commonplace in Commander games, and what better way to make use of them than reusing them over and over! In Cassidy Silver's recent Commander article, he revisits Hanna and presents an updated decklist."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672126"
 [_metadata_:publish_date]:- "2012-03-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Hanna Commander"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-04 13:59:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-04 13:59:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170604135922id_/http://magic.wizards.com/en/articles/archive/feature/hanna-commander-2012-03-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/hanna-commander-2012-03-01"
 ---

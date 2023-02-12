@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "This is Part 4 of the Mental Magic series. – PART 1 – PART 2 - PART 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630436"
 [_metadata_:publish_date]:- "2003-05-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mental Magic: Proactive Flashback"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 23:24:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 23:24:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805232445id_/https://magic.wizards.com/en/articles/archive/feature/mental-magic-proactive-flashback-2003-05-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mental-magic-proactive-flashback-2003-05-23"
 ---

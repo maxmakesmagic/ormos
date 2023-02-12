@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Noel deCordova"
 [_metadata_:description]:- "As if the Merfolk tribe needed any more bolstering of their egos, here we are in the middle of a theme week dedicated to them. Fresh off recent Top 8 finishes in Pro Tour–Hollywood and a PTQ in Burlington, those feisty fish people are certainly savoring the moment. It would appear, however, that a lot of the Merfolk combos have been either used up or already explored."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620856"
 [_metadata_:publish_date]:- "2008-06-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Back Under the Sea"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:45:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 02:45:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124024512id_/https://magic.wizards.com/en/articles/archive/feature/back-under-sea-2008-06-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/back-under-sea-2008-06-26"
 ---

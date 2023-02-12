@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Event Coverage Staff"
 [_metadata_:description]:- "Congratulations to Mitchell Manders, your Grand Prix Bilbao champion. You can find complete coverage of Grand Prix Bilbao on the official event coverage page."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666036"
 [_metadata_:publish_date]:- "2013-01-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Bilbao Winner"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 06:00:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 06:00:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523060052id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-bilbao-winner-2013-01-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-bilbao-winner-2013-01-21"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The hall is open to the public from 8 AM to 11PM on Friday,Saturday and Sunday. All events are open to the public and are sanctioned unless otherwise noted. Besides the scheduled events 8 player single elimination events can be played all day in the following formats: Booster Draft, Standard, Block Constructed, Sealed deck Extended, 2HG, Legacy and Vintage. Participation cost"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736306"
 [_metadata_:publish_date]:- "2006-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Torino"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-17 22:23:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-17 22:23:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817222321id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-torino-2006-04-27-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-torino-2006-04-27-0"
 ---

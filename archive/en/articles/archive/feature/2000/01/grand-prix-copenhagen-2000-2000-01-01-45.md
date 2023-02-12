@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 12 Pairings per player Player 1 Points Table Player 2 Points Andersson, Thomas ( 87) 22 20 Dictus, Mark (109) 22 Angelin, Marcus (210) 22 29 Wills, Scott (368) 22 B K Poulsen, Palle ( 60) 25 9 Schreurs, Jos (106) 24 Bastos, Frederico (218) 23 4 Osterberg, Richard (371) 24 Bernhardt, Falk (148) 23 22 Odegaard, Oyvind ( 89) 24 Boeken, Noah (168) 27 15 Dam, Lars ( 58) 27"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951716"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 15:12:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 15:12:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521151213id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-45"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-45"
 ---

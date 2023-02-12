@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at saturdayschool@horvik.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. Beginner Questions Q: In last week's Saturday School, you said you can play Horned Troll's regeneration ability to save it"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622306"
 [_metadata_:publish_date]:- "2003-10-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #49"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-29 07:01:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-29 07:01:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129070144id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-49-2003-10-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-49-2003-10-25"
 ---

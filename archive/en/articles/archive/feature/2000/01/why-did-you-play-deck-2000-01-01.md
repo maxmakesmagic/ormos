@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan I spent a few moments in the minutes before the beginning of the Standard portion of U.S. Nationals to ask a few people just that question. The Jumble's Donnie Gallitz playing Vampiric Tutor based Control Black `At 4-2, I wanted a deck that would pull off some ridiculous early draws. And in playtesting I haven't drawn Ritual/Negator, so I'm due. I think"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949206"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Why Did You Play This Deck?"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:17:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:17:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519131727id_/https://magic.wizards.com/en/articles/archive/feature/why-did-you-play-deck-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/why-did-you-play-deck-2000-01-01"
 ---

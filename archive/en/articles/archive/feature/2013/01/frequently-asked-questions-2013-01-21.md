@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Document last modified January 11, 2013"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633991"
 [_metadata_:publish_date]:- "2013-01-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Frequently Asked Questions"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-13 19:41:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-13 19:41:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170213194100id_/http://magic.wizards.com/en/articles/archive/feature/frequently-asked-questions-2013-01-21"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/frequently-asked-questions-2013-01-21"
 ---

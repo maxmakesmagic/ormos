@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Fear the unknown...Every week, folks send me cool decklists to read. Before you get too excited about submitting one of your own, I’ve made it a rule not to give feedback to decklists people send me because of the time involved. But I do enjoy reading them, and often the decks I make in my articles are inspired by someone else’s cool idea. I consider seeing a horde of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626111"
 [_metadata_:publish_date]:- "2003-02-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Decks that Morph"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:43:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:43:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429044337id_/https://magic.wizards.com/en/articles/archive/feature/decks-morph-2003-02-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/decks-morph-2003-02-13"
 ---

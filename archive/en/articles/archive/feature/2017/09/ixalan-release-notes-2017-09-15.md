@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1202336"
 [_metadata_:publish_date]:- "2017-09-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ixalan Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-15 15:00:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-15 15:00:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170915150007id_/https://magic.wizards.com/en/articles/archive/feature/ixalan-release-notes-2017-09-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ixalan-release-notes-2017-09-15"
 ---

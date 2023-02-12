@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.The year is drawing to a close, and Saturday School is almost out for winter break. The last two weeks of the year magicthegathering.com will be"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624896"
 [_metadata_:publish_date]:- "2004-12-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "School’s Almost Out!"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 15:16:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 15:16:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818151645id_/https://magic.wizards.com/en/articles/archive/feature/school%E2%80%99s-almost-out-2004-12-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/school%E2%80%99s-almost-out-2004-12-11"
 ---

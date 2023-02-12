@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "If you're new to Magic or looking for a refresher on the basic rules, check out the Learn to Play page. Miracle Soulbond Undying  `Loners` `Flickering` The archangel Avacyn has returned to Innistrad, and she and her flights of angels now wage a plane-wide war against the monstrous forces that have grown unchecked in her absence. The plane's humans and their angelic allies draw"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "643751"
 [_metadata_:publish_date]:- "2012-04-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 07:43:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 07:43:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208074303id_/https://magic.wizards.com/en/articles/archive/feature/mechanics-2012-04-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mechanics-2012-04-09"
 ---

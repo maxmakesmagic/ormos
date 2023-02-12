@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Opponent Points Bernat Michael (70) 27 Sigrist, Mike (1700) (478) 27 Bush Michelle (11) 31 Roderer, Dave (1700) (277) 31 Carpenter, Ryan (1700) (389) 24 McLean, Drew (1700) (373) 24 Crosby, Joseph (Q) (1700) (393) 28 Dougherty, Robert (Q) (9) 28 Dobson, Tony (Q) (1700) (96) 21 Weitz, David (Q) (1) 21 Dougherty, Robert (Q) (9) 28 Crosby, Joseph (Q) (1700) (393) 28"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952806"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 13 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 23:12:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 23:12:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129231226id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-13-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-13-pairings-2000-01-01"
 ---

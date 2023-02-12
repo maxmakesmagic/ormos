@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "There is a lot of work that goes into building each and every world Magic visits, both from the creative team and the rest of R&D. So when trying to determine how to tackle Greek mythology for Theros, R&D designer Ethan Fleischer wrote a short book called Classical Mythology in Magic: The Gathering, which he described a few months ago in an article on adapting the mythology to Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "652531"
 [_metadata_:publish_date]:- "2014-05-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Greek Gods Made Magical"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 14:40:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 14:40:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805144053id_/https://magic.wizards.com/en/articles/archive/feature/greek-gods-made-magical-2014-05-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/greek-gods-made-magical-2014-05-28"
 ---

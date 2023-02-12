@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220809142702/https://magic.wizards.com/en/articles/archive/feature/aggro-black-green-2009-03-20)
+[Link to Wayback Machine](https://web.archive.org/web/20170818025401/http://magic.wizards.com/en/articles/archive/feature/aggro-black-green-2009-03-20)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "[decklist] Title: Paul Rietzl's Aggro Black-Green Format: Grand Prix-Chicago 4 Bayou 4 Bloodstained Mire 4 Polluted Delta 6 Swamp 4 Wasteland 2 Dark Confidant 4 Hypnotic Specter 4 Nantuko Shade 4 Tarmogoyf 2 Tombstalker 4 Dark Ritual 1 Diabolic Edict 2 Duress 4 Hymn to Tourach 4 Sinkhole 2 Snuff Out 4 Thoughtseize 1 Umezawa's Jitte *1 Choke *1 Diabolic Edict *1 Dodecapod *4"
+[_metadata_:description]:- "[decklist] Title: Paul Rietzl's Aggro Black-Green Format: Grand Prix-Chicago 4 Bayou 4 Bloodstained Mire 4 Polluted Delta 6 Swamp 4 Wasteland 2 Dark Confidant 4 Hypnotic Specter 4 Nantuko Shade 4 Tarmogoyf 2 Tombstalker 4 Dark Ritual 1 Diabolic Edict 2 Duress 4 Hymn to Tourach 4 Sinkhole 2 Snuff Out 4 Thoughtseize 1 Umezawa's Jitte *1 Choke *1 Diabolic Edict *1 Dodecapod *4 Engineered Plague *4 Leyline of the Void"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667986"
 [_metadata_:publish_date]:- "2009-03-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aggro Black-Green"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 14:27:02+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809142702id_/https://magic.wizards.com/en/articles/archive/feature/aggro-black-green-2009-03-20"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-black-green-2009-03-20"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-18 02:54:01"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818025401id_/http://magic.wizards.com/en/articles/archive/feature/aggro-black-green-2009-03-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aggro-black-green-2009-03-20"
 ---
 
 
@@ -26,9 +28,8 @@ Aggro Black-Green
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
-
 
 
 
@@ -55,9 +56,7 @@ By Wizards of the Coast
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -82,23 +81,23 @@ OverviewColorCostRarity
 
 
 2
-[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 4
-[Hypnotic Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHypnotic%5D+%5BSpecter%5D)
+[Hypnotic Specter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHypnotic%5D+%5BSpecter%5D)
 
 
 4
-[Nantuko Shade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BShade%5D)
+[Nantuko Shade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BShade%5D)
 
 
 4
-[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 2
-[Tombstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
+[Tombstalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
 
 
 
@@ -107,19 +106,19 @@ OverviewColorCostRarity
 
 
 2
-[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 4
-[Hymn to Tourach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
+[Hymn to Tourach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
 
 
 4
-[Sinkhole](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinkhole%5D)
+[Sinkhole](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinkhole%5D)
 
 
 4
-[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
 
 
 
@@ -128,15 +127,15 @@ OverviewColorCostRarity
 
 
 4
-[Dark Ritual](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
 
 
 1
-[Diabolic Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
+[Diabolic Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
 
 
 2
-[Snuff Out](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnuff%5D+%5BOut%5D)
+[Snuff Out](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnuff%5D+%5BOut%5D)
 
 
 
@@ -145,7 +144,7 @@ OverviewColorCostRarity
 
 
 1
-[Umezawa's Jitte](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
 
 
 
@@ -154,23 +153,23 @@ OverviewColorCostRarity
 
 
 4
-[Bayou](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
+[Bayou](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
 
 
 4
-[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 4
-[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 6
-[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 60 Cards 
@@ -181,31 +180,31 @@ OverviewColorCostRarity
 
 
 1
-[Diabolic Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
+[Diabolic Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
 
 
 1
-[Choke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
+[Choke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
 
 
 1
-[Dodecapod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDodecapod%5D)
+[Dodecapod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDodecapod%5D)
 
 
 4
-[Engineered Plague](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
 
 
 4
-[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 1
-[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 3
-[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 
@@ -215,55 +214,55 @@ OverviewColorCostRarity
 
 
 2
-[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 4
-[Hypnotic Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHypnotic%5D+%5BSpecter%5D)
+[Hypnotic Specter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHypnotic%5D+%5BSpecter%5D)
 
 
 4
-[Nantuko Shade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BShade%5D)
+[Nantuko Shade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BShade%5D)
 
 
 2
-[Tombstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
+[Tombstalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
 
 
 4
-[Dark Ritual](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
 
 
 2
-[Diabolic Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
+[Diabolic Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
 
 
 2
-[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 4
-[Hymn to Tourach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
+[Hymn to Tourach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
 
 
 4
-[Sinkhole](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinkhole%5D)
+[Sinkhole](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinkhole%5D)
 
 
 2
-[Snuff Out](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnuff%5D+%5BOut%5D)
+[Snuff Out](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnuff%5D+%5BOut%5D)
 
 
 4
-[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
 
 
 4
-[Engineered Plague](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
 
 
 4
-[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 
@@ -272,15 +271,15 @@ OverviewColorCostRarity
 
 
 4
-[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 1
-[Choke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
+[Choke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
 
 
 3
-[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 
@@ -289,35 +288,35 @@ OverviewColorCostRarity
 
 
 4
-[Bayou](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
+[Bayou](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
 
 
 4
-[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 4
-[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 6
-[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 1
-[Umezawa's Jitte](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
 
 
 1
-[Dodecapod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDodecapod%5D)
+[Dodecapod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDodecapod%5D)
 
 
 1
-[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 75 Cards 
@@ -329,19 +328,19 @@ OverviewColorCostRarity
 
 
 4
-[Dark Ritual](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
 
 
 2
-[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 4
-[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
 
 
 1
-[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 
@@ -350,35 +349,35 @@ OverviewColorCostRarity
 
 
 2
-[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 4
-[Nantuko Shade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BShade%5D)
+[Nantuko Shade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BShade%5D)
 
 
 4
-[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 2
-[Diabolic Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
+[Diabolic Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
 
 
 4
-[Hymn to Tourach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
+[Hymn to Tourach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
 
 
 4
-[Sinkhole](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinkhole%5D)
+[Sinkhole](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinkhole%5D)
 
 
 1
-[Umezawa's Jitte](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
 
 
 3
-[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 
@@ -387,15 +386,15 @@ OverviewColorCostRarity
 
 
 4
-[Hypnotic Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHypnotic%5D+%5BSpecter%5D)
+[Hypnotic Specter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHypnotic%5D+%5BSpecter%5D)
 
 
 1
-[Choke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
+[Choke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
 
 
 4
-[Engineered Plague](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
 
 
 
@@ -404,15 +403,15 @@ OverviewColorCostRarity
 
 
 2
-[Snuff Out](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnuff%5D+%5BOut%5D)
+[Snuff Out](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnuff%5D+%5BOut%5D)
 
 
 1
-[Dodecapod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDodecapod%5D)
+[Dodecapod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDodecapod%5D)
 
 
 4
-[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 
@@ -421,60 +420,60 @@ OverviewColorCostRarity
 
 
 2
-[Tombstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
+[Tombstalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
 
 
 53 Cards 
 
 
 
-##### Common (21)
+##### Common (20)
 
 
 
 6
-[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
-
-
-2
-[Diabolic Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
-
-
-2
-[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
-
-
-2
-[Snuff Out](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnuff%5D+%5BOut%5D)
-
-
-1
-[Choke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
-
-
-1
-[Dodecapod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDodecapod%5D)
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+
+
+2
+[Diabolic Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BEdict%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Snuff Out](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnuff%5D+%5BOut%5D)
+
+
+1
+[Dodecapod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDodecapod%5D)
 
 
 3
-[Seal of Primordium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
+[Seal of Primordium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D)
 
 
 
-##### Uncommon (8)
+##### Uncommon (9)
 
 
 
 4
-[Hymn to Tourach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
+[Hymn to Tourach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHymn%5D+%5Bto%5D+%5BTourach%5D)
+
+
+1
+[Choke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D)
 
 
 4
-[Engineered Plague](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
 
 
 
@@ -483,39 +482,39 @@ OverviewColorCostRarity
 
 
 4
-[Bayou](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
+[Bayou](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
 
 
 4
-[Hypnotic Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHypnotic%5D+%5BSpecter%5D)
+[Hypnotic Specter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHypnotic%5D+%5BSpecter%5D)
 
 
 4
-[Nantuko Shade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BShade%5D)
+[Nantuko Shade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BShade%5D)
 
 
 2
-[Tombstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
+[Tombstalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstalker%5D)
 
 
 4
-[Dark Ritual](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+[Sinkhole](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinkhole%5D)
 
 
 4
-[Sinkhole](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinkhole%5D)
-
-
-4
-[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
 
 
 1
-[Umezawa's Jitte](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+
+
+4
+[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
 
 
 1
-[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 
@@ -524,23 +523,23 @@ OverviewColorCostRarity
 
 
 4
-[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 4
-[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 4
-[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 2
-[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 4
-[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 75 Cards 
@@ -548,7 +547,7 @@ OverviewColorCostRarity
 
 
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Bayou)
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Bayou)
 
 
 
@@ -568,7 +567,7 @@ OverviewColorCostRarity
 
 
   
-[Dark Ritual](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Ritual). [Hypnotic Specter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hypnotic+Specter). [Sinkhole](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sinkhole). Some of the most powerful spells in the game, and they all came together in Paul Rietzl's Black-Green Aggro deck at Grand Prix-Chicago. He competed against 1,230 other competitors, and made it all the way to the semifinals. To find out more about Paul, Grand Prix-Chicago, and the Legacy format, [visit the official web coverage](/en/articles/archive/event-coverage/coverage-grand-prix-chicago-2009-03-07).
+[Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Ritual). [Hypnotic Specter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hypnotic+Specter). [Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sinkhole). Some of the most powerful spells in the game, and they all came together in Paul Rietzl's Black-Green Aggro deck at Grand Prix-Chicago. He competed against 1,230 other competitors, and made it all the way to the semifinals. To find out more about Paul, Grand Prix-Chicago, and the Legacy format, [visit the official web coverage](/en/articles/archive/event-coverage/coverage-grand-prix-chicago-2009-03-07).
 
 
 

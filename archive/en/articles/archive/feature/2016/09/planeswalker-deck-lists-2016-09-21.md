@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "See all the cards contained in the Kaladesh Planeswalker Decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1064506"
 [_metadata_:publish_date]:- "2016-09-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalker Deck Lists"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-21 15:59:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-21 15:59:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160921155938id_/http://magic.wizards.com/en/articles/archive/feature/planeswalker-deck-lists-2016-09-21"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalker-deck-lists-2016-09-21"
 ---

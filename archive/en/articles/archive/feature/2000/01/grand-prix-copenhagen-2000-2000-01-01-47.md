@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 10 Results Table Player 1 Result Player 2 1 Gagg, Norman 1-0-0 Reinhardt, Fabio 2 Mello, Patrick 01/02/00 Wohrle, Sven 3 Cieslikowski, Marcin 0-2-0 Bastos, Frederico 4 Mahoney-Schwartz, Steven O' 0-2-0 Dam, Lars 5 Gysemans, Peter 02/01/00 Karlsson, Morgan 6 Minton, Patrick 01/02/00 Boeken, Noah 7 Cedercrantz, Johan 2-0-0 O'Mahoney-Schwartz, Daniel 8 Monsen, Haakon R"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951691"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:23:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 09:23:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523092333id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-47"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-47"
 ---

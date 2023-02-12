@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jeremy Jarvis"
 [_metadata_:description]:- "This year's coming block was kind of a new challenge for Magic Creative. It's the first time that we've really revisited an expansion's worth of an established plane in the Magic Multiverse. The idea had been flirted with for Time Spiral."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604346"
 [_metadata_:publish_date]:- "2010-09-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Returning to Mirrodin"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-17 19:37:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-17 19:37:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170317193738id_/http://magic.wizards.com/en/articles/archive/feature/returning-mirrodin-2010-09-13"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/returning-mirrodin-2010-09-13"
 ---

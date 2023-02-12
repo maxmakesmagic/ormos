@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Selesnya Conclave is a guild founded on the twin philosophies of green (growth, nature, adaptation) and white (order, light, law). As we'll see today, the look of saprolings and nature elementals, mostly employed by the Conclave in Ravnica, reflects these twin philosophies as well."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "597946"
 [_metadata_:publish_date]:- "2005-09-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ravnica Style Guide: Saprolings"
-[_metadata_:wayback_capture_timestamp]:- "2019-10-29 22:04:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-10-29 22:04:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191029220437id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-style-guide-saprolings-2005-09-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-style-guide-saprolings-2005-09-28"
 ---

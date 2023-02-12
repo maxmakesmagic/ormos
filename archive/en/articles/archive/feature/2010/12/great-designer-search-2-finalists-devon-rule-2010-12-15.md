@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "Devon RuleGolamoGeysers of mana erupt over Golamo, warping its guardians into something larger...Common Cycle:CW01 – Fledgling Greathawk 4WW Creature - Bird CARDNAME has flying as long as it's enchanted."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680191"
 [_metadata_:publish_date]:- "2010-12-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Great Designer Search 2 Finalists: Devon Rule"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 17:00:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 17:00:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503170044id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-devon-rule-2010-12-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-devon-rule-2010-12-15"
 ---

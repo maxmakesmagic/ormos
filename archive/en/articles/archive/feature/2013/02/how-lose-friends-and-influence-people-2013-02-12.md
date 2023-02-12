@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "In honor of the release of Gatecrash, I wanted to feature a Commander list based on one of the new commanders the set offers. Unfortunately, most of them are remarkably straightforward aggressive creatures. Prime Speaker Zegana is the most compelling to build around."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666121"
 [_metadata_:publish_date]:- "2013-02-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "How to Lose Friends and Influence People"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 03:45:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 03:45:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517034513id_/https://magic.wizards.com/en/articles/archive/feature/how-lose-friends-and-influence-people-2013-02-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/how-lose-friends-and-influence-people-2013-02-12"
 ---

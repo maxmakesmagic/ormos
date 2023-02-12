@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "For part three of four of my “preconstructing constructed” foray I promised to take a good hard look at my deck's colors. I have some business to clean up first, though.Three reminders:This deck is Kamigawa Block. That means I'm only adding cards from Champions of Kamigawa. I have received a lot of suggestions by e-mail for cards like Arrest, Blinding Angel, Armadillo Cloak,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626231"
 [_metadata_:publish_date]:- "2004-12-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "IntoTheAether Contemplates His Colors"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 07:45:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 07:45:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202074510id_/https://magic.wizards.com/en/articles/archive/feature/intotheaether-contemplates-his-colors-2004-12-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intotheaether-contemplates-his-colors-2004-12-07"
 ---

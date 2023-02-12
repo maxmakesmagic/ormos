@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "September 12-14, 2003: Brockafellars Blast Boston!On this week six years ago, The Brockafellars became the 2003 Pro Tour–Boston champions! Armed only with their inborn talents and vast experience in Limited they edged out the Sealed deck portion with a 4-2 perfomance. Round seven was their first-ever Onslaught Block Team Rochester, but when you're William Jensen, Brock Parker"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "599956"
 [_metadata_:publish_date]:- "2009-09-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: Sep 12-18"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 23:32:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 23:32:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126233256id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-sep-12-18-2009-09-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-sep-12-18-2009-09-18"
 ---

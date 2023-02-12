@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Yawgatog and Thom Beckman"
 [_metadata_:description]:- "Welcome to Theme Week Week! Mark Rosewater's out of the office for Memorial Day—along with everyone else—but I managed to sneak into the Monday update to give you a proper welcome. A more responsible writer will probably give you a detailed description of what this week's theme means, but I'll save my own commentary for Theme Week Week Week, in which we'll discuss Theme Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633566"
 [_metadata_:publish_date]:- "2007-05-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Webcomic Sneak Peek"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:43:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:43:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502164303id_/https://magic.wizards.com/en/articles/archive/feature/webcomic-sneak-peek-2007-05-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/webcomic-sneak-peek-2007-05-28"
 ---

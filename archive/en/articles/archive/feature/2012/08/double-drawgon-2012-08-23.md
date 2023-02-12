@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Magic 2013 has stolen most of the show recently when it comes to new and innovative decklists, which has naturally meant a focus on Standard. Still, at Daily Decks, we like to mix it up from time to time. Commander, Legacy, Modern, and Block all produce some pretty awesome decklists, which is why we turn our focus to the big-deck format today: Commander. Specifically, Hanyou"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665446"
 [_metadata_:publish_date]:- "2012-08-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Double Drawgon"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:50:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:50:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015215040id_/https://magic.wizards.com/en/articles/archive/feature/double-drawgon-2012-08-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/double-drawgon-2012-08-23"
 ---

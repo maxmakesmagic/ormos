@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "I recently spent an afternoon interviewing members of Local Enchantment Users Anonymous, a local support group. And by “interviewing,” I mean “giving noogies to.” Local enchantments?! Everyone knows they're the worst cards in the game. Everyone but these saps.“Sometimes I like to play Holy Strength on my Grizzly Bears right before attacking,” said purple nurple victim Louis"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613051"
 [_metadata_:publish_date]:- "2005-01-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shopping for Pants"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:41:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:41:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020144100id_/https://magic.wizards.com/en/articles/archive/feature/shopping-pants-2005-01-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shopping-pants-2005-01-13"
 ---

@@ -1,16 +1,18 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170413002150/http://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11)
+[Link to Wayback Machine](https://web.archive.org/web/20160504014028/http://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11)
 
 [_metadata_:author]:- "
 		European Sideboard Staff
 	
 	"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "595646"
 [_metadata_:publish_date]:- "1999-07-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "1999 European Championships"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-13 00:21:50+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170413002150id_/http://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-04 01:40:28"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160504014028id_/http://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11"
 ---
 

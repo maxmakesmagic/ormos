@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan Mellisa Detora had the distinction of being the only female competitor in this year's U.S. Nationals. The 18-year-old resident of Rhode Island qualified for Nationals at the New England Regionals playing a Beatdown Enchantress deck. She seemed pretty excited to be attending her first major event. On Day 1, Mellisa started with a 2-4 record in the draft,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949331"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Interview with Mellisa Detora"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 20:22:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 20:22:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523202249id_/https://magic.wizards.com/en/articles/archive/feature/interview-mellisa-detora-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/interview-mellisa-detora-2000-01-01"
 ---

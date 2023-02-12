@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170509050411/http://magic.wizards.com/en/articles/archive/feature/blue-black-infect-2012-04-06)
+[Link to Wayback Machine](https://web.archive.org/web/20170609144208/http://magic.wizards.com/en/articles/archive/feature/blue-black-infect-2012-04-06)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Poison is back in Standard! Although poison has been fairly absent in Standard recently (Inkmoth Nexus aside), Magic Online player Sopet has found quite a bit of success in recent Daily Events with a unique blue-black poison decklist."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672271"
 [_metadata_:publish_date]:- "2012-04-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Blue-Black Infect"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-09 05:04:11+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170509050411id_/http://magic.wizards.com/en/articles/archive/feature/blue-black-infect-2012-04-06"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-09 14:42:08"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170609144208id_/http://magic.wizards.com/en/articles/archive/feature/blue-black-infect-2012-04-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-black-infect-2012-04-06"
 ---
 

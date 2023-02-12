@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler There was little doubt about which match was the Feature Match in round 4. Pudge and Our Move Games were two of the favorites coming in and they were both undefeated with their first decks. OK, that's only one actual round (and two byes each), but this was still a big match."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952091"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Round 4 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:29:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:29:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205232910id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-4-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-4-feature-match-2000-01-01"
 ---

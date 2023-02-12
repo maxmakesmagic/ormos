@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Hello folks! I've been involved with the roll out and work on achievements for PlaneswalkerPoints.com, and with Gatecrash we're adding in a few new achievements that you can earn."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682171"
 [_metadata_:publish_date]:- "2013-01-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "PlaneswalkerPoints.com Gatecrash Achievements"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-09 02:11:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-09 02:11:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170509021127id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkerpointscom-gatecrash-achievements-2013-01-17"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkerpointscom-gatecrash-achievements-2013-01-17"
 ---

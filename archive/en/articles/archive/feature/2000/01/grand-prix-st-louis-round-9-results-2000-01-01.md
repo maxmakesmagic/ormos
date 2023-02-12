@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Result Team Antarctica ID Your Move Games Cacti 3-0 Team Panakia Coolers 0-3 Hubbo Dogma 3-0 Pudge Fungusaur 3-0 Team Realm Hubbo 3-0 Coolers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952026"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Round 9 Results"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:11:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:11:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205231131id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-9-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-9-results-2000-01-01"
 ---

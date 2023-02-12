@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "1999 JSS CHAMPIONSHIP - 15-17 DIVISION [decklist] Title: 1999 JSS CHAMPIONSHIP - 15-17 DIVISION Format: Jeff Sluzinski 4 Necropotence 3 Nevinyrral's Disk 2 Persecute 4 Urza's Bauble 3 Yawgmoth's Will 22 Swamp 4 Necropotence 3 Nevinyrral's Disk 2 Persecute 4 Urza's Bauble 3 Yawgmoth's Will 22 Swamp 3 Skittering Skirge 3 Corrupt 4 Dark Ritual 3 Diabolic Edict 4 Drain Life 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953356"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 04:26:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 04:26:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522042621id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-34"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-34"
 ---

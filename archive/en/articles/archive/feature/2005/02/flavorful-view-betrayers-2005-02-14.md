@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Let me tell you, it just doesn't get any better than Hero's Demise. It's not the only gem in Betrayers of Kamigawa though. Reduce to Dreams is as elegant as Tallowisp is clever. Yomiji, Who Bars the Way is brilliant. To me, these cards are some of the finest of their kind and represent one heck of a set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "631471"
 [_metadata_:publish_date]:- "2005-02-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Flavorful View of Betrayers"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-30 00:46:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-30 00:46:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170330004631id_/http://magic.wizards.com/en/articles/archive/feature/flavorful-view-betrayers-2005-02-14"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/flavorful-view-betrayers-2005-02-14"
 ---

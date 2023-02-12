@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: July 29-31, 2011Event Location: Hotel Zátoka (http://www.zatoka.sk/)Address: Slnečné jazerá – Sever, 903 01 Senec, SlovakiaEligibilityThe Magic: the Gathering Slovak Republic National Championship is an invitation-only event, open to citizens or permanent residents of Slovak Republic who have won an invitation to Nationals through DCI ratings or from qualifying events"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730371"
 [_metadata_:publish_date]:- "2009-05-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Slovak Republic National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 05:52:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 05:52:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527055212id_/https://magic.wizards.com/en/articles/archive/feature/2011-slovak-republic-national-championship-2009-05-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-slovak-republic-national-championship-2009-05-13"
 ---

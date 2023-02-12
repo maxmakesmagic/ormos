@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Antarctica (42) 19 4 Operation Mise (19) 19 ATM (64) 14 13 Utrecht (49) 15 Brown Bomber (69) 17 7 Fu-Ku-Ra-Mi (7) 18 CCC (60) 19 2 Your Move Games (73) 21 CMU (56) 21 1 Game Empire (77) 27 Fifth Again (28) 15 11 The Tank (47) 15 Fu-Ku-Ra-Mi (7) 18 7 Brown Bomber (69) 17 Game Empire (77) 27 1 CMU (56) 21 Goblin Gate (21) 15 12 The Alliance"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951356"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 2 Round 10 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 05:41:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 05:41:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521054146id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-10-pairings-2000-01-01"
 ---

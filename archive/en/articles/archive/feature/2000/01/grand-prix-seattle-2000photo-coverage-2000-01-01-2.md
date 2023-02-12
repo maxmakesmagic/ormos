@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Steve OMS (PT-LA '99 winner) vs. Zvi Mowshowitz (US National team member) DCI Systems Analyst, Gordon `the beating` Culp  Elaine Ferrao, GP-Seattle Head Judge and DCI Policy Administrator Alex Anderson from Ottawa, Ontario, Canada.  Trey Van Cleave (GP San Francisco) vs Alex Shvartsman (GP Tours winner) Mr. Donais  Two generations of the DCI's finest."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952886"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Seattle 2000Photo Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 11:35:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 11:35:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520113506id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-2000-01-01-2"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-2000photo-coverage-2000-01-01-2"
 ---

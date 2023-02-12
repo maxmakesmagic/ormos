@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Richard Garfield"
 [_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "290366"
 [_metadata_:publish_date]:- "2010-06-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Lost in the Shuffle: Games Within Games"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-01 05:09:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-01 05:09:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170601050942id_/http://magic.wizards.com/en/articles/archive/feature/lost-shuffle-games-within-games-2010-06-21"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/lost-shuffle-games-within-games-2010-06-21"
 ---

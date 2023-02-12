@@ -10,10 +10,8 @@
 * [Saturday School #9](/archive/en/articles/archive/feature/2002/12/saturday-school-9-2002-12-21.md) - 2002-12-21
 * [Saturday School #10](/archive/en/articles/archive/feature/2003/01/saturday-school-10-2003-01-11.md) - 2003-01-11
 * [Saturday School #11](/archive/en/articles/archive/feature/2003/01/saturday-school-11-2003-01-18.md) - 2003-01-18
-* [Saturday School #12](/archive/en/articles/archive/feature/2003/01/saturday-school-12-2003-01-25.md) - 2003-01-25
 * [Saturday School #13](/archive/en/articles/archive/feature/2003/02/saturday-school-13-2003-02-01.md) - 2003-02-01
 * [Saturday School #14](/archive/en/articles/archive/feature/2003/02/saturday-school-14-2003-02-08.md) - 2003-02-08
-* [Saturday School #15](/archive/en/articles/archive/feature/2003/02/saturday-school-15-2003-02-15.md) - 2003-02-15
 * [Saturday School #17](/archive/en/articles/archive/feature/2003/03/saturday-school-17-2003-03-01.md) - 2003-03-01
 * [Saturday School #18](/archive/en/articles/archive/feature/2003/03/saturday-school-18-2003-03-08.md) - 2003-03-08
 * [Saturday School #20](/archive/en/articles/archive/feature/2003/03/saturday-school-20-2003-03-22.md) - 2003-03-22

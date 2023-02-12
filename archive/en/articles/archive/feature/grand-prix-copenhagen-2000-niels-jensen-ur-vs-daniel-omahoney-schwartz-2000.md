@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "These two had been sitting together in the draft table, and had been love drafting (after the first few boosters), so both had strong decks. Before the game I had a chance to speak with the Dane about some curious choices he made during the Rochester. He took a first pick Darting Merfolk over a Monkey Cage!, so Dan happily swept it up to his left. He took a Frantic Effreet"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951566"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000 - Niels Jensen (U/R) vs Daniel O'Mahoney Schwartz"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 17:08:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 17:08:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201170817id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-niels-jensen-ur-vs-daniel-omahoney-schwartz-2000"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-niels-jensen-ur-vs-daniel-omahoney-schwartz-2000"
 ---

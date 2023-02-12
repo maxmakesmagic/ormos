@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "CountryDateCity3-Round ByeVenueContact China22-Jun-02Beijing1Yi Shang Hotellegendtony@elong.com China22-Jun-02Chengdu1La Sa Hotelteamsharp@126.com China22-Jun-02Guangzhou1San Yu Hotelwalterma@163.com China22-Jun-02Shanghai 1Huan Pu Children's Palacesagitta@21cn.com Hong Kong12-May-02Hong Kong1Hong Kong Exhibition Centreianhelio@hotmail.com Hong Kong7-Jul-02Hong Kong1Hong Kong"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736261"
 [_metadata_:publish_date]:- "2002-04-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Taipei 2002 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 03:46:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 03:46:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814034651id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-2002-trials-2002-04-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-2002-trials-2002-04-23"
 ---

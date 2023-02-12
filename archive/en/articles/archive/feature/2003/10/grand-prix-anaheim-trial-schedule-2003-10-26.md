@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee: Varies by location. Contact organizer for detailsTournament Structure: Modified SwissTournament Format: ExtendedPrizes: At least 1 third-round bye at each tournament, plus product prizes determined by organizer.For information about Grand Prix-Anaheim, please go to the fact sheetState/ProvinceCityDate3-round byesLocationAddressPhoneWebsite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734056"
 [_metadata_:publish_date]:- "2003-10-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Anaheim Trial Schedule"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 08:17:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 08:17:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022081705id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-anaheim-trial-schedule-2003-10-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-anaheim-trial-schedule-2003-10-26"
 ---

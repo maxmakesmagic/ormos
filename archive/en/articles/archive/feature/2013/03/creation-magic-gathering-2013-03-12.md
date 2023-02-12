@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Richard Garfield"
 [_metadata_:description]:- "Magic turns twenty years old in 2013! We shared a story by Peter Adkison about the creation of Magic, and now it's time to hear from Richard Garfield! This was originally published in the Magic Pocket Players' Guide, which was published in 1994."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353366"
 [_metadata_:publish_date]:- "2013-03-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Creation of Magic: The Gathering"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-31 06:02:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-31 06:02:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160531060243id_/http://magic.wizards.com/en/articles/archive/feature/creation-magic-gathering-2013-03-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/creation-magic-gathering-2013-03-12"
 ---

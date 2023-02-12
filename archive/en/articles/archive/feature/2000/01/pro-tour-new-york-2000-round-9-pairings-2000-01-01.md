@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Table Opponent Baker Justin (282) 22 Pustilnik Michael (196) Blackwell Trevor (166) 14 Currence Bryce (125) Bregoli Mike (214) 20 Humpherys David (195) Brower Jeremy (224) 32 Dobson Tony ( 61) Budde Kai (179) 4 Eskeland Sigurd ( 10) Bui Lucien (154) 23 Vergendo Maurizio (216) Chapin Patrick (252) 48 Law Albertus ( 94) Comer Alan ( 17) 9 Mowshowitz Zvi ( 19) Coppage"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950121"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 9 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:04:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:04:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120170426id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-9-pairings-2000-01-01"
 ---

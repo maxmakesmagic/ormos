@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wizards of the Coast is excited to announce that Sean `Day[9]` Plott will be participating in Pro Tour Dragon's Maze on May 17-19."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "658261"
 [_metadata_:publish_date]:- "2013-04-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Day[9] to Compete in Pro Tour Dragon's Maze"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:43:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:43:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531084337id_/https://magic.wizards.com/en/articles/archive/feature/day9-compete-pro-tour-dragons-maze-2013-04-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/day9-compete-pro-tour-dragons-maze-2013-04-05"
 ---

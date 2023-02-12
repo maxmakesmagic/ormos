@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "If you're new to Magic or looking for a refresher on the basic rules, check out the Learn to Play page."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681246"
 [_metadata_:publish_date]:- "2012-01-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dark Ascension Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-28 04:05:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-28 04:05:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170328040508id_/http://magic.wizards.com/en/articles/archive/feature/dark-ascension-mechanics-2012-01-09-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dark-ascension-mechanics-2012-01-09-0"
 ---

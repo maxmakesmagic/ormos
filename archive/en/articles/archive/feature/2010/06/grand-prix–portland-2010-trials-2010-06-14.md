@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with local organizer for specific information.Format Sealed Deck Limited with Booster Draft Top 8 Deck lists are required Tournament Length Swiss rounds - 50 minutes per round Top 8 matches will have no time limit Number of Swiss rounds based on attendance according to the following chart: AttendanceSwiss rounds 8-164"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729311"
 [_metadata_:publish_date]:- "2010-06-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Portland 2010 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:08:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 15:08:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023150837id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93portland-2010-trials-2010-06-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93portland-2010-trials-2010-06-14"
 ---

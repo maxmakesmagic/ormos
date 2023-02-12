@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "What's in a booster pack of Innistrad: Crimson Vow? Product Architect Mike Turian breaks down where to find the coolest new cards for your Magic collection!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1562291"
 [_metadata_:publish_date]:- "2021-10-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Collecting Innistrad: Crimson Vow"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-29 10:18:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-29 10:18:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211029101806id_/https://magic.wizards.com/en/articles/archive/feature/collecting-innistrad-crimson-vow-2021-10-28?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-innistrad-crimson-vow-2021-10-28?utm_source=dlvr.it&utm_medium=twitter"
 ---

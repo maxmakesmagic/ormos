@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Week 2 of Shards of Alara Previews. This week I'm going to spend a bit more time talking about Bill Rose's unconventional design strategy for Shards of Alara. I'll examine how the whole thing worked through the lens of one of the new mechanics from the set. And since I need some way to explain what that new mechanic is, I guess I'll have to show you a preview card. Twist my arm."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657141"
 [_metadata_:publish_date]:- "2008-09-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shard Candy"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-05 11:58:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-05 11:58:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170505115828id_/http://magic.wizards.com/en/articles/archive/feature/shard-candy-2008-09-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shard-candy-2008-09-15"
 ---

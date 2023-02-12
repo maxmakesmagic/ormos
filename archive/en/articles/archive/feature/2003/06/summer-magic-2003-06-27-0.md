@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "NameLocationCityPhoneArtefaktKirova 97 - 70Abakan73902244887Navigator Shalandina str.25Belgorod0722355664Mox Malachite69/12 Lenina st.Ekaterinburg79028469869AvalonVolodarskogo 9Ekaterinburg73432480474Club `Citadel`Gagarina st."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "709061"
 [_metadata_:publish_date]:- "2003-06-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Summer of Magic"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 10:31:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 10:31:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528103104id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-27-0"
 ---

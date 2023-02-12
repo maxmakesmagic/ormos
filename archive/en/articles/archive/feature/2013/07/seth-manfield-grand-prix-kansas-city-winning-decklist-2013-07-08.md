@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Seth Manfield, champion of Grand Prix Kansas City. Check out the complete event coverage right here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666716"
 [_metadata_:publish_date]:- "2013-07-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Seth Manfield Grand Prix Kansas City Winning Decklist"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:55:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 10:55:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525105516id_/https://magic.wizards.com/en/articles/archive/feature/seth-manfield-grand-prix-kansas-city-winning-decklist-2013-07-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/seth-manfield-grand-prix-kansas-city-winning-decklist-2013-07-08"
 ---

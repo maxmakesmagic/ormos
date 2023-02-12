@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20150721032638/http://magic.wizards.com/en/articles/archive/feature/announcing-battle-zendikar-2015-03-09)
+[Link to Wayback Machine](https://web.archive.org/web/20170816164726/http://magic.wizards.com/en/articles/archive/feature/announcing-battle-zendikar-2015-03-09)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Set Name: Battle for Zendikar"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "351506"
 [_metadata_:publish_date]:- "2015-03-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing Battle for Zendikar"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-21 03:26:38+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150721032638id_/http://magic.wizards.com/en/articles/archive/feature/announcing-battle-zendikar-2015-03-09"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-16 16:47:26"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816164726id_/http://magic.wizards.com/en/articles/archive/feature/announcing-battle-zendikar-2015-03-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/announcing-battle-zendikar-2015-03-09"
 ---
 

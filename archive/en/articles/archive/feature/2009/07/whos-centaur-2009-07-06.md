@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Let's take a trip back in time, shall we? All the way back to the time of Judgment, and the card Grizzly Fate: Grizzly Fate art by Dave Dorman This is a centaur summoning forth bears to do his bidding. That'll work out fine for him, assuming that his bidding involves tearing and ravaging. But who is this mysterious centaur? Well, perhaps these two cards from Odyssey will help"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653946"
 [_metadata_:publish_date]:- "2009-07-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Who's That Centaur?"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-30 01:07:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-30 01:07:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210430010735id_/https://magic.wizards.com/en/articles/archive/feature/whos-centaur-2009-07-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/whos-centaur-2009-07-06"
 ---

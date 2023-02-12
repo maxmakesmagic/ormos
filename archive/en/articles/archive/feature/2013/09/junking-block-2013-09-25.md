@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I'm taking a look at a new format this week: Return to Ravnica Block Constructed. It may seem odd to feature a format this late into its evolution, but it's precisely the timing that made me interested. When Standard does its big rotation, looking at the previous Block format is a perfect way to get a sneak peek at some of the potential contenders. In this case, we have a BGW"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667031"
 [_metadata_:publish_date]:- "2013-09-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Junking Up Block"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:42:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:42:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020144242id_/https://magic.wizards.com/en/articles/archive/feature/junking-block-2013-09-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/junking-block-2013-09-25"
 ---

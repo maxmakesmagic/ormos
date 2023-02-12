@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentTeam M.S.O210vs.Mahamoti in Hi-SoftTeam M.O.B030vs.STSaproling030vs.GunjackHigedice021vs.DaisisziTeam Imabiki111vs.SK-2Inore210vs.Queen and SlavesDuel Revolution 21210vs.Hirarin TokanoQ.E.D.120vs.Tokyo ButtiesTeam Yamashi210vs.Goblin Digging TeamShinikake Captain210vs.ZIO MATRIXIMABIKI A021vs.Team 25:17Hiruman120vs.NISIKIGoro Goro Derm030vs.Usagisan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "807056"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1 Results (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 21:32:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 21:32:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701213236id_/https://magic.wizards.com/en/articles/archive/feature/round-1-results-table-2000-01-01-1"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-results-table-2000-01-01-1"
 ---

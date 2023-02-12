@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "White was the unconditional king of Onslaught tournament play. I would argue that the most enduringly strong cards from the set—and, when you get to cards like Akroma, Angel of Wrath from Legions or Decree of Justice and Eternal Dragon from Scourge, the whole shebang—are the poster children of this block."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627506"
 [_metadata_:publish_date]:- "2007-08-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Onslaught Top Slot... Okay, Slots"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-29 12:09:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-29 12:09:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170829120939id_/http://magic.wizards.com/en/articles/archive/feature/onslaught-top-slot-okay-slots-2007-08-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/onslaught-top-slot-okay-slots-2007-08-23"
 ---

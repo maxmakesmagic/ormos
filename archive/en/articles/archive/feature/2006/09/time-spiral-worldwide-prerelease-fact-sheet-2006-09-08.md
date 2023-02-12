@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Locations North America (Saturday)  North America (Sunday)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "639846"
 [_metadata_:publish_date]:- "2006-09-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Time Spiral Worldwide Prerelease Fact Sheet"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-21 11:38:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-21 11:38:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921113833id_/https://magic.wizards.com/en/articles/archive/feature/time-spiral-worldwide-prerelease-fact-sheet-2006-09-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/time-spiral-worldwide-prerelease-fact-sheet-2006-09-08"
 ---

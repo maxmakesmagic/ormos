@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 10 Feature match Mattias Jorstedt and Niels Sanders Jensen Niels was undefeated going into this round, as was Mattias who had only one draw. Mattias had drafted a strong blue/black deck; Neils had a solid, but not as impressive, black/green. Their deck lists can be found on the first draft report. Game 1 Mattias won the toss and chose to go first. He kept a two land hand"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951676"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 15:23:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 15:23:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523152305id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-48"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-48"
 ---

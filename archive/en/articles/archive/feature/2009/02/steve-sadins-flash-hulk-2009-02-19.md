@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Steve Sadin's Flash Hulk Format: Legacy 3 Flooded Strand 3 Island 4 Polluted Delta 1 Swamp 1 Tropical Island 1 Tundra 1 Underground Sea 1 Body Snatcher 1 Carrion Feeder 4 Dark Confidant 1 Karmic Guide 1 Kiki-Jiki, Mirror Breaker 4 Protean Hulk 4 Brainstorm 4 Chrome Mox 4 Counterbalance 4 Daze 1 Echoing Truth 4 Flash 4 Force of Will 1 Massacre 4 Mystical Tutor 4 Sensei's Divining Top *4 Leyline of the Void"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666816"
 [_metadata_:publish_date]:- "2009-02-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Steve Sadin's Flash Hulk"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-27 14:12:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-27 14:12:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170427141229id_/http://magic.wizards.com/en/articles/archive/feature/steve-sadins-flash-hulk-2009-02-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/steve-sadins-flash-hulk-2009-02-19"
 ---

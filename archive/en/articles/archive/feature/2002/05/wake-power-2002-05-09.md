@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "When Odyssey arrived, I really wanted to like Ivy Elemental. As a general rule, I tend to appreciate flexible spells. I love Creeping Mold, for example. The Planeshift Stormscape Battlemage make me happy. Heck, I even use Degavolver on occasion. Here was Ivy Elemental -- a creature that got as big as the mana you pumped into it.Almost.What I really wanted was a creature"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625856"
 [_metadata_:publish_date]:- "2002-05-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "In the Wake of Power"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 03:57:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 03:57:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209035717id_/https://magic.wizards.com/en/articles/archive/feature/wake-power-2002-05-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wake-power-2002-05-09"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Organized Play events have always been a huge part of the Magic experience, and Wizards of the Coast has always used a single system to rate and rank players' success in sanctioned play—until now."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353571"
 [_metadata_:publish_date]:- "2011-09-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Introducing Planeswalker Points: What Level Are You?"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 21:29:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 21:29:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111212929id_/https://magic.wizards.com/en/articles/archive/feature/introducing-planeswalker-points-what-level-are-you-2011-09-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introducing-planeswalker-points-what-level-are-you-2011-09-06"
 ---

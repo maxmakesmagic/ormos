@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Bronson Magnan, your Grand Prix Lincoln champion. You can read more about this Modern format Grand Prix in the official event coverage."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672086"
 [_metadata_:publish_date]:- "2012-02-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Lincoln Winning Decklist"
-[_metadata_:wayback_capture_timestamp]:- "2022-11-03 23:50:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-11-03 23:50:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221103235045id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lincoln-winning-decklist-2012-02-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-lincoln-winning-decklist-2012-02-20"
 ---
