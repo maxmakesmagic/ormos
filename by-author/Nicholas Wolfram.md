@@ -2,10 +2,12 @@
 
 * [The October 10, 2016 Update](/archive/en/articles/archive/daily-magic-update/2016/10/update-2016-10-10.md) - 2016-10-10
 * [The October 11, 2016 Update](/archive/en/articles/archive/daily-magic-update/2016/10/update-2016-10-11.md) - 2016-10-11
+* [Magic Online Announcements October 18, 2016](/archive/en/MTGO/articles/archive/magic-online/2016/10/magic-online-announcements-october-18-2016.md) - 2016-10-12
 * [The October 12, 2016 update](/archive/en/articles/archive/daily-magic-update/2016/10/update-2016-10-12.md) - 2016-10-12
 * [The October 13, 2016 Update](/archive/en/articles/archive/daily-magic-update/2016/10/update-2016-10-13.md) - 2016-10-13
 * [The October 14, 2016 Update](/archive/en/articles/archive/daily-magic-update/2016/10/update-2016-10-14.md) - 2016-10-14
 * [The October 17, 2016 Update](/archive/en/articles/archive/daily-magic-update/2016/10/update-2016-10-17.md) - 2016-10-17
+* [Magic Online Announcements October 25, 2016](/archive/en/MTGO/articles/archive/magic-online/2016/10/magic-online-announcements-october-25-2016.md) - 2016-10-25
 * [Magic Online Announcements November 1, 2016](/archive/en/articles/archive/magic-online/2016/11/magic-online-announcements-november-1-2016-2016-11-01.md) - 2016-11-01
 * [Planechase Anthology: A Celebration of Magic's History](/archive/en/articles/archive/feature/2016/11/planechase-anthology-celebration-magics-history-2016-11-14.md) - 2016-11-14
 * [The November 22, 2016 Update](/archive/en/articles/archive/daily-magic-update/2016/11/update-2016-11-22.md) - 2016-11-22

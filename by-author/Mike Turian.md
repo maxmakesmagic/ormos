@@ -126,6 +126,7 @@
 * [The Cube Returns April 23](/archive/en/articles/archive/news/2014/04/cube-returns-april-23-2014-04-10.md) - 2014-04-10
 * [Magic Online Journey Into Nyx Prerelease and Release Events](/archive/en/articles/archive/feature/2014/04/magic-online-journey-nyx-prerelease-and-release-events-2014-04-21.md) - 2014-04-21
 * [The Cube Returns May 28](/archive/en/articles/archive/2014/05/cube-returns-may-28-2014-05-20.md) - 2014-05-20
+* [Premier Play Returns to Magic Online!](/archive/en/MTGO/articles/archive/2014/07/premier-play-returns-magic-online-2014-07-30.md) - 2014-07-30
 * [Collecting Ikoria](/archive/en/articles/archive/card-preview/2020/04/collecting-ikoria-2020-04-02.md) - 2020-04-02
 * [Collecting Ikoria](/archive/en/articles/archive/card-preview/2020/04/kollekcionirovanie-kart-iz-vypuska-ikoriya-2020-04-01.md) - 2020-04-02
 * [Collecting Core Set 2021](/archive/en/articles/archive/card-preview/2020/06/carte-da-collezione-del-set-base-2021-2020-06-05.md) - 2020-06-05

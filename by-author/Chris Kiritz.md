@@ -30,6 +30,8 @@
 * [Top Twelve Magic Online Client Tips](/archive/en/articles/archive/magic-online-new-players/2014/07/top-twelve-magic-online-client-tips-2014-07-11.md) - 2014-07-11
 * [Magic Online: New Beginnings](/archive/en/articles/archive/feature/2014/07/magic-online-new-beginnings-2014-07-16.md) - 2014-07-16
 * [Top Twelve Transition Tips](/archive/en/articles/archive/mtgo-new-players/2014/07/top-twelve-transition-tips-2014-07-17.md) - 2014-07-16
+* [Magic Online Leagues Update](/archive/en/MTGO/articles/archive/2014/11/magic-online-leagues-update-2014-11-19_2.md) - 2014-11-19
+* [Magic Online Leagues Update](/archive/en/MTGO/articles/archive/magic-online/2015/08/magic-online-leagues-update-2015-08-17.md) - 2015-08-17
 * [The Future of Leagues](/archive/en/articles/archive/feature/2015/11/future-leagues-2015-11-10.md) - 2015-11-10
 * [Magic Online Update](/archive/en/articles/archive/magic-online/2016/06/magic-online-update-2016-06-21.md) - 2016-06-21
 * [The State of Magic Online](/archive/en/articles/archive/magic-digital/2017/01/state-magic-online-2017-01-31.md) - 2017-01-31
