@@ -45,7 +45,7 @@ By Wizards of the Coast
 Welcome to another edition of [Sketches](http://archive.wizards.com/default.asp?x=mtgcom/fullarchive&tablefilter=sketches:)! Today we take a look behind the scenes of the creation of that enormous 15-mana trampler from *Ravnica: City of Guilds*, **[Autochthon Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Autochthon+Wurm)**. But first, some background on the artist, Michael Phillippi.
 
 
-[![Light of Sanction](https://web.archive.org/web/20210712161037im_/http://archive.wizards.com/global/images/mtgcom_arcana_925_pic1_en.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Light%2Bof%2BSanction)
+[![Light of Sanction](https://media.wizards.com/legacy/global/images/mtgcom_arcana_925_pic1_en.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Light%2Bof%2BSanction)
 
 
 ### Artist Portfolio

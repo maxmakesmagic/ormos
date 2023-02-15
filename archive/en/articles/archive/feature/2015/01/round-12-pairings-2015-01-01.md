@@ -5,6 +5,7 @@
 [_metadata_:description]:- "Table Player Points   Opponent Points 1 Martins - ama, Leopoldo M. 30 vs. Shvartsman, Alex 30 2 Svaldi, Guilherme Dei 28 vs. Nascimento - ama, Rodrigo A 28 3 Inacio - ama, Eliton"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "959386"
+[_metadata_:path_date]:- "2015-01-01"
 [_metadata_:publish_date]:- "2015-12-30"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 12 Pairings"

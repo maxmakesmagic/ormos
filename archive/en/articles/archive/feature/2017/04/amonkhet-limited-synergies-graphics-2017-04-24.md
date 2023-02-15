@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170616135041/http://magic.wizards.com/en/articles/archive/feature/amonkhet-limited-synergies-graphics-2017-04-24)
+[Link to Wayback Machine](https://web.archive.org/web/20211201161128/https://magic.wizards.com/en/articles/archive/feature/amonkhet-limited-synergies-graphics-2017-04-24)
 
 [_metadata_:author]:- "Diego Fumagalli"
 [_metadata_:description]:- "Diego highlights the synergies that will help you rise among the worthy in Amonkhet Limited!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2017-04-24"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Amonkhet Limited Synergies—In Graphics"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-16 13:50:41"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170616135041id_/http://magic.wizards.com/en/articles/archive/feature/amonkhet-limited-synergies-graphics-2017-04-24"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/amonkhet-limited-synergies-graphics-2017-04-24"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 16:11:28"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201161128id_/https://magic.wizards.com/en/articles/archive/feature/amonkhet-limited-synergies-graphics-2017-04-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/amonkhet-limited-synergies-graphics-2017-04-24"
 ---
 
 

@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210419212709/https://magic.wizards.com/en/articles/archive/feature/updating-list-strixhaven-school-mages-2021-03-25?src=stx-prod)
+[Link to Wayback Machine](https://web.archive.org/web/20210325165208/https://magic.wizards.com/en/articles/archive/feature/updating-list-strixhaven-school-mages-2021-03-25)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Check out our latest updates to The List, 300 interesting cards from Magic's past that can be found in Strixhaven: School of Mages Set Boosters."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-03-25"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Updating The List for Strixhaven: School of Mages"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-19 21:27:09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210419212709id_/https://magic.wizards.com/en/articles/archive/feature/updating-list-strixhaven-school-mages-2021-03-25?src=stx-prod"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/updating-list-strixhaven-school-mages-2021-03-25?src=stx-prod"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-25 16:52:08"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210325165208id_/https://magic.wizards.com/en/articles/archive/feature/updating-list-strixhaven-school-mages-2021-03-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/updating-list-strixhaven-school-mages-2021-03-25"
 ---
 
 

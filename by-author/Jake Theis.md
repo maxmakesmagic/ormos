@@ -6,3 +6,5 @@
 * [Top Five Reasons to Watch Pro Tour: Prague](/archive/en/articles/archive/feature/2006/03/top-five-reasons-watch-pro-tour-prague-2006-03-30.md) - 2006-03-30
 * [Into the Pit](/archive/en/articles/archive/feature/2006/11/pit-2006-11-22.md) - 2006-11-22
 * [Into the Pit](/archive/en/articles/archive/feature/2006/12/pit-2006-12-11.md) - 2006-12-11
+* [Artist Profile: Daarken](/archive/en/articles/archive/event-coverage/2007/07/artist-profile-daarken-2007-07-28.md) - 2007-07-28
+* [Artist Profile: Dan Scott](/archive/en/articles/archive/event-coverage/2007/07/artist-profile-dan-scott-2007-07-28.md) - 2007-07-28

@@ -6,6 +6,7 @@
 [_metadata_:description]:- "So we were sitting around talking about our preview schedule and when we should show certain things, and we got to talking about the theme decks. We showed the boxes already, but when should we show the decklists? And then someone came up with this idea: what if we did it before the Prerelease? That way most of the cards are just mysterious names that could mean almost anything, and people can come back and look at the lists once the set's fully out there!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "341146"
+[_metadata_:path_date]:- "2008-07-03"
 [_metadata_:publish_date]:- "2012-01-01"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Eventide Theme Deck Contents"
@@ -1649,7 +1650,7 @@ OverviewColorCostRarity
 At first, the "Battle Blitz" deck looks like a classic red-white deck. It's got some low-cost attackers, it's got some creatures with first strike (or, in the case of Hearthfire Hobgoblin, double strike), and it's got some burn spells. But then it starts getting tricky!
 
 
-This deck backs up its aggressive tendencies with a variety of ![Untap](https://web.archive.org/web/20141105182148im_/http://archive.wizards.com/images/Symbols/untap.gif) (untap) abilities. A creature with an ![Untap](https://web.archive.org/web/20141105182148im_/http://archive.wizards.com/images/Symbols/untap.gif) ability must be tapped to use it-which is no problem, since it'll be attacking at the earliest opportunity! Make extra creatures with Patrol Signaler, deal scads of damage with Hateflayer, or pump up your entire attacking team with Duergar Mine-Captain. The ![Untap](https://web.archive.org/web/20141105182148im_/http://archive.wizards.com/images/Symbols/untap.gif) ability untaps your creature, so even though it attacked, it'll also be ready to block next turn. Revelsong Horn sounds the final note-at the "cost" of priming an ![Untap](https://web.archive.org/web/20141105182148im_/http://archive.wizards.com/images/Symbols/untap.gif) ability for use!
+This deck backs up its aggressive tendencies with a variety of ![Untap](https://media.wizards.com/legacy/images/symbols/untap.gif) (untap) abilities. A creature with an ![Untap](https://media.wizards.com/legacy/images/symbols/untap.gif) ability must be tapped to use it-which is no problem, since it'll be attacking at the earliest opportunity! Make extra creatures with Patrol Signaler, deal scads of damage with Hateflayer, or pump up your entire attacking team with Duergar Mine-Captain. The ![Untap](https://media.wizards.com/legacy/images/symbols/untap.gif) ability untaps your creature, so even though it attacked, it'll also be ready to block next turn. Revelsong Horn sounds the final note-at the "cost" of priming an ![Untap](https://media.wizards.com/legacy/images/symbols/untap.gif) ability for use!
 
 
 

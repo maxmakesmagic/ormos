@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160412165905/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-04-09)
+[Link to Wayback Machine](https://web.archive.org/web/20211207094055/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-04-09)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "*/ /*-->*/"
+[_metadata_:description]:- "Welcome to the Card Image Gallery for Avacyn Restored. Here you can see every Avacyn Restored card. If you're looking for a specific card, use the Gatherer card search."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "642806"
 [_metadata_:publish_date]:- "2012-04-09"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Image Gallery"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-12 16:59:05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160412165905id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-04-09"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-04-09"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 09:40:55"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207094055id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-04-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-04-09"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

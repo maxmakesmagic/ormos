@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211028162754/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-mechanics-2021-10-28)
+[Link to Wayback Machine](https://web.archive.org/web/20211029105056/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-mechanics-2021-10-28?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Something old, something new, something borrowed, something drenched in blood. Check out all the new and returning mechanics of Innistrad: Crimson Vow."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-10-28"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Innistrad: Crimson Vow Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 16:27:54"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028162754id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-mechanics-2021-10-28"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-mechanics-2021-10-28"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-29 10:50:56"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211029105056id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-mechanics-2021-10-28?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-mechanics-2021-10-28?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

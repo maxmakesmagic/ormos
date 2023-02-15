@@ -1,0 +1,359 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20200920220327/https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-multimedia-2005-11-22)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Gabriel Nassif Pro Tour–Kyoto 2009 Finals: Gabriel Nassif vs. Luis Scott-Vargas (104 MB) Pro Tour–Kyoto 2009 Semifinals (128 MB) Pro Tour–Kyoto 2009 Quarterfinals (118 MB) 2007 World Championships Semifinals (150 MB)"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "573761"
+[_metadata_:publish_date]:- "2005-11-22"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Magic Pro Tour Hall of Fame Multimedia"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-20 22:03:27"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200920220327id_/https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-multimedia-2005-11-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-multimedia-2005-11-22"
+---
+
+
+Magic Pro Tour Hall of Fame Multimedia
+======================================
+
+
+
+ Posted in **Event Coverage**
+ on November 22, 2005 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+### Gabriel Nassif
+
+
+* [Pro Tour–Kyoto 2009 Finals](http://webcast2.wizards.com/09kyoto/ptkyoto09_fin.wmv.zip): Gabriel Nassif vs. Luis Scott-Vargas (104 MB)
+* [Pro Tour–Kyoto 2009 Semifinals](http://webcast2.wizards.com/09kyoto/ptkyoto09_sf.wmv.zip) (128 MB)
+* [Pro Tour–Kyoto 2009 Quarterfinals](http://webcast2.wizards.com/09kyoto/ptkyoto09_qf.wmv.zip) (118 MB)
+* [2007 World Championships Semifinals](http://webcast2.wizards.com/07nyc/Worlds-NYC07-SemiFinals.zip) (150 MB)
+* [2006 World Championships Semifinals, Part 1](http://webcast2.wizards.com/06paris/sunday/worlds06en/worlds06_sf1.wmv.zip) (116 MB)
+* [2006 World Championships Semifinals, Part 2](http://webcast2.wizards.com/06paris/sunday/worlds06en/worlds06_sf2.wmv.zip) (53 MB)
+* [2006 World Championships Quarterfinals](http://webcast2.wizards.com/06paris/sunday/worlds06en/worlds06_qf.wmv.zip) (86 MB)
+* [Pro Tour–Atlanta 2005 Finals](http://webcast2.wizards.com/05atlanta/day3/atlantafinal.wmv.zip) Nova vs. We Add (65 MB)
+* [Pro Tour–Atlanta 2005 Finals Draft](http://webcast2.wizards.com/05atlanta/day3/atlantafindraft.wmv.zip): Nova vs. We Add (46 MB)
+* [Pro Tour–Atlanta Semifinals](http://webcast2.wizards.com/05atlanta/day3/atlantasfmatch2.wmv.zip): Nova vs. One Spin (53 MB)
+* [Pro Tour–Atlanta 2005 Semfinals Draft](http://webcast2.wizards.com/05atlanta/day3/atlantasfdraft2.wmv.zip): Nova vs. One Spin (37 MB)
+* [Pro Tour–Kobe 2004 Finals, Game 1](http://webcast2.wizards.com/04kobe/finals//kuroda_v_nassif_g1.mp4.zip): Gabriel Nassif vs. Masashiro Kuroda (33 MB)
+* [Pro Tour–Kobe 2004 Finals, Game 2](http://webcast2.wizards.com/04kobe/finals/kuroda_v_nassif_g2.mp4.zip): Gabriel Nassif vs. Masashiro Kuroda (42 MB)
+* [Pro Tour–Kobe 2004 Finals, Game 3](http://webcast2.wizards.com/04kobe/finals/kuroda_v_nassif_g3.mp4.zip): Gabriel Nassif vs. Masashiro Kuroda (32 MB)
+* [Pro Tour–Kobe 2004 Finals, Game 5](http://webcast2.wizards.com/04kobe/finals/kuroda_v_nassif_g4.mp4.zip): Gabriel Nassif vs. Masashiro Kuroda (13 MB)
+* [Pro Tour–Kobe 2004 Semifinals, Game 3](http://webcast2.wizards.com/04kobe/semis/wiegersma_v_nassif%20g3.mp4.zip): Gabriel Nassif vs. Jelger Wiegersma (16 MB)
+* [Pro Tour–Kobe 2004 Semifinals, Game 4](http://webcast2.wizards.com/04kobe/semis/wiegersma_v_nassif%20g4.mp4.zip): Gabriel Nassif vs. Jelger Wiegersma (25 MB)
+* [Pro Tour–Kobe 2004 Quarterfinals, Game 1](http://webcast2.wizards.com/04kobe/quarters/stark%20v%20nassif%20g1.mp4.zip): Gabriel Nassif vs. Ben Stark (16 MB)
+* [Pro Tour–Kobe 2004 Quarterfinals, Game 2](http://webcast2.wizards.com/04kobe/quarters/stark%20v%20nassif%20g2.mp4.zip): Gabriel Nassif vs. Ben Stark (7 MB)
+* [Pro Tour–Kobe 2004 Quarterfinals, Game 5](http://webcast2.wizards.com/04kobe/quarters/stark%20v%20nassif%20g5.mp4.zip): Gabriel Nassif vs. Ben Stark (28 MB)
+* [2003 Yokohama Masters Series Final](http://webcast2.wizards.com/archives/maher/masters_yokahama03_1.mp4.zip): Bob Maher vs. Gabriel Nassif, Part I (22.1 MB mp4 zip)
+* [2003 Yokohama Masters Series Final](http://webcast2.wizards.com/archives/maher/masters_yokahama03_2.mp4.zip): Bob Maher vs. Gabriel Nassif, Part II (23.9 MB mp4 zip)
+
+### Brian Kibler
+
+
+* [Pro Tour–Honolulu 2009 Booster Draft](http://webcast2.wizards.com/09honolulu/pthon_draft.wmv.zip) (34 MB)
+* [Pro Tour–Honolulu 2009 Quarterfinals](http://webcast2.wizards.com/09honolulu/pthon_qf.wmv.zip) (118 MB)
+* [Pro Tour–Austin Quarterfinals](http://webcast2.wizards.com/09austin/ptaustin_qf.zip) (185 MB)
+* [Pro Tour–Austin Semifinals](http://webcast2.wizards.com/09austin/ptaustin_sf.zip) (104 MB)
+* [Pro Tour–Austin Finals](http://webcast2.wizards.com/09austin/ptaustin_final.zip): Brian Kibler vs. Tsyuoshi Ikeda (90 MB)
+* [Pro Tour–Amsterdam 2010 Quarterfinals](http://webcast.wizards.com/10amsterdam/ptams_qf.wmv.zip) (613 MB)
+
+### Bram Snepvangers
+
+
+* [Pro Tour–Kobe 2006 Quarterfinals](http://webcast2.wizards.com/06kobe/sunday/ptkobe06_qf.wmv.zip) (110 MB)
+* [2009 World Championships Quarterfinals](http://webcast2.wizards.com/09rome/worlds09_qf.wmv.zip) (296 MB)
+* [2009 World Championships Semifinals](http://webcast2.wizards.com/09rome/worlds09_sf.wmv.zip) (321 MB)
+
+### Antoine Ruel
+
+
+* [Pro Tour–Los Angeles 2005 Finals](http://webcast2.wizards.com/05losangeles/Sunday/ptla_final.wmv.zip): Antoine Ruel vs. Billy Moreno (101 MB WMP zip)
+* [Pro Tour–Los Angeles 2005 Semfinals, Part I](http://webcast2.wizards.com/05losangeles/Sunday/ptla_sf1.wmv.zip) (75 MB WMP zip)
+* [Pro Tour–Los Angeles 2005 Semifinals, Part II](http://webcast2.wizards.com/05losangeles/Sunday/ptla_sf2.wmv.zip) (84 MB WMP zip)
+* [Pro Tour–Los Angeles 2005 Quarterfinals, Part I](http://webcast2.wizards.com/05losangeles/Sunday/ptla_qf1.wmv.zip) (80 MB WMP zip)
+* [Pro Tour–Los Angeles 2005 Quarterfinals, Part II](http://webcast2.wizards.com/05losangeles/Sunday/ptla_qf2.wmv.zip) (60 MB WMP zip)
+* [Pro Tour–San Diego 2004 Finals Game 1](http://webcast2.wizards.com/04san_diego/finals/ruel_v_herzog_g1.mp4.zip): Antoine Ruel vs. Nicolai Herzog (15.9 MB Quicktime/Zip)
+* [Pro Tour–San Diego 2004 Finals Game 2](http://webcast2.wizards.com/04san_diego/finals/ruel_v_herzog_g2.mp4.zip): Antoine Ruel vs. Nicolai Herzog (12.6 MB Quicktime/Zip)
+* [Pro Tour–San Diego 2004 Finals Game 3](http://webcast2.wizards.com/04san_diego/finals/ruel_v_herzog_g3.mp4.zip): Antoine Ruel vs. Nicolai Herzog (26.3 MB Quicktime/Zip)
+* [Pro Tour–San Diego 2004 Semifinals Game 4](http://webcast2.wizards.com/04san_diego/semifinals/ruel_v_jonsson_g4.mp4.zip): Antoine Ruel vs. Anton Jonsson (6.78 MB Quicktime/Zip)
+* [Pro Tour–San Diego 2004 Semifinals Game 5](http://webcast2.wizards.com/04san_diego/semifinals/ruel_v_jonsson_g5.mp4.zip): Antoine Ruel vs. Anton Jonsson (16.2 MB Quicktime/Zip)
+* [Pro Tour–San Diego 2004 Quarterfinals Game 5](http://webcast2.wizards.com/04san_diego/qfinals/ruel_v_perezdelpozo_g5.mp4.zip): Antoine Ruel vs. Angel Perez Del Pozo (19.1 MB Quicktime/Zip)
+* [Pro Tour–San Diego 2004 Top 8 Player Interview: Antoine Ruel](http://webcast2.wizards.com/04san_diego/05_ruel.mp4.zip) (1.07 MB Quicktime/Zip)
+
+### Kamiel Cornelissen
+
+
+* [Pro Tour-Amsterdam 2004 Quarterfinals](http://webcast2.wizards.com/04amsterdam/QF_Fujita_vs_Cornellisen_g4.zip): Kamiel Cornelissen vs. Tsuyoshi Fujita (12.7 MB zip)
+* [Pro Tour–Seattle 2004 Finals Draft:](http://webcast2.wizards.com/04seattle/draftfinals.wmv.zip) Von Dutch vs. [www.shop-fireBall.com2](http://www.shop-fireBall.com2) (42 MB WMP)
+* [Pro Tour–Seattle 2004 Finals, Part 1:](http://webcast2.wizards.com/04seattle/FINALS1.WMV.zip) Von Dutch vs. [www.shop-fireBall.com2](http://www.shop-fireBall.com2) (88 MB WMP)
+* [Pro Tour–Seattle 2004 Finals, Part 2:](http://webcast2.wizards.com/04seattle/FINALS2.WMV.zip) Von Dutch vs. [www.shop-fireBall.com2](http://www.shop-fireBall.com2) (30 MB WMP)
+* [Pro Tour–Seattle 2004 Semifinal Draft:](http://webcast2.wizards.com/04seattle/draftsemis1.wmv.zip) Von Dutch vs. Pocket Rockets (40 MB WMP)
+* [Pro Tour–Seattle 2004 Semifinals:](http://webcast2.wizards.com/04seattle/SEMIS1.WMV.zip) Von Dutch vs. Pocket Rockets (73 MB WMP)
+
+### Frank Karsten
+
+
+* [2005 World Championship Finals](http://webcast2.wizards.com/05yokohama-worlds/Sunday/worlds05_finals.wmv.zip): Frank Karsten vs. Katsuhiro Mori (146 MB zip)
+* [2005 World Championship Semifinals](http://webcast2.wizards.com/05yokohama-worlds/Sunday/worlds05_semifinals.wmv.zip): Frank Karsten vs. Akira Asahara (121 MB zip)
+* [2005 World Championship Quarterfnals](http://webcast2.wizards.com/05yokohama-worlds/Sunday/worlds05_quarterfinals.wmv.zip): Frank Karsten vs Ding Leong (208 MB zip)
+* [Pro Tour-Nagoya Top 8 Rochester Draft](http://webcast2.wizards.com/05nagoya/day_3/nagoyaqtr2.zip) (13 MB zip)
+* [Pro Tour-Nagoya Quarterfinals](http://webcast2.wizards.com/05nagoya/day_3/nagoyaqtr2.zip): Frank Karsten vs Terry Soh (94 MB zip)
+
+### Mike Turian
+
+
+* [Pro Tour–New York 2000 Finals, Part 1](http://webcast2.wizards.com/06charleston/sunday/lunch/ptnyteams1.zip): Potato Nation vs. Car Acrobatic Team (39 MB zip)
+* [Pro Tour–New York 2000 Finals, Part II](http://webcast2.wizards.com/06charleston/sunday/lunch/ptnyteams2.zip): Potato Nation vs. Car Acrobatic Team (25 MB zip)
+* [Pro Tour–San Diego 2004: Complete Match](http://webcast2.wizards.com/hof_2007/herzog/ptsd_sf.mp4.zip): Michael Turian vs. Nicolai Herzog (172 MB zip)
+* [Pro Tour–San Diego 2004: Semifinals, Game 1](http://webcast2.wizards.com/04san_diego/semifinals/turian_v_herzog_g1.mp4.zip): Michael Turian vs. Nicolai Herzog (33.7 MB Quicktime/Zip)
+* [Pro Tour–San Diego 2004: Semifinals, Game 2](http://webcast2.wizards.com/04san_diego/semifinals/turian_v_herzog_g2.mp4.zip): Michael Turian vs. Nicolai Herzog (17.5 MB Quicktime/Zip)
+* [Pro Tour–San Diego 2004: Semifinals Game 3](http://webcast2.wizards.com/04san_diego/semifinals/turian_v_herzog_g3.mp4.zip): Michael Turian vs. Nicolai Herzog (14.2 MB Quicktime/Zip)
+* [Pro Tour–San Diego 2004: Semifinals Game 4](http://webcast2.wizards.com/04san_diego/semifinals/turian_v_herzog_g4.mp4.zip): Michael Turian vs. Nicolai Herzog (24.1 MB Quicktime/Zip)
+* [Pro Tour–San Diego 2004: Top 8 Player Interview](http://webcast2.wizards.com/04san_diego/02_turian.mp4.zip): Michael Turian (0.71 MB Quicktime/Zip)
+* [Pro Tour–Amsterdam 2004 Quarterfinals, Game 4:](http://webcast2.wizards.com/04amsterdam/QF_Turian_vs_Ruel_g4.zip) Michael Turian vs. Olivier Ruel (15.0 MB QT)
+* [Pro Tour–Amsterdam 2004 Rochester Draft](http://webcast2.wizards.com/04amsterdam/rochester_draft.zip) (49.8 MB QT)
+
+### Jelger Wiegersma
+
+
+* [Pro Tour–Seattle 2004 Finals Draft:](http://webcast2.wizards.com/04seattle/draftfinals.wmv.zip) Von Dutch vs. [www.shop-fireBall.com2](http://www.shop-fireBall.com2) (42 MB WMP)
+* [Pro Tour–Seattle 2004 Finals, Part 1:](http://webcast2.wizards.com/04seattle/FINALS1.WMV.zip) Von Dutch vs. [www.shop-fireBall.com2](http://www.shop-fireBall.com2) (88 MB WMP)
+* [Pro Tour–Seattle 2004 Finals, Part 2:](http://webcast2.wizards.com/04seattle/FINALS2.WMV.zip) Von Dutch vs. [www.shop-fireBall.com2](http://www.shop-fireBall.com2) (30 MB WMP)
+* [Pro Tour–Seattle 2004 Semifinal Draft:](http://webcast2.wizards.com/04seattle/draftsemis1.wmv.zip) Von Dutch vs. Pocket Rockets (40 MB WMP)
+* [Pro Tour–Seattle 2004 Semifinals:](http://webcast2.wizards.com/04seattle/SEMIS1.WMV.zip) Von Dutch vs. Pocket Rockets (73 MB WMP)
+* [Pro Tour–Kobe 2004 Semifinals, Game 3:](http://webcast2.wizards.com/04kobe/semis/wiegersma_v_nassif%20g3.mp4.zip)  Jelger Wiegersma vs. Gabriel Nassif (15.8 MB QT)
+* [Pro Tour–Kobe 2004 Semifinals, Game 4:](http://webcast2.wizards.com/04kobe/semis/wiegersma_v_nassif%20g4.mp4.zip) Jelger Wiegersma vs. Gabriel Nassif (24.6 MB QT)
+* [Pro Tour–Kobe 2004 Player Intro:](http://www.wizards.com/sideboard/images/ptkob04/wiegersma.zip) Jelger Wiegersma (1.31 MB QT)
+
+### Olivier Ruel
+
+
+* [Pro Tour Columbus 2004-05](http://webcast2.wizards.com/04columbus/day3/semifinals.zip): Semifinals vs. Pierre Canali (73 MB WMP)
+* [Pro Tour Columbus 2004-05](http://webcast2.wizards.com/04columbus/day3/quarterfinals1.zip): Quarterfinals vs. Masashi Oiso, Part I (44 MB WMP)
+* [Pro Tour Columbus 2004-05](http://webcast2.wizards.com/04columbus/day3/quarterfinals2.zip): Quarterfinals vs. Masashi Oiso, Part II (76 MB WMP)
+* [Pro Tour–Amsterdam 2004 Semifinals, Game 3:](http://webcast2.wizards.com/04amsterdam/SF_Herzog_vs_Ruel_g3.zip) Nicolai Herzog vs. Olivier Ruel (5.6 MB QT)
+* [Pro Tour–Amsterdam 2004 Quarterfinals, Game 4:](http://webcast2.wizards.com/04amsterdam/QF_Turian_vs_Ruel_g4.zip) Michael Turian vs. Olivier Ruel (15.0 MB QT)
+* [Pro Tour–Amsterdam 2004 Rochester Draft](http://webcast2.wizards.com/04amsterdam/rochester_draft.zip) (49.8 MB QT)
+* [Pro Tour–Honolulu 2006 Semifinals](http://webcast2.wizards.com/06honolulu/webcast/hon06_semis.wmv.zip): Olivier Ruel vs. Craig Jones (104 MB WMP zip)
+* [Pro Tour–Honolulu 2006 Quarterfinals](http://webcast2.wizards.com/06honolulu/webcast/hon06_quarters.wmv.zip): Olivier Ruel vs. Max Bracht (144 MB WMP zip)
+
+### Kai Budde
+
+
+* [Pro Tour-Barcelona 2001 Finals, Game 1](http://webcast2.wizards.com/archives/Comer/PTBar01BuddeComer_Finals1_WM9_256Kbps.wmv.zip): Alan Comer vs. Kai Budde (28 MB)
+* [Pro Tour-Barcelona 2001 Finals, Game 2](http://webcast2.wizards.com/archives/Comer/PTBar01BuddeComer_Finals2_WM9_256Kbps.wmv.zip): Alan Comer vs. Kai Budde (26 MB)
+* [Pro Tour-Barcelona 2001 Finals, Game 3](http://webcast2.wizards.com/archives/Comer/PTBar01BuddeComer_Finals3_WM9_256Kbps.wmv.zip): Alan Comer vs. Kai Budde (11 MB)
+* [Pro Tour-Barcelona 2001 Finals, Game 4](http://webcast2.wizards.com/archives/Comer/PTBar01BuddeComer_Finals4_WM9_256Kbps.wmv.zip): Alan Comer vs. Kai Budde (13 MB)
+* [Pro Tour-Barcelona 2001](http://webcast2.wizards.com/archives/Comer/PTBar01AwardsCeremony_WM9_256Kbps.wmv.zip): Awards Ceremony (9.6 MB)
+* [Pro Tour-Barcelona 2001 Semifinals, Part 1](http://webcast2.wizards.com/hof_2007/budde/ptbar_sf1.mp4.zip): Kai Budde vs. Patrick Mello (52 MB zip)
+* [Pro Tour-Barcelona 2001 Semifinals, Part 2](http://webcast2.wizards.com/hof_2007/budde/ptbar_sf2.mp4.zip): Kai Budde vs. Patrick Mello (35 MB zip)
+* [Pro Tour-Barcelona 2001 Semifinals, Part 3](http://webcast2.wizards.com/hof_2007/budde/ptbar_sf4.mp4.zip): Kai Budde vs. Patrick Mello (17 MB zip)
+
+### Zvi Mowshowitz
+
+
+* [Pro Tour-Tokyo 2001 Finals](http://webcast2.wizards.com/hof_2007/mowshowitz/pttokyo01_finals.mp4.zip): Zvi Mowshowitz vs. Tsuyoshi Fujita (60 MB zip)
+* [Pro Tour-Tokyo 2001](http://webcast2.wizards.com/hof_2007/mowshowitz/pttokyo01_awards.mp4.zip): Awards Ceremony (21 MB zip)
+* [1999 U.S. Nationals Semifinals, Part 1](http://webcast2.wizards.com/archives/humpherys/usnats99_sf1.mp4.zip): Zvi Mowshowitz vs. David Humpherys (16 MB zip)
+* [1999 U.S. Nationals Semifinals, Part 2](http://webcast2.wizards.com/archives/humpherys/usnats99_sf2.mp4.zip): Zvi Mowshowitz vs. David Humpherys (36 MB zip)
+
+### Tsuyoshi Fujita
+
+
+* [Pro Tour-London 2005 Finals](http://webcast2.wizards.com/05london/Sunday/london_final.wmv.zip): Geoffrey Siron vs. Tsuyoshi Fujita (51 MB zip)
+* [Pro Tour-London 2005 Quarterfinals](http://webcast2.wizards.com/05london/Sunday/london_quarters1.wmv.zip): Tsuyoshi Fujita vs. Arnost Zidek (second half of clip, 109 MB zip)
+* [Pro Tour-Los Angeles 2005 Quarterfinals](http://webcast2.wizards.com/05losangeles/Sunday/ptla_qf1.wmv.zip): Tsuyoshi Fujita vs. Antoine Ruel (80 MB zip)
+* [Pro Tour-Tokyo 2001 Semifinals, Game 1](http://webcast2.wizards.com/hof_2007/fujita/pttokyo01_sf1.mp4.zip%20): Tsuyoshi Fujita vs. Lucas Hager (54 MB zip)
+* [Pro Tour-Tokyo 2001 Semifinals, Game 3](http://webcast2.wizards.com/hof_2007/fujita/pttokyo01_sf3.mp4.zip): Tsuyoshi Fujita vs. Lucas Hager (34 MB zip)
+* [Pro Tour-Tokyo 2001 Semifinals, Game 4](http://webcast2.wizards.com/hof_2007/fujita/pttokyo01_sf4-2.mp4.zip): Tsuyoshi Fujita vs. Lucas Hager (64 MB zip)
+* [Pro Tour-Tokyo 2001](http://webcast2.wizards.com/hof_2007/mowshowitz/pttokyo01_awards.mp4.zip): Awards Ceremony (21 MB zip)
+
+### Nicolai Herzog
+
+
+* [Pro Tour-San Diego 2004 Finals, Game 1](http://webcast2.wizards.com/04san_diego/finals/ruel_v_herzog_g1.mp4.zip): Antoine Ruel vs. Nicolai Herzog (16 MB zip)
+* [Pro Tour-San Diego 2004 Finals, Game 2](http://webcast2.wizards.com/04san_diego/finals/ruel_v_herzog_g2.mp4.zip): Antoine Ruel vs. Nicolai Herzog (13 MB zip)
+* [Pro Tour-San Diego 2004 Finals, Game 3](http://webcast2.wizards.com/04san_diego/finals/ruel_v_herzog_g3.mp4.zip): Antoine Ruel vs. Nicolai Herzog (26 MB zip)
+* [Pro Tour-San Diego 2004 Semifinals](http://webcast2.wizards.com/hof_2007/herzog/ptsd_sf.mp4.zip): Complete Match (172 MB zip)
+* [Pro Tour-San Diego 2004 Semifinals, Game 1](http://webcast2.wizards.com/04san_diego/semifinals/turian_v_herzog_g1.mp4.zip): Michael Turian vs. Nicolai Herzog (34 MB zip)
+* [Pro Tour-San Diego 2004 Semifinals, Game 2](http://webcast2.wizards.com/04san_diego/semifinals/turian_v_herzog_g2.mp4.zip): Michael Turian vs. Nicolai Herzog (18 MB zip)
+* [Pro Tour-San Diego 2004 Semifinals, Game 3](http://webcast2.wizards.com/04san_diego/semifinals/turian_v_herzog_g3.mp4.zip): Michael Turian vs. Nicolai Herzog (14 MB zip)
+* [Pro Tour-San Diego 2004 Semifinals, Game 4](http://webcast2.wizards.com/04san_diego/semifinals/turian_v_herzog_g4.mp4.zip): Michael Turian vs. Nicolai Herzog (24 zip)
+* [Pro Tour-San Diego 2004 Quarterfinals, Game 2](http://webcast2.wizards.com/04san_diego/qfinals/stark_v_herzog_g2.mp4.zip): Ben Stark vs. Nicolai Herzog (18 MB zip)
+* [Pro Tour-San Diego 2004 Quarterfinals, Game 3](http://webcast2.wizards.com/04san_diego/qfinals/stark_v_herzog_g3.mp4.zip): Ben Stark vs. Nicolai Herzog (19 MB zip)
+* [Pro Tour-San Diego 2004 Top 8 Player Interview](http://webcast2.wizards.com/04san_diego/01_herzog.mp4.zip): Nicolai Herzog (.6 MB zip)
+* [Pro Tour-Amsterdam 2004 Finals, Game 1:](http://webcast2.wizards.com/04amsterdam/Final_Herzog_vs_Fujita_g1.zip) Nicolai Herzog vs. Osamu Fujita (19 MB zip)
+* [Pro Tour-Amsterdam 2004 Finals, Game 2:](http://webcast2.wizards.com/04amsterdam/Final_Herzog_vs_Fujita_g2.zip) Nicolai Herzog vs. Osamu Fujita (11 MB zip)
+* [Pro Tour-Amsterdam 2004 Finals, Game 3:](http://webcast2.wizards.com/04amsterdam/Final_Herzog_vs_Fujita_g3.zip) Nicolai Herzog vs. Osamu Fujita (17 MB zip)
+* [Pro Tour-Amsterdam 2004 Semifinals, Game 3:](http://webcast2.wizards.com/04amsterdam/SF_Herzog_vs_Ruel_g3.zip) Nicolai Herzog vs. Olivier Ruel (6 MB zip)
+* [Pro Tour-Amsterdam 2004 Quarterfinals, Game 4:](http://webcast2.wizards.com/04amsterdam/QF_Herzog_vs_Meraghni_g4.zip) Nicolai Herzog vs. Farid Meraghni (12 MB zip)
+* [Pro Tour-Amsterdam 2004 Rochester Draft](http://webcast2.wizards.com/04amsterdam/rochester_draft.zip) (50 MB zip)
+
+### Randy Buehler
+
+
+* [Pro Tour-Chicago 1997 Finals](http://webcast2.wizards.com/06charleston/sunday/lunch/mills_buehler.zip): Randy Buehler vs. David Mills (34 MB zip)
+* [Pro Tour-Chicago 1997 Semifinals](http://webcast2.wizards.com/hof_2007/buehler/ptchi_sf2.mp4.zip): Randy Buehler vs. Max Suver, Part 1 (30 MB zip)
+* [Pr Tour-Chicago 1997 Semifinals](http://webcast2.wizards.com/hof_2007/buehler/ptchi_sf4.mp4.zip): Randy Buehler vs. Max Suver, Part 2 (36 MB zip)
+
+You can also watch Randy's many Pro Tour webcasts by visiting the [Webcast Archive](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/webcastarchive).
+
+
+### 2006 World Championships
+
+
+* [Opening Ceremony and Hall of Fame Induction](http://webcast2.wizards.com/06paris/wednesday/wotc_worlds_ceremony_2006.mov.zip) (49.7 MB zip)
+* [Profile: Bob Maher](http://webcast2.wizards.com/06paris/wednesday/bob_maher.mp4.zip) (10.9 MB zip)
+* [Profile: Dave Humpherys](http://webcast2.wizards.com/06paris/wednesday/dave_humpherys.mp4.zip) (11.3 MB zip)
+* [Profile: Raphaël Lévy](http://webcast2.wizards.com/06paris/wednesday/raphael_levy.mp4.zip) (10.3 MB zip)
+* [Profile: Gary Wise](http://webcast2.wizards.com/06paris/wednesday/gary_wise.mp4.zip) (17.7 MB zip)
+* [Profile: Rob Dougherty](http://webcast2.wizards.com/06paris/wednesday/rob_dougherty.mp4.zip) (11.1 MB zip)
+* [2006 Hall of Fame Highlight Reel](http://webcast2.wizards.com/06paris/wednesday/hall_of_fame_2006.mp4.zip) (106 MB mp4 zip)
+
+### Bob Maher Jr.
+
+
+* [Pro Tour-Chicago 1999 Finals: Bob Maher vs. Brian Davis, Game 1](http://webcast2.wizards.com/archives/maher/ptchicago99_game1.zip) (145 MB WMP zip)
+* [Pro Tour-Chicago 1999 Finals: Bob Maher vs. Brian Davis, Game 2](http://webcast2.wizards.com/archives/maher/ptchicago99_game2.zip) (183 MB WMP zip)
+* [Pro Tour-Chicago 1999 Finals: Bob Maher vs. Brian Davis, Game 3](http://webcast2.wizards.com/archives/maher/ptchicago99_game3.zip) (92 MB WMP zip)
+* [Pro Tour-Chicago 1999 Finals: Bob Maher vs. Brian Davis, Game 4](http://webcast2.wizards.com/archives/maher/ptchicago99_game4.zip) (127 MB WMP zip)
+* [Pro Tour-Chicago 1999 Finals: Bob Maher vs. Brian Davis, Game 5](http://webcast2.wizards.com/archives/maher/ptchicago99_game5.zip) (111 MB WMP zip)
+* [Pro Tour-Chicago 1999 Semifinals: Bob Maher vs. Christian Luhrs](http://webcast2.wizards.com/archives/maher/ptchicago99_sf.mp4.zip) (32.1 MB mp4 zip)
+* [2000 World Championships Finals, Jon Finkel vs. Bob Maher](http://webcast2.wizards.com/archives/Finkel/Worlds2000_Individuals_ESPN2Broadcast-3_WM9_256Kbps.wmv.zip) (37 MB)
+* [2003 Yokohama Masters Series Final: Bob Maher vs. Gabriel Nassif, Part I](http://webcast2.wizards.com/archives/maher/masters_yokahama03_1.mp4.zip) (22.1 MB mp4 zip)
+* [2003 Yokohama Masters Series Final: Bob Maher vs. Gabriel Nassif, Part II](http://webcast2.wizards.com/archives/maher/masters_yokahama03_2.mp4.zip) (23.9 MB mp4 zip)
+
+### Dave Humpherys
+
+
+* [Pro Tour-Washington, D.C. Finals Draft: Your Move Games vs. Game Empire, Part I](http://webcast2.wizards.com/archives/dougherty/ptdc99draft_1.mp4.zip) (17.9 MB mp4 zip)
+* [Pro Tour-Washington, D.C. Finals Draft: Your Move Games vs. Game Empire, Part II](http://webcast2.wizards.com/archives/dougherty/ptdc99draft_2.mp4.zip) (35.1 MB mp4 zip)
+* [Pro Tour-Washington, D.C. 1999 Finals: Dave Humpherys vs. Alan Comer, Part I](http://webcast2.wizards.com/archives/humpherys/ptdc99f_1.mp4.zip) (24.4 MB mp4 zip)
+* [Pro Tour-Washington, D.C. 1999 Finals: Dave Humpherys vs. Alan Comer, Part II](http://webcast2.wizards.com/archives/humpherys/ptdc99f_2.mp4.zip) (29.6 MB mp4 zip)
+* [Pro Tour-Washington, D.C. 1999 Semifinal Team Draft, Part I: Your Move Games vs. Antarctica](http://webcast2.wizards.com/archives/Kastle/PTDC99_Semifinals_TeamDraft_2-1_WM9_256Kbps.wmv.zip) (31 MB)
+* [Pro Tour-Washington, D.C. 1999 Semifinal Team Draft, Part II: Your Move Games vs. Antarctica](http://webcast2.wizards.com/archives/Kastle/PTDC99_Semifinals_TeamDraft_2-2_WM9_256Kbps.wmv.zip) (27 MB)
+* [Pro Tour-Washington, D.C. 1999 Finals: Dave Humpherys vs. Steve O'Mahoney-Schwartz, Part I](http://webcast2.wizards.com/archives/humpherys/ptdc99sf_1.mp4.zip) (16.6 MB mp4 zip)
+* [Pro Tour-Washington, D.C. 1999 Finals: Dave Humpherys vs. Steve O'Mahoney-Schwartz, Part II](http://webcast2.wizards.com/archives/humpherys/ptdc99sf_2.mp4.zip) (36.3 MB mp4 zip)
+* [Pro Tour-Washington, D.C. 1999 Finals: Dave Humpherys vs. Steve O'Mahoney-Schwartz, Part III](http://webcast2.wizards.com/archives/humpherys/ptdc99sf_3.mp4.zip) (21.2 MB mp4 zip)
+* [1999 U.S. Nationals Semfinals: Dave Humpherys vs. Zvi Mowshowitz, Part I](http://webcast2.wizards.com/archives/humpherys/usnats99_sf1.mp4.zip) (16.3 MB mp4 zip)
+* [1999 U.S. Nationals Semfinals: Dave Humpherys vs. Zvi Mowshowitz, Part II](http://webcast2.wizards.com/archives/humpherys/usnats99_sf2.mp4.zip) (35.5 MB mp4 zip)
+
+### Raphaël Lévy
+
+
+* [Pro Tour-Chicago 1999 Quarterfinals: Raphaël Lévy vs. Alan Comer](http://webcast2.wizards.com/archives/levy/ptchicago99_qf.mp4.zip) (12.4 MB mp4 zip)
+* [Pro Tour-Chicago 1999 Semifinals: Raphaël Lévy vs. Brian Davis, Part I](http://webcast2.wizards.com/archives/levy/ptchicago99_sf1.mp4.zip) (35.3 MB mp4 zip)
+* [Pro Tour-Chicago 1999 Semifinals: Raphaël Lévy vs. Brian Davis, Part II](http://webcast2.wizards.com/archives/levy/ptchicago99_sf2.mp4.zip) (31.0 MB mp4 zip)
+
+### Gary Wise
+
+
+* [Pro Tour-New York 2000 Finals, Part I: Potato Nation vs. Car Acrobatic Team](http://webcast2.wizards.com/06charleston/sunday/lunch/ptnyteams1.zip) (39 MB zip)
+* [Pro Tour-New York 2000 Finals, Part II: Potato Nation vs. Car Acrobatic Team](http://webcast2.wizards.com/06charleston/sunday/lunch/ptnyteams2.zip) (25 MB zip)
+
+### Rob Dougherty
+
+
+* [Pro Tour-Washington, D.C. 1999 Semifinal Team Draft, Part I: Your Move Games vs. Antarctica](http://webcast2.wizards.com/archives/Kastle/PTDC99_Semifinals_TeamDraft_2-1_WM9_256Kbps.wmv.zip) (31 MB)
+* [Pro Tour-Washington, D.C. 1999 Semifinal Team Draft, Part II: Your Move Games vs. Antarctica](http://webcast2.wizards.com/archives/Kastle/PTDC99_Semifinals_TeamDraft_2-2_WM9_256Kbps.wmv.zip) (27 MB)
+* [Pro Tour-Washington, D.C. 1999 Finals Draft, Part I: Your Move Games vs. Game Empire](http://webcast2.wizards.com/archives/dougherty/ptdc99draft_1.mp4.zip) (17.9 MB mp4 zip)
+* [Pro Tour-Washington, D.C. 1999 Finals Draft, Part II: Your Move Games vs. Game Empire](http://webcast2.wizards.com/archives/dougherty/ptdc99draft_2.mp4.zip) (35.1 MB mp4 zip)
+* [Pro Tour-Washington, D.C. 1999 Finals: Rob Dougherty vs. Brian Selden](http://webcast2.wizards.com/archives/dougherty/ptdc99f1.mov.zip) (36.2 MB mp4 zip)
+* [Pro Tour-Houston 2002 Semifinals: Rob Dougherty vs. Darwin Kastle](http://webcast2.wizards.com/06kobe/sunday/pthouston02_sf.wmv.zip) (133 MB zip)
+
+### 2005 World Championships
+
+
+* [Induction Ceremony](http://webcast2.wizards.com/05yokohama-worlds/Wednesday/2005_hall_of_fame_small.wmv.zip) (7.8 MB)
+* [Hall of Fame Highlight Reel](http://webcast2.wizards.com/05yokohama-worlds/Thursday/hof_2005.wmv.zip) (53 MB)
+* [Jon Finkel](http://webcast2.wizards.com/05yokohama-worlds/Wednesday/jon_finkel.wmv.zip) (6.3 MB)
+* [Darwin Kastle](http://webcast2.wizards.com/05yokohama-worlds/Wednesday/darwin_kastle.wmv.zip) (8.2 MB)
+* [Tommi Hovi](http://webcast2.wizards.com/05yokohama-worlds/Wednesday/tommi_hovi.wmv.zip) (3.1 MB)
+* [Alan Comer](http://webcast2.wizards.com/05yokohama-worlds/Wednesday/alan_comer_small.wmv.zip) (6.6 MB)
+* [Olle Råde](http://webcast2.wizards.com/05yokohama-worlds/Wednesday/olle_rade.wmv.zip) (4.2 MB)
+
+### Jon Finkel
+
+
+* [Pro Tour-Chicago 1997 Semifinals, Jon Finkel vs. David Mills](http://webcast2.wizards.com/archives/Finkel/PTChi97Finkel_Mills_Semifinals2_WM9_256Kbps.wmv.zip) (26 MB)
+* [1997 U.S. Nationals Awards Ceremony](http://webcast2.wizards.com/archives/Finkel/USN97AwardsCeremony_WM9_256Kbps.wmv.zip) (10 MB)
+* [1997 U.S. Nationals Interview](http://webcast2.wizards.com/archives/Finkel/USN97Interview_JonFinkel_WM9_256Kbps.wmv.zip) (4.5 MB)
+* [Pro Tour-New York 1998 Semifinals, Jon Finkel vs. David Bachmann](http://webcast2.wizards.com/archives/Finkel/PTNY98Finkel_Bachman_Semifinals5_WM9_256Kbps.wmv.zip) (30 MB)
+* [Pro Tour-New York 1998 Finals, Jon Finkel vs. Dominic Crapuchettes](http://webcast2.wizards.com/archives/Finkel/PTNY98Finkel_Crapuchettes_Finals4-2_WM9_256Kbps.wmv.zip) (37 MB)
+* [1998 World Championships on ESPN2](http://webcast2.wizards.com/archives/Finkel/Worlds1998_ESPN2Broadcast-1_WM9_256Kbps.wmv.zip) (35 MB)
+* [Pro Tour-Washington, D.C. 1999 Semifinal Team Draft, Part I: Your Move Games vs. Antarctica](http://webcast2.wizards.com/archives/Kastle/PTDC99_Semifinals_TeamDraft_2-1_WM9_256Kbps.wmv.zip) (31 MB)
+* [Pro Tour-Washington, D.C. 1999 Semifinal Team Draft, Part II: Your Move Games vs. Antarctica](http://webcast2.wizards.com/archives/Kastle/PTDC99_Semifinals_TeamDraft_2-2_WM9_256Kbps.wmv.zip) (27 MB)
+* [Pro Tour-Washington, D.C. 1999 Semifinals: Darwin Kastle (Your Move Games) vs. Jon Finkel (Antarctica)](http://webcast2.wizards.com/archives/Kastle/PTDC99_Kastle_Finkel_Semifinals4_WM9_256Kbps.wmv.zip) (29 MB)
+* [2000 U.S. Nationals, Finals Game 3: Jon Finkel vs. Chris Benafel](http://webcast2.wizards.com/archives/Finkel/USNationals2000_ESPN2broadcast-2_WM9_256Kbps.wmv.zip) (22 MB)
+* [2000 World Championships Finals, Jon Finkel vs. Bob Maher](http://webcast2.wizards.com/archives/Finkel/Worlds2000_Individuals_ESPN2Broadcast-3_WM9_256Kbps.wmv.zip) (37 MB)
+* [Pro Tour-Yokohama 2003 Awards Ceremony](http://webcast2.wizards.com/archives/Finkel/PTYoka03Awards%20Ceremony_WM9_256Kbps.wmv.zip) (21 MB)
+
+### Darwin Kastle
+
+
+* [Pro Tour-Atlanta 1996 Finals, Darwin Kastle vs. Frank Adler](http://webcast2.wizards.com/archives/Kastle/PTAta96_Adler_Kastle_Finals1-1_WM9_256Kbps.wmv.zip) (28 MB)
+* [Pro Tour-Atlanta 1996 Interview](http://webcast2.wizards.com/archives/Kastle/PTAta96_Interview_DarwinKastle_WM9_256Kbps.wmv.zip) (7.2 MB)
+* [1997 U.S. Nationals Interview](http://webcast2.wizards.com/archives/Kastle/USN97_Interview_DarwinKastle_WM9_256Kbps.wmv.zip) (9.5 MB)
+* [Pro Tour-Paris 1997 Awards Ceremony](http://webcast2.wizards.com/archives/Kastle/PTParis97_AwardsCeremony_WM9_256Kbps.wmv.zip) (17 MB)
+* [Pro Tour-Washington, D.C. 1999 Semifinal Team Draft, Part I: Your Move Games vs. Antarctica](http://webcast2.wizards.com/archives/Kastle/PTDC99_Semifinals_TeamDraft_2-1_WM9_256Kbps.wmv.zip) (31 MB)
+* [Pro Tour-Washington, D.C. 1999 Semifinal Team Draft, Part II: Your Move Games vs. Antarctica](http://webcast2.wizards.com/archives/Kastle/PTDC99_Semifinals_TeamDraft_2-2_WM9_256Kbps.wmv.zip) (27 MB)
+* [Pro Tour-Washington, D.C. 1999 Semifinals: Darwin Kastle (Your Move Games) vs. Jon Finkel (Antarctica)](http://webcast2.wizards.com/archives/Kastle/PTDC99_Kastle_Finkel_Semifinals4_WM9_256Kbps.wmv.zip) (29 MB)
+* [Pro Tour-Venice 2003 Quarterfinals, Darwin Kastle vs. Adam Berkowitz](http://webcast2.wizards.com/archives/Kastle/PTVenice03_Kastle_Berkowitz_Quarterfinals2_WM9_256Kbps.wmv.zip) (20 MB)
+* [Pro Tour-Venice 2003 Awards Ceremony](http://webcast2.wizards.com/archives/Kastle/PTVenice03_AwardsCeremony_WM9_256Kbps.wmv.zip) (11 MB)
+
+### Tommi Hovi
+
+
+* [Pro Tour-Los Angeles 1997 Awards Ceremony](http://webcast2.wizards.com/archives/Hovi/PTLA97_Awards%20Ceremony_WM9_256Kbps_download_NTSC_ConstrainedVBR.wmv.zip) (28 MB)
+* [Pro Tour-Los Angeles 1997 Semifinal: Tommi Hovi vs. Alan Comer](http://webcast2.wizards.com/archives/Hovi/PTLA97_Hovi_Comer_Semifinals3_WM9_256Kbps_download_NTSC_ConstrainedVBR.wmv.zip) (13 MB)
+* [Pro Tour-Los Angeles 1997 Interview](http://webcast2.wizards.com/archives/Hovi/PTLA97_Interview_Tommi%20Hovi_WM9_256Kbps_download_NTSC_ConstrainedVBR.wmv.zip) (3.1 MB)
+
+### Alan Comer
+
+
+* [1997 U.S. Nationals Interview](http://webcast2.wizards.com/archives/Comer/97InterviewAlanComer_WM9_256Kbps.wmv.zip) (5.3 MB)
+* [Prou Tour-Los Angeles 1997 Semifinals: Alan Comer vs. Tommi Hovi](http://webcast2.wizards.com/archives/Comer/PTLA97HoviComer_Semifinals3_WM9_256Kbps.wmv.zip) (13 MB)
+* [Pro Tour-Barcelona 2001 Finals, Game 1](http://webcast2.wizards.com/archives/Comer/PTBar01BuddeComer_Finals1_WM9_256Kbps.wmv.zip): Alan Comer vs. Kai Budde (28 MB)
+* [Pro Tour-Barcelona 2001 Finals, Game 2](http://webcast2.wizards.com/archives/Comer/PTBar01BuddeComer_Finals2_WM9_256Kbps.wmv.zip): Alan Comer vs. Kai Budde (26 MB)
+* [Pro Tour-Barcelona 2001 Finals, Game 3](http://webcast2.wizards.com/archives/Comer/PTBar01BuddeComer_Finals3_WM9_256Kbps.wmv.zip): Alan Comer vs. Kai Budde (11 MB)
+* [Pro Tour-Barcelona 2001 Finals, Game 4](http://webcast2.wizards.com/archives/Comer/PTBar01BuddeComer_Finals4_WM9_256Kbps.wmv.zip): Alan Comer vs. Kai Budde (13 MB)
+* [Pro Tour-Barcelona 2001](http://webcast2.wizards.com/archives/Comer/PTBar01AwardsCeremony_WM9_256Kbps.wmv.zip): Awards Ceremony (9.6 MB)
+
+### Olle Råde
+
+
+* [Pro Tour-Columbus Finals, Game 1: Olle Råde vs. Sean Fleishman](http://webcast2.wizards.com/archives/Rade/columbus96finals1.wmv.zip) (9.3 MB)
+* [Pro Tour-Columbus Finals, Game 3, Part I: Olle Råde vs. Sean Fleishman](http://webcast2.wizards.com/archives/Rade/columbus96finals3_1.wmv.zip) (8.9 MB)
+* [Pro Tour-Columbus Finals, Game 3, Part II: Olle Råde vs. Sean Fleishman](http://webcast2.wizards.com/archives/Rade/columbus96finals3_2.wmv.zip) (36 MB)
+* [Pro Tour-Columbus Finals, Game 4: Olle Råde vs. Sean Fleishman](http://webcast2.wizards.com/archives/Rade/columbus96finals4.wmv.zip) (26 MB)
+* [Pro Tour-Columbus 1997 Interview](http://webcast2.wizards.com/archives/Rade/columbus96interview.wmv.zip) (4.6 MB)
+* [Pro Tour-Columbus 1997 Semifinals: Olle Råde vs. Peter Radonjic](http://webcast2.wizards.com/archives/Rade/columbus96semifinals4.wmv.zip) (8.7 MB)
+* [1996 World Championships Semifinals, Game 2: Olle Råde vs. Mark Justice](http://webcast2.wizards.com/archives/Rade/worlds96semifinals2.wmv.zip) (25 MB)
+* [World Championships Semifinals, Game 4: Olle Råde vs. Mark Justice](http://webcast2.wizards.com/archives/Rade/worlds96semifinals4.wmv.zip) (27 MB)
+
+
+
+
+
+

@@ -44,7 +44,7 @@ By Aaron Forsythe
 If you've ever seen a good mana engine work, you know such a thing can be a marvel. An expert player handling a powerful combo deck can turn a seemingly innocuous game state into a flourishing victory in one turn flat, leaving his opponent and any witnesses slack-jawed.
 
 
-![Decks with Horsepower](https://web.archive.org/web/20160513053434im_/http://archive.wizards.com/global/images/mtgcom_daily_bb45_pic1_en.jpg)
+![Decks with Horsepower](https://media.wizards.com/legacy/global/images/mtgcom_daily_bb45_pic1_en.jpg)
 
 
 Granted, such engines and decks are exciting once or twice, but their presence can warp a competitive environment. Good engines become the focus of the metagame, and often cards must be banned in order to straighten things out again. With that knowledge, R&D has managed to keep so-called "degenerate" mana engines out of Standard and block constructed play for a while.
@@ -865,7 +865,7 @@ Time Twister
 **Where it's legal:** Just Type 1. Grim Monolith is legal in Extended, but Power Artifact (from *Antiquities*) is not. And because the Monolith is restricted in Type 1, it is subsequently banned in Type 1.5.
 
 
-**How it works:**This one is as easy as they get. Power Artifact reduces the cost to untap Grim Monolithfrom ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif) to ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif). And because the Monolith produces three mana when tapped, it can pay to untap itself, netting one mana per cycle.
+**How it works:**This one is as easy as they get. Power Artifact reduces the cost to untap Grim Monolithfrom ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif) to ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif). And because the Monolith produces three mana when tapped, it can pay to untap itself, netting one mana per cycle.
 
 
 **What to do with the mana:** Blue X-spells are the weapon of choice; you need one blue mana to play an arbitrarily large Stroke of Genius, or two blue mana for a similarly-sized Braingeyser.
@@ -874,7 +874,7 @@ Time Twister
 ### Tolarian Academy/Capsize/Candelabra of Tawnos
 
 
-![](https://web.archive.org/web/20160513053436im_/http://archive.wizards.com/global/images/mtgcom_daily_bb45_pic2_en.jpg)
+![](https://media.wizards.com/legacy/global/images/mtgcom_daily_bb45_pic2_en.jpg)
 
 
 **Where it's legal:** Just Type 1. Tolarian Academy, one of the most abusive lands ever made, has long since been banned from other constructed formats.
@@ -886,7 +886,7 @@ Time Twister
 **What to do with the mana:**Again, blue X-spells work the best. These are generally the preferred kill cards in these types of decks because they can be played prior to getting the combo off as a means of drawing a few more cards.
 
 
-The following is a deck culled from an [Oscar Tan article](http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.starcitygames.com/php/news/expandnews.php?Article=3217&origin=) on [StarCityGames.com](http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.starcitygames.com/magic.php&origin=). (Sideboard taken from[zongo.be/t1/](http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://zongo.be/t1/&origin=)) This one sports the Candelabra combo (as well as Mind over Matter, which will be discussed below), and could probably be altered to support one or two copies of Power Artifact for even more combo potential. Like the Worldgorger deck, this deck is packed with powerful cards that are probably not indicative of the Type 1 metagame as a whole. But we're talking about mana engines here, and such constructs do best when backed by the best cards in the format. Eighteen artifacts provide ample fuel for the Academy, and also provide lots of mana themselves. Helm of Awakening pulls double duty by powering up the Academy and making spells cheaper; with a Helm out, Candelabra costs ![0 Mana](https://web.archive.org/web/20151201051705im_/http://archive.wizards.com/images/Symbols/Symbol_0_mana.gif) to play and Capsize's buyback is reduced by one.
+The following is a deck culled from an [Oscar Tan article](http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.starcitygames.com/php/news/expandnews.php?Article=3217&origin=) on [StarCityGames.com](http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.starcitygames.com/magic.php&origin=). (Sideboard taken from[zongo.be/t1/](http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://zongo.be/t1/&origin=)) This one sports the Candelabra combo (as well as Mind over Matter, which will be discussed below), and could probably be altered to support one or two copies of Power Artifact for even more combo potential. Like the Worldgorger deck, this deck is packed with powerful cards that are probably not indicative of the Type 1 metagame as a whole. But we're talking about mana engines here, and such constructs do best when backed by the best cards in the format. Eighteen artifacts provide ample fuel for the Academy, and also provide lots of mana themselves. Helm of Awakening pulls double duty by powering up the Academy and making spells cheaper; with a Helm out, Candelabra costs ![0 Mana](https://media.wizards.com/legacy/images/symbols/symbol_0_mana.gif) to play and Capsize's buyback is reduced by one.
 
 
 Neo-Academy  
@@ -2230,7 +2230,7 @@ Imagine an Extended format similar to the one from Hovi's Rome, except that Toa
 **Where it's legal:**These cards were legal together in Extended for the period of time between Palinchron's release in the beginning of 1999 until High Tide rotated out of the format that November. With High Tide now out of Extended, this combo is only legal in Type 1.5 and Type 1.
 
 
-**How it works:**High Tide increases the mana production of each island in play by ![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif), and its effects are cumulative.Palinchron costs seven mana to play, but it untaps seven land when it comes into play. So with one High Tide resolved, seven islands can be tapped for 14 mana, seven of which would pay for Palichron, leaving seven mana floating and all your lands untapped. The kicker? Palinchron can be returned to your hand for ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif), meaning a loop of "play it, return it" can be created with three mana per cycle to spare. Frantic Search, Turnabout, and Time Spiral perform similar antics with High Tide untilPalinchron shows up.
+**How it works:**High Tide increases the mana production of each island in play by ![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif), and its effects are cumulative.Palinchron costs seven mana to play, but it untaps seven land when it comes into play. So with one High Tide resolved, seven islands can be tapped for 14 mana, seven of which would pay for Palichron, leaving seven mana floating and all your lands untapped. The kicker? Palinchron can be returned to your hand for ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif), meaning a loop of "play it, return it" can be created with three mana per cycle to spare. Frantic Search, Turnabout, and Time Spiral perform similar antics with High Tide untilPalinchron shows up.
 
 
 Some players also tried the combo using the red enchantment Mana Flare in place of High Tide.
@@ -4535,7 +4535,7 @@ Even though the Urza block was the "combo block," most of the offensive cards we
 Now alone, that combo does not generate extra mana, and therefore isn't a mana engine per se. But if one of the creatures you are Recurring is a Workhorse (an *Exodus*artifact creature that can generate mana by removing counters from itself), then you begin to net mana during each cycle.
 
 
-![The Horsecraft Combo](https://web.archive.org/web/20160513053435im_/http://archive.wizards.com/global/images/mtgcom_daily_bb45_pic3_en.jpg)
+![The Horsecraft Combo](https://media.wizards.com/legacy/global/images/mtgcom_daily_bb45_pic3_en.jpg)
 
 
 **What to do with the mana:**It isn’t pretty, but the idea is to store up enough mana to eventually win with Corpse Dance and Mogg Fanatic. The Workhorse will provide all the necessary colorless mana, andEarthcraft gives you the black mana (by tapping the Mogg Fanatic each time).

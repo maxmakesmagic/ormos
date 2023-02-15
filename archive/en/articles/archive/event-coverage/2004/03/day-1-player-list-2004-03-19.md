@@ -1,0 +1,591 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220629170501/https://magic.wizards.com/en/articles/archive/event-coverage/day-1-player-list-2004-03-19)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Abe, Hiroshi(Tochigi) Abe, Hiroshi(Yamagata) Abe, Masashi Abe, Satoshi Adachi, Shingo Aihara, Yoshiteru Aita, Masaru Aita, Shunji Aizawa, Atuo Aizawa, Keiji Aizawa, Takahiro Akiba, Masakazu Akiyama, Takashi Amao, Hiroshi Anan, Gou Anazawa, Yoshikazu Aoki, Ryosuke Aoki, Tomokazu Arahori, Kazuaki Arai, Jin Aridome, Tomohiro Asahara, Akira Asai, Ryusuke Atsuta, Nao Awano, Heita"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "567946"
+[_metadata_:publish_date]:- "2004-03-19"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Day 1 Player List"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 17:05:01"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629170501id_/https://magic.wizards.com/en/articles/archive/event-coverage/day-1-player-list-2004-03-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/day-1-player-list-2004-03-19"
+---
+
+
+Day 1 Player List
+=================
+
+
+
+ Posted in **Event Coverage**
+ on March 19, 2004 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |
+| --- | --- |
+| Abe, Hiroshi(Tochigi) |
+| Abe, Hiroshi(Yamagata) |
+| Abe, Masashi |
+| Abe, Satoshi |
+| Adachi, Shingo |
+| Aihara, Yoshiteru |
+| Aita, Masaru |
+| Aita, Shunji |
+| Aizawa, Atuo |
+| Aizawa, Keiji |
+| Aizawa, Takahiro |
+| Akiba, Masakazu |
+| Akiyama, Takashi |
+| Amao, Hiroshi |
+| Anan, Gou |
+| Anazawa, Yoshikazu |
+| Aoki, Ryosuke |
+| Aoki, Tomokazu |
+| Arahori, Kazuaki |
+| Arai, Jin |
+| Aridome, Tomohiro |
+| Asahara, Akira |
+| Asai, Ryusuke |
+| Atsuta, Nao |
+| Awano, Heita |
+| Awano, Satoru |
+| Bando, Junichiro |
+| Bannai, Yousuke |
+| Chiba, Katsutoshi |
+| Cosic, Refik |
+| Date, Hiroshi |
+| Date, Norikuni |
+| Doi, Shiro |
+| Ebie, Kunisato |
+| Ebitani, Keisuke |
+| Eguchi, Hiroshi |
+| Endo, Tadashi |
+| Endou, Yuusuke |
+| Esashika, Akio |
+| Fox, Aaron |
+| Fujieda, Isamu |
+| Fujihira, Taro |
+| Fujimoto, Mikio |
+| Fujimoto, Takehiro |
+| Fujimura, Kyuta |
+| Fujino, Kimihiro |
+| Fujisato, Hiroshi |
+| Fujita, Keisuke |
+| Fujita, Osamu |
+| Fujita, Satoshi |
+| Fujita, Tsuyoshi |
+| Fujiwara, Takahito |
+| Fujiwara, Yuixhiro |
+| Fukai, Koichi |
+| Fukaishi, Takahiro |
+| Fukuchi, Takahiro |
+| Fukui, Yohei |
+| Fukushima, Yuuji |
+| Fuma, Masaharu |
+| Funyu, Tasuku |
+| Furujou, Takashi |
+| Furukawa, Hiroyuki |
+| Furuki, Naomi |
+| Furuuchi, Tooru |
+| Furuya, Masashi |
+| Futamata, Shunji |
+| Fuyuki, Tomotaka |
+| Gomersall, Sam J.R. |
+| Goto, Kiyoaki |
+| Goto, Noriyuki |
+| Gotou, Ryouiti |
+| Haga, Katsuhiro |
+| Hamada, Yuusaku |
+| Hamaoka, Shuuhei |
+| Hanawa, Yu |
+| Haneda, Masatoshi |
+| Harada, Satoshi |
+| Harada, Yoshio |
+| Harita, Masaru |
+| Hasegawa, Gaku |
+| Hasegawa, Shunsuke |
+| Hasegawa, Sigeyuki |
+| Hasegawa, Tomokazu |
+| Hasegawa], Yuuichi |
+| Hashimoto, Yasuyuki |
+| Hashimoto, Yu |
+| Hasimoto, Takayuki |
+| Hatakeyama, Kohichi |
+| Hattori, Keitaro |
+| Hayashi, Shinsuke |
+| Hayashi, Takatomo |
+| Higashino, Masayuki |
+| Higono, Naoki |
+| Hio, Takumi |
+| Hirabayashi, Kazuya |
+| Hiraga, Mikio |
+| Hiraki, Kazuhiro |
+| Hirata, Jun |
+| Hirayama, Daisuke |
+| Hirosawa, Yuuta |
+| Hirose, Yuki |
+| Honma, Suguru |
+| Honma, Wataru |
+| Honnami, Tomoyuki |
+| Horiuchi, Ikki |
+| Hosaka, Atsushi |
+| Ibamoto, Masami |
+| Ichikawa, Kazuyuki |
+| Ichisugi, Nobuaki |
+| Ida, Takahito |
+| Igari, Masahiro |
+| Igeta, Hirofumi |
+| Iizuka, Shun |
+| Ikeda, Akio |
+| Ikeda, Eiji |
+| Ikeda, Kei |
+| Imai, Hideaki |
+| Imai, Takashi |
+| Imamura, Taichiro |
+| Ino, Kentaro |
+| Inoguchi, Hironobu |
+| Ishibashi, Katsumi |
+| Ishida, Itaru |
+| Ishiduka, Hazime |
+| Ishii, Hayato |
+| Ishii, Taisuke |
+| Ishikawa, Masayo |
+| Ishikawa, Yukihide |
+| Ishikka, Takehiro |
+| Ishimura, Shintaro |
+| Ishiyama, Hiroki |
+| Isobe, Masato |
+| Ito, Akitsugu |
+| Ito, Atsushi |
+| Ito, Masayoshi |
+| Ito, Shogo |
+| Itou, Takanori |
+| Iwai, Takanori |
+| Iwai, Tsuyoshi |
+| Iwama, Yuki |
+| Iwano, Shuzo |
+| Iwaoka, Makio |
+| Iyanaga, Junya |
+| Jitsukawa, Naofumi |
+| Jung, Si Yong |
+| Kageyama, Tarou |
+| Kai, Tsubasa |
+| Kaji, Tomohiro |
+| Kamemoto, Ryan |
+| Kanazawa, Isao |
+| Kanazawa, Naoko |
+| Kaneko, Masami |
+| Kanno, Hiroki |
+| Kanno, Tadashi |
+| Kanno, Takashi |
+| Kasagi, Daisuke |
+| Kashiwa, Toshihiro |
+| Kashiwakura, Naoto |
+| Kasima, Akihiro |
+| Kataoka, Asami |
+| Katayose, Shingo |
+| Katou, Kazuki |
+| Kawakami, Kouhei |
+| Kawataka, Ryota |
+| Kayama, Akira |
+| Kikuchi, Satoru |
+| Kikuchi, Yuuji |
+| Kim, Cynic |
+| Kinoshita, Kouta |
+| Kinoshita, Masashi |
+| Kise, Masato |
+| Kishi, Tatsunori |
+| Kishida, Hirokazu |
+| Kitamura, Hiroaki |
+| Kitano, Tetsuya |
+| Kitazawa, Kiyohiro |
+| Kobayashi, Akihito |
+| Kobayashi, Hajime |
+| Kobayashi, Hiroki |
+| Koganemaru, Akinori |
+| Kohata, Daisuke |
+| Komada, Norihiko |
+| Komiyama, Hideki |
+| Komuro, Atsushi |
+| Komuro, Shu |
+| Kondo, Hiroaki |
+| Konno, Masashi |
+| Konoike, Masaki |
+| Koyama, Kazuya |
+| Koyama, Shouhei |
+| Koyano, Hirofumi |
+| Kozakai, Yukio |
+| Kubota, Junji |
+| Kubota, Kenta |
+| Kunugi, Ryou |
+| Kurihara, Shingou |
+| Kurisu, Takashi |
+| Kuroda, Masashiro |
+| Lee, SangRyeol |
+| Lopez, Nazario |
+| Machida, Takahiro |
+| Maeda, Yuuto |
+| Maemondo, Shun |
+| Maki, Koichiro |
+| Makita, Yosihiko |
+| Makuta, Eiji |
+| Maruyama, Hiromi |
+| Maruyama, Koji |
+| Maruyama, Takaaki |
+| Maruyama, Tatsuya |
+| Maruyama, Tomohiro |
+| Mastumoto, Hirotoshi |
+| Masuda, Teruo |
+| Matousek, Pavel |
+| Matsuki, Hitoshi |
+| Matsumura, Takehiko |
+| Matsushima, Naoki |
+| Matsuyama, Satoshi |
+| Matsuzaki, Takanori |
+| Matumoto, Yuki |
+| Matushita, Masakazu |
+| Matusita, Kenniti |
+| Mayuzumi, Shinichi |
+| Mera, Kenichi |
+| Mihara, Makihito |
+| Miki, Sadayoshi |
+| Minami, Masasi |
+| Mishima, Yuuichirou |
+| Mito, Mitsukuni |
+| Mitsuhashi, Takashi |
+| Mitsuma, Takayuki |
+| Mitui, Hideo |
+| Miura, Akiyoshi |
+| Miura, Shuichi |
+| Miwa, Tatsuya |
+| Miyabe, Kouichi |
+| Miyajima, Yoshitaka |
+| Miyamori, Masaei |
+| Miyazaki, Hidetaka |
+| Miyoi, Shunta |
+| Mochizuki, Takahito |
+| Momose, Kazuyuki |
+| Mori, Katsuhiro |
+| Morita, Masahiko |
+| Mouri, Tomonori |
+| Murakami, Kazuki |
+| Murakami, Ken |
+| Murakami, Norichika |
+| Murakami, Shunsuke |
+| Murakami, Yuuki |
+| Muramatu, Daisuke |
+| Murata, Daisuke |
+| Murata, Koji |
+| Murata, Shinya |
+| Murata, Yutaka |
+| Murayama, Yoshiyuki |
+| Nabatame, Makoto |
+| Nagata, Shigeki |
+| Nagataki, Tsubasa |
+| Nakahara, Yuuya |
+| Nakajima, Chikara |
+| Nakajima, Daisuke |
+| Nakajima, Rei |
+| Nakamura, Hitoshi |
+| Nakamura, Keisuke |
+| Nakamura, Masanori |
+| Nakamura, Satoshi |
+| Nakamura, Shuuhei |
+| Nakamura, Yoichi |
+| Nakamura, Yuusuke |
+| Nakanishi, Keisuke |
+| Nakano, Fumiki |
+| Nakao, Munenari |
+| Nakaoka, Sinya |
+| Nakata, Yuusuke |
+| Nakazato, Takuya |
+| Nakazawa, Kazuhiro |
+| Natsume, Takuya |
+| Negami, Hiroyuki |
+| Niimi, Kiyoaki |
+| Nikkuni, Fumihito |
+| Nishiwaki, Kazuhisa |
+| Nishiwaki, Yosuke |
+| Nisimaki, Akira |
+| Nitta, Kenichi |
+| Niwa, Kohei |
+| Niwa, Takashi |
+| Noguchi, Keita |
+| Noguchi, Masumi |
+| Nomura, Eiji |
+| Nonaka, Kengo |
+| Nonaka, Kentarou |
+| Nose, Koji |
+| Nozaki, Yosinori |
+| Nozu, Shizutaka |
+| Odashima, Takumi |
+| Ogami, Kenji |
+| Ogasawara, Sho |
+| Ogihara, Toshiki |
+| Ogiso, Takahiro |
+| Ogura, Ryo |
+| Ohmori, Kazuki |
+| Ohnishi, Junpei |
+| Ohno, Isao |
+| Ohtsuji, Akio |
+| Ohtsuka, Tomomi |
+| Oiso, Masashi |
+| Okada, Hiroaki |
+| Okada, Ko |
+| Okajima, Kuninori |
+| Okamoto, Hiroaki |
+| Okamoto, Jin |
+| Okamura, Shinya |
+| Oks, Olivier |
+| Okutomi, Hiromitsu |
+| Okuyama, Tadaaki |
+| Omori, Tomoaki |
+| Onoda, Hikaru |
+| Onodera, Naozumi |
+| Onta, Hirofumi |
+| Oohashi, Toshiya |
+| Oohira, Kenta |
+| Ooshima, Kunihiro |
+| Ootsuka, Koutarou(Aichi) |
+| Ootsuka, Koutarou(Miyagi) |
+| Ootsuki, Masahiro |
+| Ooya, Takumi |
+| Orihara, Jun |
+| Osaka, Yusuke |
+| Osawa, Takuya |
+| Ota, Yusuke |
+| Otsubo, Yuji |
+| Ozaki, Hironori |
+| Ozaki, Naoto |
+| Ozawa, Takahiro |
+| Ozawa, Takeshi |
+| Ruel, Antoine |
+| Ruel, Olivier |
+| Saijou, Yuuichi |
+| Saito, Hirotsugu |
+| Saito, Takanobu |
+| Saito, Takaya |
+| Saito, Tomoya |
+| Saitou, Atsusi |
+| Saitou, Tomoharu |
+| Sakai, Yasuki |
+| Sakai, Yuuto |
+| Sakajo, Yasuhisa |
+| Sakamoto, Masaaki |
+| Sakamoto, Naoki |
+| Sakane, Kunio |
+| Sakata, Masashi |
+| Sakuma, Tosimitsu |
+| Sakurada, Kouichi |
+| Sasagawa, Tomohide |
+| Sasahara, Yasufumi |
+| Sasaki, Masato |
+| Sasaki, Minoru |
+| Sasaki, Yusuke(Miyagi) |
+| Sasaki, Yusuke(Tokyo) |
+| Sasanuma, Kiyoshi |
+| Sato, Daisuke |
+| Sato, Hitoshi |
+| Sato, Makoto |
+| Sato, Yoshimasa |
+| Sato, Yuryo |
+| Satou, Kenji |
+| Satou, Kimihiko |
+| Se, Atsuo |
+| Senba, Koutarou |
+| Shibata, Toshiya |
+| Shibata, Yuuki |
+| Shibayama, Jun |
+| Shibuya, Tutomu |
+| Shibuya, Yuuto |
+| Shikata, Nobuaki |
+| Shiki, Kazumasa |
+| Shimada, Masatake |
+| Shimizu, Hajime |
+| Shimizu, Sho |
+| Shimono, Tetsuro |
+| Shimura, Ichiro |
+| Shiota, Fumihiko |
+| Shiozu, Ryouma |
+| Shishido, Toshinori |
+| Shoji, Tatsuro |
+| Simizu, Akihiro |
+| Simokobe, Yukihiro |
+| Sogabe, Ippei |
+| Sogabe, Takashi |
+| Someya, Yu |
+| Sugahara, Hideyuki |
+| Suganuma, Takeshi |
+| Sugi, Taiji |
+| Sugiki, Takafumi |
+| Sugimori, Kazutaka |
+| Sugiura, Kiyohiro |
+| Sumi, Kazuhiko |
+| Suto, Masakazu |
+| Suto, Takuo |
+| Suzuki, Fumito |
+| Suzuki, Goh |
+| Suzuki, Kazuaki |
+| Suzuki, Kenta |
+| Suzuki, Masatsuna |
+| Suzuki, Minoru |
+| Suzuki, Nobuyoshi |
+| Suzuki, Ryuichi |
+| Suzuki, Sadao |
+| Suzuki, Satoru |
+| Suzuki, Shin |
+| Suzuki, Takayuki |
+| Suzuki, Yasutomo |
+| Suzuki, Yosihumi |
+| Suzuki, Yuichi |
+| Syouyama, Youhei |
+| Tabe, Keita |
+| Tago, Junitiro |
+| Takada, Ryo |
+| Takagi, Takeshi |
+| Takagi, Yui |
+| Takahashi, Jun'ya |
+| Takahashi, Kazunari |
+| Takahashi, Noboru |
+| Takahashi, Terue |
+| Takahashi, Yoshiyuki |
+| Takahasi, Keiji |
+| Takakuwa, Akihiro |
+| Takamatsu, Hiroomi |
+| Takanashi, Yoshiki |
+| Takano, Hirota |
+| Takano, Yasuhiro |
+| Takasaki, Yuichi |
+| Takasu, Taisuke |
+| Takeda, Hiroki |
+| Takeda, Satoru |
+| Takemura, Kazunori |
+| Taketou, Kiyoshi |
+| Takeuchi, Hidehito |
+| Takeuchi, Ryosuke |
+| Takeuchi, Ryota |
+| Tamon, Ryusei |
+| Tamura, Katsuhiko |
+| Tanabe, Yasuyuki |
+| Tanahashi, Masayasu |
+| Tanaka, Akira |
+| Tanaka, Hidenori |
+| Tanaka, Hisaya |
+| Tanaka, Takayuki |
+| Tanaka, Yuu |
+| Taneichi, Hidenori |
+| Taniguchi, Tomoya |
+| Tano, Fumiaki |
+| Taru, Genki |
+| Tateno, Shouta |
+| Tazawa, Satoshi |
+| Teramoto, Shoji |
+| Terui, Takaya |
+| Tobita, Keniti |
+| Tochika, Takayuki |
+| Toda, Hirotsugu |
+| Toida, Kiyoshi |
+| Tokunaga, Shintaro |
+| Tomioka, Takahiro |
+| Tomita, Syuntarou |
+| Toyota, Shinpei |
+| Tsuchida, Teruo |
+| Tsuchiuchi, Jun |
+| Tsuchiya, Heinrich |
+| Tsuchiya, Takehiko |
+| Tsuda, Junichi |
+| Tsumura, Kenji |
+| Tsunokawa, Yosikazu |
+| Tsutsumi, Naoki |
+| Ueda, Katsuya |
+| Umi, Hirokazu |
+| Urano, Tomohisa |
+| Ushie, Yuuta |
+| Usuki, Ken |
+| Wachi, Shinya |
+| Waga, Kuniaki |
+| Wakamatu, Sigeki |
+| Watabe, Kazunori |
+| Watanabe, Hayato |
+| Watanabe, Hiroto |
+| Watanabe, Junko |
+| Watanabe, Masami |
+| Yabe, Kotaro |
+| Yaegashi, Toru |
+| Yamada, Hiroki |
+| Yamada, Tsutomu |
+| Yamada, Yuuki |
+| Yamagishi, Yuichi |
+| Yamaguchi, Naohiro |
+| Yamaguchi, Ryutaro |
+| Yamaguchi, Shinya |
+| Yamaguchi, Teruyuki |
+| Yamamoto, Kazuaki |
+| Yamamoto, Kentarou |
+| Yamamoto, Ryuuji |
+| Yamanaka, Toshihisa |
+| Yamano, Tatsuto |
+| Yamasaki, Ryo |
+| Yamashita, Hiroki |
+| Yamashita, Kazuki |
+| Yamazaki, Hiroyuki |
+| Yamazaki, Shun |
+| Yamazaki, Yuki |
+| Yanagawa, Tsubasa |
+| Yanagihara, Hiroki |
+| Yanagisawa, Tadahiro |
+| Yaoita, Akihiro |
+| Yashiro, Takuya |
+| Yasuda, Masahiro |
+| Yasuda, Takeshi |
+| Yasufuku, Akihiro |
+| Yasutomi, Hiroto |
+| Yazawa, Yasuhiro |
+| Yoda, Yuji |
+| Yokokura, Takesi |
+| Yokosuka, Tomohiro |
+| Yokoyama, Ken-Ichi |
+| Yokoyama, Shota |
+| Yoshida, Mitsutaka |
+| Yoshikawa, Yusuke |
+| Yoshikuni, Mitsuyuki |
+| Yoshimoto, Kensuke |
+| Yoshino, Yorimoto |
+| Yoshizawa, Hirotaka |
+| Yusa, Norio |
+| Yusa, Sinnosuke |
+|  |
+| Total players: 531 |
+
+
+
+
+
+
+
+

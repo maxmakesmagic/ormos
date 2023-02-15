@@ -1,0 +1,1683 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20171029165347/https://magic.wizards.com/en/articles/archive/event-coverage/round-13-robert-bayardo-vs-nick-eisel-2002-11-24)
+
+[_metadata_:author]:- "Ben Bleiweiss"
+[_metadata_:description]:- "Robert “Brightstone” Bayardo became the talk of the entire tournament by drafting Thunder of Hooves over Sparksmith, and then Elvish Pioneer over Thunder of Hooves. Nick Eisel, now a weekly Star City Games columnist, vied for his second consecutive Onslaught Limited Grand Prix Top 8 appearance."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "777626"
+[_metadata_:publish_date]:- "2002-11-24"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Round 13: Robert Bayardo vs. Nick Eisel"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 16:53:47"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029165347id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-13-robert-bayardo-vs-nick-eisel-2002-11-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/round-13-robert-bayardo-vs-nick-eisel-2002-11-24"
+---
+
+
+Round 13: Robert Bayardo vs. Nick Eisel
+=======================================
+
+
+
+ Posted in **Event Coverage**
+ on November 24, 2002 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/authorpic_benbleiweiss.jpg)
+By Ben Bleiweiss
+
+
+
+
+
+
+
+
+
+
+
+Robert “Brightstone” Bayardo became the talk of the entire tournament by drafting [Thunder of Hooves](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thunder+of+Hooves) over [Sparksmith](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith), and then [Elvish Pioneer](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Pioneer) over [Thunder of Hooves](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thunder+of+Hooves). Nick Eisel, now a weekly Star City Games columnist, vied for his second consecutive Onslaught Limited Grand Prix Top 8 appearance.
+
+### Game One:
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpla02/915.jpg)Nick won the die roll and promptly took the first mulligan at one of my feature matches of this entire tournament. His new six card hand contained wizards, [Lavamancer's Skill](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill), and land. Bayardo also cashed in his initial hand, settling for two mountains, double Craghorn, [Oversold Cemetery](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oversold+Cemetery) and [Spurred Wolverine](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spurred+Wolverine).
+
+Nick got the card-impaired game off to a roaring start with turn one [Imagecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Imagecrafter), turn two tapped cycling land. Bayardo, who had drawn his first forest by this point, traded casting morph creatures with Eisel on turn three. Eisel enchanted his [Imagecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Imagecrafter) with [Lavamancer's Skill](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lavamancer%27s+Skill), killing Bayardo’s morpher and bringing in the beats for two.
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpla02/914.jpg)Robert played a second morph guy, and saved it from the wizard strike with a [Vitality Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vitality+Charm)-or so he thought. Eisel tapped a blue, revealing his morph creature to be [Aphetto Alchemist](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphetto+Alchemist), which untapped his wizardly brethren and shot down the now-dead [Spitting Gourna](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spitting+Gourna).
+
+[Imagecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Imagecrafter) #2 hit the board, and two of the three wizards began their rather weak march into the red zone. [Mistform Wall](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Wall) joined the party, making Eisel’s army of one power   
+ beaters fourfold. 
+
+Bayardo hoped to slow down the slow bleed with a [Battering Craghorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battering+Craghorn) and his Cemetery. Eisel calmly shot down the beast as Bayardo failed to utilize the enchantment on his own turn, and died a turn thereafter to an army of dudes who all involved the number one.
+
+Nick Eisel 1 - Robert Bayardo 0
+
+### Game Two:
+
+ Turn one Bayardo came out strong, as he played [Elvish Pioneer](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Pioneer) and a swamp, bringing accelerating his mana a turn ahead of Eisel’s. The elf beat down past [Imagecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Imagecrafter), which died to an insect generated by [Vitality Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vitality+Charm) on the attack. Nick calmly played [Lightning Rift](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Rift) on turn two, cycling [Lonely Sandbar](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lonely+Sandbar) on turn three to draw a card and kill Bayardo’s morph creature. [Sage Aven](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sage+Aven) brought a stop to a second morph creature, as Robert failed to draw a Mountain with a hand full of red cards. Eisel took advantage of this mana stall by casting [Sparksmith](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith) and [Aphetto Alchemist](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphetto+Alchemist) in the same turn.
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpla02/911.jpg) Bayardo, unimpressed, played a third morph creature for this game. Eisel untapped, and slapped down [Goblin Machinist](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Machinist), allowing him to shoot down both morph creatures ([Snapping Thragg](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snapping+Thragg) and [Treespring Lorian](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treespring+Lorian)). Ironically, the very next turn, Bayardo drew [Thunder of Hooves](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thunder+of+Hooves), the very card he drafted over [Sparksmith](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sparksmith), which was wrecking him horribly. The next turn, his first mountain allowed him to kill a creature via [Solar Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast)-and he chose to fry [Aphetto Alchemist](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphetto+Alchemist). 
+
+Eisel attacked with his force, activating his Machinist twice revealing [Essence Fracture](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Essence+Fracture) and [Charging Slateback](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Charging+Slateback). This mercifully ended this drubbing post-haste. Bayardo, an amateur, was content to be so high up in the standings. This would enable him to collect quite a sizable prize by the end of this tournament, regardless of whether or not he made top eight.
+
+Nick Eisel 2 - Robert Bayardo 0
+
+
+
+
+
+
+#### GP LA Second Rochester Draft
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (13)
+
+
+
+2
+[Battering Craghorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattering%5D+%5BCraghorn%5D)
+
+
+1
+[Charging Slateback](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharging%5D+%5BSlateback%5D)
+
+
+1
+[Snapping Thragg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapping%5D+%5BThragg%5D)
+
+
+2
+[Spurred Wolverine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpurred%5D+%5BWolverine%5D)
+
+
+2
+[Elvish Pioneer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BPioneer%5D)
+
+
+1
+[Krosan Groundshaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGroundshaker%5D)
+
+
+1
+[Snarling Undorak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnarling%5D+%5BUndorak%5D)
+
+
+1
+[Spitting Gourna](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpitting%5D+%5BGourna%5D)
+
+
+1
+[Taunting Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
+
+
+1
+[Treespring Lorian](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreespring%5D+%5BLorian%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+2
+[Thunder of Hooves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunder%5D+%5Bof%5D+%5BHooves%5D)
+
+
+1
+[Wave of Indifference](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWave%5D+%5Bof%5D+%5BIndifference%5D)
+
+
+1
+[Chain of Acid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BAcid%5D)
+
+
+
+##### Instant (2)
+
+
+
+1
+[Solar Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolar%5D+%5BBlast%5D)
+
+
+1
+[Vitality Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVitality%5D+%5BCharm%5D)
+
+
+
+##### Enchantment (2)
+
+
+
+1
+[Oversold Cemetery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOversold%5D+%5BCemetery%5D)
+
+
+1
+[Mana Echoes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BEchoes%5D)
+
+
+
+##### Land (18)
+
+
+
+8
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+6
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+
+##### Other (1)
+
+
+
+1
+Patriarch’s Bidding
+
+
+40 Cards 
+
+
+##### Sideboard (23)
+
+
+
+1
+[Forgotten Cave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BCave%5D)
+
+
+1
+[Foothill Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoothill%5D+%5BGuide%5D)
+
+
+1
+[Righteous Cause](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRighteous%5D+%5BCause%5D)
+
+
+1
+[Crown of Ascension](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BAscension%5D)
+
+
+1
+[Mistform Mask](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistform%5D+%5BMask%5D)
+
+
+1
+[Riptide Chronologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BChronologist%5D)
+
+
+2
+[Trickery Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrickery%5D+%5BCharm%5D)
+
+
+1
+[Accursed Centaur](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAccursed%5D+%5BCentaur%5D)
+
+
+1
+[Fallen Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFallen%5D+%5BCleric%5D)
+
+
+1
+[Brightstone Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrightstone%5D+%5BRitual%5D)
+
+
+1
+[Crown of Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BFury%5D)
+
+
+1
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+1
+[Goblin Taskmaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BTaskmaster%5D)
+
+
+1
+[Nosy Goblin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNosy%5D+%5BGoblin%5D)
+
+
+2
+[Crown of Vigor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BVigor%5D)
+
+
+1
+[Elvish Guidance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BGuidance%5D)
+
+
+1
+[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+
+
+1
+[Wirewood Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BElf%5D)
+
+
+2
+[Wirewood Herald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BHerald%5D)
+
+
+1
+[Wirewood Pride](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BPride%5D)
+
+
+
+
+##### White (2)
+
+
+
+1
+[Foothill Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoothill%5D+%5BGuide%5D)
+
+
+1
+[Righteous Cause](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRighteous%5D+%5BCause%5D)
+
+
+
+##### Blue (5)
+
+
+
+1
+[Crown of Ascension](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BAscension%5D)
+
+
+1
+[Mistform Mask](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistform%5D+%5BMask%5D)
+
+
+1
+[Riptide Chronologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BChronologist%5D)
+
+
+2
+[Trickery Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrickery%5D+%5BCharm%5D)
+
+
+
+##### Black (3)
+
+
+
+1
+[Oversold Cemetery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOversold%5D+%5BCemetery%5D)
+
+
+1
+[Accursed Centaur](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAccursed%5D+%5BCentaur%5D)
+
+
+1
+[Fallen Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFallen%5D+%5BCleric%5D)
+
+
+
+##### Red (16)
+
+
+
+2
+[Battering Craghorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattering%5D+%5BCraghorn%5D)
+
+
+1
+[Charging Slateback](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharging%5D+%5BSlateback%5D)
+
+
+1
+[Snapping Thragg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapping%5D+%5BThragg%5D)
+
+
+2
+[Spurred Wolverine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpurred%5D+%5BWolverine%5D)
+
+
+1
+[Mana Echoes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BEchoes%5D)
+
+
+1
+[Solar Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolar%5D+%5BBlast%5D)
+
+
+2
+[Thunder of Hooves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunder%5D+%5Bof%5D+%5BHooves%5D)
+
+
+1
+[Wave of Indifference](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWave%5D+%5Bof%5D+%5BIndifference%5D)
+
+
+1
+[Brightstone Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrightstone%5D+%5BRitual%5D)
+
+
+1
+[Crown of Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BFury%5D)
+
+
+1
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+1
+[Goblin Taskmaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BTaskmaster%5D)
+
+
+1
+[Nosy Goblin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNosy%5D+%5BGoblin%5D)
+
+
+
+##### Green (17)
+
+
+
+2
+[Elvish Pioneer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BPioneer%5D)
+
+
+1
+[Krosan Groundshaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGroundshaker%5D)
+
+
+1
+[Snarling Undorak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnarling%5D+%5BUndorak%5D)
+
+
+1
+[Spitting Gourna](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpitting%5D+%5BGourna%5D)
+
+
+1
+[Taunting Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
+
+
+1
+[Treespring Lorian](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreespring%5D+%5BLorian%5D)
+
+
+1
+[Chain of Acid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BAcid%5D)
+
+
+1
+[Vitality Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVitality%5D+%5BCharm%5D)
+
+
+2
+[Crown of Vigor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BVigor%5D)
+
+
+1
+[Elvish Guidance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BGuidance%5D)
+
+
+1
+[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+
+
+1
+[Wirewood Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BElf%5D)
+
+
+2
+[Wirewood Herald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BHerald%5D)
+
+
+1
+[Wirewood Pride](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BPride%5D)
+
+
+
+##### Colorless (20)
+
+
+
+8
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+6
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+Patriarch’s Bidding
+
+
+1
+[Forgotten Cave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BCave%5D)
+
+
+63 Cards 
+
+
+
+##### 1 (13)
+
+
+
+2
+[Elvish Pioneer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BPioneer%5D)
+
+
+1
+[Taunting Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
+
+
+1
+[Wave of Indifference](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWave%5D+%5Bof%5D+%5BIndifference%5D)
+
+
+1
+[Vitality Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVitality%5D+%5BCharm%5D)
+
+
+1
+[Foothill Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoothill%5D+%5BGuide%5D)
+
+
+2
+[Trickery Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrickery%5D+%5BCharm%5D)
+
+
+1
+[Accursed Centaur](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAccursed%5D+%5BCentaur%5D)
+
+
+1
+[Brightstone Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrightstone%5D+%5BRitual%5D)
+
+
+1
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+1
+[Goblin Taskmaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BTaskmaster%5D)
+
+
+1
+[Wirewood Pride](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BPride%5D)
+
+
+
+##### 2 (10)
+
+
+
+1
+[Oversold Cemetery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOversold%5D+%5BCemetery%5D)
+
+
+1
+[Crown of Ascension](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BAscension%5D)
+
+
+1
+[Mistform Mask](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistform%5D+%5BMask%5D)
+
+
+1
+[Crown of Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BFury%5D)
+
+
+2
+[Crown of Vigor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BVigor%5D)
+
+
+1
+[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+
+
+1
+[Wirewood Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BElf%5D)
+
+
+2
+[Wirewood Herald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BHerald%5D)
+
+
+
+##### 3 (2)
+
+
+
+1
+[Nosy Goblin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNosy%5D+%5BGoblin%5D)
+
+
+1
+[Elvish Guidance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BGuidance%5D)
+
+
+
+##### 4 (8)
+
+
+
+2
+[Battering Craghorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattering%5D+%5BCraghorn%5D)
+
+
+1
+[Snarling Undorak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnarling%5D+%5BUndorak%5D)
+
+
+1
+[Mana Echoes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BEchoes%5D)
+
+
+1
+[Solar Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolar%5D+%5BBlast%5D)
+
+
+2
+[Thunder of Hooves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunder%5D+%5Bof%5D+%5BHooves%5D)
+
+
+1
+[Chain of Acid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BAcid%5D)
+
+
+
+##### 5 (8)
+
+
+
+1
+[Charging Slateback](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharging%5D+%5BSlateback%5D)
+
+
+1
+[Snapping Thragg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapping%5D+%5BThragg%5D)
+
+
+2
+[Spurred Wolverine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpurred%5D+%5BWolverine%5D)
+
+
+1
+[Spitting Gourna](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpitting%5D+%5BGourna%5D)
+
+
+1
+[Righteous Cause](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRighteous%5D+%5BCause%5D)
+
+
+1
+[Riptide Chronologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BChronologist%5D)
+
+
+1
+[Fallen Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFallen%5D+%5BCleric%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Treespring Lorian](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreespring%5D+%5BLorian%5D)
+
+
+
+##### 7 (1)
+
+
+
+1
+[Krosan Groundshaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGroundshaker%5D)
+
+
+43 Cards 
+
+
+
+##### Common (54)
+
+
+
+8
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+6
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Battering Craghorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattering%5D+%5BCraghorn%5D)
+
+
+1
+[Charging Slateback](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharging%5D+%5BSlateback%5D)
+
+
+2
+[Spurred Wolverine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpurred%5D+%5BWolverine%5D)
+
+
+2
+[Elvish Pioneer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BPioneer%5D)
+
+
+1
+[Snarling Undorak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnarling%5D+%5BUndorak%5D)
+
+
+1
+[Spitting Gourna](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpitting%5D+%5BGourna%5D)
+
+
+1
+[Taunting Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
+
+
+1
+[Treespring Lorian](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreespring%5D+%5BLorian%5D)
+
+
+1
+Patriarch’s Bidding
+
+
+1
+[Solar Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolar%5D+%5BBlast%5D)
+
+
+1
+[Wave of Indifference](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWave%5D+%5Bof%5D+%5BIndifference%5D)
+
+
+1
+[Vitality Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVitality%5D+%5BCharm%5D)
+
+
+1
+[Forgotten Cave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BCave%5D)
+
+
+1
+[Foothill Guide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoothill%5D+%5BGuide%5D)
+
+
+1
+[Crown of Ascension](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BAscension%5D)
+
+
+1
+[Mistform Mask](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistform%5D+%5BMask%5D)
+
+
+2
+[Trickery Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrickery%5D+%5BCharm%5D)
+
+
+1
+[Accursed Centaur](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAccursed%5D+%5BCentaur%5D)
+
+
+1
+[Fallen Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFallen%5D+%5BCleric%5D)
+
+
+1
+[Brightstone Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrightstone%5D+%5BRitual%5D)
+
+
+1
+[Crown of Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BFury%5D)
+
+
+1
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+1
+[Goblin Taskmaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BTaskmaster%5D)
+
+
+1
+[Nosy Goblin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNosy%5D+%5BGoblin%5D)
+
+
+2
+[Crown of Vigor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrown%5D+%5Bof%5D+%5BVigor%5D)
+
+
+1
+[Elvish Guidance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BGuidance%5D)
+
+
+1
+[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+
+
+1
+[Wirewood Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BElf%5D)
+
+
+2
+[Wirewood Herald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BHerald%5D)
+
+
+1
+[Wirewood Pride](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWirewood%5D+%5BPride%5D)
+
+
+
+##### Uncommon (7)
+
+
+
+1
+[Snapping Thragg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapping%5D+%5BThragg%5D)
+
+
+1
+[Krosan Groundshaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGroundshaker%5D)
+
+
+2
+[Thunder of Hooves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunder%5D+%5Bof%5D+%5BHooves%5D)
+
+
+1
+[Chain of Acid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BAcid%5D)
+
+
+1
+[Righteous Cause](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRighteous%5D+%5BCause%5D)
+
+
+1
+[Riptide Chronologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BChronologist%5D)
+
+
+
+##### Rare (2)
+
+
+
+1
+[Oversold Cemetery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOversold%5D+%5BCemetery%5D)
+
+
+1
+[Mana Echoes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BEchoes%5D)
+
+
+63 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+#### GP LA Second Rochester Draft
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (14)
+
+
+
+1
+[Aphetto Alchemist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BAlchemist%5D)
+
+
+2
+[Ascending Aven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAscending%5D+%5BAven%5D)
+
+
+2
+[Imagecrafter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImagecrafter%5D)
+
+
+1
+[Mistform Wall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistform%5D+%5BWall%5D)
+
+
+2
+[Riptide Biologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BBiologist%5D)
+
+
+1
+[Sage Aven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5BAven%5D)
+
+
+1
+[Charging Slateback](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharging%5D+%5BSlateback%5D)
+
+
+1
+[Embermage Goblin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmbermage%5D+%5BGoblin%5D)
+
+
+1
+[Goblin Machinist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BMachinist%5D)
+
+
+1
+[Goblin Taskmaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BTaskmaster%5D)
+
+
+1
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+
+##### Sorcery (2)
+
+
+
+2
+[Essence Fracture](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BFracture%5D)
+
+
+
+##### Instant (5)
+
+
+
+1
+[Backslide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBackslide%5D)
+
+
+1
+[Complicate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BComplicate%5D)
+
+
+1
+[Pinpoint Avalanche](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPinpoint%5D+%5BAvalanche%5D)
+
+
+1
+[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+
+
+1
+[Solar Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolar%5D+%5BBlast%5D)
+
+
+
+##### Enchantment (1)
+
+
+
+1
+[Lightning Rift](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BRift%5D)
+
+
+
+##### Land (17)
+
+
+
+7
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+8
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+2
+[Lonely Sandbar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLonely%5D+%5BSandbar%5D)
+
+
+
+##### Other (1)
+
+
+
+1
+Lavamancer’s Skill
+
+
+40 Cards 
+
+
+##### Sideboard (20)
+
+
+
+1
+[Imagecrafter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImagecrafter%5D)
+
+
+1
+[Aura Extraction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAura%5D+%5BExtraction%5D)
+
+
+1
+[Chain of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Aphetto Grifter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BGrifter%5D)
+
+
+2
+[Crafty Pathmage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrafty%5D+%5BPathmage%5D)
+
+
+1
+[Dispersing Orb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispersing%5D+%5BOrb%5D)
+
+
+1
+[Graxiplon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGraxiplon%5D)
+
+
+1
+[Riptide Chronologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BChronologist%5D)
+
+
+1
+[Screaming Seahawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScreaming%5D+%5BSeahawk%5D)
+
+
+1
+[Supreme Inquisitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BInquisitor%5D)
+
+
+1
+[Aphetto Dredging](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BDredging%5D)
+
+
+1
+[Rotlung Reanimator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRotlung%5D+%5BReanimator%5D)
+
+
+1
+[Dwarven Blastminer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BBlastminer%5D)
+
+
+1
+[Fever Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFever%5D+%5BCharm%5D)
+
+
+1
+[Skirk Fire Marshal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BFire%5D+%5BMarshal%5D)
+
+
+1
+[Threaten](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThreaten%5D)
+
+
+1
+[Wave of Indifference](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWave%5D+%5Bof%5D+%5BIndifference%5D)
+
+
+2
+[Elvish Guidance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BGuidance%5D)
+
+
+
+
+##### White (2)
+
+
+
+1
+[Aura Extraction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAura%5D+%5BExtraction%5D)
+
+
+1
+[Chain of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BSilence%5D)
+
+
+
+##### Blue (22)
+
+
+
+1
+[Aphetto Alchemist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BAlchemist%5D)
+
+
+2
+[Ascending Aven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAscending%5D+%5BAven%5D)
+
+
+3
+[Imagecrafter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImagecrafter%5D)
+
+
+1
+[Mistform Wall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistform%5D+%5BWall%5D)
+
+
+2
+[Riptide Biologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BBiologist%5D)
+
+
+1
+[Sage Aven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5BAven%5D)
+
+
+1
+[Backslide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBackslide%5D)
+
+
+1
+[Complicate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BComplicate%5D)
+
+
+2
+[Essence Fracture](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BFracture%5D)
+
+
+1
+[Aphetto Grifter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BGrifter%5D)
+
+
+2
+[Crafty Pathmage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrafty%5D+%5BPathmage%5D)
+
+
+1
+[Dispersing Orb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispersing%5D+%5BOrb%5D)
+
+
+1
+[Graxiplon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGraxiplon%5D)
+
+
+1
+[Riptide Chronologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BChronologist%5D)
+
+
+1
+[Screaming Seahawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScreaming%5D+%5BSeahawk%5D)
+
+
+1
+[Supreme Inquisitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BInquisitor%5D)
+
+
+
+##### Black (2)
+
+
+
+1
+[Aphetto Dredging](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BDredging%5D)
+
+
+1
+[Rotlung Reanimator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRotlung%5D+%5BReanimator%5D)
+
+
+
+##### Red (14)
+
+
+
+1
+[Charging Slateback](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharging%5D+%5BSlateback%5D)
+
+
+1
+[Embermage Goblin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmbermage%5D+%5BGoblin%5D)
+
+
+1
+[Goblin Machinist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BMachinist%5D)
+
+
+1
+[Goblin Taskmaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BTaskmaster%5D)
+
+
+1
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+1
+[Lightning Rift](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BRift%5D)
+
+
+1
+[Pinpoint Avalanche](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPinpoint%5D+%5BAvalanche%5D)
+
+
+1
+[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+
+
+1
+[Solar Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolar%5D+%5BBlast%5D)
+
+
+1
+[Dwarven Blastminer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BBlastminer%5D)
+
+
+1
+[Fever Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFever%5D+%5BCharm%5D)
+
+
+1
+[Skirk Fire Marshal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BFire%5D+%5BMarshal%5D)
+
+
+1
+[Threaten](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThreaten%5D)
+
+
+1
+[Wave of Indifference](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWave%5D+%5Bof%5D+%5BIndifference%5D)
+
+
+
+##### Green (2)
+
+
+
+2
+[Elvish Guidance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BGuidance%5D)
+
+
+
+##### Colorless (18)
+
+
+
+7
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+8
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+2
+[Lonely Sandbar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLonely%5D+%5BSandbar%5D)
+
+
+1
+Lavamancer’s Skill
+
+
+60 Cards 
+
+
+
+##### 1 (7)
+
+
+
+3
+[Imagecrafter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImagecrafter%5D)
+
+
+1
+[Goblin Taskmaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BTaskmaster%5D)
+
+
+1
+[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+
+
+1
+[Fever Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFever%5D+%5BCharm%5D)
+
+
+1
+[Wave of Indifference](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWave%5D+%5Bof%5D+%5BIndifference%5D)
+
+
+
+##### 2 (9)
+
+
+
+1
+[Aphetto Alchemist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BAlchemist%5D)
+
+
+2
+[Riptide Biologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BBiologist%5D)
+
+
+1
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+1
+[Backslide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBackslide%5D)
+
+
+1
+[Lightning Rift](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BRift%5D)
+
+
+1
+[Aura Extraction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAura%5D+%5BExtraction%5D)
+
+
+1
+[Chain of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Dwarven Blastminer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BBlastminer%5D)
+
+
+
+##### 3 (9)
+
+
+
+1
+[Mistform Wall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistform%5D+%5BWall%5D)
+
+
+1
+[Complicate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BComplicate%5D)
+
+
+1
+[Aphetto Grifter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BGrifter%5D)
+
+
+2
+[Crafty Pathmage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrafty%5D+%5BPathmage%5D)
+
+
+1
+[Rotlung Reanimator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRotlung%5D+%5BReanimator%5D)
+
+
+1
+[Threaten](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThreaten%5D)
+
+
+2
+[Elvish Guidance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BGuidance%5D)
+
+
+
+##### 4 (6)
+
+
+
+2
+[Ascending Aven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAscending%5D+%5BAven%5D)
+
+
+1
+[Sage Aven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5BAven%5D)
+
+
+1
+[Embermage Goblin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmbermage%5D+%5BGoblin%5D)
+
+
+1
+[Solar Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolar%5D+%5BBlast%5D)
+
+
+1
+[Aphetto Dredging](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BDredging%5D)
+
+
+
+##### 5 (10)
+
+
+
+1
+[Charging Slateback](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharging%5D+%5BSlateback%5D)
+
+
+1
+[Goblin Machinist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BMachinist%5D)
+
+
+2
+[Essence Fracture](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BFracture%5D)
+
+
+1
+[Pinpoint Avalanche](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPinpoint%5D+%5BAvalanche%5D)
+
+
+1
+[Dispersing Orb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispersing%5D+%5BOrb%5D)
+
+
+1
+[Riptide Chronologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BChronologist%5D)
+
+
+1
+[Screaming Seahawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScreaming%5D+%5BSeahawk%5D)
+
+
+1
+[Supreme Inquisitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BInquisitor%5D)
+
+
+1
+[Skirk Fire Marshal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BFire%5D+%5BMarshal%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Graxiplon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGraxiplon%5D)
+
+
+42 Cards 
+
+
+
+##### Common (42)
+
+
+
+7
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+8
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+2
+[Lonely Sandbar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLonely%5D+%5BSandbar%5D)
+
+
+2
+[Ascending Aven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAscending%5D+%5BAven%5D)
+
+
+3
+[Imagecrafter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImagecrafter%5D)
+
+
+1
+[Mistform Wall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistform%5D+%5BWall%5D)
+
+
+2
+[Riptide Biologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BBiologist%5D)
+
+
+1
+[Sage Aven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5BAven%5D)
+
+
+1
+[Charging Slateback](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharging%5D+%5BSlateback%5D)
+
+
+1
+[Goblin Taskmaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BTaskmaster%5D)
+
+
+1
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+1
+[Backslide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBackslide%5D)
+
+
+1
+Lavamancer’s Skill
+
+
+1
+[Pinpoint Avalanche](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPinpoint%5D+%5BAvalanche%5D)
+
+
+1
+[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+
+
+1
+[Solar Blast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolar%5D+%5BBlast%5D)
+
+
+2
+[Crafty Pathmage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrafty%5D+%5BPathmage%5D)
+
+
+1
+[Screaming Seahawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScreaming%5D+%5BSeahawk%5D)
+
+
+1
+[Aphetto Dredging](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BDredging%5D)
+
+
+1
+[Fever Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFever%5D+%5BCharm%5D)
+
+
+1
+[Wave of Indifference](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWave%5D+%5Bof%5D+%5BIndifference%5D)
+
+
+2
+[Elvish Guidance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BGuidance%5D)
+
+
+
+##### Uncommon (15)
+
+
+
+1
+[Aphetto Alchemist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BAlchemist%5D)
+
+
+1
+[Embermage Goblin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmbermage%5D+%5BGoblin%5D)
+
+
+1
+[Goblin Machinist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BMachinist%5D)
+
+
+1
+[Complicate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BComplicate%5D)
+
+
+2
+[Essence Fracture](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BFracture%5D)
+
+
+1
+[Lightning Rift](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BRift%5D)
+
+
+1
+[Aura Extraction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAura%5D+%5BExtraction%5D)
+
+
+1
+[Chain of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Aphetto Grifter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAphetto%5D+%5BGrifter%5D)
+
+
+1
+[Dispersing Orb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispersing%5D+%5BOrb%5D)
+
+
+1
+[Graxiplon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGraxiplon%5D)
+
+
+1
+[Riptide Chronologist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiptide%5D+%5BChronologist%5D)
+
+
+1
+[Dwarven Blastminer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BBlastminer%5D)
+
+
+1
+[Threaten](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThreaten%5D)
+
+
+
+##### Rare (3)
+
+
+
+1
+[Supreme Inquisitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BInquisitor%5D)
+
+
+1
+[Rotlung Reanimator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRotlung%5D+%5BReanimator%5D)
+
+
+1
+[Skirk Fire Marshal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BFire%5D+%5BMarshal%5D)
+
+
+60 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+

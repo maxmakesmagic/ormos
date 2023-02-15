@@ -410,7 +410,7 @@ By Brian David-Marshall
 This is more or less what my first pass at the deck looked like. I built the deck after learning about the interaction between the Shapeshifter and creatures with morph triggers and hearing about some Shapeshifter decks that did well at Champs – including one that used Thelonite Druid for some Saproling nuttiness.
 
 
-![](https://web.archive.org/web/20150316071949im_/http://archive.wizards.com/global/images/mtgcom_daily_bd256_pic1_en.jpg)
+![](https://media.wizards.com/legacy/global/images/mtgcom_daily_bd256_pic1_en.jpg)
 When you unmorph a Shapeshifter and copy an unmorphed creature that has a trigger the Shapeshifter will trigger it as well. This works really nicely with Fathom Seer as the aforementioned one-sided Howling Mine and is basically a one-sided Stasis with Brine Elemental – hence the Pickles – that you can use every turn thanks to the Shapeshifter letting you flip it back face down every upkeep.
 
 

@@ -1,0 +1,1312 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20161002023522/http://magic.wizards.com/en/articles/archive/event-coverage/round-12-owened-2011-02-11)
+
+[_metadata_:author]:- "Nate Price"
+[_metadata_:description]:- "Owen Turtenwald (Caw-Go) vs. Shouta Yasooka (White-Blue-Black Control)&#13; &#13;  &#13; &#13; Game 1&#13; &#13;  "
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "316409"
+[_metadata_:publish_date]:- "2011-02-11"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Round 12: Owened!"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-02 02:35:22"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161002023522id_/http://magic.wizards.com/en/articles/archive/event-coverage/round-12-owened-2011-02-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/event-coverage/round-12-owened-2011-02-11"
+---
+
+
+Round 12: Owened!
+=================
+
+
+
+ Posted in **Event Coverage**
+ on February 11, 2011 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/author_pic_nate_price.jpg)
+By Nate Price
+
+
+
+
+ A longtime member of the Pro Tour and Grand Prix coverage staff, Nate Price now works making beautiful words for all of you lovely people as the community manager for organized play. When not covering events, he lords over the @MagicProTour Twitter account, ruling with an iron fist. 
+
+
+
+
+
+
+### Owen Turtenwald (Caw-Go) vs. Shouta Yasooka (White-Blue-Black Control)
+
+
+ 
+
+
+### Game 1
+
+
+ 
+
+
+Owen Turtenwald won the die roll and chose to go first. He also made the first commitment to the board, filling his hand up with a pair of [Squadron Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squadron+Hawk)s. Shouta Yasooka countered them with a [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ratchet+Bomb). A [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) stole a copy of [Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jace%2C+the+Mind+Sculptor) from a hand that had a second copy of the planeswalker plus a [Day of Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Day+of+Judgment), [Gideon Jura](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gideon+Jura), and two [Squadron Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squadron+Hawk)s. On the following turn, the remaining Jace hit play, immediately giving him a [Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm). When he was hit by an [Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Inquisition+of+Kozilek), he revealed another copy of Jace as well as a [Sylvok Lifestaff](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvok+Lifestaff).
+
+
+
+
+
+|  |
+| --- |
+| 
+*Shouta Yasooka, left, faces off against Owen Turtenwald and his planeswalker posse.* |
+
+
+Yasooka got on the Hawk bandwagon, fetching up a trio of his own after blowing Turtenwald's away with the [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ratchet+Bomb). Unfazed, Turtenwald played [Gideon Jura](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gideon+Jura) and forced the bird to attack him rather than his buddy Jace. A second Hawk hit the battlefield for Yasooka, and they started pecking away at Gideon. Turtenwald made a [Squadron Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squadron+Hawk) of his own, opting to trade it on Yasooka's attack rather than use it for his own offense. After another Jace activation, Turtenwald found himself a [Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tectonic+Edge) to protect himself from the threat of Yasooka's [Creeping Tar Pit](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Creeping+Tar+Pit)s. When Yasooka tried to play a [Jace Beleren](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jace+Beleren) to destroy Turtenwald's planeswalker, [Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Leak) made sure that the Mind Sculpting engine would continue to provide Turtenwald the advantage.
+
+
+Now secure behind his planeswalker fort and a sculpted hand of cards, Turtenwald fired. [Day of Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Day+of+Judgment) cleared the board, allowing Turtenwald to start sending his [Gideon Jura](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gideon+Jura) over for 6. His [Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tectonic+Edge) kept Yasooka from swinging in at Jace with his lands while Gideon was away fighting. Yasooka had his last [Squadron Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squadron+Hawk) to block the way for a turn, but Jace had Gideon's back this time, sending the bird back to Yasooka's hand. Yasooka attempted to put Gideon down with a copy of his own, but Turtenwald had a pair of [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spell+Pierce)s to force the issue. Yasooka conceded rather than let Turtenwald untap and kill him.
+
+
+Turtenwald 1, Yasooka 0
+
+
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jace%2C+the+Mind+Sculptor) is an incredibly powerful card, and one of the key cards in this matchup. Turtenwald's early and consistent access to him powered his win over Yasooka in game one. For the next game, Yasooka got to go first, giving him the potential to get his onto the table first. Turtenwald helped his advantage with a pair of mulligans.
+
+
+ 
+
+
+### Game 2
+
+
+ 
+
+
+Yasooka wasted no time, immediately fetching a [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains) with his [Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Marsh+Flats) to enable a second-turn [Squadron Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squadron+Hawk). After a [Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Preordain) and an attack, he opted to add a second to his team. His deck now empty of Hawks, and his hand full, he looked to be in the same position as Turtenwald at the start of the previous game. An [Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Inquisition+of+Kozilek) was hit by a [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spell+Pierce), forcing Yasooka to tap out. Turtenwald then quickly revealed a hand containing no legal choices for the discard spell.
+
+
+ 
+
+
+
+
+
+|  |
+| --- |
+| 
+*Yasooka sets things straight.* |
+
+
+ 
+
+
+Turtenwald tried to stifle Yasooka's mana by destroying his second [Creeping Tar Pit](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Creeping+Tar+Pit)s with a [Tectonic Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tectonic+Edge) in an attempt to keep him from Jace mana. After a [Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Preordain) on his turn, Yasooka found a replacement. He also added one more Hawk to his air force, bringing him up to three in play. Turtenwald was running on his last card when a [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duress) forced the [Gideon Jura](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gideon+Jura) he was holding from his grip. An attempted [Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jace%2C+the+Mind+Sculptor) on the following turn was [Cancel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cancel)led. Yasooka found one of his own and started in on Turtenwald's deck. It only took a couple of turns before Turtenwald, now drawing off the top of his deck, conceded.
+
+
+Turtenwald 1, Yasooka 1
+
+
+The player to go first had won each of the previous two games, so it appeared that Turtenwald held the edge going into the last game. A mulligan might have shaken him a little had Yasooka not managed to mulligan his hand before Turtenwald had even picked up his deck to shuffle. The second mulligan he took was sure to bring him down, but Yasooka once again threw his hand in as well.
+
+
+ 
+
+
+### Game 3
+
+
+ 
+
+
+A [Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Preordain) on the first turn bought Turtenwald the chance to improve his draw some. The [Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stoneforge+Mystic) he made on the next turn gave him a win condition. He fetched out a Sword of [Feast or Famine](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Feast+or+Famine), which he no doubt planned on sliding into play with his Mystic. As expected, Turtenwald chose to use his Mystic to get the Sword down rather than risk losing it to counter*Magic*. Again, rather than chance getting blown out, Turtenwald simply attacked with his unequipped Mystic, preferring to leave counter*Magic* mana up. Only when he hit four mana, allowing him to equip and cast [Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Leak), did he give it the Sword.
+
+
+
+
+
+|  |
+| --- |
+| 
+*Turtenwald: Under duress.* |
+
+
+When Yasooka didn't give him a target for his [Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Leak) on his turn, Turtenwald chose to use his [Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Leak) to force through a [Squadron Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squadron+Hawk). This filled his hand up, as well as giving him a bit more damage and another body to pick up the Sword should something happen. Yasooka was able to prevent a [Sword of Body and Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sword+of+Body+and+Mind) from hitting play with a [Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Leak), leaving him vulnerable to a [Gideon Jura](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gideon+Jura) that came down on the following turn. He managed to clear the creatures out with a [Day of Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Day+of+Judgment), but Turtenwald held two more Hawks in his hand. He just attacked with Gideon and dropped the Hawks. With no way out, Yasooka conceded.
+
+
+**Turtenwald 2, Yasooka 1**
+
+
+
+
+
+
+
+#### Owen Turtenwald
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (7)
+
+
+
+4
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+
+
+3
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+
+
+
+##### Creature (8)
+
+
+
+4
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+
+
+4
+[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoneforge%5D+%5BMystic%5D)
+
+
+
+##### Sorcery (8)
+
+
+
+4
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+4
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+
+
+
+##### Instant (9)
+
+
+
+1
+[Deprive](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+
+
+1
+[Stoic Rebuttal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
+
+
+3
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+4
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
+
+
+
+##### Artifact (2)
+
+
+
+1
+[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D)
+
+
+1
+[Sylvok Lifestaff](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvok%5D+%5BLifestaff%5D)
+
+
+
+##### Land (26)
+
+
+
+4
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Misty Rainforest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D)
+
+
+4
+[Celestial Colonnade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
+
+
+4
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
+
+
+4
+[Glacial Fortress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Deprive](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+
+
+4
+[Oust](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOust%5D)
+
+
+3
+[Ratchet Bomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Baneslayer Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaneslayer%5D+%5BAngel%5D)
+
+
+2
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+
+
+2
+[Divine Offering](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivine%5D+%5BOffering%5D)
+
+
+1
+[Sword of Body and Mind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BBody%5D+%5Band%5D+%5BMind%5D)
+
+
+
+
+##### White (23)
+
+
+
+4
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+
+
+4
+[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoneforge%5D+%5BMystic%5D)
+
+
+4
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+
+
+3
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+
+
+4
+[Oust](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOust%5D)
+
+
+2
+[Baneslayer Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaneslayer%5D+%5BAngel%5D)
+
+
+2
+[Divine Offering](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivine%5D+%5BOffering%5D)
+
+
+
+##### Blue (20)
+
+
+
+2
+[Deprive](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+
+
+1
+[Stoic Rebuttal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
+
+
+3
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+4
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
+
+
+4
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+4
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+
+
+2
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+
+
+
+##### Colorless (32)
+
+
+
+4
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Misty Rainforest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D)
+
+
+4
+[Celestial Colonnade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
+
+
+4
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
+
+
+4
+[Glacial Fortress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
+
+
+1
+[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D)
+
+
+1
+[Sylvok Lifestaff](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvok%5D+%5BLifestaff%5D)
+
+
+3
+[Ratchet Bomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+1
+[Sword of Body and Mind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BBody%5D+%5Band%5D+%5BMind%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (13)
+
+
+
+1
+[Sylvok Lifestaff](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvok%5D+%5BLifestaff%5D)
+
+
+4
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
+
+
+4
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+4
+[Oust](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOust%5D)
+
+
+
+##### 2 (20)
+
+
+
+4
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+
+
+4
+[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoneforge%5D+%5BMystic%5D)
+
+
+2
+[Deprive](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+
+
+3
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+3
+[Ratchet Bomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+
+
+2
+[Divine Offering](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivine%5D+%5BOffering%5D)
+
+
+
+##### 3 (3)
+
+
+
+1
+[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D)
+
+
+1
+[Stoic Rebuttal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
+
+
+1
+[Sword of Body and Mind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BBody%5D+%5Band%5D+%5BMind%5D)
+
+
+
+##### 4 (8)
+
+
+
+4
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+
+
+4
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+
+
+
+##### 5 (5)
+
+
+
+3
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+
+
+2
+[Baneslayer Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaneslayer%5D+%5BAngel%5D)
+
+
+49 Cards 
+
+
+
+##### Common (30)
+
+
+
+4
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+
+
+1
+[Sylvok Lifestaff](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvok%5D+%5BLifestaff%5D)
+
+
+2
+[Deprive](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+
+
+1
+[Stoic Rebuttal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
+
+
+3
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+4
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
+
+
+4
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+2
+[Divine Offering](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivine%5D+%5BOffering%5D)
+
+
+
+##### Uncommon (6)
+
+
+
+4
+[Oust](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOust%5D)
+
+
+2
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+
+
+
+##### Rare (23)
+
+
+
+4
+[Celestial Colonnade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
+
+
+4
+[Glacial Fortress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
+
+
+4
+[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoneforge%5D+%5BMystic%5D)
+
+
+4
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+
+
+3
+[Ratchet Bomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+
+##### Mythic (16)
+
+
+
+1
+[Misty Rainforest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D)
+
+
+4
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
+
+
+1
+[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D)
+
+
+4
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+
+
+3
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+
+
+2
+[Baneslayer Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaneslayer%5D+%5BAngel%5D)
+
+
+1
+[Sword of Body and Mind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BBody%5D+%5Band%5D+%5BMind%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Shouta Yasooka
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (8)
+
+
+
+4
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+
+
+2
+[Jace Beleren](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
+
+
+2
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+
+
+
+##### Creature (5)
+
+
+
+1
+[Sun Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSun%5D+%5BTitan%5D)
+
+
+4
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+
+
+
+##### Sorcery (8)
+
+
+
+2
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInquisition%5D+%5Bof%5D+%5BKozilek%5D)
+
+
+2
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+2
+[Cancel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
+
+
+2
+[Condemn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
+
+
+1
+[Doom Blade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+1
+[Go for the Throat](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGo%5D+%5Bfor%5D+%5Bthe%5D+%5BThroat%5D)
+
+
+
+##### Artifact (3)
+
+
+
+1
+[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D)
+
+
+2
+[Ratchet Bomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+
+##### Land (26)
+
+
+
+4
+[Darkslick Shores](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkslick%5D+%5BShores%5D)
+
+
+2
+[Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
+
+
+3
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
+
+
+4
+[Glacial Fortress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCreeping%5D+%5BTar%5D+%5BPit%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Celestial Colonnade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
+
+
+4
+[Marsh Flats](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMarsh%5D+%5BFlats%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D)
+
+
+1
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+
+
+1
+[Ratchet Bomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Condemn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
+
+
+1
+[White Sun's Zenith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhite%5D+%5BSun%5D+%5BZenith%5D)
+
+
+3
+[Emeria Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmeria%5D+%5BAngel%5D)
+
+
+2
+[Mindbreak Trap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindbreak%5D+%5BTrap%5D)
+
+
+2
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+
+
+2
+Duress\
+
+
+
+
+##### White (18)
+
+
+
+1
+[Sun Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSun%5D+%5BTitan%5D)
+
+
+4
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+
+
+3
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+
+
+4
+[Condemn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
+
+
+2
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+
+
+1
+[White Sun's Zenith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhite%5D+%5BSun%5D+%5BZenith%5D)
+
+
+3
+[Emeria Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmeria%5D+%5BAngel%5D)
+
+
+
+##### Blue (18)
+
+
+
+4
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+2
+[Cancel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
+
+
+4
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+
+
+2
+[Jace Beleren](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
+
+
+2
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+2
+[Mindbreak Trap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindbreak%5D+%5BTrap%5D)
+
+
+2
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+
+
+
+##### Black (6)
+
+
+
+1
+[Doom Blade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+1
+[Go for the Throat](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGo%5D+%5Bfor%5D+%5Bthe%5D+%5BThroat%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInquisition%5D+%5Bof%5D+%5BKozilek%5D)
+
+
+
+##### Colorless (33)
+
+
+
+4
+[Darkslick Shores](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkslick%5D+%5BShores%5D)
+
+
+2
+[Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
+
+
+3
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
+
+
+4
+[Glacial Fortress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCreeping%5D+%5BTar%5D+%5BPit%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Celestial Colonnade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
+
+
+4
+[Marsh Flats](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMarsh%5D+%5BFlats%5D)
+
+
+2
+[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D)
+
+
+3
+[Ratchet Bomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+Duress\
+
+
+75 Cards 
+
+
+
+##### 1 (10)
+
+
+
+4
+[Condemn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInquisition%5D+%5Bof%5D+%5BKozilek%5D)
+
+
+2
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+
+##### 2 (15)
+
+
+
+4
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+
+
+4
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+3
+[Ratchet Bomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+1
+[Doom Blade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+1
+[Go for the Throat](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGo%5D+%5Bfor%5D+%5Bthe%5D+%5BThroat%5D)
+
+
+2
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+
+
+
+##### 3 (7)
+
+
+
+2
+[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D)
+
+
+2
+[Cancel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
+
+
+2
+[Jace Beleren](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
+
+
+1
+[White Sun's Zenith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhite%5D+%5BSun%5D+%5BZenith%5D)
+
+
+
+##### 4 (12)
+
+
+
+3
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+
+
+4
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+
+
+3
+[Emeria Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmeria%5D+%5BAngel%5D)
+
+
+2
+[Mindbreak Trap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindbreak%5D+%5BTrap%5D)
+
+
+
+##### 5 (2)
+
+
+
+2
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Sun Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSun%5D+%5BTitan%5D)
+
+
+47 Cards 
+
+
+
+##### Common (20)
+
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+
+
+4
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+2
+[Cancel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
+
+
+1
+[Doom Blade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+2
+Duress\
+
+
+
+##### Uncommon (7)
+
+
+
+4
+[Condemn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
+
+
+1
+[Go for the Throat](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGo%5D+%5Bfor%5D+%5Bthe%5D+%5BThroat%5D)
+
+
+2
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+
+
+
+##### Rare (28)
+
+
+
+4
+[Darkslick Shores](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkslick%5D+%5BShores%5D)
+
+
+2
+[Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
+
+
+4
+[Glacial Fortress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCreeping%5D+%5BTar%5D+%5BPit%5D)
+
+
+2
+[Celestial Colonnade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
+
+
+3
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+
+
+3
+[Ratchet Bomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInquisition%5D+%5Bof%5D+%5BKozilek%5D)
+
+
+1
+[White Sun's Zenith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhite%5D+%5BSun%5D+%5BZenith%5D)
+
+
+3
+[Emeria Angel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmeria%5D+%5BAngel%5D)
+
+
+
+##### Mythic (20)
+
+
+
+3
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
+
+
+4
+[Marsh Flats](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMarsh%5D+%5BFlats%5D)
+
+
+1
+[Sun Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSun%5D+%5BTitan%5D)
+
+
+2
+[Sword of Feast and Famine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D)
+
+
+4
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+
+
+2
+[Jace Beleren](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
+
+
+2
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+
+
+2
+[Mindbreak Trap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindbreak%5D+%5BTrap%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Darkslick+Shores)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

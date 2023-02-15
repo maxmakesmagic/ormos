@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20221019055326/https://magic.wizards.com/en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20)
+[Link to Wayback Machine](https://web.archive.org/web/20220921093257/https://magic.wizards.com//en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20)
 
 [_metadata_:author]:- "Mike Turian and Adam Styborski"
 [_metadata_:description]:- "From Box Topper shock lands to a twist on The List and galaxy foils, a vast universe of cards awaits you in Unfinity!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-09-20"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "(Almost) Everything to Know About Unfinity Boosters!"
-[_metadata_:wayback_capture_timestamp]:- "2022-10-19 05:53:26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221019055326id_/https://magic.wizards.com/en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-21 09:32:57"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220921093257id_/https://magic.wizards.com//en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com//en/articles/archive/feature/almost-everything-know-about-unfinity-boosters-2022-09-20"
 ---
 
 
@@ -93,22 +93,22 @@ Beginning with the first *Un-* set release in 1998's *Unglued,* each *Un-* set h
 Since full-art basic lands, such as [the stained-glass versions found in *Dominaria United*](https://magic.wizards.com/en/articles/archive/feature/collecting-dominaria-united-2022-08-18), are a frequent feature of *Magic* sets today, it was back to *Unfinity* to set its sights higher. This time, there are *two* amazing full-art basic land treatments to find!
 
 
-The first is the bread and butter of *Un-* sets with the orbital space-ic basic lands, an outer space take on full-art basic lands. These are beautiful cards that bring the full-art treatment to an interstellar point of view:
+The first is the bread-and-butter of *Un-* sets with the orbital space-ic basic lands, an outer space take on full-art basic lands. These are beautiful cards that bring the full-art treatment to an interstellar point of view:
 
 
-![Orbital space-ic Plains](https://media.wizards.com/2022/unf/en_tszEM9PV35.png)![Orbital space-ic Island](https://media.wizards.com/2022/unf/en_VpHDqYti8b.png)![Orbital space-ic Swamp](https://media.wizards.com/2022/unf/en_k4nukqEqtK.png)
+![Orbital space-ic Plains](https://media.wizards.com/2022/unf/en_8g9d9ZQ1Zv.png)![Orbital space-ic Island](https://media.wizards.com/2022/unf/en_I1Nb8yoS1g.png)![Orbital space-ic Swamp](https://media.wizards.com/2022/unf/en_ejEdicz4qr.png)
 
 
-![Orbital space-ic Mountain](https://media.wizards.com/2022/unf/en_0l2vstRPrO.png)![Orbital space-ic Forest](https://media.wizards.com/2022/unf/en_1p5RA2X3w3.png)
+![Orbital space-ic Mountain](https://media.wizards.com/2022/unf/en_0PdHckeYU4.png)![Orbital space-ic Forest](https://media.wizards.com/2022/unf/en_FbhCtNiRVx.png)
 
 
 The other is an atomic age reimagining with full-art planetary space-ic basic lands. These feature an atomic model-esque mana symbol (note: not an actual atomic model for mana) over a vibrant planetary-scale landscape:
 
 
-![Planetary space-ic Plains](https://media.wizards.com/2022/unf/en_8g9d9ZQ1Zv.png)![Planetary space-ic Island](https://media.wizards.com/2022/unf/en_I1Nb8yoS1g.png)![Planetary space-ic Swamp](https://media.wizards.com/2022/unf/en_ejEdicz4qr.png)
+![Planetary space-ic Plains](https://media.wizards.com/2022/unf/en_tszEM9PV35.png)![Planetary space-ic Island](https://media.wizards.com/2022/unf/en_VpHDqYti8b.png)![Planetary space-ic Swamp](https://media.wizards.com/2022/unf/en_k4nukqEqtK.png)
 
 
-![Planetary space-ic Mountain](https://media.wizards.com/2022/unf/en_0PdHckeYU4.png)![Planetary space-ic Forest](https://media.wizards.com/2022/unf/en_FbhCtNiRVx.png)
+![Planetary space-ic Mountain](https://media.wizards.com/2022/unf/en_0l2vstRPrO.png)![Planetary space-ic Forest](https://media.wizards.com/2022/unf/en_1p5RA2X3w3.png)
 
 
 Both the orbital space-ic and planetary space-ic basic lands can be found in Draft and Collector Boosters, in both foil and non-foil treatments. In fact, *all* basic lands found in *Unfinity* boosters will be one of those two treatments!

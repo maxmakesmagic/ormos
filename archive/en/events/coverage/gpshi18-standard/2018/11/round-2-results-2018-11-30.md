@@ -1,0 +1,795 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220925121933/https://magic.wizards.com/en/events/coverage/gpshi18-standard/round-2-results-2018-11-30)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Table Player Result Opponent 181 Chong, Kew [MY] Won 2-0 vs. Umeyama, Naoki [JP] 182 Ohno, Isao [JP] Lost 1-2 vs. Fujii, Yuuki [JP] 183 Saitou, Masashi [JP] Won 2-1 vs. Akihiro, Kazumasa [JP] 184 Mitachi, Yuki [JP] Won 2-1 vs. Kikuchi, Shou [JP] 185 Takagi, Kenji [JP] Lost 0-2 vs. Nitta, Nobuhiro [JP] 186 Urrutia, Carlos [MX] Lost 0-2 vs. Niwa, Keita [JP] 187 Shinya, Takeshi"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1360866"
+[_metadata_:path_date]:- "2018-11-30"
+[_metadata_:publish_date]:- "2018-11-28"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Round 2 Results"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-25 12:19:33"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220925121933id_/https://magic.wizards.com/en/events/coverage/gpshi18-standard/round-2-results-2018-11-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/events/coverage/gpshi18-standard/round-2-results-2018-11-30"
+---
+
+
+Round 2 Results
+===============
+
+
+
+ Posted in **Event Coverage**
+ on November 28, 2018 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+| **Table** | **Player** |  | **Result** |  | **Opponent** |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 181 | Chong, Kew | [MY] | Won 2-0 | vs. | Umeyama, Naoki | [JP] |
+| 182 | Ohno, Isao | [JP] | Lost 1-2 | vs. | Fujii, Yuuki | [JP] |
+| 183 | Saitou, Masashi | [JP] | Won 2-1 | vs. | Akihiro, Kazumasa | [JP] |
+| 184 | Mitachi, Yuki | [JP] | Won 2-1 | vs. | Kikuchi, Shou | [JP] |
+| 185 | Takagi, Kenji | [JP] | Lost 0-2 | vs. | Nitta, Nobuhiro | [JP] |
+| 186 | Urrutia, Carlos | [MX] | Lost 0-2 | vs. | Niwa, Keita | [JP] |
+| 187 | Shinya, Takeshi | [JP] | Lost 0-2 | vs. | Ichimura, Yuji | [JP] |
+| 188 | Funami, Syun | [JP] | Won 2-0 | vs. | Yoshimura, Akira | [JP] |
+| 189 | Nakajima, Shunichi | [JP] | Lost 1-2 | vs. | Nakanishi, Yutaka | [JP] |
+| 190 | Itakura, Kenichi | [JP] | Won 2-0 | vs. | Kosaka, Ryohei | [JP] |
+| 191 | Takeche, Syohei | [JP] | Lost 0-2 | vs. | Kaneko, Masayuki | [JP] |
+| 192 | Mochizuki, Yuki | [JP] | Won 2-0 | vs. | Ainai, Taku | [JP] |
+| 193 | Mihara, Yuki | [JP] | Won 2-1 | vs. | Matsumoto, Akihiro | [JP] |
+| 194 | Hakozaki, Yuta | [JP] | Lost 1-2 | vs. | Toriuchi, Daizo | [JP] |
+| 195 | Nakatani, Hiroki | [JP] | Won 2-0 | vs. | Seki, Masanosuke | [JP] |
+| 196 | Adati, Naohiko | [JP] | Won 2-0 | vs. | Masuda, Tomohito | [JP] |
+| 197 | Kurashima, Kazuki | [JP] | Won 2-0 | vs. | Nakamura, Kouki 9697 | [JP] |
+| 198 | Matsuzaki, Eiji | [JP] | Won 2-0 | vs. | Yasuda, Masayuki | [JP] |
+| 199 | Dominico, Mikhael | [ID] | Lost 0-2 | vs. | Okada, Tomofumi | [JP] |
+| 200 | Tagawa, Naoki | [JP] | Won 2-0 | vs. | Yamamoto, Yuta | [JP] |
+| 201 | Hiraoka, Shigenori | [JP] | Won 2-0 | vs. | Kim, Ho-Yeon | [KR] |
+| 202 | Hayashi, Masayori | [JP] | Won 2-1 | vs. | Nakamura, Kosuke | [JP] |
+| 203 | Kurokawa, Ryushi | [JP] | Won 2-0 | vs. | Ito, Sho | [JP] |
+| 204 | Kobayashi, Jun | [JP] | Lost 1-2 | vs. | Kasuga, Koki | [JP] |
+| 205 | Tanaka, Makoto 1460 | [JP] | Lost 0-2 | vs. | Tak, Myung Hyun | [KR] |
+| 206 | Yoshimoto, Ryuya | [JP] | Won 2-1 | vs. | Furusato, Hiroshi | [JP] |
+| 207 | Kiyota, Syouhei | [JP] | Lost 0-2 | vs. | Uchino, Jun | [JP] |
+| 208 | Ishiguro, Satoshi 6674 | [JP] | Lost 1-2 | vs. | Kim, Jinho | [KR] |
+| 209 | Ootani, Nobuhiro | [JP] | Won 2-0 | vs. | Machida, Kenji | [JP] |
+| 210 | Kutsuna, Yohei | [JP] | Won 2-0 | vs. | Matthew, Larcombe | [AU] |
+| 211 | Wakita, Tomoyuki | [JP] | Won 2-0 | vs. | Nomura, Hiroshi | [JP] |
+| 212 | Kitagawa, Hiroaki | [JP] | Lost 0-2 | vs. | Ehara, Kouta | [JP] |
+| 213 | Miyagishi, Kohei | [JP] | Won 2-0 | vs. | Oikawa, Hiroaki | [JP] |
+| 214 | Ogata, Kai | [JP] | Lost 0-2 | vs. | Miller, Alex | [US] |
+| 215 | Takahira, Syunnsuke | [JP] | Lost 0-2 | vs. | Yamane, Naoto | [JP] |
+| 216 | Tuboi, Toshiki | [JP] | Won 2-0 | vs. | Hiroi, Yuta | [JP] |
+| 217 | Bu, Weipei | [CN] | Lost 0-2 | vs. | Kimura, Syunsuke | [JP] |
+| 218 | Suzuki, Issei | [JP] | Won 2-0 | vs. | Matsumura, Takehiko | [JP] |
+| 219 | Guillamon, Hector | [AR] | Won 2-1 | vs. | Sanda, Hiroyuki | [JP] |
+| 220 | Saitou, Shuichi | [JP] | Won 2-1 | vs. | Uchida, Tomoaki | [JP] |
+| 221 | Sugimoto, Shinpei | [JP] | Lost 0-2 | vs. | Shiroma, Hiroshi | [JP] |
+| 222 | Sakadani, Naoki | [JP] | Lost 1-2 | vs. | Koike, Junya | [JP] |
+| 223 | Kawamura, Kazushi | [JP] | Won 2-1 | vs. | Takani, Takashi | [JP] |
+| 224 | Arai, Makoto | [JP] | Lost 0-2 | vs. | Kosaka, Kazune | [JP] |
+| 225 | Nakamoto, Naoki | [JP] | Lost 1-2 | vs. | Ogasawara, Tomoaki | [JP] |
+| 226 | Inoue, Akira | [JP] | Lost 0-2 | vs. | Khoo, Shawn | [MY] |
+| 227 | Fujikawa, Daisuke | [JP] | Won 2-1 | vs. | Kobayashi, Satoru | [JP] |
+| 228 | Tanaka, Mizuki | [JP] | Lost 1-2 | vs. | Kojima, Yukitaka | [JP] |
+| 229 | Nakajima, Takanori | [JP] | Won 2-0 | vs. | Watanabe, Masao | [JP] |
+| 230 | Tamano, Yuuki | [JP] | Lost 0-2 | vs. | Watanabe, Sho | [JP] |
+| 231 | Kawata, Kazuki | [JP] | Won 2-0 | vs. | Katoh, Wataru | [JP] |
+| 232 | Matsushita, Junnya | [JP] | Lost 1-2 | vs. | Mizutani, Yousuke | [JP] |
+| 233 | Oshikawa, Akira | [JP] | Won 2-0 | vs. | Yamamoto, Takahiro | [JP] |
+| 234 | Taniguchi, Yuusuke | [JP] | Won 2-1 | vs. | Asao, Kazuki | [JP] |
+| 235 | Demura, Mitsuhiro | [JP] | Won 2-1 | vs. | Imai, Masakatsu | [JP] |
+| 236 | Adachi, Kazumasa | [JP] | Won 2-0 | vs. | Morita, Yo | [JP] |
+| 237 | Kobachi, Rikiya | [JP] | Won 2-1 | vs. | Aoshima, Satoshi | [JP] |
+| 238 | Tsuchiya, Ryuichi | [JP] | Won 2-0 | vs. | Maruya, Takashi | [JP] |
+| 239 | Hasebe, Shunichi | [JP] | Lost 1-2 | vs. | Usui, Mitsuru | [JP] |
+| 240 | Mizoguchi, Satoru | [JP] | Lost 0-2 | vs. | Oikawa, Takaaki | [JP] |
+| 241 | Ji, Zihao | [CN] | Lost 0-2 | vs. | Suzuki, Gou | [JP] |
+| 242 | Nishimura, Takashi5362 | [JP] | Won 2-1 | vs. | Ohara, Wataru | [JP] |
+| 243 | Kato, Takuya | [JP] | Lost 1-2 | vs. | Matsumoto, Shota | [JP] |
+| 244 | Suezawa, Takumi | [JP] | Lost 1-2 | vs. | Nagano, Keita | [JP] |
+| 245 | Okada, Wataru | [JP] | Won 2-1 | vs. | Yashiro, Takeshi | [JP] |
+| 246 | Terada, Syuuhei | [JP] | Won 2-0 | vs. | Fujita, Toshitake | [JP] |
+| 247 | Shin, Cheol-Min | [KR] | Won 2-1 | vs. | Kidera, Seita | [JP] |
+| 248 | Oooka, Daiji | [JP] | Won 2-0 | vs. | Okajima, Masahiro | [JP] |
+| 249 | Kondo, Shogo | [JP] | Lost 1-2 | vs. | Kobayashi, Chiaki | [JP] |
+| 250 | Hayashi, Kenta | [JP] | Lost 0-2 | vs. | Miyake, Daisuke | [JP] |
+| 251 | Murakami, Ryo | [JP] | Lost 1-2 | vs. | Taira, Kentaro | [JP] |
+| 252 | Shimoyama, Kazuma | [JP] | Won 2-0 | vs. | Ohira, Shinichi | [JP] |
+| 253 | Yamaguchi, Takumi | [JP] | Won 2-0 | vs. | Sugiura, Hiroki | [JP] |
+| 254 | Nagoya, Ryouta | [JP] | Lost 1-2 | vs. | Kawai, Yoshihiro | [JP] |
+| 255 | Ueda, Takushi | [JP] | Won 2-1 | vs. | Nishida, Makoto | [JP] |
+| 256 | Iwama, Gaku | [JP] | Lost 0-2 | vs. | Baba, Yukihiro | [JP] |
+| 257 | Kuno, Takashi | [JP] | Won 2-0 | vs. | Miyoshi, Tomohito | [JP] |
+| 258 | Noguchi, Masahiko | [JP] | Lost 1-2 | vs. | Shirahata, Gen | [JP] |
+| 259 | Qin, Xiaoqi | [CN] | Lost 0-2 | vs. | Arunrattananukul, Paween | [TH] |
+| 260 | Fujiyoshi, Manabu | [JP] | Lost 1-2 | vs. | Carlos, Aaron James | [PH] |
+| 261 | Tabei, Hirotomo | [JP] | Won 2-0 | vs. | Kieu Khanh Linh, Le | [VN] |
+| 262 | Ikeda, Masahito | [JP] | Lost 0-2 | vs. | Abe, Masahide | [JP] |
+| 263 | Samejima, Ippei | [JP] | Won 2-1 | vs. | Nozawa, Yuusuke | [JP] |
+| 264 | Ishimoto, Yuki | [JP] | Lost 0-2 | vs. | Zhou, Zhaoqi | [CN] |
+| 265 | Sugimoto, Renn | [JP] | Lost 1-2 | vs. | Hozuki, Atsushi | [JP] |
+| 266 | Nozaki, Taiki | [JP] | Lost 1-2 | vs. | Matsushita, Takashi | [JP] |
+| 267 | Yamano, Tatsuto | [JP] | Lost 0-2 | vs. | Hayashi, Hisaaki | [JP] |
+| 268 | Yap, Jeffrey | [MY] | Lost 1-2 | vs. | Sakuma, Toshimitsu | [JP] |
+| 269 | Kato, Wataru | [JP] | Won 2-1 | vs. | Hasebe, Sho | [JP] |
+| 270 | Aoki, Yoshitsugu | [JP] | Won 2-1 | vs. | Ookawa, Yuya | [JP] |
+| 271 | Yatori, Naoyuki | [JP] | Lost 1-2 | vs. | Hirano, Mikita | [JP] |
+| 272 | Nakashima, Ryo | [JP] | Won 2-1 | vs. | Saito, Naruto | [JP] |
+| 273 | Fujita, Osamu | [JP] | Lost 0-2 | vs. | Omura, Hajime | [JP] |
+| 274 | Konishi, Akio | [JP] | Won 2-1 | vs. | Yamaguchi, Naohiro | [JP] |
+| 275 | Kodama, Kentaro | [JP] | Lost 0-2 | vs. | Shimazaki, Keita | [JP] |
+| 276 | Ogyu, Yoshiyuki | [JP] | Won 2-0 | vs. | Kitagawa, Tomohiro | [JP] |
+| 277 | Okada, Masakazu | [JP] | Lost 0-2 | vs. | Ozawa, Kensuke | [JP] |
+| 278 | Suganuma, Takayuki | [JP] | Lost 1-2 | vs. | Nuruki, Hiroaki | [JP] |
+| 279 | Gauker, Dylan | [US] | Won 2-1 | vs. | Hiroya, Sekine | [JP] |
+| 280 | Hamada, Junji | [JP] | Lost 0-2 | vs. | Nishi, Eiichi | [JP] |
+| 281 | Kiyono, Shoya | [JP] | Won 2-0 | vs. | Ichisugi, Shingo | [JP] |
+| 282 | Yamamoto, Kento5575 | [JP] | Lost 0-2 | vs. | Tanaka, Yuuichi | [JP] |
+| 283 | Odachi, Takuhei | [JP] | Won 2-0 | vs. | Suzuki, Takahito | [JP] |
+| 284 | Nisikawa, Yuuki | [JP] | Lost 1-2 | vs. | Yoshida, Shunsuke | [JP] |
+| 285 | Simura, Yasuhiko | [JP] | Lost 0-2 | vs. | Leydet, Cedric | [FR] |
+| 286 | Shiraki, Takahiro | [JP] | Won 2-1 | vs. | Takahashi, Tsuyoshi | [JP] |
+| 287 | Noguchi, Takeshi | [JP] | Won 2-1 | vs. | Preechasiripan, Sonthi | [TH] |
+| 288 | Wada, Yuki | [JP] | Won 2-1 | vs. | Tan, Rowena | [PH] |
+| 289 | Yabata, Kenichi | [JP] | Lost 0-2 | vs. | Kamimura, Fumihiro | [JP] |
+| 290 | Matsumoto, Shoji | [JP] | Won 2-0 | vs. | Kobayashi, Ryosuke | [JP] |
+| 291 | Tobari, Masato | [JP] | Won 2-1 | vs. | Murakami, Hikaru | [JP] |
+| 292 | Fujita, Kenshiro | [JP] | Lost 0-2 | vs. | Kobayashi, Hiroya | [JP] |
+| 293 | Yufei, Shen | [CN] | Lost 1-2 | vs. | Wachigai, Hirotaka | [JP] |
+| 294 | Tokairin, Taishi | [JP] | Lost 1-2 | vs. | Asakura, Yoshitomo | [JP] |
+| 295 | Shiohata, Ryosuke | [JP] | Lost 0-2 | vs. | Aota, Hidekazu | [JP] |
+| 296 | Komiya, Yuki | [JP] | Lost 0-2 | vs. | Abe, Yuuta | [JP] |
+| 297 | Nakamura, Ryouta5022 | [JP] | Won 2-0 | vs. | Hasegawa, Shinpei | [JP] |
+| 298 | Takemoto, Shintarou | [JP] | Won 2-0 | vs. | Katou, Shinpei | [JP] |
+| 299 | Hanai, Junya | [JP] | Won 2-0 | vs. | Kanayama, Yuuki | [JP] |
+| 300 | Mazda, Hideyuki | [JP] | Lost 1-2 | vs. | Sugiyama, Yuya | [JP] |
+| 301 | Sui, Xin | [CN] | Won 2-1 | vs. | Yagi, Wataru | [JP] |
+| 302 | Morishita, Yoshihisa | [JP] | Draw 1-1 | vs. | Garcia, Victor | [MX] |
+| 303 | Furuya, Yohei | [JP] | Lost 0-2 | vs. | Nakashima, Atsushi | [JP] |
+| 304 | Kawano, Airi | [JP] | Lost 0-2 | vs. | Sakai, Tatsuya | [JP] |
+| 305 | Umemura, Yuya | [JP] | Won 2-0 | vs. | Sumii, Hiroyuki | [JP] |
+| 306 | Shinhama, Takahiko | [JP] | Lost 0-2 | vs. | Takahashi, Ryo8120 | [JP] |
+| 307 | Nagaoka, Takayuki | [JP] | Won 2-0 | vs. | Tanaka, Fumiya | [JP] |
+| 308 | Hirouchi, Hideaki | [JP] | Lost 1-2 | vs. | Kubota, Muneaki | [JP] |
+| 309 | Inaoka, Yuuta | [JP] | Lost 0-2 | vs. | Kanbe, Kojirou | [JP] |
+| 310 | Mori, Takeshi | [JP] | Won 2-1 | vs. | Furusawa, Tsukasa | [JP] |
+| 311 | Satonaka, Kentarou | [JP] | Lost 1-2 | vs. | Kokubu, Yusuke | [JP] |
+| 312 | Yamada, Masaki | [JP] | Lost 1-2 | vs. | Ootani, Yousuke | [JP] |
+| 313 | Furukawa, Syun6268 | [JP] | Won 2-0 | vs. | Katabira, Shoji | [JP] |
+| 314 | Mori, Hiroyuki | [JP] | Lost 0-2 | vs. | Yamazaki, Yuta | [JP] |
+| 315 | Ootsuka, Tomohito | [JP] | Won 2-1 | vs. | Kimura, Minori | [JP] |
+| 316 | Miyazaki, Kento | [JP] | Lost 1-2 | vs. | Hanano, Tetsuaki | [JP] |
+| 317 | Takano, Yuta | [JP] | Won 2-0 | vs. | Fujikura, Iori | [JP] |
+| 318 | Komiyama, Kenichiro | [JP] | Won 2-0 | vs. | Harumoto, Takashi | [JP] |
+| 319 | Pan, Minxing | [CN] | Won 2-0 | vs. | Hayami, Toshihiro | [JP] |
+| 320 | Igarashi, Ryosuke | [JP] | Lost 1-2 | vs. | Kawagishi, Genki | [JP] |
+| 321 | Saitou, Hirotsugu | [JP] | Lost 1-2 | vs. | Kanayama, Haruki | [JP] |
+| 322 | Kato, Naoya | [JP] | Won 2-0 | vs. | Nisioka, Kei | [JP] |
+| 323 | Sasaki, Kensuke | [JP] | Lost 1-2 | vs. | Okamoto, Keitaro | [JP] |
+| 324 | Nakazawa, Yusuke | [JP] | Won 2-0 | vs. | Yamaguchi, Daisuke | [JP] |
+| 325 | Mizuno, Shiori | [JP] | Lost 0-2 | vs. | Takeda, Harunobu | [JP] |
+| 326 | Winkler, Josef | [AT] | Won 2-0 | vs. | Wada, Yuuya | [JP] |
+| 327 | Kodera, Yasunori | [JP] | Lost 1-2 | vs. | Kagawa, Hajime | [JP] |
+| 328 | Ga Ram, Jung | [KR] | Lost 0-2 | vs. | Takada, Narumasa | [JP] |
+| 329 | Akai, Yusuke | [JP] | Won 2-1 | vs. | Taura, Ryuji | [JP] |
+| 330 | Fujii, Takehiro | [JP] | Won 2-1 | vs. | Kobayashi, Yuuki9574 | [JP] |
+| 331 | Jiang, Yiren | [CN] | Won 2-0 | vs. | Matsushima, Yuuki | [JP] |
+| 332 | Muramatsu, Kunihiro | [JP] | Won 2-0 | vs. | Murahata, Hiroyuki | [JP] |
+| 333 | Iwamoto, Shintaro | [JP] | Lost 0-2 | vs. | Feng, Maichuan | [CN] |
+| 334 | Oshikawa, Taishi | [JP] | Won 2-1 | vs. | Funabiki, Rintaro | [JP] |
+| 335 | Iwayama, Masatomo | [JP] | Lost 0-2 | vs. | Oono, Seita | [JP] |
+| 336 | Takami, Yuta | [JP] | Won 2-1 | vs. | Sakamoto, Kazuma | [JP] |
+| 337 | Suzuki, Kazuhiro | [JP] | Lost 0-2 | vs. | Tan, Richmond | [PH] |
+| 338 | Ino, Keita | [JP] | Won 2-0 | vs. | Ueda, Kazuki | [JP] |
+| 339 | Suzuki, Yasufumi | [JP] | Won 2-1 | vs. | Higashi, Kentaro | [JP] |
+| 340 | Taki, Masaya | [JP] | Draw 1-1 | vs. | Tanaka, Jun'Ichi | [JP] |
+| 341 | Soshi, Yuya | [JP] | Lost 1-2 | vs. | Sezume, Akihiro | [JP] |
+| 342 | Noguchi, Takahiro | [JP] | Lost 1-2 | vs. | Matsuura, Gen | [JP] |
+| 343 | Harada, Masato | [JP] | Lost 1-2 | vs. | Kamada, Yuuki | [JP] |
+| 344 | Sasao, Yusuke | [JP] | Won 2-1 | vs. | Tsuchiya, Kohei | [JP] |
+| 345 | Unnno, Tomohiro | [JP] | Lost 0-2 | vs. | Nishikawa, Suguru | [JP] |
+| 346 | Willems, Sjoerd | [HK] | Won 2-1 | vs. | Ichikawa, Shigeyuki | [JP] |
+| 347 | Ueda, Tadahiko | [JP] | Won 2-1 | vs. | Fujii, Kento | [JP] |
+| 348 | Usui, Haruki | [JP] | Won 2-0 | vs. | Igeta, Hirofumi | [JP] |
+| 349 | Arahori, Kazuaki | [JP] | Lost 0-2 | vs. | Bando, Junichiro | [JP] |
+| 350 | Izumisawa, Ryo | [JP] | Won 2-1 | vs. | Shiina, Daisuke | [JP] |
+| 351 | Motoe, Daizou | [JP] | Lost 0-2 | vs. | Adachi, Yoshikazu | [JP] |
+| 352 | Nakajima, Hiroki | [JP] | Won 2-1 | vs. | Okamura, Takumi | [JP] |
+| 353 | Sekiya, Haruki | [JP] | Won 2-0 | vs. | Kojima, Toshihiro | [JP] |
+| 354 | Kakinokida, Takuhito | [JP] | Lost 0-2 | vs. | Narita, Takashi | [JP] |
+| 355 | Kambe, Kouichi | [JP] | Won 2-1 | vs. | Kase, Koichi | [JP] |
+| 356 | Kawakami, Tomonobu | [JP] | Lost 1-2 | vs. | Hashigaya, Wataru | [JP] |
+| 357 | Mukai, Shinichi | [JP] | Won 2-1 | vs. | Ohira, Takashi | [JP] |
+| 358 | Saito, Shosuke | [JP] | Lost 1-2 | vs. | Kamo, Kyouei | [JP] |
+| 359 | Nagaoka, Yu | [JP] | Lost 1-2 | vs. | Watanabe, Kyohei | [JP] |
+| 360 | Palmroth, Tony | [FI] | Lost 0-2 | vs. | Yagura, Ryota | [JP] |
+| 361 | Tanaka, Kimitaka | [JP] | Won 2-1 | vs. | Nakamura, Satoshi 0186 | [JP] |
+| 362 | Lee, Gyuwon | [KR] | Won 2-0 | vs. | Shibasaki, Jun | [JP] |
+| 363 | Matsumoto, Yuki 1423 | [JP] | Won 2-1 | vs. | Uno, Yuki | [JP] |
+| 364 | Oohashi, Toshiyuki | [JP] | Won 2-0 | vs. | Sasaki, Ken | [JP] |
+| 365 | Ito, Kazuhiro | [JP] | Won 2-1 | vs. | Sumihira, Toru | [JP] |
+| 366 | Hayashi, Takatomo | [JP] | Lost 0-2 | vs. | He, Yue | [CN] |
+| 367 | Ogsawara, Akira | [JP] | Lost 1-2 | vs. | Hinohara, Toyokazu | [JP] |
+| 368 | Kobayashi, Jumpei | [JP] | Lost 0-2 | vs. | Aoki, Masatugu | [JP] |
+| 369 | Takagi, Yui | [JP] | Won 2-1 | vs. | Mori, Yohei | [JP] |
+| 370 | Iimura, Yuta | [JP] | Won 2-0 | vs. | Takagi, Takayuki | [JP] |
+| 371 | Asai, Hiroaki | [JP] | Lost 0-2 | vs. | Inagaki, Yukihiro | [JP] |
+| 372 | Ikeda, Takeshi | [JP] | Won 2-0 | vs. | Sato, Akinori | [JP] |
+| 373 | Yamada, Mitsuhiro | [JP] | Won 2-0 | vs. | Koie, Kenya | [JP] |
+| 374 | Mashimo, Ryuuya | [JP] | Won 2-0 | vs. | Shimada, Katsuhiro | [JP] |
+| 375 | Kitajima, Hiroyasu | [JP] | Lost 1-2 | vs. | Okuno, Ryohei | [JP] |
+| 376 | Sakuma, Takamichi | [JP] | Lost 1-2 | vs. | Natsukawa, Makoto | [CN] |
+| 377 | Yokoi, Takuya | [JP] | Won 2-1 | vs. | Nakanishi, Kota | [JP] |
+| 378 | Wataya, Yosuke | [JP] | Won 2-1 | vs. | Yin, Hongrui | [CN] |
+| 379 | Saito, Ryo | [JP] | Lost 1-2 | vs. | Mikami, Akihiro | [JP] |
+| 380 | Ma, Junjie | [CN] | Won 2-1 | vs. | Miyanokoshi, Yasuyuki | [JP] |
+| 381 | Yanagidate, Ikumi | [JP] | Won 2-1 | vs. | Ueda, Kazuhiro | [JP] |
+| 382 | Furuichi, Takenori | [JP] | Won 2-0 | vs. | Okada, Naoya | [JP] |
+| 383 | Ariga, Takayuki | [JP] | Won 2-0 | vs. | Shirasaka, Satoshi | [JP] |
+| 384 | Kudou, Takunori | [JP] | Lost 0-2 | vs. | Yamagishi, Yuki8956 | [JP] |
+| 385 | Yamamoto, Tetuji | [JP] | Won 2-1 | vs. | Naoi, Shingo | [JP] |
+| 386 | Kurusu, Kazuki | [JP] | Lost 1-2 | vs. | Sakurai, Itu'Sei | [JP] |
+| 387 | Sakai, Riku | [JP] | Won 2-0 | vs. | De Petro, Alexander | [AU] |
+| 388 | Tukui, Tomoki | [JP] | Lost 0-2 | vs. | Takahashi, Satoshi | [JP] |
+| 389 | Iitsuka, Yuuki | [JP] | Won 2-0 | vs. | Taniguchi, Yuki | [JP] |
+| 390 | Fujimoto, Shun | [JP] | Lost 0-2 | vs. | Iseki, Oziro | [JP] |
+| 391 | Ueki, Kota | [JP] | Lost 0-2 | vs. | Hasegawa, Atusi | [JP] |
+| 392 | Huang, Erxuan | [CN] | Draw 1-1 | vs. | Kojima, Kenta | [JP] |
+| 393 | Tanaka, Ritsu | [JP] | Won 2-1 | vs. | Nishi, Hyuma | [JP] |
+| 394 | Okumura, Yuji | [JP] | Won 2-0 | vs. | Miyasaka, Sho | [JP] |
+| 395 | Iwatsuki, Takanori | [JP] | Lost 0-2 | vs. | Matsubara, Shintaro | [JP] |
+| 396 | Horie, Hiroshi | [JP] | Won 2-1 | vs. | Nishiyama, Naoki | [JP] |
+| 397 | Wakizaka, Hironari | [JP] | Won 2-0 | vs. | Yokoyama, Takaya | [JP] |
+| 398 | Kitashima, Mitsuhito | [JP] | Won 2-0 | vs. | Watanabe, Masahiro | [JP] |
+| 399 | Yasuda, Takaaki | [JP] | Won 2-1 | vs. | Kamiyama, Daiki | [JP] |
+| 400 | Miyake, Hideyuki | [JP] | Draw 1-1 | vs. | Narusawa, Fumito | [JP] |
+| 401 | Gudmundsson, Pall | [IS] | Won 2-0 | vs. | Yamazaki, Masaomi | [JP] |
+| 402 | Sugiyama, Kouichi | [JP] | Lost 1-2 | vs. | Sun, Guolong | [CN] |
+| 403 | Moriya, Toshihiko | [JP] | Won 2-0 | vs. | Hanawa, Atsushi | [JP] |
+| 404 | Saito, Eisuke | [JP] | Won 2-0 | vs. | Fujikura, Akinori | [JP] |
+| 405 | Satou, Marin | [JP] | Won 2-0 | vs. | Yamada, Hiroaki | [JP] |
+| 406 | Ojima, Toshiaki | [JP] | Won 2-0 | vs. | Shinohara, Gen | [JP] |
+| 407 | Yokota, Takuma | [JP] | Won 2-0 | vs. | Motoya, Toru | [JP] |
+| 408 | Harada, Yugo | [JP] | Lost 1-2 | vs. | Suganuma, Katuhiro | [JP] |
+| 409 | Tobisawa, Takenori | [JP] | Won 2-1 | vs. | Sugimoto, Junya | [JP] |
+| 410 | Sakata, Naoya | [JP] | Won 2-0 | vs. | Kasagawa, Yosuke | [JP] |
+| 411 | Nakamura, Yusuke9902 | [JP] | Won 2-0 | vs. | Saitou, Takaya | [JP] |
+| 412 | Matuda, Yukio | [JP] | Won 2-1 | vs. | Murooka, Kensuke | [JP] |
+| 413 | Koike, Tomoyuki | [JP] | Won 2-1 | vs. | Hamada, Akira | [JP] |
+| 414 | Lu, Bingqing | [CN] | Lost 1-2 | vs. | Tomiyama, Katsuhiko | [JP] |
+| 415 | Chiba, Takato | [JP] | Won 2-1 | vs. | Schwenk, Ryan | [JP] |
+| 416 | Hasegawa, Shunya | [JP] | Won 2-0 | vs. | Uzawa, Yuichi | [JP] |
+| 417 | Habu, Yoshiaki | [JP] | Won 2-0 | vs. | Tiaw, Wen Zhuo | [KR] |
+| 418 | Yakushi, Hideki | [JP] | Lost 0-2 | vs. | Otuka, Naoki | [JP] |
+| 419 | Chiharu, Katayama | [JP] | Won 2-1 | vs. | Yasufuku, Akihiro | [JP] |
+| 420 | Atsuji, Makoto | [JP] | Lost 0-2 | vs. | Kanbara, Hokuto | [JP] |
+| 421 | Abcouwer, Friso | [NL] | Won 2-1 | vs. | Matsuzaki, Ryuta | [JP] |
+| 422 | Yamada, Junki | [JP] | Won 2-1 | vs. | Furtado, Damien | [CA] |
+| 423 | Bang, Hyunjung | [KR] | Lost 0-2 | vs. | Ito, Masahiro | [JP] |
+| 424 | Kobayashi, Yuuki 0719 | [JP] | Won 2-1 | vs. | Ii, Tatsuya | [JP] |
+| 425 | Aoyama, Mizuki | [JP] | Lost 1-2 | vs. | Suzuki, Kazushige | [JP] |
+| 426 | Noguchi, Naoya | [JP] | Lost 1-2 | vs. | Yasumoto, Naoki | [JP] |
+| 427 | Matsuo, Shuto | [JP] | Won 2-0 | vs. | Suzuki, Shutaro | [JP] |
+| 428 | Kubota, Hirofumi | [JP] | Won 2-0 | vs. | Kurata, Kazuyoshi | [JP] |
+| 429 | Suzuki, Takuya | [JP] | Lost 1-2 | vs. | Kubota, Sin | [JP] |
+| 430 | Takahashi, Takuya | [JP] | Lost 1-2 | vs. | Baba, Takashi | [JP] |
+| 431 | Oku, Yusuke | [JP] | Lost 1-2 | vs. | Yamamoto, Kazuaki | [JP] |
+| 432 | Azuma, Nobuaki | [JP] | Won 2-1 | vs. | Karasawa, Ryuichi | [JP] |
+| 433 | Satou, Wataru | [JP] | Won 2-1 | vs. | Saishu, Hiroaki | [JP] |
+| 434 | Fujii, Mikiya | [JP] | Lost 1-2 | vs. | Yamamoto, Takayuki | [JP] |
+| 435 | Ishikawa, Takuma 0419 | [JP] | Won 2-1 | vs. | Yasugi, Haruaki | [JP] |
+| 436 | Hua, Yu Kun | [CN] | Won 2-0 | vs. | Kuo, Tzy Cheng | [TW] |
+| 437 | Hatakeyama, Dai | [JP] | Lost 1-2 | vs. | Sano, Keisuke | [JP] |
+| 438 | Miyagi, Moto | [JP] | Won 2-1 | vs. | Tamamura, Hideya | [JP] |
+| 439 | Kusakabe, Tomoco | [JP] | Won 2-0 | vs. | Tinen, Kousuke | [JP] |
+| 440 | Ueda, Ryo | [JP] | Won 2-1 | vs. | Tada, Masayu | [JP] |
+| 441 | Suzuki, Yuuhei | [JP] | Won 2-0 | vs. | Kitano, Masaaki | [JP] |
+| 442 | Iwamura, Ryouichi | [JP] | Won 2-0 | vs. | Enomoto, Yasumasa | [JP] |
+| 443 | Koide, Takeo | [JP] | Won 2-1 | vs. | Amada, Michio | [JP] |
+| 444 | Takata, Takumi | [JP] | Lost 1-2 | vs. | Hotta, Shingo | [JP] |
+| 445 | Yanagita, Masashi | [JP] | Lost 1-2 | vs. | Takano, Hayato | [JP] |
+| 446 | Nojima, Daichi | [JP] | Lost 1-2 | vs. | Dorn, Victoria | [US] |
+| 447 | Setyadi, Fajar | [ID] | Won 2-1 | vs. | Tatebe, Takayuki | [JP] |
+| 448 | Comley, Rainy | [AU] | Lost 0-2 | vs. | Sakai, Hajime | [JP] |
+| 449 | Kai, Masatoshi | [JP] | Lost 1-2 | vs. | Watanabe, Ryohei | [JP] |
+| 450 | Takahashi, Kazuya | [JP] | Lost 1-2 | vs. | Igarashi, Takuma | [JP] |
+| 451 | Oonuma, Hiroki | [JP] | Won 2-1 | vs. | Oki, Takashi | [JP] |
+| 452 | Watanabe, Tsukasa | [JP] | Won 2-1 | vs. | Satou, Kenichi | [JP] |
+| 453 | Uesugi, Fumiya | [JP] | Won 2-0 | vs. | Kubo, Yuta1677 | [JP] |
+| 454 | Lanus, Nicolas | [AR] | Won 2-0 | vs. | Iwasawa, Fumiya | [JP] |
+| 455 | Ichikawa, Takahiro | [JP] | Lost 1-2 | vs. | Hamaguchi, Masakuni | [JP] |
+| 456 | Teramoto, Tsubasa | [JP] | Won 2-0 | vs. | Shinagawa, Kazunari | [JP] |
+| 457 | Urano, Shohei | [JP] | Won 2-1 | vs. | Takano, Kantaro | [JP] |
+| 458 | Takeshita, Toru | [JP] | Lost 1-2 | vs. | Andou, Koutarou | [JP] |
+| 459 | Kakinoki, Junichi | [JP] | Won 2-1 | vs. | Nakao, Yusuke | [JP] |
+| 460 | Nishikawa, Ryota | [JP] | Won 2-1 | vs. | Ono, Ikumi | [JP] |
+| 461 | Takayama, Kiichiro | [JP] | Won 2-1 | vs. | Nishimura, Shinji | [JP] |
+| 462 | Nishimoto, Takuya | [JP] | Lost 1-2 | vs. | Babasaki, Taro | [JP] |
+| 463 | Sugaya, Yuta | [JP] | Lost 0-2 | vs. | Yamakita, Yuya | [JP] |
+| 464 | Kawabata, Yuji | [JP] | Won 2-1 | vs. | Kondo, Hirotsugu | [JP] |
+| 465 | Sogo, Eiji | [JP] | Lost 1-2 | vs. | Abe, Ken'Ichi | [JP] |
+| 466 | Onizuka, Hiroshi | [JP] | Lost 1-2 | vs. | Hyodou, Kousuke | [JP] |
+| 467 | Suzuki, Takahiro7453 | [JP] | Won 2-0 | vs. | Shiura, Takefumi | [JP] |
+| 468 | Kasahara, Takuya | [JP] | Won 2-1 | vs. | Nagata, Kouki | [JP] |
+| 469 | Haritani, Ryosuke | [JP] | Won 2-0 | vs. | Yoshikawa, Takuma | [JP] |
+| 470 | Hayashi, Yukari | [JP] | Lost 0-2 | vs. | Matsuyama, Ryousuke | [JP] |
+| 471 | Zimo, Wang5256 | [CN] | Lost 0-2 | vs. | Kazami, Hayato | [JP] |
+| 472 | Kukino, Yudai | [JP] | Lost 1-2 | vs. | Kashima, Akihiro | [JP] |
+| 473 | Kawano, Yasuhiro | [JP] | Lost 0-2 | vs. | Brenden, Ennis | [US] |
+| 474 | Mikami, Yoshirou | [JP] | Won 2-1 | vs. | Naito, Yoshiyuki | [JP] |
+| 475 | Tanaka, Shinichi | [JP] | Won 2-1 | vs. | Kimura, Ryou | [JP] |
+| 476 | Nishiguchi, Yoshinori | [JP] | Draw 1-1 | vs. | Watanabe, Shinichiro | [JP] |
+| 477 | Imai, Seisuke | [JP] | Won 2-1 | vs. | Okada, Jirou | [JP] |
+| 478 | Okada, Kazuhiro | [JP] | Won 2-0 | vs. | Horie, Tooru | [JP] |
+| 479 | Toyota, Hiroki | [JP] | Won 2-1 | vs. | Kyobashi, Naoki | [JP] |
+| 480 | Kitagawa, Yuta | [JP] | Won 2-0 | vs. | Ooisi, Yasuhide | [JP] |
+| 481 | Bae, Sanghoon | [KR] | Lost 1-2 | vs. | Sugiyama, Yuu | [JP] |
+| 482 | Takagi, Takeshi | [JP] | Won 2-0 | vs. | Toyoda, Ryosuke | [JP] |
+| 483 | Jinba, Daisuke | [JP] | Won 2-1 | vs. | Okita, Akito | [JP] |
+| 484 | Kondo, Fumiya | [JP] | Lost 0-2 | vs. | Yoshioka, Kosuke | [JP] |
+| 485 | Tateno, Shun | [JP] | Won 2-1 | vs. | Choi, Minseok | [KR] |
+| 486 | Asahara, Akira | [JP] | Won 2-0 | vs. | Yoshimura, Takashi | [JP] |
+| 487 | Kanazawa, Ryo | [JP] | Lost 1-2 | vs. | Sasabe, Yuusuke | [JP] |
+| 488 | Okada, Takumi | [JP] | Lost 1-2 | vs. | Yamanaka, Takuya | [JP] |
+| 489 | Matsushima, Tsutomu | [JP] | Lost 0-2 | vs. | Hirasawa, Masato | [JP] |
+| 490 | Akita, Naoto | [JP] | Lost 1-2 | vs. | Chu, Huseh Lan | [TW] |
+| 491 | Katayama, Kojiro | [JP] | Won 2-0 | vs. | Yamaguchi, Takahiro | [JP] |
+| 492 | Taninaka, Kouki | [JP] | Won 2-0 | vs. | Naoya, Fujioka | [JP] |
+| 493 | Seki, Hirotaka | [JP] | Won 2-1 | vs. | Katakawa, Souta | [JP] |
+| 494 | Takahara, Sho | [JP] | Won 2-1 | vs. | Kitazawa, Kentarou | [JP] |
+| 495 | Koga, Ryuji | [JP] | Lost 1-2 | vs. | Ichikawa, Hideyuki | [JP] |
+| 496 | Urabe, Hirofumi | [JP] | Lost 1-2 | vs. | Moriya, Erika | [JP] |
+| 497 | Satou, Masayoshi | [JP] | Lost 1-2 | vs. | Araki, Youhei | [JP] |
+| 498 | Shimoyama, Masatoshi | [JP] | Won 2-0 | vs. | Suzuki, Takahisa | [JP] |
+| 499 | Ishikawa, Hayate | [JP] | Won 2-1 | vs. | Tsuge, Kyohei | [JP] |
+| 500 | William, Creech | [JP] | Lost 0-1 | vs. | Asai, Takamichi | [JP] |
+| 501 | Sakurai, Shintarou | [JP] | Won 2-0 | vs. | Uemura, Akira | [JP] |
+| 502 | Yajima, Tatsuaki | [JP] | Won 2-0 | vs. | Kusuzawa, Takuma | [JP] |
+| 503 | Watai, Yohei | [JP] | Lost 1-2 | vs. | Tomita, Hiroki | [JP] |
+| 504 | Kainuma, Tsuyoshi | [JP] | Won 2-0 | vs. | Masunaga, Rindo | [JP] |
+| 505 | Kawamura, Shintaro | [JP] | Lost 1-2 | vs. | Yoshikawa, Hidenobu | [JP] |
+| 506 | Konagai, Ryota | [JP] | Lost 0-2 | vs. | Sato, Yusei | [JP] |
+| 507 | Taguchi, Hiroyasu | [JP] | Won 2-1 | vs. | Hasegawa, Tsuyoshi | [JP] |
+| 508 | Kihara, Syouta | [JP] | Lost 1-2 | vs. | Zhang, Yao | [CN] |
+| 509 | Sakai, Toshinori | [JP] | Lost 0-2 | vs. | Nagami, Takahiro | [JP] |
+| 510 | Kawasaki, Takeshi | [JP] | Lost 1-2 | vs. | Wada, Yuusaku | [JP] |
+| 511 | Nakamura, Yuto | [JP] | Lost 0-2 | vs. | Maruo, Yuuta | [JP] |
+| 512 | Inoue, Yuta | [JP] | Won 2-1 | vs. | Okada, Hajime | [JP] |
+| 513 | Hongo, Masato | [JP] | Lost 0-2 | vs. | Ooneda, Yoshihiro | [JP] |
+| 514 | Ohashi, Kentarou | [JP] | Won 2-0 | vs. | Hashikami, Taisuke | [JP] |
+| 515 | Brown, Joel | [US] | Draw 1-1 | vs. | Terai, Yusuke | [JP] |
+| 516 | Fukuda, Yu | [JP] | Won 2-1 | vs. | Miyamoto, Hidenori | [JP] |
+| 517 | Sakai, Yasumasa | [JP] | Won 2-0 | vs. | Sekikawa, Daichi | [JP] |
+| 518 | Ono, Ippei | [JP] | Won 2-1 | vs. | Liang, Zhiyong | [CN] |
+| 519 | Kawada, Hiroyuki | [JP] | Lost 1-2 | vs. | Barker, Zoe Anne | [AU] |
+| 520 | Kawamata, Daisuke | [JP] | Won 2-0 | vs. | Wang, Shensheng | [CN] |
+| 521 | Ohkuma, Atushi | [JP] | Won 2-1 | vs. | Umi, Hirokazu | [JP] |
+| 522 | Iwata, Ryoji | [JP] | Lost 0-2 | vs. | Hayamizu, Akira | [JP] |
+| 523 | Kotouge, Tatsuya | [JP] | Lost 0-2 | vs. | Doi, Kazuhiro | [JP] |
+| 524 | Martin-Mcewen, Leroy | [AU] | Won 2-0 | vs. | Kaku, Tomohiro | [JP] |
+| 525 | Kamikawa, Takuya | [JP] | Won 2-0 | vs. | Kazami, Tomoya | [JP] |
+| 526 | Watanabe, Koji | [JP] | Lost 0-2 | vs. | Kobayasi, Kazuma | [JP] |
+| 527 | Mochizuki, Kaichi | [JP] | Lost 0-2 | vs. | Yoshimoto, Masanobu | [JP] |
+| 528 | Kuroiwa, Satoshi | [JP] | Lost 0-2 | vs. | Yusuke, Ono | [JP] |
+| 529 | Makino, Tatsuya | [JP] | Won 2-0 | vs. | Shibata, Hirotaka | [JP] |
+| 530 | Takenaka, Takumi | [JP] | Lost 1-2 | vs. | Wada, Toshinori | [JP] |
+| 531 | Nishiyama, Takashi | [JP] | Lost 1-2 | vs. | Xiong, Jian | [CN] |
+| 532 | Okamoto, Yuuya | [JP] | Lost 1-2 | vs. | Matsuoka, Tatsushi | [JP] |
+| 533 | Dungan, Conrad | [SG] | Lost 0-2 | vs. | Kirino, Ryouhei | [JP] |
+| 534 | Yoshiki, Shimazu | [JP] | Won 2-0 | vs. | Itou, Makoto | [JP] |
+| 535 | Kajiwara, Tomoki | [JP] | Lost 1-2 | vs. | Park, Seungkeun | [KR] |
+| 536 | Kurokawa, Yuuki | [JP] | Lost 0-2 | vs. | Ooura, Masaki | [JP] |
+| 537 | Yoshimura, Syuuichi | [JP] | Lost 0-2 | vs. | Kawasaki, Kentaro | [JP] |
+| 538 | Kondou, Masaki | [JP] | Won 2-1 | vs. | Yamamoto, Kohei 0859 | [JP] |
+| 539 | Shibata, Takeshi | [JP] | Lost 1-2 | vs. | Tsuzaki, Akira | [JP] |
+| 540 | Hamada, Yuusai | [JP] | Lost 0-2 | vs. | Arai, Kenichirou | [JP] |
+| 541 | Saito, Shohei | [JP] | Won 2-1 | vs. | Yamamoto, Naoto | [JP] |
+| 542 | Katou, Takeru | [JP] | Won 2-1 | vs. | Yamagishi, Yusuke | [JP] |
+| 543 | Yoshihara, Shinji | [JP] | Lost 1-2 | vs. | Murata, Kazuki | [JP] |
+| 544 | Kato, Jun | [JP] | Lost 1-2 | vs. | Lair, Frederic | [FR] |
+| 545 | Takai, Shunichi | [JP] | Lost 1-2 | vs. | Uemoto, Takahiro | [JP] |
+| 546 | Nanjo, Masashi | [JP] | Won 2-0 | vs. | Ooba, Hideto | [JP] |
+| 547 | Yamaguchi, Koutarou | [JP] | Won 2-0 | vs. | Maruyama, Nobuhiro | [JP] |
+| 548 | Maeda, Ryo | [JP] | Lost 0-2 | vs. | Kimura, Kenta | [JP] |
+| 549 | Ii, Takahiro | [JP] | Won 2-1 | vs. | Oka, Kenji | [JP] |
+| 550 | Taniguchi, Hironobu | [JP] | Won 2-1 | vs. | Matumoto, Yoshitaka | [JP] |
+| 551 | Mori, Yumeto | [JP] | Won 2-1 | vs. | Da, Feng | [CN] |
+| 552 | Kanda, Nobuaki | [JP] | Won 2-1 | vs. | Inoue, Ojiro | [JP] |
+| 553 | Ishizeki, Masaki | [JP] | Lost 0-2 | vs. | Ohnishi, Jyunpei | [JP] |
+| 554 | Iwaki, Ryota | [JP] | Lost 0-2 | vs. | Matsui, Tatsuyoshi | [JP] |
+| 555 | Natsume, Takuya | [JP] | Won 2-1 | vs. | Nakamura, Ryota7507 | [JP] |
+| 556 | Zach, Alvar | [AU] | Won 2-1 | vs. | Aizawa, Takahiro | [JP] |
+| 557 | Sano, Kimiaki | [JP] | Lost 1-2 | vs. | Goto, Kosuke | [JP] |
+| 558 | Kishi, Daisuke | [JP] | Won 2-0 | vs. | Tanaka, Yuki | [JP] |
+| 559 | Makino, Takashi | [JP] | Won 2-1 | vs. | Tamari, Toshiya | [JP] |
+| 560 | Miura, Haku | [JP] | Won 2-1 | vs. | Kamo, Keisuke | [JP] |
+| 561 | Shimizu, Takeo | [JP] | Lost 0-2 | vs. | Tsurifune, Takashi | [JP] |
+| 562 | Kawabata, Hiromasa | [JP] | Won 2-0 | vs. | Tsuda, Kouki | [JP] |
+| 563 | Osio, Masaki | [JP] | Lost 1-2 | vs. | Kim, Eunho | [JP] |
+| 564 | Harada, Daisaku | [JP] | Lost 0-2 | vs. | Miyashiro, Tomoyuki | [JP] |
+| 565 | Kamachi, Naoki | [JP] | Lost 0-2 | vs. | Ookura, Takahiro | [JP] |
+| 566 | Yamada, Takahiro | [JP] | Lost 0-2 | vs. | Saito, Tomoe | [JP] |
+| 567 | Shimura, Takeshi | [JP] | Lost 0-2 | vs. | Chen, Xinrong | [CN] |
+| 568 | Miyajima, Jun'Ichi | [JP] | Lost 1-2 | vs. | Higuchi, Jun | [JP] |
+| 569 | Wada, Yasutaka | [JP] | Won 2-1 | vs. | Yamauchi, Yousuke | [JP] |
+| 570 | Kinoshita, Kazuya | [JP] | Won 2-0 | vs. | Okamoto, Yasutaka | [JP] |
+| 571 | Ota, Seiko | [JP] | Lost 0-2 | vs. | Takimoto, Yusuke | [JP] |
+| 572 | Ashikaga, Masatoshi | [JP] | Lost 1-2 | vs. | Roland, Matheson | [CA] |
+| 573 | Kubota, Katsuma | [JP] | Lost 0-2 | vs. | Kawaguchi, Tetsu | [JP] |
+| 574 | Nakajima, Syuro | [JP] | Lost 1-2 | vs. | Shibata, Akira | [JP] |
+| 575 | Tsumagari, Shuhei | [JP] | Lost 0-2 | vs. | Nakamura, Akiteru | [JP] |
+| 576 | Sasahara, Yuta | [JP] | Lost 1-2 | vs. | Yoshida, Hiroki | [JP] |
+| 577 | Maki, Kazunori | [JP] | Won 2-1 | vs. | Murakami, Kazuya | [JP] |
+| 578 | Takahasi, Yuta5171 | [JP] | Won 2-0 | vs. | Soyama, Tomohiro | [JP] |
+| 579 | Nakayama, Kenichi | [JP] | Won 2-1 | vs. | Yorgason, Jason | [CA] |
+| 580 | Matsubara, Takeyuki | [JP] | Won 2-1 | vs. | Tanaka, Naohiro | [JP] |
+| 581 | Fukuda, Shogo | [JP] | Won 2-1 | vs. | Sugano, Katsuya | [JP] |
+| 582 | Yamaguchi, Yuuichi | [JP] | Lost 0-2 | vs. | Koga, Toshimitsu | [JP] |
+| 583 | Kitahara, Junya | [JP] | Won 2-0 | vs. | Kudo, Koichi | [JP] |
+| 584 | Yamaguchi, Tomohiro | [JP] | Won 2-1 | vs. | Endo, Yasuhiko | [JP] |
+| 585 | Moriwaki, Katsuo | [JP] | Lost 0-2 | vs. | Fujiwara, Kazuma9670 | [JP] |
+| 586 | Nakajima, Masahiro | [JP] | Won 2-1 | vs. | Sakurai, Tomoya | [JP] |
+| 587 | Onikiri, Yuichi | [JP] | Lost 0-2 | vs. | Seki, Kentarou | [JP] |
+| 588 | Sakai, Takashi | [JP] | Won 2-1 | vs. | Ohta, Show | [JP] |
+| 589 | Komada, Shun | [JP] | Lost 0-2 | vs. | Tajima, Ryoga | [JP] |
+| 590 | Shinoda, Takayuki | [JP] | Won 2-1 | vs. | Aki, Kyoichi | [JP] |
+| 591 | Arai, Fuuta | [JP] | Won 2-0 | vs. | Murakami, Yuuki | [JP] |
+| 592 | Chen, Mingjie | [TW] | Lost 1-2 | vs. | Nakamura, Yusuke9351 | [JP] |
+| 593 | Hara, Wataru | [JP] | Lost 0-2 | vs. | Nakane, Takamichi | [JP] |
+| 594 | Hirokawa, Ryouji | [JP] | Won 2-0 | vs. | Tanaka, Kento | [JP] |
+| 595 | Tokunaga, Takayuki | [JP] | Won 2-1 | vs. | Takehana, Atsushi | [JP] |
+| 596 | Ueyama, Hideo | [JP] | Won 2-1 | vs. | Kamishiro, Issey | [JP] |
+| 597 | Chen, Shanchun | [TW] | Won 2-1 | vs. | Nishikawa, Haruyoshi | [JP] |
+| 598 | Fujiya, Takahiro | [JP] | Lost 1-2 | vs. | Oikawa, Hakudo | [JP] |
+| 599 | Masuno, Ryousuke | [JP] | Won 2-1 | vs. | Matsui, Shintaro | [JP] |
+| 600 | Aoki, Ryoya | [JP] | Won 2-0 | vs. | Patriawan, Kurniadi | [ID] |
+| 601 | Tan, Raymond | [MY] | Won 2-0 | vs. | Fukuoka, So | [JP] |
+| 602 | Wang, Weiliang | [CN] | Won 2-0 | vs. | Yoo, Jaejoon | [KR] |
+| 603 | Naito, Yuuki | [JP] | Won 2-0 | vs. | Sugisawa, Tsuyoshi | [JP] |
+| 604 | Murase, Takahiro | [JP] | Lost 1-2 | vs. | Yohara, Tosho | [JP] |
+| 605 | Monna, Takaaki | [JP] | Won 2-0 | vs. | Endo, Susumu | [JP] |
+| 606 | Hagiya, Ginga | [JP] | Lost 1-2 | vs. | Van Den Heuvel, Joey | [NL] |
+| 607 | Kodama, Yuu | [JP] | Won 2-1 | vs. | Uchikawa, Fumitaka | [JP] |
+| 608 | Ooshima, Yuuki | [JP] | Lost 0-2 | vs. | Yasue, Hayato | [JP] |
+| 609 | Tachibana, Kenntarou | [JP] | Won 2-0 | vs. | Masaki, Arata | [JP] |
+| 610 | Kamizono, Naoki | [JP] | Lost 0-2 | vs. | Yamade, Masato | [JP] |
+| 611 | Karatsu, Yoshifumi | [JP] | Won 2-0 | vs. | Miyashita, Shota | [JP] |
+| 612 | Ma, Yan | [CN] | Lost 1-2 | vs. | Oku, Daisaku | [JP] |
+| 613 | Takahashi, Ryo3906 | [JP] | Lost 0-2 | vs. | Takeyama, Maya | [JP] |
+| 614 | Tsuchihashi, Takuya | [JP] | Lost 0-2 | vs. | Komori, Yuuya | [JP] |
+| 615 | Aihara, Shogaku | [JP] | Lost 1-2 | vs. | Murayama, Kyohei | [JP] |
+| 616 | Okada, Keita | [JP] | Lost 1-2 | vs. | Sakae, Shota | [JP] |
+| 617 | Miyata, Yuya | [JP] | Won 2-0 | vs. | Hisano, Mikita | [JP] |
+| 618 | Moriyama, Yuu | [JP] | Lost 1-2 | vs. | Shishibori, Kohei | [JP] |
+| 619 | Komada, Katsuya | [JP] | Won 2-0 | vs. | Umezawa, Naoki | [JP] |
+| 620 | Tsuruta, Yoshiaki | [JP] | Lost 1-2 | vs. | Hiwatashi, Yasuro | [JP] |
+| 621 | Naraya, Takaaki | [JP] | Lost 0-2 | vs. | Ichikawa, Takayoshi | [JP] |
+| 622 | Hieda, Ryu | [JP] | Won 2-0 | vs. | Terai, Tadayuki | [JP] |
+| 623 | Takesue, Chikara | [JP] | Won 2-0 | vs. | Onishi, Akira | [JP] |
+| 624 | Tanano, Takayuki | [JP] | Won 2-1 | vs. | Kamitani, Ryuhei | [JP] |
+| 625 | Iwasaki, Takashi | [JP] | Lost 0-2 | vs. | Hamaguchi, Shoji | [JP] |
+| 626 | Kinoshita, Akira | [JP] | Won 2-0 | vs. | Shibata, Satoru | [JP] |
+| 627 | Niwano, Yuhei | [JP] | Lost 1-2 | vs. | Kamei, Toshio | [JP] |
+| 628 | Numa, Keiji | [JP] | Lost 1-2 | vs. | Sakuma, Yuto | [JP] |
+| 629 | Saijo, Hayato | [JP] | Won 2-0 | vs. | Ooi, Yuichi | [JP] |
+| 630 | Kumura, Kazuya | [JP] | Won 2-0 | vs. | Aizawa, Tamotsu | [JP] |
+| 631 | Kawamoto, Ryouhei | [JP] | Won 2-1 | vs. | Tanaka, Hironori | [JP] |
+| 632 | Nakai, Yoshiharu | [JP] | Lost 1-2 | vs. | Homma, Akira | [JP] |
+| 633 | Suzuki, Syota | [JP] | Won 2-1 | vs. | Furukawa, Hiroki | [JP] |
+| 634 | Togawa, Syuuichi | [JP] | Lost 0-2 | vs. | Watanabe, Takefumi | [JP] |
+| 635 | Nose, Kouji | [JP] | Won 2-1 | vs. | Noji, Koichiro | [JP] |
+| 636 | Maeda, Takuma | [JP] | Won 2-1 | vs. | Miyazono, Takeshi | [JP] |
+| 637 | Asano, Tatsuro | [JP] | Won 2-1 | vs. | Kadowaki, Tatsuya | [JP] |
+| 638 | Hirose, Daichi | [JP] | Won 2-1 | vs. | Osaka, Yusuke | [JP] |
+| 639 | Tanaka, Mami | [JP] | Lost 0-2 | vs. | Nagase, Iori | [JP] |
+| 640 | Nakura, Yuki | [JP] | Draw 1-1 | vs. | Kaji, Kyousuke | [JP] |
+| 641 | Tanaka, Ryuma | [JP] | Won 2-0 | vs. | Tang, Felix | [TW] |
+| 642 | Fukui, Ryota | [JP] | Won 2-0 | vs. | Suzuki, Toru | [JP] |
+| 643 | Im, Hyun-Ho | [KR] | Lost 1-2 | vs. | Hagiwara, Masakatsu | [JP] |
+| 644 | Sato, Naoki2689 | [JP] | Won 2-1 | vs. | Goto, Yuki | [JP] |
+| 645 | Bordenabe, Nicolas | [AR] | Won 2-0 | vs. | Satou, Naota | [JP] |
+| 646 | Kim, Chang-Hoi | [KR] | Won 2-0 | vs. | Onishi, Kouhei | [JP] |
+| 647 | Mayaguchi, Masaru | [JP] | Won 2-1 | vs. | Narumi, Masaru | [JP] |
+| 648 | Wu, Yanfei | [CN] | Lost 0-2 | vs. | Ichikawa, Tomokazu | [JP] |
+| 649 | Ishino, Takuya | [JP] | Won 2-1 | vs. | Minagawa, Sho | [JP] |
+| 650 | Kusakabe, Yuuga | [JP] | Won 2-0 | vs. | Matsuo, Naoya | [JP] |
+| 651 | Fujimoto, Kenta | [JP] | Lost 1-2 | vs. | Yoshihara, Shouta | [JP] |
+| 652 | Ookawa, Yusuke | [JP] | Lost 0-2 | vs. | Ueno, Seiya | [JP] |
+| 653 | Morimoto, Shingo | [JP] | Lost 0-2 | vs. | Kamiya, Takuro | [JP] |
+| 654 | Hashimoto, Osamu | [JP] | Lost 0-2 | vs. | Saida, Yukihiko | [JP] |
+| 655 | Shimizu, Takafumi | [JP] | Lost 1-2 | vs. | Tsutai, Koutarou | [JP] |
+| 656 | Toshida, Shin'Ichi | [JP] | Won 2-1 | vs. | Danjo, Hiroyuki | [JP] |
+| 657 | Kaneko, Satoru | [JP] | Won 2-0 | vs. | Onoyama, Keisuke | [JP] |
+| 658 | Nishimura, Takashi6132 | [JP] | Lost 1-2 | vs. | Uemura, Kazuki | [JP] |
+| 659 | Endo, Akiteru | [JP] | Won 2-1 | vs. | Sakanaka, Yousuke | [JP] |
+| 660 | Haru, Yunosuke | [JP] | Lost 1-2 | vs. | Kashiwa, Tomohiro | [JP] |
+| 661 | Sakaida, Yuuki | [JP] | Won 2-1 | vs. | Murayama, Taiki | [JP] |
+| 662 | Ebihara, Hirotaka | [JP] | Won 2-1 | vs. | Konndou, Hiromi | [JP] |
+| 663 | Kimura, Yuu | [JP] | Won 2-0 | vs. | Tsumurai, Yuito | [JP] |
+| 664 | Gokan, Yuta | [JP] | Lost 0-1 | vs. | Tang, Yu-Hsiang | [TW] |
+| 665 | Ishiguro, Yasunao | [JP] | Lost 1-2 | vs. | Igagami, Hiroyuki | [JP] |
+| 666 | Kawamura, Yusaku | [JP] | Won 2-1 | vs. | Yanagawa, Tomohiro | [JP] |
+| 667 | Ishii, Taiyo | [JP] | Lost 1-2 | vs. | Fukutani, Mitumasa | [JP] |
+| 668 | Suzuki, Yuta | [JP] | Lost 0-2 | vs. | Ikeda, Tomohiko | [JP] |
+| 669 | Ishikawa, Shigeru | [JP] | Lost 0-2 | vs. | Sasagawa, Hitoshi | [JP] |
+| 670 | Sunahara, Yuuki | [JP] | Won 2-0 | vs. | Hasegawa, Tsuneyuki | [JP] |
+| 671 | Robison, Austin | [US] | Lost 1-2 | vs. | Nakahara, Hiroki | [JP] |
+| 672 | Takeda, Teruhisa | [JP] | Lost 0-2 | vs. | Matsushita, Masayoshi | [JP] |
+| 673 | Sato, Shota | [JP] | Lost 0-2 | vs. | Kaga, Noriya | [JP] |
+| 674 | Motoyama, Souichirou | [JP] | Lost 1-2 | vs. | Seki, Keita | [JP] |
+| 675 | Shiraishi, Masaharu | [JP] | Lost 1-2 | vs. | Komatsubara, Fumiya | [JP] |
+| 676 | Mizuno, Nobuyoshi | [JP] | Won 2-1 | vs. | Kato, Yoshiaki | [JP] |
+| 677 | Baba, Fumitaka | [JP] | Lost 0-2 | vs. | Kinoshita, Daichi | [JP] |
+| 678 | Shingo, Tanaka | [JP] | Lost 1-2 | vs. | Kondo, Masahiro | [JP] |
+| 679 | Tobe, Masato | [JP] | Won 2-0 | vs. | Matsushima, Toshikazu | [JP] |
+| 680 | Sekiya, Hiroshi | [JP] | Won 2-1 | vs. | Makishita, Yamato | [JP] |
+| 681 | Kozu, Yu | [JP] | Lost 1-2 | vs. | Tanabe, Masatoshi | [JP] |
+| 682 | Yasu, Ryotaro | [JP] | Won 2-0 | vs. | Sue, Ryoichi | [JP] |
+| 683 | Murakami, Kohei | [JP] | Won 2-1 | vs. | Naono, Shuichi | [JP] |
+| 684 | Colobong, John | [US] | Won 2-0 | vs. | Emori, Shinichi | [JP] |
+| 685 | Tanahashi, Hirofumi | [JP] | Lost 0-2 | vs. | Tsubouchi, Yuichi | [JP] |
+| 686 | Shibata, Takahiro | [JP] | Won 2-0 | vs. | Higichi, Yasuhiro | [JP] |
+| 687 | Yoshizawa, Masaru | [JP] | Lost 1-2 | vs. | Nitta, Yuuki | [JP] |
+| 688 | Hirata, Minoru | [JP] | Won 2-0 | vs. | Takeuchi, Ataru | [JP] |
+| 689 | Kato, Takashi | [JP] | Lost 1-2 | vs. | Horikawa, Takahiro | [JP] |
+| 690 | Koyama, Yu | [JP] | Lost 0-2 | vs. | Akita, Ryosuke | [JP] |
+| 691 | Wang, Chaofan | [CN] | Won 2-0 | vs. | Kurosu, Kazuki | [JP] |
+| 692 | Yechen, Yang | [CN] | Won 2-1 | vs. | Takamatsu, Hiroomi | [JP] |
+| 693 | Ueda, Wataru | [JP] | Lost 0-2 | vs. | Mizuno, Akimitsu | [JP] |
+| 694 | Tomiyama, Shin | [JP] | Lost 0-2 | vs. | Nakajima, Shuhei | [JP] |
+| 695 | Ishii, Asuha | [JP] | Lost 1-2 | vs. | Komine, Syunsuke | [JP] |
+| 696 | Okada, Takuya 8592 | [JP] | Won 2-0 | vs. | Uchiyama, Kouichi | [JP] |
+| 697 | Fujiwara, Mizuki | [JP] | Lost 0-2 | vs. | Oda, Ryutaro | [JP] |
+| 698 | Nakajima, Yuusuke | [JP] | Won 2-0 | vs. | Tse, Cloudy | [CN] |
+| 699 | Miura, Junpei | [JP] | Won 2-1 | vs. | Esuga, Yuuki | [JP] |
+| 700 | Arakaki, Gen | [JP] | Lost 1-2 | vs. | Takekiyo, Koji | [JP] |
+| 701 | Mori, Yuki | [JP] | Won 2-1 | vs. | Ehara, Daisuke | [JP] |
+| 702 | Masuda, Rintarou | [JP] | Lost 0-2 | vs. | Furukawa, Jun | [JP] |
+| 703 | Imaoka, Shouichi | [JP] | Won 2-1 | vs. | Tsuchida, Yoshitaka | [JP] |
+| 704 | Katayama, Yuuya | [JP] | Draw 1-1 | vs. | Ogawa, Masaru | [JP] |
+| 705 | Sano, Masayo | [JP] | Lost 1-2 | vs. | Tamura, Hajime | [JP] |
+| 706 | Nakano, Kouki | [JP] | Lost 0-2 | vs. | Iwabuchi, Daisuke | [JP] |
+| 707 | Shoji, Masato | [JP] | Lost 1-2 | vs. | Tanaka, Masataka | [JP] |
+| 708 | Watanabe, Shingo | [JP] | Won 2-1 | vs. | Yamamoto, Syohei | [JP] |
+| 709 | Poon, Edwin | [SG] | Won 2-0 | vs. | Hirata, Kosuke | [JP] |
+| 710 | Kimonji, Hiroki | [JP] | Won 2-0 | vs. | Uehara, Masayuki | [JP] |
+| 711 | Horikoshi, Takayuki | [JP] | Won 2-0 | vs. | Tanabe, Kazuya | [JP] |
+| 712 | Watanabe, Daisuke | [JP] | Draw 1-1 | vs. | Ito, Takuya | [JP] |
+| 713 | Fukazawa, Yuuki | [JP] | Won 2-1 | vs. | Miwa, Ryou | [JP] |
+| 714 | Inagaki, Tomoki | [JP] | Won 2-1 | vs. | Ohama, Akeru | [JP] |
+| 715 | Urano, Shota | [JP] | Won 2-1 | vs. | Jinno, Kohei | [JP] |
+| 716 | Yamamoto, Shintaro | [JP] | Lost 1-2 | vs. | Asakawa, Tomokazu | [JP] |
+| 717 | Wada, Kazumasa | [JP] | Won 2-0 | vs. | Kimura, Daichi | [JP] |
+| 718 | Ueki, Junichi | [JP] | Lost 1-2 | vs. | Suzuki, Yusuke | [JP] |
+| 719 | Mori, Kentaro | [JP] | Lost 1-2 | vs. | Takafuji, Masato | [JP] |
+| 720 | Kanda, Shigeru | [JP] | Lost 0-2 | vs. | Ishida, Yuhi | [JP] |
+| 721 | Seo, Hiroki | [JP] | Lost 0-2 | vs. | Ishikawa, Fumiaki | [JP] |
+| 722 | Morishima, Tohru | [JP] | Won 2-0 | vs. | Imamura, Daisuke | [JP] |
+| 723 | Yamazaki, Yuusuke | [JP] | Lost 0-2 | vs. | Takashima, Daisuke | [JP] |
+| 724 | Kihara, Yasuyuki | [JP] | Lost 0-2 | vs. | Kurokawa, Kazuaki | [JP] |
+| 725 | Satou, Yoshinobu | [JP] | Won 2-0 | vs. | Takase, Yusuke | [JP] |
+| 726 | Saito, Shinnosuke | [JP] | Won 2-1 | vs. | Lee, Tai Wei | [TW] |
+| 727 | Shirai, Shota0605 | [JP] | Lost 1-2 | vs. | Kusakabe, Yu | [JP] |
+| 728 | Hida, Yoshinori | [JP] | Won 2-1 | vs. | Yamamoto, Ryousuke | [JP] |
+| 729 | Takahashi, Koji | [JP] | Won 2-1 | vs. | Oshima, Keisuke | [JP] |
+| 730 | Kisita, Kengo | [JP] | Lost 0-2 | vs. | Suzuki, Yuga | [JP] |
+| 731 | Imai, Chisato | [JP] | Won 2-0 | vs. | Tamura, Yuto | [JP] |
+| 732 | Yokomae, Takuma | [JP] | Won 2-0 | vs. | Yabe, Tomoyoshi | [JP] |
+| 733 | Ootake, Takeshi | [JP] | Won 2-1 | vs. | Nakamura, Naohiko | [JP] |
+| 734 | Machida, Takahiro | [JP] | Lost 0-2 | vs. | Okuhara, Azumi | [JP] |
+| 735 | Mathew, Cousineau | [CA] | Won 2-1 | vs. | Miyazaki, Hikaru | [JP] |
+| 736 | Seki, Takashi | [JP] | Lost 0-2 | vs. | Kimura, Shoji | [JP] |
+| 737 | Fukazawa, Tooru | [JP] | Lost 0-2 | vs. | Tamai, Yuno | [JP] |
+| 738 | Nobuta, Kazuhito | [JP] | Lost 0-2 | vs. | Jinnai, Ryosuke | [JP] |
+| 739 | Sonohara, Takashi | [JP] | Won 2-1 | vs. | Kobayashi, Shuhei | [JP] |
+| 740 | Murayama, Terukazu | [JP] | Won 2-1 | vs. | Kurata, Kazuhiro | [JP] |
+| 741 | Hagihara, Shota | [JP] | Won 2-0 | vs. | Wakamatsu, Shutaroh | [JP] |
+| 742 | Yufu, Seizi | [JP] | Won 2-1 | vs. | Saito, Yohei | [JP] |
+| 743 | Shibue, Takahiro | [JP] | Lost 1-2 | vs. | Tanizaki, Masakazu | [JP] |
+| 744 | Morisawa, Kazuki | [JP] | Lost 1-2 | vs. | Fuka, Sawai | [JP] |
+| 745 | Nonaka, Shunma | [JP] | Lost 1-2 | vs. | Nishina, Akihiko | [JP] |
+| 746 | Sugimura, Yoshiyasu | [JP] | Won 2-0 | vs. | Wako, Takumi | [JP] |
+| 747 | Mimura, Takeshi | [JP] | Won 2-0 | vs. | Tanaka, Takahiro | [JP] |
+| 748 | Tobo, Hayato | [JP] | Lost 1-2 | vs. | Murase, Tatsuya | [JP] |
+| 749 | Shimada, Tubasa | [JP] | Won 2-0 | vs. | Sasaki, Hideya | [JP] |
+| 750 | Yuuki, Ryousuke | [JP] | Won 2-1 | vs. | Tajitsu, Yoshiyuki | [JP] |
+| 751 | Tezuka, Yuu | [JP] | Lost 1-2 | vs. | Kubo, Yuya7609 | [JP] |
+| 752 | Nakao, Mnenari | [JP] | Lost 1-2 | vs. | Ogiwara, Ryoichi | [JP] |
+| 753 | Naganawa, Satoshi | [JP] | Won 2-1 | vs. | Kumazawa, Futa | [JP] |
+| 754 | Wachi, Shinya | [JP] | Lost 1-2 | vs. | Inukai, Yuta | [JP] |
+| 755 | Makoto, Mituduka | [JP] | Lost 0-2 | vs. | Sizuku, Tomoya | [JP] |
+| 756 | Oikawa, Masafumi | [JP] | Lost 0-2 | vs. | Nakamura, Yu | [JP] |
+| 757 | Abe, Ryoji | [JP] | Won 2-1 | vs. | Takashima, Ryuuichi | [JP] |
+| 758 | Udagawa, Masaru | [JP] | Lost 0-2 | vs. | Okumura, Noriaki | [JP] |
+| 759 | Tanabe, Koichiro | [JP] | Won 2-1 | vs. | Kozaki, Masahiro | [JP] |
+| 760 | Sato, Motohiko | [JP] | Lost 1-2 | vs. | Hangyo, Tatsuya | [JP] |
+| 761 | Onuki, Bit | [JP] | Lost 1-2 | vs. | Mori, Arashi | [JP] |
+| 762 | Han, Xi | [CN] | Won 2-0 | vs. | Tomita, Mitsuhiro | [JP] |
+| 763 | Yamaguchi, Katsuhiro | [JP] | Lost 1-2 | vs. | Kuroyanagi, Hirohito | [JP] |
+| 764 | Totsuka, Yuta | [JP] | Lost 0-2 | vs. | Matsuya, Takahiro | [JP] |
+| 765 | Hamasaki, Kazuhisa | [JP] | Won 2-1 | vs. | Sonoda, Kenichi | [JP] |
+| 766 | Shibata, Yuya | [JP] | Lost 1-2 | vs. | Muraki, Yuta | [JP] |
+| 767 | Kashima, Yuuki | [JP] | Lost 0-2 | vs. | Shiba, Yoshimasa | [JP] |
+| 768 | Yanagawa, Tomoyuki | [JP] | Won 2-0 | vs. | Inagawa, Katsuya | [JP] |
+| 769 | Hasegawa, Shinsuke | [JP] | Lost 0-2 | vs. | Ichihara, Yuya | [JP] |
+| 770 | Yamada, Yoshiaki | [JP] | Lost 0-2 | vs. | Kaihara, Shunsuke | [JP] |
+| 771 | Planter Fernandez, Carlos | [MX] | Lost 1-2 | vs. | Aoki, Yusuke | [JP] |
+| 772 | Hishida, Tomoya | [JP] | Lost 1-2 | vs. | Nishimura, Koichi | [JP] |
+| 773 | Noguchi, Tsubasa | [JP] | Won 2-1 | vs. | Suda, Masahiro | [JP] |
+| 774 | Iwata, Masayuki | [JP] | Lost 0-2 | vs. | Junmin, Gao | [CN] |
+| 775 | Kochi, Daiki | [JP] | Lost 0-2 | vs. | Jong-yi, Ho | [TW] |
+| 776 | Jinno, Kaname | [JP] | Lost 0-2 | vs. | Saiga, Noriaki | [JP] |
+| 777 | Koyama, Koya | [JP] | Won 2-0 | vs. | Yamamori, Yuki | [JP] |
+| 778 | Mita, Hiroki | [JP] | Won 2-1 | vs. | Tsuchiya, Yoshihiro | [JP] |
+| 779 | Ueda, Yugo | [JP] | Lost 0-2 | vs. | Mito, Kazuki | [JP] |
+| 780 | Kimura, Tatsuhiro | [JP] | Won 2-0 | vs. | Ito, Hiroaki | [JP] |
+| 781 | Furukawa, Takehito | [JP] | Lost 1-2 | vs. | Tsuchiya, Mihoko | [JP] |
+| 782 | Otsubo, Yuma | [JP] | Lost 1-2 | vs. | Chou, Takayuki | [JP] |
+| 783 | Ikeda, Toshihisa | [JP] | Won 2-1 | vs. | Kouhei, Takahashi | [JP] |
+| 784 | Tedori, Kota | [JP] | Won 2-0 | vs. | Usami, Koji | [JP] |
+| 785 | Tan, Xiangsheng | [CN] | Lost 1-2 | vs. | Nakajima, Masato | [JP] |
+| 786 | Takishima, Hitoshi | [JP] | Lost 1-2 | vs. | Teramoto, Junnosuke | [JP] |
+| 787 | Sugiyama, Hiroki | [JP] | Won 2-0 | vs. | Kasuga, Ryou | [JP] |
+| 788 | Hieda, Yosuke | [JP] | Draw 1-1 | vs. | Lee, Tom | [TW] |
+| 789 | Mizuno, Masahito | [JP] | Lost 1-2 | vs. | Kubota, Koki | [JP] |
+| 790 | Tachibana, Korechika | [JP] | Won 2-1 | vs. | Fujiwara, Ryuki | [JP] |
+| 791 | Hoshi, Masaru | [JP] | Draw 1-1 | vs. | Numaguchi, Yumeto | [JP] |
+| 792 | Katakai, Masaki | [JP] | Lost 1-2 | vs. | Goto, Katsuhiro | [JP] |
+| 793 | Sakuragi, Kenta | [JP] | Lost 0-2 | vs. | Ozawa, Yoshimasa | [JP] |
+| 794 | Hattori, Kazuki | [JP] | Won 2-1 | vs. | Hara, Katsuaki | [JP] |
+| 795 | Otani, Kodai | [JP] | Won 2-1 | vs. | Yoshihisa, Okuhira | [JP] |
+| 796 | Nishiyama, Kazuki | [JP] | Won 2-1 | vs. | Miyanishi, Makoto | [JP] |
+| 797 | Taniguchi, Hiroki | [JP] | Lost 1-2 | vs. | Fukuyama, Syouta | [JP] |
+| 798 | Hozumi, Yuji | [JP] | Won 2-1 | vs. | Ohkawara, Takahiro | [JP] |
+| 799 | Satou, Kouichirou | [JP] | Lost 0-2 | vs. | Ishino, Katsunori | [JP] |
+| 800 | Ohno, Yohei | [JP] | Lost 1-2 | vs. | Ito, Tomoya | [JP] |
+| 801 | Kohei, Soeda | [JP] | Won 2-1 | vs. | Mizoguchi, Yuya | [JP] |
+| 802 | De, Song | [CN] | Won 2-0 | vs. | Arai, Yuki | [JP] |
+| 803 | Ishihara, Takashi | [JP] | Lost 1-2 | vs. | Nakajima, Ryo | [JP] |
+| 804 | Doi, Yuuta | [JP] | Lost 1-2 | vs. | Ishikawa, Yuki | [JP] |
+| 805 | Fan, Lijie | [CN] | Won 2-0 | vs. | Mizuno, Yuya | [JP] |
+| 806 | Tsujimoto, Hideki | [JP] | Lost 1-2 | vs. | Narushima, Yuusuke | [JP] |
+| 807 | Shiraishi, Shinji | [JP] | Lost 1-2 | vs. | Ejima, Kazuki | [JP] |
+| 808 | Okada, Takuya 2317 | [JP] | Lost 1-2 | vs. | Yoshizawa, Yutaka | [JP] |
+| 809 | Tanaka, Jouji | [JP] | Lost 0-2 | vs. | Horita, Yoshiteru | [JP] |
+| 810 | Suzuki, Masahiro | [JP] | Won 2-1 | vs. | Touma, Takahiro | [JP] |
+| 811 | Kimbara, Shohei | [JP] | Won 2-0 | vs. | Katanazawa, Satoshi | [JP] |
+| 812 | Miyamoto, Shohei | [JP] | Lost 0-2 | vs. | Itou, Motoki | [JP] |
+| 813 | Kuroda, Shun | [JP] | Won 2-0 | vs. | Ogino, Genki | [JP] |
+| 814 | Iida, Ryunosuke | [JP] | Lost 0-2 | vs. | Adachi, Yoshiya | [JP] |
+| 815 | Futada, Takahiro | [JP] | Won 2-1 | vs. | Kahata, Issei | [JP] |
+| 816 | Aida, Yasuki | [JP] | Won 2-0 | vs. | Okuhara, Yuuki | [JP] |
+| 817 | Kimura, Kosuke | [JP] | Won 2-0 | vs. | Shibata, Yohei | [JP] |
+| 818 | Yoshiyuki, Muramatsu | [JP] | Lost 0-2 | vs. | Ando, Masanori | [JP] |
+| 819 | Mikami, Wataru | [JP] | Won 2-0 | vs. | Shishikura, Masahiro | [JP] |
+| 820 | Tsuboyama, Shuta | [JP] | Won 2-0 | vs. | Matsui, Hiroki | [JP] |
+| 821 | Inami, Yuuki | [JP] | Lost 0-2 | vs. | Kurashina, Go | [JP] |
+| 822 | Hiroki, Endoh | [JP] | Won 2-0 | vs. | Watabe, Kouji | [JP] |
+| 823 | Takeuchi, Yosuke9456 | [JP] | Won 2-1 | vs. | Kohki, Ogawa | [JP] |
+| 824 | Tanigaki, Toshiyuki | [JP] | Lost 1-2 | vs. | Igarashi, Masaki | [JP] |
+| 825 | Ito, Kenta | [JP] | Lost 1-2 | vs. | Murata, Hideaki | [JP] |
+| 826 | Shoji, Kenta | [JP] | Won 2-1 | vs. | Tanaka, Takayuki5764 | [JP] |
+| 827 | Yasuda, Kimihiko | [JP] | Lost 0-2 | vs. | Fujita, Kotaro | [JP] |
+| 828 | Kondou, Shin | [JP] | Lost 0-2 | vs. | Toyohara, Eisuke | [JP] |
+| 829 | Takakuma, Minoru | [JP] | Won 2-1 | vs. | Kiuchi, Takahiro | [JP] |
+| 830 | Yosano, Kiyoshi | [JP] | Lost 0-2 | vs. | Yamamoto, Kento8269 | [JP] |
+| 831 | Osuga, Hiroaki | [JP] | Lost 0-2 | vs. | Murata, Hiroaki | [JP] |
+| 832 | Sakuta, Ryosuke | [JP] | Lost 0-2 | vs. | Kimura, Ryosuke | [JP] |
+| 833 | Moriya, Taiki | [JP] | Won 2-0 | vs. | Koizumi, Hiroki | [JP] |
+| 834 | Hata, Hiroyuki | [JP] | Lost 1-2 | vs. | Choumura, Shoui | [JP] |
+| 835 | Taniguchi, Reo | [JP] | Won 2-0 | vs. | Makie, Kouichi | [JP] |
+| 836 | Yamagata, Yutaro | [JP] | Won 2-0 | vs. | Honda, Masaki | [JP] |
+| 837 | Nagami, Yoichi | [JP] | Won 2-0 | vs. | Tsutiya, Yukihiro | [JP] |
+| 838 | Yonaha, Syoryu | [JP] | Lost 1-2 | vs. | Yoshida, Masafumi | [JP] |
+| 839 | Izawa, Kazuki | [JP] | Lost 1-2 | vs. | Koshi, Hiroto | [JP] |
+| 840 | Kokubun, Takeshi | [JP] | Won 2-1 | vs. | Beppu, Yoshihiro | [JP] |
+| 841 | Ichimi, Kenji | [JP] | Won 2-1 | vs. | Ogino, Hiroki | [JP] |
+| 842 | Fukuyama, Kyohei | [JP] | Won 2-0 | vs. | Ishihama, Yuki | [JP] |
+| 843 | Takamiya, Kazuya | [JP] | Lost 0-2 | vs. | Hayashi, Yuuhei | [JP] |
+| 844 | Ohtsu, Minami | [JP] | Lost 0-2 | vs. | Kobari, Ryo | [JP] |
+| 845 | Higashimori, Kazunori | [JP] | Won 2-0 | vs. | Yamazaki, Shigeru | [JP] |
+| 846 | Kozutsumi, Shin | [JP] | Won 2-0 | vs. | Kurihara, Akihiro | [JP] |
+| 847 | Sakurai, Yoshinori | [JP] | Won 2-1 | vs. | Ashikawa, Akihiro | [JP] |
+| 848 | Akimoto, Taiki | [JP] | Won 2-1 | vs. | Akifumi, Matsubara | [JP] |
+| 849 | Urata, Jun | [JP] | Lost 0-2 | vs. | Takino, Shohei | [JP] |
+| 850 | Kawaguchi, Muneyoshi | [JP] | Lost 0-2 | vs. | Sato, Kosuke | [JP] |
+| 851 | Takaki, Kengo | [JP] | Won 2-0 | vs. | Muramoto, Naohiro | [JP] |
+| 852 | Higaki, Takao | [JP] | Won 2-1 | vs. | Brown, Deforrest | [US] |
+| 853 | Masui, Norioki | [JP] | Won 2-0 | vs. | Tanaka, Tomonori | [JP] |
+| 854 | Yokotsuka, Yu | [JP] | Won 2-0 | vs. | Nakazawa, Yuki | [JP] |
+| 855 | Yanagisawa, Makoto | [JP] | Lost 0-2 | vs. | Matsumoto, Naoya | [JP] |
+| 856 | Takahashi, Osamu | [JP] | Lost 0-2 | vs. | Sumikawa, Kyohei | [JP] |
+| 857 | Miura, Daichi | [JP] | Lost 0-2 | vs. | Tatsuya, Sunaga | [JP] |
+| 858 | Nomura, Takashi4969 | [JP] | Won 2-0 | vs. | Ikeda, Kengo | [JP] |
+| 859 | Kimura, Tetsuya | [JP] | Lost 0-2 | vs. | Nishimura, Takuya | [JP] |
+| 860 | Kobayashi, Yuki 9104 | [JP] | Lost 1-2 | vs. | Otuka, Ryutaro | [JP] |
+| 861 | Yokoyama, Takahiro | [JP] | Won 2-1 | vs. | Ideguchi, Yasuhiro | [JP] |
+| 862 | Yamada, Ryusuke | [JP] | Lost 1-2 | vs. | Nagai, Takayuki | [JP] |
+| 863 | Nakamura, Taro | [JP] | Lost 1-2 | vs. | Tsutsumi, Takuya | [JP] |
+| 864 | Yamaha, Yasuhiro | [JP] | Won 2-0 | vs. | Katou, Youdai | [JP] |
+| 865 | Horiike, Shinya | [JP] | Won 2-0 | vs. | Zhang, Xuan | [CN] |
+| 866 | Suzuki, Kenta7482 | [JP] | Lost 0-2 | vs. | Sato, Masaki | [JP] |
+| 867 | Tazawa, Takatoshi | [JP] | Won 2-1 | vs. | Ishikawa, Kenya | [JP] |
+| 868 | Kosuga, Shuhei | [JP] | Lost 1-2 | vs. | Shagla-Mckotch, Alexander | [US] |
+| 869 | Nakamura, Kota | [JP] | Lost 1-2 | vs. | Oota, Sunao | [JP] |
+| 870 | Ota, Kosuke | [JP] | Lost 1-2 | vs. | Matsui, Takamasa | [JP] |
+| 871 | Takemura, Ukyou | [JP] | Lost 1-2 | vs. | Saeki, Tomoya | [JP] |
+| 872 | Yajima, Hiromichi | [JP] | Won 2-0 | vs. | Sato, Koki | [JP] |
+| 873 | Hiraoka, Taku | [JP] | Lost 1-2 | vs. | Kamiya, Kazuhiro | [JP] |
+| 874 | Isomura, Takuya | [JP] | Lost 1-2 | vs. | Matsumura, Hayato | [JP] |
+| 875 | Kageyama, Taiki | [JP] | Lost 0-2 | vs. | Taira, Yasunori | [JP] |
+| 876 | Kubota, Youkou | [JP] | Lost 0-2 | vs. | Takenaka, Tsuyoshi | [JP] |
+| 877 | Yaegasi, Naoki | [JP] | Won 2-0 | vs. | Sakamoto, Satoshi | [JP] |
+| 878 | Fukushi, Kyohei | [JP] | Lost 1-2 | vs. | Seike, Makoto | [JP] |
+| 879 | Ishii, Masashi | [JP] | Lost 0-2 | vs. | Iwatou, Koudai | [JP] |
+| 880 | Zaizen, Kengo | [JP] | Won 2-0 | vs. | Gojo, Toshiya | [JP] |
+| 881 | Takayama, Genki | [JP] | Won 2-1 | vs. | Shirai, Shota5117 | [JP] |
+| 882 | Yin, Yue | [CN] | Draw 1-1 | vs. | Takeda, Shoichiro | [JP] |
+| 883 | Kawa, Hirokazu | [JP] | Won 2-1 | vs. | Kitsu, Syoto | [JP] |
+| 884 | Sueyoshi, Hirokazu | [JP] | Lost 0-2 | vs. | Yamagishi, Yuki7656 | [JP] |
+| 885 | Sato, Takatoshi | [JP] | Won 2-0 | vs. | Sato, Akihiko | [JP] |
+| 886 | Araki, Ryusuke | [JP] | Won 2-0 | vs. | Sawada, Tetsushi | [JP] |
+| 887 | Sato, Kazuhito | [JP] | Lost 1-2 | vs. | Takemoto, Hikaru | [JP] |
+| 888 | Kimura, Takahiro | [JP] | Lost 1-2 | vs. | Sugiura, Masayuki | [JP] |
+| 889 | Morita, Kazuki | [JP] | Won 2-0 | vs. | Yoshimura, Asuka | [JP] |
+| 890 | Hirose, Yutaka | [JP] | Lost 1-2 | vs. | Tamoto, Akihiro | [JP] |
+| 891 | Miyake, Keigo | [JP] | Won 2-1 | vs. | Fujita, Ken'Ichi | [JP] |
+| 892 | Takei, Tomoyuki | [JP] | Won 2-1 | vs. | Abumi, Joe | [JP] |
+| 893 | Nagata, Satoshi | [JP] | Lost 0-2 | vs. | Hirai, Kazuki | [JP] |
+| 894 | Hodumi, Baku | [JP] | Won 2-0 | vs. | Iiri, Takahiro | [JP] |
+| 895 | Komuro, Kazutoshi | [JP] | Won 2-1 | vs. | Ito, Kouei | [JP] |
+| 896 | Nagai, Fukutaro | [JP] | Won 2-1 | vs. | Chang, Hui-Liang | [TW] |
+| 897 | Julio, Maciel | [BR] | Lost 1-2 | vs. | Masumoto, Kazuhiro | [JP] |
+| 898 | Oohasi, Yoshihiro | [JP] | Lost 0-2 | vs. | Yoshida, Kazutaka | [JP] |
+| 899 | Tanabe, Taku | [JP] | Lost 0-2 | vs. | Niikawa, Shouhei | [JP] |
+| 900 | Katou, Masaya | [JP] | Won 2-0 | vs. | Qiu, Qidi | [CN] |
+| 901 | Kushibe, Toshiki | [JP] | Lost 1-2 | vs. | Satou, Yoshikazu | [JP] |
+| 902 | Hayashi, Katsuji | [JP] | Won 2-0 | vs. | Ryo, Kawachi | [JP] |
+| 903 | Kawamura, Rikiya | [JP] | Won 2-1 | vs. | Suzuki, Yousuke | [JP] |
+| 904 | Michibata, Tatsuya | [JP] | Lost 0-2 | vs. | Okamoto, Yoshiaki | [JP] |
+| 905 | Mitsuya, Teppei | [JP] | Won 2-0 | vs. | Ou, Kaito | [JP] |
+| 906 | Saito, Tomohiro | [JP] | Lost 0-2 | vs. | Suzuki, Takaaki | [JP] |
+| 907 | Zhao, Jin | [CN] | Won 2-0 | vs. | Tanaka, Hiroto | [JP] |
+| 908 | Shiotani, Koichi | [JP] | Won 2-1 | vs. | Komatsu, Yuuhei | [JP] |
+| 909 | Kagoi, Yuki | [JP] | Lost 0-2 | vs. | Kakimoto, Yuki | [JP] |
+| 910 | Minotani, Jun | [JP] | Won 2-1 | vs. | Ishikawa, Tomohiko | [JP] |
+| 911 | Inoue, Kohey | [JP] | Lost 1-2 | vs. | Sone, Hirotoshi | [JP] |
+| 912 | Nakamura, Go | [JP] | Won 2-0 | vs. | Nanba, Takashi | [JP] |
+| 913 | Shibazaki, Toma | [JP] | Won 2-1 | vs. | Yoon, Soohan | [JP] |
+| 914 | Kimura, Kazunari | [JP] | Lost 1-2 | vs. | Kato, Hiroki | [JP] |
+| 915 | Sawachi, Shun | [JP] | Won 2-1 | vs. | Haruta, Takatsugu | [JP] |
+| 916 | Tokuyama, Yutaro | [JP] | Won 2-1 | vs. | Ming, Yue | [CN] |
+| 917 | Endo, Takatomo | [JP] | Lost 1-2 | vs. | Sakai, Shigeto | [JP] |
+| 918 | Hazu, Masaki | [JP] | Won 2-1 | vs. | Yokoi, Takahiro | [JP] |
+| 919 | Takeda, Yuki 3088 | [JP] | Lost 1-2 | vs. | Mingyi, Lin | [TW] |
+| 920 | Sato, Ryoya | [JP] | Lost 1-2 | vs. | Furuuchi, Yusuke | [JP] |
+
+
+
+
+
+
+

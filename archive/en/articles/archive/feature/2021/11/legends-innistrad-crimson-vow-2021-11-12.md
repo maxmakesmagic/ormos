@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211113113129/https://magic.wizards.com/en/articles/archive/feature/legends-innistrad-crimson-vow-2021-11-12?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20211112165048/https://magic.wizards.com/en/articles/archive/feature/legends-innistrad-crimson-vow-2021-11-12)
 
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Take an in-depth look at the legendary guest list for Innistrad: Crimson Vow, filled with faces new and old."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-11-12"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Legends of Innistrad: Crimson Vow"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-13 11:31:29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211113113129id_/https://magic.wizards.com/en/articles/archive/feature/legends-innistrad-crimson-vow-2021-11-12?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legends-innistrad-crimson-vow-2021-11-12?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-12 16:50:48"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211112165048id_/https://magic.wizards.com/en/articles/archive/feature/legends-innistrad-crimson-vow-2021-11-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legends-innistrad-crimson-vow-2021-11-12"
 ---
 
 

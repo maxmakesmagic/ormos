@@ -1,0 +1,67 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220629101219/https://magic.wizards.com/en/articles/archive/arcana/wallpaper-week-altar-lost-2012-02-10)
+
+[_metadata_:author]:- "Monty Ashley"
+[_metadata_:description]:- "This week's wallpaper features Daarken's wistful Altar of the Lost, from Dark Ascension. Enjoy.   2560x1600 1920x1080 1280x960 640x960(iPhone) 1024x1024(iPad) 851x315(Facebook Cover) See past Wallpapers of the Week"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "662746"
+[_metadata_:publish_date]:- "2012-02-10"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Wallpaper of the Week: Altar of the Lost"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 10:12:19"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629101219id_/https://magic.wizards.com/en/articles/archive/arcana/wallpaper-week-altar-lost-2012-02-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/arcana/wallpaper-week-altar-lost-2012-02-10"
+---
+
+
+Wallpaper of the Week: Altar of the Lost
+========================================
+
+
+
+ Posted in **Arcana**
+ on February 10, 2012 
+
+
+
+
+
+
+![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+By Monty Ashley
+
+
+
+
+
+
+
+
+
+
+
+This week's wallpaper features Daarken's wistful [Altar of the Lost](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Altar+of+the+Lost), from *[Dark Ascension](http://archive.wizards.com/magic/tcg/products.aspx?x=mtg/tcg/products/darkascension)*. Enjoy.
+
+
+
+|  |  |  |
+| --- | --- | --- |
+| [Altar of the Lost](http://media.wizards.com/images/magic/daily/wallpapers/AltaroftheLost_DKA_1280x960_Wallpaper.jpg) |  | Altar of the Lost |
+
+
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [2560x1600](http://media.wizards.com/images/magic/daily/wallpapers/AltaroftheLost_DKA_2560x1600_Wallpaper.jpg) | [1920x1080](http://media.wizards.com/images/magic/daily/wallpapers/AltaroftheLost_DKA_1920x1080_Wallpaper.jpg) | [1280x960](http://media.wizards.com/images/magic/daily/wallpapers/AltaroftheLost_DKA_1280x960_Wallpaper.jpg) | [640x960(iPhone)](http://media.wizards.com/images/magic/daily/wallpapers/AltaroftheLost_DKA_iPhone_Wallpaper.jpg) | [1024x1024(iPad)](http://media.wizards.com/images/magic/daily/wallpapers/AltaroftheLost_DKA_iPad_Wallpaper.jpg) | [851x315(Facebook Cover)](http://media.wizards.com/images/magic/daily/wallpapers/AltaroftheLost_DKA_Facebook_Wallpaper.jpg) |
+
+  
+  
+[See past Wallpapers of the Week](/en/articles/archive/wallpaper-week-archive-2008-08-23)
+
+
+
+
+
+
+

@@ -1,5 +1,7 @@
 # Articles by Sam Black
 
+* [Quarterfinals: All Business](/archive/en/articles/archive/event-coverage/2009/02/quarterfinals-all-business-2009-02-28.md) - 2009-02-28
+* [Werewolves in Legacy](/archive/en/articles/archive/daily-deck/2013/04/werewolves-legacy-2013-04-17.md) - 2012-01-01
 * [Big Spirits](/archive/en/articles/archive/feature/2012/12/big-spirits-2012-12-31.md) - 2012-12-31
 * [Hallelujah](/archive/en/articles/archive/feature/2013/01/hallelujah-2013-01-01.md) - 2013-01-01
 * [Yuuya Watanabe Sets the Stage](/archive/en/articles/archive/feature/2013/01/yuuya-watanabe-sets-stage-2013-01-02.md) - 2013-01-02
@@ -35,6 +37,7 @@
 * [Modern Ooze](/archive/en/articles/archive/feature/2013/02/modern-ooze-2013-02-27.md) - 2013-02-27
 * [Light'em Up!](/archive/en/articles/archive/feature/2013/02/lightem-2013-02-28.md) - 2013-02-28
 * [Duskmantle Delver](/archive/en/articles/archive/feature/2013/03/duskmantle-delver-2013-03-01.md) - 2013-03-01
+* [Modern Sneak and Show](/archive/en/articles/archive/daily-deck/2013/03/modern-sneak-and-show-2013-03-04.md) - 2013-03-04
 * [Modern Sneak and Show](/archive/en/articles/archive/feature/2013/03/modern-sneak-and-show-2013-03-04.md) - 2013-03-04
 * [Legacy Modern Sneak and Show](/archive/en/articles/archive/feature/2013/03/legacy-modern-sneak-and-show-2013-03-05.md) - 2013-03-05
 * [Checking in on Block Constructed](/archive/en/articles/archive/feature/2013/03/checking-block-constructed-2013-03-06.md) - 2013-03-06
@@ -109,16 +112,24 @@
 * [Evolving Reanimator](/archive/en/articles/archive/feature/2013/06/evolving-reanimator-2013-06-20.md) - 2013-06-20
 * [The Walking Grave](/archive/en/articles/archive/feature/2013/06/walking-grave-2013-06-21.md) - 2013-06-21
 * [Reader Submission: Ink-Treader Nephilim](/archive/en/articles/archive/feature/2013/06/reader-submission-ink-treader-nephilim-2013-06-24.md) - 2013-06-24
+* [Maverick Legacy](/archive/en/articles/archive/daily-deck/2013/06/maverick-legacy-2013-06-25.md) - 2013-06-25
 * [Maverick Legacy](/archive/en/articles/archive/feature/2013/06/maverick-legacy-2013-06-25.md) - 2013-06-25
 * [Sygg, River Guide Commander](/archive/en/articles/archive/feature/2013/06/sygg-river-guide-commander-2013-06-26.md) - 2013-06-26
 * [Ad Nauseam](/archive/en/articles/archive/feature/2013/06/ad-nauseam-2013-06-27.md) - 2013-06-27
 * [Ral Zarek's Stasis](/archive/en/articles/archive/feature/2013/06/ral-zareks-stasis-2013-06-28.md) - 2013-06-28
 * [Cyclops Strike](/archive/en/articles/archive/feature/2013/07/cyclops-strike-2013-07-02.md) - 2013-07-02
+* [Hydravolve](/archive/en/articles/archive/daily-deck/2013/07/hydravolve-2013-07-02.md) - 2013-07-03
 * [Hydravolve](/archive/en/articles/archive/feature/2013/07/hydravolve-2013-07-03.md) - 2013-07-03
 * [Ogre Battledriver](/archive/en/articles/archive/feature/2013/07/ogre-battledriver-2013-07-04.md) - 2013-07-04
+* [Path of Vizkopa](/archive/en/articles/archive/daily-deck/2013/07/path-vizkopa-2013-07-03.md) - 2013-07-05
 * [Path of Vizkopa](/archive/en/articles/archive/feature/2013/07/path-vizkopa-2013-07-05.md) - 2013-07-05
+* [Bant Aggro Flash](/archive/en/articles/archive/daily-deck/2013/12/bant-aggro-flash-2013-12-19.md) - 2013-12-24
 * [Bant Aggro Flash](/archive/en/articles/archive/feature/2013/12/bant-aggro-flash-2013-12-24.md) - 2013-12-24
+* [Evolving Reanimator](/archive/en/articles/archive/daily-deck/2013/12/evolving-reanimator-2013-12-19.md) - 2013-12-26
 * [Evolving Reanimator](/archive/en/articles/archive/feature/2013/12/evolving-reanimator-2013-12-26.md) - 2013-12-26
+* [Path of Vizkopa](/archive/en/articles/archive/daily-deck/2013/12/path-vizkopa-2013-12-19.md) - 2013-12-30
 * [Path of Vizkopa](/archive/en/articles/archive/feature/2013/12/path-vizkopa-2013-12-30.md) - 2013-12-30
+* [Anticipating Varolz in Modern](/archive/en/articles/archive/daily-deck/2013/12/anticipating-varolz-modern-2013-12-19.md) - 2013-12-31
 * [Anticipating Varolz in Modern](/archive/en/articles/archive/feature/2013/12/anticipating-varolz-modern-2013-12-31.md) - 2013-12-31
+* [Maniac Chimes](/archive/en/articles/archive/daily-deck/2013/12/maniac-chimes-2013-12-19.md) - 2014-01-03
 * [Maniac Chimes](/archive/en/articles/archive/feature/2014/01/maniac-chimes-2014-01-03.md) - 2014-01-03

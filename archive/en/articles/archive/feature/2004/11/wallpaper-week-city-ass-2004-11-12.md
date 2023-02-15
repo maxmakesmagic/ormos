@@ -46,13 +46,13 @@ This week's desktop wallpaper is John Avon's **City of Ass** from the upcoming *
 
 
 
-![](https://web.archive.org/web/20150923034353im_/http://archive.wizards.com/global/images/mtgcom_arcana_691_pic1_en.jpg)[1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_CityOfAss_1024x768.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_691_pic1_en.jpg)[1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_CityOfAss_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_CityOfAss_800x600.jpg)
 
 
 
 
-![](https://web.archive.org/web/20150923024902im_/http://archive.wizards.com/global/images/mtgcom_arcana_691_pic3_en.jpg)
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_691_pic3_en.jpg)
 
 ### Bonus Wallpaper!
 
@@ -61,7 +61,7 @@ Lest we forget -- we still owe you all a little [Crucible of Worlds](https://gat
 
 
 
-![](https://web.archive.org/web/20150923032746im_/http://archive.wizards.com/global/images/mtgcom_arcana_691_pic2_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_CrucibleOfWorlds_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_691_pic2_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_CrucibleOfWorlds_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_CrucibleOfWorlds_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_CrucibleOfWorlds_800x600.jpg)
 

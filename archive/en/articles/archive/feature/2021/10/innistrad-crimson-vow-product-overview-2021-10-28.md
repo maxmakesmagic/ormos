@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211029102016/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-product-overview-2021-10-28?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20211028163704/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-product-overview-2021-10-28)
 
 [_metadata_:author]:- "Harless Snyder"
 [_metadata_:description]:- "Get to know all the boosters, bundles, and more you'll find for Innistrad: Crimson Vow."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-10-28"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Innistrad: Crimson Vow Product Overview"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-29 10:20:16"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211029102016id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-product-overview-2021-10-28?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-product-overview-2021-10-28?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 16:37:04"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028163704id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-product-overview-2021-10-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-product-overview-2021-10-28"
 ---
 
 

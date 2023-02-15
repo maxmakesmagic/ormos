@@ -6,6 +6,7 @@
 [_metadata_:description]:- "The latest Magic boxed set takes a new look at a rivalry that's as old as the game itself. Here's how it came to be."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "341276"
+[_metadata_:path_date]:- "2007-11-19"
 [_metadata_:publish_date]:- "2012-01-01"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pointy Ears vs. Pointy Teeth"
@@ -44,7 +45,7 @@ By Devin Low
 Few topics could call me forth from my new lair in Friday's [Latest Developments](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/columnarchive) column, but this week is one of them. It's the debut of a new breed of double theme deck: *Duel Decks: Elves vs. Goblins* (check out the product page [here](http://archive.wizards.com/Magic/TCG/Article.aspx?x=magic/expansion/elvesvsgoblins)). But even though I developed these decks with all-star development intern Noah Weil, I couldn't talk about them only in the development column... because we designed them, too. That's why I'd like to take you through some of the ways we made the Goblin explosives tick and the Elvish arrows tock.
 
 
-[![](https://web.archive.org/web/20210502135716im_/http://archive.wizards.com/global/images/magic_expansion_elvesvsgoblins_expansionLogo_en.jpg)](http://archive.wizards.com/global/images/magic_expansion_ElvesvsGoblins_expansionLogo_en.jpg)
+[![](https://media.wizards.com/legacy/global/images/magic_expansion_elvesvsgoblins_expansionlogo_en.jpg)](http://archive.wizards.com/global/images/magic_expansion_ElvesvsGoblins_expansionLogo_en.jpg)
 
 
 "I have a project for you," director of **Magic** R&D Aaron Forsythe said, and he laid out a simple idea. We were to make a fun holiday gift box themed around an ancient rivalry with a lot of flavor: Elves vs. Goblins. It should have two sixty-card decks and they should be Extended-legal. The company wanted to price the two-deck-package at less than the price of two normal theme decks.
@@ -1284,7 +1285,7 @@ The more Elves you have, the more insane Wellwisher and Timberwatch Elf get. Imp
 Use Wirewood Symbiote to return Elves to your hand to play again and again to generate vast number of tokens.
 
 
-![Elves vs. Goblins Sylvan Messenger](https://web.archive.org/web/20151105202515im_/http://archive.wizards.com/magic/images/mtgcom/fcpics/features/432_SylvanMessenger.jpg)  **Sylvan Messenger**   
+![Elves vs. Goblins Sylvan Messenger](https://media.wizards.com/legacy/magic/images/mtgcom/fcpics/features/432_sylvanmessenger.jpg)  **Sylvan Messenger**   
 
 This one is my favorite. This very tribal Elf showed up in *Apocalypse*, a set which had nothing to do with tribal, in *Invasion* block, a block that had nothing to do with tribal. He's a cool card, with some fun hold-your-breath moments, but it was really hard for he and his Merfolk, Soldier, and Zombie buddies to find homes in decks, since there were so few rewards for playing tribal decks in that period. By combining this *Apocalypse* card with *Onslaught* and *Lorwyn* block buddies, it finally gets a chance to shine. And now it also fetches non-creature Elf cards like Elvish Promenade. Play an Elvish Harbinger first to make sure there's an Elf on top you can scoop up with you Sylvan Messenger for your top four cards.
 
@@ -1334,7 +1335,7 @@ Having tons of manaless "sacrifice a Goblin" outlets means you can often activat
 
 **Skirk Drill Sergeant**   
 
-This guy leads to a lot of fun card flips. With all the "sacrifice a Goblin" costs around, it's easy to trigger this guy right when you have ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif) up. If you flip a free Goblin Warchief or Tar Pitcher, it's awesome. On my third turn, I once ran this into an enemy Gempalm Strider, had no other play that turn, and decided to pay the ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif) when the Drill Sergeant died. Fate shook my hand, and I put a free turn-three Siege-Gang Commander and three little buddies into play from the top of my deck. (I won!)
+This guy leads to a lot of fun card flips. With all the "sacrifice a Goblin" costs around, it's easy to trigger this guy right when you have ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif) up. If you flip a free Goblin Warchief or Tar Pitcher, it's awesome. On my third turn, I once ran this into an enemy Gempalm Strider, had no other play that turn, and decided to pay the ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif) when the Drill Sergeant died. Fate shook my hand, and I put a free turn-three Siege-Gang Commander and three little buddies into play from the top of my deck. (I won!)
 
 
 **Boggart Shenanigans**   
@@ -1373,7 +1374,7 @@ One way we emphasized the duality of the conflict is by putting in a lot of mirr
 
 
 
-![Wirewood_Herald](https://web.archive.org/web/20130708173700im_/http://www.wizards.com/magic/images/cardart/ONS/Wirewood_Herald.jpg)
+![Wirewood_Herald](https://media.wizards.com/legacy/magic/images/cardart/ons/wirewood_herald.jpg)
 
 
 * The Elves have the advantage of long-term growth. Over time, Imperious Perfect, Lys-Alana Huntmaster and Voice of the Woods create a huge board advantage that the Goblins will not be able to overcome.
@@ -1395,7 +1396,7 @@ One way we emphasized the duality of the conflict is by putting in a lot of mirr
 * Goblin Cohort and Mogg Fanatic can really get their beats on. If you can clear away early Elves with burn, these one-drops can stack up a lot of damage in a hurry.
 * Goblin Sledder makes it almost impossible for the Elves to set up favorable blocks early on. Sledder can spend Mogg War Marshal tokens to make Goblin Cohort beat up Elvish Warrior. Goblin Burrows, Ib Halfheart, and Tar Pitcher help you "trade up" your 1/1s for enemy 2/3s a little later.
 * If you get an active Tar Pitcher or Siege-Gang Commander, try to stack up combat damage before sacrificing your Goblins for burn effects. That lets you get double the killpower out of each of your Goblins.
-* ![Ib_halfheart_Goblin_Tactician](https://web.archive.org/web/20190720232538im_/https://www.wizards.com/magic/images/cardart/tsp/Ib_Halfheart_Goblin_Tactician.jpg)\*Between Sledder, Drill Sergeant, Tar Pitcher, Siege-Gang Commander, and Boggart Shenanigans, you can get tons of benefits every time one of your Goblins is about to die. Since Ringleader, Siege-Gang Commander, and Mogg War Marshal all make a lot of extra Goblins very efficiently, you'll have a lot of Goblin deaths from which to benefit.
+* ![Ib_halfheart_Goblin_Tactician](https://media.wizards.com/legacy/magic/images/cardart/tsp/ib_halfheart_goblin_tactician.jpg)\*Between Sledder, Drill Sergeant, Tar Pitcher, Siege-Gang Commander, and Boggart Shenanigans, you can get tons of benefits every time one of your Goblins is about to die. Since Ringleader, Siege-Gang Commander, and Mogg War Marshal all make a lot of extra Goblins very efficiently, you'll have a lot of Goblin deaths from which to benefit.
 * You have a lot of burn, but not infinite. It's very tempting to Tarfire the enemy Stonewood Invoker on turn two so that you can attack with your Goblin Cohort and Raging Goblin. But if you do, and an enemy Wellwisher later survives long enough to activate a couple of times, the Wellwisher will erase all the damage you caused and then some. Sometimes it's right to burn away the random Elf and smash, and sometimes it's better to conserve the kill spells for later. This is your toughest decision.
 * Ib Halfheart, Goblin Tactician can make your tactics a lot easier. When you run out of spells, sac all your mountains to Ib, untap and attack with everybody! You've got to show you're braver than Ib. While he's a Halfheart, you can't afford to be. Don't sac "all but four mountains" in case you draw more spells. Sometimes you've got to go all-in. Likewise, after blockers are declared, sometimes Clickslither needs to eat your whole army and inflict 11 points of trample.
 * It's important to remember that you only need your weenie attackers to do half the work. Eventually the Elves will get too big to beat through. Direct damage to the head can do the rest. Emberwilde Augur and Flamewave Invoker easily transform from "Melee Mode" to "Artillery Mode." You can switch Tarfire, Mudbutton Torchrunner, Tar Pitcher and Siege-Gang Commander from the motto "I hate blockers!" to the slogan "I hate YOUR FACE!"

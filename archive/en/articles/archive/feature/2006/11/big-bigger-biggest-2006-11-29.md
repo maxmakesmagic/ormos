@@ -169,7 +169,7 @@ In addition, each color only received seven cards in *Antiquities* (not counti
 
 ![Polar Kraken](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Polar%20Kraken&options=)
 
-***Ice Age***: If you may have noticed, literally every “largest creature” from Alpha through *Weatherlight* has a drawback. Some are minor (such as Orgg's attacking and blocking restrictions) and some are major (Force of Nature's  ![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif) or take 8 damage upkeep cost). Polar Kraken, though larger thanLeviathan, probably has a less extreme drawback.
+***Ice Age***: If you may have noticed, literally every “largest creature” from Alpha through *Weatherlight* has a drawback. Some are minor (such as Orgg's attacking and blocking restrictions) and some are major (Force of Nature's  ![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif) or take 8 damage upkeep cost). Polar Kraken, though larger thanLeviathan, probably has a less extreme drawback.
 
 
 

@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201125080542/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15?fbclid=IwAR0HcKcZxs744qWPL3Se9_91oXo6AatufzfVvcyA_V8BCvptziLZy56n2eM)
+[Link to Wayback Machine](https://web.archive.org/web/20200307084811/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15)
 
 [_metadata_:author]:- "Kendall Pepple"
 [_metadata_:description]:- "New Challenger Decks are coming April 3. Get a look at what each deck will contain here."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2020-02-15"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Challenger Decks 2020"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-25 08:05:42"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201125080542id_/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15?fbclid=IwAR0HcKcZxs744qWPL3Se9_91oXo6AatufzfVvcyA_V8BCvptziLZy56n2eM"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15?fbclid=IwAR0HcKcZxs744qWPL3Se9_91oXo6AatufzfVvcyA_V8BCvptziLZy56n2eM"
+[_metadata_:wayback_capture_timestamp]:- "2020-03-07 08:48:11"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200307084811id_/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15"
 ---
 
 
@@ -56,10 +56,6 @@ These decks will be available worldwide in English, with Japanese available in J
 Check out the decklists below to see what's in store.
 
 
-***NOTE: Decklists pull the newest printing of each card automatically from [Gatherer](https://gatherer.wizards.com/Pages/Default.aspx), printings which are not in this product. Decklists are not card-for-card product displays but rather interactive lists of the cards you can expect to see in each deck.***
-
-
-
 
 
 
@@ -77,7 +73,6 @@ Check out the decklists below to see what's in store.
 
 ![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -709,7 +704,6 @@ OverviewColorCostRarity
 
 
 
-
 #### Final Adventure
 
 
@@ -722,7 +716,6 @@ OverviewColorCostRarity
 
 ![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -1254,7 +1247,6 @@ OverviewColorCostRarity
 
 
 
-
 #### Cavalcade Charge
 
 
@@ -1267,7 +1259,6 @@ OverviewColorCostRarity
 
 ![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -1693,7 +1684,6 @@ OverviewColorCostRarity
 
 
 
-
 #### Flash of Ferocity
 
 
@@ -1706,7 +1696,6 @@ OverviewColorCostRarity
 
 ![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 

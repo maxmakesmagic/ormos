@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170620212704/http://magic.wizards.com/en/articles/archive/feature/art-appreciation-jeremy-jarvis-2008-07-23)
+[Link to Wayback Machine](https://web.archive.org/web/20201111195442/https://magic.wizards.com/en/articles/archive/feature/art-appreciation-jeremy-jarvis-2008-07-23)
 
 [_metadata_:author]:- "The Mimic"
 [_metadata_:description]:- "Welcome to Mimic Week! All this week on magicthegathering.com, the regular columns will appear as usual… but with a twist. Your eight regular writers, plus at least two guest authors who've written for the site before, are hiding in the ten regular column slots—maybe even their own—under a clever pseudonym: The Mimic! Can you figure out who actually wrote each article? Tune in Monday, July 28 for the answers!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2008-07-23"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Art Appreciation: Jeremy Jarvis"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-20 21:27:04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170620212704id_/http://magic.wizards.com/en/articles/archive/feature/art-appreciation-jeremy-jarvis-2008-07-23"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/art-appreciation-jeremy-jarvis-2008-07-23"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 19:54:42"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111195442id_/https://magic.wizards.com/en/articles/archive/feature/art-appreciation-jeremy-jarvis-2008-07-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/art-appreciation-jeremy-jarvis-2008-07-23"
 ---
 
 
@@ -28,7 +28,7 @@ Art Appreciation: Jeremy Jarvis
 
 
 
-![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By The Mimic
 
 

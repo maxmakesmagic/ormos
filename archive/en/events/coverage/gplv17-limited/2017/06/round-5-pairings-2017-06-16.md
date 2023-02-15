@@ -1,0 +1,1115 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20200527224325/https://magic.wizards.com/en/events/coverage/gplv17-limited/round-5-pairings-2017-06-16)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Table Player     Opponent   1 Nguyen, David [US] vs. Morphis, James [US] 2 Cox, Pat [US] vs. Bass, Christopher [US] 3 Kanegawa, Toshiya [JP] vs. Thor, Christopher"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1160591"
+[_metadata_:path_date]:- "2017-06-16"
+[_metadata_:publish_date]:- "2017-06-17"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "ROUND 5 PAIRINGS"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-27 22:43:25"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200527224325id_/https://magic.wizards.com/en/events/coverage/gplv17-limited/round-5-pairings-2017-06-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/events/coverage/gplv17-limited/round-5-pairings-2017-06-16"
+---
+
+
+ROUND 5 PAIRINGS
+================
+
+
+
+ Posted in **Event Coverage**
+ on June 17, 2017 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+| **Table** | **Player** |  |  | **Opponent** |  |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Nguyen, David | [US] | vs. | Morphis, James | [US] |
+| 2 | Cox, Pat | [US] | vs. | Bass, Christopher | [US] |
+| 3 | Kanegawa, Toshiya | [JP] | vs. | Thor, Christopher | [US] |
+| 4 | Samson, Roger | [US] | vs. | Darrow, Elliot | [US] |
+| 5 | Nguyen, Tuyen | [US] | vs. | Osorio, Abel | [US] |
+| 6 | De Diego, Pedro | [AR] | vs. | Maynard, Pascal | [CA] |
+| 7 | Moynihan, Ryan | [US] | vs. | Yang, Roy | [US] |
+| 8 | Khan, Mustafa | [US] | vs. | Maeder, Philipp | [US] |
+| 9 | Snyder, Michael | [US] | vs. | Cornett, Joshua | [US] |
+| 10 | Harber, Clinton | [US] | vs. | Vincent, Chris | [XE] |
+| 11 | Randall, Jake | [US] | vs. | LeBlanc, Aaron | [US] |
+| 12 | Engle, Woodrow | [US] | vs. | Frischknecht, David | [CH] |
+| 13 | Tenjum, Andrew | [US] | vs. | Lassen, Nicholas | [US] |
+| 14 | Balla, John | [US] | vs. | Mori, Katsuhiro | [US] |
+| 15 | Schousboe, Jason | [US] | vs. | York, Derrick | [US] |
+| 16 | Ambler, Kevin | [US] | vs. | Miller, Michael | [US] |
+| 17 | Yaman, Robert | [US] | vs. | Michel, Gregory | [US] |
+| 18 | Trendall, Tim | [US] | vs. | Griffith, Maitland | [US] |
+| 19 | Cochran, Michael | [US] | vs. | Woo, Travis | [US] |
+| 20 | Lui, Timothy | [US] | vs. | Giffin, Conor | [US] |
+| 21 | Cuneo, Andrew | [US] | vs. | Hack, John | [US] |
+| 22 | Lalague, Marc | [US] | vs. | Skarren, Frank | [US] |
+| 23 | Pearson, Ritch | [US] | vs. | Almeida, Marcela | [US] |
+| 24 | Blue, Vivienne | [US] | vs. | Edwards, Craig | [US] |
+| 25 | Rinella, Geoff | [US] | vs. | Woodward, Jonathan | [US] |
+| 26 | Anderson, Dylan | [US] | vs. | Salas, Spencer | [US] |
+| 27 | Jose, Roberto | [US] | vs. | Wade, Samuel | [US] |
+| 28 | Myrick, Ethan | [US] | vs. | Weitz, Benjamin | [US] |
+| 29 | Hardwick, Richard | [US] | vs. | Wrisley, Robert | [US] |
+| 30 | Small, Matthew | [US] | vs. | Becerra Reyes, Daniel | [US] |
+| 31 | Swarowski, Robert | [US] | vs. | Miknus, Robb | [US] |
+| 32 | Wu, Jia | [US] | vs. | Jones, Anders | [US] |
+| 33 | Baumeister, Corey | [US] | vs. | Batarseh, Sammy | [US] |
+| 34 | Limber, Jerry | [US] | vs. | Ioerger, Roderick | [US] |
+| 35 | Yang, Zizhuang | [US] | vs. | Martinez, Steven | [US] |
+| 36 | Wilkerson, Joseph | [US] | vs. | Buchanan, Jessica | [CA] |
+| 37 | Pardee, Samuel | [US] | vs. | Rothen, Christian | [CH] |
+| 38 | Tobey, Aaron | [US] | vs. | Silva, Austin | [US] |
+| 39 | Lu, Jason | [US] | vs. | Rapp, Michelle | [US] |
+| 40 | Riecks, Matthew | [US] | vs. | Collister, Jason | [US] |
+| 41 | Tabak, Zach | [US] | vs. | Velasquez, Ranfil | [US] |
+| 42 | Woody, Scott | [US] | vs. | Salerno, Paul | [US] |
+| 43 | Shields, True | [US] | vs. | Townsend, Nikolas | [US] |
+| 44 | Buchheit, Jacob | [US] | vs. | Kiefer, Lucas | [US] |
+| 45 | Cart, Aleczander | [US] | vs. | Patino, Andrew | [US] |
+| 46 | Bergeron, Scott | [CA] | vs. | Barry, Thomas | [US] |
+| 47 | Miller, Kyle2954 | [US] | vs. | Colker, Nathan | [US] |
+| 48 | Petre, Evan | [US] | vs. | Fagan, Christian | [US] |
+| 49 | Dunn, Zach | [US] | vs. | Ricci, Joseph | [US] |
+| 50 | Weinreich, Brian | [US] | vs. | Anderson, Craig | [US] |
+| 51 | Aarbane, Jonathon | [US] | vs. | Bogdanov, Dennis | [US] |
+| 52 | Wiedhope, Zachary | [US] | vs. | Radke, Cory | [US] |
+| 53 | Razzaboni, Mark | [US] | vs. | Gonzalez Pena, Alexis Eduardo | [PA] |
+| 54 | Tan, Richard | [US] | vs. | Chen, Daniel | [US] |
+| 55 | Gerschenson, Immanuel | [AT] | vs. | Dhaliwal, Shawn | [US] |
+| 56 | Calabrese, Jared | [US] | vs. | Porter, Martin | [XE] |
+| 57 | Cheng, Long | [US] | vs. | Ramondt, Steven | [US] |
+| 58 | Severa, Matthew | [US] | vs. | Wong, Christopher | [US] |
+| 59 | Wagner, Joseph | [US] | vs. | Smith, Warren | [CA] |
+| 60 | Elera, Diego | [US] | vs. | Erler, Billy | [US] |
+| 61 | Young, Christopher | [US] | vs. | Wright, Christopher | [US] |
+| 62 | Jimenez, Cristian | [US] | vs. | Booth, Jt | [US] |
+| 63 | Baker, Chris | [US] | vs. | Cammilleri, Mike | [US] |
+| 64 | Timmler, Kye | [US] | vs. | White, Logan | [US] |
+| 65 | Zatlkaj, Matej | [SK] | vs. | Satou, Fumihiko | [JP] |
+| 66 | Manansala, Bayani Jr. | [US] | vs. | Nicely, Cody | [US] |
+| 67 | Anderson, Sara | [US] | vs. | Pascoe, Vincent | [US] |
+| 68 | Ganz, Andreas | [CH] | vs. | Bennett, Lee | [US] |
+| 69 | Sigrist, Mike | [US] | vs. | Mound, Josh | [US] |
+| 70 | Wong, Charles | [US] | vs. | Visin, Lukas | [US] |
+| 71 | Chen, Tzu-Mainn | [US] | vs. | Cole, Daniel | [US] |
+| 72 | Hristis, Michael | [US] | vs. | Zhang, Tony | [US] |
+| 73 | Lhomme, Steeve | [BE] | vs. | Guild, Joshua | [US] |
+| 74 | Rosenmann, Thiago | [US] | vs. | Stednitz, David | [US] |
+| 75 | Jones, Josh | [US] | vs. | Goslar, Matthew | [US] |
+| 76 | Truswell, Richard | [US] | vs. | Kabilafkas, Konstantinos | [US] |
+| 77 | He, Bo | [CN] | vs. | Novak, Tyler | [US] |
+| 78 | Sarsfield, Corey | [US] | vs. | Dimitratos, Philip | [US] |
+| 79 | Weis, Brian | [US] | vs. | Wang, Yichen | [CN] |
+| 80 | Martin, Max | [US] | vs. | Castillo, Tomas | [US] |
+| 81 | Dickinson, Jack | [US] | vs. | Hu, Haibing | [US] |
+| 82 | Hopper, Christopher | [US] | vs. | Rubin, Steve | [US] |
+| 83 | Orr, Jonathan | [US] | vs. | Levy, Adam | [US] |
+| 84 | Gartner, Drew | [US] | vs. | Smith Ii, Bradley | [US] |
+| 85 | Cunningham, Tamsyn | [US] | vs. | Almendarez, Justin | [US] |
+| 86 | Polak-Rottmann, Oliver | [AT] | vs. | Hoyt, Andrew | [US] |
+| 87 | Herr, Paul | [US] | vs. | Veneri, Dario | [CH] |
+| 88 | Dever, Chris | [US] | vs. | Nolen, Lauren | [US] |
+| 89 | Mah, Kenji | [US] | vs. | Dobbin, Jack | [US] |
+| 90 | Saudino, Amedee | [US] | vs. | Bundy, Adam | [US] |
+| 91 | Zelick, Aaron | [US] | vs. | Zezula, John | [US] |
+| 92 | Jones, Brandon | [US] | vs. | Fennell, Christopher | [US] |
+| 93 | Soborski, Andrew | [US] | vs. | Balimoglu, Ari | [TR] |
+| 94 | Pentecost, Mark | [US] | vs. | Hosseini, Adrian | [US] |
+| 95 | Hitz, Michael | [CH] | vs. | Severson, Eric | [US] |
+| 96 | Rasmussen, Ron | [US] | vs. | Slayter, William | [US] |
+| 97 | Turner, Michael | [US] | vs. | Yao, Chris | [CA] |
+| 98 | Schroeder, Justin | [US] | vs. | Berrios, Stephen | [US] |
+| 99 | Smith, Justin | [US] | vs. | Pound, David | [US] |
+| 100 | Goles, Nicolas | [US] | vs. | Nelms, Matthew | [US] |
+| 101 | Williams, Justin | [US] | vs. | Saito, Tomoharu | [JP] |
+| 102 | Vuong, Richie | [US] | vs. | Nelson, Evan | [US] |
+| 103 | Lopez, Brian | [US] | vs. | Utter-Leyton, Josh | [US] |
+| 104 | Adderson, Russell | [US] | vs. | Lester, Brian | [US] |
+| 105 | Babaian, Christopher | [US] | vs. | Floch, Ivan | [US] |
+| 106 | Montano, Jonathan | [US] | vs. | Rolph, Sam | [XE] |
+| 107 | Kaltenthaler, Alex | [US] | vs. | Festini, Mark | [US] |
+| 108 | Blythe, David | [US] | vs. | Pernankil, Avenash | [US] |
+| 109 | Kudva, Vikram | [US] | vs. | Chan, Eric | [CA] |
+| 110 | Parker, Brock | [US] | vs. | Carleton-Barnes, Gabriel | [US] |
+| 111 | Cade, Quan | [US] | vs. | Arce, Aaron | [US] |
+| 112 | Cade, Chris | [US] | vs. | Santiago, Edward | [US] |
+| 113 | Zhang, Bolun | [US] | vs. | Conboy, James | [US] |
+| 114 | Deng, Steven | [US] | vs. | Lew, Michael | [US] |
+| 115 | Menzies, Emil | [US] | vs. | Crotts, Jennifer | [CA] |
+| 116 | Simon, Michael | [US] | vs. | Burkhart, Corey | [US] |
+| 117 | Hawkins, Andrew | [US] | vs. | Slosser, Chris | [US] |
+| 118 | Dunn, Richard | [US] | vs. | Rivera, Tim | [US] |
+| 119 | Ni, Jay | [US] | vs. | Kaipainen, Anttu | [FI] |
+| 120 | Nichols, Gary | [US] | vs. | Takeda, Hiroki | [JP] |
+| 121 | Stern, Jon | [CA] | vs. | Botelho, Chris | [US] |
+| 122 | Drake, Alex | [US] | vs. | Southworth, Luke | [XE] |
+| 123 | Ugale, Ashwin | [US] | vs. | Van Cleave, Trey | [US] |
+| 124 | Eubanks, Derek | [US] | vs. | Spano, Gregg | [US] |
+| 125 | Thomason, Timothy | [US] | vs. | Chow, Harold | [US] |
+| 126 | Garcia Rosas, Jose Daniel | [MX] | vs. | Spivey, Curtis | [US] |
+| 127 | Gleason, Kevin | [US] | vs. | Hee, Jason | [US] |
+| 128 | Ezroj, Aaron | [US] | vs. | Ward, Dan | [US] |
+| 129 | Wong, Marcus | [CA] | vs. | Nakamura, Shuhei | [JP] |
+| 130 | Webb, Andrew | [US] | vs. | Hiroi, Genki | [US] |
+| 131 | Ogier, Matthew | [US] | vs. | Chaplin, Adam | [US] |
+| 132 | Yuen, Timothy | [US] | vs. | Brunton, David | [NZ] |
+| 133 | Sajgalik, Eduardo | [CA] | vs. | Rasmussen, Ben | [US] |
+| 134 | Alvarado Picazo, Arturo | [MX] | vs. | Abel, Max | [DE] |
+| 135 | Catterson, Matthew | [US] | vs. | Hutchison, Daniel | [US] |
+| 136 | Hudak, Casey | [US] | vs. | Okin, David | [US] |
+| 137 | Chung, Brian | [US] | vs. | Wynn, Eric | [US] |
+| 138 | Macmillan, Dan | [US] | vs. | Gauker, Dylan | [US] |
+| 139 | Lang, Justin | [US] | vs. | Fulgium, James | [US] |
+| 140 | Fischer, Dana | [US] | vs. | Lu, Robert | [US] |
+| 141 | Gupta, Kanak | [US] | vs. | Enriquez, Elliazar | [US] |
+| 142 | Johnson, Joey | [US] | vs. | Austria, Alfred | [US] |
+| 143 | Gutierrez, Kenneth | [US] | vs. | Steinfeld, Alexander | [US] |
+| 144 | Klopchic, Luke | [US] | vs. | Markeson, Scott | [US] |
+| 145 | Woo, Elliott | [US] | vs. | Tews, Brian | [US] |
+| 146 | Stohlton, Courtney | [US] | vs. | Villaluz, Jonathan | [US] |
+| 147 | Maloney, Kevin | [US] | vs. | Mok, Allen | [US] |
+| 148 | Cocchiarella, Sam | [US] | vs. | Ruesga, Nahun | [US] |
+| 149 | Villalpando, Mark | [US] | vs. | Bernstein, Andrew | [US] |
+| 150 | Wong, Erik | [US] | vs. | Pace, Stanley | [US] |
+| 151 | Chen, Nicholas | [US] | vs. | Tome, Daniel | [US] |
+| 152 | Vega, Francisco | [CL] | vs. | Goveia, Kevin | [US] |
+| 153 | Silver, Jeffrey | [US] | vs. | Gonzales, Benny | [US] |
+| 154 | Andrews, Alexander | [US] | vs. | Kim, Calvin7256 | [US] |
+| 155 | Newman, Tony | [US] | vs. | Castillo, Zaryn | [CA] |
+| 156 | Bach, Austin | [US] | vs. | Altina, Federico | [AR] |
+| 157 | Engler, Wesley | [US] | vs. | Ngai, David | [CA] |
+| 158 | Cyze, David | [US] | vs. | Herg, Cornell | [US] |
+| 159 | Ingram, Jesse | [US] | vs. | Keeffe, Stephen | [CA] |
+| 160 | Orange, Gregory | [US] | vs. | Wallerstein, Robert | [US] |
+| 161 | Said, Bassel | [LB] | vs. | Di Capua, Alessandro | [US] |
+| 162 | Jacques, Zachary | [US] | vs. | Ahmed, Konan | [US] |
+| 163 | Aiken, Simone | [US] | vs. | Lam, Tony | [US] |
+| 164 | Lu, Xiaoshi | [CN] | vs. | Bormet, Aaron | [US] |
+| 165 | Moses, Trevor | [US] | vs. | Chatterley, Jeffrey | [US] |
+| 166 | Rickard, Keenan | [US] | vs. | Johnson, Joshua | [US] |
+| 167 | Hicks, Jackson | [US] | vs. | Shindo, Grant | [US] |
+| 168 | Warden, Justin | [US] | vs. | Jianu, Michael | [US] |
+| 169 | Rudiger, Visla | [US] | vs. | Hollman, David | [US] |
+| 170 | Gilmore, Michael3351 | [US] | vs. | Maddux, Sara | [US] |
+| 171 | Bennett, Stephen | [US] | vs. | Ishikawa, Ethan | [US] |
+| 172 | Lloyd, Tyrus | [US] | vs. | Heath, Joel | [US] |
+| 173 | Huang, Ray | [US] | vs. | Reyburn, Zachary | [US] |
+| 174 | Eggerton, Brad | [US] | vs. | Arroyo, Josue | [US] |
+| 175 | Wilson, Robert | [US] | vs. | Hutton, Lance | [US] |
+| 176 | Johnson, Peter | [US] | vs. | Hahn, William | [US] |
+| 177 | Hernandez, Steven | [US] | vs. | Nemeth, Mark | [US] |
+| 178 | Niday, Lucas | [US] | vs. | Chavez, Shane | [US] |
+| 179 | Eagle, Matthew | [US] | vs. | Rodgers, Jeffrey | [US] |
+| 180 | Chavez, Anthony | [US] | vs. | Hatch, Gregory | [US] |
+| 181 | Kaiser, Taylor | [US] | vs. | Cabello, Eduardo | [US] |
+| 182 | Yeliga, Craig | [CA] | vs. | Komsky, Stan | [US] |
+| 183 | Day, Paul | [US] | vs. | Glassett, Bradley | [US] |
+| 184 | Hughes, Michael | [US] | vs. | Fitzgerald, Sean | [US] |
+| 185 | Langewisch, Topher | [US] | vs. | Jones, David | [US] |
+| 186 | Baugh, Jacob | [US] | vs. | Shaw, Jeffery | [US] |
+| 187 | Ungerecht, Timothy | [US] | vs. | Weis, Kevin | [US] |
+| 188 | Gibson-Flader, Max | [US] | vs. | Shaw, Steven | [US] |
+| 189 | Folsom, Kyer | [US] | vs. | Caron, Marc-Olivier | [CA] |
+| 190 | Brown, Alex | [US] | vs. | Stevenson, James | [CA] |
+| 191 | Kossman, Matthew | [US] | vs. | Lehnert, Heiko | [DE] |
+| 192 | Soloway, Kevin | [US] | vs. | Caitung, Rocky | [US] |
+| 193 | Oria, Antoine | [BE] | vs. | Gagnon Paradis, Ulysse | [CA] |
+| 194 | Markovic, Sasha | [US] | vs. | Mccracken, Andrew | [US] |
+| 195 | Majlaton, Alex | [US] | vs. | Shrader, Lance | [US] |
+| 196 | Rietze, Robert | [US] | vs. | Friend, Jerad | [US] |
+| 197 | Barraza, Marcelino | [US] | vs. | Davis, Jeremy | [US] |
+| 198 | Katz, Jamie | [US] | vs. | Stone, Dan | [US] |
+| 199 | Uy, Michael | [CA] | vs. | Parshall, Rodney | [US] |
+| 200 | Donald, Jason | [US] | vs. | Rideout, Vincent | [US] |
+| 201 | Mooney, David | [US] | vs. | Tamada, Ryoichi | [JP] |
+| 202 | Higgins, Timothy | [US] | vs. | Vu, Phillip | [US] |
+| 203 | Devries, Jeremy | [US] | vs. | Hubbard, Alan | [US] |
+| 204 | Smisek, Sam | [US] | vs. | Solano, Jesus | [US] |
+| 205 | Tamblyn, Mitchell | [US] | vs. | Echevarria, Shane | [US] |
+| 206 | Rowe, Ryan | [US] | vs. | Kitchen, Ryan | [CA] |
+| 207 | Campion, Andres | [US] | vs. | Kinsey, Jeff | [CA] |
+| 208 | Lung, Eddie | [US] | vs. | Cranmer, Nicholas | [US] |
+| 209 | Rightmyer, Rory | [US] | vs. | Calvin, Nathan | [US] |
+| 210 | Echols, Nick | [US] | vs. | Brookshire, Andy | [US] |
+| 211 | Koenig, Jake | [US] | vs. | Baxter, James | [US] |
+| 212 | Cooperman, Ross | [US] | vs. | Rinella, Ryan | [US] |
+| 213 | Gray, Jeremy | [US] | vs. | Singhaseni, Nathan | [US] |
+| 214 | Gottstein, Jeff | [US] | vs. | Mowry, Matthew | [US] |
+| 215 | Miller, Kyle6751 | [US] | vs. | Curran, Brandon | [US] |
+| 216 | Severs, Shane | [US] | vs. | Rodriguez, Brian | [US] |
+| 217 | Cole, Allyson | [US] | vs. | Boyd, Nathan | [US] |
+| 218 | Panhorst, Livingston | [US] | vs. | Bircher, Ryan | [US] |
+| 219 | Patterson, Will | [CA] | vs. | Duval, Dylan | [CA] |
+| 220 | Chan, Kai Tung | [US] | vs. | Ng, Kelvin | [CA] |
+| 221 | Tornes, Michael | [US] | vs. | Kiefer, Jack | [US] |
+| 222 | Israelsson, Daniel | [SE] | vs. | Hayne, Alexander | [CA] |
+| 223 | Shivji, Qail | [US] | vs. | Cole, Seth | [US] |
+| 224 | Nakamura, Alexa | [US] | vs. | Jones, Mike | [CA] |
+| 225 | Fehr, Gabriel | [BR] | vs. | Wiper, Charles | [US] |
+| 226 | Marx, Daniel | [US] | vs. | Wong, Johan | [ZA] |
+| 227 | Black, Samuel | [US] | vs. | Berry, Mike | [US] |
+| 228 | Stiarwalt, James | [US] | vs. | Jeffries, Jeremiah | [US] |
+| 229 | Crowder, Daniel | [US] | vs. | Richards, Andrew | [US] |
+| 230 | Soth, Eric | [US] | vs. | Cozzoli, Kevin | [US] |
+| 231 | Kiyonaga, Adam | [US] | vs. | Culotta, Martin | [US] |
+| 232 | Paraschiv, Vlad | [US] | vs. | Gilmore, Michael7160 | [US] |
+| 233 | Lebedowicz, Osyp | [US] | vs. | Price, John | [US] |
+| 234 | Baker, Jason | [US] | vs. | Elliott, Casey | [US] |
+| 235 | Green, Perry | [US] | vs. | Kauffman, Tommy | [US] |
+| 236 | Stankey, Matt | [US] | vs. | Puno, Cyril | [PH] |
+| 237 | Skrypov, Igor | [UA] | vs. | Schroeder, Josh | [US] |
+| 238 | Madsen, Michael | [US] | vs. | Laquian, Josh | [US] |
+| 239 | Litvak, Mark | [AT] | vs. | Duong, Jade | [CA] |
+| 240 | Banks, Nicolas | [US] | vs. | Vefa, Yusuf Kemal | [TR] |
+| 241 | Jones, Kyle | [US] | vs. | Flores, Jose | [US] |
+| 242 | Simic, Sasha | [US] | vs. | Lopez, Daniel8231 | [EC] |
+| 243 | Goffart, Jonathan | [BE] | vs. | Bovill, Rob | [US] |
+| 244 | Dillon, Jefferson | [US] | vs. | Pacheco, Raphael | [US] |
+| 245 | Delleola, Edric | [US] | vs. | Valencia, Alexander | [US] |
+| 246 | Pehlke, John | [US] | vs. | Pastorinni, Luckas | [US] |
+| 247 | Alcaraz, Oj | [US] | vs. | Proby, Randy | [US] |
+| 248 | Frank, Matt | [US] | vs. | Calvillo, James | [US] |
+| 249 | Isaacs, Jason | [US] | vs. | Yamashita, Yoshiki | [JP] |
+| 250 | Wohlsdorf, Matt | [US] | vs. | Kamenick, Tom | [US] |
+| 251 | Smith, Chris | [US] | vs. | Tran, Kenwon | [US] |
+| 252 | Zuetel, Steven | [US] | vs. | Hull, Ben | [US] |
+| 253 | Wimpenny, Edward | [US] | vs. | Dos Anjos, Gabriel | [US] |
+| 254 | Wu, Jiasheng | [US] | vs. | Ishikawa, Eric | [US] |
+| 255 | Blumenthal, Sidney | [US] | vs. | Fournier, Matthew | [US] |
+| 256 | Fyfe, Max | [US] | vs. | Smythe, Tony | [US] |
+| 257 | Levy, Justin | [US] | vs. | Reynolds, Mike | [US] |
+| 258 | Shimizu, Ryouta | [JP] | vs. | Lo, Jefferson | [CA] |
+| 259 | Paul, Corey | [US] | vs. | Nelson, Jon | [US] |
+| 260 | Ramlow, Trevor | [US] | vs. | Wiles, Tristan | [US] |
+| 261 | Ho-Ten-Pow, Marino | [CA] | vs. | Markham, Jared | [US] |
+| 262 | Whitmore, Jason | [US] | vs. | Kryvosheiev, Sergii | [UA] |
+| 263 | Carneiro, Jamer | [BR] | vs. | Johnson, Richard | [US] |
+| 264 | Schneider, Daniel | [US] | vs. | Fazio, Michael | [US] |
+| 265 | Barrus, Travis | [US] | vs. | Johnson, Mark0892 | [US] |
+| 266 | Verbiest, Bart | [BE] | vs. | Tactacan, Anthony | [US] |
+| 267 | Hibbard, Dalton | [US] | vs. | Rahill, Nicholis | [CA] |
+| 268 | Williams, Wyatt | [US] | vs. | Neal, Chris | [US] |
+| 269 | Lee, John | [US] | vs. | Sacher, Aj | [US] |
+| 270 | Carter, Aaron | [US] | vs. | Elkins, Nathan | [US] |
+| 271 | Valencourt, Alex | [US] | vs. | Sloan, Shawn | [US] |
+| 272 | Tan, Jowie | [US] | vs. | Shirakihara, Ryuuichi | [JP] |
+| 273 | Stella, Daniel | [US] | vs. | Korompis, Rudolph | [CA] |
+| 274 | Krumholz, Michael | [US] | vs. | Chen, Michael | [US] |
+| 275 | Sigalow, Martin | [US] | vs. | Hagedorn, David | [DE] |
+| 276 | Henriksen, Shane | [US] | vs. | Prindle, Andrew | [US] |
+| 277 | Williams, Avery | [US] | vs. | Sary, Nathan | [US] |
+| 278 | Mann, Samir | [US] | vs. | Richardson, Alexander | [US] |
+| 279 | Viniczai, Tibor | [HU] | vs. | Barlow, David | [US] |
+| 280 | Maeder, Michael | [US] | vs. | Hortman, Mike | [US] |
+| 281 | Gomez, Niko Nikolas | [US] | vs. | O'Brien, Chris | [US] |
+| 282 | Schmidt, Tyler | [US] | vs. | Bode, Dalton | [US] |
+| 283 | Hicks, Steven | [US] | vs. | Ho, Victor | [US] |
+| 284 | Duncan, Daniel | [US] | vs. | O'Donnell, Drew | [US] |
+| 285 | Duggan, Gavin | [US] | vs. | Powers, Jacob | [US] |
+| 286 | Janzen, Kory | [CA] | vs. | Pope, Matthew | [XE] |
+| 287 | Godines, Aric | [US] | vs. | Montoya, Brandon | [US] |
+| 288 | Lerro, Lorenzo | [IT] | vs. | Freeman, Marcelino | [US] |
+| 289 | Murillo, Julio | [US] | vs. | Osuna, Eduardo | [MX] |
+| 290 | Delaveau, Frederic | [FR] | vs. | Ferry, Sergio | [CA] |
+| 291 | Bomia-Laberdee, Joshua | [US] | vs. | Campbell, Gary | [XE] |
+| 292 | Ripman, Benjamin | [US] | vs. | Mowrey, Austin | [US] |
+| 293 | Mahon, Chance | [US] | vs. | Yunko, John | [US] |
+| 294 | Roth, Thomas | [US] | vs. | Roberts, Nick | [CA] |
+| 295 | Schreiner, Kyle | [US] | vs. | Rouleau, Pierre Olivier | [CA] |
+| 296 | King, James | [US] | vs. | Gaughan, Matthew | [US] |
+| 297 | Webster, Jonathon | [US] | vs. | Brohmer, Thomas | [US] |
+| 298 | Ramirez, Emmanuel | [US] | vs. | Gervasi, Bronson | [US] |
+| 299 | Gertler, Aaron | [US] | vs. | Prince, Nick | [US] |
+| 300 | Ward, Justin | [US] | vs. | Power, Jason | [US] |
+| 301 | O'Burke, Ryan | [US] | vs. | Andresen, Daniel | [US] |
+| 302 | Lewis, Jon-Michael | [US] | vs. | Lawver, Chris | [US] |
+| 303 | Love, James | [XE] | vs. | Marland, Sean | [US] |
+| 304 | Benson, Skyler | [US] | vs. | Garrant, Mitchell | [US] |
+| 305 | Marquez, Adrian | [US] | vs. | Denney, Jonathan | [US] |
+| 306 | Conlin, Chantz | [US] | vs. | Rios, Gabriel | [US] |
+| 307 | Prusak, Earl | [CA] | vs. | Zelaya, Martin | [US] |
+| 308 | Paykar, Ashkan | [US] | vs. | Flaczinski, Jake | [US] |
+| 309 | Bollinger, Tyson | [US] | vs. | Ramirez, Alexander | [US] |
+| 310 | Chavez, Rafael | [US] | vs. | Eng, Edwin | [US] |
+| 311 | Romero, Henry | [US] | vs. | Ma, Kouming | [US] |
+| 312 | Kuisma, Matti | [US] | vs. | Henderson, Adante | [US] |
+| 313 | Bauermeister, Max | [US] | vs. | Peters, Kyle | [US] |
+| 314 | Lambaria, Joslyn | [US] | vs. | Watson, Nephi | [US] |
+| 315 | Evans, Brandon | [US] | vs. | Garosshen, Kevin | [US] |
+| 316 | Dains, Dillon | [US] | vs. | Moore, Morgan | [US] |
+| 317 | Sill, Joel | [US] | vs. | Pocernich, Paxton | [US] |
+| 318 | Gilison, Daniel | [US] | vs. | He, Jennifer | [US] |
+| 319 | Buehrer, David | [US] | vs. | Philpott, Jonathan | [US] |
+| 320 | Gadzinski, Grae | [US] | vs. | Taylor, Chad | [US] |
+| 321 | Lazarus, Jeremy | [US] | vs. | Plots, Rebeka | [US] |
+| 322 | Farias, Andrew | [US] | vs. | Keisuke, Sato | [US] |
+| 323 | Brinkmann, Emmett | [US] | vs. | Stjohn, Justin | [US] |
+| 324 | Woodard, Nick | [US] | vs. | Lerer, Josef | [US] |
+| 325 | Johnson, Jay | [US] | vs. | Cho, Anthony | [US] |
+| 326 | Toulon, Johnathan | [US] | vs. | Young, Brandon | [US] |
+| 327 | Pieron, Bob | [US] | vs. | Larsson, Joel | [SE] |
+| 328 | Gill, Miranda | [US] | vs. | Archer, Andrew | [US] |
+| 329 | Moure, Matteo | [US] | vs. | Janasiewicz, Jason | [US] |
+| 330 | Morgan, David | [US] | vs. | Correia, Derrick | [US] |
+| 331 | Vigderman, Constantine | [US] | vs. | Aubel, Tim | [US] |
+| 332 | Shi, Jin | [US] | vs. | Ueda, Jay | [CA] |
+| 333 | Jacobs, Ande | [US] | vs. | Burns-Kirkness, Rowan | [CA] |
+| 334 | Ferguson, Beau | [US] | vs. | Dell, Preston | [US] |
+| 335 | Lis Jr, Dan | [US] | vs. | Lin, Jianfeng | [US] |
+| 336 | Duch Sorensen, Sigurd Lauritz | [DK] | vs. | Visco, David | [US] |
+| 337 | Peacock, Jeff | [US] | vs. | Zappacosta, Joe | [US] |
+| 338 | Lehrhoff, Andrew | [US] | vs. | Ciafardoni, Nick | [US] |
+| 339 | Yeem, Soohwang | [US] | vs. | Mayne, Daniel | [XE] |
+| 340 | Tatum, Joseph | [US] | vs. | Pan, Phimus | [US] |
+| 341 | Hallock, Jason | [US] | vs. | Slagel, Jackson | [US] |
+| 342 | Fox, Darren Joshua | [ZA] | vs. | Hare, Ryan | [US] |
+| 343 | Garberg, Tully | [US] | vs. | Reardon, Jacob | [US] |
+| 344 | Smith, Sean | [US] | vs. | Chow, Jamie | [US] |
+| 345 | Demars, Brian | [US] | vs. | Reyes, Victor | [US] |
+| 346 | Pho, Teresa | [US] | vs. | Jackoway, Jed | [US] |
+| 347 | Cortez, Michael | [US] | vs. | Donato, Marino | [CR] |
+| 348 | Gulik, John | [US] | vs. | Mchardy, Alex | [US] |
+| 349 | Rehome, Kyle | [US] | vs. | Mcisaac, Neil | [US] |
+| 350 | Viviano, Michael | [US] | vs. | Cuba Nogales, Mauricio | [MX] |
+| 351 | Varady, Balazs | [HU] | vs. | Jentis, Sean | [US] |
+| 352 | Marklyn, Tyler | [US] | vs. | Butler, Jordan | [US] |
+| 353 | Sutton, Jeremy | [US] | vs. | VanFleet, Adam | [US] |
+| 354 | Anderson, Kyle | [US] | vs. | Aguilar, Fernando | [US] |
+| 355 | Mccord, Christopher | [US] | vs. | Sato, Rei | [JP] |
+| 356 | Zandi, Jeff | [US] | vs. | Scharff, Carl | [US] |
+| 357 | Pizzini, James | [US] | vs. | Dacunta, Matt | [US] |
+| 358 | Bonney, William | [US] | vs. | Elenbogen, Andrew | [US] |
+| 359 | Tillotson, Kenneth | [US] | vs. | Hale, Dixon | [US] |
+| 360 | Cutrone, Michael | [US] | vs. | Bonham, Nick | [US] |
+| 361 | Alberg, Robin | [US] | vs. | Bartels, Colin | [US] |
+| 362 | Riley, Alex | [XE] | vs. | Velek, Avery | [US] |
+| 363 | Mcdonald, Bryan | [US] | vs. | Ohori, Akihito | [JP] |
+| 364 | Reitbauer, David | [AT] | vs. | Eck, Kyle | [US] |
+| 365 | Yap, Ethan | [US] | vs. | Withers, Matthew | [US] |
+| 366 | Andreatta Bueno, Vagner Luiz | [US] | vs. | Selivra, Andrej | [US] |
+| 367 | Lindgren, Tommi | [US] | vs. | Li, Haoze | [CN] |
+| 368 | Labarbera, Franklin | [US] | vs. | Allen, Kyle | [US] |
+| 369 | Anderson, Cody | [US] | vs. | Oravec, Stephanie | [US] |
+| 370 | Stone, Tim | [US] | vs. | Sigler, Michael | [US] |
+| 371 | Bush, Jeremy | [US] | vs. | Weinmann, Jake | [US] |
+| 372 | Aull, Katherine | [US] | vs. | Braun-Duin, Brian | [US] |
+| 373 | Lazaro, Andrew | [US] | vs. | Wu, Steven | [US] |
+| 374 | Romao, Carlos | [BR] | vs. | Wang, Charlie | [US] |
+| 375 | Donnan, Blake | [US] | vs. | Loyola, Juan | [US] |
+| 376 | Miles, Julian | [US] | vs. | Olley, Kevin | [US] |
+| 377 | Marsh, Greg | [US] | vs. | Nadeau, Branden | [CA] |
+| 378 | Lines, Leo | [NZ] | vs. | Mccoy, David | [US] |
+| 379 | Chien, Richard | [US] | vs. | Tweedly, Jarrid | [US] |
+| 380 | Luu, Anthony | [US] | vs. | Schick, Alan | [US] |
+| 381 | Huang, Hao-Shan | [TW] | vs. | Horspool, Tyler | [US] |
+| 382 | Thomas, Tommy | [US] | vs. | Albert, Thomas | [CA] |
+| 383 | Hlohinec, Dillon | [US] | vs. | Jacques, Francois | [CA] |
+| 384 | Nicholas, Gabriel | [US] | vs. | Choi, Jihoon | [US] |
+| 385 | Lyons, Greg | [US] | vs. | Huezo, Michael | [US] |
+| 386 | Houvener, Von | [US] | vs. | Marley, Carl | [US] |
+| 387 | Torres, Quentin | [US] | vs. | Nix, Robert | [US] |
+| 388 | Banh, David | [US] | vs. | Macey, Neil | [US] |
+| 389 | Calcano, Christian | [US] | vs. | Bernal, Juan | [CO] |
+| 390 | Buckley, Sean | [US] | vs. | Kearney, Dale | [US] |
+| 391 | Delaplane, James | [US] | vs. | Levin, Eugene | [US] |
+| 392 | Mahaffey, Christopher | [US] | vs. | Butchereit, Casey | [US] |
+| 393 | Lillard, Mario | [US] | vs. | Estrada, Carlos | [US] |
+| 394 | Seigman, Daniel | [US] | vs. | Schwegmann, Anson | [US] |
+| 395 | Crews, Matt | [US] | vs. | Hiatt, Cody | [US] |
+| 396 | Millbank, Nathen | [US] | vs. | Skonnord, Ryan | [US] |
+| 397 | Dhillon, Jee | [US] | vs. | Martin, Scot | [US] |
+| 398 | Kong, Peter | [US] | vs. | Perez, Phillip | [US] |
+| 399 | Puckett, Katherine | [US] | vs. | Helbig, Andrew | [US] |
+| 400 | Peters, Stephen | [US] | vs. | Cobb, Axel | [US] |
+| 401 | Goetz, Adam | [US] | vs. | Root, Joshua | [US] |
+| 402 | Chatfield, Lawrence | [US] | vs. | Buccafusca, Lucas | [US] |
+| 403 | Panara, Bruno | [US] | vs. | Mahadeo, Dinesh | [US] |
+| 404 | Chi, Roy | [US] | vs. | Fontes, Carlos | [US] |
+| 405 | Flyum, Geir Magne | [NO] | vs. | Tsujikawa, Taiga | [JP] |
+| 406 | Suzuki, Ian | [US] | vs. | Tran, Saron | [US] |
+| 407 | Fernando, Ronald | [US] | vs. | Savinelli, K. J. | [US] |
+| 408 | Chan, Tevin | [US] | vs. | Prinsloo, Theuns | [ZA] |
+| 409 | Baker, Kevin | [US] | vs. | Chen, Elly | [US] |
+| 410 | Svien, Michael | [US] | vs. | Clay, Chris | [US] |
+| 411 | Branam, Joseph Mark | [US] | vs. | Crane, Ward | [US] |
+| 412 | Reiss, Ian | [US] | vs. | Toops, David | [US] |
+| 413 | Dennis, Cole | [US] | vs. | Arehart, Daniel | [US] |
+| 414 | St-Julien, Christen | [US] | vs. | Johnson, Erik | [US] |
+| 415 | Racine, Jason | [CA] | vs. | Null, Christopher | [US] |
+| 416 | Schwartz, Michael | [US] | vs. | Singer, Ryan | [US] |
+| 417 | Bolding, Jonathan | [US] | vs. | Carter, Justin | [US] |
+| 418 | Setterlund, Patrick | [US] | vs. | Heins, Daniel | [US] |
+| 419 | Hansen, Jeff | [US] | vs. | Toulon, Justin | [US] |
+| 420 | Hudman, Kenny | [US] | vs. | Saiyasely, Liking | [FR] |
+| 421 | Baca, Robert | [US] | vs. | Zakrzewski, Sam | [US] |
+| 422 | Levy, Jonathan | [US] | vs. | Bouza, Rafael | [AR] |
+| 423 | Yunker, Jonathan | [US] | vs. | Guan, Thomas Zhennan | [US] |
+| 424 | Cantore, Paul | [US] | vs. | Schein, Jason | [US] |
+| 425 | Rokne, Olav | [CA] | vs. | Barnett, Stephen | [US] |
+| 426 | Archuleta, Nathan | [US] | vs. | Dodge, Jonathan | [US] |
+| 427 | Tuduri, Ricard | [ES] | vs. | Zell, Susan | [US] |
+| 428 | Laverty, Jesse | [US] | vs. | Mcnamara, Brendan | [US] |
+| 429 | Buchner, Hans | [US] | vs. | Digerolamo, Keith | [US] |
+| 430 | Beldon, Omar | [CA] | vs. | Waymon, Larry | [US] |
+| 431 | DiMaggio, Matthew | [US] | vs. | Schmit, Mark | [US] |
+| 432 | Sutherland, Matt | [CA] | vs. | Guest, Spencer | [US] |
+| 433 | Thompson, Gerry | [US] | vs. | Roth, Gregory | [US] |
+| 434 | Jones, Bobby | [US] | vs. | Sun, Qiushi | [US] |
+| 435 | Tayek, Joht | [US] | vs. | Ip, Jonathan | [CA] |
+| 436 | Cao, Gavin | [NZ] | vs. | Keeth, Christian | [US] |
+| 437 | Burg, Steven | [US] | vs. | Boone, Zac | [US] |
+| 438 | Dygert, Bobby | [US] | vs. | Castro, Angel | [US] |
+| 439 | Waltzer, Silas | [US] | vs. | Garcia-Reid, Nicklaus | [US] |
+| 440 | Stott, Dylan | [US] | vs. | Eakins, Loren | [US] |
+| 441 | Oliveros, Christian | [US] | vs. | Mera, Giovanni | [US] |
+| 442 | Johnson, Blaine | [US] | vs. | D'Aniello, Carmine | [IT] |
+| 443 | De Santis, Andrew | [US] | vs. | Davila, David | [US] |
+| 444 | May, Dan | [US] | vs. | Hollis, Steve | [US] |
+| 445 | Gotfredsen, Anders | [DK] | vs. | Maxwell, Brad | [US] |
+| 446 | Baclig, Antonio | [US] | vs. | Nagy, Ferenc | [HU] |
+| 447 | Martin, Christopher6413 | [US] | vs. | Govender, Guventhiran | [ZA] |
+| 448 | Ma, Jesse | [US] | vs. | Gu, Xingjian | [US] |
+| 449 | Studer, Yannick | [CH] | vs. | Gelazela, Joe | [US] |
+| 450 | Mclaren, Dean | [CA] | vs. | Perry, Gavin | [US] |
+| 451 | Anderson, Derek | [US] | vs. | Patrick, Douglas | [US] |
+| 452 | Desangles, Anthony | [US] | vs. | Kavanagh, Carolyn | [CA] |
+| 453 | Cloud, Ross | [US] | vs. | Bartlett, Colin | [US] |
+| 454 | Lancaster, Charles | [US] | vs. | Sinnott, Timothy | [US] |
+| 455 | Kastner, Jacob | [US] | vs. | Longo, Tyler | [US] |
+| 456 | Mercer, Matthew | [US] | vs. | Kawaguchi, Takashi | [JP] |
+| 457 | Alter, Scott | [US] | vs. | Troha, Dan | [US] |
+| 458 | Bernet, Reed | [US] | vs. | Susak, Eric | [US] |
+| 459 | Lav, Marvin | [US] | vs. | Ben-sasson, Eetai | [US] |
+| 460 | Roberts, Kurtis | [US] | vs. | Groat, Josh | [US] |
+| 461 | Sonnier, Derek | [US] | vs. | Holcomb, John | [US] |
+| 462 | Gray, William | [US] | vs. | Michel, Jeffrey | [US] |
+| 463 | Mastromatteo, Jason | [US] | vs. | Munroe, Chris | [CA] |
+| 464 | Raval, Mahendra | [US] | vs. | Catalano, Jeffrey | [US] |
+| 465 | Bucknell, James | [US] | vs. | Ortiz, Lance | [US] |
+| 466 | Rhett, Brian | [US] | vs. | Chang, Andy | [US] |
+| 467 | Davalos, Dante | [US] | vs. | Wilson, Chase | [US] |
+| 468 | Truong, Daniel | [US] | vs. | Smith, Greg | [US] |
+| 469 | Isenberg, Reuben | [US] | vs. | Foukarakis, Michalis | [GR] |
+| 470 | Musher, Benjamin | [US] | vs. | Jones, Andrea | [CA] |
+| 471 | Li, Tianen | [US] | vs. | Bell, Glen | [US] |
+| 472 | Cuevas, Alex | [US] | vs. | Labuda, Lucas | [US] |
+| 473 | Guluka, Nehemiah | [US] | vs. | Clark, Taylor | [US] |
+| 474 | Coverdale, Ryan | [US] | vs. | Dixon, Joseph | [US] |
+| 475 | Field, Scott | [ZA] | vs. | Stroev, Mikhail | [RU] |
+| 476 | Schibanoff, Justin | [US] | vs. | Gomez, Douglas | [US] |
+| 477 | Tibbetts, Jason | [US] | vs. | Choma, Tom | [US] |
+| 478 | Churchill, Ken | [US] | vs. | Hibbs, David | [US] |
+| 479 | Simoncic, Brandon | [US] | vs. | Holliday, John | [US] |
+| 480 | Divine, Chad | [US] | vs. | Crapper, Jesse | [AU] |
+| 481 | Delgado Reyes, Alexandre | [ES] | vs. | Malinowski, Mike | [US] |
+| 482 | Herbert, Timothy | [US] | vs. | Bieza, Scott | [US] |
+| 483 | Mathis, Jeffrey | [US] | vs. | Conn, Alexander | [US] |
+| 484 | Thor, Thown | [US] | vs. | Muranaka, Aaron | [US] |
+| 485 | Laid, Jonas | [US] | vs. | Brenner, Stefan | [US] |
+| 486 | Ho, Alex | [US] | vs. | Young, Matthew | [US] |
+| 487 | Grafton, Dave | [CA] | vs. | Singer, Sean | [US] |
+| 488 | Ngu, Steven | [US] | vs. | Betts, Ryan | [US] |
+| 489 | Bergman, Martin | [NL] | vs. | Czmil, Michael | [US] |
+| 490 | Mermelshtayn, Joseph | [US] | vs. | Wadsworth, Jared | [US] |
+| 491 | Scamihorn, John | [US] | vs. | Macleod, Joshua | [US] |
+| 492 | Wedell, Joshua | [US] | vs. | Jardine, Michael | [US] |
+| 493 | Watts, Andrew | [US] | vs. | Ryu, Steven | [US] |
+| 494 | Tiberio Junior, Carlos Eduardo | [BR] | vs. | Nguyen, James | [US] |
+| 495 | Irvine, David | [US] | vs. | Waddell, Travis | [US] |
+| 496 | Estrada, Ryan | [US] | vs. | Tao, Jiachen | [US] |
+| 497 | Alberto, Felipe | [BR] | vs. | Hogan, Michael | [US] |
+| 498 | Thomas, Travis | [US] | vs. | Bakkala, Tony | [US] |
+| 499 | Bomia, Justin | [US] | vs. | Grunden, Jason | [US] |
+| 500 | Sackett, Eric | [US] | vs. | Lopez, Michael | [US] |
+| 501 | Zyla, Sarah | [US] | vs. | Delliskave, Nick | [US] |
+| 502 | Strumpf, Jonathan | [US] | vs. | Selk, Patrick | [CA] |
+| 503 | Kapalas, Georgios | [US] | vs. | Crowley, Tyler | [US] |
+| 504 | Chetty, Keraan | [ZA] | vs. | Knox, Nathaniel | [US] |
+| 505 | Myers, Caleb | [US] | vs. | Miner, Sean | [US] |
+| 506 | Cerone, Anthony | [US] | vs. | Coombe, Phillip | [US] |
+| 507 | Korosi, Soma | [HU] | vs. | Hildreth, Nicholas | [US] |
+| 508 | Wiesenberg, Joseph | [US] | vs. | Mack, Stephan | [US] |
+| 509 | Rigatti, Jamie | [US] | vs. | De La Loza Bellot, Jose Alejandro | [MX] |
+| 510 | England, Jack | [US] | vs. | Cole, Michael | [US] |
+| 511 | Denny, Samuel | [US] | vs. | Craton, Nicholas | [US] |
+| 512 | Kelley, Thomas | [US] | vs. | Thomas, Cary | [US] |
+| 513 | Matsumoto, Fumiya | [JP] | vs. | Romine, Alex | [US] |
+| 514 | Reynolds, Patrick | [US] | vs. | Sullano, Andrew | [US] |
+| 515 | Sibley, Corey | [US] | vs. | Cox, David | [US] |
+| 516 | Wu, Wilson | [US] | vs. | Stremel, John | [US] |
+| 517 | Cloyd, Jeremy | [US] | vs. | Tetlow, Adam | [US] |
+| 518 | Panchyshyn, Aron | [CA] | vs. | Runham, Darcy | [CA] |
+| 519 | Monk, Derek | [US] | vs. | Ortiz, David | [US] |
+| 520 | Hayes, Ryan | [US] | vs. | Bagdasarian, Lara | [US] |
+| 521 | Thornally, Bryan | [US] | vs. | Kurteff, Garret | [US] |
+| 522 | Domingo, Ryan | [US] | vs. | Yamamoto, Reid | [US] |
+| 523 | Machado, Thiago | [US] | vs. | Loeser, Brandon | [US] |
+| 524 | Wang, Kevin | [US] | vs. | Scott, Ryan | [US] |
+| 525 | Benner, James | [US] | vs. | Schmidt, Jonathon | [US] |
+| 526 | Fields, Larry | [US] | vs. | Serrano, Jesus | [US] |
+| 527 | Grimes, Sean | [US] | vs. | Cook, Anthony | [US] |
+| 528 | Blattler, Albert | [US] | vs. | Malloff, Amanda | [CA] |
+| 529 | Wu, David | [US] | vs. | Faherty, Francesco | [IT] |
+| 530 | Hecker, Shawn | [US] | vs. | Colista, Anthony | [US] |
+| 531 | Stout, Andrew | [US] | vs. | Chambers, Colron | [US] |
+| 532 | Campbell, Adam | [CA] | vs. | Bruni, Dante | [US] |
+| 533 | Shannon, Jason | [US] | vs. | Hirschfeld, Joshua | [US] |
+| 534 | Garvin, Andrew | [US] | vs. | Im, Hannah | [US] |
+| 535 | Barnette, Russyll | [US] | vs. | Gipson, David | [US] |
+| 536 | Lamp, Alexander | [US] | vs. | Howell, Kyle | [US] |
+| 537 | Lacsamana, Flint | [US] | vs. | Martishius, Jake | [US] |
+| 538 | Stiefler, Harald | [DE] | vs. | Liu, Liming | [US] |
+| 539 | Vachon, David | [US] | vs. | Mohr, Toni | [US] |
+| 540 | Christensen, Sabrina | [US] | vs. | Shih, Brian | [US] |
+| 541 | Pfeifer, Richard | [US] | vs. | Craft, Christian | [US] |
+| 542 | Sundholm, Peter | [US] | vs. | Jackson, Vincent | [US] |
+| 543 | Metz, Taylor | [US] | vs. | Cook, Richard | [US] |
+| 544 | Kean, Matthew | [US] | vs. | Giarratana, Sam | [US] |
+| 545 | Reyes, Rudy | [US] | vs. | Clingan, Casey | [US] |
+| 546 | He, Daniel | [US] | vs. | Wu, Hao | [CA] |
+| 547 | Murray, Chris | [US] | vs. | Yeager, Joshua | [US] |
+| 548 | Whiffen, Stephen | [CA] | vs. | Edelman, Charles | [US] |
+| 549 | Joglar, Gabriel | [US] | vs. | Li, Devin | [US] |
+| 550 | Ritchie, John | [US] | vs. | Henderson, Craig | [US] |
+| 551 | Arreygue, Anthony | [US] | vs. | Jacobs, Josiah | [US] |
+| 552 | Armstrong, Michael | [US] | vs. | Mcgrayne, Matt | [US] |
+| 553 | Brown, Deforrest | [US] | vs. | Clark, Ryan | [US] |
+| 554 | Chelf, Ben | [US] | vs. | Kumar, Nikhil | [US] |
+| 555 | Rozelle, Whalen | [US] | vs. | Leonard, Gregory | [US] |
+| 556 | Cai, Katrima | [US] | vs. | Lo, David | [US] |
+| 557 | Harmon, Steven | [US] | vs. | Duron, Jordan | [US] |
+| 558 | Nelson, John | [US] | vs. | Mckay, Sean | [US] |
+| 559 | Havlovick, Jason | [US] | vs. | Schwankl, Andre | [DE] |
+| 560 | Liu, Kenneth | [US] | vs. | Eng, Ryan | [US] |
+| 561 | Corral Hernandez, Marco | [US] | vs. | Hawbaker, Tim | [US] |
+| 562 | Corwin, Andrew | [US] | vs. | Davoudi, Mani | [US] |
+| 563 | Calandro, Tiffany | [US] | vs. | Clinard, Jeffrey | [US] |
+| 564 | Green, Nick | [CA] | vs. | Antonelli, Matthew | [US] |
+| 565 | Graham, Shea | [US] | vs. | Tam, Keaton | [US] |
+| 566 | Turney, Christopher | [US] | vs. | Rainforth, Chandler | [US] |
+| 567 | Walterman, Austin | [US] | vs. | Borst, Michael | [US] |
+| 568 | Skolnick, Andrew | [US] | vs. | Yeates, Sean | [US] |
+| 569 | Swen, Hawnlay | [US] | vs. | Humphrey, Jarred | [US] |
+| 570 | Rowan, Richard | [US] | vs. | Lynch, Heath | [US] |
+| 571 | Quesada, James | [US] | vs. | Wolford, Daniel | [US] |
+| 572 | Selski, Benjamin | [US] | vs. | Oxford, Brian | [US] |
+| 573 | Leeb, Spencer | [US] | vs. | Desveaux, Marcel | [CA] |
+| 574 | Krangel, Eric | [US] | vs. | Gudino, Miguel | [US] |
+| 575 | Wang, Robert | [US] | vs. | Howard Mullan, Virginia | [US] |
+| 576 | Rembert, Philip | [US] | vs. | Rodriguez, Francisco | [US] |
+| 577 | Galizio, Santino | [US] | vs. | Karpuk, Kalev | [US] |
+| 578 | Vera, Pablo | [US] | vs. | Breau, Chris | [CA] |
+| 579 | Fatale, Joe | [US] | vs. | Ng, Eugene | [US] |
+| 580 | Domingo, Michael | [US] | vs. | Krause, Corey | [US] |
+| 581 | Yip, Matthew | [CA] | vs. | Doudican, Dayton | [US] |
+| 582 | Wiltsey, Wardon | [US] | vs. | Brown, Gregory | [US] |
+| 583 | Reeves, Kyle | [US] | vs. | Jeffress, Christopher | [US] |
+| 584 | Alba, Peter | [US] | vs. | Bloom, Dianne | [US] |
+| 585 | Everest, Brent | [US] | vs. | Tsukano, Jay | [US] |
+| 586 | Moses, Justin | [US] | vs. | Murcia Carrillo, Edna | [US] |
+| 587 | Good, Mark | [US] | vs. | Glasser, David | [US] |
+| 588 | Kambourakis, Joseph | [US] | vs. | Oshiro, Jonathan | [US] |
+| 589 | Huerlimann, Marc | [CH] | vs. | Martin, Chris5776 | [US] |
+| 590 | Edelkamp, Erik | [US] | vs. | Castro, Daniel | [US] |
+| 591 | Saltzman, Ryan | [US] | vs. | Stilts, Adam | [US] |
+| 592 | Paulus, Cameron | [US] | vs. | Seck, Benjamin | [US] |
+| 593 | O'Connell, Colby | [US] | vs. | Pichardo, Luis | [US] |
+| 594 | Komor, Russell | [US] | vs. | Flautz, Ronald | [US] |
+| 595 | Howitt, Josh | [US] | vs. | Beck, Michael | [US] |
+| 596 | Son, Tony | [US] | vs. | Weingard, Daniel | [US] |
+| 597 | Paquette, James | [US] | vs. | Oda, Hideto | [US] |
+| 598 | Luton, Sam | [US] | vs. | Sohi, Jp | [CA] |
+| 599 | Caron, Alex | [US] | vs. | Cramer, Michael | [US] |
+| 600 | Salazar, Bert | [US] | vs. | Lankford, Phillip | [US] |
+| 601 | Li, Steven | [US] | vs. | Godels, Brent | [US] |
+| 602 | Bennbo, Mats | [SE] | vs. | Toshihide, Fujita | [JP] |
+| 603 | Sowar, Joseph | [US] | vs. | Bamber, Tyler | [US] |
+| 604 | Purpura, Greg | [US] | vs. | Drake, Robert | [US] |
+| 605 | Martin, Marcus | [US] | vs. | Morgan-Olsen, Brandon | [US] |
+| 606 | Barringer, Brandon | [US] | vs. | Misura, Cody | [US] |
+| 607 | Larsen, Daniel | [DK] | vs. | Kiss, Roland | [CA] |
+| 608 | Gilmore, Alex | [US] | vs. | Youngs, Derik | [US] |
+| 609 | Ward, Austin | [US] | vs. | Molsee, Nate | [US] |
+| 610 | Simpson, Marshall | [US] | vs. | Zuniga, Joe | [US] |
+| 611 | Kitay, Kenneth | [US] | vs. | Beg, Hollie | [US] |
+| 612 | Mcgeary, Dylan | [US] | vs. | Bonacini, Michael | [US] |
+| 613 | Zeng, Grace | [US] | vs. | Edelkamp, Fred | [US] |
+| 614 | Sirilertvorakul, Veerapat | [US] | vs. | Waters, Rich | [US] |
+| 615 | Greene, Adam | [US] | vs. | Hatch, Aj | [US] |
+| 616 | Holcomb, Michael | [US] | vs. | Quinn, Jeremy | [US] |
+| 617 | Tobler, Tyler | [US] | vs. | McNair, Danold | [US] |
+| 618 | Hansen, Branden | [US] | vs. | Candib, Aaron | [US] |
+| 619 | Stachurski, Richard | [US] | vs. | Kandel, David | [US] |
+| 620 | Oliveira, Guilherme | [US] | vs. | Bates, Daniel | [US] |
+| 621 | Wilkinson, George | [US] | vs. | Yassa, Michael | [CA] |
+| 622 | Stewart, Jim | [US] | vs. | Cortez, Al | [US] |
+| 623 | Iiams, Brandon | [US] | vs. | Rand, Chris | [US] |
+| 624 | Kaukoranta, Ville | [FI] | vs. | Bowden, Ian | [US] |
+| 625 | Stein, Brian | [US] | vs. | Azulay, Adam | [US] |
+| 626 | Biggs, Tyler | [US] | vs. | Prokopovic, Marek | [SK] |
+| 627 | Baum, Jacob | [US] | vs. | Velazquez, Erick | [US] |
+| 628 | Wainman, Randall | [US] | vs. | Williamson, Derek | [US] |
+| 629 | Kennedy, Jordan | [US] | vs. | Bachison, Adam | [US] |
+| 630 | Boyd, Gerard | [XE] | vs. | Sage, Nathan | [US] |
+| 631 | Dompierre, Luc | [US] | vs. | Bukarau, Jared | [US] |
+| 632 | Stiltz, Ryan | [US] | vs. | Luke, Eric | [US] |
+| 633 | Cullerton, Evan | [US] | vs. | O'Connell, Gerald | [US] |
+| 634 | Clark, Tom | [US] | vs. | Thayer, Benjamin | [US] |
+| 635 | Solis, Javier | [US] | vs. | Harvey, Max | [US] |
+| 636 | Gapinski, Richard | [US] | vs. | Greir, Simon | [DK] |
+| 637 | Ma, Kent | [CA] | vs. | Kay, Chad | [US] |
+| 638 | Ostash, Keith | [US] | vs. | Hellmuth, Nick | [US] |
+| 639 | Nelson, Colleen | [US] | vs. | Beckfield, John | [US] |
+| 640 | Robbins, Edwin | [US] | vs. | Epstein, Phillip | [US] |
+| 641 | Lee, Clyde | [US] | vs. | Breland, Cody | [US] |
+| 642 | Gago, Daniel | [US] | vs. | Lukas, Benja | [US] |
+| 643 | Langevin, Marjorie | [CA] | vs. | Somisetty, Pavana | [US] |
+| 644 | Banek, Greg | [US] | vs. | Kittinger, Joel | [US] |
+| 645 | Taylor, Zach | [US] | vs. | Pastore, Philip (Tony) | [US] |
+| 646 | Foodym, David | [US] | vs. | Sciesinski, Marcin | [US] |
+| 647 | Barrientos Ochoa, Claudio | [CL] | vs. | Nickolai, Matthew | [US] |
+| 648 | Reinecke, David | [ZA] | vs. | King, Kevin | [US] |
+| 649 | Telesca, Francesco | [US] | vs. | Forster, Daniel | [US] |
+| 650 | Sliwinski, Brandon | [US] | vs. | Losee, Brian | [US] |
+| 651 | Kert, Caroline | [US] | vs. | Silbey, Patrick | [US] |
+| 652 | Harris, Ian | [CA] | vs. | Rosen, Richard | [US] |
+| 653 | Mendez, Anthony | [US] | vs. | Bogner, Ryan | [US] |
+| 654 | Parker, Tom | [US] | vs. | Maune, William | [US] |
+| 655 | Adolf, Steven | [US] | vs. | Brewer, Andrew | [US] |
+| 656 | Wiggs, David | [US] | vs. | Rigatti, Jon | [US] |
+| 657 | Stefek, Ronny | [US] | vs. | Gee, David | [US] |
+| 658 | Duong, Michael | [US] | vs. | Chen, Gregory | [US] |
+| 659 | Lee, Mark | [US] | vs. | Malloff, Ian | [CA] |
+| 660 | Firestone, Spencer | [US] | vs. | Napper, Josh | [US] |
+| 661 | Eustice, Chris | [US] | vs. | Gray, James | [US] |
+| 662 | Williams, Sam | [US] | vs. | Hong, Sung-Il | [DE] |
+| 663 | Walters, Josh | [US] | vs. | Rodriguez, Brandon | [US] |
+| 664 | Oropeza, Mikel | [US] | vs. | Reichard, Alexander | [US] |
+| 665 | Scheid, Daniel | [US] | vs. | Moseley, Joel | [US] |
+| 666 | Lachance, Sebastien | [CA] | vs. | Ortiz, Ottoniel | [GT] |
+| 667 | Logsdon, Jim | [US] | vs. | Brooksby, Kimball | [US] |
+| 668 | Pearce, Matthew | [US] | vs. | Gwizdala, Ryan | [US] |
+| 669 | Solis, Joaquin | [ES] | vs. | Tasse, Dan | [US] |
+| 670 | Reiff, Ben | [US] | vs. | Sulak, Andrew | [US] |
+| 671 | Deakins, Crystal | [US] | vs. | Carlson, Steven | [US] |
+| 672 | Aguilera, Ryder | [US] | vs. | Lee, Farand | [CA] |
+| 673 | Clausen, Joe | [US] | vs. | Rowlette, Thomas | [US] |
+| 674 | Houvener, Austin | [US] | vs. | Dash, Joshua | [US] |
+| 675 | Pendleton, Jake | [US] | vs. | Weil, Alan | [US] |
+| 676 | Fatale, Alfred | [US] | vs. | Gallichet, Mike | [US] |
+| 677 | Gammie, Franklin | [US] | vs. | Ou, David | [US] |
+| 678 | Straer, Seth | [US] | vs. | Parson, Kenneth | [US] |
+| 679 | Miller, Sean | [US] | vs. | Chan, Royal | [US] |
+| 680 | Casillas, Isabel | [US] | vs. | Lassiter, Shawn | [US] |
+| 681 | Ream, Kenneth | [US] | vs. | Elizalde, Victor | [CL] |
+| 682 | Williams, Ronald | [US] | vs. | Sneed, Adam | [US] |
+| 683 | Ho, Anthony | [US] | vs. | Rosman, Nick | [US] |
+| 684 | Dykes, James | [US] | vs. | Re, Joseph | [US] |
+| 685 | Van Tongeren, Miles | [US] | vs. | Jew, Brian | [US] |
+| 686 | Botello, Enrique | [US] | vs. | Keck, Chris | [US] |
+| 687 | Legault, Daric | [CA] | vs. | Gille, Randolph | [US] |
+| 688 | Chang, Morgan | [US] | vs. | Cash, Daniel | [US] |
+| 689 | Miller, Drew | [US] | vs. | Jacobs, Adam | [US] |
+| 690 | Haunschild, Felix | [US] | vs. | Larson, Zac | [US] |
+| 691 | Page, Jonathan | [US] | vs. | Crooks, Louis | [US] |
+| 692 | Misura, Logan | [US] | vs. | Jaeger, Tony | [US] |
+| 693 | Radican, Kyle | [US] | vs. | Carranza, Jaime | [US] |
+| 694 | Sato, Todd | [US] | vs. | Lane, Stephen | [US] |
+| 695 | Cox, Nikolai | [US] | vs. | Hudgens, Wade | [US] |
+| 696 | Losee, Benjamin | [US] | vs. | Zezula, Thomas | [US] |
+| 697 | Wallace, Marcus | [US] | vs. | Lombardi, Anthony | [US] |
+| 698 | Rambis, Jordan | [US] | vs. | Warren, Tyler | [US] |
+| 699 | Tuttle, Brad | [US] | vs. | Thompson, Bradley | [US] |
+| 700 | Ritter, Jacob | [US] | vs. | Chieng, Lawrence | [US] |
+| 701 | Suh, Steven | [US] | vs. | Gazic, Ronaldo | [US] |
+| 702 | Pottenger, Sean | [US] | vs. | Bingham, Robert | [US] |
+| 703 | Xu, Da | [US] | vs. | Williams, Gregory | [US] |
+| 704 | Gates, Cody | [US] | vs. | Parsons, Eric | [US] |
+| 705 | Young, Michael | [US] | vs. | Downing, Ian | [US] |
+| 706 | Moreno, Eduardo | [US] | vs. | Ma, Matthew | [US] |
+| 707 | Berni, Roberto | [US] | vs. | Cluskey, Chris | [US] |
+| 708 | Ruiz, Juan Diego | [CO] | vs. | Voye, Justin | [US] |
+| 709 | Diaz, Chazz-Anthony | [US] | vs. | Barnes, Michael | [US] |
+| 710 | Rueckl, Joseph | [US] | vs. | Montalto, Michael | [US] |
+| 711 | Soleau, Shaun | [US] | vs. | Weeks, Kevin | [US] |
+| 712 | David, Joshua | [US] | vs. | Schimmel, Oliver | [US] |
+| 713 | Hoobler, Kevin | [US] | vs. | Inada, Scott | [US] |
+| 714 | Clayton, Douglas | [US] | vs. | Carpenter, Ryan | [US] |
+| 715 | Chan, Wayland | [US] | vs. | Cheng, Jonathan | [US] |
+| 716 | Billiau, Michel | [BE] | vs. | Archer, Joshua | [US] |
+| 717 | Moss, Robert | [CA] | vs. | Miller, Ian | [US] |
+| 718 | Solomon, Nick | [US] | vs. | Stevenson, Craig | [XE] |
+| 719 | Styskal, Matthew | [US] | vs. | Wyatt, Jospeh | [US] |
+| 720 | Henson, Michael | [US] | vs. | Bryant, Paul | [US] |
+| 721 | Andrews, Matthew | [US] | vs. | Vandermeyden, Michael | [US] |
+| 722 | Le, Sonny | [US] | vs. | Choe, Stephan | [US] |
+| 723 | Reed, Chris | [US] | vs. | Coppinger, Clarence | [US] |
+| 724 | Mann, Thomas | [XE] | vs. | Whitehill, Cj | [US] |
+| 725 | Boucher, Jason | [US] | vs. | Francia, Elias | [US] |
+| 726 | Worden, Corey | [US] | vs. | Palmer, Chris | [US] |
+| 727 | Anderson, Michael6375 | [US] | vs. | Richter, Matthew | [US] |
+| 728 | Sager, Jeremy | [US] | vs. | Gower, Robert | [US] |
+| 729 | Carlson, Nicholas | [US] | vs. | Kyla-Harakka, Joonas | [FI] |
+| 730 | Staunton, Courtney | [US] | vs. | Haegele, Edwin | [US] |
+| 731 | Kiesanowski, Cody | [US] | vs. | Lapping, Kristopher | [US] |
+| 732 | Coulter, Joe | [US] | vs. | Porras, Tony | [US] |
+| 733 | Redmond, Buddy | [US] | vs. | Ranco, Eric | [US] |
+| 734 | Jorn, Christian | [US] | vs. | Palase, Matt | [US] |
+| 735 | Pascal, Brandon | [US] | vs. | Jacobson, Jed | [US] |
+| 736 | Fleshman, Josh | [US] | vs. | Tan, James | [US] |
+| 737 | Linville, Curtis | [US] | vs. | Houseworth, Erik | [US] |
+| 738 | Porter, Hershel | [US] | vs. | Carlson, Chris | [US] |
+| 739 | Hwang, Eugene | [US] | vs. | Miller, Jason | [US] |
+| 740 | Weeke, John | [US] | vs. | Bowles, Wyatt | [US] |
+| 741 | Johnson, Patricia | [US] | vs. | Gordon, Shawn | [US] |
+| 742 | Yamasaki, Takao | [JP] | vs. | Johnson, Sam | [US] |
+| 743 | Bartley, Matthew | [US] | vs. | Siedschlag, Cassandra | [CA] |
+| 744 | Tully Froehlich, Gairm | [US] | vs. | Van Orden, Stephen | [US] |
+| 745 | Smolen, Matthew | [US] | vs. | Parker, James1505 | [US] |
+| 746 | Dube, Andre | [US] | vs. | Romero, Guillermo | [US] |
+| 747 | Lloyd, Alex | [US] | vs. | Miranda, Fabricio | [BR] |
+| 748 | Nguyen, Thanh | [CA] | vs. | Portello, James | [US] |
+| 749 | Orozco, Troy | [US] | vs. | Boehme, Victoria | [US] |
+| 750 | Byer, Jon | [US] | vs. | Danz, Jonathan | [AT] |
+| 751 | Harabas, Chris | [US] | vs. | Laurel, Matthew | [US] |
+| 752 | Reeves, Sean | [US] | vs. | Russell, Griffin | [US] |
+| 753 | Wong, Hubert | [US] | vs. | Kong, Colin | [CA] |
+| 754 | Nguyen, Phillip | [US] | vs. | Kubo, Eric | [US] |
+| 755 | Verdugo, Maxcel | [US] | vs. | Avelar, Edwin | [US] |
+| 756 | Petersen, Ben | [US] | vs. | Beach, Paul | [US] |
+| 757 | Sullivan, Cameron | [US] | vs. | Carlton, Robbie | [US] |
+| 758 | Farnsworth, Paul | [US] | vs. | Askeland, Eric | [US] |
+| 759 | Thomas, Ian | [CA] | vs. | Gross, Mitchell | [US] |
+| 760 | Christian, Tyler | [US] | vs. | Colvin, Eric | [US] |
+| 761 | Anker-Nilssen, Rasmus | [US] | vs. | Delpizzo, Paul | [US] |
+| 762 | Petree, Thomas | [US] | vs. | Tosto, Dave | [US] |
+| 763 | Laforge, Adam | [CA] | vs. | Hart, Calvin | [US] |
+| 764 | Cohen, Travis | [US] | vs. | Frias, Matthew | [US] |
+| 765 | Li, Lucas Muxi | [US] | vs. | Torres, Eduardo | [PE] |
+| 766 | Sun, Allen | [US] | vs. | Shamma, Ahmed | [US] |
+| 767 | Wollpert, Worth | [US] | vs. | Littleton, Bryan | [US] |
+| 768 | Woei, Ernest | [US] | vs. | Sandoval, Jorge | [US] |
+| 769 | Montgomery, Connor | [US] | vs. | Tones, Matthew | [US] |
+| 770 | Zlotoiabko, Boris | [UA] | vs. | Yam, Wing Chun | [HK] |
+| 771 | Swanson, Erik | [US] | vs. | Herrera, Zachary | [US] |
+| 772 | Betts, Jonathan | [US] | vs. | Kelly, Bryan | [US] |
+| 773 | Schuh, Adrian | [US] | vs. | Stratton, Justin | [US] |
+| 774 | Sparks, Jesse | [US] | vs. | Syrovatka, Nick | [US] |
+| 775 | Bryan, Christopher | [US] | vs. | Wood, Richard | [US] |
+| 776 | Rich, Benjamin | [US] | vs. | Ha, Nicolas | [US] |
+| 777 | Wang, Max | [US] | vs. | Bitner, Shane | [US] |
+| 778 | Lind, Josh | [US] | vs. | Kiefer, Quinn | [US] |
+| 779 | Palmer, Omo | [US] | vs. | Jaya, Ivan | [US] |
+| 780 | Anderson, Matthew | [US] | vs. | Martin, Chazi | [US] |
+| 781 | Gurevych, William | [UA] | vs. | Phillips, Wolf | [US] |
+| 782 | Schneider, Jason | [US] | vs. | Lam, Phuoc | [CA] |
+| 783 | Prime, Phoenix | [US] | vs. | Chin, Jim | [US] |
+| 784 | Rockweit, Tony | [US] | vs. | Bennette, Anthony | [US] |
+| 785 | Wysocki, Eric | [US] | vs. | Bagnall, Justin | [US] |
+| 786 | Lehtinen, Jukka | [US] | vs. | Gonzales, Tony1653 | [US] |
+| 787 | Osso, Steve | [US] | vs. | Aloqab, Saleh | [KW] |
+| 788 | Ruby, Mark | [US] | vs. | Hawkinson, Jake | [US] |
+| 789 | Klosterman, Stefan | [US] | vs. | Garza, Austin | [US] |
+| 790 | Brunson, Rose | [US] | vs. | De Jong, Brandon | [US] |
+| 791 | Rosen, Ethan | [US] | vs. | Bass, Michael | [US] |
+| 792 | Cote, Robert | [US] | vs. | Barrantes, Jose | [CR] |
+| 793 | Burdorf, Mitchell | [US] | vs. | Humphrey, Austin | [US] |
+| 794 | Medina, Matthew | [US] | vs. | Johnston, Damon | [US] |
+| 795 | Cole, Kirk | [US] | vs. | Eikenes, Lasse | [NO] |
+| 796 | Meadows, Chase | [US] | vs. | Schleisman, Dustin | [US] |
+| 797 | Mack, Shaun | [US] | vs. | Michel, Christophe | [FR] |
+| 798 | Piles, James | [US] | vs. | Hollman, Mandy | [US] |
+| 799 | Coen, Trevor | [US] | vs. | De Silva, Travis | [US] |
+| 800 | Waller, Ozzie | [US] | vs. | Torres, Brian | [US] |
+| 801 | Bautista, Gino | [US] | vs. | Piles, John | [US] |
+| 802 | Lin, Livvie | [US] | vs. | Bachicha, Lane | [US] |
+| 803 | Tayek, Chandler | [US] | vs. | Starkson, Travis | [US] |
+| 804 | Yamasaki, Shogo | [CA] | vs. | Clark, Scott | [US] |
+| 805 | Talcott, Adam | [US] | vs. | Vitullo, Joshua | [US] |
+| 806 | Carlyon, Matthew | [US] | vs. | Horvath, Tamas | [HU] |
+| 807 | Venet, Paul | [US] | vs. | Jones, Nathaniel | [US] |
+| 808 | Saiz Jr, Gilbert | [US] | vs. | Jacobsen, Reece | [US] |
+| 809 | Opferman, Anthony | [US] | vs. | Murphy, Justin | [US] |
+| 810 | Nielsen, Stig Asboeg | [DK] | vs. | Hind, Stephen | [US] |
+| 811 | Castle, Drew | [US] | vs. | Sparks, Alexander | [US] |
+| 812 | Coperine, Dylana | [US] | vs. | Mancillas, Erika | [US] |
+| 813 | Norton, Daniel | [US] | vs. | Kirk, Connor | [US] |
+| 814 | Hildreth, John | [US] | vs. | Miller, Wilson | [US] |
+| 815 | Lister, Chloe | [US] | vs. | Espey, Paul | [US] |
+| 816 | Feng, Hans | [US] | vs. | Lichtblau, Dan | [US] |
+| 817 | Espinoza, Angelo | [US] | vs. | Miles, Aaron | [US] |
+| 818 | Mccarty, John | [US] | vs. | Woodward, Warren | [US] |
+| 819 | Moran, Tyler | [US] | vs. | Stephenson, Nick | [US] |
+| 820 | Lerma, Julian | [US] | vs. | Huang, Jason | [US] |
+| 821 | Rapp, Douglas | [US] | vs. | Cheng, Wei | [CA] |
+| 822 | Smith, Ronald Scott | [CA] | vs. | Pare, Jean-Michel | [CA] |
+| 823 | Lima Cardoso, Filipe | [BR] | vs. | Eloriaga, Charles | [US] |
+| 824 | Tran, Andrew | [US] | vs. | Wang, Zilu | [US] |
+| 825 | Perrenod, George | [US] | vs. | Ampier, Stephen | [US] |
+| 826 | Webb, Justin | [US] | vs. | Thor, Chou | [US] |
+| 827 | O'Neill, Chris | [US] | vs. | Richter, Brian | [US] |
+| 828 | Brooks, John Paul | [US] | vs. | Dugal, Louis-Philippe | [CA] |
+| 829 | Antonelli, Luc | [US] | vs. | Kutcher, Ben | [US] |
+| 830 | Dober, Joshua | [US] | vs. | Badiali, Tommaso | [US] |
+| 831 | Getsinger, Douglas | [US] | vs. | Tillman, Thomas | [US] |
+| 832 | Green, Brandon | [US] | vs. | Febras, Dylan | [US] |
+| 833 | Dodds, Harrison | [US] | vs. | Baker, Brandon | [US] |
+| 834 | Thorolfsson, Thor | [US] | vs. | Waitz, Dorian | [US] |
+| 835 | Reasor, Ian | [US] | vs. | Lageson, Jeffrey | [US] |
+| 836 | Shomer, Austin | [US] | vs. | Cruz, Eric | [US] |
+| 837 | Brumsey, Peter | [US] | vs. | Nishizawa, Taichi | [JP] |
+| 838 | Bevans, Alex | [US] | vs. | Carey, Connor | [US] |
+| 839 | Miranda, Eric | [US] | vs. | Mcnair, Michael | [US] |
+| 840 | Patrick, David | [US] | vs. | Anderson, Kevin | [US] |
+| 841 | Johnson, Dallas | [CA] | vs. | Aten, Sean | [US] |
+| 842 | Schmidt, Mike | [US] | vs. | Lin, Daniel | [US] |
+| 843 | Hogan, Kyle | [US] | vs. | Mack, Brennan | [US] |
+| 844 | Eastwood, Gregory | [US] | vs. | Mick, Joel | [US] |
+| 845 | Mcdonald, Chance | [US] | vs. | Templeman, Ken | [US] |
+| 846 | Wilhelm, Thomas | [US] | vs. | Barnes, Jacob | [US] |
+| 847 | Nguyen, Vincent | [US] | vs. | Heyer, Alexander | [US] |
+| 848 | Hayward, Geoffrey | [US] | vs. | Brown, Evan | [US] |
+| 849 | Laford, Valiant | [US] | vs. | Lee, Nathan | [CA] |
+| 850 | Bender, David | [US] | vs. | Ablack, Mukesh | [US] |
+| 851 | Han, Sung | [DE] | vs. | Mcconnell Ii, Esker | [US] |
+| 852 | Berwell, Jeffrey | [US] | vs. | Cohen, Ethan | [US] |
+| 853 | Ali, Rafid | [US] | vs. | Kauffman, Stacey | [US] |
+| 854 | Neighbors, Hayley | [US] | vs. | St Clair, Jeremy | [US] |
+| 855 | Littleton, Steven | [US] | vs. | Nelson, Ian | [US] |
+| 856 | Donaghey, Aaron | [XE] | vs. | Raigoza, Aaron | [US] |
+| 857 | De Vera, Ian | [CA] | vs. | Waddell, Mitch | [US] |
+| 858 | Yin, Matthew | [US] | vs. | Reyes Chanto, Ariana | [CR] |
+| 859 | Solis, Sabino | [US] | vs. | Tan, Xiao | [US] |
+| 860 | Marshello, Donald | [US] | vs. | Smethurst, Dan | [CA] |
+| 861 | Garcia, Fernando | [US] | vs. | Lodes, Kyle | [US] |
+| 862 | Kooyman, Brian | [US] | vs. | Mccoy, Kyle | [US] |
+| 863 | Chapman, Richard | [CA] | vs. | Musselman, Nathan | [US] |
+| 864 | Kivela, Alexander | [US] | vs. | Godines, Carter | [US] |
+| 865 | Vanderhoof, Dustin | [US] | vs. | Rosard, Jaden | [US] |
+| 866 | Patchell, John | [US] | vs. | Krolik, Chip | [US] |
+| 867 | Leyba, Andrew | [US] | vs. | Pallares, Ismael | [US] |
+| 868 | Huynh, John | [US] | vs. | Gillespie, Peter | [US] |
+| 869 | Pepper, Lindsay | [US] | vs. | Adkins, Gerry | [US] |
+| 870 | Hollis, Adam | [US] | vs. | Barraza, Dennis | [US] |
+| 871 | Quesenberry, Eric | [US] | vs. | Kauffman, Jordan | [US] |
+| 872 | Crosthwaite, Rodolfo | [US] | vs. | Jackson, Michael | [US] |
+| 873 | Donaire, Alister Bernhard | [US] | vs. | Bonnema, Joshua | [US] |
+| 874 | Babson, Mccray | [US] | vs. | Moranetz, Shannon | [US] |
+| 875 | Rosander, Jesse | [US] | vs. | Custodio, Anthony | [US] |
+| 876 | Vanevery, Kevin | [US] | vs. | Vogler, Zeke | [US] |
+| 877 | Vollmerhausen, Robert | [US] | vs. | Stinnett, Benjamin | [US] |
+| 878 | Bohnhoff, Benjamin | [US] | vs. | Harvey, Matthew | [US] |
+| 879 | Scott, Michael | [US] | vs. | Wallace, Paul | [US] |
+| 880 | Dahle, Travis | [US] | vs. | De La Torre, Evan | [US] |
+| 881 | Williams, Gabriel | [US] | vs. | Hardwick, Linsey | [US] |
+| 882 | Plum, Matt | [US] | vs. | Colgan, Matt | [US] |
+| 883 | Quon, Brandon | [US] | vs. | Gallinaro, Loris | [US] |
+| 884 | Baker, Thomas | [US] | vs. | Hale, Kristian | [US] |
+| 885 | O'Neil, Nicholas | [US] | vs. | Huang, George | [US] |
+| 886 | Hardin, Jeffrey | [US] | vs. | Merritt, Christopher | [US] |
+| 887 | Roush, Brett | [US] | vs. | Go, Tamon | [US] |
+| 888 | Willemann Iii, Charles | [US] | vs. | Talayumptewa, Kordell | [US] |
+| 889 | Lounsbury, Tricia | [US] | vs. | Hernandez, Odin | [US] |
+| 890 | Tran, Vu | [US] | vs. | Signorino, Elijah | [US] |
+| 891 | Thoni, Ethan | [US] | vs. | Francisco, Paul | [US] |
+| 892 | Jiang, Shangliang | [US] | vs. | Olaveson, James | [US] |
+| 893 | Kell, Clovis | [US] | vs. | Mitchell, Stephanie | [US] |
+| 894 | Vu, Thomas | [US] | vs. | Brooks, Garrick | [US] |
+| 895 | Trock, Gary | [US] | vs. | Dolinar, John | [US] |
+| 896 | Espinosa, Carlos | [US] | vs. | Lucas, Amanda | [US] |
+| 897 | Good, Joseph | [US] | vs. | Conmy, Thomas | [US] |
+| 898 | Strydom, Wynand | [US] | vs. | Pierce, Brandon | [US] |
+| 899 | Rollins, Danielle | [US] | vs. | Lotero, Ariel | [US] |
+| 900 | Young, Derek | [US] | vs. | Aguiniga, Aldo | [US] |
+| 901 | Heath, John | [US] | vs. | Meza, Zakk | [US] |
+| 902 | Finnell, Clint | [US] | vs. | Fairbanks, Robert | [US] |
+| 903 | Banuelos, Victor | [US] | vs. | Piniol, Glenn | [US] |
+| 904 | Zucoloto, Gianfranco | [BR] | vs. | Veal, Isaac | [US] |
+| 905 | Parks, Richard | [US] | vs. | Wolff, Steafen | [US] |
+| 906 | Guggemos, Jim | [US] | vs. | Velasco, Jose | [US] |
+| 907 | Herdman, William | [US] | vs. | Herbert, Brian | [US] |
+| 908 | Beneke, Lucas | [US] | vs. | Fisk, David | [US] |
+| 909 | Eighmy, Bradley | [US] | vs. | Mccord, Alec | [US] |
+| 910 | Hollander, Matt | [US] | vs. | Plante, Phillipe | [US] |
+| 911 | Anderson, Bill | [US] | vs. | Douglass, Mark | [US] |
+| 912 | Dunn, Daniel | [US] | vs. | Mcclelland, Kevin | [US] |
+| 913 | Hobby, Jayson | [US] | vs. | Collins, Kurtis | [US] |
+| 914 | Reed, Anastacia | [US] | vs. | Luong, Jesse | [US] |
+| 915 | Warms, Michael | [US] | vs. | Rogers, Dane | [US] |
+| 916 | Palmer, Alexandria | [US] | vs. | Bundy, Alden | [US] |
+| 917 | Ransom, Gavin | [US] | vs. | Jacobsen, Eric | [US] |
+| 918 | Ebertowski, Aaron | [US] | vs. | Dagen, Christopher | [US] |
+| 919 | Johnson, Brandon | [US] | vs. | Strydom, Willem | [US] |
+| 920 | Louro, Richard | [US] | vs. | Howard, George | [US] |
+| 921 | Hendrickson, Levi | [US] | vs. | Rudiger, Courtney | [US] |
+| 922 | Koza, Travis | [US] | vs. | Villasenor, Clark | [US] |
+| 923 | Sianez, Angel | [US] | vs. | Burnham, Gip | [US] |
+| 924 | Carlson, Anya | [US] | vs. | Baron, Dino | [US] |
+| 925 | Leclaire, Rae | [US] | vs. | Kearns, Eric | [US] |
+| 926 | Music, Dennis | [US] | vs. | Cortes, Marlon | [US] |
+| 927 | Fridley, Thomas | [US] | vs. | Birch, Ricky | [US] |
+| 928 | Reilly, Joseph | [US] | vs. | Bishow, Jeremy | [US] |
+| 929 | Rick, David | [US] | vs. | Mcconnell, Dawn | [US] |
+| 930 | Hopkins, Celia | [US] | vs. | Shipley, Harry | [US] |
+| 931 | Pool, Sage | [US] | vs. | Mantuano, Jerika | [US] |
+| 932 | Soloway, Mark | [US] | vs. | Maune, Sarah | [US] |
+| 933 | Swales, Wull | [XE] | vs. | Amise, Joshua | [US] |
+| 934 | Brown, Matthew | [US] | vs. | Turner, Cash | [US] |
+| 935 | Garner, Robert | [US] | vs. | Tafoya, Jacob | [US] |
+| 936 | Kelley, Erin | [US] | vs. | Milivojevic, Marko | [CH] |
+| 937 | Pomeroy, Jason | [US] | vs. | Pacheco, Jarred | [US] |
+| 938 | Guratovich, Nick | [CA] | vs. | White, Scott | [US] |
+| 939 | Ruiz, Carlos | [US] | vs. | Davenport, Tatiana | [US] |
+| 940 | Gonzales, Tony6618 | [US] | vs. | Greenstrand, James | [US] |
+| 941 | Mascioli, Stephen | [US] | vs. | Jackson, Jacob | [US] |
+| 942 | Shepherd, Rachel | [US] | vs. | Burkart, Jonathan | [US] |
+| 943 | Gravelle, Justin | [US] | vs. | Iman, Yeremia | [US] |
+| 944 | Krestoff, Nickolas | [US] | vs. | Eloriaga, Calvin | [US] |
+| 945 | Wang, Xiaolang | [US] | vs. | Mcknight, Kasie | [US] |
+| 946 | Lobuglio, Brendan | [US] | vs. | Walski, John | [US] |
+| 947 | Almikhi, Assim | [US] | vs. | Pinkava, Michael | [US] |
+| 948 | Murphy, Catrin | [US] | vs. | Guiley, Travis | [US] |
+| 949 | Ceniceros, Ernesto | [US] | vs. | Henriksen, Matt | [US] |
+| 950 | Garcia, Andrea | [US] | vs. | Hall, Brian | [US] |
+| 951 | Xie, Ronald | [US] | vs. | Brockman, David | [US] |
+| 952 | Baca, Aaron | [US] | vs. | Lopez, Cesar | [US] |
+| 953 | Trainor, Micah | [US] | vs. | Jasso, Alexis | [US] |
+| 954 | Davis, True | [US] | vs. | Coppoolse, Sander | [US] |
+| 955 | Dodge, Joel | [US] | vs. | Davila, Michael | [US] |
+| 956 | Oman, Chris | [US] | vs. | Boatman, Wesley | [US] |
+| 957 | Jones, James | [US] | vs. | Pastore, Philip | [US] |
+| 958 | Peedin, Lydia | [US] | vs. | Bridges, Kayla | [US] |
+| 959 | Pulliam, Kyle | [US] | vs. | Haker, Elizabeth | [US] |
+| 960 | Tran, Wilson | [US] | vs. | Kauffman, Thomas | [US] |
+| 961 | Maenpaa, James | [CA] | vs. | Koba, John | [US] |
+| 962 | Sowers, Nicole | [US] | vs. | Lovejoy, Timothy | [US] |
+| 963 | Veomett, Natasha | [US] | vs. | Kabiling, Raynard | [US] |
+| 964 | Gonzalez, Anthony | [US] | vs. | Elbert, Thomas | [US] |
+| 965 | Kennelly, Bryan | [US] | vs. | Littrell, Travis | [US] |
+| 966 | Cunha Ii, Charles | [US] | vs. | Chrisler, Lindsay | [US] |
+| 967 | Mathis-Gregory, Felicia | [US] | vs. | Hurst, Lowell | [US] |
+| 968 | Florka, Clint | [US] | vs. | Johnston, Chase | [US] |
+| 969 | Loando, Corey | [US] | vs. | Roylance, Rossetta | [US] |
+| 970 | O'Connor, Kathleen | [US] | vs. | White, Mary | [US] |
+| 971 | Milligan, Chandler | [US] | vs. | Lyons, Jonathan | [US] |
+| 972 | Sharen, Kyle | [CA] | vs. | Ross, Kim | [US] |
+| 973 | Shubin, Max | [US] | vs. | Harris, Nathan | [US] |
+| 2101 | Kohler, Jared | [US] | vs. | Turcotte, Maurice | [CA] |
+| 2102 | Becker, Shawn | [US] | vs. | Turtenwald, Owen | [US] |
+| 2103 | Hagiwara, Masakatsu | [JP] | vs. | Ehrler, Matthias | [CH] |
+| 2104 | Hoyle, Matthew | [US] | vs. | Kondo, Hirotsugu | [US] |
+| 2105 | Petersen, Logan | [US] | vs. | Maier, Christopher | [US] |
+| 2106 | Cheon, Paul | [US] | vs. | Kihara, Atsuki | [US] |
+| 2107 | Froehlich, Eric | [US] | vs. | Pisano, Rob | [US] |
+| 2108 | Bishop, Jesse | [US] | vs. | Saporito, Thiago | [US] |
+| 2109 | Dolinar, Nicolai | [US] | vs. | Karsten, Frank | [US] |
+| 2110 | Aust, Michael | [US] | vs. | Elkins, Brandon | [US] |
+| 2111 | Yee-Fong, Paul | [US] | vs. | Ochoa, David | [US] |
+| 2112 | Tourloukis, Chris | [US] | vs. | Low, Keane | [NZ] |
+| 2113 | Segal, Michael | [US] | vs. | Mcclain, Josh | [US] |
+| 2114 | Cipriano, Casey | [US] | vs. | Gerson, Steve | [ZA] |
+| 2115 | Perret, Valentin | [US] | vs. | Dreher, Gregory | [US] |
+| 2116 | Grendelmeier, Nadine | [CH] | vs. | Devlin, Michael | [US] |
+| 2117 | Johnson, Scott | [US] | vs. | Harrelson, Douglas | [US] |
+| 2118 | Koven, Ryan | [US] | vs. | Skaggs, Shawn | [US] |
+| 2119 | Hardy, Robert | [US] | vs. | Gordon, Andrew | [CA] |
+| 2120 | Maenpaa, Aaron | [US] | vs. | Madison, Graham | [US] |
+| 2121 | Cahalan, Liam | [US] | vs. | Disenborg, Johan | [SE] |
+| 2122 | Stark, Graham | [US] | vs. | Johnson, Ian | [US] |
+| 2123 | Ochoa, Dustin | [US] | vs. | Newman, Ryan | [US] |
+| 2124 | Hsieh, Nathan | [US] | vs. | Tews, Andrew | [CA] |
+| 2125 | Mcnamara, Casey | [US] | vs. | Stark, Ben | [US] |
+| 2126 | Fletcher, Graeme | [XE] | vs. | Farivar, Michael | [US] |
+| 2127 | Jong, Philip | [US] | vs. | Saredo, Adrian | [AR] |
+| 2128 | Milis, Michael | [BE] | vs. | Barr, Bryan | [US] |
+| 2129 | Bishop, Alyssa | [US] | vs. | Markowski, Weston | [US] |
+| 2130 | Baglio, Matthew | [US] | vs. | Mascioli, Chris | [US] |
+| 2131 | Cole, Matt | [US] | vs. | Arai, Jin | [JP] |
+| 2132 | Appler, Mikael | [US] | vs. | Blomquist, Kyle | [US] |
+| 2133 | Lavandier, Erick | [US] | vs. | Oliver, Neal | [US] |
+| 2134 | Clarke, Jamie | [CA] | vs. | Smith, Brenda | [US] |
+| 2135 | Barclay, Allan | [NZ] | vs. | Christensen, Oscar | [DK] |
+| 2136 | Aldous, Cameron | [US] | vs. | Bartholow, David | [US] |
+| 2137 | Phillips, Cedric | [US] | vs. | Theurel, Sebastien | [FR] |
+| 2138 | Allard, Jason | [US] | vs. | Jaskolka, Michael | [US] |
+| 2139 | Lyons, Oisin | [US] | vs. | Seaton, John | [NZ] |
+| 2140 | O'Malley, William | [US] | vs. | Mowles, Jeremy | [US] |
+| 2141 | Wrisley, Jason | [US] | vs. | Madson, Jake | [US] |
+| 2142 | Williams, David | [US] | vs. | Spears, Jimmy | [US] |
+| 2143 | Steiner, Casey | [US] | vs. | Anderson, Michael6559 | [US] |
+| 2144 | Meade, Larry | [US] | vs. | Cranfill, Drew | [US] |
+| 2145 | Kovacs, Gabor | [XE] | vs. | Kelly, Mathew | [CA] |
+| 2146 | Manfield, Seth | [US] | vs. | Spezzo, Vincent | [US] |
+| 2147 | Pierce, Lucius | [US] | vs. | Reid, Jason | [US] |
+| 2148 | Rubinstein, Garrett | [US] | vs. | Malain, Nikki | [US] |
+| 2149 | Hofmann, Mike | [US] | vs. | Lindell, Matthew | [US] |
+| 2150 | Johnson, Joseph | [US] | vs. | Letourneau, Leo | [CA] |
+| 2151 | Humphrey, Elliott | [US] | vs. | Ballinger, Bradley | [US] |
+| 2152 | Kirshon, Daniel | [US] | vs. | Iwata, Sho | [US] |
+| 2153 | Gillet, Jason | [US] | vs. | Deguzman, Chloe | [US] |
+| 2154 | Vegso, Brian | [US] | vs. | Stormoen, Steve | [US] |
+| 2155 | Favretto, Carlo | [US] | vs. | Suntay, Alejandro | [US] |
+| 2156 | Jew, Jeffrey | [US] | vs. | Machalica, Arthur | [US] |
+| 2157 | Babcock, Matthew | [US] | vs. | Turner, James | [US] |
+| 2158 | Melendrez, Aysha | [US] | vs. | Billingsley, Jason | [US] |
+| 2159 | Navarro, Troy | [US] | vs. | Worden, Jake | [US] |
+| 2160 | Sisson, J. D. | [US] | vs. | Perez, Joseph | [US] |
+| 2161 | Louke, Mary | [US] | vs. | Houst, Tony | [US] |
+| 2162 | Lynch, Thomas | [US] | vs. | Brodie, Daniel | [US] |
+| 2163 | Dodson, Tom | [US] | vs. | Morillo, Joel | [US] |
+| 2164 | Halby, Mike | [US] | vs. | Shepard, Jesse | [US] |
+| 2165 | Feeny, Daniel | [US] | vs. | Egashira, Kenji | [US] |
+| 2166 | Low, Arthur | [NZ] | vs. | Willebrand, Jeff | [US] |
+| 2167 | Auge, Christopher | [US] | vs. | Stevens, David | [US] |
+| 2168 | Haskell, Trey | [US] | vs. | Eckman, Isaiah | [US] |
+| 2169 | Scharlin-Pettee, Hannah | [US] | vs. | Lawton, Kyle | [US] |
+| 2170 | Sindle, Steven | [US] | vs. | Kahn, Max | [US] |
+| 2171 | Rusheen, David | [US] | vs. | Shavlovskyy, Dmytro | [UA] |
+| 2172 | Browne, Theodore | [US] | vs. | Siller, Jon | [US] |
+| 2173 | Timm, Nick | [US] | vs. | Liang, Warren | [US] |
+| 2174 | Schloegel, David | [US] | vs. | Ready, Troy | [US] |
+| 2175 | Rosin, Ivan | [SE] | vs. | Kelterbaum, Richard | [FR] |
+| 2176 | Rosin, Peter | [SE] | vs. | Boldan, Eric | [US] |
+| 2177 | Anderson, Charlie | [US] | vs. | Kim, Calvin0528 | [US] |
+| 2178 | Bachison, Xander | [US] | vs. | Berry, Chris | [US] |
+| 2179 | Landes, Adam | [US] | vs. | Liu, Ji | [CN] |
+| 2180 | Madore, Blair | [US] | vs. | Whysall, Sheila | [XE] |
+| 2181 | Seaton, Traci | [NZ] | vs. | Wrigglesworth, Walter | [US] |
+| 2182 | Arellano, Efren | [US] | vs. | Harper, Jonathan | [US] |
+| 2183 | Lewis, William | [US] | vs. | Mohr, Michael | [US] |
+| 2184 | Gray, Shane | [US] | vs. | Martin, Wesley | [US] |
+| 2185 | Savidan, Adam | [US] | vs. | Chalk, Titus | [DE] |
+| 2186 | Kent, Doug | [US] | vs. | Mcnair, Carson | [US] |
+| - | Brooks, Grant | [US] | vs. | BYE |  |
+
+
+
+
+
+
+

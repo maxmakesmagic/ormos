@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170901140814/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-01-13)
+[Link to Wayback Machine](https://web.archive.org/web/20211025053126/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-01-13)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "*/"
+[_metadata_:description]:- "The Card Image Gallery is now complete."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "644816"
 [_metadata_:publish_date]:- "2014-01-13"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Image Gallery"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-01 14:08:14"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170901140814id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-01-13"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-01-13"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 05:31:26"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025053126id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-01-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-01-13"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

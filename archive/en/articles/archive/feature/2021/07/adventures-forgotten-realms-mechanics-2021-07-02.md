@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210927164204/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-07-02?fbclid=IwAR1SssGrx3MDFscMRytFMOpf65LOBIP1sYJEJqOCc9AN5DIAHTa4ZRD_mOE)
+[Link to Wayback Machine](https://web.archive.org/web/20220517205123/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-07-02?utm_source=MTGNexus&utm_medium=SetPreviews)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Hail, adventurer! Before you set out for Adventures in the Forgotten Realms, take a moment to learn about how this world works."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-07-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Adventures in the Forgotten Realms Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-27 16:42:04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210927164204id_/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-07-02?fbclid=IwAR1SssGrx3MDFscMRytFMOpf65LOBIP1sYJEJqOCc9AN5DIAHTa4ZRD_mOE"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-07-02?fbclid=IwAR1SssGrx3MDFscMRytFMOpf65LOBIP1sYJEJqOCc9AN5DIAHTa4ZRD_mOE"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 20:51:23"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517205123id_/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-07-02?utm_source=MTGNexus&utm_medium=SetPreviews"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-07-02?utm_source=MTGNexus&utm_medium=SetPreviews"
 ---
 
 

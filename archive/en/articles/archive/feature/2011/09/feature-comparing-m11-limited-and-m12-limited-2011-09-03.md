@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Over the past several years, core set Limited formats have been getting a lot of play. Players will draft core set Limited with friends, at the local store, on Magic Online, at Pro Tour Qualifiers, at Grand Prix, at Nationals, and even at the Pro Tour."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "315401"
+[_metadata_:path_date]:- "2011-09-03"
 [_metadata_:publish_date]:- "2011-09-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: Comparing M11 Limited and M12 Limited"
@@ -47,9 +48,9 @@ Over the past several years, core set Limited formats have been getting a lot of
 When core set Limited began gaining a bigger and bigger presence at every stage of the game, there were some skeptics. After all, one of the things that makes Limited so interesting is that you find yourself playing completely different formats from year to year... and if core set Limited formats are basically rehashes of older core sets, won't it just feel like you're drafting the same set you were drafting a year ago?
 
 
-![](https://web.archive.org/web/20151124134933im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/line_upper.png)
-![](https://web.archive.org/web/20151124103201im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/616_logo_kgmak10bnx.jpg)
-![](https://web.archive.org/web/20151124135003im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/line_lower.png)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/line_upper.png)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/616_logo_kgmak10bnx.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/line_lower.png)
 While core sets do share a lot of cards with one another, each core set format since *Magic* *2010* has had a very distinct feel to it—to the point where even a completely vanilla card like [Goblin Piker](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Piker) can change wildly in value from *Magic* *2011* to *Magic* *2012*.
 
 
@@ -64,7 +65,7 @@ To get a better understanding of the differences between *M11* Limited and *M12*
 
 
 
-![](https://web.archive.org/web/20151124105056im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/featureCompare_Chapin.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/featurecompare_chapin.jpg)
 
 *Patrick Chapin*
 
@@ -103,7 +104,7 @@ Before I let Chapin go, I asked him what his thoughts were on [Goblin Piker](htt
 
 
 
-![](https://web.archive.org/web/20151124140531im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/featureCompare_Scott-Vargas.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/featurecompare_scott-vargas.jpg)
 
 *Luis Scott-Vargas*
 

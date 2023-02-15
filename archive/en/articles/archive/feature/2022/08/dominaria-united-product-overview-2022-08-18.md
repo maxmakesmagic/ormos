@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220818173940/https://magic.wizards.com/en/articles/archive/feature/dominaria-united-product-overview-2022-08-18)
+[Link to Wayback Machine](https://web.archive.org/web/20221020021728/https://magic.wizards.com/en/articles/archive/feature/dominaria-united-product-overview-2022-08-18?utm_medium=price-search&utm_term=851639Af652&afF=50&utm_source=magic-the-gathering)
 
 [_metadata_:author]:- "Tim Brown"
 [_metadata_:description]:- "Dominaria United is legendary with every booster. Here's what to expect inside Set, Draft, Collector, and Jumpstart Boosters!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-08-18"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dominaria United Product Overview"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:39:40"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818173940id_/https://magic.wizards.com/en/articles/archive/feature/dominaria-united-product-overview-2022-08-18"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominaria-united-product-overview-2022-08-18"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-20 02:17:28"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221020021728id_/https://magic.wizards.com/en/articles/archive/feature/dominaria-united-product-overview-2022-08-18?utm_medium=price-search&utm_term=851639Af652&afF=50&utm_source=magic-the-gathering"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominaria-united-product-overview-2022-08-18?utm_medium=price-search&utm_term=851639Af652&afF=50&utm_source=magic-the-gathering"
 ---
 
 
@@ -39,6 +39,9 @@ By Tim Brown
 
 
 
+
+
+***(Editor's Note: This article was updated to include additional details found elsewhere for* Dominaria United *cards designed for Jumpstart Booster packs.)***
 
 
 As we return to *Magic*'s original plane of Dominaria, there are whispers on the wind. Some of the many familiar and, dare I say, legendary heroes of Dominaria are banding together in a new coalition to fight the Phyrexians once again, but they must do so carefully. With the Phyrexians creating sleeper agents everywhere, who knows who is friend or foe?
@@ -98,7 +101,13 @@ With *Dominaria United*, *Jumpstart* will release with a themed *Magic* set and 
 * **Red**: Ready to Charge and Ready to Attack
 * **Green**: Beast Territory and Monster Territory
 
-For *Dominaria United* there are five new and rare cards that are unique to Jumpstart Boosters, one for each color, and all the *Jumpstart* rare cards are standard legal. Each booster will also come with another rare from the main set that is randomly selected from a pool within the theme's color pie.
+For *Dominaria United*, there are five new and rare cards that are designed for Jumpstart Boosters, one for each color, and all the *Jumpstart* rare cards are standard legal. Each booster will also come with another rare from the main set that is randomly selected from a pool within the theme's color pie.
+
+
+![Serra Redeemer](https://media.wizards.com/2022/dmu/en_OoLjEq08v4.png)![Cosmic Epiphany](https://media.wizards.com/2022/dmu/en_n02W3lKTQR.png)![Tyrannical Pitlord](https://media.wizards.com/2022/dmu/en_TktlGBh5DJ.png)
+
+
+![Ragefire Hellkite](https://media.wizards.com/2022/dmu/en_8eNb0aqH8w.png)![Briar Hydra](https://media.wizards.com/2022/dmu/en_DgLgwk9Nux.png)
 
 
 *Dominaria United* Jumpstart Boosters each contain:
@@ -106,10 +115,13 @@ For *Dominaria United* there are five new and rare cards that are unique to Jump
 
 * 1 Theme card that describes the theme of the Jumpstart Booster
 * 20 Total playable cards
-* 2 Rare cards—one random rare or mythic rare from the main set within the theme's mana color and one rare that is unique to Jumpstart Boosters
+* 2 Rare cards—one random rare or mythic rare from the main set within the theme's mana color and one rare that is designed for Jumpstart Boosters
 * 2 Traditional foil lands
 * 5 Non-foil lands
 * 1 Non-foil full-art stained-glass basic land
+
+The five new rares designed for *Dominaria United* Jumpstart Boosters can also be found in Set Boosters, in both foil and nonfoil, as well as in an extended-art version in Collector Boosters.
+
 
 Collector Boosters
 ==================

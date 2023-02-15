@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210923021548/https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18?&partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm)
+[Link to Wayback Machine](https://web.archive.org/web/20210305045731/https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18?utm_source=MTGNexus&utm_medium=SetPreviews)
 
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Class is starting soon. Here's what you need to know about your enrollment at Strixhaven: School of Mages."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-02-18"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The First Lesson: Introduction to Strixhaven"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-23 02:15:48"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210923021548id_/https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18?&partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18?&partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-05 04:57:31"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210305045731id_/https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18?utm_source=MTGNexus&utm_medium=SetPreviews"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18?utm_source=MTGNexus&utm_medium=SetPreviews"
 ---
 
 
@@ -57,7 +57,7 @@ The Colleges
 ============
 
 
-Each of our Colleges was founded by the elder dragon whose name each college bears. Our founders were paragons of magic and knowledge, and each college strives to match its founder's vision and magical aptitudes! We won't be meeting the founders today, but with any amount of luck, they may show up at orientation!
+Each of our Colleges was founded by the elder dragon whose name each school bears. Our founders were paragons of magic and knowledge, and each school strives to match its founder's vision and magical aptitudes! We won't be meeting the founders today, but with any amount of luck, they may show up at orientation!
 
 
 Take careful consideration of each college and start giving thought to which one you'll choose!
@@ -183,7 +183,7 @@ For those who wish to expand their learning on *Strixhaven*, here are a few more
 ==========================
 
 
-There will be five Commander decks, one for each college. *Commander (2021 Edition)* features 81 new cards. Each deck will focus on the colors and themes of its associated college!
+There will be five Commander decks, one for each school. *Commander (2021 Edition)* features 81 new cards. Each deck will focus on the colors and themes of its associated college!
 
 
 The decks are named:
@@ -205,7 +205,7 @@ What we can tell you is that you'll notice some differences with the packaging f
 ======================
 
 
-There are many ways to visit Strixhaven! From Draft Boosters and Set Boosters to Bundles and more—including enjoying the benefits the college of your choice at Prerelease events—there are options aplenty to tailor your experience. We will, of course, be sharing more details closer to your orientation.
+There are many ways to visit Strixhaven! From Draft Boosters and Set Boosters to Bundles and more—including enjoying the benefits the school of your choice at Prerelease events—there are options aplenty to tailor your experience. We will, of course, be sharing more details closer to your orientation.
 
 
 ![STX Draft Booster Display](https://media.wizards.com/2021/images/daily/en_I132zfi1gq.png)

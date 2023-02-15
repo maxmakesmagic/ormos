@@ -1,0 +1,713 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20140815091339/http://magic.wizards.com/en/events/coverage/gppor14/r13standings)
+
+[_metadata_:description]:- "RankTeamPointsOMW% 1 Severson/Weitz/Skallerup 3467.2913% 2 Katz/Yu/Painter 3370.2367% 3 Black/Severa/Vidugiris 3365.6716% 4 Froehlich/Scott-Vargas/Cheon 3365.1216% 5 Turtenwald/Jensen/Duke 3363.3042% 6 Wantanabe/Saito"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "258726"
+[_metadata_:publish_date]:- "2014-08-10"
+[_metadata_:source]:- "div-main"
+[_metadata_:title]:- "ROUND 13 STANDINGS"
+[_metadata_:wayback_capture_timestamp]:- "2014-08-15 09:13:39"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20140815091339id_/http://magic.wizards.com/en/events/coverage/gppor14/r13standings"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/events/coverage/gppor14/r13standings"
+---
+
+
+
+
+
+### GRAND PRIX PORTLAND 2014
+
+
+ROUND 13 STANDINGS
+==================
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+
+Wizards of the Coast
+
+
+
+
+August 10, 2014
+ 
+
+
+
+
+
+
+
+
+
+ **Rank** | **Team** | **Points** | **OMW%** ||  1  | Severson/Weitz/Skallerup |  34 | 67.2913% |
+|  2  | Katz/Yu/Painter |  33 | 70.2367% |
+|  3  | Black/Severa/Vidugiris |  33 | 65.6716% |
+|  4  | Froehlich/Scott-Vargas/Cheon |  33 | 65.1216% |
+|  5  | Turtenwald/Jensen/Duke |  33 | 63.3042% |
+|  6  | Wantanabe/Saito/Tsumura |  33 | 61.8578% |
+|  7  | Calcano/Gardner/Gatica |  33 | 59.0105% |
+|  8  | Lam/Li/Choi |  31 | 56.7840% |
+|  9  | Hertz/Wilkins/Fischer |  30 | 69.0363% |
+|  10  | Badran/Sittner/Winn |  30 | 66.2064% |
+|  11  | Majlaton/Demestrio/Friedman |  30 | 64.5841% |
+|  12  | Bulnes/Berrios/Punzalan |  30 | 64.3688% |
+|  13  | Utter-Leyton/Martell/Ochoa |  30 | 64.3054% |
+|  14  | West/Hanson/Gurney |  30 | 63.9370% |
+|  15  | Montoya/Maliszewski/Mitchell |  30 | 63.4746% |
+|  16  | Lax/Hayne/Wescoe |  30 | 60.6838% |
+|  17  | Wiegersma/Costa/Parke |  30 | 60.6339% |
+|  18  | Gossett/Gerhardt/Gervase |  30 | 59.5764% |
+|  19  | Vincent/Bailey/Battisti |  30 | 58.1197% |
+|  20  | Marling/Gomes/Bonacini |  28 | 67.1945% |
+|  21  | Luks/Liprandi/Zurimendi |  28 | 65.5114% |
+|  22  | Swords/Robertson/Soens |  28 | 62.0227% |
+|  23  | Hunsaker/Ruprecht/Goold |  27 | 68.9255% |
+|  24  | Fennell/Manfield/Skarren |  27 | 65.5484% |
+|  25  | Baeckstrom/Prost/Hunt |  27 | 63.1492% |
+|  26  | Lallemand/MacDonald/MacDonald |  27 | 62.5783% |
+|  27  | Ricci/Hurley/Clark |  27 | 62.3119% |
+|  28  | Alexandre/Medeiros/Lamego |  27 | 62.2485% |
+|  29  | Mason/Simon/Hellman |  27 | 61.1522% |
+|  30  | McGrew/Paxton/Mastromatteo |  27 | 60.2881% |
+|  31  | Picard/Salahub/Berdusco |  27 | 60.1886% |
+|  32  | Huang/Kuo/Sim |  27 | 58.4578% |
+|  33  | Myers/Rutherford/Peloquin |  27 | 58.4155% |
+|  34  | Dermer/Rusinek/McIvor |  27 | 57.0205% |
+|  35  | Sutter/Niday/Hilts |  27 | 55.9823% |
+|  36  | Bartolomei/Gates/Hatch |  27 | 55.5506% |
+|  37  | Kreitzman/Cunningham/Edmondson |  27 | 54.6126% |
+|  38  | Foster/Lange/Gasque |  25 | 63.0412% |
+|  39  | Nguyen/Huteson/Ward |  24 | 66.2722% |
+|  40  | Schwartz/Schwartz/Ni |  24 | 65.5347% |
+|  41  | Zafra/Potter/Chan |  24 | 63.5813% |
+|  42  | Kaech/Kaech/Kaech |  24 | 60.7484% |
+|  43  | Quinto/Ferri/Salvade |  24 | 60.5605% |
+|  44  | Hebert/Johnson/Trujillo |  24 | 60.1003% |
+|  45  | Tang/Son/Harper |  24 | 60.0588% |
+|  46  | Ho/Longo/Schneider |  24 | 58.3646% |
+|  47  | Chan/Theirault/Drinkle |  24 | 56.5159% |
+|  48  | Disconzi/da Rosa/Cortez |  22 | 63.3747% |
+|  49  | Taylor/Winterbottom/McKenzie-Sasges |  21 | 61.9224% |
+|  50  | Byrn/Schulte/Griffin |  20 | 56.1141% |
+|  51  | Langford/Krantz/Krantz |  19 | 65.6305% |
+|  52  | Aw/Wong/Patterson |  19 | 64.1152% |
+|  53  | Kofsky/Scovazzo/Garraud |  19 | 63.6831% |
+|  54  | Plumb/McGee/Murray |  19 | 63.2569% |
+|  55  | McKee/Krotkov/Holt |  19 | 62.9042% |
+|  56  | Johnston/Christman/Dvorshak |  19 | 58.5597% |
+|  57  | Zarb/Willis/Hardman |  19 | 55.2734% |
+|  58  | Oratz/Nelson/Alawar |  19 | 53.7257% |
+|  59  | Salvador/Tibbles/Morris-Lent |  19 | 53.2305% |
+|  60  | Parise/Pei/Pei |  19 | 52.5103% |
+|  61  | Brubaker/Christensen/Sliger |  19 | 41.2331% |
+|  62  | Layne/Rusky/Sage |  18 | 70.5247% |
+|  63  | Craver/Allworth/Kamsha |  18 | 67.6367% |
+|  64  | Tom/Sowers/Liu |  18 | 62.3589% |
+|  65  | Robbins/Fisher/Cummins |  18 | 62.2354% |
+|  66  | Sunde/Rousseau/Vandermeyden |  18 | 61.9768% |
+|  67  | La Ford/Lake/Miller |  18 | 61.0597% |
+|  68  | Lau/Der/Yee |  18 | 61.0420% |
+|  69  | Talim/Shears/Shears |  18 | 60.7510% |
+|  70  | Monson/Hodges/Johnson |  18 | 60.7422% |
+|  71  | Harold/Gaede/Edmund |  18 | 60.4189% |
+|  72  | Brock/Gilmer/Maginnis |  18 | 58.8183% |
+|  73  | Poutell/Beeson/Wilson |  18 | 58.1129% |
+|  74  | Wijaya/Mancuso/Oliver |  18 | 58.0379% |
+|  75  | Turner/Vinson/Mielcarz |  18 | 57.7072% |
+|  76  | Desphy/Wong/Pu |  18 | 57.3765% |
+|  77  | Duong/Grandjambe/Price |  18 | 57.3545% |
+|  78  | Eccles/Beg/Timidalski |  18 | 57.1429% |
+|  79  | Sundholm/Chatfield/Swiney |  18 | 56.9136% |
+|  80  | Kubin/Hudson/Li |  18 | 56.8842% |
+|  81  | Newport/Kissler/Grundy |  18 | 56.7284% |
+|  82  | O'Leary/Young/Reese |  18 | 56.7078% |
+|  83  | Derrickson/Wong/Boyes |  18 | 56.6138% |
+|  84  | Marshall/Magana/Branum |  18 | 56.5447% |
+|  85  | Walker/Girard/Ziemba |  18 | 56.0229% |
+|  86  | Gorman/Baker/Callahan |  18 | 55.5379% |
+|  87  | Komor/Kassari/Morphis |  18 | 55.3616% |
+|  88  | Nass/Shenhar/Wilson |  18 | 55.2381% |
+|  89  | Aubertin/Eleyet/Lochridge |  18 | 55.1029% |
+|  90  | Boland/Holiday/Fagundes |  18 | 55.0852% |
+|  91  | Hogman/Jack/Besta |  18 | 54.4974% |
+|  92  | Smentana/Fairchild/Morris |  18 | 53.8801% |
+|  93  | Orcutt/Cameron/Forster |  18 | 53.2099% |
+|  94  | Nguyen/Wagoner/Dann |  18 | 53.1570% |
+|  95  | PhouangPheth/Santo/Nguyen |  18 | 53.0688% |
+|  96  | Bender/Dhruv/Carter |  18 | 51.9753% |
+|  97  | Gifford/Sloane/Bjorndahl |  18 | 51.4991% |
+|  98  | Chandler/Baldwin/Hunter |  18 | 50.7113% |
+|  99  | Ulanpv/Ward/Duron |  18 | 50.2778% |
+|  100  | Chrobak/Bercovich/Wedding |  18 | 47.8307% |
+|  101  | Barnum/Sprunger/Dutton |  18 | 47.8307% |
+|  102  | Koenig/Goldsmith/Stednitz |  18 | 45.6790% |
+|  103  | Mintz/Rand/Rand |  17 | 57.2722% |
+|  104  | Amburn/Cook/Welch |  16 | 68.0804% |
+|  105  | DelTerzo/Pape/Prisco |  16 | 65.0632% |
+|  106  | Josephsen/Solberg/Lincoln |  16 | 61.0367% |
+|  107  | Zaleski/Kreiter/Young |  16 | 58.6831% |
+|  108  | Tews/Tews/Larsson |  16 | 58.3627% |
+|  109  | Meinzer/Lambeth/Fortner |  16 | 58.2143% |
+|  110  | Gaul/Smith/Farr |  16 | 57.0326% |
+|  111  | Lazarus/Seaman/Yu |  16 | 52.1972% |
+|  112  | Castleman/Ferreria/Wollin |  16 | 47.8160% |
+|  113  | Smith/Hakanson/Hakanson |  16 | 46.8959% |
+|  114  | Drew/Salts/Marquez |  16 | 44.7208% |
+|  115  | Thompson/Arcuni/Stehle |  16 | 41.9209% |
+|  116  | Buell/Anderson/Skelly |  15 | 65.9970% |
+|  117  | Tao/Hwang/Brown |  15 | 65.9375% |
+|  118  | Archer/Anderson/Baker |  15 | 62.1429% |
+|  119  | Knight/Worthington/Worthington |  15 | 61.7210% |
+|  120  | Chavez/Martin/Vasquez |  15 | 61.4932% |
+|  121  | Reed/Schutter/Waggoner |  15 | 61.3095% |
+|  122  | Mueller/James/Fourcade |  15 | 60.5804% |
+|  123  | Gibson/De/Carter |  15 | 60.0015% |
+|  124  | Levy/Rachid/Dezani |  15 | 58.7798% |
+|  125  | Bowman/Fontanos/Downin |  15 | 58.6023% |
+|  126  | Steinfeld/Tamura/Innocenti |  15 | 57.6499% |
+|  127  | Wicklund/Kim/Wymore |  15 | 56.8750% |
+|  128  | Beyerlein/Keeth/Hickey |  15 | 56.7708% |
+|  129  | Maroney/Nees/Darlington |  15 | 56.6220% |
+|  130  | Applefield/Asbjornsen/Passarelli |  15 | 56.3492% |
+|  131  | Davalos/Russell/Baxter |  15 | 56.0417% |
+|  132  | Nguyen/Ale/Tukeman |  15 | 55.5996% |
+|  133  | Davies/Briginshaw/davies |  15 | 55.3924% |
+|  134  | Feng/Cahill/Smith |  15 | 55.3720% |
+|  135  | Lebold/Maskell/Bissonette |  15 | 55.0617% |
+|  136  | Fitterer/Miller/Bishop |  15 | 54.4792% |
+|  137  | Barker/Wiles/Wiseman |  15 | 54.0035% |
+|  138  | Phelan/Vicario/Ryan |  15 | 53.7500% |
+|  139  | He/Betts/Wong |  15 | 53.3862% |
+|  140  | Gibson/Gant/Nguyen |  15 | 53.3642% |
+|  141  | Collins/Nollen/Adams |  15 | 53.3333% |
+|  142  | halvorson/Oudinot/ford |  15 | 53.2628% |
+|  143  | Miller/Thibeau/Johnston |  15 | 52.9233% |
+|  144  | Watson/Rogachevsky/Chang |  15 | 52.7083% |
+|  145  | Fox-Priebe/Metzger/Gemmer |  15 | 52.0282% |
+|  146  | Laforge/Hull/Wong |  15 | 51.9753% |
+|  147  | Festini/Johnson/Wilson |  15 | 51.5625% |
+|  148  | Sperling/Hockley/Kainz |  15 | 51.4137% |
+|  149  | Sperling/Williams/Rietzl |  15 | 50.1637% |
+|  150  | Bruggman/Bircher/Tong |  15 | 49.2063% |
+|  151  | Lindner/Boyd/Kolesnikov |  15 | 49.0050% |
+|  152  | Pincus/Davoudi/Nelson |  15 | 48.5417% |
+|  153  | Jones/Dorsett/Fulton |  15 | 44.8677% |
+|  154  | Cadonau/Garner/Bruning |  13 | 63.7649% |
+|  155  | Rice/Briggs/Ibarra-Leal |  13 | 63.6508% |
+|  156  | Yang/Smith/Tovar |  13 | 61.4966% |
+|  157  | Stevenson/Lynch/Spong |  13 | 60.2041% |
+|  158  | Eakins/Smyth/Clark |  13 | 59.5238% |
+|  159  | Gonzalez/Lin/Fong |  13 | 58.5034% |
+|  160  | Hoy/Norton/Jacobo |  13 | 56.6667% |
+|  161  | Pappendorf/Demery/Loving |  13 | 56.1161% |
+|  162  | Hagerman/McLaughlin/Edeen |  13 | 55.5208% |
+|  163  | Barnes/Abner/Claborne |  13 | 52.0982% |
+|  164  | Edvalson/Eaton/Wiget |  13 | 51.2649% |
+|  165  | Tsang/Man/Chiu |  13 | 50.4012% |
+|  166  | Mowery/Deocares/Knapp |  13 | 49.8457% |
+|  167  | Macurda/Salem/Dunn |  13 | 48.2766% |
+|  168  | Ramias/bailey/cardinell |  13 | 44.6712% |
+|  169  | Champagne/Marks/Ruby |  13 | 43.5565% |
+|  170  | Patrick/Van/Smith |  12 | 66.9388% |
+|  171  | Adair/Barkac/Merbach |  12 | 66.6667% |
+|  172  | George/Smith/Schmidt |  12 | 65.0000% |
+|  173  | Kaad/Kearney/Ward |  12 | 63.5374% |
+|  174  | Harlow/Harlow/Edwards |  12 | 60.8163% |
+|  175  | Vavra/Koska/Mines |  12 | 59.8639% |
+|  176  | Li/Sui/Lau |  12 | 58.8435% |
+|  177  | Anderson/Maros/Khan |  12 | 58.7755% |
+|  178  | Leung/Ward/Reilly |  12 | 58.3333% |
+|  179  | wiley/Kudva/Soloway |  12 | 58.0272% |
+|  180  | Alcorn/Bailey/Bailey |  12 | 57.6871% |
+|  181  | Stark/Nakamura/Juza |  12 | 57.4150% |
+|  182  | Gerard/Hofstra/Boa |  12 | 56.7708% |
+|  183  | Larson/Gadzinski/Baker |  12 | 56.6220% |
+|  184  | Jordan/Heine/Ferri |  12 | 56.3946% |
+|  185  | Wang/Yang/Jing |  12 | 56.3946% |
+|  186  | Herlin/Sampson/Anderson |  12 | 56.3946% |
+|  187  | Steier/Johnson/Collier |  12 | 56.3542% |
+|  188  | Eng/Scott/McNally |  12 | 55.7823% |
+|  189  | Riisnes/Chen/Isaacs |  12 | 55.7143% |
+|  190  | Gates/Campbell/Chamberlain |  12 | 55.7143% |
+|  191  | Cecilia/Ravagli/Canavesi |  12 | 55.3741% |
+|  192  | D'Asaro/Medeiros/D'Asaro |  12 | 55.0340% |
+|  193  | Boutwell/Powers/Palmrose |  12 | 55.0340% |
+|  194  | Utzon/Reyes/Rose |  12 | 54.9660% |
+|  195  | Alexovich/Bruner/Alexovich |  12 | 54.4792% |
+|  196  | Dalton/Miller/lexow |  12 | 54.4218% |
+|  197  | murahashi/bromham/asai |  12 | 53.9456% |
+|  198  | Biaggi/Gilison/Baukholt |  12 | 53.9021% |
+|  199  | Churchill/Benson/Morrigan |  12 | 53.5406% |
+|  200  | Dodge/chapman/chen |  12 | 53.4970% |
+|  201  | Satta-Hutton/Romero/Hoffarth |  12 | 53.4014% |
+|  202  | Benson/Phelps/Van Dusen |  12 | 53.2391% |
+|  203  | Arkin/Swailes/Ho |  12 | 52.9932% |
+|  204  | Johnson/Newhouse/Toal |  12 | 52.9932% |
+|  205  | Razey/Verdeck/Arnits |  12 | 52.9252% |
+|  206  | Halvorsen/Berry/Rooney |  12 | 52.3129% |
+|  207  | Gillies/Woodward/Akers |  12 | 51.1338% |
+|  208  | Lyon/Lucero/Thurber |  12 | 51.0658% |
+|  209  | Hyland/Crackenberg/Baker |  12 | 50.9524% |
+|  210  | Cook/Schmit/Al-Kazily |  12 | 50.7440% |
+|  211  | Cotton/Da/Gruver |  12 | 50.5442% |
+|  212  | Butler/Butler/Kostov |  12 | 50.1637% |
+|  213  | Munyer/Jones/Ross |  12 | 49.9320% |
+|  214  | Armstrong/Santo/Hamlin |  12 | 49.9320% |
+|  215  | Walker/Lonning/Sanders |  12 | 49.2517% |
+|  216  | Sandler/Condon/Shipley |  12 | 48.9116% |
+|  217  | Beers/LUFT/Jackson |  12 | 48.9116% |
+|  218  | Guthrie/White/Spodzieja |  12 | 48.6395% |
+|  219  | Engbrecht/Ferrando/Pordes |  12 | 47.9592% |
+|  220  | Venturino/Falbo/Falbo |  12 | 47.8912% |
+|  221  | Hartly/Barron/Sipp |  12 | 47.6235% |
+|  222  | Adair/Menton/Kung |  12 | 47.5446% |
+|  223  | Everhart/Osgood/Bruton |  12 | 47.0748% |
+|  224  | Jones/Damgard/Hamilton |  12 | 46.5829% |
+|  225  | Engle/Egashira/Quintana |  12 | 45.8503% |
+|  226  | Phillips/Heymering/Pachucki |  12 | 44.4218% |
+|  227  | Espe/Espe/Espe |  12 | 43.0041% |
+|  228  | Sarchet/Ogestelli/Mendelsohn |  12 | 41.4966% |
+|  229  | Levine/Holcomb/Murray |  11 | 42.8571% |
+|  230  | Pasibe-Merejil/Wood/Sanchez |  10 | 67.0370% |
+|  231  | Mandelblatt/Lew/Martin |  10 | 65.0000% |
+|  232  | Mammarella/chong/Tan |  10 | 64.8148% |
+|  233  | Ford/Maples/McDonough |  10 | 62.0370% |
+|  234  | WIlliams/Escalante/Morrow |  10 | 55.9259% |
+|  235  | Meyer/Pham/Magallanes |  10 | 55.5329% |
+|  236  | Lu/Wang/Holdridge |  10 | 55.3741% |
+|  237  | Lazaroff/Paulson/Lazaroff |  10 | 55.0000% |
+|  238  | pine/Freneau/hegstad |  10 | 54.5578% |
+|  239  | Yan/Yao/Chiang |  10 | 52.7778% |
+|  240  | Johnsto/Rosellini/Rosellini |  10 | 51.9274% |
+|  241  | Stockbrugger/Wheeler/Perez |  10 | 50.3855% |
+|  242  | Soll/Lusardi/Stump |  10 | 50.3704% |
+|  243  | Partridge/Voellmer/Prichard |  10 | 50.1852% |
+|  244  | Armenta/Dumont/Haley |  10 | 49.6599% |
+|  245  | Ashley/Czyzewski/Nyberg |  10 | 49.0930% |
+|  246  | St./Blass/Escobedo-Alexandre |  10 | 42.9630% |
+|  247  | miller/Basting/Merris |  10 | 42.9145% |
+|  248  | Hoang/Lopes/Miller |  9 | 77.7778% |
+|  249  | Creasman/Baird/Wilson |  9 | 68.7037% |
+|  250  | Scott/Castorini/Cahill |  9 | 67.7778% |
+|  251  | Emel/Layton/Whitney |  9 | 66.6667% |
+|  252  | Moran/Aquino/Jones |  9 | 64.8148% |
+|  253  | gomez/Johnson/sherman |  9 | 64.8148% |
+|  254  | Bauer/Merz/Havener |  9 | 64.2593% |
+|  255  | Adams/Verrall/D'Aniello |  9 | 64.0741% |
+|  256  | Wohletz/Shapiro/Sabatino |  9 | 63.8889% |
+|  257  | Rathvon/Lee/Kitelinger |  9 | 63.3333% |
+|  258  | Chiou/Callen/Sayer |  9 | 63.1481% |
+|  259  | Sun/Killeen/Zou |  9 | 62.2222% |
+|  260  | DuBry/Lundgren/Dahl |  9 | 62.2222% |
+|  261  | LaFleur/Ryan/Thomson |  9 | 61.2963% |
+|  262  | Heard/Carleton-Barnes/Kolos |  9 | 61.1111% |
+|  263  | spencer/Lo/Ramirez |  9 | 61.1111% |
+|  264  | Varnier/Wright/Ungerecht |  9 | 60.3704% |
+|  265  | Machalica/Cole/Cole |  9 | 59.4444% |
+|  266  | Stern/Scheel/Penney |  9 | 59.4444% |
+|  267  | Leof/Winter/Knorr |  9 | 59.4444% |
+|  268  | Cunningham/Paquette/Denno |  9 | 59.4444% |
+|  269  | Latimer/Assiff/Kirby |  9 | 58.6667% |
+|  270  | Leman/Fischer/Gale |  9 | 58.3673% |
+|  271  | Ho-Ten-Pow/Yao/Yang |  9 | 58.3333% |
+|  272  | Good/Newhouse/Schloss |  9 | 58.3333% |
+|  273  | Hoffman/Rogers/Orozco |  9 | 58.0952% |
+|  274  | Matui/takashi/ken |  9 | 57.4830% |
+|  275  | Lebental/Anderson/Patterson |  9 | 57.4150% |
+|  276  | Jung/Caulien/Sollows |  9 | 56.6667% |
+|  277  | Wallace/Lake/McMillan |  9 | 56.6667% |
+|  278  | Lazar/Galloway/Mueller |  9 | 56.1111% |
+|  279  | Zelick/Kimble/MacEachern |  9 | 55.0000% |
+|  280  | Rothenbaum/Henson/Johnston |  9 | 55.0000% |
+|  281  | Goe/Caesar/Ervin |  9 | 55.0000% |
+|  282  | Ferry/Vieira/Pereira |  9 | 54.8148% |
+|  283  | Meuser/Cooper/Corcoran |  9 | 54.8148% |
+|  284  | Murdock/Nixon/Sypal-Kohout |  9 | 53.8889% |
+|  285  | Abaricia/Ouano/Linnemann |  9 | 53.8889% |
+|  286  | Marklyn/Aguilera/Tierney |  9 | 53.8889% |
+|  287  | Martin/Stanley/Boccardo |  9 | 53.8889% |
+|  288  | Cairns/Pickett/Christenson |  9 | 53.8889% |
+|  289  | Gill/Quattrin/Wigginton |  9 | 53.8889% |
+|  290  | Oguri/Clingan/Sellers |  9 | 53.8889% |
+|  291  | Thompson/Thomson/Maroney |  9 | 53.1481% |
+|  292  | Schroeder/Miller/McCormack |  9 | 53.1481% |
+|  293  | lapp/gaston/lapp |  9 | 52.9630% |
+|  294  | Batarseh/Muranaka/Padilla |  9 | 52.7778% |
+|  295  | Su/Banks/Kim |  9 | 52.7778% |
+|  296  | Huber/Torrez/Black |  9 | 52.2222% |
+|  297  | French/French/Jacobson |  9 | 52.2222% |
+|  298  | Shupe/Taylor/Woodruff |  9 | 52.2222% |
+|  299  | Pescaru/McKibben/Mondata |  9 | 52.2222% |
+|  300  | Curtin/jones/jones |  9 | 52.2222% |
+|  301  | Gumabon/Boczar/Woods |  9 | 52.2222% |
+|  302  | Greenlee/Smith/Gottstein |  9 | 52.2222% |
+|  303  | Snydar/Overton/Wright |  9 | 52.0370% |
+|  304  | Post/Cerone/Belknap |  9 | 51.9728% |
+|  305  | wyman/halliday/Van de Water |  9 | 51.9728% |
+|  306  | Hatfield/Kiene/McArtor |  9 | 51.1111% |
+|  307  | Ricci/Fiorucci/Di Cola |  9 | 51.1111% |
+|  308  | Bandy/Moreno/Mills |  9 | 50.0000% |
+|  309  | Lalague/Corvese/Woods |  9 | 49.9320% |
+|  310  | Tissot/Mathers/Linkous |  9 | 48.9116% |
+|  311  | Banaszek/Hulst/Oien |  9 | 48.3333% |
+|  312  | Brueseke/Weigle/Jonsson |  9 | 48.3333% |
+|  313  | Xu/Guo/Chen |  9 | 48.3333% |
+|  314  | Williams/Deal/Emrich |  9 | 48.3333% |
+|  315  | Connell/Chung/Rossi |  9 | 48.3333% |
+|  316  | Petter/Turner/Stark |  9 | 47.5926% |
+|  317  | Paris/Paris/Focht |  9 | 47.5510% |
+|  318  | Thompson/Hagerman/Thurman |  9 | 46.6667% |
+|  319  | Thatcher/Folsom/Waterschied |  9 | 46.4815% |
+|  320  | Dean-Carpentier/Farnung/Gleicher |  9 | 45.8333% |
+|  321  | Kovacs/Dykes/Alberg |  9 | 45.5556% |
+|  322  | Gibbons/Lewis/Christian |  9 | 45.5556% |
+|  323  | Morales/Kubera/Sustaita |  9 | 45.5556% |
+|  324  | Greig/Hunter/Paul |  9 | 44.4444% |
+|  325  | Wolff/Bartholdi/McKenzie |  9 | 44.0816% |
+|  326  | Smith/Hennes/Maurer |  9 | 44.0030% |
+|  327  | Mostarac/Stapleton/Bliss |  9 | 43.8889% |
+|  328  | Hsu/Pina-lira/Mathavorn |  9 | 43.8889% |
+|  329  | Steel/Pruess/Pruess |  9 | 43.8889% |
+|  330  | Voykin/Porath/Lee |  9 | 43.7037% |
+|  331  | Rheingans/Vancil/Vancil |  9 | 40.0000% |
+|  332  | McGraw/Darlington/Flukinger |  9 | 38.8889% |
+|  333  | Temple/Gerheim/Wright |  7 | 66.6667% |
+|  334  | Erickson/Erickson/Korompis |  7 | 64.0000% |
+|  335  | Kerr/Rosas/Suman |  7 | 62.0370% |
+|  336  | Young/Heyden/Wortman |  7 | 60.1852% |
+|  337  | Wong/Eide/Rosas |  7 | 58.6667% |
+|  338  | Romans/Kwok/Ho |  7 | 57.4074% |
+|  339  | Gordon/Patterson/James |  7 | 54.4218% |
+|  340  | Salivar/Ansolabehere/Torres |  7 | 51.8519% |
+|  341  | Heitkamp/Benziger/Herzog |  7 | 49.3333% |
+|  342  | Knight/Ponnay/Knight |  7 | 48.1481% |
+|  343  | Bissonette/Kort/Like |  7 | 48.0000% |
+|  344  | Chichi/David/Baker |  7 | 47.2222% |
+|  345  | Tabrizi/Peters/O'Donnell |  7 | 46.6667% |
+|  346  | Sporn/Chieng/Lerner |  7 | 45.3333% |
+|  347  | Boone/Alfstad/Lewis |  7 | 42.6667% |
+|  348  | Magda/Parker/Collins |  7 | 42.6667% |
+|  349  | Theisen/Theisen/Maza |  7 | 41.1523% |
+|  350  | Esparaza/Grey/Schwartz |  7 | 40.2998% |
+|  351  | Anderson/Gross/Pool |  6 | 76.0000% |
+|  352  | Coker/Coker/Coker |  6 | 75.0000% |
+|  353  | Atkinson/Cruse/Thrall |  6 | 72.0000% |
+|  354  | Goslar/Ochoa/Alter |  6 | 68.0000% |
+|  355  | Sigrist/Blunt/Buckridge |  6 | 66.6667% |
+|  356  | Shing/Gomez/Wong |  6 | 64.5833% |
+|  357  | Boese/Jones/Burkhart |  6 | 64.0000% |
+|  358  | Guo/Wong/Hampton |  6 | 64.0000% |
+|  359  | Maimo/Ferguson/Whitson |  6 | 63.1481% |
+|  360  | Martin/Schalich/Betschart |  6 | 62.6667% |
+|  361  | Francia/Carter/Basco |  6 | 62.6667% |
+|  362  | Reynolds/Kim/Buchanan |  6 | 62.6667% |
+|  363  | Saplan/Conyers/JAIMES |  6 | 62.6667% |
+|  364  | Beare/Wilson/Harris |  6 | 61.3333% |
+|  365  | Harrison/Kitano/Gillespie |  6 | 60.4167% |
+|  366  | Hutchek/Leng/Stone |  6 | 60.0000% |
+|  367  | Garcia/Jones/Nguyen |  6 | 60.0000% |
+|  368  | Brower/Brown/Schilha |  6 | 58.6667% |
+|  369  | Pang/Kim/Ou |  6 | 58.6667% |
+|  370  | Ascalon/Jaro/Jaro |  6 | 58.6667% |
+|  371  | Bonds/Wallace/Franks |  6 | 58.6667% |
+|  372  | Eigeard/Kushnirak/Giorio |  6 | 58.6667% |
+|  373  | Boyd/Runyan/Schoonover |  6 | 58.6667% |
+|  374  | Cole/Fineman/Heimbach |  6 | 58.3333% |
+|  375  | Freeman/Mitchell/DePiazza |  6 | 57.3333% |
+|  376  | Bain/Lane/Harris |  6 | 57.3333% |
+|  377  | Sherman/Stauth/Llewellyn |  6 | 57.3333% |
+|  378  | Kendall/Goldman-Kirst/Gray |  6 | 57.3333% |
+|  379  | Grigsby/D'Agata/Gunther |  6 | 57.3333% |
+|  380  | Adams/Colt/Johnson |  6 | 56.0000% |
+|  381  | Wong/Yau/Brandt |  6 | 55.5556% |
+|  382  | Carter/Crosett/Bohot |  6 | 55.5556% |
+|  383  | Arns/Brittain/Wimer |  6 | 54.8148% |
+|  384  | Zeng/Tran/Lee |  6 | 54.6667% |
+|  385  | Nickeson/Carey/Earley |  6 | 54.6667% |
+|  386  | Berrier/Stehman/Saucedo |  6 | 54.6667% |
+|  387  | brown/Chung/Galli |  6 | 54.6667% |
+|  388  | Hayashi/Lyford-Smith/Shaw |  6 | 54.6667% |
+|  389  | Louke/Mead/Bresler |  6 | 53.7037% |
+|  390  | Lindberg/Ogawa/Werner |  6 | 53.3333% |
+|  391  | Perkins/Lewis/Hoser |  6 | 53.3333% |
+|  392  | Steele/Ravitz/Seck |  6 | 53.3333% |
+|  393  | Sletteland/Grant/Goldy |  6 | 53.3333% |
+|  394  | Fuller/Chris/McElhatten |  6 | 53.3333% |
+|  395  | Carlson/Trabue/Egerer |  6 | 53.3333% |
+|  396  | BARBER/MARTENS/SCHUMACHER |  6 | 53.3333% |
+|  397  | McKinney/Strauss/Alley |  6 | 53.3333% |
+|  398  | Morgan/Tactacan/Davidson |  6 | 53.3333% |
+|  399  | Castro/Sandeval/Barrientes |  6 | 53.3333% |
+|  400  | Winter/Malachek/Braun |  6 | 53.3333% |
+|  401  | Irvin/Dutton/Beckham |  6 | 53.3333% |
+|  402  | Freedman/Zastrow/Peterson |  6 | 53.3333% |
+|  403  | Chow/Mei/Liu |  6 | 52.0000% |
+|  404  | Tuttle/Mich/Hanson |  6 | 51.3333% |
+|  405  | Logsdon/Logsdon/Dospil |  6 | 50.6667% |
+|  406  | Lopez/Sonderland/Sonderland |  6 | 50.6667% |
+|  407  | Jordan/buckmeier/Skelton |  6 | 50.6667% |
+|  408  | Perata/Bowen/Roach |  6 | 50.6667% |
+|  409  | Kopel/Barmon/Korkor |  6 | 50.6667% |
+|  410  | Adams/Pynch/Saether |  6 | 50.6667% |
+|  411  | Macleod/Pinion/Hale |  6 | 50.6667% |
+|  412  | Robbins/Erickson/Kasper |  6 | 50.6667% |
+|  413  | Piercy/Serene/Olsen |  6 | 50.6667% |
+|  414  | Rosman/Postlethwait/Wade |  6 | 50.0000% |
+|  415  | Sachs/Goranson/Mitchell |  6 | 49.3333% |
+|  416  | Smith/Fields/Wong |  6 | 49.3333% |
+|  417  | Hall/Terando/Larson |  6 | 49.3333% |
+|  418  | Nass-Worthington/Dudley/Austin |  6 | 49.3333% |
+|  419  | Valdez/Mulcare/Christesen |  6 | 49.3333% |
+|  420  | Nelson/Thompson/Leary |  6 | 49.3333% |
+|  421  | Hickman/Hickman/Owens |  6 | 49.3333% |
+|  422  | Pierce/Runion/Pierce |  6 | 48.6667% |
+|  423  | Milano/Doell/Kerr |  6 | 48.3333% |
+|  424  | Boon/Kou/Vollman |  6 | 48.3333% |
+|  425  | chin/jong/jong |  6 | 48.3333% |
+|  426  | Karwatsky/Prowant/Heiszler |  6 | 48.0000% |
+|  427  | McIntosh/Rosene/Garfinkel |  6 | 48.0000% |
+|  428  | gardner/Murphy/Parker |  6 | 48.0000% |
+|  429  | Kubo/Kubo/Chavez |  6 | 48.0000% |
+|  430  | Sun/Tsao/Katz |  6 | 46.6667% |
+|  431  | Saukants/Freerksen/Bell |  6 | 46.6667% |
+|  432  | Mundy/Beauchene/moore |  6 | 46.6667% |
+|  433  | Gillis/Hasse/Wilson |  6 | 46.6667% |
+|  434  | Job/Chang/Grace |  6 | 46.6667% |
+|  435  | King/Perez/Stanco |  6 | 46.6667% |
+|  436  | Furr/Bemrose/Natta |  6 | 46.6667% |
+|  437  | Frettas/Van/Wagoner |  6 | 46.6667% |
+|  438  | Moreno/Schwaderer/Schwaderer |  6 | 45.3333% |
+|  439  | Najeeb/Ganzler/Costa |  6 | 45.3333% |
+|  440  | Rutherford/Jensen/Little |  6 | 45.3333% |
+|  441  | Ehnat/Bale/Hixson |  6 | 45.1701% |
+|  442  | CANDELARIO/KAYE/HWANG |  6 | 44.6667% |
+|  443  | Hanson/Hilke-Galletes/Easton |  6 | 44.6667% |
+|  444  | hsieh/hancock/Tonkin |  6 | 44.4444% |
+|  445  | Bush/Morrison/Bush |  6 | 44.0000% |
+|  446  | Mitchell/Lind/Roberts |  6 | 44.0000% |
+|  447  | Bohmann/Manning/Cowley |  6 | 44.0000% |
+|  448  | Smith/Blum/Toussaint |  6 | 44.0000% |
+|  449  | Cowin/Cowin/Steinkamp |  6 | 43.8889% |
+|  450  | jackson/Jackson/Jackson |  6 | 41.3333% |
+|  451  | Luskey/Berry/Chippewa |  6 | 41.1155% |
+|  452  | Livermore/Loos/Little |  5 | 50.9259% |
+|  453  | Boggs/strole/Smith |  4 | 75.0000% |
+|  454  | Shearer/Latham/Garcia |  4 | 60.4167% |
+|  455  | Cuneo/Hoaen/Parker |  4 | 58.3333% |
+|  456  | Peterson/Dalpias/van |  4 | 58.3333% |
+|  457  | Weiner/Bieker/Bieker |  4 | 56.0000% |
+|  458  | Foster/Burnham/Mlinac |  4 | 53.3333% |
+|  459  | Smith/Wangerin/Hope |  4 | 52.0000% |
+|  460  | Mix/D'Albora/Frankel |  4 | 50.0000% |
+|  461  | Ruecker/Hysmith/Thomasson |  4 | 50.0000% |
+|  462  | Pearce/Horn/DuPuis |  4 | 50.0000% |
+|  463  | Yip/Cameron/Wilson |  4 | 50.0000% |
+|  464  | Mowe/Williams/Kuhn |  4 | 47.9167% |
+|  465  | Foust/Brown/Catanese |  4 | 45.8333% |
+|  466  | Christian/Mounievong/Ault |  4 | 45.8333% |
+|  467  | Lidral-Porter/Ossiff/Nye |  4 | 45.3333% |
+|  468  | Esquivel/Thompson/Umtuch |  4 | 45.3333% |
+|  469  | Bennett/O'Connell/Williams |  4 | 41.6667% |
+|  470  | Smith/jon/Bouwense |  4 | 41.3194% |
+|  471  | Zelaya/Cuevas/Chavez |  4 | 39.5833% |
+|  472  | Bailey/Berkey/Vrvilo |  4 | 36.0000% |
+|  473  | Wade/Ventura/Blake |  3 | 75.0000% |
+|  474  | Scott/Scott/Shull |  3 | 70.8333% |
+|  475  | Johnson/Arendall/Abuan |  3 | 68.7500% |
+|  476  | Hill/Shunamon/Lee |  3 | 68.7500% |
+|  477  | Reasbeck/Stinnett/Osenbach |  3 | 68.7500% |
+|  478  | Shaw/Brown/Shaw |  3 | 66.6667% |
+|  479  | Marshall/Leske/Wilson |  3 | 66.6667% |
+|  480  | Bakerman/Thiessen/Williams |  3 | 66.6667% |
+|  481  | Jones/Maxwell/Boday |  3 | 64.5833% |
+|  482  | Kelley/Valleur/Warren |  3 | 64.5833% |
+|  483  | Nearman/Andersson/Schultz |  3 | 62.5000% |
+|  484  | Strickland/Houghton/Swan |  3 | 62.5000% |
+|  485  | Ng/Cheung/Heschl |  3 | 62.5000% |
+|  486  | Robles/Otteson/Robles |  3 | 60.4167% |
+|  487  | Hardman/Riches/Dunning |  3 | 60.4167% |
+|  488  | Hogan/Smith/Smith |  3 | 60.0000% |
+|  489  | Kim/Gross/Gao |  3 | 58.3333% |
+|  490  | Levchak/Benson/Dionas |  3 | 58.3333% |
+|  491  | Wang/Wang/Wall |  3 | 58.3333% |
+|  492  | Rasmussen/O'Berry/Crabbs |  3 | 58.3333% |
+|  493  | Petuya/Sears/Murch |  3 | 58.3333% |
+|  494  | Chun/Kagawa/Strebe |  3 | 58.3333% |
+|  495  | Morgan/Cook/Goodstein |  3 | 58.3333% |
+|  496  | Teller/Cain/Teller |  3 | 58.3333% |
+|  497  | Smith/Cruz/Tronvig |  3 | 58.3333% |
+|  498  | Anderson/Zander/Kennedy |  3 | 58.3333% |
+|  499  | Kuntz/Jesberger/Putnam |  3 | 56.6667% |
+|  500  | Luong/Wang/Rhoades |  3 | 56.2500% |
+|  501  | Hu/Koo/Yao |  3 | 56.2500% |
+|  502  | Roberts/Franson/Rose |  3 | 56.2500% |
+|  503  | Davidson/Li/Hibbert |  3 | 55.5556% |
+|  504  | Allison/Allison/Prugh |  3 | 55.5556% |
+|  505  | Foley/Avelar/Greaves |  3 | 55.5556% |
+|  506  | Wolkenhauer/Wolkenhauer/Zamora |  3 | 54.6667% |
+|  507  | Gourdin/Moore/Urdiales |  3 | 54.6667% |
+|  508  | Hustace/Dietrich/Brooks |  3 | 54.1667% |
+|  509  | Kellet/VanCamp/Johansen |  3 | 54.1667% |
+|  510  | Goodwin/Black/Hans |  3 | 54.1667% |
+|  511  | Jay/Ramsey/Painter |  3 | 54.1667% |
+|  512  | Mathrani/Krogstad/Moreno |  3 | 52.0833% |
+|  513  | Ryan/Chapman/Chapman |  3 | 52.0833% |
+|  514  | Tadena/Yang/Kim |  3 | 52.0833% |
+|  515  | Lynnes/Chow/Wendel |  3 | 52.0833% |
+|  516  | Ewing/Ewing/Milton |  3 | 52.0833% |
+|  517  | Williams/Du/Bunker |  3 | 52.0833% |
+|  518  | Henning/Ferraiuolo/Wardell |  3 | 52.0833% |
+|  519  | pfannes/carstensen/carstensen |  3 | 52.0833% |
+|  520  | Gaede/Phillips/Jinbo |  3 | 52.0833% |
+|  521  | McCully/Madden/Reid |  3 | 52.0833% |
+|  522  | Entrup/Cance/Knable |  3 | 52.0833% |
+|  523  | Vautravers/Vautravers/Suny |  3 | 52.0833% |
+|  524  | Hoge/Frank/Waller |  3 | 52.0833% |
+|  525  | Morton/Bentley/Barlington |  3 | 52.0833% |
+|  526  | Anderson/Smith/DeBaets |  3 | 52.0833% |
+|  527  | Kaltenthaler/Eversmeyer/Strong |  3 | 52.0833% |
+|  528  | Duggan/Brown/Hughes |  3 | 52.0833% |
+|  529  | Forrington/Walker/Del |  3 | 52.0833% |
+|  530  | Wong/Williams/Silby |  3 | 52.0833% |
+|  531  | Davis/Brinkman/Brinkman |  3 | 52.0833% |
+|  532  | Oguma/Robbins/Lawrence |  3 | 52.0833% |
+|  533  | Finn/Golden/Golden |  3 | 52.0833% |
+|  534  | Jackson/Dashner/Newell |  3 | 50.6667% |
+|  535  | Thom/Conway/Walker |  3 | 50.6667% |
+|  536  | Avery/Ballou/Waldhaus |  3 | 48.0000% |
+|  537  | Walsh/Hyde/Ginster |  3 | 48.0000% |
+|  538  | Blackburn/Pollock/Atkinson |  3 | 47.9167% |
+|  539  | Bergez/Coleman/Adelmund |  3 | 47.9167% |
+|  540  | Siegel/May/Gautier |  3 | 47.9167% |
+|  541  | Miller/Rush/White |  3 | 47.9167% |
+|  542  | Ellis/Meng/Scoggins |  3 | 47.9167% |
+|  543  | Chan/Stroud/Lingelbach |  3 | 47.9167% |
+|  544  | Jenkins/Siembor/Siembor |  3 | 47.9167% |
+|  545  | Laverty/Cook/Serface |  3 | 47.9167% |
+|  546  | Beverely/White/White |  3 | 46.6667% |
+|  547  | Metcalf/Kern/Berggren |  3 | 45.8333% |
+|  548  | Bleecker/Brown/Butt |  3 | 45.8333% |
+|  549  | Lee/Shih/Ledford |  3 | 45.8333% |
+|  550  | de/Dunn/Dunn |  3 | 45.8333% |
+|  551  | Schenzinger/Schell/Carewicz |  3 | 45.8333% |
+|  552  | zhang/gibson-Flader/Nguyen |  3 | 45.8333% |
+|  553  | Conner/Follett/Naisbitt |  3 | 45.8333% |
+|  554  | Giometti/Mathews/Alorv |  3 | 45.8333% |
+|  555  | Richards/Richards/Hubbard |  3 | 45.8333% |
+|  556  | Giorgi/Wassmann/Kopp |  3 | 44.6667% |
+|  557  | Slape/Tolleshaug/Ayers |  3 | 44.4444% |
+|  558  | Landes/Landes/Landes |  3 | 43.7500% |
+|  559  | jordan/ALEXANDER/takeyama-anthony |  3 | 42.6667% |
+|  560  | Sauter/Duley/Brown |  3 | 42.6667% |
+|  561  | Taylor/VanNostrand/Perez |  3 | 41.6667% |
+|  562  | Sanchez/O'Connor/Loy |  3 | 41.6667% |
+|  563  | Ioerger/Ostash/Carter |  3 | 41.6667% |
+|  564  | Hecox/White/Saucedo |  3 | 41.6667% |
+|  565  | Preston/Gianni/Brattain |  3 | 41.6667% |
+|  566  | Merrill/Diener/Diener |  3 | 41.6667% |
+|  567  | Chin/Losee/LOSEE |  3 | 41.3333% |
+|  568  | Langenberg/McDonald/Langenberg |  3 | 40.0000% |
+|  569  | winger/Schultz/Covarrubias |  3 | 40.0000% |
+|  570  | Perimon/Brown/Delahanty |  3 | 38.6667% |
+|  571  | Gholz/Haugh/Edelman |  3 | 37.5000% |
+|  572  | Rapoza/Bracy/LaBrash |  3 | 37.3333% |
+|  573  | Eggers/Hansen/Eagle |  1 | 66.6667% |
+|  574  | Hittle/Baker/Levine |  1 | 66.6667% |
+|  575  | Kelly/Feden/Wilson |  1 | 62.9630% |
+|  576  | Moore/Allington/Key |  1 | 56.0000% |
+|  577  | Duvoisin/Coffey/Reeve |  1 | 55.5556% |
+|  578  | Stoneberger/White/Bollin |  1 | 49.3333% |
+|  579  | Waite/Schaupp/Shay |  1 | 44.4444% |
+|  580  | Svilich/Ford/Eng |  1 | 44.4444% |
+|  581  | Matthiesen/Essig/Roberts |  1 | 44.4444% |
+|  582  | dicarlo/DiCarlo/Mooers |  1 | 44.4444% |
+|  583  | Blow/Dole/Boltz |  1 | 43.7500% |
+|  584  | LEWIS/BROCKMAN/Watsjold |  1 | 41.6667% |
+|  585  | Pittenger/Mager/Connelly |  1 | 40.7407% |
+|  586  | Ivy/Davis/Hill |  1 | 40.7407% |
+|  587  | Vanburger/McManaway/Bodkin |  0 | 75.0000% |
+|  588  | Dezaki/Sieler/Degnin |  0 | 75.0000% |
+|  589  | Dixson/Holding/Dixson |  0 | 75.0000% |
+|  590  | Deroche/Johnson/Carnegie |  0 | 75.0000% |
+|  591  | O'Doyle/Raulch/Beatty |  0 | 66.6667% |
+|  592  | Parsons/Goldstein/Guzman |  0 | 66.6667% |
+|  593  | Gilbert/Gilbert/Aasen |  0 | 66.6667% |
+|  594  | Romero/Parker/Erazo |  0 | 66.6667% |
+|  595  | Andersen/Andersen/Wise |  0 | 60.4167% |
+|  596  | Wilkerson/Morganthaler/Piggott |  0 | 59.2593% |
+|  597  | Whelan/Howell/Whitney |  0 | 58.3333% |
+|  598  | Micetic/Hughes/Dugdale |  0 | 58.3333% |
+|  599  | Lofstrom/Hjertaas/Douglas |  0 | 58.3333% |
+|  600  | Craig/Barickman/Tomihiro |  0 | 55.5556% |
+|  601  | Neal/Lubarsky/Reichert |  0 | 55.5556% |
+|  602  | Clark/Foster/Stacey |  0 | 55.5556% |
+|  603  | Millar-Griffin/Lopitz/Brees |  0 | 55.5556% |
+|  604  | Martell/Tellez/Leipham |  0 | 55.5556% |
+|  605  | Dustin/Kowalski/Dever |  0 | 55.5556% |
+|  606  | Hall/Agran/Giltner |  0 | 55.5556% |
+|  607  | Nguyen/Rowan/Thorolfsson |  0 | 55.5556% |
+|  608  | Ritrievi/Dee-Olsen/Love |  0 | 55.5556% |
+|  609  | Smith/Coghlan/Reibman |  0 | 55.5556% |
+|  610  | Swaja/Swaja/Singh |  0 | 55.5556% |
+|  611  | Cataldo/Burns/May |  0 | 55.5556% |
+|  612  | Marman/King/Umphenour |  0 | 55.5556% |
+|  613  | park/richards/christian |  0 | 54.1667% |
+|  614  | Wegman/Domondon/Sapp |  0 | 52.0833% |
+|  615  | Cooke/Penner/Kinard |  0 | 52.0833% |
+|  616  | Deardorff/Deardorff/Christenson |  0 | 52.0833% |
+|  617  | Cross/Weiss/Tan |  0 | 50.0000% |
+|  618  | deSully/McIntire/Guy |  0 | 50.0000% |
+|  619  | Bryson/Blauw/lewis |  0 | 50.0000% |
+|  620  | Buck/Wright/Girdner |  0 | 50.0000% |
+|  621  | Dimiduk/Tang/Talley |  0 | 50.0000% |
+|  622  | Bennett/Inoue/O'Brien |  0 | 48.1481% |
+|  623  | Fanning/Petro/Pickett |  0 | 48.1481% |
+|  624  | Empyrion/Downing/Hunt |  0 | 48.1481% |
+|  625  | Manes/Wagner/De |  0 | 48.1481% |
+|  626  | Foreman/Hicks/Verrett |  0 | 48.0000% |
+|  627  | Schuberth/Gillan/Porter |  0 | 47.9167% |
+|  628  | reyes/Woods/renteria |  0 | 47.9167% |
+|  629  | Nieto/Trujillo/Pratt |  0 | 47.9167% |
+|  630  | Geleynse/Geleynse/Jacky |  0 | 44.4444% |
+|  631  | Vaarvik/dignam/Pearson |  0 | 44.4444% |
+|  632  | Henry/Webber/Ross |  0 | 44.4444% |
+|  633  | Monroe/Bannan/Whiteley |  0 | 44.4444% |
+|  634  | Sky/James/Drakmor |  0 | 44.4444% |
+|  635  | Angulo/Fung/Barnett |  0 | 44.4444% |
+|  636  | Donelson/Donelson/Walsh |  0 | 44.4444% |
+|  637  | Conrad/Estrada/Farnsworth |  0 | 43.7500% |
+|  638  | Schulz/cravens/paradise |  0 | 43.7500% |
+|  639  | Scherzinger/Thornton/McWryn |  0 | 37.5000% |
+|  640  | ziegler/shampine/Roberts |  0 | 37.5000% |
+|  641  | Baldwin/Higgins/Reinhart |  0 | 37.5000% |
+|  642  | Tremblay/Fettback/Winn |  0 | 37.0370% |
+|  643  | Castillo/Martinez/Goodboe |  0 | 37.0370% |
+|  644  | Harris/Gretz/Doffek |  0 | 33.3333% |
+|  645  | Weare/Rankin/Stevens |  0 | 33.3333% |
+|  646  | Rider/Rudy/Oliver |  0 | 33.3333% |
+|  647  | Young/Yoo/Wook |  0 | 33.3333% |
+|  648  | Smiley/Armstrong/Turner |  0 | 33.3333% |
+|  649  | klesick/Bohannon/jones |  0 | 33.3333% |
+
+
+
+
+
+
+
+ 
+ 
+
+
+  
+
+
+
+
+
+
+

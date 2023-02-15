@@ -1,0 +1,52 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220925081623/https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-ballot-2005-06-07)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "573616"
+[_metadata_:publish_date]:- "2005-06-07"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Magic Pro Tour Hall of Fame Ballot"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-25 08:16:23"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220925081623id_/https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-ballot-2005-06-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-ballot-2005-06-07"
+---
+
+
+Magic Pro Tour Hall of Fame Ballot
+==================================
+
+
+
+ Posted in **Event Coverage**
+ on June 7, 2005 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+![Magic Pro Tour Hall of Fame 2005 Ballot](https://media.magic.wizards.com/image_legacy_migration/magic/images/tournamentcenter/2005hofballot.jpg)
+
+
+
+
+
+
+
+

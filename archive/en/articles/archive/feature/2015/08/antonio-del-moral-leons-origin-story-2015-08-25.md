@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20150906225641/http://magic.wizards.com/en/articles/archive/feature/antonio-del-moral-leons-origin-story-2015-08-25)
+[Link to Wayback Machine](https://web.archive.org/web/20210805162939/https://magic.wizards.com/en/articles/archive/feature/antonio-del-moral-leons-origin-story-2015-08-25)
 
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Antonio Del Moral León's Magic and Pro Tour origins!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2015-08-25"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Antonio Del Moral León's Origin Story"
-[_metadata_:wayback_capture_timestamp]:- "2015-09-06 22:56:41"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150906225641id_/http://magic.wizards.com/en/articles/archive/feature/antonio-del-moral-leons-origin-story-2015-08-25"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/antonio-del-moral-leons-origin-story-2015-08-25"
+[_metadata_:wayback_capture_timestamp]:- "2021-08-05 16:29:39"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210805162939id_/https://magic.wizards.com/en/articles/archive/feature/antonio-del-moral-leons-origin-story-2015-08-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/antonio-del-moral-leons-origin-story-2015-08-25"
 ---
 
 
@@ -40,6 +40,7 @@ By Mike Rosenberg
 
 
 
+
 On the final day of Pro Tour *Fate Reforged*, eight players returned to the feature match area ready to battle. Headlined by a Hall of Fame pro from the Netherlands, a now Hall of Fame elect in his fourth Pro Tour Top 8, and a finalist from the previous year's Modern Pro Tour, there were many players who people picked to be a favorite to win the whole thing.
 
 
@@ -47,13 +48,13 @@ Fast forward through the quarters and semis, and you have a finals that featured
 
 
 ![](https://media.wizards.com/2015/events/2015wc/2015wc_delmoralleon.jpg)  
-
+*2015 World Championship Competitor Antonio Del Moral León*
 
 
 Fast forward again four games, and Del Moral León was holding the trophy and the giant $40,000 novelty check alongside a posse of his newfound compatriots as Spain's very first Pro Tour champion. The win immediately rocketed him into the spotlight, and in the months that have followed, Del Moral León has only continued to impress with extremely solid play as one of *Magic*'s biggest new stars, a continuation on Europe's Pro Tour dominance in the 2014-15 Premier Play season. Del Moral León's origins with the game began when he was fourteen years old.
 
 
-"I remember a summer evening in which I played football with the kids in my neighborhood, and then my best friends Rafael and twins Antonio and Pedro convinced me to go to a *Magic* store called TOLARIA to teach me how to play the game," Del Moral León recalled. "I remember that I started by buying a Rakdos pre-constructed deck, and then they would lend me an Orzhov Constructed deck, which was really good, but I could never get a single win with it! In my first booster pack, I cracked a [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pithing+Needle), which back then was one of the most sought after cards of the set."
+"I remember a summer evening in which I played football with the kids in my neighborhood, and then my best friends Rafael and twins Antonio and Pedro convinced me to go to a *Magic* store called TOLARIA to teach me how to play the game," Del Moral León recalled. "I remember that I started by buying a Rakdos pre-constructed deck, and then they would lend me an Orzhov Constructed deck, which was really good, but I could never get a single win with it! In my first booster pack, I cracked a [Pithing Needle](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pithing+Needle), which back then was one of the most sought after cards of the set."
 
 
 "I liked the game so much that I started playing daily in the store with my friends, having drinks and food, and sharing laughs every day until at some point after a few years playing I almost quit because I never seemed to win anything. It was then that I decided to start playing competitively, and when I installed *Magic Online* on my computer…"

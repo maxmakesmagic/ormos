@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170816163509/http://magic.wizards.com/en/articles/archive/feature/animal-farm-2009-05-07)
+[Link to Wayback Machine](https://web.archive.org/web/20211026105600/https://magic.wizards.com/en/articles/archive/feature/animal-farm-2009-05-07)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "[decklist] Title: Darwin Kastle's Animal Farm Format: U.S. Nationals 2001 6 Forest 4 Rishadan Port 4 Shivan Oasis 4 Sulfurous Springs 4 Karplusan Forest 2 Brushland 4 Birds of Paradise 4 Utopia Tree 4 Thornscape Familiar 4 Thornscape Battlemage 4 Thunderscape Battlemage 4 Flametongue Kavu 4 Blastoderm 4 Kavu Titan 4 Shivan Wurm *3 Duress *4 Urza's Rage *4 Chimeric Idol *4 Yavimaya Barbarian [/decklist]"
+[_metadata_:description]:- "[decklist] Title: Darwin Kastle's Animal Farm Format: U.S. Nationals 2001 6 Forest 4 Rishadan Port 4 Shivan Oasis 4 Sulfurous Springs 4 Karplusan Forest 2 Brushland 4 Birds of Paradise 4 Utopia Tree 4 Thornscape Familiar 4 Thornscape Battlemage 4 Thunderscape Battlemage 4 Flametongue Kavu 4 Blastoderm 4 Kavu Titan 4 Shivan Wurm *3 Duress *4 Urza's Rage *4 Chimeric Idol *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "668266"
 [_metadata_:publish_date]:- "2009-05-07"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Animal Farm"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-16 16:35:09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816163509id_/http://magic.wizards.com/en/articles/archive/feature/animal-farm-2009-05-07"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/animal-farm-2009-05-07"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 10:56:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026105600id_/https://magic.wizards.com/en/articles/archive/feature/animal-farm-2009-05-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/animal-farm-2009-05-07"
 ---
 
 
@@ -28,8 +28,9 @@ Animal Farm
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
+
 
 
 
@@ -56,7 +57,9 @@ By Wizards of the Coast
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -81,39 +84,39 @@ OverviewColorCostRarity
 
 
 4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Utopia Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BTree%5D)
+[Utopia Tree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BTree%5D)
 
 
 4
-[Thornscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BFamiliar%5D)
+[Thornscape Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BFamiliar%5D)
 
 
 4
-[Thornscape Battlemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BBattlemage%5D)
+[Thornscape Battlemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BBattlemage%5D)
 
 
 4
-[Thunderscape Battlemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderscape%5D+%5BBattlemage%5D)
+[Thunderscape Battlemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderscape%5D+%5BBattlemage%5D)
 
 
 4
-[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+[Flametongue Kavu](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
 
 
 4
-[Blastoderm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlastoderm%5D)
+[Blastoderm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlastoderm%5D)
 
 
 4
-[Kavu Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKavu%5D+%5BTitan%5D)
+[Kavu Titan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKavu%5D+%5BTitan%5D)
 
 
 4
-[Shivan Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BWurm%5D)
+[Shivan Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BWurm%5D)
 
 
 
@@ -122,27 +125,27 @@ OverviewColorCostRarity
 
 
 6
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Rishadan Port](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRishadan%5D+%5BPort%5D)
+[Rishadan Port](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRishadan%5D+%5BPort%5D)
 
 
 4
-[Shivan Oasis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BOasis%5D)
+[Shivan Oasis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BOasis%5D)
 
 
 4
-[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+[Sulfurous Springs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
 
 
 4
-[Karplusan Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
+[Karplusan Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
 
 
 2
-[Brushland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
+[Brushland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
 
 
 60 Cards 
@@ -153,19 +156,19 @@ OverviewColorCostRarity
 
 
 3
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 4
-[Urza's Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
+[Urza's Rage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
 
 
 4
-[Chimeric Idol](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChimeric%5D+%5BIdol%5D)
+[Chimeric Idol](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChimeric%5D+%5BIdol%5D)
 
 
 4
-[Yavimaya Barbarian](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BBarbarian%5D)
+[Yavimaya Barbarian](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BBarbarian%5D)
 
 
 
@@ -175,7 +178,7 @@ OverviewColorCostRarity
 
 
 3
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 
@@ -184,15 +187,15 @@ OverviewColorCostRarity
 
 
 4
-[Thunderscape Battlemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderscape%5D+%5BBattlemage%5D)
+[Thunderscape Battlemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderscape%5D+%5BBattlemage%5D)
 
 
 4
-[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+[Flametongue Kavu](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
 
 
 4
-[Urza's Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
+[Urza's Rage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
 
 
 
@@ -201,27 +204,27 @@ OverviewColorCostRarity
 
 
 4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Utopia Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BTree%5D)
+[Utopia Tree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BTree%5D)
 
 
 4
-[Thornscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BFamiliar%5D)
+[Thornscape Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BFamiliar%5D)
 
 
 4
-[Thornscape Battlemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BBattlemage%5D)
+[Thornscape Battlemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BBattlemage%5D)
 
 
 4
-[Blastoderm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlastoderm%5D)
+[Blastoderm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlastoderm%5D)
 
 
 4
-[Kavu Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKavu%5D+%5BTitan%5D)
+[Kavu Titan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKavu%5D+%5BTitan%5D)
 
 
 
@@ -230,11 +233,11 @@ OverviewColorCostRarity
 
 
 4
-[Shivan Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BWurm%5D)
+[Shivan Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BWurm%5D)
 
 
 4
-[Yavimaya Barbarian](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BBarbarian%5D)
+[Yavimaya Barbarian](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BBarbarian%5D)
 
 
 
@@ -243,31 +246,31 @@ OverviewColorCostRarity
 
 
 6
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Rishadan Port](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRishadan%5D+%5BPort%5D)
+[Rishadan Port](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRishadan%5D+%5BPort%5D)
 
 
 4
-[Shivan Oasis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BOasis%5D)
+[Shivan Oasis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BOasis%5D)
 
 
 4
-[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+[Sulfurous Springs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
 
 
 4
-[Karplusan Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
+[Karplusan Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
 
 
 2
-[Brushland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
+[Brushland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
 
 
 4
-[Chimeric Idol](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChimeric%5D+%5BIdol%5D)
+[Chimeric Idol](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChimeric%5D+%5BIdol%5D)
 
 
 75 Cards 
@@ -279,11 +282,11 @@ OverviewColorCostRarity
 
 
 4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 3
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 
@@ -292,19 +295,19 @@ OverviewColorCostRarity
 
 
 4
-[Utopia Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BTree%5D)
+[Utopia Tree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BTree%5D)
 
 
 4
-[Thornscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BFamiliar%5D)
+[Thornscape Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BFamiliar%5D)
 
 
 4
-[Kavu Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKavu%5D+%5BTitan%5D)
+[Kavu Titan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKavu%5D+%5BTitan%5D)
 
 
 4
-[Yavimaya Barbarian](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BBarbarian%5D)
+[Yavimaya Barbarian](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BBarbarian%5D)
 
 
 
@@ -313,19 +316,19 @@ OverviewColorCostRarity
 
 
 4
-[Thornscape Battlemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BBattlemage%5D)
+[Thornscape Battlemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BBattlemage%5D)
 
 
 4
-[Thunderscape Battlemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderscape%5D+%5BBattlemage%5D)
+[Thunderscape Battlemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderscape%5D+%5BBattlemage%5D)
 
 
 4
-[Urza's Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
+[Urza's Rage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
 
 
 4
-[Chimeric Idol](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChimeric%5D+%5BIdol%5D)
+[Chimeric Idol](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChimeric%5D+%5BIdol%5D)
 
 
 
@@ -334,11 +337,11 @@ OverviewColorCostRarity
 
 
 4
-[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+[Flametongue Kavu](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
 
 
 4
-[Blastoderm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlastoderm%5D)
+[Blastoderm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlastoderm%5D)
 
 
 
@@ -347,7 +350,7 @@ OverviewColorCostRarity
 
 
 4
-[Shivan Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BWurm%5D)
+[Shivan Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BWurm%5D)
 
 
 51 Cards 
@@ -359,19 +362,19 @@ OverviewColorCostRarity
 
 
 6
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Thornscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BFamiliar%5D)
+[Thornscape Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BFamiliar%5D)
 
 
 3
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 4
-[Yavimaya Barbarian](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BBarbarian%5D)
+[Yavimaya Barbarian](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BBarbarian%5D)
 
 
 
@@ -380,27 +383,27 @@ OverviewColorCostRarity
 
 
 4
-[Shivan Oasis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BOasis%5D)
+[Shivan Oasis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BOasis%5D)
 
 
 4
-[Thornscape Battlemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BBattlemage%5D)
+[Thornscape Battlemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThornscape%5D+%5BBattlemage%5D)
 
 
 4
-[Thunderscape Battlemage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderscape%5D+%5BBattlemage%5D)
+[Thunderscape Battlemage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderscape%5D+%5BBattlemage%5D)
 
 
 4
-[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+[Flametongue Kavu](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
 
 
 4
-[Blastoderm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlastoderm%5D)
+[Blastoderm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlastoderm%5D)
 
 
 4
-[Chimeric Idol](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChimeric%5D+%5BIdol%5D)
+[Chimeric Idol](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChimeric%5D+%5BIdol%5D)
 
 
 
@@ -409,39 +412,39 @@ OverviewColorCostRarity
 
 
 4
-[Rishadan Port](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRishadan%5D+%5BPort%5D)
+[Rishadan Port](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRishadan%5D+%5BPort%5D)
 
 
 4
-[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+[Sulfurous Springs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
 
 
 4
-[Karplusan Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
+[Karplusan Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarplusan%5D+%5BForest%5D)
 
 
 2
-[Brushland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
+[Brushland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
 
 
 4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Utopia Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BTree%5D)
+[Utopia Tree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BTree%5D)
 
 
 4
-[Kavu Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKavu%5D+%5BTitan%5D)
+[Kavu Titan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKavu%5D+%5BTitan%5D)
 
 
 4
-[Shivan Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BWurm%5D)
+[Shivan Wurm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BWurm%5D)
 
 
 4
-[Urza's Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
+[Urza's Rage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
 
 
 75 Cards 
@@ -449,7 +452,7 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
 
 
 

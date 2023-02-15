@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160826084034/http://magic.wizards.com/en/articles/archive/feature/be-hero-play-magic-extra-life-2015-10-02)
+[Link to Wayback Machine](https://web.archive.org/web/20200531074442/https://magic.wizards.com/en/articles/archive/feature/be-hero-play-magic-extra-life-2015-10-02)
 
 [_metadata_:author]:- "Sean Gibbons"
 [_metadata_:description]:- "It's time to play Magic for a great cause!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2015-10-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Be a Hero. Play Magic for Extra Life!"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-26 08:40:34"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160826084034id_/http://magic.wizards.com/en/articles/archive/feature/be-hero-play-magic-extra-life-2015-10-02"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/be-hero-play-magic-extra-life-2015-10-02"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 07:44:42"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531074442id_/https://magic.wizards.com/en/articles/archive/feature/be-hero-play-magic-extra-life-2015-10-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/be-hero-play-magic-extra-life-2015-10-02"
 ---
 
 

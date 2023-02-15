@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220408044742/https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-mechanics-2022-04-07?utm_campaign=New-Capenna&utm_source=TWITTER&utm_medium=social&utm_content=6728771152)
+[Link to Wayback Machine](https://web.archive.org/web/20220408095232/https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-mechanics-2022-04-07?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "You'll need to learn a thing, or five, before braving the Streets of New Capenna. See what's in store with five new mechanics from the five families of New Capenna."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-04-07"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Streets of New Capenna Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2022-04-08 04:47:42"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220408044742id_/https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-mechanics-2022-04-07?utm_campaign=New-Capenna&utm_source=TWITTER&utm_medium=social&utm_content=6728771152"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-mechanics-2022-04-07?utm_campaign=New-Capenna&utm_source=TWITTER&utm_medium=social&utm_content=6728771152"
+[_metadata_:wayback_capture_timestamp]:- "2022-04-08 09:52:32"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220408095232id_/https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-mechanics-2022-04-07?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/streets-of-new-capenna-mechanics-2022-04-07?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

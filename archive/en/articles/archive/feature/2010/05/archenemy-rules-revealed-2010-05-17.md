@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Way back in January, we announced Archenemy, a new multiplayer product coming in June. We told you about its unique `One vs. Many` game play, allowing you to face off against as many of your friends as your kitchen table can hold."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "347036"
+[_metadata_:path_date]:- "2010-05-17"
 [_metadata_:publish_date]:- "2012-02-01"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Archenemy Rules Revealed"
@@ -55,7 +56,7 @@ What we haven't yet done, because we're cagey like that, is tell you what exactl
 *Archenemy* gives you everything you need to play a new casual variant of the same name. In an Archenemy game, one player—the archenemy—takes on the role of a merciless tyrant bent on total domination. The other players form a team dedicated to stopping the archenemy at any cost, taking a shared turn Two-Headed Giant–style.
 
 
-![](https://web.archive.org/web/20150311131534id_/http://archive.wizards.com/mtg/images/daily/features/feature91_art1.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature91_art1.jpg)
 
 But teaming up on the archenemy isn't unfair—it's a desperate survival tactic. The archenemy comes to the fight armed not only with a normal 60-card deck, but also with a deck of 20 oversized *scheme cards*. These represent the clever plots and monstrous machinations of the archenemy, and they give his or her deck the power boost it needs to—maybe—take out two, three, four, or even more opponents.
 
@@ -100,7 +101,7 @@ Schemes that aren't ongoing are simply put on the bottom of the scheme deck once
 Some schemes may ask you to pay some amount of mana to reap their full benefits:
 
 
-![](https://web.archive.org/web/20150311131535id_/http://archive.wizards.com/mtg/images/daily/features/feature91_whichOfYou.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature91_whichofyou.jpg)
 
 If a scheme's triggered ability has one or more targets, as this one does, you'll choose them when you put the triggered ability on the stack, as with any other triggered ability. You won't choose how much mana to pay for ![X Mana](https://web.archive.org/web/20150421062918im_/http://archive.wizards.com/images/Symbols/X_mana.gif), however, until the ability resolves. So your opponents will know *what's* going to take damage, but they won't know how much.
 
@@ -108,7 +109,7 @@ If a scheme's triggered ability has one or more targets, as this one does, you'l
 A few "hot seat" schemes let you put one of your opponents in a *very* awkward position by asking, "Self or others?"
 
 
-![](https://web.archive.org/web/20150311131536id_/http://archive.wizards.com/mtg/images/daily/features/feature91_mayCivilazation.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature91_maycivilazation.jpg)
 
 Will your opponent take one for the team, choosing the option that puts less total hurt on the archenemy's opponents? Or will he or she decide to let teammates take the heat, leaving his or her own position unchanged? A team player will look at this choice objectively, consult with his or her teammates, and choose the option that's best for the team as a whole ... but not everybody's a team player!
 
@@ -128,7 +129,7 @@ The rest of the rules are pretty straightforward. The archenemy starts at 40 lif
 The archenemy goes first and draws a card during his or her first draw step. (We told you they were malevolent!)
 
 
-![](https://web.archive.org/web/20150311131535id_/http://archive.wizards.com/mtg/images/daily/features/feature91_art2.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature91_art2.jpg)
 
 The archenemy's opponents share a turn, in the same way that teammates do in Two-Headed Giant. You each untap your permanents during your team's untap step, you each draw a card as your team's draw step begins, and so on. Each teammate can play a land during the team's main phase. Each teammate chooses which of his or her creatures will attack the archenemy or a planeswalker the archenemy controls, and then those creatures all attack at the same time. You can't attack your teammates.
 
@@ -139,7 +140,7 @@ The team of players opposing the archenemy needs to work together to have any ho
 If you or a member of your alliance is forced to make the ultimate sacrifice and leave the game, the rest of the team continues the fight. However, the usual rules for what happens when a player leaves a multiplayer game apply: All permanents and other cards that player owned leave the game, any spells or abilities controlled by that player cease to exist, and any effects that caused the player to gain control of permanents he or she doesn't own end.
 
 
-![](https://web.archive.org/web/20150311131536id_/http://archive.wizards.com/mtg/images/daily/features/feature91_art3.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature91_art3.jpg)
 
 The archenemy wins the game by defeating each member of the opposing team. The opposing team wins by defeating the archenemy. Every player on that team wins the game, even players that left the game before its conclusion.
 
@@ -156,7 +157,7 @@ In addition to the default "One vs. Many" Archenemy format, there's a Free-for-A
 And that's the deal with *Archenemy*! Well, except for the contents of the four 60-card decks, which come from many different **Magic** sets. And, of course, the 45 different scheme cards. You probably want to know what diabolical schemes you'll be unleashing on your opponents—or what sort of monstrous acts some villain will be committing against you and your teammates! That, however, will have to wait for another time.
 
 
-![](https://web.archive.org/web/20150311131535id_/http://archive.wizards.com/mtg/images/daily/features/feature91_product.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature91_product.jpg)
 
 Each *Archenemy* game pack has an MSRP of $19.99, and all four of them will be released on June 18, 2010. *Archenemy* is English-only, but it will have rules support in other languages. *Archenemy* release events will be held June 18-20, 2010 at participating venues. In the meantime, stay tuned to **magicthegathering.com** for more *Archenemy* updates!
 

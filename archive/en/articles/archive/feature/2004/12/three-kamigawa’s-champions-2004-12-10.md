@@ -6,6 +6,7 @@
 [_metadata_:description]:- "This week, for a bit of lighter fare, I'll be looking at the development of a few of the more unique legendary creatures from the Champions of Kamigawa set. Making a set full of legends presented a few unique problems, most of which revolved around perceived power level of individual cards. We didn't want to make lame-feeling legends like Chandler and Daughter of Autumn from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "289631"
+[_metadata_:path_date]:- "2004-12-10"
 [_metadata_:publish_date]:- "2004-12-11"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Three of Kamigawa’s Champions"

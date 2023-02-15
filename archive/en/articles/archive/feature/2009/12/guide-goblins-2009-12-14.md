@@ -71,7 +71,7 @@ But the Goblins of the Flarg could.
 Players who had jumped on the Necropotence bandwagon and were sure that they had the best deck met their match when a couple of brave inventors came up with the "Sligh" deck.
 
 
-![](https://web.archive.org/web/20160301184654im_/http://archive.wizards.com/mtg/images/daily/features/feature69_flargSlice.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature69_flargslice.jpg)
 
 The Necro mages would soon come to know that something horrible was about to happen to them when their opponents summoned a Goblin of the Flarg, and then possibly an Ironclaw Orcs or two. TheNecro deck's creatures would be Lightning Bolted or Incinerated, and the Goblins, Orcs, and even Dwarves would continue their attacks (while the Sligh player tried to remember not to summon a Dwarf when the Goblins of the Flarg were around).
 
@@ -352,7 +352,7 @@ That's a Vintage deck from a couple of years ago, which regularly summoned 10 or
 To date, there have been two Goblins who the Powers that Be decided were too powerful and which players in one or more Constructed formats were not allowed to play with. Do know which they were, and which one is still banned?
 
 
-![](https://web.archive.org/web/20160301184702im_/http://archive.wizards.com/mtg/images/daily/features/feature69_lackeySlice.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature69_lackeyslice.jpg)
 
 The first was the Goblin Lackey. When it was banned, Wizards of the Coast [explained that](http://archive.wizards.com/Magic/TCG/Events.aspx?x=dci/announce/dci20030901a)*"The Extended Constructed format has gotten too fast. One of the biggest culprits is the Goblin deck andGoblin Lackey is the most egregious offender. The introduction of the*Onslaught*block (and especially the*Scourge*set) has given Goblin decks some extremely high quality Goblins and the Lackey's ability to put them into play for free is simply too good for a first turn play."*
 
@@ -366,7 +366,7 @@ The first-turn Goblin Lackey led to all kinds of pain for opponents, such as s
 
 ![](https://web.archive.org/web/20160301184701im_/http://archive.wizards.com/mtg/images/daily/features/feature69_warrenSlice.jpg)
 
-We will wait to see whether the Warren Instigator, which trades an extra ![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif) to cast for the ability to double strike, will end up having anything like a similar effect.
+We will wait to see whether the Warren Instigator, which trades an extra ![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif) to cast for the ability to double strike, will end up having anything like a similar effect.
 
 
 
@@ -458,7 +458,7 @@ This deck could kill on turn two:
 
 
 **Turn One:** Mountain, Mox Diamond, Goblin Recruiter. Set up your deck to have Goblin Ringleader on top and then three more at four-card intervals, with a mix of Goblins in between.   
-**Turn Two:** Mountain, Food Chain. Remove Recruiter from the game for ![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif). Cast any Goblin from your opening hand. Exile that Goblin. You now have four mana in your pool, so cast Goblin Ringleaderand collect four new Goblins. Remove the Ringleader for five mana. You can now go in any number of directions, but almost all of them lead to you having a Goblin Warchief and some number of Goblin Piledrivers, as well as whatever other suite of Goblins you desire.
+**Turn Two:** Mountain, Food Chain. Remove Recruiter from the game for ![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif). Cast any Goblin from your opening hand. Exile that Goblin. You now have four mana in your pool, so cast Goblin Ringleaderand collect four new Goblins. Remove the Ringleader for five mana. You can now go in any number of directions, but almost all of them lead to you having a Goblin Warchief and some number of Goblin Piledrivers, as well as whatever other suite of Goblins you desire.
 
 
 Six years on, the Goblin Recruiter is still deemed too powerful for Legacy, and is the only currently banned Goblin.
@@ -474,7 +474,7 @@ There are other, more powerful Goblins, as we have seen. But if you want the Gob
 ![Mogg Fanatic](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Mogg%20Fanatic&options=)
 
 
-The Fanatic symbolises the Goblin tribe. A simple 1/1 for ![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif) with a seemingly straightforward ability, and yet with hidden depths and subtleties, all caused when it decides to blow itself up.
+The Fanatic symbolises the Goblin tribe. A simple 1/1 for ![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif) with a seemingly straightforward ability, and yet with hidden depths and subtleties, all caused when it decides to blow itself up.
 
 
 Since it was first unveiled in *Tempest*, the Fanatic has more Top 8 Pro Tour finishes than a Level 6 pro, has killed more creatures than a Wrath of God, and has dealt the finishing blow to more players than aLightning Bolt.

@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Frank Karsten on Modern and the only thing better than Gifts Ungiven"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "315333"
+[_metadata_:path_date]:- "2011-09-02"
 [_metadata_:publish_date]:- "2011-09-01"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: The Gifts that Keep on Giving"
@@ -61,7 +62,7 @@ That all changed when the format switched from Extended to the brand-new, untest
 
 
 
-![](https://web.archive.org/web/20151124135019im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/featureKarsten.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/featurekarsten.jpg)
 
 *The [Gifts Ungiven](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gifts+Ungiven) master himself is answering the question "What's better than [Gifts Ungiven](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gifts+Ungiven)?" Double Gifts.*
 

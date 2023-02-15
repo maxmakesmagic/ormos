@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Players at Philadelphia have discovered that Modern has a multitude of deck options, from Affinity to various flavors of Zoo to Twelvepost, Pyromancer Ascension, several types of Storm decks, Melira-based decks, and Elves, among others. But one thing they haven't had as much luck finding is a strong control deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "315391"
+[_metadata_:path_date]:- "2011-09-03"
 [_metadata_:publish_date]:- "2011-09-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: Losing Control"
@@ -148,7 +149,7 @@ Additionally, [Death Cloud](http://gatherer.wizards.com/Pages/Card/Details.aspx?
 
 
 
-![](https://web.archive.org/web/20150914141552im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/featureControl%20De%20Rosa.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/featurecontrol%20de%20rosa.jpg)
 
 *The face of [Death Cloud](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death+Cloud).*
 

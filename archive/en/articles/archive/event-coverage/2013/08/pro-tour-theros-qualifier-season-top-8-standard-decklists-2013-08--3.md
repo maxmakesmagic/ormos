@@ -1,0 +1,4354 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220519024338/https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour-theros-qualifier-season-top-8-standard-decklists-2013-08--3)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Pro Tour Theros Qualifier Season Top 8 Decklists Thanks to tournament organizer Geoff Dearing for the decklists."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "514901"
+[_metadata_:publish_date]:- "2013-08-08"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Pro Tour Theros Qualifier Season: Top 8 Standard Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 02:43:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519024338id_/https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour-theros-qualifier-season-top-8-standard-decklists-2013-08--3"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour-theros-qualifier-season-top-8-standard-decklists-2013-08--3"
+---
+
+
+Pro Tour *Theros* Qualifier Season: Top 8 Standard Decklists
+============================================================
+
+
+
+ Posted in **Event Coverage**
+ on August 8, 2013 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+* [**Pro Tour *Theros* Qualifier Season Top 8 Decklists**](http://www.wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/theros13ptq/welcome)
+
+*Thanks to tournament organizer Geoff Dearing for the decklists.*
+
+
+
+
+
+
+
+
+#### Majid Alhouri
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (2)
+
+
+
+2
+[Garruk, Primal Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk,%5D+%5BPrimal%5D+%5BHunter%5D)
+
+
+
+##### Creature (16)
+
+
+
+3
+[Olivia Voldaren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOlivia%5D+%5BVoldaren%5D)
+
+
+2
+[Arbor Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D)
+
+
+4
+[Thragtusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D)
+
+
+4
+[Huntmaster of the Fells](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHuntmaster%5D+%5Bof%5D+%5Bthe%5D+%5BFells%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+
+##### Sorcery (12)
+
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+4
+[Farseek](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarseek%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+3
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+
+##### Instant (5)
+
+
+
+2
+[Tragic Slip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D)
+
+
+3
+[Putrefy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D)
+
+
+
+##### Land (25)
+
+
+
+4
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+4
+[Blood Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+3
+[Dragonskull Summit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonskull%5D+%5BSummit%5D)
+
+
+2
+[Kessig Wolf Run](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKessig%5D+%5BWolf%5D+%5BRun%5D)
+
+
+4
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+2
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Tragic Slip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D)
+
+
+1
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Barter in Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D)
+
+
+2
+[Curse of Death's Hold](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D)
+
+
+2
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+3
+[Liliana of the Veil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+1
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+
+
+##### Black (15)
+
+
+
+4
+[Tragic Slip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Barter in Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D)
+
+
+2
+[Curse of Death's Hold](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D)
+
+
+2
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+3
+[Liliana of the Veil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+
+##### Red (4)
+
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+
+##### Green (15)
+
+
+
+2
+[Arbor Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D)
+
+
+4
+[Thragtusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Farseek](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarseek%5D)
+
+
+2
+[Garruk, Primal Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk,%5D+%5BPrimal%5D+%5BHunter%5D)
+
+
+
+##### Multi colored (16)
+
+
+
+3
+[Olivia Voldaren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOlivia%5D+%5BVoldaren%5D)
+
+
+4
+[Huntmaster of the Fells](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHuntmaster%5D+%5Bof%5D+%5Bthe%5D+%5BFells%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+3
+[Putrefy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D)
+
+
+4
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+1
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+
+##### Colorless (25)
+
+
+
+4
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+4
+[Blood Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+3
+[Dragonskull Summit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonskull%5D+%5BSummit%5D)
+
+
+2
+[Kessig Wolf Run](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKessig%5D+%5BWolf%5D+%5BRun%5D)
+
+
+4
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+2
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (12)
+
+
+
+2
+[Arbor Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D)
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+4
+[Tragic Slip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (13)
+
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Farseek](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarseek%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+4
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+1
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+
+##### 3 (8)
+
+
+
+3
+[Putrefy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D)
+
+
+2
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+3
+[Liliana of the Veil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+
+##### 4 (9)
+
+
+
+3
+[Olivia Voldaren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOlivia%5D+%5BVoldaren%5D)
+
+
+4
+[Huntmaster of the Fells](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHuntmaster%5D+%5Bof%5D+%5Bthe%5D+%5BFells%5D)
+
+
+2
+[Barter in Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D)
+
+
+
+##### 5 (8)
+
+
+
+4
+[Thragtusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D)
+
+
+2
+[Garruk, Primal Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk,%5D+%5BPrimal%5D+%5BHunter%5D)
+
+
+2
+[Curse of Death's Hold](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D)
+
+
+50 Cards 
+
+
+
+##### Common (16)
+
+
+
+2
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Arbor Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D)
+
+
+4
+[Farseek](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarseek%5D)
+
+
+4
+[Tragic Slip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+
+##### Uncommon (2)
+
+
+
+2
+[Barter in Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D)
+
+
+
+##### Rare (37)
+
+
+
+4
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+4
+[Blood Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+3
+[Dragonskull Summit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonskull%5D+%5BSummit%5D)
+
+
+2
+[Kessig Wolf Run](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKessig%5D+%5BWolf%5D+%5BRun%5D)
+
+
+4
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+1
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+4
+[Thragtusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+3
+[Putrefy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D)
+
+
+2
+[Curse of Death's Hold](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D)
+
+
+2
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+
+##### Mythic (20)
+
+
+
+3
+[Olivia Voldaren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOlivia%5D+%5BVoldaren%5D)
+
+
+4
+[Huntmaster of the Fells](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHuntmaster%5D+%5Bof%5D+%5Bthe%5D+%5BFells%5D)
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+4
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+2
+[Garruk, Primal Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk,%5D+%5BPrimal%5D+%5BHunter%5D)
+
+
+3
+[Liliana of the Veil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Stomping+Ground)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Josh Wiitanen
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (11)
+
+
+
+4
+[Augur of Bolas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugur%5D+%5Bof%5D+%5BBolas%5D)
+
+
+4
+[Restoration Angel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRestoration%5D+%5BAngel%5D)
+
+
+3
+[Snapcaster Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D)
+
+
+
+##### Sorcery (5)
+
+
+
+2
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+3
+[Pillar of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillar%5D+%5Bof%5D+%5BFlame%5D)
+
+
+
+##### Instant (19)
+
+
+
+1
+[Turn // Burn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTurn%5D+%5B&%5D+%5BBurn%5D)
+
+
+2
+[Warleader's Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarleader%5D+%5BHelix%5D)
+
+
+4
+[Azorius Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAzorius%5D+%5BCharm%5D)
+
+
+2
+[Counterflux](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterflux%5D)
+
+
+3
+[Sphinx's Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5BRevelation%5D)
+
+
+4
+[Think Twice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThink%5D+%5BTwice%5D)
+
+
+2
+[Syncopate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D)
+
+
+1
+[Rewind](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRewind%5D)
+
+
+
+##### Land (25)
+
+
+
+2
+[Encroaching Wastes](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncroaching%5D+%5BWastes%5D)
+
+
+1
+[Moorland Haunt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoorland%5D+%5BHaunt%5D)
+
+
+4
+[Sulfur Falls](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfur%5D+%5BFalls%5D)
+
+
+3
+[Clifftop Retreat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClifftop%5D+%5BRetreat%5D)
+
+
+4
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+
+
+3
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Turn // Burn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTurn%5D+%5B&%5D+%5BBurn%5D)
+
+
+2
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Renounce the Guilds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenounce%5D+%5Bthe%5D+%5BGuilds%5D)
+
+
+3
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+3
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+2
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+
+
+2
+[Izzet Staticaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIzzet%5D+%5BStaticaster%5D)
+
+
+
+
+##### White (8)
+
+
+
+4
+[Restoration Angel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRestoration%5D+%5BAngel%5D)
+
+
+2
+[Renounce the Guilds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenounce%5D+%5Bthe%5D+%5BGuilds%5D)
+
+
+2
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+
+
+
+##### Blue (17)
+
+
+
+4
+[Augur of Bolas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugur%5D+%5Bof%5D+%5BBolas%5D)
+
+
+3
+[Snapcaster Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D)
+
+
+4
+[Think Twice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThink%5D+%5BTwice%5D)
+
+
+2
+[Syncopate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D)
+
+
+1
+[Rewind](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRewind%5D)
+
+
+3
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+
+##### Red (8)
+
+
+
+2
+[Turn // Burn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTurn%5D+%5B&%5D+%5BBurn%5D)
+
+
+3
+[Pillar of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillar%5D+%5Bof%5D+%5BFlame%5D)
+
+
+3
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+
+##### Multi colored (15)
+
+
+
+2
+[Warleader's Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarleader%5D+%5BHelix%5D)
+
+
+4
+[Azorius Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAzorius%5D+%5BCharm%5D)
+
+
+2
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+2
+[Counterflux](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterflux%5D)
+
+
+3
+[Sphinx's Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5BRevelation%5D)
+
+
+2
+[Izzet Staticaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIzzet%5D+%5BStaticaster%5D)
+
+
+
+##### Colorless (27)
+
+
+
+2
+[Encroaching Wastes](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncroaching%5D+%5BWastes%5D)
+
+
+1
+[Moorland Haunt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoorland%5D+%5BHaunt%5D)
+
+
+4
+[Sulfur Falls](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfur%5D+%5BFalls%5D)
+
+
+3
+[Clifftop Retreat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClifftop%5D+%5BRetreat%5D)
+
+
+4
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+
+
+3
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+2
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (8)
+
+
+
+3
+[Pillar of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillar%5D+%5Bof%5D+%5BFlame%5D)
+
+
+2
+[Syncopate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D)
+
+
+3
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+
+##### 2 (21)
+
+
+
+4
+[Augur of Bolas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugur%5D+%5Bof%5D+%5BBolas%5D)
+
+
+3
+[Snapcaster Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D)
+
+
+2
+[Turn // Burn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTurn%5D+%5B&%5D+%5BBurn%5D)
+
+
+4
+[Azorius Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAzorius%5D+%5BCharm%5D)
+
+
+4
+[Think Twice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThink%5D+%5BTwice%5D)
+
+
+2
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Renounce the Guilds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenounce%5D+%5Bthe%5D+%5BGuilds%5D)
+
+
+
+##### 3 (9)
+
+
+
+2
+[Counterflux](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterflux%5D)
+
+
+3
+[Sphinx's Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5BRevelation%5D)
+
+
+2
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+
+
+2
+[Izzet Staticaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIzzet%5D+%5BStaticaster%5D)
+
+
+
+##### 4 (9)
+
+
+
+4
+[Restoration Angel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRestoration%5D+%5BAngel%5D)
+
+
+2
+[Warleader's Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarleader%5D+%5BHelix%5D)
+
+
+2
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+1
+[Rewind](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRewind%5D)
+
+
+
+##### 5 (3)
+
+
+
+3
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+50 Cards 
+
+
+
+##### Common (16)
+
+
+
+4
+[Restoration Angel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRestoration%5D+%5BAngel%5D)
+
+
+3
+[Pillar of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillar%5D+%5Bof%5D+%5BFlame%5D)
+
+
+4
+[Think Twice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThink%5D+%5BTwice%5D)
+
+
+2
+[Syncopate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D)
+
+
+3
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+
+##### Uncommon (19)
+
+
+
+2
+[Encroaching Wastes](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncroaching%5D+%5BWastes%5D)
+
+
+4
+[Augur of Bolas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugur%5D+%5Bof%5D+%5BBolas%5D)
+
+
+2
+[Turn // Burn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTurn%5D+%5B&%5D+%5BBurn%5D)
+
+
+2
+[Warleader's Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarleader%5D+%5BHelix%5D)
+
+
+4
+[Azorius Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAzorius%5D+%5BCharm%5D)
+
+
+1
+[Rewind](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRewind%5D)
+
+
+2
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+
+
+2
+[Izzet Staticaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIzzet%5D+%5BStaticaster%5D)
+
+
+
+##### Rare (34)
+
+
+
+1
+[Moorland Haunt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoorland%5D+%5BHaunt%5D)
+
+
+4
+[Sulfur Falls](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfur%5D+%5BFalls%5D)
+
+
+3
+[Clifftop Retreat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClifftop%5D+%5BRetreat%5D)
+
+
+4
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+
+
+3
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+3
+[Snapcaster Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D)
+
+
+2
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+2
+[Counterflux](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterflux%5D)
+
+
+2
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Renounce the Guilds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenounce%5D+%5Bthe%5D+%5BGuilds%5D)
+
+
+
+##### Mythic (6)
+
+
+
+3
+[Sphinx's Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5BRevelation%5D)
+
+
+3
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Encroaching+Wastes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Nick Hurzeler
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (20)
+
+
+
+3
+[Gladecover Scout](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGladecover%5D+%5BScout%5D)
+
+
+3
+[Witchstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchstalker%5D)
+
+
+4
+[Invisible Stalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInvisible%5D+%5BStalker%5D)
+
+
+4
+[Avacyn's Pilgrim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvacyn%5D+%5BPilgrim%5D)
+
+
+4
+[Geist of Saint Traft](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeist%5D+%5Bof%5D+%5BSaint%5D+%5BTraft%5D)
+
+
+2
+[Silverblade Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilverblade%5D+%5BPaladin%5D)
+
+
+
+##### Instant (2)
+
+
+
+2
+[Simic Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BCharm%5D)
+
+
+
+##### Enchantment (16)
+
+
+
+4
+[Ethereal Armor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthereal%5D+%5BArmor%5D)
+
+
+4
+[Unflinching Courage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnflinching%5D+%5BCourage%5D)
+
+
+4
+[Spectral Flight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpectral%5D+%5BFlight%5D)
+
+
+4
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+
+##### Land (22)
+
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+4
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+3
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+2
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Gladecover Scout](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGladecover%5D+%5BScout%5D)
+
+
+1
+[Silverblade Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilverblade%5D+%5BPaladin%5D)
+
+
+1
+[Simic Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BCharm%5D)
+
+
+2
+[Azorius Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAzorius%5D+%5BCharm%5D)
+
+
+2
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+2
+[Fog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
+
+
+1
+[Detention Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetention%5D+%5BSphere%5D)
+
+
+3
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+2
+[Ground Seal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGround%5D+%5BSeal%5D)
+
+
+
+
+##### White (9)
+
+
+
+3
+[Silverblade Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilverblade%5D+%5BPaladin%5D)
+
+
+4
+[Ethereal Armor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthereal%5D+%5BArmor%5D)
+
+
+2
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+
+##### Blue (8)
+
+
+
+4
+[Invisible Stalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInvisible%5D+%5BStalker%5D)
+
+
+4
+[Spectral Flight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpectral%5D+%5BFlight%5D)
+
+
+
+##### Green (19)
+
+
+
+4
+[Gladecover Scout](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGladecover%5D+%5BScout%5D)
+
+
+3
+[Witchstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchstalker%5D)
+
+
+4
+[Avacyn's Pilgrim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvacyn%5D+%5BPilgrim%5D)
+
+
+4
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+2
+[Fog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
+
+
+2
+[Ground Seal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGround%5D+%5BSeal%5D)
+
+
+
+##### Multi colored (17)
+
+
+
+4
+[Geist of Saint Traft](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeist%5D+%5Bof%5D+%5BSaint%5D+%5BTraft%5D)
+
+
+4
+[Unflinching Courage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnflinching%5D+%5BCourage%5D)
+
+
+3
+[Simic Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BCharm%5D)
+
+
+2
+[Azorius Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAzorius%5D+%5BCharm%5D)
+
+
+1
+[Detention Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetention%5D+%5BSphere%5D)
+
+
+3
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+
+##### Colorless (22)
+
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+4
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+3
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+2
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (18)
+
+
+
+4
+[Gladecover Scout](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGladecover%5D+%5BScout%5D)
+
+
+4
+[Avacyn's Pilgrim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvacyn%5D+%5BPilgrim%5D)
+
+
+4
+[Ethereal Armor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthereal%5D+%5BArmor%5D)
+
+
+4
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+2
+[Fog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
+
+
+
+##### 2 (20)
+
+
+
+4
+[Invisible Stalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInvisible%5D+%5BStalker%5D)
+
+
+4
+[Spectral Flight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpectral%5D+%5BFlight%5D)
+
+
+3
+[Simic Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BCharm%5D)
+
+
+2
+[Azorius Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAzorius%5D+%5BCharm%5D)
+
+
+2
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+3
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+2
+[Ground Seal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGround%5D+%5BSeal%5D)
+
+
+
+##### 3 (15)
+
+
+
+3
+[Witchstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchstalker%5D)
+
+
+4
+[Geist of Saint Traft](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeist%5D+%5Bof%5D+%5BSaint%5D+%5BTraft%5D)
+
+
+3
+[Silverblade Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilverblade%5D+%5BPaladin%5D)
+
+
+4
+[Unflinching Courage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnflinching%5D+%5BCourage%5D)
+
+
+1
+[Detention Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetention%5D+%5BSphere%5D)
+
+
+53 Cards 
+
+
+
+##### Common (21)
+
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Gladecover Scout](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGladecover%5D+%5BScout%5D)
+
+
+4
+[Avacyn's Pilgrim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvacyn%5D+%5BPilgrim%5D)
+
+
+4
+[Ethereal Armor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthereal%5D+%5BArmor%5D)
+
+
+4
+[Spectral Flight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpectral%5D+%5BFlight%5D)
+
+
+2
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+2
+[Fog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
+
+
+
+##### Uncommon (17)
+
+
+
+4
+[Invisible Stalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInvisible%5D+%5BStalker%5D)
+
+
+4
+[Unflinching Courage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnflinching%5D+%5BCourage%5D)
+
+
+4
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+3
+[Simic Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BCharm%5D)
+
+
+2
+[Azorius Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAzorius%5D+%5BCharm%5D)
+
+
+
+##### Rare (30)
+
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+4
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+3
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+2
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+3
+[Witchstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchstalker%5D)
+
+
+3
+[Silverblade Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilverblade%5D+%5BPaladin%5D)
+
+
+1
+[Detention Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetention%5D+%5BSphere%5D)
+
+
+2
+[Ground Seal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGround%5D+%5BSeal%5D)
+
+
+
+##### Mythic (7)
+
+
+
+4
+[Geist of Saint Traft](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeist%5D+%5Bof%5D+%5BSaint%5D+%5BTraft%5D)
+
+
+3
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Temple+Garden)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Mike Callahan
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (3)
+
+
+
+1
+[Liliana of the Veil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+2
+[Garruk, Primal Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk,%5D+%5BPrimal%5D+%5BHunter%5D)
+
+
+
+##### Creature (16)
+
+
+
+2
+[Arbor Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Huntmaster of the Fells](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHuntmaster%5D+%5Bof%5D+%5Bthe%5D+%5BFells%5D)
+
+
+4
+[Thragtusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D)
+
+
+3
+[Olivia Voldaren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOlivia%5D+%5BVoldaren%5D)
+
+
+
+##### Sorcery (11)
+
+
+
+4
+[Farseek](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarseek%5D)
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+2
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+
+##### Instant (5)
+
+
+
+2
+[Tragic Slip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D)
+
+
+2
+[Putrefy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D)
+
+
+1
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+
+##### Land (25)
+
+
+
+1
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+3
+[Dragonskull Summit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonskull%5D+%5BSummit%5D)
+
+
+4
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+2
+[Kessig Wolf Run](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKessig%5D+%5BWolf%5D+%5BRun%5D)
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+4
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+4
+[Blood Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+2
+[Liliana of the Veil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+1
+[Vraska the Unseen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVraska%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Witchbane Orb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchbane%5D+%5BOrb%5D)
+
+
+2
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+1
+[Curse of Death's Hold](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D)
+
+
+2
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+1
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+1
+[Slaughter Games](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BGames%5D)
+
+
+2
+[Barter in Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D)
+
+
+1
+[Ruric Thar, the Unbowed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuric%5D+%5BThar,%5D+%5Bthe%5D+%5BUnbowed%5D)
+
+
+
+
+##### Black (10)
+
+
+
+2
+[Tragic Slip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D)
+
+
+3
+[Liliana of the Veil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+1
+[Curse of Death's Hold](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D)
+
+
+2
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+2
+[Barter in Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D)
+
+
+
+##### Red (4)
+
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+
+##### Green (15)
+
+
+
+2
+[Arbor Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Thragtusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D)
+
+
+4
+[Farseek](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarseek%5D)
+
+
+2
+[Garruk, Primal Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk,%5D+%5BPrimal%5D+%5BHunter%5D)
+
+
+
+##### Multi colored (18)
+
+
+
+4
+[Huntmaster of the Fells](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHuntmaster%5D+%5Bof%5D+%5Bthe%5D+%5BFells%5D)
+
+
+3
+[Olivia Voldaren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOlivia%5D+%5BVoldaren%5D)
+
+
+3
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+2
+[Putrefy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D)
+
+
+1
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+1
+[Vraska the Unseen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVraska%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+1
+[Slaughter Games](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BGames%5D)
+
+
+1
+[Ruric Thar, the Unbowed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuric%5D+%5BThar,%5D+%5Bthe%5D+%5BUnbowed%5D)
+
+
+
+##### Colorless (28)
+
+
+
+1
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+3
+[Dragonskull Summit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonskull%5D+%5BSummit%5D)
+
+
+4
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+2
+[Kessig Wolf Run](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKessig%5D+%5BWolf%5D+%5BRun%5D)
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+4
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+4
+[Blood Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
+
+
+1
+[Witchbane Orb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchbane%5D+%5BOrb%5D)
+
+
+2
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (8)
+
+
+
+2
+[Arbor Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D)
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+2
+[Tragic Slip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D)
+
+
+
+##### 2 (15)
+
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Farseek](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarseek%5D)
+
+
+3
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+1
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+2
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+1
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+
+##### 3 (7)
+
+
+
+2
+[Putrefy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D)
+
+
+3
+[Liliana of the Veil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+2
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+
+##### 4 (11)
+
+
+
+4
+[Huntmaster of the Fells](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHuntmaster%5D+%5Bof%5D+%5Bthe%5D+%5BFells%5D)
+
+
+3
+[Olivia Voldaren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOlivia%5D+%5BVoldaren%5D)
+
+
+1
+[Witchbane Orb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchbane%5D+%5BOrb%5D)
+
+
+1
+[Slaughter Games](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BGames%5D)
+
+
+2
+[Barter in Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D)
+
+
+
+##### 5 (8)
+
+
+
+4
+[Thragtusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D)
+
+
+2
+[Garruk, Primal Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk,%5D+%5BPrimal%5D+%5BHunter%5D)
+
+
+1
+[Vraska the Unseen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVraska%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Curse of Death's Hold](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Ruric Thar, the Unbowed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuric%5D+%5BThar,%5D+%5Bthe%5D+%5BUnbowed%5D)
+
+
+50 Cards 
+
+
+
+##### Common (12)
+
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Arbor Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D)
+
+
+4
+[Farseek](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarseek%5D)
+
+
+2
+[Tragic Slip](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D)
+
+
+1
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+
+##### Uncommon (3)
+
+
+
+1
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+2
+[Barter in Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D)
+
+
+
+##### Rare (40)
+
+
+
+1
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+3
+[Dragonskull Summit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonskull%5D+%5BSummit%5D)
+
+
+4
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+2
+[Kessig Wolf Run](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKessig%5D+%5BWolf%5D+%5BRun%5D)
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+4
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+4
+[Blood Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Thragtusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+2
+[Putrefy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D)
+
+
+1
+[Witchbane Orb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchbane%5D+%5BOrb%5D)
+
+
+2
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+1
+[Curse of Death's Hold](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D)
+
+
+2
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+1
+[Slaughter Games](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BGames%5D)
+
+
+1
+[Ruric Thar, the Unbowed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuric%5D+%5BThar,%5D+%5Bthe%5D+%5BUnbowed%5D)
+
+
+
+##### Mythic (20)
+
+
+
+4
+[Huntmaster of the Fells](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHuntmaster%5D+%5Bof%5D+%5Bthe%5D+%5BFells%5D)
+
+
+3
+[Olivia Voldaren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOlivia%5D+%5BVoldaren%5D)
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+3
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+3
+[Liliana of the Veil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+2
+[Garruk, Primal Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk,%5D+%5BPrimal%5D+%5BHunter%5D)
+
+
+1
+[Vraska the Unseen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVraska%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Rootbound+Crag)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Nick Knighton
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (4)
+
+
+
+4
+[Domri Rade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDomri%5D+%5BRade%5D)
+
+
+
+##### Creature (28)
+
+
+
+4
+[Avacyn's Pilgrim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvacyn%5D+%5BPilgrim%5D)
+
+
+3
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+3
+[Flinthoof Boar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlinthoof%5D+%5BBoar%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+3
+[Loxodon Smiter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BSmiter%5D)
+
+
+3
+[Ghor-Clan Rampager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhor-Clan%5D+%5BRampager%5D)
+
+
+1
+[Sublime Archangel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSublime%5D+%5BArchangel%5D)
+
+
+4
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+
+##### Sorcery (3)
+
+
+
+3
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+
+##### Instant (1)
+
+
+
+1
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+
+##### Land (24)
+
+
+
+4
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+4
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+4
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+3
+[Clifftop Retreat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClifftop%5D+%5BRetreat%5D)
+
+
+3
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Kessig Wolf Run](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKessig%5D+%5BWolf%5D+%5BRun%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+2
+[Rest in Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D)
+
+
+2
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+2
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+2
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+
+
+3
+[Unflinching Courage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnflinching%5D+%5BCourage%5D)
+
+
+1
+[Garruk Relentless](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk%5D+%5BRelentless%5D)
+
+
+1
+[Ruric Thar, the Unbowed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuric%5D+%5BThar,%5D+%5Bthe%5D+%5BUnbowed%5D)
+
+
+1
+[Aurelia, the Warleader](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAurelia,%5D+%5Bthe%5D+%5BWarleader%5D)
+
+
+
+
+##### White (7)
+
+
+
+1
+[Sublime Archangel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSublime%5D+%5BArchangel%5D)
+
+
+2
+[Rest in Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D)
+
+
+2
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+2
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+
+
+
+##### Red (7)
+
+
+
+4
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+3
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+
+##### Green (11)
+
+
+
+4
+[Avacyn's Pilgrim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvacyn%5D+%5BPilgrim%5D)
+
+
+3
+[Flinthoof Boar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlinthoof%5D+%5BBoar%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+1
+[Garruk Relentless](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk%5D+%5BRelentless%5D)
+
+
+
+##### Multi colored (26)
+
+
+
+3
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+3
+[Loxodon Smiter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BSmiter%5D)
+
+
+3
+[Ghor-Clan Rampager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhor-Clan%5D+%5BRampager%5D)
+
+
+2
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+4
+[Domri Rade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDomri%5D+%5BRade%5D)
+
+
+2
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+3
+[Unflinching Courage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnflinching%5D+%5BCourage%5D)
+
+
+1
+[Ruric Thar, the Unbowed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuric%5D+%5BThar,%5D+%5Bthe%5D+%5BUnbowed%5D)
+
+
+1
+[Aurelia, the Warleader](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAurelia,%5D+%5Bthe%5D+%5BWarleader%5D)
+
+
+
+##### Colorless (24)
+
+
+
+4
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+4
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+4
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+3
+[Clifftop Retreat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClifftop%5D+%5BRetreat%5D)
+
+
+3
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Kessig Wolf Run](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKessig%5D+%5BWolf%5D+%5BRun%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (7)
+
+
+
+4
+[Avacyn's Pilgrim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvacyn%5D+%5BPilgrim%5D)
+
+
+3
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+
+##### 2 (17)
+
+
+
+3
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+3
+[Flinthoof Boar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlinthoof%5D+%5BBoar%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+2
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+2
+[Rest in Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D)
+
+
+2
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+2
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+
+##### 3 (16)
+
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+3
+[Loxodon Smiter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BSmiter%5D)
+
+
+4
+[Domri Rade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDomri%5D+%5BRade%5D)
+
+
+2
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+
+
+3
+[Unflinching Courage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnflinching%5D+%5BCourage%5D)
+
+
+
+##### 4 (5)
+
+
+
+3
+[Ghor-Clan Rampager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhor-Clan%5D+%5BRampager%5D)
+
+
+1
+[Sublime Archangel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSublime%5D+%5BArchangel%5D)
+
+
+1
+[Garruk Relentless](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk%5D+%5BRelentless%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+
+##### 6 (2)
+
+
+
+1
+[Ruric Thar, the Unbowed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuric%5D+%5BThar,%5D+%5Bthe%5D+%5BUnbowed%5D)
+
+
+1
+[Aurelia, the Warleader](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAurelia,%5D+%5Bthe%5D+%5BWarleader%5D)
+
+
+51 Cards 
+
+
+
+##### Common (7)
+
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Avacyn's Pilgrim](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvacyn%5D+%5BPilgrim%5D)
+
+
+2
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+
+##### Uncommon (15)
+
+
+
+3
+[Flinthoof Boar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlinthoof%5D+%5BBoar%5D)
+
+
+3
+[Ghor-Clan Rampager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhor-Clan%5D+%5BRampager%5D)
+
+
+2
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+2
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+2
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+
+
+3
+[Unflinching Courage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnflinching%5D+%5BCourage%5D)
+
+
+
+##### Rare (36)
+
+
+
+4
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+4
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+4
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+3
+[Clifftop Retreat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClifftop%5D+%5BRetreat%5D)
+
+
+3
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+1
+[Kessig Wolf Run](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKessig%5D+%5BWolf%5D+%5BRun%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+3
+[Loxodon Smiter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BSmiter%5D)
+
+
+2
+[Rest in Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D)
+
+
+1
+[Ruric Thar, the Unbowed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuric%5D+%5BThar,%5D+%5Bthe%5D+%5BUnbowed%5D)
+
+
+
+##### Mythic (17)
+
+
+
+3
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+1
+[Sublime Archangel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSublime%5D+%5BArchangel%5D)
+
+
+4
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+3
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+4
+[Domri Rade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDomri%5D+%5BRade%5D)
+
+
+1
+[Garruk Relentless](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk%5D+%5BRelentless%5D)
+
+
+1
+[Aurelia, the Warleader](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAurelia,%5D+%5Bthe%5D+%5BWarleader%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Stomping+Ground)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Brandon Montoya
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (20)
+
+
+
+4
+[Experiment One](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExperiment%5D+%5BOne%5D)
+
+
+4
+[Young Wolf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYoung%5D+%5BWolf%5D)
+
+
+4
+[Geist of Saint Traft](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeist%5D+%5Bof%5D+%5BSaint%5D+%5BTraft%5D)
+
+
+4
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+4
+[Strangleroot Geist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrangleroot%5D+%5BGeist%5D)
+
+
+
+##### Instant (15)
+
+
+
+3
+[Simic Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BCharm%5D)
+
+
+4
+[Rapid Hybridization](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BHybridization%5D)
+
+
+4
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+4
+[Spell Rupture](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BRupture%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+
+##### Land (21)
+
+
+
+3
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+2
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+4
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+3
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+2
+[Unsummon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnsummon%5D)
+
+
+2
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Centaur Healer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCentaur%5D+%5BHealer%5D)
+
+
+
+
+##### White (3)
+
+
+
+3
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+
+##### Blue (14)
+
+
+
+4
+[Rapid Hybridization](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BHybridization%5D)
+
+
+4
+[Spell Rupture](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BRupture%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+2
+[Unsummon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnsummon%5D)
+
+
+
+##### Green (18)
+
+
+
+4
+[Experiment One](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExperiment%5D+%5BOne%5D)
+
+
+4
+[Young Wolf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYoung%5D+%5BWolf%5D)
+
+
+4
+[Strangleroot Geist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrangleroot%5D+%5BGeist%5D)
+
+
+4
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+2
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+
+##### Multi colored (19)
+
+
+
+4
+[Geist of Saint Traft](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeist%5D+%5Bof%5D+%5BSaint%5D+%5BTraft%5D)
+
+
+4
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+3
+[Simic Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BCharm%5D)
+
+
+4
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+4
+[Centaur Healer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCentaur%5D+%5BHealer%5D)
+
+
+
+##### Colorless (21)
+
+
+
+3
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+2
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+4
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (20)
+
+
+
+4
+[Experiment One](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExperiment%5D+%5BOne%5D)
+
+
+4
+[Young Wolf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYoung%5D+%5BWolf%5D)
+
+
+4
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+4
+[Rapid Hybridization](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BHybridization%5D)
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+2
+[Unsummon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnsummon%5D)
+
+
+
+##### 2 (26)
+
+
+
+4
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+4
+[Strangleroot Geist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrangleroot%5D+%5BGeist%5D)
+
+
+3
+[Simic Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BCharm%5D)
+
+
+4
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+4
+[Spell Rupture](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BRupture%5D)
+
+
+3
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+
+##### 3 (8)
+
+
+
+4
+[Geist of Saint Traft](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeist%5D+%5Bof%5D+%5BSaint%5D+%5BTraft%5D)
+
+
+4
+[Centaur Healer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCentaur%5D+%5BHealer%5D)
+
+
+54 Cards 
+
+
+
+##### Common (22)
+
+
+
+3
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Young Wolf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYoung%5D+%5BWolf%5D)
+
+
+4
+[Spell Rupture](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BRupture%5D)
+
+
+3
+[Ray of Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRay%5D+%5Bof%5D+%5BRevelation%5D)
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+2
+[Unsummon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnsummon%5D)
+
+
+4
+[Centaur Healer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCentaur%5D+%5BHealer%5D)
+
+
+
+##### Uncommon (25)
+
+
+
+4
+[Experiment One](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExperiment%5D+%5BOne%5D)
+
+
+4
+[Strangleroot Geist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrangleroot%5D+%5BGeist%5D)
+
+
+3
+[Simic Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BCharm%5D)
+
+
+4
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+4
+[Rapid Hybridization](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BHybridization%5D)
+
+
+4
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Rare (20)
+
+
+
+4
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+2
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+4
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+2
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+
+##### Mythic (8)
+
+
+
+4
+[Geist of Saint Traft](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeist%5D+%5Bof%5D+%5BSaint%5D+%5BTraft%5D)
+
+
+4
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### John Denney
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (32)
+
+
+
+4
+[Experiment One](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExperiment%5D+%5BOne%5D)
+
+
+4
+[Champion of the Parish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChampion%5D+%5Bof%5D+%5Bthe%5D+%5BParish%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+3
+[Mayor of Avabruck](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMayor%5D+%5Bof%5D+%5BAvabruck%5D)
+
+
+4
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+3
+[Thalia, Guardian of Thraben](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia,%5D+%5BGuardian%5D+%5Bof%5D+%5BThraben%5D)
+
+
+4
+[Silverblade Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilverblade%5D+%5BPaladin%5D)
+
+
+3
+[Frontline Medic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrontline%5D+%5BMedic%5D)
+
+
+4
+[Loxodon Smiter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BSmiter%5D)
+
+
+
+##### Instant (3)
+
+
+
+3
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+
+##### Enchantment (3)
+
+
+
+3
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+
+##### Land (22)
+
+
+
+2
+[Gavony Township](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGavony%5D+%5BTownship%5D)
+
+
+2
+[Cavern of Souls](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavern%5D+%5Bof%5D+%5BSouls%5D)
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+4
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+5
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+5
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+1
+[Thalia, Guardian of Thraben](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia,%5D+%5BGuardian%5D+%5Bof%5D+%5BThraben%5D)
+
+
+1
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+3
+[Witchstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchstalker%5D)
+
+
+4
+[Knight of Glory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5BGlory%5D)
+
+
+3
+[Brave the Elements](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrave%5D+%5Bthe%5D+%5BElements%5D)
+
+
+2
+[Fiendslayer Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiendslayer%5D+%5BPaladin%5D)
+
+
+
+
+##### White (24)
+
+
+
+4
+[Champion of the Parish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChampion%5D+%5Bof%5D+%5Bthe%5D+%5BParish%5D)
+
+
+4
+[Thalia, Guardian of Thraben](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia,%5D+%5BGuardian%5D+%5Bof%5D+%5BThraben%5D)
+
+
+4
+[Silverblade Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilverblade%5D+%5BPaladin%5D)
+
+
+3
+[Frontline Medic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrontline%5D+%5BMedic%5D)
+
+
+4
+[Knight of Glory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5BGlory%5D)
+
+
+3
+[Brave the Elements](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrave%5D+%5Bthe%5D+%5BElements%5D)
+
+
+2
+[Fiendslayer Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiendslayer%5D+%5BPaladin%5D)
+
+
+
+##### Green (17)
+
+
+
+4
+[Experiment One](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExperiment%5D+%5BOne%5D)
+
+
+4
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+3
+[Mayor of Avabruck](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMayor%5D+%5Bof%5D+%5BAvabruck%5D)
+
+
+3
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+3
+[Witchstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchstalker%5D)
+
+
+
+##### Multi colored (12)
+
+
+
+4
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+4
+[Loxodon Smiter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BSmiter%5D)
+
+
+4
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+
+##### Colorless (22)
+
+
+
+2
+[Gavony Township](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGavony%5D+%5BTownship%5D)
+
+
+2
+[Cavern of Souls](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavern%5D+%5Bof%5D+%5BSouls%5D)
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+4
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+5
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+5
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (14)
+
+
+
+4
+[Experiment One](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExperiment%5D+%5BOne%5D)
+
+
+4
+[Champion of the Parish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChampion%5D+%5Bof%5D+%5Bthe%5D+%5BParish%5D)
+
+
+3
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+3
+[Brave the Elements](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrave%5D+%5Bthe%5D+%5BElements%5D)
+
+
+
+##### 2 (23)
+
+
+
+4
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+3
+[Mayor of Avabruck](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMayor%5D+%5Bof%5D+%5BAvabruck%5D)
+
+
+4
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+4
+[Thalia, Guardian of Thraben](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia,%5D+%5BGuardian%5D+%5Bof%5D+%5BThraben%5D)
+
+
+4
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+4
+[Knight of Glory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5BGlory%5D)
+
+
+
+##### 3 (16)
+
+
+
+4
+[Silverblade Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilverblade%5D+%5BPaladin%5D)
+
+
+3
+[Frontline Medic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrontline%5D+%5BMedic%5D)
+
+
+4
+[Loxodon Smiter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BSmiter%5D)
+
+
+3
+[Witchstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchstalker%5D)
+
+
+2
+[Fiendslayer Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiendslayer%5D+%5BPaladin%5D)
+
+
+53 Cards 
+
+
+
+##### Common (10)
+
+
+
+5
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+5
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+
+##### Uncommon (18)
+
+
+
+4
+[Experiment One](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExperiment%5D+%5BOne%5D)
+
+
+3
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+4
+[Selesnya Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BCharm%5D)
+
+
+4
+[Knight of Glory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5BGlory%5D)
+
+
+3
+[Brave the Elements](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrave%5D+%5Bthe%5D+%5BElements%5D)
+
+
+
+##### Rare (41)
+
+
+
+2
+[Gavony Township](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGavony%5D+%5BTownship%5D)
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+4
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+4
+[Champion of the Parish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChampion%5D+%5Bof%5D+%5Bthe%5D+%5BParish%5D)
+
+
+4
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+3
+[Mayor of Avabruck](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMayor%5D+%5Bof%5D+%5BAvabruck%5D)
+
+
+4
+[Thalia, Guardian of Thraben](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia,%5D+%5BGuardian%5D+%5Bof%5D+%5BThraben%5D)
+
+
+4
+[Silverblade Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilverblade%5D+%5BPaladin%5D)
+
+
+3
+[Frontline Medic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrontline%5D+%5BMedic%5D)
+
+
+4
+[Loxodon Smiter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BSmiter%5D)
+
+
+3
+[Witchstalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchstalker%5D)
+
+
+2
+[Fiendslayer Paladin](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiendslayer%5D+%5BPaladin%5D)
+
+
+
+##### Mythic (6)
+
+
+
+2
+[Cavern of Souls](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavern%5D+%5Bof%5D+%5BSouls%5D)
+
+
+4
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Gavony+Township)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Aaron Muranaka
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (16)
+
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+4
+[Chandra's Phoenix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra%5D+%5BPhoenix%5D)
+
+
+4
+[Hellrider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellrider%5D)
+
+
+4
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+
+##### Sorcery (8)
+
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+4
+[Pillar of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillar%5D+%5Bof%5D+%5BFlame%5D)
+
+
+
+##### Instant (7)
+
+
+
+3
+[Brimstone Volley](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimstone%5D+%5BVolley%5D)
+
+
+4
+[Searing Spear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BSpear%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Burning Earth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning%5D+%5BEarth%5D)
+
+
+
+##### Land (25)
+
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+21
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+3
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Mizzium Mortars](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMizzium%5D+%5BMortars%5D)
+
+
+2
+[Rolling Temblor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRolling%5D+%5BTemblor%5D)
+
+
+3
+[Shock](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+
+
+3
+[Possibility Storm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPossibility%5D+%5BStorm%5D)
+
+
+2
+[Zealous Conscripts](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZealous%5D+%5BConscripts%5D)
+
+
+
+
+##### Red (43)
+
+
+
+4
+[Chandra's Phoenix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra%5D+%5BPhoenix%5D)
+
+
+4
+[Hellrider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellrider%5D)
+
+
+4
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+3
+[Brimstone Volley](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimstone%5D+%5BVolley%5D)
+
+
+4
+[Burning Earth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning%5D+%5BEarth%5D)
+
+
+4
+[Pillar of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillar%5D+%5Bof%5D+%5BFlame%5D)
+
+
+4
+[Searing Spear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BSpear%5D)
+
+
+2
+[Mizzium Mortars](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMizzium%5D+%5BMortars%5D)
+
+
+2
+[Rolling Temblor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRolling%5D+%5BTemblor%5D)
+
+
+3
+[Shock](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+
+
+3
+[Possibility Storm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPossibility%5D+%5BStorm%5D)
+
+
+2
+[Zealous Conscripts](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZealous%5D+%5BConscripts%5D)
+
+
+
+##### Multi colored (4)
+
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+
+##### Colorless (28)
+
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+21
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+3
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (11)
+
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+4
+[Pillar of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillar%5D+%5Bof%5D+%5BFlame%5D)
+
+
+3
+[Shock](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+
+
+
+##### 2 (9)
+
+
+
+4
+[Searing Spear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BSpear%5D)
+
+
+3
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Mizzium Mortars](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMizzium%5D+%5BMortars%5D)
+
+
+
+##### 3 (13)
+
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+4
+[Chandra's Phoenix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra%5D+%5BPhoenix%5D)
+
+
+3
+[Brimstone Volley](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimstone%5D+%5BVolley%5D)
+
+
+2
+[Rolling Temblor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRolling%5D+%5BTemblor%5D)
+
+
+
+##### 4 (8)
+
+
+
+4
+[Hellrider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellrider%5D)
+
+
+4
+[Burning Earth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning%5D+%5BEarth%5D)
+
+
+
+##### 5 (9)
+
+
+
+4
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+3
+[Possibility Storm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPossibility%5D+%5BStorm%5D)
+
+
+2
+[Zealous Conscripts](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZealous%5D+%5BConscripts%5D)
+
+
+50 Cards 
+
+
+
+##### Common (37)
+
+
+
+21
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+3
+[Brimstone Volley](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimstone%5D+%5BVolley%5D)
+
+
+4
+[Pillar of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillar%5D+%5Bof%5D+%5BFlame%5D)
+
+
+4
+[Searing Spear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BSpear%5D)
+
+
+3
+[Shock](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+
+
+2
+[Zealous Conscripts](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZealous%5D+%5BConscripts%5D)
+
+
+
+##### Uncommon (2)
+
+
+
+2
+[Rolling Temblor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRolling%5D+%5BTemblor%5D)
+
+
+
+##### Rare (28)
+
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+4
+[Chandra's Phoenix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra%5D+%5BPhoenix%5D)
+
+
+4
+[Hellrider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellrider%5D)
+
+
+4
+[Burning Earth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning%5D+%5BEarth%5D)
+
+
+3
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Mizzium Mortars](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMizzium%5D+%5BMortars%5D)
+
+
+3
+[Possibility Storm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPossibility%5D+%5BStorm%5D)
+
+
+
+##### Mythic (8)
+
+
+
+4
+[Thundermaw Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThundermaw%5D+%5BHellkite%5D)
+
+
+4
+[Bonfire of the Damned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonfire%5D+%5Bof%5D+%5Bthe%5D+%5BDamned%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mutavault)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -5,6 +5,7 @@
 [_metadata_:description]:- "Rank Player Points Op.Win% 1 Saux, Rafaël A Le 12 75.00% 2 Casatti, Vagner W 12 75.00% 3 Araujo, Marcio 12 75.00% 4 Lucindo, Fabiano 12 75.00% 5 Quinta, Matheus Chaud 12 75.00% 6 Shvartsman, Alex 12 75.00% 7 Possato, Dawton C 12 75.00% 8 Lima, Joao R 12 75.00% 9 Andrade, Marcelo T 12 75.00% 10 Paiva, Rhodner O 12 75.00% 11 Possamai, Rodrigo 12 75.00% 12 Echeverria, José Luis"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "959821"
+[_metadata_:path_date]:- "2015-01-01"
 [_metadata_:publish_date]:- "2015-12-30"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 4 Standings"

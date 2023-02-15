@@ -149,7 +149,7 @@ Commanders play a prominent role in games, often appearing on the battlefield mu
 
 
 * Your commander begins the game in the command zone, a game area created for the Commander format and now also used for nontraditional **Magic** cards (including Vanguard, Plane, and Scheme cards) and for emblems created by Planeswalkers. The other ninety-nine cards are shuffled and become your library.
-* You may cast your commander from the command zone. Each time you do this, it costs ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif) more to cast for each time you previously cast it from the command zone that game.
+* You may cast your commander from the command zone. Each time you do this, it costs ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif) more to cast for each time you previously cast it from the command zone that game.
 * If your commander would be put into your graveyard from anywhere or be exiled from anywhere, you may choose to put it into the command zone instead.
 
 In addition to the normal rules regarding winning and losing the game, the Commander format has one other rule: A player who has been dealt 21 or more combat damage by the same commander over the course of the game loses the game.
@@ -244,7 +244,7 @@ Tempting offer is an ability word that appears in italics on a cycle of sorcerie
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/gMr6XVYdUP_EN.jpg)Tempt with Glory  
-> ![5 Mana](https://web.archive.org/web/20150331031459im_/http://archive.wizards.com/images/Symbols/Symbol_5_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
+> ![5 Mana](https://media.wizards.com/legacy/images/symbols/symbol_5_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
 > 
 > Sorcery  
 > *Tempting offer*—Put a +1/+1 counter on each creature you control. Each opponent may put a +1/+1 counter on each creature he or she controls. For each opponent who does, put a +1/+1 counter on each creature you control.
@@ -268,7 +268,7 @@ Some legendary creatures in this release have an effect that gets bigger the mor
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/KVpEYaZkC3_EN.jpg)Prossh, Skyraider of Kher  
-> ![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+> ![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 > 
 > Legendary Creature—Dragon  
 > 
@@ -298,7 +298,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/e1GfMgVYzQ_EN.jpg)Curse of Predation  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 > 
 > Enchantment—Aura Curse  
 > 
@@ -348,7 +348,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/LFNWcwIevq_EN.jpg)Bane of Progress  
-> ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+> ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 > 
 > Creature—Elemental  
 > 
@@ -369,7 +369,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/EKWJxOxQlI_EN.jpg)Curse of Chaos  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 > 
 > Enchantment—Aura Curse  
 > 
@@ -389,7 +389,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/e6pGkzXlBa_EN.jpg)Curse of Inertia  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 > 
 > Enchantment—Aura Curse  
 > 
@@ -438,7 +438,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/rDas0lTAPg_EN.jpg)Derevi, Empyrial Tactician  
-> ![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+> ![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 > 
 > Legendary Creature—Bird Wizard  
 > 
@@ -447,7 +447,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 > Flying  
 > 
 > Whenever Derevi, Empyrial Tactician enters the battlefield or a creature you control deals combat damage to a player, you may tap or untap target permanent.  
-> ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif): Put Derevi onto the battlefield from the command zone.
+> ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif): Put Derevi onto the battlefield from the command zone.
 
 
 
@@ -462,7 +462,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/31hPmDVzvo_EN.jpg)Diviner Spirit  
-> ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+> ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 > 
 > Creature—Spirit  
 > 
@@ -482,12 +482,12 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/Ozam1cCtFq_EN.jpg)Djinn of Infinite Deceits  
-> ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+> ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 > 
 > Creature—Djinn  
 > 
 > Flying  
-> ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Exchange control of two target nonlegendary creatures. You can't activate this ability during combat.
+> ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Exchange control of two target nonlegendary creatures. You can't activate this ability during combat.
 
 
 
@@ -508,7 +508,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 > Artifact  
 > 
 > When Eye of Doom enters the battlefield, each player chooses a nonland permanent and puts a doom counter on it.  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif), Sacrifice Eye of Doom: Destroy each permanent with a doom counter on it.
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif), Sacrifice Eye of Doom: Destroy each permanent with a doom counter on it.
 
 
 
@@ -524,7 +524,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/Itmtu1YIAM_EN.jpg)Fell Shepherd  
-> ![5 Mana](https://web.archive.org/web/20150331031459im_/http://archive.wizards.com/images/Symbols/Symbol_5_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+> ![5 Mana](https://media.wizards.com/legacy/images/symbols/symbol_5_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 > 
 > Creature—Avatar  
 > 
@@ -567,7 +567,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/LUnLLsM1aW_EN.jpg)Illusionist's Gambit  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 > 
 > Instant  
 > 
@@ -589,7 +589,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/6542kYJTLc_EN.jpg)Jeleva, Nephalia's Scourge  
-> ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+> ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 > 
 > Legendary Creature—Vampire Wizard  
 > 
@@ -618,7 +618,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/0lpCxGONoP_EN.png)Marath, Will of the Wild  
-> ![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
+> ![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
 > 
 > Legendary Creature—Elemental Beast  
 > 
@@ -629,7 +629,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 * Marath, Will of the Wild has received minor errata. The text "X can't be 0" was inadvertently omitted from the card. The correct Oracle wording appears above.
-* You announce the value of X as you activate the ability, and all instances of X in the activation cost are equal to the announced value. For example, if you choose 2 as the value of X, then you pay ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif) and remove two +1/+1 counters to pay the cost.
+* You announce the value of X as you activate the ability, and all instances of X in the activation cost are equal to the announced value. For example, if you choose 2 as the value of X, then you pay ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif) and remove two +1/+1 counters to pay the cost.
 
 
 
@@ -660,7 +660,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/Y4LMgmV5Jn_EN.jpg)Naya Soulbeast  
-> ![6 Mana](https://web.archive.org/web/20150603004743im_/http://archive.wizards.com/images/Symbols/Symbol_6_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+> ![6 Mana](https://web.archive.org/web/20150603004743im_/http://archive.wizards.com/images/Symbols/Symbol_6_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 > 
 > Creature—Beast  
 > 
@@ -682,7 +682,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/hbwwmx6q1F_EN.jpg)Oloro, Ageless Ascetic  
-> ![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+> ![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 > 
 > Legendary Creature—Giant Soldier  
 > 
@@ -712,8 +712,8 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/mriUvupW76_EN.jpg)Opal Palace  
 > 
 > Land  
-> ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Add ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif) to your mana pool.  
-> ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Add to your mana pool one mana of any color in your commander's color identity. If you spend this mana to cast your commander, it enters the battlefield with a number of +1/+1 counters on it equal to the number of times it's been cast from the command zone this game.
+> ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Add ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif) to your mana pool.  
+> ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Add to your mana pool one mana of any color in your commander's color identity. If you spend this mana to cast your commander, it enters the battlefield with a number of +1/+1 counters on it equal to the number of times it's been cast from the command zone this game.
 
 
 
@@ -730,7 +730,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/dTYASfL8WC_EN.jpg)Ophiomancer  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 > 
 > Creature—Human Shaman  
 > 
@@ -752,7 +752,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/XsUbEVrdcs_EN.jpg)Order of Succession  
-> ![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+> ![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 > 
 > Sorcery  
 > 
@@ -793,7 +793,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/YSalLT2bpd_EN.jpg)Primal Vigor  
-> ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+> ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 > 
 > Enchantment  
 > 
@@ -815,14 +815,14 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/gLn2yChQiL_EN.jpg)Roon of the Hidden Realm  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 > 
 > Legendary Creature—Rhino Soldier  
 > 
 > 4/4  
 > 
 > Vigilance, trample  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
 
 
 
@@ -859,7 +859,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/l22vBURzyR_EN.jpg)Sudden Demise  
-> ![X Mana](https://web.archive.org/web/20150421062918im_/http://archive.wizards.com/images/Symbols/X_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+> ![X Mana](https://web.archive.org/web/20150421062918im_/http://archive.wizards.com/images/Symbols/X_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 > 
 > Sorcery  
 > 
@@ -878,10 +878,10 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/yEl5VJaO6O_EN.jpg)Surveyor's Scope  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)  
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)  
 > 
 > Artifact  
-> ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif), Exile Surveyor's Scope: Search your library for up to X basic land cards, where X is the number of players who control at least two more lands than you. Put those cards onto the battlefield, then shuffle your library.
+> ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif), Exile Surveyor's Scope: Search your library for up to X basic land cards, where X is the number of players who control at least two more lands than you. Put those cards onto the battlefield, then shuffle your library.
 
 
 
@@ -896,17 +896,17 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/825FAoWppr_EN.jpg)Sydri, Galvanic Genius  
-> ![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+> ![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 > 
 > Legendary Creature—Human Artificer  
 > 
 > 2/2  
-> ![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif): Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.  
+> ![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif): Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.  
 > ![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif): Target artifact creature gains deathtouch and lifelink until end of turn.
 
 
 
-* A noncreature permanent that turns into a creature can attack, and its ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif) abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature.
+* A noncreature permanent that turns into a creature can attack, and its ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif) abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature.
 * If the noncreature artifact had any other supertypes, types, or subtypes, it will keep those. In most cases, the artifact creature won't have any creature types.
 * If an Equipment attached to a creature becomes a creature, it becomes unattached. An Equipment that is also a creature can't equip another creature.
 * Multiple instances of deathtouch or lifelink on the same creature are redundant.
@@ -936,7 +936,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/5Z14lnD1mi_EN.jpg)Tempt with Reflections  
-> ![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+> ![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 > 
 > Sorcery  
 > *Tempting offer*—Choose target creature you control. Put a token onto the battlefield that's a copy of that creature. Each opponent may put a token onto the battlefield that's a copy of that creature. For each opponent who does, put a token onto the battlefield that's a copy of that creature.
@@ -959,7 +959,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/4r3oB1RukS_EN.jpg)Terra Ravager  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 > 
 > Creature—Elemental Beast  
 > 
@@ -979,7 +979,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/Hz67j0FwBN_EN.jpg)Toxic Deluge  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 > 
 > Sorcery  
 > 
@@ -999,7 +999,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/7HBiwtL2j7_EN.jpg)True-Name Nemesis  
-> ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+> ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 > 
 > Creature—Merfolk Rogue  
 > 
@@ -1044,7 +1044,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/BxoiQl5rsk_EN.jpg)Widespread Panic  
-> ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+> ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 > 
 > Enchantment  
 > 
@@ -1062,7 +1062,7 @@ Introduced in the *Innistrad* set, Curses are a kind of Aura that enchant a play
 
 
 > ![](https://media.wizards.com/images/magic/tcg/products/cmd13/uZ1R1e9IWX_EN.jpg)Witch Hunt  
-> ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+> ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 > 
 > Enchantment  
 > 

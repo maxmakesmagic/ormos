@@ -1,0 +1,84 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20211027110555/https://magic.wizards.com/en/articles/archive/daily-deck/super-sunday-series-championship-final-standings-2014-02-09)
+
+[_metadata_:description]:- "RankNamePrize1(12) Turenwald, Owen$6,0002(13) Mihara, Makihito$3,0003Robdrup, Andrew$1,5004Grüber, Klaas$1,5005Yim, Chi Hoi$1,0006gao, tan$1,0007Mayer, Manuel F$1,0008Luna, Javier A$1,0009Kotouge, Tatsuya$50010Sha, Chris$50011Wielgorski, Daniel$50012Riphat, Aziz$50013Thompson, Jesse$50014Girard, Andre$50015Corenstein, Fernando$50016Kobayashi, Takahito$50017(3) Duke,"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "207771"
+[_metadata_:publish_date]:- "2014-02-09"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Super Sunday Series Championship Final Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 11:05:55"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027110555id_/https://magic.wizards.com/en/articles/archive/daily-deck/super-sunday-series-championship-final-standings-2014-02-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/daily-deck/super-sunday-series-championship-final-standings-2014-02-09"
+---
+
+
+Super Sunday Series Championship Final Standings
+================================================
+
+
+
+ Posted in **Daily Deck**
+ on February 9, 2014 
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |  |
+| --- | --- | --- |
+| **Rank** | **Name** | **Prize** |
+| 1 | (12) Turenwald, Owen | $6,000 |
+| 2 | (13) Mihara, Makihito | $3,000 |
+| 3 | Robdrup, Andrew | $1,500 |
+| 4 | Grüber, Klaas | $1,500 |
+| 5 | Yim, Chi Hoi | $1,000 |
+| 6 | gao, tan | $1,000 |
+| 7 | Mayer, Manuel F | $1,000 |
+| 8 | Luna, Javier A | $1,000 |
+| 9 | Kotouge, Tatsuya | $500 |
+| 10 | Sha, Chris | $500 |
+| 11 | Wielgorski, Daniel | $500 |
+| 12 | Riphat, Aziz | $500 |
+| 13 | Thompson, Jesse | $500 |
+| 14 | Girard, Andre | $500 |
+| 15 | Corenstein, Fernando | $500 |
+| 16 | Kobayashi, Takahito | $500 |
+| 17 | (3) Duke, Reid | Booster Box |
+| 18 | Baldinato, Giovanni | Booster Box |
+| 19 | Okada, Yoshikazu | Booster Box |
+| 20 | Chong, Kin Leong | Booster Box |
+| 21 | Gonzales, Roberto J | Booster Box |
+| 22 | Miller, Colin J | Booster Box |
+| 23 | Kronberger, Niklas | Booster Box |
+| 24 | Pigeon, Jeffrey | Booster Box |
+| 25 | Saporito, Thiago | Booster Box |
+| 26 | Vargas Carreras, Juan Carlos | Booster Box |
+| 27 | Avsec, Anze | Booster Box |
+| 28 | Surkamp, Florian | Booster Box |
+| 29 | Dominguez Roldan, Fernando | Booster Box |
+| 30 | Moreno Morales, Francisco F | Booster Box |
+| 31 | Shiels, David | Booster Box |
+| 32 | Lewis, Aaron C | Booster Box |
+| 33 | Bianchi, Alex | Booster Box |
+| 34 | Šebela, Antonín | Booster Box |
+| 35 | Boccardi, Anthony J | Booster Box |
+| 36 | Jenner-o'shea, Oliver | Booster Box |
+| 37 | Feng, Hans | Booster Box |
+| 38 | Reichel-Dittes, Christopher | Booster Box |
+| 39 | Fleisch, Josh H | Booster Box |
+
+
+
+
+
+
+

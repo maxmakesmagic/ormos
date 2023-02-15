@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170509082127/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-05-19)
+[Link to Wayback Machine](https://web.archive.org/web/20211206094434/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-05-19)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "*/"
+[_metadata_:description]:- "The Conspiracy runs deeper: Conspiracy Product Information White | Blue | Black | Red | Green | Multicolored | Artifact | Conspiracy | Land | ALL CARDS Ajani’s Sunstriker Apex Hawks Brago’s Representative Council Guardian Council’s Judgment Courier Hawk Custodi Soulbinders Custodi Squire Doomed Traveler Glimmerpoint Stag Guardian Zendikon Intangible Virtue Kor Chant Moment of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "653036"
 [_metadata_:publish_date]:- "2014-05-19"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Image Gallery"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-09 08:21:27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170509082127id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-05-19"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-05-19"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 09:44:34"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206094434id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-05-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2014-05-19"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

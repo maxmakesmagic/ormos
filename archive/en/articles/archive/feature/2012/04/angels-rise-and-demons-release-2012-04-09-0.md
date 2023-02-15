@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170625111733/http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09-0)
+[Link to Wayback Machine](https://web.archive.org/web/20210429094111/https://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09-0)
 
 [_metadata_:author]:- "Doug Beyer"
-[_metadata_:description]:- "The fate of humanity on Innistrad will soon be decided. The battlefield has been chosen, the stakes are set, and the combatants are on a collision course. And when all is said and done, more than an angel will be released back into the world."
+[_metadata_:description]:- "The fate of humanity on Innistrad will soon be decided. The battlefield has been chosen, the stakes are set, and the combatants are on a collision course. And when all is said and done, more than an angel will be released back into the world.In the courtyard of Thraben Cathedral stands the massive obelisk of silver, the Helvault, where the archangel Avacyn and a host of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "681416"
 [_metadata_:publish_date]:- "2012-04-09"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Angel's Rise and Demon's Release"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-25 11:17:33"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170625111733id_/http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09-0"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09-0"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 09:41:11"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429094111id_/https://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09-0"
 ---
 
 

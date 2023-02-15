@@ -5,6 +5,7 @@
 [_metadata_:author]:- "Steve Sadin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "314189"
+[_metadata_:path_date]:- "2012-05-11"
 [_metadata_:publish_date]:- "2012-05-10"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: Spotlight on Wolfir Silverheart"

@@ -1,0 +1,513 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20221002010100/https://magic.wizards.com/en/articles/archive/event-coverage/amateur-championship-player-list-2015-12-16)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Abramowitz, Ben Adcox, Ryan Adkins, Adam Adkins, Johnny Agnew, William Alderfer, John Alkula, Dale Allen, Jacob Alvarez, James Alvarez, Josh Andersen, Bradford Angel, Ben Angelina, Jason Anglona, Errol Armenta, Amber Au, Scott Aulby, James Auler, Thomas Austin, Dal Avitollo, Anthony Babbitt, Nick Baker, Adam Baker, Jon Balzer, Joey Bandes, Bryan Banks, David Baron, Pete Bassi,"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "947296"
+[_metadata_:publish_date]:- "2015-12-16"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Amateur Championship Player List"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-02 01:01:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221002010100id_/https://magic.wizards.com/en/articles/archive/event-coverage/amateur-championship-player-list-2015-12-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/amateur-championship-player-list-2015-12-16"
+---
+
+
+Amateur Championship Player List
+================================
+
+
+
+ Posted in **Event Coverage**
+ on December 16, 2015 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+* Abramowitz, Ben
+* Adcox, Ryan
+* Adkins, Adam
+* Adkins, Johnny
+* Agnew, William
+* Alderfer, John
+* Alkula, Dale
+* Allen, Jacob
+* Alvarez, James
+* Alvarez, Josh
+* Andersen, Bradford
+* Angel, Ben
+* Angelina, Jason
+* Anglona, Errol
+* Armenta, Amber
+* Au, Scott
+* Aulby, James
+* Auler, Thomas
+* Austin, Dal
+* Avitollo, Anthony
+* Babbitt, Nick
+* Baker, Adam
+* Baker, Jon
+* Balzer, Joey
+* Bandes, Bryan
+* Banks, David
+* Baron, Pete
+* Bassi, Christopher
+* Bauch, Kirsten
+* Bell, Adam
+* Benanzer, Andrew
+* Benson, Christopher
+* Benz, Rick
+* Berro, Joseph
+* Berry, William
+* Blair, Gavin
+* Blanton, Ben
+* Blejnik, Jason Olernik
+* Blue, Aaron
+* Boddy, Kyle
+* Boebinger, Charles
+* Bogolub, Ben
+* Bomia, Juslin
+* Bonhah, Andrew
+* Bonnell, Brian
+* Bowen, Derwood
+* Bowman, Chuck
+* Boyle, Chris
+* Brainerd, Eric
+* Brock, Christian
+* Buchanan, Donald
+* Buckner, Even
+* Burden, Jason
+* Burghy, Jeff
+* Burham, Shawn
+* Burns, Brandon
+* Burns, Marc
+* Burris, Thomas
+* Burt, Andrew
+* Burt, Jarod
+* Butler, Scott
+* Caffarel, Brett
+* Calhoun, Dennis
+* Calhoun, Gregory
+* Calhoun, Jeffrey
+* Campisi, Daniel
+* Camus, Ted
+* Canfield, Sylvia
+* Capriolo, Paul
+* Carney, Dan
+* Carr, Tracy
+* Carrow, Darin
+* Carrow, David
+* Carter, Jack
+* Carter, Jordan
+* Carvajal, Noel
+* Casper, Soshua
+* Castro, Robert
+* Caudell, Chad
+* Chapman, Eric
+* Charlton, Bob
+* Chen, Alex
+* Cherry, Joseph
+* Chesser, William
+* Cisler, Richard
+* Clark, Chris
+* Coley, Brandon
+* Colista, Glan
+* Collins, Ash
+* Collins, Derek
+* Comstock, Stephen
+* Conway, Jeff
+* Correll, Peter
+* Coughlin, Scott
+* Couh, Chris
+* Cozzolino, Scott
+* Crane, Brenton
+* Crawford, Kenny
+* Crenshaw, Bedford
+* Cron, Kevin
+* Crump, Jeremy
+* Cunha, Alfredo
+* Curry, Jeff
+* Cyrus, Brandon
+* Dallas, Dan
+* Damm, Cody
+* Damon, Jeremy
+* Davenport, Travis
+* Davis, Gerald
+* Davis, Jesse
+* Dees, Davey
+* Denton, Gregg
+* Dernovsek, David
+* DeSanto, Stephen
+* Devore, John
+* Dickson, Dwight
+* Diesch, Matthew
+* Drvry, Danielle
+* Duck, Mark
+* Dudley, Brian
+* Dutton, Nathan
+* Dykstra, Christion
+* Eby, Scott
+* Eckhardt, Larry
+* Edmister, Richard
+* Enderle, Larry
+* Engelhart, Carl
+* Everhart, Danny
+* Fermenti, Aaron
+* Fieler, Joshua
+* Fischer, Adam
+* Fitzpatrick, Mike
+* Foley, Randy
+* Folland, Glen
+* Ford, Christopher
+* Fortine, Michael
+* Franklin, David
+* Freddolino, David
+* Freddolino, Peter
+* Friedmann, Travis
+* Fusco, John
+* Gabriel, Jeremy
+* Gahlmer, Todd
+* Gargano, Tony
+* Gauger, Ryan
+* George, Brent
+* George, Justin
+* Gerstl, Dave
+* Gerstl, Jeff
+* Giampaolo, Paul
+* Goble, Stephen
+* Grandon, Kevin
+* Griesinger, Chris
+* Griffin, John
+* Grimm, Brian
+* Gross, Matt
+* Gunn, Matt
+* Hagar, David
+* Hagen, Ken
+* Hall, Mark
+* Hanna, James
+* Hanson, Doug
+* Harmacinski, Josh
+* Harr, Chris
+* Harris, Heath
+* Harris, Jeff
+* Hartley, Nate
+* Hartman, Dan
+* Harvey, Eugene
+* Hasler, Mike
+* Hauf, Bryan
+* Haver, Thomas
+* Hawkins, Jason
+* Heberling, Jake
+* Hedrick, Elizabeth
+* Heilker, David
+* Hickman, Patrick
+* Hickman, Shannon
+* Hicks, Douglas
+* Hiker, Robert
+* Hill, JD
+* Hill, Sean
+* Hill, Zac
+* Hinkle, Richard
+* Hinton, Charles
+* Hlaj, John
+* Hlaj, Steven
+* Hoffman, Jocob
+* Holbrook, Mark
+* Hooker, James
+* Horn, Karl
+* Horvath, Adam
+* Howard, Andrew
+* Howard, Shane
+* Howard, Steven
+* Hsiung, Kenny
+* Humphrey, Jeremy
+* Hunt, Aaron
+* Hunter, Mark
+* Idoux, Matt
+* James, Charles
+* James, Evan
+* Jason, Nye
+* Jeffers, Michael
+* Jeng, Jed
+* Juett, Jonathan
+* Kagy, Foster
+* Kalino, Matthew
+* Kamin, David
+* Kamin, Lee
+* Kamin, Steve
+* Kassis, Eli
+* Kavuru, Sri
+* Keating, Robert
+* Kelly, Chris
+* Kiesel, Mike
+* King, Craig
+* Kloster, Alan
+* Koharski, Chris
+* Kopcial, Tim
+* Kreitz, Shuyler
+* Kropat, Brian
+* Krumrie, Gerald
+* Kwok, Dale
+* Lacy, Andrew
+* Ladomer, William
+* Lambert, Bob
+* Landuyt, Marc
+* Lathem, Matt
+* Lebedowicz, Osyp
+* Leclaire, Matthew
+* Lee, Robert
+* Lee, Steven
+* Lehrman, Amber
+* Lehrman, Jeremy
+* Leitner, Daniel
+* Lemke, Matthew
+* Lemmer, George
+* Leo, Rick
+* Levdansky, Daniel
+* Levdansky, Robert
+* Levi, Dan
+* Lewis, David
+* Li, Dan
+* Li, Danny
+* Lilly, Troy
+* Lipkin, Paul
+* Louder, Darrell
+* Lowe, Greg
+* Madhav, Prakash
+* Maggard, Jason
+* Maher, Richard
+* Mahler, Hans
+* Manning, Bill
+* Mansfield, Michael
+* Marshall, Scott
+* Martin, Justin
+* Mathews, Jordache
+* Mayo, Daniel
+* McCarthy, Stephen
+* McClain, Steve
+* McClasky, Derek
+* McClaughlin, Brian
+* McClure, Blake
+* McDonough, Dan
+* McFarland, Dustin
+* McGaughey, Chip
+* McGuffin, Max
+* McIntire, Andrew
+* McKenna, Mark
+* McMullen, Scott
+* Meier, Darren
+* Mellert, Frank
+* Melton, William
+* Menney, Mike
+* Menzer, Anthony
+* Menzer, Timothy
+* Merckle, Even
+* Meyer, Michael
+* Meyers, Christopher
+* Milan, Daniel
+* Miller, Clinton
+* Miller, Trevor
+* Milleson, Patrick
+* Mills, Jesse
+* Minniear, Adam
+* Moenck, Alex
+* Moisson, Adam
+* Mondon, Pierre-Christophe
+* Moore, Jacob
+* Morgan, Benjamin
+* Moser, John
+* Moser, Ken
+* Mueller, Paul
+* Munley, Thomas
+* Munn, Casey
+* Nawal, Matt
+* Nemani, Ajay
+* Netterer, Christian
+* Newsome, Michael
+* Noll, Josh
+* Nonaka, Jason
+* North, Robert
+* Olejnik, Jason
+* Oliver, Charles
+* Ondrick, Michael
+* Pak, Dale
+* Parker, Alex
+* Parker, Chris
+* Parker, Matthew
+* Parsen, Kurtis
+* Parsons, Michael
+* Pass, Tim
+* Passmore, Lauren
+* Payne, Shawn
+* Payton, Chris
+* Perkins, Justin
+* Perry, Charles
+* Phares, Steve
+* Pielmeier, Joseph
+* Pilhorn, Daniel
+* Pittman, John
+* Pittman, Robert
+* Plourde, Jason
+* Pope, Bryan
+* Pope, Richard
+* Posh, Jason
+* Pospishil, Jamie
+* Potter, Jason
+* Pregent, Chris
+* Price, Doug
+* Prince, Kenneth
+* Prinz, Nathan
+* Raben, Damian
+* Radford, Chris
+* Radford, Matthew
+* Ramey, James
+* Ramirez, Jose
+* Ray, Clint
+* Reabe, Adam
+* Reesman, Dante
+* Reesman, Dominic
+* Reinhold, Steve
+* Renaud, Travis
+* Reuschel, Joseph
+* Rice, Lin
+* Ridenbaugh, Adam
+* Rinehart, Jerry
+* Ritchie, Chris
+* Roberts, Rachel
+* Roe, Ethan
+* Roe, Keith
+* Roe, Lora
+* Roe, Michael
+* Roman, Nicholas
+* Ronis, David
+* Rose, Jason
+* Rowland, Daniel
+* Rubin, Evan
+* Rylow, Tony
+* Salisbury, Mike
+* Santiago, Rosie
+* Saver, Randolph
+* Sawzone, John
+* Saylor, David
+* Scarber, Frank
+* Schade, Gus
+* Schey, Corbin
+* Schneider, Dylan
+* Schomburs, Shane
+* Scopone, Al
+* Seifert, Chris
+* Seiter, Michael
+* Seiter, Steven
+* Seitz, Luke
+* Selvage, Roger
+* Shamma, Rlyad
+* Sharp, Clinton
+* Sharpe, Chris
+* Shay, Richard
+* Sherman, Bradley
+* Shobert, Geoff
+* Short, Robert
+* Shukla, Rajan
+* Silva, Rick
+* Simpson, Nick
+* Skinner, Troy
+* Slutsky, Jonathan
+* Smith, Andrew Joseph
+* Sonksen, Mike
+* Sowards, Ben
+* Sowards, Caleb
+* Spader, Edward
+* Spencer, Andrew
+* Staab, Jeffrey
+* Staats, Ben
+* Stair, Seth
+* Stein, Graham
+* Stevens, John
+* Stewart, Lisa
+* Stokes, Todd
+* Stoll, Ben
+* Stoner, Jay
+* Stuckey, Dennis
+* Szollosi, Bryan
+* Szynkowski, Christopher
+* Tabled, Michael
+* Talbot, Myles
+* Talley, Michael
+* Terry, Alex
+* Thorn, Adam
+* Tidd, David
+* Tidd, Mark
+* Tracgy, Brook
+* Tracy, Kyle
+* Tramontin, Tanis
+* Trova, Tom
+* Turner, Chris
+* Urbin, David
+* Valentine, Ben
+* Vanderglast, Chris
+* Vastartis, James
+* Vaughn, Clifford
+* Vertresca, William
+* Veslonowski, Robert
+* Veto, Anthony
+* Villa, Michael
+* Voss, Erich
+* Vowels, Lenny
+* Wagener, Joshua
+* Ward, Matt
+* Wasser, Dave
+* Waters, James
+* Weaver, Ronald
+* Weaver, Todd
+* Wee, Olwen
+* Wellington, Kellen
+* Wetherell, Ron
+* White, Chris
+* White, James
+* White, JJ
+* Whitehead, Austin
+* Whitehead, Mark
+* Whitlow, Bill
+* Whitman, Jason
+* Whitman, Joe
+* Whittaker, Colby
+* Whner, Joshua
+* Willis, Eric
+* Willoughby, Tom
+* Wilson, Kiel
+* Winier, Carl
+* Winkelmann, Andy
+* Wolf, Shon
+* Woltereck, Chris
+* Worth, Robert
+* Wymer, Stephen
+* Younker, Jay
+* Zielazinski, Amy
+* Zimmerman, Mark
+* Zimmerman, Matt
+* Zmiva, Mike
+* Zwaldo, Josh
+* Zybert, Alexander
+
+
+
+
+
+

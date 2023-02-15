@@ -1,17 +1,18 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170611120409/http://magic.wizards.com/en/articles/archive/feature/buyer-beware-2004-04-26)
+[Link to Wayback Machine](https://web.archive.org/web/20211130224819/https://magic.wizards.com/en/articles/archive/feature/buyer-beware-2004-04-26)
 
 [_metadata_:author]:- "Mike Elliott"
 [_metadata_:description]:- "Spotting counterfeit Magic cards"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "346246"
+[_metadata_:path_date]:- "2004-04-26"
 [_metadata_:publish_date]:- "2012-02-01"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Buyer Beware"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-11 12:04:09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170611120409id_/http://magic.wizards.com/en/articles/archive/feature/buyer-beware-2004-04-26"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/buyer-beware-2004-04-26"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 22:48:19"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130224819id_/https://magic.wizards.com/en/articles/archive/feature/buyer-beware-2004-04-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/buyer-beware-2004-04-26"
 ---
 
 
@@ -53,7 +54,7 @@ Let's start with the big stuff. A recent operation in Southeast Asia has been pr
 Let's start with the box. All Wizards of the Coast product is packed out with plastic overwrap that contains white Wizards logo symbols printed on the plastic.
 
 
-![WotC packaging](https://web.archive.org/web/20121026025043im_/http://www.wizards.com/magic/images/mtgcom/fcpics/features/209_WotCPackaging.jpg)
+![WotC packaging](https://media.wizards.com/legacy/magic/images/mtgcom/fcpics/features/209_wotcpackaging.jpg)
 
 
 To our knowledge to date, no counterfeit product has reproduced these security markings, and the recent counterfeit boxes have only standard plastic wrap without the symbols.

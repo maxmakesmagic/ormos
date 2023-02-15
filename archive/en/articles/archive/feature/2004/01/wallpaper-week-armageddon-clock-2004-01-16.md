@@ -47,7 +47,7 @@ This week's desktop wallpaper is Amy Weber's **[Armageddon Clock](https://gather
 
 
 
-![](https://web.archive.org/web/20150922235142im_/http://archive.wizards.com/global/images/mtgcom_arcana_483_pic1_en.jpg)[1024x768 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_ArmageddonClock_1024x768.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_483_pic1_en.jpg)[1024x768 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_ArmageddonClock_1024x768.jpg)  
 [800x600 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_ArmageddonClock_800x600.jpg)
 
 

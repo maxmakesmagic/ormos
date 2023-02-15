@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160820061131/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-04-08)
+[Link to Wayback Machine](https://web.archive.org/web/20211208093950/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-04-08)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "&#13; */"
+[_metadata_:description]:- "Welcome to the Card Image Gallery for Dragon's Maze. Here you can see every Dragon's Maze card. If you're looking for a specific card, use the Gatherer card search."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "696476"
 [_metadata_:publish_date]:- "2013-04-08"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Image Gallery"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-20 06:11:31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160820061131id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-04-08"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-04-08"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 09:39:50"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208093950id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-04-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-04-08"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

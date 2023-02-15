@@ -5,6 +5,7 @@
 [_metadata_:author]:- "Bill Stark"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "315393"
+[_metadata_:path_date]:- "2011-09-03"
 [_metadata_:publish_date]:- "2011-09-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: Focus on the Locus"

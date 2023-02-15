@@ -1,0 +1,672 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20151207194812/http://magic.wizards.com/en/articles/archive/daily-deck/legacy-storm-2015-12-04)
+
+[_metadata_:author]:- "Melissa DeTora"
+[_metadata_:description]:- "Daily Decks presents a list from various formats (even some you may not have heard of), perfect for competitive and casual players."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "937426"
+[_metadata_:publish_date]:- "2015-12-04"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Legacy Storm"
+[_metadata_:wayback_capture_timestamp]:- "2015-12-07 19:48:12"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151207194812id_/http://magic.wizards.com/en/articles/archive/daily-deck/legacy-storm-2015-12-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/daily-deck/legacy-storm-2015-12-04"
+---
+
+
+Legacy Storm
+============
+
+
+
+ Posted in **Daily Deck**
+ on December 4, 2015 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/Melissa_DeTora.jpg)
+By Melissa DeTora
+
+
+
+
+ A former Magic Pro player and strategy writer, Melissa's career Top 8s include PT Gatecrash and 2 GPs. She's currently a development intern at WotC. 
+
+
+
+
+
+
+Today's deck is an archetype that's been around for a while and continues to be successful today. Storm makes use of the namesake mechanic that originally appeared in *Scourge.* The deck initially appeared years ago, and the deck continues to be powerful today as it keeps evolving with new sets.
+
+
+Storm works by casting many Ritual effects, or spells that add additional mana to your mana pool, such as [Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Ritual) and [Cabal Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Ritual). Once you've cast a lot of Rituals, your next step is to cast either a [Past in Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Past+in+Flames) (or an [Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Infernal+Tutor) to find the [Past in Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Past+in+Flames)) or your win condition, [Tendrils of Agony](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tendrils+of+Agony). [Past in Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Past+in+Flames) allows you to recast those Rituals, adding even more mana to your mana pool while continuing to generate a higher and higher storm count. Eventually you will have cast enough spells to achieve a lethal [Tendrils of Agony](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tendrils+of+Agony).
+
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Tendrils+of+Agony)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tendrils+of+Agony) [![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Past+in+Flames)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Past+in+Flames)[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Dark+Ritual)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Ritual)
+The key card in this deck is [Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lion%27s+Eye+Diamond). While this card looks like it doesn't do very much, as you have to discard your entire hand to use it, it actually has amazing synergy with both [Past in Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Past+in+Flames) and [Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Infernal+Tutor). If you cast [Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Infernal+Tutor) and then sacrifice your [Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lion%27s+Eye+Diamond) in response, you will have hellbent when the spell resolves and you can search for any card in your deck. You can then cast it with that three mana from your [Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lion%27s+Eye+Diamond). [Past in Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Past+in+Flames) works in a similar way, in that you can cast the Past and then sacrifice your [Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lion%27s+Eye+Diamond) in response, which will then fill your graveyard up with a bunch of spells to cast.
+
+
+A new addition to Storm from *Magic Origins* is [Dark Petition](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Petition). It's very easy to achieve spell mastery with this deck, so [Dark Petition](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Petition) can act as another [Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Infernal+Tutor). With [Demonic Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonic+Tutor) being banned in Legacy, [Dark Petition](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Petition) is a great replacement.
+
+
+Storm looks like it's a very all-or-nothing deck, but it's actually pretty resilient. Cantrip spells such as [Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ponder) and [Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm) help you sculpt the perfect hand, while [Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Therapy) helps you get past counterspells or other cards that can disrupt your combo.
+
+
+
+
+
+
+
+#### Caleb Scherer's Storm
+
+
+##### 
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-64196672254db858c719aa74522901ba?n=Caleb%20Scherer%27s%20Storm)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Sorcery (24)
+
+
+
+1
+[Tendrils of Agony](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
+
+
+2
+[Dark Petition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BPetition%5D)
+
+
+1
+[Past in Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPast%5D+%5Bin%5D+%5BFlames%5D)
+
+
+4
+[Gitaxian Probe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGitaxian%5D+%5BProbe%5D)
+
+
+2
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+4
+[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+4
+[Infernal Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInfernal%5D+%5BTutor%5D)
+
+
+3
+[Cabal Therapy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
+
+
+3
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Instant (14)
+
+
+
+1
+[Ad nauseam](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAd%5D+%5Bnauseam%5D)
+
+
+4
+[Cabal Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BRitual%5D)
+
+
+4
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+1
+[Rain of Filth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRain%5D+%5Bof%5D+%5BFilth%5D)
+
+
+4
+[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+
+
+
+##### Artifact (8)
+
+
+
+4
+[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+
+
+4
+[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLion%5D+%5BEye%5D+%5BDiamond%5D)
+
+
+
+##### Land (14)
+
+
+
+3
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+1
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+
+
+2
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Cabal Therapy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
+
+
+4
+[Abrupt Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+2
+[Disfigure](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisfigure%5D)
+
+
+2
+[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+
+
+2
+[Xantid Swarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BXantid%5D+%5BSwarm%5D)
+
+
+2
+[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
+
+
+1
+[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+
+
+1
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+
+
+
+
+##### Blue (17)
+
+
+
+4
+[Gitaxian Probe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGitaxian%5D+%5BProbe%5D)
+
+
+2
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+4
+[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+4
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+2
+[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
+
+
+1
+[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+
+
+
+##### Black (26)
+
+
+
+1
+[Tendrils of Agony](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
+
+
+2
+[Dark Petition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BPetition%5D)
+
+
+1
+[Ad nauseam](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAd%5D+%5Bnauseam%5D)
+
+
+4
+[Infernal Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInfernal%5D+%5BTutor%5D)
+
+
+4
+[Cabal Therapy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
+
+
+4
+[Cabal Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BRitual%5D)
+
+
+3
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Rain of Filth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRain%5D+%5Bof%5D+%5BFilth%5D)
+
+
+4
+[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+
+
+2
+[Disfigure](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisfigure%5D)
+
+
+
+##### Red (3)
+
+
+
+1
+[Past in Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPast%5D+%5Bin%5D+%5BFlames%5D)
+
+
+2
+[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+
+
+
+##### Green (2)
+
+
+
+2
+[Xantid Swarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BXantid%5D+%5BSwarm%5D)
+
+
+
+##### Multi colored (4)
+
+
+
+4
+[Abrupt Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+
+##### Colorless (23)
+
+
+
+3
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+1
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+
+
+4
+[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLion%5D+%5BEye%5D+%5BDiamond%5D)
+
+
+1
+[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+
+
+2
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+
+
+1
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (32)
+
+
+
+4
+[Gitaxian Probe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGitaxian%5D+%5BProbe%5D)
+
+
+2
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+4
+[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+4
+[Cabal Therapy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
+
+
+3
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+4
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+1
+[Rain of Filth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRain%5D+%5Bof%5D+%5BFilth%5D)
+
+
+4
+[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+
+
+2
+[Disfigure](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisfigure%5D)
+
+
+2
+[Xantid Swarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BXantid%5D+%5BSwarm%5D)
+
+
+2
+[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
+
+
+
+##### 2 (12)
+
+
+
+4
+[Infernal Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInfernal%5D+%5BTutor%5D)
+
+
+4
+[Cabal Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BRitual%5D)
+
+
+4
+[Abrupt Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+
+##### 3 (1)
+
+
+
+1
+[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+
+
+
+##### 4 (4)
+
+
+
+1
+[Tendrils of Agony](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
+
+
+1
+[Past in Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPast%5D+%5Bin%5D+%5BFlames%5D)
+
+
+2
+[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+
+
+
+##### 5 (3)
+
+
+
+2
+[Dark Petition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BPetition%5D)
+
+
+1
+[Ad nauseam](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAd%5D+%5Bnauseam%5D)
+
+
+52 Cards 
+
+
+
+##### Common (32)
+
+
+
+4
+[Gitaxian Probe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGitaxian%5D+%5BProbe%5D)
+
+
+2
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+4
+[Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+4
+[Cabal Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BRitual%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+4
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+4
+[Dark Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D)
+
+
+2
+[Disfigure](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisfigure%5D)
+
+
+2
+[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+
+
+
+##### Uncommon (13)
+
+
+
+1
+[Tendrils of Agony](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTendrils%5D+%5Bof%5D+%5BAgony%5D)
+
+
+4
+[Cabal Therapy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
+
+
+1
+[Rain of Filth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRain%5D+%5Bof%5D+%5BFilth%5D)
+
+
+4
+[Lotus Petal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BPetal%5D)
+
+
+2
+[Chain of Vapor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5Bof%5D+%5BVapor%5D)
+
+
+1
+[Rebuild](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRebuild%5D)
+
+
+
+##### Rare (25)
+
+
+
+2
+[Dark Petition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BPetition%5D)
+
+
+3
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
+
+
+1
+[Ad nauseam](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAd%5D+%5Bnauseam%5D)
+
+
+4
+[Infernal Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInfernal%5D+%5BTutor%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+1
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+1
+[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+
+
+2
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+
+
+4
+[Abrupt Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+2
+[Xantid Swarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BXantid%5D+%5BSwarm%5D)
+
+
+1
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+
+
+
+##### Mythic (5)
+
+
+
+1
+[Past in Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPast%5D+%5Bin%5D+%5BFlames%5D)
+
+
+4
+[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLion%5D+%5BEye%5D+%5BDiamond%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Tendrils+of+Agony)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4795 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20160430155557/http://magic.wizards.com/en/events/coverage/top-players/pthof/2007/tsuyoshi-fujita)
+
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "216916"
+[_metadata_:source]:- "div-block-system-main"
+[_metadata_:title]:- "TSUYOSHI FUJITA - HALL OF FAME - TOP PLAYERS"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-30 15:55:57"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160430155557id_/http://magic.wizards.com/en/events/coverage/top-players/pthof/2007/tsuyoshi-fujita"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/events/coverage/top-players/pthof/2007/tsuyoshi-fujita"
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### TSUYOSHI FUJITA
+
+
+
+
+Class of: 2007  
+
+Hometown: Osaka, Japan  
+
+Debut: 1998 World Championships  
+
+Career winnings: $172,245  
+
+Lifetime Pro Points: 277  
+
+ 
+
+
+The first Magic superstar from Japan ... First Japanese player to make a Pro Tour Top 8, blazing a trail for many more to come ... One of the game's most influential deck designers ... Made the finals in two Pro Tours (one Block Constructed, one Limited) ... 2004 Japan National Champion ... Twelve Grand Prix Top 8, including two wins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TSUYOSHI FUJITAPROFILE
+----------------------
+
+
+When Tsuyoshi Fujita squared off with Zvi Mowshowitz in the finals of Pro Tour–Tokyo, it was a momentous occasion. It may seem shocking to imagine a time when Japan was not one of the dominating forces on the competitive Magic scene, but before Tsuyoshi's Top 8 turn no Japanese player had ever played beyond Saturday at the Pro Tour level.
+
+
+
+"It doesn't feel real. It's much more like some kind of dream," was Tsuyoshi's reaction at the time of crossing the Top 8 threshold. Since that appearance he has gone on to make the Top 8 of three Pro Tours in his career (including another finals finish), reached the Top 8 of a dozen Grand Prix tournaments, and been the Japanese National Champion in 2004.
+
+
+
+Tsuyoshi is 10th on the all-time money list and 11th on lifetime Pro Points, tops among all Japanese players. Tsuyoshi became one of the first Japanese players to travel outside of his region for Grand Prix competition and is widely recognized as one of the game's great deckbuilders. His [Sneak Attack](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sneak+Attack) deck for Grand Prix–Seattle was one of the most unexpected decks that season and his refined Goblin Bidding deck that won Grand Prix–Bangkok became an industry standard.
+
+
+When asked which of his Magic accomplishments stands out most, Fujita was quick to show his trademark humor: "Spreading the fame of 'Go Anan' and his decks throughout the world!"
+
+
+"All kidding aside, I am really happy when I think about how many people use my decks and how well they perform," he said. "Including Kuroda's win at Kobe, ever since Tokyo all of my Block Constructed decks have made Top 32 at a Pro Tour. Thinking about it objectively, if I may say so myself, that's pretty amazing."
+
+
+Fujita's Pro Tour career began at the 1998 World Championships when he finished 99th—the highest placing by any Japanese player in the tournament. He went on to post a Top 64 and Top 32 during the following season before blazing a Top 8 trail that would become well-worn by the likes of Masashi Oiso, Kenji Tsumura, Tomoharu Saito, Shuhei Nakamura, and Masashiro Kuroda.
+
+
+
+Fujita says that a certain Hall of Famer played a big role in his development as a Magic player.
+
+
+"Back when Jon Finkel was in his prime, all the good American players were strong. I mean, really strong. I fell in love with them. Around the time Finkel won Worlds in Belgium, I was seriously thinking about enrolling in a study-abroad program so I could go to the U.S. and study Magic with him and the other pros."
+
+
+There is little doubt that Fujita will be sitting down for the first round of action at this year's event. His monoblue Pickles build from Pro Tour–Yokohama nearly got Masahiko Morita his first Top 8 and has become one of the dominating archetypes of this Block Constructed season. He is the only player from this year's class who already had Level 3 status and he will also be playing in Valencia, where he will no doubt have an exciting deck in store.
+
+
+"I have always been a competitive person," Fujita admits. "I love playing hardcore with other people. So, to me, Magic is the ultimate hobby.
+
+
+"It may even be the most important thing in my life."
+
+
+
+
+
+|  |
+| --- |
+| **THE POWER OF TSUYOSHI**
+**Pro Tour**:
+ London 2005: 2nd (Booster draft)
+ Los Angeles 2005: 5th (Extended)
+ Tokyo 2001: 2nd (Invasion Block Constructed)
+
+**Grand Prix:** 
+ Seattle 2005: 7th (Extended)
+ Kuala Lumpur 03-04: 4th (Standard)
+ Bangkok 02-03: 1st (Standard)
+ Hiroshima 02-03: 7th (Extended)
+ Utsunomiya 02-03: 3rd (Rochester draft)
+ Nagoya 01-02: 4th (teams)
+ Fukuoka 01-02: 6th (Booster draft)
+ Hong Kong 01-02: 3rd (Rochester draft)
+ Hiroshima 00-01: 6th (Booster Draft)
+ Kyoto 00-01: 1st (Extended)
+ Taipei 99-00: 2nd (Extended)
+ Kyoto 98-99: 4th
+ 
+Masters San Diego 2002: Top 8 (Standard)
+ 
+Japan National Championship 2004: 1st |
+
+
+
+
+
+
+
+TSUYOSHI FUJITADECKLISTS
+------------------------
+
+
+
+Select a Deck
+
+Tsuyoshi Fujita – CounterSliversTsuyoshi Fujita – NecroDonateTsuyoshi Fujita – Red Deck WinsTsuyoshi Fujita – Goblin BiddingTsuyoshi Fujita – Sneaky GoTsuyoshi Fujita – Astral SlideTsuyoshi Fujita – Boros Deck WinsTsuyoshi Fujita – The RatsTsuyoshi Fujita – Go Anan Deck
+
+
+
+
+#### Tsuyoshi Fujita – CounterSlivers
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (19)
+
+
+
+4
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+
+
+4
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+
+
+4
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
+
+
+4
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+
+
+3
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+
+
+
+##### Instant (17)
+
+
+
+4
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+3
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+
+
+3
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+3
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+
+
+
+##### Land (24)
+
+
+
+3
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+4
+[Flood Plain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlood%5D+%5BPlain%5D)
+
+
+2
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+
+
+1
+[Plateau](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlateau%5D)
+
+
+1
+[Scrubland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
+
+
+2
+[Thran Quarry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThran%5D+%5BQuarry%5D)
+
+
+2
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+
+
+2
+[Tundra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D)
+
+
+4
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+
+
+1
+[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+
+
+1
+[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+
+
+1
+[Volrath's Stronghold](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolrath%5D+%5BStronghold%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+
+
+1
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+
+
+2
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+3
+[Ebony Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEbony%5D+%5BCharm%5D)
+
+
+2
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+2
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+2
+[Penance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenance%5D)
+
+
+2
+[Sliver Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BQueen%5D)
+
+
+
+
+##### White (12)
+
+
+
+4
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+
+
+4
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+
+
+2
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+2
+[Penance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenance%5D)
+
+
+
+##### Blue (15)
+
+
+
+3
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+
+
+4
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+2
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+2
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+
+##### Black (6)
+
+
+
+3
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+
+
+3
+[Ebony Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEbony%5D+%5BCharm%5D)
+
+
+
+##### Green (4)
+
+
+
+4
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+
+
+
+##### Multi colored (14)
+
+
+
+4
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+
+
+4
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+
+
+4
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
+
+
+2
+[Sliver Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BQueen%5D)
+
+
+
+##### Colorless (24)
+
+
+
+3
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+4
+[Flood Plain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlood%5D+%5BPlain%5D)
+
+
+2
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+
+
+1
+[Plateau](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlateau%5D)
+
+
+1
+[Scrubland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
+
+
+2
+[Thran Quarry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThran%5D+%5BQuarry%5D)
+
+
+2
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+
+
+2
+[Tundra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D)
+
+
+4
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+
+
+1
+[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+
+
+1
+[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+
+
+1
+[Volrath's Stronghold](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolrath%5D+%5BStronghold%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (16)
+
+
+
+3
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+
+
+4
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+
+
+2
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+3
+[Ebony Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEbony%5D+%5BCharm%5D)
+
+
+2
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+2
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+
+##### 2 (27)
+
+
+
+4
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+
+
+4
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+
+
+4
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
+
+
+4
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+
+
+3
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+
+
+4
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+4
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+
+
+
+##### 3 (2)
+
+
+
+2
+[Penance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenance%5D)
+
+
+
+##### 5 (6)
+
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+2
+[Sliver Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BQueen%5D)
+
+
+51 Cards 
+
+
+
+##### Common (26)
+
+
+
+2
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+
+
+4
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+
+
+3
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+
+
+4
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+4
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+
+
+2
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+3
+[Ebony Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEbony%5D+%5BCharm%5D)
+
+
+2
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+2
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+
+##### Uncommon (21)
+
+
+
+4
+[Flood Plain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlood%5D+%5BPlain%5D)
+
+
+4
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+
+
+4
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+
+
+4
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
+
+
+3
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+
+
+2
+[Penance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPenance%5D)
+
+
+
+##### Rare (24)
+
+
+
+3
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+1
+[Plateau](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlateau%5D)
+
+
+1
+[Scrubland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
+
+
+2
+[Thran Quarry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThran%5D+%5BQuarry%5D)
+
+
+2
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+
+
+2
+[Tundra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D)
+
+
+4
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+
+
+1
+[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+
+
+1
+[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+
+
+1
+[Volrath's Stronghold](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolrath%5D+%5BStronghold%5D)
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+2
+[Sliver Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BQueen%5D)
+
+
+
+##### Mythic (4)
+
+
+
+4
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=City+of+Brass)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Tsuyoshi Fujita – NecroDonate
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Sorcery (7)
+
+
+
+3
+[Donate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDonate%5D)
+
+
+4
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Instant (18)
+
+
+
+3
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+4
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+
+
+1
+[Firestorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirestorm%5D)
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+3
+[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+3
+[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+
+
+
+##### Artifact (4)
+
+
+
+4
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+
+
+
+##### Enchantment (8)
+
+
+
+4
+[Illusions of Grandeur](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIllusions%5D+%5Bof%5D+%5BGrandeur%5D)
+
+
+4
+[Necropotence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNecropotence%5D)
+
+
+
+##### Land (23)
+
+
+
+1
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+2
+[City of Traitors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BTraitors%5D)
+
+
+4
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+
+
+4
+[Peat Bog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPeat%5D+%5BBog%5D)
+
+
+7
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+
+
+4
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Firestorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirestorm%5D)
+
+
+1
+[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+4
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+2
+[Arcane Denial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BDenial%5D)
+
+
+1
+[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
+
+
+3
+[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+
+
+3
+[Pyrokinesis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrokinesis%5D)
+
+
+
+
+##### White (1)
+
+
+
+1
+[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
+
+
+
+##### Blue (23)
+
+
+
+3
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+3
+[Donate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDonate%5D)
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+4
+[Illusions of Grandeur](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIllusions%5D+%5Bof%5D+%5BGrandeur%5D)
+
+
+4
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+2
+[Arcane Denial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BDenial%5D)
+
+
+3
+[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+
+
+
+##### Black (15)
+
+
+
+4
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+
+
+4
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+4
+[Necropotence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNecropotence%5D)
+
+
+3
+[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+
+
+
+##### Red (9)
+
+
+
+2
+[Firestorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirestorm%5D)
+
+
+4
+[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+3
+[Pyrokinesis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrokinesis%5D)
+
+
+
+##### Colorless (27)
+
+
+
+1
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+2
+[City of Traitors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BTraitors%5D)
+
+
+4
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+
+
+4
+[Peat Bog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPeat%5D+%5BBog%5D)
+
+
+7
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+
+
+4
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+
+
+4
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (24)
+
+
+
+3
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+4
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+
+
+4
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Firestorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirestorm%5D)
+
+
+4
+[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+3
+[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+
+
+4
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+
+##### 2 (3)
+
+
+
+2
+[Arcane Denial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BDenial%5D)
+
+
+1
+[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
+
+
+
+##### 3 (7)
+
+
+
+3
+[Donate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDonate%5D)
+
+
+4
+[Necropotence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNecropotence%5D)
+
+
+
+##### 4 (4)
+
+
+
+4
+[Illusions of Grandeur](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIllusions%5D+%5Bof%5D+%5BGrandeur%5D)
+
+
+
+##### 5 (7)
+
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+3
+[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+
+
+
+##### 6 (3)
+
+
+
+3
+[Pyrokinesis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrokinesis%5D)
+
+
+48 Cards 
+
+
+
+##### Common (33)
+
+
+
+4
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+
+
+4
+[Peat Bog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPeat%5D+%5BBog%5D)
+
+
+7
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+3
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+4
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+4
+[Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+4
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+2
+[Arcane Denial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BDenial%5D)
+
+
+1
+[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
+
+
+
+##### Uncommon (7)
+
+
+
+4
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+
+
+3
+[Pyrokinesis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrokinesis%5D)
+
+
+
+##### Rare (27)
+
+
+
+1
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+2
+[City of Traitors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BTraitors%5D)
+
+
+1
+[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+
+
+4
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+
+
+3
+[Donate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDonate%5D)
+
+
+2
+[Firestorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirestorm%5D)
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+4
+[Illusions of Grandeur](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIllusions%5D+%5Bof%5D+%5BGrandeur%5D)
+
+
+3
+[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+
+
+3
+[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+
+
+
+##### Mythic (8)
+
+
+
+4
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+
+
+4
+[Necropotence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNecropotence%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=City+of+Brass)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Tsuyoshi Fujita – Red Deck Wins
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (18)
+
+
+
+4
+[Blistering Firecat](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlistering%5D+%5BFirecat%5D)
+
+
+2
+[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+
+
+4
+[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+
+
+4
+[Jackal Pup](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJackal%5D+%5BPup%5D)
+
+
+4
+[Mogg Fanatic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMogg%5D+%5BFanatic%5D)
+
+
+
+##### Sorcery (6)
+
+
+
+2
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+4
+[Volcanic Hammer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BHammer%5D)
+
+
+
+##### Instant (4)
+
+
+
+2
+[Lava Dart](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D)
+
+
+2
+[Urza's Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
+
+
+
+##### Artifact (4)
+
+
+
+4
+[Cursed Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Seal of Fire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BFire%5D)
+
+
+
+##### Land (24)
+
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+8
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Rishadan Port](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRishadan%5D+%5BPort%5D)
+
+
+4
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+
+
+3
+[Pillage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D)
+
+
+4
+[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+
+
+4
+[Scald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScald%5D)
+
+
+2
+[Thran Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThran%5D+%5BFoundry%5D)
+
+
+
+
+##### Red (41)
+
+
+
+4
+[Blistering Firecat](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlistering%5D+%5BFirecat%5D)
+
+
+4
+[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+
+
+4
+[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+
+
+4
+[Jackal Pup](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJackal%5D+%5BPup%5D)
+
+
+4
+[Mogg Fanatic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMogg%5D+%5BFanatic%5D)
+
+
+2
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+2
+[Lava Dart](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D)
+
+
+4
+[Seal of Fire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BFire%5D)
+
+
+2
+[Urza's Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
+
+
+4
+[Volcanic Hammer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BHammer%5D)
+
+
+3
+[Pillage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D)
+
+
+4
+[Scald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScald%5D)
+
+
+
+##### Colorless (34)
+
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+8
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Rishadan Port](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRishadan%5D+%5BPort%5D)
+
+
+4
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+4
+[Cursed Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
+
+
+4
+[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+
+
+2
+[Thran Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThran%5D+%5BFoundry%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (26)
+
+
+
+4
+[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+
+
+4
+[Jackal Pup](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJackal%5D+%5BPup%5D)
+
+
+4
+[Mogg Fanatic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMogg%5D+%5BFanatic%5D)
+
+
+4
+[Cursed Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
+
+
+2
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+2
+[Lava Dart](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D)
+
+
+4
+[Seal of Fire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BFire%5D)
+
+
+2
+[Thran Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThran%5D+%5BFoundry%5D)
+
+
+
+##### 2 (12)
+
+
+
+4
+[Volcanic Hammer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BHammer%5D)
+
+
+4
+[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+
+
+4
+[Scald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScald%5D)
+
+
+
+##### 3 (5)
+
+
+
+2
+[Urza's Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
+
+
+3
+[Pillage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D)
+
+
+
+##### 4 (8)
+
+
+
+4
+[Blistering Firecat](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlistering%5D+%5BFirecat%5D)
+
+
+4
+[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+
+
+51 Cards 
+
+
+
+##### Common (20)
+
+
+
+8
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+2
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+2
+[Lava Dart](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D)
+
+
+4
+[Seal of Fire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BFire%5D)
+
+
+4
+[Volcanic Hammer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BHammer%5D)
+
+
+
+##### Uncommon (25)
+
+
+
+4
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+
+
+4
+[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+
+
+4
+[Jackal Pup](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJackal%5D+%5BPup%5D)
+
+
+4
+[Mogg Fanatic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMogg%5D+%5BFanatic%5D)
+
+
+3
+[Pillage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D)
+
+
+4
+[Scald](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScald%5D)
+
+
+2
+[Thran Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThran%5D+%5BFoundry%5D)
+
+
+
+##### Rare (28)
+
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+4
+[Rishadan Port](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRishadan%5D+%5BPort%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+4
+[Blistering Firecat](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlistering%5D+%5BFirecat%5D)
+
+
+4
+[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+
+
+4
+[Cursed Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
+
+
+4
+[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+
+
+
+##### Mythic (2)
+
+
+
+2
+[Urza's Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BRage%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Bloodstained+Mire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Tsuyoshi Fujita – Goblin Bidding
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (30)
+
+
+
+1
+[Gempalm Incinerator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGempalm%5D+%5BIncinerator%5D)
+
+
+4
+[Goblin Matron](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BMatron%5D)
+
+
+4
+[Goblin Piledriver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BPiledriver%5D)
+
+
+3
+[Goblin Sharpshooter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSharpshooter%5D)
+
+
+4
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+4
+[Goblin Warchief](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWarchief%5D)
+
+
+2
+[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege-Gang%5D+%5BCommander%5D)
+
+
+4
+[Skirk Prospector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BProspector%5D)
+
+
+4
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+
+##### Sorcery (7)
+
+
+
+4
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+3
+[Patriarch's Bidding](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BBidding%5D)
+
+
+
+##### Land (23)
+
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+12
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Shadowblood Ridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowblood%5D+%5BRidge%5D)
+
+
+4
+[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Shadowblood Ridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowblood%5D+%5BRidge%5D)
+
+
+1
+[Gempalm Incinerator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGempalm%5D+%5BIncinerator%5D)
+
+
+1
+[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege-Gang%5D+%5BCommander%5D)
+
+
+1
+[Patriarch's Bidding](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BBidding%5D)
+
+
+1
+[Coffin Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
+
+
+2
+[Flaring Pain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaring%5D+%5BPain%5D)
+
+
+3
+[Smother](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
+
+
+1
+[Stabilizer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStabilizer%5D)
+
+
+4
+[Sulfuric Vortex](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfuric%5D+%5BVortex%5D)
+
+
+
+
+##### Black (8)
+
+
+
+4
+[Patriarch's Bidding](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BBidding%5D)
+
+
+1
+[Coffin Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
+
+
+3
+[Smother](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
+
+
+
+##### Red (42)
+
+
+
+2
+[Gempalm Incinerator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGempalm%5D+%5BIncinerator%5D)
+
+
+4
+[Goblin Matron](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BMatron%5D)
+
+
+4
+[Goblin Piledriver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BPiledriver%5D)
+
+
+3
+[Goblin Sharpshooter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSharpshooter%5D)
+
+
+4
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+4
+[Goblin Warchief](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWarchief%5D)
+
+
+3
+[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege-Gang%5D+%5BCommander%5D)
+
+
+4
+[Skirk Prospector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BProspector%5D)
+
+
+4
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+4
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+2
+[Flaring Pain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaring%5D+%5BPain%5D)
+
+
+4
+[Sulfuric Vortex](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfuric%5D+%5BVortex%5D)
+
+
+
+##### Colorless (25)
+
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+12
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+2
+[Shadowblood Ridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowblood%5D+%5BRidge%5D)
+
+
+4
+[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Stabilizer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStabilizer%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (13)
+
+
+
+4
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+4
+[Skirk Prospector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BProspector%5D)
+
+
+4
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+1
+[Coffin Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
+
+
+
+##### 2 (14)
+
+
+
+4
+[Goblin Piledriver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BPiledriver%5D)
+
+
+4
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+2
+[Flaring Pain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaring%5D+%5BPain%5D)
+
+
+3
+[Smother](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
+
+
+1
+[Stabilizer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStabilizer%5D)
+
+
+
+##### 3 (17)
+
+
+
+2
+[Gempalm Incinerator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGempalm%5D+%5BIncinerator%5D)
+
+
+4
+[Goblin Matron](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BMatron%5D)
+
+
+3
+[Goblin Sharpshooter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSharpshooter%5D)
+
+
+4
+[Goblin Warchief](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWarchief%5D)
+
+
+4
+[Sulfuric Vortex](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfuric%5D+%5BVortex%5D)
+
+
+
+##### 5 (7)
+
+
+
+3
+[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege-Gang%5D+%5BCommander%5D)
+
+
+4
+[Patriarch's Bidding](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BBidding%5D)
+
+
+51 Cards 
+
+
+
+##### Common (33)
+
+
+
+12
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+4
+[Skirk Prospector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BProspector%5D)
+
+
+4
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+4
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+1
+[Coffin Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
+
+
+2
+[Flaring Pain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaring%5D+%5BPain%5D)
+
+
+
+##### Uncommon (13)
+
+
+
+2
+[Gempalm Incinerator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGempalm%5D+%5BIncinerator%5D)
+
+
+4
+[Goblin Matron](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BMatron%5D)
+
+
+4
+[Goblin Warchief](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWarchief%5D)
+
+
+3
+[Smother](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D)
+
+
+
+##### Rare (29)
+
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Shadowblood Ridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowblood%5D+%5BRidge%5D)
+
+
+4
+[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+
+
+4
+[Goblin Piledriver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BPiledriver%5D)
+
+
+3
+[Goblin Sharpshooter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSharpshooter%5D)
+
+
+3
+[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege-Gang%5D+%5BCommander%5D)
+
+
+4
+[Patriarch's Bidding](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BBidding%5D)
+
+
+1
+[Stabilizer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStabilizer%5D)
+
+
+4
+[Sulfuric Vortex](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfuric%5D+%5BVortex%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Bloodstained+Mire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Tsuyoshi Fujita – Sneaky Go
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (14)
+
+
+
+2
+[Crater Hellion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrater%5D+%5BHellion%5D)
+
+
+4
+[Dragon Tyrant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BTyrant%5D)
+
+
+4
+[Rorix Bladewing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRorix%5D+%5BBladewing%5D)
+
+
+1
+[Serra Avatar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
+
+
+3
+[Symbiotic Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Gamble](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGamble%5D)
+
+
+
+##### Instant (16)
+
+
+
+4
+[Blazing Shoal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlazing%5D+%5BShoal%5D)
+
+
+4
+[Desperate Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesperate%5D+%5BRitual%5D)
+
+
+4
+[Seething Song](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeething%5D+%5BSong%5D)
+
+
+4
+[Through the Breach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThrough%5D+%5Bthe%5D+%5BBreach%5D)
+
+
+
+##### Artifact (4)
+
+
+
+4
+[Chrome Mox](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChrome%5D+%5BMox%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Sneak Attack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSneak%5D+%5BAttack%5D)
+
+
+
+##### Land (18)
+
+
+
+3
+[City of Traitors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BTraitors%5D)
+
+
+3
+[Crystal Vein](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystal%5D+%5BVein%5D)
+
+
+4
+[Dwarven Ruins](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BRuins%5D)
+
+
+4
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Sandstone Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandstone%5D+%5BNeedle%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+3
+[Serra Avatar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
+
+
+1
+[Cave-In](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCave-In%5D)
+
+
+4
+[Defense Grid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefense%5D+%5BGrid%5D)
+
+
+1
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+2
+[Final Fortune](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFinal%5D+%5BFortune%5D)
+
+
+4
+[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrostatic%5D+%5BPillar%5D)
+
+
+
+
+##### White (4)
+
+
+
+4
+[Serra Avatar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
+
+
+
+##### Red (41)
+
+
+
+2
+[Crater Hellion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrater%5D+%5BHellion%5D)
+
+
+4
+[Dragon Tyrant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BTyrant%5D)
+
+
+4
+[Rorix Bladewing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRorix%5D+%5BBladewing%5D)
+
+
+4
+[Blazing Shoal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlazing%5D+%5BShoal%5D)
+
+
+4
+[Desperate Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesperate%5D+%5BRitual%5D)
+
+
+4
+[Gamble](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGamble%5D)
+
+
+4
+[Seething Song](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeething%5D+%5BSong%5D)
+
+
+4
+[Sneak Attack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSneak%5D+%5BAttack%5D)
+
+
+4
+[Through the Breach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThrough%5D+%5Bthe%5D+%5BBreach%5D)
+
+
+1
+[Cave-In](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCave-In%5D)
+
+
+2
+[Final Fortune](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFinal%5D+%5BFortune%5D)
+
+
+4
+[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrostatic%5D+%5BPillar%5D)
+
+
+
+##### Green (3)
+
+
+
+3
+[Symbiotic Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
+
+
+
+##### Colorless (27)
+
+
+
+3
+[City of Traitors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BTraitors%5D)
+
+
+3
+[Crystal Vein](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystal%5D+%5BVein%5D)
+
+
+4
+[Dwarven Ruins](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BRuins%5D)
+
+
+4
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Sandstone Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandstone%5D+%5BNeedle%5D)
+
+
+4
+[Chrome Mox](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChrome%5D+%5BMox%5D)
+
+
+4
+[Defense Grid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefense%5D+%5BGrid%5D)
+
+
+1
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (4)
+
+
+
+4
+[Gamble](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGamble%5D)
+
+
+
+##### 2 (18)
+
+
+
+4
+[Blazing Shoal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlazing%5D+%5BShoal%5D)
+
+
+4
+[Desperate Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesperate%5D+%5BRitual%5D)
+
+
+4
+[Defense Grid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefense%5D+%5BGrid%5D)
+
+
+2
+[Final Fortune](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFinal%5D+%5BFortune%5D)
+
+
+4
+[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrostatic%5D+%5BPillar%5D)
+
+
+
+##### 3 (4)
+
+
+
+4
+[Seething Song](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeething%5D+%5BSong%5D)
+
+
+
+##### 4 (4)
+
+
+
+4
+[Sneak Attack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSneak%5D+%5BAttack%5D)
+
+
+
+##### 5 (5)
+
+
+
+4
+[Through the Breach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThrough%5D+%5Bthe%5D+%5BBreach%5D)
+
+
+1
+[Cave-In](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCave-In%5D)
+
+
+
+##### 6 (7)
+
+
+
+2
+[Crater Hellion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrater%5D+%5BHellion%5D)
+
+
+4
+[Rorix Bladewing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRorix%5D+%5BBladewing%5D)
+
+
+1
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+
+##### 7 (4)
+
+
+
+4
+[Serra Avatar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
+
+
+
+##### 8 (3)
+
+
+
+3
+[Symbiotic Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
+
+
+
+##### 10 (4)
+
+
+
+4
+[Dragon Tyrant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BTyrant%5D)
+
+
+53 Cards 
+
+
+
+##### Common (12)
+
+
+
+4
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Sandstone Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandstone%5D+%5BNeedle%5D)
+
+
+4
+[Seething Song](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeething%5D+%5BSong%5D)
+
+
+
+##### Uncommon (15)
+
+
+
+3
+[Crystal Vein](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystal%5D+%5BVein%5D)
+
+
+4
+[Dwarven Ruins](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BRuins%5D)
+
+
+4
+[Desperate Ritual](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesperate%5D+%5BRitual%5D)
+
+
+4
+[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrostatic%5D+%5BPillar%5D)
+
+
+
+##### Rare (44)
+
+
+
+3
+[City of Traitors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BTraitors%5D)
+
+
+2
+[Crater Hellion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrater%5D+%5BHellion%5D)
+
+
+4
+[Dragon Tyrant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BTyrant%5D)
+
+
+4
+[Rorix Bladewing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRorix%5D+%5BBladewing%5D)
+
+
+3
+[Symbiotic Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSymbiotic%5D+%5BWurm%5D)
+
+
+4
+[Blazing Shoal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlazing%5D+%5BShoal%5D)
+
+
+4
+[Chrome Mox](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChrome%5D+%5BMox%5D)
+
+
+4
+[Gamble](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGamble%5D)
+
+
+4
+[Sneak Attack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSneak%5D+%5BAttack%5D)
+
+
+4
+[Through the Breach](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThrough%5D+%5Bthe%5D+%5BBreach%5D)
+
+
+1
+[Cave-In](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCave-In%5D)
+
+
+4
+[Defense Grid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefense%5D+%5BGrid%5D)
+
+
+1
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+2
+[Final Fortune](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFinal%5D+%5BFortune%5D)
+
+
+
+##### Mythic (4)
+
+
+
+4
+[Serra Avatar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerra%5D+%5BAvatar%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=City+of+Traitors)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Tsuyoshi Fujita – Astral Slide
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (15)
+
+
+
+3
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+4
+[Eternal Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BDragon%5D)
+
+
+4
+[Eternal Witness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D)
+
+
+4
+[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BSimulacrum%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Wrath of God](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Gilded Light](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGilded%5D+%5BLight%5D)
+
+
+2
+[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+
+
+4
+[Renewed Faith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenewed%5D+%5BFaith%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Astral Slide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAstral%5D+%5BSlide%5D)
+
+
+
+##### Land (27)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+8
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Secluded Steppe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D)
+
+
+4
+[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
+
+
+2
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+
+
+1
+[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
+
+
+1
+[Damping Matrix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BMatrix%5D)
+
+
+4
+[Plow Under](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlow%5D+%5BUnder%5D)
+
+
+1
+[Rain of Blades](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRain%5D+%5Bof%5D+%5BBlades%5D)
+
+
+4
+[Relic Barrier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5BBarrier%5D)
+
+
+2
+[Sundering Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
+
+
+
+
+##### White (22)
+
+
+
+4
+[Eternal Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BDragon%5D)
+
+
+4
+[Astral Slide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAstral%5D+%5BSlide%5D)
+
+
+4
+[Gilded Light](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGilded%5D+%5BLight%5D)
+
+
+4
+[Renewed Faith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenewed%5D+%5BFaith%5D)
+
+
+4
+[Wrath of God](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
+
+
+1
+[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
+
+
+1
+[Rain of Blades](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRain%5D+%5Bof%5D+%5BBlades%5D)
+
+
+
+##### Green (12)
+
+
+
+4
+[Eternal Witness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D)
+
+
+4
+[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+
+
+4
+[Plow Under](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlow%5D+%5BUnder%5D)
+
+
+
+##### Colorless (41)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+8
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Secluded Steppe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D)
+
+
+4
+[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
+
+
+2
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+3
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+4
+[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BSimulacrum%5D)
+
+
+1
+[Damping Matrix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BMatrix%5D)
+
+
+4
+[Relic Barrier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5BBarrier%5D)
+
+
+2
+[Sundering Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (5)
+
+
+
+4
+[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+
+
+1
+[Rain of Blades](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRain%5D+%5Bof%5D+%5BBlades%5D)
+
+
+
+##### 2 (9)
+
+
+
+4
+[Gilded Light](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGilded%5D+%5BLight%5D)
+
+
+1
+[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
+
+
+4
+[Relic Barrier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5BBarrier%5D)
+
+
+
+##### 3 (13)
+
+
+
+4
+[Eternal Witness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D)
+
+
+4
+[Astral Slide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAstral%5D+%5BSlide%5D)
+
+
+4
+[Renewed Faith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenewed%5D+%5BFaith%5D)
+
+
+1
+[Damping Matrix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BMatrix%5D)
+
+
+
+##### 4 (8)
+
+
+
+4
+[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BSimulacrum%5D)
+
+
+4
+[Wrath of God](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Plow Under](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlow%5D+%5BUnder%5D)
+
+
+
+##### 6 (3)
+
+
+
+3
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+
+##### 7 (4)
+
+
+
+4
+[Eternal Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BDragon%5D)
+
+
+
+##### 8 (2)
+
+
+
+2
+[Sundering Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
+
+
+48 Cards 
+
+
+
+##### Common (30)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+8
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Secluded Steppe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D)
+
+
+4
+[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
+
+
+4
+[Renewed Faith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenewed%5D+%5BFaith%5D)
+
+
+1
+[Circle of Protection: Red](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircle%5D+%5Bof%5D+%5BProtection:%5D+%5BRed%5D)
+
+
+
+##### Uncommon (21)
+
+
+
+4
+[Eternal Witness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D)
+
+
+4
+[Astral Slide](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAstral%5D+%5BSlide%5D)
+
+
+4
+[Gilded Light](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGilded%5D+%5BLight%5D)
+
+
+4
+[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+
+
+1
+[Rain of Blades](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRain%5D+%5Bof%5D+%5BBlades%5D)
+
+
+4
+[Relic Barrier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5BBarrier%5D)
+
+
+
+##### Rare (22)
+
+
+
+2
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+3
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+4
+[Eternal Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BDragon%5D)
+
+
+4
+[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BSimulacrum%5D)
+
+
+4
+[Wrath of God](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
+
+
+1
+[Damping Matrix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BMatrix%5D)
+
+
+4
+[Plow Under](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlow%5D+%5BUnder%5D)
+
+
+
+##### Mythic (2)
+
+
+
+2
+[Sundering Titan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Tsuyoshi Fujita – Boros Deck Wins
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (18)
+
+
+
+4
+[Goblin Legionnaire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
+
+
+4
+[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+
+
+3
+[Isamaru, Hound of Konda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
+
+
+3
+[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+
+
+4
+[Savannah Lions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D)
+
+
+
+##### Sorcery (12)
+
+
+
+4
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+4
+[Molten Rain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D)
+
+
+4
+[Pillage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D)
+
+
+
+##### Instant (9)
+
+
+
+4
+[Lava Dart](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D)
+
+
+4
+[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+
+
+1
+[Pulse of the Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPulse%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D)
+
+
+
+##### Land (21)
+
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+1
+[Eiganjo Castle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D)
+
+
+4
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sacred Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+1
+[Shinka, the Bloodsoaked Keep](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinka,%5D+%5Bthe%5D+%5BBloodsoaked%5D+%5BKeep%5D)
+
+
+2
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+3
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D)
+
+
+3
+[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+
+
+3
+[Fledgling Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D)
+
+
+4
+[Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D)
+
+
+2
+[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+
+
+
+
+##### White (14)
+
+
+
+3
+[Isamaru, Hound of Konda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
+
+
+3
+[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+
+
+4
+[Savannah Lions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D)
+
+
+4
+[Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D)
+
+
+
+##### Red (30)
+
+
+
+4
+[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+
+
+4
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+4
+[Lava Dart](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D)
+
+
+4
+[Molten Rain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D)
+
+
+4
+[Pillage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D)
+
+
+1
+[Pulse of the Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPulse%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D)
+
+
+3
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D)
+
+
+3
+[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+
+
+3
+[Fledgling Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D)
+
+
+
+##### Multi colored (8)
+
+
+
+4
+[Goblin Legionnaire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
+
+
+4
+[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+
+
+
+##### Colorless (23)
+
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+1
+[Eiganjo Castle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D)
+
+
+4
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sacred Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+1
+[Shinka, the Bloodsoaked Keep](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinka,%5D+%5Bthe%5D+%5BBloodsoaked%5D+%5BKeep%5D)
+
+
+2
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+2
+[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (19)
+
+
+
+4
+[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+
+
+3
+[Isamaru, Hound of Konda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
+
+
+4
+[Savannah Lions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D)
+
+
+4
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+4
+[Lava Dart](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D)
+
+
+
+##### 2 (17)
+
+
+
+4
+[Goblin Legionnaire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
+
+
+3
+[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+
+
+4
+[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+
+
+4
+[Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D)
+
+
+2
+[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+
+
+
+##### 3 (12)
+
+
+
+4
+[Molten Rain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D)
+
+
+4
+[Pillage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D)
+
+
+1
+[Pulse of the Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPulse%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D)
+
+
+3
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D)
+
+
+
+##### 4 (6)
+
+
+
+3
+[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+
+
+3
+[Fledgling Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D)
+
+
+54 Cards 
+
+
+
+##### Common (21)
+
+
+
+4
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Goblin Legionnaire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
+
+
+4
+[Firebolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+4
+[Lava Dart](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D)
+
+
+4
+[Molten Rain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D)
+
+
+
+##### Uncommon (19)
+
+
+
+4
+[Savannah Lions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D)
+
+
+4
+[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+
+
+4
+[Pillage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D)
+
+
+3
+[Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+
+
+4
+[Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D)
+
+
+
+##### Rare (35)
+
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+1
+[Eiganjo Castle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D)
+
+
+4
+[Sacred Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+1
+[Shinka, the Bloodsoaked Keep](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinka,%5D+%5Bthe%5D+%5BBloodsoaked%5D+%5BKeep%5D)
+
+
+2
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+4
+[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+
+
+3
+[Isamaru, Hound of Konda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
+
+
+3
+[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+
+
+1
+[Pulse of the Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPulse%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D)
+
+
+3
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D)
+
+
+3
+[Fledgling Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D)
+
+
+2
+[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Bloodstained+Mire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Tsuyoshi Fujita – The Rats
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (8)
+
+
+
+2
+[Phyrexian Scuta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BScuta%5D)
+
+
+4
+[Ravenous Rats](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavenous%5D+%5BRats%5D)
+
+
+2
+[Urborg Shambler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg%5D+%5BShambler%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Addle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAddle%5D)
+
+
+
+##### Instant (22)
+
+
+
+4
+[Exclude](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExclude%5D)
+
+
+4
+[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+
+
+3
+[Prohibit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProhibit%5D)
+
+
+3
+[Recoil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
+
+
+2
+[Repulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
+
+
+2
+[Spite // Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpite%5D+%5B&%5D+%5BMalice%5D)
+
+
+4
+[Undermine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndermine%5D)
+
+
+
+##### Enchantment (2)
+
+
+
+2
+[Yawgmoth's Agenda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BAgenda%5D)
+
+
+
+##### Land (24)
+
+
+
+11
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Salt Marsh](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSalt%5D+%5BMarsh%5D)
+
+
+9
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Phyrexian Scuta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BScuta%5D)
+
+
+2
+[Urborg Shambler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg%5D+%5BShambler%5D)
+
+
+1
+[Yawgmoth's Agenda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BAgenda%5D)
+
+
+4
+[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+4
+[Nightscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
+
+
+2
+[Spinal Embrace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpinal%5D+%5BEmbrace%5D)
+
+
+
+
+##### Blue (19)
+
+
+
+4
+[Exclude](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExclude%5D)
+
+
+4
+[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+
+
+3
+[Prohibit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProhibit%5D)
+
+
+2
+[Repulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
+
+
+2
+[Spite // Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpite%5D+%5B&%5D+%5BMalice%5D)
+
+
+4
+[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+
+##### Black (23)
+
+
+
+4
+[Phyrexian Scuta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BScuta%5D)
+
+
+4
+[Ravenous Rats](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavenous%5D+%5BRats%5D)
+
+
+4
+[Urborg Shambler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg%5D+%5BShambler%5D)
+
+
+4
+[Addle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAddle%5D)
+
+
+3
+[Yawgmoth's Agenda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BAgenda%5D)
+
+
+4
+[Nightscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
+
+
+
+##### Multi colored (9)
+
+
+
+3
+[Recoil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
+
+
+4
+[Undermine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndermine%5D)
+
+
+2
+[Spinal Embrace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpinal%5D+%5BEmbrace%5D)
+
+
+
+##### Colorless (24)
+
+
+
+11
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Salt Marsh](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSalt%5D+%5BMarsh%5D)
+
+
+9
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+75 Cards 
+
+
+
+##### 2 (19)
+
+
+
+4
+[Ravenous Rats](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavenous%5D+%5BRats%5D)
+
+
+4
+[Addle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAddle%5D)
+
+
+3
+[Prohibit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProhibit%5D)
+
+
+4
+[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+4
+[Nightscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
+
+
+
+##### 3 (13)
+
+
+
+4
+[Exclude](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExclude%5D)
+
+
+3
+[Recoil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
+
+
+2
+[Repulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
+
+
+4
+[Undermine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndermine%5D)
+
+
+
+##### 4 (14)
+
+
+
+4
+[Phyrexian Scuta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BScuta%5D)
+
+
+4
+[Urborg Shambler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg%5D+%5BShambler%5D)
+
+
+4
+[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+
+
+2
+[Spite // Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpite%5D+%5B&%5D+%5BMalice%5D)
+
+
+
+##### 5 (3)
+
+
+
+3
+[Yawgmoth's Agenda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BAgenda%5D)
+
+
+
+##### 6 (2)
+
+
+
+2
+[Spinal Embrace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpinal%5D+%5BEmbrace%5D)
+
+
+51 Cards 
+
+
+
+##### Common (40)
+
+
+
+11
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+9
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Ravenous Rats](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavenous%5D+%5BRats%5D)
+
+
+4
+[Exclude](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExclude%5D)
+
+
+3
+[Prohibit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProhibit%5D)
+
+
+3
+[Recoil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
+
+
+2
+[Repulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
+
+
+4
+[Nightscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
+
+
+
+##### Uncommon (18)
+
+
+
+4
+[Salt Marsh](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSalt%5D+%5BMarsh%5D)
+
+
+4
+[Urborg Shambler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg%5D+%5BShambler%5D)
+
+
+4
+[Addle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAddle%5D)
+
+
+2
+[Spite // Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpite%5D+%5B&%5D+%5BMalice%5D)
+
+
+4
+[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+
+##### Rare (13)
+
+
+
+4
+[Phyrexian Scuta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BScuta%5D)
+
+
+4
+[Undermine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndermine%5D)
+
+
+3
+[Yawgmoth's Agenda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth%5D+%5BAgenda%5D)
+
+
+2
+[Spinal Embrace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpinal%5D+%5BEmbrace%5D)
+
+
+
+##### Mythic (4)
+
+
+
+4
+[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Tsuyoshi Fujita – Go Anan Deck
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (29)
+
+
+
+3
+[Clickslither](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClickslither%5D)
+
+
+3
+[Goblin Goon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BGoon%5D)
+
+
+4
+[Goblin Sharpshooter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSharpshooter%5D)
+
+
+4
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+4
+[Goblin Warchief](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWarchief%5D)
+
+
+4
+[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege-Gang%5D+%5BCommander%5D)
+
+
+3
+[Skirk Prospector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BProspector%5D)
+
+
+4
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+
+##### Instant (8)
+
+
+
+4
+[Electrostatic Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrostatic%5D+%5BBolt%5D)
+
+
+4
+[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+
+
+
+##### Land (23)
+
+
+
+3
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+4
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+12
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+4
+[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+
+
+4
+[Skullclamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
+
+
+4
+[Starstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStarstorm%5D)
+
+
+3
+[Viridian Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViridian%5D+%5BShaman%5D)
+
+
+
+
+##### Red (37)
+
+
+
+3
+[Clickslither](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClickslither%5D)
+
+
+3
+[Goblin Goon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BGoon%5D)
+
+
+4
+[Goblin Sharpshooter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSharpshooter%5D)
+
+
+4
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+4
+[Goblin Warchief](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWarchief%5D)
+
+
+4
+[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege-Gang%5D+%5BCommander%5D)
+
+
+3
+[Skirk Prospector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BProspector%5D)
+
+
+4
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+4
+[Electrostatic Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrostatic%5D+%5BBolt%5D)
+
+
+4
+[Starstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStarstorm%5D)
+
+
+
+##### Green (11)
+
+
+
+4
+[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+
+
+4
+[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+
+
+3
+[Viridian Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViridian%5D+%5BShaman%5D)
+
+
+
+##### Colorless (27)
+
+
+
+3
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+4
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+12
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+4
+[Skullclamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (19)
+
+
+
+4
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+3
+[Skirk Prospector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BProspector%5D)
+
+
+4
+[Electrostatic Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrostatic%5D+%5BBolt%5D)
+
+
+4
+[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+
+
+4
+[Skullclamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
+
+
+
+##### 2 (12)
+
+
+
+4
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+4
+[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+
+
+4
+[Starstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStarstorm%5D)
+
+
+
+##### 3 (11)
+
+
+
+4
+[Goblin Sharpshooter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSharpshooter%5D)
+
+
+4
+[Goblin Warchief](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWarchief%5D)
+
+
+3
+[Viridian Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViridian%5D+%5BShaman%5D)
+
+
+
+##### 4 (6)
+
+
+
+3
+[Clickslither](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClickslither%5D)
+
+
+3
+[Goblin Goon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BGoon%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege-Gang%5D+%5BCommander%5D)
+
+
+52 Cards 
+
+
+
+##### Common (35)
+
+
+
+4
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+12
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Goblin Sledder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSledder%5D)
+
+
+3
+[Skirk Prospector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkirk%5D+%5BProspector%5D)
+
+
+4
+[Sparksmith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSparksmith%5D)
+
+
+4
+[Electrostatic Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrostatic%5D+%5BBolt%5D)
+
+
+4
+[Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
+
+
+
+##### Uncommon (15)
+
+
+
+4
+[Goblin Warchief](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BWarchief%5D)
+
+
+4
+[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+
+
+4
+[Skullclamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
+
+
+3
+[Viridian Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViridian%5D+%5BShaman%5D)
+
+
+
+##### Rare (25)
+
+
+
+3
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+3
+[Clickslither](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClickslither%5D)
+
+
+3
+[Goblin Goon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BGoon%5D)
+
+
+4
+[Goblin Sharpshooter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BSharpshooter%5D)
+
+
+4
+[Siege-Gang Commander](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege-Gang%5D+%5BCommander%5D)
+
+
+4
+[Starstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStarstorm%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=City+of+Brass)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TSUYOSHI FUJITAVIDEO PLAYLIST
+-----------------------------
+
+
+
+
+
+
+![Hall of Fame Class of 2007: Tsuyoshi Fujita](https://web.archive.org/web/20220216050541im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/img/interface/video-place-holder.png)
+#### Hall of Fame Class of 2007: Tsuyoshi Fujita
+
+
+
+
+
+
+
+[![Hall of Fame Class of 2007: Tsuyoshi Fujita](http://magic.wizards.com/)Hall of Fame Class of 2007: Tsuyoshi Fujita](#)
+
+
+
+
+
+
+
+TSUYOSHI FUJITAGALLERY
+----------------------
+
+
+
+
+
+
+[![](https://media.magic.wizards.com/images/featured/fujita_1.jpg)](http://magic.wizards.com/sites/mtg/files/images/featured/fujita_1.jpg)
+
+
+[![](https://media.magic.wizards.com/images/featured/fujita_4.jpg)](http://magic.wizards.com/sites/mtg/files/images/featured/fujita_4.jpg)
+
+
+[![](https://media.magic.wizards.com/images/featured/fujita_6.jpg)](http://magic.wizards.com/sites/mtg/files/images/featured/fujita_6.jpg)
+
+
+
+[![](http://magic.wizards.com/)](#)
+[![](http://magic.wizards.com/)](#)
+[![](http://magic.wizards.com/)](#)
+
+
+
+
+
+
+
+
+TSUYOSHI FUJITACAREER STATISTICS
+--------------------------------
+
+
+### BY FORMAT
+
+
+
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Format** | **W** | **L** | **D** | **BYE** | **Matches** | **Win %** |
+|  |
+| Limited | 218 | 143 | 18 | 49 | 428 | 57.52% |
+| Constructed | 362 | 230 | 20 | 63 | 675 | 59.15% |
+|  |
+| Total | 580 | 373 | 38 | 112 | 1103 | 58.53% |
+|  |
+
+
+### BY EVENT TYPE
+
+
+
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Event** | **W** | **L** | **D** | **BYE** | **Matches** | **Win %** |
+|  |
+| Worlds | 84 | 57 | 4 | 0 | 1445 | 5.81% |
+| Pro Tour | 169 | 118 | 8 | 4 | 299 | 57.29% |
+| Nationals | 54 | 30 | 3 | 1 | 88 | 62.07% |
+| Continental Championships | 20 | 8 | 2 | 0 | 30 | 66.67% |
+| Masters | 5 | 6 | 0 | 2 | 13 | 45.45% |
+| Grand Prix | 248 | 154 | 21 | 105 | 528 | 58.63% |
+|  |
+| Total | 580 | 373 | 38 | 112 | 1103 | 58.53% |
+|  |
+
+### By Event
+
+
+
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Event** | **Date** | **Finish** | **W** | **L** | **D** | **BYE** | **Matches** | **Win %** |
+|  |
+| 1998 World Championships | 8/15/1998 | 99 | 10 | 10 | 1 | 0 |  |  |
+|  |
+| **1997-98 Season** |  |  | **10** | **10** | **1** | **0** | **21** | **47.62%** |
+|  |
+|  |
+| Grand Prix-Kyoto | 1/15/1999 | 4 | 9 | 3 | 1 | 0 |  |  |
+| Pro Tour-Los Angeles | 2/26/1999 | 116 | 4 | 3 | 0 | 0 |  |  |
+| Pro Tour-Washington D.C. (Team) | 3/5/1999 | 15 |  |  |  |  |  |  |
+| Pro Tour-New York | 2/23/1900 | 54 | 8 | 6 | 0 | 0 |  |  |
+| 1999 APAC Championship | 7/3/1999 | 3 | 5 | 0 | 1 | 0 |  |  |
+| 1999 World Championships | 8/13/1999 | 26 | 11 | 6 | 1 | 0 |  |  |
+|  |
+| **1998-99 Season** |  |  | **37** | **18** | **3** | **0** | **58** | **63.79%** |
+|  |
+|  |
+| Grand Prix-Tohoku | 9/11/1999 | 108 | 2 | 3 | 0 | 0 |  |  |
+| Pro Tour-London | 10/15/1999 | 141 | 3 | 3 | 1 | 0 |  |  |
+| Grand Prix-Kyushu | 10/30/1999 | n/a | 7 | 4 | 0 | 0 |  |  |
+| Pro Tour-Chicago | 12/3/1999 | 273 | 2 | 4 | 0 | 0 |  |  |
+| Pro Tour-Los Angeles | 2/4/2000 | 73 | 7 | 6 | 1 | 0 |  |  |
+| Grand Prix-Taipei | 2/12/2000 | 2 | 10 | 3 | 1 | 3 |  |  |
+| Grand Prix-Kuala Lumpur | 3/4/2000 | 29 | 6 | 4 | 0 | 0 |  |  |
+| Pro Tour-New York | 4/14/2000 | 108 | 4 | 3 | 0 | 0 |  |  |
+| 2000 APAC Championship | 7/8/2000 | 11 | 8 | 3 | 1 | 0 |  |  |
+| 2000 World Championships | 8/4/2000 | 63 | 10 | 7 | 1 | 0 |  |  |
+|  |
+| **1999-2000 Season** |  |  | **59** | **40** | **5** | **3** | **107** | **56.73%** |
+|  |
+|  |
+| Grand Prix-Sapporo | 9/23/2000 | 17 | 6 | 3 | 1 | 0 |  |  |
+| Masters-New York | 9/28/2000 | 82 | 0 | 1 | 0 | 0 |  |  |
+| Pro Tour-New York (Teams) | 9/28/2000 | 40 |  |  |  |  |  |  |
+| Grand Prix-Kyoto | 11/11/2000 | 1 | 11 | 2 | 1 | 0 |  |  |
+| Grand Prix-Singapore | 12/9/2000 | 16 | 6 | 3 | 1 | 0 |  |  |
+| Grand Prix-Hiroshima | 1/27/2001 | 6 | 7 | 2 | 2 | 3 |  |  |
+| Pro Tour-Los Angeles | 2/2/2001 | 99 | 7 | 6 | 0 | 1 |  |  |
+| Pro Tour-Tokyo | 3/16/2001 | 2 | 12 | 4 | 1 | 0 |  |  |
+| Masters-Barcelona | 5/3/2001 | 25 | 0 | 1 | 0 | 0 |  |  |
+| Pro Tour-Barcelona | 5/4/2001 | 216 | 3 | 4 | 0 | 0 |  |  |
+| Grand Prix-Yokohama (Teams) | 5/12/2000 | 6 |  |  |  |  |  |  |
+| 2001 Japan Nationals | 6/3/2001 | 23 | 8 | 4 | 0 | 0 |  |  |
+| 2001 Asia Pacific Championship | 6/23/2001 | 23 | 7 | 5 | 0 | 0 |  |  |
+| Grand Prix-Taipei (Teams) | 7/21/2001 | 19 |  |  |  |  |  |  |
+| 2001 World Championships | 8/10/2001 | 59 | 11 | 7 | 0 | 0 |  |  |
+|  |
+| **2000-01 Season** |  |  | **78** | **42** | **6** | **4** | **130** | **61.90%** |
+|  |
+|  |
+| Grand Prix-Kobe | 8/18/2001 | 323 | 2 | 3 | 0 | 3 |  |  |
+| Pro Tour-New York (Teams) | 9/7/2001 | 57 |  |  |  |  |  |  |
+| Grand Prix-Shizuoka | 10/14/2001 | 128 | 2 | 3 | 0 | 3 |  |  |
+| Masters-New Orleans | 11/1/2001 | 23 | 0 | 1 | 0 | 0 |  |  |
+| Pro Tour-New Orleans | 11/2/2001 | 48 | 8 | 5 | 1 | 0 |  |  |
+| Grand Prix-Hong Kong | 11/17/2001 | 3 | 7 | 2 | 2 | 3 |  |  |
+| Grand Prix-Sendai | 12/15/2001 | 30 | 6 | 4 | 1 | 3 |  |  |
+| Masters-San Diego | 1/10/2002 | 7 | 2 | 1 | 0 | 0 |  |  |
+| Pro Tour-San Diego | 1/11/2002 | 334 | 1 | 4 | 0 | 0 |  |  |
+| Grand Prix-Fukuoka | 2/16/2002 | 6 | 7 | 1 | 3 | 3 |  |  |
+| Pro Tour-Osaka | 3/15/2002 | 14 | 11 | 3 | 0 | 0 |  |  |
+| Grand Prix-Kuala Lumpur | 3/30/2002 | 19 | 6 | 4 | 0 | 3 |  |  |
+| Grand Prix-Nagoya (Teams) | 5/11/2002 | 4 |  |  |  |  |  |  |
+| 2002 Japan Nationals | 6/2/2002 | 42 | 7 | 5 | 0 | 0 |  |  |
+| Grand Prix-Taipei | 7/13/2002 | 20 | 5 | 3 | 2 | 3 |  |  |
+| 2002 World Championships | 8/16/2002 | 177 | 7 | 8 | 1 | 0 |  |  |
+|  |
+| **2001-02 Season** |  |  | **71** | **47** | **10** | **21** | **149** | **55.47%** |
+|  |
+|  |
+| Grand Prix-Sapporo | 8/24/2002 | 55 | 5 | 6 | 0 | 3 |  |  |
+| Pro Tour-Boston (Teams) | 9/27/2002 | 77 |  |  |  |  |  |  |
+| Grand Prix-Utsunomiya | 10/12/2002 | 3 | 9 | 3 | 1 | 3 |  |  |
+| Masters-Chicago | 1/16/2003 | 69 | 0 | 1 | 0 | 1 |  |  |
+| Pro Tour-Chicago | 1/17/2003 | 195 | 3 | 4 | 0 | 0 |  |  |
+| Grand Prix-Hiroshima | 1/25/2003 | 7 | 8 | 4 | 0 | 3 |  |  |
+| Pro Tour-Venice | 3/21/2003 | 56 | 8 | 5 | 1 | 0 |  |  |
+| Grand Prix-Kyoto | 3/29/2003 | 74 | 3 | 2 | 0 | 3 |  |  |
+| Masters-Yokohama | 5/8/2003 | 5 | 3 | 1 | 0 | 1 |  |  |
+| Pro Tour-Yokohama | 5/9/2003 | 94 | 4 | 3 | 0 | 0 |  |  |
+| 2003 Japan Nationals | 6/21/2003 | 58 | 6 | 4 | 0 | 0 |  |  |
+| Grand Prix-Bangkok | 7/12/2003 | 1 | 11 | 2 | 0 | 3 |  |  |
+|  |
+| **2002-03 Season** |  |  | **60** | **35** | **2** | **17** | **114** | **61.86%** |
+|  |
+|  |
+| Grand Prix-Yokohama | 8/22/2003 | 17 | 9 | 4 | 0 | 3 |  |  |
+| Pro Tour-Boston | 9/12/2003 | 97 |  |  |  |  |  |  |
+| Pro Tour-New Orleans | 10/31/2003 | 126 | 4 | 4 | 0 | 0 |  |  |
+| Grand Prix-Shizuoka | 11/8/2003 | 22 | 6 | 4 | 0 | 4 |  |  |
+| Grand Prix-Okayama | 1/23/2004 | 51 | 5 | 6 | 0 | 3 |  |  |
+| Pro Tour-Kobe | 2/27/2004 | 22 | 9 | 5 | 1 | 1 |  |  |
+| Grand Prix-Hong Kong | 3/6/2004 | 62 | 5 | 7 | 0 | 2 |  |  |
+| Grand Prix-Sendai | 3/20/2004 | 213 | 2 | 3 | 0 | 2 |  |  |
+| 2004 Japan Nationals | 6/11/2004 | 1 | 13 | 2 | 2 | 0 |  |  |
+| Pro Tour-Seattle | 7/9/2004 | 25 |  |  |  |  |  |  |
+| Grand Prix-Kuala Lumpur | 7/24/2004 | 2 | 8 | 2 | 1 | 3 |  |  |
+| Grand Prix-Nagoya | 8/28/2004 | 415 | 2 | 3 | 0 | 2 |  |  |
+| 2004 World Championships | 9/3/2004 | 18 | 12 | 6 | 0 | 0 |  |  |
+|  |
+| **2003-04 Season** |  |  | **75** | **46** | **4** | **20** | **145** | **60.00%** |
+|  |
+|  |
+| Pro Tour-Columbus | 10/29/2004 | 9 | 12 | 4 | 0 | 0 |  |  |
+| Grand Prix-Yokohama | 11/20/2004 | 153 | 3 | 2 | 0 | 2 |  |  |
+| Grand Prix-Osaka (Teams) | 1/8/2005 | 15 |  |  |  |  |  |  |
+| Pro Tour-Nagoya | 1/28/2005 | 100 | 3 | 3 | 0 | 0 |  |  |
+| Grand Prix-Boston | 2/5/2005 | 38 | 7 | 5 | 0 | 3 |  |  |
+| Grand Prix-Seattle | 3/5/2005 | 7 | 8 | 4 | 0 | 3 |  |  |
+| Pro Tour-Atlanta (Teams) | 3/11/2005 | 102 |  |  |  |  |  |  |
+| Grand Prix-Singapore | 3/19/2005 | 53 | 5 | 5 | 0 | 3 |  |  |
+| Pro Tour-Philadelphia | 5/6/2005 | 20 | 7 | 3 | 0 | 0 |  |  |
+| Grand Prix-Matsuyama | 5/14/2005 | 11 | 8 | 3 | 0 | 3 |  |  |
+| Pro Tour-London | 7/8/2005 | 2 | 13 | 4 | 1 | 0 |  |  |
+| Grand Prix-Niigata | 7/23/2005 | 33 | 6 | 4 | 1 | 3 |  |  |
+| Grand Prix-Taipei | 8/6/2005 | 17 | 7 | 4 | 0 | 3 |  |  |
+| 2005 Japan Nationals | 9/2/2005 | 19 | 9 | 4 | 1 | 0 |  |  |
+| Pro Tour-Los Angeles | 10/28/2005 | 5 | 12 | 4 | 1 | 0 |  |  |
+| Grand Prix-Kitakyuushuu | 11/5/2005 | 63 | 2 | 4 | 1 | 3 |  |  |
+| Grand Prix-Beijing | 11/26/2005 | 73 | 1 | 3 | 0 | 3 |  |  |
+| 2005 World Championships | 12/2/2005 | 85 | 10 | 8 | 0 | 0 |  |  |
+|  |
+| **2005 Season** |  |  | **113** | **64** | **5** | **26** | **208** | **62.09%** |
+|  |
+|  |
+| Pro Tour-Honolulu | 3/3/2006 | 205 | 4 | 4 | 0 | 0 |  |  |
+| Grand Prix-Hamamatsu (Teams) | 4/8/2006 | 110 |  |  |  |  |  |  |
+| Pro Tour-Prague | 5/5/2006 | 405 | 0 | 3 | 0 | 0 |  |  |
+| Grand Prix-Kuala Lumpur | 6/3/2006 | 143 | 1 | 3 | 0 | 3 |  |  |
+| Pro Tour-Charleston | 6/16/2006 | 17 |  |  |  |  |  |  |
+| Grand Prix-Hiroshima | 8/19/2006 | 28 | 6 | 4 | 1 | 3 |  |  |
+| 2006 Japan Nationals | 8/24/2006 | 86 | 4 | 6 | 0 | 1 |  |  |
+| Pro Tour-Kobe | 10/20/2006 | 239 | 3 | 3 | 0 | 0 |  |  |
+| Grand Prix-Yamagata | 11/18/2006 | 31 | 6 | 4 | 1 | 3 |  |  |
+| 2006 World Championships | 11/29/2006 | 10 | 13 | 5 | 0 | 0 |  |  |
+|  |
+| **2006 Season** |  |  | **37** | **32** | **2** | **10** | **81** | **52.11%** |
+|  |
+|  |
+| Pro Tour-Geneva | 2/9/2007 | 129 | 4 | 7 | 0 | 2 |  |  |
+| Grand Prix-Singapore | 3/3/2007 | 60 | 4 | 5 | 0 | 3 |  |  |
+| Grand Prix-Kyoto | 3/17/2007 | 91 | 6 | 6 | 0 | 3 |  |  |
+| Pro Tour-Yokohama | 4/20/2007 | 33 | 10 | 6 | 0 | 0 |  |  |
+| 2007 Japan Nationals | 8/30/2007 | 70 | 7 | 5 | 0 | 0 |  |  |
+| Pro Tour-Valencia | 10/12/2007 | 280 | 3 | 5 | 0 | 0 |  |  |
+| Grand Prix-Kitakyuushuu | 11/10/2007 | 37 | 6 | 5 | 0 | 3 |  |  |
+|  |
+| **2007 Season** |  |  | **40** | **39** | **0** | **11** | **90** | **50.63%** |
+|  |
+
+
+
+
+
+
+
+TSUYOSHI FUJITACAREER HIGHLIGHTS
+--------------------------------
+
+
+* Tsuyoshi cut his competitive teeth on the Grand Prix circuit with Top 8 finishes in Kyoto and Taipei during the 1998-99 and 1999-2000 seasons.
+
+
+
+* Tsuyoshi became the first Japanese player to step onto the Sunday stage at the Pro Tour when he reached the finals of Pro Tour–Tokyo 2001, blazing a trail for a wave of dominating Japanese performances.
+
+
+
+* Tsuyoshi is the leading Japanese Pro in terms of money won and lifetime Pro Points. He is 10th on the all time money-winners list and 11th all-time on the Pro Points list.
+
+
+
+* Tsuyoshi reached the Top 8 of a Pro Tour three different times and making it to the Finals twice (along with a heartbreaking ninth-place finish at Pro Tour–Philadelphia).
+
+
+
+* Tsuyoshi's dozen Grand Prix Top 8 finishes are punctuated by two victories, including his win in Bangkok in 2003 with Goblin Bidding. The way that deck transformed Standard in the wake of that event helped to solidify Fujita's reputation as one of the game's great deck designers.
+
+
+
+* Tsuyoshi was the Japanese National Champion in 2004, once again playing Goblins.
+
+
+
+* One of the most influential deck builders in the history of the game, Tsuyoshi had a hand in another landmark moment in Japanese Magic when he built Masashiro Kuroda's Pro Tour Kobe-winning Big Red deck.
+
+
+
+* Tsuyoshi has a restless deck design quality that leads him to play with different and unexpected decks. When he made the Top 8 of Grand Prix–Seattle playing a Sneak Attack deck, he became a fan favorite designer.
+
+
+
+* Tsuyoshi reached the finals of the Magic Invitational in 2006 playing a rareless Standard deck which he designed with budget-conscious players in mind.
+
+
+
+* In 2005 Tsuyoshi submitted Unluckyman's Paradise as his Invitational card and it was voted upon by Magicthegathering.com readers to be developed. The card eventually saw print as [Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gemstone+Caverns).
+
+
+ 
+
+
+
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **RECORD VS. HALL OF FAME** | **W** | **L** | **D** |
+| Jon Finkel | 1 | 0 | 0 |
+| Darwin Kastle | 1 | 1 | 0 |
+| Tommi Hovi | 1 | 0 | 0 |
+| Alan Comer | 0 | 0 | 0 |
+| Olle Rade | 0 | 0 | 0 |
+| Bob Maher | 0 | 1 | 0 |
+| David Humpherys | 1 | 2 | 0 |
+| Raphael Levy | 1 | 2 | 0 |
+| Gary Wise | 1 | 0 | 0 |
+| Rob Dougherty | 0 | 0 | 0 |
+| Kai Budde | 1 | 1 | 0 |
+| Zvi Mowshowitz | 1 | 3 | 0 |
+| Nicolai Herzog | 0 | 1 | 0 |
+| Randy Buehler | 0 | 0 | 0 |
+|  |
+| **Career Total** | **8** | **11** | **0** |
+
+
+
+
+
+
+
+
+
+
+

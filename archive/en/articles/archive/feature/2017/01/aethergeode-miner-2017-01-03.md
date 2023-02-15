@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210516155229/https://magic.wizards.com/en/articles/archive/feature/aethergeode-miner-2017-01-03)
+[Link to Wayback Machine](https://web.archive.org/web/20170716123826/http://magic.wizards.com/en/articles/archive/feature/aethergeode-miner-2017-01-03)
 
 [_metadata_:author]:- "Quinn Murphy"
 [_metadata_:description]:- "Quinn previews a resourceful card from Aether Revolt that does its part to eke out greater value from the rest of your deck."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2017-01-03"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aethergeode Miner"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-16 15:52:29"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210516155229id_/https://magic.wizards.com/en/articles/archive/feature/aethergeode-miner-2017-01-03"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aethergeode-miner-2017-01-03"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-16 12:38:26"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170716123826id_/http://magic.wizards.com/en/articles/archive/feature/aethergeode-miner-2017-01-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aethergeode-miner-2017-01-03"
 ---
 
 

@@ -1,16 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170816063709/http://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0)
+[Link to Wayback Machine](https://web.archive.org/web/20220704210918/https://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0)
 
 [_metadata_:author]:- "Jeremy Jarvis"
+[_metadata_:description]:- "The last five guilds. We had a lot of ready-to-go assets from the concept push as well as from the original Ravnica block. Aleksi, Wayne, Pete, Sam, and Richard had nailed down many great ideas and several final drawings for the Gatecrash guilds during the concept push, but, admittedly, those guilds were lower priority. While we wanted to accomplish as much as possible for all"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "682181"
 [_metadata_:publish_date]:- "2013-01-23"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Art of Gatecrash"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-16 06:37:09"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816063709id_/http://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-04 21:09:18"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704210918id_/https://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0"
 ---
 
 
@@ -75,22 +76,22 @@ Richard came up with some of my favorite new gags in the entire block here... re
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_291.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_303.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_almsbeast.jpg)
-[Alms Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Alms+Beast) | Art by [Dan Scott](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Dan%20Scott%22%5D)
+[Alms Beast](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Alms+Beast) | Art by [Dan Scott](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Dan%20Scott%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_basilicaguards.jpg)
-[Basilica Guards](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basilica+Guards) | Art by [Dan Scott](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Dan%20Scott%22%5D)
+[Basilica Guards](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Basilica+Guards) | Art by [Dan Scott](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Dan%20Scott%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_cremate.jpg)
-[Cremate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cremate) | Art by [Cynthia Sheppard](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Cynthia%20Sheppard%22%5D)
+[Cremate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cremate) | Art by [Cynthia Sheppard](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Cynthia%20Sheppard%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_cartel_aristocrat.jpg)
-[Cartel Aristocrat](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cartel+Aristocrat) | Art by [James Ryman](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22James%20Ryman%22%5D)
+[Cartel Aristocrat](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cartel+Aristocrat) | Art by [James Ryman](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22James%20Ryman%22%5D)
 
 
 
@@ -99,17 +100,17 @@ Richard came up with some of my favorite new gags in the entire block here... re
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_deathpactangel.jpg)
-[Deathpact Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deathpact+Angel) | Art by [Jason Chan](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Jason%20Chan%22%5D)
+[Deathpact Angel](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deathpact+Angel) | Art by [Jason Chan](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Jason%20Chan%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_highpriestofpenance.jpg)
-[High Priest of Penance](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=High+Priest+of+Penance) | Art by [Mark Zug](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Mark%20Zug%22%5D)
+[High Priest of Penance](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=High+Priest+of+Penance) | Art by [Mark Zug](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Mark%20Zug%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_blindobedience.jpg)
-[Blind Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blind+Obedience) | Art by [Seb McKinnon](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Seb%20McKinnon%22%5D)
+[Blind Obedience](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blind+Obedience) | Art by [Seb McKinnon](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Seb%20McKinnon%22%5D)
 
 
 
@@ -129,12 +130,12 @@ MOAR OPULANCE! It's more difficult than you think to convey both piety and back-
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_302b.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_orzhovguildgate.jpg)
-[Orzhov Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orzhov+Guildgate) | Art by [John Avon](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22John%20Avon%22%5D)
+[Orzhov Guildgate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orzhov+Guildgate) | Art by [John Avon](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22John%20Avon%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_godlessshrine.jpg)
-[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Godless+Shrine) | Art by [Cliff Childs](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Cliff%20Childs%22%5D)
+[Godless Shrine](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Godless+Shrine) | Art by [Cliff Childs](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Cliff%20Childs%22%5D)
 
 
 
@@ -165,7 +166,7 @@ The House Dimir is now known and even has a public-facing presence and some leve
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_banealleybroker.jpg)
-[Bane Alley Broker](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bane+Alley+Broker) | Art by [Clint Cearley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Clint%20Cearley%22%5D)
+[Bane Alley Broker](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bane+Alley+Broker) | Art by [Clint Cearley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Clint%20Cearley%22%5D)
 
 
 
@@ -180,17 +181,17 @@ Their true motives and activities are, of course, still mostly nefarious. With t
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_311.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat213_213b_315.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_assassinsstrike.jpg)
-[Assassin's Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Assassin%27s+Strike) | Art by [Chase Stone](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Chase%20Stone%22%5D)
+[Assassin's Strike](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Assassin%27s+Strike) | Art by [Chase Stone](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Chase%20Stone%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_wayofthethief.jpg)
-[Way of the Thief](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Way+of+the+Thief) | Art by [Igor Kieryluk](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Igor%20Kieryluk%22%5D)
+[Way of the Thief](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Way+of+the+Thief) | Art by [Igor Kieryluk](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Igor%20Kieryluk%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_mentalvapors.jpg)
-[Mental Vapors](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mental+Vapors) | Art by [Mark Winters](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Mark%20Winters%22%5D)
+[Mental Vapors](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mental+Vapors) | Art by [Mark Winters](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Mark%20Winters%22%5D)
 
 
 
@@ -210,7 +211,7 @@ We decided not to have an outside Dimir architecture look, but rather some defin
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_321.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_waterygrave.jpg)
-[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Watery+Grave) | Art by [Raymond Swanland](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Raymond%20Swanland%22%5D)
+[Watery Grave](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Watery+Grave) | Art by [Raymond Swanland](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Raymond%20Swanland%22%5D)
 
 
 
@@ -218,7 +219,7 @@ What does Dimir architecture look like from the outside? A dark alley that you s
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_dimirguildgate.jpg)
-[Dimir Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dimir+Guildgate) | Art by [Cliff Childs](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Cliff%20Childs%22%5D)
+[Dimir Guildgate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dimir+Guildgate) | Art by [Cliff Childs](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Cliff%20Childs%22%5D)
 
 
 
@@ -242,29 +243,29 @@ Barbaric and a feeling of being antiestablishment certainly came through.
 
 
 
- Again, "street readiness." We didn't want to push it too far, but we did want to add some level of plausibility that they live on a plane covered in architecture. Mostly, we looked for opportunities for the Gruul to wear things and wield things that helped place them in an urban setting: scavenged armor elements from other guilds, broken pieces of buildings, etc. [Borborygmos](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Borborygmos) already did this with his bracer made of shields; we simply tried to push similar ideas into a guild-wide sensibility. 
+ Again, "street readiness." We didn't want to push it too far, but we did want to add some level of plausibility that they live on a plane covered in architecture. Mostly, we looked for opportunities for the Gruul to wear things and wield things that helped place them in an urban setting: scavenged armor elements from other guilds, broken pieces of buildings, etc. [Borborygmos](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Borborygmos) already did this with his bracer made of shields; we simply tried to push similar ideas into a guild-wide sensibility. 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_345.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_355.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_342.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat213b_rubblebeltraiders.jpg)
-[Rubblebelt Raiders](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rubblebelt+Raiders) | Art by [Chippy](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Chippy%22%5D)
+[Rubblebelt Raiders](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rubblebelt+Raiders) | Art by [Chippy](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Chippy%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat213b_predatorsrapport.jpg)
-[Predator's Rapport](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Predator%27s+Rapport) | Art by [Matt Stewart](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Matt%20Stewart%22%5D)
+[Predator's Rapport](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Predator%27s+Rapport) | Art by [Matt Stewart](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Matt%20Stewart%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat213b_scabclancharger.jpg)
-[Scab-Clan Charger](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scab-Clan+Charger) | Art by [Nils Hamm](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Cliff%20Childs%22%5D)
+[Scab-Clan Charger](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scab-Clan+Charger) | Art by [Nils Hamm](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Cliff%20Childs%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat213b_alphaauthority.jpg)
-[Alpha Authority](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Alpha+Authority) | Art by [Dave Kendall](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Dave%20Kendall%22%5D)
+[Alpha Authority](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Alpha+Authority) | Art by [Dave Kendall](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Dave%20Kendall%22%5D)
 
 
 
@@ -272,7 +273,7 @@ Barbaric and a feeling of being antiestablishment certainly came through.
 [![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat213b_domrirade_small.jpg)](http://media.wizards.com/images/magic/daily/features/feat213b_domrirade_large.jpg)
  Click to Enlarge 
 
-[Domri Rade](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Domri+Rade) | Art by [Tyler Jacobson](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Tyler%20Jacobson%22%5D)
+[Domri Rade](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Domri+Rade) | Art by [Tyler Jacobson](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Tyler%20Jacobson%22%5D)
 
 
 
@@ -288,12 +289,12 @@ Barbaric and a feeling of being antiestablishment certainly came through.
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat213b_354.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat213b_gruulguildgate.jpg)
-[Gruul Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gruul+Guildgate) | Art by [Randy Gallegos](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Randy%20Gallegos%22%5D)
+[Gruul Guildgate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gruul+Guildgate) | Art by [Randy Gallegos](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Randy%20Gallegos%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat213b_stompingground.jpg)
-[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stomping+Ground) | Art by [David Palumbo](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22David%20Palumbo%22%5D)
+[Stomping Ground](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stomping+Ground) | Art by [David Palumbo](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22David%20Palumbo%22%5D)
 
 
 
@@ -327,22 +328,22 @@ I felt that the existing design motifs of both armor and the little architecture
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_truefirepaladin.jpg)
-[Truefire Paladin](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Truefire+Paladin) | Art by [Michael C. Hayes](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Michael%20C.%20Hayes%22%5D)
+[Truefire Paladin](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Truefire+Paladin) | Art by [Michael C. Hayes](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Michael%20C.%20Hayes%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_assemblethelegion.jpg)
-[Assemble the Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Assemble+the+Legion) | Art by [Eric Deschamps](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Eric%20Deschamps%22%5D)
+[Assemble the Legion](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Assemble+the+Legion) | Art by [Eric Deschamps](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Eric%20Deschamps%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_boroselite.jpg)
-[Boros Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boros+Elite) | Art by [William Murai](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22William%20Murai%22%5D)
+[Boros Elite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boros+Elite) | Art by [William Murai](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22William%20Murai%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_arrowofjustice.jpg)
-[Arrows of Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrows+of+Justice) | Art by [James Ryman](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22James%20Ryman%22%5D)
+[Arrows of Justice](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrows+of+Justice) | Art by [James Ryman](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22James%20Ryman%22%5D)
 
 
 
@@ -363,12 +364,12 @@ We needed to "double down" on Boros... add variety but within an even more delib
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_331b.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_332.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_borosguildgate.jpg)
-[Boros Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boros+Guildgate) | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Noah%20Bradley%22%5D)
+[Boros Guildgate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boros+Guildgate) | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Noah%20Bradley%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_sacredfoundry.jpg)
-[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sacred+Foundry) | Art by [Sam Burley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Sam%20Burley%22%5D)
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sacred+Foundry) | Art by [Sam Burley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Sam%20Burley%22%5D)
 
 
 
@@ -408,7 +409,7 @@ Simic came together in the most time-consuming and, frankly, frustrating way pos
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_368.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_369a.jpg)  
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat213b_zameckguildmage.jpg)
-[Zameck Guildmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zameck+Guildmage) | Art by [Chase Stone](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Chase%20Stone%22%5D)
+[Zameck Guildmage](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zameck+Guildmage) | Art by [Chase Stone](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Chase%20Stone%22%5D)
 
 
 
@@ -417,22 +418,22 @@ Simic came together in the most time-consuming and, frankly, frustrating way pos
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_simicfluxmage.jpg)
-[Simic Fluxmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Simic+Fluxmage) | Art by [Karl Kopinski](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Karl%20Kopinski%22%5D)
+[Simic Fluxmage](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Simic+Fluxmage) | Art by [Karl Kopinski](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Karl%20Kopinski%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_simicmanipulator.jpg)
-[Simic Manipulator](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Simic+Manipulator) | Art by [Maciej Kuciara](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Maciej%20Kuciara%22%5D)
+[Simic Manipulator](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Simic+Manipulator) | Art by [Maciej Kuciara](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Maciej%20Kuciara%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_unexpectedresults.jpg)
-[Unexpected Results](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unexpected+Results) | Art by [Mike Bierek](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Mike%20Bierek%22%5D)
+[Unexpected Results](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unexpected+Results) | Art by [Mike Bierek](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Mike%20Bierek%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_shambleshark.jpg)
-[Shambleshark](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shambleshark) | Art by [Wesley Burt](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Wesley%20Burt%22%5D)
+[Shambleshark](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shambleshark) | Art by [Wesley Burt](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Wesley%20Burt%22%5D)
 
 
 
@@ -452,12 +453,12 @@ Simic came together in the most time-consuming and, frankly, frustrating way pos
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat213b_breedingpool.jpg)
-[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Breeding+Pool) | Art by [Mike Bierek](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Mike%20Bierek%22%5D)
+[Breeding Pool](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Breeding+Pool) | Art by [Mike Bierek](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Mike%20Bierek%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_simicguildgate.jpg)
-[Simic Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Simic+Guildgate) | Art by [Svetlin Velinov](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Svetlin%20Velinov%22%5D)
+[Simic Guildgate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Simic+Guildgate) | Art by [Svetlin Velinov](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Svetlin%20Velinov%22%5D)
 
 
 
@@ -498,42 +499,42 @@ We also cranked out a few armor examples for Ravnican soldiers:
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_crosstowncurrier.jpg)
-[Crosstown Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crosstown+Courier) | Art by [Chase Stone](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Chase%20Stone%22%5D)
+[Crosstown Courier](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crosstown+Courier) | Art by [Chase Stone](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Chase%20Stone%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_stealerofsecrets.jpg)
-[Stealer of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stealer+of+Secrets) | Art by [Michael C. Hayes](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Michael%20C.%20Hayes%22%5D)
+[Stealer of Secrets](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stealer+of+Secrets) | Art by [Michael C. Hayes](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Michael%20C.%20Hayes%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_axebaneguardian.jpg)
-[Axebane Guardian](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Axebane+Guardian) | Art by [Slawomir Maniak](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Slawomir%20Maniak%22%5D)
+[Axebane Guardian](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Axebane+Guardian) | Art by [Slawomir Maniak](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Slawomir%20Maniak%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_verdanthaven.jpg)
-[Verdant Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Verdant+Haven) | Art by [Daniel Ljunggren](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Daniel%20Ljunggren%22%5D)
+[Verdant Haven](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Verdant+Haven) | Art by [Daniel Ljunggren](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Daniel%20Ljunggren%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_slatestreetruffian.jpg)
-[Slate Street Ruffian](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slate+Street+Ruffian) | Art by [Jim Murray](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Jim%20Murray%22%5D)
+[Slate Street Ruffian](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Slate+Street+Ruffian) | Art by [Jim Murray](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Jim%20Murray%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_holymantle.jpg)
-[Holy Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Holy+Mantle) | Art by [Maciej Kuciara](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Maciej%20Kuciara%22%5D)
+[Holy Mantle](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Holy+Mantle) | Art by [Maciej Kuciara](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Maciej%20Kuciara%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_righteouscharge.jpg)
-[Righteous Charge](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Righteous+Charge) | Art by [Svetlin Velinov](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Svetlin%20Velinov%22%5D)
+[Righteous Charge](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Righteous+Charge) | Art by [Svetlin Velinov](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Svetlin%20Velinov%22%5D)
 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/features/feat231b_ivylanedenizen.jpg)
-[Ivy Lane Denizen](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ivy+Lane+Denizen) | Art by [Winona Nelson](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Winona%20Nelson%22%5D)
+[Ivy Lane Denizen](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ivy+Lane+Denizen) | Art by [Winona Nelson](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Winona%20Nelson%22%5D)
 
 
 

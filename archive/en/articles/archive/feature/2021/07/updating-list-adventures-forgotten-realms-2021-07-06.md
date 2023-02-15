@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210706161025/https://magic.wizards.com/en/articles/archive/feature/updating-list-adventures-forgotten-realms-2021-07-06)
+[Link to Wayback Machine](https://web.archive.org/web/20210708123452/https://magic.wizards.com/en/articles/archive/feature/updating-list-adventures-forgotten-realms-2021-07-06?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "See what's new in The List, and what you can find in Adventures in the Forgotten Realms Set Boosters."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-07-06"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Updating The List for Adventures in the Forgotten Realms"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-06 16:10:25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210706161025id_/https://magic.wizards.com/en/articles/archive/feature/updating-list-adventures-forgotten-realms-2021-07-06"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/updating-list-adventures-forgotten-realms-2021-07-06"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-08 12:34:52"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210708123452id_/https://magic.wizards.com/en/articles/archive/feature/updating-list-adventures-forgotten-realms-2021-07-06?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/updating-list-adventures-forgotten-realms-2021-07-06?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

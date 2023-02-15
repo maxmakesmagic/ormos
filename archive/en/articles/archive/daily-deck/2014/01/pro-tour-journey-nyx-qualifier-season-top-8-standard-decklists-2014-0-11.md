@@ -1,0 +1,3801 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20211025102720/https://magic.wizards.com/en/articles/archive/daily-deck/pro-tour-journey-nyx-qualifier-season-top-8-standard-decklists-2014-0-11)
+
+[_metadata_:description]:- "Pro Tour Journey into Nyx Qualifier Season Top 8 DecklistsThanks to tournament organizer Steve Madden for the decklists.[decklist] Title: Jonathon Hickerson 1 Nykthos, Shrine to Nyx 4 Mutavault 20 Island 4 Judge's Familiar 4 Cloudfin Raptor 4 Frostburn Weird 4 Tidebinder Mage 4 Nightveil Specter 4 Thassa, God of the Sea 4 Master of Waves 2 Bident of Thassa 1 Domestication 2"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "207246"
+[_metadata_:publish_date]:- "2014-01-30"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Pro Tour Journey Into Nyx Qualifier Season: Top 8 Standard Decklists"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 10:27:20"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025102720id_/https://magic.wizards.com/en/articles/archive/daily-deck/pro-tour-journey-nyx-qualifier-season-top-8-standard-decklists-2014-0-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/daily-deck/pro-tour-journey-nyx-qualifier-season-top-8-standard-decklists-2014-0-11"
+---
+
+
+Pro Tour Journey Into Nyx Qualifier Season: Top 8 Standard Decklists
+====================================================================
+
+
+
+ Posted in **Daily Deck**
+ on January 30, 2014 
+
+
+
+
+
+
+
+
+
+
+* [**Pro Tour *Journey into Nyx* Qualifier Season Top 8 Decklists**](http://archive.wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/journeyintonyx14ptq/welcome)
+
+*Thanks to tournament organizer Steve Madden for the decklists.*
+
+
+
+
+
+
+
+#### Jonathon Hickerson
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (1)
+
+
+
+1
+[Jace, Architect of Thought](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D)
+
+
+
+##### Creature (28)
+
+
+
+4
+[Judge's Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJudge%5D+%5BFamiliar%5D)
+
+
+4
+[Cloudfin Raptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudfin%5D+%5BRaptor%5D)
+
+
+4
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+4
+[Tidebinder Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTidebinder%5D+%5BMage%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Thassa, God of the Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BSea%5D)
+
+
+4
+[Master of Waves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5Bof%5D+%5BWaves%5D)
+
+
+
+##### Instant (3)
+
+
+
+2
+[Rapid Hybridization](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BHybridization%5D)
+
+
+1
+[Cyclonic Rift](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCyclonic%5D+%5BRift%5D)
+
+
+
+##### Artifact (2)
+
+
+
+2
+[Bident of Thassa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBident%5D+%5Bof%5D+%5BThassa%5D)
+
+
+
+##### Enchantment (1)
+
+
+
+1
+[Domestication](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDomestication%5D)
+
+
+
+##### Land (25)
+
+
+
+1
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+20
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Bident of Thassa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBident%5D+%5Bof%5D+%5BThassa%5D)
+
+
+2
+[Domestication](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDomestication%5D)
+
+
+1
+[Rapid Hybridization](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BHybridization%5D)
+
+
+2
+[Jace, Architect of Thought](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D)
+
+
+1
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+3
+[Dissolve](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+4
+[Gainsay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+1
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+
+##### Blue (38)
+
+
+
+4
+[Cloudfin Raptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudfin%5D+%5BRaptor%5D)
+
+
+4
+[Tidebinder Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTidebinder%5D+%5BMage%5D)
+
+
+4
+[Thassa, God of the Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BSea%5D)
+
+
+4
+[Master of Waves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5Bof%5D+%5BWaves%5D)
+
+
+3
+[Bident of Thassa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBident%5D+%5Bof%5D+%5BThassa%5D)
+
+
+3
+[Domestication](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDomestication%5D)
+
+
+3
+[Rapid Hybridization](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BHybridization%5D)
+
+
+1
+[Cyclonic Rift](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCyclonic%5D+%5BRift%5D)
+
+
+3
+[Jace, Architect of Thought](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D)
+
+
+1
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+3
+[Dissolve](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+4
+[Gainsay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+1
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Multi colored (12)
+
+
+
+4
+[Judge's Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJudge%5D+%5BFamiliar%5D)
+
+
+4
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+
+##### Colorless (25)
+
+
+
+1
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+20
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (12)
+
+
+
+4
+[Judge's Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJudge%5D+%5BFamiliar%5D)
+
+
+4
+[Cloudfin Raptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudfin%5D+%5BRaptor%5D)
+
+
+3
+[Rapid Hybridization](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BHybridization%5D)
+
+
+1
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+
+##### 2 (14)
+
+
+
+4
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+4
+[Tidebinder Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTidebinder%5D+%5BMage%5D)
+
+
+1
+[Cyclonic Rift](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCyclonic%5D+%5BRift%5D)
+
+
+4
+[Gainsay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+1
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### 3 (11)
+
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Thassa, God of the Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BSea%5D)
+
+
+3
+[Dissolve](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+
+##### 4 (13)
+
+
+
+4
+[Master of Waves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5Bof%5D+%5BWaves%5D)
+
+
+3
+[Bident of Thassa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBident%5D+%5Bof%5D+%5BThassa%5D)
+
+
+3
+[Domestication](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDomestication%5D)
+
+
+3
+[Jace, Architect of Thought](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D)
+
+
+50 Cards 
+
+
+
+##### Common (32)
+
+
+
+20
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Cloudfin Raptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudfin%5D+%5BRaptor%5D)
+
+
+4
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+1
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+3
+[Dissolve](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+
+##### Uncommon (12)
+
+
+
+4
+[Judge's Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJudge%5D+%5BFamiliar%5D)
+
+
+3
+[Rapid Hybridization](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BHybridization%5D)
+
+
+4
+[Gainsay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+1
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Rare (20)
+
+
+
+1
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Tidebinder Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTidebinder%5D+%5BMage%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+3
+[Bident of Thassa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBident%5D+%5Bof%5D+%5BThassa%5D)
+
+
+3
+[Domestication](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDomestication%5D)
+
+
+1
+[Cyclonic Rift](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCyclonic%5D+%5BRift%5D)
+
+
+
+##### Mythic (11)
+
+
+
+4
+[Thassa, God of the Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BSea%5D)
+
+
+4
+[Master of Waves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5Bof%5D+%5BWaves%5D)
+
+
+3
+[Jace, Architect of Thought](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Nykthos%2C+Shrine+to+Nyx)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Ashford Smith
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (16)
+
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+4
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+
+##### Land (26)
+
+
+
+3
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+2
+[Temple of Mystery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMystery%5D)
+
+
+4
+[Golgari Guildgate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGuildgate%5D)
+
+
+13
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+1
+[Gaze of Granite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaze%5D+%5Bof%5D+%5BGranite%5D)
+
+
+2
+[Mistcutter Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+3
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+
+
+##### Black (36)
+
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+3
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+
+##### Green (2)
+
+
+
+2
+[Mistcutter Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+
+##### Multi colored (11)
+
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+2
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+4
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+1
+[Gaze of Granite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaze%5D+%5Bof%5D+%5BGranite%5D)
+
+
+
+##### Colorless (26)
+
+
+
+3
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+2
+[Temple of Mystery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMystery%5D)
+
+
+4
+[Golgari Guildgate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGuildgate%5D)
+
+
+13
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (11)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Mistcutter Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+
+##### 2 (15)
+
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+2
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+4
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+2
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+3
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+
+##### 3 (13)
+
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+1
+[Gaze of Granite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaze%5D+%5Bof%5D+%5BGranite%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+49 Cards 
+
+
+
+##### Common (36)
+
+
+
+4
+[Golgari Guildgate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGuildgate%5D)
+
+
+13
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+
+##### Uncommon (5)
+
+
+
+2
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+
+##### Rare (32)
+
+
+
+3
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+2
+[Temple of Mystery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMystery%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+1
+[Gaze of Granite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaze%5D+%5Bof%5D+%5BGranite%5D)
+
+
+2
+[Mistcutter Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+
+##### Mythic (2)
+
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mutavault)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Robbie Cordell
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (4)
+
+
+
+2
+[Chandra, Pyromaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BPyromaster%5D)
+
+
+2
+[Elspeth, Sun's Champion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### Creature (18)
+
+
+
+4
+[Burning-Tree Emissary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BEmissary%5D)
+
+
+4
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+4
+[Stormbreath Dragon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+2
+[Purphoros, God of the Forge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurphoros,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D)
+
+
+
+##### Sorcery (5)
+
+
+
+2
+[Anger of the Gods](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+3
+[Mizzium Mortars](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMizzium%5D+%5BMortars%5D)
+
+
+
+##### Artifact (2)
+
+
+
+2
+[Hammer of Purphoros](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHammer%5D+%5Bof%5D+%5BPurphoros%5D)
+
+
+
+##### Enchantment (5)
+
+
+
+4
+[Chained to the Rocks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChained%5D+%5Bto%5D+%5Bthe%5D+%5BRocks%5D)
+
+
+1
+[Assemble the Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssemble%5D+%5Bthe%5D+%5BLegion%5D)
+
+
+
+##### Land (26)
+
+
+
+4
+[Temple of Triumph](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+4
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+4
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+1
+[Boros Guildgate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BGuildgate%5D)
+
+
+13
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Anger of the Gods](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Assemble the Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssemble%5D+%5Bthe%5D+%5BLegion%5D)
+
+
+3
+[Warleader's Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarleader%5D+%5BHelix%5D)
+
+
+4
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+1
+[Glare of Heresy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+1
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Wear // Tear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D)
+
+
+
+
+##### White (9)
+
+
+
+4
+[Chained to the Rocks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChained%5D+%5Bto%5D+%5Bthe%5D+%5BRocks%5D)
+
+
+2
+[Elspeth, Sun's Champion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Glare of Heresy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Wear // Tear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D)
+
+
+
+##### Red (17)
+
+
+
+4
+[Stormbreath Dragon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+2
+[Purphoros, God of the Forge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurphoros,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D)
+
+
+2
+[Hammer of Purphoros](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHammer%5D+%5Bof%5D+%5BPurphoros%5D)
+
+
+4
+[Anger of the Gods](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+3
+[Mizzium Mortars](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMizzium%5D+%5BMortars%5D)
+
+
+2
+[Chandra, Pyromaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BPyromaster%5D)
+
+
+
+##### Multi colored (22)
+
+
+
+4
+[Burning-Tree Emissary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BEmissary%5D)
+
+
+4
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+3
+[Assemble the Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssemble%5D+%5Bthe%5D+%5BLegion%5D)
+
+
+3
+[Warleader's Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarleader%5D+%5BHelix%5D)
+
+
+4
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+
+##### Colorless (27)
+
+
+
+4
+[Temple of Triumph](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+4
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+4
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+1
+[Boros Guildgate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BGuildgate%5D)
+
+
+13
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+4
+[Chained to the Rocks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChained%5D+%5Bto%5D+%5Bthe%5D+%5BRocks%5D)
+
+
+2
+[Wear // Tear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D)
+
+
+
+##### 2 (17)
+
+
+
+4
+[Burning-Tree Emissary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BEmissary%5D)
+
+
+4
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+3
+[Mizzium Mortars](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMizzium%5D+%5BMortars%5D)
+
+
+4
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+1
+[Glare of Heresy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+1
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+
+##### 3 (10)
+
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+2
+[Hammer of Purphoros](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHammer%5D+%5Bof%5D+%5BPurphoros%5D)
+
+
+4
+[Anger of the Gods](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+
+##### 4 (7)
+
+
+
+2
+[Purphoros, God of the Forge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurphoros,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D)
+
+
+2
+[Chandra, Pyromaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BPyromaster%5D)
+
+
+3
+[Warleader's Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarleader%5D+%5BHelix%5D)
+
+
+
+##### 5 (7)
+
+
+
+4
+[Stormbreath Dragon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+3
+[Assemble the Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssemble%5D+%5Bthe%5D+%5BLegion%5D)
+
+
+
+##### 6 (2)
+
+
+
+2
+[Elspeth, Sun's Champion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+49 Cards 
+
+
+
+##### Common (22)
+
+
+
+1
+[Boros Guildgate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BGuildgate%5D)
+
+
+13
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+4
+[Anger of the Gods](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+
+##### Uncommon (14)
+
+
+
+4
+[Burning-Tree Emissary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BEmissary%5D)
+
+
+3
+[Warleader's Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarleader%5D+%5BHelix%5D)
+
+
+4
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+1
+[Glare of Heresy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Wear // Tear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D)
+
+
+
+##### Rare (29)
+
+
+
+4
+[Temple of Triumph](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+4
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+4
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+4
+[Boros Reckoner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BReckoner%5D)
+
+
+4
+[Chained to the Rocks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChained%5D+%5Bto%5D+%5Bthe%5D+%5BRocks%5D)
+
+
+2
+[Hammer of Purphoros](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHammer%5D+%5Bof%5D+%5BPurphoros%5D)
+
+
+3
+[Assemble the Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssemble%5D+%5Bthe%5D+%5BLegion%5D)
+
+
+3
+[Mizzium Mortars](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMizzium%5D+%5BMortars%5D)
+
+
+1
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+
+##### Mythic (10)
+
+
+
+4
+[Stormbreath Dragon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+2
+[Purphoros, God of the Forge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurphoros,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D)
+
+
+2
+[Chandra, Pyromaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BPyromaster%5D)
+
+
+2
+[Elspeth, Sun's Champion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Temple+of+Triumph)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### George White
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (16)
+
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+2
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+
+##### Artifact (1)
+
+
+
+1
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+
+##### Land (25)
+
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+17
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+
+
+##### Black (45)
+
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+
+##### Multi colored (4)
+
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+
+##### Colorless (26)
+
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+17
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (10)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+
+##### 2 (15)
+
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+1
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+2
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+
+##### 3 (15)
+
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+50 Cards 
+
+
+
+##### Common (34)
+
+
+
+17
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (5)
+
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+
+##### Rare (34)
+
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+1
+[Ratchet Bomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+
+##### Mythic (2)
+
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mutavault)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Kyle Huckaby
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (16)
+
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+2
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+2
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+
+##### Artifact (1)
+
+
+
+1
+[Whip of Erebos](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+
+##### Land (25)
+
+
+
+3
+[Temple of Silence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+17
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+2
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+1
+[Shrivel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrivel%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+
+
+##### Black (46)
+
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Whip of Erebos](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+3
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+1
+[Shrivel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrivel%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+
+##### Multi colored (4)
+
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+
+##### Colorless (25)
+
+
+
+3
+[Temple of Silence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+17
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (10)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (14)
+
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+3
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+1
+[Shrivel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrivel%5D)
+
+
+
+##### 3 (15)
+
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+
+##### 4 (7)
+
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+1
+[Whip of Erebos](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+50 Cards 
+
+
+
+##### Common (36)
+
+
+
+17
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+3
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Shrivel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrivel%5D)
+
+
+
+##### Uncommon (5)
+
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+
+##### Rare (32)
+
+
+
+3
+[Temple of Silence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Whip of Erebos](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+
+##### Mythic (2)
+
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Temple+of+Silence)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Ben Dugan
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (24)
+
+
+
+4
+[Elvish Mystic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Lotleth Troll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotleth%5D+%5BTroll%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Dreg Mangler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreg%5D+%5BMangler%5D)
+
+
+4
+[Boon Satyr](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+3
+[Varolz, the Scar-Striped](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVarolz,%5D+%5Bthe%5D+%5BScar-Striped%5D)
+
+
+2
+[Polukranos, World Eater](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (8)
+
+
+
+3
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+2
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+
+##### Artifact (1)
+
+
+
+1
+[Bow of Nylea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBow%5D+%5Bof%5D+%5BNylea%5D)
+
+
+
+##### Land (23)
+
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+3
+[Golgari Guildgate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGuildgate%5D)
+
+
+8
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+8
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+3
+[Mistcutter Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+3
+[Skylasher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkylasher%5D)
+
+
+2
+[Gift of Orzhova](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGift%5D+%5Bof%5D+%5BOrzhova%5D)
+
+
+1
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+2
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+
+
+
+
+##### Black (10)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Green (20)
+
+
+
+4
+[Elvish Mystic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Boon Satyr](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+2
+[Polukranos, World Eater](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+1
+[Bow of Nylea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBow%5D+%5Bof%5D+%5BNylea%5D)
+
+
+3
+[Mistcutter Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+3
+[Skylasher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkylasher%5D)
+
+
+
+##### Multi colored (20)
+
+
+
+4
+[Lotleth Troll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotleth%5D+%5BTroll%5D)
+
+
+4
+[Dreg Mangler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreg%5D+%5BMangler%5D)
+
+
+3
+[Varolz, the Scar-Striped](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVarolz,%5D+%5Bthe%5D+%5BScar-Striped%5D)
+
+
+3
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+4
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+2
+[Gift of Orzhova](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGift%5D+%5Bof%5D+%5BOrzhova%5D)
+
+
+
+##### Colorless (25)
+
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+3
+[Golgari Guildgate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGuildgate%5D)
+
+
+8
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+8
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (14)
+
+
+
+4
+[Elvish Mystic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Mistcutter Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+1
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+
+
+
+##### 2 (19)
+
+
+
+4
+[Lotleth Troll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotleth%5D+%5BTroll%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+3
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+4
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+3
+[Skylasher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkylasher%5D)
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (17)
+
+
+
+4
+[Dreg Mangler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreg%5D+%5BMangler%5D)
+
+
+4
+[Boon Satyr](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+3
+[Varolz, the Scar-Striped](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVarolz,%5D+%5Bthe%5D+%5BScar-Striped%5D)
+
+
+3
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Bow of Nylea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBow%5D+%5Bof%5D+%5BNylea%5D)
+
+
+2
+[Gift of Orzhova](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGift%5D+%5Bof%5D+%5BOrzhova%5D)
+
+
+
+##### 4 (2)
+
+
+
+2
+[Polukranos, World Eater](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+52 Cards 
+
+
+
+##### Common (30)
+
+
+
+3
+[Golgari Guildgate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGuildgate%5D)
+
+
+8
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+8
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Elvish Mystic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+
+##### Uncommon (13)
+
+
+
+4
+[Dreg Mangler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreg%5D+%5BMangler%5D)
+
+
+4
+[Golgari Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+2
+[Gift of Orzhova](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGift%5D+%5Bof%5D+%5BOrzhova%5D)
+
+
+1
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Rare (30)
+
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+4
+[Lotleth Troll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotleth%5D+%5BTroll%5D)
+
+
+3
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Boon Satyr](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+3
+[Varolz, the Scar-Striped](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVarolz,%5D+%5Bthe%5D+%5BScar-Striped%5D)
+
+
+3
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Bow of Nylea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBow%5D+%5Bof%5D+%5BNylea%5D)
+
+
+3
+[Mistcutter Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+3
+[Skylasher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkylasher%5D)
+
+
+2
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+
+
+
+##### Mythic (2)
+
+
+
+2
+[Polukranos, World Eater](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Overgrown+Tomb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Vincent Lanceford
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (16)
+
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (10)
+
+
+
+3
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+1
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+
+##### Land (26)
+
+
+
+18
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+
+##### Black (45)
+
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+3
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+1
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Multi colored (4)
+
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+
+##### Colorless (26)
+
+
+
+18
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (10)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (14)
+
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+3
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+1
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+
+##### 3 (15)
+
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+49 Cards 
+
+
+
+##### Common (36)
+
+
+
+18
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+3
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (4)
+
+
+
+1
+[Ultimate Price](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+
+##### Rare (33)
+
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+
+##### Mythic (2)
+
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Swamp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Auston Tramper
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (16)
+
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+4
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+
+##### Land (26)
+
+
+
+4
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+18
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+
+
+##### Black (45)
+
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+4
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+
+##### Multi colored (4)
+
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+
+##### Colorless (26)
+
+
+
+4
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+18
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (10)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (14)
+
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+4
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+
+##### 3 (15)
+
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+49 Cards 
+
+
+
+##### Common (37)
+
+
+
+18
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Gray Merchant of Asphodel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGray%5D+%5BMerchant%5D+%5Bof%5D+%5BAsphodel%5D)
+
+
+4
+[Pharika's Cure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+4
+[Devour Flesh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (3)
+
+
+
+3
+[Dark Betrayal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+
+##### Rare (33)
+
+
+
+4
+[Temple of Deceit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Nightveil Specter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightveil%5D+%5BSpecter%5D)
+
+
+4
+[Pack Rat](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPack%5D+%5BRat%5D)
+
+
+4
+[Desecration Demon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDesecration%5D+%5BDemon%5D)
+
+
+4
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Underworld Connections](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderworld%5D+%5BConnections%5D)
+
+
+2
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+3
+[Lifebane Zombie](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifebane%5D+%5BZombie%5D)
+
+
+
+##### Mythic (2)
+
+
+
+2
+[Erebos, God of the Dead](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErebos,%5D+%5BGod%5D+%5Bof%5D+%5Bthe%5D+%5BDead%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Temple+of+Deceit)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

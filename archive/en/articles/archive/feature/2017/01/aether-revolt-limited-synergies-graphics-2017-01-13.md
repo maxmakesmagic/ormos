@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170115193137/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-limited-synergies-graphics-2017-01-13)
+[Link to Wayback Machine](https://web.archive.org/web/20210502031556/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-limited-synergies-graphics-2017-01-13)
 
 [_metadata_:author]:- "Diego Fumagalli"
 [_metadata_:description]:- "Diego illustrates a few synergies you can make use of in Aether Revolt Limited!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2017-01-13"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aether Revolt Limited Synergies—In Graphics"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-15 19:31:37"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170115193137id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-limited-synergies-graphics-2017-01-13"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-limited-synergies-graphics-2017-01-13"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 03:15:56"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502031556id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-limited-synergies-graphics-2017-01-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-revolt-limited-synergies-graphics-2017-01-13"
 ---
 
 

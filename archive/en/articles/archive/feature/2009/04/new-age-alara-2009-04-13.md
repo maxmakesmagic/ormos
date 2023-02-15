@@ -6,6 +6,7 @@
 [_metadata_:description]:- "It's just about time for Alara Reborn to pour molten gold all over the world. Now we can tell the complete story of Alara, including the wartime role of a powerful angel you'll definitely want to meet, and the story of a demon whose memory of defeat stings him to this day. To understand the epic crescendo that's gathering force at the end of the story, however, we must first revisit the beginning."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "292836"
+[_metadata_:path_date]:- "2009-04-13"
 [_metadata_:publish_date]:- "2009-04-14"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A New Age for Alara"

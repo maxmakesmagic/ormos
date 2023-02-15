@@ -46,7 +46,7 @@ This week's desktop wallpaper is Scott M. Fischer's **[Pristine Angel](https://g
 
 
 
-![](https://web.archive.org/web/20150922152946im_/http://archive.wizards.com/global/images/mtgcom_arcana_556_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_PristineAngel_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_556_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_PristineAngel_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_PristineAngel_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_PristineAngel_800x600.jpg)
 

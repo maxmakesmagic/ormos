@@ -1,0 +1,662 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20160416193832/http://magic.wizards.com/en/articles/archive/daily-deck/standard-naya-prowess-2015-12-08)
+
+[_metadata_:author]:- "Melissa DeTora"
+[_metadata_:description]:- "Daily Decks presents a list from various formats (even some you may not have heard of), perfect for competitive and casual players."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "938466"
+[_metadata_:publish_date]:- "2015-12-08"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Standard Naya Prowess"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-16 19:38:32"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160416193832id_/http://magic.wizards.com/en/articles/archive/daily-deck/standard-naya-prowess-2015-12-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/daily-deck/standard-naya-prowess-2015-12-08"
+---
+
+
+Standard Naya Prowess
+=====================
+
+
+
+ Posted in **Daily Deck**
+ on December 8, 2015 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/Melissa_DeTora.jpg)
+By Melissa DeTora
+
+
+
+
+ A Magic Pro player and strategy writer, Melissa's career Top 8s include PT Gatecrash and 2 GPs. She's currently a member of the Wizards of the Coast coverage team. 
+
+
+
+
+
+
+Prowess made its debut in *Khans of Tarkir*, and since its inception, it has not only been promoted to evergreen keyword status, it has also been the backbone of many decks across multiple formats. [Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Monastery+Swiftspear) is a Modern all-star, and [Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Monastery+Mentor) is even popular in Vintage! Given the importance of spells in older formats, creatures that incentivize you to play more spells are very strong cards.
+
+
+Today's deck is a Standard deck that abuses the prowess mechanic. Kinkade took this deck to a 5-0 finish in the last *Magic Online* Standard League. Every creature in this deck has prowess, and creatures with prowess love noncreature spells. Specifically, creatures with prowess love combat tricks, and this deck has plenty of them. Combat tricks are mostly known for their impact in Limited games, and they don't really see much play in Constructed formats, but if all of your creatures get an extra bonus whenever a combat trick is cast, it really does make a big difference.
+
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Dromoka%27s+Command)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dromoka%27s+Command) [![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Temur+Battle+Rage)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temur+Battle+Rage)[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Monastery+Swiftspear)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Monastery+Swiftspear)
+Kinkade's list plays eleven one-mana spells that enhance creatures. [Defiant Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Defiant+Strike) and [Titan's Strength](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Titan%27s+Strength) are great here, as they either draw you a card or help set up a future draw, respectively. [Become Immense](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Become+Immense) costs six mana, but in a deck full of fetch lands and spells, casting it for one mana is quite common. Even [Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dromoka%27s+Command) acts as a combat trick in this deck, and sometimes it does so much more than that.
+
+
+The real kicker in this deck is [Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temur+Battle+Rage). This card does some powerful things when combined with prowess creatures and one-mana spells. For example, if you cast a [Titan's Strength](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Titan%27s+Strength), a [Defiant Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Defiant+Strike), and a [Temur Battle Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temur+Battle+Rage) on your Swiftspear, you are dealing 16 trample damage with only one creature!
+
+
+Another really cool card in this deck is [Myth Realized](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myth+Realized). Although it's an enchantment, it's actually a prowess creature in disguise. Every spell you cast while this is on the battlefield will give it a counter, and when you're ready you can turn it into a creature. This card plays around sweepers and sorcery-speed spot removal very nicely, and you can even add counters to it during turns where you don't have anything else to do.
+
+
+
+
+
+
+
+#### Kinkade's Naya Prowess
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (2)
+
+
+
+2
+[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon,%5D+%5BAlly%5D+%5Bof%5D+%5BZendikar%5D)
+
+
+
+##### Creature (13)
+
+
+
+4
+[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D)
+
+
+1
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+
+##### Instant (16)
+
+
+
+3
+[Become Immense](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBecome%5D+%5BImmense%5D)
+
+
+4
+[Defiant Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefiant%5D+%5BStrike%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+4
+[Temur Battle Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemur%5D+%5BBattle%5D+%5BRage%5D)
+
+
+4
+[Titan's Strength](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTitan%5D+%5BStrength%5D)
+
+
+
+##### Enchantment (6)
+
+
+
+4
+[Myth Realized](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyth%5D+%5BRealized%5D)
+
+
+2
+[Stasis Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStasis%5D+%5BSnare%5D)
+
+
+
+##### Land (23)
+
+
+
+4
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+1
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+1
+[Canopy Vista](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCanopy%5D+%5BVista%5D)
+
+
+1
+[Cinder Glade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCinder%5D+%5BGlade%5D)
+
+
+1
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+1
+[Felidar Cub](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFelidar%5D+%5BCub%5D)
+
+
+2
+[Fiery Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BImpulse%5D)
+
+
+3
+[Radiant Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFlames%5D)
+
+
+2
+[Rending Volley](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRending%5D+%5BVolley%5D)
+
+
+2
+[Silkwrap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkwrap%5D)
+
+
+2
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+
+##### White (24)
+
+
+
+4
+[Myth Realized](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyth%5D+%5BRealized%5D)
+
+
+1
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+4
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Defiant Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefiant%5D+%5BStrike%5D)
+
+
+2
+[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon,%5D+%5BAlly%5D+%5Bof%5D+%5BZendikar%5D)
+
+
+2
+[Stasis Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStasis%5D+%5BSnare%5D)
+
+
+1
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+1
+[Felidar Cub](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFelidar%5D+%5BCub%5D)
+
+
+2
+[Silkwrap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkwrap%5D)
+
+
+2
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### Red (23)
+
+
+
+4
+[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Temur Battle Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemur%5D+%5BBattle%5D+%5BRage%5D)
+
+
+4
+[Titan's Strength](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTitan%5D+%5BStrength%5D)
+
+
+2
+[Fiery Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BImpulse%5D)
+
+
+3
+[Radiant Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFlames%5D)
+
+
+2
+[Rending Volley](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRending%5D+%5BVolley%5D)
+
+
+
+##### Green (3)
+
+
+
+3
+[Become Immense](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBecome%5D+%5BImmense%5D)
+
+
+
+##### Multi colored (2)
+
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (23)
+
+
+
+4
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+1
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+1
+[Canopy Vista](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCanopy%5D+%5BVista%5D)
+
+
+1
+[Cinder Glade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCinder%5D+%5BGlade%5D)
+
+
+1
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (21)
+
+
+
+4
+[Myth Realized](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyth%5D+%5BRealized%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Defiant Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefiant%5D+%5BStrike%5D)
+
+
+4
+[Titan's Strength](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTitan%5D+%5BStrength%5D)
+
+
+1
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+2
+[Fiery Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BImpulse%5D)
+
+
+2
+[Rending Volley](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRending%5D+%5BVolley%5D)
+
+
+
+##### 2 (20)
+
+
+
+4
+[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D)
+
+
+4
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+4
+[Temur Battle Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemur%5D+%5BBattle%5D+%5BRage%5D)
+
+
+1
+[Felidar Cub](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFelidar%5D+%5BCub%5D)
+
+
+2
+[Silkwrap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkwrap%5D)
+
+
+2
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### 3 (6)
+
+
+
+1
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+2
+[Stasis Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStasis%5D+%5BSnare%5D)
+
+
+3
+[Radiant Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFlames%5D)
+
+
+
+##### 4 (2)
+
+
+
+2
+[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon,%5D+%5BAlly%5D+%5Bof%5D+%5BZendikar%5D)
+
+
+
+##### 6 (3)
+
+
+
+3
+[Become Immense](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBecome%5D+%5BImmense%5D)
+
+
+52 Cards 
+
+
+
+##### Common (23)
+
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Defiant Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefiant%5D+%5BStrike%5D)
+
+
+4
+[Temur Battle Rage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemur%5D+%5BBattle%5D+%5BRage%5D)
+
+
+4
+[Titan's Strength](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTitan%5D+%5BStrength%5D)
+
+
+1
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+1
+[Felidar Cub](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFelidar%5D+%5BCub%5D)
+
+
+2
+[Fiery Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BImpulse%5D)
+
+
+
+##### Uncommon (20)
+
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+3
+[Become Immense](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBecome%5D+%5BImmense%5D)
+
+
+2
+[Stasis Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStasis%5D+%5BSnare%5D)
+
+
+2
+[Rending Volley](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRending%5D+%5BVolley%5D)
+
+
+2
+[Silkwrap](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkwrap%5D)
+
+
+2
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### Rare (17)
+
+
+
+4
+[Myth Realized](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyth%5D+%5BRealized%5D)
+
+
+4
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Radiant Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFlames%5D)
+
+
+
+##### Mythic (15)
+
+
+
+1
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+1
+[Canopy Vista](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCanopy%5D+%5BVista%5D)
+
+
+1
+[Cinder Glade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCinder%5D+%5BGlade%5D)
+
+
+1
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+1
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+2
+[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon,%5D+%5BAlly%5D+%5Bof%5D+%5BZendikar%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Myth+Realized)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

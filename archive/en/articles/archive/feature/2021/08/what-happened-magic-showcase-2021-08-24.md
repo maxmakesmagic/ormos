@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210824162859/https://magic.wizards.com/en/articles/archive/feature/what-happened-magic-showcase-2021-08-24)
+[Link to Wayback Machine](https://web.archive.org/web/20210825021027/https://magic.wizards.com/en/articles/archive/feature/what-happened-magic-showcase-2021-08-24?fbclid=IwAR1S1wWSglMNjVGeNyOFBEGu9BUUnQxbpPy9XtU5V8NPEosi064ndae1Xz0)
 
 [_metadata_:author]:- "Adam Styborski"
 [_metadata_:description]:- "Dominaria United. Magic on Netflix. The expanding Universes Beyond. Here's everything from the Magic Showcase 2021 reveals!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-08-24"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "What Happened in Magic Showcase 2021?"
-[_metadata_:wayback_capture_timestamp]:- "2021-08-24 16:28:59"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210824162859id_/https://magic.wizards.com/en/articles/archive/feature/what-happened-magic-showcase-2021-08-24"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-happened-magic-showcase-2021-08-24"
+[_metadata_:wayback_capture_timestamp]:- "2021-08-25 02:10:27"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210825021027id_/https://magic.wizards.com/en/articles/archive/feature/what-happened-magic-showcase-2021-08-24?fbclid=IwAR1S1wWSglMNjVGeNyOFBEGu9BUUnQxbpPy9XtU5V8NPEosi064ndae1Xz0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-happened-magic-showcase-2021-08-24?fbclid=IwAR1S1wWSglMNjVGeNyOFBEGu9BUUnQxbpPy9XtU5V8NPEosi064ndae1Xz0"
 ---
 
 

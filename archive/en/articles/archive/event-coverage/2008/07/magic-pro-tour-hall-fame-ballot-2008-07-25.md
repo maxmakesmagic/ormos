@@ -1,0 +1,89 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20210503043704/https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-ballot-2008-07-25)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Ryuuichi Arita William Jensen Steven O'Mahoney-Schwartz Dirk Baberowski Scott Johns Wessel Oomens Chris Benafel Craig Jones Brock Parker Trevor Blackwell Mattias Jorstedt Chris Pikula Marco Blume Mark Justice David Price Noah Boeken Brian Kibler Michael Pustilnik David Brucker Benedikt Klauser Neil Reeves Franck Canu André Konstanczer Carlos Romão Patrick Chapin Janosch Kuhn"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "573631"
+[_metadata_:publish_date]:- "2008-07-25"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Magic Pro Tour Hall of Fame Ballot"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:37:04"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503043704id_/https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-ballot-2008-07-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-ballot-2008-07-25"
+---
+
+
+Magic Pro Tour Hall of Fame Ballot
+==================================
+
+
+
+ Posted in **Event Coverage**
+ on July 25, 2008 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |  |
+| --- | --- | --- |
+| Ryuuichi Arita | William Jensen | Steven O'Mahoney-Schwartz |
+| Dirk Baberowski | Scott Johns | Wessel Oomens |
+| Chris Benafel | Craig Jones | Brock Parker |
+| Trevor Blackwell | Mattias Jorstedt | Chris Pikula |
+| Marco Blume | Mark Justice | David Price |
+| Noah Boeken | Brian Kibler | Michael Pustilnik |
+| David Brucker | Benedikt Klauser | Neil Reeves |
+| Franck Canu | André Konstanczer | Carlos Romão |
+| Patrick Chapin | Janosch Kuhn | Kyle Rose |
+| Daniel Clegg | Masashiro Kuroda | Ben Rubin |
+| Sigurd Eskeland | Nicolas Labarre | Olivier Ruel |
+| Igor Frayman | John Larkin | Brian Selden |
+| Osamu Fujita | Mark Le Pine | Alex Shvartsman |
+| Ryan Fuller | Matt Linde | Jakub Slemr |
+| Donald Gallitz | Raffaele Lo Moro | Bram Snepvangers |
+| Justin Gary | Michael Long | Mike Thompson |
+| Gerardo Godinez Estrada | Pierre Malherbaud | Michael Turian |
+| Brian Hacker | Casey McCarrel | Trey Van Cleave |
+| Yann Hamon | Patrick Mello | Tom van de Logt |
+| Masami Ibamoto | Eivind Nitter | Tomi Walamies |
+| Tsuyoshi Ikeda | Jin Okamoto | Jelger Wiegersma |
+| Itaru Ishida | Daniel O'Mahoney-Schwartz | David Williams |
+
+### Removed from Ballot
+
+
+
+
+|  |  |  |
+| --- | --- | --- |
+| David Bachmann | Gary Krakower | Shawn "Hammer" Regnier |
+| Kurt Burgner | Peer Kröger | Gabriel Tsang |
+| Svend Geertsen | Peter Leiher | Terry Tsang |
+| Thomas Guevin | Satoshi Nakamura | Matthew Vienneau |
+
+
+
+
+
+
+

@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210502074947/https://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25)
+[Link to Wayback Machine](https://web.archive.org/web/20170604161753/http://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "From the Vault: ExiledIt is said there were once ﬁfteen Magic: The Gathering cards so potent, they were banned or restricted from the known realms of competition. But in the years that have passed, the game has evolved and these elder cards are once again in play. Master these weapons from ages past and give your opponent a beating of historic proportions.This exciting"
+[_metadata_:description]:- "From the Vault: ExiledIt is said there were once ﬁfteen Magic: The Gathering cards so potent, they were banned or restricted from the known realms of competition. But in the years that have passed, the game has evolved and these elder cards are once again in play. Master these weapons from ages past and give your opponent a beating of historic proportions."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "635556"
 [_metadata_:publish_date]:- "2009-08-25"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Coming Soon to Magic Online"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 07:49:47"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502074947id_/https://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-04 16:17:53"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170604161753id_/http://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25"
 ---
 
 
@@ -28,7 +28,7 @@ Coming Soon to Magic Online
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 
@@ -76,7 +76,6 @@ Each deck will be available for $19.99 in the **Magic Online** store on August 2
 
 
 
-
 #### Enchantress Rubinia
 
 
@@ -87,9 +86,7 @@ Each deck will be available for $19.99 in the **Magic Online** store on August 2
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -1094,10 +1091,6 @@ Oblivinon Ring
 
 
 1
-[Court Hussar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourt%5D+%5BHussar%5D)
-
-
-1
 [Elvish Visionary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BVisionary%5D)
 
 
@@ -1122,10 +1115,6 @@ Oblivinon Ring
 
 
 1
-[Mulldrifter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMulldrifter%5D)
-
-
-1
 [Noble Templar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BTemplar%5D)
 
 
@@ -1146,11 +1135,19 @@ Oblivinon Ring
 
 
 1
-[Yavimaya Enchantress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BEnchantress%5D)
+[Azorius Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAzorius%5D+%5BSignet%5D)
 
 
 1
-[Capsize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCapsize%5D)
+[Compulsive Research](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsive%5D+%5BResearch%5D)
+
+
+1
+[Dismantling Blow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismantling%5D+%5BBlow%5D)
+
+
+1
+[Faith's Fetters](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFaith%5D+%5BFetters%5D)
 
 
 1
@@ -1174,7 +1171,7 @@ Oblivinon Ring
 
 
 1
-[Resurrection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BResurrection%5D)
+[Rhystic Study](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRhystic%5D+%5BStudy%5D)
 
 
 1
@@ -1194,7 +1191,7 @@ Oblivinon Ring
 
 
 
-##### Uncommon (30)
+##### Uncommon (33)
 
 
 
@@ -1231,6 +1228,10 @@ Oblivinon Ring
 
 
 1
+[Court Hussar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourt%5D+%5BHussar%5D)
+
+
+1
 [Jungle Barrier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJungle%5D+%5BBarrier%5D)
 
 
@@ -1240,6 +1241,10 @@ Oblivinon Ring
 
 1
 [Mistmeadow Witch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistmeadow%5D+%5BWitch%5D)
+
+
+1
+[Mulldrifter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMulldrifter%5D)
 
 
 1
@@ -1259,11 +1264,15 @@ Oblivinon Ring
 
 
 1
-[Azorius Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAzorius%5D+%5BSignet%5D)
+[Yavimaya Enchantress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BEnchantress%5D)
 
 
 1
 [Armadillo Cloak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmadillo%5D+%5BCloak%5D)
+
+
+1
+[Capsize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCapsize%5D)
 
 
 1
@@ -1275,19 +1284,11 @@ Oblivinon Ring
 
 
 1
-[Dismantling Blow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismantling%5D+%5BBlow%5D)
-
-
-1
 [Empyrial Armor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpyrial%5D+%5BArmor%5D)
 
 
 1
 [Enlightened Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnlightened%5D+%5BTutor%5D)
-
-
-1
-[Faith's Fetters](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFaith%5D+%5BFetters%5D)
 
 
 1
@@ -1315,11 +1316,19 @@ Oblivinon Ring
 
 
 1
+[Resurrection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BResurrection%5D)
+
+
+1
 [Sterling Grove](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSterling%5D+%5BGrove%5D)
 
 
+1
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
-##### Rare (10)
+
+
+##### Rare (7)
 
 
 
@@ -1336,10 +1345,6 @@ Oblivinon Ring
 
 
 1
-[Compulsive Research](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsive%5D+%5BResearch%5D)
-
-
-1
 [Concordant Crossroads](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BConcordant%5D+%5BCrossroads%5D)
 
 
@@ -1353,14 +1358,6 @@ Oblivinon Ring
 
 1
 [Illusionary Mask](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIllusionary%5D+%5BMask%5D)
-
-
-1
-[Rhystic Study](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRhystic%5D+%5BStudy%5D)
-
-
-1
-[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 
@@ -1401,7 +1398,6 @@ Oblivinon Ring
 
 
 
-
 #### Deathdancer Xira
 
 
@@ -1412,9 +1408,7 @@ Oblivinon Ring
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -2414,8 +2408,12 @@ OverviewColorCostRarity
 
 
 
-##### Common (62)
+##### Common (64)
 
+
+
+1
+[Barren Moor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarren%5D+%5BMoor%5D)
 
 
 10
@@ -2432,10 +2430,6 @@ OverviewColorCostRarity
 
 7
 [Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
-
-
-1
-[Rakdos Carnarium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BCarnarium%5D)
 
 
 1
@@ -2463,7 +2457,7 @@ OverviewColorCostRarity
 
 
 1
-[Avatar of Woe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvatar%5D+%5Bof%5D+%5BWoe%5D)
+[Carrion Feeder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCarrion%5D+%5BFeeder%5D)
 
 
 1
@@ -2476,10 +2470,6 @@ OverviewColorCostRarity
 
 1
 [Elvish Visionary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BVisionary%5D)
-
-
-1
-[Eternal Witness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D)
 
 
 1
@@ -2504,10 +2494,6 @@ OverviewColorCostRarity
 
 1
 [Shambling Shell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShambling%5D+%5BShell%5D)
-
-
-1
-[Shriekmaw](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShriekmaw%5D)
 
 
 1
@@ -2543,6 +2529,14 @@ OverviewColorCostRarity
 
 
 1
+[Ashes to Ashes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshes%5D+%5Bto%5D+%5BAshes%5D)
+
+
+1
+[Chain Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5BLightning%5D)
+
+
+1
 [Edge of Autumn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEdge%5D+%5Bof%5D+%5BAutumn%5D)
 
 
@@ -2567,6 +2561,10 @@ OverviewColorCostRarity
 
 
 1
+[Rakdos Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BSignet%5D)
+
+
+1
 [Reaping the Graves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReaping%5D+%5Bthe%5D+%5BGraves%5D)
 
 
@@ -2575,16 +2573,16 @@ OverviewColorCostRarity
 
 
 1
+[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerminate%5D)
+
+
+1
 [Terror](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerror%5D)
 
 
 
-##### Uncommon (26)
+##### Uncommon (28)
 
-
-
-1
-[Barren Moor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarren%5D+%5BMoor%5D)
 
 
 1
@@ -2604,6 +2602,10 @@ OverviewColorCostRarity
 
 
 1
+[Rakdos Carnarium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BCarnarium%5D)
+
+
+1
 [Savage Lands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavage%5D+%5BLands%5D)
 
 
@@ -2616,11 +2618,15 @@ OverviewColorCostRarity
 
 
 1
-[Carrion Feeder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCarrion%5D+%5BFeeder%5D)
+[Eternal Witness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D)
 
 
 1
 [Flametongue Kavu](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D)
+
+
+1
+[Golgari Thug](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BThug%5D)
 
 
 1
@@ -2632,11 +2638,11 @@ OverviewColorCostRarity
 
 
 1
-[Animate Dead](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnimate%5D+%5BDead%5D)
+[Shriekmaw](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShriekmaw%5D)
 
 
 1
-[Ashes to Ashes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshes%5D+%5Bto%5D+%5BAshes%5D)
+[Animate Dead](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnimate%5D+%5BDead%5D)
 
 
 1
@@ -2645,10 +2651,6 @@ OverviewColorCostRarity
 
 1
 [Cauldron Dance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCauldron%5D+%5BDance%5D)
-
-
-1
-[Chain Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5BLightning%5D)
 
 
 1
@@ -2668,11 +2670,23 @@ OverviewColorCostRarity
 
 
 1
+[Harmonize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonize%5D)
+
+
+1
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
+
+
+1
+[Lightning Greaves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BGreaves%5D)
+
+
+1
 [Massacre](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMassacre%5D)
 
 
 1
-[Rakdos Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BSignet%5D)
+[Putrefy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D)
 
 
 1
@@ -2683,12 +2697,8 @@ OverviewColorCostRarity
 [Skullclamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
 
 
-1
-[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerminate%5D)
 
-
-
-##### Rare (12)
+##### Rare (7)
 
 
 
@@ -2698,10 +2708,6 @@ OverviewColorCostRarity
 
 1
 [Golgari Grave-Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGrave-Troll%5D)
-
-
-1
-[Golgari Thug](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BThug%5D)
 
 
 1
@@ -2717,27 +2723,20 @@ OverviewColorCostRarity
 
 
 1
-[Harmonize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonize%5D)
-
-
-1
 [Life from the Loam](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D)
-
-
-1
-[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
-
-
-1
-[Lightning Greaves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BGreaves%5D)
 
 
 1
 [Phyrexian Arena](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BArena%5D)
 
 
+
+##### Mythic (1)
+
+
+
 1
-[Putrefy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D)
+[Avatar of Woe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvatar%5D+%5Bof%5D+%5BWoe%5D)
 
 
 100 Cards 

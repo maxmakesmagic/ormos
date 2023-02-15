@@ -1,0 +1,7263 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220517150320/https://magic.wizards.com/en/articles/archive/mtgo-standings/pioneer-league-2020-06-08)
+
+[_metadata_:description]:- "Decklists Decklists [decklist] Title: osodan (5-0) Subtitle: Format: Pioneer League 2 Breeding Pool 4 Fabled Passage 1 Forest 1 Glacial Fortress 1 Godless Shrine 1 Hallowed Fountain 1 Indatha Triome 1 Island 2 Mana Confluence 1 Mountain 1 Overgrown Tomb 1 Plains 1 Raugrin Triome 1 Rootbound Crag 1 Stomping Ground 1 Sunpetal Grove 1 Swamp 1 Temple Garden 2 Watery Grave 1"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1503688"
+[_metadata_:publish_date]:- "2020-06-08"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Pioneer League"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 15:03:20"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517150320id_/https://magic.wizards.com/en/articles/archive/mtgo-standings/pioneer-league-2020-06-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/mtgo-standings/pioneer-league-2020-06-08"
+---
+
+
+Pioneer League
+==============
+
+
+
+ Posted in **MTGO Standings**
+ on June 8, 2020 
+
+
+
+
+
+
+
+
+
+
+* [Decklists](#decklists)
+
+Decklists
+---------
+
+
+
+
+
+
+
+
+#### osodan (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (6)
+
+
+
+2
+[Nahiri, the Harbinger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNahiri,%5D+%5Bthe%5D+%5BHarbinger%5D)
+
+
+4
+[Teferi, Time Raveler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BTime%5D+%5BRaveler%5D)
+
+
+
+##### Creature (12)
+
+
+
+1
+[Kunoros, Hound of Athreos](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKunoros,%5D+%5BHound%5D+%5Bof%5D+%5BAthreos%5D)
+
+
+4
+[Niv-Mizzet Reborn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNiv-Mizzet%5D+%5BReborn%5D)
+
+
+4
+[Sylvan Caryatid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+3
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+
+##### Sorcery (11)
+
+
+
+4
+[Bring to Light](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBring%5D+%5Bto%5D+%5BLight%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+1
+[Enter the God-Eternals](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnter%5D+%5Bthe%5D+%5BGod-Eternals%5D)
+
+
+1
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+1
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+2
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Unmoored Ego](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnmoored%5D+%5BEgo%5D)
+
+
+
+##### Instant (3)
+
+
+
+2
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+1
+[Utter End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+
+##### Land (28)
+
+
+
+2
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+4
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+1
+[Godless Shrine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D)
+
+
+1
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+1
+[Indatha Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIndatha%5D+%5BTriome%5D)
+
+
+1
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Mana Confluence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+1
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+1
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Raugrin Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaugrin%5D+%5BTriome%5D)
+
+
+1
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+1
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+1
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+2
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+1
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+2
+[Zagoth Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZagoth%5D+%5BTriome%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+2
+[Unmoored Ego](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnmoored%5D+%5BEgo%5D)
+
+
+1
+[Casualties of War](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCasualties%5D+%5Bof%5D+%5BWar%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+2
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+2
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+1
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+2
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+
+
+##### Black (6)
+
+
+
+2
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+
+##### Green (4)
+
+
+
+4
+[Sylvan Caryatid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+
+##### Multi colored (35)
+
+
+
+1
+[Kunoros, Hound of Athreos](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKunoros,%5D+%5BHound%5D+%5Bof%5D+%5BAthreos%5D)
+
+
+4
+[Niv-Mizzet Reborn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNiv-Mizzet%5D+%5BReborn%5D)
+
+
+3
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+2
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+4
+[Bring to Light](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBring%5D+%5Bto%5D+%5BLight%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+1
+[Enter the God-Eternals](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnter%5D+%5Bthe%5D+%5BGod-Eternals%5D)
+
+
+2
+[Nahiri, the Harbinger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNahiri,%5D+%5Bthe%5D+%5BHarbinger%5D)
+
+
+1
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+4
+[Teferi, Time Raveler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BTime%5D+%5BRaveler%5D)
+
+
+2
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+3
+[Unmoored Ego](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnmoored%5D+%5BEgo%5D)
+
+
+1
+[Utter End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+1
+[Casualties of War](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCasualties%5D+%5Bof%5D+%5BWar%5D)
+
+
+2
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+1
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+2
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+
+##### Colorless (30)
+
+
+
+2
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+4
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+1
+[Godless Shrine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D)
+
+
+1
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+1
+[Indatha Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIndatha%5D+%5BTriome%5D)
+
+
+1
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Mana Confluence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+1
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+1
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Raugrin Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaugrin%5D+%5BTriome%5D)
+
+
+1
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+1
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+1
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+2
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+1
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+2
+[Zagoth Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZagoth%5D+%5BTriome%5D)
+
+
+2
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (8)
+
+
+
+2
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+2
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+
+##### 2 (12)
+
+
+
+4
+[Sylvan Caryatid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+2
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+2
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+1
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+2
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+
+##### 3 (13)
+
+
+
+1
+[Kunoros, Hound of Athreos](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKunoros,%5D+%5BHound%5D+%5Bof%5D+%5BAthreos%5D)
+
+
+3
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+4
+[Teferi, Time Raveler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BTime%5D+%5BRaveler%5D)
+
+
+3
+[Unmoored Ego](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnmoored%5D+%5BEgo%5D)
+
+
+2
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+
+##### 4 (4)
+
+
+
+2
+[Nahiri, the Harbinger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNahiri,%5D+%5Bthe%5D+%5BHarbinger%5D)
+
+
+1
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+1
+[Utter End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+
+##### 5 (9)
+
+
+
+4
+[Niv-Mizzet Reborn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNiv-Mizzet%5D+%5BReborn%5D)
+
+
+4
+[Bring to Light](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBring%5D+%5Bto%5D+%5BLight%5D)
+
+
+1
+[Enter the God-Eternals](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnter%5D+%5Bthe%5D+%5BGod-Eternals%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Casualties of War](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCasualties%5D+%5Bof%5D+%5BWar%5D)
+
+
+47 Cards 
+
+
+
+##### Common (7)
+
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+
+##### Uncommon (6)
+
+
+
+2
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+
+##### Rare (48)
+
+
+
+2
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+4
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+1
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+1
+[Godless Shrine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D)
+
+
+1
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+1
+[Indatha Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIndatha%5D+%5BTriome%5D)
+
+
+1
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+1
+[Raugrin Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaugrin%5D+%5BTriome%5D)
+
+
+1
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+1
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+1
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+1
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+2
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+1
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+2
+[Zagoth Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZagoth%5D+%5BTriome%5D)
+
+
+1
+[Kunoros, Hound of Athreos](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKunoros,%5D+%5BHound%5D+%5Bof%5D+%5BAthreos%5D)
+
+
+4
+[Sylvan Caryatid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+4
+[Bring to Light](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBring%5D+%5Bto%5D+%5BLight%5D)
+
+
+1
+[Dreadbore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreadbore%5D)
+
+
+1
+[Enter the God-Eternals](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnter%5D+%5Bthe%5D+%5BGod-Eternals%5D)
+
+
+1
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+4
+[Teferi, Time Raveler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BTime%5D+%5BRaveler%5D)
+
+
+2
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Unmoored Ego](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnmoored%5D+%5BEgo%5D)
+
+
+1
+[Utter End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+1
+[Casualties of War](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCasualties%5D+%5Bof%5D+%5BWar%5D)
+
+
+2
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+2
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+
+##### Mythic (14)
+
+
+
+2
+[Mana Confluence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+4
+[Niv-Mizzet Reborn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNiv-Mizzet%5D+%5BReborn%5D)
+
+
+3
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+2
+[Nahiri, the Harbinger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNahiri,%5D+%5Bthe%5D+%5BHarbinger%5D)
+
+
+1
+[Rakdos's Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BReturn%5D)
+
+
+2
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Breeding+Pool)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### ShowTime\_ (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (28)
+
+
+
+4
+[Abbot of Keral Keep](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D)
+
+
+4
+[Bonecrusher Giant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonecrusher%5D+%5BGiant%5D)
+
+
+4
+[Goblin Chainwhirler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BChainwhirler%5D)
+
+
+3
+[Kari Zev, Skyship Raider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKari%5D+%5BZev,%5D+%5BSkyship%5D+%5BRaider%5D)
+
+
+4
+[Monastery Swiftspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Soul-Scar Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D)
+
+
+4
+[Torbran, Thane of Red Fell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorbran,%5D+%5BThane%5D+%5Bof%5D+%5BRed%5D+%5BFell%5D)
+
+
+1
+[Zurgo Bellstriker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+
+##### Sorcery (1)
+
+
+
+1
+[Satyr's Cunning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BCunning%5D)
+
+
+
+##### Instant (8)
+
+
+
+4
+[Lightning Strike](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### Land (23)
+
+
+
+2
+[Castle Embereth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCastle%5D+%5BEmbereth%5D)
+
+
+16
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Ramunap Ruins](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRamunap%5D+%5BRuins%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Abrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D)
+
+
+1
+[Alpine Moon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAlpine%5D+%5BMoon%5D)
+
+
+1
+[By Force](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBy%5D+%5BForce%5D)
+
+
+2
+[Chandra, Torch of Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D)
+
+
+2
+[Collective Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BDefiance%5D)
+
+
+2
+[Eidolon of the Great Revel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+2
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+2
+[Scab-Clan Berserker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScab-Clan%5D+%5BBerserker%5D)
+
+
+1
+[Tibalt, Rakish Instigator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTibalt,%5D+%5BRakish%5D+%5BInstigator%5D)
+
+
+
+
+##### Red (50)
+
+
+
+4
+[Abbot of Keral Keep](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D)
+
+
+4
+[Bonecrusher Giant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonecrusher%5D+%5BGiant%5D)
+
+
+4
+[Goblin Chainwhirler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BChainwhirler%5D)
+
+
+3
+[Kari Zev, Skyship Raider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKari%5D+%5BZev,%5D+%5BSkyship%5D+%5BRaider%5D)
+
+
+4
+[Monastery Swiftspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Soul-Scar Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D)
+
+
+4
+[Torbran, Thane of Red Fell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorbran,%5D+%5BThane%5D+%5Bof%5D+%5BRed%5D+%5BFell%5D)
+
+
+1
+[Zurgo Bellstriker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Lightning Strike](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+1
+[Satyr's Cunning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BCunning%5D)
+
+
+4
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+2
+[Abrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D)
+
+
+1
+[Alpine Moon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAlpine%5D+%5BMoon%5D)
+
+
+1
+[By Force](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBy%5D+%5BForce%5D)
+
+
+2
+[Chandra, Torch of Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D)
+
+
+2
+[Collective Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BDefiance%5D)
+
+
+2
+[Eidolon of the Great Revel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+2
+[Scab-Clan Berserker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScab-Clan%5D+%5BBerserker%5D)
+
+
+1
+[Tibalt, Rakish Instigator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTibalt,%5D+%5BRakish%5D+%5BInstigator%5D)
+
+
+
+##### Colorless (25)
+
+
+
+2
+[Castle Embereth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCastle%5D+%5BEmbereth%5D)
+
+
+16
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Ramunap Ruins](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRamunap%5D+%5BRuins%5D)
+
+
+2
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (18)
+
+
+
+4
+[Monastery Swiftspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Soul-Scar Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D)
+
+
+1
+[Zurgo Bellstriker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+1
+[Satyr's Cunning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BCunning%5D)
+
+
+4
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+1
+[Alpine Moon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAlpine%5D+%5BMoon%5D)
+
+
+1
+[By Force](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBy%5D+%5BForce%5D)
+
+
+2
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+
+##### 2 (15)
+
+
+
+4
+[Abbot of Keral Keep](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D)
+
+
+3
+[Kari Zev, Skyship Raider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKari%5D+%5BZev,%5D+%5BSkyship%5D+%5BRaider%5D)
+
+
+4
+[Lightning Strike](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+2
+[Abrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D)
+
+
+2
+[Eidolon of the Great Revel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+
+##### 3 (13)
+
+
+
+4
+[Bonecrusher Giant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonecrusher%5D+%5BGiant%5D)
+
+
+4
+[Goblin Chainwhirler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BChainwhirler%5D)
+
+
+2
+[Collective Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BDefiance%5D)
+
+
+2
+[Scab-Clan Berserker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScab-Clan%5D+%5BBerserker%5D)
+
+
+1
+[Tibalt, Rakish Instigator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTibalt,%5D+%5BRakish%5D+%5BInstigator%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Torbran, Thane of Red Fell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorbran,%5D+%5BThane%5D+%5Bof%5D+%5BRed%5D+%5BFell%5D)
+
+
+2
+[Chandra, Torch of Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D)
+
+
+52 Cards 
+
+
+
+##### Common (25)
+
+
+
+16
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Monastery Swiftspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Lightning Strike](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+1
+[Satyr's Cunning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BCunning%5D)
+
+
+
+##### Uncommon (12)
+
+
+
+4
+[Ramunap Ruins](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRamunap%5D+%5BRuins%5D)
+
+
+4
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+2
+[Abrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D)
+
+
+1
+[By Force](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBy%5D+%5BForce%5D)
+
+
+1
+[Tibalt, Rakish Instigator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTibalt,%5D+%5BRakish%5D+%5BInstigator%5D)
+
+
+
+##### Rare (36)
+
+
+
+2
+[Castle Embereth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCastle%5D+%5BEmbereth%5D)
+
+
+1
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Abbot of Keral Keep](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D)
+
+
+4
+[Bonecrusher Giant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonecrusher%5D+%5BGiant%5D)
+
+
+4
+[Goblin Chainwhirler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BChainwhirler%5D)
+
+
+3
+[Kari Zev, Skyship Raider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKari%5D+%5BZev,%5D+%5BSkyship%5D+%5BRaider%5D)
+
+
+4
+[Soul-Scar Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D)
+
+
+4
+[Torbran, Thane of Red Fell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorbran,%5D+%5BThane%5D+%5Bof%5D+%5BRed%5D+%5BFell%5D)
+
+
+1
+[Zurgo Bellstriker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+1
+[Alpine Moon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAlpine%5D+%5BMoon%5D)
+
+
+2
+[Collective Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BDefiance%5D)
+
+
+2
+[Eidolon of the Great Revel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+2
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+2
+[Scab-Clan Berserker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScab-Clan%5D+%5BBerserker%5D)
+
+
+
+##### Mythic (2)
+
+
+
+2
+[Chandra, Torch of Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Castle+Embereth)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### AlexFiero (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (21)
+
+
+
+1
+[Alseid of Life's Bounty](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAlseid%5D+%5Bof%5D+%5BLife%5D+%5BBounty%5D)
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+2
+[Hangarback Walker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHangarback%5D+%5BWalker%5D)
+
+
+2
+[Hope of Ghirapur](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D)
+
+
+4
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+
+
+4
+[Stonecoil Serpent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStonecoil%5D+%5BSerpent%5D)
+
+
+4
+[Toolcraft Exemplar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BToolcraft%5D+%5BExemplar%5D)
+
+
+
+##### Instant (4)
+
+
+
+4
+[Shrapnel Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrapnel%5D+%5BBlast%5D)
+
+
+
+##### Artifact (8)
+
+
+
+4
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+4
+[Springleaf Drum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringleaf%5D+%5BDrum%5D)
+
+
+
+##### Enchantment (7)
+
+
+
+3
+[All That Glitters](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BThat%5D+%5BGlitters%5D)
+
+
+4
+[Ensoul Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsoul%5D+%5BArtifact%5D)
+
+
+
+##### Land (20)
+
+
+
+1
+[Aether Hub](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BHub%5D)
+
+
+4
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Mana Confluence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+3
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Spire of Industry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5Bof%5D+%5BIndustry%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+4
+[Glass Casket](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlass%5D+%5BCasket%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+3
+[Light of Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BHope%5D)
+
+
+1
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+2
+[Metallic Rebuke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D)
+
+
+1
+[Shadowspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowspear%5D)
+
+
+1
+[Soul-Guide Lantern](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Guide%5D+%5BLantern%5D)
+
+
+2
+[Stubborn Denial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStubborn%5D+%5BDenial%5D)
+
+
+
+
+##### White (15)
+
+
+
+1
+[Alseid of Life's Bounty](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAlseid%5D+%5Bof%5D+%5BLife%5D+%5BBounty%5D)
+
+
+4
+[Toolcraft Exemplar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BToolcraft%5D+%5BExemplar%5D)
+
+
+3
+[All That Glitters](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BThat%5D+%5BGlitters%5D)
+
+
+4
+[Glass Casket](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlass%5D+%5BCasket%5D)
+
+
+3
+[Light of Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BHope%5D)
+
+
+
+##### Blue (8)
+
+
+
+4
+[Ensoul Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsoul%5D+%5BArtifact%5D)
+
+
+2
+[Metallic Rebuke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D)
+
+
+2
+[Stubborn Denial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStubborn%5D+%5BDenial%5D)
+
+
+
+##### Red (4)
+
+
+
+4
+[Shrapnel Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrapnel%5D+%5BBlast%5D)
+
+
+
+##### Multi colored (1)
+
+
+
+1
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+
+##### Colorless (47)
+
+
+
+1
+[Aether Hub](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BHub%5D)
+
+
+4
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Mana Confluence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+3
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Spire of Industry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5Bof%5D+%5BIndustry%5D)
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+2
+[Hangarback Walker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHangarback%5D+%5BWalker%5D)
+
+
+2
+[Hope of Ghirapur](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D)
+
+
+4
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+
+
+4
+[Stonecoil Serpent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStonecoil%5D+%5BSerpent%5D)
+
+
+4
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+4
+[Springleaf Drum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringleaf%5D+%5BDrum%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+1
+[Shadowspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowspear%5D)
+
+
+1
+[Soul-Guide Lantern](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Guide%5D+%5BLantern%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (27)
+
+
+
+1
+[Alseid of Life's Bounty](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAlseid%5D+%5Bof%5D+%5BLife%5D+%5BBounty%5D)
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+2
+[Hope of Ghirapur](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D)
+
+
+4
+[Toolcraft Exemplar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BToolcraft%5D+%5BExemplar%5D)
+
+
+4
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+4
+[Springleaf Drum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringleaf%5D+%5BDrum%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+3
+[Light of Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BHope%5D)
+
+
+1
+[Shadowspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowspear%5D)
+
+
+1
+[Soul-Guide Lantern](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Guide%5D+%5BLantern%5D)
+
+
+2
+[Stubborn Denial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStubborn%5D+%5BDenial%5D)
+
+
+
+##### 2 (15)
+
+
+
+3
+[All That Glitters](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BThat%5D+%5BGlitters%5D)
+
+
+4
+[Ensoul Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsoul%5D+%5BArtifact%5D)
+
+
+4
+[Shrapnel Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrapnel%5D+%5BBlast%5D)
+
+
+4
+[Glass Casket](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlass%5D+%5BCasket%5D)
+
+
+
+##### 3 (3)
+
+
+
+1
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+2
+[Metallic Rebuke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D)
+
+
+45 Cards 
+
+
+
+##### Common (9)
+
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+3
+[Light of Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BHope%5D)
+
+
+2
+[Metallic Rebuke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D)
+
+
+
+##### Uncommon (32)
+
+
+
+1
+[Aether Hub](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BHub%5D)
+
+
+4
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+
+
+1
+[Alseid of Life's Bounty](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAlseid%5D+%5Bof%5D+%5BLife%5D+%5BBounty%5D)
+
+
+4
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+
+
+3
+[All That Glitters](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BThat%5D+%5BGlitters%5D)
+
+
+4
+[Ensoul Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsoul%5D+%5BArtifact%5D)
+
+
+4
+[Shrapnel Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrapnel%5D+%5BBlast%5D)
+
+
+4
+[Springleaf Drum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringleaf%5D+%5BDrum%5D)
+
+
+4
+[Glass Casket](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlass%5D+%5BCasket%5D)
+
+
+1
+[Soul-Guide Lantern](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Guide%5D+%5BLantern%5D)
+
+
+2
+[Stubborn Denial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStubborn%5D+%5BDenial%5D)
+
+
+
+##### Rare (30)
+
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+3
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Spire of Industry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5Bof%5D+%5BIndustry%5D)
+
+
+2
+[Hangarback Walker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHangarback%5D+%5BWalker%5D)
+
+
+2
+[Hope of Ghirapur](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D)
+
+
+4
+[Stonecoil Serpent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStonecoil%5D+%5BSerpent%5D)
+
+
+4
+[Toolcraft Exemplar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BToolcraft%5D+%5BExemplar%5D)
+
+
+4
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+1
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+1
+[Shadowspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowspear%5D)
+
+
+
+##### Mythic (4)
+
+
+
+4
+[Mana Confluence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Aether+Hub)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### hakurei0 (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (22)
+
+
+
+2
+[Ash Zealot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAsh%5D+%5BZealot%5D)
+
+
+4
+[Eidolon of the Great Revel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+4
+[Ghitu Lavarunner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhitu%5D+%5BLavarunner%5D)
+
+
+4
+[Monastery Swiftspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Soul-Scar Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D)
+
+
+4
+[Viashino Pyromancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViashino%5D+%5BPyromancer%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Light Up the Stage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5BUp%5D+%5Bthe%5D+%5BStage%5D)
+
+
+
+##### Instant (14)
+
+
+
+4
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+2
+[Lightning Strike](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+4
+[Wizard's Lightning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWizard%5D+%5BLightning%5D)
+
+
+
+##### Land (20)
+
+
+
+4
+[Battlefield Forge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Inspiring Vantage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BVantage%5D)
+
+
+4
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Ramunap Ruins](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRamunap%5D+%5BRuins%5D)
+
+
+4
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+3
+[Chained to the Rocks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChained%5D+%5Bto%5D+%5Bthe%5D+%5BRocks%5D)
+
+
+1
+[Chandra, Acolyte of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BAcolyte%5D+%5Bof%5D+%5BFlame%5D)
+
+
+1
+[Chandra, Torch of Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D)
+
+
+1
+[Collective Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BDefiance%5D)
+
+
+2
+[Light of Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BHope%5D)
+
+
+1
+[Rampaging Ferocidon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampaging%5D+%5BFerocidon%5D)
+
+
+3
+[Searing Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+2
+[Skullcrack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullcrack%5D)
+
+
+1
+[Soul-Guide Lantern](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Guide%5D+%5BLantern%5D)
+
+
+
+
+##### White (5)
+
+
+
+3
+[Chained to the Rocks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChained%5D+%5Bto%5D+%5Bthe%5D+%5BRocks%5D)
+
+
+2
+[Light of Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BHope%5D)
+
+
+
+##### Red (45)
+
+
+
+2
+[Ash Zealot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAsh%5D+%5BZealot%5D)
+
+
+4
+[Eidolon of the Great Revel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+4
+[Ghitu Lavarunner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhitu%5D+%5BLavarunner%5D)
+
+
+4
+[Monastery Swiftspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Soul-Scar Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D)
+
+
+4
+[Viashino Pyromancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViashino%5D+%5BPyromancer%5D)
+
+
+4
+[Light Up the Stage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5BUp%5D+%5Bthe%5D+%5BStage%5D)
+
+
+2
+[Lightning Strike](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+4
+[Wizard's Lightning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWizard%5D+%5BLightning%5D)
+
+
+1
+[Chandra, Acolyte of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BAcolyte%5D+%5Bof%5D+%5BFlame%5D)
+
+
+1
+[Chandra, Torch of Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D)
+
+
+1
+[Collective Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BDefiance%5D)
+
+
+1
+[Rampaging Ferocidon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampaging%5D+%5BFerocidon%5D)
+
+
+3
+[Searing Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+2
+[Skullcrack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullcrack%5D)
+
+
+
+##### Multi colored (4)
+
+
+
+4
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+
+##### Colorless (21)
+
+
+
+4
+[Battlefield Forge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Inspiring Vantage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BVantage%5D)
+
+
+4
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Ramunap Ruins](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRamunap%5D+%5BRuins%5D)
+
+
+4
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+1
+[Soul-Guide Lantern](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Guide%5D+%5BLantern%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (22)
+
+
+
+4
+[Ghitu Lavarunner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhitu%5D+%5BLavarunner%5D)
+
+
+4
+[Monastery Swiftspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Soul-Scar Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D)
+
+
+4
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+3
+[Chained to the Rocks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChained%5D+%5Bto%5D+%5Bthe%5D+%5BRocks%5D)
+
+
+2
+[Light of Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BHope%5D)
+
+
+1
+[Soul-Guide Lantern](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Guide%5D+%5BLantern%5D)
+
+
+
+##### 2 (21)
+
+
+
+2
+[Ash Zealot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAsh%5D+%5BZealot%5D)
+
+
+4
+[Eidolon of the Great Revel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+4
+[Viashino Pyromancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViashino%5D+%5BPyromancer%5D)
+
+
+4
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+2
+[Lightning Strike](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+3
+[Searing Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+2
+[Skullcrack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullcrack%5D)
+
+
+
+##### 3 (11)
+
+
+
+4
+[Light Up the Stage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5BUp%5D+%5Bthe%5D+%5BStage%5D)
+
+
+4
+[Wizard's Lightning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWizard%5D+%5BLightning%5D)
+
+
+1
+[Chandra, Acolyte of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BAcolyte%5D+%5Bof%5D+%5BFlame%5D)
+
+
+1
+[Collective Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BDefiance%5D)
+
+
+1
+[Rampaging Ferocidon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampaging%5D+%5BFerocidon%5D)
+
+
+
+##### 4 (1)
+
+
+
+1
+[Chandra, Torch of Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D)
+
+
+55 Cards 
+
+
+
+##### Common (20)
+
+
+
+4
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Ghitu Lavarunner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhitu%5D+%5BLavarunner%5D)
+
+
+4
+[Monastery Swiftspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Viashino Pyromancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViashino%5D+%5BPyromancer%5D)
+
+
+2
+[Lightning Strike](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+2
+[Light of Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BHope%5D)
+
+
+
+##### Uncommon (26)
+
+
+
+4
+[Ramunap Ruins](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRamunap%5D+%5BRuins%5D)
+
+
+4
+[Boros Charm](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BCharm%5D)
+
+
+4
+[Light Up the Stage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5BUp%5D+%5Bthe%5D+%5BStage%5D)
+
+
+4
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+4
+[Wizard's Lightning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWizard%5D+%5BLightning%5D)
+
+
+3
+[Searing Blood](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+2
+[Skullcrack](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullcrack%5D)
+
+
+1
+[Soul-Guide Lantern](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Guide%5D+%5BLantern%5D)
+
+
+
+##### Rare (28)
+
+
+
+4
+[Battlefield Forge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Inspiring Vantage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BVantage%5D)
+
+
+4
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+2
+[Ash Zealot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAsh%5D+%5BZealot%5D)
+
+
+4
+[Eidolon of the Great Revel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+4
+[Soul-Scar Mage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D)
+
+
+3
+[Chained to the Rocks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChained%5D+%5Bto%5D+%5Bthe%5D+%5BRocks%5D)
+
+
+1
+[Chandra, Acolyte of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BAcolyte%5D+%5Bof%5D+%5BFlame%5D)
+
+
+1
+[Collective Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BDefiance%5D)
+
+
+1
+[Rampaging Ferocidon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampaging%5D+%5BFerocidon%5D)
+
+
+
+##### Mythic (1)
+
+
+
+1
+[Chandra, Torch of Defiance](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Battlefield+Forge)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### ModiSapiras (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (4)
+
+
+
+4
+[Gideon of the Trials](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5Bof%5D+%5Bthe%5D+%5BTrials%5D)
+
+
+
+##### Creature (31)
+
+
+
+2
+[Anafenza, Kin-Tree Spirit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5BKin-Tree%5D+%5BSpirit%5D)
+
+
+4
+[Arcanist's Owl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcanist%5D+%5BOwl%5D)
+
+
+4
+[Charming Prince](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharming%5D+%5BPrince%5D)
+
+
+3
+[Daxos, Blessed by the Sun](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaxos,%5D+%5BBlessed%5D+%5Bby%5D+%5Bthe%5D+%5BSun%5D)
+
+
+4
+[Heliod, Sun-Crowned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeliod,%5D+%5BSun-Crowned%5D)
+
+
+4
+[Knight of the White Orchid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BWhite%5D+%5BOrchid%5D)
+
+
+2
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+4
+[Thraben Inspector](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThraben%5D+%5BInspector%5D)
+
+
+4
+[Walking Ballista](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D)
+
+
+
+##### Enchantment (12)
+
+
+
+4
+[Baffling End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaffling%5D+%5BEnd%5D)
+
+
+3
+[Elspeth Conquers Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BConquers%5D+%5BDeath%5D)
+
+
+2
+[Oath of Kaya](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BKaya%5D)
+
+
+2
+[Stasis Snare](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStasis%5D+%5BSnare%5D)
+
+
+1
+[Trial of Ambition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrial%5D+%5Bof%5D+%5BAmbition%5D)
+
+
+
+##### Land (33)
+
+
+
+1
+[Castle Ardenvale](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCastle%5D+%5BArdenvale%5D)
+
+
+2
+[Caves of Koilos](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+4
+[Concealed Courtyard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BConcealed%5D+%5BCourtyard%5D)
+
+
+4
+[Godless Shrine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D)
+
+
+4
+[Isolated Chapel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsolated%5D+%5BChapel%5D)
+
+
+4
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+12
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Temple of Silence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+80 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+4
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+2
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+2
+[Stain the Mind](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStain%5D+%5Bthe%5D+%5BMind%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Yorion, Sky Nomad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYorion,%5D+%5BSky%5D+%5BNomad%5D)
+
+
+
+
+##### White (34)
+
+
+
+2
+[Anafenza, Kin-Tree Spirit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5BKin-Tree%5D+%5BSpirit%5D)
+
+
+4
+[Charming Prince](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharming%5D+%5BPrince%5D)
+
+
+3
+[Daxos, Blessed by the Sun](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaxos,%5D+%5BBlessed%5D+%5Bby%5D+%5Bthe%5D+%5BSun%5D)
+
+
+4
+[Heliod, Sun-Crowned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeliod,%5D+%5BSun-Crowned%5D)
+
+
+4
+[Knight of the White Orchid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BWhite%5D+%5BOrchid%5D)
+
+
+4
+[Thraben Inspector](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThraben%5D+%5BInspector%5D)
+
+
+4
+[Baffling End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaffling%5D+%5BEnd%5D)
+
+
+3
+[Elspeth Conquers Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BConquers%5D+%5BDeath%5D)
+
+
+4
+[Gideon of the Trials](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5Bof%5D+%5Bthe%5D+%5BTrials%5D)
+
+
+2
+[Stasis Snare](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStasis%5D+%5BSnare%5D)
+
+
+
+##### Black (9)
+
+
+
+1
+[Trial of Ambition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrial%5D+%5Bof%5D+%5BAmbition%5D)
+
+
+2
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+2
+[Stain the Mind](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStain%5D+%5Bthe%5D+%5BMind%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Multi colored (11)
+
+
+
+4
+[Arcanist's Owl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcanist%5D+%5BOwl%5D)
+
+
+2
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+2
+[Oath of Kaya](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BKaya%5D)
+
+
+2
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+1
+[Yorion, Sky Nomad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYorion,%5D+%5BSky%5D+%5BNomad%5D)
+
+
+
+##### Colorless (41)
+
+
+
+1
+[Castle Ardenvale](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCastle%5D+%5BArdenvale%5D)
+
+
+2
+[Caves of Koilos](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+4
+[Concealed Courtyard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BConcealed%5D+%5BCourtyard%5D)
+
+
+4
+[Godless Shrine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D)
+
+
+4
+[Isolated Chapel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsolated%5D+%5BChapel%5D)
+
+
+4
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+12
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Temple of Silence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+4
+[Walking Ballista](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D)
+
+
+4
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+95 Cards 
+
+
+
+##### 1 (14)
+
+
+
+4
+[Thraben Inspector](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThraben%5D+%5BInspector%5D)
+
+
+2
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+4
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### 2 (18)
+
+
+
+2
+[Anafenza, Kin-Tree Spirit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5BKin-Tree%5D+%5BSpirit%5D)
+
+
+4
+[Charming Prince](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharming%5D+%5BPrince%5D)
+
+
+3
+[Daxos, Blessed by the Sun](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaxos,%5D+%5BBlessed%5D+%5Bby%5D+%5Bthe%5D+%5BSun%5D)
+
+
+4
+[Knight of the White Orchid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BWhite%5D+%5BOrchid%5D)
+
+
+4
+[Baffling End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaffling%5D+%5BEnd%5D)
+
+
+1
+[Trial of Ambition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrial%5D+%5Bof%5D+%5BAmbition%5D)
+
+
+
+##### 3 (16)
+
+
+
+4
+[Heliod, Sun-Crowned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeliod,%5D+%5BSun-Crowned%5D)
+
+
+2
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+4
+[Gideon of the Trials](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5Bof%5D+%5Bthe%5D+%5BTrials%5D)
+
+
+2
+[Oath of Kaya](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BKaya%5D)
+
+
+2
+[Stasis Snare](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStasis%5D+%5BSnare%5D)
+
+
+2
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+
+##### 4 (4)
+
+
+
+4
+[Arcanist's Owl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcanist%5D+%5BOwl%5D)
+
+
+
+##### 5 (6)
+
+
+
+3
+[Elspeth Conquers Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BConquers%5D+%5BDeath%5D)
+
+
+2
+[Stain the Mind](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStain%5D+%5Bthe%5D+%5BMind%5D)
+
+
+1
+[Yorion, Sky Nomad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYorion,%5D+%5BSky%5D+%5BNomad%5D)
+
+
+58 Cards 
+
+
+
+##### Common (16)
+
+
+
+12
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Thraben Inspector](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThraben%5D+%5BInspector%5D)
+
+
+
+##### Uncommon (16)
+
+
+
+4
+[Arcanist's Owl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcanist%5D+%5BOwl%5D)
+
+
+3
+[Daxos, Blessed by the Sun](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaxos,%5D+%5BBlessed%5D+%5Bby%5D+%5Bthe%5D+%5BSun%5D)
+
+
+4
+[Baffling End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaffling%5D+%5BEnd%5D)
+
+
+2
+[Stasis Snare](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStasis%5D+%5BSnare%5D)
+
+
+1
+[Trial of Ambition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrial%5D+%5Bof%5D+%5BAmbition%5D)
+
+
+2
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+
+##### Rare (55)
+
+
+
+1
+[Castle Ardenvale](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCastle%5D+%5BArdenvale%5D)
+
+
+2
+[Caves of Koilos](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+4
+[Concealed Courtyard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BConcealed%5D+%5BCourtyard%5D)
+
+
+4
+[Godless Shrine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D)
+
+
+4
+[Isolated Chapel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsolated%5D+%5BChapel%5D)
+
+
+4
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+2
+[Temple of Silence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+2
+[Anafenza, Kin-Tree Spirit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5BKin-Tree%5D+%5BSpirit%5D)
+
+
+4
+[Charming Prince](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCharming%5D+%5BPrince%5D)
+
+
+4
+[Knight of the White Orchid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BWhite%5D+%5BOrchid%5D)
+
+
+2
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+4
+[Walking Ballista](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D)
+
+
+3
+[Elspeth Conquers Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BConquers%5D+%5BDeath%5D)
+
+
+2
+[Oath of Kaya](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BKaya%5D)
+
+
+4
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+2
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+2
+[Stain the Mind](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStain%5D+%5Bthe%5D+%5BMind%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Yorion, Sky Nomad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYorion,%5D+%5BSky%5D+%5BNomad%5D)
+
+
+
+##### Mythic (8)
+
+
+
+4
+[Heliod, Sun-Crowned](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeliod,%5D+%5BSun-Crowned%5D)
+
+
+4
+[Gideon of the Trials](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5Bof%5D+%5Bthe%5D+%5BTrials%5D)
+
+
+95 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Castle+Ardenvale)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Wtnof (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (3)
+
+
+
+3
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+
+##### Creature (8)
+
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+
+##### Sorcery (5)
+
+
+
+1
+[Collective Brutality](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BBrutality%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (20)
+
+
+
+4
+[Censor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCensor%5D)
+
+
+1
+[Cling to Dust](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D)
+
+
+4
+[Dig Through Time](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+3
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Opt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
+
+
+
+##### Land (24)
+
+
+
+2
+[Choked Estuary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoked%5D+%5BEstuary%5D)
+
+
+4
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+4
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+2
+[Fetid Pools](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFetid%5D+%5BPools%5D)
+
+
+6
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Ashiok, Nightmare Muse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BMuse%5D)
+
+
+2
+[Cry of the Carnarium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCry%5D+%5Bof%5D+%5Bthe%5D+%5BCarnarium%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+1
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+1
+[Legion's End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLegion%5D+%5BEnd%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+2
+[Narset, Parter of Veils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset,%5D+%5BParter%5D+%5Bof%5D+%5BVeils%5D)
+
+
+1
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+1
+[Ritual of Soot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRitual%5D+%5Bof%5D+%5BSoot%5D)
+
+
+1
+[The Elderspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThe%5D+%5BElderspell%5D)
+
+
+1
+[Tyrant's Scorn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTyrant%5D+%5BScorn%5D)
+
+
+
+
+##### Blue (25)
+
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+4
+[Censor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCensor%5D)
+
+
+4
+[Dig Through Time](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+3
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+4
+[Opt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+2
+[Narset, Parter of Veils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset,%5D+%5BParter%5D+%5Bof%5D+%5BVeils%5D)
+
+
+1
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Black (19)
+
+
+
+1
+[Cling to Dust](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D)
+
+
+1
+[Collective Brutality](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BBrutality%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+3
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Cry of the Carnarium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCry%5D+%5Bof%5D+%5Bthe%5D+%5BCarnarium%5D)
+
+
+1
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+1
+[Legion's End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLegion%5D+%5BEnd%5D)
+
+
+1
+[Ritual of Soot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRitual%5D+%5Bof%5D+%5BSoot%5D)
+
+
+1
+[The Elderspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThe%5D+%5BElderspell%5D)
+
+
+
+##### Multi colored (2)
+
+
+
+1
+[Ashiok, Nightmare Muse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BMuse%5D)
+
+
+1
+[Tyrant's Scorn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTyrant%5D+%5BScorn%5D)
+
+
+
+##### Colorless (29)
+
+
+
+2
+[Choked Estuary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoked%5D+%5BEstuary%5D)
+
+
+4
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+4
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+2
+[Fetid Pools](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFetid%5D+%5BPools%5D)
+
+
+6
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (14)
+
+
+
+1
+[Cling to Dust](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+4
+[Opt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+
+##### 2 (14)
+
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+4
+[Censor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCensor%5D)
+
+
+1
+[Collective Brutality](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BBrutality%5D)
+
+
+1
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+1
+[Legion's End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLegion%5D+%5BEnd%5D)
+
+
+1
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+1
+[The Elderspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThe%5D+%5BElderspell%5D)
+
+
+1
+[Tyrant's Scorn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTyrant%5D+%5BScorn%5D)
+
+
+
+##### 3 (10)
+
+
+
+3
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Cry of the Carnarium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCry%5D+%5Bof%5D+%5Bthe%5D+%5BCarnarium%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+2
+[Narset, Parter of Veils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset,%5D+%5BParter%5D+%5Bof%5D+%5BVeils%5D)
+
+
+
+##### 4 (8)
+
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+3
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+1
+[Ritual of Soot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRitual%5D+%5Bof%5D+%5BSoot%5D)
+
+
+
+##### 5 (1)
+
+
+
+1
+[Ashiok, Nightmare Muse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BMuse%5D)
+
+
+
+##### 8 (4)
+
+
+
+4
+[Dig Through Time](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+51 Cards 
+
+
+
+##### Common (8)
+
+
+
+6
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+
+##### Uncommon (26)
+
+
+
+4
+[Censor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCensor%5D)
+
+
+1
+[Cling to Dust](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+3
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Opt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
+
+
+2
+[Cry of the Carnarium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCry%5D+%5Bof%5D+%5Bthe%5D+%5BCarnarium%5D)
+
+
+1
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+2
+[Narset, Parter of Veils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset,%5D+%5BParter%5D+%5Bof%5D+%5BVeils%5D)
+
+
+1
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+1
+[Tyrant's Scorn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTyrant%5D+%5BScorn%5D)
+
+
+
+##### Rare (36)
+
+
+
+2
+[Choked Estuary](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoked%5D+%5BEstuary%5D)
+
+
+4
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+4
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+2
+[Fetid Pools](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFetid%5D+%5BPools%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+1
+[Collective Brutality](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BBrutality%5D)
+
+
+4
+[Dig Through Time](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+3
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+1
+[Legion's End](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLegion%5D+%5BEnd%5D)
+
+
+1
+[Ritual of Soot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRitual%5D+%5Bof%5D+%5BSoot%5D)
+
+
+1
+[The Elderspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThe%5D+%5BElderspell%5D)
+
+
+
+##### Mythic (5)
+
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+1
+[Ashiok, Nightmare Muse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BMuse%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Choked+Estuary)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### kazna (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (3)
+
+
+
+3
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+
+##### Creature (12)
+
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+4
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+2
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+2
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (18)
+
+
+
+4
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+4
+[Grisly Salvage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrisly%5D+%5BSalvage%5D)
+
+
+2
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Opt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
+
+
+
+##### Land (23)
+
+
+
+4
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+4
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+3
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+1
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+4
+[Zagoth Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZagoth%5D+%5BTriome%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Brazen Borrower](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrazen%5D+%5BBorrower%5D)
+
+
+2
+[Disdainful Stroke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+3
+[Flaying Tendrils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaying%5D+%5BTendrils%5D)
+
+
+2
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+2
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Wilt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D)
+
+
+
+
+##### Blue (19)
+
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+3
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+4
+[Opt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
+
+
+2
+[Brazen Borrower](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrazen%5D+%5BBorrower%5D)
+
+
+2
+[Disdainful Stroke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+2
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Black (10)
+
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+2
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+
+##### Green (2)
+
+
+
+2
+[Wilt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D)
+
+
+
+##### Multi colored (14)
+
+
+
+4
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+4
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+4
+[Grisly Salvage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrisly%5D+%5BSalvage%5D)
+
+
+2
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+
+##### Colorless (30)
+
+
+
+4
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+4
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+3
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+1
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+4
+[Zagoth Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZagoth%5D+%5BTriome%5D)
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+3
+[Flaying Tendrils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaying%5D+%5BTendrils%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (10)
+
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+4
+[Opt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
+
+
+2
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### 2 (22)
+
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+4
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+4
+[Grisly Salvage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrisly%5D+%5BSalvage%5D)
+
+
+2
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+2
+[Disdainful Stroke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+2
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Wilt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D)
+
+
+
+##### 3 (13)
+
+
+
+4
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+2
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Brazen Borrower](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrazen%5D+%5BBorrower%5D)
+
+
+3
+[Flaying Tendrils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaying%5D+%5BTendrils%5D)
+
+
+2
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+
+##### 4 (7)
+
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+3
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+52 Cards 
+
+
+
+##### Common (13)
+
+
+
+1
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Abrupt Decay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+4
+[Grisly Salvage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrisly%5D+%5BSalvage%5D)
+
+
+2
+[Disdainful Stroke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+2
+[Wilt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D)
+
+
+
+##### Uncommon (21)
+
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+2
+[Hero's Downfall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Opt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
+
+
+2
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+3
+[Flaying Tendrils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaying%5D+%5BTendrils%5D)
+
+
+2
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+2
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Rare (31)
+
+
+
+4
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+4
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+3
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+3
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+4
+[Zagoth Triome](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZagoth%5D+%5BTriome%5D)
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+3
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+2
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Mythic (10)
+
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+4
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+2
+[Brazen Borrower](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrazen%5D+%5BBorrower%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Breeding+Pool)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Butakov (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (4)
+
+
+
+4
+[Sorin, Imperious Bloodlord](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BImperious%5D+%5BBloodlord%5D)
+
+
+
+##### Creature (21)
+
+
+
+4
+[Champion of Dusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChampion%5D+%5Bof%5D+%5BDusk%5D)
+
+
+4
+[Dusk Legion Zealot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5BLegion%5D+%5BZealot%5D)
+
+
+4
+[Gifted Aetherborn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifted%5D+%5BAetherborn%5D)
+
+
+2
+[Kalitas, Traitor of Ghet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKalitas,%5D+%5BTraitor%5D+%5Bof%5D+%5BGhet%5D)
+
+
+4
+[Knight of the Ebon Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BEbon%5D+%5BLegion%5D)
+
+
+3
+[Murderous Rider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BRider%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (6)
+
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+2
+[Grasp of Darkness](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrasp%5D+%5Bof%5D+%5BDarkness%5D)
+
+
+
+##### Land (25)
+
+
+
+4
+[Castle Locthwain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCastle%5D+%5BLocthwain%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+1
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+14
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Kalitas, Traitor of Ghet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKalitas,%5D+%5BTraitor%5D+%5Bof%5D+%5BGhet%5D)
+
+
+1
+[Drag to the Underworld](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrag%5D+%5Bto%5D+%5Bthe%5D+%5BUnderworld%5D)
+
+
+3
+[Drill Bit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrill%5D+%5BBit%5D)
+
+
+2
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+2
+[Liliana, the Last Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana,%5D+%5Bthe%5D+%5BLast%5D+%5BHope%5D)
+
+
+3
+[Lost Legacy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLost%5D+%5BLegacy%5D)
+
+
+3
+[Rankle, Master of Pranks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRankle,%5D+%5BMaster%5D+%5Bof%5D+%5BPranks%5D)
+
+
+
+
+##### Black (50)
+
+
+
+4
+[Champion of Dusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChampion%5D+%5Bof%5D+%5BDusk%5D)
+
+
+4
+[Dusk Legion Zealot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5BLegion%5D+%5BZealot%5D)
+
+
+4
+[Gifted Aetherborn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifted%5D+%5BAetherborn%5D)
+
+
+3
+[Kalitas, Traitor of Ghet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKalitas,%5D+%5BTraitor%5D+%5Bof%5D+%5BGhet%5D)
+
+
+4
+[Knight of the Ebon Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BEbon%5D+%5BLegion%5D)
+
+
+3
+[Murderous Rider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BRider%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+2
+[Grasp of Darkness](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrasp%5D+%5Bof%5D+%5BDarkness%5D)
+
+
+4
+[Sorin, Imperious Bloodlord](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BImperious%5D+%5BBloodlord%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Drag to the Underworld](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrag%5D+%5Bto%5D+%5Bthe%5D+%5BUnderworld%5D)
+
+
+3
+[Drill Bit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrill%5D+%5BBit%5D)
+
+
+2
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+2
+[Liliana, the Last Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana,%5D+%5Bthe%5D+%5BLast%5D+%5BHope%5D)
+
+
+3
+[Lost Legacy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLost%5D+%5BLegacy%5D)
+
+
+3
+[Rankle, Master of Pranks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRankle,%5D+%5BMaster%5D+%5Bof%5D+%5BPranks%5D)
+
+
+
+##### Colorless (25)
+
+
+
+4
+[Castle Locthwain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCastle%5D+%5BLocthwain%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+1
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+14
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (12)
+
+
+
+4
+[Knight of the Ebon Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BEbon%5D+%5BLegion%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### 2 (12)
+
+
+
+4
+[Dusk Legion Zealot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5BLegion%5D+%5BZealot%5D)
+
+
+4
+[Gifted Aetherborn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifted%5D+%5BAetherborn%5D)
+
+
+2
+[Grasp of Darkness](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrasp%5D+%5Bof%5D+%5BDarkness%5D)
+
+
+2
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+
+##### 3 (15)
+
+
+
+3
+[Murderous Rider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BRider%5D)
+
+
+4
+[Sorin, Imperious Bloodlord](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BImperious%5D+%5BBloodlord%5D)
+
+
+3
+[Drill Bit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrill%5D+%5BBit%5D)
+
+
+2
+[Liliana, the Last Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana,%5D+%5Bthe%5D+%5BLast%5D+%5BHope%5D)
+
+
+3
+[Lost Legacy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLost%5D+%5BLegacy%5D)
+
+
+
+##### 4 (7)
+
+
+
+3
+[Kalitas, Traitor of Ghet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKalitas,%5D+%5BTraitor%5D+%5Bof%5D+%5BGhet%5D)
+
+
+1
+[Drag to the Underworld](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrag%5D+%5Bto%5D+%5Bthe%5D+%5BUnderworld%5D)
+
+
+3
+[Rankle, Master of Pranks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRankle,%5D+%5BMaster%5D+%5Bof%5D+%5BPranks%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Champion of Dusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChampion%5D+%5Bof%5D+%5BDusk%5D)
+
+
+50 Cards 
+
+
+
+##### Common (20)
+
+
+
+14
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Dusk Legion Zealot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5BLegion%5D+%5BZealot%5D)
+
+
+2
+[Grasp of Darkness](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrasp%5D+%5Bof%5D+%5BDarkness%5D)
+
+
+
+##### Uncommon (14)
+
+
+
+4
+[Gifted Aetherborn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifted%5D+%5BAetherborn%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+1
+[Drag to the Underworld](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrag%5D+%5Bto%5D+%5Bthe%5D+%5BUnderworld%5D)
+
+
+3
+[Drill Bit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrill%5D+%5BBit%5D)
+
+
+2
+[Heartless Act](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartless%5D+%5BAct%5D)
+
+
+
+##### Rare (29)
+
+
+
+4
+[Castle Locthwain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCastle%5D+%5BLocthwain%5D)
+
+
+4
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+1
+[Nykthos, Shrine to Nyx](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Champion of Dusk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChampion%5D+%5Bof%5D+%5BDusk%5D)
+
+
+4
+[Knight of the Ebon Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BEbon%5D+%5BLegion%5D)
+
+
+3
+[Murderous Rider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BRider%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Lost Legacy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLost%5D+%5BLegacy%5D)
+
+
+
+##### Mythic (12)
+
+
+
+3
+[Kalitas, Traitor of Ghet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKalitas,%5D+%5BTraitor%5D+%5Bof%5D+%5BGhet%5D)
+
+
+4
+[Sorin, Imperious Bloodlord](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BImperious%5D+%5BBloodlord%5D)
+
+
+2
+[Liliana, the Last Hope](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana,%5D+%5Bthe%5D+%5BLast%5D+%5BHope%5D)
+
+
+3
+[Rankle, Master of Pranks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRankle,%5D+%5BMaster%5D+%5Bof%5D+%5BPranks%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Castle+Locthwain)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Bobthebuilder24 (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (15)
+
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+4
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+
+
+3
+[Siren Stormtamer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiren%5D+%5BStormtamer%5D)
+
+
+4
+[Stonecoil Serpent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStonecoil%5D+%5BSerpent%5D)
+
+
+
+##### Instant (4)
+
+
+
+4
+[Karametra's Blessing](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarametra%5D+%5BBlessing%5D)
+
+
+
+##### Artifact (2)
+
+
+
+2
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+
+##### Enchantment (19)
+
+
+
+4
+[All That Glitters](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BThat%5D+%5BGlitters%5D)
+
+
+3
+[Cartouche of Solidarity](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCartouche%5D+%5Bof%5D+%5BSolidarity%5D)
+
+
+4
+[Curious Obsession](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurious%5D+%5BObsession%5D)
+
+
+4
+[Ethereal Armor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthereal%5D+%5BArmor%5D)
+
+
+4
+[Staggering Insight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaggering%5D+%5BInsight%5D)
+
+
+
+##### Land (20)
+
+
+
+4
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+6
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Temple of Enlightenment](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+4
+[Damping Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BSphere%5D)
+
+
+4
+[Dovin's Veto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDovin%5D+%5BVeto%5D)
+
+
+2
+[Dusk // Dawn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5B&%5D+%5BDawn%5D)
+
+
+1
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+4
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+
+
+##### White (17)
+
+
+
+4
+[All That Glitters](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BThat%5D+%5BGlitters%5D)
+
+
+3
+[Cartouche of Solidarity](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCartouche%5D+%5Bof%5D+%5BSolidarity%5D)
+
+
+4
+[Ethereal Armor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthereal%5D+%5BArmor%5D)
+
+
+4
+[Karametra's Blessing](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarametra%5D+%5BBlessing%5D)
+
+
+2
+[Dusk // Dawn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5B&%5D+%5BDawn%5D)
+
+
+
+##### Blue (11)
+
+
+
+3
+[Siren Stormtamer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiren%5D+%5BStormtamer%5D)
+
+
+4
+[Curious Obsession](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurious%5D+%5BObsession%5D)
+
+
+4
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+
+##### Multi colored (9)
+
+
+
+4
+[Staggering Insight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaggering%5D+%5BInsight%5D)
+
+
+4
+[Dovin's Veto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDovin%5D+%5BVeto%5D)
+
+
+1
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+
+##### Colorless (38)
+
+
+
+4
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+4
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+6
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Temple of Enlightenment](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+4
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+
+
+4
+[Stonecoil Serpent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStonecoil%5D+%5BSerpent%5D)
+
+
+2
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+4
+[Damping Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BSphere%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (24)
+
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+3
+[Siren Stormtamer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiren%5D+%5BStormtamer%5D)
+
+
+3
+[Cartouche of Solidarity](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCartouche%5D+%5Bof%5D+%5BSolidarity%5D)
+
+
+4
+[Curious Obsession](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurious%5D+%5BObsession%5D)
+
+
+4
+[Ethereal Armor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthereal%5D+%5BArmor%5D)
+
+
+2
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+4
+[Karametra's Blessing](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarametra%5D+%5BBlessing%5D)
+
+
+
+##### 2 (16)
+
+
+
+4
+[All That Glitters](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BThat%5D+%5BGlitters%5D)
+
+
+4
+[Staggering Insight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaggering%5D+%5BInsight%5D)
+
+
+4
+[Damping Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BSphere%5D)
+
+
+4
+[Dovin's Veto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDovin%5D+%5BVeto%5D)
+
+
+
+##### 3 (5)
+
+
+
+1
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+4
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+
+##### 4 (2)
+
+
+
+2
+[Dusk // Dawn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5B&%5D+%5BDawn%5D)
+
+
+47 Cards 
+
+
+
+##### Common (29)
+
+
+
+4
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+6
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+3
+[Cartouche of Solidarity](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCartouche%5D+%5Bof%5D+%5BSolidarity%5D)
+
+
+4
+[Ethereal Armor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthereal%5D+%5BArmor%5D)
+
+
+4
+[Karametra's Blessing](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarametra%5D+%5BBlessing%5D)
+
+
+4
+[Dovin's Veto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDovin%5D+%5BVeto%5D)
+
+
+
+##### Uncommon (27)
+
+
+
+4
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+
+
+3
+[Siren Stormtamer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiren%5D+%5BStormtamer%5D)
+
+
+4
+[All That Glitters](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BThat%5D+%5BGlitters%5D)
+
+
+4
+[Curious Obsession](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurious%5D+%5BObsession%5D)
+
+
+4
+[Staggering Insight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaggering%5D+%5BInsight%5D)
+
+
+4
+[Damping Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BSphere%5D)
+
+
+4
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+
+##### Rare (19)
+
+
+
+4
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+2
+[Temple of Enlightenment](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+4
+[Stonecoil Serpent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStonecoil%5D+%5BSerpent%5D)
+
+
+2
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+2
+[Dusk // Dawn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5B&%5D+%5BDawn%5D)
+
+
+1
+[Lurrus of the Dream Den](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLurrus%5D+%5Bof%5D+%5Bthe%5D+%5BDream%5D+%5BDen%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Glacial+Fortress)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### DukeVitro (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (3)
+
+
+
+2
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+1
+[Tamiyo, Collector of Tales](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTamiyo,%5D+%5BCollector%5D+%5Bof%5D+%5BTales%5D)
+
+
+
+##### Creature (19)
+
+
+
+1
+[Brain Maggot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BMaggot%5D)
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+2
+[Murderous Rider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BRider%5D)
+
+
+4
+[Satyr Wayfinder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+4
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+
+##### Sorcery (6)
+
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Traverse the Ulvenwald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTraverse%5D+%5Bthe%5D+%5BUlvenwald%5D)
+
+
+
+##### Instant (9)
+
+
+
+3
+[Dig Through Time](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+2
+[Grisly Salvage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrisly%5D+%5BSalvage%5D)
+
+
+
+##### Land (23)
+
+
+
+3
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+3
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+2
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+2
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+2
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Barrier Breach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarrier%5D+%5BBreach%5D)
+
+
+1
+[Collective Brutality](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BBrutality%5D)
+
+
+2
+[Damping Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BSphere%5D)
+
+
+1
+[Flaying Tendrils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaying%5D+%5BTendrils%5D)
+
+
+3
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+1
+[Reclamation Sage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclamation%5D+%5BSage%5D)
+
+
+1
+[The Elderspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThe%5D+%5BElderspell%5D)
+
+
+1
+[Tireless Tracker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTireless%5D+%5BTracker%5D)
+
+
+1
+[Unmoored Ego](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnmoored%5D+%5BEgo%5D)
+
+
+
+
+##### Blue (12)
+
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+3
+[Dig Through Time](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+2
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+
+##### Black (16)
+
+
+
+1
+[Brain Maggot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BMaggot%5D)
+
+
+2
+[Murderous Rider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BRider%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Collective Brutality](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BBrutality%5D)
+
+
+3
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+1
+[The Elderspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThe%5D+%5BElderspell%5D)
+
+
+
+##### Green (9)
+
+
+
+4
+[Satyr Wayfinder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+2
+[Traverse the Ulvenwald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTraverse%5D+%5Bthe%5D+%5BUlvenwald%5D)
+
+
+1
+[Barrier Breach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarrier%5D+%5BBreach%5D)
+
+
+1
+[Reclamation Sage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclamation%5D+%5BSage%5D)
+
+
+1
+[Tireless Tracker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTireless%5D+%5BTracker%5D)
+
+
+
+##### Multi colored (8)
+
+
+
+4
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+2
+[Grisly Salvage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrisly%5D+%5BSalvage%5D)
+
+
+1
+[Tamiyo, Collector of Tales](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTamiyo,%5D+%5BCollector%5D+%5Bof%5D+%5BTales%5D)
+
+
+1
+[Unmoored Ego](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnmoored%5D+%5BEgo%5D)
+
+
+
+##### Colorless (30)
+
+
+
+3
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+3
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+2
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+2
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+2
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+2
+[Damping Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BSphere%5D)
+
+
+1
+[Flaying Tendrils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaying%5D+%5BTendrils%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (10)
+
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Traverse the Ulvenwald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTraverse%5D+%5Bthe%5D+%5BUlvenwald%5D)
+
+
+
+##### 2 (15)
+
+
+
+1
+[Brain Maggot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BMaggot%5D)
+
+
+4
+[Satyr Wayfinder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+2
+[Grisly Salvage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrisly%5D+%5BSalvage%5D)
+
+
+1
+[Collective Brutality](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BBrutality%5D)
+
+
+2
+[Damping Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BSphere%5D)
+
+
+1
+[The Elderspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThe%5D+%5BElderspell%5D)
+
+
+
+##### 3 (14)
+
+
+
+2
+[Murderous Rider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BRider%5D)
+
+
+4
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+1
+[Barrier Breach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarrier%5D+%5BBreach%5D)
+
+
+1
+[Flaying Tendrils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaying%5D+%5BTendrils%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+1
+[Reclamation Sage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclamation%5D+%5BSage%5D)
+
+
+1
+[Tireless Tracker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTireless%5D+%5BTracker%5D)
+
+
+1
+[Unmoored Ego](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnmoored%5D+%5BEgo%5D)
+
+
+
+##### 4 (10)
+
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+2
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+1
+[Tamiyo, Collector of Tales](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTamiyo,%5D+%5BCollector%5D+%5Bof%5D+%5BTales%5D)
+
+
+3
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+
+##### 8 (3)
+
+
+
+3
+[Dig Through Time](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+52 Cards 
+
+
+
+##### Common (14)
+
+
+
+1
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Satyr Wayfinder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+2
+[Grisly Salvage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrisly%5D+%5BSalvage%5D)
+
+
+3
+[Leyline of the Void](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+1
+[Reclamation Sage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclamation%5D+%5BSage%5D)
+
+
+
+##### Uncommon (12)
+
+
+
+1
+[Brain Maggot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BMaggot%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+1
+[Barrier Breach](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarrier%5D+%5BBreach%5D)
+
+
+2
+[Damping Sphere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamping%5D+%5BSphere%5D)
+
+
+1
+[Flaying Tendrils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlaying%5D+%5BTendrils%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+
+##### Rare (41)
+
+
+
+3
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+3
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+2
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+2
+[Hinterland Harbor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHinterland%5D+%5BHarbor%5D)
+
+
+3
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+2
+[Woodland Cemetery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWoodland%5D+%5BCemetery%5D)
+
+
+2
+[Murderous Rider](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BRider%5D)
+
+
+4
+[Thassa's Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThassa%5D+%5BOracle%5D)
+
+
+3
+[Dig Through Time](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+2
+[Jace, Wielder of Mysteries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BWielder%5D+%5Bof%5D+%5BMysteries%5D)
+
+
+1
+[Tamiyo, Collector of Tales](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTamiyo,%5D+%5BCollector%5D+%5Bof%5D+%5BTales%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Traverse the Ulvenwald](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTraverse%5D+%5Bthe%5D+%5BUlvenwald%5D)
+
+
+1
+[Collective Brutality](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BBrutality%5D)
+
+
+1
+[The Elderspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThe%5D+%5BElderspell%5D)
+
+
+1
+[Tireless Tracker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTireless%5D+%5BTracker%5D)
+
+
+1
+[Unmoored Ego](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnmoored%5D+%5BEgo%5D)
+
+
+
+##### Mythic (8)
+
+
+
+4
+[Inverter of Truth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInverter%5D+%5Bof%5D+%5BTruth%5D)
+
+
+4
+[Uro, Titan of Nature's Wrath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Breeding+Pool)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### yutya (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (10)
+
+
+
+1
+[Ashiok, Nightmare Muse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BMuse%5D)
+
+
+1
+[Jace, Architect of Thought](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D)
+
+
+3
+[Narset, Parter of Veils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset,%5D+%5BParter%5D+%5Bof%5D+%5BVeils%5D)
+
+
+2
+[Teferi, Hero of Dominaria](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BHero%5D+%5Bof%5D+%5BDominaria%5D)
+
+
+3
+[Teferi, Time Raveler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BTime%5D+%5BRaveler%5D)
+
+
+
+##### Sorcery (9)
+
+
+
+3
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+2
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (8)
+
+
+
+3
+[Dovin's Veto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDovin%5D+%5BVeto%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+1
+[Sphinx's Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5BRevelation%5D)
+
+
+
+##### Enchantment (18)
+
+
+
+1
+[Disinformation Campaign](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisinformation%5D+%5BCampaign%5D)
+
+
+2
+[Elspeth Conquers Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BConquers%5D+%5BDeath%5D)
+
+
+3
+[Oath of Kaya](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BKaya%5D)
+
+
+1
+[Oath of Liliana](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BLiliana%5D)
+
+
+1
+[Oath of Teferi](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BTeferi%5D)
+
+
+4
+[Omen of the Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOmen%5D+%5Bof%5D+%5Bthe%5D+%5BSea%5D)
+
+
+1
+[Omen of the Sun](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOmen%5D+%5Bof%5D+%5Bthe%5D+%5BSun%5D)
+
+
+2
+[Shark Typhoon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShark%5D+%5BTyphoon%5D)
+
+
+3
+[Trial of Ambition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrial%5D+%5Bof%5D+%5BAmbition%5D)
+
+
+
+##### Land (35)
+
+
+
+4
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+4
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+4
+[Fetid Pools](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFetid%5D+%5BPools%5D)
+
+
+1
+[Geier Reach Sanitarium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeier%5D+%5BReach%5D+%5BSanitarium%5D)
+
+
+4
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Godless Shrine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+2
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Shambling Vent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShambling%5D+%5BVent%5D)
+
+
+2
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+80 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Elspeth Conquers Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BConquers%5D+%5BDeath%5D)
+
+
+1
+[Authority of the Consuls](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuthority%5D+%5Bof%5D+%5Bthe%5D+%5BConsuls%5D)
+
+
+1
+[Deicide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeicide%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+1
+[Kalitas, Traitor of Ghet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKalitas,%5D+%5BTraitor%5D+%5Bof%5D+%5BGhet%5D)
+
+
+1
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+2
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+1
+[Notion Thief](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNotion%5D+%5BThief%5D)
+
+
+1
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+
+
+2
+[Rest in Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D)
+
+
+1
+[Yorion, Sky Nomad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYorion,%5D+%5BSky%5D+%5BNomad%5D)
+
+
+
+
+##### White (8)
+
+
+
+3
+[Elspeth Conquers Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BConquers%5D+%5BDeath%5D)
+
+
+1
+[Omen of the Sun](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOmen%5D+%5Bof%5D+%5Bthe%5D+%5BSun%5D)
+
+
+1
+[Authority of the Consuls](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuthority%5D+%5Bof%5D+%5Bthe%5D+%5BConsuls%5D)
+
+
+1
+[Deicide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeicide%5D)
+
+
+2
+[Rest in Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D)
+
+
+
+##### Blue (14)
+
+
+
+1
+[Jace, Architect of Thought](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D)
+
+
+3
+[Narset, Parter of Veils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset,%5D+%5BParter%5D+%5Bof%5D+%5BVeils%5D)
+
+
+4
+[Omen of the Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOmen%5D+%5Bof%5D+%5Bthe%5D+%5BSea%5D)
+
+
+2
+[Shark Typhoon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShark%5D+%5BTyphoon%5D)
+
+
+2
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Black (13)
+
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+1
+[Oath of Liliana](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BLiliana%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Trial of Ambition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrial%5D+%5Bof%5D+%5BAmbition%5D)
+
+
+1
+[Kalitas, Traitor of Ghet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKalitas,%5D+%5BTraitor%5D+%5Bof%5D+%5BGhet%5D)
+
+
+
+##### Multi colored (23)
+
+
+
+1
+[Ashiok, Nightmare Muse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BMuse%5D)
+
+
+1
+[Disinformation Campaign](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisinformation%5D+%5BCampaign%5D)
+
+
+3
+[Dovin's Veto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDovin%5D+%5BVeto%5D)
+
+
+3
+[Oath of Kaya](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BKaya%5D)
+
+
+1
+[Oath of Teferi](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BTeferi%5D)
+
+
+1
+[Sphinx's Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5BRevelation%5D)
+
+
+3
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+2
+[Teferi, Hero of Dominaria](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BHero%5D+%5Bof%5D+%5BDominaria%5D)
+
+
+3
+[Teferi, Time Raveler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BTime%5D+%5BRaveler%5D)
+
+
+2
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+1
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+1
+[Notion Thief](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNotion%5D+%5BThief%5D)
+
+
+1
+[Yorion, Sky Nomad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYorion,%5D+%5BSky%5D+%5BNomad%5D)
+
+
+
+##### Colorless (37)
+
+
+
+4
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+4
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+4
+[Fetid Pools](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFetid%5D+%5BPools%5D)
+
+
+1
+[Geier Reach Sanitarium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeier%5D+%5BReach%5D+%5BSanitarium%5D)
+
+
+4
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Godless Shrine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+2
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Shambling Vent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShambling%5D+%5BVent%5D)
+
+
+2
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+1
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+
+
+95 Cards 
+
+
+
+##### 1 (11)
+
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Authority of the Consuls](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuthority%5D+%5Bof%5D+%5Bthe%5D+%5BConsuls%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+1
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+
+
+
+##### 2 (17)
+
+
+
+3
+[Dovin's Veto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDovin%5D+%5BVeto%5D)
+
+
+4
+[Omen of the Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOmen%5D+%5Bof%5D+%5Bthe%5D+%5BSea%5D)
+
+
+2
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+3
+[Trial of Ambition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrial%5D+%5Bof%5D+%5BAmbition%5D)
+
+
+1
+[Deicide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeicide%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Rest in Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D)
+
+
+
+##### 3 (16)
+
+
+
+1
+[Disinformation Campaign](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisinformation%5D+%5BCampaign%5D)
+
+
+3
+[Narset, Parter of Veils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset,%5D+%5BParter%5D+%5Bof%5D+%5BVeils%5D)
+
+
+3
+[Oath of Kaya](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BKaya%5D)
+
+
+1
+[Oath of Liliana](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BLiliana%5D)
+
+
+1
+[Omen of the Sun](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOmen%5D+%5Bof%5D+%5Bthe%5D+%5BSun%5D)
+
+
+1
+[Sphinx's Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5BRevelation%5D)
+
+
+3
+[Teferi, Time Raveler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BTime%5D+%5BRaveler%5D)
+
+
+1
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+2
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+
+##### 4 (6)
+
+
+
+1
+[Jace, Architect of Thought](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D)
+
+
+3
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+1
+[Kalitas, Traitor of Ghet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKalitas,%5D+%5BTraitor%5D+%5Bof%5D+%5BGhet%5D)
+
+
+1
+[Notion Thief](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNotion%5D+%5BThief%5D)
+
+
+
+##### 5 (8)
+
+
+
+1
+[Ashiok, Nightmare Muse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BMuse%5D)
+
+
+3
+[Elspeth Conquers Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BConquers%5D+%5BDeath%5D)
+
+
+1
+[Oath of Teferi](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BTeferi%5D)
+
+
+2
+[Teferi, Hero of Dominaria](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BHero%5D+%5Bof%5D+%5BDominaria%5D)
+
+
+1
+[Yorion, Sky Nomad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYorion,%5D+%5BSky%5D+%5BNomad%5D)
+
+
+
+##### 6 (2)
+
+
+
+2
+[Shark Typhoon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShark%5D+%5BTyphoon%5D)
+
+
+60 Cards 
+
+
+
+##### Common (13)
+
+
+
+2
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+3
+[Dovin's Veto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDovin%5D+%5BVeto%5D)
+
+
+4
+[Omen of the Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOmen%5D+%5Bof%5D+%5Bthe%5D+%5BSea%5D)
+
+
+1
+[Omen of the Sun](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOmen%5D+%5Bof%5D+%5Bthe%5D+%5BSun%5D)
+
+
+
+##### Uncommon (17)
+
+
+
+1
+[Disinformation Campaign](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisinformation%5D+%5BCampaign%5D)
+
+
+4
+[Fatal Push](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D)
+
+
+3
+[Narset, Parter of Veils](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset,%5D+%5BParter%5D+%5Bof%5D+%5BVeils%5D)
+
+
+2
+[Thought Erasure](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BErasure%5D)
+
+
+3
+[Trial of Ambition](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrial%5D+%5Bof%5D+%5BAmbition%5D)
+
+
+2
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+2
+[Negate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Rare (59)
+
+
+
+4
+[Drowned Catacomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D)
+
+
+4
+[Fabled Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabled%5D+%5BPassage%5D)
+
+
+4
+[Fetid Pools](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFetid%5D+%5BPools%5D)
+
+
+1
+[Geier Reach Sanitarium](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeier%5D+%5BReach%5D+%5BSanitarium%5D)
+
+
+4
+[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Godless Shrine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D)
+
+
+4
+[Hallowed Fountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D)
+
+
+1
+[Shambling Vent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShambling%5D+%5BVent%5D)
+
+
+4
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+3
+[Elspeth Conquers Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BConquers%5D+%5BDeath%5D)
+
+
+3
+[Oath of Kaya](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BKaya%5D)
+
+
+1
+[Oath of Liliana](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BLiliana%5D)
+
+
+1
+[Oath of Teferi](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BTeferi%5D)
+
+
+2
+[Shark Typhoon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShark%5D+%5BTyphoon%5D)
+
+
+3
+[Supreme Verdict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D)
+
+
+3
+[Teferi, Time Raveler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BTime%5D+%5BRaveler%5D)
+
+
+4
+[Thoughtseize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Authority of the Consuls](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuthority%5D+%5Bof%5D+%5Bthe%5D+%5BConsuls%5D)
+
+
+1
+[Deicide](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeicide%5D)
+
+
+1
+[Grafdigger's Cage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D)
+
+
+1
+[Kambal, Consul of Allocation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKambal,%5D+%5BConsul%5D+%5Bof%5D+%5BAllocation%5D)
+
+
+1
+[Notion Thief](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNotion%5D+%5BThief%5D)
+
+
+1
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+
+
+2
+[Rest in Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D)
+
+
+1
+[Yorion, Sky Nomad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYorion,%5D+%5BSky%5D+%5BNomad%5D)
+
+
+
+##### Mythic (6)
+
+
+
+1
+[Ashiok, Nightmare Muse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BMuse%5D)
+
+
+1
+[Jace, Architect of Thought](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D)
+
+
+1
+[Sphinx's Revelation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5BRevelation%5D)
+
+
+2
+[Teferi, Hero of Dominaria](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi,%5D+%5BHero%5D+%5Bof%5D+%5BDominaria%5D)
+
+
+1
+[Kalitas, Traitor of Ghet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKalitas,%5D+%5BTraitor%5D+%5Bof%5D+%5BGhet%5D)
+
+
+95 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Drowned+Catacomb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### \_ZNT\_ (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (25)
+
+
+
+4
+[Bomat Courier](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBomat%5D+%5BCourier%5D)
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+1
+[Hope of Ghirapur](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D)
+
+
+4
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+
+
+4
+[Skilled Animator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkilled%5D+%5BAnimator%5D)
+
+
+4
+[Steel Overseer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteel%5D+%5BOverseer%5D)
+
+
+4
+[Stonecoil Serpent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStonecoil%5D+%5BSerpent%5D)
+
+
+
+##### Instant (6)
+
+
+
+2
+[Metallic Rebuke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D)
+
+
+4
+[Shrapnel Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrapnel%5D+%5BBlast%5D)
+
+
+
+##### Artifact (4)
+
+
+
+4
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Ensoul Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsoul%5D+%5BArtifact%5D)
+
+
+
+##### Land (21)
+
+
+
+4
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+
+
+1
+[Ipnu Rivulet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIpnu%5D+%5BRivulet%5D)
+
+
+1
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Shivan Reef](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+3
+[Spire of Industry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5Bof%5D+%5BIndustry%5D)
+
+
+4
+[Spirebluff Canal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpirebluff%5D+%5BCanal%5D)
+
+
+2
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Abrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D)
+
+
+2
+[Aether Gust](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D)
+
+
+1
+[Aethersphere Harvester](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAethersphere%5D+%5BHarvester%5D)
+
+
+2
+[Fry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFry%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+1
+[Pia Nalaar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPia%5D+%5BNalaar%5D)
+
+
+1
+[Shadowspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowspear%5D)
+
+
+2
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+
+
+2
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+
+##### Blue (15)
+
+
+
+4
+[Skilled Animator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkilled%5D+%5BAnimator%5D)
+
+
+4
+[Ensoul Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsoul%5D+%5BArtifact%5D)
+
+
+2
+[Metallic Rebuke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D)
+
+
+2
+[Aether Gust](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+
+##### Red (10)
+
+
+
+4
+[Shrapnel Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrapnel%5D+%5BBlast%5D)
+
+
+1
+[Abrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D)
+
+
+2
+[Fry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFry%5D)
+
+
+1
+[Pia Nalaar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPia%5D+%5BNalaar%5D)
+
+
+2
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### Colorless (50)
+
+
+
+4
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+
+
+1
+[Ipnu Rivulet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIpnu%5D+%5BRivulet%5D)
+
+
+1
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Shivan Reef](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+3
+[Spire of Industry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5Bof%5D+%5BIndustry%5D)
+
+
+4
+[Spirebluff Canal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpirebluff%5D+%5BCanal%5D)
+
+
+2
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+
+
+4
+[Bomat Courier](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBomat%5D+%5BCourier%5D)
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+1
+[Hope of Ghirapur](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D)
+
+
+4
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+
+
+4
+[Steel Overseer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteel%5D+%5BOverseer%5D)
+
+
+4
+[Stonecoil Serpent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStonecoil%5D+%5BSerpent%5D)
+
+
+4
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+1
+[Aethersphere Harvester](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAethersphere%5D+%5BHarvester%5D)
+
+
+1
+[Shadowspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowspear%5D)
+
+
+2
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (16)
+
+
+
+4
+[Bomat Courier](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBomat%5D+%5BCourier%5D)
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+1
+[Hope of Ghirapur](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D)
+
+
+4
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+1
+[Shadowspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowspear%5D)
+
+
+2
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### 2 (17)
+
+
+
+4
+[Steel Overseer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteel%5D+%5BOverseer%5D)
+
+
+4
+[Ensoul Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsoul%5D+%5BArtifact%5D)
+
+
+4
+[Shrapnel Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrapnel%5D+%5BBlast%5D)
+
+
+1
+[Abrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D)
+
+
+2
+[Aether Gust](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D)
+
+
+2
+[Fry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFry%5D)
+
+
+
+##### 3 (11)
+
+
+
+4
+[Skilled Animator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkilled%5D+%5BAnimator%5D)
+
+
+2
+[Metallic Rebuke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D)
+
+
+1
+[Aethersphere Harvester](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAethersphere%5D+%5BHarvester%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+1
+[Pia Nalaar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPia%5D+%5BNalaar%5D)
+
+
+44 Cards 
+
+
+
+##### Common (7)
+
+
+
+1
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Gingerbrute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGingerbrute%5D)
+
+
+2
+[Metallic Rebuke](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D)
+
+
+
+##### Uncommon (33)
+
+
+
+4
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+
+
+1
+[Ipnu Rivulet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIpnu%5D+%5BRivulet%5D)
+
+
+4
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+
+
+4
+[Skilled Animator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkilled%5D+%5BAnimator%5D)
+
+
+4
+[Ensoul Artifact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsoul%5D+%5BArtifact%5D)
+
+
+4
+[Shrapnel Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShrapnel%5D+%5BBlast%5D)
+
+
+1
+[Abrade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D)
+
+
+2
+[Aether Gust](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D)
+
+
+2
+[Fry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFry%5D)
+
+
+3
+[Mystical Dispute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D)
+
+
+2
+[Tormod's Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D)
+
+
+2
+[Wild Slash](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### Rare (35)
+
+
+
+2
+[Mutavault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
+
+
+4
+[Shivan Reef](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+3
+[Spire of Industry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5Bof%5D+%5BIndustry%5D)
+
+
+4
+[Spirebluff Canal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpirebluff%5D+%5BCanal%5D)
+
+
+2
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+
+
+4
+[Bomat Courier](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBomat%5D+%5BCourier%5D)
+
+
+1
+[Hope of Ghirapur](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D)
+
+
+4
+[Steel Overseer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteel%5D+%5BOverseer%5D)
+
+
+4
+[Stonecoil Serpent](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStonecoil%5D+%5BSerpent%5D)
+
+
+4
+[Ghostfire Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostfire%5D+%5BBlade%5D)
+
+
+1
+[Aethersphere Harvester](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAethersphere%5D+%5BHarvester%5D)
+
+
+1
+[Pia Nalaar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPia%5D+%5BNalaar%5D)
+
+
+1
+[Shadowspear](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowspear%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Darksteel+Citadel)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### ThatDirtyGinger (5-0)
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (34)
+
+
+
+4
+[Angrath's Marauders](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngrath%5D+%5BMarauders%5D)
+
+
+4
+[Elvish Mystic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+2
+[Gilded Goose](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGilded%5D+%5BGoose%5D)
+
+
+4
+[Goblin Rabblemaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Kenrith, the Returned King](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKenrith,%5D+%5Bthe%5D+%5BReturned%5D+%5BKing%5D)
+
+
+3
+[Legion Warboss](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLegion%5D+%5BWarboss%5D)
+
+
+4
+[Llanowar Elves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
+
+
+1
+[Scampering Scorcher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScampering%5D+%5BScorcher%5D)
+
+
+2
+[Selfless Spirit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelfless%5D+%5BSpirit%5D)
+
+
+4
+[Voice of Resurgence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoice%5D+%5Bof%5D+%5BResurgence%5D)
+
+
+4
+[Winota, Joiner of Forces](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinota,%5D+%5BJoiner%5D+%5Bof%5D+%5BForces%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Eldritch Evolution](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldritch%5D+%5BEvolution%5D)
+
+
+
+##### Land (22)
+
+
+
+2
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Inspiring Vantage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInspiring%5D+%5BVantage%5D)
+
+
+2
+[Mana Confluence](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+1
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Rootbound Crag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootbound%5D+%5BCrag%5D)
+
+
+2
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+4
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+2
+[Sunpetal Grove](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
+
+
+4
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Selfless Spirit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelfless%5D+%5BSpirit%5D)
+
+
+3
+[Bonecrusher Giant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonecrusher%5D+%5BGiant%5D)
+
+
+3
+[Knight of Autumn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5BAutumn%5D)
+
+
+2
+[Rest in Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D)
+
+
+2
+[Scavenging Ooze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+3
+[Silkwrap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilkwrap%5D)
+
+
+
+
+##### White (11)
+
+
+
+2
+[Kenrith, the Returned King](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKenrith,%5D+%5Bthe%5D+%5BReturned%5D+%5BKing%5D)
+
+
+4
+[Selfless Spirit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelfless%5D+%5BSpirit%5D)
+
+
+2
+<a href="https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D" data-src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Rest+in+Pea

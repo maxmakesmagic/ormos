@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220705180228/https://magic.wizards.com/en/articles/archive/feature/inside-labyrinth-2017-01-24?fbclid=IwAR3uW83PXnvTqDTmRCbcB2WlcxIMAbQxdyJWvUAzPdhJIGJhGICkPpmKbcY)
+[Link to Wayback Machine](https://web.archive.org/web/20170126042701/http://magic.wizards.com/en/articles/archive/feature/inside-labyrinth-2017-01-24)
 
 [_metadata_:author]:- "Corbin Hosler"
 [_metadata_:description]:- "Corbin gets the low-down on a store that goes out of its way to immerse players in the worlds of Magic."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2017-01-24"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Inside the Labyrinth"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 18:02:28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705180228id_/https://magic.wizards.com/en/articles/archive/feature/inside-labyrinth-2017-01-24?fbclid=IwAR3uW83PXnvTqDTmRCbcB2WlcxIMAbQxdyJWvUAzPdhJIGJhGICkPpmKbcY"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/inside-labyrinth-2017-01-24?fbclid=IwAR3uW83PXnvTqDTmRCbcB2WlcxIMAbQxdyJWvUAzPdhJIGJhGICkPpmKbcY"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-26 04:27:01"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170126042701id_/http://magic.wizards.com/en/articles/archive/feature/inside-labyrinth-2017-01-24"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/inside-labyrinth-2017-01-24"
 ---
 
 
@@ -54,7 +54,7 @@ There's plenty to catch one's eye, but it was the window that stood out to Boebi
 
 
 
-![Relentless Dead](https://media.wizards.com/2017/images/daily/cardart_SOI_Relentless-Dead.jpg)[Relentless Dead](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Relentless+Dead) | Art by [Ryan Yee](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&artist=%5b%22Ryan+Yee%22%5d)
+![Relentless Dead](https://media.wizards.com/2017/images/daily/cardart_SOI_Relentless-Dead.jpg)[Relentless Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Relentless+Dead) | Art by [Ryan Yee](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&artist=%5b%22Ryan+Yee%22%5d)
 Labyrinth Games and Puzzles, that is, a small store in Washington, DC. It's just a short walk from the store to the nation's Capitol Building and essential offices where leaders make important decisions about global matters.
 
 
@@ -70,7 +70,7 @@ You can thank store owner Kathleen Donahue and manager Alex Smith for that. Smit
 "With *Shadows over Innistrad* and the stained-glass window*,* it really started as a whim," Smith explained. "But I got such good feedback about it. Even the artist for the original stained-glass window [[Ryan Yee](http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&artist=%5b%22Ryan%20Yee%22%5d)] commented and said he thought it was a great idea. It was such a fun thing to do, so I decided to start doing it for more events."
 
 
-That culminated in the *Kaladesh* event, where Smith went above and beyond to truly immerse players in the [Inventors' Fair](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Inventors%27+Fair). That meant hand-painted decorations for tables. It meant homemade consulate pins for players.
+That culminated in the *Kaladesh* event, where Smith went above and beyond to truly immerse players in the [Inventors' Fair](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Inventors%27+Fair). That meant hand-painted decorations for tables. It meant homemade consulate pins for players.
 
 
 
@@ -85,11 +85,11 @@ It meant using gears rather than dice to represent counters—a rather flavorful
 
 
 ![Nothing says "My creatures have a bunch of bonuses" quite like a stack of gears.](https://media.wizards.com/2017/images/daily/FEAT20160123_Gears.jpg)*Nothing says "My creatures have a bunch of bonuses" quite like a stack of gears.*
-It meant filling an "[Aetherflux Reservoir](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aetherflux+Reservoir)" with acrylic ice rocks—an ingenious way to solve the problem of the set arriving without energy counters.
+It meant filling an "[Aetherflux Reservoir](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aetherflux+Reservoir)" with acrylic ice rocks—an ingenious way to solve the problem of the set arriving without energy counters.
 
 
 
-![Players dipped into the Aetherflux Reservoir whenever they needed some energy.](https://media.wizards.com/2017/images/daily/FEAT20160123_Reservoir.jpg)*Players dipped into the [Aetherflux Reservoir](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aetherflux+Reservoir) whenever they needed some energy.*
+![Players dipped into the Aetherflux Reservoir whenever they needed some energy.](https://media.wizards.com/2017/images/daily/FEAT20160123_Reservoir.jpg)*Players dipped into the [Aetherflux Reservoir](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aetherflux+Reservoir) whenever they needed some energy.*
 
 ![Remember: always use aether responsibly.](https://media.wizards.com/2017/images/daily/FEAT20160123_Eyes.jpg)*Remember: always use aether responsibly.*
 More than anything, it meant a great Prerelease for all involved.

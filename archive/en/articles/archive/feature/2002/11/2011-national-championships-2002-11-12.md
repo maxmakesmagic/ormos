@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20171030075924/https://magic.wizards.com/en/articles/archive/feature/2011-national-championships-2002-11-12)
+[Link to Wayback Machine](https://web.archive.org/web/20161001223055/http://magic.wizards.com/en/articles/archive/feature/2011-national-championships-2002-11-12)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Held each year, National Championships are the highest level competition for a particular country. In 2011, players from 69 countries will compete in Magic: The Gathering National Championships for the right to represent their countries at the 2011 World Championships held in San Francisco, USA on November 17-20, 2011."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2002-11-12"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 National Championships"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:59:24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030075924id_/https://magic.wizards.com/en/articles/archive/feature/2011-national-championships-2002-11-12"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-national-championships-2002-11-12"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-01 22:30:55"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161001223055id_/http://magic.wizards.com/en/articles/archive/feature/2011-national-championships-2002-11-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2011-national-championships-2002-11-12"
 ---
 
 

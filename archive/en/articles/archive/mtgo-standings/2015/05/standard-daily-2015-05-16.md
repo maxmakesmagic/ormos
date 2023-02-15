@@ -1,0 +1,21989 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20150521190417/http://magic.wizards.com/en/articles/archive/mtgo-standings/standard-daily-2015-05-16)
+
+[_metadata_:description]:- "Decklists Standings"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "389526"
+[_metadata_:publish_date]:- "2015-05-16"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Standard Daily"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-21 19:04:17"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150521190417id_/http://magic.wizards.com/en/articles/archive/mtgo-standings/standard-daily-2015-05-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/mtgo-standings/standard-daily-2015-05-16"
+---
+
+
+Standard Daily
+==============
+
+
+
+ Posted in **MTGO Standings**
+ on May 16, 2015 
+
+
+
+
+
+
+
+
+
+
+
+* [Decklists](#decklists)
+* [Standings](#standings)
+
+
+Decklists
+---------
+
+
+
+
+
+
+
+
+#### WoOtoO (4-0)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-08f4694e1316463e6ff33f36fcbf046e.txt?n=WoOtoO%20%284-0%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (33)
+
+
+
+4
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+3
+[Dragonlord Atarka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BAtarka%5D)
+
+
+1
+[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BDromoka%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Rattleclaw Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRattleclaw%5D+%5BMystic%5D)
+
+
+2
+[Surrak, the Hunt Caller](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurrak,%5D+%5Bthe%5D+%5BHunt%5D+%5BCaller%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[See the Unwritten](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSee%5D+%5Bthe%5D+%5BUnwritten%5D)
+
+
+
+##### Land (23)
+
+
+
+4
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+2
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Abandon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BAbandon%5D)
+
+
+2
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BDromoka%5D)
+
+
+2
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+1
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+2
+[Seismic Rupture](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeismic%5D+%5BRupture%5D)
+
+
+
+
+##### Red (10)
+
+
+
+4
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+1
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+2
+[Seismic Rupture](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeismic%5D+%5BRupture%5D)
+
+
+
+##### Green (36)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Rattleclaw Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRattleclaw%5D+%5BMystic%5D)
+
+
+2
+[Surrak, the Hunt Caller](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurrak,%5D+%5Bthe%5D+%5BHunt%5D+%5BCaller%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+4
+[See the Unwritten](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSee%5D+%5Bthe%5D+%5BUnwritten%5D)
+
+
+2
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+2
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+
+##### Multi colored (6)
+
+
+
+3
+[Dragonlord Atarka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BAtarka%5D)
+
+
+2
+[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BDromoka%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (23)
+
+
+
+4
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+2
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Abandon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BAbandon%5D)
+
+
+2
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (5)
+
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+1
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+
+##### 2 (11)
+
+
+
+4
+[Rattleclaw Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRattleclaw%5D+%5BMystic%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### 3 (15)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+2
+[Seismic Rupture](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeismic%5D+%5BRupture%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+2
+[Surrak, the Hunt Caller](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurrak,%5D+%5Bthe%5D+%5BHunt%5D+%5BCaller%5D)
+
+
+
+##### 5 (6)
+
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+2
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+
+##### 6 (6)
+
+
+
+2
+[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BDromoka%5D)
+
+
+4
+[See the Unwritten](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSee%5D+%5Bthe%5D+%5BUnwritten%5D)
+
+
+
+##### 7 (3)
+
+
+
+3
+[Dragonlord Atarka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BAtarka%5D)
+
+
+52 Cards 
+
+
+
+##### Common (12)
+
+
+
+4
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+1
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+
+##### Uncommon (2)
+
+
+
+2
+[Seismic Rupture](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeismic%5D+%5BRupture%5D)
+
+
+
+##### Rare (40)
+
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+4
+[Temple of Abandon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BAbandon%5D)
+
+
+2
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Rattleclaw Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRattleclaw%5D+%5BMystic%5D)
+
+
+2
+[Surrak, the Hunt Caller](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurrak,%5D+%5Bthe%5D+%5BHunt%5D+%5BCaller%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+2
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+
+##### Mythic (21)
+
+
+
+4
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+3
+[Dragonlord Atarka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BAtarka%5D)
+
+
+2
+[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BDromoka%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+4
+[See the Unwritten](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSee%5D+%5Bthe%5D+%5BUnwritten%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### TeamRocketsHideout (4-0)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-2be51ea51064acfa7f42355dc8f09096.txt?n=TeamRocketsHideout%20%284-0%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (1)
+
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Creature (20)
+
+
+
+4
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+2
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+2
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (9)
+
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### Land (26)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+1
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+1
+[Mistcutter Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+
+
+##### White (6)
+
+
+
+3
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+
+##### Black (13)
+
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+
+##### Green (4)
+
+
+
+2
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+1
+[Mistcutter Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+
+##### Multi colored (26)
+
+
+
+4
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Colorless (26)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+1
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (9)
+
+
+
+2
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Mistcutter Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+
+##### 2 (17)
+
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+
+##### 3 (12)
+
+
+
+4
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### 5 (4)
+
+
+
+3
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+49 Cards 
+
+
+
+##### Common (6)
+
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (15)
+
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+
+##### Rare (41)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+1
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Mistcutter Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMistcutter%5D+%5BHydra%5D)
+
+
+
+##### Mythic (13)
+
+
+
+4
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+2
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+3
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### babones (4-0)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-0169f56b9d9caa935eb63a72b8ed4e3e.txt?n=babones%20%284-0%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (15)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+2
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+
+##### Sorcery (8)
+
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+
+##### Instant (16)
+
+
+
+4
+[Atarka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAtarka%5D+%5BCommand%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### Land (21)
+
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+12
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+4
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+
+
+##### Red (50)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+3
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+2
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+4
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+
+##### Multi colored (4)
+
+
+
+4
+[Atarka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAtarka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (21)
+
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+12
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (17)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+2
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### 2 (20)
+
+
+
+4
+[Atarka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAtarka%5D+%5BCommand%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### 3 (6)
+
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+
+##### 4 (11)
+
+
+
+3
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+54 Cards 
+
+
+
+##### Common (29)
+
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+12
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+3
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+
+##### Uncommon (22)
+
+
+
+2
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### Rare (24)
+
+
+
+3
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Atarka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAtarka%5D+%5BCommand%5D)
+
+
+4
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### AlfredoTorres (4-0)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-d8fc4817f2b359e36cbf344318c2bac8.txt?n=AlfredoTorres%20%284-0%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (19)
+
+
+
+2
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+3
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+2
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+
+##### Sorcery (7)
+
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+3
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+
+##### Instant (13)
+
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+1
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### Artifact (1)
+
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+
+##### Land (20)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+3
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+2
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+2
+[Bathe in Dragonfire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBathe%5D+%5Bin%5D+%5BDragonfire%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+2
+[Scouring Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScouring%5D+%5BSands%5D)
+
+
+
+
+##### Red (54)
+
+
+
+2
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+3
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+2
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+3
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+2
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+2
+[Bathe in Dragonfire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBathe%5D+%5Bin%5D+%5BDragonfire%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+2
+[Scouring Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScouring%5D+%5BSands%5D)
+
+
+
+##### Colorless (21)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (17)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+3
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+2
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### 2 (20)
+
+
+
+2
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+2
+[Scouring Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScouring%5D+%5BSands%5D)
+
+
+
+##### 3 (10)
+
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+3
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+2
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+2
+[Bathe in Dragonfire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBathe%5D+%5Bin%5D+%5BDragonfire%5D)
+
+
+
+##### 4 (8)
+
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+55 Cards 
+
+
+
+##### Common (38)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+2
+[Bathe in Dragonfire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBathe%5D+%5Bin%5D+%5BDragonfire%5D)
+
+
+2
+[Scouring Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScouring%5D+%5BSands%5D)
+
+
+
+##### Uncommon (28)
+
+
+
+3
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+2
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### Rare (9)
+
+
+
+2
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Budget\_Monk (4-0)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-624d9e8f87304f3332db31d7a220d38d.txt?n=Budget_Monk%20%284-0%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (5)
+
+
+
+4
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+1
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+
+##### Sorcery (8)
+
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+
+##### Instant (19)
+
+
+
+2
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+1
+[Gods Willing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGods%5D+%5BWilling%5D)
+
+
+3
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+3
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Jeskai Ascendancy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJeskai%5D+%5BAscendancy%5D)
+
+
+
+##### Land (24)
+
+
+
+3
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+1
+[Evolving Wilds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEvolving%5D+%5BWilds%5D)
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+4
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+2
+[End Hostilities](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnd%5D+%5BHostilities%5D)
+
+
+2
+[Narset Transcendent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset%5D+%5BTranscendent%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Ojutai Exemplars](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BExemplars%5D)
+
+
+
+
+##### White (18)
+
+
+
+4
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+1
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+1
+[Gods Willing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGods%5D+%5BWilling%5D)
+
+
+4
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[End Hostilities](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnd%5D+%5BHostilities%5D)
+
+
+2
+[Ojutai Exemplars](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BExemplars%5D)
+
+
+
+##### Blue (12)
+
+
+
+2
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Red (15)
+
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+3
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+3
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+1
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+
+##### Multi colored (6)
+
+
+
+4
+[Jeskai Ascendancy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJeskai%5D+%5BAscendancy%5D)
+
+
+2
+[Narset Transcendent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset%5D+%5BTranscendent%5D)
+
+
+
+##### Colorless (24)
+
+
+
+3
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+1
+[Evolving Wilds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEvolving%5D+%5BWilds%5D)
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+4
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (4)
+
+
+
+1
+[Gods Willing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGods%5D+%5BWilling%5D)
+
+
+3
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### 2 (20)
+
+
+
+1
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+2
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+3
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### 3 (13)
+
+
+
+4
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Jeskai Ascendancy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJeskai%5D+%5BAscendancy%5D)
+
+
+1
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+
+##### 4 (8)
+
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+2
+[Narset Transcendent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset%5D+%5BTranscendent%5D)
+
+
+2
+[Ojutai Exemplars](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BExemplars%5D)
+
+
+
+##### 5 (2)
+
+
+
+2
+[End Hostilities](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnd%5D+%5BHostilities%5D)
+
+
+
+##### 8 (4)
+
+
+
+4
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+51 Cards 
+
+
+
+##### Common (28)
+
+
+
+1
+[Evolving Wilds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEvolving%5D+%5BWilds%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+1
+[Gods Willing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGods%5D+%5BWilling%5D)
+
+
+3
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+4
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Uncommon (18)
+
+
+
+4
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+3
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+1
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+
+##### Rare (20)
+
+
+
+3
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+4
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+4
+[Jeskai Ascendancy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJeskai%5D+%5BAscendancy%5D)
+
+
+1
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[End Hostilities](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnd%5D+%5BHostilities%5D)
+
+
+
+##### Mythic (9)
+
+
+
+4
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+1
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+2
+[Narset Transcendent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset%5D+%5BTranscendent%5D)
+
+
+2
+[Ojutai Exemplars](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BExemplars%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Battlefield+Forge)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### KevBo (4-0)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-330077787b3b5579e9120dd371025e4d.txt?n=KevBo%20%284-0%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (1)
+
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Creature (20)
+
+
+
+4
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+3
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (9)
+
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### Land (26)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+1
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+3
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+
+##### White (8)
+
+
+
+4
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+3
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+
+##### Black (15)
+
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Green (1)
+
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+
+##### Multi colored (25)
+
+
+
+4
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Colorless (26)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (7)
+
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (18)
+
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+3
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (13)
+
+
+
+4
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+49 Cards 
+
+
+
+##### Common (6)
+
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (17)
+
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+3
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Rare (40)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Mythic (12)
+
+
+
+4
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+4
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### dklfighter (4-0)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-5a7bd225765ac21731f88f168e2b3d58.txt?n=dklfighter%20%284-0%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (1)
+
+
+
+1
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+
+##### Creature (6)
+
+
+
+4
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+1
+[Silumgar, the Drifting Death](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar,%5D+%5Bthe%5D+%5BDrifting%5D+%5BDeath%5D)
+
+
+
+##### Sorcery (5)
+
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (21)
+
+
+
+2
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+3
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+2
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+
+##### Land (27)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+4
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+1
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+1
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+1
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Dragonlord's Prerogative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BPrerogative%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+1
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+1
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+
+##### Blue (15)
+
+
+
+2
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+2
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+2
+[Dragonlord's Prerogative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BPrerogative%5D)
+
+
+1
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+
+##### Black (23)
+
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+3
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+1
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Multi colored (9)
+
+
+
+4
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+2
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+1
+[Silumgar, the Drifting Death](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar,%5D+%5Bthe%5D+%5BDrifting%5D+%5BDeath%5D)
+
+
+2
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+
+##### Colorless (28)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+4
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+1
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (4)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### 2 (13)
+
+
+
+2
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+1
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (13)
+
+
+
+2
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+2
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 5 (7)
+
+
+
+4
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+3
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+
+##### 6 (6)
+
+
+
+2
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+1
+[Silumgar, the Drifting Death](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar,%5D+%5Bthe%5D+%5BDrifting%5D+%5BDeath%5D)
+
+
+2
+[Dragonlord's Prerogative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BPrerogative%5D)
+
+
+1
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+
+##### 8 (5)
+
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+48 Cards 
+
+
+
+##### Common (10)
+
+
+
+4
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+
+##### Uncommon (18)
+
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Rare (38)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+1
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+1
+[Silumgar, the Drifting Death](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar,%5D+%5Bthe%5D+%5BDrifting%5D+%5BDeath%5D)
+
+
+3
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Dragonlord's Prerogative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BPrerogative%5D)
+
+
+1
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+1
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+
+##### Mythic (9)
+
+
+
+4
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+2
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+2
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Vitorlima (4-0)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-f57f15ef09de4b1a82a0f2ff1474b2ca.txt?n=Vitorlima%20%284-0%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (1)
+
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### Creature (26)
+
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+1
+[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BDromoka%5D)
+
+
+3
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+
+##### Instant (7)
+
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### Enchantment (2)
+
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Land (24)
+
+
+
+1
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+5
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+3
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+2
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+
+##### White (5)
+
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+
+##### Black (14)
+
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Green (17)
+
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+3
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+
+##### Multi colored (15)
+
+
+
+1
+[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BDromoka%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (24)
+
+
+
+1
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+5
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+3
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+2
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (7)
+
+
+
+3
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### 2 (22)
+
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (15)
+
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### 4 (4)
+
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+
+##### 5 (1)
+
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### 6 (2)
+
+
+
+1
+[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BDromoka%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+51 Cards 
+
+
+
+##### Common (9)
+
+
+
+5
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+3
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+
+##### Uncommon (17)
+
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Rare (43)
+
+
+
+1
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+3
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+2
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Mythic (6)
+
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+1
+[Dragonlord Dromoka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BDromoka%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### bolov0 (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-2986f3d57c42c75b2cdf197f4fa89e3a.txt?n=bolov0%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (26)
+
+
+
+2
+[Boon Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+2
+[Brimaz, King of Oreskos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimaz,%5D+%5BKing%5D+%5Bof%5D+%5BOreskos%5D)
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+3
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Collected Company](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### Land (24)
+
+
+
+2
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+7
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+5
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Boon Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+1
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+
+##### White (18)
+
+
+
+2
+[Brimaz, King of Oreskos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimaz,%5D+%5BKing%5D+%5Bof%5D+%5BOreskos%5D)
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Green (25)
+
+
+
+3
+[Boon Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+3
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+4
+[Collected Company](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D)
+
+
+1
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### Multi colored (8)
+
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (24)
+
+
+
+2
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+7
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+5
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+3
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### 2 (26)
+
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+4
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### 3 (13)
+
+
+
+3
+[Boon Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+2
+[Brimaz, King of Oreskos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimaz,%5D+%5BKing%5D+%5Bof%5D+%5BOreskos%5D)
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+1
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+
+##### 4 (4)
+
+
+
+4
+[Collected Company](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D)
+
+
+
+##### 6 (2)
+
+
+
+2
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+51 Cards 
+
+
+
+##### Common (18)
+
+
+
+7
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+5
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+3
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+
+##### Uncommon (11)
+
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### Rare (37)
+
+
+
+2
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+3
+[Boon Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Collected Company](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Mythic (9)
+
+
+
+2
+[Brimaz, King of Oreskos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimaz,%5D+%5BKing%5D+%5Bof%5D+%5BOreskos%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+2
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Flooded+Strand)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Dugongue (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-76568c7a3b2ea6a9e80efb2eaa3a0f46.txt?n=Dugongue%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (19)
+
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+3
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+
+##### Sorcery (3)
+
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (13)
+
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+2
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### Land (25)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+4
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+
+##### White (7)
+
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+3
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### Black (14)
+
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### Red (21)
+
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### Multi colored (8)
+
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+
+##### Colorless (25)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+4
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (10)
+
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+3
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+
+##### 3 (18)
+
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### 5 (9)
+
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+50 Cards 
+
+
+
+##### Common (6)
+
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (15)
+
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### Rare (46)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+4
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+1
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### Mythic (8)
+
+
+
+3
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Battlefield+Forge)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### \_Valen\_ (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-33756fc0949ae43cb999bd43adb66066.txt?n=_Valen_%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (16)
+
+
+
+2
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Mantis Rider](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMantis%5D+%5BRider%5D)
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+2
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+3
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+
+##### Sorcery (2)
+
+
+
+2
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+
+##### Instant (17)
+
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+1
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+3
+[Ojutai's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### Land (25)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+2
+[Temple of Epiphany](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEpiphany%5D)
+
+
+4
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+3
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+1
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+1
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+2
+[Twin Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwin%5D+%5BBolt%5D)
+
+
+
+
+##### White (12)
+
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+2
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+1
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+3
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Blue (10)
+
+
+
+3
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Red (21)
+
+
+
+2
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+2
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+1
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+1
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+2
+[Twin Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwin%5D+%5BBolt%5D)
+
+
+
+##### Multi colored (7)
+
+
+
+4
+[Mantis Rider](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMantis%5D+%5BRider%5D)
+
+
+3
+[Ojutai's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D)
+
+
+
+##### Colorless (25)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+2
+[Temple of Epiphany](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEpiphany%5D)
+
+
+4
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (3)
+
+
+
+1
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+2
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+
+##### 2 (25)
+
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+2
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+3
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+3
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+1
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+2
+[Twin Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwin%5D+%5BBolt%5D)
+
+
+
+##### 3 (9)
+
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Mantis Rider](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMantis%5D+%5BRider%5D)
+
+
+2
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+
+##### 4 (9)
+
+
+
+2
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+3
+[Ojutai's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+
+##### 5 (1)
+
+
+
+1
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+
+##### 8 (3)
+
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+50 Cards 
+
+
+
+##### Common (20)
+
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+1
+[Erase](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BErase%5D)
+
+
+2
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+1
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Twin Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwin%5D+%5BBolt%5D)
+
+
+
+##### Uncommon (17)
+
+
+
+4
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+2
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+1
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### Rare (33)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+2
+[Temple of Epiphany](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEpiphany%5D)
+
+
+4
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Mantis Rider](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMantis%5D+%5BRider%5D)
+
+
+3
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+3
+[Ojutai's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D)
+
+
+3
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Mythic (5)
+
+
+
+2
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+2
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+1
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Battlefield+Forge)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### eliades4 (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-4b532ffb85e05297e46176a3dcf5b780.txt?n=eliades4%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (18)
+
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+2
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (13)
+
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+2
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### Land (25)
+
+
+
+3
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Temple of Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalice%5D)
+
+
+1
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+4
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+
+##### White (6)
+
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+2
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Black (13)
+
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### Red (22)
+
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### Multi colored (9)
+
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+
+##### Colorless (25)
+
+
+
+3
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Temple of Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalice%5D)
+
+
+1
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+4
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (4)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### 2 (10)
+
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+2
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+1
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (20)
+
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### 5 (8)
+
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+
+##### 6 (2)
+
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+50 Cards 
+
+
+
+##### Common (6)
+
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+
+##### Uncommon (16)
+
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### Rare (45)
+
+
+
+3
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+1
+[Temple of Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalice%5D)
+
+
+1
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+4
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### Mythic (8)
+
+
+
+2
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Battlefield+Forge)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Syugyo666 (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-08f8323c13fa770746c79f7193aadfa5.txt?n=Syugyo666%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (28)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+2
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+2
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+3
+[Polukranos, World Eater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+1
+[Temur Sabertooth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemur%5D+%5BSabertooth%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+
+##### Instant (4)
+
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Land (24)
+
+
+
+2
+[Blossoming Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlossoming%5D+%5BSands%5D)
+
+
+8
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+3
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+2
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+
+##### White (10)
+
+
+
+4
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+
+##### Green (38)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+2
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+2
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+3
+[Polukranos, World Eater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+1
+[Temur Sabertooth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemur%5D+%5BSabertooth%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+3
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+3
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### Multi colored (3)
+
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (24)
+
+
+
+2
+[Blossoming Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlossoming%5D+%5BSands%5D)
+
+
+8
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### 2 (21)
+
+
+
+2
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+2
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+4
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+
+##### 3 (11)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+3
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+
+##### 4 (4)
+
+
+
+3
+[Polukranos, World Eater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+1
+[Temur Sabertooth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemur%5D+%5BSabertooth%5D)
+
+
+
+##### 5 (9)
+
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+3
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+51 Cards 
+
+
+
+##### Common (16)
+
+
+
+2
+[Blossoming Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlossoming%5D+%5BSands%5D)
+
+
+8
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+
+##### Uncommon (9)
+
+
+
+1
+[Temur Sabertooth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemur%5D+%5BSabertooth%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### Rare (37)
+
+
+
+4
+[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+2
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+2
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+4
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+3
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+3
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+
+##### Mythic (13)
+
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+3
+[Polukranos, World Eater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blossoming+Sands)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### jwholla (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-ca79f7f4e12283ee188663798144f071.txt?n=jwholla%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (4)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Liliana Vess](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5BVess%5D)
+
+
+
+##### Creature (14)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+3
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+
+##### Sorcery (6)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### Land (26)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Jungle Hollow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJungle%5D+%5BHollow%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+3
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+1
+[Silence the Believers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilence%5D+%5Bthe%5D+%5BBelievers%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+
+##### White (6)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+
+##### Black (22)
+
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Liliana Vess](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5BVess%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+1
+[Silence the Believers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilence%5D+%5Bthe%5D+%5BBelievers%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Green (7)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+
+##### Multi colored (13)
+
+
+
+3
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (27)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Jungle Hollow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJungle%5D+%5BHollow%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+3
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (15)
+
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+3
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (15)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 4 (5)
+
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+1
+[Silence the Believers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilence%5D+%5Bthe%5D+%5BBelievers%5D)
+
+
+
+##### 5 (4)
+
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Liliana Vess](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5BVess%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### 6 (3)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### 8 (1)
+
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+49 Cards 
+
+
+
+##### Common (16)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Jungle Hollow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJungle%5D+%5BHollow%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (14)
+
+
+
+3
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Rare (40)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+3
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Silence the Believers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilence%5D+%5Bthe%5D+%5BBelievers%5D)
+
+
+
+##### Mythic (5)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Liliana Vess](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5BVess%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### kurogane80 (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-61f854823fd705999a185e2b4477f88b.txt?n=kurogane80%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (4)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Creature (15)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+
+##### Sorcery (5)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### Land (26)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+1
+[Utter End](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+
+
+##### White (6)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+
+##### Black (17)
+
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Green (9)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+
+##### Multi colored (16)
+
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+1
+[Utter End](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+
+##### Colorless (27)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (14)
+
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+
+##### 3 (15)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+1
+[Utter End](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+
+##### 5 (4)
+
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+
+##### 6 (3)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### 8 (1)
+
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+49 Cards 
+
+
+
+##### Common (11)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (13)
+
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### Rare (44)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Utter End](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+
+##### Mythic (7)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### raigo (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-39e4c1301b0d58fd4ceb599b08a78822.txt?n=raigo%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (2)
+
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Creature (7)
+
+
+
+3
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+3
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+
+##### Instant (21)
+
+
+
+4
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+3
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+2
+[Dissipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D)
+
+
+2
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+
+##### Land (26)
+
+
+
+3
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+2
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+3
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+1
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+
+##### White (6)
+
+
+
+3
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+3
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Blue (16)
+
+
+
+4
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+2
+[Dissipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+1
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+
+##### Black (20)
+
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Multi colored (7)
+
+
+
+3
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+2
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Colorless (26)
+
+
+
+3
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+2
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+3
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (5)
+
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (19)
+
+
+
+4
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+3
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (14)
+
+
+
+3
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+2
+[Dissipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 4 (2)
+
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### 5 (3)
+
+
+
+3
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+
+##### 6 (2)
+
+
+
+2
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+
+##### 8 (4)
+
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+1
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+49 Cards 
+
+
+
+##### Common (17)
+
+
+
+2
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+3
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+1
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (18)
+
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Dissipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Rare (30)
+
+
+
+3
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Mythic (10)
+
+
+
+3
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+2
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+3
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Br4nc4 (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-37cf7b2595568c9d649b752436eb81d3.txt?n=Br4nc4%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (19)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+3
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+3
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+
+##### Sorcery (8)
+
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+
+##### Instant (12)
+
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### Artifact (1)
+
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+
+##### Land (20)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+3
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+2
+[Magmatic Chasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagmatic%5D+%5BChasm%5D)
+
+
+1
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+
+
+##### Red (54)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+4
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+3
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+3
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+2
+[Magmatic Chasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagmatic%5D+%5BChasm%5D)
+
+
+1
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+
+##### Colorless (21)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (18)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+3
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### 2 (18)
+
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+2
+[Magmatic Chasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagmatic%5D+%5BChasm%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+
+##### 3 (10)
+
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+3
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+
+##### 4 (9)
+
+
+
+4
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+1
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+55 Cards 
+
+
+
+##### Common (38)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+4
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+2
+[Magmatic Chasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagmatic%5D+%5BChasm%5D)
+
+
+
+##### Uncommon (30)
+
+
+
+3
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+3
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+
+##### Rare (7)
+
+
+
+2
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+1
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### keitattt (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-79de6f8e39dab77ae7b6badb30263733.txt?n=keitattt%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (19)
+
+
+
+1
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+1
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+1
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+
+##### Sorcery (3)
+
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (13)
+
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+1
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+2
+[Mardu Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMardu%5D+%5BCharm%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### Land (25)
+
+
+
+3
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+1
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+4
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+1
+[Utter End](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+
+##### White (9)
+
+
+
+1
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### Black (9)
+
+
+
+1
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### Red (23)
+
+
+
+1
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### Multi colored (9)
+
+
+
+1
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+1
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+2
+[Mardu Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMardu%5D+%5BCharm%5D)
+
+
+1
+[Utter End](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+
+##### Colorless (25)
+
+
+
+3
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+1
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+4
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (4)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### 2 (12)
+
+
+
+1
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+
+##### 3 (17)
+
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+1
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+2
+[Mardu Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMardu%5D+%5BCharm%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### 4 (8)
+
+
+
+1
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+1
+[Utter End](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+
+##### 5 (8)
+
+
+
+1
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+50 Cards 
+
+
+
+##### Common (8)
+
+
+
+4
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+
+##### Uncommon (14)
+
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+1
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+1
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+2
+[Mardu Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMardu%5D+%5BCharm%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### Rare (43)
+
+
+
+3
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+1
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+1
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+1
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+1
+[Utter End](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtter%5D+%5BEnd%5D)
+
+
+
+##### Mythic (10)
+
+
+
+1
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+4
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Battlefield+Forge)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### MisterStompz (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-be7807b4f0160683719e8f14b32026f6.txt?n=MisterStompz%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (4)
+
+
+
+3
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+
+##### Sorcery (3)
+
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (24)
+
+
+
+3
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+4
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Jace's Ingenuity](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BIngenuity%5D)
+
+
+1
+[Silence the Believers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilence%5D+%5Bthe%5D+%5BBelievers%5D)
+
+
+
+##### Artifact (2)
+
+
+
+2
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+
+##### Land (27)
+
+
+
+4
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+1
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Opulent Palace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpulent%5D+%5BPalace%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+2
+[Radiant Fountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFountain%5D)
+
+
+5
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+1
+[Pearl Lake Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPearl%5D+%5BLake%5D+%5BAncient%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+
+##### Blue (19)
+
+
+
+3
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+2
+[Jace's Ingenuity](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BIngenuity%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+1
+[Pearl Lake Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPearl%5D+%5BLake%5D+%5BAncient%5D)
+
+
+
+##### Black (22)
+
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+4
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Silence the Believers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilence%5D+%5Bthe%5D+%5BBelievers%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### Multi colored (3)
+
+
+
+3
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+
+##### Colorless (31)
+
+
+
+4
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+1
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Opulent Palace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpulent%5D+%5BPalace%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+2
+[Radiant Fountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFountain%5D)
+
+
+5
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+3
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (5)
+
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (17)
+
+
+
+3
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (14)
+
+
+
+3
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+4
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### 4 (4)
+
+
+
+3
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+1
+[Silence the Believers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilence%5D+%5Bthe%5D+%5BBelievers%5D)
+
+
+
+##### 5 (2)
+
+
+
+2
+[Jace's Ingenuity](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BIngenuity%5D)
+
+
+
+##### 7 (1)
+
+
+
+1
+[Pearl Lake Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPearl%5D+%5BLake%5D+%5BAncient%5D)
+
+
+
+##### 8 (5)
+
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+48 Cards 
+
+
+
+##### Common (26)
+
+
+
+4
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Radiant Fountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFountain%5D)
+
+
+5
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+3
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Uncommon (19)
+
+
+
+1
+[Opulent Palace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpulent%5D+%5BPalace%5D)
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+2
+[Jace's Ingenuity](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BIngenuity%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### Rare (22)
+
+
+
+1
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+4
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Silence the Believers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilence%5D+%5Bthe%5D+%5BBelievers%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Mythic (8)
+
+
+
+3
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+3
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+1
+[Pearl Lake Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPearl%5D+%5BLake%5D+%5BAncient%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Dismal+Backwater)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Wata (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-2f38707148a6da2e93a516f7e28fde3e.txt?n=Wata%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (16)
+
+
+
+2
+[Flamewake Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamewake%5D+%5BPhoenix%5D)
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+
+##### Sorcery (2)
+
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (15)
+
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Enchantment (2)
+
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### Land (25)
+
+
+
+3
+[Bloodfell Caves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodfell%5D+%5BCaves%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+7
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalice%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+4
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+
+
+##### Black (20)
+
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+4
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+
+##### Red (25)
+
+
+
+2
+[Flamewake Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamewake%5D+%5BPhoenix%5D)
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+3
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+
+##### Multi colored (5)
+
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+
+##### Colorless (25)
+
+
+
+3
+[Bloodfell Caves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodfell%5D+%5BCaves%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+7
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalice%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (10)
+
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+4
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+
+##### 3 (18)
+
+
+
+2
+[Flamewake Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamewake%5D+%5BPhoenix%5D)
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+
+##### 4 (7)
+
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+3
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### 5 (8)
+
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+50 Cards 
+
+
+
+##### Common (16)
+
+
+
+3
+[Bloodfell Caves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodfell%5D+%5BCaves%5D)
+
+
+7
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (14)
+
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+3
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+4
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+
+##### Rare (40)
+
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+4
+[Temple of Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalice%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+2
+[Flamewake Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamewake%5D+%5BPhoenix%5D)
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+3
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+
+##### Mythic (5)
+
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Bloodfell+Caves)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Racador (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-6e41db063af558991d71a7a430c2f850.txt?n=Racador%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (3)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### Creature (15)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+
+##### Sorcery (5)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (11)
+
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### Land (26)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+3
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+
+##### White (4)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+
+##### Black (22)
+
+
+
+3
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Green (7)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+
+##### Multi colored (15)
+
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (27)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+3
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (15)
+
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+3
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (17)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+
+##### 4 (4)
+
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+
+##### 5 (3)
+
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### 6 (3)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### 8 (1)
+
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+49 Cards 
+
+
+
+##### Common (10)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+
+##### Uncommon (16)
+
+
+
+3
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Rare (45)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+3
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Mythic (4)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### ChaoticCamel (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-530bc84b600c86f6b6d4a82f296faa09.txt?n=ChaoticCamel%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (20)
+
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+3
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+
+##### Sorcery (3)
+
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (12)
+
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+2
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### Land (25)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+3
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Temple of Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalice%5D)
+
+
+2
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+1
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+3
+[Orator of Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrator%5D+%5Bof%5D+%5BOjutai%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+
+
+##### White (10)
+
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+3
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+3
+[Orator of Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrator%5D+%5Bof%5D+%5BOjutai%5D)
+
+
+
+##### Black (10)
+
+
+
+2
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+
+##### Red (21)
+
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+3
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### Multi colored (9)
+
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+
+##### Colorless (25)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+3
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+1
+[Temple of Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalice%5D)
+
+
+2
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (4)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### 2 (13)
+
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+3
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+3
+[Orator of Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrator%5D+%5Bof%5D+%5BOjutai%5D)
+
+
+
+##### 3 (17)
+
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+2
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+3
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### 5 (8)
+
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+
+##### 6 (2)
+
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+50 Cards 
+
+
+
+##### Common (6)
+
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+
+##### Uncommon (17)
+
+
+
+4
+[Nomad Outpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BOutpost%5D)
+
+
+3
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Draconic Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDraconic%5D+%5BRoar%5D)
+
+
+2
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+3
+[Orator of Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrator%5D+%5Bof%5D+%5BOjutai%5D)
+
+
+
+##### Rare (43)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+3
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+1
+[Temple of Malice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalice%5D)
+
+
+2
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+4
+[Crackling Doom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrackling%5D+%5BDoom%5D)
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan%5D+%5BCommand%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnger%5D+%5Bof%5D+%5Bthe%5D+%5BGods%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### Mythic (9)
+
+
+
+3
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+4
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+1
+[Dragonlord Kolaghan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BKolaghan%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Battlefield+Forge)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Onthestack (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-f2dd8b8e5a24932c3966ac462c5989d1.txt?n=Onthestack%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (17)
+
+
+
+1
+[Battlewise Hoplite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlewise%5D+%5BHoplite%5D)
+
+
+4
+[Favored Hoplite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFavored%5D+%5BHoplite%5D)
+
+
+4
+[Hero of Iroas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5Bof%5D+%5BIroas%5D)
+
+
+2
+[Lagonna-Band Trailblazer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLagonna-Band%5D+%5BTrailblazer%5D)
+
+
+2
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+4
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+
+##### Sorcery (2)
+
+
+
+2
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+
+##### Instant (15)
+
+
+
+3
+[Ajani's Presence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BPresence%5D)
+
+
+4
+[Defiant Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefiant%5D+%5BStrike%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+4
+[Gods Willing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGods%5D+%5BWilling%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Ordeal of Thassa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrdeal%5D+%5Bof%5D+%5BThassa%5D)
+
+
+
+##### Land (22)
+
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+1
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+3
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+1
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+2
+[Aqueous Form](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAqueous%5D+%5BForm%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+3
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+2
+[Ordeal of Heliod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrdeal%5D+%5Bof%5D+%5BHeliod%5D)
+
+
+2
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+2
+[Stubborn Denial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStubborn%5D+%5BDenial%5D)
+
+
+
+
+##### White (31)
+
+
+
+4
+[Favored Hoplite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFavored%5D+%5BHoplite%5D)
+
+
+4
+[Hero of Iroas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5Bof%5D+%5BIroas%5D)
+
+
+2
+[Lagonna-Band Trailblazer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLagonna-Band%5D+%5BTrailblazer%5D)
+
+
+2
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+4
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+3
+[Ajani's Presence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BPresence%5D)
+
+
+4
+[Defiant Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefiant%5D+%5BStrike%5D)
+
+
+4
+[Gods Willing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGods%5D+%5BWilling%5D)
+
+
+2
+[Ordeal of Heliod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrdeal%5D+%5Bof%5D+%5BHeliod%5D)
+
+
+2
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+
+##### Blue (17)
+
+
+
+4
+[Ordeal of Thassa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrdeal%5D+%5Bof%5D+%5BThassa%5D)
+
+
+4
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+2
+[Aqueous Form](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAqueous%5D+%5BForm%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+3
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+2
+[Stubborn Denial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStubborn%5D+%5BDenial%5D)
+
+
+
+##### Multi colored (5)
+
+
+
+1
+[Battlewise Hoplite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlewise%5D+%5BHoplite%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (22)
+
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+1
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+3
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+1
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (21)
+
+
+
+4
+[Favored Hoplite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFavored%5D+%5BHoplite%5D)
+
+
+2
+[Lagonna-Band Trailblazer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLagonna-Band%5D+%5BTrailblazer%5D)
+
+
+3
+[Ajani's Presence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BPresence%5D)
+
+
+4
+[Defiant Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefiant%5D+%5BStrike%5D)
+
+
+4
+[Gods Willing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGods%5D+%5BWilling%5D)
+
+
+2
+[Aqueous Form](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAqueous%5D+%5BForm%5D)
+
+
+2
+[Stubborn Denial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStubborn%5D+%5BDenial%5D)
+
+
+
+##### 2 (26)
+
+
+
+1
+[Battlewise Hoplite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlewise%5D+%5BHoplite%5D)
+
+
+4
+[Hero of Iroas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5Bof%5D+%5BIroas%5D)
+
+
+4
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+4
+[Ordeal of Thassa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrdeal%5D+%5Bof%5D+%5BThassa%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+3
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+2
+[Ordeal of Heliod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrdeal%5D+%5Bof%5D+%5BHeliod%5D)
+
+
+2
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+
+##### 3 (2)
+
+
+
+2
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+
+##### 8 (4)
+
+
+
+4
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+53 Cards 
+
+
+
+##### Common (28)
+
+
+
+1
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Lagonna-Band Trailblazer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLagonna-Band%5D+%5BTrailblazer%5D)
+
+
+3
+[Ajani's Presence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani%5D+%5BPresence%5D)
+
+
+4
+[Defiant Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefiant%5D+%5BStrike%5D)
+
+
+4
+[Gods Willing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGods%5D+%5BWilling%5D)
+
+
+4
+[Treasure Cruise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreasure%5D+%5BCruise%5D)
+
+
+2
+[Aqueous Form](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAqueous%5D+%5BForm%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+2
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+
+##### Uncommon (20)
+
+
+
+1
+[Battlewise Hoplite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlewise%5D+%5BHoplite%5D)
+
+
+4
+[Favored Hoplite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFavored%5D+%5BHoplite%5D)
+
+
+4
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Ordeal of Thassa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrdeal%5D+%5Bof%5D+%5BThassa%5D)
+
+
+3
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+2
+[Ordeal of Heliod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrdeal%5D+%5Bof%5D+%5BHeliod%5D)
+
+
+2
+[Stubborn Denial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStubborn%5D+%5BDenial%5D)
+
+
+
+##### Rare (25)
+
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+4
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+1
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Hero of Iroas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5Bof%5D+%5BIroas%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Mythic (2)
+
+
+
+2
+[Monastery Mentor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BMentor%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Flooded+Strand)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Gainsay (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-c0a7885c8d6d5e646dcec0ff0c126489.txt?n=Gainsay%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (31)
+
+
+
+4
+[Brain Maggot](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BMaggot%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+1
+[Doomwake Giant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoomwake%5D+%5BGiant%5D)
+
+
+3
+[Eidolon of Blossoms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5BBlossoms%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+3
+[Nighthowler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNighthowler%5D)
+
+
+2
+[Nyx Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNyx%5D+%5BWeaver%5D)
+
+
+1
+[Pharika, God of Affliction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika,%5D+%5BGod%5D+%5Bof%5D+%5BAffliction%5D)
+
+
+4
+[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+2
+[Sidisi, Undead Vizier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BUndead%5D+%5BVizier%5D)
+
+
+
+##### Sorcery (2)
+
+
+
+2
+[Commune with the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCommune%5D+%5Bwith%5D+%5Bthe%5D+%5BGods%5D)
+
+
+
+##### Instant (1)
+
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### Artifact (1)
+
+
+
+1
+[Whip of Erebos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+
+##### Enchantment (2)
+
+
+
+2
+[Strength from the Fallen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrength%5D+%5Bfrom%5D+%5Bthe%5D+%5BFallen%5D)
+
+
+
+##### Land (23)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Jungle Hollow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJungle%5D+%5BHollow%5D)
+
+
+4
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Doomwake Giant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoomwake%5D+%5BGiant%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+1
+[Dark Betrayal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Merciless Executioner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerciless%5D+%5BExecutioner%5D)
+
+
+2
+[Nylea's Disciple](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNylea%5D+%5BDisciple%5D)
+
+
+1
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+
+##### Black (25)
+
+
+
+4
+[Brain Maggot](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BMaggot%5D)
+
+
+3
+[Doomwake Giant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoomwake%5D+%5BGiant%5D)
+
+
+3
+[Nighthowler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNighthowler%5D)
+
+
+2
+[Sidisi, Undead Vizier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BUndead%5D+%5BVizier%5D)
+
+
+2
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+1
+[Whip of Erebos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+1
+[Dark Betrayal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Merciless Executioner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerciless%5D+%5BExecutioner%5D)
+
+
+1
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Green (24)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+3
+[Eidolon of Blossoms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5BBlossoms%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+2
+[Commune with the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCommune%5D+%5Bwith%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Strength from the Fallen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrength%5D+%5Bfrom%5D+%5Bthe%5D+%5BFallen%5D)
+
+
+2
+[Nylea's Disciple](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNylea%5D+%5BDisciple%5D)
+
+
+
+##### Multi colored (3)
+
+
+
+2
+[Nyx Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNyx%5D+%5BWeaver%5D)
+
+
+1
+[Pharika, God of Affliction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika,%5D+%5BGod%5D+%5Bof%5D+%5BAffliction%5D)
+
+
+
+##### Colorless (23)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Jungle Hollow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJungle%5D+%5BHollow%5D)
+
+
+4
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (7)
+
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+1
+[Dark Betrayal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### 2 (18)
+
+
+
+4
+[Brain Maggot](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BMaggot%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+2
+[Commune with the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCommune%5D+%5Bwith%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Strength from the Fallen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrength%5D+%5Bfrom%5D+%5Bthe%5D+%5BFallen%5D)
+
+
+1
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (14)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Nighthowler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNighthowler%5D)
+
+
+2
+[Nyx Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNyx%5D+%5BWeaver%5D)
+
+
+1
+[Pharika, God of Affliction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika,%5D+%5BGod%5D+%5Bof%5D+%5BAffliction%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Merciless Executioner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerciless%5D+%5BExecutioner%5D)
+
+
+
+##### 4 (6)
+
+
+
+3
+[Eidolon of Blossoms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5BBlossoms%5D)
+
+
+1
+[Whip of Erebos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+2
+[Nylea's Disciple](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNylea%5D+%5BDisciple%5D)
+
+
+
+##### 5 (7)
+
+
+
+3
+[Doomwake Giant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoomwake%5D+%5BGiant%5D)
+
+
+2
+[Sidisi, Undead Vizier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BUndead%5D+%5BVizier%5D)
+
+
+2
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+52 Cards 
+
+
+
+##### Common (26)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Jungle Hollow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJungle%5D+%5BHollow%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+2
+[Commune with the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCommune%5D+%5Bwith%5D+%5Bthe%5D+%5BGods%5D)
+
+
+2
+[Nylea's Disciple](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNylea%5D+%5BDisciple%5D)
+
+
+
+##### Uncommon (16)
+
+
+
+4
+[Brain Maggot](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BMaggot%5D)
+
+
+2
+[Nyx Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNyx%5D+%5BWeaver%5D)
+
+
+2
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+2
+[Strength from the Fallen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrength%5D+%5Bfrom%5D+%5Bthe%5D+%5BFallen%5D)
+
+
+1
+[Dark Betrayal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BBetrayal%5D)
+
+
+2
+[Merciless Executioner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerciless%5D+%5BExecutioner%5D)
+
+
+1
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Rare (32)
+
+
+
+4
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+3
+[Doomwake Giant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoomwake%5D+%5BGiant%5D)
+
+
+3
+[Eidolon of Blossoms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5BBlossoms%5D)
+
+
+3
+[Nighthowler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNighthowler%5D)
+
+
+2
+[Sidisi, Undead Vizier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BUndead%5D+%5BVizier%5D)
+
+
+1
+[Whip of Erebos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+2
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Mythic (1)
+
+
+
+1
+[Pharika, God of Affliction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika,%5D+%5BGod%5D+%5Bof%5D+%5BAffliction%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### JYURI (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-7c3451e232ead54fc259741f9bf7ad0c.txt?n=JYURI%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (17)
+
+
+
+2
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Mantis Rider](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMantis%5D+%5BRider%5D)
+
+
+4
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+1
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+3
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+
+##### Sorcery (2)
+
+
+
+2
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+
+##### Instant (16)
+
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+2
+[Ojutai's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+1
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### Land (25)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+3
+[Temple of Epiphany](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEpiphany%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+1
+[Hidden Dragonslayer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHidden%5D+%5BDragonslayer%5D)
+
+
+2
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+1
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+1
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+2
+[Twin Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwin%5D+%5BBolt%5D)
+
+
+
+
+##### White (12)
+
+
+
+4
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+1
+[Hidden Dragonslayer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHidden%5D+%5BDragonslayer%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+
+##### Blue (10)
+
+
+
+3
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+1
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Red (22)
+
+
+
+2
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+1
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+2
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+1
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+2
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+1
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+2
+[Twin Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwin%5D+%5BBolt%5D)
+
+
+
+##### Multi colored (6)
+
+
+
+4
+[Mantis Rider](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMantis%5D+%5BRider%5D)
+
+
+2
+[Ojutai's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D)
+
+
+
+##### Colorless (25)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+3
+[Temple of Epiphany](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEpiphany%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (3)
+
+
+
+1
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+2
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+
+##### 2 (26)
+
+
+
+4
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+3
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+1
+[Hidden Dragonslayer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHidden%5D+%5BDragonslayer%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+1
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+1
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+2
+[Twin Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwin%5D+%5BBolt%5D)
+
+
+
+##### 3 (9)
+
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Mantis Rider](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMantis%5D+%5BRider%5D)
+
+
+2
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+
+##### 4 (8)
+
+
+
+2
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+2
+[Ojutai's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+
+##### 5 (1)
+
+
+
+1
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+
+##### 8 (3)
+
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+50 Cards 
+
+
+
+##### Common (18)
+
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+2
+[Magma Spray](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BSpray%5D)
+
+
+1
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Twin Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwin%5D+%5BBolt%5D)
+
+
+
+##### Uncommon (17)
+
+
+
+4
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+2
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+1
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+1
+[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+1
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### Rare (33)
+
+
+
+2
+[Battlefield Forge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattlefield%5D+%5BForge%5D)
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+2
+[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+3
+[Temple of Epiphany](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEpiphany%5D)
+
+
+3
+[Temple of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+3
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Mantis Rider](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMantis%5D+%5BRider%5D)
+
+
+3
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+3
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+2
+[Ojutai's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D)
+
+
+1
+[Hidden Dragonslayer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHidden%5D+%5BDragonslayer%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+
+##### Mythic (7)
+
+
+
+2
+[Ashcloud Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshcloud%5D+%5BPhoenix%5D)
+
+
+4
+[Soulfire Grand Master](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoulfire%5D+%5BGrand%5D+%5BMaster%5D)
+
+
+1
+[Stormbreath Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbreath%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Battlefield+Forge)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Hampuse1 (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-88aeebd0af750458f37c13c87f860735.txt?n=Hampuse1%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (2)
+
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+
+##### Creature (30)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+2
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Land (24)
+
+
+
+10
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+3
+[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Ainok Survivalist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAinok%5D+%5BSurvivalist%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+
+##### White (12)
+
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+4
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### Green (32)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+2
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+2
+[Ainok Survivalist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAinok%5D+%5BSurvivalist%5D)
+
+
+2
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### Multi colored (6)
+
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (25)
+
+
+
+10
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+3
+[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### 2 (29)
+
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+2
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+4
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Ainok Survivalist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAinok%5D+%5BSurvivalist%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### 3 (10)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+2
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### 8 (1)
+
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+51 Cards 
+
+
+
+##### Common (19)
+
+
+
+10
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+
+##### Uncommon (8)
+
+
+
+2
+[Ainok Survivalist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAinok%5D+%5BSurvivalist%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### Rare (38)
+
+
+
+1
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+3
+[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+2
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+4
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+
+##### Mythic (10)
+
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### ht991122 (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-a54a7cc2b17f7c626ab8eb4405c6be2f.txt?n=ht991122%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (1)
+
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Creature (22)
+
+
+
+3
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+2
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+2
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+
+##### Sorcery (2)
+
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (10)
+
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### Land (25)
+
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+2
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+1
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Damnable Pact](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnable%5D+%5BPact%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+
+
+##### White (4)
+
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+
+##### Black (18)
+
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Damnable Pact](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnable%5D+%5BPact%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Green (7)
+
+
+
+2
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+2
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+
+##### Multi colored (21)
+
+
+
+3
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Colorless (25)
+
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+2
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (5)
+
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (22)
+
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Damnable Pact](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnable%5D+%5BPact%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+
+##### 3 (14)
+
+
+
+3
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+2
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### 5 (3)
+
+
+
+2
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+50 Cards 
+
+
+
+##### Common (7)
+
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Raise the Alarm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRaise%5D+%5Bthe%5D+%5BAlarm%5D)
+
+
+
+##### Uncommon (17)
+
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+
+##### Rare (44)
+
+
+
+4
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+2
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+2
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Rakshasa Deathdealer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakshasa%5D+%5BDeathdealer%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Damnable Pact](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnable%5D+%5BPact%5D)
+
+
+
+##### Mythic (7)
+
+
+
+3
+[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnafenza,%5D+%5Bthe%5D+%5BForemost%5D)
+
+
+2
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### AriGould (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-9e8e8679288499915e8efcb74533ed13.txt?n=AriGould%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (1)
+
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Creature (20)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+1
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (9)
+
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### Land (26)
+
+
+
+1
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Jungle Hollow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJungle%5D+%5BHollow%5D)
+
+
+4
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+1
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+
+##### White (7)
+
+
+
+1
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### Black (16)
+
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Green (11)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+
+##### Multi colored (15)
+
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Colorless (26)
+
+
+
+1
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Jungle Hollow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJungle%5D+%5BHollow%5D)
+
+
+4
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+1
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (20)
+
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### 3 (16)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 4 (5)
+
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### 5 (1)
+
+
+
+1
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+
+##### 6 (1)
+
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+49 Cards 
+
+
+
+##### Common (12)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Jungle Hollow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJungle%5D+%5BHollow%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (18)
+
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+1
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### Rare (39)
+
+
+
+1
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+4
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+1
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Mythic (6)
+
+
+
+3
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+1
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+1
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### yellowcow (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-6d7e2c442a1d515db0d06a6c9be54b5a.txt?n=yellowcow%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (3)
+
+
+
+2
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+
+##### Creature (1)
+
+
+
+1
+[Pearl Lake Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPearl%5D+%5BLake%5D+%5BAncient%5D)
+
+
+
+##### Sorcery (3)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (24)
+
+
+
+3
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+2
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Jace's Ingenuity](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BIngenuity%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+
+##### Artifact (2)
+
+
+
+2
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+
+##### Land (27)
+
+
+
+4
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Opulent Palace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpulent%5D+%5BPalace%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+3
+[Radiant Fountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFountain%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Pharika's Cure](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+
+##### Blue (18)
+
+
+
+1
+[Pearl Lake Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPearl%5D+%5BLake%5D+%5BAncient%5D)
+
+
+3
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+2
+[Jace's Ingenuity](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BIngenuity%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+
+##### Black (24)
+
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Pharika's Cure](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### Multi colored (3)
+
+
+
+2
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+
+##### Colorless (30)
+
+
+
+4
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Opulent Palace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpulent%5D+%5BPalace%5D)
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+3
+[Radiant Fountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFountain%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+2
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (5)
+
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (14)
+
+
+
+3
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+3
+[Pharika's Cure](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+
+##### 3 (15)
+
+
+
+2
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+2
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### 4 (2)
+
+
+
+2
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+
+##### 5 (3)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Jace's Ingenuity](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BIngenuity%5D)
+
+
+
+##### 6 (3)
+
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+
+##### 7 (1)
+
+
+
+1
+[Pearl Lake Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPearl%5D+%5BLake%5D+%5BAncient%5D)
+
+
+
+##### 8 (5)
+
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+48 Cards 
+
+
+
+##### Common (28)
+
+
+
+4
+[Dismal Backwater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismal%5D+%5BBackwater%5D)
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Radiant Fountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFountain%5D)
+
+
+4
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+3
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Pharika's Cure](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPharika%5D+%5BCure%5D)
+
+
+
+##### Uncommon (18)
+
+
+
+2
+[Opulent Palace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpulent%5D+%5BPalace%5D)
+
+
+4
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+2
+[Foul-Tongue Invocation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoul-Tongue%5D+%5BInvocation%5D)
+
+
+2
+[Jace's Ingenuity](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BIngenuity%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+1
+[Virulent Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVirulent%5D+%5BPlague%5D)
+
+
+
+##### Rare (22)
+
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+4
+[Temple of Deceit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+
+##### Mythic (7)
+
+
+
+1
+[Pearl Lake Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPearl%5D+%5BLake%5D+%5BAncient%5D)
+
+
+2
+[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BNightmare%5D+%5BWeaver%5D)
+
+
+2
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Dismal+Backwater)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Kazaner3000 (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-136bf1d3c495eb9e9320b7db6f891989.txt?n=Kazaner3000%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (5)
+
+
+
+2
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+3
+[Xenagos, the Reveler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BXenagos,%5D+%5Bthe%5D+%5BReveler%5D)
+
+
+
+##### Creature (31)
+
+
+
+1
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Dragonlord Atarka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BAtarka%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+3
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+2
+[Hornet Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BQueen%5D)
+
+
+3
+[Polukranos, World Eater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+3
+[Rattleclaw Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRattleclaw%5D+%5BMystic%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+
+##### Land (24)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+2
+[Rugged Highlands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRugged%5D+%5BHighlands%5D)
+
+
+4
+[Temple of Abandon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BAbandon%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+2
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+3
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+1
+[Ire Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIre%5D+%5BShaman%5D)
+
+
+4
+[Nylea's Disciple](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNylea%5D+%5BDisciple%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+2
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+
+##### Red (5)
+
+
+
+1
+[Ire Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIre%5D+%5BShaman%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+2
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### Green (38)
+
+
+
+2
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+3
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+2
+[Hornet Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BQueen%5D)
+
+
+3
+[Polukranos, World Eater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+3
+[Rattleclaw Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRattleclaw%5D+%5BMystic%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+2
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+3
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+4
+[Nylea's Disciple](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNylea%5D+%5BDisciple%5D)
+
+
+
+##### Multi colored (6)
+
+
+
+3
+[Dragonlord Atarka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BAtarka%5D)
+
+
+3
+[Xenagos, the Reveler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BXenagos,%5D+%5Bthe%5D+%5BReveler%5D)
+
+
+
+##### Colorless (26)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+2
+[Rugged Highlands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRugged%5D+%5BHighlands%5D)
+
+
+4
+[Temple of Abandon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BAbandon%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+2
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (4)
+
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+
+##### 2 (15)
+
+
+
+3
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+3
+[Rattleclaw Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRattleclaw%5D+%5BMystic%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+2
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+1
+[Ire Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIre%5D+%5BShaman%5D)
+
+
+2
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### 3 (7)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+
+##### 4 (12)
+
+
+
+3
+[Polukranos, World Eater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+3
+[Xenagos, the Reveler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BXenagos,%5D+%5Bthe%5D+%5BReveler%5D)
+
+
+4
+[Nylea's Disciple](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNylea%5D+%5BDisciple%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### 5 (6)
+
+
+
+2
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+
+##### 7 (5)
+
+
+
+3
+[Dragonlord Atarka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BAtarka%5D)
+
+
+2
+[Hornet Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BQueen%5D)
+
+
+
+##### 8 (2)
+
+
+
+2
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+51 Cards 
+
+
+
+##### Common (20)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+2
+[Rugged Highlands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRugged%5D+%5BHighlands%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Nylea's Disciple](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNylea%5D+%5BDisciple%5D)
+
+
+
+##### Uncommon (2)
+
+
+
+2
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### Rare (38)
+
+
+
+4
+[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNykthos,%5D+%5BShrine%5D+%5Bto%5D+%5BNyx%5D)
+
+
+4
+[Temple of Abandon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BAbandon%5D)
+
+
+4
+[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+2
+[Arbor Colossus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BColossus%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Genesis Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BHydra%5D)
+
+
+2
+[Hornet Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BQueen%5D)
+
+
+3
+[Rattleclaw Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRattleclaw%5D+%5BMystic%5D)
+
+
+4
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+2
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+3
+[Hornet Nest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BNest%5D)
+
+
+1
+[Ire Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIre%5D+%5BShaman%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### Mythic (15)
+
+
+
+3
+[Dragonlord Atarka](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BAtarka%5D)
+
+
+3
+[Polukranos, World Eater](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolukranos,%5D+%5BWorld%5D+%5BEater%5D)
+
+
+4
+[Whisperwood Elemental](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhisperwood%5D+%5BElemental%5D)
+
+
+2
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+3
+[Xenagos, the Reveler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BXenagos,%5D+%5Bthe%5D+%5BReveler%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### McWinSauce (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-b495057e02cdf53586755d8403449a75.txt?n=McWinSauce%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (4)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Narset Transcendent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset%5D+%5BTranscendent%5D)
+
+
+
+##### Creature (4)
+
+
+
+4
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+2
+[Divination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivination%5D)
+
+
+2
+[End Hostilities](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnd%5D+%5BHostilities%5D)
+
+
+
+##### Instant (19)
+
+
+
+4
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+1
+[Last Breath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLast%5D+%5BBreath%5D)
+
+
+1
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### Artifact (2)
+
+
+
+2
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+
+##### Land (27)
+
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+1
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+6
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Radiant Fountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFountain%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+4
+[Tranquil Cove](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BCove%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+1
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+3
+[Nyx-Fleece Ram](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNyx-Fleece%5D+%5BRam%5D)
+
+
+2
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+3
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+
+
+##### White (16)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[End Hostilities](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnd%5D+%5BHostilities%5D)
+
+
+1
+[Last Breath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLast%5D+%5BBreath%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+1
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+3
+[Nyx-Fleece Ram](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNyx-Fleece%5D+%5BRam%5D)
+
+
+2
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+3
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+
+##### Blue (24)
+
+
+
+4
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+2
+[Divination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivination%5D)
+
+
+3
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+
+##### Multi colored (5)
+
+
+
+4
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+1
+[Narset Transcendent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset%5D+%5BTranscendent%5D)
+
+
+
+##### Colorless (30)
+
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+1
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+6
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Radiant Fountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFountain%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+4
+[Tranquil Cove](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BCove%5D)
+
+
+2
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 2 (25)
+
+
+
+4
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+1
+[Last Breath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLast%5D+%5BBreath%5D)
+
+
+3
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+1
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+1
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+3
+[Nyx-Fleece Ram](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNyx-Fleece%5D+%5BRam%5D)
+
+
+2
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+3
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+
+##### 3 (6)
+
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+2
+[Divination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivination%5D)
+
+
+
+##### 4 (3)
+
+
+
+1
+[Narset Transcendent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset%5D+%5BTranscendent%5D)
+
+
+2
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+
+##### 5 (6)
+
+
+
+4
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+2
+[End Hostilities](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnd%5D+%5BHostilities%5D)
+
+
+
+##### 6 (3)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### 8 (5)
+
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+48 Cards 
+
+
+
+##### Common (28)
+
+
+
+6
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Radiant Fountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BFountain%5D)
+
+
+4
+[Tranquil Cove](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BCove%5D)
+
+
+4
+[Anticipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnticipate%5D)
+
+
+2
+[Divination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivination%5D)
+
+
+1
+[Last Breath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLast%5D+%5BBreath%5D)
+
+
+3
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
+
+
+2
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+
+##### Uncommon (19)
+
+
+
+2
+[Mystic Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BMonastery%5D)
+
+
+4
+[Dissolve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissolve%5D)
+
+
+4
+[Silumgar's Scorn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BScorn%5D)
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+1
+[Encase in Ice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncase%5D+%5Bin%5D+%5BIce%5D)
+
+
+1
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+3
+[Nyx-Fleece Ram](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNyx-Fleece%5D+%5BRam%5D)
+
+
+3
+[Surge of Righteousness](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurge%5D+%5Bof%5D+%5BRighteousness%5D)
+
+
+
+##### Rare (17)
+
+
+
+4
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+1
+[Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+4
+[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BEnlightenment%5D)
+
+
+4
+[Dig Through Time](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D)
+
+
+2
+[End Hostilities](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnd%5D+%5BHostilities%5D)
+
+
+2
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+
+##### Mythic (11)
+
+
+
+4
+[Dragonlord Ojutai](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BOjutai%5D)
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Narset Transcendent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNarset%5D+%5BTranscendent%5D)
+
+
+2
+[Perilous Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BVault%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Flooded+Strand)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Drewbie (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-2bb205c411b60fee03c948dd625322e5.txt?n=Drewbie%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (4)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Creature (15)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+
+##### Sorcery (5)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### Land (26)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+1
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+1
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+
+
+##### White (6)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+
+##### Black (18)
+
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Green (8)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+
+##### Multi colored (16)
+
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### Colorless (27)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (14)
+
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+
+##### 3 (16)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+
+##### 5 (3)
+
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+
+##### 6 (3)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### 8 (1)
+
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+49 Cards 
+
+
+
+##### Common (12)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (13)
+
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### Rare (43)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+2
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Mythic (7)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Sorin, Solemn Visitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorin,%5D+%5BSolemn%5D+%5BVisitor%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### MLGSKELETONS (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-9f4c75607fe0fbb36395a272eadee959.txt?n=MLGSKELETONS%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (22)
+
+
+
+4
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+3
+[Flamewake Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamewake%5D+%5BPhoenix%5D)
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+
+##### Instant (17)
+
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+3
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+3
+[Titan's Strength](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTitan%5D+%5BStrength%5D)
+
+
+3
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### Land (21)
+
+
+
+21
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+3
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+3
+[Bathe in Dragonfire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBathe%5D+%5Bin%5D+%5BDragonfire%5D)
+
+
+3
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+3
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+3
+[Scouring Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScouring%5D+%5BSands%5D)
+
+
+
+
+##### Red (54)
+
+
+
+4
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+3
+[Flamewake Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamewake%5D+%5BPhoenix%5D)
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+3
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+3
+[Titan's Strength](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTitan%5D+%5BStrength%5D)
+
+
+3
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+3
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+3
+[Bathe in Dragonfire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBathe%5D+%5Bin%5D+%5BDragonfire%5D)
+
+
+3
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+3
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+3
+[Scouring Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScouring%5D+%5BSands%5D)
+
+
+
+##### Colorless (21)
+
+
+
+21
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (17)
+
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+3
+[Titan's Strength](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTitan%5D+%5BStrength%5D)
+
+
+3
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### 2 (17)
+
+
+
+4
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+3
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+3
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+3
+[Scouring Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScouring%5D+%5BSands%5D)
+
+
+
+##### 3 (9)
+
+
+
+3
+[Flamewake Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamewake%5D+%5BPhoenix%5D)
+
+
+3
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+3
+[Bathe in Dragonfire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBathe%5D+%5Bin%5D+%5BDragonfire%5D)
+
+
+
+##### 4 (11)
+
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+3
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+54 Cards 
+
+
+
+##### Common (34)
+
+
+
+21
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+3
+[Titan's Strength](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTitan%5D+%5BStrength%5D)
+
+
+3
+[Bathe in Dragonfire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBathe%5D+%5Bin%5D+%5BDragonfire%5D)
+
+
+3
+[Scouring Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScouring%5D+%5BSands%5D)
+
+
+
+##### Uncommon (24)
+
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+3
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+3
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+3
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### Rare (17)
+
+
+
+4
+[Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5Bthe%5D+%5BGreat%5D+%5BRevel%5D)
+
+
+3
+[Flamewake Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamewake%5D+%5BPhoenix%5D)
+
+
+4
+[Thunderbreak Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThunderbreak%5D+%5BRegent%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+3
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Novich (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-b1707eb0e0945fcc3f720ef88455f5b4.txt?n=Novich%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (18)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+2
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+
+##### Sorcery (8)
+
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+
+##### Instant (12)
+
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### Artifact (1)
+
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+
+##### Enchantment (1)
+
+
+
+1
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+
+##### Land (20)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+4
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+
+
+##### Red (54)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+2
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+4
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+
+##### Colorless (21)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (18)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+2
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### 2 (16)
+
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+
+##### 3 (13)
+
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+
+##### 4 (8)
+
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+55 Cards 
+
+
+
+##### Common (34)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+
+##### Uncommon (32)
+
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+4
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+
+##### Rare (9)
+
+
+
+4
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+2
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+2
+[Outpost Siege](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOutpost%5D+%5BSiege%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### wheatley505 (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-60f1ecf427de6ed67aae41180049e43a.txt?n=wheatley505%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (1)
+
+
+
+1
+[Ajani, Mentor of Heroes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BMentor%5D+%5Bof%5D+%5BHeroes%5D)
+
+
+
+##### Creature (26)
+
+
+
+2
+[Brimaz, King of Oreskos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimaz,%5D+%5BKing%5D+%5Bof%5D+%5BOreskos%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+1
+[Hidden Dragonslayer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHidden%5D+%5BDragonslayer%5D)
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+
+##### Instant (9)
+
+
+
+3
+[Collected Company](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+
+##### Land (24)
+
+
+
+1
+[Blossoming Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlossoming%5D+%5BSands%5D)
+
+
+2
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+7
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+5
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+1
+[Boon Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Plummet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
+
+
+1
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+2
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+
+
+##### White (18)
+
+
+
+2
+[Brimaz, King of Oreskos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimaz,%5D+%5BKing%5D+%5Bof%5D+%5BOreskos%5D)
+
+
+1
+[Hidden Dragonslayer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHidden%5D+%5BDragonslayer%5D)
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+3
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+2
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+
+##### Green (24)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+3
+[Collected Company](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D)
+
+
+1
+[Boon Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+1
+[Plummet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### Multi colored (9)
+
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+1
+[Ajani, Mentor of Heroes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BMentor%5D+%5Bof%5D+%5BHeroes%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (24)
+
+
+
+1
+[Blossoming Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlossoming%5D+%5BSands%5D)
+
+
+2
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+7
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+5
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (7)
+
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### 2 (27)
+
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+1
+[Hidden Dragonslayer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHidden%5D+%5BDragonslayer%5D)
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Plummet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
+
+
+1
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+
+##### 3 (11)
+
+
+
+2
+[Brimaz, King of Oreskos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimaz,%5D+%5BKing%5D+%5Bof%5D+%5BOreskos%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+1
+[Boon Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+
+##### 4 (3)
+
+
+
+3
+[Collected Company](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D)
+
+
+
+##### 5 (3)
+
+
+
+1
+[Ajani, Mentor of Heroes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BMentor%5D+%5Bof%5D+%5BHeroes%5D)
+
+
+2
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+51 Cards 
+
+
+
+##### Common (21)
+
+
+
+1
+[Blossoming Sands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlossoming%5D+%5BSands%5D)
+
+
+7
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+5
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Elvish Mystic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BMystic%5D)
+
+
+3
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+1
+[Plummet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
+
+
+
+##### Uncommon (9)
+
+
+
+2
+[Seeker of the Way](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeeker%5D+%5Bof%5D+%5Bthe%5D+%5BWay%5D)
+
+
+3
+[Valorous Stance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BValorous%5D+%5BStance%5D)
+
+
+2
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlare%5D+%5Bof%5D+%5BHeresy%5D)
+
+
+2
+[Windstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindstorm%5D)
+
+
+
+##### Rare (35)
+
+
+
+2
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+
+
+1
+[Mana Confluence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BConfluence%5D)
+
+
+4
+[Temple of Plenty](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BPlenty%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+1
+[Hidden Dragonslayer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHidden%5D+%5BDragonslayer%5D)
+
+
+3
+[Collected Company](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D)
+
+
+4
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+1
+[Boon Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoon%5D+%5BSatyr%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Radiant Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRadiant%5D+%5BPurge%5D)
+
+
+
+##### Mythic (10)
+
+
+
+2
+[Brimaz, King of Oreskos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrimaz,%5D+%5BKing%5D+%5Bof%5D+%5BOreskos%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+1
+[Warden of the First Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarden%5D+%5Bof%5D+%5Bthe%5D+%5BFirst%5D+%5BTree%5D)
+
+
+1
+[Ajani, Mentor of Heroes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAjani,%5D+%5BMentor%5D+%5Bof%5D+%5BHeroes%5D)
+
+
+2
+[Wingmate Roc](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWingmate%5D+%5BRoc%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blossoming+Sands)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Arianne (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-0920f80ce1a6513f2aad6448f37d8997.txt?n=Arianne%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (4)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+
+##### Creature (14)
+
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+
+##### Sorcery (6)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (10)
+
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+4
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### Land (26)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+3
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+
+##### White (7)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Black (21)
+
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+4
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Green (7)
+
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+
+##### Multi colored (13)
+
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (27)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+3
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (6)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (19)
+
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (14)
+
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+4
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 4 (4)
+
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+
+##### 5 (2)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+
+##### 6 (3)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### 8 (1)
+
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+49 Cards 
+
+
+
+##### Common (9)
+
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Read the Bones](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRead%5D+%5Bthe%5D+%5BBones%5D)
+
+
+2
+[Arashin Cleric](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArashin%5D+%5BCleric%5D)
+
+
+2
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (16)
+
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+3
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+3
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+2
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Rare (45)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+3
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+4
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+2
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+4
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Mythic (5)
+
+
+
+3
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+1
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### oivanyu29 (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-99045fc77ccb9561106f22818334a820.txt?n=oivanyu29%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (28)
+
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+1
+[Hornet Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BQueen%5D)
+
+
+4
+[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+4
+[Sidisi, Brood Tyrant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BBrood%5D+%5BTyrant%5D)
+
+
+1
+[Sidisi, Undead Vizier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BUndead%5D+%5BVizier%5D)
+
+
+1
+[Soul of Innistrad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul%5D+%5Bof%5D+%5BInnistrad%5D)
+
+
+1
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+1
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+
+##### Sorcery (3)
+
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (4)
+
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### Artifact (2)
+
+
+
+2
+[Whip of Erebos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+
+##### Land (23)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+4
+[Opulent Palace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpulent%5D+%5BPalace%5D)
+
+
+2
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+1
+[Temple of Mystery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMystery%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+2
+[Yavimaya Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+1
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+
+##### Blue (6)
+
+
+
+3
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+
+##### Black (22)
+
+
+
+1
+[Sidisi, Undead Vizier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BUndead%5D+%5BVizier%5D)
+
+
+1
+[Soul of Innistrad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul%5D+%5Bof%5D+%5BInnistrad%5D)
+
+
+1
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Whip of Erebos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Green (19)
+
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+1
+[Hornet Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BQueen%5D)
+
+
+4
+[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+
+##### Multi colored (5)
+
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+4
+[Sidisi, Brood Tyrant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BBrood%5D+%5BTyrant%5D)
+
+
+
+##### Colorless (23)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+4
+[Opulent Palace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpulent%5D+%5BPalace%5D)
+
+
+2
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+1
+[Temple of Mystery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMystery%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+2
+[Yavimaya Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (4)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### 2 (22)
+
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+3
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (14)
+
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 4 (6)
+
+
+
+4
+[Sidisi, Brood Tyrant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BBrood%5D+%5BTyrant%5D)
+
+
+2
+[Whip of Erebos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+
+##### 5 (2)
+
+
+
+1
+[Sidisi, Undead Vizier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BUndead%5D+%5BVizier%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+
+##### 6 (3)
+
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+1
+[Soul of Innistrad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul%5D+%5Bof%5D+%5BInnistrad%5D)
+
+
+1
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+
+##### 7 (1)
+
+
+
+1
+[Hornet Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BQueen%5D)
+
+
+52 Cards 
+
+
+
+##### Common (13)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSatyr%5D+%5BWayfinder%5D)
+
+
+3
+[Disdainful Stroke](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisdainful%5D+%5BStroke%5D)
+
+
+
+##### Uncommon (14)
+
+
+
+4
+[Opulent Palace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpulent%5D+%5BPalace%5D)
+
+
+1
+[Murderous Cut](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMurderous%5D+%5BCut%5D)
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+3
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Rare (38)
+
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+1
+[Temple of Mystery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMystery%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+2
+[Yavimaya Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D)
+
+
+3
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+4
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+1
+[Hornet Queen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHornet%5D+%5BQueen%5D)
+
+
+1
+[Sidisi, Undead Vizier](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BUndead%5D+%5BVizier%5D)
+
+
+3
+[Stratus Dancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStratus%5D+%5BDancer%5D)
+
+
+3
+[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BCaryatid%5D)
+
+
+1
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTasigur,%5D+%5Bthe%5D+%5BGolden%5D+%5BFang%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Whip of Erebos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhip%5D+%5Bof%5D+%5BErebos%5D)
+
+
+
+##### Mythic (10)
+
+
+
+4
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+1
+[Dragonlord Silumgar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragonlord%5D+%5BSilumgar%5D)
+
+
+4
+[Sidisi, Brood Tyrant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSidisi,%5D+%5BBrood%5D+%5BTyrant%5D)
+
+
+1
+[Soul of Innistrad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul%5D+%5Bof%5D+%5BInnistrad%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### AWolfInJesusSkin (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-99e29b1dd6bb54e101b917ca23547388.txt?n=AWolfInJesusSkin%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (18)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+1
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+
+##### Sorcery (8)
+
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+
+##### Instant (13)
+
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+1
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+
+##### Artifact (1)
+
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+
+##### Land (20)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+3
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+1
+[Act of Treason](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAct%5D+%5Bof%5D+%5BTreason%5D)
+
+
+2
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+2
+[Firedrinker Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiredrinker%5D+%5BSatyr%5D)
+
+
+2
+[Impact Tremors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpact%5D+%5BTremors%5D)
+
+
+1
+[Magmatic Chasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagmatic%5D+%5BChasm%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+
+##### Red (54)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+1
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+1
+[Act of Treason](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAct%5D+%5Bof%5D+%5BTreason%5D)
+
+
+2
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+2
+[Firedrinker Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiredrinker%5D+%5BSatyr%5D)
+
+
+2
+[Impact Tremors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpact%5D+%5BTremors%5D)
+
+
+1
+[Magmatic Chasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagmatic%5D+%5BChasm%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### Colorless (21)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (21)
+
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+2
+[Firedrinker Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiredrinker%5D+%5BSatyr%5D)
+
+
+
+##### 2 (19)
+
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+2
+[Impact Tremors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpact%5D+%5BTremors%5D)
+
+
+1
+[Magmatic Chasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagmatic%5D+%5BChasm%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### 3 (9)
+
+
+
+1
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+1
+[Act of Treason](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAct%5D+%5Bof%5D+%5BTreason%5D)
+
+
+2
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+
+##### 4 (6)
+
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+55 Cards 
+
+
+
+##### Common (38)
+
+
+
+20
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Foundry Street Denizen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFoundry%5D+%5BStreet%5D+%5BDenizen%5D)
+
+
+2
+[Goblin Heelcutter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BHeelcutter%5D)
+
+
+4
+[Dragon Fodder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BFodder%5D)
+
+
+4
+[Lightning Strike](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BStrike%5D)
+
+
+1
+[Act of Treason](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAct%5D+%5Bof%5D+%5BTreason%5D)
+
+
+2
+[Impact Tremors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpact%5D+%5BTremors%5D)
+
+
+1
+[Magmatic Chasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagmatic%5D+%5BChasm%5D)
+
+
+
+##### Uncommon (30)
+
+
+
+4
+[Lightning Berserker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBerserker%5D)
+
+
+4
+[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D)
+
+
+4
+[Hordeling Outburst](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHordeling%5D+%5BOutburst%5D)
+
+
+4
+[Searing Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSearing%5D+%5BBlood%5D)
+
+
+4
+[Stoke the Flames](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoke%5D+%5Bthe%5D+%5BFlames%5D)
+
+
+4
+[Wild Slash](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BSlash%5D)
+
+
+2
+[Arc Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc%5D+%5BLightning%5D)
+
+
+4
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoast%5D)
+
+
+
+##### Rare (7)
+
+
+
+1
+[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRabblemaster%5D)
+
+
+3
+[Zurgo Bellstriker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZurgo%5D+%5BBellstriker%5D)
+
+
+1
+[Hall of Triumph](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHall%5D+%5Bof%5D+%5BTriumph%5D)
+
+
+2
+[Firedrinker Satyr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiredrinker%5D+%5BSatyr%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### \_Batutinha\_ (3-1)
+
+
+##### 
+ Standard Daily #8273557 on 05/15/2015
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-f6ab786e2fc2a1bb56671950dd354800.txt?n=_Batutinha_%20%283-1%29)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (2)
+
+
+
+2
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### Creature (18)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+
+##### Sorcery (5)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+
+##### Land (25)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+3
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+1
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+
+##### White (4)
+
+
+
+2
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Black (20)
+
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+3
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Green (12)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+
+##### Multi colored (13)
+
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+
+##### Colorless (26)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (7)
+
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### 2 (15)
+
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+1
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### 3 (18)
+
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+
+##### 4 (4)
+
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+
+##### 5 (3)
+
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+
+##### 6 (2)
+
+
+
+2
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+
+##### 8 (1)
+
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+50 Cards 
+
+
+
+##### Common (7)
+
+
+
+2
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+3
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Uncommon (17)
+
+
+
+4
+[Sandsteppe Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandsteppe%5D+%5BCitadel%5D)
+
+
+4
+[Abzan Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbzan%5D+%5BCharm%5D)
+
+
+2
+[Bile Blight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBile%5D+%5BBlight%5D)
+
+
+4
+[Drown in Sorrow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrown%5D+%5Bin%5D+%5BSorrow%5D)
+
+
+1
+[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelf-Inflicted%5D+%5BWound%5D)
+
+
+2
+[Ultimate Price](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUltimate%5D+%5BPrice%5D)
+
+
+
+##### Rare (43)
+
+
+
+2
+[Caves of Koilos](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D)
+
+
+3
+[Llanowar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D)
+
+
+4
+[Temple of Malady](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BMalady%5D)
+
+
+3
+[Temple of Silence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BSilence%5D)
+
+
+1
+[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Courser of Kruphix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCourser%5D+%5Bof%5D+%5BKruphix%5D)
+
+
+3
+[Den Protector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D)
+
+
+4
+[Fleecemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFleecemane%5D+%5BLion%5D)
+
+
+4
+[Siege Rhino](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSiege%5D+%5BRhino%5D)
+
+
+1
+[Crux of Fate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrux%5D+%5Bof%5D+%5BFate%5D)
+
+
+1
+[Dromoka's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D)
+
+
+3
+[Hero's Downfall](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHero%5D+%5BDownfall%5D)
+
+
+4
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+2
+[Mastery of the Unseen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMastery%5D+%5Bof%5D+%5Bthe%5D+%5BUnseen%5D)
+
+
+
+##### Mythic (8)
+
+
+
+3
+[Deathmist Raptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmist%5D+%5BRaptor%5D)
+
+
+2
+[Elspeth, Sun's Champion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BSun%5D+%5BChampion%5D)
+
+
+2
+[Nissa, Worldwaker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BWorldwaker%5D)
+
+
+1
+[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Caves+of+Koilos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Standings
+---------
+
+
+
+
+| Rank | Name | Points | OMWP | GWP | OGWP |
+| --- | --- | --- | --- | --- | --- |
+| 1 | WoOtoO | 12 | 0.6875 | 0.8000 | 0.6220 |
+| 2 | TeamRocketsHideout | 12 | 0.6667 | 0.8750 | 0.5667 |
+| 3 | babones | 12 | 0.5833 | 1.0000 | 0.5086 |
+| 4 | AlfredoTorres | 12 | 0.5833 | 0.8889 | 0.5197 |
+| 5 | Budget\_Monk | 12 | 0.5833 | 0.8000 | 0.5174 |
+| 6 | KevBo | 12 | 0.5417 | 0.8000 | 0.5008 |
+| 7 | dklfighter | 12 | 0.5208 | 0.8000 | 0.4967 |
+| 8 | Vitorlima | 12 | 0.4792 | 0.8889 | 0.4708 |
+| 9 | bolov0 | 9 | 0.7500 | 0.7000 | 0.6715 |
+| 10 | Dugongue | 9 | 0.7500 | 0.5455 | 0.7049 |
+| 11 | \_Valen\_ | 9 | 0.6875 | 0.6667 | 0.5725 |
+| 12 | eliades4 | 9 | 0.6458 | 0.6364 | 0.5561 |
+| 13 | Syugyo666 | 9 | 0.6458 | 0.6000 | 0.6410 |
+| 14 | jwholla | 9 | 0.6458 | 0.5455 | 0.6350 |
+| 15 | kurogane80 | 9 | 0.6250 | 0.6364 | 0.6313 |
+| 16 | raigo | 9 | 0.6250 | 0.6364 | 0.5886 |
+| 17 | Br4nc4 | 9 | 0.6042 | 0.7000 | 0.5437 |
+| 18 | keitattt | 9 | 0.5833 | 0.7000 | 0.5667 |
+| 19 | MisterStompz | 9 | 0.5833 | 0.6667 | 0.6071 |
+| 20 | Wata | 9 | 0.5833 | 0.6000 | 0.5783 |
+| 21 | Racador | 9 | 0.5833 | 0.6000 | 0.5194 |
+| 22 | ChaoticCamel | 9 | 0.5417 | 0.7000 | 0.5056 |
+| 23 | Onthestack | 9 | 0.5417 | 0.6667 | 0.4778 |
+| 24 | Gainsay | 9 | 0.5417 | 0.6000 | 0.5779 |
+| 25 | JYURI | 9 | 0.5417 | 0.6000 | 0.5268 |
+| 26 | Hampuse1 | 9 | 0.5208 | 0.6364 | 0.4915 |
+| 27 | ht991122 | 9 | 0.4792 | 0.7778 | 0.4746 |
+| 28 | AriGould | 9 | 0.4792 | 0.7000 | 0.4521 |
+| 29 | yellowcow | 9 | 0.4792 | 0.6667 | 0.4766 |
+| 30 | Kazaner3000 | 9 | 0.4792 | 0.6667 | 0.4632 |
+| 31 | McWinSauce | 9 | 0.4792 | 0.6667 | 0.4528 |
+| 32 | Drewbie | 9 | 0.4792 | 0.6364 | 0.4799 |
+| 33 | MLGSKELETONS | 9 | 0.4792 | 0.5833 | 0.4685 |
+| 34 | Novich | 9 | 0.4792 | 0.5455 | 0.4812 |
+| 35 | wheatley505 | 9 | 0.4167 | 0.7000 | 0.4405 |
+| 36 | Arianne | 9 | 0.3750 | 0.7778 | 0.3979 |
+| 37 | oivanyu29 | 9 | 0.3750 | 0.7000 | 0.3993 |
+| 38 | AWolfInJesusSkin | 9 | 0.3750 | 0.6364 | 0.3958 |
+| 39 | \_Batutinha\_ | 9 | 0.3333 | 0.6364 | 0.3738 |
+
+
+
+
+
+
+

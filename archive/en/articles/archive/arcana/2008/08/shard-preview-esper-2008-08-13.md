@@ -1,0 +1,56 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20210429085338/https://magic.wizards.com/en/articles/archive/arcana/shard-preview-esper-2008-08-13)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "1280x1024 pixels1024x768 pixels800x600 pixelsGet another sneak peek of Esper at Gen Con Indy this weekend. Get the whole story with A Planeswalker's Guide to Alara available September 2nd"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604216"
+[_metadata_:publish_date]:- "2008-08-13"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Shard Preview: Esper"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:53:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429085338id_/https://magic.wizards.com/en/articles/archive/arcana/shard-preview-esper-2008-08-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/arcana/shard-preview-esper-2008-08-13"
+---
+
+
+Shard Preview: Esper
+====================
+
+
+
+ Posted in **Arcana**
+ on August 13, 2008 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+[![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/arcana1000/1654_wher1b3b.jpg)](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_wher1b3b_esper_1280.jpg)
+  
+[1280x1024 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_wher1b3b_esper_1280.jpg)  
+[1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_wher1b3b_esper_1024.jpg)  
+[800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_wher1b3b_esper_800.jpg)**Get another sneak peek of Esper at [Gen Con Indy](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=welcome/conventions/gencon2008) this weekend. Get the whole story with *A Planeswalker's Guide to Alara* available September 2nd** 
+
+
+
+
+
+
+

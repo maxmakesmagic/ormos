@@ -66,10 +66,10 @@ The art of the *Saviors* ascendants portrays this transformation abstractly. Che
 [![Kuon, Ogre Ascendant](https://web.archive.org/web/20120908004542id_/http://www.wizards.com/magic/images/mtgcom/arcana300/AscendantB.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Kuon%252C%2BOgre%2BAscendant)
 
 
-[![Homura, Human Ascendant](https://web.archive.org/web/20120908004542id_/http://www.wizards.com/magic/images/mtgcom/arcana300/AscendantR.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Homura%252C%2BHuman%2BAscendant)
+[![Homura, Human Ascendant](https://media.wizards.com/legacy/magic/images/mtgcom/arcana300/ascendantr.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Homura%252C%2BHuman%2BAscendant)
 
 
-[![Sasaya, Orochi Ascendant](https://web.archive.org/web/20120908004542id_/http://www.wizards.com/magic/images/mtgcom/arcana300/AscendantG.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Sasaya%252C%2BOrochi%2BAscendant)
+[![Sasaya, Orochi Ascendant](https://media.wizards.com/legacy/magic/images/mtgcom/arcana300/ascendantg.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Sasaya%252C%2BOrochi%2BAscendant)
 
 
 

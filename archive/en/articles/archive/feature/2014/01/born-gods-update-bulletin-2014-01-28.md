@@ -1,16 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220528231442/https://magic.wizards.com/en/articles/archive/feature/born-gods-update-bulletin-2014-01-28)
+[Link to Wayback Machine](https://web.archive.org/web/20160522183554/http://magic.wizards.com/en/articles/archive/feature/born-gods-update-bulletin-2014-01-28)
 
-[_metadata_:description]:- "Like every new set, Born of the Gods brings with it plenty of new cards and abilities to spice up your Magic games. For us here at Rules Central, it's also a fine time make some improvements to the Comprehensive Rules and revisit some Oracle wordings that may not be all they can be. Most of these changes are fairly deep down the rules minutiae rabbit hole. I don't expect them"
+[_metadata_:description]:- "Like every new set, Born of the Gods brings with it plenty of new cards and abilities to spice up your Magic games. For us here at Rules Central, it's also a fine time make some improvements to the Comprehensive Rules and revisit some Oracle wordings that may not be all they can be. Most of these changes are fairly deep down the rules minutiae rabbit hole. I don't expect them to affect most of the games you play. But, it's nice when the rules and Oracle databases are operating at peak efficiency. An acronym we use a lot in R&D is CQI: Continuous Quality Improvement."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "153231"
 [_metadata_:publish_date]:- "2014-01-28"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Born of the Gods Update Bulletin"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 23:14:42"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528231442id_/https://magic.wizards.com/en/articles/archive/feature/born-gods-update-bulletin-2014-01-28"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/born-gods-update-bulletin-2014-01-28"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-22 18:35:54"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160522183554id_/http://magic.wizards.com/en/articles/archive/feature/born-gods-update-bulletin-2014-01-28"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/born-gods-update-bulletin-2014-01-28"
 ---
 
 

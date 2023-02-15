@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220627161030/https://magic.wizards.com/en/articles/archive/feature/astral-cards-2009-02-12)
+[Link to Wayback Machine](https://web.archive.org/web/20170821073946/http://magic.wizards.com/en/articles/archive/feature/astral-cards-2009-02-12)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Many years ago, there was a MicroProse game for Magic: The Gathering. That game involved wandering around the plane of Shandalar and playing Magic against a variety of NPCs. The interesting thing about this game (well, one of the interesting things, and the specific interesting thing we're talking about today) is that it had its own set of cards created that only existed"
+[_metadata_:description]:- "Many years ago, there was a MicroProse game for Magic: The Gathering. That game involved wandering around the plane of Shandalar and playing Magic against a variety of NPCs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "649091"
 [_metadata_:publish_date]:- "2009-02-12"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Astral Cards"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 16:10:30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627161030id_/https://magic.wizards.com/en/articles/archive/feature/astral-cards-2009-02-12"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/astral-cards-2009-02-12"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-21 07:39:46"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170821073946id_/http://magic.wizards.com/en/articles/archive/feature/astral-cards-2009-02-12"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/astral-cards-2009-02-12"
 ---
 
 
@@ -28,7 +28,7 @@ Astral Cards
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

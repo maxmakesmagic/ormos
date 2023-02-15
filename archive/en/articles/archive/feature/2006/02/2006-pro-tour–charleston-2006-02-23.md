@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210502101647/https://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93charleston-2006-02-23)
+[Link to Wayback Machine](https://web.archive.org/web/20170621130837/http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93charleston-2006-02-23)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "CHARLESTON AREA CONVENTION CENTER JUNE 16-18 Play the Game, See the World Wondering about life on the Pro Tour? Watch as some of the game's best players from past and present talk about the role the Pro Tour has played in their lives. Download now! (26.1 MB zip WMP) Pro Tour-Charleston Preview: First Steps, by Brian David-Marshall Charleston, South Carolina is nestled deep in"
+[_metadata_:description]:- "CHARLESTON AREA CONVENTION CENTER JUNE 16-18  Play the Game, See the World"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "733641"
 [_metadata_:publish_date]:- "2006-02-23"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2006 Pro Tour–Charleston"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 10:16:47"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502101647id_/https://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93charleston-2006-02-23"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93charleston-2006-02-23"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-21 13:08:37"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170621130837id_/http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93charleston-2006-02-23"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2006-pro-tour%E2%80%93charleston-2006-02-23"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

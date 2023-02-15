@@ -5,6 +5,7 @@
 [_metadata_:author]:- "Nate Price"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "314141"
+[_metadata_:path_date]:- "2012-05-12"
 [_metadata_:publish_date]:- "2012-05-11"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: A Look at Flicker Effects in Avacyn Restored Limited"

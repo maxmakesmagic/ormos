@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20190808075826/https://magic.wizards.com/en/articles/archive/feature/checking-planeswalkers-2015-2015-08-19)
+[Link to Wayback Machine](https://web.archive.org/web/20160425231344/http://magic.wizards.com/en/articles/archive/feature/checking-planeswalkers-2015-2015-08-19)
 
 [_metadata_:author]:- "Mel Li"
-[_metadata_:description]:- "Mel takes us on a tour of the Multiverse and recaps the current storyline for every active Planeswalker."
+[_metadata_:description]:- "Mel takes us on a tour of the Multiverse and recaps the current storyline for every active Planeswalker. "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "436596"
 [_metadata_:publish_date]:- "2015-08-19"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Checking in on the Planeswalkers (2015)"
-[_metadata_:wayback_capture_timestamp]:- "2019-08-08 07:58:26"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190808075826id_/https://magic.wizards.com/en/articles/archive/feature/checking-planeswalkers-2015-2015-08-19"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/checking-planeswalkers-2015-2015-08-19"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-25 23:13:44"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160425231344id_/http://magic.wizards.com/en/articles/archive/feature/checking-planeswalkers-2015-2015-08-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/checking-planeswalkers-2015-2015-08-19"
 ---
 
 
@@ -335,8 +335,10 @@ Liliana Vess
 [Liliana Vess](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Liliana+Vess) | Art by [Aleksi Briclot](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5b%22Aleksi+Briclot%22%5d)
 
 
+
   
 **Haunted by her past, hunted by a ruthless killer.** All the necromancer [Liliana Vess](http://magic.wizards.com/story/planeswalkers/liliana-vess) ever wanted was eternal life and control over death. She was never one for servitude. Yet she finds herself subject to those who have promised her power: the Chain Veil, the four demons of [her pact](http://magic.wizards.com/en/articles/archive/uncharted-realms/lilianas-origin-fourth-pact-2015-06-17), the dragon Planeswalker Nicol Bolas, and [the enigmatic Raven Man](http://magic.wizards.com/en/articles/archive/uncharted-realms/unkindness-ravens-2015-07-29). Meanwhile, the murderous hunter, Garruk, has tracked her across planes from Shandalar to Innistrad, intent on removing—or simply avenging—the Veil Curse placed on him. Overall, the situation is so dire that she's even [brought herself to ask for help](http://magic.wizards.com/en/articles/archive/uncharted-realms/catching-2015-07-22) from her old . . . *friend*, Jace Beleren.
+
 
 
 ![](https://media.wizards.com/2015/images/daily/cardart_D16_Liliana-Interstitial-8.jpg)

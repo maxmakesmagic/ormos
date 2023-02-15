@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Jer discovers the perils of his `Take Another Turn` deck while Alex plays his mono-black 100-card singleton deck, Graham drafts Theros block, and Kathleen works on the cube for her Lady Planeswalker Society. Talk about this series on Twitter with the #FridayNightsMTG hashtag and be sure to follow @loadingreadyrun! Watch all the previous episodes on our Friday Nights YouTube"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "215516"
+[_metadata_:path_date]:- "2014-06-10"
 [_metadata_:publish_date]:- "2014-06-09"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Friday Nights: — `Time Walking`"

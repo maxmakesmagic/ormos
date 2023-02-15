@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211026132923/https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-crimson-vow-previews-2021-10-25?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20211025143738/https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-crimson-vow-previews-2021-10-25)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Innistrad: Crimson Vow, right here!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-10-25"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Innistrad: Crimson Vow Previews"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:29:23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026132923id_/https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-crimson-vow-previews-2021-10-25?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-crimson-vow-previews-2021-10-25?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 14:37:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025143738id_/https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-crimson-vow-previews-2021-10-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-crimson-vow-previews-2021-10-25"
 ---
 
 
@@ -91,7 +91,7 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 * [Liga Magic](https://www.ligamagic.com.br/)
 * [Papo](https://twitter.com/einpapo)
 * [RedBull](https://www.redbull.com/)
-* [Sean Plott (Day9)](https://twitter.com/day9tv)
+* [Sean Plott (day9)](https://twitter.com/day9tv)
 * [TechRaptor](https://techraptor.net/)
 * [The Games Capital](https://www.facebook.com/TheGamesCapital/)
 * [Todd Kenrick](https://twitter.com/ToddKenreck)
@@ -103,7 +103,6 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 * [Beatriz Turba](https://twitter.com/beturba)
 * [DeejayKnight](https://twitter.com/DeejayKnight)
 * [Jordan Uhl](https://twitter.com/JordanUhl)
-* [Kristen Emily](https://twitter.com/TheKristenEmily)
 * [Marshall Sutcliffe](https://twitter.com/Marshall_LR)
 * [MikeWildspeaker](https://twitter.com/MikeWildspeaker)
 * [MTGNerdGirl](https://twitter.com/MTGNerdGirl)
@@ -134,19 +133,19 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 * [Gamer Braves](https://www.gamerbraves.com/)
 * [GCORES](https://www.gcores.com/)
 * [Geek Culture](https://geekculture.co/)
-* [Good Luck High Five](https://www.goodluckhighfive.com/)
 * [IDN Times](https://www.idntimes.com/)
 * [IGN AU](https://twitter.com/IGN_AU)
 * [IGN SEA](https://sea.ign.com/)
 * [InMagic Community](https://cafe.daum.net/magin)
 * [Iyingdi](https://www.iyingdi.com/)
-* [Jean-Emmanuel Depraz](https://twitter.com/jedepraz)
+* [J-E Depraz](https://twitter.com/jedepraz)
 * [KotakGame](http://www.kotakgame.com/)
 * [Kotaku AU](https://www.kotaku.com.au/)
 * [Lore Magiquero](https://www.instagram.com/lore_magiquero/)
 * [Lowyat](https://www.lowyat.net/)
 * [*Magic: The Gathering* JP Facebook](https://www.facebook.com/MagicTheGathering.jp/)
 * [Making *Magic*](https://magic.wizards.com/en/articles/columns/making-magic)
+* [Maria Bartholdi](https://twitter.com/MissMariapants)
 * [Markovis](https://www.twitch.tv/markovis)
 * [NessaMeowMeow](https://twitter.com/nessameowmeow)
 * [NGA](http://nga.cn/)
@@ -172,13 +171,13 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 * [DailyMTG](https://magic.wizards.com/en/articles/)
 * [Deathsie](https://twitter.com/Deathsie)
 * [Grey Ogre Games](https://www.greyogregames.com/)
-* [Jamie Topples](https://twitter.com/jamietopples)
 * [Monopolis Board Game Store](https://www.tokopedia.com/monopoliswonder)
 * [MrBboy45](https://www.youtube.com/channel/UC33lqxChj2yKSoSjK6NWkZQ)
 * [Naver Café](https://cafe.naver.com/mtgkr)
 * [r/MagicArena Subreddit](https://www.reddit.com/r/MagicArena/)
 * [Shisheyu](https://twitter.com/Shisheyu)
 * [Skinnedteen](https://www.twitch.tv/skinnedteen)
+* [Syntheticuh](https://twitter.com/syntheticuh)
 * [Teion Takashi (YouTube)](https://www.youtube.com/c/tei-on-takashi)
 * [TheAsianAvenger](https://twitter.com/Theasianavenger)
 * [Umotivo](https://www.youtube.com/channel/UCQxWq7wL4HY40mqbr3f0Z2A)
@@ -208,10 +207,10 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 **November 4**
 
 
-* [Official Brazil *Magic: The Gathering* YouTube](https://www.youtube.com/channel/UCrwOIvg-wjYD_g-HzNxUTBg)
+* [Brazil *Magic* YouTube](https://www.youtube.com/channel/UCrwOIvg-wjYD_g-HzNxUTBg)
 * [Commander Rules Committee](https://twitter.com/mtgcommander)
 * [ElBadiablo](https://twitter.com/ElBadiablo)
-* [Official Español *Magic: The Gathering* YouTube](https://www.youtube.com/channel/UC5sGCIdBQcSelD7wpM-0-2g)
+* [Español *Magic* YouTube](https://www.youtube.com/channel/UC5sGCIdBQcSelD7wpM-0-2g)
 * [Felipe Serket](https://twitter.com/capitaoserket)
 * [InfiniTokens](https://twitter.com/InfiniTokens)
 * [LoadingReadyRun](https://loadingreadyrun.com/)

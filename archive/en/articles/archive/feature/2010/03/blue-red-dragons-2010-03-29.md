@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211018054744/https://magic.wizards.com/en/articles/archive/feature/blue-red-dragons-2010-03-29)
+[Link to Wayback Machine](https://web.archive.org/web/20170717092848/http://magic.wizards.com/en/articles/archive/feature/blue-red-dragons-2010-03-29)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "[decklist] Title: Ray Daniel's Blue-Red Dragons Format: Standard – Top 16, TCGplayer $5k in Los Angeles, CA 4 Halimar Depths 9 Island 8 Mountain 4 Scalding Tarn 2 Bogardan Hellkite 2 Goblin Ruinblaster 2 Hellkite Charger 1 Spellbound Dragon 2 Sphinx of Jwar Isle 1 Jace, the Mind Sculptor 1 Banefire 3 Burst Lightning 4 Cancel 2 Double Negative 2 Earthquake 3 Essence Scatter 3"
+[_metadata_:description]:- "[decklist] Title: Ray Daniel's Blue-Red Dragons Format: Standard – Top 16, TCGplayer $5k in Los Angeles, CA 4 Halimar Depths 9 Island 8 Mountain 4 Scalding Tarn 2 Bogardan Hellkite 2 Goblin Ruinblaster 2 Hellkite Charger 1 Spellbound Dragon 2 Sphinx of Jwar Isle 1 Jace, the Mind Sculptor 1 Banefire 3 Burst Lightning 4 Cancel 2 Double Negative 2 Earthquake 3 Essence Scatter 3 Everflowing Chalice 2 Flashfreeze 3 Lightning Bolt 4 Spreading Seas"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "669496"
 [_metadata_:publish_date]:- "2010-03-29"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Blue-Red Dragons"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:47:44"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018054744id_/https://magic.wizards.com/en/articles/archive/feature/blue-red-dragons-2010-03-29"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-red-dragons-2010-03-29"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-17 09:28:48"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170717092848id_/http://magic.wizards.com/en/articles/archive/feature/blue-red-dragons-2010-03-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-red-dragons-2010-03-29"
 ---
 
 
@@ -28,9 +28,8 @@ Blue-Red Dragons
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
-
 
 
 
@@ -57,9 +56,7 @@ By Wizards of the Coast
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -84,7 +81,7 @@ OverviewColorCostRarity
 
 
 1
-[Jace, the Mind Sculptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
 
 
 
@@ -93,23 +90,23 @@ OverviewColorCostRarity
 
 
 2
-[Bogardan Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBogardan%5D+%5BHellkite%5D)
+[Bogardan Hellkite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBogardan%5D+%5BHellkite%5D)
 
 
 2
-[Goblin Ruinblaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRuinblaster%5D)
+[Goblin Ruinblaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRuinblaster%5D)
 
 
 2
-[Hellkite Charger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellkite%5D+%5BCharger%5D)
+[Hellkite Charger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellkite%5D+%5BCharger%5D)
 
 
 1
-[Spellbound Dragon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbound%5D+%5BDragon%5D)
+[Spellbound Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbound%5D+%5BDragon%5D)
 
 
 2
-[Sphinx of Jwar Isle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5Bof%5D+%5BJwar%5D+%5BIsle%5D)
+[Sphinx of Jwar Isle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5Bof%5D+%5BJwar%5D+%5BIsle%5D)
 
 
 
@@ -118,11 +115,11 @@ OverviewColorCostRarity
 
 
 1
-[Banefire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanefire%5D)
+[Banefire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanefire%5D)
 
 
 2
-[Earthquake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarthquake%5D)
+[Earthquake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarthquake%5D)
 
 
 
@@ -131,27 +128,27 @@ OverviewColorCostRarity
 
 
 3
-[Burst Lightning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurst%5D+%5BLightning%5D)
+[Burst Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurst%5D+%5BLightning%5D)
 
 
 4
-[Cancel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
+[Cancel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
 
 
 2
-[Double Negative](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDouble%5D+%5BNegative%5D)
+[Double Negative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDouble%5D+%5BNegative%5D)
 
 
 3
-[Essence Scatter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D)
+[Essence Scatter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D)
 
 
 2
-[Flashfreeze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
 
 
 3
-[Lightning Bolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
 
 
 
@@ -160,7 +157,7 @@ OverviewColorCostRarity
 
 
 3
-[Everflowing Chalice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEverflowing%5D+%5BChalice%5D)
+[Everflowing Chalice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEverflowing%5D+%5BChalice%5D)
 
 
 
@@ -169,7 +166,7 @@ OverviewColorCostRarity
 
 
 4
-[Spreading Seas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
 
 
 
@@ -178,19 +175,19 @@ OverviewColorCostRarity
 
 
 4
-[Halimar Depths](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHalimar%5D+%5BDepths%5D)
+[Halimar Depths](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHalimar%5D+%5BDepths%5D)
 
 
 9
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 8
-[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 4
-[Scalding Tarn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
 
 
 62 Cards 
@@ -201,39 +198,39 @@ OverviewColorCostRarity
 
 
 1
-[Goblin Ruinblaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRuinblaster%5D)
+[Goblin Ruinblaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRuinblaster%5D)
 
 
 1
-[Banefire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanefire%5D)
+[Banefire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanefire%5D)
 
 
 1
-[Double Negative](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDouble%5D+%5BNegative%5D)
+[Double Negative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDouble%5D+%5BNegative%5D)
 
 
 2
-[Earthquake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarthquake%5D)
+[Earthquake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarthquake%5D)
 
 
 1
-[Flashfreeze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
 
 
 2
-[Chain Reaction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5BReaction%5D)
+[Chain Reaction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5BReaction%5D)
 
 
 2
-[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 3
-[Swerve](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwerve%5D)
+[Swerve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwerve%5D)
 
 
 2
-[Twincast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwincast%5D)
+[Twincast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwincast%5D)
 
 
 
@@ -243,31 +240,31 @@ OverviewColorCostRarity
 
 
 2
-[Sphinx of Jwar Isle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5Bof%5D+%5BJwar%5D+%5BIsle%5D)
+[Sphinx of Jwar Isle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5Bof%5D+%5BJwar%5D+%5BIsle%5D)
 
 
 1
-[Jace, the Mind Sculptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
 
 
 4
-[Cancel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
+[Cancel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
 
 
 3
-[Essence Scatter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D)
+[Essence Scatter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D)
 
 
 3
-[Flashfreeze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
 
 
 4
-[Spreading Seas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
 
 
 2
-[Twincast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwincast%5D)
+[Twincast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwincast%5D)
 
 
 
@@ -276,35 +273,35 @@ OverviewColorCostRarity
 
 
 2
-[Bogardan Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBogardan%5D+%5BHellkite%5D)
+[Bogardan Hellkite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBogardan%5D+%5BHellkite%5D)
 
 
 3
-[Goblin Ruinblaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRuinblaster%5D)
+[Goblin Ruinblaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRuinblaster%5D)
 
 
 2
-[Hellkite Charger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellkite%5D+%5BCharger%5D)
+[Hellkite Charger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellkite%5D+%5BCharger%5D)
 
 
 2
-[Banefire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanefire%5D)
+[Banefire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanefire%5D)
 
 
 3
-[Burst Lightning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurst%5D+%5BLightning%5D)
+[Burst Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurst%5D+%5BLightning%5D)
 
 
 4
-[Earthquake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarthquake%5D)
+[Earthquake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarthquake%5D)
 
 
 3
-[Lightning Bolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
 
 
 2
-[Chain Reaction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5BReaction%5D)
+[Chain Reaction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5BReaction%5D)
 
 
 
@@ -313,15 +310,15 @@ OverviewColorCostRarity
 
 
 1
-[Spellbound Dragon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbound%5D+%5BDragon%5D)
+[Spellbound Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbound%5D+%5BDragon%5D)
 
 
 3
-[Double Negative](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDouble%5D+%5BNegative%5D)
+[Double Negative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDouble%5D+%5BNegative%5D)
 
 
 3
-[Swerve](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwerve%5D)
+[Swerve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwerve%5D)
 
 
 
@@ -330,27 +327,27 @@ OverviewColorCostRarity
 
 
 4
-[Halimar Depths](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHalimar%5D+%5BDepths%5D)
+[Halimar Depths](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHalimar%5D+%5BDepths%5D)
 
 
 9
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 8
-[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 4
-[Scalding Tarn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
 
 
 3
-[Everflowing Chalice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEverflowing%5D+%5BChalice%5D)
+[Everflowing Chalice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEverflowing%5D+%5BChalice%5D)
 
 
 2
-[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 77 Cards 
@@ -362,23 +359,23 @@ OverviewColorCostRarity
 
 
 2
-[Banefire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanefire%5D)
+[Banefire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanefire%5D)
 
 
 3
-[Burst Lightning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurst%5D+%5BLightning%5D)
+[Burst Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurst%5D+%5BLightning%5D)
 
 
 4
-[Earthquake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarthquake%5D)
+[Earthquake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarthquake%5D)
 
 
 3
-[Lightning Bolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
 
 
 2
-[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 
@@ -387,23 +384,23 @@ OverviewColorCostRarity
 
 
 3
-[Essence Scatter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D)
+[Essence Scatter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D)
 
 
 3
-[Flashfreeze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
 
 
 4
-[Spreading Seas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
 
 
 3
-[Swerve](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwerve%5D)
+[Swerve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwerve%5D)
 
 
 2
-[Twincast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwincast%5D)
+[Twincast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwincast%5D)
 
 
 
@@ -412,15 +409,15 @@ OverviewColorCostRarity
 
 
 3
-[Goblin Ruinblaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRuinblaster%5D)
+[Goblin Ruinblaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRuinblaster%5D)
 
 
 4
-[Cancel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
+[Cancel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
 
 
 3
-[Double Negative](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDouble%5D+%5BNegative%5D)
+[Double Negative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDouble%5D+%5BNegative%5D)
 
 
 
@@ -429,11 +426,11 @@ OverviewColorCostRarity
 
 
 1
-[Jace, the Mind Sculptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
 
 
 2
-[Chain Reaction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5BReaction%5D)
+[Chain Reaction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5BReaction%5D)
 
 
 
@@ -442,7 +439,7 @@ OverviewColorCostRarity
 
 
 1
-[Spellbound Dragon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbound%5D+%5BDragon%5D)
+[Spellbound Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbound%5D+%5BDragon%5D)
 
 
 
@@ -451,11 +448,11 @@ OverviewColorCostRarity
 
 
 2
-[Hellkite Charger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellkite%5D+%5BCharger%5D)
+[Hellkite Charger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellkite%5D+%5BCharger%5D)
 
 
 2
-[Sphinx of Jwar Isle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5Bof%5D+%5BJwar%5D+%5BIsle%5D)
+[Sphinx of Jwar Isle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5Bof%5D+%5BJwar%5D+%5BIsle%5D)
 
 
 
@@ -464,126 +461,126 @@ OverviewColorCostRarity
 
 
 2
-[Bogardan Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBogardan%5D+%5BHellkite%5D)
+[Bogardan Hellkite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBogardan%5D+%5BHellkite%5D)
 
 
 49 Cards 
 
 
 
-##### Common (38)
+##### Common (35)
 
 
 
 4
-[Halimar Depths](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHalimar%5D+%5BDepths%5D)
+[Halimar Depths](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHalimar%5D+%5BDepths%5D)
 
 
 9
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 8
-[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 3
-[Burst Lightning](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurst%5D+%5BLightning%5D)
+[Burst Lightning](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurst%5D+%5BLightning%5D)
 
 
 4
-[Cancel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
+[Cancel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D)
 
 
 3
-[Essence Scatter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D)
-
-
-3
-[Everflowing Chalice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEverflowing%5D+%5BChalice%5D)
+[Essence Scatter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D)
 
 
 4
-[Spreading Seas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
 
 
 
-##### Uncommon (12)
+##### Uncommon (18)
 
 
 
 3
-[Goblin Ruinblaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRuinblaster%5D)
+[Goblin Ruinblaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BRuinblaster%5D)
 
 
 3
-[Double Negative](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDouble%5D+%5BNegative%5D)
+[Double Negative](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDouble%5D+%5BNegative%5D)
 
 
 3
-[Flashfreeze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+[Everflowing Chalice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEverflowing%5D+%5BChalice%5D)
 
 
 3
-[Swerve](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwerve%5D)
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+
+
+3
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
+
+
+3
+[Swerve](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwerve%5D)
 
 
 
-##### Rare (24)
+##### Rare (17)
 
-
-
-4
-[Scalding Tarn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
 
 
 2
-[Hellkite Charger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellkite%5D+%5BCharger%5D)
+[Hellkite Charger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHellkite%5D+%5BCharger%5D)
 
 
 1
-[Spellbound Dragon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbound%5D+%5BDragon%5D)
+[Spellbound Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbound%5D+%5BDragon%5D)
 
 
 2
-[Sphinx of Jwar Isle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5Bof%5D+%5BJwar%5D+%5BIsle%5D)
+[Sphinx of Jwar Isle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSphinx%5D+%5Bof%5D+%5BJwar%5D+%5BIsle%5D)
 
 
 2
-[Banefire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanefire%5D)
+[Banefire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBanefire%5D)
 
 
 4
-[Earthquake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarthquake%5D)
-
-
-3
-[Lightning Bolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
+[Earthquake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarthquake%5D)
 
 
 2
-[Chain Reaction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5BReaction%5D)
+[Chain Reaction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChain%5D+%5BReaction%5D)
 
 
 2
-[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 2
-[Twincast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwincast%5D)
+[Twincast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwincast%5D)
 
 
 
-##### Mythic (3)
+##### Mythic (7)
 
+
+
+4
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
 
 
 2
-[Bogardan Hellkite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBogardan%5D+%5BHellkite%5D)
+[Bogardan Hellkite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBogardan%5D+%5BHellkite%5D)
 
 
 1
-[Jace, the Mind Sculptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
 
 
 77 Cards 
@@ -591,7 +588,7 @@ OverviewColorCostRarity
 
 
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Halimar+Depths)
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Halimar+Depths)
 
 
 
@@ -610,7 +607,7 @@ OverviewColorCostRarity
 
 
   
- Ray Daniel figured out how to train his Dragon in time for a Top 16 finish at a large cash tournament in California. His Dragons of choice? [Bogardan Hellkite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bogardan+Hellkite), [Hellkite Charger](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hellkite+Charger), [Spellbound Dragon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellbound+Dragon), and honorary "Dragon" [Sphinx of Jwar Isle](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sphinx+of+Jwar+Isle). [Spreading Seas](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spreading+Seas) served to cantrip him into the Dragons while keeping his opponents off their colors. A smattering of counters and burn allowed him to survive long enough to begin dropping Dragon-sized haymakers. Nice work Ray!
+ Ray Daniel figured out how to train his Dragon in time for a Top 16 finish at a large cash tournament in California. His Dragons of choice? [Bogardan Hellkite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bogardan+Hellkite), [Hellkite Charger](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hellkite+Charger), [Spellbound Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spellbound+Dragon), and honorary "Dragon" [Sphinx of Jwar Isle](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sphinx+of+Jwar+Isle). [Spreading Seas](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spreading+Seas) served to cantrip him into the Dragons while keeping his opponents off their colors. A smattering of counters and burn allowed him to survive long enough to begin dropping Dragon-sized haymakers. Nice work Ray!
 
 
 

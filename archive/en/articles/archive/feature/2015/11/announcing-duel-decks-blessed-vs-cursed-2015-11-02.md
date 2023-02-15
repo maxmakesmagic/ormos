@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20151119011601/http://magic.wizards.com/en/articles/archive/feature/announcing-duel-decks-blessed-vs-cursed-2015-11-02)
+[Link to Wayback Machine](https://web.archive.org/web/20210422150936/https://magic.wizards.com/en/articles/archive/feature/announcing-duel-decks-blessed-vs-cursed-2015-11-02)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Holy Warriors Unite Against the Unquiet Dead"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2015-11-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing Duel Decks: Blessed vs. Cursed"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-19 01:16:01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151119011601id_/http://magic.wizards.com/en/articles/archive/feature/announcing-duel-decks-blessed-vs-cursed-2015-11-02"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/announcing-duel-decks-blessed-vs-cursed-2015-11-02"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-22 15:09:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210422150936id_/https://magic.wizards.com/en/articles/archive/feature/announcing-duel-decks-blessed-vs-cursed-2015-11-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-duel-decks-blessed-vs-cursed-2015-11-02"
 ---
 
 
@@ -28,7 +28,7 @@ Announcing Duel Decks: Blessed vs. Cursed
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 
@@ -71,7 +71,7 @@ Will you defend hope or snuff it out?
 **Release Date:** February 26, 2016
 
 
-**MSRP:** $19.99
+**MSRP:** $19.99 ***\*Applies to U.S. Only***
 
 
 

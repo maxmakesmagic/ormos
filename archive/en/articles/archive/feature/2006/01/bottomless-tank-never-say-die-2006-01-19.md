@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170716192001/http://magic.wizards.com/en/articles/archive/feature/bottomless-tank-never-say-die-2006-01-19)
+[Link to Wayback Machine](https://web.archive.org/web/20210503075258/https://magic.wizards.com/en/articles/archive/feature/bottomless-tank-never-say-die-2006-01-19)
 
 [_metadata_:author]:- "Mike Flores"
-[_metadata_:description]:- "Put down whatever Magic cards you are leafing through right this second. Look away from your computer. Cross the hallway, walk down the stairs, slip on a pair of flippity floppities, and snap on the light to your daddy's garage (for those of you not living at home, or perhaps browsing the Internet at work, this may be a fairly long walk… through the snow). Push aside the dusty bottles of 409, anti-freeze, ammonia, and Clorox (but don't accidentally mix the last two or feed Gremlins after midnight)."
+[_metadata_:description]:- "Put down whatever Magic cards you are leafing through right this second. Look away from your computer. Cross the hallway, walk down the stairs, slip on a pair of flippity floppities, and snap on the light to your daddy's garage (for those of you not living at home, or perhaps browsing the Internet at work, this may be a fairly long walk… through the snow). Push aside the dusty"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "628326"
 [_metadata_:publish_date]:- "2006-01-19"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Bottomless Tank of Never Say Die"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-16 19:20:01"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170716192001id_/http://magic.wizards.com/en/articles/archive/feature/bottomless-tank-never-say-die-2006-01-19"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/bottomless-tank-never-say-die-2006-01-19"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:52:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503075258id_/https://magic.wizards.com/en/articles/archive/feature/bottomless-tank-never-say-die-2006-01-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bottomless-tank-never-say-die-2006-01-19"
 ---
 
 
@@ -50,6 +50,7 @@ Put down whatever **Magic** cards you are leafing through right this second. Loo
 
 
 
+
 #### "THE FORBIDDEN PHOENIX", 1998
 
 
@@ -60,7 +61,9 @@ Put down whatever **Magic** cards you are leafing through right this second. Loo
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -358,7 +361,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (39)
+##### Common (42)
 
 
 
@@ -379,7 +382,11 @@ OverviewColorCostRarity
 
 
 4
-[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+[Forbid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbid%5D)
+
+
+3
+[Capsize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCapsize%5D)
 
 
 3
@@ -387,7 +394,7 @@ OverviewColorCostRarity
 
 
 
-##### Uncommon (16)
+##### Uncommon (13)
 
 
 
@@ -395,16 +402,12 @@ OverviewColorCostRarity
 [Caldera Lake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaldera%5D+%5BLake%5D)
 
 
-4
-[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
-
-
 3
 [Dismiss](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismiss%5D)
 
 
-3
-[Capsize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCapsize%5D)
+4
+[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
 
 
 3
@@ -416,7 +419,7 @@ OverviewColorCostRarity
 
 
 
-##### Rare (16)
+##### Rare (15)
 
 
 
@@ -429,11 +432,7 @@ OverviewColorCostRarity
 
 
 4
-[Forbid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbid%5D)
-
-
-1
-[Scroll Rack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScroll%5D+%5BRack%5D)
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
 
 
 3
@@ -441,12 +440,16 @@ OverviewColorCostRarity
 
 
 
-##### Mythic (4)
+##### Mythic (5)
 
 
 
 4
 [Shard Phoenix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShard%5D+%5BPhoenix%5D)
+
+
+1
+[Scroll Rack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScroll%5D+%5BRack%5D)
 
 
 75 Cards 

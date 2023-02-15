@@ -4,6 +4,7 @@
 
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "963391"
+[_metadata_:path_date]:- "2001-01-01"
 [_metadata_:publish_date]:- "2016-01-06"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Kuala Lumpur Photos"

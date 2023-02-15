@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Access Magic: Eldritch Moon—Episode 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "1032591"
+[_metadata_:path_date]:- "2015-07-04"
 [_metadata_:publish_date]:- "2016-07-04"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Access Magic: Eldritch Moon—Episode 3"

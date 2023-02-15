@@ -1,0 +1,605 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20210503081048/https://magic.wizards.com/en/articles/archive/event-coverage/day-1-player-list-2006-02-04)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Active PlayersAbueg, JohnAdams, JoshuaAdams, MasonAdcock, ChrisAits, AustinAiyappasamy, SaranAkers, BrandonAllison, PaulAlpaugh, ThomasAlvarez, SeverinoAmin, Sanjayan, kevinAnderson, MichaelArab, JustinArab, RyanArant, GaryArends, RandolphAshton, TommyAten, TimothyAtkin, PhilAzzano, DougBahnaman, StephenBalaeff, AlexanderBall, SamuelBarnett, NoahBarry, AlexBauer, NoahBaughman,"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "567031"
+[_metadata_:publish_date]:- "2006-02-04"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Day 1 Player List"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 08:10:48"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503081048id_/https://magic.wizards.com/en/articles/archive/event-coverage/day-1-player-list-2006-02-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/day-1-player-list-2006-02-04"
+---
+
+
+Day 1 Player List
+=================
+
+
+
+ Posted in **Event Coverage**
+ on February 4, 2006 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+ **Active Players** || Abueg, John |
+| Adams, Joshua |
+| Adams, Mason |
+| Adcock, Chris |
+| Aits, Austin |
+| Aiyappasamy, Saran |
+| Akers, Brandon |
+| Allison, Paul |
+| Alpaugh, Thomas |
+| Alvarez, Severino |
+| Amin, Sanjay |
+| an, kevin |
+| Anderson, Michael |
+| Arab, Justin |
+| Arab, Ryan |
+| Arant, Gary |
+| Arends, Randolph |
+| Ashton, Tommy |
+| Aten, Timothy |
+| Atkin, Phil |
+| Azzano, Doug |
+| Bahnaman, Stephen |
+| Balaeff, Alexander |
+| Ball, Samuel |
+| Barnett, Noah |
+| Barry, Alex |
+| Bauer, Noah |
+| Baughman, Jacob |
+| Baum, Nathan |
+| Baumberger, Kevin |
+| Beasley, Orrin |
+| Becker, Jonathan |
+| Bederlca, Alan |
+| Beeton, James |
+| Behrens, Justin |
+| Bennett, Zyan |
+| Berkley, Chris |
+| Berrill, Eugene |
+| Beverley, Robert |
+| Bezrukov, Semion |
+| Biasone, Joe |
+| Bibby, Jennifer |
+| Bielema, Paul |
+| Blackman, Brett |
+| Blain, Michael |
+| Bliss, Jeffrey |
+| Boettcher, Brandon |
+| Bond, Ronald |
+| Bongiovanni, Mauro |
+| Booth, Michael |
+| Boozer, Chris |
+| Bost, Jonathon |
+| Boulanger, Vincent |
+| Bowen, Ken |
+| Bowles, Richard |
+| Bowman, Brandon |
+| Bowman, Dan |
+| Braddock, Jason |
+| Brady, Alex |
+| Branan, Herbert |
+| Branch, Patrick |
+| Branham, Tandy |
+| Braymore, Nathon |
+| Brichta, J.p. |
+| Bright, Kendall |
+| Brinson, Chase |
+| Britschock, Scott |
+| Buck, Thomas |
+| Buckingham, James |
+| buonanno, mathew |
+| Burkett, Ben |
+| Burns, Daniel |
+| Burns, Jacob |
+| burton, Onassis |
+| Calcano, Christian |
+| Calder, Paul |
+| Cameron, Ian |
+| Cape, Phil |
+| Capriolo, Paul |
+| Cardoso, Alan |
+| Carpenter, Nathan |
+| carrizo, isauro |
+| Caruso, Norman |
+| Castrodale, Brett |
+| Cesar Siqueira, Jorge Henriq |
+| Chalhoub, Sharbel |
+| Chalice, Mark |
+| Chambers, Adam |
+| Chang, Morgan |
+| Chapman, Andrew |
+| Chaseldine, Robert |
+| Chate, Nathaniel |
+| chavez, edgar |
+| Chillemi, Thomas |
+| Chitturi, Ashok |
+| Christopher, Grant |
+| Churchill, Michael |
+| Clark, Morgan |
+| Cohen, Debbie |
+| Cohenour, Dustin |
+| Collins, Jason |
+| Connelly, Chris |
+| Connelly, Daniel |
+| Conner, Clifford |
+| Conner, David |
+| Conner, Matthew |
+| Conners, Bryan |
+| Conrad, Cory |
+| Conway, Douglas |
+| Coolidge, John |
+| Cooper, Jessica |
+| Cooper, Matt |
+| Cooper, Peter |
+| Coppage, Thomas |
+| Coqueiro, Rafael |
+| Costigan, Jill |
+| Cottrell, Scott |
+| Courtois, David |
+| Cox, Benjamin |
+| Cox, Patrick |
+| Creech, Lawrence |
+| Crouch, Tommy |
+| Crowley, Jeremy |
+| Cuddy, Randy |
+| cullen, joshua |
+| daigle, shane |
+| Danner, Ben |
+| Darland, Eric |
+| Davis, Albert |
+| Davis, Jason |
+| Davis, John |
+| davis, William |
+| De Rosa, Antonino |
+| Dean, J. Evan |
+| Decker, AJ |
+| Deluca, Eric |
+| Demars, Brian |
+| deRonde, Matthew |
+| Desimore, Brian |
+| Dial, Joey |
+| Digges, Kelly |
+| Dillahay, Carl |
+| Dinh, Peter |
+| Dixon, Robert |
+| Dobbertin, Ty |
+| Dohmen, Leonor |
+| Dohmen, Matthias |
+| Dolloff, Stephen |
+| Dolloff, Tim |
+| Domschot, Nick |
+| Doran, Shaun |
+| Doshi, Vishu |
+| Dougherty, Robert |
+| Douglass, Morgan |
+| Driggs, Alex |
+| Dudley, Robert |
+| Duerig, Thomas |
+| Earnhart, Will |
+| Edmister, Rick |
+| Edmond, Scott |
+| Edwards, Susan |
+| Enss, Mattt |
+| Esposito, John |
+| Evans, Murray |
+| Evaristo, Thomas |
+| Fabiano, Gerard |
+| Falcon, Jon |
+| Fanjoy, John |
+| Farkas, Ben |
+| Farrell, Michael |
+| Fary, Robert |
+| Felske, David |
+| Ferneyhough, Michael |
+| Ferraiolo, Jim |
+| Ferrer, Chris |
+| Fiorillo, John |
+| Fiorillo, Nicholas |
+| Fleshman, Josh |
+| Ford, Neal |
+| Fraley, Aj |
+| Frank, Harry |
+| Frank, Jason |
+| Franklin, Eric |
+| Franklin, Matthew |
+| Furrow, Cory |
+| Gaddis, Gerald |
+| Gamble, Allen |
+| Garnelis, Kyle |
+| Gaudard, Jason |
+| Gaudards, Jordan |
+| George, Justin |
+| Gercken, Justin |
+| Gerth, Jonathan |
+| gildea, robert |
+| Gilson, Marcus |
+| Gordon, Scott |
+| Gould, Brandon |
+| Green, Glenn |
+| Greenspan, Jonathan |
+| gregg, tony |
+| Grevers, Charley |
+| Griffin, Christopher |
+| Grizzelle, Joel |
+| Gromko, Radoslaw |
+| Grossman, Elizabeth |
+| Guskin, David |
+| Hague, James |
+| Hall, Zack |
+| Harber, Gabe |
+| Harrietha, Mike |
+| Harris, William |
+| Harvey, Eugene |
+| Harvie, Donovan |
+| Hauptmann, Aaron |
+| Hawkins, James |
+| Hayner, Michael |
+| Head, Robert |
+| Hedge, David |
+| Heeswijk, Roel |
+| Hendricks, Ryan |
+| Herberholz, Mark |
+| Hidlay, Doug |
+| Himes, Chad |
+| Ho, Joey |
+| Hoaen, Richard |
+| Hockaday, David |
+| Hogan, Casey |
+| Holland, Jesse |
+| Homer, Matthew |
+| Horvath, Adam |
+| Hovanec, Andrew |
+| Howard, David |
+| Howell, Damon |
+| Hsiung, Kenny |
+| Huang, Don |
+| Huff, Curt |
+| Hulse, Brian |
+| Hulse, Kevin |
+| Hutzel, Ronald |
+| Impellizzieri, Anthony |
+| Ioli, Mark |
+| Irvine, David |
+| Jackness, Justin |
+| Jacks, Andy |
+| Jackson, Allen |
+| Jacob, Michael |
+| Jacques, Richard |
+| Jafari, David |
+| Jafri, Ali |
+| Jarvis, Aaron |
+| Jesse, Zach |
+| Johnson, Blair |
+| Jordan, Chris |
+| Kadlec, Robert |
+| Kaji, Tomohiro |
+| Karsten, Frank |
+| Kastel, Chad |
+| Kastle Mess, Darwin |
+| Keesee, D.j. |
+| Keesling, Jarrod |
+| kelly, brian |
+| Kenney, Bryn |
+| Khutorsky, Eugene |
+| Kincaid, Tim |
+| King, Jeremy |
+| King, Stephen |
+| King, Vicktor |
+| Kinner, Jeffrey |
+| Knutson, Ted |
+| Kokx, Jeff |
+| Konselman, Mark |
+| Krause, Joshua |
+| Krempels, Craig |
+| Krouner, Ken |
+| Kunkel, Jeremy |
+| Labenski, Michael |
+| Lachmann, Chris |
+| Lafakis, Chris |
+| Langford, Chris |
+| Larson, Shawn |
+| Lauria, Joe |
+| Le Pine, Mark |
+| Lebedowicz, Osyp |
+| Lee, Michael |
+| Leeper, Paul |
+| Lemasters, Justin |
+| leveille, thomas |
+| Levin, Eugene |
+| Levin, Julian |
+| Lewis, Jeremy |
+| Li, Phillip |
+| Lieberman, Alex |
+| Lipczynski, Aaron |
+| Lockard, Ryan |
+| Loden, Lance |
+| Long, James |
+| Long, Todd |
+| Lorbeske, Alexander |
+| Lorenz, Ryan |
+| Love, Dave |
+| Lovin, Mark |
+| Loy, Patrick |
+| Lundquist, Ben |
+| Lusk, Brian |
+| Maciejewski, Jeremy |
+| Mack, Kyle |
+| Mack, Shaun |
+| Mackenzie, Cameron |
+| mahler, hans |
+| maines, kevin |
+| Majlaton, Alex |
+| makino, Bernard |
+| Mantey, Tyler |
+| Margolis, Max |
+| Marks, Marty |
+| Marlor, Jamie |
+| Martel, Jason |
+| Martin, Adam |
+| Martin, Steven |
+| Martinkosky, Luke |
+| Mason, Chris |
+| Matthews, Barry |
+| Mayer, Tony |
+| Mayes, John |
+| McCluskey, Tfavis |
+| Mccormack, Antoine |
+| McDaniel, Chris |
+| McKee, Derek |
+| McKenzie, Chadwick |
+| McMahan, Ryan |
+| Mead, Canon |
+| Mead, Forrest |
+| Medina, Christopher |
+| Meek, Robbie |
+| Merkh, Richard |
+| Merwin, Jason |
+| Meyerson, Jeffrey |
+| Michel, Frederick |
+| Mickle, David |
+| Mickle, DJ |
+| Mickle, Marcia |
+| Mickle, Sara |
+| Miguel, Andres |
+| Miller, David |
+| Miller, Jordan |
+| Miller, Kyle |
+| Miller, Paul |
+| Miller, Terry |
+| Mirch, Matt |
+| Monast, David |
+| Mondon, Chris |
+| Monmaney, Josh |
+| Monroe, Michael |
+| Moore, Hugh |
+| Moore, John |
+| Moore, John E. |
+| Morawski, Jonathan |
+| Moreno, William |
+| Morgan, Justin |
+| Morgan, Michael |
+| Mori, Katsuhiro |
+| Moss, Wes |
+| Mott, Anthony |
+| Mullins, Andrew |
+| Naessig, Chris |
+| Nagelberg, James |
+| Nagy, Stephen |
+| Najafpoor, Omid |
+| Nakamura, Shuuhei |
+| Napoli, Phillip |
+| Neary, Nicholas |
+| Neiman, Luis |
+| Newman, Tristan |
+| Nezer, Andrew |
+| Ng, Yue Kiu |
+| Nichols, James |
+| Norris, James |
+| Nowak, Krzysztof |
+| Olmo, Daniel |
+| OMahoneySchwartz, Daniel |
+| OMahoneySchwartz, Steven |
+| Opalk, Ryan |
+| Opalka, Jason |
+| Otsu, Yoshi |
+| Palmer, Michael |
+| Pampalon, Joseph |
+| Pannell, Thomas |
+| Paradis, Jason |
+| Parke, Jamie |
+| Parker, Brock |
+| Parker, Zach |
+| Parris, Michael |
+| Parshall, William |
+| Peebles-Mundy, Benjamin |
+| Pelcak, John |
+| Perdue, Justin |
+| Perko, Larry |
+| Peyton, James |
+| Phillips, Cedric |
+| Phillips, Eric |
+| Pierce, Bryen |
+| Pinchot, Jesse |
+| Pinnegar, Michael |
+| Polanik, Kimball |
+| Poloway, David |
+| Polyniak, Andrew |
+| Pontius, John |
+| Poplin, Ryan |
+| Porter, Ike |
+| Postlethwait, William |
+| Potter, James |
+| Powelson, Jeff |
+| Prior, Chris |
+| Prosak, Doug |
+| Pryplesh, Jon |
+| Putnam, Taylor |
+| Racht, Adam |
+| Radwan, Nickolas |
+| Ramos, Jose |
+| Rankin, Mark |
+| Raval, Chirag |
+| Ravitz, Joshua |
+| Reeves, Neil |
+| Reid, Kyle |
+| Rice, Kevin |
+| Ripple, Chris |
+| Romão, Carlos |
+| Rooks, Michael |
+| Rose, Jason |
+| Rose, Kyle |
+| Rothman, Ben |
+| Rowe, Jason |
+| Rust, Frederic |
+| Sadin, Steven |
+| Sallie, Jeremy |
+| sanchez, kyle |
+| sanders, hugh |
+| Sandrock, Eric |
+| Sato, Takanobu |
+| Saucier, Joshua |
+| Saugier, Kyle |
+| Schmidt, Joseph |
+| Schmit, Mark |
+| Schneider, Brian |
+| Schneider, John |
+| Schoonover, Kenny |
+| Schue, David |
+| Scott, Jeffrey |
+| Scott, Matt |
+| Scott, Todd |
+| Sears, Charles |
+| Sena, James |
+| Sharfman, David |
+| Sheets, Derrick |
+| Shiels, David |
+| Short, Jason |
+| Slone, John |
+| smart, tom |
+| Smith, Brian |
+| Smith, Don |
+| Smith, Kyle |
+| Smith, Ross |
+| Smrekar, Toby |
+| Sonne, Jonathan |
+| Soorani, Shaheen |
+| spotts, steven |
+| Sprowls, Brandon |
+| Squire, J.p. |
+| Stambaugh, Trent |
+| Stangl, Craig |
+| Stavola, Kate |
+| Stead, Bill |
+| Stein, Solomon |
+| Steinmetz, Ferrett |
+| stelmack, andrew |
+| Stephenson, Benjamin |
+| Stickney, Adam |
+| Stoddard, Samuel |
+| sugg, austin |
+| Sullivan, Patrick |
+| Swaluk, Jeff |
+| Swan, Brad |
+| Sweeney, Clifton |
+| Swoyer, Mark |
+| Szleifer, Gadiel |
+| taulbee, brad |
+| Tautic, Raymond |
+| Taylor, Eric |
+| Taylor, Justin |
+| Terry, James |
+| Thode, Jeff |
+| Thompson, Gerry |
+| Thoms, Christopher |
+| Tian, Jason |
+| Tien, Jack |
+| Tomazzolli, Sal |
+| Toms, Bennett |
+| Tormos, Ervin |
+| Torres, Sergio |
+| Tracy, Kyle |
+| Treloar, Justin |
+| Trimble, Chad |
+| Tsumura, Kenji |
+| Twentier, Edwin |
+| Tyburski, Ken |
+| Urban, Matthew |
+| Vance, Joe |
+| Vandover, Jesse |
+| Vandover, Sean |
+| Vanek, John |
+| Vansumeren, B |
+| Veen, Andrew |
+| Vienneau, Matthew |
+| Vizzacco, Mark |
+| Wahl, Oliver |
+| Wahlgren, James |
+| Walker, Dennis |
+| Wallace, Jason |
+| Walls, Gabe |
+| Walters, James |
+| walters, nick |
+| Ward, Jonathan |
+| Ward, Mike |
+| Webb, David |
+| Webb, Jody |
+| Webb, Taylor |
+| West, Joseph |
+| Westergaard, Robert |
+| Westfall, Matt |
+| Williams, Andrew |
+| Williams, Corkryn |
+| Williams, David |
+| Williams, David A. |
+| Williams, Ron |
+| Wilson, Brian |
+| Wilson, Daniel |
+| Wolfe, Scott |
+| Wolfensberger, John |
+| Wolsserman, Sam |
+| Woltereck, Chris |
+| Woodley, Ian |
+| Yam, Philip |
+| Yamada, Shunsuke |
+| Yandell, Chris |
+| Yee, Chris |
+| young, jimmy |
+| Young, Mark |
+| Yurchick, Adam |
+| Zajdner, Mark |
+| Zaun, Michael |
+| Zimmerman, Nathan |
+|  |
+| Total players: 551 |
+
+
+
+
+
+
+

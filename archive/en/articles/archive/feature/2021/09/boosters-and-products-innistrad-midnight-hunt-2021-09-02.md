@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210905234012/https://magic.wizards.com/en/articles/archive/feature/boosters-and-products-innistrad-midnight-hunt-2021-09-02?fbclid=IwAR1CL31fc1JKo0oNAFPJhsJXFeKgDMt-86R6ESBh2PhhXOydb5bwMUJEOmA)
+[Link to Wayback Machine](https://web.archive.org/web/20211024195337/https://magic.wizards.com/en/articles/archive/feature/boosters-and-products-innistrad-midnight-hunt-2021-09-02?utm_source=MTGNexus&utm_medium=SetPreviews)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Double-faced cards. New-to-Commander cards. Traditional foil versions of the latest Booster Fun treatments. It's all here."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-09-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Boosters and Products of Innistrad: Midnight Hunt"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-05 23:40:12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210905234012id_/https://magic.wizards.com/en/articles/archive/feature/boosters-and-products-innistrad-midnight-hunt-2021-09-02?fbclid=IwAR1CL31fc1JKo0oNAFPJhsJXFeKgDMt-86R6ESBh2PhhXOydb5bwMUJEOmA"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/boosters-and-products-innistrad-midnight-hunt-2021-09-02?fbclid=IwAR1CL31fc1JKo0oNAFPJhsJXFeKgDMt-86R6ESBh2PhhXOydb5bwMUJEOmA"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 19:53:37"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024195337id_/https://magic.wizards.com/en/articles/archive/feature/boosters-and-products-innistrad-midnight-hunt-2021-09-02?utm_source=MTGNexus&utm_medium=SetPreviews"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/boosters-and-products-innistrad-midnight-hunt-2021-09-02?utm_source=MTGNexus&utm_medium=SetPreviews"
 ---
 
 
@@ -75,13 +75,13 @@ Here are the new-to-*Magic* Commander cards you can find in Set Boosters:
 ![Avacyn's Memorial](https://media.wizards.com/2021/mid/en_oyMt3qOjUu.png)![Visions of Glory](https://media.wizards.com/2021/mid/en_ImttYG2VKS.png)![Visions of Duplicity](https://media.wizards.com/2021/mid/en_QUQyeznD9g.png)
 
 
-![Visions of Dread](https://media.wizards.com/2021/mid/en_PJZRY66qJH.png)![Curse of Obsession](https://media.wizards.com/2021/mid/en_hZt4mw89sr.png)
+![Visions of Dread](https://media.wizards.com/2021/mid/en_PJZRY66qJH.png)![Curse of Obsession](https://media.wizards.com/2021/mid/en_hZt4mw89sr.png)![Visions of Ruin](https://media.wizards.com/2021/mid/en_IGpmn2D3ov.png)
 
 
-![Visions of Ruin](https://media.wizards.com/2021/mid/en_IGpmn2D3ov.png)![Visions of Dominance](https://media.wizards.com/2021/mid/en_ss7Ep3ORe2.png)
+![Visions of Dominance](https://media.wizards.com/2021/mid/en_ss7Ep3ORe2.png)![Lynde, Cheerful Tormentor](https://media.wizards.com/2021/mid/en_Qz7A8BmrdT.png)
 
 
-(\**These cards will only be found in* Innistrad: Midnight Hunt *Set and Collector Boosters. Plus, there's one more mythic rare* Innistrad: Midnight Hunt *Commander card in Set and Collector Boosters, which we'll reveal during Weekly MTG on September 9.*)
+*(\*These cards will only be found in* Innistrad: Midnight Hunt *Set and Collector Boosters.)*
 
 
 New cards to play with are always exciting but not every card can fit into or be balanced for a Standard set with Draft Boosters, such as cards designed for Commander. With Set Boosters—and Collector Boosters, see below—we can include more cool cards in more colors for Commander players (beyond the two *Innistrad: Midnight Hunt* Commander decks) and add more to discover when you open an additional rare or mythic rare in a Set Booster.

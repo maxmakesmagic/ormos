@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160116050240/http://magic.wizards.com/en/articles/archive/feature/2016-magic-online-championship-series-2015-11-13)
+[Link to Wayback Machine](https://web.archive.org/web/20220818205858/https://magic.wizards.com/en/articles/archive/feature/2016-magic-online-championship-series-2015-11-13)
 
 [_metadata_:author]:- "Lee Sharpe"
 [_metadata_:description]:- "Lee has all the details surrounding the changes to the Magic Online Championship Series for 2016."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2015-11-13"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2016 Magic Online Championship Series"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-16 05:02:40"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160116050240id_/http://magic.wizards.com/en/articles/archive/feature/2016-magic-online-championship-series-2015-11-13"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2016-magic-online-championship-series-2015-11-13"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 20:58:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818205858id_/https://magic.wizards.com/en/articles/archive/feature/2016-magic-online-championship-series-2015-11-13"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2016-magic-online-championship-series-2015-11-13"
 ---
 
 
@@ -125,7 +125,7 @@ You'll notice that these are MOCS Leaderboard Points as part of the prizes. Thes
 Monthly Events don't award *Magic Online* Championship or Pro Tour invites, but you can use them as a bridge to the Playoff Events, which do award these type of invites on top of a lot of other awesome prizes!
 
 
-As noted above, each Monthly MOCS Event all year long will awards players a copy of the MOCS Yearly promo, which is [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Bolt):
+As noted above, each Monthly MOCS Event all year long will awards players a copy of the MOCS Yearly promo, which is [Lightning Bolt](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Bolt):
 
 
 ![](https://media.wizards.com/2015/images/daily/FEAT_MOCS_BOLT.png)
@@ -165,7 +165,7 @@ The top two finishers in each Playoff Event win an invite to the next Pro Tour, 
 As this structure notes, some set and booster prizes are for the **next** Standard-legal *Magic Online* set. Winning these will put you in great positions to enjoy the new Standard and Draft formats once the next set is released! These will be granted to winning accounts the day the boosters for that set go on sale on *Magic Online*.
 
 
-There is also a unique promo card for each Playoff Event, which you can win as described in the prize structure above. For the first quarter, the promo card is [Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Liliana+of+the+Veil)!
+There is also a unique promo card for each Playoff Event, which you can win as described in the prize structure above. For the first quarter, the promo card is [Liliana of the Veil](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Liliana+of+the+Veil)!
 
 
 ![](https://media.wizards.com/2015/images/daily/FEAT_MOCS_LILIANA.png)

@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170102073249/http://magic.wizards.com/en/articles/archive/feature/allies-conflict-2008-06-11)
+[Link to Wayback Machine](https://web.archive.org/web/20220804233034/https://magic.wizards.com/en/articles/archive/feature/allies-conflict-2008-06-11)
 
 [_metadata_:author]:- "Doug Beyer"
-[_metadata_:description]:- "Clowns to the left of me, jokers to the right–Stealers Wheel, `Stuck in the Middle with You`I love sinking my teeth into the color wheel. Far from being only a mechanical concern, it's the heart and soul of the flavor of Magic. Richard Garfield? The original Vorthos, baby."
+[_metadata_:description]:- "Clowns to the left of me, jokers to the right–Stealers Wheel, `Stuck in the Middle with You`I love sinking my teeth into the color wheel. Far from being only a mechanical concern, it's the heart and soul of the flavor of Magic. Richard Garfield? The original Vorthos, baby. But the genius of Richard's creation goes far deeper than assigning elements of a fantasy world to a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "622926"
 [_metadata_:publish_date]:- "2008-06-11"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Allies in Conflict"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-02 07:32:49"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170102073249id_/http://magic.wizards.com/en/articles/archive/feature/allies-conflict-2008-06-11"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/allies-conflict-2008-06-11"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-04 23:30:34"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220804233034id_/https://magic.wizards.com/en/articles/archive/feature/allies-conflict-2008-06-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/allies-conflict-2008-06-11"
 ---
 
 
@@ -52,7 +52,7 @@ But the genius of Richard's creation goes far deeper than assigning elements of 
 
 Conflict is the engine of any story. For a story to get up and go, its characters have to experience friction with their environment, with themselves, and most of all, with each other. Watch any summer blockbuster movie, pick any character other than the protagonist, and ask yourself, what is this character here for? I'll bet you that, at some point, directly or indirectly, that character either generates conflict for the protagonist or helps him or her manage it (and often both). If someone is hanging around in a story, having basically an okay time, not really having that difficult a time with anything, and just generally getting along with the world and everyone in it, then I'll tell you right now: the story editor (and the reader / audience) is going to ask some serious questions about why that character is in there. 
 
-So, sure, conflict. Obstacles to overcome. Bad guys to beat up. Deep psychological scars to come to grips with. These are common in stories, including **Magic** stories—novels, short stories, comics. We already know one of the most important sources of conflict in **Magic**—the concept of enemy colors. Black [Deathmark](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deathmark)s white and green; blue [Flashfreeze](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flashfreeze)s green and red. Lines of enmity crisscross the color wheel. The clever bit is that conflict is generated even between allies.
+So, sure, conflict. Obstacles to overcome. Bad guys to beat up. Deep psychological scars to come to grips with. These are common in stories, including **Magic** stories—novels, short stories, comics. We already know one of the most important sources of conflict in **Magic**—the concept of enemy colors. Black [Deathmark](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deathmark)s white and green; blue [Flashfreeze](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flashfreeze)s green and red. Lines of enmity crisscross the color wheel. The clever bit is that conflict is generated even between allies.
 
 ### Prime Real Estate
 

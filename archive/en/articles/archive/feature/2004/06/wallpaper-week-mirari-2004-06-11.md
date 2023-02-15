@@ -47,7 +47,7 @@ This week's desktop wallpaper is Donato Giancola's **[Mirari](http://gatherer.wi
 
 
 
-![](https://web.archive.org/web/20150923025642im_/http://archive.wizards.com/global/images/mtgcom_arcana_585_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Mirari_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_585_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Mirari_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Mirari_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Mirari_800x600.jpg)
 

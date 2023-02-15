@@ -1,0 +1,259 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220705131610/https://magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2007-03-02)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "TablePlayerOpponent 1Kwok, Kai Kam [HKG]vs.pak, matthew [MYS] 2Dimalanta, Lawrence F [PHL]vs.Feng, Bao [CHN] 3Ng, Song Khim [SGP]vs.Lim, Keat Long [MYS] 4Lim, Chun Long Jimmy [SGP]vs.Ang, Junyang [SGP] 5Chua, James [SGP]vs.Españo, Ryan C [PHL] 6Tay, Ek Kiat [SGP]vs.Chua, Daniel Boon Hwee [SGP] 7La Faber, Sean M [MYS]vs.Ong, Sze Tat [MYS] 8Chong, Ming Xun [SGP]vs.Eng Long,"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "568906"
+[_metadata_:publish_date]:- "2007-03-02"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Round 2 Pairings"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 13:16:10"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705131610id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2007-03-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2007-03-02"
+---
+
+
+Round 2 Pairings
+================
+
+
+
+ Posted in **Event Coverage**
+ on March 2, 2007 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+ **Table** | **Player** |  | **Opponent** |
+| 1 | Kwok, Kai Kam [HKG] | vs. | pak, matthew [MYS] |
+| 2 | Dimalanta, Lawrence F [PHL] | vs. | Feng, Bao [CHN] |
+| 3 | Ng, Song Khim [SGP] | vs. | Lim, Keat Long [MYS] |
+| 4 | Lim, Chun Long Jimmy [SGP] | vs. | Ang, Junyang [SGP] |
+| 5 | Chua, James [SGP] | vs. | Españo, Ryan C [PHL] |
+| 6 | Tay, Ek Kiat [SGP] | vs. | Chua, Daniel Boon Hwee [SGP] |
+| 7 | La Faber, Sean M [MYS] | vs. | Ong, Sze Tat [MYS] |
+| 8 | Chong, Ming Xun [SGP] | vs. | Eng Long, Christopher [SGP] |
+| 9 | Jaro, Ogie [PHL] | vs. | Chandra, Edy [IDN] |
+| 10 | Lin, Ruizi [SGP] | vs. | Shi, Gan H [SGP] |
+| 11 | Law, Charles [SGP] | vs. | Yuliadinata, Dennis [SGP] |
+| 12 | Llamas, Wilbur F [SGP] | vs. | Widjaja, Rudy [IDN] |
+| 13 | Chua, Kim Yong Brian [SGP] | vs. | Pierre, Sylvain [FRA] |
+| 14 | Uzair, Faruqi [MYS] | vs. | Zhou, Yujian [SGP] |
+| 15 | Pui, Boon Keng [MYS] | vs. | sangpar, prakit [THA] |
+| 16 | NG, Kar Wye [MYS] | vs. | Kong, Chong Teng [SGP] |
+| 17 | Huang, Benjamin [SGP] | vs. | harith, gibran [MYS] |
+| 18 | Khoo, Aik Seng [SGP] | vs. | Hew, Jun-Wei [SGP] |
+| 19 | Kang, Gabriel [SGP] | vs. | koh, charles m [AUS] |
+| 20 | Chia, Tet Swee Edmund [SGP] | vs. | Kaneko, Masami [JPN] |
+| 21 | Wei Jian, Ong [SGP] | vs. | Soh, Eng Bin [SGP] |
+| 22 | Tan, Chuen Hwa [MYS] | vs. | Ng, Kevin H [MYS] |
+| 23 | Su, Michael [TWN] | vs. | Kershaw, Matthew A [CAN] |
+| 24 | Dou, Ruzhuang [CHN] | vs. | Shi, Xiang [SGP] |
+| 25 | Ng, Chong Leng [SGP] | vs. | Zhang, Qun [SGP] |
+| 26 | Youn Ming, Hwung [TWN] | vs. | Lai, Yit Shie [MYS] |
+| 27 | Ng, Benjamin [MYS] | vs. | Chai, Eng Chye [SGP] |
+| 28 | Ho, jong-yi [TWN] | vs. | Fu, Tie Bao Aloysius [SGP] |
+| 29 | Ong, Desmond Wei Liang [SGP] | vs. | Heng, Chye Hwee [SGP] |
+| 30 | Zee, Way Leong [SGP] | vs. | Ng, Bernard [SGP] |
+| 31 | Tan, Kiat Cheong [SGP] | vs. | Mun Yip, Yau [MYS] |
+| 32 | Chan, Fung Shun [HKG] | vs. | Lim, Tou Chien [SGP] |
+| 33 | yao, ji jiang [CHN] | vs. | Lim, Yong Hui Ivan [SGP] |
+| 34 | Jaro, Macho P [PHL] | vs. | Cheung, Ka Ho [SGP] |
+| 35 | Loh, ChuanHan M [SGP] | vs. | Salleh, Fuad S [MYS] |
+| 36 | Nakatani, Haruki [JPN] | vs. | Chua, Meng Wan [SGP] |
+| 37 | Xiaowei, Feng [CHN] | vs. | Qu, Chen [CHN] |
+| 38 | tiong, chris [SGP] | vs. | Bai, Ming [CHN] |
+| 39 | gan, meng san [SGP] | vs. | Yeong, Lance Chin Wei [SGP] |
+| 40 | sim, daryl [SGP] | vs. | Wu, Sebastian [SGP] |
+| 41 | Wang, Sim Loong [MYS] | vs. | Aw, Jia Hao Edwin [SGP] |
+| 42 | Shahabudin, Nur E [MYS] | vs. | Tan, Xing Yong [SGP] |
+| 43 | Kuan, Adrian Shen Jong [MYS] | vs. | Foong, Darren [SGP] |
+| 44 | Wong, Lucas [SGP] | vs. | Liem, Tje Fei [IDN] |
+| 45 | Lee, Wen Yi [SGP] | vs. | Yang, Joshua [SGP] |
+| 46 | Tay, Ralph [SGP] | vs. | karfatt, carlson C [MYS] |
+| 47 | Tan, Chin Heng [SGP] | vs. | Lim, Benedict [SGP] |
+| 48 | Soh, Chia Xiong [SGP] | vs. | Lee, Jason Lay Boon [SGP] |
+| 49 | Lim, Hao Yang [SGP] | vs. | Hirosawa, Yuuta [JPN] |
+| 50 | Ng, Soon Lye [SGP] | vs. | Muralitheran, Hari m [MYS] |
+| 51 | Chua, Chiew Song [SGP] | vs. | Chan, Kai Harry [SGP] |
+| 52 | fong, clement y [SGP] | vs. | Cai, Shaoken [SGP] |
+| 53 | wong, times [MYS] | vs. | Wei Min, Lee [SGP] |
+| 54 | Eng, Andrew [SGP] | vs. | Tan, Steven [SGP] |
+| 55 | Lim, Chuan Heng [SGP] | vs. | chin, yoon fui [SGP] |
+| 56 | Koh, Luke Wang [MYS] | vs. | Caniezo, Marlon T [PHL] |
+| 57 | Nazim, Mohamad [MYS] | vs. | Tan, Alvin [SGP] |
+| 58 | Wang, Tian Poo [SGP] | vs. | TAN, ENG GIAP [SGP] |
+| 59 | Neo, Alvin [SGP] | vs. | Kwok, Bone [HKG] |
+| 60 | Tan, Melvin Jia Ming [SGP] | vs. | Lee, Warren K [SGP] |
+| 61 | Loh, Mun Kit [SGP] | vs. | Lim, Swee Weng [SGP] |
+| 62 | Thio, Russell [SGP] | vs. | Minh, Bernard [IDN] |
+| 63 | Wong, Neil [SGP] | vs. | Fung, Gan C [SGP] |
+| 64 | Lim, Franz C [PHL] | vs. | Yeh, Chao Lung [SGP] |
+| 65 | Fusta, Haudy [IDN] | vs. | wong, chino [PHL] |
+| 66 | tan, gary [SGP] | vs. | Kataoka, Asami [JPN] |
+| 67 | Iskandar, Nik N [MYS] | vs. | Yu, Mingyi [SGP] |
+| 68 | Potter, Michael G [SGP] | vs. | li, fabien [SGP] |
+| 69 | Wang, Zhi Wei [SGP] | vs. | Xiao, Dennis [SGP] |
+| 70 | Shi, Zhenhao [SGP] | vs. | Miyajima, Yoshitaka [JPN] |
+| 71 | Wu, Kefei [CHN] | vs. | Oh, Reno [SGP] |
+| 72 | Chua, Wei xiang [SGP] | vs. | Mokhtaruddin, Mohd Haf [MYS] |
+| 73 | Purnama, Erick C [SGP] | vs. | Ik, Zu Yong [MYS] |
+| 74 | Yang, Dansu [SGP] | vs. | kawasaki, daisuke [JPN] |
+| 75 | Gan, Jonathan [SGP] | vs. | Koo, Andy [SGP] |
+| 76 | Guerrero, Ogie E [SGP] | vs. | Lau, Zhao Zhi [SGP] |
+| 77 | Ng, Jun Yuan [SGP] | vs. | Hanming, Kenneth G [SGP] |
+| 78 | Wong, Hsiao Hong Jerem [SGP] | vs. | Surinindran, Nico [MYS] |
+| 79 | Chan, Qin Liang [SGP] | vs. | Chia, Bing Hong [SGP] |
+| 80 | Tan, Wei Hao Joshua [SGP] | vs. | Ch ng, Jonathan [SGP] |
+| 81 | Dunsford, Denny R [SGP] | vs. | Teoh, David [SGP] |
+| 82 | Lew, Wei Wei [SGP] | vs. | Indrakesuma, Taufik R [IDN] |
+| 83 | Sim, Kaiser [SGP] | vs. | Chee, Crisler H [PHL] |
+| 84 | Eurkittiroj, Arthit [THA] | vs. | Yong, Hock Tai [MYS] |
+| 85 | Hio, Lester [SGP] | vs. | Poh, Seng Ho Plytrx [SGP] |
+| 86 | See, Joeshin [SGP] | vs. | Kwan, David Wei Phang [SGP] |
+| 87 | Thian, Tony Tai Kwong [SGP] | vs. | Cher, Chin Wee [SGP] |
+| 88 | Wee, Tim Liang [MYS] | vs. | Wong, Derrick [MYS] |
+| 89 | Lam, chi kwong [SGP] | vs. | Lim, Edwin Voon Fei [MYS] |
+| 90 | Ong, Wei Bin [SGP] | vs. | Ubay, Carmelo [PHL] |
+| 91 | Cohun, Benson T [PHL] | vs. | Poh, Ming Jie Audric [SGP] |
+| 92 | French, Michael E [JPN] | vs. | Tan, Augustine [SGP] |
+| 93 | Sawada, Ken [JPN] | vs. | Watabe, Naoto [SGP] |
+| 94 | Kuek, Adrian [SGP] | vs. | Chong, Andrew [MYS] |
+| 95 | Chong, Allan Wan Loon [MYS] | vs. | Lee, Seow Yong [SGP] |
+| 96 | Lee, Seow Chong [SGP] | vs. | Koh, Zhi Sin [SGP] |
+| 97 | Cirujales, earl s [PHL] | vs. | Tay, Galvin Chow Siong [SGP] |
+| 98 | Rosmarudin, Faizal [SGP] | vs. | lin, ming yi [SGP] |
+| 99 | Tan, George K [SGP] | vs. | Chen, Jason [TWN] |
+| 100 | Pang, Clement [SGP] | vs. | Leong, Wai Seng [MYS] |
+| 101 | Lim, Wee Chuan Mervyn [SGP] | vs. | Tan, Mark Yaocheng [SGP] |
+| 102 | Tan, Basil [SGP] | vs. | Zhong, Wei Wen [SGP] |
+| 103 | Ng, Koon Kit [SGP] | vs. | Xu, Jia Wei [SGP] |
+| 104 | Teo, Pei Shi Andrew [SGP] | vs. | Feng, Hao [CHN] |
+| 105 | Amin, Mohd Aidi [MYS] | vs. | Hung, Chi Hang [SGP] |
+| 106 | Bai, Yixiang K [SGP] | vs. | Cho, Zheng Heng [SGP] |
+| 107 | Khang Jong, Kuan [MYS] | vs. | Chung, Ian [SGP] |
+| 108 | rames, karthik [SGP] | vs. | choi, kwok keong [SGP] |
+| 109 | Costales, Glenns [SGP] | vs. | Chang, Wai Hou [SGP] |
+| 110 | woei, yong [SGP] | vs. | Hildayyat, Mohamad [SGP] |
+| 111 | Tan, Wee Meng [SGP] | vs. | Go, Osmond S [PHL] |
+| 112 | Wong, Kevin [MYS] | vs. | Yao, Stamford [SGP] |
+| 113 | sam, eng ching seng [MYS] | vs. | Yanbiao Daniel, Zhang [SGP] |
+| 114 | Jantakananurak, sumpha [THA] | vs. | Ong, Joe Lin [MYS] |
+| 115 | Hamzah, Rizal F [MYS] | vs. | Tan Kok Han, Kerry [SGP] |
+| 116 | Lim, Yow Cheng [SGP] | vs. | Ho, Gabriel [SGP] |
+| 117 | Chan, Wai Lun Desmond [SGP] | vs. | Teo, Justin [MYS] |
+| 118 | Wee, Xiang Jun [SGP] | vs. | Ang, Kok Beng [SGP] |
+| 119 | Seah, Choon Peng [SGP] | vs. | Lee, Wei Huan [MYS] |
+| 120 | Woo, Jason [SGP] | vs. | Chien Shen, Koh [SGP] |
+| 121 | Goh, Yong Xin [SGP] | vs. | Hon, Chun Wah [SGP] |
+| 122 | Hisyam, Muhammad Syahr [SGP] | vs. | TOH, HONG WEI [SGP] |
+| 123 | Wu, Jia Ming [SGP] | vs. | Lim, J J [SGP] |
+|  | sabale, jose marie c [PHL] |  | \* Awarded Bye \* |
+|  | Yap, Jason [MYS] |  | \* Awarded Bye \* |
+|  | Pranoto, Andreas B [IDN] |  | \* Awarded Bye \* |
+|  | Waller, Joe [KOR] |  | \* Awarded Bye \* |
+|  | Surin, Scott [MYS] |  | \* Awarded Bye \* |
+|  | Lim, Leslie [SGP] |  | \* Awarded Bye \* |
+|  | Xu, Bin [CHN] |  | \* Awarded Bye \* |
+|  | Wang, Xuan-ji [CHN] |  | \* Awarded Bye \* |
+|  | li, ang [CHN] |  | \* Awarded Bye \* |
+|  | xu, su [CHN] |  | \* Awarded Bye \* |
+|  | choo, yong han [SGP] |  | \* Awarded Bye \* |
+|  | Chao, Peter [TWN] |  | \* Awarded Bye \* |
+|  | Chen, Liang [TWN] |  | \* Awarded Bye \* |
+|  | Leung, Sze Lok [HKG] |  | \* Awarded Bye \* |
+|  | Song, Morris Ming Jer [TWN] |  | \* Awarded Bye \* |
+|  | Li, Cheuk Yin [HKG] |  | \* Awarded Bye \* |
+|  | Sun Kit, Yeung [HKG] |  | \* Awarded Bye \* |
+|  | Ong, Kok Seng [SGP] |  | \* Awarded Bye \* |
+|  | Lerdthammatavee, Pheer [THA] |  | \* Awarded Bye \* |
+|  | Liu, MARCO K.J. Bm Tzu [TWN] |  | \* Awarded Bye \* |
+|  | Chen, I Lin Rin [TWN] |  | \* Awarded Bye \* |
+|  | Francisco, John Paul S [PHL] |  | \* Awarded Bye \* |
+|  | Ong, Weiwah [SGP] |  | \* Awarded Bye \* |
+|  | Oca, Ramon Allan O [PHL] |  | \* Awarded Bye \* |
+|  | Boonvoraset, Sirisak [THA] |  | \* Awarded Bye \* |
+|  | Chaisutomporn, Siricha [THA] |  | \* Awarded Bye \* |
+|  | yothinsopolgul, sompol [THA] |  | \* Awarded Bye \* |
+|  | chee feng, lam [SGP] |  | \* Awarded Bye \* |
+|  | Lim, Ernest [SGP] |  | \* Awarded Bye \* |
+|  | Chua, Chang [SGP] |  | \* Awarded Bye \* |
+|  | Leong, Ding y [SGP] |  | \* Awarded Bye \* |
+|  | Siagian, Yohannes P [IDN] |  | \* Awarded Bye \* |
+|  | Kiwanont, Sukhum [THA] |  | \* Awarded Bye \* |
+|  | Wong Pu Siong, Alex [SGP] |  | \* Awarded Bye \* |
+|  | Oks, Oliver J [JPN] |  | \* Awarded Bye \* |
+|  | Summersberger, Helmut [AUT] |  | \* Awarded Bye \* |
+|  | Sun, Bo [CHN] |  | \* Awarded Bye \* |
+|  | Chick, Hoi K [HKG] |  | \* Awarded Bye \* |
+|  | Louis, Chu [HKG] |  | \* Awarded Bye \* |
+|  | Chai, Ming Huang Royce [SGP] |  | \* Awarded Bye \* |
+|  | Ch ng, Jo [MYS] |  | \* Awarded Bye \* |
+|  | Lin, Milton Jian Xiong [SGP] |  | \* Awarded Bye \* |
+|  | Coimbra, André [PRT] |  | \* Awarded Bye \* |
+|  | Wong, Weng Sheng [MYS] |  | \* Awarded Bye \* |
+|  | Riphat, Aziz [IDN] |  | \* Awarded Bye \* |
+|  | Ruel, Antoine [FRA] |  | \* Awarded Bye \* |
+|  | Ruel, Olivier [FRA] |  | \* Awarded Bye \* |
+|  | Levy, Raphael [SWE] |  | \* Awarded Bye \* |
+|  | Karsten, Frank [NLD] |  | \* Awarded Bye \* |
+|  | Ikeda, Tsuyoshi [JPN] |  | \* Awarded Bye \* |
+|  | Ogura, Ryou [JPN] |  | \* Awarded Bye \* |
+|  | Morita, Masahiko [JPN] |  | \* Awarded Bye \* |
+|  | Fujita, Osamu [JPN] |  | \* Awarded Bye \* |
+|  | Porter, James S [PHL] |  | \* Awarded Bye \* |
+|  | Fujita, Tsuyoshi [JPN] |  | \* Awarded Bye \* |
+|  | tan, richmond h [PHL] |  | \* Awarded Bye \* |
+|  | Dela Cruz, Ramon G [PHL] |  | \* Awarded Bye \* |
+|  | Leong, Felix B [SGP] |  | \* Awarded Bye \* |
+|  | Gan, vincent [MYS] |  | \* Awarded Bye \* |
+|  | Au Yong, Wai Kin [MYS] |  | \* Awarded Bye \* |
+|  | Soh, Terry [MYS] |  | \* Awarded Bye \* |
+|  | Law, Albertus [SGP] |  | \* Awarded Bye \* |
+|  | Wu, Jia [CHN] |  | \* Awarded Bye \* |
+|  | Neo, Hong Zhi [SGP] |  | \* Awarded Bye \* |
+|  | Saitou, Tomoharu [JPN] |  | \* Awarded Bye \* |
+|  | Nakamura, Shuuhei [JPN] |  | \* Awarded Bye \* |
+|  | Tsumura, Kenji [JPN] |  | \* Awarded Bye \* |
+|  | Yasooka, Shouta [JPN] |  | \* Awarded Bye \* |
+|  | Wong, Hon Choon [SGP] |  | \* Awarded Bye \* |
+|  | Wee, Chong Hiang [MYS] |  | \* Awarded Bye \* |
+|  | Wang, LuYun [CHN] |  | \* Awarded Bye \* |
+|  | Kim, Cynic [KOR] |  | \* Awarded Bye \* |
+|  | Choi, Jung Won [KOR] |  | \* Awarded Bye \* |
+|  | Wee, Olwen [USA] |  | \* Awarded Bye \* |
+|  | Tan, David [SGP] |  | \* Awarded Bye \* |
+|  | Mori, Katsuhiro [JPN] |  | \* Awarded Bye \* |
+|  | Kurihara, Shingou [JPN] |  | \* Awarded Bye \* |
+|  | Oosawa, Takuya [JPN] |  | \* Awarded Bye \* |
+|  | Komuro, Shuu [JPN] |  | \* Awarded Bye \* |
+|  | Kitayama, Masaya [JPN] |  | \* Awarded Bye \* |
+|  | Ootsuka, Koutarou [JPN] |  | \* Awarded Bye \* |
+|  | Nakajima, Chikara [JPN] |  | \* Awarded Bye \* |
+|  | Loh, Martin [SGP] |  | \* Awarded Bye \* |
+
+
+
+
+
+
+

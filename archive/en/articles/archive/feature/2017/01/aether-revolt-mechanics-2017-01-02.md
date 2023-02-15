@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20190731002658/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02)
+[Link to Wayback Machine](https://web.archive.org/web/20170103103155/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Matt explains the new and returning mechanics distinct to Aether Revolt."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2017-01-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aether Revolt Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2019-07-31 00:26:58"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190731002658id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-03 10:31:55"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170103103155id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-mechanics-2017-01-02"
 ---
 
 
@@ -34,7 +34,7 @@ By Matt Tabak
 
 
 
-Senior editor. Game designer. Writer. Bon vivant. Matt wears many hats inside Magic R&D, but they're hard to see as he's so tall.
+Matt Tabak is the reigning, defending, and undisputed rules manager for Magic: The Gathering, Kaijudo, and Duel Masters. Matt Tabak is Gruul. Matt Tabak tries to laugh, think, and cry every day. Matt Tabak is hungry. Matt Tabak doesn't want you to sass him. Matt Tabak loves puppies.
  
 
 

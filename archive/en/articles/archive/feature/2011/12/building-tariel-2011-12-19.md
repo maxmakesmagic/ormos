@@ -254,7 +254,7 @@ Craig Jones is the Director of Warehouse Operations at Wizards of the Coast in t
 *This* is the last point in the process, the point when Tariel leaves our care and goes out in to the world. Tariel's story with Wizards of the Coast ends here, but a new phase will begin for her in just a few more days. Starting June 17, the larger Commander community gets to take charge of her destiny. What decks will you build around her? What epic tales will her exploits create? I can't wait to see how you use this new commander, and what her role will be!
 
 
-[![](https://web.archive.org/web/20150909200654im_/http://archive.wizards.com/mtg/images/daily/features/feature146_wpthumba.jpg)](http://media.wizards.com/images/magic/daily/features/feature146_wallpaper_Standard_1280x960.jpg)
+[![](https://media.wizards.com/legacy/mtg/images/daily/features/feature146_wpthumba.jpg)](http://media.wizards.com/images/magic/daily/features/feature146_wallpaper_Standard_1280x960.jpg)
 
 
 [1024x768 pixels](http://media.wizards.com/images/magic/daily/features/feature146_wallpaper_Standard_1024x768.jpg)   

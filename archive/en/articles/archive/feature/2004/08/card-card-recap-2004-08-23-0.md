@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210503053521/https://magic.wizards.com/en/articles/archive/feature/card-card-recap-2004-08-23-0)
+[Link to Wayback Machine](https://web.archive.org/web/20170625121115/http://magic.wizards.com/en/articles/archive/feature/card-card-recap-2004-08-23-0)
 
 [_metadata_:author]:- "Monty Ashley"
-[_metadata_:description]:- "The year: 1994. The event: the first Magic World Championships. Both decks from the finals, and card-by-card recap of the entire finals."
+[_metadata_:description]:- "The year: 1994. The event: the first Magic World Championships. Both decks from the finals, and card-by-card recap of the entire finals. Transcribed by Mark Rosewater and Chris Page compiled by Mark Rosewater retranscribed in 1999 by Monty Ashley Finalists:  Zak Dolan (U.S.) [beat Domic Symens (Belgium) 2-0 in semi-finals]  Bertrand Lestreé (France) [beat Cyrille DeFoucand (France) 2-1 in semi-finals]  Zak Dolan 1994 World Championships Bertrand Lestreé 1994 World Championships"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "631201"
 [_metadata_:publish_date]:- "2004-08-23"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card-by-card Recap"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 05:35:21"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503053521id_/https://magic.wizards.com/en/articles/archive/feature/card-card-recap-2004-08-23-0"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-card-recap-2004-08-23-0"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-25 12:11:15"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170625121115id_/http://magic.wizards.com/en/articles/archive/feature/card-card-recap-2004-08-23-0"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-card-recap-2004-08-23-0"
 ---
 
 
@@ -28,7 +28,7 @@ Card-by-card Recap
 
 
 
-![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By Monty Ashley
 
 

@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201111182611/https://magic.wizards.com/en/articles/archive/feature/baron-harkonnen-2008-12-18)
+[Link to Wayback Machine](https://web.archive.org/web/20170818031038/http://magic.wizards.com/en/articles/archive/feature/baron-harkonnen-2008-12-18)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Gaudenis Vidugiris's Baron Harkonnen Format: Pro Tour-Yokohama 2007 4 Terramorphic Expanse 4 Dreadship Reef 12 Island 3 Swamp 1 Forest 2 Urborg, Tomb of Yawgmoth 1 Urza's Factory 1 Draining Whelk 2 Teferi, Mage of Zhalfir 2 Vesuvan Shapeshifter 1 Brine Elemental 4 Mystical Teachings 4 Careful Consideration 1 Cancel 1 Spell Burst 1 Haunting Hymn 1 Funeral Charm 1 Strangling Soot 1 Sudden Death 2 Tendrils of Corruption"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2008-12-18"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Baron Harkonnen"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 18:26:11"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111182611id_/https://magic.wizards.com/en/articles/archive/feature/baron-harkonnen-2008-12-18"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/baron-harkonnen-2008-12-18"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-18 03:10:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818031038id_/http://magic.wizards.com/en/articles/archive/feature/baron-harkonnen-2008-12-18"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/baron-harkonnen-2008-12-18"
 ---
 
 
@@ -46,7 +46,6 @@ By Wizards of the Coast
 
 
 
-
 #### Gaudenis Vidugiris's Baron Harkonnen
 
 
@@ -57,9 +56,7 @@ By Wizards of the Coast
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -534,7 +531,7 @@ OverviewColorCostRarity
 
 
 4
-[Damnation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D)
+[Prismatic Lens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrismatic%5D+%5BLens%5D)
 
 
 1
@@ -546,7 +543,7 @@ OverviewColorCostRarity
 
 
 
-##### Uncommon (26)
+##### Uncommon (18)
 
 
 
@@ -582,20 +579,12 @@ OverviewColorCostRarity
 [Gaea's Blessing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
 
 
-4
-[Prismatic Lens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrismatic%5D+%5BLens%5D)
-
-
-4
-[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
-
-
 2
 [Krosan Grip](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BGrip%5D)
 
 
 
-##### Rare (10)
+##### Rare (18)
 
 
 
@@ -613,6 +602,14 @@ OverviewColorCostRarity
 
 3
 [Vesuvan Shapeshifter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVesuvan%5D+%5BShapeshifter%5D)
+
+
+4
+[Damnation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D)
+
+
+4
+[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
 
 
 1

@@ -1,0 +1,217 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20150301144158/http://magic.wizards.com/en/articles/archive/five-small-spirits-2004-10-15)
+
+[_metadata_:author]:- "Aaron Forsythe"
+[_metadata_:description]:- "When a card file comes to development from the design team, the developers start in on the long process of weeding out the good ideas from the bad. Not every card that is designed is a gem, and some are just in the wrong place at the wrong time, and are set aside for potential later use. After developers nix the cards they don't like, the set is left with a bunch of holes. Often a list of what new cards need to be designed is sent out to the whole department, but sometimes the development team buckles down themselves and comes up with cards they want to use during meetings."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "289411"
+[_metadata_:publish_date]:- "2004-10-15"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Five Small Spirits"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-01 14:41:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150301144158id_/http://magic.wizards.com/en/articles/archive/five-small-spirits-2004-10-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/five-small-spirits-2004-10-15"
+---
+
+
+Five Small Spirits
+==================
+
+
+
+ Posted in [ARTICLES](/en/articles)
+ on October 15, 2004 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/authorpic_aaronforsythe.jpg)
+By Aaron Forsythe
+
+
+
+
+
+
+
+
+
+
+When a card file comes to development from the design team, the developers start in on the long process of weeding out the good ideas from the bad. Not every card that is designed is a gem, and some are just in the wrong place at the wrong time, and are set aside for potential later use.
+
+
+After developers nix the cards they don't like, the set is left with a bunch of holes. Often a list of what new cards need to be designed is sent out to the whole department, but sometimes the development team buckles down themselves and comes up with cards they want to use during meetings.
+
+
+The Zubera creatures from *Champions of Kamigawa* were created in just such a way.
+
+
+### The Beginning
+
+
+Here are two cards that came in from the *Champions* design team. The first was a common blue “Wall” that let you draw a card when it died—a perfect target for the soulshift ability. The second card was an homage to the very fun but oft-forgotten *Legends* common [Blazing Effigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blazing+Effigy).
+
+
+![Blazing Effigy](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Blazing%20Effigy&options=)
+
+> 
+> CU01\_RTH  
+> 
+> 
+> 
+> 
+
+
+
+> 
+> UR01\_RTH  
+> 
+> Blazing Effigy 2  
+> 
+> 1R  
+> 
+> Creature — Spirit  
+> 
+> 1/3  
+> 
+> When CARDNAME is put into a graveyard from play, it deals 3 damage to target creature or player. If CARDNAME received damage from another CARDNAME this turn, it deals three times that damage instead.
+> 
+> 
+> 
+
+
+Blazing Effigy 2 was a major improvement over the original; not only could it attack for damage, but the “chaining” effect generated when they died was quite potent. It was eventually moved from uncommon to common and weakened to this:
+
+
+
+> 
+> CR06\_RTH  
+> 
+> [Lava Kami]  
+> 
+> 1R  
+> 
+> Creature — Spirit  
+> 
+> 0/2  
+> 
+> When CARDNAME is put into a graveyard from play, it deals 2 damage to target creature or player. If CARDNAME received damage from another CARDNAME this turn, it deals three times that damage instead.
+> 
+> 
+> 
+
+
+### The Inspiration
+
+
+![](https://media.wizards.com/legacy/global/images/mtgcom_daily_af36_picmain_en.jpg)
+When the file was handed over to development, it contained those two cards—both Spirits, both with 0 power, both common, and both with “goes to the graveyard” triggered abilities. Developer Devin Low had an idea, and made a comment on the blue “wall”:
+
+
+
+> 
+> DAL 10/15: Very similar to this set's Blazing Effigy, but the two are not sync'ed up. Could make the link stronger, or even an effigy cycle.
+> 
+> 
+> 
+
+
+Within a couple weeks, lead developer Brian Schneider was on board with Devin's suggestion.
+
+
+
+> 
+> bs 10/28: I like this card but am intrigued by the idea of an 'effigy cycle.' (especially if we do goblin bombardment-type cards that let you sacrifice creatures, which the team deems there should be)
+> 
+> 
+> 
+
+
+A word on cycles… some designers, especially Mark Rosewater, really enjoy cycles and submit their sets full of them. Others, like *Kamigawa* lead designer Brian Tinsman, are not as cycle-happy, and development often adds cycles to their sets. Cycles are a great way to take one interesting card and flesh it out, thus filling holes vacated by less interesting cards.
+
+
+### The Shrine Effigies
+
+
+Schneider came up with the idea of having the new cycle of Effigies mirror the effects generated by the legendary “Shrine” enchantments in the set, and also designed the new “twist” of each Effigy triggering off of any other Effigy dying, not just themselves. The new cycle was put into the set at uncommon.
+
+
+
+> 
+> White Shrine Effigy  
+> 
+> 1W  
+> 
+> Creature — Effigy  
+> 
+> 0/2  
+> 
+> When CARDNAME is put into a graveyard from play, gain 2 life. For each Effigy that went to the graveyard this turn, gain an additional 2 life.
+> 
+> 
+> 
+
+
+This is quite close to how the cards actually went to press, but a few more changes went down in the interim…
+
+
+### Tweaking the Effigies
+
+
+![Skullclamp](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Skullclamp&options=)
+The first discussion was whether or not these creatures were supposed to be Spirits. That ended up being an easy problem to solve, as all the creatures in this world that benefit from dying were concepted as Spirits. Once they we put in the Spirit camp, they were given the playtest name “Gaki,” which is Japanese for “naughty child.”
+
+
+The problem was that no one was playing them, in either limited or constructed. Brian suggested changing their stats to something more appealing—one-mana 1/1 creatures.
+
+
+The problem with that version was that [Skullclamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp) was still legal in our playtesting. Mons Johnson made a wacky deck with 20 Gaki, 4 [Skullclamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp)s, 4 [Devouring Greed](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Devouring+Greed)s, and a bunch of mana fixing, and it could do some dumb stuff really early in the game. Other weird decks starting showing up as well, including one that killed all its own Gaki by playing [Night of Souls' Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Night+of+Souls%27+Betrayal). And they were suddenly really really good in limited.
+
+
+The next step was to try something a little tamer, but still worth playing. Two-mana 1/2 put them in a nice spot—they're cheap, they attack for damage, they die a lot, but they don't fit into crazy combo decks without a little effort. (see Gottlieb's [article from yesterday](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mg145) for some hard-workin' nuttiness.)
+
+
+Once they had those stats, the development team had to decide whether to leave them uncommon, or move them to common. In the end it was decided that, while they are a tad bit complicated, these were cards we wanted people to get their hands on and have fun with, and you need a whole bunch of them to do anything productive. So common won out.
+
+
+### A Zubera of a Different Stripe
+
+
+The creative team gave these little creatures the name “Zubera” at the end, and even made that an additional creature type (alongside Spirit) so that they could key off of type when they died. A zubera, according to the definition that Creative Director Brady Dommermuth put in the *Champions of Kamigawa* players guide is “The faceless kami of a human who has been pulled into the spirit world. Zubera are said to attack solitary travelers in order to steal their faces.”
+
+
+It was a little unfortunate that the names of the Zubera didn't link directly to the Shrines (like the Myojin do), but the connection still comes through with their abilities.
+
+
+![](https://media.wizards.com/legacy/global/images/mtgcom_daily_af36_pic1_en.jpg)
+### What Else They Spawned
+
+
+If you recall Brian Schneider's initial comment about making a cycle of Effigies, he made a parenthetical remark: “(especially if we do goblin bombardment-type cards that let you sacrifice creatures, which the team deems there should be).”
+
+
+The card [Blood Rites](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blood+Rites) was added to the set for just such an effect. And, as if by fate, in the first draft we ever did in R&D with real *Kamigawa* cards, Mons Johnson of Gaki-Clamp fame drafted a three color Zubera deck with [Blood Rites](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blood+Rites) (and multiple Shrines and Splice cards). He did extremely well with it, even beating Devin Low—they guy that suggested the cycle in the first place!
+
+
+### Last Week's Poll
+
+
+
+
+|  |
+| --- |
+| **Have you ever purchased Magic singles (meaning individual cards, as opposed to packs)?** |
+| Yes, from both. | 7185 | 46.4% |
+| Yes, from a physical store or person. | 5883 | 38.0% |
+| Yes, from an Internet dealer or eBay. | 1283 | 8.3% |
+| No | 1124 | 7.3% |
+| **Total** | **15475** | **100.0%** |
+
+ 
+
+
+
+

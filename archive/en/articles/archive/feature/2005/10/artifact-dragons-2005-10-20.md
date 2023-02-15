@@ -48,10 +48,10 @@ M*irrodin's*  **[Clockwork Dragon](https://gatherer.wizards.com/Pages/Card/Detai
 Illustrating an artifact dragon is an interesting challenge for an artist. How do you represent the creature's artifact nature while expressing the majestic and destructive power of a dragon? Today's Magic Arcana takes a close-up look at these four draconic automata in all their glory.
 
 
-![Teeka's Dragon](https://web.archive.org/web/20040905171705im_/http://www.wizards.com/global/images/mtgcom_arcana_524_pic1_en.jpg)*[**Teeka's Dragon**](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Teeka%27s+Dragon) from Mirage - Illus. Liz Danforth*
-![Tek](https://web.archive.org/web/20130201112024im_/http://www.wizards.com/global/images/mtgcom_arcana_524_pic2_en.jpg)*[**Tek**](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tek) from Invasion - Illus. Chippy*
-![Draco](https://web.archive.org/web/20121004085718im_/http://www.wizards.com/global/images/mtgcom_arcana_524_pic3_en.jpg)*[**Draco**](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Draco) from Planeshift - Illus. Sam Wood*
-![Clockwork Dragon](https://web.archive.org/web/20121004085718im_/http://www.wizards.com/magic/images/mtgcom/arcana300/dragons_clockworkdragon.jpg)*[**Clockwork Dragon**](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clockwork+Dragon) from Mirrodin - Illus. Arnie Swekel*
+![Teeka's Dragon](https://media.wizards.com/legacy/global/images/mtgcom_arcana_524_pic1_en.jpg)*[**Teeka's Dragon**](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Teeka%27s+Dragon) from Mirage - Illus. Liz Danforth*
+![Tek](https://media.wizards.com/legacy/global/images/mtgcom_arcana_524_pic2_en.jpg)*[**Tek**](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tek) from Invasion - Illus. Chippy*
+![Draco](https://media.wizards.com/legacy/global/images/mtgcom_arcana_524_pic3_en.jpg)*[**Draco**](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Draco) from Planeshift - Illus. Sam Wood*
+![Clockwork Dragon](https://media.wizards.com/legacy/magic/images/mtgcom/arcana300/dragons_clockworkdragon.jpg)*[**Clockwork Dragon**](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clockwork+Dragon) from Mirrodin - Illus. Arnie Swekel*
 
 
 

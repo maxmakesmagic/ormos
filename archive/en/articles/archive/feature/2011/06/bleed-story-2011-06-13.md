@@ -1,17 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210502095058/https://magic.wizards.com/en/articles/archive/feature/bleed-story-2011-06-13)
+[Link to Wayback Machine](https://web.archive.org/web/20170617223954/http://magic.wizards.com/en/articles/archive/feature/bleed-story-2011-06-13)
 
 [_metadata_:author]:- "Mark Rosewater"
-[_metadata_:description]:- "Ever since we first previewed Phyrexian mana in New Phyrexia, I've been getting a lot of mail about why R&D chooses to bleed abilities into colors that don't have them. For a while now I've been promising that I was going to write a column to address this issue. Today is that day. By the time I send you off with my weekly `Until then` you will have a much better sense of how"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "653721"
 [_metadata_:publish_date]:- "2011-06-13"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Bleed Story"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 09:50:58"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502095058id_/https://magic.wizards.com/en/articles/archive/feature/bleed-story-2011-06-13"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bleed-story-2011-06-13"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-17 22:39:54"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170617223954id_/http://magic.wizards.com/en/articles/archive/feature/bleed-story-2011-06-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/bleed-story-2011-06-13"
 ---
 
 

@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Dan recaps the most exciting reveals from this weekend's Battle for Zendikar event at PAX Prime."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "537726"
+[_metadata_:path_date]:- "2015-08-29"
 [_metadata_:publish_date]:- "2015-08-26"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battle for Zendikar: Your First Look"

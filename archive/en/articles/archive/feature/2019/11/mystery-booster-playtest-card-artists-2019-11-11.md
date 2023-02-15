@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20191230051340/https://magic.wizards.com/en/articles/archive/feature/mystery-booster-playtest-card-artists-2019-11-11)
+[Link to Wayback Machine](https://web.archive.org/web/20191222140944/https://magic.wizards.com/en/articles/archive/feature/mystery-booster-playtest-card-artists-2019-11-11?utm_source=MTGNexus&utm_medium=CommunityHub)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Mystery Booster Convention Edition has a little something special in it featuring art by some special people: our employees and contractors!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2019-11-11"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mystery Booster Playtest Card Artists"
-[_metadata_:wayback_capture_timestamp]:- "2019-12-30 05:13:40"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191230051340id_/https://magic.wizards.com/en/articles/archive/feature/mystery-booster-playtest-card-artists-2019-11-11"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mystery-booster-playtest-card-artists-2019-11-11"
+[_metadata_:wayback_capture_timestamp]:- "2019-12-22 14:09:44"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191222140944id_/https://magic.wizards.com/en/articles/archive/feature/mystery-booster-playtest-card-artists-2019-11-11?utm_source=MTGNexus&utm_medium=CommunityHub"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mystery-booster-playtest-card-artists-2019-11-11?utm_source=MTGNexus&utm_medium=CommunityHub"
 ---
 
 

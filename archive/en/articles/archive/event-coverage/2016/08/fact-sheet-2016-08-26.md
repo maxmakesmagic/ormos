@@ -1,0 +1,819 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20160829213412/http://magic.wizards.com/en/articles/archive/event-coverage/fact-sheet-2016-08-26)
+
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1048051"
+[_metadata_:publish_date]:- "2016-08-26"
+[_metadata_:source]:- "div-block-system-main"
+[_metadata_:title]:- "2016 Magic World Championship Event Information"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-29 21:34:12"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160829213412id_/http://magic.wizards.com/en/articles/archive/event-coverage/fact-sheet-2016-08-26"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/event-coverage/fact-sheet-2016-08-26"
+---
+
+
+
+
+
+
+
+
+
+
+![EVENTS: WORLD CHAMPIONSHIP](http://magic.wizards.com/sites/mtg/files/images/featured/KLD_2015WC_Header.jpg)
+
+
+
+
+EVENTS: WORLD CHAMPIONSHIP
+--------------------------
+
+
+2016 World Championship Event Information
+=========================================
+
+
+
+
+September 1-4, 2016
+
+
+PAX West - The Paramount Theatre  
+
+911 Pine Street  
+
+Seattle, WA 98101  
+
+USA
+
+
+**Official hashtag:**[#MTGChamp](https://twitter.com/search?f=realtime&q=%23MTGChamp&src=typd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GENERAL INFORMATION
+-------------------
+
+
+Twenty-four of the best players from all over the world will travel to PAX West in Seattle, Washington to compete on *Magic*'s ultimate stage in the Paramount Theatre! The 2016 *Magic: The Gathering*World Championship features four days, three different formats, and the best players putting their skills to the test.
+
+
+With a $250,000 prize pool, and **$70,000**going to first place, who will be crowned the *Magic*world champion? Tune in, as we broadcast every minute of World Championship action on Twitch!
+
+
+The 2016 *Magic: The Gathering*World Championship is part of [*Magic*at PAX](http://magic.wizards.com/en/articles/archive/news/magic-pax-west-2016-07-25), as we celebrate the debut of *Kaladesh*. 
+
+
+
+
+
+
+
+2016 World Championship Competitors
+-----------------------------------
+
+
+* ![Lukas Blohon](https://web.archive.org/web/20170411121147im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Blohon.jpg)
+
+### Lukas Blohon
+
+
+
+
+**Pro Tour *Eldritch Moon* Champion, Top Pro Points – Europe**
+
+
+Czech pro Lukas Blohon has emerged as one of Europe's top-ranked players, sporting a season with multiple top finishes at the Pro Tour, all culminating with a win at Pro Tour *Eldritch Moon*.
+* ![Brian Braun-Duin](https://web.archive.org/web/20170411121157im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Braun-Duin.jpg)
+
+### Brian Braun-Duin
+
+
+
+
+**2015-16 Grand Prix Master**
+
+
+Unrelenting Grand Prix grinder Brian Braun-Duin traveled the world in an effort to become Grand Prix Master in his race against rival Tomoharu Saito. When the dust settled, it was Braun-Duin who found himself invited to the World Championship.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/gmaLQOcIsxg>
+
+[Watch Video](http://www.youtube.com/embed/gmaLQOcIsxg)
+* ![Marcio Carvalho](https://web.archive.org/web/20170411121207im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Carvalho.jpg)
+
+### Marcio Carvalho
+
+
+
+
+**2015-16 Draft Master**
+
+
+Portuguese pro Marcio Carvalho finished each Pro Tour's Booster Draft rounds with records rivaled only by a handful of players, including Jon Finkel. His unwavering mastery of Booster Draft earned his way to the World Championship.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/9Z3sjNbpvII>
+
+[Watch Video](http://www.youtube.com/embed/9Z3sjNbpvII)
+* ![Paulo Vitor Damo da Rosa](https://web.archive.org/web/20170411121217im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Rosa.jpg)
+
+### Paulo Vitor Damo da Rosa
+
+
+
+
+**Top Pro Points – Latin America** 
+
+
+Pro Tour Hall of Famer Paulo Vitor Damo da Rosa started off the season with a Top 8 at Pro Tour *Battle for Zendikar*. He did not slow down from there, amassing Pro Points through solid play to become Latin America's top Pro Points earner.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/yV3uVpEWnlY>
+
+[Watch Video](http://www.youtube.com/embed/yV3uVpEWnlY)
+* ![Reid Duke](https://web.archive.org/web/20170411121230im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Duke.jpg)
+
+### Reid Duke
+
+
+
+
+**Top Pro Points – North America**
+
+
+After sitting out for a year, USA all-star Reid Duke returns to the World Championship in an effort to improve upon his 2nd-place finish back in 2013 as one of North America's top pros. Will he succeed, or will he fall short once again?
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/XX_a5RTAa7M>
+
+[Watch Video](http://www.youtube.com/embed/XX_a5RTAa7M)
+* ![Joel Larsson](https://web.archive.org/web/20170411121240im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Larsson.jpg)
+
+### Joel Larsson
+
+
+
+
+**Top Pro Points – Europe**
+
+
+Sweden's Joel Larsson followed up his Pro Tour *Magic Origins* victory with a stellar 2015-16 season alongside Team EUreka, earning multiple Top 16 Pro Tour finishes this season to represent Europe's top-ranked players in the World Championship.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/_8OXMrUmavw>
+
+[Watch Video](http://www.youtube.com/embed/_8OXMrUmavw)
+* ![Seth Manfield](https://web.archive.org/web/20170411121252im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Manfield2.jpg)
+
+### Seth Manfield
+
+
+
+
+**Reigning World Champion, Top Pro Points – North America**
+
+
+Born into a family with professional bridge experience, Seth Manfield found success in his own card game of choice, *Magic*, when he won the 2015 World Championship title. Now, he returns in an attempt to go back-to-back.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/JFj4TPV-AGI>
+
+[Watch Video](http://www.youtube.com/embed/JFj4TPV-AGI)
+* ![Andrea Mengucci](https://web.archive.org/web/20170411121302im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Mengucci.jpg)
+
+### Andrea Mengucci
+
+
+
+
+**Top Pro Points – At-Large**
+
+
+Andrea Mengucci followed up his win with Team Italy at the 2015 World *Magic* Cup with a finals appearance at Pro Tour *Shadows over Innistrad*, propelling him into his first Platinum season and his first World Championship.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/Ug-WC07nhCM>
+
+[Watch Video](http://www.youtube.com/embed/Ug-WC07nhCM)
+* ![Martin Müller](https://web.archive.org/web/20170411121312im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Muller.jpg)
+
+### Martin Müller
+
+
+
+
+**Top Pro Points – Europe**
+
+
+Falling just short of his goals last year, eighteen-year-old Martin Müller returned to the 2015-16 season with a vengeance, making the Top 8 of Pro Tour *Battle for Zendikar* and never looking back as one of Europe's Pro Points leaders.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/hYKbuh0LM8M>
+
+[Watch Video](http://www.youtube.com/embed/hYKbuh0LM8M)
+* ![Brad Nelson](https://web.archive.org/web/20170411121322im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Nelson.jpg)
+
+### Brad Nelson
+
+
+
+
+**Top Pro Points – At-Large**
+
+
+Former Player of the Year Brad Nelson has had a roller coaster of a few years, returning to the top of the Pro Tour in the last two seasons. His Pro Tour *Shadows over Innistrad* Top 8 helped him on his way to this year's World Championship.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/oTlfHuWjbfY>
+
+[Watch Video](http://www.youtube.com/embed/oTlfHuWjbfY)
+* ![Niels Noorlander](https://web.archive.org/web/20170411121332im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Noorlander.jpg)
+
+### Niels Noorlander
+
+
+
+
+***Magic Online* Champion**
+
+
+Niels Noorlander had few expectations headed into this year's *Magic Online* Championship. However, upon emerging a winner, Noorlander found himself on a path to Platinum, the Pro Tour, and the World Championship.
+
+
+[What Would Winning Mean to Niels?](https://youtu.be/9GTRupUJF-Y)
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/9GTRupUJF-Y>
+
+[Watch Video](http://www.youtube.com/embed/9GTRupUJF-Y)
+* ![Samuel Pardee](https://web.archive.org/web/20170411121342im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Pardee.jpg)
+
+### Samuel Pardee
+
+
+
+
+**Top Pro Points – At-Large**
+
+
+Known by many in the United States as a Modern master, Samuel Pardee finally proved himself on the Pro Tour Sunday stage at Pro Tour *Eldritch Moon*, earning his first Pro Tour Top 8 after a solid season to earn his spot at the World Championship.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/wWZw15ktlAc>
+
+[Watch Video](http://www.youtube.com/embed/wWZw15ktlAc)
+* ![Steve Rubin](https://web.archive.org/web/20170411121352im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Rubin.jpg)
+
+### Steve Rubin
+
+
+
+
+**Pro Tour *Shadows over Innistrad* Champion**
+
+
+After a consistent year of finishes, Steve Rubin finally broke through to the Sunday stage in a big way by winning Pro Tour *Shadows over Innistrad*. He is returning to the World Championship for the second year in a row, cementing himself among the very best.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/wbxU5R10bzI>
+
+[Watch Video](http://www.youtube.com/embed/wbxU5R10bzI)
+* ![Thiago Saporito](https://web.archive.org/web/20170411121402im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Saporito.jpg)
+
+### Thiago Saporito
+
+
+
+
+**Top Pro Points – Latin America**
+
+
+After rocketing to the top of Latin America's Pro Tour presence last season, Thiago Saporito has not slowed down, earning multiple great Pro Tour finishes to represent the Latin American region in this year's World Championship.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/Tc7bmfCdmgE>
+
+[Watch Video](http://www.youtube.com/embed/Tc7bmfCdmgE)
+* ![Luis Scott-Vargas](https://web.archive.org/web/20170411121412im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Vargas.jpg)
+
+### Luis Scott-Vargas
+
+
+
+
+**Outstanding Hall of Famer, Top Pro Points – North America** 
+
+
+Pro Tour Hall of Famer, commentator, Twitch streamer, and beloved community treasure Luis Scott-Vargas returns to the World Championship for the first time in four years after a phenomenal 2015-16 season highlighted by three Pro Tour Top 8s.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/wo6zQz8Lzz0>
+
+[Watch Video](http://www.youtube.com/embed/wo6zQz8Lzz0)
+* ![Mike Sigrist](https://web.archive.org/web/20170411121422im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Sigrist.jpg)
+
+### Mike Sigrist
+
+
+
+
+**Top Pro Points – At Large**
+
+
+Former Player of the Year Mike Sigrist has continued to perform as a powerhouse on Team Face to Face Games, and his relentless pursuit of Pro Points has earned him a trip to the World Championship for the second year in a row.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/nC0HNsfIA38>
+
+[Watch Video](http://www.youtube.com/embed/nC0HNsfIA38)
+* ![Ondřej Stráský](https://web.archive.org/web/20170411121433im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Strasky.jpg)
+
+### Ondřej Stráský
+
+
+
+
+**Top Pro Points – At-Large**
+
+
+Czech pro Ondřej Stráský made a name for himself last season with two Pro Tour Top 8 finishes, and he has continued in his impressive performance this season with enough top finishes to represent Europe's finest in the World Championship.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/GzoAx2DxztI>
+
+[Watch Video](http://www.youtube.com/embed/GzoAx2DxztI)
+* ![Kazuyuki Takimura](https://web.archive.org/web/20170411121443im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Takimura.jpg)
+
+### Kazuyuki Takimura
+
+
+
+
+**Pro Tour *Battle for Zendikar* Champion**
+
+
+In October 2015, Kazuyuki Takimura returned to Tokyo and presented his wife a Pro Tour trophy as he promised to one day do. He continues to have his sights set on a bright future with his wife, and a new title to bring home to his family.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/06JrQ92_Cf4>
+
+[Watch Video](http://www.youtube.com/embed/06JrQ92_Cf4)
+* ![Ryoichi Tamada](https://web.archive.org/web/20170411121453im_/http://magic.wizards.com/sites/mtg/files/images/featured/ProTour_Portraits_Tamada.jpg)
+
+### Ryoichi Tamada
+
+
+
+
+**Top Pro Points – Asia Pacific**
+
+
+Ryoichi Tamada has long been known as an innovative, potent player in the Japanese *Magic* community, but he finally proved that on the international stage this season, highlighted by his finalist finish at Pro Tour *Battle for Zendikar*.
+* ![Jiachen Tao](https://web.archive.org/web/20170411121503im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Tao.jpg)
+
+### Jiachen Tao
+
+
+
+
+**Pro Tour *Oath of the Gatewatch* Champion**
+
+
+Jiachen "JC" Tao cemented his name among Pro Tour greats at Pro Tour *Oath of the Gatewatch* when he and his team, the East West Bowl, bested a field of giants with their Blue-Red Eldrazi creation. Will he repeat at the World Championship?
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/q9CdfVrbH9o>
+
+[Watch Video](http://www.youtube.com/embed/q9CdfVrbH9o)
+* ![Oliver Tiu](https://web.archive.org/web/20170411121513im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Tiu.jpg)
+
+### Oliver Tiu
+
+
+
+
+**2015-16 Constructed Master**
+
+
+Rookie of the Year Oliver Tiu has had an astounding debut on the Pro Tour, with multiple Top 16 finishes all while finishing high school, earning of the 2015-16 Constructed Master title that earned the young pro his seat to the World Championship.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/ucv5VrN7MKA>
+
+[Watch Video](http://www.youtube.com/embed/ucv5VrN7MKA)
+* ![Owen Turtenwald](https://web.archive.org/web/20170411121523im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Turtenwald.jpg)
+
+### Owen Turtenwald
+
+
+
+
+**2015-16 Player of the Year, 2015-16 Mid-Season Master, Top Pro Points – North America**
+
+
+Pro Tour Hall of Fame-elect Owen Turtenwald fell short of a World Championship title last year by one match. Turtenwald will return this year as the 2015-16 Mid-Season Master and Player of the Year, and he’ll settle for nothing short of victory.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/eor19BOHDL4>
+
+[Watch Video](http://www.youtube.com/embed/eor19BOHDL4)
+* ![Yuuya Watanabe](https://web.archive.org/web/20170411121534im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Watanabe.jpg)
+
+### Yuuya Watanabe
+
+
+
+
+**Top Pro Points – Asia Pacific**
+
+
+Pro Tour Hall of Fame-elect and legendary Japanese pro Yuuya Watanabe returns to the World Championship for an unprecedented *fifth* year in a row—the only player so far to accomplish this feat—as one of Asia's top Pro Point earners of the season.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/ruzMvPlIYd4>
+
+[Watch Video](http://www.youtube.com/embed/ruzMvPlIYd4)
+* ![Shota Yasooka](https://web.archive.org/web/20170411121544im_/http://magic.wizards.com/sites/mtg/files/ProTour_Portraits_Yossoka.jpg)
+
+### Shota Yasooka
+
+
+
+
+**Top Pro Points – Asia Pacific**
+
+
+Japanese Pro Tour Hall of Famer Shota Yasooka shaped his reputation as an ingenious inventor of blue control decks for years. He returns to the World Championship thanks to his 2015-16 seasonal consistency, including a Pro Tour semifinals finish.
+
+
+
+
+
+
+
+<http://www.youtube.com/embed/Z4LgmZMFQjQ>
+
+[Watch Video](http://www.youtube.com/embed/Z4LgmZMFQjQ)
+* ### 
+ MORE TO COME!
+
+
+
+
+
+LIVE STREAMING VIDEO
+--------------------
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://media.magic.wizards.com/images/featured/logo-twitch-inline_front_0.png)
+
+
+
+### 
+
+
+
+
+Follow live streaming video coverage of the 2016 *Magic: The Gathering*World Championship on DailyMTG and [Twitch](http://www.twitch.tv/magic) September 1-4 as part of [*Magic*at PAX](http://magic.wizards.com/en/articles/archive/news/magic-pax-west-2016-07-25)!
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLAYER INFORMATION
+------------------
+
+
+
+* [OVERVIEW](#tabs-1)
+* [HALL HOURS](#tabs-2)
+
+The 2016 *Magic: The Gathering* World Championship will take place at:
+
+
+PAX West - The Paramount Theatre  
+
+911 Pine St  
+
+Seattle, WA 98101  
+
+USA
+
+
+**Formats for Thursday:**3 Rounds of *Eldritch Moon*/*Shadows over Innistrad*Booster Draft, 4 Rounds of Standard Constructed  
+**Format for Friday:**3 Rounds of *Eldritch Moon/Shadows over Innistrad* Booster Draft  
+**Format for Saturday:**4 Rounds of Modern Constructed  
+**Format for Sunday (Top 4 Playoff):**Standard Constructed
+
+
+**Nearest Airport:**[Seattle-Tacoma International Airport](https://www.portseattle.org/Sea-Tac/Pages/default.aspx)
+
+
+ 
+
+
+
+
+**Wednesday, August 31 (Player Registration):**5 p.m. - 7 p.m. (Hall Closed to Public)
+
+
+**Thursday, September 1:**Venue opens for staff & competitors at 8 a.m. and closes at the end of Round 7. (Hall Closed to Public except for competitor's guests during this day.)
+
+
+**Friday, September 2:**Venue opens to the public at 10 a.m. World Championship play begins with a Booster Draft at 2:20 p.m. Hall closes to the public at 6 p.m.
+
+
+**Saturday, September 3:**Venue opens to the public at 10 a.m. World Championship play begins at 10:15 a.m. Hall closes to the public at 6 p.m.
+
+
+**Sunday, September 4:**Venue opens to the public at 10 a.m. World Championship Top 4 play begins at 11:10 a.m. Hall closes to the public at 6 p.m.
+
+
+
+
+
+
+
+
+TOURNAMENT INFORMATION
+----------------------
+
+
+
+* [FORMAT](#tabs-1)
+* [TOURNAMENT LENGTH](#tabs-2)
+* [ADVANCEMENT](#tabs-3)
+* [Playoff](#tabs-4)
+* [NOTES](#tabs-5)
+
+*The* [*Magic: The Gathering Tournament Rules*](http://wpn.wizards.com/en/document/magic-the-gathering-tournament-rules) *and* [*Infraction & Penalty Guide*](http://wpn.wizards.com/en/document/magic-infraction-procedure-guide) *are in effect for this event unless specifically overruled by information in this Format Document.*
+
+
+* Day One will consist of 3 rounds of *Eldritch Moon*/*Shadows over Innistrad* Booster Draft followed by 4 rounds of Standard Constructed.
+* Day Two will consist of 3 rounds of *Eldritch Moon*/*Shadows over Innistrad*Booster Draft.
+* Day Three will consist of 4 rounds of Modern Constructed.
+* The Top 4 Playoff will be Standard Constructed.
+
+
+* 14 Swiss Rounds total, 60 minutes per round.
+* When time is called, the active player will finish the turn and five additional turns will be taken.
+* Stalling and slow play rules will be strictly enforced during the tournament.
+
+
+* All players may participate in all 14 Swiss rounds of Thursday, Friday, and Saturday’s competition.
+* The Top 4 players after Round 14 will advance to Sunday’s single-elimination playoff rounds.
+
+
+* Playoff matches will be best 3 out of 5.
+* The first two games played in a 3 out of 5 playoff match on Sunday are pre-sideboard games. After Game 2 is completed, players may exchange cards from their deck for cards in their sideboard.
+* Standings after the Swiss rounds will be used to determine final order in the standings for losing players in the semifinal playoff round.
+* While there are no time limits in the playoff rounds, players are expected to play at a reasonable pace and finish their matches within 90 minutes.
+* For the first game of each match in the playoff, the player that finished higher in the Swiss rounds chooses either to play first or to play second. For subsequent games in each playoff match, the usual Play/Draw rule applies (loser of the previous game decides whether to play first in the next game).
+
+
+* Planeswalker Points Multiplier 12x (Lifetime Total only), REL: Professional.
+* Players are required to use the same Standard and Modern Constructed decks turned in to tournament staff for all days of competition.
+
+
+
+
+
+Social Media
+------------
+
+
+
+
+
+
+TWITTER
+
+
+
+The hashtag for the 2016 *Magic: The Gathering* World Championship is #MTGChamp. Join the conversation!
+
+
+
+[TWITTER: #MTGChamp](http://twitter.com/hashtag/MTGChamp?src=hash) 
+
+
+
+
+ 
+
+FACEBOOK
+
+
+
+See the 2016 *Magic: The Gathering* World Championship as it unfolds on the *Magic: The Gathering* Facebook page!
+
+
+
+[MTG FACEBOOK](http://facebook.com/MagicTheGathering) 
+
+
+
+
+ 
+
+
+
+
+
+MEDIA REQUESTS
+--------------
+
+
+Please send an email to [press@wizards.com](mailto:press@wizards.com) if you wish to set up a media credential for the 2016 *Magic: The Gathering*World Championship. Wizards of the Coast asks that all media requests be submitted according to this schedule:
+
+
+Video coverage: By August 4 (4 weeks prior to the event)
+
+
+Non-video coverage: By August 18 (two weeks prior to the event)
+
+
+Requests made after that date, including requests made on-site, may be denied.
+
+
+ 
+
+
+
+
+
+
+
+
+PRIZE STRUCTURE
+---------------
+
+
+
+
+| Place | Prize |
+| --- | --- |
+| 1 | $70,000 |
+| 2 | $40,000 |
+| 3-4 | $20,000 |
+| 5-8 | $10,000 |
+| 9-16 | $5,000 |
+| 17-24 | $2,500 |
+| **Total** | **$250,000**  |
+
+**Pro Points**
+
+
+* One Professional Point is awarded for each match won in the Swiss rounds.
+* Two Professional Points is awarded for each match won in the Top 4 playoff rounds.
+* No Professional Points are awarded for losses and draws.
+
+
+
+
+
+
+

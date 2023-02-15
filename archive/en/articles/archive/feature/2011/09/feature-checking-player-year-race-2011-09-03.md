@@ -6,6 +6,7 @@
 [_metadata_:description]:- "The second draft here at Pro Tour Philadelphia marked the halfway point in this Pro Tour, with just eight more rounds to play before we cut to the lights, camera and action of the Top 8 on Sunday. In terms of the Player of the Year race, we are more like three quarters of the way through. If this was the 400m final in the Olympics, the runners would just be coming off the final bend and preparing for a last lung-bursting sprint to the finish line."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "315402"
+[_metadata_:path_date]:- "2011-09-03"
 [_metadata_:publish_date]:- "2011-09-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: Checking in on the Player of the Year Race"
@@ -74,7 +75,7 @@ Three Japanese players were in contention for the Player of the Year title yeste
 
 
 
-![](https://web.archive.org/web/20151122005018im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/featurePOY_watanabe.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/featurepoy_watanabe.jpg)
 
 *Yuuya Watanabe is on a streak he no doubt hopes to continue hear.*
 
@@ -91,7 +92,7 @@ With Martin Juza already out of the tournament, the lone European contender in t
 
 
 
-![](https://web.archive.org/web/20151122002515im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/featurePOY_lemoine.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/featurepoy_lemoine.jpg)
 
 *Vincent Lemoine is a potential dark horse candidate.*
 
@@ -114,7 +115,7 @@ If anyone is best-placed to capitalize on this weekend and steal a march in the 
 
 
 
-![](https://web.archive.org/web/20151122002619im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/featurePOY_scott-vargas.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/featurepoy_scott-vargas.jpg)
 
 *Luis Scott-Vargas is still in contention at the start of Day One.*
 

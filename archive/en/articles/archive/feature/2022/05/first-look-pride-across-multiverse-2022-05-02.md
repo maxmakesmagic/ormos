@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220503010817/https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02?utm_campaign=Secret-Lair-Drop-Series&utm_source=TWITTER&utm_medium=social&utm_content=6902016937%22,)
+[Link to Wayback Machine](https://web.archive.org/web/20220502194258/https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02?utm_source=wizards&utm_medium=email&utm_campaign=sl&utm_content=pride22-announce-hero)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wizards of the Coast teams up with The Trevor Project to celebrate Pride!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-05-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A First Look: Pride Across the Multiverse"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-03 01:08:17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220503010817id_/https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02?utm_campaign=Secret-Lair-Drop-Series&utm_source=TWITTER&utm_medium=social&utm_content=6902016937%22,"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02?utm_campaign=Secret-Lair-Drop-Series&utm_source=TWITTER&utm_medium=social&utm_content=6902016937%22,"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-02 19:42:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220502194258id_/https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02?utm_source=wizards&utm_medium=email&utm_campaign=sl&utm_content=pride22-announce-hero"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-look-pride-across-multiverse-2022-05-02?utm_source=wizards&utm_medium=email&utm_campaign=sl&utm_content=pride22-announce-hero"
 ---
 
 

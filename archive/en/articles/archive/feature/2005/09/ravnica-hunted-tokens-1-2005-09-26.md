@@ -47,7 +47,7 @@ As we've [seen](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/
 *Ravnica* has its share of token-producers -- in fact, there's an entire rare cycle of huge monsters (as Aaron Forsythe [described](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af85) in his column Friday) that give tokens *to your opponent* to balance their grossly undercosted price tags. For example, here's blue's [Hunted Phantasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hunted+Phantasm):
 
 
-[![Hunted Phantasm](https://web.archive.org/web/20121110171301im_/http://www.wizards.com/magic/images/mtgcom/arcana300/HuntedPhantasm.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Hunted%2BPhantasm)
+[![Hunted Phantasm](https://media.wizards.com/legacy/magic/images/mtgcom/arcana300/huntedphantasm.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Hunted%2BPhantasm)
 
 
 Now, we don't guarantee you'll be happy to see one of these tokens appear on your side of the board. But we think you'll like the art just the same. You'll see these in ***Magic** Online* when *Ravnica* hits it on October 31.

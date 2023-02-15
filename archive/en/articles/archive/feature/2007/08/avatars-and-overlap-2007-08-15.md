@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170131112640/http://magic.wizards.com/en/articles/archive/feature/avatars-and-overlap-2007-08-15)
+[Link to Wayback Machine](https://web.archive.org/web/20220811213131/https://magic.wizards.com/en/articles/archive/feature/avatars-and-overlap-2007-08-15)
 
 [_metadata_:author]:- "Frank Karsten"
-[_metadata_:description]:- "I was highly surprised by the amount of responses I got after mentioning the old Shandalar game in last week's installment. Apparently, there are still many players out there who loved that game and who started playing again last week. Despite the mediocre AI, it was so much fun to make crazy decks and to constantly scrounge for new cards. It was easy to get addicted and waste a whole week on that game."
+[_metadata_:description]:- "I was highly surprised by the amount of responses I got after mentioning the old Shandalar game in last week's installment. Apparently, there are still many players out there who loved that game and who started playing again last week. Despite the mediocre AI, it was so much fun to make crazy decks and to constantly scrounge for new cards. It was easy to get addicted and waste"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "624631"
 [_metadata_:publish_date]:- "2007-08-15"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Of Avatars and Overlap"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-31 11:26:40"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170131112640id_/http://magic.wizards.com/en/articles/archive/feature/avatars-and-overlap-2007-08-15"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/avatars-and-overlap-2007-08-15"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 21:31:31"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811213131id_/https://magic.wizards.com/en/articles/archive/feature/avatars-and-overlap-2007-08-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/avatars-and-overlap-2007-08-15"
 ---
 
 
@@ -70,7 +70,7 @@ Last week and this week there are no Constructed Premier Events, because they ha
 
 The results of last month make one thing clear: Mono-Blue Pickles and Blue-Black-X Teachings are the two defining decks of the format, and the further we advance in the Block Constructed season, the more control heavy the metagame has become. Mono-Blue Pickles and Blue-Black-X Teachings have been trading first and second places all month long, but right now it seems that Mono-Blue Pickles is the more popular deck. In every Premier Event Top 8, roughly one third of the decks were Mono-Blue Pickles. 
 
-![Vesuvan Shapeshifter](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Vesuvan+Shapeshifter)I certainly can't fault you for choosing Mono-Blue Pickles, but I cannot support Mike Flores's recent assessments. In his [latest article](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mf158), Flores claims that "Mono-Blue Pickles is the hands-down best deck of this format" and that Mono-Blue Pickles is a nearly impossible matchup for Blue-Black-X Teachings. I have to respectfully disagree. Based on my experiences, the matchup between two players of equal skill piloting Mono-Blue Pickles and Blue-Black-X Teachings is a close 50-50 (but it is highly dependent on playing skill). At the very least, Mono-Blue Pickles is not the clear favorite in my opinion. I still consider Blue-Black-X Teachings to be the most powerful deck in the format, since it runs the strongest cards available, including [Damnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Damnation). However, no matter which deck you decide to play, ensure you have enough good cards against Mono-Blue Pickles in your deck, such as [Vesuvan Shapeshifter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter) to leech their unmorphing abilities, [Riftsweeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftsweeper) against their [Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Vision)s, etcetera. ### Standard Nationals Season Metagame
+![Vesuvan Shapeshifter](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Vesuvan+Shapeshifter)I certainly can't fault you for choosing Mono-Blue Pickles, but I cannot support Mike Flores's recent assessments. In his [latest article](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mf158), Flores claims that "Mono-Blue Pickles is the hands-down best deck of this format" and that Mono-Blue Pickles is a nearly impossible matchup for Blue-Black-X Teachings. I have to respectfully disagree. Based on my experiences, the matchup between two players of equal skill piloting Mono-Blue Pickles and Blue-Black-X Teachings is a close 50-50 (but it is highly dependent on playing skill). At the very least, Mono-Blue Pickles is not the clear favorite in my opinion. I still consider Blue-Black-X Teachings to be the most powerful deck in the format, since it runs the strongest cards available, including [Damnation](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Damnation). However, no matter which deck you decide to play, ensure you have enough good cards against Mono-Blue Pickles in your deck, such as [Vesuvan Shapeshifter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter) to leech their unmorphing abilities, [Riftsweeper](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftsweeper) against their [Ancestral Vision](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Vision)s, etcetera. ### Standard Nationals Season Metagame
 
 The last month has given us a lot of information. Four National Championships were featured in the Tournament Center coverage: the [U.S. Nationals](/en/events/coverage/all-hail-scott-vargas-omnipotent), the [British Nationals](/en/articles/archive/event-coverage/live-coverage-2007-great-britain-national-championships-2007-07-24), the [Italian Nationals](/en/node/575916) (linked page is in Italian), and the [Australian Nationals](/en/events/coverage/australia-champion-crowned). On top of that, we had the Kentucky Open and the MSS Championships. There is a lot of information to be gained on the Standard format with *Tenth Edition*, by looking at the Top 8 decklists, overall metagame breakdowns, and Last Chance Qualifier-winning decklists. The U.S. Nationals coverage even showed all decklists that scored at least 12 points over the seven rounds of Standard!
 
@@ -130,27 +130,28 @@ Let's divide these decks into the main categories aggro, control, and combo. The
 
 Some decks, like Mono-Green Aggro and NarcoBridge, are relatively stand-alone, i.e. you can't mistake them for any other deck. However, the distinction between various other decks is very thin. There is a large amount of overlap between many decks, and it took me a while before I had figured it all out. I'll try to explain how to tell all these decks apart (I made some diagrams that show overlap, but this is merely to illustrate, not an exact measure of how much they overlap).
 
-![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/online/fk52_aggrodecks.jpg)In the aggro department, the difference between Rakdos, Gruul, and Red Deck Wins splash Goyf (I didn't include Rakdos10 here yet) is rather small. They all start out with the same core: 4 [Incinerate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Incinerate), 4 [Char](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Char), 4 [Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rift+Bolt), 4 [Seal of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Fire), 4 [Mogg Fanatic](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+Fanatic), and 20-23 land. The main difference lies in the creature suite and the remaining slots. Rakdos typically runs [Giant Solifuge](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Solifuge), [Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Confidant) and [Rakdos Guildmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rakdos+Guildmage) along with extra burn in [Demonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire) and [Hit](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Hit). Gruul typically runs [Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves), [Scab-Clan Mauler](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scab-Clan+Mauler), [Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf), and [Troll Ascetic](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Troll+Ascetic), as well as some [Treetop Village](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treetop+Village) in the lands department. Red Deck Wins splash [Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) shies away from all those green creatures (save [Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf)) and instead has a [Greater Gargadon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Greater+Gargadon) theme interwoven, with [Mogg War Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+War+Marshal)l and [Keldon Marauders](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Keldon+Marauders) for obvious synergies, and it cuts some lands to fit in some additional red one drops for quicker pressure. 
+![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/online/fk52_aggrodecks.jpg)In the aggro department, the difference between Rakdos, Gruul, and Red Deck Wins splash Goyf (I didn't include Rakdos10 here yet) is rather small. They all start out with the same core: 4 [Incinerate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Incinerate), 4 [Char](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Char), 4 [Rift Bolt](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rift+Bolt), 4 [Seal of Fire](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Fire), 4 [Mogg Fanatic](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+Fanatic), and 20-23 land. The main difference lies in the creature suite and the remaining slots. Rakdos typically runs [Giant Solifuge](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Solifuge), [Dark Confidant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Confidant) and [Rakdos Guildmage](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rakdos+Guildmage) along with extra burn in [Demonfire](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire) and [Hit](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Hit). Gruul typically runs [Llanowar Elves](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves), [Scab-Clan Mauler](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scab-Clan+Mauler), [Tarmogoyf](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf), and [Troll Ascetic](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Troll+Ascetic), as well as some [Treetop Village](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treetop+Village) in the lands department. Red Deck Wins splash [Tarmogoyf](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) shies away from all those green creatures (save [Tarmogoyf](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf)) and instead has a [Greater Gargadon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Greater+Gargadon) theme interwoven, with [Mogg War Marshal](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+War+Marshal)l and [Keldon Marauders](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Keldon+Marauders) for obvious synergies, and it cuts some lands to fit in some additional red one drops for quicker pressure. 
 
 Where does Craig Jones's deck that won [U.K. Nationals](/en/articles/archive/event-coverage/live-coverage-2007-great-britain-national-championships-2007-07-24) fit in here, you might ask? Sigh. Well, to complicate matters even further, that deck is exactly in between Red Deck Wins splash Goyf and Gruul; it is a hybrid that has the characteristics of both. But Prof's deck was a one-of-a-kind, so I didn't bother making a new category just for him—two categories for the various Red-Green Aggro variants is enough already—and I just divided his points equally between the two existing Red-Green Aggro deck archetypes. 
 
-And lastly, we have Rakdos10, whose name refers to taking 10 points of damage when you flip [Greater Gargadon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Greater+Gargadon) with [Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Confidant). This deck is a mix of regular Rakdos (as it uses [Dark Confidant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Confidant)) and Red Deck Wins splash [Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) (as it uses [Greater Gargadon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Greater+Gargadon), [Keldon Marauders](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Keldon+Marauders), and [Mogg War Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+War+Marshal)). However, Rakdos10 only packs 2 Chars for the burn department, instead of the typical 16 burn spells that the other red decks like to pack. In the place of the burn slots, it has cards that exploit the Gargadon synergies further, with [Threaten](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Threaten) and [Epochrasite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Epochrasite) to provide more food for the 9/7 guy. It also includes [Scorched Rusalka](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scorched+Rusalka), which can substitute for [Greater Gargadon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Greater+Gargadon).
+And lastly, we have Rakdos10, whose name refers to taking 10 points of damage when you flip [Greater Gargadon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Greater+Gargadon) with [Dark Confidant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Confidant). This deck is a mix of regular Rakdos (as it uses [Dark Confidant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Confidant)) and Red Deck Wins splash [Tarmogoyf](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) (as it uses [Greater Gargadon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Greater+Gargadon), [Keldon Marauders](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Keldon+Marauders), and [Mogg War Marshal](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mogg+War+Marshal)). However, Rakdos10 only packs 2 Chars for the burn department, instead of the typical 16 burn spells that the other red decks like to pack. In the place of the burn slots, it has cards that exploit the Gargadon synergies further, with [Threaten](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Threaten) and [Epochrasite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Epochrasite) to provide more food for the 9/7 guy. It also includes [Scorched Rusalka](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scorched+Rusalka), which can substitute for [Greater Gargadon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Greater+Gargadon).
 
-![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/online/fk52_controldecks.jpg)The overlap is even crazier in the control decks category. I'll try to make sense of it all; let me start with the three distinct blue-white-red archetypes. Pretty much all of them run [Court Hussar](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Court+Hussar), [Lightning Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel), [Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) or [Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Helix), [Azorius Signet](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Azorius+Signet), and a similar mana base, but that is where the similarities stop. Angelfire takes a traditional control route, using [Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God), [Compulsive Research](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsive+Research), and finishers like [Aeon Chronicler](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aeon+Chronicler) and [Demonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire). Blue-White-Red Blink, on the other hand, tries to exploit [Momentary Blink](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Momentary+Blink) with creatures like [Riftwing Cloudskate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate) and [Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Venser%2C+Shaper+Savant) and packs Grand Arbiter to give the deck a mana denial angle. Blue-White-Red Touch-Blink takes this philosophy even further and removes [Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Helix), [Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand), or finishers such as [Numot, the Devastator](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Numot%2C+the+Devastator) from the Blue-White-Red Blink deck to add [Aethermage's Touch](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aethermage%27s+Touch) and [Bogardan Hellkite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bogardan+Hellkite) (a nice combo; they need to be together).
+![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/online/fk52_controldecks.jpg)The overlap is even crazier in the control decks category. I'll try to make sense of it all; let me start with the three distinct blue-white-red archetypes. Pretty much all of them run [Court Hussar](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Court+Hussar), [Lightning Angel](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel), [Remand](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) or [Lightning Helix](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Helix), [Azorius Signet](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Azorius+Signet), and a similar mana base, but that is where the similarities stop. Angelfire takes a traditional control route, using [Wrath of God](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God), [Compulsive Research](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsive+Research), and finishers like [Aeon Chronicler](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aeon+Chronicler) and [Demonfire](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire). Blue-White-Red Blink, on the other hand, tries to exploit [Momentary Blink](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Momentary+Blink) with creatures like [Riftwing Cloudskate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate) and [Venser, Shaper Savant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Venser%2C+Shaper+Savant) and packs Grand Arbiter to give the deck a mana denial angle. Blue-White-Red Touch-Blink takes this philosophy even further and removes [Lightning Helix](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Helix), [Remand](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand), or finishers such as [Numot, the Devastator](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Numot%2C+the+Devastator) from the Blue-White-Red Blink deck to add [Aethermage's Touch](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aethermage%27s+Touch) and [Bogardan Hellkite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bogardan+Hellkite) (a nice combo; they need to be together).
 
-There are two different blue-white-black decks. One is very similar to the Blue-Red-White Touch-Blink deck; it just has [Skeletal Vampire](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Vampire) and [Angel of Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angel+of+Despair) instead of [Lightning Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel) and [Bogardan Hellkite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bogardan+Hellkite). The other (Solar Flare) is very similar to the Angelfire deck; it once again has [Skeletal Vampire](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Vampire) and [Angel of Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angel+of+Despair) instead of [Lightning Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel) and [Demonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire), as well as [Castigate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Castigate) instead of [Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Helix). 
+There are two different blue-white-black decks. One is very similar to the Blue-Red-White Touch-Blink deck; it just has [Skeletal Vampire](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Vampire) and [Angel of Despair](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angel+of+Despair) instead of [Lightning Angel](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel) and [Bogardan Hellkite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bogardan+Hellkite). The other (Solar Flare) is very similar to the Angelfire deck; it once again has [Skeletal Vampire](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Vampire) and [Angel of Despair](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angel+of+Despair) instead of [Lightning Angel](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel) and [Demonfire](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire), as well as [Castigate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Castigate) instead of [Lightning Helix](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Helix). 
 
-![Wall of Roots](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wall+of+Roots)That wraps up the hardest part as far as deck distinctions and similarities go. The remainder of the control decks portion is all played less than the previously mentioned decks. We have two blue-white-green decks: one uses the [Momentary Blink](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Momentary+Blink) synergies in similar fashion as the blue-red-white Blink deck (in comparison, the green version has [Loxodon Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Hierarch) and [Mystic Snake](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Snake) instead of Grand Arbiter and [Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Helix) for even more Blinking fun, [Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) as a cheap threat instead of [Lightning Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel), and [Wall of Roots](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Roots) and [Edge of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Edge+of+Autumn) instead of Signets) and the other is the deck that Luis Scott-Vargas used to win [U.S. Nationals](/en/events/coverage/all-hail-scott-vargas-omnipotent). Omnichord may also be a blue-white-green deck, but apart from [Wall of Roots](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Roots) and [Loxodon Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Hierarch) it has little in common with the Blue-White-Green Blink deck. It actually looks more similar to Blue-Black Teferi, as it also has a respectable counter suite and likes to play Teferi at end of turn. Lastly, Blue-Black Teferi is kind of similar to Blue-Black-X Korlash, as they both like their black kill spells and blue card draw. ### Onwards to the Vanguard Avatars
+![Wall of Roots](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wall+of+Roots)That wraps up the hardest part as far as deck distinctions and similarities go. The remainder of the control decks portion is all played less than the previously mentioned decks. We have two blue-white-green decks: one uses the [Momentary Blink](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Momentary+Blink) synergies in similar fashion as the blue-red-white Blink deck (in comparison, the green version has [Loxodon Hierarch](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Hierarch) and [Mystic Snake](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mystic+Snake) instead of Grand Arbiter and [Lightning Helix](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Helix) for even more Blinking fun, [Tarmogoyf](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) as a cheap threat instead of [Lightning Angel](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel), and [Wall of Roots](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Roots) and [Edge of Autumn](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Edge+of+Autumn) instead of Signets) and the other is the deck that Luis Scott-Vargas used to win [U.S. Nationals](/en/events/coverage/all-hail-scott-vargas-omnipotent). Omnichord may also be a blue-white-green deck, but apart from [Wall of Roots](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Roots) and [Loxodon Hierarch](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Hierarch) it has little in common with the Blue-White-Green Blink deck. It actually looks more similar to Blue-Black Teferi, as it also has a respectable counter suite and likes to play Teferi at end of turn. Lastly, Blue-Black Teferi is kind of similar to Blue-Black-X Korlash, as they both like their black kill spells and blue card draw. ### Onwards to the Vanguard Avatars
 
 *Tenth Edition* is already on sale in the **Magic Online** store and the release events and draft queues are underway (check [here](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline/article080107b) for more information). *Tenth Edition* also brings two new Vanguard avatars, which I will introduce shortly. But first I will do an overview of the Standard with Vanguard metagame as seen in the online Premier Events in the last month (this Constructed format grants abilities to the **Magic Online** avatars; check [here](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/magiconline/vanguard) for more information including a list of all available avatars). 
 
 Prior to *Tenth Edition*, there are three tier one avatars: Mirri the Cursed, Oni of Wild Places, and Heartwood Storyteller. 
 
-![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/online/fk52_tier1vanguardavatars.jpg)The Oni of Wild Places decks come in various forms. There are aggro builds that are very similar to the deck I talked about [many months ago](/en/articles/archive/vanguard-metagame-and-magic-online-30-news-2007-01-10). There are combo builds that aim for a big storm count with the [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Empty+the+Warrens) / [Haze of Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Haze+of+Rage) combo, which works quite well if all your creatures have haste. And there are NarcoBridge builds—similar to the [Standard version](http://forums.gleemax.com/showpost.php?p=13267083&postcount=12)—that like to active their [Magus of the Bazaar](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Bazaar) a turn faster and that don't even need [Flame-Kin Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame-Kin+Zealot) to attack with hasted zombie tokens. An Oni of Wild Places deck can offer very fast turn-two kill draws and has a good matchup against any control deck or cute deck that isn't specifically tuned to beat it. It also has a fairly strong game against most Heartwood Storyteller decks, but it has a tough time against most Mirri the Cursed decks. 
+![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/online/fk52_tier1vanguardavatars.jpg)The Oni of Wild Places decks come in various forms. There are aggro builds that are very similar to the deck I talked about [many months ago](/en/articles/archive/vanguard-metagame-and-magic-online-30-news-2007-01-10). There are combo builds that aim for a big storm count with the [Empty the Warrens](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Empty+the+Warrens) / [Haze of Rage](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Haze+of+Rage) combo, which works quite well if all your creatures have haste. And there are NarcoBridge builds—similar to the [Standard version](http://forums.gleemax.com/showpost.php?p=13267083&postcount=12)—that like to active their [Magus of the Bazaar](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Bazaar) a turn faster and that don't even need [Flame-Kin Zealot](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame-Kin+Zealot) to attack with hasted zombie tokens. An Oni of Wild Places deck can offer very fast turn-two kill draws and has a good matchup against any control deck or cute deck that isn't specifically tuned to beat it. It also has a fairly strong game against most Heartwood Storyteller decks, but it has a tough time against most Mirri the Cursed decks. 
 
-The Heartwood Storyteller decks are based on the new breakout *Future Sight* avatar, and they are mostly direct ports from Standard [Blue-Black-White Touch-Blink decks](http://forums.gleemax.com/showpost.php?p=13266556&postcount=8) and Standard [Blue-Red-White Touch-Blink decks](http://forums.gleemax.com/showpost.php?p=13267015&postcount=11). The game plan of these decks already resolves around quickly getting creatures like [Riftwing Cloudskate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate) in play that can bounce the opponent's lands, and when you start the game with a pseudo [Grand Arbiter Augustin IV](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grand+Arbiter+Augustin+IV) in play that is an obvious improvement. Once you start going, your opponent will never have more than three lands in play and his cards will be more expensive to cast at the same time. That makes it more or less impossible for him to win. This deck is a solid all-round good choice. It doesn't perform particularly well against Oni of Wild Places decks or Mirri the Cursed decks, but it has a lot of synergy, it is paired with the perfect avatar, and it is easy to make just by copying a Standard decklist. I recently spoke with Jesse Hawkins, who won a Vanguard event with a blue-black-white build, but he said that the blue-white-red builds are looking more appealing since cards like [Skeletal Vampire](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Vampire) don't have much of an effect.
+The Heartwood Storyteller decks are based on the new breakout *Future Sight* avatar, and they are mostly direct ports from Standard [Blue-Black-White Touch-Blink decks](http://forums.gleemax.com/showpost.php?p=13266556&postcount=8) and Standard [Blue-Red-White Touch-Blink decks](http://forums.gleemax.com/showpost.php?p=13267015&postcount=11). The game plan of these decks already resolves around quickly getting creatures like [Riftwing Cloudskate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate) in play that can bounce the opponent's lands, and when you start the game with a pseudo [Grand Arbiter Augustin IV](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grand+Arbiter+Augustin+IV) in play that is an obvious improvement. Once you start going, your opponent will never have more than three lands in play and his cards will be more expensive to cast at the same time. That makes it more or less impossible for him to win. This deck is a solid all-round good choice. It doesn't perform particularly well against Oni of Wild Places decks or Mirri the Cursed decks, but it has a lot of synergy, it is paired with the perfect avatar, and it is easy to make just by copying a Standard decklist. I recently spoke with Jesse Hawkins, who won a Vanguard event with a blue-black-white build, but he said that the blue-white-red builds are looking more appealing since cards like [Skeletal Vampire](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Vampire) don't have much of an effect.
 
 The Mirri the Cursed decks are a special breed. According to online player "a small child"—who has 3 finals appearances in his last 5 Vanguard tournaments, which should give his claims credibility—it is undoubtedly the best deck right now. This is the deck he used to win the latest Standard with Vanguard tournament:
+
 
 
 
@@ -167,7 +168,9 @@ The Mirri the Cursed decks are a special breed. According to online player "a sm
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -192,43 +195,43 @@ OverviewColorCostRarity
 
 
 4
-[Ornithopter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
 
 
 4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Llanowar Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
+[Llanowar Elves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
 
 
 4
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 4
-[Mystic Snake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
+[Mystic Snake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
 
 
 3
-[Ohran Viper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOhran%5D+%5BViper%5D)
+[Ohran Viper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOhran%5D+%5BViper%5D)
 
 
 3
-[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
+[Shadowmage Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
 
 
 2
-[Aeon Chronicler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAeon%5D+%5BChronicler%5D)
+[Aeon Chronicler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAeon%5D+%5BChronicler%5D)
 
 
 2
-[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
+[Venser, Shaper Savant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
 
 
 1
-[Harmonic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonic%5D+%5BSliver%5D)
+[Harmonic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonic%5D+%5BSliver%5D)
 
 
 
@@ -237,11 +240,11 @@ OverviewColorCostRarity
 
 
 4
-[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 3
-[Chord of Calling](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D)
+[Chord of Calling](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D)
 
 
 
@@ -250,35 +253,35 @@ OverviewColorCostRarity
 
 
 4
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 4
-[Overgrown Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
 
 
 1
-[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+[Underground River](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
 
 
 2
-[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
 
 
 2
-[Breeding Pool](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
 
 
 2
-[River of Tears](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiver%5D+%5Bof%5D+%5BTears%5D)
+[River of Tears](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiver%5D+%5Bof%5D+%5BTears%5D)
 
 
 3
-[Simic Growth Chamber](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BGrowth%5D+%5BChamber%5D)
+[Simic Growth Chamber](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BGrowth%5D+%5BChamber%5D)
 
 
 60 Cards 
@@ -289,23 +292,23 @@ OverviewColorCostRarity
 
 
 3
-[Persecute](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPersecute%5D)
+[Persecute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPersecute%5D)
 
 
 4
-[Damnation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D)
+[Damnation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D)
 
 
 3
-[Deathmark](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D)
+[Deathmark](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D)
 
 
 2
-[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
 
 
 3
-[Slaughter Pact](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BPact%5D)
+[Slaughter Pact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BPact%5D)
 
 
 
@@ -315,36 +318,40 @@ OverviewColorCostRarity
 
 
 2
-[Aeon Chronicler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAeon%5D+%5BChronicler%5D)
+[Aeon Chronicler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAeon%5D+%5BChronicler%5D)
 
 
 2
-[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
+[Venser, Shaper Savant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
 
 
 4
-[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 
-##### Black (12)
+##### Black (15)
 
 
 
 3
-[Persecute](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPersecute%5D)
+[Persecute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPersecute%5D)
 
 
 4
-[Damnation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D)
+[Damnation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D)
 
 
 3
-[Deathmark](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D)
+[Deathmark](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D)
 
 
 2
-[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+
+
+3
+[Slaughter Pact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BPact%5D)
 
 
 
@@ -353,23 +360,23 @@ OverviewColorCostRarity
 
 
 4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Llanowar Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
+[Llanowar Elves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
 
 
 4
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 3
-[Ohran Viper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOhran%5D+%5BViper%5D)
+[Ohran Viper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOhran%5D+%5BViper%5D)
 
 
 3
-[Chord of Calling](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D)
+[Chord of Calling](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D)
 
 
 
@@ -378,60 +385,56 @@ OverviewColorCostRarity
 
 
 4
-[Mystic Snake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
+[Mystic Snake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
 
 
 3
-[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
+[Shadowmage Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
 
 
 1
-[Harmonic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonic%5D+%5BSliver%5D)
+[Harmonic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonic%5D+%5BSliver%5D)
 
 
 
-##### Colorless (29)
+##### Colorless (26)
 
 
 
 4
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 4
-[Overgrown Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
 
 
 1
-[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+[Underground River](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
 
 
 2
-[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
 
 
 2
-[Breeding Pool](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
 
 
 2
-[River of Tears](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiver%5D+%5Bof%5D+%5BTears%5D)
+[River of Tears](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiver%5D+%5Bof%5D+%5BTears%5D)
 
 
 3
-[Simic Growth Chamber](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BGrowth%5D+%5BChamber%5D)
+[Simic Growth Chamber](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BGrowth%5D+%5BChamber%5D)
 
 
 4
-[Ornithopter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
-
-
-3
-[Slaughter Pact](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BPact%5D)
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
 
 
 75 Cards 
@@ -443,19 +446,19 @@ OverviewColorCostRarity
 
 
 4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Llanowar Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
+[Llanowar Elves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
 
 
 3
-[Deathmark](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D)
+[Deathmark](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D)
 
 
 2
-[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
 
 
 
@@ -464,11 +467,11 @@ OverviewColorCostRarity
 
 
 4
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 4
-[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 
@@ -477,19 +480,19 @@ OverviewColorCostRarity
 
 
 3
-[Ohran Viper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOhran%5D+%5BViper%5D)
+[Ohran Viper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOhran%5D+%5BViper%5D)
 
 
 3
-[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
+[Shadowmage Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
 
 
 1
-[Harmonic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonic%5D+%5BSliver%5D)
+[Harmonic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonic%5D+%5BSliver%5D)
 
 
 3
-[Chord of Calling](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D)
+[Chord of Calling](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D)
 
 
 
@@ -498,19 +501,19 @@ OverviewColorCostRarity
 
 
 4
-[Mystic Snake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
+[Mystic Snake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
 
 
 2
-[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
+[Venser, Shaper Savant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
 
 
 3
-[Persecute](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPersecute%5D)
+[Persecute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPersecute%5D)
 
 
 4
-[Damnation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D)
+[Damnation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D)
 
 
 
@@ -519,7 +522,7 @@ OverviewColorCostRarity
 
 
 2
-[Aeon Chronicler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAeon%5D+%5BChronicler%5D)
+[Aeon Chronicler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAeon%5D+%5BChronicler%5D)
 
 
 46 Cards 
@@ -531,23 +534,23 @@ OverviewColorCostRarity
 
 
 4
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 4
-[Llanowar Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
+[Llanowar Elves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
 
 
 4
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 4
-[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 
@@ -556,93 +559,88 @@ OverviewColorCostRarity
 
 
 3
-[Simic Growth Chamber](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BGrowth%5D+%5BChamber%5D)
+[Simic Growth Chamber](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BGrowth%5D+%5BChamber%5D)
 
 
 4
-[Ornithopter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
+[Ornithopter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D)
 
 
 1
-[Harmonic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonic%5D+%5BSliver%5D)
+[Harmonic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonic%5D+%5BSliver%5D)
 
 
 3
-[Deathmark](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D)
+[Deathmark](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D)
 
 
 
-##### Rare (36)
+##### Rare (44)
 
+
+
+4
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
 
 
 1
-[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+[Underground River](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
 
 
 2
-[River of Tears](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiver%5D+%5Bof%5D+%5BTears%5D)
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+
+
+2
+[Breeding Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+
+
+2
+[River of Tears](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiver%5D+%5Bof%5D+%5BTears%5D)
 
 
 4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Mystic Snake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
+[Mystic Snake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
 
 
 3
-[Ohran Viper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOhran%5D+%5BViper%5D)
+[Ohran Viper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOhran%5D+%5BViper%5D)
 
 
 3
-[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
+[Shadowmage Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
 
 
 2
-[Aeon Chronicler](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAeon%5D+%5BChronicler%5D)
+[Aeon Chronicler](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAeon%5D+%5BChronicler%5D)
 
 
 2
-[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
+[Venser, Shaper Savant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
 
 
 3
-[Chord of Calling](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D)
+[Chord of Calling](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D)
 
 
 3
-[Persecute](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPersecute%5D)
+[Persecute](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPersecute%5D)
 
 
 4
-[Damnation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D)
+[Damnation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D)
 
 
 2
-[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
 
 
 3
-[Slaughter Pact](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BPact%5D)
-
-
-
-##### Mythic (8)
-
-
-
-4
-[Overgrown Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
-
-
-2
-[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
-
-
-2
-[Breeding Pool](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D)
+[Slaughter Pact](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BPact%5D)
 
 
 75 Cards 
@@ -650,7 +648,7 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
 
 
 
@@ -668,13 +666,13 @@ OverviewColorCostRarity
 
 
 
-The goal of this deck is to get out a lot of creatures fast and then start controlling the opponent's board by pinging with the avatar's ability. The best card in the deck, for that reason, is [Wall of Roots](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Roots); it gives you mana and simultaneously taps for Mirri's ability. [Ornithopter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ornithopter)s are important as well; they give you another creature to start pinging right away, which is crucial against Oni decks or other Mirri decks with lots of mana elves. The weakest cards in the deck right now are the card draw creatures ([Ohran Vipers](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ohran+Vipers), [Shadowmage Infiltrators](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowmage+Infiltrators), and [Aeon Chroniclers](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aeon+Chroniclers)). They ensure a steady flow of creatures throughout the game against control decks, but there aren't many control decks around. As far as the sideboard goes, the black creature kill cards are good against the Oni decks and the mirror.
+The goal of this deck is to get out a lot of creatures fast and then start controlling the opponent's board by pinging with the avatar's ability. The best card in the deck, for that reason, is [Wall of Roots](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Roots); it gives you mana and simultaneously taps for Mirri's ability. [Ornithopter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ornithopter)s are important as well; they give you another creature to start pinging right away, which is crucial against Oni decks or other Mirri decks with lots of mana elves. The weakest cards in the deck right now are the card draw creatures ([Ohran Vipers](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ohran+Vipers), [Shadowmage Infiltrators](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowmage+Infiltrators), and [Aeon Chroniclers](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aeon+Chroniclers)). They ensure a steady flow of creatures throughout the game against control decks, but there aren't many control decks around. As far as the sideboard goes, the black creature kill cards are good against the Oni decks and the mirror.
 
-I like this deck. It has a solid game plan, and it works well in a metagame filled with cheap creatures. As for possible updates, first off [Persecute](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Persecute) is leaving due to the *Tenth Edition* rotation, but the [Dragonstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstorm) deck it was meant against also left. [Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Leak) can be replaced by [Rune Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rune+Snag) (not [Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand), since a lot of the decks play free spells and the control decks have avatars with extra life, so you need hard counters). I would like to add a couple cheap mana guys in the maindeck to get a critical mass of creatures out on the table even faster. The creator of the above deck suggested [Utopia Mycon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Utopia+Mycon), which seems okay. Imagine you play the mirror and you make this 0/2 while your opponent plays [Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves); guess who survives. The mana base could also be improved; less black mana and more blue mana is needed. Even though the deck is very powerful, the thing about Mirri that turns a lot of people off are the mirror matches, because so much depends on the coinflip. The turn-one [Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birds+of+Paradise) of the player who plays first will shoot down the turn-one [Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birds+of+Paradise) of the player who draws first. Decks that don't run small cheap creatures or that do run mass removal effects should be able to stand up to Mirri. Consider for example control decks with [Bogardan Hellkite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bogardan+Hellkite) and the Braids avatar.
+I like this deck. It has a solid game plan, and it works well in a metagame filled with cheap creatures. As for possible updates, first off [Persecute](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Persecute) is leaving due to the *Tenth Edition* rotation, but the [Dragonstorm](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstorm) deck it was meant against also left. [Mana Leak](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Leak) can be replaced by [Rune Snag](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rune+Snag) (not [Remand](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand), since a lot of the decks play free spells and the control decks have avatars with extra life, so you need hard counters). I would like to add a couple cheap mana guys in the maindeck to get a critical mass of creatures out on the table even faster. The creator of the above deck suggested [Utopia Mycon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Utopia+Mycon), which seems okay. Imagine you play the mirror and you make this 0/2 while your opponent plays [Llanowar Elves](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves); guess who survives. The mana base could also be improved; less black mana and more blue mana is needed. Even though the deck is very powerful, the thing about Mirri that turns a lot of people off are the mirror matches, because so much depends on the coinflip. The turn-one [Birds of Paradise](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birds+of+Paradise) of the player who plays first will shoot down the turn-one [Birds of Paradise](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Birds+of+Paradise) of the player who draws first. Decks that don't run small cheap creatures or that do run mass removal effects should be able to stand up to Mirri. Consider for example control decks with [Bogardan Hellkite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bogardan+Hellkite) and the Braids avatar.
 
-*Tenth Edition*—or rather, the exit of *Ninth Edition* and [Seething Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seething+Song) in particular—means that the [Dragonstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstorm) decks with the Prodigal Sorcerer avatar (also a fairly popular choice in the previous months) are pretty much dead. The Mirri the Cursed decks were pretty bad versus [Dragonstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstorm), while the Heartwood Storyteller decks were very good versus [Dragonstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstorm). 
+*Tenth Edition*—or rather, the exit of *Ninth Edition* and [Seething Song](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seething+Song) in particular—means that the [Dragonstorm](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstorm) decks with the Prodigal Sorcerer avatar (also a fairly popular choice in the previous months) are pretty much dead. The Mirri the Cursed decks were pretty bad versus [Dragonstorm](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstorm), while the Heartwood Storyteller decks were very good versus [Dragonstorm](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstorm). 
 
-A lot of the tier two archetypes are quite good as well, according to "a small child" (lots of thanks to him for sharing his thoughts). There are Jhoira of the Ghitu decks that win by hitting ridiculous sorceries and by abusing [Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Life+from+the+Loam). They gain [Squee, Goblin Nabob](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squee%2C+Goblin+Nabob) from *Tenth Edition*, but are greatly hurt by losing the Urzatron. There are [Loxodon Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Hierarch) decks that use [Hatching Plans](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hatching+Plans) and win by sticking a [Magus of the Disk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Disk). The unique advantage of these decks is starting with 32 life. There are Chronatog decks invented by Th00mor that use free spells to take control, as well as Pacts and [Angel's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angel%27s+Grace) or [Conflagrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Conflagrate) as a kill condition. Indeed, lots of high-potential cards can find their niche in this format. And if you are not in a creative mood, you can always directly copy a good Standard deck like NarcoBridge and add the Prodigal Sorcerer avatar (a basic avatar that gives extra hand size and starting life, and adds the [Think Tank](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Think+Tank) effect) to arrive at something that should be at least viable. Overall, there are a lot of viable decks out there and probably plenty of undiscovered ones too. Vanguard is a format that is not fully explored yet, where decks win by doing broken degenerate things (although they are still disruptable), yet the matches do tend to be skill-intensive and interactive. If you are a deck designer who likes to do something bizarre or broken, not a traditional aggro or control deck, then Standard with Vanguard may be the format for you. I'm curious what the format of Day 3 of the World Championships will be in 2008 or 2009. We will have Legacy this year; perhaps a day of Extended Singleton Tribal Vanguard (banning Momir and Jhoira) might be a nice and interesting challenge for deck builders.
+A lot of the tier two archetypes are quite good as well, according to "a small child" (lots of thanks to him for sharing his thoughts). There are Jhoira of the Ghitu decks that win by hitting ridiculous sorceries and by abusing [Life from the Loam](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Life+from+the+Loam). They gain [Squee, Goblin Nabob](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squee%2C+Goblin+Nabob) from *Tenth Edition*, but are greatly hurt by losing the Urzatron. There are [Loxodon Hierarch](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loxodon+Hierarch) decks that use [Hatching Plans](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hatching+Plans) and win by sticking a [Magus of the Disk](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Disk). The unique advantage of these decks is starting with 32 life. There are Chronatog decks invented by Th00mor that use free spells to take control, as well as Pacts and [Angel's Grace](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angel%27s+Grace) or [Conflagrate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Conflagrate) as a kill condition. Indeed, lots of high-potential cards can find their niche in this format. And if you are not in a creative mood, you can always directly copy a good Standard deck like NarcoBridge and add the Prodigal Sorcerer avatar (a basic avatar that gives extra hand size and starting life, and adds the [Think Tank](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Think+Tank) effect) to arrive at something that should be at least viable. Overall, there are a lot of viable decks out there and probably plenty of undiscovered ones too. Vanguard is a format that is not fully explored yet, where decks win by doing broken degenerate things (although they are still disruptable), yet the matches do tend to be skill-intensive and interactive. If you are a deck designer who likes to do something bizarre or broken, not a traditional aggro or control deck, then Standard with Vanguard may be the format for you. I'm curious what the format of Day 3 of the World Championships will be in 2008 or 2009. We will have Legacy this year; perhaps a day of Extended Singleton Tribal Vanguard (banning Momir and Jhoira) might be a nice and interesting challenge for deck builders.
 
 ### The New Tenth Edition Avatars
 
@@ -685,7 +683,8 @@ As I said before I ventured into the Standard with Vanguard metagame, *Tenth Edi
  Starting life total = 17  
 ![](https://web.archive.org/web/20160829100442im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/x.gif), Return a creature you control with converted mana cost X to its owner's hand: Draw a number of cards chosen at random between 0 and X. X can't be 0.
 
-My first idea was to make a deck that runs cheap creatures with come-in-play abilities, such as [Coiling Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coiling+Oracle), as Arcanis can reuse them. However, in this deck the Arcanis avatar felt clearly inferior to the Oni of Wild Places avatar, and what I made just looked like a bad Oni deck. That is why I don't expect that the Arcanis avatar will become viable for competitive play. But I wanted to look for something else that specifically catered to the ability Arcanis offers, and I found an unlikely but cool infinite combo.
+My first idea was to make a deck that runs cheap creatures with come-in-play abilities, such as [Coiling Oracle](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coiling+Oracle), as Arcanis can reuse them. However, in this deck the Arcanis avatar felt clearly inferior to the Oni of Wild Places avatar, and what I made just looked like a bad Oni deck. That is why I don't expect that the Arcanis avatar will become viable for competitive play. But I wanted to look for something else that specifically catered to the ability Arcanis offers, and I found an unlikely but cool infinite combo.
+
 
 
 
@@ -702,7 +701,9 @@ My first idea was to make a deck that runs cheap creatures with come-in-play abi
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -727,31 +728,31 @@ OverviewColorCostRarity
 
 
 4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Llanowar Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
+[Llanowar Elves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
 
 
 4
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 4
-[Civic Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCivic%5D+%5BWayfinder%5D)
+[Civic Wayfinder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCivic%5D+%5BWayfinder%5D)
 
 
 4
-[Korlash, Heir to Blackblade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKorlash,%5D+%5BHeir%5D+%5Bto%5D+%5BBlackblade%5D)
+[Korlash, Heir to Blackblade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKorlash,%5D+%5BHeir%5D+%5Bto%5D+%5BBlackblade%5D)
 
 
 4
-[Magus of the Coffers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BCoffers%5D)
+[Magus of the Coffers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BCoffers%5D)
 
 
 4
-[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
+[Yavimaya Dryad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
 
 
 
@@ -760,7 +761,7 @@ OverviewColorCostRarity
 
 
 4
-[Hunting Wilds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BWilds%5D)
+[Hunting Wilds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BWilds%5D)
 
 
 
@@ -769,7 +770,7 @@ OverviewColorCostRarity
 
 
 4
-[Akroma's Memorial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAkroma%5D+%5BMemorial%5D)
+[Akroma's Memorial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAkroma%5D+%5BMemorial%5D)
 
 
 
@@ -778,19 +779,19 @@ OverviewColorCostRarity
 
 
 9
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Overgrown Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
 
 
 7
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+[Urborg, Tomb of Yawgmoth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
 
 
 60 Cards 
@@ -802,11 +803,11 @@ OverviewColorCostRarity
 
 
 4
-[Korlash, Heir to Blackblade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKorlash,%5D+%5BHeir%5D+%5Bto%5D+%5BBlackblade%5D)
+[Korlash, Heir to Blackblade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKorlash,%5D+%5BHeir%5D+%5Bto%5D+%5BBlackblade%5D)
 
 
 4
-[Magus of the Coffers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BCoffers%5D)
+[Magus of the Coffers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BCoffers%5D)
 
 
 
@@ -815,27 +816,27 @@ OverviewColorCostRarity
 
 
 4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Llanowar Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
+[Llanowar Elves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
 
 
 4
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 4
-[Civic Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCivic%5D+%5BWayfinder%5D)
+[Civic Wayfinder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCivic%5D+%5BWayfinder%5D)
 
 
 4
-[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
+[Yavimaya Dryad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
 
 
 4
-[Hunting Wilds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BWilds%5D)
+[Hunting Wilds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BWilds%5D)
 
 
 
@@ -844,23 +845,23 @@ OverviewColorCostRarity
 
 
 9
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Overgrown Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
 
 
 7
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+[Urborg, Tomb of Yawgmoth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
 
 
 4
-[Akroma's Memorial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAkroma%5D+%5BMemorial%5D)
+[Akroma's Memorial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAkroma%5D+%5BMemorial%5D)
 
 
 60 Cards 
@@ -872,11 +873,11 @@ OverviewColorCostRarity
 
 
 4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Llanowar Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
+[Llanowar Elves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
 
 
 
@@ -885,7 +886,7 @@ OverviewColorCostRarity
 
 
 4
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 
@@ -894,11 +895,11 @@ OverviewColorCostRarity
 
 
 4
-[Civic Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCivic%5D+%5BWayfinder%5D)
+[Civic Wayfinder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCivic%5D+%5BWayfinder%5D)
 
 
 4
-[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
+[Yavimaya Dryad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
 
 
 
@@ -907,11 +908,11 @@ OverviewColorCostRarity
 
 
 4
-[Korlash, Heir to Blackblade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKorlash,%5D+%5BHeir%5D+%5Bto%5D+%5BBlackblade%5D)
+[Korlash, Heir to Blackblade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKorlash,%5D+%5BHeir%5D+%5Bto%5D+%5BBlackblade%5D)
 
 
 4
-[Hunting Wilds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BWilds%5D)
+[Hunting Wilds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BWilds%5D)
 
 
 
@@ -920,7 +921,7 @@ OverviewColorCostRarity
 
 
 4
-[Magus of the Coffers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BCoffers%5D)
+[Magus of the Coffers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BCoffers%5D)
 
 
 
@@ -929,7 +930,7 @@ OverviewColorCostRarity
 
 
 4
-[Akroma's Memorial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAkroma%5D+%5BMemorial%5D)
+[Akroma's Memorial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAkroma%5D+%5BMemorial%5D)
 
 
 36 Cards 
@@ -941,23 +942,23 @@ OverviewColorCostRarity
 
 
 9
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 7
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Llanowar Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
+[Llanowar Elves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D)
 
 
 4
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 4
-[Civic Wayfinder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCivic%5D+%5BWayfinder%5D)
+[Civic Wayfinder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCivic%5D+%5BWayfinder%5D)
 
 
 
@@ -966,45 +967,40 @@ OverviewColorCostRarity
 
 
 4
-[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
+[Yavimaya Dryad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
 
 
 4
-[Hunting Wilds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BWilds%5D)
+[Hunting Wilds](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BWilds%5D)
 
 
 
-##### Rare (16)
-
-
-
-4
-[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
-
-
-4
-[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
-
-
-4
-[Korlash, Heir to Blackblade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKorlash,%5D+%5BHeir%5D+%5Bto%5D+%5BBlackblade%5D)
-
-
-4
-[Magus of the Coffers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BCoffers%5D)
-
-
-
-##### Mythic (8)
+##### Rare (24)
 
 
 
 4
-[Overgrown Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
+[Overgrown Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D)
 
 
 4
-[Akroma's Memorial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAkroma%5D+%5BMemorial%5D)
+[Urborg, Tomb of Yawgmoth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D)
+
+
+4
+[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+
+
+4
+[Korlash, Heir to Blackblade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKorlash,%5D+%5BHeir%5D+%5Bto%5D+%5BBlackblade%5D)
+
+
+4
+[Magus of the Coffers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BCoffers%5D)
+
+
+4
+[Akroma's Memorial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAkroma%5D+%5BMemorial%5D)
 
 
 60 Cards 
@@ -1012,7 +1008,7 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
 
 
 
@@ -1031,7 +1027,7 @@ OverviewColorCostRarity
 
 
 
-The goal of this deck is to get the following pieces in play. One [Magus of the Coffers](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Coffers), one [Akroma's Memorial](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Memorial), and 13 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp)s ([Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urborg%2C+Tomb+of+Yawgmoth) can help out in this department). The infinite mana loop works as follows. You activate [Magus of the Coffers](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Coffers) for 13 mana. You then activate Arcanis to return [Magus of the Coffers](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Coffers) to your hand (8 mana left) and draw some cards. Then you play [Magus of the Coffers](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Coffers) again (3 mana left) and you can activate it right away because it has haste thanks to [Akroma's Memorial](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Memorial) (1 mana left) to start the loop all over again. Every time you net one mana, and after a while you have drawn your deck and have plenty of mana in your pool. The deck eventually kills with a big Korlash, which has haste and flying thanks to [Akroma's Memorial](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Memorial). Yes, this deck is never going to win a serious tournament, since any combo deck that relies on getting 13 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp)s in play will never win fast enough. But it is such an unlikely combo that it feels particularly satisfying when you meet the challenge of pulling it off. The rest of the deck is dedicated to assembling 13 lands as quickly as possible. [Civic Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Civic+Wayfinder) and [Yavimaya Dryad](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Yavimaya+Dryad) work particularly for this purpose, because you can reuse them with Arcanis. The cheap mana creatures also work well with Arcanis, as they allow you to cycle through your deck and find the combo pieces while accelerating your game at the same time. The deck doesn't need tutors or card draw; the avatar alone should ensure you draw a large chunk of your deck quickly.
+The goal of this deck is to get the following pieces in play. One [Magus of the Coffers](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Coffers), one [Akroma's Memorial](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Memorial), and 13 [Swamp](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp)s ([Urborg, Tomb of Yawgmoth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urborg%2C+Tomb+of+Yawgmoth) can help out in this department). The infinite mana loop works as follows. You activate [Magus of the Coffers](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Coffers) for 13 mana. You then activate Arcanis to return [Magus of the Coffers](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Coffers) to your hand (8 mana left) and draw some cards. Then you play [Magus of the Coffers](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magus+of+the+Coffers) again (3 mana left) and you can activate it right away because it has haste thanks to [Akroma's Memorial](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Memorial) (1 mana left) to start the loop all over again. Every time you net one mana, and after a while you have drawn your deck and have plenty of mana in your pool. The deck eventually kills with a big Korlash, which has haste and flying thanks to [Akroma's Memorial](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Memorial). Yes, this deck is never going to win a serious tournament, since any combo deck that relies on getting 13 [Swamp](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp)s in play will never win fast enough. But it is such an unlikely combo that it feels particularly satisfying when you meet the challenge of pulling it off. The rest of the deck is dedicated to assembling 13 lands as quickly as possible. [Civic Wayfinder](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Civic+Wayfinder) and [Yavimaya Dryad](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Yavimaya+Dryad) work particularly for this purpose, because you can reuse them with Arcanis. The cheap mana creatures also work well with Arcanis, as they allow you to cycle through your deck and find the combo pieces while accelerating your game at the same time. The deck doesn't need tutors or card draw; the avatar alone should ensure you draw a large chunk of your deck quickly.
 
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/online/fk52_squee.jpg)**Prize avatar – Squee Goblin Nabob**  
  Starting hand size = 10  
@@ -1039,6 +1035,7 @@ The goal of this deck is to get the following pieces in play. One [Magus of the 
 ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif): Prevent the next 1 damage that would be dealt to target creature you control this turn. 
 
 The ability is close to completely useless. Damage prevention has never been a relevant ability for Constructed play. However, the +3 hand size is amazing. Starting with ten cards instead of seven is a big difference, and it works particularly well for a powerful but inconsistent combo deck.
+
 
 
 
@@ -1055,7 +1052,9 @@ The ability is close to completely useless. Damage prevention has never been a r
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -1080,7 +1079,7 @@ OverviewColorCostRarity
 
 
 4
-[Wild Cantor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D)
+[Wild Cantor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D)
 
 
 
@@ -1089,15 +1088,15 @@ OverviewColorCostRarity
 
 
 4
-[Grapeshot](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrapeshot%5D)
+[Grapeshot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrapeshot%5D)
 
 
 4
-[Rite of Flame](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRite%5D+%5Bof%5D+%5BFlame%5D)
+[Rite of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRite%5D+%5Bof%5D+%5BFlame%5D)
 
 
 2
-[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+[Empty the Warrens](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
 
 
 
@@ -1106,11 +1105,11 @@ OverviewColorCostRarity
 
 
 4
-[Repeal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepeal%5D)
+[Repeal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepeal%5D)
 
 
 3
-[Perilous Research](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BResearch%5D)
+[Perilous Research](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BResearch%5D)
 
 
 
@@ -1119,19 +1118,19 @@ OverviewColorCostRarity
 
 
 4
-[Mishra's Bauble](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BBauble%5D)
+[Mishra's Bauble](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BBauble%5D)
 
 
 4
-[Lotus Bloom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BBloom%5D)
+[Lotus Bloom](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BBloom%5D)
 
 
 4
-[Claws of Gix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClaws%5D+%5Bof%5D+%5BGix%5D)
+[Claws of Gix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClaws%5D+%5Bof%5D+%5BGix%5D)
 
 
 4
-[Chromatic Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
 
 
 
@@ -1140,11 +1139,11 @@ OverviewColorCostRarity
 
 
 4
-[Pyromancer's Swath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyromancer%5D+%5BSwath%5D)
+[Pyromancer's Swath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyromancer%5D+%5BSwath%5D)
 
 
 3
-[Hatching Plans](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHatching%5D+%5BPlans%5D)
+[Hatching Plans](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHatching%5D+%5BPlans%5D)
 
 
 
@@ -1153,19 +1152,19 @@ OverviewColorCostRarity
 
 
 4
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 4
-[Fungal Reaches](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFungal%5D+%5BReaches%5D)
+[Fungal Reaches](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFungal%5D+%5BReaches%5D)
 
 
 4
-[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
 
 
 4
-[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+[Shivan Reef](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
 
 
 60 Cards 
@@ -1177,15 +1176,15 @@ OverviewColorCostRarity
 
 
 4
-[Repeal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepeal%5D)
+[Repeal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepeal%5D)
 
 
 3
-[Perilous Research](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BResearch%5D)
+[Perilous Research](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BResearch%5D)
 
 
 3
-[Hatching Plans](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHatching%5D+%5BPlans%5D)
+[Hatching Plans](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHatching%5D+%5BPlans%5D)
 
 
 
@@ -1194,19 +1193,19 @@ OverviewColorCostRarity
 
 
 4
-[Pyromancer's Swath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyromancer%5D+%5BSwath%5D)
+[Pyromancer's Swath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyromancer%5D+%5BSwath%5D)
 
 
 4
-[Grapeshot](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrapeshot%5D)
+[Grapeshot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrapeshot%5D)
 
 
 4
-[Rite of Flame](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRite%5D+%5Bof%5D+%5BFlame%5D)
+[Rite of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRite%5D+%5Bof%5D+%5BFlame%5D)
 
 
 2
-[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+[Empty the Warrens](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
 
 
 
@@ -1215,7 +1214,7 @@ OverviewColorCostRarity
 
 
 4
-[Wild Cantor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D)
+[Wild Cantor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D)
 
 
 
@@ -1224,35 +1223,35 @@ OverviewColorCostRarity
 
 
 4
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 4
-[Fungal Reaches](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFungal%5D+%5BReaches%5D)
+[Fungal Reaches](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFungal%5D+%5BReaches%5D)
 
 
 4
-[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
 
 
 4
-[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+[Shivan Reef](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
 
 
 4
-[Mishra's Bauble](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BBauble%5D)
+[Mishra's Bauble](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BBauble%5D)
 
 
 4
-[Lotus Bloom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BBloom%5D)
+[Lotus Bloom](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BBloom%5D)
 
 
 4
-[Claws of Gix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClaws%5D+%5Bof%5D+%5BGix%5D)
+[Claws of Gix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClaws%5D+%5Bof%5D+%5BGix%5D)
 
 
 4
-[Chromatic Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
 
 
 60 Cards 
@@ -1264,19 +1263,19 @@ OverviewColorCostRarity
 
 
 4
-[Wild Cantor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D)
+[Wild Cantor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D)
 
 
 4
-[Rite of Flame](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRite%5D+%5Bof%5D+%5BFlame%5D)
+[Rite of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRite%5D+%5Bof%5D+%5BFlame%5D)
 
 
 4
-[Repeal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepeal%5D)
+[Repeal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepeal%5D)
 
 
 4
-[Chromatic Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
 
 
 
@@ -1285,15 +1284,15 @@ OverviewColorCostRarity
 
 
 4
-[Grapeshot](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrapeshot%5D)
+[Grapeshot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrapeshot%5D)
 
 
 3
-[Perilous Research](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BResearch%5D)
+[Perilous Research](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BResearch%5D)
 
 
 3
-[Hatching Plans](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHatching%5D+%5BPlans%5D)
+[Hatching Plans](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHatching%5D+%5BPlans%5D)
 
 
 
@@ -1302,7 +1301,7 @@ OverviewColorCostRarity
 
 
 4
-[Pyromancer's Swath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyromancer%5D+%5BSwath%5D)
+[Pyromancer's Swath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyromancer%5D+%5BSwath%5D)
 
 
 
@@ -1311,7 +1310,7 @@ OverviewColorCostRarity
 
 
 2
-[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+[Empty the Warrens](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
 
 
 32 Cards 
@@ -1323,82 +1322,77 @@ OverviewColorCostRarity
 
 
 4
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 4
-[Wild Cantor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D)
+[Wild Cantor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D)
 
 
 4
-[Grapeshot](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrapeshot%5D)
+[Rite of Flame](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRite%5D+%5Bof%5D+%5BFlame%5D)
 
 
 4
-[Rite of Flame](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRite%5D+%5Bof%5D+%5BFlame%5D)
+[Claws of Gix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClaws%5D+%5Bof%5D+%5BGix%5D)
 
 
 4
-[Repeal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepeal%5D)
+[Repeal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepeal%5D)
 
 
 4
-[Chromatic Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
 
 
 3
-[Perilous Research](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BResearch%5D)
+[Perilous Research](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerilous%5D+%5BResearch%5D)
 
 
 2
-[Empty the Warrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
+[Empty the Warrens](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmpty%5D+%5Bthe%5D+%5BWarrens%5D)
 
 
 
-##### Uncommon (12)
-
-
-
-4
-[Fungal Reaches](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFungal%5D+%5BReaches%5D)
-
-
-4
-[Mishra's Bauble](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BBauble%5D)
-
-
-4
-[Claws of Gix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClaws%5D+%5Bof%5D+%5BGix%5D)
-
-
-
-##### Rare (15)
+##### Uncommon (8)
 
 
 
 4
-[Shivan Reef](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+[Fungal Reaches](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFungal%5D+%5BReaches%5D)
 
 
 4
-[Pyromancer's Swath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyromancer%5D+%5BSwath%5D)
+[Mishra's Bauble](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BBauble%5D)
+
+
+
+##### Rare (23)
+
 
 
 4
-[Lotus Bloom](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BBloom%5D)
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+
+
+4
+[Shivan Reef](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShivan%5D+%5BReef%5D)
+
+
+4
+[Pyromancer's Swath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyromancer%5D+%5BSwath%5D)
+
+
+4
+[Grapeshot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrapeshot%5D)
+
+
+4
+[Lotus Bloom](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLotus%5D+%5BBloom%5D)
 
 
 3
-[Hatching Plans](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHatching%5D+%5BPlans%5D)
-
-
-
-##### Mythic (4)
-
-
-
-4
-[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+[Hatching Plans](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHatching%5D+%5BPlans%5D)
 
 
 60 Cards 
@@ -1406,7 +1400,7 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
 
 
 
@@ -1425,7 +1419,7 @@ OverviewColorCostRarity
 
 
 
-This deck is based on Kuan Tian's adaptation of Perilous Storm from the [Australian Nationals](/en/events/coverage/australia-champion-crowned), which may very well be the best storm deck available in Standard right now. [Dragonstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstorm) costs too much without [Seething Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seething+Song), [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Empty+the+Warrens) can be answered with [Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God), and [Ignite Memories](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ignite+Memories) sometimes hits all lands. However, [Pyromancer's Swath](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyromancer%27s+Swath) plus [Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grapeshot) plus a storm count of seven reliably ends the game every time. A downside of this deck is its relative inconsistency; it sometimes fails to find the combo pieces or it can get weak draws without any [Rite of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rite+of+Flame)s or [Lotus Bloom](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lotus+Bloom)s. However, starting with ten cards diminishes that downside, while keeping the power of a deadly fast combo intact. I think that in decks like these the Squee avatar excels. I tuned Tian's list a bit to work with the Squee avatar. I could afford to sacrifice a little consistency for even more power: I cut a couple lands and card draw for [Wild Cantor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Cantor)s that can up the storm count.
+This deck is based on Kuan Tian's adaptation of Perilous Storm from the [Australian Nationals](/en/events/coverage/australia-champion-crowned), which may very well be the best storm deck available in Standard right now. [Dragonstorm](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonstorm) costs too much without [Seething Song](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seething+Song), [Empty the Warrens](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Empty+the+Warrens) can be answered with [Wrath of God](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God), and [Ignite Memories](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ignite+Memories) sometimes hits all lands. However, [Pyromancer's Swath](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyromancer%27s+Swath) plus [Grapeshot](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grapeshot) plus a storm count of seven reliably ends the game every time. A downside of this deck is its relative inconsistency; it sometimes fails to find the combo pieces or it can get weak draws without any [Rite of Flame](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rite+of+Flame)s or [Lotus Bloom](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lotus+Bloom)s. However, starting with ten cards diminishes that downside, while keeping the power of a deadly fast combo intact. I think that in decks like these the Squee avatar excels. I tuned Tian's list a bit to work with the Squee avatar. I could afford to sacrifice a little consistency for even more power: I cut a couple lands and card draw for [Wild Cantor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Cantor)s that can up the storm count.
 
 That's all I have for today. Join me next week when I will go over the forgotten Standard cards and decks that have fallen out of grace for no reason.
 

@@ -1,0 +1,339 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20210502051503/https://magic.wizards.com/en/articles/archive/card-preview/adventure-adventure-2019-09-12)
+
+[_metadata_:author]:- "Mark Gottlieb"
+[_metadata_:description]:- "Mark recounts the adventurous route by which Adventure cards survived in Throne of Eldraine and previews several brand-new cards!"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1472801"
+[_metadata_:publish_date]:- "2019-09-12"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "The Adventure Adventure"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 05:15:03"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502051503id_/https://magic.wizards.com/en/articles/archive/card-preview/adventure-adventure-2019-09-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/card-preview/adventure-adventure-2019-09-12"
+---
+
+
+The Adventure Adventure
+=======================
+
+
+
+ Posted in **Card Preview**
+ on September 12, 2019 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/authorpic_markgottlieb.jpg)
+By Mark Gottlieb
+
+
+
+
+
+
+
+
+
+
+
+Conclusion
+==========
+
+
+This story begins, as most do, at the end.
+
+
+Let's start with the preview card, shall we? Once you know how the story ends, everything that builds to that conclusion will make much more sense in flashback.
+
+
+![Ardenvale Tactician](https://media.wizards.com/2019/eld/en_N7O7Lha07f.png)
+
+
+Ardenvale Tactician  
+
+1WW  
+
+Creature — Human Knight  
+
+2/3  
+
+Flying  
+
+//ADV//  
+
+Dizzying Swoop  
+
+1W  
+
+Instant — Adventure  
+
+Tap up to two target creatures. (Then exile this card. You may cast the creature later from exile.)
+
+
+The *Throne of Eldraine* set introduces a new subtype of instants and sorceries: Adventure. The defining characteristic of an Adventure is that it only ever appears *embedded within a creature card*. Let's say you have an Ardenvale Tactician in your hand. You can cast it as a creature, in which case it's simply a 2/3 Human Knight with flying. Or you can cast it as an instant named Dizzying Swoop to tap two creatures. If you do that, you exile Ardenvale Tactician instead of putting it into your graveyard as it resolves. Then, as long as the Tactician is exiled as a result of casting its Adventure, you can still cast it for 1WW to get a 2/3 creature with flying!
+
+
+Think of it like this: Ardenvale Tactician ventures out on an intrepid adventure to knock some creatures down, then it later returns home from its valiant quest.
+
+
+But this story isn't actually about how cool Adventure is. It's about game design.
+
+
+Prologue
+========
+
+
+This story begins, as most do, in the time of dinosaurs.
+
+
+We were designing *Ixalan* (codenamed "Ham" at the time), and we knew it would have a significant Dinosaur component. I had relatively recently led the Vision Design of the *Dragons of Tarkir* set, so I knew how constraining it could be for a set to have a defining element of *very large creatures*. (While we had not yet settled on a mechanical identity for Dinosaurs, the one thing I expected of them is that they'd be *very large*.)
+
+
+My concern was that it'd be poor gameplay to build a Dinosaur [tribal](http://magic.wizards.com/en/articles/archive/making-magic/cats-2017-08-07#tribal) deck if all the Dinosaurs cost at least six mana. How many could you put in your deck? How many could you cast in a single game, and how long would it be before you got any on the table? I wanted a way the Dinosaurs could have impact on the game before turn six. I sent the following proposal to the team:
+
+
+*[I suggest that] the Dinosaur faction has a keyword that appears only on Dinosaurs. It incentivizes you to play with Dinosaurs by providing a stepping-stone use before you can hard-cast them. Think cycling, channel, or evoke, except that in this case, it'd be great if you can ultimately still cast your Dinosaur.* 
+
+
+*Lumbering Herbivore  
+
+5WW  
+
+Creature — Dinosaur  
+
+4/6  
+
+Lifelink  
+
+Roar 2W* (You may pay 2W and exile this card from your hand. If you do, you can still cast it this game.)  
+*When CARDNAME roars, target creature gets +2/+2 and gains lifelink until end of turn.*
+
+
+*T. Rex  
+
+4RR  
+
+Creature — Dinosaur  
+
+5/5  
+
+Roar 1R* (You may pay 1R and exile this card from your hand. If you do, you can still cast it this game.)  
+*When CARDNAME enters the battlefield or roars, it deals 2 damage to target creature or player.*
+
+
+The *Ixalan* team tried this out, but it ultimately floundered. There were some issues with it. For one thing, all the cards played out the exact same way, because the roar costs were small and the Dinosaur mana costs were large. And it was awkward if you top-decked at certain times in the game, because you always wanted to get the roar value first.
+
+
+The mechanic changed to "call." In this version, if you paid the small call cost, you didn't exile it—you put it onto the battlefield in an inert form. The "when CARDNAME roars" effect turned into a simple "[enters the battlefield](http://magic.wizards.com/en/articles/archive/play-design/m-files-hour-devastation-part-1-2017-07-14#enters-the-battlefield-effects)" effect, so you'd always get it; calling the dino just meant you'd get it earlier. And you could pay the Dinosaur's full mana cost later to wake it up so it could start attacking and blocking. The problem with this was that since your inert Dinosaurs were actually on the battlefield, they were the best Vehicle pilots ever, and that's clearly not right. They were also amazing to flicker, fight with, or [Fling](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fling). In short, we couldn't balance the low cost with the giant body, even with the "can't attack or block" drawback. The mechanic was removed from the file.
+
+
+Fast forward a bit, and now I was the *Throne of Eldraine* Set Design lead. So I just put my own mechanic into the set. The end.
+
+
+Diagnostics
+===========
+
+
+This story begins, as most do, with a lie.
+
+
+Don't get me wrong—I'm not wasting your time. Everything in the previous section is true except for the part where I put my old mechanic into my new set. This is where—if you're a design wonk, and I hope you are—things get interesting.
+
+
+When the Vision Design team, led by Mark Rosewater, handed off *Throne of Eldraine* to the Set Design team, it was full of awesome elements that are still central to the set's identity. Besides a ton of individually flavorful top-down designs, the set contained Knight tribal, non-Human tribal, a variety of monocolor incentives, artifact- and enchantment-matters themes (all of which still appear in the set), and a quest mechanic (which does not, but is relevant to this story).
+
+
+Read over that list again. It's good stuff, we enjoyed playing with it, and I'm sure you will too. But there's a problem. Every single one of those mechanical themes involve choices you make during *deck building*, not during *gameplay*. Before you shuffle up, you've decided whether your deck includes 20 Knights, or is mono-blue, or contains the components you need to complete your quests. The set was low on meaningful, dynamic in-game decision points. The Set Design team needed to add some, and we focused on putting a new keyword into the set.
+
+
+We held a brainstorm and a trial. Team members came up with keyword suggestions that aimed at our goals, we made some cards with those keywords, and we'd try them out one at a time. Adventure was born out of this process in two steps.
+
+
+1. Ian Duke proposed that, instead of a new keyword, we reuse channel. It provides an in-game decision point (do you want the creature or the spell?), it's broadly applicable to all kinds of effects, it's not hard to understand, and it was underused the first time—*Kamigawa* block had only twelve of them.
+
+We wanted to simplify the creatures this time around. The *Kamigawa* cards worked hard to mechanically tie the creature's ability to the channel ability, but those would be too complex to be [New World Order](http://magic.wizards.com/en/articles/archive/making-magic/new-world-order-2011-12-02) commons. So maybe you simply get a choice between a 2/3 creature or an [Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unsummon) effect, for example. We played it, we liked it . . . kinda. Other than the initial decision point, the cards were very basic, and you could never maximize them. The games using those cards got less interesting as they went along.
+
+
+1. Harnessing the design principle that more is more than less, Aaron Forsythe proposed that, if you channeled the creature, you could still cast it later.
+
+Done. That's it! We tried that, loved it, and Adventure established itself as a set element. I realized it was mechanically identical to roar about two months later. It evolved in its own organic way, and it felt different because it was on creatures with a variety of sizes, not just giant Dinosaurs.
+
+
+Versatility
+===========
+
+
+This story continues, as most do.
+
+
+In its initial conception, adventures were instances of derring-do that Knights could undertake. Very Arthurian, very flavorful. What completely sold me on the mechanic was when I realized that fairy-tale characters could also go on adventures. Hansel and Gretel could go on an adventure to find a Food! Goldilocks could go on an adventure to find some Bears! I was very excited about this.
+
+
+![Merchant of the Vale](https://media.wizards.com/2019/eld/en_zSUxKmm2v4.png)
+
+
+Merchant of the Vale  
+
+2R  
+
+Creature — Human Peasant  
+
+2/3  
+
+2R, Discard a card: Draw a card.  
+
+//ADV//  
+
+Haggle  
+
+R  
+
+Instant — Adventure  
+
+You may discard a card. If you do, draw a card. *(Then exile this card. You may cast the creature later from exile.)*
+
+
+Rivalry
+=======
+
+
+This story continues, as most do, at the beginning.
+
+
+At first, Adventure looked and felt very different than it does now. All Adventures were sorcery-speed. It was an activated ability that was simply written out in text. And, most crucially, it was seen as a workhorse mechanic, not as anything particularly special or splashy. It'd help you curve out optimally in Limited games and was a solid mana sink (giving you something useful to spend your mana on late in games). Good, solid stuff.
+
+
+Here's what Ardenvale Tactician would've looked like if it had been in the first generation of adventure cards:
+
+
+Ardenvale Tactician  
+
+1WW  
+
+Creature — Human Knight  
+
+2/3  
+
+Flying  
+
+1W: Go on an adventure *(Exile this card from your hand as a sorcery. You may cast it from exile.)*  
+
+When CARDNAME goes on an adventure, tap up to two target creatures.
+
+
+Mark Globus was the architect for the set, and we worked closely together throughout the design process. His role was to maintain top-level oversight of the set, guide its tone, and make sure all partners and departments with a stake in the set shared the same goals and moved in alignment. It's very akin to a producer role.
+
+
+Globus and I were in sync on nearly everything, and he was a fantastic advocate for the set when many of our internal partners still harbored some skepticism that we could pull off a "fairy tale" set that hit the right levels of maturity and badassery. But he gave me one directive, even before Set Design began, that didn't jibe with my design sensibilities: he felt strongly that the set should have a "splashy" element to it. This is generally code for "new card frame." Something eye-catching, like split cards or double-faced cards or Sagas, that we'd never seen before.
+
+
+My goal as lead designer is to make a set that plays well. The mechanic suite should be dynamic and synergistic. Along the way, if a mechanic is a good fit for an alternate frame treatment (either to highlight it, or because it actually helps convey how the card works), great! But to start at the end point and try to forcibly reverse engineer a mechanic to meet the goal "looks different" is a challenge I worried could upset the gameplay integrity of the set. Despite that, I understood where Globus was coming from and sought to fulfill this goal. During Vision Design, I suggested a quest mechanic that was a riff on an old Rosewater idea we had never used, partially due to its logistical complexity. Now, however, we could make a custom card frame to help people play with it. Plus, it had a "go on a quest" flavor that felt very appropriate for Arthurian knights. It made it into the file, and it was part of the Vision Design team's handoff to Set Design.
+
+
+After Adventure entered the card set, it started to compete with quest. They were filling different practical roles (quest was a niche splashy mechanic on a few higher-rarity cards; Adventure was a workhorse mechanic on lots of commons), but the same conceptual role (an in-game achievement that often represented a knight's quest). As time went on and Adventure moved closer to being the centerpiece of the set, the overlap grew more pronounced. "Quest" and "adventure" are synonyms, and people started calling them by the wrong names.
+
+
+Ethan Fleischer was the first person to propose the notion that Adventures, not quests, should be the "splashy" mechanic. This resonated with me. In my mind's eye, I envisioned these cards as creatures that were holding embedded sorceries—like, literally, in their artwork they were holding a scroll that had a sorcery on it. I knew that was ridiculous, but I wondered if there was a graphic design execution to convey this concept. If the adventure effect was, in fact, a sorcery instead of an activated ability, that would also enable functionality that Play Design preferred (specifically, that the adventure used the stack and could be countered). I pitched Ethan's idea to Globus . . . and was rebuffed. He was still very much in the mindset of "Adventure is useful and plays well but is not that exciting" and "quest is crazy and new." Fair. We pressed on.
+
+
+But the more we played with Adventure, the more it transcended its "workhorse" role—it did feel new; it did feel exciting. It moved closer and closer to being the central mechanical focus of the set. We started to play with Adventure as a mechanical theme in green and white, complete with rewards for building an Adventure deck.
+
+
+![Edgewall Innkeeper](https://media.wizards.com/2019/eld/en_9cu7ZiiK2p.png)
+
+
+Edgewall Innkeeper  
+
+G  
+
+Creature — Human Peasant  
+
+1/1  
+
+Whenever you cast a creature spell that has an Adventure, draw a card. *(It doesn't need to have gone on the adventure first.)*
+
+
+![Wandermare](https://media.wizards.com/2019/eld/en_MEqMAUAxTa.png)
+
+
+Wandermare  
+
+1GW  
+
+Creature — Horse  
+
+3/3  
+
+Whenever you cast a creature spell that has an Adventure, put a +1/+1 counter on Wandermare. *(It doesn't need to have gone on the adventure first.)*
+
+
+I increasingly wanted the Adventure effects to be their own embedded spells—and that would definitely require a new card frame. Meanwhile, quests were proving to be very, very challenging. People liked them, but they were extraordinarily difficult to design, and they often disappointed. (If you didn't complete your quest to get your reward, you were just down a card for the game.)
+
+
+At some point, I swapped the names—"adventures" became "quests" and "quests" became "adventures." This just made things worse. (For the sake of sanity, I'm going to continue to refer to "adventures" as "adventures" throughout the rest of this article. We swapped the names back three months later.)
+
+
+A Hero Appears
+==============
+
+
+This story, as most are, is art.
+
+
+Enter James Arnold, graphic designer extraordinaire. His primary *Throne of Eldraine* task was to design the splashy quest frames, which required a combination of artistic design and creative problem solving. But as long as James was working on the set, he also performed some exploration on Adventure frames, seeing what he could do to help convey what was going on. The activated-ability version of Adventure could be confusing, since it looks like an ability that you can activate on the battlefield. Perhaps a frame treatment would make it clearer that it was something you needed to pay attention to in your hand. And if he was feeling really ambitious, maybe he could mock up a version with an embedded sorcery.
+
+
+Well, James did amazing work on the quests, advancing them further than ever before. But they were still somewhat cramped and confusing (they had a lot going on!). And, of course, James flat out solved Adventures. The mockup that caught my eye had the general shape language of the final version, except the embedded spell was in a shield rather than a book. But suddenly, the farfetched, experimental version of adventures were *real*. The impractical version I had been imagining for months, which I was pretty sure we couldn't print, now looked like an actual *Magic* card. I was both stunned and excited.
+
+
+What followed was weeks of intensive testing. We shopped the frames around. Aaron was initially skeptical; Doug Beyer (the set's writing lead) was intrigued. We ran A/B testing between different versions of Adventure frames. We ran playtests that included both Adventures and quests and compared their feedback. They were both quite popular. Quests were more novel and scored higher than Adventures numerically (in "Rate this mechanic on a scale of 1–7" feedback), but they were harder to learn and verbal feedback often took the form "I like quests, *but* . . ." Adventures were far more easily grokked; they quickly became second nature to players. They were also way better at telling stories, whereas the quests could be frustratingly abstract.
+
+
+Now that the experimental Adventure frames had proven themselves to be more successful than I could've possibly hoped for, we had to make a choice between quests and Adventures. As Aaron Forsythe noted at the time, "I don't want *Throne of Eldraine* to be 'Ridiculous Frame World.'" As painful as it was, I advanced the position to keep the embedded-sorcery version of Adventures and remove quests—our wacky, novel, exciting element that had been in the file ever since I had suggested them during Vision Design—from the set. Cynthia Sheppard, the worldbuilding lead, concurred, and I got buy-in from the other stakeholders. Adventures had completed their journey from workman-like mechanic all the way to splashy, experimental, attention-grabbing centerpiece.
+
+
+Better and Better
+=================
+
+
+This story, as most don't, doesn't end quite yet.
+
+
+That recaps the really crunchy elements of the birth and ascendance of Adventures. But even now that they had settled into their place of primacy in the set, they continued to evolve as the set did.
+
+
+James Arnold mocked up an "On an Adventure" play aid that will appear in boosters. You can use it to help keep track of which creature cards in exile you can cast because you cast their Adventure side. He also kept iterating on the Adventure frame design, changing the shield shape to a storybook shape.
+
+
+Erik Lauer became the *Throne of Eldraine* Set Design lead late in the process when I moved over to "Baseball" Set Design lead. He questioned why all the Adventures were sorceries, I didn't have a good answer, and he led the design of Adventure instants.
+
+
+Adventures were identified as the perfect *Throne of Eldraine* cards to highlight in this set's version of [Booster Fun](https://magic.wizards.com/en/articles/archive/making-magic/project-booster-fun-2019-07-20), and Jess Lanzillo, Cynthia Sheppard, Nick Southam, and James Arnold led the effort to design a gorgeous alternate "Showcase" frame for them.
+
+
+And now, as the final stage of their life cycle, you get to play with Adventures . . . and they will live on forever. Enjoy!
+
+
+—Mark
+
+
+Epilogue
+========
+
+
+This story ends, as most do, at the end.
+
+
+Don't be too sad about quests! True, the ambitious (read: impractical) versions we had been playing with got cut from the set. But they live on! The last versions we played with included five mythic rare cards that, if you met certain parameters, gave you a legendary artifact. These artifacts were top-down designs based on mythical objects such as Excalibur, the Magic Mirror, the Round Table, etc. Although the quests left the set, *all those artifacts stayed*, and we adapted their designs to include a quest-like way to get them onto the battlefield. I'm not previewing any today, but you'll see them soon enough (if you haven't already).
+
+
+
+
+
+
+

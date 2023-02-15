@@ -47,7 +47,7 @@ This week's desktop wallpaper is that haunted Barbarian Horror from *Torment*, *
 
 
 
-![](https://web.archive.org/web/20150922195104im_/http://archive.wizards.com/global/images/mtgcom_arcana_452_pic1_en.jpg)[1024x768 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_PossessedBarbarian_1024x768.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_452_pic1_en.jpg)[1024x768 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_PossessedBarbarian_1024x768.jpg)  
 [800x600 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_PossessedBarbarian_800x600.jpg)
 
 

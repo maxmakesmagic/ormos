@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Hail, adventurer! Before you set out for Adventures in the Forgotten Realms, take a moment to learn about how this world works."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "1547554"
+[_metadata_:path_date]:- "2021-07-30"
 [_metadata_:publish_date]:- "2021-06-29"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Adventures in the Forgotten Realms Mechanics"

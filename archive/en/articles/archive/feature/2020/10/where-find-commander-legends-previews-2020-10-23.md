@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201031120422/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-previews-2020-10-23?fbclid=IwAR2lrMkVE43GdsVGQDQizwUJr2XKNxUjpYwNts_kpIDWwcSG4qF0FcORYk4)
+[Link to Wayback Machine](https://web.archive.org/web/20201023233937/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-previews-2020-10-23)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Commander Legends, right here!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2020-10-23"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Commander Legends Previews"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-31 12:04:22"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201031120422id_/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-previews-2020-10-23?fbclid=IwAR2lrMkVE43GdsVGQDQizwUJr2XKNxUjpYwNts_kpIDWwcSG4qF0FcORYk4"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-previews-2020-10-23?fbclid=IwAR2lrMkVE43GdsVGQDQizwUJr2XKNxUjpYwNts_kpIDWwcSG4qF0FcORYk4"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-23 23:39:37"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201023233937id_/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-previews-2020-10-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-previews-2020-10-23"
 ---
 
 
@@ -62,96 +62,77 @@ So bookmark this page and check back regularly for all the latest previews from 
 **October 26**
 
 
-*Live Previews*
-
-
-* *[Bennie Smith (blairwitchgreen)](https://twitter.com/blairwitchgreen/status/1320802160825769987)*
-* [*Commander Legends*Product Page](https://magic.wizards.com/en/products/commander-legends)
-* [Commander Rules Committee](https://mtgcommander.net/index.php/2020/10/26/commander-legends-previews/)
-* [Commander's Brew](https://www.youtube.com/watch?v=2aNrYQH4uX4&feature=youtu.be)
-* [Commanderin' MTG Podcast](https://twitter.com/commanderinmtg/status/1320935829619945472)
-* [DailyMTG](https://magic.wizards.com/en/articles/archive/feature/commander-legends-mechanics-2020-10-26)
-* [Diário Planinauta](https://www.youtube.com/watch?v=EbsqHi0FmB0)
-* [Forbes](https://www.forbes.com/sites/joeparlock/2020/10/26/exclusive-take-a-look-at-six-cards-from-the-new-magic-the-gathering-set-commander-legends/#78396d48606d)
-* [Good Morning*Magic*](https://Commander%20Legends%20Preview%20Card:%20Krark,%20the%20Thumbless!%20Let's%20Talk%20Partner%20%7C%20Good%20Morning%20Magic)
-* [Making*Magic*](https://magic.wizards.com/en/articles/archive/making-magic/your-wish-my-commander-legends-part-1-2020-10-26)
-* [Santos Vella](https://www.twitch.tv/videos/782347940)
-* [StarCityGames](https://articles.starcitygames.com/?post_type=news&p=70545&_ga=2.260888525.1356248140.1603726962-1697417567.1591208660)
+* [Bennie Smith (blairwitchgreen)](https://twitter.com/blairwitchgreen)
+* [Commander Rules Committee](https://twitter.com/mtgcommander)
+* [Commanderin' MTG Podcast](https://commanderinmtg.com/)
+* [Commander's Brew](https://www.commandersbrew.com/)
+* [Diário Planinauta](https://www.youtube.com/diarioplaninauta)
+* [Forbes](https://www.forbes.com/)
+* [Good Morning *Magic*](https://www.youtube.com/channel/UCvE8Mza7uRuiYlwiSDyJi9A)
+* [Making *Magic*](https://magic.wizards.com/en/articles/columns/making-magic)
+* [Santos Vella](https://www.twitch.tv/santosvella)
+* [StarCityGames](https://starcitygames.com/)
 
 **October 27**
 
 
-*Live Previews*
-
-
-* [CulturaPop](https://www.tomshw.it/culturapop/magic-the-gathering-esclusiva-rivelate-due-carte-dellespansione-commander-legends/)
-* [DailyMTG](https://magic.wizards.com/en/articles/archive/card-preview/breeches-brazen-plunderer-2020-10-27)
-* [Good Morning*Magic*](https://www.youtube.com/watch?v=ugq8xsLkpjA)
-* [Gstonegames](https://www.gstonegames.com/article/detail-1795.html)
-* [Herumkommandiert](https://www.youtube.com/watch?v=E5iXlkN0IkM)
-* [Kotaku](https://www.kotaku.com.au/2020/10/mtg-commander-legends-exclusive-look/)
-* [*Magic: The Gathering*Chinese Traditional Facebook](https://www.facebook.com/MagicTheGathering.ct/photos/a.1580720992154464/3086795081547040)
-* [mtg-jp.com](https://mtg-jp.com/reading/special/0034516/)
-* [SheldonMenery](https://twitter.com/SheldonMenery/status/1321119717126537217)
-* [TraderOnlineVideo](https://www.youtube.com/watch?v=mWq7uZGarWI)
-* [Weibo.com](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweibo.com%2F2643025570%2FJr8EiCtkv%3Ffrom%3Dpage_1006062643025570_profile%26wvr%3D6%26mod%3Dweibotime&data=04%7C01%7CBlake.Rasmussen%40wizards.com%7C5ebfad5df4e24267099408d87a567065%7C701edd3ec7a84789b1ce8a243620d68f%7C0%7C0%7C637393858955837401%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=eDv1uWBRLQpPrAIO7VmpsipYfuUWRufBOgdq5B99xbs%3D&reserved=0)
+* [CulturaPop](https://www.tomshw.it/culturapop/)
+* [DailyMTG](https://magic.wizards.com/en/articles)
+* [Good Morning *Magic*](https://www.youtube.com/channel/UCvE8Mza7uRuiYlwiSDyJi9A)
+* [Gstonegames](https://www.gstonegames.com/)
+* [Herumkommandiert](https://www.youtube.com/channel/UCuOsTdjgk9DuvlTz-7ydFQg)
+* [Kotaku](https://kotaku.com/)
+* [*Magic: The Gathering* Chinese Traditional Facebook](https://www.facebook.com/MagicTheGathering.ct/)
+* [mtg-jp.com](https://mtg-jp.com/)
+* [SheldonMenery](https://twitter.com/SheldonMenery)
+* [TraderOnlineVideo](https://www.youtube.com/channel/UCGEkfo8aOFdf7jO9yCFuuPA)
+* [Weibo.com](https://weibo.com/us)
 
 **October 28**
 
 
-*Live Previews*
-
-
-* [DailyMTG](https://magic.wizards.com/en/articles/archive/card-preview/kamahl-heart-krosa-2020-10-28)
-* [El Artista Duelista](https://www.youtube.com/watch?v=yiW1gzzlg38)
-* [Good Morning*Magic*](https://www.youtube.com/watch?v=YlTRgMpn2yI)
-* [LRRMTG](https://www.youtube.com/watch?v=e6_G8pkJ3eQ&feature=emb_logo)
-* [Mashable](https://mashable.com/article/magic-gathering-commander-legends-reveal-amphin/)
-* [MTGSHEEP](https://mp.weixin.qq.com/s?__biz=MzI2MDA1NzExNQ==&mid=2654809041&idx=1&sn=2efaa027de04ac0811158aa7d8fde2ed&chksm=f1a6faa5c6d173b3a516bd9dddf6185791ee16da299ec803e8ba4ec82a0c063a5dd3227eba8f&mpshare=1&scene=1&srcid=1028pF5xzt3irNhe756K1Fkc&sharer_sharetime=1603869291113&sharer_shareid=dd83363ed5d4fcd199ee6e4d8b5a4919&exportkey=AZ5P9CZ6uimiOwGQWlvFj60%3D&pass_ticket=vFH99TO9vO7EKoKPMpxSBp5oVXvWkWpFPtyyapSb%2FBxR%2BukJaV6f%2BWbGrZ80AmEV&wx_header=0#rd)
-* [*Magic: The Gathering*Chinese Traditional Instagram](https://www.instagram.com/p/CG3tsglHqsi/)
-* [NGA](https://ngabbs.com/read.php?tid=23908090&rand=746)
-* [Numerama](https://www.numerama.com/pop-culture/658415-commander-legendes-voici-4-cartes-exclusives-de-la-prochaine-extension-de-magic.html)
+* [DailyMTG](https://magic.wizards.com/en/articles)
+* [El Artista Duelista](https://www.youtube.com/channel/UCsL37apQrwzjJ72wrWFyGxg)
+* [Good Morning *Magic*](https://www.youtube.com/channel/UCvE8Mza7uRuiYlwiSDyJi9A)
+* [LRRMTG](https://www.youtube.com/channel/UCicNMfc3PGR1H2yPOxFJrLA)
+* *Magic: The Gathering* Chinese Traditional Instagram
+* [Mashable](https://mashable.com/)
+* [MTGSHEEP](http://www.mtgsheep.com/)
+* [NGA](https://bbs.nga.cn/)
+* [Numerama](https://www.numerama.com/)
 
 **October 29**
 
 
+* [ABuLae](https://www.youtube.com/channel/UCRmKMwafWtJPeoDp5-KPzgQ)
+* [Cristian Rojas](https://twitter.com/elcristianrojas?lang=en)
+* [DailyMTG](https://magic.wizards.com/en/articles)
+* [Fazendo Nerdice](https://www.youtube.com/channel/UCiP4JMEbjjmdjGuw7ZRFRPQ)
+* [Good Morning*Magic*](https://www.youtube.com/channel/UCvE8Mza7uRuiYlwiSDyJi9A)
 * [IGM](https://vk.com/igm)
-
-*Live Previews*
-
-
-* [ABuLae](https://www.facebook.com/abulaeofficial/)
-* [Cristian Rojas](https://www.youtube.com/watch?v=9GCCAFW1K4E)
-* [DailyMTG](https://magic.wizards.com/en/articles/archive/card-preview/rograkh-son-rohgahh-2020-10-29)
-* [enndalgames.com](https://article.enndalgames.com/article/2020/10/29/859/)
-* [Fazendo Nerdice](https://www.youtube.com/watch?v=4pszQeupFUc)
-* [Good Morning *Magic*](https://www.youtube.com/watch?v=6Avwqa7JB98)
-* [Iyingdi.com](https://www.iyingdi.com/web/bbspost/detail/2312853)
-* [Merchant](https://www.youtube.com/watch?v=Y0e2oPvTyy8)
-* [Nopi](https://www.youtube.com/watch?v=UrzkGYDyQpM)
-* [The Command Zone](https://www.youtube.com/watch?v=Yc_clSPaPyA)
-* [Weekly MTG](https://www.twitch.tv/videos/785842792)
+* [Iyingdi.com](http://www.iyingdi.com/)
+* [Merchant](https://www.youtube.com/channel/UC3ZqFbpwxyp-sseip6nD9Iw)
+* [Nopi](https://www.youtube.com/c/Nopiyoutube)
+* [The Command Zone](https://www.youtube.com/channel/UCLsiaNUb42gRAP7ewbJ0ecQ)
+* [Weekly MTG](https://www.twitch.tv/magic)
+* [enndalgames.com](https://www.enndalgames.com/)
 
 **October 30**
 
 
+* [@GAMEBAR\_LOTUS](https://twitter.com/gamebar_lotus?lang=en)
+* [ChannelFireball](https://shop.channelfireball.com/)
+* [CMDR Central](https://cmdrcentral.libsyn.com/)
 * [CMDR Ninety Nine](https://www.youtube.com/channel/UCxu0u3xoMijHNxO4cAa5VoQ)
+* [CoolStuffInc](https://www.coolstuffinc.com/)
+* [DailyMTG](https://magic.wizards.com/en/articles)
 * [EDHRECast](https://edhrecast.libsyn.com/)
-
-*Live previews*
-
-
-* [@GAMEBAR\_LOTUS](https://www.youtube.com/watch?v=87eVgv96yEY)
-* [ChannelFireball](https://strategy.channelfireball.com/all-strategy/mtg/exclusive-commander-legends-previews/)
-* [CMDR Central](https://www.youtube.com/watch?v=yjC0v-tW7Jw)
-* [CoolStuffInc](https://www.coolstuffinc.com/a/davekosin-10302020-cedh-what-it-really-is)
-* [DailyMTG](https://magic.wizards.com/en/articles/archive/card-preview/archelos-lagoon-mystic-2020-10-30)
-* [Good Morning*Magic*](https://www.youtube.com/watch?v=QMLPhy_oy38)
-* [InfiniTokens](https://twitter.com/infinitokens/status/1322176438666170368)
-* [Jessie James](https://www.youtube.com/watch?v=EMh4d4ytTEk)
-* [MTG Brazil YouTube Channel](https://www.youtube.com/watch?v=l9RFpcCWMmU)
-* [MTG Muddstah](https://Commander%20Legends%20Free%20Preview%20Cards!)
-* [Romuald Fons](https://twitter.com/RomualdFons/status/1322128692643045376)
+* [Good Morning *Magic*](https://www.youtube.com/channel/UCvE8Mza7uRuiYlwiSDyJi9A)
+* [InfiniTokens](https://www.infinitokens.com/)
+* [Jessie James](https://twitter.com/thegeekgg)
+* [MTG Brazil YouTube Channel](https://www.youtube.com/channel/UCrwOIvg-wjYD_g-HzNxUTBg)
+* [MTG Muddstah](https://www.youtube.com/channel/UCG8Yi6I_XYjYtvFgOleqYxg)
+* [Romuald Fons](https://www.youtube.com/c/%D0%94%D0%B6%D0%B5%D1%81%D1%81%D0%B8%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81%D0%BE%D0%BD)
 
 **October 31**
 
@@ -178,7 +159,7 @@ So bookmark this page and check back regularly for all the latest previews from 
 
 * [GLHF](https://www.goodluckhighfive.com/)
 * [Good Morning *Magic*](https://www.youtube.com/channel/UCvE8Mza7uRuiYlwiSDyJi9A)
-* [Giga.de](https://www.giga.de/)
+* [Heise.de](https://www.heise.de/)
 * [Jolt Commander](https://www.youtube.com/channel/UC86vfnVwJS-fG1tPi_F5whQ)
 * [Liga Magic](https://www.ligamagic.com.br/)
 * [Making *Magic*](https://magic.wizards.com/en/articles/columns/making-magic)
@@ -219,11 +200,6 @@ So bookmark this page and check back regularly for all the latest previews from 
 * [MTG LATAM YouTube Channel](https://www.youtube.com/channel/UC5sGCIdBQcSelD7wpM-0-2g)
 * [The Asian Avenger](https://twitter.com/Theasianavenger)
 * [Tolarian Community College](https://www.youtube.com/channel/UC7-hR5EfgpM6oHfiGDkxfMA)
-
-**November 5**
-
-
-* [Destructoid](https://www.destructoid.com/)
 
 
 

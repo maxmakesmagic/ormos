@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170816193732/http://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0)
+[Link to Wayback Machine](https://web.archive.org/web/20201111230922/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0)
 
 [_metadata_:author]:- "Mark Purvis"
 [_metadata_:description]:- "Here at Daily MTG, we use the last two weeks of each year to bring back our favorite articles from the year and give our writers (and staff!) a break for the holidays.If you're a regular reader, you know that our website tells you all kinds of things about what we do to make Magic, from design to development to Constructed playtesting to world building to art concepting to sketch tweaking to flavor text writing to... you get the idea."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2011-12-19"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Building Tariel"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-16 19:37:32"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816193732id_/http://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 23:09:22"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111230922id_/https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-tariel-2011-12-19-0"
 ---
 
 
@@ -28,7 +28,7 @@ Building Tariel
 
 
 
-![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By Mark Purvis
 
 

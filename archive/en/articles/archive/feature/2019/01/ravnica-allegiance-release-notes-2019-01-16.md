@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201108011346/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-release-notes-2019-01-16?c)
+[Link to Wayback Machine](https://web.archive.org/web/20190116160241/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-release-notes-2019-01-16)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2019-01-16"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ravnica Allegiance Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-08 01:13:46"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201108011346id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-release-notes-2019-01-16?c"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-release-notes-2019-01-16?c"
+[_metadata_:wayback_capture_timestamp]:- "2019-01-16 16:02:41"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190116160241id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-release-notes-2019-01-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-release-notes-2019-01-16"
 ---
 
 
@@ -61,6 +61,11 @@ The "General Notes" section includes release information and explains the mechan
 The "Card-Specific Notes" section contains answers to the most important, most common, and most confusing questions players might ask about cards in the set. Items in the "Card-Specific Notes" section include full card text for your reference. Not all cards in the set are listed.
 
 
+
+
+
+
+[![](https://media.magic.wizards.com/MM0LqBixoZ.jpg)![](https://media.magic.wizards.com/pV4i6mhXdg.jpg)![](https://media.magic.wizards.com/K3JC4eeRNL.jpg)](https://magic.wizards.com/en/mtgarena/creators?DailyArticles)
 
 
 

@@ -1,0 +1,105 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220928123411/https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-ballot-2011-07-14)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Akira Asahara Tsuyoshi Ikeda Diego Ostrovich Jose Barbero William Jensen Jamie Parke Noah Boeken Scott Johns Mario Pascoli Benjamin Caumes Anton Jonsson Chris Pikula Tiago Chan Robert Jurkovic Jeroen Remie Patrick Chapin Mark Justice Paul Rietzl Tzu Ching Kuo Mattias Kettil Carlos Romão Jeff Cunningham Shuu Komuro Johan Sadeghpour Brian Davis Albertus Law Alex Shvartsman"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "573646"
+[_metadata_:publish_date]:- "2011-07-14"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Magic Pro Tour Hall of Fame Ballot"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-28 12:34:11"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220928123411id_/https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-ballot-2011-07-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-ballot-2011-07-14"
+---
+
+
+Magic Pro Tour Hall of Fame Ballot
+==================================
+
+
+
+ Posted in **Event Coverage**
+ on July 14, 2011 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |  |
+| --- | --- | --- |
+| Akira Asahara | Tsuyoshi Ikeda | Diego Ostrovich |
+| Jose Barbero | William Jensen | Jamie Parke |
+| Noah Boeken | Scott Johns | Mario Pascoli |
+| Benjamin Caumes | Anton Jonsson | Chris Pikula |
+| Tiago Chan | Robert Jurkovic | Jeroen Remie |
+| Patrick Chapin | Mark Justice | Paul Rietzl |
+| Tzu Ching Kuo | Mattias Kettil | Carlos Romão |
+| Jeff Cunningham | Shuu Komuro | Johan Sadeghpour |
+| Brian Davis | Albertus Law | Alex Shvartsman |
+| Antonino De Rosa | Osyp Lebedowicz | Geoffrey Siron |
+| Jan Doise | Michael Long | Jonathan Sonne |
+| Willy Edel | Antti Malin | Ben Stark |
+| Gerard Fabiano | Quentin Martin | Helmut Summersberger |
+| Eric Froehlich | Antoine Menard | Amiel Tenenbaum |
+| Justin Gary | Katsuhiro Mori | Jens Thorén |
+| Gerardo Godinez Estrada | Masahiko Morita | Gabe Walls |
+| Sam Gomersall | Chikara Nakajima | Ruud Warmenhoven |
+| Eugene Harvey | Shuhei Nakamura | David Williams |
+| Mark Herberholz | Eivind Nitter | Stuart Wright |
+| Kazuya Hirabayashi | Ryou Ogura | Shouta Yasooka |
+| Ken Ho | Steve O'Mahoney-Schwartz | Arnost Zidek |
+| Richard Hoaen | Koutarou Ootsuka |  |
+| Mike Hron | Rickard Osterberg |  |
+
+### Reinstated to Ballot
+
+
+The following names were scheduled to be removed from the ballot; however, each player met the Pro Point requirement to remain on the ballot. For more information about reinstatement, view the [**Magic** Pro Tour Hall of Fame Rules page](http://archive.wizards.com/Magic/Magazine/HallOfFame.aspx?x=mtgevent/hof/rules).
+
+
+
+
+|  |  |  |
+| --- | --- | --- |
+| Noah Boeken | Gerardo Godinez Estrada | Carlos Romão |
+| Patrick Chapin | Eivind Nitter | David Williams |
+
+### Removed from Ballot
+
+
+
+
+|  |  |  |
+| --- | --- | --- |
+| Ryuichi Arita | Ryan Fuller | Patrick Mello |
+| Chris Benafel | Yann Hamon | Wessel Oomens |
+| Marco Blume | Craig Jones | Daniel O'Mahoney-Schwartz |
+| David Brucker | Benedikt Klauser | Brock Parker |
+| Franck Canu | Masashiro Kuroda | Mike Thompson |
+| Osamu Fujita | Nicolas Labarre |  |
+
+
+
+
+
+
+

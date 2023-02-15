@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220513144137/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-battle-baldurs-gate-previews-2022-05-13)
+[Link to Wayback Machine](https://web.archive.org/web/20220513201244/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-battle-baldurs-gate-previews-2022-05-13?s=09)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Commander Legends: Battle for Baldur's Gate, right here!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-05-13"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Commander Legends: Battle for Baldur's Gate Previews"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-13 14:41:37"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220513144137id_/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-battle-baldurs-gate-previews-2022-05-13"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-battle-baldurs-gate-previews-2022-05-13"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-13 20:12:44"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220513201244id_/https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-battle-baldurs-gate-previews-2022-05-13?s=09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-commander-legends-battle-baldurs-gate-previews-2022-05-13?s=09"
 ---
 
 

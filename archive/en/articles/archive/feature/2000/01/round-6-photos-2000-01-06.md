@@ -5,6 +5,7 @@
 [_metadata_:description]:- "Dirk Baberowski vs. Steven O'Mahoney-Schwartz Patrick Koichiro Maki  David Humpherys vs. Nicolai Herzog Darwin Kastle vs. Brian Hacker  Mike Long vs. Jon Finkel Zvi Mowshowitz vs. Kai Budde  Chris Pikula vs. Jakub Slemr Gary Wise vs. David Price"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "963386"
+[_metadata_:path_date]:- "2000-01-06"
 [_metadata_:publish_date]:- "2016-01-06"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 6 Photos"

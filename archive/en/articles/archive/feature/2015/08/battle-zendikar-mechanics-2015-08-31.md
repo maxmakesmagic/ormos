@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20150906110117/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31)
+[Link to Wayback Machine](https://web.archive.org/web/20220518125835/https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "The new and returning mechanics of Battle for Zendikar."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2015-08-31"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battle for Zendikar Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2015-09-06 11:01:17"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150906110117id_/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 12:58:35"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518125835id_/https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-mechanics-2015-08-31"
 ---
 
 
@@ -34,7 +34,7 @@ By Matt Tabak
 
 
 
-Matt Tabak is the reigning, defending, and undisputed rules manager for Magic: The Gathering, Kaijudo, and Duel Masters. Matt Tabak is Gruul. Matt Tabak tries to laugh, think, and cry every day. Matt Tabak is hungry. Matt Tabak doesn't want you to sass him. Matt Tabak loves puppies.
+Senior editor. Game designer. Writer. Bon vivant. Matt wears many hats inside Magic R&D, but they're hard to see as he's so tall.
  
 
 

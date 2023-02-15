@@ -1,17 +1,18 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20150515030023/http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12)
+[Link to Wayback Machine](https://web.archive.org/web/20210518151538/https://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12)
 
 [_metadata_:author]:- "Mike Rosenberg"
-[_metadata_:description]:- "For a year filled with memorable finishes, breakout performances from emerging regions on the professional Magic scene, and the development of modern stars, there is one country that stands out when thinking about the 2013-2014 Premier Play season. That country, without question, is France."
+[_metadata_:description]:- "For a year filled with memorable finishes, breakout performances from emerging regions on the professional Magic scene, and the development of modern stars, there is one country that stands out when thinking about the 2013-2014 Premier Play season. That country, without question, is France. While France has undergone a few years of rediscovering itself on the professional"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "310556"
-[_metadata_:publish_date]:- "2014-11-12"
+[_metadata_:path_date]:- "2014-11-12"
+[_metadata_:publish_date]:- "2014-11-11"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2014 World Championship Competitors: Jérémy Dezani"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-15 03:00:23"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150515030023id_/http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-18 15:15:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210518151538id_/https://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2014-world-championship-competitors-j%C3%A9r%C3%A9my-dezani-2014-11-12"
 ---
 
 
@@ -21,7 +22,7 @@
 
 
  Posted in **Feature**
- on November 12, 2014 
+ on November 11, 2014 
 
 
 

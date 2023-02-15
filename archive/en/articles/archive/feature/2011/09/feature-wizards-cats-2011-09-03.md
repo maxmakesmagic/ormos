@@ -43,7 +43,7 @@ By Craig Gibson and Rashad Miller
 Feature: Wizards of the Cats by Craig Gibson and Rashad Miller Magic Weekends often coincide with other major events. This time we're sharing the Philadelphia Convention Center with the International Cat Association 2011 Annual Allbreed and Household Pet Cat Show. Marcella Kallman, Wizards of the Coast PR re-purr-resentative, and I decided to take a look to see if any of the competitors reminded us of the cats of Magic.
 
 
-![](https://web.archive.org/web/20141216024728im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/lolcat_5060.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/lolcat_5060.jpg)
   
 
 
@@ -56,23 +56,23 @@ Feature: Wizards of the Cats by Craig Gibson and Rashad Miller Magic Weekends of
 ***(Click each image to see the card that inspired it.)***
 
 
-[![](https://web.archive.org/web/20151124125126im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/lolcat_5052.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild%20Nacatl)
+[![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/lolcat_5052.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild%20Nacatl)
 
-[![](https://web.archive.org/web/20151124140518im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/lolcat_5031.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Entrails%20Feaster)
+[![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/lolcat_5031.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Entrails%20Feaster)
 
-[![](https://web.archive.org/web/20151124134943im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/lolcat_5000.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonework%20Puma)
+[![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/lolcat_5000.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stonework%20Puma)
 
-[![](https://web.archive.org/web/20151124140535im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/lolcat_5005.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral%20Lynx)
+[![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/lolcat_5005.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral%20Lynx)
 
-[![](https://web.archive.org/web/20151124134946im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/lolcat_5056.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Purraj%20of%20Urborg)
+[![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/lolcat_5056.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Purraj%20of%20Urborg)
 
-[![](https://web.archive.org/web/20151124125132im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/lolcat_5020.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking%20Tiger)
+[![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/lolcat_5020.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking%20Tiger)
 
-[![](https://web.archive.org/web/20151124125129im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/lolcat_5017.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pouncing%20Jaguar)
+[![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/lolcat_5017.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pouncing%20Jaguar)
 
-[![](https://web.archive.org/web/20151124140548im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/lolcat_5041.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Steppe%20Lynx)
+[![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/lolcat_5041.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Steppe%20Lynx)
 
-[![](https://web.archive.org/web/20151124140541im_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/lolcat_4998.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crib%20Swap)
+[![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/lolcat_4998.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crib%20Swap)
 
 *It is a Cat, after all...*
   

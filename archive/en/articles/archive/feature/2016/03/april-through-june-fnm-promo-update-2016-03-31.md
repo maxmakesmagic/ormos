@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170716223847/http://magic.wizards.com/en/articles/archive/feature/april-through-june-fnm-promo-update-2016-03-31)
+[Link to Wayback Machine](https://web.archive.org/web/20221005082340/https://magic.wizards.com/en/articles/archive/feature/april-through-june-fnm-promo-update-2016-03-31)
 
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Blake takes a look ahead to see what FNM promos are waiting in the near future."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2016-03-31"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "April through June FNM Promo Update"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-16 22:38:47"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170716223847id_/http://magic.wizards.com/en/articles/archive/feature/april-through-june-fnm-promo-update-2016-03-31"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/april-through-june-fnm-promo-update-2016-03-31"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-05 08:23:40"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221005082340id_/https://magic.wizards.com/en/articles/archive/feature/april-through-june-fnm-promo-update-2016-03-31"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/april-through-june-fnm-promo-update-2016-03-31"
 ---
 
 
@@ -53,7 +53,7 @@ Rhetorical question. We're doing this. Read on.
 April showers bring...eww. Planar flesh peeling? That's nasty. I want one.
 
 
-If you play in an FNM in April, you could pick up a [Blighted Fen](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blighted+Fen) with art by Jason Felix and the newfangled colorless mana symbol. That's a win for fans of the Eldrazi and of Jason Felix!
+If you play in an FNM in April, you could pick up a [Blighted Fen](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blighted+Fen) with art by Jason Felix and the newfangled colorless mana symbol. That's a win for fans of the Eldrazi and of Jason Felix!
 
 
 
@@ -68,7 +68,7 @@ Blighted Fen Promo | Art by [Jason Felix](http://gatherer.wizards.com/Pages/Sear
 **May**
 
 
-Fun fact: Mark Zug had only ever painted one Goblin before in his illustrious *Magic* career: [Ponyback Brigade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386628). For May's FNM promo, however, Zug has put his spin on maybe *the* Goblin—[Goblin Warchief](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Warchief). Truly a terror when it was in Standard, Warchief can now terrorize even more tabletops after May positively rains Zug's new vision of the Warchief on FNMs everywhere.
+Fun fact: Mark Zug had only ever painted one Goblin before in his illustrious *Magic* career: [Ponyback Brigade](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386628). For May's FNM promo, however, Zug has put his spin on maybe *the* Goblin—[Goblin Warchief](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Warchief). Truly a terror when it was in Standard, Warchief can now terrorize even more tabletops after May positively rains Zug's new vision of the Warchief on FNMs everywhere.
 
 
 
@@ -83,7 +83,7 @@ Goblin Warchief Promo | Art by [Mark Zug](http://gatherer.wizards.com/Pages/Sear
 **June**
 
 
-Looking for something? Well, if that something is a land, [Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Scrying) will help you find it—with new art from Christine Choi.
+Looking for something? Well, if that something is a land, [Sylvan Scrying](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Scrying) will help you find it—with new art from Christine Choi.
 
 
 

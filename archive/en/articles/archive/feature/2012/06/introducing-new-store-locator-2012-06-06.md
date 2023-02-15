@@ -61,7 +61,7 @@ Are you about to head off to college in the coming months and need to know where
 Once you find a store you want to check out, you can see every sanctioned event it has scheduled:
 
 
-![](https://web.archive.org/web/20130605222654im_/http://www.wizards.com/mtg/images/daily/features/feature198a_events.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature198a_events.jpg)
 
 On this listing, you'll see the Facebook "Like" buttons so you can easily share with your friends what events you'll be attending—and where! Also, there is the calendar icon on the left side of each row, which will let you add the event to your calendar. This also means stores now have an easily managed centralized calendar for all their Wizards of the Coast Organized Play events!
 

@@ -50,7 +50,7 @@ This week's desktop wallpaper is Ray Lago's **[When Fluffy Bunnies Attack](https
 
 
 
-![](https://web.archive.org/web/20150922212346im_/http://archive.wizards.com/global/images/mtgcom_arcana_696_pic1_en.jpg)[1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_WhenFluffyBunniesAttack_1024x768.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_696_pic1_en.jpg)[1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_WhenFluffyBunniesAttack_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_WhenFluffyBunniesAttack_800x600.jpg)
 
 

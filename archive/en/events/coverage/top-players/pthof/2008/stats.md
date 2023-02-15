@@ -1,0 +1,118 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20160810075128/http://magic.wizards.com/en/events/coverage/top-players/pthof/2008/stats)
+
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1027436"
+[_metadata_:source]:- "div-block-system-main"
+[_metadata_:title]:- "PRO TOUR HALL OF FAME 2008 CANDIDATE STATS"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-10 07:51:28"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160810075128id_/http://magic.wizards.com/en/events/coverage/top-players/pthof/2008/stats"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/events/coverage/top-players/pthof/2008/stats"
+---
+
+
+
+
+
+
+
+
+
+2008 CANDIDATE STATS
+--------------------
+
+
+A breakdown of the 66 candidates for induction in the 2008 *Magic* Pro Tour Hall of Fame.
+
+
+**Key**  
+**Top 8 Avg:** Pro Tour Top 8s divided by Pro Tours attended  
+**Median Finish:** Midpoint of career Pro Tour finishes (half above, half below)  
+**Avg Points:** Average number of Pro Points earned per Pro Tour attended  
+**Three-year Median:** Top median finish taken from three consecutive seasons (to qualify, must have played in a number of events in a three-year span equal to the total number of events minus three)
+
+
+*Note: Statistics shown here are updated through July 31, 2008.*
+
+
+ 
+
+
+
+
+| First | Last | # PTs | PT Top 8s | Top 8 Avg | Median Finish | 3-Year Median | GP Top 8s | Pro Points | Avg Points |
+| Ryuuichi | Arita | 20 | 4 | 0.2 | 147.5 | 97 | 0 | 102 | 5.1 |
+| Dirk | Baberowski | 29 | 5 | 0.172 | 49 | 45 | 3 | 217 | 7.48 |
+| Chris | Benafel | 22 | 2 | 0.091 | 117 | 112 | 1 | 156 | 7.09 |
+| Trevor | Blackwell | 20 | 1 | 0.05 | 96 | n/a | 3 | 114 | 5.7 |
+| Marco | Blume | 21 | 3 | 0.143 | 86 | 69.5 |  | 127 | 6.05 |
+| Noah | Boeken | 29 | 0 | 0 | 81 | 71 | 7 | 134 | 4.62 |
+| David | Brucker | 20 | 0 | 0 | 59 | n/a | 5 | 118 | 5.9 |
+| Franck | Canu | 31 | 0 | 0 | 66 | 37.5 | 4 | 148 | 4.77 |
+| Patrick | Chapin | 25 | 3 | 0.12 | 95 | 95 | 1 | 122 | 4.88 |
+| Daniel | Clegg | 27 | 1 | 0.037 | 95 | 76 | 7 | 153 | 5.67 |
+| Sigurd | Eskeland | 27 | 1 | 0.037 | 66 | 40 | 3 | 149 | 5.52 |
+| Igor | Frayman | 26 | 0 | 0 | 82 | 67 | 1 | 109 | 4.19 |
+| Osamu | Fujita | 39 | 1 | 0.026 | 72 | 50 | 8 | 216 | 5.54 |
+| Ryan | Fuller | 28 | 2 | 0.071 | 41 | 26 | 9 | 186 | 6.64 |
+| Donald | Gallitz | 25 | 1 | 0.04 | 55 | 52.5 | 0 | 117 | 4.68 |
+| Justin | Gary | 44 | 3 | 0.068 | 58.5 | 25 | 3 | 251 | 5.7 |
+| Gerardo | Godinez Estrada | 33 | 0 | 0 | 156 | n/a | 2 | 104 | 3.15 |
+| Brian | Hacker | 28 | 2 | 0.071 | 54 | 45 | 3 | 137 | 4.89 |
+| Yann | Hamon | 27 | 1 | 0.037 | 96.5 | n/a | 3 | 119 | 4.41 |
+| Masami | Ibamoto | 25 | 1 | 0.04 | 81 | n/a | 4 | 105 | 4.2 |
+| Tsuyoshi | Ikeda | 48 | 2 | 0.042 | 99.5 | 67 | 3 | 221 | 4.6 |
+| Itaru | Ishida | 46 | 1 | 0.022 | 80 | 64 | 17 | 250 | 5.43 |
+| William | Jensen | 34 | 4 | 0.118 | 62 | 39 | 8 | 214 | 6.29 |
+| Scott | Johns | 27 | 5 | 0.185 | 52 | 32.5 | 2 | 164 | 6.07 |
+| Craig | Jones | 25 | 1 | 0.04 | 172 | n/a | 1 | 101 | 4.04 |
+| Mattias | Jorstedt | 33 | 3 | 0.091 | 99 | n/a | 2 | 178 | 5.39 |
+| Mark | Justice | 18 | 4 | 0.222 | 28.5 | 17 | 0 | 133 | 7.39 |
+| Brian | Kibler | 31 | 1 | 0.032 | 75 | 77 | 8 | 162 | 5.23 |
+| Benedikt | Klauser | 23 | 4 | 0.174 | 83 | 50 | 1 | 128 | 5.57 |
+| André | Konstanczer | 24 | 1 | 0.042 | 53 | 29 | 2 | 120 | 5 |
+| Janosch | Kühn | 20 | 2 | 0.1 | 87 | 64 | 2 | 104 | 5.2 |
+| Masashiro | Kuroda | 12 | 2 | 0.167 | 112.5 | n/a | 7 | 113 | 9.42 |
+| Nicolas | Labarre | 32 | 4 | 0.125 | 83 | 76 | 4 | 169 | 5.28 |
+| John | Larkin | 23 | 3 | 0.13 | 86 | n/a | 0 | 120 | 5.22 |
+| Mark | Le Pine | 21 | 3 | 0.143 | 78 | 43 | 2 | 121 | 5.76 |
+| Matt | Linde | 34 | 2 | 0.059 | 103.5 | 103.5 | 3 | 166 | 4.88 |
+| Raffaele | Lo Moro | 27 | 2 | 0.074 | 72 | n/a | 0 | 129 | 4.78 |
+| Michael | Long | 33 | 4 | 0.121 | 39 | 28 | 4 | 191 | 5.79 |
+| Pierre | Malherbaud | 25 | 0 | 0 | 68 | n/a | 2 | 116 | 4.64 |
+| Casey | McCarrel | 16 | 3 | 0.188 | 60.5 | n/a | 3 | 122 | 7.63 |
+| Patrick | Mello | 24 | 2 | 0.083 | 64 | 66.5 | 5 | 129 | 5.38 |
+| Eivind | Nitter | 26 | 1 | 0.038 | 74 | 59.5 | 4 | 148 | 5.69 |
+| Steven | O’Mahoney-Schwartz | 36 | 3 | 0.083 | 83.5 | 62.5 | 10 | 237 | 6.58 |
+| Daniel | O’Mahoney-Schwartz | 24 | 1 | 0.042 | 81.5 | 62.5 | 3 | 102 | 4.25 |
+| Jin | Okamoto | 33 | 2 | 0.061 | 90 | n/a | 4 | 177 | 5.36 |
+| Wessel | Oomens | 25 | 0 | 0 | 103 | 75 | 4 | 103 | 4.12 |
+| Brock | Parker | 27 | 1 | 0.037 | 64 | 44 | 5 | 154 | 5.7 |
+| Chris | Pikula | 29 | 3 | 0.103 | 72 | 51.5 | 4 | 133 | 4.59 |
+| David | Price | 39 | 1 | 0.026 | 74 | 47 | 3 | 163 | 4.18 |
+| Michael | Pustilnik | 38 | 3 | 0.079 | 83.5 | 60 | 7 | 208 | 5.47 |
+| Neil | Reeves | 30 | 2 | 0.067 | 72.5 | 72.5 | 2 | 134 | 4.47 |
+| Carlos | Romão | 33 | 1 | 0.03 | 109 | 122 | 5 | 174 | 5.27 |
+| Kyle | Rose | 30 | 4 | 0.133 | 60 | 30.5 | 2 | 176 | 5.87 |
+| Ben | Rubin | 46 | 4 | 0.087 | 62 | 42 | 6 | 279 | 6.07 |
+| Olivier | Ruel | 46 | 5 | 0.109 | 73 | 27 | 23 | 413 | 8.98 |
+| Brian | Selden | 14 | 3 | 0.214 | 37 | n/a | 0 | 105 | 7.5 |
+| Alex | Shvartsman | 38 | 1 | 0.026 | 92.5 | 74 | 21 | 232 | 6.11 |
+| Jakub | Slemr | 27 | 3 | 0.111 | 55 | 46 | 4 | 162 | 6 |
+| Bram | Snepvangers | 54 | 3 | 0.056 | 85.5 | 57 | 7 | 263 | 4.87 |
+| Mike | Thompson | 30 | 0 | 0 | 112 | 55 | 1 | 110 | 3.67 |
+| Michael | Turian | 38 | 5 | 0.132 | 72 | 63.5 | 6 | 234 | 6.16 |
+| Trey | Van Cleave | 19 | 0 | 0 | 77 | 64 | 7 | 100 | 5.26 |
+| Tom | van de Logt | 17 | 2 | 0.118 | 47 | n/a | 4 | 122 | 7.18 |
+| Tomi | Walamies | 26 | 3 | 0.115 | 56.5 | n/a | 1 | 168 | 6.46 |
+| Jelger | Wiegersma | 46 | 3 | 0.065 | 57.5 | 37 | 13 | 319 | 6.93 |
+| David | Williams | 31 | 1 | 0.032 | 108 | 71.5 | 8 | 150 | 4.84 |
+
+
+
+
+
+
+
+

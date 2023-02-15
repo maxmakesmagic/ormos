@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170823162740/http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23)
+[Link to Wayback Machine](https://web.archive.org/web/20220524033800/https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "If you've ever wanted to see what a set looks like when a design team hands it over to development, here's your chance!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2017-08-23"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander (2017 Edition) Design Handoff"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-23 16:27:40"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170823162740id_/http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 03:38:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524033800id_/https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-design-handoff-2017-08-23"
 ---
 
 
@@ -171,15 +171,15 @@ A few key elements to this:
 
 
 * **Each deck should care about the creature type the deck is built around.** It isn't just about having some Dragons in your Dragon deck; you should have some cards that specifically reward you for having Dragons.
-* **You should win because of your creature type** **(or what your creature type enables).** It's a miss if you're playing the Vampire deck, but then end up winning with a bunch of Demons. Winning with elements that were generated from your tribal creatures is fine (such as your Wizards enabling you to reanimate a huge creature, or your Vampires' lifelink turning on [Sanguine Bond](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sanguine+Bond)), but your creatures should be instrumental in your victory.
-* **Your deck should be all creatures of your type except in rare exceptions.** With the exception of not-on-tribe creatures that help out your tribe (for example, [Dragonspeaker Shaman](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonspeaker+Shaman) in the Dragon deck), the deck should be composed entirely of creatures of the appropriate tribal type.
+* **You should win because of your creature type** **(or what your creature type enables).** It's a miss if you're playing the Vampire deck, but then end up winning with a bunch of Demons. Winning with elements that were generated from your tribal creatures is fine (such as your Wizards enabling you to reanimate a huge creature, or your Vampires' lifelink turning on [Sanguine Bond](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sanguine+Bond)), but your creatures should be instrumental in your victory.
+* **Your deck should be all creatures of your type except in rare exceptions.** With the exception of not-on-tribe creatures that help out your tribe (for example, [Dragonspeaker Shaman](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragonspeaker+Shaman) in the Dragon deck), the deck should be composed entirely of creatures of the appropriate tribal type.
 * **Each deck has one commander that is loudly about tribal.** This ensures every game you play with that commander automatically feels tribal. (More on this later in the document.)
 1. **Include a Mix of Tribes that Appeals to a Wide Range of Players**
 
 We like to make data-driven decisions whenever we can. However, it can be hard to get clean data sometimes, since it's hard to ask outside the building; we can't really scoop ourselves by asking the world, "Which tribes should we make for *Commander* in two years?" Mark's head-to-head series is one way for us to measure popularity, and we also do polls inside the building as well. In this case, I ran a survey of everybody who came to our internal *Commander 2015* release event. (Dragons were the most popular there as well, if you were curious.)
 
 
-The Pit is the slang term for the place where R&D sits and works. It is called as such because we all have low cubicles, meaning it's an open space to encourage collaboration. And, most importantly, so that we can call whoever our director is (Aaron Forsythe) "the [Lord of the Pit](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lord+of+the+Pit)."
+The Pit is the slang term for the place where R&D sits and works. It is called as such because we all have low cubicles, meaning it's an open space to encourage collaboration. And, most importantly, so that we can call whoever our director is (Aaron Forsythe) "the [Lord of the Pit](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lord+of+the+Pit)."
 
 
 Our first goal in design was trying to determine which tribes our four decks should include. We gathered a lot of feedback on this, from internal polls at the *Commander (2015 Edition)* release event to external polls in the form of Mark Rosewater's head-to-head to asking around the pit.
@@ -210,7 +210,7 @@ Inside their *Commander* deck, of course you'll always choose Cat, Dragon, Vampi
 
 
 
-![Kindred Discovery](https://media.wizards.com/2017/images/daily/cardart_C17_Kindred-Discovery.jpg)[Kindred Discovery](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kindred+Discovery) | Art by [Lake Hurwitz](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5b%22Lake+Hurwitz%22%5d)
+![Kindred Discovery](https://media.wizards.com/2017/images/daily/cardart_C17_Kindred-Discovery.jpg)[Kindred Discovery](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kindred+Discovery) | Art by [Lake Hurwitz](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5b%22Lake+Hurwitz%22%5d)
 1. **Still Attract Players Who Aren't Interested in Tribal**
 
 Development later gave the Dragons deck an official "ramp" subtheme—which was really there all along anyway.
@@ -283,14 +283,14 @@ All coach abilities enhance creatures of your tribe. There are a number of great
 * **It creates inherent tribal gameplay.** Every game with a coach commander is going to feel tribal because you are benefitting from having cards of a single tribe.
 * **It helps the tribes be competitive.** When you are building a 99-card singleton deck and focusing on a tribe, you're going to end up with a couple cards that are a tad below the line of what you would prefer to play. However, the coaches help enhance their tribes to pull individual cards up above that bar. For example, Dragons that may have been slightly too weak for Commander are now attractive at one mana less.
 
-A passive ability like this that works from the command zone has only ever shown up on one other card: [Oloro, Ageless Ascetic](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oloro%2C+Ageless+Ascetic). Oloro is very powerful, and we are not keen to make a bunch more Oloros.
+A passive ability like this that works from the command zone has only ever shown up on one other card: [Oloro, Ageless Ascetic](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oloro%2C+Ageless+Ascetic). Oloro is very powerful, and we are not keen to make a bunch more Oloros.
 
 
 However, this plays very different from Oloro. The key difference is this: Oloro works in any deck from the command zone, and provides something that increments a number in an uninteractive way rather than affecting cards you play. Coach, on the other hand, affects cards you cast—meaning you can interact with them—and forces you to build a deck that works with it instead of working in any deck. These are major differences that make coach play very differently from Oloro.
 
 
 
-![Edgar Markov](https://media.wizards.com/2017/images/daily/cardart_C17_Edgar-Markov.jpg)[Edgar Markov](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Edgar+Markov) | Art by [Volkan Baga](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5b%22Volkan+Baga%22%5d)
+![Edgar Markov](https://media.wizards.com/2017/images/daily/cardart_C17_Edgar-Markov.jpg)[Edgar Markov](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Edgar+Markov) | Art by [Volkan Baga](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5b%22Volkan+Baga%22%5d)
 I expect coach to be popular and for a very common request to be "Please make a coach for tribe X or a generic coach any tribe could use." We did briefly talk about trying to make a generic coach, but designing that so it could both fit in any color and provided a benefit that didn't break with a specific tribe proved troublesome. If you think this is worth pursuing, feel free to experiment in development.
 
 
@@ -335,7 +335,7 @@ Vendetta *(As this creature enters the battlefield, secretly choose an opponent.
 When you reveal the chosen player, destroy target creature that player controls if it is attacking you.
 
 
-This mechanic, also from Mark Gottlieb, survived on one card in the set: [Stalking Leonin](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking+Leonin). It was ultimately extremely difficult to make a full cycle of and was most fun in small doses. We only had two designs we really liked, and doing one let us make our favorite design for it instead of making two good designs and three mediocre ones. I do hope to see the other one show up someday.
+This mechanic, also from Mark Gottlieb, survived on one card in the set: [Stalking Leonin](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stalking+Leonin). It was ultimately extremely difficult to make a full cycle of and was most fun in small doses. We only had two designs we really liked, and doing one let us make our favorite design for it instead of making two good designs and three mediocre ones. I do hope to see the other one show up someday.
 
 
 This has been a ton of fun in gameplay. Here's some of what it does that we like:
@@ -348,7 +348,7 @@ This has been a ton of fun in gameplay. Here's some of what it does that we like
 **Rattlesnake**
 
 
-*n*. A card or effect that discourages an opponent from attacking you or engaging with you in a way that would be detrimental to you, often by promising a disproportionate retaliation or response (e.g., [Karmic Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Karmic+Justice), [No Mercy](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=No+Mercy), and [Teysa, Envoy of Ghosts](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Teysa%2C+Envoy+of+Ghosts))
+*n*. A card or effect that discourages an opponent from attacking you or engaging with you in a way that would be detrimental to you, often by promising a disproportionate retaliation or response (e.g., [Karmic Justice](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Karmic+Justice), [No Mercy](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=No+Mercy), and [Teysa, Envoy of Ghosts](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Teysa%2C+Envoy+of+Ghosts))
 
 
 One of the major challenges with vendetta is that it has very limited design space. It is also a bit wordy. However, to squeeze out five cards for a *Commander* set is entirely reasonable. Whether it is a named mechanic or not, I hope some number of these cards make it into the final set—they are a blast to play.
@@ -369,10 +369,10 @@ In addition to the keyword mechanics, which cycle out throughout the decks, ther
 **The Protector Creatures**
 
 
-The protector cycle is expanding on the card [Bastion Protector](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bastion+Protector), which originally appeared in *Commander (2015 Edition)*. It is a creature that reads, "Commander creatures you control get +2/+2 and have indestructible."
+The protector cycle is expanding on the card [Bastion Protector](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bastion+Protector), which originally appeared in *Commander (2015 Edition)*. It is a creature that reads, "Commander creatures you control get +2/+2 and have indestructible."
 
 
-This was a suggestion from Jules Robins originally. One of these ended up surviving, in the form of [Bloodsworn Steward](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bloodsworn+Steward). Instead of doing all four more here, Bryan thought it smart to launch one more and see how the reaction was to doing more of these. If you enjoy this one, perhaps you'll see more like it in the future.
+This was a suggestion from Jules Robins originally. One of these ended up surviving, in the form of [Bloodsworn Steward](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bloodsworn+Steward). Instead of doing all four more here, Bryan thought it smart to launch one more and see how the reaction was to doing more of these. If you enjoy this one, perhaps you'll see more like it in the future.
 
 
 We thought this was a cool, baseline appealing effect, so we expanded it out. **Each deck has one protector that grants +2/+2 and a keyword.** We intentionally did not make a white one because it already exists.
@@ -463,7 +463,7 @@ There are several themes in the Cat deck, which are as follows.
 
 1. **Cat tribal**
 
-There's only one legit Cat tribal reward that we've ever printed ([Raksha Golden Cub](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raksha+Golden+Cub)), but this is a tribal product. The deck is supplemented by nonspecific tribal rewards ([Door of Destinies](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Door+of+Destinies)) and unique cards, including a commander that provides a tribal reward. This theme might still be a little light.
+There's only one legit Cat tribal reward that we've ever printed ([Raksha Golden Cub](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raksha+Golden+Cub)), but this is a tribal product. The deck is supplemented by nonspecific tribal rewards ([Door of Destinies](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Door+of+Destinies)) and unique cards, including a commander that provides a tribal reward. This theme might still be a little light.
 
 
 1. **Equipment**
@@ -473,12 +473,12 @@ The loudest, most consistent theme through the Cats we've printed is a connectio
 
 1. **Go big!**
 
-Synergizing with the Equipment theme, the primary play style for Cats is to build a gigantic creature that's hard to kill. This meshes with some +1/+1 counters, giant bonuses like [Door of Destinies](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Door+of+Destinies) and [Collective Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collective+Blessing), and some huge six-drop Cats that already exist.
+Synergizing with the Equipment theme, the primary play style for Cats is to build a gigantic creature that's hard to kill. This meshes with some +1/+1 counters, giant bonuses like [Door of Destinies](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Door+of+Destinies) and [Collective Blessing](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collective+Blessing), and some huge six-drop Cats that already exist.
 
 
 1. **Craftiness**
 
-Cats protect themselves. Within existing Cats, there are mini-themes of indestructible ([Fleecemane Lion](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fleecemane+Lion), [Temur Sabertooth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temur+Sabertooth)), rescue ([Temur Sabertooth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temur+Sabertooth), [Whitemane Lion](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whitemane+Lion), [Fleetfoot Panther](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fleetfoot+Panther)), Phantoms ([Phantom Nishoba](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Nishoba), [Phantom Tiger](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Tiger)), and protection ([Jareth, Leonine Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jareth%2C+Leonine+Titan)). They're crafty. Although the bounce doesn't work well with Equipment, it does allow for some combos, particularly with [enters-the-battlefield effects](http://magic.wizards.com/en/articles/archive/play-design/m-files-hour-devastation-part-1-2017-07-14#enters-the-battlefield-effects) (Dragonhunter Nacatl, [Taj-Nar Swordsmith](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Taj-Nar+Swordsmith)) and [Glare of Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glare+of+Subdual).
+Cats protect themselves. Within existing Cats, there are mini-themes of indestructible ([Fleecemane Lion](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fleecemane+Lion), [Temur Sabertooth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temur+Sabertooth)), rescue ([Temur Sabertooth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temur+Sabertooth), [Whitemane Lion](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whitemane+Lion), [Fleetfoot Panther](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fleetfoot+Panther)), Phantoms ([Phantom Nishoba](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Nishoba), [Phantom Tiger](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Tiger)), and protection ([Jareth, Leonine Titan](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jareth%2C+Leonine+Titan)). They're crafty. Although the bounce doesn't work well with Equipment, it does allow for some combos, particularly with [enters-the-battlefield effects](http://magic.wizards.com/en/articles/archive/play-design/m-files-hour-devastation-part-1-2017-07-14#enters-the-battlefield-effects) (Dragonhunter Nacatl, [Taj-Nar Swordsmith](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Taj-Nar+Swordsmith)) and [Glare of Subdual](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glare+of+Subdual).
 
 
 1. **Certain Kinds of Removal**
@@ -488,10 +488,10 @@ This color combination provides access to strong board sweepers and artifact/enc
 
 1. **Tokens**
 
-Some themes work better than others. Development helps cull down to the best themes the deck has to offer. In this case, a lot of the go-wide tokens elements like [Collective Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collective+Blessing) and [Beastmaster Ascension](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beastmaster+Ascension) were removed to help in other areas of the deck.
+Some themes work better than others. Development helps cull down to the best themes the deck has to offer. In this case, a lot of the go-wide tokens elements like [Collective Blessing](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collective+Blessing) and [Beastmaster Ascension](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beastmaster+Ascension) were removed to help in other areas of the deck.
 
 
-Cats aren't a go-wide deck. But there are multiple token-makers among existing Cats, and some of them make a *lot* of tokens (one every turn, or a bunch at once). If those cards come up in a game, the deck can move that way as a change of pace. They're supported with cards like [Collective Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collective+Blessing) and [Beastmaster Ascension](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beastmaster+Ascension).
+Cats aren't a go-wide deck. But there are multiple token-makers among existing Cats, and some of them make a *lot* of tokens (one every turn, or a bunch at once). If those cards come up in a game, the deck can move that way as a change of pace. They're supported with cards like [Collective Blessing](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collective+Blessing) and [Beastmaster Ascension](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beastmaster+Ascension).
 
 
 **Weaknesses of the Cat deck**
@@ -544,7 +544,7 @@ It's tempting to add big card drawing spells to this deck because that tends to 
 This deck is a natural fit to have more board clears than the other decks. Board clears in healthy numbers are great for keeping things from getting too cluttered and stalled, but too many also runs the risk of stalling the game out through resource depletions.
 
 
-I think it's important to include some defensive elements in this deck in addition to ramp and Dragons so that the Dragons player doesn't have to rely too heavily on just hoping people don't mess with them while they set up their game plan. I really like rattlesnake cards for these roles, such as [Soul Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Snare) and [Seal of Doom](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Doom), as opposed to permanent deterrents like [Ghostly Prison](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghostly+Prison).
+I think it's important to include some defensive elements in this deck in addition to ramp and Dragons so that the Dragons player doesn't have to rely too heavily on just hoping people don't mess with them while they set up their game plan. I really like rattlesnake cards for these roles, such as [Soul Snare](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Snare) and [Seal of Doom](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seal+of+Doom), as opposed to permanent deterrents like [Ghostly Prison](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghostly+Prison).
 
 
 **This deck should be highly effective in the mid to late game but should not consistently outclass the Wizards deck in the late game.**
@@ -588,13 +588,13 @@ Vampires play an important role in *Commander 2017*. Here are several notes on w
 
 * **Vampires gets the ball rolling.** Out of all the decks, Vampires is the one that should feel the most aggressive. After all: they're Vampires! Vampires has some small creatures that ensure life totals start changing early on. However . . .
 * **Vampires is a midrange deck.** We tried Vampires as an aggressive deck, and it just consistently fell short. Being an aggressive deck in Commander is perilous, and while Vampires is perhaps the most aggressive out of these four decks, it fits much more in the midrange camp. While its creatures are individually smaller than some of the other decks, it has a variety of powerful artifacts, enchantments, and synergies that help put it over the top.
-* **Vampires has a life-gain subtheme.** Every deck (other than Dragons—Dragons doesn't need a subtheme) has a subtheme in addition to its tribal main theme. Cats have Equipment. Wizards have reanimation. Vampires have cards that synergize with gaining life. These range from effects like [Well of Lost Dreams](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Well+of+Lost+Dreams) to [Cradle of Vitality](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cradle+of+Vitality) and a couple new cards too. This works well because many Vampires have lifelink, and benefitting from taking others' life feels inherently vampiric.
+* **Vampires has a life-gain subtheme.** Every deck (other than Dragons—Dragons doesn't need a subtheme) has a subtheme in addition to its tribal main theme. Cats have Equipment. Wizards have reanimation. Vampires have cards that synergize with gaining life. These range from effects like [Well of Lost Dreams](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Well+of+Lost+Dreams) to [Cradle of Vitality](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cradle+of+Vitality) and a couple new cards too. This works well because many Vampires have lifelink, and benefitting from taking others' life feels inherently vampiric.
 
-At one point, the Vampire deck had three goad cards. Bryan did a great job of keeping the coolest effect around while chopping the less cool ones by sticking with the card that would eventually become [Disrupt Decorum](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disrupt+Decorum).
+At one point, the Vampire deck had three goad cards. Bryan did a great job of keeping the coolest effect around while chopping the less cool ones by sticking with the card that would eventually become [Disrupt Decorum](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disrupt+Decorum).
 
 
 * **The Vampire deck plays around with goad.** Goad is a *Conspiracy: Take the Crown* mechanic, which happens to also play very well (although differently!) in Commander. The Vampire deck has a few goad cards, which have each been very fun. These are important because the deck can get a lot of heat on it early while it's poking through a bit of damage, and goad helps turn the focus elsewhere.
-* **The Vampire deck can run out of gas.** Because it does focus more on the midgame, occasionally Vampires can become empty-handed when the game goes long. Ensuring it has some card-draw engines like [Underworld Connections](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Underworld+Connections) or [Skeletal Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Scrying) is important to make sure it can push through damage and be relevant late game. This is one of the deck's biggest weaknesses.
+* **The Vampire deck can run out of gas.** Because it does focus more on the midgame, occasionally Vampires can become empty-handed when the game goes long. Ensuring it has some card-draw engines like [Underworld Connections](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Underworld+Connections) or [Skeletal Scrying](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skeletal+Scrying) is important to make sure it can push through damage and be relevant late game. This is one of the deck's biggest weaknesses.
 * **The Vampire deck should not be overly complex.** This should be a deck that you can play pretty straightforwardly. That's not to say the deck can't have complex interactions to learn, but when you pick it up out of the box, most of what's going on should make sense to you.
 
 ![](https://media.wizards.com/2017/images/daily/FEAT20170823_Wizards.jpg)
@@ -640,7 +640,7 @@ Speaking a bit more concretely, there are two interlocking essential pieces of t
 
 
 * **Options**: The Wizard player should feel a sense of agency. Rather than having a prescribed sequence of plays, they should have multiple lines available. This is dangerous territory because different people can handle different levels of complexity in this kind of decision making, and we don't want to leave people feeling lost or making their opponents wait while they tank on which line to take.
-* **Cleverness**: The Wizard player isn't looking to [Lava Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lava+Axe) their opponent; they're looking to feel clever. They can do this either through mastering their cards (say, finding a cool little synergy between three of them) or mastering their opponents (say, figuring out when somebody's about to Wrath and holding back their best creature). We should give them opportunities to do both.
+* **Cleverness**: The Wizard player isn't looking to [Lava Axe](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lava+Axe) their opponent; they're looking to feel clever. They can do this either through mastering their cards (say, finding a cool little synergy between three of them) or mastering their opponents (say, figuring out when somebody's about to Wrath and holding back their best creature). We should give them opportunities to do both.
 
 Design Favorites
 ================
@@ -789,7 +789,7 @@ Creature – Vampire Warrior
 At the beginning of each player's end step, CARDNAME deals 3 damage to that player if they don't control their commander.
 
 
-**What We Liked About It**: It's got a unique line of text that incentivizes/punishes a unique aspect of the Commander format. It's a good way to fight those [Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Progenitus) players.
+**What We Liked About It**: It's got a unique line of text that incentivizes/punishes a unique aspect of the Commander format. It's a good way to fight those [Progenitus](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Progenitus) players.
 
 
 
@@ -805,7 +805,7 @@ Sorcery
 Exile target nonland permanent. Each player other than its controller creates a token that's a copy of that permanent.
 
 
-**What We Liked About It**: Multiplayer fun for (almost) everyone! Not as fun-killing as "exile a permanent," not as one-sided as [Confiscate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Confiscate), this card really shakes up the board. It's reminiscent of the unique play pattern of [Death by Dragons](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death+by+Dragons).
+**What We Liked About It**: Multiplayer fun for (almost) everyone! Not as fun-killing as "exile a permanent," not as one-sided as [Confiscate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Confiscate), this card really shakes up the board. It's reminiscent of the unique play pattern of [Death by Dragons](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death+by+Dragons).
 
 
 We would love for these cards to be preserved in some way if possible, though if one or more of them need to go we understand.

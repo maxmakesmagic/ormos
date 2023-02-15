@@ -1,0 +1,51 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20150910235326/http://magic.wizards.com/en/articles/archive/event-coverage/video-deck-tech-sins-past-simon-bertiou-modern-2011-11-19)
+
+[_metadata_:author]:- "Rich Hagon"
+[_metadata_:description]:- "Simon Bertiou of the Greece National Team discusses his Modern deck based on Past in Flames and fast red mana to get to a high storm count, finishing it off with a Grapeshot."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "314559"
+[_metadata_:path_date]:- "2011-11-19"
+[_metadata_:publish_date]:- "2011-11-18"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Video Deck Tech: Sins of the Past with Simon Bertiou (Modern)"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-10 23:53:26"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150910235326id_/http://magic.wizards.com/en/articles/archive/event-coverage/video-deck-tech-sins-past-simon-bertiou-modern-2011-11-19"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/event-coverage/video-deck-tech-sins-past-simon-bertiou-modern-2011-11-19"
+---
+
+
+Video Deck Tech: Sins of the Past with Simon Bertiou (Modern)
+=============================================================
+
+
+
+ Posted in **Event Coverage**
+ on November 18, 2011 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/authorpic_richhagon.jpg)
+By Rich Hagon
+
+
+
+
+Rich Hagon combines a deep knowledge of the players of the Pro Tour with a passionate love of the game. He's a regular commentator for Pro Tour and Grand Prix live video coverage, and is the official Pro Tour Statistician. He has been covering Magic events since 2006. 
+
+
+
+
+
+Simon Bertiou of the Greece National Team discusses his Modern deck based on [Past in Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Past+in+Flames+)  and fast red mana to get to a high storm count, finishing it off with a [Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grapeshot). A deck list will be posted at the end of the event.
+
+
+<//www.youtube.com/embed/MDna5z_d-7s> 
+
+
+
+
